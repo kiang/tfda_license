@@ -1,0 +1,143 @@
+{
+    "code": "10000797",
+    "許可證字號": "衛署菌疫輸字第000797號",
+    "註銷狀態": "",
+    "註銷日期": "",
+    "註銷理由": "",
+    "有效日期": "108\/10\/14",
+    "發證日期": "93\/10\/14",
+    "許可證種類": "菌　疫",
+    "舊證字號": "",
+    "醫療器材級數": "",
+    "通關簽審文件編號": "DHA01000079703",
+    "中文品名": "嬰護寧六合一疫苗",
+    "英文品名": "INFANRIX HEXA",
+    "適應症": "INFANRIX HEXA 適用於6週大以上之嬰兒的基礎免疫接種及追加免疫接種，以對抗白喉、破傷風、百日咳、B型肝炎、小兒麻痺及B型嗜血桿菌。",
+    "劑型": "241滅菌乾粉懸液注射劑",
+    "包裝": "小瓶",
+    "藥品類別": "06須由醫師處方使用",
+    "管制藥品分類級別": "",
+    "主成分略述": "PERTUSSIS TOXOID, DIPHTHERIA TOXOID, TETANUS TOXOID, INACTIVATED POLIO VIRUS -TYPE 1, INACTIVATED POLIO VIRUS - TYPE 2, INACTIVATED POLIO VIRUS -TYPE 3, CONJUGATED OF HAEMOPHILUS INFLUENZAE TYPE B CAPSULAR POLYSACCHARIDE (PRP) AND TETANUS TOXOID (T), ADSORBED, r-DNA HEPATITIS B SURFACE ANTIGEN ADSORBED (HbsAg), FILAMENTOUS HAEMAGGLUTININ, PERTACTIN",
+    "限制項目": [
+        "02輸入"
+    ],
+    "申請商名稱": "1115901100  荷商葛蘭素史克藥廠股份有限公司台灣分公司",
+    "申請商地址": "台北市中正區忠孝西路一段66號23-24樓",
+    "主製造廠": {
+        "製造廠名稱": "F050018000  GLAXOSMITHKLINE BIOLOGICALS S.A.",
+        "製造廠廠址": "89 RUE DE I'INSTITUT 1330 RIXENSART-BELGIUM",
+        "製造廠公司地址": "",
+        "製造廠國別": "BELGIUM",
+        "製程": "原料藥製造及Formulation"
+    },
+    "CCC號列": "30022000008 人類醫藥用疫苗Vaccines for human medicine",
+    "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "F050087000  GLAXOSMITHKLINE BIOLOGICALS S.A.",
+            "製造廠廠址": "PARC DE LA NOIRE EPINE, RUE FLEMING 20, B-1300 WAVRE, BELGIUM",
+            "製造廠公司地址": "",
+            "製造廠國別": "BELGIUM",
+            "製程": "原料藥製造、充填、凍晶乾燥、包裝"
+        },
+        {
+            "製造廠名稱": "F470330000  NOVARTIS VACCINES AND DIAGNOSTICS GMBH &amp; CO. KG",
+            "製造廠廠址": "EMIL-VON-BEHRING-STR. 76 35041 MARBURG GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "原料藥製造廠"
+        }
+    ],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8004001620",
+            "成分名稱": "PERTUSSIS TOXOID",
+            "含量描述": "",
+            "含量": "25.0000000000",
+            "單位": "UG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8008000100",
+            "成分名稱": "DIPHTHERIA TOXOID",
+            "含量描述": "",
+            "含量": "30.0000000000",
+            "單位": "I.U."
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8008000200",
+            "成分名稱": "TETANUS TOXOID",
+            "含量描述": "",
+            "含量": "40.0000000000",
+            "單位": "I.U."
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8012003100",
+            "成分名稱": "INACTIVATED POLIO VIRUS -TYPE 1",
+            "含量描述": "",
+            "含量": "40.0000000000",
+            "單位": "DU"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8012003200",
+            "成分名稱": "INACTIVATED POLIO VIRUS - TYPE 2",
+            "含量描述": "",
+            "含量": "8.0000000000",
+            "單位": "DU"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8012003300",
+            "成分名稱": "INACTIVATED POLIO VIRUS -TYPE 3",
+            "含量描述": "",
+            "含量": "32.0000000000",
+            "單位": "DU"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8012004000",
+            "成分名稱": "CONJUGATED OF HAEMOPHILUS INFLUENZAE TYPE B CAPSULAR POLYSACCHARIDE (PRP) AND TETANUS TOXOID (T), ADSORBED",
+            "含量描述": "(10UP OF PRP AND 20-",
+            "含量": "",
+            "單位": ""
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8081223400",
+            "成分名稱": "r-DNA HEPATITIS B SURFACE ANTIGEN ADSORBED (HbsAg)",
+            "含量描述": "",
+            "含量": "10.0000000000",
+            "單位": "UG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200050300",
+            "成分名稱": "FILAMENTOUS HAEMAGGLUTININ",
+            "含量描述": "",
+            "含量": "25.0000000000",
+            "單位": "UG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900066600",
+            "成分名稱": "PERTACTIN",
+            "含量描述": "",
+            "含量": "8.0000000000",
+            "單位": "UG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "仿單 020007970001-103-09-01.pdf 020007970001-103-01-27.pdf 100007970016.jpg 100007970015.jpg 100007970014.jpg 100007970013.jpg 100007970012.jpg 100007970011.jpg 100007970010.jpg 100007970009.jpg 100007970008.jpg 100007970007.jpg 100007970006.jpg 100007970005.jpg 100007970004.jpg 100007970003.jpg 100007970002.jpg 100007970001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=10000797&Seq=018&Type=9"
+        },
+        {
+            "title": "外盒 100007970004.jpg 100007970003.jpg 100007970002.jpg 100007970001.jpg 020007970003___20101119.jpg 020007970002___20101119.jpg 020007970001___20101119.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=10000797&Seq=007&Type=8"
+        }
+    ]
+}
