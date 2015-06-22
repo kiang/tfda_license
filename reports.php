@@ -8,11 +8,8 @@ include __DIR__ . '/H0001D.php';
 $now = time();
 
 $target = __DIR__ . '/licenses';
-if (!file_exists($target)) {
-    mkdir($target, 0777, true);
-}
 
-$cache = __DIR__ . '/cache/reports/' . date('Ymd');
+$cache = __DIR__ . '/cache/reports/data';
 if (!file_exists($cache)) {
     mkdir($cache, 0777, true);
 }
@@ -56,6 +53,5 @@ for ($m = 0; $m < 3; $m ++) {
 
 $n = 0;
 foreach ($licenses AS $code) {
-    if(++$n < 20)
     getLicense($code);
 }
