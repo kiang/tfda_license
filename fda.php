@@ -102,8 +102,15 @@ while ($line = fgetcsv($fh, 2048, "\t")) {
 }
 fclose($fh);
 
+$countLicenses = count($licenses);
+$countProcessed = 0;
+
 foreach ($licenses AS $code) {
     getLicense($code);
+    ++$countProcessed;
+    if($countProcessed % 100 === 0) {
+        echo "processing {$countProcessed} / {$countLicenses}\n";
+    }
 }
 
 function getCode($str) {
