@@ -102,7 +102,9 @@ function getLicense($code) {
                 case 15:
                 case 16:
                     $part1 = explode('</th>', $cols[0]);
-                    $data[trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
+                    if(isset($part1[1])) {
+                        $data[trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
+                    }
                     break;
                 case 4:
                 case 6:
@@ -111,7 +113,9 @@ function getLicense($code) {
                     $part1 = explode('</th>', $cols[0]);
                     $data[trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
                     $part2 = explode('</th>', $cols[1]);
-                    $data[trim(strip_tags($part2[0]))] = trim(strip_tags($part2[1]));
+                    if(isset($part2[1])) {
+                        $data[trim(strip_tags($part2[0]))] = trim(strip_tags($part2[1]));
+                    }
                     break;
                 case 14:
                     $part1 = explode('</th>', $cols[0]);
@@ -124,7 +128,9 @@ function getLicense($code) {
                 case 19:
                 case 20:
                     $part1 = explode('</th>', $cols[0]);
-                    $data['主製造廠'][trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
+                    if(isset($part1[1])) {
+                        $data['主製造廠'][trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
+                    }
                     break;
                 case 21:
                     $part1 = explode('</th>', $cols[0]);
