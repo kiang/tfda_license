@@ -1,0 +1,61 @@
+{
+    "code": "13003469",
+    "許可證字號": "內衛藥輸字第003469號",
+    "註銷狀態": "已註銷",
+    "註銷日期": "73\/12\/31",
+    "註銷理由": "安用科更新資料",
+    "有效日期": "74\/06\/19",
+    "發證日期": "59\/06\/19",
+    "許可證種類": "原料藥",
+    "舊證字號": "17013076",
+    "醫療器材級數": "",
+    "通關簽審文件編號": "DHA01300346902",
+    "中文品名": "青黴混合黴素（原料）",
+    "英文品名": "PROCAINE PENICILLIN G 300,000 I.U. + POTASSIUM PENICI-LLIN G 100000 I.U. + STREP",
+    "適應症": "由革蘭氏陰性菌及陽性菌屬引起之感染症",
+    "劑型": "040（粉）",
+    "包裝": "",
+    "藥品類別": "01製劑原料",
+    "管制藥品分類級別": "",
+    "主成分略述": "PENICILLIN G POTASSIUM (BENZYLPENICILLIN POTASSIUM ), PENICILLIN G PROCAINE (EQ TO BENZYLPENICILLIN PROCAINE), STREPTOMYCIN SULFATE",
+    "限制項目": [
+        "02輸入"
+    ],
+    "申請商名稱": "1213201100  雄恆行股份有限公司",
+    "申請商地址": "台北巿民權東路三段５８號八樓",
+    "主製造廠": {
+        "製造廠名稱": "F130044000  GLAXO OPERATIONS UK LIMITED",
+        "製造廠廠址": "GREENFORD, MIDDLESEX UB6 OHEGREENFORD,MIDDLESEX,ENGLAND (GLAXO WELLCOME OPERATIONS)",
+        "製造廠公司地址": "GREENFORD,MIDDLESEX,ENGLAND (GLAXO WELLCOME OPERATIONS)",
+        "製造廠國別": "UNITED KINGDOM",
+        "製程": ""
+    },
+    "CCC號列": "",
+    "藥理治療分類": "",
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812601630",
+            "成分名稱": "PENICILLIN G POTASSIUM (BENZYLPENICILLIN POTASSIUM )",
+            "含量描述": "100000",
+            "含量": "100000.0000000000",
+            "單位": "IU (I"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812601640",
+            "成分名稱": "PENICILLIN G PROCAINE (EQ TO BENZYLPENICILLIN PROCAINE)",
+            "含量描述": "300000",
+            "含量": "300000.0000000000",
+            "單位": "IU (I"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812700520",
+            "成分名稱": "STREPTOMYCIN SULFATE",
+            "含量描述": "0.5",
+            "含量": "0.5000000000",
+            "單位": "GM"
+        }
+    ]
+}
