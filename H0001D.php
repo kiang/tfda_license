@@ -1,11 +1,12 @@
 <?php
 
-function getLicense($code) {
+function getLicense($code, $toCache = true) {
     global $target, $cache;
     $url = 'http://www.fda.gov.tw/MLMS/(S(knoy1cz5iwyfatvvguaez0re))/H0001D.aspx?Type=Lic&LicId=' . $code;
     $cacheFile = $cache . '/p_' . $code;
-    if (!file_exists($cacheFile)) {
+    if (!file_exists($cacheFile) || false === $toCache) {
         file_put_contents($cacheFile, file_get_contents($url));
+        echo "getting {$url}\n";
     }
     $p = file_get_contents($cacheFile);
     $lines = explode('</tr>', $p);
@@ -199,7 +200,7 @@ function getLicense($code) {
      */
     $url = 'http://www.fda.gov.tw/MLMS/(S(knoy1cz5iwyfatvvguaez0re))/H0001D1.aspx?LicId=' . $code;
     $cacheFile = $cache . '/p1_' . $code;
-    if (!file_exists($cacheFile)) {
+    if (!file_exists($cacheFile) || false === $toCache) {
         file_put_contents($cacheFile, file_get_contents($url));
     }
     $p = file_get_contents($cacheFile);
@@ -233,7 +234,7 @@ function getLicense($code) {
 
     $url = 'http://www.fda.gov.tw/MLMS/(S(knoy1cz5iwyfatvvguaez0re))/H0001D2.aspx?LicId=' . $code;
     $cacheFile = $cache . '/p2_' . $code;
-    if (!file_exists($cacheFile)) {
+    if (!file_exists($cacheFile) || false === $toCache) {
         file_put_contents($cacheFile, file_get_contents($url));
     }
     $p = file_get_contents($cacheFile);
@@ -277,7 +278,7 @@ function getLicense($code) {
 
     $url = 'http://www.fda.gov.tw/MLMS/(S(knoy1cz5iwyfatvvguaez0re))/H0001D3.aspx?LicId=' . $code;
     $cacheFile = $cache . '/p3_' . $code;
-    if (!file_exists($cacheFile)) {
+    if (!file_exists($cacheFile) || false === $toCache) {
         file_put_contents($cacheFile, file_get_contents($url));
     }
     $p = file_get_contents($cacheFile);

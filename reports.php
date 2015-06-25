@@ -25,7 +25,7 @@ $context = stream_context_create($opts);
 
 $licenses = array();
 
-for ($m = 0; $m < 3; $m ++) {
+for ($m = 0; $m < 2; $m ++) {
     if ($m === 0) {
         $mTime = $now;
     } else {
@@ -34,11 +34,7 @@ for ($m = 0; $m < 3; $m ++) {
     $parts = explode('/', date('Y/m', $mTime));
     for ($i = 1; $i <= 7; $i ++) {
         $reportUrl = "http://www.fda.gov.tw/MLMS/(S(knoy1cz5iwyfatvvguaez0re))/H0008_0{$i}.aspx?Year={$parts[0]}&Month={$parts[1]}&Bigknd=";
-        $cacheFile = $cache . '/' . md5($reportUrl);
-        if (!file_exists($cacheFile)) {
-            file_put_contents($cacheFile, file_get_contents($reportUrl, false, $context));
-        }
-        $page = file_get_contents($cacheFile);
+        $page = file_get_contents($reportUrl, false, $context);
         $lines = explode('</tr>', $page);
         array_shift($lines);
         foreach ($lines AS $line) {
@@ -51,7 +47,6 @@ for ($m = 0; $m < 3; $m ++) {
     }
 }
 
-$n = 0;
 foreach ($licenses AS $code) {
-    getLicense($code);
+    getLicense($code, false);
 }
