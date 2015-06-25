@@ -47,6 +47,12 @@ for ($m = 0; $m < 2; $m ++) {
     }
 }
 
+$count = count($licenses);
+$n = 0;
+
 foreach ($licenses AS $code) {
+    if(++$n % 50) {
+        echo "getting {$n} / {$count}\n";
+    } 
     getLicense($code, false);
 }

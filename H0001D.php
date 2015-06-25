@@ -6,7 +6,6 @@ function getLicense($code, $toCache = true) {
     $cacheFile = $cache . '/p_' . $code;
     if (!file_exists($cacheFile) || false === $toCache) {
         file_put_contents($cacheFile, file_get_contents($url));
-        echo "getting {$url}\n";
     }
     $p = file_get_contents($cacheFile);
     $lines = explode('</tr>', $p);
