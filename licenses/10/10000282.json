@@ -1,0 +1,77 @@
+{
+    "code": "10000282",
+    "許可證字號": "衛署菌疫輸字第000282號",
+    "註銷狀態": "已註銷",
+    "註銷日期": "96\/09\/19",
+    "註銷理由": "許可證已逾有效期",
+    "有效日期": "80\/08\/04",
+    "發證日期": "78\/06\/01",
+    "許可證種類": "菌　疫",
+    "舊證字號": "10000068",
+    "醫療器材級數": "",
+    "通關簽審文件編號": "DHA01000028209",
+    "中文品名": "防痺口服疫苗",
+    "英文品名": "ORAL VIRELON(R) (LIVE POLIOMYELITIS VACCINE \"SABIN\")",
+    "適應症": "小兒麻痺之預防",
+    "劑型": "270注射劑",
+    "包裝": "管裝 滴瓶裝",
+    "藥品類別": "06須由醫師處方使用",
+    "管制藥品分類級別": "",
+    "主成分略述": "NEOMYCIN (FRADIOMYCIN), STREPTOMYCIN, POLIOMYELITIS TYPE I VACCINE, POLIOMYELITIS TYPE II VACCINE, POLIOMYELITIS TYPE III VACCINE",
+    "限制項目": [
+        "02輸入"
+    ],
+    "申請商名稱": "1424601100  臺灣安萬特藥品股份有限公司",
+    "申請商地址": "台北巿松山區復興北路337號12、13、14樓",
+    "主製造廠": {
+        "製造廠名稱": "F470016000  CENTEON PHARMA GMBH.",
+        "製造廠廠址": "KRUMMBOGEN 10, 35039 MARBURG GERMANYBRUNINGSRASSE 50,D-65926 FRANKFURT AM MAIN ,GERMANY",
+        "製造廠公司地址": "BRUNINGSRASSE 50,D-65926 FRANKFURT AM MAIN ,GERMANY",
+        "製造廠國別": "GERMANY",
+        "製程": ""
+    },
+    "CCC號列": "30022000008 人類醫藥用疫苗Vaccines for human medicine",
+    "藥理治療分類": "",
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812100500",
+            "成分名稱": "NEOMYCIN (FRADIOMYCIN)",
+            "含量描述": "*0.5UG",
+            "含量": "",
+            "單位": "TCID5"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812700500",
+            "成分名稱": "STREPTOMYCIN",
+            "含量描述": "*0.5UG",
+            "含量": "",
+            "單位": "TCID5"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8012000510",
+            "成分名稱": "POLIOMYELITIS TYPE I VACCINE",
+            "含量描述": "V.T.1MIN.5*10(5)",
+            "含量": "",
+            "單位": "TCID5"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8012000520",
+            "成分名稱": "POLIOMYELITIS TYPE II VACCINE",
+            "含量描述": "V.T.2MIN.1*10(5)",
+            "含量": "",
+            "單位": "TCID5"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8012000530",
+            "成分名稱": "POLIOMYELITIS TYPE III VACCINE",
+            "含量描述": "V.T.3MIN.3*10(5)",
+            "含量": "",
+            "單位": "TCID5"
+        }
+    ]
+}
