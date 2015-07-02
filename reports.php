@@ -51,7 +51,7 @@ $count = count($licenses);
 $n = 0;
 
 foreach ($licenses AS $code) {
-    if(++$n % 50) {
+    if(++$n % 50 === 0) {
         echo "getting {$n} / {$count}\n";
     } 
     getLicense($code, false);

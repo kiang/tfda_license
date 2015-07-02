@@ -33,12 +33,21 @@
     "CCC號列": "30043200002 含有腎上腺皮質類固醇荷爾蒙，其衍生物及結構式類似者Containing adrenal corticosteroid hormones, their derivatives and structural analogues",
     "藥理治療分類": "",
     "ingredients": [
-
-    ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812200610",
+            "成分名稱": "ISOCONAZOLE NITRATE",
+            "含量描述": "10.0",
+            "含量": "10.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "6804000810",
+            "成分名稱": "DIFLUCORTOLONE VALERATE",
+            "含量描述": "1.0",
+            "含量": "1.0000000000",
+            "單位": "MG"
+        }
     ]
 }

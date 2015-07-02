@@ -32,6 +32,22 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "F150194000  CATALENT FRANCE BEINHEIM S.A.",
+            "製造廠廠址": "74, RUE PRINCIPALE F-67930 BEINHEIM, FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": "中間體製造"
+        },
+        {
+            "製造廠名稱": "F470284100  ROTTENDORF PHARMA GMBH",
+            "製造廠廠址": "OSTENFELDER STRESSE 51-61 59320 ENNIGERLOH, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "中間體製造"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
