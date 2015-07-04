@@ -7,12 +7,24 @@ function getLicense($code, $toCache = true) {
     if (!file_exists($cacheFile) || false === $toCache) {
         file_put_contents($cacheFile, file_get_contents($url));
     }
+    $targetFolder = $target . '/' . substr($code, 0, 2);
+    if (!file_exists($targetFolder)) {
+        mkdir($targetFolder, 0777, true);
+    }
+    if (filesize($cacheFile) === 0) {
+        unlink($cacheFile);
+        if (file_exists("{$targetFolder}/{$code}.json")) {
+            unlink("{$targetFolder}/{$code}.json");
+        }
+        return false;
+    }
     $p = file_get_contents($cacheFile);
     $lines = explode('</tr>', $p);
     $linesCount = count($lines);
     $lineNo = 0;
     $data = array(
         'code' => $code,
+        'time' => date('Y-m-d H:i:s', filemtime($cacheFile)),
     );
     if (false !== strpos($p, '醫器規格')) {
         foreach ($lines AS $line) {
@@ -102,7 +114,7 @@ function getLicense($code, $toCache = true) {
                 case 15:
                 case 16:
                     $part1 = explode('</th>', $cols[0]);
-                    if(isset($part1[1])) {
+                    if (isset($part1[1])) {
                         $data[trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
                     }
                     break;
@@ -113,7 +125,7 @@ function getLicense($code, $toCache = true) {
                     $part1 = explode('</th>', $cols[0]);
                     $data[trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
                     $part2 = explode('</th>', $cols[1]);
-                    if(isset($part2[1])) {
+                    if (isset($part2[1])) {
                         $data[trim(strip_tags($part2[0]))] = trim(strip_tags($part2[1]));
                     }
                     break;
@@ -128,7 +140,7 @@ function getLicense($code, $toCache = true) {
                 case 19:
                 case 20:
                     $part1 = explode('</th>', $cols[0]);
-                    if(isset($part1[1])) {
+                    if (isset($part1[1])) {
                         $data['主製造廠'][trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
                     }
                     break;
@@ -303,9 +315,6 @@ function getLicense($code, $toCache = true) {
             }
         }
     }
-    $targetFolder = $target . '/' . substr($code, 0, 2);
-    if (!file_exists($targetFolder)) {
-        mkdir($targetFolder, 0777, true);
-    }
+
     file_put_contents("{$targetFolder}/{$code}.json", json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
 }
