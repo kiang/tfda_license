@@ -1,6 +1,6 @@
 {
     "code": "02004359",
-    "time": "2015-07-05 00:37:59",
+    "time": "2015-07-14 06:13:01",
     "許可證字號": "衛署藥輸字第004359號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -51,12 +51,23 @@
         }
     ],
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2824200100",
+            "成分名稱": "BROMAZEPAM",
+            "含量描述": "",
+            "含量": "6.0000000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "仿單 020043590004_6mg Chinese PI-102-06-03.pdf 020043590005.jpg 020043590004.jpg 020043590003.jpg 020043590002.jpg 020043590001.jpg 020043590001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02004359&Seq=007&Type=9"
+        },
+        {
+            "title": "外盒 020043590001_6mg FB-102-06-03.pdf 20130528_Lexotan 6mg_Chinese blister-102-06-03.pdf 20130529_Lexotan 6mg_004359-1-STK-02-102-06-03.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02004359&Seq=003&Type=8"
+        }
     ]
 }

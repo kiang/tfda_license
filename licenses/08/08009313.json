@@ -1,6 +1,6 @@
 {
     "code": "08009313",
-    "time": "2015-06-22 01:53:10",
+    "time": "2015-07-14 06:44:19",
     "許可證字號": "衛署粧輸字第009313號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,13 +12,13 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00800931303",
     "中文品名": "萊肯重組 CLAIR 染髮膏 12\/30 淺金色超淡亞麻色",
-    "英文品名": "LAKME COLLAGE CLAIR SUPERBLONDING COLOR CREME 1+2: 12\/30 SUPERBLONDING LIGHT GOLDEN BLONDE",
+    "英文品名": "Lakme Collage Clair 12\/30 Superblonding Light Golden Blonde",
     "用途": "染髮。",
     "劑型": "992霜劑",
     "包裝": "500ML以下管裝 附外紙盒裝",
     "化粧品類別": "0110染髮劑",
     "": "",
-    "主成分略述": "AMMONIA WATER (AMMONIUM HYDROXIDE), AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL), P-PHENYLENEDIAMINE, P-NITRO-O-PHENYLENEDIAMINE, 2-NITRO-P-PHENYLENEDIAMINE",
+    "主成分略述": "AMMONIUM HYDROXIDE 28%, AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL), HC YELLOW NO.4, TOLUENE-2,5-DIAMINE SULFATE, 2-AMINO-6-CHLORO-4-NITROPHENOL",
     "限制項目": [
         "02輸入"
     ],
@@ -36,10 +36,10 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000102",
-            "成分名稱": "AMMONIA WATER (AMMONIUM HYDROXIDE)",
-            "含量描述": "(28%)",
-            "含量": "7.3171400000",
+            "成分代碼": "2820000107",
+            "成分名稱": "AMMONIUM HYDROXIDE 28%",
+            "含量描述": "Eq to free Ammonia",
+            "含量": "2.8800000000",
             "單位": "%(W\/W)"
         },
         {
@@ -47,32 +47,38 @@
             "成分代碼": "9200035401",
             "成分名稱": "AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL)",
             "含量描述": "",
-            "含量": "0.0120000000",
+            "含量": "0.0320000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9400003200",
-            "成分名稱": "P-PHENYLENEDIAMINE",
+            "成分代碼": "9602087512",
+            "成分名稱": "HC YELLOW NO.4",
             "含量描述": "",
-            "含量": "0.0360000000",
+            "含量": "0.0100000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9400003260",
-            "成分名稱": "P-NITRO-O-PHENYLENEDIAMINE",
-            "含量描述": "",
-            "含量": "0.0120000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9400003270",
-            "成分名稱": "2-NITRO-P-PHENYLENEDIAMINE",
+            "成分代碼": "9900066200",
+            "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
             "含量描述": "",
             "含量": "0.0320000000",
             "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900084900",
+            "成分名稱": "2-AMINO-6-CHLORO-4-NITROPHENOL",
+            "含量描述": "",
+            "含量": "0.0260000000",
+            "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "外盒 080093130001-104-06-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=08009313&Seq=001&Type=8"
         }
     ]
 }

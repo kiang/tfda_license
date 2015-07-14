@@ -1,6 +1,6 @@
 {
     "code": "01004128",
-    "time": "2015-07-05 01:38:39",
+    "time": "2015-07-14 06:53:50",
     "許可證字號": "衛署藥製字第004128號",
     "註銷狀態": "已註銷",
     "註銷日期": "104\/06\/10",
@@ -34,12 +34,19 @@
     "CCC號列": "30043200002 含有腎上腺皮質類固醇荷爾蒙，其衍生物及結構式類似者Containing adrenal corticosteroid hormones, their derivatives and structural analogues",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "6804000200",
+            "成分名稱": "BETAMETHASONE",
+            "含量描述": "0.5",
+            "含量": "0.5000000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "仿單 010041280001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01004128&Seq=001&Type=9"
+        }
     ]
 }

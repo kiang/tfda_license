@@ -1,6 +1,6 @@
 {
     "code": "08006457",
-    "time": "2015-06-22 01:52:57",
+    "time": "2015-07-14 06:43:46",
     "許可證字號": "衛署粧輸字第006457號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,7 +18,7 @@
     "包裝": "管裝 紙盒裝",
     "化粧品類別": "0110染髮劑",
     "": "",
-    "主成分略述": "AMMONIA WATER (AMMONIUM HYDROXIDE), AMINOPHENOL META- (EQ TO M-AMINOPHENOL), P-PHENYLENEDIAMINE, NITROPARAPHENYLENEDIAMINE(P-PHENYLENEDIAMINE NITRO-",
+    "主成分略述": "AMMONIUM HYDROXIDE 28%, 4-AMINO-2-HYDROXYTOLUENE, TOLUENE-2,5-DIAMINE SULFATE, PHENYL METHYL PYRAZOLONE, N,N-BIS(2-HYDROXYETHYL)-P-PHENYLENEDIAMINE SULFATE, 2,6-DIHYDROXYETHYLAMINOTOLUENE",
     "限制項目": [
         "02輸入"
     ],
@@ -36,34 +36,50 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000102",
-            "成分名稱": "AMMONIA WATER (AMMONIUM HYDROXIDE)",
-            "含量描述": "(28%) 7.143",
-            "含量": "",
+            "成分代碼": "2820000107",
+            "成分名稱": "AMMONIUM HYDROXIDE 28%",
+            "含量描述": "Eq to free Ammonia",
+            "含量": "1.7241200000",
             "單位": "%(W\/W"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035403",
-            "成分名稱": "AMINOPHENOL META- (EQ TO M-AMINOPHENOL)",
-            "含量描述": "0.1",
-            "含量": "0.1000000000",
-            "單位": "%(W\/W"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9400003200",
-            "成分名稱": "P-PHENYLENEDIAMINE",
-            "含量描述": "0.25",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
             "含量": "0.2500000000",
             "單位": "%(W\/W"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9400003230",
-            "成分名稱": "NITROPARAPHENYLENEDIAMINE(P-PHENYLENEDIAMINE NITRO-",
-            "含量描述": "(2-) 0.2",
-            "含量": "",
+            "成分代碼": "9900066200",
+            "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
+            "含量描述": "",
+            "含量": "0.5400000000",
+            "單位": "%(W\/W"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900086000",
+            "成分名稱": "PHENYL METHYL PYRAZOLONE",
+            "含量描述": "",
+            "含量": "0.2500000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900094300",
+            "成分名稱": "N,N-BIS(2-HYDROXYETHYL)-P-PHENYLENEDIAMINE SULFATE",
+            "含量描述": "",
+            "含量": "0.6600000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900097500",
+            "成分名稱": "2,6-DIHYDROXYETHYLAMINOTOLUENE",
+            "含量描述": "",
+            "含量": "0.4000000000",
             "單位": "%(W\/W"
         }
     ],
@@ -71,6 +87,10 @@
         {
             "title": "仿單 080064570001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=08006457&Seq=001&Type=9"
+        },
+        {
+            "title": "外盒 08006457-104-06-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=08006457&Seq=001&Type=8"
         }
     ]
 }

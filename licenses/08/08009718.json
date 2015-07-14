@@ -1,6 +1,6 @@
 {
     "code": "08009718",
-    "time": "2015-06-22 01:53:20",
+    "time": "2015-07-14 06:44:32",
     "許可證字號": "衛署粧輸字第009718號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,13 +12,13 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00800971803",
     "中文品名": "萊肯重組染髮膏 4\/60 咖啡中等褐色",
-    "英文品名": "LAKME COLLAGE CREME HAIR COLOR:4\/60",
+    "英文品名": "Lakme Collage Creme Hair Color 4\/60 Chestnut Medium Brown",
     "用途": "染髮。",
     "劑型": "992霜劑",
     "包裝": "500ML以下管裝 附外紙盒裝",
     "化粧品類別": "0110染髮劑",
     "": "",
-    "主成分略述": "AMMONIA, RESORCINOL (RESORCIN), HYDROXYETHYL-P-PHENYLENEDIAMINE SULFATE, PHENYL METHYL PYRAZOLONE",
+    "主成分略述": "AMMONIUM HYDROXIDE 28%, RESORCINOL (RESORCIN), 1-NAPHTHOL, TOLUENE-2,5-DIAMINE SULFATE, PHENYL METHYL PYRAZOLONE, N,N-BIS(2-HYDROXYETHYL)-P-PHENYLENEDIAMINE SULFATE",
     "限制項目": [
         "02輸入"
     ],
@@ -36,10 +36,10 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000100",
-            "成分名稱": "AMMONIA",
-            "含量描述": "",
-            "含量": "1.7600000000",
+            "成分代碼": "2820000107",
+            "成分名稱": "AMMONIUM HYDROXIDE 28%",
+            "含量描述": "Eq to free Ammonia",
+            "含量": "1.7241200000",
             "單位": "%(W\/W)"
         },
         {
@@ -47,15 +47,23 @@
             "成分代碼": "8428000500",
             "成分名稱": "RESORCINOL (RESORCIN)",
             "含量描述": "",
-            "含量": "1.0000000000",
+            "含量": "0.5000000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9400004210",
-            "成分名稱": "HYDROXYETHYL-P-PHENYLENEDIAMINE SULFATE",
+            "成分代碼": "8436002204",
+            "成分名稱": "1-NAPHTHOL",
             "含量描述": "",
             "含量": "0.0500000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900066200",
+            "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
+            "含量描述": "",
+            "含量": "2.0000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -63,8 +71,22 @@
             "成分代碼": "9900086000",
             "成分名稱": "PHENYL METHYL PYRAZOLONE",
             "含量描述": "",
-            "含量": "0.2000000000",
+            "含量": "0.2500000000",
             "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900094300",
+            "成分名稱": "N,N-BIS(2-HYDROXYETHYL)-P-PHENYLENEDIAMINE SULFATE",
+            "含量描述": "",
+            "含量": "0.2500000000",
+            "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "外盒 080097180001-104-06-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=08009718&Seq=001&Type=8"
         }
     ]
 }

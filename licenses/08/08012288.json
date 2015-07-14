@@ -1,6 +1,6 @@
 {
     "code": "08012288",
-    "time": "2015-06-22 01:53:28",
+    "time": "2015-07-14 06:45:02",
     "許可證字號": "衛署粧輸字第012288號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,7 +18,7 @@
     "包裝": "500ML以下管裝 附紙外盒裝",
     "化粧品類別": "0105髮膏",
     "": "",
-    "主成分略述": "AMMONIA, CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL), AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL), 2-METHYLRESORCINOL, P-PHENYLENEDIAMINE, TOLUENE-2,5-DIAMINE SULFATE, PHENYL METHYL PYRAZOLONE",
+    "主成分略述": "AMMONIUM HYDROXIDE 28%, AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL), 2-METHYLRESORCINOL, 4-AMINO-2-HYDROXYTOLUENE, TOLUENE-2,5-DIAMINE SULFATE",
     "限制項目": [
         "02輸入"
     ],
@@ -36,18 +36,10 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000100",
-            "成分名稱": "AMMONIA",
-            "含量描述": "",
-            "含量": "1.7600000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
-            "含量描述": "",
-            "含量": "0.1000000000",
+            "成分代碼": "2820000107",
+            "成分名稱": "AMMONIUM HYDROXIDE 28%",
+            "含量描述": "Eq to free Ammonia",
+            "含量": "1.7241200000",
             "單位": "%(W\/W)"
         },
         {
@@ -63,15 +55,15 @@
             "成分代碼": "9200038920",
             "成分名稱": "2-METHYLRESORCINOL",
             "含量描述": "",
-            "含量": "0.1500000000",
+            "含量": "0.2100000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9400003200",
-            "成分名稱": "P-PHENYLENEDIAMINE",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
             "含量描述": "",
-            "含量": "0.1900000000",
+            "含量": "0.0600000000",
             "單位": "%(W\/W)"
         },
         {
@@ -79,15 +71,7 @@
             "成分代碼": "9900066200",
             "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
             "含量描述": "",
-            "含量": "0.2700000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9900086000",
-            "成分名稱": "PHENYL METHYL PYRAZOLONE",
-            "含量描述": "",
-            "含量": "0.0650000000",
+            "含量": "0.6500000000",
             "單位": "%(W\/W)"
         }
     ],
@@ -95,6 +79,10 @@
         {
             "title": "仿單 080122880002.jpg 080122880001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=08012288&Seq=002&Type=9"
+        },
+        {
+            "title": "外盒 08012288-104-06-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=08012288&Seq=001&Type=8"
         }
     ]
 }

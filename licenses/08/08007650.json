@@ -1,6 +1,6 @@
 {
     "code": "08007650",
-    "time": "2015-06-22 01:53:09",
+    "time": "2015-07-14 06:44:05",
     "許可證字號": "衛署粧輸字第007650號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,7 +18,7 @@
     "包裝": "500ML以下管裝 紙盒裝",
     "化粧品類別": "0110染髮劑",
     "": "",
-    "主成分略述": "AMMONIA WATER (AMMONIUM HYDROXIDE), AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL), AMINOPHENOL META- (EQ TO M-AMINOPHENOL), 4-AMINO-2-HYDROXYTOLUENE, P-PHENYLENEDIAMINE, HYDROXYETHYL-P-PHENYLENEDIAMINE SULFATE",
+    "主成分略述": "AMMONIUM HYDROXIDE 28%, RESORCINOL (RESORCIN), AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL), AMINOPHENOL META- (EQ TO M-AMINOPHENOL), 4-AMINO-2-HYDROXYTOLUENE, TOLUENE-2,5-DIAMINE SULFATE, N,N-BIS(2-HYDROXYETHYL)-P-PHENYLENEDIAMINE SULFATE",
     "限制項目": [
         "02輸入"
     ],
@@ -36,10 +36,18 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000102",
-            "成分名稱": "AMMONIA WATER (AMMONIUM HYDROXIDE)",
-            "含量描述": "(28%)",
-            "含量": "7.1430000000",
+            "成分代碼": "2820000107",
+            "成分名稱": "AMMONIUM HYDROXIDE 28%",
+            "含量描述": "Eq to free Ammonia",
+            "含量": "1.7241200000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8428000500",
+            "成分名稱": "RESORCINOL (RESORCIN)",
+            "含量描述": "",
+            "含量": "0.2600000000",
             "單位": "%(W\/W)"
         },
         {
@@ -55,7 +63,7 @@
             "成分代碼": "9200035403",
             "成分名稱": "AMINOPHENOL META- (EQ TO M-AMINOPHENOL)",
             "含量描述": "",
-            "含量": "0.1000000000",
+            "含量": "0.0140000000",
             "單位": "%(W\/W)"
         },
         {
@@ -68,16 +76,16 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9400003200",
-            "成分名稱": "P-PHENYLENEDIAMINE",
+            "成分代碼": "9900066200",
+            "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
             "含量描述": "",
-            "含量": "0.5000000000",
+            "含量": "1.0000000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "Z102100430",
-            "成分名稱": "HYDROXYETHYL-P-PHENYLENEDIAMINE SULFATE",
+            "成分代碼": "9900094300",
+            "成分名稱": "N,N-BIS(2-HYDROXYETHYL)-P-PHENYLENEDIAMINE SULFATE",
             "含量描述": "",
             "含量": "1.0000000000",
             "單位": "%(W\/W)"
@@ -85,8 +93,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "外盒 08007650___20120309.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=08007650&Seq=001&Type=8"
+            "title": "外盒 080076500001-104-06-23.pdf 08007650___20120309.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=08007650&Seq=002&Type=8"
         }
     ]
 }

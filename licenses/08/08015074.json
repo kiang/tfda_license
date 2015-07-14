@@ -1,6 +1,6 @@
 {
     "code": "08015074",
-    "time": "2015-06-23 11:01:19",
+    "time": "2015-07-14 06:46:13",
     "許可證字號": "衛署粧輸字第015074號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,15 +18,15 @@
     "包裝": "500公克以下管裝 附外紙盒裝",
     "化粧品類別": "0110染髮劑",
     "": "",
-    "主成分略述": "25% AMMONIA SOLUTION ( EQ TO AMMONIA 25%), RESORCINOL (RESORCIN), CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL), AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL), AMINOPHENOL META- (EQ TO M-AMINOPHENOL), TOLUENE-2,5-DIAMINE SULFATE",
+    "主成分略述": "AMMONIUM HYDROXIDE 25%, RESORCINOL (RESORCIN), 1-NAPHTHOL, AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL), AMINOPHENOL META- (EQ TO M-AMINOPHENOL), 4-AMINO-2-HYDROXYTOLUENE, TOLUENE-2,5-DIAMINE SULFATE, 2,4-DIAMINOPHENOXYETHANOL HYDROCHLORIDE",
     "限制項目": [
         "02輸入"
     ],
     "申請商名稱": "0830701100  肯邦國際股份有限公司",
     "申請商地址": "新北市中和區建八路16號8樓之3",
     "主製造廠": {
-        "製造廠名稱": "M260460000  TAKARA BELMONT CORPORATION",
-        "製造廠廠址": "1-1, 2-CHOME, HIGASHI-SHINSAIBASHI, CHUO-KU, OSAKA, JAPAN",
+        "製造廠名稱": "C260290000  TAKARA BELMONT CORPORATION SIGA COSMETICS FACTORY",
+        "製造廠廠址": "5-1, TAKAMATSU-CHO KONAN, SHIGA, JAPAN",
         "製造廠公司地址": "",
         "製造廠國別": "JAPAN",
         "製程": ""
@@ -36,10 +36,10 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000105",
-            "成分名稱": "25% AMMONIA SOLUTION ( EQ TO AMMONIA 25%)",
+            "成分代碼": "2820000106",
+            "成分名稱": "AMMONIUM HYDROXIDE 25%",
             "含量描述": "",
-            "含量": "5.5000000000",
+            "含量": "5.9000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -47,15 +47,15 @@
             "成分代碼": "8428000500",
             "成分名稱": "RESORCINOL (RESORCIN)",
             "含量描述": "",
-            "含量": "0.3830000000",
+            "含量": "0.3080000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
+            "成分代碼": "8436002204",
+            "成分名稱": "1-NAPHTHOL",
             "含量描述": "",
-            "含量": "0.1800000000",
+            "含量": "0.1210000000",
             "單位": "%(W\/W)"
         },
         {
@@ -63,7 +63,7 @@
             "成分代碼": "9200035401",
             "成分名稱": "AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL)",
             "含量描述": "",
-            "含量": "0.0480000000",
+            "含量": "0.0350000000",
             "單位": "%(W\/W)"
         },
         {
@@ -71,7 +71,15 @@
             "成分代碼": "9200035403",
             "成分名稱": "AMINOPHENOL META- (EQ TO M-AMINOPHENOL)",
             "含量描述": "",
-            "含量": "0.2380000000",
+            "含量": "0.1620000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "0.0850000000",
             "單位": "%(W\/W)"
         },
         {
@@ -81,6 +89,14 @@
             "含量描述": "",
             "含量": "1.0000000000",
             "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900092100",
+            "成分名稱": "2,4-DIAMINOPHENOXYETHANOL HYDROCHLORIDE",
+            "含量描述": "",
+            "含量": "0.0950000000",
+            "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
@@ -89,8 +105,8 @@
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=08015074&Seq=002&Type=9"
         },
         {
-            "title": "外盒 080150740003.jpg 080150740002.jpg 080150740001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=08015074&Seq=003&Type=8"
+            "title": "外盒 08015074-104-06-17.pdf 080150740003.jpg 080150740002.jpg 080150740001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=08015074&Seq=004&Type=8"
         }
     ]
 }

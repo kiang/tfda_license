@@ -1,6 +1,6 @@
 {
     "code": "08006468",
-    "time": "2015-06-22 01:53:02",
+    "time": "2015-07-14 06:43:50",
     "許可證字號": "衛署粧輸字第006468號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,13 +12,13 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00800646804",
     "中文品名": "萊肯重組染髮膏　８\/６４咖啡橙淺金黃色",
-    "英文品名": "LAKME COLLAGE CREME HAIR COLOR 8\/64 LIGHT COPPERY BROWN BLONDE",
+    "英文品名": "Lakme Collage Creme Hair Color 8\/64 Copper Chestnut Light Blonde",
     "用途": "染髮。",
     "劑型": "992霜劑",
     "包裝": "管裝 紙盒裝",
     "化粧品類別": "0110染髮劑",
     "": "",
-    "主成分略述": "AMMONIA WATER (AMMONIUM HYDROXIDE), AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL), AMINOPHENOL META- (EQ TO M-AMINOPHENOL), P-PHENYLENEDIAMINE, NITROPARAPHENYLENEDIAMINE(P-PHENYLENEDIAMINE NITRO-",
+    "主成分略述": "AMMONIUM HYDROXIDE 28%, RESORCINOL (RESORCIN), AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL), AMINOPHENOL META- (EQ TO M-AMINOPHENOL), 4-AMINO-2-HYDROXYTOLUENE, TOLUENE-2,5-DIAMINE SULFATE, 2-AMINO-6-CHLORO-4-NITROPHENOL",
     "限制項目": [
         "02輸入"
     ],
@@ -36,17 +36,25 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000102",
-            "成分名稱": "AMMONIA WATER (AMMONIUM HYDROXIDE)",
-            "含量描述": "(28%) 7.143",
-            "含量": "",
+            "成分代碼": "2820000107",
+            "成分名稱": "AMMONIUM HYDROXIDE 28%",
+            "含量描述": "Eq to free Ammonia",
+            "含量": "1.7241200000",
+            "單位": "%(W\/W"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8428000500",
+            "成分名稱": "RESORCINOL (RESORCIN)",
+            "含量描述": "",
+            "含量": "0.5000000000",
             "單位": "%(W\/W"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "9200035401",
             "成分名稱": "AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL)",
-            "含量描述": "0.45",
+            "含量描述": "",
             "含量": "0.4500000000",
             "單位": "%(W\/W"
         },
@@ -54,25 +62,39 @@
             "成分類別": "主成分",
             "成分代碼": "9200035403",
             "成分名稱": "AMINOPHENOL META- (EQ TO M-AMINOPHENOL)",
-            "含量描述": "0.1",
+            "含量描述": "",
             "含量": "0.1000000000",
             "單位": "%(W\/W"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9400003200",
-            "成分名稱": "P-PHENYLENEDIAMINE",
-            "含量描述": "0.15",
-            "含量": "0.1500000000",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "0.2240000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900066200",
+            "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
+            "含量描述": "",
+            "含量": "0.3000000000",
             "單位": "%(W\/W"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9400003230",
-            "成分名稱": "NITROPARAPHENYLENEDIAMINE(P-PHENYLENEDIAMINE NITRO-",
-            "含量描述": "(2-) 0.1",
-            "含量": "",
-            "單位": "%(W\/W"
+            "成分代碼": "9900084900",
+            "成分名稱": "2-AMINO-6-CHLORO-4-NITROPHENOL",
+            "含量描述": "",
+            "含量": "0.0500000000",
+            "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "外盒 080064680001-104-06-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=08006468&Seq=001&Type=8"
         }
     ]
 }
