@@ -13,9 +13,6 @@ function getLicense($code, $toCache = true) {
     }
     if (filesize($cacheFile) === 0) {
         unlink($cacheFile);
-        if (file_exists("{$targetFolder}/{$code}.json")) {
-            unlink("{$targetFolder}/{$code}.json");
-        }
         return false;
     }
     $p = file_get_contents($cacheFile);
