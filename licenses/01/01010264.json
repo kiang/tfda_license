@@ -1,6 +1,6 @@
 {
     "code": "01010264",
-    "time": "2015-07-05 01:37:08",
+    "time": "2015-08-07 03:08:01",
     "許可證字號": "衛署藥製字第010264號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,7 +18,7 @@
     "包裝": "1000錠以下塑膠瓶裝",
     "藥品類別": "07須經醫師指示使用",
     "管制藥品分類級別": "",
-    "主成分略述": "PYRANTEL (PAMOATE)",
+    "主成分略述": "PYRANTEL PAMOATE",
     "限制項目": [
         "09委託製造"
     ],
@@ -34,12 +34,13 @@
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
-
-    ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0808001610",
+            "成分名稱": "PYRANTEL PAMOATE",
+            "含量描述": "(eq. to 125 mg of PYRANTEL base activity)",
+            "含量": "360.3000000000",
+            "單位": "MG"
+        }
     ]
 }

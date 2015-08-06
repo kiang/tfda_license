@@ -1,6 +1,6 @@
 {
     "code": "08018199",
-    "time": "2015-06-22 01:53:57",
+    "time": "2015-08-07 04:07:08",
     "許可證字號": "衛署粧輸字第018199號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,13 +12,13 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00801819906",
     "中文品名": "萊肯重組染髮膏：8\/34金銅淺亞麻色",
-    "英文品名": "Lakm&eacute; Collage Cream Hair Color : 8\/34 Copper Gold Light Blonde",
+    "英文品名": "Lakme Collage Creme Hair Color 8\/34 Copper Gold Light Blonde",
     "用途": "染頭髮。",
     "劑型": "992霜劑",
     "包裝": "500 ml以下管裝附外盒",
     "化粧品類別": "0110染髮劑",
     "": "",
-    "主成分略述": "AMMONIA, 1-NAPHTHOL, P-AMINOPHENOL, P-PHENYLENEDIAMINE, 2-AMINO-6-CHLORO-4-NITROPHENOL",
+    "主成分略述": "AMMONIUM HYDROXIDE 28%, 1-NAPHTHOL, P-AMINOPHENOL, TOLUENE-2,5-DIAMINE SULFATE, 2-AMINO-6-CHLORO-4-NITROPHENOL",
     "限制項目": [
         "02輸入"
     ],
@@ -36,10 +36,10 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000100",
-            "成分名稱": "AMMONIA",
-            "含量描述": "",
-            "含量": "1.7600000000",
+            "成分代碼": "2820000107",
+            "成分名稱": "AMMONIUM HYDROXIDE 28%",
+            "含量描述": "Eq to free Ammonia",
+            "含量": "1.7241200000",
             "單位": "%(W\/W)"
         },
         {
@@ -47,7 +47,7 @@
             "成分代碼": "8436002204",
             "成分名稱": "1-NAPHTHOL",
             "含量描述": "",
-            "含量": "0.0200000000",
+            "含量": "0.0500000000",
             "單位": "%(W\/W)"
         },
         {
@@ -60,10 +60,10 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9400003200",
-            "成分名稱": "P-PHENYLENEDIAMINE",
+            "成分代碼": "9900066200",
+            "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
             "含量描述": "",
-            "含量": "0.0650000000",
+            "含量": "0.1300000000",
             "單位": "%(W\/W)"
         },
         {
@@ -77,8 +77,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "外盒 080181990003___20110915.jpg 080181990002___20110915.jpg 080181990001___20110915.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=08018199&Seq=003&Type=8"
+            "title": "外盒 080181990001-104-07-28.pdf 080181990003___20110915.jpg 080181990002___20110915.jpg 080181990001___20110915.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=08018199&Seq=004&Type=8"
         }
     ]
 }

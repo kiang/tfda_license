@@ -1,6 +1,6 @@
 {
     "code": "06021380",
-    "time": "2015-07-05 01:32:23",
+    "time": "2015-08-07 03:48:45",
     "許可證字號": "衛署醫器輸字第021380號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -30,7 +30,7 @@
     "申請商名稱": "1439201100  台灣柯惠股份有限公司",
     "申請商地址": "台北市內湖區瑞光路407號4樓",
     "主製造廠": {
-        "製造廠名稱": "M463002000  BARRX MEDICAL, INC.",
+        "製造廠名稱": "M463002000  Covidien llc, GI solutions (formerly BARRX Medical, Inc.)",
         "製造廠廠址": "540 OAKMEAD PARKWAY, SUNNYVALE, CA 94085, USA",
         "製造廠公司地址": "",
         "製造廠國別": "UNITED STATES",
@@ -41,10 +41,14 @@
     "ingredients": [
 
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "仿單 06021380___20100927.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06021380&Seq=001&Type=9"
+        },
+        {
+            "title": "外盒 060213800031___20100927.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06021380&Seq=001&Type=8"
+        }
     ]
 }

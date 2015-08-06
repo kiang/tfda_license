@@ -1,6 +1,6 @@
 {
     "code": "02009100",
-    "time": "2015-07-05 01:56:17",
+    "time": "2015-08-07 03:26:40",
     "許可證字號": "衛署藥輸字第009100號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,12 +34,39 @@
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2808400410",
+            "成分名稱": "DICLOFENAC SODIUM",
+            "含量描述": "100.0",
+            "含量": "100.0000000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "淡紅",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "圓扁形",
+        "標記一": "CG",
+        "標記二": "CGC"
+    },
     "藥物辨識外觀圖片": [
-
+        {
+            "title": "圖片",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02009100&Seq=418&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "仿單 服他寧緩釋長效膜衣錠_中文仿單_TWI-050514-103-05-20.pdf 服他寧緩釋長效膜衣錠_英文仿單_TWI-050514-103-05-20.pdf 02009100___20121221.pdf 020091000007.jpg 020091000006.jpg 020091000005___20100910.jpg 020091000005.jpg 020091000004___20100910.jpg 020091000004.jpg 020091000003___20100910.jpg 020091000003.jpg 020091000002___20110920.jpg 020091000002___20100910.jpg 020091000002.jpg 020091000001___20110920.jpg 020091000001___20100910.jpg 020091000001.jpg 020091000001.doc 02009100 (Eng)___20121221.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02009100&Seq=019&Type=9"
+        },
+        {
+            "title": "外盒 020091000003___20100527.jpg 020091000002___20100527.jpg 020091000001___20100527.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02009100&Seq=003&Type=8"
+        }
     ]
 }

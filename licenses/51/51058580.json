@@ -1,6 +1,6 @@
 {
     "code": "51058580",
-    "time": "2015-07-05 01:35:10",
+    "time": "2015-08-07 03:35:51",
     "許可證字號": "衛部藥製字第058580號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -35,12 +35,23 @@
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "1004002420",
+            "成分名稱": "Pemetrexed disodium 2.5 hydrate",
+            "含量描述": "equal to Pemetrexed 25mg",
+            "含量": "30.0000000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "仿單 010585800001-104-03-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=51058580&Seq=001&Type=9"
+        },
+        {
+            "title": "外盒 010585800003 外盒(500mg, 20ml)-104-03-18.pdf 010585800004 標籤(500mg, 20ml)-104-03-18.pdf 010585800001 外盒(100mg, 4ml)-104-03-18.pdf 010585800002 標籤(100mg, 4ml)-104-03-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=51058580&Seq=004&Type=8"
+        }
     ]
 }

@@ -1,6 +1,6 @@
 {
     "code": "08019241",
-    "time": "2015-06-22 01:54:09",
+    "time": "2015-08-07 04:07:19",
     "許可證字號": "衛署粧輸字第019241號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,7 +18,7 @@
     "包裝": "500 ml 以下管裝附外盒",
     "化粧品類別": "0110染髮劑",
     "": "",
-    "主成分略述": "AMMONIA, RESORCINOL (RESORCIN), 1-NAPHTHOL, P-AMINOPHENOL, m-Aminophenol, P-PHENYLENEDIAMINE, 2-AMINO-6-CHLORO-4-NITROPHENOL, N,N-BIS(2-HYDROXYETHYL)-P-PHENYLENEDIAMINE SULFATE",
+    "主成分略述": "AMMONIUM HYDROXIDE 28%, RESORCINOL (RESORCIN), 1-NAPHTHOL, P-AMINOPHENOL, TOLUENE-2,5-DIAMINE SULFATE, 2-AMINO-6-CHLORO-4-NITROPHENOL, N,N-BIS(2-HYDROXYETHYL)-P-PHENYLENEDIAMINE SULFATE",
     "限制項目": [
         "02輸入"
     ],
@@ -36,10 +36,10 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000100",
-            "成分名稱": "AMMONIA",
-            "含量描述": "",
-            "含量": "1.7600000000",
+            "成分代碼": "2820000107",
+            "成分名稱": "AMMONIUM HYDROXIDE 28%",
+            "含量描述": "Eq to free Ammonia",
+            "含量": "1.7241200000",
             "單位": "%(W\/W)"
         },
         {
@@ -68,18 +68,10 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035470",
-            "成分名稱": "m-Aminophenol",
+            "成分代碼": "9900066200",
+            "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
             "含量描述": "",
-            "含量": "0.0080000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9400003200",
-            "成分名稱": "P-PHENYLENEDIAMINE",
-            "含量描述": "",
-            "含量": "0.1600000000",
+            "含量": "0.3200000000",
             "單位": "%(W\/W)"
         },
         {
@@ -97,6 +89,12 @@
             "含量描述": "",
             "含量": "0.0320000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "外盒 08019241-104-07-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=08019241&Seq=001&Type=8"
         }
     ]
 }

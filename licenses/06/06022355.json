@@ -1,6 +1,6 @@
 {
     "code": "06022355",
-    "time": "2015-07-05 01:27:26",
+    "time": "2015-08-07 03:50:02",
     "許可證字號": "衛署醫器輸字第022355號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -25,26 +25,31 @@
     "醫器次類別三": "",
     "主成分略述": "",
     "限制項目": [
-        "02輸入"
+        "02輸入",
+        "09委託製造"
     ],
     "申請商名稱": "6201015158  湧傑企業股份有限公司",
     "申請商地址": "台北市松山區敦化南路一段2號5樓之1",
     "主製造廠": {
-        "製造廠名稱": "M300048000  SDS de Mexico, S. de R.L. de C.V.",
-        "製造廠廠址": "Circuito Sur No.31, Parque Industrial Nelson, Mexicali, B.C., Mexico 21397",
+        "製造廠名稱": "M300048100  SDS de Mexico S. de R.L. de C.V.",
+        "製造廠廠址": "CIRCUITO SUR NUM.31 PARQUE IND. NELSON MEXICALI, B.C.C.P., MEXICO 21395",
         "製造廠公司地址": "",
         "製造廠國別": "MEXICO",
-        "製程": ""
+        "製程": "Manufactured by"
     },
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
 
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "仿單 仿單-102-07-12.pdf 06022355___20120605.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06022355&Seq=002&Type=9"
+        },
+        {
+            "title": "外盒 標籤-102-07-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06022355&Seq=001&Type=8"
+        }
     ]
 }

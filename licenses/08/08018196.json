@@ -1,6 +1,6 @@
 {
     "code": "08018196",
-    "time": "2015-06-22 01:53:55",
+    "time": "2015-08-07 04:07:05",
     "許可證字號": "衛署粧輸字第018196號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,13 +12,13 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00801819600",
     "中文品名": "萊肯重組染髮膏：6\/30金黃深亞麻色",
-    "英文品名": "Lakm&eacute; Collage Cream Hair Color : 6\/30 Gold Dark Blonde",
+    "英文品名": "Lakme Collage Creme Hair Color 6\/30 Gold Dark Blonde",
     "用途": "染頭髮。",
     "劑型": "992霜劑",
     "包裝": "500 ml以下管裝附外盒",
     "化粧品類別": "0110染髮劑",
     "": "",
-    "主成分略述": "AMMONIA, RESORCINOL (RESORCIN), 1-NAPHTHOL, P-AMINOPHENOL, P-PHENYLENEDIAMINE, PHENYL METHYL PYRAZOLONE",
+    "主成分略述": "AMMONIUM HYDROXIDE 28%, RESORCINOL (RESORCIN), 1-NAPHTHOL, P-AMINOPHENOL, TOLUENE-2,5-DIAMINE SULFATE, PHENYL METHYL PYRAZOLONE",
     "限制項目": [
         "02輸入"
     ],
@@ -36,10 +36,10 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000100",
-            "成分名稱": "AMMONIA",
-            "含量描述": "",
-            "含量": "1.7600000000",
+            "成分代碼": "2820000107",
+            "成分名稱": "AMMONIUM HYDROXIDE 28%",
+            "含量描述": "Eq to free Ammonia",
+            "含量": "1.7241200000",
             "單位": "%(W\/W)"
         },
         {
@@ -47,7 +47,7 @@
             "成分代碼": "8428000500",
             "成分名稱": "RESORCINOL (RESORCIN)",
             "含量描述": "",
-            "含量": "0.5000000000",
+            "含量": "0.3000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -56,22 +56,22 @@
             "成分名稱": "1-NAPHTHOL",
             "含量描述": "",
             "含量": "0.0700000000",
-            "單位": ""
+            "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "9200035440",
             "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
-            "含量": "0.1000000000",
+            "含量": "0.8000000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9400003200",
-            "成分名稱": "P-PHENYLENEDIAMINE",
+            "成分代碼": "9900066200",
+            "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
             "含量描述": "",
-            "含量": "0.3000000000",
+            "含量": "1.0000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -79,14 +79,14 @@
             "成分代碼": "9900086000",
             "成分名稱": "PHENYL METHYL PYRAZOLONE",
             "含量描述": "",
-            "含量": "0.4500000000",
+            "含量": "0.1500000000",
             "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
         {
-            "title": "外盒 080181960003___20110915.jpg 080181960002___20110915.jpg 080181960001___20110915.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=08018196&Seq=003&Type=8"
+            "title": "外盒 08018196-104-07-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=08018196&Seq=004&Type=8"
         }
     ]
 }

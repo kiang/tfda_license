@@ -1,6 +1,6 @@
 {
     "code": "06014086",
-    "time": "2015-07-05 01:04:46",
+    "time": "2015-08-07 03:44:45",
     "許可證字號": "衛署醫器輸字第014086號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -41,10 +41,14 @@
     "ingredients": [
 
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "仿單 060140860002.jpg 060140860001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06014086&Seq=002&Type=9"
+        },
+        {
+            "title": "外盒 060140860001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06014086&Seq=001&Type=8"
+        }
     ]
 }
