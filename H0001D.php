@@ -290,26 +290,26 @@ function getLicense($code, $toCache = true) {
         file_put_contents($cacheFile, file_get_contents($url));
     }
     $p = file_get_contents($cacheFile);
-    if (false !== strpos($p, 'ShowFile.aspx')) {
-        $p = str_replace('&nbsp;', '', $p);
-        $lines = explode('</tr>', $p);
+    $p = str_replace('&nbsp;', '', $p);
+    $pos = strpos($p, 'ShowFile.aspx');
+    if (false !== $pos) {
         $data['仿單外盒'] = array();
-        foreach ($lines AS $line) {
-            $currentUrl = false;
-            $pos = strpos($line, 'ShowFile.aspx');
-            if (false !== $pos) {
-                $currentUrl = 'http://www.fda.gov.tw/MLMS/' . substr($line, $pos, strpos($line, '\'', $pos) - $pos);
-                $title = preg_replace('/\s+/', ' ', trim(strip_tags($line)));
-                if (empty($title)) {
-                    $title = '仿單外盒';
-                } else {
-                    $title = str_replace('圖檔名稱 ', '', $title);
-                }
-                $data['仿單外盒'][] = array(
-                    'title' => $title,
-                    'url' => $currentUrl,
-                );
+        while (false !== $pos) {
+            $posEnd = strpos($p, '\'', $pos);
+            $currentUrl = 'http://www.fda.gov.tw/MLMS/' . substr($p, $pos, $posEnd - $pos);
+            $pos = strpos($p, '>', $posEnd) + 1;
+            $posEnd = strpos($p, '<', $pos);
+            $title = preg_replace('/\s+/', ' ', trim(strip_tags(substr($p, $pos, $posEnd - $pos))));
+            if (empty($title)) {
+                $title = '仿單外盒';
+            } else {
+                $title = str_replace('圖檔名稱 ', '', $title);
             }
+            $data['仿單外盒'][] = array(
+                'title' => $title,
+                'url' => $currentUrl,
+            );
+            $pos = strpos($p, 'ShowFile.aspx', $posEnd);
         }
     }
 
