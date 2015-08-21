@@ -2,7 +2,7 @@
 
 function getLicense($code, $toCache = true) {
     global $target, $cache;
-    $url = 'http://www.fda.gov.tw/MLMS/(S(knoy1cz5iwyfatvvguaez0re))/H0001D.aspx?Type=Lic&LicId=' . $code;
+    $url = 'http://www.fda.gov.tw/MLMS/H0001D.aspx?Type=Lic&LicId=' . $code;
     $cacheFile = $cache . '/p_' . $code;
     if (!file_exists($cacheFile) || false === $toCache) {
         file_put_contents($cacheFile, file_get_contents($url));
@@ -206,7 +206,7 @@ function getLicense($code, $toCache = true) {
      * 健保藥價資料 - H0001D8.aspx?LicId=
      * 專利權資料 - H0001D9.aspx?LicId=
      */
-    $url = 'http://www.fda.gov.tw/MLMS/(S(knoy1cz5iwyfatvvguaez0re))/H0001D1.aspx?LicId=' . $code;
+    $url = 'http://www.fda.gov.tw/MLMS/H0001D1.aspx?LicId=' . $code;
     $cacheFile = $cache . '/p1_' . $code;
     if (!file_exists($cacheFile) || false === $toCache) {
         file_put_contents($cacheFile, file_get_contents($url));
@@ -240,7 +240,7 @@ function getLicense($code, $toCache = true) {
         }
     }
 
-    $url = 'http://www.fda.gov.tw/MLMS/(S(knoy1cz5iwyfatvvguaez0re))/H0001D2.aspx?LicId=' . $code;
+    $url = 'http://www.fda.gov.tw/MLMS/H0001D2.aspx?LicId=' . $code;
     $cacheFile = $cache . '/p2_' . $code;
     if (!file_exists($cacheFile) || false === $toCache) {
         file_put_contents($cacheFile, file_get_contents($url));
@@ -259,7 +259,7 @@ function getLicense($code, $toCache = true) {
                 $currentUrl = false;
                 $pos = strpos($line, 'ShowFile.aspx');
                 if (false !== $pos) {
-                    $currentUrl = 'http://www.fda.gov.tw/MLMS/(S(knoy1cz5iwyfatvvguaez0re))/' . substr($line, $pos, strpos($line, '\'', $pos) - $pos);
+                    $currentUrl = 'http://www.fda.gov.tw/MLMS/' . substr($line, $pos, strpos($line, '\'', $pos) - $pos);
                     $title = preg_replace('/\s+/', ' ', trim(strip_tags($line)));
                     if (empty($title)) {
                         $title = '圖片';
@@ -284,7 +284,7 @@ function getLicense($code, $toCache = true) {
         }
     }
 
-    $url = 'http://www.fda.gov.tw/MLMS/(S(knoy1cz5iwyfatvvguaez0re))/H0001D3.aspx?LicId=' . $code;
+    $url = 'http://www.fda.gov.tw/MLMS/H0001D3.aspx?LicId=' . $code;
     $cacheFile = $cache . '/p3_' . $code;
     if (!file_exists($cacheFile) || false === $toCache) {
         file_put_contents($cacheFile, file_get_contents($url));
@@ -298,7 +298,7 @@ function getLicense($code, $toCache = true) {
             $currentUrl = false;
             $pos = strpos($line, 'ShowFile.aspx');
             if (false !== $pos) {
-                $currentUrl = 'http://www.fda.gov.tw/MLMS/(S(knoy1cz5iwyfatvvguaez0re))/' . substr($line, $pos, strpos($line, '\'', $pos) - $pos);
+                $currentUrl = 'http://www.fda.gov.tw/MLMS/' . substr($line, $pos, strpos($line, '\'', $pos) - $pos);
                 $title = preg_replace('/\s+/', ' ', trim(strip_tags($line)));
                 if (empty($title)) {
                     $title = '仿單外盒';

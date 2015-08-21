@@ -1,7 +1,7 @@
 <?php
 
 /*
- * http://www.fda.gov.tw/MLMS/(S(knoy1cz5iwyfatvvguaez0re))/H0008_01.aspx?Year=2015&Month=06
+ * http://www.fda.gov.tw/MLMS/H0008_01.aspx?Year=2015&Month=06
  */
 include __DIR__ . '/H0001D.php';
 
@@ -17,7 +17,7 @@ if (!file_exists($cache)) {
 $opts = array(
     'http' => array(
         'method' => "GET",
-        'header' => "Referer: http://www.fda.gov.tw/MLMS/(S(cmnhdc55ym011jrvaetopgju))/H0008.aspx\r\n",
+        'header' => "Referer: http://www.fda.gov.tw/MLMS/H0008.aspx\r\n",
     )
 );
 
@@ -33,7 +33,7 @@ for ($m = 0; $m < 2; $m ++) {
     }
     $parts = explode('/', date('Y/m', $mTime));
     for ($i = 1; $i <= 7; $i ++) {
-        $reportUrl = "http://www.fda.gov.tw/MLMS/(S(knoy1cz5iwyfatvvguaez0re))/H0008_0{$i}.aspx?Year={$parts[0]}&Month={$parts[1]}&Bigknd=";
+        $reportUrl = "http://www.fda.gov.tw/MLMS/H0008_0{$i}.aspx?Year={$parts[0]}&Month={$parts[1]}&Bigknd=";
         $page = file_get_contents($reportUrl, false, $context);
         $lines = explode('</tr>', $page);
         array_shift($lines);
