@@ -256,18 +256,26 @@ function getLicense($code, $toCache = true) {
                 $imageSwitch = true;
             }
             if ($imageSwitch) {
-                $currentUrl = false;
                 $pos = strpos($line, 'ShowFile.aspx');
                 if (false !== $pos) {
-                    $currentUrl = 'http://www.fda.gov.tw/MLMS/' . substr($line, $pos, strpos($line, '\'', $pos) - $pos);
-                    $title = preg_replace('/\s+/', ' ', trim(strip_tags($line)));
-                    if (empty($title)) {
-                        $title = '圖片';
+                    while (false !== $pos) {
+                        $posEnd = strpos($line, '\'', $pos);
+                        $currentUrl = 'http://www.fda.gov.tw/MLMS/' . substr($line, $pos, $posEnd - $pos);
+                        $pos = strpos($line, '>', $posEnd) + 1;
+                        $posEnd = strpos($line, '<', $pos);
+                        $title = preg_replace('/\s+/', ' ', trim(strip_tags(substr($line, $pos, $posEnd - $pos))));
+
+                        if (empty($title)) {
+                            $title = '圖片';
+                        }
+
+                        $data['藥物辨識外觀圖片'][] = array(
+                            'title' => $title,
+                            'url' => $currentUrl,
+                        );
+
+                        $pos = strpos($line, 'ShowFile.aspx', $posEnd);
                     }
-                    $data['藥物辨識外觀圖片'][] = array(
-                        'title' => $title,
-                        'url' => $currentUrl,
-                    );
                 }
             } elseif (false === strpos($line, '文品名')) {
                 $cols = explode('</td>', $line);
