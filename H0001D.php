@@ -21,6 +21,7 @@ function getLicense($code, $toCache = true) {
     $lineNo = 0;
     $data = array(
         'code' => $code,
+        'url' => $url,
         'time' => date('Y-m-d H:i:s', filemtime($cacheFile)),
     );
     if (false !== strpos($p, '醫器規格')) {
