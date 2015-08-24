@@ -1,6 +1,7 @@
 {
     "code": "06010858",
-    "time": "2015-06-23 16:56:24",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010858",
+    "time": "2015-08-22 16:09:11",
     "許可證字號": "衛署醫器輸字第010858號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,7 +15,7 @@
     "中文品名": "\"波士頓科技\" 白金纖維環",
     "英文品名": "\"BOSTON SCIENTIFIC\" FIBERED PLATINUM COILS",
     "效能": "",
-    "醫器規格": "詳如中文仿單核定本。註銷規格：M0013723010、M0013723011。",
+    "醫器規格": "詳如中文仿單核定本。註銷規格：M0013723010、M0013723011。增加規格：詳如中文仿單核定本。",
     "劑型": "",
     "包裝": "",
     "醫器主類別一": "E心臟血管用裝置",
@@ -38,13 +39,19 @@
     },
     "CCC號列": "90219090009 其他第９０２１節所屬之貨品Other articles of heading 90.21",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 060108580001-103-02-17.pdf",
+            "title": "060108580002-104-08-10.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010858&Seq=002&Type=9"
+        },
+        {
+            "title": "060108580001-103-02-17.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010858&Seq=001&Type=9"
+        },
+        {
+            "title": "060108580002-104-08-10.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010858&Seq=001&Type=8"
         }
     ]
 }

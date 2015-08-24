@@ -1,6 +1,7 @@
 {
     "code": "07001509",
-    "time": "2015-06-23 03:33:07",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07001509",
+    "time": "2015-08-23 23:26:25",
     "許可證字號": "衛署粧製字第001509號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -33,17 +34,23 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 070015090001.jpg",
+            "title": "070015090001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07001509&Seq=001&Type=9"
         },
         {
-            "title": "外盒 070015090003.jpg 070015090002.jpg 070015090001.jpg",
+            "title": "070015090003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07001509&Seq=003&Type=8"
+        },
+        {
+            "title": "070015090002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07001509&Seq=002&Type=8"
+        },
+        {
+            "title": "070015090001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07001509&Seq=001&Type=8"
         }
     ]
 }

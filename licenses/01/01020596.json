@@ -1,6 +1,7 @@
 {
     "code": "01020596",
-    "time": "2015-06-24 21:05:58",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01020596",
+    "time": "2015-08-22 20:11:42",
     "許可證字號": "衛署藥製字第020596號",
     "註銷狀態": "已註銷",
     "註銷日期": "103\/03\/24",
@@ -53,8 +54,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010205960002.doc 010205960001.doc",
+            "title": "010205960002.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020596&Seq=002&Type=9"
+        },
+        {
+            "title": "010205960001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020596&Seq=001&Type=9"
         }
     ]
 }

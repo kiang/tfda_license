@@ -1,6 +1,7 @@
 {
     "code": "01004049",
-    "time": "2015-07-05 01:38:21",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01004049",
+    "time": "2015-08-22 18:57:21",
     "許可證字號": "衛署藥製字第004049號",
     "註銷狀態": "已註銷",
     "註銷日期": "98\/12\/30",
@@ -34,12 +35,13 @@
     "CCC號列": "30043200002 含有腎上腺皮質類固醇荷爾蒙，其衍生物及結構式類似者Containing adrenal corticosteroid hormones, their derivatives and structural analogues",
     "藥理治療分類": "",
     "ingredients": [
-
-    ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "6804001610",
+            "成分名稱": "TRIAMCINOLONE ACETONIDE",
+            "含量描述": "40",
+            "含量": "40.0000000000",
+            "單位": "MG"
+        }
     ]
 }

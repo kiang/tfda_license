@@ -1,6 +1,7 @@
 {
     "code": "52026402",
-    "time": "2015-06-24 15:02:13",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026402",
+    "time": "2015-08-23 13:46:57",
     "許可證字號": "衛部藥輸字第026402號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -54,12 +55,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 仿單20150112印製版-104-02-02.pdf 020264020001-104-01-15.pdf",
+            "title": "仿單20150112印製版-104-02-02.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026402&Seq=002&Type=9"
         },
         {
-            "title": "外盒 胃活樂20150113-104-02-02.pdf 020264020002-104-01-15.pdf",
+            "title": "020264020001-104-01-15.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026402&Seq=001&Type=9"
+        },
+        {
+            "title": "胃活樂20150113-104-02-02.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026402&Seq=002&Type=8"
+        },
+        {
+            "title": "020264020002-104-01-15.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026402&Seq=001&Type=8"
         }
     ]
 }

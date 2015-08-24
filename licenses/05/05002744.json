@@ -1,6 +1,7 @@
 {
     "code": "05002744",
-    "time": "2015-06-22 01:45:19",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05002744",
+    "time": "2015-08-22 06:01:34",
     "許可證字號": "衛署醫器製字第002744號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,17 +39,27 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 05002744-104-03-02.pdf 05002744-0991608747-9911468___20100803.pdf 05002744-0001___20120517.pdf",
+            "title": "05002744-104-03-02.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05002744&Seq=003&Type=9"
         },
         {
-            "title": "外盒 05002744-104-03-02.pdf 05002744-0001___20120517.pdf",
+            "title": "05002744-0991608747-9911468___20100803.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05002744&Seq=002&Type=9"
+        },
+        {
+            "title": "05002744-0001___20120517.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05002744&Seq=001&Type=9"
+        },
+        {
+            "title": "05002744-104-03-02.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05002744&Seq=002&Type=8"
+        },
+        {
+            "title": "05002744-0001___20120517.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05002744&Seq=001&Type=8"
         }
     ]
 }

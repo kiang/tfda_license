@@ -1,6 +1,7 @@
 {
     "code": "01012840",
-    "time": "2015-06-24 17:29:40",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01012840",
+    "time": "2015-08-22 19:40:13",
     "許可證字號": "衛署藥製字第012840號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -54,12 +55,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010128400001___20110824.JPG 010128400001.jpg",
+            "title": "010128400001___20110824.JPG",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012840&Seq=002&Type=9"
         },
         {
-            "title": "外盒 010128400002___20110824.JPG 010128400001.jpg",
+            "title": "010128400001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012840&Seq=001&Type=9"
+        },
+        {
+            "title": "010128400002___20110824.JPG",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012840&Seq=002&Type=8"
+        },
+        {
+            "title": "010128400001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012840&Seq=001&Type=8"
         }
     ]
 }

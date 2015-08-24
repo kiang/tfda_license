@@ -1,6 +1,7 @@
 {
     "code": "02010621",
-    "time": "2015-06-25 10:26:19",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02010621",
+    "time": "2015-08-23 06:42:19",
     "許可證字號": "衛署藥輸字第010621號",
     "註銷狀態": "已註銷",
     "註銷日期": "93\/07\/15",
@@ -69,8 +70,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 020106210004.jpg 020106210003.jpg 020106210002.jpg 020106210001.jpg",
+            "title": "020106210004.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02010621&Seq=004&Type=9"
+        },
+        {
+            "title": "020106210003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02010621&Seq=003&Type=9"
+        },
+        {
+            "title": "020106210002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02010621&Seq=002&Type=9"
+        },
+        {
+            "title": "020106210001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02010621&Seq=001&Type=9"
         }
     ]
 }

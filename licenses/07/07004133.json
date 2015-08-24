@@ -1,6 +1,7 @@
 {
     "code": "07004133",
-    "time": "2015-07-05 00:46:07",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07004133",
+    "time": "2015-08-21 23:55:59",
     "許可證字號": "衛署粧製字第004133號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,22 +35,55 @@
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
-
-    ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9602020800",
+            "成分名稱": "TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)",
+            "含量描述": "",
+            "含量": "2.9100000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900066000",
+            "成分名稱": "OCTOCRYLENE",
+            "含量描述": "",
+            "含量": "2.0000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900071200",
+            "成分名稱": "ETHYLHEXYL METHOXYCINNAMATE",
+            "含量描述": "",
+            "含量": "10.0000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900093700",
+            "成分名稱": "METHYLENE BIS-BENZOTRIAZOLYL TETRAMETHYLBUTYLPHENOL",
+            "含量描述": "",
+            "含量": "4.5000000000",
+            "單位": "%(W\/W)"
+        }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 070041330001.jpg",
+            "title": "070041330001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004133&Seq=001&Type=9"
         },
         {
-            "title": "外盒 070041330003.jpg 070041330002.jpg 070041330001.jpg",
+            "title": "070041330003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004133&Seq=003&Type=8"
+        },
+        {
+            "title": "070041330002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004133&Seq=002&Type=8"
+        },
+        {
+            "title": "070041330001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004133&Seq=001&Type=8"
         }
     ]
 }

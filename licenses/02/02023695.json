@@ -1,6 +1,7 @@
 {
     "code": "02023695",
-    "time": "2015-06-25 18:18:55",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023695",
+    "time": "2015-08-23 11:57:35",
     "許可證字號": "衛署藥輸字第023695號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,12 +46,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 71726UT13-103-04-30.pdf 020236950001.jpg",
+            "title": "71726UT13-103-04-30.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023695&Seq=002&Type=9"
         },
         {
-            "title": "外盒 010236950002-2014-08-21.pdf 010236950001-2014-08-21.pdf",
+            "title": "020236950001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023695&Seq=001&Type=9"
+        },
+        {
+            "title": "010236950002-2014-08-21.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023695&Seq=002&Type=8"
+        },
+        {
+            "title": "010236950001-2014-08-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023695&Seq=001&Type=8"
         }
     ]
 }

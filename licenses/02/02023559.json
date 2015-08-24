@@ -1,6 +1,7 @@
 {
     "code": "02023559",
-    "time": "2015-06-22 01:03:06",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023559",
+    "time": "2015-08-23 11:42:46",
     "許可證字號": "衛署藥輸字第023559號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -74,12 +75,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 02-023559-0001_PI_TWI-160215-104-03-09.pdf",
+            "title": "02-023559-0001_PI_TWI-160215-104-03-09.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023559&Seq=001&Type=9"
         },
         {
-            "title": "外盒 02-023559-0003_FL-104-03-09.pdf 02-023559-0002_FB-104-03-09.pdf",
+            "title": "02-023559-0003_FL-104-03-09.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023559&Seq=002&Type=8"
+        },
+        {
+            "title": "02-023559-0002_FB-104-03-09.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023559&Seq=001&Type=8"
         }
     ]
 }

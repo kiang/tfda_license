@@ -1,6 +1,7 @@
 {
     "code": "08013656",
-    "time": "2015-06-23 11:58:49",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08013656",
+    "time": "2015-08-23 19:23:23",
     "許可證字號": "衛署粧輸字第013656號",
     "註銷狀態": "已註銷",
     "註銷日期": "103\/07\/24",
@@ -43,10 +44,18 @@
             "單位": "%(W\/W)"
         }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "080136560001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013656&Seq=001&Type=9"
+        },
+        {
+            "title": "080136560002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013656&Seq=002&Type=8"
+        },
+        {
+            "title": "080136560001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013656&Seq=001&Type=8"
+        }
     ]
 }

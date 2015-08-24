@@ -1,6 +1,7 @@
 {
     "code": "08014100",
-    "time": "2015-06-23 12:10:47",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08014100",
+    "time": "2015-08-23 18:56:51",
     "許可證字號": "衛署粧輸字第014100號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -133,12 +134,28 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 080141000002.jpg 080141000001.jpg",
+            "title": "080141000002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014100&Seq=002&Type=9"
         },
         {
-            "title": "外盒 080141000004.jpg 080141000003.jpg 080141000002.jpg 080141000001.jpg",
+            "title": "080141000001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014100&Seq=001&Type=9"
+        },
+        {
+            "title": "080141000004.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014100&Seq=004&Type=8"
+        },
+        {
+            "title": "080141000003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014100&Seq=003&Type=8"
+        },
+        {
+            "title": "080141000002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014100&Seq=002&Type=8"
+        },
+        {
+            "title": "080141000001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014100&Seq=001&Type=8"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "01057324",
-    "time": "2015-06-25 05:51:18",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057324",
+    "time": "2015-08-23 03:16:29",
     "許可證字號": "衛署藥製字第057324號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,12 +46,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010573240001___20121004.pdf",
+            "title": "010573240001-104-08-13.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057324&Seq=002&Type=9"
+        },
+        {
+            "title": "010573240001___20121004.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057324&Seq=001&Type=9"
         },
         {
-            "title": "外盒 010573240003___20121004.jpg 010573240002___20121004.jpg",
+            "title": "010573240003___20121004.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057324&Seq=002&Type=8"
+        },
+        {
+            "title": "010573240002___20121004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057324&Seq=001&Type=8"
         }
     ]
 }

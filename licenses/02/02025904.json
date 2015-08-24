@@ -1,6 +1,7 @@
 {
     "code": "02025904",
-    "time": "2015-06-25 18:44:18",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025904",
+    "time": "2015-08-23 12:00:46",
     "許可證字號": "衛署藥輸字第025904號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -61,12 +62,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 020259040003 inert E___20130502.pdf 020259040002 insaert___20130502.pdf",
+            "title": "020259040003 inert E___20130502.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025904&Seq=002&Type=9"
         },
         {
-            "title": "外盒 020259040004 label___20130502.pdf 020259040001 carton___20130502.pdf",
+            "title": "020259040002 insaert___20130502.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025904&Seq=001&Type=9"
+        },
+        {
+            "title": "020259040004 label___20130502.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025904&Seq=002&Type=8"
+        },
+        {
+            "title": "020259040001 carton___20130502.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025904&Seq=001&Type=8"
         }
     ]
 }

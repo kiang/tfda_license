@@ -1,6 +1,7 @@
 {
     "code": "01054970",
-    "time": "2015-07-14 10:13:32",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01054970",
+    "time": "2015-08-23 02:52:03",
     "許可證字號": "衛署藥製字第054970號",
     "廢止狀態": "已廢止",
     "廢止日期": "",
@@ -46,12 +47,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010549700001___20100615.pdf",
+            "title": "010549700001___20100615.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01054970&Seq=001&Type=9"
         },
         {
-            "title": "外盒 01549700004___20100615.jpg 01549700003___20100615.jpg 010549700002___20100615.jpg",
+            "title": "01549700004___20100615.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01054970&Seq=003&Type=8"
+        },
+        {
+            "title": "01549700003___20100615.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01054970&Seq=002&Type=8"
+        },
+        {
+            "title": "010549700002___20100615.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01054970&Seq=001&Type=8"
         }
     ]
 }

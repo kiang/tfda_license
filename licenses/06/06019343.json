@@ -1,6 +1,7 @@
 {
     "code": "06019343",
-    "time": "2015-06-24 06:11:47",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019343",
+    "time": "2015-08-22 12:44:15",
     "許可證字號": "衛署醫器輸字第019343號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,17 +39,27 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 060193430002-103-08-19.pdf 仿單-103-04-02.pdf 06-019343-102-07-22.pdf",
+            "title": "060193430002-103-08-19.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019343&Seq=004&Type=9"
         },
         {
-            "title": "外盒 060193430001-103-08-19.pdf 彩圖-103-04-02.pdf",
+            "title": "仿單-103-04-02.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019343&Seq=003&Type=9"
+        },
+        {
+            "title": "06-019343-102-07-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019343&Seq=001&Type=9"
+        },
+        {
+            "title": "060193430001-103-08-19.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019343&Seq=002&Type=8"
+        },
+        {
+            "title": "彩圖-103-04-02.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019343&Seq=001&Type=8"
         }
     ]
 }

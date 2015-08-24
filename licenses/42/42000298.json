@@ -1,6 +1,7 @@
 {
     "code": "42000298",
-    "time": "2015-06-23 23:48:03",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000298",
+    "time": "2015-08-22 04:52:36",
     "許可證字號": "衛署醫器陸輸字第000298號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -39,17 +40,19 @@
     },
     "CCC號列": "63079050204 其他紡織材料製口罩Other masks, of textile materials",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 420002980001___20110322.pdf",
+            "title": "420002980001___20110322.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000298&Seq=001&Type=9"
         },
         {
-            "title": "外盒 420002980002___20110322.pdf 420002980002___.pdf",
+            "title": "420002980002___20110322.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000298&Seq=002&Type=8"
+        },
+        {
+            "title": "420002980002___.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000298&Seq=001&Type=8"
         }
     ]
 }

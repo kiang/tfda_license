@@ -1,6 +1,7 @@
 {
     "code": "01008006",
-    "time": "2015-06-24 17:18:40",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01008006",
+    "time": "2015-08-22 19:51:18",
     "許可證字號": "衛署藥製字第008006號",
     "註銷狀態": "已註銷",
     "註銷日期": "99\/02\/08",
@@ -85,8 +86,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010080060002.jpg 010080060001.jpg",
+            "title": "010080060002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01008006&Seq=002&Type=9"
+        },
+        {
+            "title": "010080060001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01008006&Seq=001&Type=9"
         }
     ]
 }

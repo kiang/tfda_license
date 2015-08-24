@@ -1,6 +1,7 @@
 {
     "code": "05001824",
-    "time": "2015-06-24 03:41:55",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05001824",
+    "time": "2015-08-22 05:18:59",
     "許可證字號": "衛署醫器製字第001824號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,17 +39,35 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 050018240002.jpg 050018240001.jpg",
+            "title": "050018240002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001824&Seq=002&Type=9"
         },
         {
-            "title": "外盒 050018240005.jpg 050018240004.jpg 050018240003.jpg 050018240002.jpg 050018240001.jpg",
+            "title": "050018240001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001824&Seq=001&Type=9"
+        },
+        {
+            "title": "050018240005.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001824&Seq=005&Type=8"
+        },
+        {
+            "title": "050018240004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001824&Seq=004&Type=8"
+        },
+        {
+            "title": "050018240003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001824&Seq=003&Type=8"
+        },
+        {
+            "title": "050018240002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001824&Seq=002&Type=8"
+        },
+        {
+            "title": "050018240001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001824&Seq=001&Type=8"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "01020574",
-    "time": "2015-06-24 21:05:42",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01020574",
+    "time": "2015-08-22 20:09:05",
     "許可證字號": "衛署藥製字第020574號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -85,12 +86,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 020205740001___20101014.jpg 010205740001.doc",
+            "title": "020205740001___20101014.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020574&Seq=002&Type=9"
         },
         {
-            "title": "外盒 020205740003___20101014.jpg 020205740002___20101014.jpg",
+            "title": "010205740001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020574&Seq=001&Type=9"
+        },
+        {
+            "title": "020205740003___20101014.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020574&Seq=002&Type=8"
+        },
+        {
+            "title": "020205740002___20101014.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020574&Seq=001&Type=8"
         }
     ]
 }

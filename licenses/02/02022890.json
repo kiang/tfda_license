@@ -1,6 +1,7 @@
 {
     "code": "02022890",
-    "time": "2015-06-22 01:57:37",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022890",
+    "time": "2015-08-23 13:04:27",
     "許可證字號": "衛署藥輸字第022890號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,7 +19,7 @@
     "包裝": "鋁箔盒裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "主成分略述": "ATORVASTATIN (CALCIUM)",
+    "主成分略述": "ATORVASTATIN CALCIUM (2:1) TRIHYDRATE",
     "限制項目": [
         "02輸入",
         "52依本署七七公告於國內進行臨床試驗且核定為新藥"
@@ -46,21 +47,105 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2406003120",
-            "成分名稱": "ATORVASTATIN (CALCIUM)",
-            "含量描述": "20",
-            "含量": "20.0000000000",
+            "成分代碼": "2406003130",
+            "成分名稱": "ATORVASTATIN CALCIUM (2:1) TRIHYDRATE",
+            "含量描述": "eq. to 20mg Atorvastatin",
+            "含量": "21.7000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 020228900001-103-09-16.pdf 020228900001-103-05-13.pdf Lipitor LLD USPI 201202-2___20130128.pdf 020228900010.jpg 020228900009.jpg 020228900008.jpg 020228900007.jpg 020228900006.jpg 020228900005.jpg 020228900004.jpg 020228900003.jpg 020228900002___20110208.jpg 020228900002.jpg 020228900001___20110208.jpg 020228900001.jpg",
+            "title": "020228900001-104-08-13.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022890&Seq=017&Type=9"
+        },
+        {
+            "title": "020228900001-104-08-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022890&Seq=016&Type=9"
+        },
+        {
+            "title": "020228900001-103-09-16.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022890&Seq=015&Type=9"
         },
         {
-            "title": "外盒 020228900006.jpg 020228900005.jpg 020228900004.jpg 020228900003.jpg 020228900002.jpg 020228900001.jpg",
+            "title": "020228900001-103-05-13.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022890&Seq=014&Type=9"
+        },
+        {
+            "title": "Lipitor LLD USPI 201202-2___20130128.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022890&Seq=013&Type=9"
+        },
+        {
+            "title": "020228900010.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022890&Seq=012&Type=9"
+        },
+        {
+            "title": "020228900009.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022890&Seq=011&Type=9"
+        },
+        {
+            "title": "020228900008.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022890&Seq=010&Type=9"
+        },
+        {
+            "title": "020228900007.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022890&Seq=009&Type=9"
+        },
+        {
+            "title": "020228900006.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022890&Seq=008&Type=9"
+        },
+        {
+            "title": "020228900005.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022890&Seq=007&Type=9"
+        },
+        {
+            "title": "020228900004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022890&Seq=006&Type=9"
+        },
+        {
+            "title": "020228900003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022890&Seq=005&Type=9"
+        },
+        {
+            "title": "020228900002___20110208.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022890&Seq=004&Type=9"
+        },
+        {
+            "title": "020228900002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022890&Seq=003&Type=9"
+        },
+        {
+            "title": "020228900001___20110208.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022890&Seq=002&Type=9"
+        },
+        {
+            "title": "020228900001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022890&Seq=001&Type=9"
+        },
+        {
+            "title": "020228900006.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022890&Seq=006&Type=8"
+        },
+        {
+            "title": "020228900005.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022890&Seq=005&Type=8"
+        },
+        {
+            "title": "020228900004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022890&Seq=004&Type=8"
+        },
+        {
+            "title": "020228900003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022890&Seq=003&Type=8"
+        },
+        {
+            "title": "020228900002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022890&Seq=002&Type=8"
+        },
+        {
+            "title": "020228900001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022890&Seq=001&Type=8"
         }
     ]
 }

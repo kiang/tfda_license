@@ -1,6 +1,7 @@
 {
     "code": "01048463",
-    "time": "2015-08-21 05:53:24",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01048463",
+    "time": "2015-08-24 12:51:48",
     "許可證字號": "衛署藥製字第048463號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -21,7 +22,6 @@
     "主成分略述": "ADAPALENE",
     "限制項目": [
         "01國產",
-        "1G不得製造",
         "25監視中學名藥"
     ],
     "申請商名稱": "1202801200  華盛頓製藥廠股份有限公司",
@@ -47,12 +47,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010484630002.jpg 010484630001.jpg",
+            "title": "010484630002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048463&Seq=002&Type=9"
         },
         {
-            "title": "外盒 010484630002.jpg 010484630001.jpg",
+            "title": "010484630001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048463&Seq=001&Type=9"
+        },
+        {
+            "title": "010484630002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048463&Seq=002&Type=8"
+        },
+        {
+            "title": "010484630001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048463&Seq=001&Type=8"
         }
     ]
 }

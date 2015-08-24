@@ -1,6 +1,7 @@
 {
     "code": "56027031",
-    "time": "2015-06-23 22:34:39",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027031",
+    "time": "2015-08-23 23:51:45",
     "許可證字號": "衛部醫器輸字第027031號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,16 +39,18 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 560270310003-104-04-02.pdf 560270310002-104-04-02.pdf",
+            "title": "560270310003-104-04-02.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027031&Seq=002&Type=9"
         },
         {
-            "title": "外盒 560270310001-104-04-02.pdf",
+            "title": "560270310002-104-04-02.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027031&Seq=001&Type=9"
+        },
+        {
+            "title": "560270310001-104-04-02.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027031&Seq=001&Type=8"
         }
     ]

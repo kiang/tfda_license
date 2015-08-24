@@ -1,6 +1,7 @@
 {
     "code": "02019974",
-    "time": "2015-07-05 02:18:54",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019974",
+    "time": "2015-08-23 10:45:08",
     "許可證字號": "衛署藥輸字第019974號",
     "註銷狀態": "已註銷",
     "註銷日期": "98\/12\/10",
@@ -34,12 +35,43 @@
     "CCC號列": "30044099004 其他醫藥製劑，含有生物鹼或其衍生物，但未含內分泌素，第２９３７節之其他產品或抗生素者Other medicaments, containing alkaloids or derivatives thereof but not containing hormones, other products of heading 29.37 or antibiotics",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0804000230",
+            "成分名稱": "BERBERINE TANNATE",
+            "含量描述": "16.67",
+            "含量": "16.6700000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "1208004503",
+            "成分名稱": "SCOPOLIA EXTRACT POWDER",
+            "含量描述": "33.33",
+            "含量": "33.3300000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5608000100",
+            "成分名稱": "ALBUMIN TANNATE (TANNALBIN)",
+            "含量描述": "125",
+            "含量": "125.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8404000315",
+            "成分名稱": "ETHACRIDINE LACTATE MONOHYDRATE (ACRINOL)",
+            "含量描述": "8.33",
+            "含量": "8.3300000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "020199740001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019974&Seq=001&Type=9"
+        }
     ]
 }

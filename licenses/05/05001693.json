@@ -1,6 +1,7 @@
 {
     "code": "05001693",
-    "time": "2015-06-24 02:39:09",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05001693",
+    "time": "2015-08-22 06:21:51",
     "許可證字號": "衛署醫器製字第001693號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,13 +39,23 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 05001693001___20130120.pdf 050016930003.jpg 050016930002.jpg 050016930001.jpg",
+            "title": "05001693001___20130120.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001693&Seq=004&Type=9"
+        },
+        {
+            "title": "050016930003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001693&Seq=003&Type=9"
+        },
+        {
+            "title": "050016930002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001693&Seq=002&Type=9"
+        },
+        {
+            "title": "050016930001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001693&Seq=001&Type=9"
         }
     ]
 }

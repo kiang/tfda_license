@@ -1,6 +1,7 @@
 {
     "code": "51058591",
-    "time": "2015-07-05 01:35:19",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058591",
+    "time": "2015-08-22 17:08:38",
     "許可證字號": "衛部藥製字第058591號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -35,22 +36,31 @@
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
-
-    ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2406003110",
+            "成分名稱": "ATORVASTATIN CALCIUM",
+            "含量描述": "(eq. to Atorvastatin 20mg)",
+            "含量": "20.6800000000",
+            "單位": "MG"
+        }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010585910001-104-03-09.pdf",
+            "title": "010585910001-104-03-09.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058591&Seq=001&Type=9"
         },
         {
-            "title": "外盒 010585910004-104-03-09.pdf 010585910003-104-03-09.pdf 010585910002-104-03-09.pdf",
+            "title": "010585910004-104-03-09.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058591&Seq=003&Type=8"
+        },
+        {
+            "title": "010585910003-104-03-09.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058591&Seq=002&Type=8"
+        },
+        {
+            "title": "010585910002-104-03-09.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058591&Seq=001&Type=8"
         }
     ]
 }

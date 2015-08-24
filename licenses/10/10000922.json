@@ -1,6 +1,7 @@
 {
     "code": "10000922",
-    "time": "2015-08-21 03:50:35",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000922",
+    "time": "2015-08-24 11:26:42",
     "許可證字號": "衛署菌疫輸字第000922號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,8 +46,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 020009220001-103-10-21.pdf 020009220001-103-02-14.pdf",
+            "title": "020009220001-103-10-21.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000922&Seq=002&Type=9"
+        },
+        {
+            "title": "020009220001-103-02-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000922&Seq=001&Type=9"
         }
     ]
 }

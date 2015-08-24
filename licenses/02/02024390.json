@@ -1,6 +1,7 @@
 {
     "code": "02024390",
-    "time": "2015-07-24 06:08:26",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024390",
+    "time": "2015-08-23 12:25:27",
     "許可證字號": "衛署藥輸字第024390號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -27,7 +28,7 @@
     "申請商地址": "新北市淡水區中正東路二段１７７號",
     "主製造廠": {
         "製造廠名稱": "F470247000  PFIZER MANUFACTURING DEUTSCHLAND GMBH",
-        "製造廠廠址": "Betriebsst&amp;auml;tte Freiburg Mooswaldallee 1, 79090 Freiburg, Germany",
+        "製造廠廠址": "BETRIEBSSTATTE FREIBURG, MOOSWALDALLEE 1, 79090 FREIBURG, GERMANY",
         "製造廠公司地址": "",
         "製造廠國別": "GERMANY",
         "製程": "製造、包裝"
@@ -54,8 +55,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 020243900001-104-05-02.pdf 020243900001-103-05-21.pdf 020243900001-103-05-21.pdf",
+            "title": "020243900001-104-05-02.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024390&Seq=003&Type=9"
+        },
+        {
+            "title": "020243900001-103-05-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024390&Seq=002&Type=9"
+        },
+        {
+            "title": "020243900001-103-05-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024390&Seq=001&Type=9"
         }
     ]
 }

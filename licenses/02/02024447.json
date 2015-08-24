@@ -1,6 +1,7 @@
 {
     "code": "02024447",
-    "time": "2015-06-25 19:12:55",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024447",
+    "time": "2015-08-23 11:45:31",
     "許可證字號": "衛署藥輸字第024447號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -46,12 +47,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 020244470002.jpg 020244470001.jpg",
+            "title": "020244470002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024447&Seq=002&Type=9"
         },
         {
-            "title": "外盒 020244470002.jpg 020244470001.jpg",
+            "title": "020244470001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024447&Seq=001&Type=9"
+        },
+        {
+            "title": "020244470002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024447&Seq=002&Type=8"
+        },
+        {
+            "title": "020244470001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024447&Seq=001&Type=8"
         }
     ]
 }

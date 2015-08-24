@@ -1,6 +1,7 @@
 {
     "code": "08006548",
-    "time": "2015-06-23 08:01:24",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08006548",
+    "time": "2015-08-22 02:41:02",
     "許可證字號": "衛署粧輸字第006548號",
     "註銷狀態": "已註銷",
     "註銷日期": "101\/11\/20",
@@ -45,8 +46,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 080065480002.jpg 080065480001.jpg",
+            "title": "080065480002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08006548&Seq=002&Type=9"
+        },
+        {
+            "title": "080065480001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08006548&Seq=001&Type=9"
         }
     ]
 }

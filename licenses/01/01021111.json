@@ -1,6 +1,7 @@
 {
     "code": "01021111",
-    "time": "2015-06-24 21:27:25",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01021111",
+    "time": "2015-08-22 20:31:12",
     "許可證字號": "衛署藥製字第021111號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -61,8 +62,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010211110003.jpg 010211110002.jpg 010211110001.DOC",
+            "title": "010211110003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021111&Seq=003&Type=9"
+        },
+        {
+            "title": "010211110002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021111&Seq=002&Type=9"
+        },
+        {
+            "title": "010211110001.DOC",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021111&Seq=001&Type=9"
         }
     ]
 }

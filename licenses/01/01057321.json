@@ -1,6 +1,7 @@
 {
     "code": "01057321",
-    "time": "2015-07-24 06:04:34",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057321",
+    "time": "2015-08-23 03:16:25",
     "許可證字號": "衛署藥製字第057321號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -47,12 +48,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 Olan In-104-01-27.pdf 0205732100001___20120829.pdf",
+            "title": "Olan In-104-01-27.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057321&Seq=002&Type=9"
         },
         {
-            "title": "外盒 Olan 10mg La-104-01-27.pdf Olan 10mg Box-104-01-27.pdf 0205732100002___20120829.pdf",
+            "title": "0205732100001___20120829.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057321&Seq=001&Type=9"
+        },
+        {
+            "title": "Olan 10mg La-104-01-27.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057321&Seq=003&Type=8"
+        },
+        {
+            "title": "Olan 10mg Box-104-01-27.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057321&Seq=002&Type=8"
+        },
+        {
+            "title": "0205732100002___20120829.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057321&Seq=001&Type=8"
         }
     ]
 }

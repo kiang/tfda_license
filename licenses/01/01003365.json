@@ -1,6 +1,7 @@
 {
     "code": "01003365",
-    "time": "2015-07-24 05:33:10",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01003365",
+    "time": "2015-08-22 18:17:26",
     "許可證字號": "衛署藥製字第003365號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,7 +39,7 @@
             "成分類別": "主成分",
             "成分代碼": "6804001500",
             "成分名稱": "PREDNISOLONE",
-            "含量描述": "5",
+            "含量描述": "",
             "含量": "5.0000000000",
             "單位": "MG"
         }
@@ -61,8 +62,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010033650005.JPG 010033650004.JPG 010033650003.JPG 010033650002.JPG 010033650001.doc",
+            "title": "010033650005.JPG",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003365&Seq=005&Type=9"
+        },
+        {
+            "title": "010033650004.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003365&Seq=004&Type=9"
+        },
+        {
+            "title": "010033650003.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003365&Seq=003&Type=9"
+        },
+        {
+            "title": "010033650002.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003365&Seq=002&Type=9"
+        },
+        {
+            "title": "010033650001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003365&Seq=001&Type=9"
         }
     ]
 }

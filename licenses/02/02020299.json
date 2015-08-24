@@ -1,6 +1,7 @@
 {
     "code": "02020299",
-    "time": "2015-08-21 06:00:03",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02020299",
+    "time": "2015-08-24 12:58:13",
     "許可證字號": "衛署藥輸字第020299號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,12 +46,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 中文仿單Valpro 200-102-11-08.pdf 020202990001.jpg",
+            "title": "中文仿單Valpro 200-102-11-08.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020299&Seq=002&Type=9"
         },
         {
-            "title": "外盒 標籤Valpro 200-102-11-08.pdf Valpro 200 外盒-102-11-08.pdf",
+            "title": "020202990001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020299&Seq=001&Type=9"
+        },
+        {
+            "title": "標籤Valpro 200-102-11-08.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020299&Seq=002&Type=8"
+        },
+        {
+            "title": "Valpro 200 外盒-102-11-08.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020299&Seq=001&Type=8"
         }
     ]
 }

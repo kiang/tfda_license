@@ -1,6 +1,7 @@
 {
     "code": "12006173",
-    "time": "2015-06-24 10:03:42",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12006173",
+    "time": "2015-08-23 12:07:55",
     "許可證字號": "內衛藥製字第006173號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -85,8 +86,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010061730001-102-05-24.pdf 120061730002.jpg 120061730001.jpg",
+            "title": "010061730001-102-05-24.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12006173&Seq=003&Type=9"
+        },
+        {
+            "title": "120061730002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12006173&Seq=002&Type=9"
+        },
+        {
+            "title": "120061730001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12006173&Seq=001&Type=9"
         }
     ]
 }

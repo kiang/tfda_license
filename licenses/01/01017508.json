@@ -1,6 +1,7 @@
 {
     "code": "01017508",
-    "time": "2015-06-24 18:59:26",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01017508",
+    "time": "2015-08-22 21:43:37",
     "許可證字號": "衛署藥製字第017508號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -61,12 +62,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010175080001-103-11-03.pdf 010175080002.jpg 010175080001.jpg",
+            "title": "010175080001-103-11-03.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01017508&Seq=003&Type=9"
         },
         {
-            "title": "外盒 010175080003-103-11-03.jpg 010175080002-103-11-03.jpg",
+            "title": "010175080002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01017508&Seq=002&Type=9"
+        },
+        {
+            "title": "010175080001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01017508&Seq=001&Type=9"
+        },
+        {
+            "title": "010175080003-103-11-03.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01017508&Seq=002&Type=8"
+        },
+        {
+            "title": "010175080002-103-11-03.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01017508&Seq=001&Type=8"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "01057200",
-    "time": "2015-06-25 04:56:18",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057200",
+    "time": "2015-08-23 04:05:50",
     "許可證字號": "衛署藥製字第057200號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -67,12 +68,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010572000001___20120522.pdf",
+            "title": "010572000001___20120522.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057200&Seq=001&Type=9"
         },
         {
-            "title": "外盒 010572000004___20120522.jpg 010572000003___20120522.jpg 010572000002___20120522.jpg",
+            "title": "010572000004___20120522.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057200&Seq=003&Type=8"
+        },
+        {
+            "title": "010572000003___20120522.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057200&Seq=002&Type=8"
+        },
+        {
+            "title": "010572000002___20120522.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057200&Seq=001&Type=8"
         }
     ]
 }

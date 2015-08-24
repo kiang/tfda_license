@@ -1,6 +1,7 @@
 {
     "code": "01017402",
-    "time": "2015-06-24 19:20:52",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01017402",
+    "time": "2015-08-23 13:30:42",
     "許可證字號": "衛署藥製字第017402號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,8 +21,7 @@
     "管制藥品分類級別": "",
     "主成分略述": "CHLORPHENIRAMINE MALEATE, DL-METHYLEPHEDRINE HCL, ACETAMINOPHEN (EQ TO PARACETAMOL), ETHENZAMIDE (ETHOXYBENZAMIDE), CAFFEINE, NOSCAPINE",
     "限制項目": [
-        "01國產",
-        "1G不得製造"
+        "01國產"
     ],
     "申請商名稱": "0701010200  利達製藥股份有限公司",
     "申請商地址": "台中市大甲區中山路一段９０６號",
@@ -86,8 +86,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 SNC-賜爾寧膠囊20130815-102-09-03.doc 106046-SNC 1000S 賜爾寧-130820-102-09-03.jpg 010174020001.jpg",
+            "title": "SNC-賜爾寧膠囊20130815-102-09-03.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01017402&Seq=003&Type=9"
+        },
+        {
+            "title": "106046-SNC 1000S 賜爾寧-130820-102-09-03.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01017402&Seq=002&Type=9"
+        },
+        {
+            "title": "010174020001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01017402&Seq=001&Type=9"
         }
     ]
 }

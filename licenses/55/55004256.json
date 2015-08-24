@@ -1,6 +1,7 @@
 {
     "code": "55004256",
-    "time": "2015-08-21 05:12:33",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=55004256",
+    "time": "2015-08-24 12:13:27",
     "許可證字號": "衛部醫器製字第004256號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -39,17 +40,23 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 550042560001-103-01-29.pdf 550042560002-102-11-04.pdf",
+            "title": "550042560001-103-01-29.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55004256&Seq=002&Type=9"
         },
         {
-            "title": "外盒 550042560001-103-01-29.pdf 550042560001-102-11-04.pdf",
+            "title": "550042560002-102-11-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55004256&Seq=001&Type=9"
+        },
+        {
+            "title": "550042560001-103-01-29.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55004256&Seq=002&Type=8"
+        },
+        {
+            "title": "550042560001-102-11-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55004256&Seq=001&Type=8"
         }
     ]
 }

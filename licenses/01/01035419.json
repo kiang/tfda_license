@@ -1,6 +1,7 @@
 {
     "code": "01035419",
-    "time": "2015-06-25 00:40:20",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01035419",
+    "time": "2015-08-23 00:07:17",
     "許可證字號": "衛署藥製字第035419號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -78,12 +79,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010354190002.jpg 010354190001.jpg 0103541900001___20121106.pdf",
+            "title": "010354190002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035419&Seq=003&Type=9"
         },
         {
-            "title": "外盒 0103541900003___20121106.pdf 0103541900002___20121106.pdf",
+            "title": "010354190001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035419&Seq=002&Type=9"
+        },
+        {
+            "title": "0103541900001___20121106.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035419&Seq=001&Type=9"
+        },
+        {
+            "title": "0103541900003___20121106.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035419&Seq=002&Type=8"
+        },
+        {
+            "title": "0103541900002___20121106.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035419&Seq=001&Type=8"
         }
     ]
 }

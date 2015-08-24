@@ -1,6 +1,7 @@
 {
     "code": "01034517",
-    "time": "2015-07-24 05:46:22",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01034517",
+    "time": "2015-08-23 01:22:26",
     "許可證字號": "衛署藥製字第034517號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -69,12 +70,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 20150424085140940-104-04-30.pdf 010345170001___20120117.jpg",
+            "title": "20150424085140940-104-04-30.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034517&Seq=002&Type=9"
         },
         {
-            "title": "外盒 010345170004___20120117.jpg 010345170003___20120117.jpg 010345170002___20120117.jpg",
+            "title": "010345170001___20120117.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034517&Seq=001&Type=9"
+        },
+        {
+            "title": "010345170004___20120117.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034517&Seq=003&Type=8"
+        },
+        {
+            "title": "010345170003___20120117.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034517&Seq=002&Type=8"
+        },
+        {
+            "title": "010345170002___20120117.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034517&Seq=001&Type=8"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "01000863",
-    "time": "2015-06-22 01:55:31",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01000863",
+    "time": "2015-08-22 18:19:55",
     "許可證字號": "衛署藥製字第000863號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -61,12 +62,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 衛署藥製字第000863-104-01-20.pdf",
+            "title": "衛署藥製字第000863-104-01-20.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01000863&Seq=001&Type=9"
         },
         {
-            "title": "外盒 010008630002_20140905-104-01-20.pdf 010008630001_20140905-104-01-20.pdf",
+            "title": "010008630002_20140905-104-01-20.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01000863&Seq=002&Type=8"
+        },
+        {
+            "title": "010008630001_20140905-104-01-20.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01000863&Seq=001&Type=8"
         }
     ]
 }

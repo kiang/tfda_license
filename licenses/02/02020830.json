@@ -1,6 +1,7 @@
 {
     "code": "02020830",
-    "time": "2015-07-05 00:38:37",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02020830",
+    "time": "2015-08-23 11:18:03",
     "許可證字號": "衛署藥輸字第020830號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -43,12 +44,31 @@
         }
     ],
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "6816000300",
+            "成分名稱": "ESTRIOL",
+            "含量描述": "",
+            "含量": "1.0000000000",
+            "單位": "MG"
+        }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 020208300004.jpg 020208300003.jpg 020208300002.jpg 020208300001.jpg",
+            "title": "020208300004.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020830&Seq=004&Type=9"
+        },
+        {
+            "title": "020208300003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020830&Seq=003&Type=9"
+        },
+        {
+            "title": "020208300002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020830&Seq=002&Type=9"
+        },
+        {
+            "title": "020208300001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020830&Seq=001&Type=9"
         }
     ]
 }

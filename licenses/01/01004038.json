@@ -1,6 +1,7 @@
 {
     "code": "01004038",
-    "time": "2015-07-05 01:38:18",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01004038",
+    "time": "2015-08-22 18:57:15",
     "許可證字號": "衛署藥製字第004038號",
     "註銷狀態": "已註銷",
     "註銷日期": "98\/12\/30",
@@ -34,12 +35,13 @@
     "CCC號列": "30041010104 人用醫藥製劑，含青黴素類或具有青黴素酸結構之衍生物者Medicaments, containing penicillins or derivatives thereof,with a penicillinic acid structure, for human use",
     "藥理治療分類": "",
     "ingredients": [
-
-    ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812609320",
+            "成分名稱": "AMPICILLIN (SODIUM)",
+            "含量描述": "1",
+            "含量": "1.0000000000",
+            "單位": "GM"
+        }
     ]
 }

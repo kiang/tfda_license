@@ -1,6 +1,7 @@
 {
     "code": "01007986",
-    "time": "2015-07-05 01:36:02",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01007986",
+    "time": "2015-08-22 19:51:08",
     "許可證字號": "衛署藥製字第007986號",
     "註銷狀態": "已註銷",
     "註銷日期": "99\/03\/05",
@@ -34,12 +35,23 @@
     "CCC號列": "30045000009 含有維他命或第２９３６節產品之其他醫藥製劑Other medicaments containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8820000213",
+            "成分名稱": "TOCOPHEROL ACETATE ALPHA DL-",
+            "含量描述": "100",
+            "含量": "100.0000000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "010079860002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01007986&Seq=002&Type=9"
+        },
+        {
+            "title": "010079860001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01007986&Seq=001&Type=9"
+        }
     ]
 }

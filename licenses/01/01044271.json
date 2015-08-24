@@ -1,6 +1,7 @@
 {
     "code": "01044271",
-    "time": "2015-08-21 05:51:34",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01044271",
+    "time": "2015-08-24 12:49:47",
     "許可證字號": "衛署藥製字第044271號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,8 +21,7 @@
     "管制藥品分類級別": "",
     "主成分略述": "ALUMINUM HYDROXIDE DRIED GEL, MAGNESIUM HYDROXIDE, SIMETHICONE (ACTIVE DIMETHICONE)",
     "限制項目": [
-        "01國產",
-        "1G不得製造"
+        "01國產"
     ],
     "申請商名稱": "1202801200  華盛頓製藥廠股份有限公司",
     "申請商地址": "高雄市仁武區仁武里工業二路12號",
@@ -62,12 +62,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010442710001.jpg",
+            "title": "010442710001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044271&Seq=001&Type=9"
         },
         {
-            "title": "外盒 010442710003.jpg 010442710002.jpg 010442710001.jpg",
+            "title": "010442710003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044271&Seq=003&Type=8"
+        },
+        {
+            "title": "010442710002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044271&Seq=002&Type=8"
+        },
+        {
+            "title": "010442710001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044271&Seq=001&Type=8"
         }
     ]
 }

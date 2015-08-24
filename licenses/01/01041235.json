@@ -1,6 +1,7 @@
 {
     "code": "01041235",
-    "time": "2015-06-22 01:38:31",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01041235",
+    "time": "2015-08-23 01:06:54",
     "許可證字號": "衛署藥製字第041235號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,13 +21,15 @@
     "管制藥品分類級別": "",
     "主成分略述": "CALCIUM CARBONATE, CHOLECALCIFEROL ( EQ TO VIT D3) ( EQ TO VITAMIN D3)",
     "限制項目": [
-        "01國產"
+        "01國產",
+        "09委託製造",
+        "1G不得製造"
     ],
     "申請商名稱": "1103401100  健喬信元醫藥生技股份有限公司",
     "申請商地址": "新竹縣湖口鄉光復北路21巷4號",
     "主製造廠": {
-        "製造廠名稱": "620102P136  躍欣生技醫藥股份有限公司",
-        "製造廠廠址": "新竹縣湖口鄉光復路10號",
+        "製造廠名稱": "6133061486  優良化學製藥股份有限公司",
+        "製造廠廠址": "新竹縣湖口鄉中興村光復路10號",
         "製造廠公司地址": "",
         "製造廠國別": "TAIWAN",
         "製程": ""
@@ -73,12 +76,32 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010412350004.jpg 010412350003.jpg 010412350002.jpg 010412350001.jpg 010412350001.doc",
+            "title": "010412350004.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041235&Seq=005&Type=9"
         },
         {
-            "title": "外盒 010412350002.jpg 010412350001.jpg",
+            "title": "010412350003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041235&Seq=004&Type=9"
+        },
+        {
+            "title": "010412350002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041235&Seq=003&Type=9"
+        },
+        {
+            "title": "010412350001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041235&Seq=002&Type=9"
+        },
+        {
+            "title": "010412350001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041235&Seq=001&Type=9"
+        },
+        {
+            "title": "010412350002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041235&Seq=002&Type=8"
+        },
+        {
+            "title": "010412350001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041235&Seq=001&Type=8"
         }
     ]
 }

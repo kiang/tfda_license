@@ -1,6 +1,7 @@
 {
     "code": "02025465",
-    "time": "2015-06-25 18:40:57",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025465",
+    "time": "2015-08-23 12:18:23",
     "許可證字號": "衛署藥輸字第025465號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -47,12 +48,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 package-insert___20110901.pdf chinese leaflet___20110901.pdf",
+            "title": "package-insert___20110901.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025465&Seq=002&Type=9"
         },
         {
-            "title": "外盒 300mg label___20110901.PDF 25mg+300mg Apotex label___20110901.PDF",
+            "title": "chinese leaflet___20110901.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025465&Seq=001&Type=9"
+        },
+        {
+            "title": "300mg label___20110901.PDF",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025465&Seq=002&Type=8"
+        },
+        {
+            "title": "25mg+300mg Apotex label___20110901.PDF",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025465&Seq=001&Type=8"
         }
     ]
 }

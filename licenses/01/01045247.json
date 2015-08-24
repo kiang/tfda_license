@@ -1,6 +1,7 @@
 {
     "code": "01045247",
-    "time": "2015-06-25 04:13:00",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01045247",
+    "time": "2015-08-23 02:19:56",
     "許可證字號": "衛署藥製字第045247號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -61,12 +62,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010452470001___20130416.pdf 010452470001.jpg",
+            "title": "010452470001___20130416.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045247&Seq=002&Type=9"
         },
         {
-            "title": "外盒 010452470002___20130416.jpg 010452470002.jpg 010452470001.jpg",
+            "title": "010452470001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045247&Seq=001&Type=9"
+        },
+        {
+            "title": "010452470002___20130416.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045247&Seq=003&Type=8"
+        },
+        {
+            "title": "010452470002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045247&Seq=002&Type=8"
+        },
+        {
+            "title": "010452470001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045247&Seq=001&Type=8"
         }
     ]
 }

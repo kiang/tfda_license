@@ -1,6 +1,7 @@
 {
     "code": "01028921",
-    "time": "2015-06-24 22:01:04",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01028921",
+    "time": "2015-08-22 23:22:49",
     "許可證字號": "衛署藥製字第028921號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -61,12 +62,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010289210003.jpg 010289210002.jpg 010289210001.doc",
+            "title": "010289210003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028921&Seq=003&Type=9"
         },
         {
-            "title": "外盒 010289210002.jpg 010289210001.jpg",
+            "title": "010289210002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028921&Seq=002&Type=9"
+        },
+        {
+            "title": "010289210001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028921&Seq=001&Type=9"
+        },
+        {
+            "title": "010289210002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028921&Seq=002&Type=8"
+        },
+        {
+            "title": "010289210001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028921&Seq=001&Type=8"
         }
     ]
 }

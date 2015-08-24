@@ -1,6 +1,7 @@
 {
     "code": "21000007",
-    "time": "2015-08-21 03:53:09",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=21000007",
+    "time": "2015-08-24 11:28:18",
     "許可證字號": "衛署罕藥製字第000007號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -46,11 +47,19 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 1046004192-21000007-仿單-104-01-27.pdf 210000070002.jpg 210000070001.jpg",
+            "title": "1046004192-21000007-仿單-104-01-27.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=21000007&Seq=003&Type=9"
         },
         {
-            "title": "外盒 1046004192-21000007-標籤-104-01-27.pdf",
+            "title": "210000070002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=21000007&Seq=002&Type=9"
+        },
+        {
+            "title": "210000070001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=21000007&Seq=001&Type=9"
+        },
+        {
+            "title": "1046004192-21000007-標籤-104-01-27.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=21000007&Seq=001&Type=8"
         }
     ]

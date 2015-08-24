@@ -1,6 +1,7 @@
 {
     "code": "42000369",
-    "time": "2015-06-23 23:30:06",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000369",
+    "time": "2015-08-22 13:41:59",
     "許可證字號": "衛署醫器陸輸字第000369號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,17 +39,23 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 420003690001___20120329.jpg",
+            "title": "420003690001___20120329.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000369&Seq=001&Type=9"
         },
         {
-            "title": "外盒 420003690004___20120329.jpg 420003690003___20120329.jpg 420003690002___20120329.jpg",
+            "title": "420003690004___20120329.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000369&Seq=003&Type=8"
+        },
+        {
+            "title": "420003690003___20120329.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000369&Seq=002&Type=8"
+        },
+        {
+            "title": "420003690002___20120329.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000369&Seq=001&Type=8"
         }
     ]
 }

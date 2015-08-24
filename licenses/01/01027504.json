@@ -1,6 +1,7 @@
 {
     "code": "01027504",
-    "time": "2015-06-24 23:00:22",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01027504",
+    "time": "2015-08-22 23:02:10",
     "許可證字號": "衛署藥製字第027504號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -109,8 +110,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010275040003.jpg 010275040002.jpg 010275040001.jpg",
+            "title": "010275040003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027504&Seq=003&Type=9"
+        },
+        {
+            "title": "010275040002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027504&Seq=002&Type=9"
+        },
+        {
+            "title": "010275040001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027504&Seq=001&Type=9"
         }
     ]
 }

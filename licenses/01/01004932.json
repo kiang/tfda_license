@@ -1,6 +1,7 @@
 {
     "code": "01004932",
-    "time": "2015-07-05 01:38:53",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01004932",
+    "time": "2015-08-22 18:12:18",
     "許可證字號": "衛署藥製字第004932號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -35,12 +36,43 @@
     "CCC號列": "30045000009 含有維他命或第２９３６節產品之其他醫藥製劑Other medicaments containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8810100800",
+            "成分名稱": "THIAMINE DISULFIDE",
+            "含量描述": "50",
+            "含量": "50.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8810600300",
+            "成分名稱": "PYRIDOXINE HCL",
+            "含量描述": "100",
+            "含量": "100.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8811200400",
+            "成分名稱": "HYDROXOCOBALAMIN",
+            "含量描述": "1000",
+            "含量": "1000.0000000000",
+            "單位": "MCG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "說明書-蘭維他注射液-103-07-01.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004932&Seq=003&Type=9"
+        },
+        {
+            "title": "010049320002.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004932&Seq=002&Type=9"
+        },
+        {
+            "title": "010049320001.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004932&Seq=001&Type=9"
+        }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "52026491",
-    "time": "2015-06-24 14:28:54",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026491",
+    "time": "2015-08-22 19:07:30",
     "許可證字號": "衛部藥輸字第026491號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -46,12 +47,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 中文仿單-104-05-12.pdf",
+            "title": "中文仿單-104-05-12.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026491&Seq=001&Type=9"
         },
         {
-            "title": "外盒 鋁箔-104-05-12.pdf 外盒-104-05-12.pdf 中文標籤-104-05-12.pdf",
+            "title": "鋁箔-104-05-12.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026491&Seq=003&Type=8"
+        },
+        {
+            "title": "外盒-104-05-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026491&Seq=002&Type=8"
+        },
+        {
+            "title": "中文標籤-104-05-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026491&Seq=001&Type=8"
         }
     ]
 }

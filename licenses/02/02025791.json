@@ -1,6 +1,7 @@
 {
     "code": "02025791",
-    "time": "2015-06-25 19:06:03",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025791",
+    "time": "2015-08-23 12:40:59",
     "許可證字號": "衛署藥輸字第025791號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -33,22 +34,6 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "次製造廠": [
-        {
-            "製造廠名稱": "1437920300  臺灣神隆股份有限公司",
-            "製造廠廠址": "台南市善化區台南科學園區南科八路１號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
-            "製程": "主成分(drug substance)製造廠"
-        },
-        {
-            "製造廠名稱": "F200040000  DR. REDDY'S LABORATORIES LTD.",
-            "製造廠廠址": "7-1-27, AMEERPET HYDERABAD-500016, ANDHRA PRADESH, INDIA",
-            "製造廠公司地址": "",
-            "製造廠國別": "INDIA",
-            "製程": "主成分(drug substance)製造廠"
-        }
-    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -61,12 +46,32 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 Topotecan Ebewbe Chinese PI 領證用1011119___20121126.pdf",
+            "title": "Topotecan Ebewbe Chinese PI 領證用1011119___20121126.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025791&Seq=001&Type=9"
         },
         {
-            "title": "外盒 Topotecan Sandoz_4MG_4ML_label___20121126.pdf Topotecan Sandoz_4MG_4ML_carton___20121126.pdf Topotecan Sandoz_3MG_3ML_label___20121126.pdf Topotecan Sandoz_3MG_3ML_carton___20121126.pdf Topotecan Sandoz_1MG_1ML_label___20121126.pdf Topotecan Sandoz _1MG_1ML_carton___20121126.pdf",
+            "title": "Topotecan Sandoz_4MG_4ML_label___20121126.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025791&Seq=006&Type=8"
+        },
+        {
+            "title": "Topotecan Sandoz_4MG_4ML_carton___20121126.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025791&Seq=005&Type=8"
+        },
+        {
+            "title": "Topotecan Sandoz_3MG_3ML_label___20121126.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025791&Seq=004&Type=8"
+        },
+        {
+            "title": "Topotecan Sandoz_3MG_3ML_carton___20121126.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025791&Seq=003&Type=8"
+        },
+        {
+            "title": "Topotecan Sandoz_1MG_1ML_label___20121126.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025791&Seq=002&Type=8"
+        },
+        {
+            "title": "Topotecan Sandoz _1MG_1ML_carton___20121126.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025791&Seq=001&Type=8"
         }
     ]
 }

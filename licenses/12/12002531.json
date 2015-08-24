@@ -1,6 +1,7 @@
 {
     "code": "12002531",
-    "time": "2015-07-05 01:34:51",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12002531",
+    "time": "2015-08-23 13:44:25",
     "許可證字號": "內衛藥製字第002531號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,12 +35,51 @@
     "CCC號列": "30043200002 含有腎上腺皮質類固醇荷爾蒙，其衍生物及結構式類似者Containing adrenal corticosteroid hormones, their derivatives and structural analogues",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "6804001500",
+            "成分名稱": "PREDNISOLONE",
+            "含量描述": "5",
+            "含量": "5.0000000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "120025310006.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002531&Seq=006&Type=9"
+        },
+        {
+            "title": "120025310005.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002531&Seq=005&Type=9"
+        },
+        {
+            "title": "120025310004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002531&Seq=004&Type=9"
+        },
+        {
+            "title": "120025310003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002531&Seq=003&Type=9"
+        },
+        {
+            "title": "120025310002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002531&Seq=002&Type=9"
+        },
+        {
+            "title": "120025310001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002531&Seq=001&Type=9"
+        },
+        {
+            "title": "120025310003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002531&Seq=003&Type=8"
+        },
+        {
+            "title": "120025310002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002531&Seq=002&Type=8"
+        },
+        {
+            "title": "120025310001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002531&Seq=001&Type=8"
+        }
     ]
 }

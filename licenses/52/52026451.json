@@ -1,6 +1,7 @@
 {
     "code": "52026451",
-    "time": "2015-06-24 14:43:41",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026451",
+    "time": "2015-08-23 13:40:20",
     "許可證字號": "衛部藥輸字第026451號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -42,13 +43,15 @@
             "製程": "公司"
         }
     ],
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 020264510001-103-12-12.jpg 020264510002-103-12-12.jpg",
+            "title": "020264510001-103-12-12.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026451&Seq=002&Type=9"
+        },
+        {
+            "title": "020264510002-103-12-12.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026451&Seq=001&Type=9"
         }
     ]
 }

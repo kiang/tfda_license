@@ -1,6 +1,7 @@
 {
     "code": "05003500",
-    "time": "2015-06-24 02:24:52",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05003500",
+    "time": "2015-08-22 06:15:48",
     "許可證字號": "衛署醫器製字第003500號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,16 +39,26 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 醫器製字第003500-102-07-16.pdf 05003500台塑 EV71___20121001.pdf 050035000002___20120218.jpg 050035000001___20120218.jpg",
+            "title": "醫器製字第003500-102-07-16.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003500&Seq=004&Type=9"
         },
         {
-            "title": "外盒 050035000001___20120218.pdf",
+            "title": "05003500台塑 EV71___20121001.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003500&Seq=003&Type=9"
+        },
+        {
+            "title": "050035000002___20120218.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003500&Seq=002&Type=9"
+        },
+        {
+            "title": "050035000001___20120218.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003500&Seq=001&Type=9"
+        },
+        {
+            "title": "050035000001___20120218.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003500&Seq=001&Type=8"
         }
     ]

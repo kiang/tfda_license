@@ -1,6 +1,7 @@
 {
     "code": "02004560",
-    "time": "2015-07-05 01:56:22",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02004560",
+    "time": "2015-08-23 03:58:05",
     "許可證字號": "衛署藥輸字第004560號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,12 +35,13 @@
     "CCC號列": "29163990005 其他芳香族一元羧酸、其酐、鹵化物、過氧化物、過氧酸及其衍生物Other aromatic monocarboxglic acids, their anhydrides, halides, peroxides, peroxgacids and their derivatives",
     "藥理治療分類": "",
     "ingredients": [
-
-    ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2808401300",
+            "成分名稱": "IBUPROFEN",
+            "含量描述": "98.5-101",
+            "含量": "",
+            "單位": "%"
+        }
     ]
 }

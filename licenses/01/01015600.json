@@ -1,6 +1,7 @@
 {
     "code": "01015600",
-    "time": "2015-06-22 01:34:24",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01015600",
+    "time": "2015-08-22 20:50:26",
     "許可證字號": "衛署藥製字第015600號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -61,11 +62,15 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 0100156000001-104-03-20.pdf 010156000001.doc",
+            "title": "0100156000001-104-03-20.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01015600&Seq=002&Type=9"
         },
         {
-            "title": "外盒 0100156000001-104-03-20.pdf",
+            "title": "010156000001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01015600&Seq=001&Type=9"
+        },
+        {
+            "title": "0100156000001-104-03-20.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01015600&Seq=001&Type=8"
         }
     ]

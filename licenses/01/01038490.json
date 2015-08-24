@@ -1,6 +1,7 @@
 {
     "code": "01038490",
-    "time": "2015-06-25 01:16:08",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01038490",
+    "time": "2015-08-23 00:54:34",
     "許可證字號": "衛署藥製字第038490號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,12 +46,28 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010384900003.jpg 010384900002.jpg 010384900001.doc",
+            "title": "010384900003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038490&Seq=003&Type=9"
         },
         {
-            "title": "外盒 010384900003.jpg 010384900002.jpg 010384900001.jpg",
+            "title": "010384900002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038490&Seq=002&Type=9"
+        },
+        {
+            "title": "010384900001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038490&Seq=001&Type=9"
+        },
+        {
+            "title": "010384900003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038490&Seq=003&Type=8"
+        },
+        {
+            "title": "010384900002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038490&Seq=002&Type=8"
+        },
+        {
+            "title": "010384900001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038490&Seq=001&Type=8"
         }
     ]
 }

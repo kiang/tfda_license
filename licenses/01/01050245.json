@@ -1,6 +1,7 @@
 {
     "code": "01050245",
-    "time": "2015-06-25 05:45:04",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01050245",
+    "time": "2015-08-23 02:43:36",
     "許可證字號": "衛署藥製字第050245號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -33,17 +34,31 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 醫用液態氣體仿單-高雄 9808-Final.doc 醫用液態氣體仿單-高雄 201002-MODIFIED.doc",
+            "title": "醫用液態氣體仿單-高雄 9808-Final.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050245&Seq=002&Type=9"
         },
         {
-            "title": "外盒 容器標籤-高雄 9808- Final.doc 容器標籤-高雄 210102- MODIFIED.doc 175L LGC 外盒照片.doc 175L LGC 外盒.doc",
+            "title": "醫用液態氣體仿單-高雄 201002-MODIFIED.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050245&Seq=001&Type=9"
+        },
+        {
+            "title": "容器標籤-高雄 9808- Final.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050245&Seq=004&Type=8"
+        },
+        {
+            "title": "容器標籤-高雄 210102- MODIFIED.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050245&Seq=003&Type=8"
+        },
+        {
+            "title": "175L LGC 外盒照片.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050245&Seq=002&Type=8"
+        },
+        {
+            "title": "175L LGC 外盒.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050245&Seq=001&Type=8"
         }
     ]
 }

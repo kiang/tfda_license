@@ -1,6 +1,7 @@
 {
     "code": "51058604",
-    "time": "2015-06-24 13:37:38",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058604",
+    "time": "2015-08-22 17:10:08",
     "許可證字號": "衛部藥製字第058604號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -47,12 +48,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010586040001-104-03-03.pdf",
+            "title": "010586040001-104-03-03.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058604&Seq=001&Type=9"
         },
         {
-            "title": "外盒 010586040004-104-03-03.pdf 010586040003-104-03-03.pdf 010586040002-104-03-03.pdf",
+            "title": "010586040004-104-03-03.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058604&Seq=003&Type=8"
+        },
+        {
+            "title": "010586040003-104-03-03.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058604&Seq=002&Type=8"
+        },
+        {
+            "title": "010586040002-104-03-03.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058604&Seq=001&Type=8"
         }
     ]
 }

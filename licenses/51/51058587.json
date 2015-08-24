@@ -1,6 +1,7 @@
 {
     "code": "51058587",
-    "time": "2015-07-05 01:35:16",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058587",
+    "time": "2015-08-22 17:08:33",
     "許可證字號": "衛部藥製字第058587號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,12 +35,39 @@
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "1212002310",
+            "成分名稱": "PHENYLEPHRINE HCL",
+            "含量描述": "",
+            "含量": "2.5000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2808000100",
+            "成分名稱": "ACETAMINOPHEN (EQ TO PARACETAMOL)",
+            "含量描述": "",
+            "含量": "150.0000000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "感冒熱飲沖泡顆粒劑-仿單-104-08-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058587&Seq=002&Type=9"
+        },
+        {
+            "title": "感冒熱飲沖泡顆粒劑-說-104-05-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058587&Seq=001&Type=9"
+        },
+        {
+            "title": "感冒熱飲沖泡顆粒劑-標-104-05-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058587&Seq=002&Type=8"
+        },
+        {
+            "title": "感冒熱飲沖泡顆粒劑-紙盒-104-05-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058587&Seq=001&Type=8"
+        }
     ]
 }

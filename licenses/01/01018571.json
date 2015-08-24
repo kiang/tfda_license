@@ -1,6 +1,7 @@
 {
     "code": "01018571",
-    "time": "2015-06-24 19:50:33",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01018571",
+    "time": "2015-08-22 22:24:20",
     "許可證字號": "衛署藥製字第018571號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,8 +46,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010185710003.jpg 010185710002.jpg 010185710001.DOC",
+            "title": "010185710003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018571&Seq=003&Type=9"
+        },
+        {
+            "title": "010185710002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018571&Seq=002&Type=9"
+        },
+        {
+            "title": "010185710001.DOC",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018571&Seq=001&Type=9"
         }
     ]
 }

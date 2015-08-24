@@ -1,6 +1,7 @@
 {
     "code": "01012352",
-    "time": "2015-06-24 18:42:51",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01012352",
+    "time": "2015-08-22 20:00:29",
     "許可證字號": "衛署藥製字第012352號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -69,8 +70,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010123520001-104-06-12.pdf 010123520001.doc",
+            "title": "010123520001-104-06-12.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012352&Seq=002&Type=9"
+        },
+        {
+            "title": "010123520001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012352&Seq=001&Type=9"
         }
     ]
 }

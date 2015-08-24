@@ -1,6 +1,7 @@
 {
     "code": "01049265",
-    "time": "2015-07-05 01:41:53",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01049265",
+    "time": "2015-08-23 04:04:46",
     "許可證字號": "衛署藥製字第049265號",
     "註銷狀態": "已註銷",
     "註銷日期": "102\/03\/20",
@@ -34,12 +35,23 @@
     "CCC號列": "33061020107 含藥漱口劑、口腔芳香劑Medicated mouth washes, oral perfume",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5204900234",
+            "成分名稱": "20% CHLORHEXIDINE GLUCONATE SOLUTION",
+            "含量描述": "(eq. to Chlorhexidine Gluconate 2mg)",
+            "含量": "0.0100000000",
+            "單位": "ML"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "010492650001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049265&Seq=001&Type=9"
+        },
+        {
+            "title": "010492650001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049265&Seq=001&Type=8"
+        }
     ]
 }

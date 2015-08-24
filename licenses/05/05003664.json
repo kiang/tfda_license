@@ -1,6 +1,7 @@
 {
     "code": "05003664",
-    "time": "2015-06-24 01:55:09",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05003664",
+    "time": "2015-08-22 07:31:54",
     "許可證字號": "衛署醫器製字第003664號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,17 +39,19 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 060036640001___20120920.pdf",
+            "title": "060036640001___20120920.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003664&Seq=001&Type=9"
         },
         {
-            "title": "外盒 060036640003___20120920.pdf 060036640002___20120920.pdf",
+            "title": "060036640003___20120920.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003664&Seq=002&Type=8"
+        },
+        {
+            "title": "060036640002___20120920.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003664&Seq=001&Type=8"
         }
     ]
 }

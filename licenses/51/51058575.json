@@ -1,6 +1,7 @@
 {
     "code": "51058575",
-    "time": "2015-07-05 01:35:08",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058575",
+    "time": "2015-08-22 17:07:38",
     "許可證字號": "衛部藥製字第058575號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -35,12 +36,23 @@
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812700910",
+            "成分名稱": "MOXIFLOXACIN HYDROCHLORIDE",
+            "含量描述": "(eq. to Moxifloxacin 1.6mg)",
+            "含量": "1.7440000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "MOLA 莫拉注射液仿單 RENEW 送TFDA-104-04-07.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058575&Seq=001&Type=9"
+        },
+        {
+            "title": "51058575-104-04-07.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058575&Seq=001&Type=8"
+        }
     ]
 }

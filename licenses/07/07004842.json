@@ -1,6 +1,7 @@
 {
     "code": "07004842",
-    "time": "2015-06-23 03:38:09",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07004842",
+    "time": "2015-08-21 23:47:12",
     "許可證字號": "衛署粧製字第004842號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,12 +46,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 070048420002.jpg 070048420001.jpg",
+            "title": "070048420002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004842&Seq=002&Type=9"
         },
         {
-            "title": "外盒 07004842c0002.jpg 07004842c0001.jpg",
+            "title": "070048420001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004842&Seq=001&Type=9"
+        },
+        {
+            "title": "07004842c0002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004842&Seq=002&Type=8"
+        },
+        {
+            "title": "07004842c0001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004842&Seq=001&Type=8"
         }
     ]
 }

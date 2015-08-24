@@ -1,6 +1,7 @@
 {
     "code": "51058411",
-    "time": "2015-06-24 14:06:39",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058411",
+    "time": "2015-08-22 16:42:07",
     "許可證字號": "衛部藥製字第058411號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -47,12 +48,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010584110001-2-103-11-17.pdf 010584110001-1-103-11-17.pdf",
+            "title": "010584110001-2-103-11-17.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058411&Seq=002&Type=9"
         },
         {
-            "title": "外盒 010584110004-103-11-17.jpg 010584110003-103-11-17.jpg 010584110002-103-11-17.jpg",
+            "title": "010584110001-1-103-11-17.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058411&Seq=001&Type=9"
+        },
+        {
+            "title": "010584110004-103-11-17.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058411&Seq=003&Type=8"
+        },
+        {
+            "title": "010584110003-103-11-17.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058411&Seq=002&Type=8"
+        },
+        {
+            "title": "010584110002-103-11-17.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058411&Seq=001&Type=8"
         }
     ]
 }

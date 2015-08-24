@@ -1,6 +1,7 @@
 {
     "code": "10000799",
-    "time": "2015-06-24 15:31:36",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000799",
+    "time": "2015-08-22 17:51:15",
     "許可證字號": "衛署菌疫輸字第000799號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,7 +14,7 @@
     "通關簽審文件編號": "DHA01000079907",
     "中文品名": "克得諾注射液250微克",
     "英文品名": "OVIDREL 250 MICROGRAMS SOLUTION FOR INJECTION",
-    "適應症": "1.實施人工生殖協助技術(ART)，如體外授精(IVF)的超誘導排卵：投與OVIDREL可引起最終濾泡成熟與經刺激成長的濾泡黃體化。2.無排卵或排卵過少婦女的誘導排卵：投與OVIDREL可引起經刺激成長的無排卵或排卵過少婦女的排卵及黃體化。",
+    "適應症": "1.實施人工生殖協助技術(ART)，如體外授精(IVF)的超誘導排卵：投與OVIDREL可引起最終濾泡成熟與經刺激成長的濾泡黃體化。2.無排卵或排卵過少婦女的誘導排卵：投與OVIDREL可引起經刺激濾泡成長的無排卵或排卵過少婦女的排卵及黃體化。",
     "劑型": "270注射劑",
     "包裝": "0.5ML預填充注射針筒 ，100支以下盒裝",
     "藥品類別": "05限由醫師使用",
@@ -33,6 +34,15 @@
     },
     "CCC號列": "30043900005 醫藥製劑，含有其他內分泌素者Medicaments, containing other hormones",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "F430252000  MERCK SERONO SA, AUBONNE BRANCH",
+            "製造廠廠址": "ZONE INDUSTRIELLE DE L'OURIETTAZ, 1170 AUBONNE SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": "原料藥製造廠"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -45,8 +55,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 Ovidrel 250mcg syr PI 中文仿單_201312-103-06-06.pdf 100007990002.jpg 100007990001.jpg",
+            "title": "Ovidrel 250mcg syr PI 中文仿單_201312-103-06-06.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000799&Seq=003&Type=9"
+        },
+        {
+            "title": "100007990002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000799&Seq=002&Type=9"
+        },
+        {
+            "title": "100007990001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000799&Seq=001&Type=9"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "12003741",
-    "time": "2015-06-24 09:58:26",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12003741",
+    "time": "2015-08-23 07:52:06",
     "許可證字號": "內衛藥製字第003741號",
     "註銷狀態": "已註銷",
     "註銷日期": "102\/08\/02",
@@ -46,12 +47,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010037410002___20130315.pdf",
+            "title": "010037410002___20130315.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12003741&Seq=001&Type=9"
         },
         {
-            "title": "外盒 010037410003___20130315.pdf 010037410001___20130315.pdf",
+            "title": "010037410003___20130315.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12003741&Seq=002&Type=8"
+        },
+        {
+            "title": "010037410001___20130315.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12003741&Seq=001&Type=8"
         }
     ]
 }

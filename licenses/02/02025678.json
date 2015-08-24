@@ -1,6 +1,7 @@
 {
     "code": "02025678",
-    "time": "2015-06-25 18:54:39",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025678",
+    "time": "2015-08-23 12:13:16",
     "許可證字號": "衛署藥輸字第025678號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -40,7 +41,7 @@
             "製造廠廠址": "桃園市中壢區中華路一段８３８號",
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
-            "製程": ""
+            "製程": "包裝"
         }
     ],
     "ingredients": [
@@ -55,12 +56,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 020256780001_仿單___20130503.pdf 020256780001___20120605.pdf",
+            "title": "020256780001_仿單___20130503.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025678&Seq=002&Type=9"
         },
         {
-            "title": "外盒 020256780002標籤___20120605.jpg 020256780001外盒___20120605.jpg",
+            "title": "020256780001___20120605.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025678&Seq=001&Type=9"
+        },
+        {
+            "title": "020256780002標籤___20120605.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025678&Seq=002&Type=8"
+        },
+        {
+            "title": "020256780001外盒___20120605.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025678&Seq=001&Type=8"
         }
     ]
 }

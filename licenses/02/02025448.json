@@ -1,6 +1,7 @@
 {
     "code": "02025448",
-    "time": "2015-06-25 18:53:04",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025448",
+    "time": "2015-08-23 12:16:33",
     "許可證字號": "衛署藥輸字第025448號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -42,13 +43,15 @@
             "製程": "總公司"
         }
     ],
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 FLAVOXATE HYDROCHLORIDE (AMI LIFESCIENCES)___20110804.doc FLAVOXATE HCL BP___20110804.doc",
+            "title": "FLAVOXATE HYDROCHLORIDE (AMI LIFESCIENCES)___20110804.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025448&Seq=002&Type=9"
+        },
+        {
+            "title": "FLAVOXATE HCL BP___20110804.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025448&Seq=001&Type=9"
         }
     ]
 }

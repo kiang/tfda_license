@@ -1,6 +1,7 @@
 {
     "code": "10000271",
-    "time": "2015-08-21 03:48:32",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000271",
+    "time": "2015-08-24 11:25:27",
     "許可證字號": "衛署菌疫輸字第000271號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,8 +46,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 020002710001-103-01-28.pdf 020002710001-2014-01-27.pdf 100002710002.jpg 100002710001.jpg",
+            "title": "020002710001-103-01-28.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000271&Seq=004&Type=9"
+        },
+        {
+            "title": "020002710001-2014-01-27.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000271&Seq=003&Type=9"
+        },
+        {
+            "title": "100002710002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000271&Seq=002&Type=9"
+        },
+        {
+            "title": "100002710001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000271&Seq=001&Type=9"
         }
     ]
 }

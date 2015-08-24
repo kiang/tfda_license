@@ -1,6 +1,7 @@
 {
     "code": "08010764",
-    "time": "2015-06-23 07:52:22",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08010764",
+    "time": "2015-08-23 17:46:58",
     "許可證字號": "衛署粧輸字第010764號",
     "註銷狀態": "已註銷",
     "註銷日期": "104\/02\/06",
@@ -45,12 +46,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 080107640001.jpg",
+            "title": "080107640001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010764&Seq=001&Type=9"
         },
         {
-            "title": "外盒 080107640003___20100823.JPG 080107640002___20100823.jpg 080107640001___20100823.jpg",
+            "title": "080107640003___20100823.JPG",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010764&Seq=003&Type=8"
+        },
+        {
+            "title": "080107640002___20100823.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010764&Seq=002&Type=8"
+        },
+        {
+            "title": "080107640001___20100823.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010764&Seq=001&Type=8"
         }
     ]
 }

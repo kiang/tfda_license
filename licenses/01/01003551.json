@@ -1,6 +1,7 @@
 {
     "code": "01003551",
-    "time": "2015-06-24 16:15:16",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01003551",
+    "time": "2015-08-23 12:58:54",
     "許可證字號": "衛署藥製字第003551號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -86,8 +87,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010035510003.JPG 010035510002.JPG 010035510001.jpg",
+            "title": "010035510003.JPG",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003551&Seq=003&Type=9"
+        },
+        {
+            "title": "010035510002.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003551&Seq=002&Type=9"
+        },
+        {
+            "title": "010035510001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003551&Seq=001&Type=9"
         }
     ]
 }

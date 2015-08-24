@@ -1,6 +1,7 @@
 {
     "code": "08014791",
-    "time": "2015-07-24 07:03:03",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08014791",
+    "time": "2015-08-23 18:59:35",
     "許可證字號": "衛署粧輸字第014791號",
     "註銷狀態": "已註銷",
     "註銷日期": "104\/05\/01",
@@ -77,12 +78,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 080147910001.jpg",
+            "title": "080147910001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014791&Seq=001&Type=9"
         },
         {
-            "title": "外盒 080147910003.jpg 080147910002.jpg 080147910001.jpg",
+            "title": "080147910003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014791&Seq=003&Type=8"
+        },
+        {
+            "title": "080147910002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014791&Seq=002&Type=8"
+        },
+        {
+            "title": "080147910001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014791&Seq=001&Type=8"
         }
     ]
 }

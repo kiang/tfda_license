@@ -1,6 +1,7 @@
 {
     "code": "06023104",
-    "time": "2015-06-24 07:52:24",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023104",
+    "time": "2015-08-22 15:32:36",
     "許可證字號": "衛署醫器輸字第023104號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,17 +39,23 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 060231040001___20120410.pdf",
+            "title": "060231040001___20120410.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023104&Seq=001&Type=9"
         },
         {
-            "title": "外盒 標籤___20120410.pdf RG_V___20120410.jpg RG_N___20120410.jpg",
+            "title": "標籤___20120410.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023104&Seq=003&Type=8"
+        },
+        {
+            "title": "RG_V___20120410.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023104&Seq=002&Type=8"
+        },
+        {
+            "title": "RG_N___20120410.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023104&Seq=001&Type=8"
         }
     ]
 }

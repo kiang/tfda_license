@@ -1,6 +1,7 @@
 {
     "code": "01002684",
-    "time": "2015-06-24 15:48:25",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01002684",
+    "time": "2015-08-22 19:32:34",
     "許可證字號": "衛署藥製字第002684號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,12 +46,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010026840001___20121129.pdf 010026840001.doc",
+            "title": "010026840001___20121129.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01002684&Seq=002&Type=9"
         },
         {
-            "title": "外盒 010026840003___20121129.pdf 010026840002___20121129.pdf",
+            "title": "010026840001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01002684&Seq=001&Type=9"
+        },
+        {
+            "title": "010026840003___20121129.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01002684&Seq=002&Type=8"
+        },
+        {
+            "title": "010026840002___20121129.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01002684&Seq=001&Type=8"
         }
     ]
 }

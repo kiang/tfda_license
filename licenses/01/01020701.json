@@ -1,6 +1,7 @@
 {
     "code": "01020701",
-    "time": "2015-06-24 20:39:55",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01020701",
+    "time": "2015-08-22 20:18:17",
     "許可證字號": "衛署藥製字第020701號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -62,12 +63,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 NT-21平安錠說明書981230.doc 010207010001.doc",
+            "title": "NT-21平安錠說明書981230.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020701&Seq=002&Type=9"
         },
         {
-            "title": "外盒 NT-21平安錠鋁箔981230.doc NT-21平安錠標籤981230.doc",
+            "title": "010207010001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020701&Seq=001&Type=9"
+        },
+        {
+            "title": "NT-21平安錠鋁箔981230.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020701&Seq=002&Type=8"
+        },
+        {
+            "title": "NT-21平安錠標籤981230.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020701&Seq=001&Type=8"
         }
     ]
 }

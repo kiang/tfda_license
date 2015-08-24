@@ -1,6 +1,7 @@
 {
     "code": "02018497",
-    "time": "2015-07-05 00:38:19",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02018497",
+    "time": "2015-08-23 11:29:33",
     "許可證字號": "衛署藥輸字第018497號",
     "註銷狀態": "已註銷",
     "註銷日期": "103\/02\/06",
@@ -45,12 +46,31 @@
         }
     ],
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2808202510",
+            "成分名稱": "TRAMADOL HCL",
+            "含量描述": "",
+            "含量": "100.0000000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "020184970001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02018497&Seq=001&Type=9"
+        },
+        {
+            "title": "020184970003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02018497&Seq=003&Type=8"
+        },
+        {
+            "title": "020184970002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02018497&Seq=002&Type=8"
+        },
+        {
+            "title": "020184970001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02018497&Seq=001&Type=8"
+        }
     ]
 }

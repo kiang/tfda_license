@@ -1,6 +1,7 @@
 {
     "code": "01009685",
-    "time": "2015-08-21 03:14:09",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01009685",
+    "time": "2015-08-24 11:02:27",
     "許可證字號": "衛署藥製字第009685號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -69,8 +70,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010096850003.jpg 010096850002.jpg 010096850001.DOC",
+            "title": "010096850003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01009685&Seq=003&Type=9"
+        },
+        {
+            "title": "010096850002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01009685&Seq=002&Type=9"
+        },
+        {
+            "title": "010096850001.DOC",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01009685&Seq=001&Type=9"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "01012002",
-    "time": "2015-06-22 01:55:34",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01012002",
+    "time": "2015-08-22 20:54:39",
     "許可證字號": "衛署藥製字第012002號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -117,8 +118,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010120020001-103-03-14.pdf 010120020001.doc",
+            "title": "010120020001-103-03-14.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012002&Seq=002&Type=9"
+        },
+        {
+            "title": "010120020001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012002&Seq=001&Type=9"
         }
     ]
 }

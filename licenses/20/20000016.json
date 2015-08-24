@@ -1,6 +1,7 @@
 {
     "code": "20000016",
-    "time": "2015-08-21 06:08:41",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=20000016",
+    "time": "2015-08-24 13:05:24",
     "許可證字號": "衛署罕藥輸字第000016號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,12 +46,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 200000160001.jpg",
+            "title": "200000160001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000016&Seq=001&Type=9"
         },
         {
-            "title": "外盒 200000160004.jpg 200000160003.jpg 200000160002.jpg 200000160001.jpg",
+            "title": "200000160004.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000016&Seq=004&Type=8"
+        },
+        {
+            "title": "200000160003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000016&Seq=003&Type=8"
+        },
+        {
+            "title": "200000160002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000016&Seq=002&Type=8"
+        },
+        {
+            "title": "200000160001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000016&Seq=001&Type=8"
         }
     ]
 }

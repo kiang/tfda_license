@@ -1,6 +1,7 @@
 {
     "code": "03012668",
-    "time": "2015-06-24 15:21:56",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=03012668",
+    "time": "2015-08-22 17:20:40",
     "許可證字號": "衛署成製字第012668號",
     "註銷狀態": "已註銷",
     "註銷日期": "102\/10\/16",
@@ -45,12 +46,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 030126680002.jpg 030126680001.jpg",
+            "title": "030126680002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03012668&Seq=002&Type=9"
         },
         {
-            "title": "外盒 030126680002.jpg 030126680001.jpg",
+            "title": "030126680001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03012668&Seq=001&Type=9"
+        },
+        {
+            "title": "030126680002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03012668&Seq=002&Type=8"
+        },
+        {
+            "title": "030126680001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03012668&Seq=001&Type=8"
         }
     ]
 }

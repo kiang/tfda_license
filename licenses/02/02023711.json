@@ -1,6 +1,7 @@
 {
     "code": "02023711",
-    "time": "2015-06-22 01:43:05",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023711",
+    "time": "2015-08-23 13:05:55",
     "許可證字號": "衛署藥輸字第023711號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -35,7 +36,7 @@
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "F470098000  PFIZER MANUFACTURING DEUTSCHLAND GMBH",
+            "製造廠名稱": "F470098000  R-Pharm Germany GmbH",
             "製造廠廠址": "HEINRICH MACK STRABE 35,89257 ILLERTISSEN,GERMANY",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
@@ -61,8 +62,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 020237110004.jpg 020237110003.jpg 020237110002.jpg 020237110001.jpg",
+            "title": "020237110004.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023711&Seq=004&Type=9"
+        },
+        {
+            "title": "020237110003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023711&Seq=003&Type=9"
+        },
+        {
+            "title": "020237110002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023711&Seq=002&Type=9"
+        },
+        {
+            "title": "020237110001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023711&Seq=001&Type=9"
         }
     ]
 }

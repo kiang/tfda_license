@@ -1,6 +1,7 @@
 {
     "code": "01036191",
-    "time": "2015-06-25 01:29:47",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01036191",
+    "time": "2015-08-23 00:12:55",
     "許可證字號": "衛署藥製字第036191號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,12 +46,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010361910001___20130114.pdf",
+            "title": "010361910001___20130114.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036191&Seq=001&Type=9"
         },
         {
-            "title": "外盒 010361910004___20130114.jpg 010361910003___20130114.jpg 010361910002___20130114.jpg",
+            "title": "010361910004___20130114.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036191&Seq=003&Type=8"
+        },
+        {
+            "title": "010361910003___20130114.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036191&Seq=002&Type=8"
+        },
+        {
+            "title": "010361910002___20130114.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036191&Seq=001&Type=8"
         }
     ]
 }

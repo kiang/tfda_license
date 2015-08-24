@@ -1,6 +1,7 @@
 {
     "code": "02025032",
-    "time": "2015-06-25 18:50:50",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025032",
+    "time": "2015-08-23 12:25:58",
     "許可證字號": "衛署藥輸字第025032號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,12 +46,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010250320001-104-02-01.pdf Albalon 0.1 72027UT11C-103-03-10.pdf",
+            "title": "010250320001-104-02-01.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025032&Seq=002&Type=9"
         },
         {
-            "title": "外盒 010250320005-104-02-01.pdf 010250320004-104-02-01.pdf 010250320003-104-02-01.pdf",
+            "title": "Albalon 0.1 72027UT11C-103-03-10.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025032&Seq=001&Type=9"
+        },
+        {
+            "title": "010250320005-104-02-01.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025032&Seq=003&Type=8"
+        },
+        {
+            "title": "010250320004-104-02-01.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025032&Seq=002&Type=8"
+        },
+        {
+            "title": "010250320003-104-02-01.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025032&Seq=001&Type=8"
         }
     ]
 }

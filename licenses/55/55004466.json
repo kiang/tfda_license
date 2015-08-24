@@ -1,6 +1,7 @@
 {
     "code": "55004466",
-    "time": "2015-06-23 23:58:16",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=55004466",
+    "time": "2015-08-23 23:52:52",
     "許可證字號": "衛部醫器製字第004466號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -39,17 +40,23 @@
     },
     "CCC號列": "38220020006 糖尿病試紙，切成一定尺寸Test tape for diabetes, cut to size",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 550044660001-103-12-23.pdf 550044660002-103-07-09.pdf",
+            "title": "550044660001-103-12-23.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55004466&Seq=002&Type=9"
         },
         {
-            "title": "外盒 550044660001-103-12-23.pdf 550044660001-103-07-09.pdf",
+            "title": "550044660002-103-07-09.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55004466&Seq=001&Type=9"
+        },
+        {
+            "title": "550044660001-103-12-23.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55004466&Seq=002&Type=8"
+        },
+        {
+            "title": "550044660001-103-07-09.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55004466&Seq=001&Type=8"
         }
     ]
 }

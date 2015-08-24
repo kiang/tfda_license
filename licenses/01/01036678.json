@@ -1,6 +1,7 @@
 {
     "code": "01036678",
-    "time": "2015-06-25 01:34:20",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01036678",
+    "time": "2015-08-23 00:00:03",
     "許可證字號": "衛署藥製字第036678號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -46,12 +47,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 Yutodin Inj_INS_201410-103-10-24.pdf 1030013559-Yutodin Inj_INS_201403-2014-04-01.pdf",
+            "title": "Yutodin Inj_INS_201410-103-10-24.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036678&Seq=002&Type=9"
         },
         {
-            "title": "外盒 Yutodin_PL_201410-103-10-24.pdf Yutodin_PC_201410-103-10-24.pdf",
+            "title": "1030013559-Yutodin Inj_INS_201403-2014-04-01.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036678&Seq=001&Type=9"
+        },
+        {
+            "title": "Yutodin_PL_201410-103-10-24.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036678&Seq=002&Type=8"
+        },
+        {
+            "title": "Yutodin_PC_201410-103-10-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036678&Seq=001&Type=8"
         }
     ]
 }

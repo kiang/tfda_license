@@ -1,6 +1,7 @@
 {
     "code": "12004789",
-    "time": "2015-06-22 01:04:39",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12004789",
+    "time": "2015-08-23 13:49:41",
     "許可證字號": "內衛藥製字第004789號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -65,8 +66,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 120047890003.jpg 120047890002.jpg 120047890001.jpg",
+            "title": "120047890003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12004789&Seq=003&Type=9"
+        },
+        {
+            "title": "120047890002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12004789&Seq=002&Type=9"
+        },
+        {
+            "title": "120047890001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12004789&Seq=001&Type=9"
         }
     ]
 }

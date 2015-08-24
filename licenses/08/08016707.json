@@ -1,6 +1,7 @@
 {
     "code": "08016707",
-    "time": "2015-06-23 12:05:09",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016707",
+    "time": "2015-08-23 21:16:37",
     "許可證字號": "衛署粧輸字第016707號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -77,12 +78,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 中文說明.jpg",
+            "title": "中文說明.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016707&Seq=001&Type=9"
         },
         {
-            "title": "外盒 產品.jpg 外盒.jpg",
+            "title": "產品.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016707&Seq=002&Type=8"
+        },
+        {
+            "title": "外盒.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016707&Seq=001&Type=8"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "02020824",
-    "time": "2015-07-05 00:38:21",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02020824",
+    "time": "2015-08-23 11:25:16",
     "許可證字號": "衛署藥輸字第020824號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -43,12 +44,31 @@
         }
     ],
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "6828000215",
+            "成分名稱": "DESMOPRESSIN ACETATE TRIHYDRATE",
+            "含量描述": "4",
+            "含量": "4.0000000000",
+            "單位": "MCG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "06-I-TW-03.01-2014-06-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020824&Seq=002&Type=9"
+        },
+        {
+            "title": "020208240001 MINIRIN inj-2014-01-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020824&Seq=001&Type=9"
+        },
+        {
+            "title": "L 2008051094-1-2014-06-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020824&Seq=002&Type=8"
+        },
+        {
+            "title": "06-C-TW-01.01-2014-06-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020824&Seq=001&Type=8"
+        }
     ]
 }

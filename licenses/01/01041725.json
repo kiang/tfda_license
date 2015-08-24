@@ -1,6 +1,7 @@
 {
     "code": "01041725",
-    "time": "2015-07-05 01:40:02",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01041725",
+    "time": "2015-08-23 01:32:48",
     "許可證字號": "衛署藥製字第041725號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,12 +35,39 @@
     "CCC號列": "30043200002 含有腎上腺皮質類固醇荷爾蒙，其衍生物及結構式類似者Containing adrenal corticosteroid hormones, their derivatives and structural analogues",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812109310",
+            "成分名稱": "GENTAMICIN (AS SULFATE)",
+            "含量描述": "(POTENCY) 1",
+            "含量": "",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "6804000250",
+            "成分名稱": "BETAMETHASONE VALERATE",
+            "含量描述": "1.2",
+            "含量": "1.2000000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "010417250001仿單-102-05-21.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041725&Seq=001&Type=9"
+        },
+        {
+            "title": "010417250002標籤-102-05-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041725&Seq=003&Type=8"
+        },
+        {
+            "title": "010417250004花盒-102-05-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041725&Seq=002&Type=8"
+        },
+        {
+            "title": "010417250003軟管-102-05-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041725&Seq=001&Type=8"
+        }
     ]
 }

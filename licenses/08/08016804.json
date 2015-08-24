@@ -1,6 +1,7 @@
 {
     "code": "08016804",
-    "time": "2015-07-05 00:52:53",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016804",
+    "time": "2015-08-23 20:00:28",
     "許可證字號": "衛署粧輸字第016804號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,12 +35,59 @@
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900071200",
+            "成分名稱": "ETHYLHEXYL METHOXYCINNAMATE",
+            "含量描述": "",
+            "含量": "7.0000000000",
+            "單位": "%(W\/W)"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "080168040004___20110518.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016804&Seq=011&Type=8"
+        },
+        {
+            "title": "080168040003___20110518.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016804&Seq=010&Type=8"
+        },
+        {
+            "title": "080168040002___20110518.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016804&Seq=009&Type=8"
+        },
+        {
+            "title": "080168040001___20110518.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016804&Seq=008&Type=8"
+        },
+        {
+            "title": "08016800003___20110518.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016804&Seq=007&Type=8"
+        },
+        {
+            "title": "0006___20110518.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016804&Seq=006&Type=8"
+        },
+        {
+            "title": "0005___20110518.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016804&Seq=005&Type=8"
+        },
+        {
+            "title": "0004___20110518.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016804&Seq=004&Type=8"
+        },
+        {
+            "title": "0003___20110518.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016804&Seq=003&Type=8"
+        },
+        {
+            "title": "0002___20110518.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016804&Seq=002&Type=8"
+        },
+        {
+            "title": "0001___20110518.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016804&Seq=001&Type=8"
+        }
     ]
 }

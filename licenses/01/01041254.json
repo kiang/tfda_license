@@ -1,6 +1,7 @@
 {
     "code": "01041254",
-    "time": "2015-06-25 03:14:59",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01041254",
+    "time": "2015-08-23 01:09:36",
     "許可證字號": "衛署藥製字第041254號",
     "註銷狀態": "已註銷",
     "註銷日期": "98\/07\/23",
@@ -85,8 +86,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010412540003.jpg 010412540002.jpg 010412540001.doc",
+            "title": "010412540003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041254&Seq=003&Type=9"
+        },
+        {
+            "title": "010412540002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041254&Seq=002&Type=9"
+        },
+        {
+            "title": "010412540001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041254&Seq=001&Type=9"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "12008800",
-    "time": "2015-06-24 10:49:29",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12008800",
+    "time": "2015-08-22 17:06:22",
     "許可證字號": "內衛藥製字第008800號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,8 +46,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010088000001-103-01-22.pdf 120088000001.doc",
+            "title": "010088000001-103-01-22.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008800&Seq=002&Type=9"
+        },
+        {
+            "title": "120088000001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008800&Seq=001&Type=9"
         }
     ]
 }

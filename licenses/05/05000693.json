@@ -1,6 +1,7 @@
 {
     "code": "05000693",
-    "time": "2015-06-24 00:05:36",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05000693",
+    "time": "2015-08-22 06:01:54",
     "許可證字號": "衛署醫器製字第000693號",
     "註銷狀態": "已註銷",
     "註銷日期": "103\/04\/09",
@@ -130,8 +131,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 050006930002-102-10-18.pdf 050006930001-102-10-18.pdf",
+            "title": "050006930002-102-10-18.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000693&Seq=002&Type=9"
+        },
+        {
+            "title": "050006930001-102-10-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000693&Seq=001&Type=9"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "02025548",
-    "time": "2015-06-25 18:32:21",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025548",
+    "time": "2015-08-23 12:26:22",
     "許可證字號": "衛署藥輸字第025548號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -42,13 +43,15 @@
             "製程": "總公司"
         }
     ],
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 020255480002___20111207.jpg 020255480001___20111207.jpg",
+            "title": "020255480002___20111207.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025548&Seq=002&Type=9"
+        },
+        {
+            "title": "020255480001___20111207.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025548&Seq=001&Type=9"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "02022712",
-    "time": "2015-06-25 17:12:32",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022712",
+    "time": "2015-08-23 11:35:48",
     "許可證字號": "衛署藥輸字第022712號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,9 +17,9 @@
     "適應症": "急慢性白血球過多症、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肝癌。",
     "劑型": "270注射劑",
     "包裝": "5ML,10ML,25ML塑膠小瓶 100支以下盒裝",
-    "藥品類別": "06須由醫師處方使用",
+    "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "主成分略述": "DOXORUBICIN HYDROCHLORIDE(LIPOSOME)",
+    "主成分略述": "DOXORUBICIN HYDROCHLORIDE",
     "限制項目": [
         "02輸入"
     ],
@@ -36,8 +37,8 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "1003000615",
-            "成分名稱": "DOXORUBICIN HYDROCHLORIDE(LIPOSOME)",
+            "成分代碼": "1003000620",
+            "成分名稱": "DOXORUBICIN HYDROCHLORIDE",
             "含量描述": "",
             "含量": "2.0000000000",
             "單位": "MG"
@@ -45,8 +46,28 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 Adriamycin 藥輸022712-103-02-21.pdf 020227120004___20120815.pdf 020227120003___20120815.pdf 020227120002___20120815.pdf 020227120001___20120815.pdf 020227120001.doc",
+            "title": "Adriamycin 藥輸022712-103-02-21.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022712&Seq=006&Type=9"
+        },
+        {
+            "title": "020227120004___20120815.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022712&Seq=005&Type=9"
+        },
+        {
+            "title": "020227120003___20120815.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022712&Seq=004&Type=9"
+        },
+        {
+            "title": "020227120002___20120815.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022712&Seq=003&Type=9"
+        },
+        {
+            "title": "020227120001___20120815.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022712&Seq=002&Type=9"
+        },
+        {
+            "title": "020227120001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022712&Seq=001&Type=9"
         }
     ]
 }

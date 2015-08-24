@@ -1,6 +1,7 @@
 {
     "code": "05000673",
-    "time": "2015-06-24 00:00:10",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05000673",
+    "time": "2015-08-22 05:12:17",
     "許可證字號": "衛署醫器製字第000673號",
     "註銷狀態": "已註銷",
     "註銷日期": "102\/01\/17",
@@ -38,13 +39,19 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 050006730003.jpg 050006730002.jpg 050006730001.jpg",
+            "title": "050006730003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000673&Seq=003&Type=9"
+        },
+        {
+            "title": "050006730002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000673&Seq=002&Type=9"
+        },
+        {
+            "title": "050006730001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000673&Seq=001&Type=9"
         }
     ]
 }

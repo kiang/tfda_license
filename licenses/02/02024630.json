@@ -1,6 +1,7 @@
 {
     "code": "02024630",
-    "time": "2015-06-22 01:43:27",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024630",
+    "time": "2015-08-23 12:07:20",
     "許可證字號": "衛署藥輸字第024630號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +21,8 @@
     "管制藥品分類級別": "",
     "主成分略述": "MONOSODIUM IBANDRONATE MONOHYDRATE",
     "限制項目": [
-        "02輸入"
+        "02輸入",
+        "55依本署89、12、12衛署藥字第0890035812號公告事項三經本署認定得免除銜接性試驗之新藥"
     ],
     "申請商名稱": "0807901100  和聯生技藥業股份有限公司",
     "申請商地址": "台北市敦化北路３１１號５樓",
@@ -35,8 +37,8 @@
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "F430093100  F. HOFFMANN-LA ROCHE LTD.",
-            "製造廠廠址": "4070 BASEL, SWITZERLAND",
+            "製造廠名稱": "F430093000  F.HOFFMANN-LA ROCHE LTD.",
+            "製造廠廠址": "GRENZACHERSTRASSE 124, CH-4070 BASEL,SWITZERLAND",
             "製造廠公司地址": "",
             "製造廠國別": "SWITZERLAND",
             "製程": "許可證持有者"
@@ -61,12 +63,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 020246300001-104-03-27.pdf",
+            "title": "020246300001-104-03-27.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024630&Seq=001&Type=9"
         },
         {
-            "title": "外盒 020246300003.jpg 020246300002.jpg 020246300001.jpg",
+            "title": "020246300003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024630&Seq=003&Type=8"
+        },
+        {
+            "title": "020246300002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024630&Seq=002&Type=8"
+        },
+        {
+            "title": "020246300001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024630&Seq=001&Type=8"
         }
     ]
 }

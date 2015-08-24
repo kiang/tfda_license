@@ -1,6 +1,7 @@
 {
     "code": "06020866",
-    "time": "2015-06-22 02:02:51",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06020866",
+    "time": "2015-08-22 13:17:54",
     "許可證字號": "衛署醫器輸字第020866號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,17 +39,19 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 060208660001___20100610.pdf",
+            "title": "060208660001___20100610.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06020866&Seq=001&Type=9"
         },
         {
-            "title": "外盒 060208660003___20100610.pdf 060208660002___20100610.pdf",
+            "title": "060208660003___20100610.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06020866&Seq=002&Type=8"
+        },
+        {
+            "title": "060208660002___20100610.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06020866&Seq=001&Type=8"
         }
     ]
 }

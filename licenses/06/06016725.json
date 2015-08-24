@@ -1,6 +1,7 @@
 {
     "code": "06016725",
-    "time": "2015-07-05 01:11:04",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06016725",
+    "time": "2015-08-22 12:23:39",
     "許可證字號": "衛署醫器輸字第016725號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -39,12 +40,83 @@
     "CCC號列": "30059090001 其他屬第３００５節之貨品Others articles of heading 30.05",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5236001212",
+            "成分名稱": "HYALURONIC ACID SODIUM SALT",
+            "含量描述": "",
+            "含量": "0.2000000000",
+            "單位": "GM"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9600006106",
+            "成分名稱": "CARBOMER 980",
+            "含量描述": "",
+            "含量": "0.9000000000",
+            "單位": "GM"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9600009510",
+            "成分名稱": "DEHYDROACETATE SODIUM",
+            "含量描述": "",
+            "含量": "0.1000000000",
+            "單位": "GM"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9600019400",
+            "成分名稱": "METHYLPARABEN (METHYL PARABEN) (METAGIN) (METHYL HYDROXYBENZOATE)(METHYL PARABEN)",
+            "含量描述": "",
+            "含量": "0.1000000000",
+            "單位": "GM"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9600025300",
+            "成分名稱": "PROPYLPARABEN (PROPYL PARABEN) (PROPAGIN)(PROPYL P-HYDROXYBENZOATE)(EQ TO PROPYL PARAHYDROXYBENZOATE)",
+            "含量描述": "",
+            "含量": "0.0500000000",
+            "單位": "GM"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9600028200",
+            "成分名稱": "SODIUM HYDROXIDE",
+            "含量描述": "(Q.S. TO PH=6.0)",
+            "含量": "",
+            "單位": ""
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9600029608",
+            "成分名稱": "SORBITOL SOLUTION 70%",
+            "含量描述": "",
+            "含量": "10.0000000000",
+            "單位": "GM"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9604001100",
+            "成分名稱": "WATER PURIFIED ( EQ TO AQUEOUS PURIFIED OR PURIFIED WATER )",
+            "含量描述": "(Q.S. TO 100G)",
+            "含量": "",
+            "單位": ""
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "060167250001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016725&Seq=001&Type=9"
+        },
+        {
+            "title": "060167250002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016725&Seq=002&Type=8"
+        },
+        {
+            "title": "060167250001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016725&Seq=001&Type=8"
+        }
     ]
 }

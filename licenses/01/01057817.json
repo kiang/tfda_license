@@ -1,6 +1,7 @@
 {
     "code": "01057817",
-    "time": "2015-08-21 05:57:38",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057817",
+    "time": "2015-08-24 12:55:55",
     "許可證字號": "衛署藥製字第057817號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -47,12 +48,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010578170001___20130311.pdf",
+            "title": "010578170001___20130311.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057817&Seq=001&Type=9"
         },
         {
-            "title": "外盒 010578170002-3___20130311.jpg 010578170002-2(鋁箔印字)___20130311.pdf 010578170002-1___20130311.jpg",
+            "title": "010578170002-3___20130311.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057817&Seq=003&Type=8"
+        },
+        {
+            "title": "010578170002-2(鋁箔印字)___20130311.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057817&Seq=002&Type=8"
+        },
+        {
+            "title": "010578170002-1___20130311.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057817&Seq=001&Type=8"
         }
     ]
 }

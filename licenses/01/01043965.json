@@ -1,6 +1,7 @@
 {
     "code": "01043965",
-    "time": "2015-07-24 05:57:41",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01043965",
+    "time": "2015-08-23 02:35:55",
     "許可證字號": "衛署藥製字第043965號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -77,12 +78,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 20150424085208602-104-04-30.pdf 010439650001.jpg",
+            "title": "20150424085208602-104-04-30.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043965&Seq=002&Type=9"
         },
         {
-            "title": "外盒 010439650003.jpg 010439650002.jpg 010439650001.jpg",
+            "title": "010439650001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043965&Seq=001&Type=9"
+        },
+        {
+            "title": "010439650003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043965&Seq=003&Type=8"
+        },
+        {
+            "title": "010439650002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043965&Seq=002&Type=8"
+        },
+        {
+            "title": "010439650001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043965&Seq=001&Type=8"
         }
     ]
 }

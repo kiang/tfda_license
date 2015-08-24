@@ -1,6 +1,7 @@
 {
     "code": "01050771",
-    "time": "2015-06-25 05:30:13",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01050771",
+    "time": "2015-08-23 04:26:11",
     "許可證字號": "衛署藥製字第050771號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -85,12 +86,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 INSERT-103-12-03.pdf",
+            "title": "INSERT-103-12-03.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050771&Seq=001&Type=9"
         },
         {
-            "title": "外盒 AL FOIL-103-12-03.pdf CARTON-103-12-03.pdf",
+            "title": "AL FOIL-103-12-03.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050771&Seq=002&Type=8"
+        },
+        {
+            "title": "CARTON-103-12-03.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050771&Seq=001&Type=8"
         }
     ]
 }

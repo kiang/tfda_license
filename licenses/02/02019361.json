@@ -1,6 +1,7 @@
 {
     "code": "02019361",
-    "time": "2015-07-05 02:19:21",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019361",
+    "time": "2015-08-23 10:13:57",
     "許可證字號": "衛署藥輸字第019361號",
     "註銷狀態": "已註銷",
     "註銷日期": "98\/12\/31",
@@ -34,12 +35,13 @@
     "CCC號列": "29411020100 人用安莫西林三水合物Amoxicillin Trihydrate(6-[[Amino(4- hydroxyphenyl)acetyl]amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]hephane-2- carboxylic acid), for human use",
     "藥理治療分類": "",
     "ingredients": [
-
-    ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812600250",
+            "成分名稱": "AMOXICILLIN TRIHYDRATE",
+            "含量描述": "900+",
+            "含量": "",
+            "單位": "MCG"
+        }
     ]
 }

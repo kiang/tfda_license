@@ -1,6 +1,7 @@
 {
     "code": "01003967",
-    "time": "2015-07-05 01:37:54",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01003967",
+    "time": "2015-08-24 00:25:07",
     "許可證字號": "衛署藥製字第003967號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,12 +35,31 @@
     "CCC號列": "30045000009 含有維他命或第２９３６節產品之其他醫藥製劑Other medicaments containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8811200301",
+            "成分名稱": "CYANOCOBALAMIN",
+            "含量描述": "",
+            "含量": "1.0000000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "氰鈷胺明注射劑仿單-103-09-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003967&Seq=002&Type=9"
+        },
+        {
+            "title": "010039670001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003967&Seq=001&Type=9"
+        },
+        {
+            "title": "氰鈷胺明注射劑外盒-103-09-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003967&Seq=002&Type=8"
+        },
+        {
+            "title": "氰鈷胺明注射劑標籤-103-09-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003967&Seq=001&Type=8"
+        }
     ]
 }

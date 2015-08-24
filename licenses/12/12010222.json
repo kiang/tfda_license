@@ -1,6 +1,7 @@
 {
     "code": "12010222",
-    "time": "2015-06-24 10:53:18",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12010222",
+    "time": "2015-08-24 00:51:31",
     "許可證字號": "內衛藥製字第010222號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,12 +46,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010102220001-103-12-02.pdf 086(內衛藥製字第010222號)胃使可胖注射液-103-02-19.pdf 120102220001.doc",
+            "title": "010102220001-103-12-02.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12010222&Seq=003&Type=9"
         },
         {
-            "title": "外盒 010102220003-103-12-02.JPG 010102220002-103-12-02.JPG",
+            "title": "086(內衛藥製字第010222號)胃使可胖注射液-103-02-19.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12010222&Seq=002&Type=9"
+        },
+        {
+            "title": "120102220001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12010222&Seq=001&Type=9"
+        },
+        {
+            "title": "010102220003-103-12-02.JPG",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12010222&Seq=002&Type=8"
+        },
+        {
+            "title": "010102220002-103-12-02.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12010222&Seq=001&Type=8"
         }
     ]
 }

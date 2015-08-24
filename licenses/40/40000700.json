@@ -1,6 +1,7 @@
 {
     "code": "40000700",
-    "time": "2015-06-23 03:59:05",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=40000700",
+    "time": "2015-08-23 22:40:32",
     "許可證字號": "衛署粧陸輸字第000700號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -61,8 +62,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "外盒 400007000003___20110914.jpg 400007000002___20110914.jpg 400007000001___20110914.jpg",
+            "title": "400007000003___20110914.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000700&Seq=003&Type=8"
+        },
+        {
+            "title": "400007000002___20110914.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000700&Seq=002&Type=8"
+        },
+        {
+            "title": "400007000001___20110914.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000700&Seq=001&Type=8"
         }
     ]
 }

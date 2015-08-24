@@ -1,6 +1,7 @@
 {
     "code": "01052459",
-    "time": "2015-06-25 04:51:20",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01052459",
+    "time": "2015-08-23 03:35:02",
     "許可證字號": "衛署藥製字第052459號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -47,12 +48,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010524590002(反面)___20100611.JPG 010524590001(正面)___20100611.JPG",
+            "title": "010524590002(反面)___20100611.JPG",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01052459&Seq=002&Type=9"
         },
         {
-            "title": "外盒 010524590005___20100611.JPG 010524590004___20100611.jpg 010524590003___20100611.JPG",
+            "title": "010524590001(正面)___20100611.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01052459&Seq=001&Type=9"
+        },
+        {
+            "title": "010524590005___20100611.JPG",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01052459&Seq=003&Type=8"
+        },
+        {
+            "title": "010524590004___20100611.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01052459&Seq=002&Type=8"
+        },
+        {
+            "title": "010524590003___20100611.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01052459&Seq=001&Type=8"
         }
     ]
 }

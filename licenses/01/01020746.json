@@ -1,6 +1,7 @@
 {
     "code": "01020746",
-    "time": "2015-06-24 20:40:42",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01020746",
+    "time": "2015-08-22 20:43:07",
     "許可證字號": "衛署藥製字第020746號",
     "註銷狀態": "已註銷",
     "註銷日期": "103\/06\/11",
@@ -61,8 +62,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010207460002.jpg 010207460001.jpg",
+            "title": "010207460002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020746&Seq=002&Type=9"
+        },
+        {
+            "title": "010207460001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020746&Seq=001&Type=9"
         }
     ]
 }

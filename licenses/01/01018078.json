@@ -1,6 +1,7 @@
 {
     "code": "01018078",
-    "time": "2015-07-24 05:38:04",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01018078",
+    "time": "2015-08-22 20:44:51",
     "許可證字號": "衛署藥製字第018078號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -70,8 +71,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 01180780001-102-12-30.pdf 010180780002.jpg 010180780001.jpg",
+            "title": "01180780001-102-12-30.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018078&Seq=003&Type=9"
+        },
+        {
+            "title": "010180780002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018078&Seq=002&Type=9"
+        },
+        {
+            "title": "010180780001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018078&Seq=001&Type=9"
         }
     ]
 }

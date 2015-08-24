@@ -1,6 +1,7 @@
 {
     "code": "01055581",
-    "time": "2015-06-25 04:53:13",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01055581",
+    "time": "2015-08-23 12:59:44",
     "許可證字號": "衛署藥製字第055581號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -33,17 +34,23 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 F053標籤DOH-102-10-23.pdf",
+            "title": "F053標籤DOH-102-10-23.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055581&Seq=001&Type=9"
         },
         {
-            "title": "外盒 F053標籤DOH-外銷專用品名-2___20110218.doc F053標籤DOH-外銷專用品名-1___20110218.doc F053標籤DOH-國產品名___20110218.doc",
+            "title": "F053標籤DOH-外銷專用品名-2___20110218.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055581&Seq=003&Type=8"
+        },
+        {
+            "title": "F053標籤DOH-外銷專用品名-1___20110218.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055581&Seq=002&Type=8"
+        },
+        {
+            "title": "F053標籤DOH-國產品名___20110218.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055581&Seq=001&Type=8"
         }
     ]
 }

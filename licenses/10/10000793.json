@@ -1,6 +1,7 @@
 {
     "code": "10000793",
-    "time": "2015-06-24 15:31:24",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000793",
+    "time": "2015-08-22 17:45:40",
     "許可證字號": "衛署菌疫輸字第000793號",
     "註銷狀態": "已註銷",
     "註銷日期": "96\/05\/23",
@@ -61,8 +62,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 100007930002.jpg 100007930001.jpg",
+            "title": "100007930002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000793&Seq=002&Type=9"
+        },
+        {
+            "title": "100007930001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000793&Seq=001&Type=9"
         }
     ]
 }

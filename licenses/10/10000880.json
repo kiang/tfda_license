@@ -1,6 +1,7 @@
 {
     "code": "10000880",
-    "time": "2015-06-22 01:04:20",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000880",
+    "time": "2015-08-22 17:53:54",
     "許可證字號": "衛署菌疫輸字第000880號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -61,12 +62,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 100008800001___20120717.pdf",
+            "title": "100008800001___20120717.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000880&Seq=001&Type=9"
         },
         {
-            "title": "外盒 100008800002.jpg 100008800001.jpg",
+            "title": "100008800002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000880&Seq=002&Type=8"
+        },
+        {
+            "title": "100008800001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000880&Seq=001&Type=8"
         }
     ]
 }

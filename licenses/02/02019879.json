@@ -1,6 +1,7 @@
 {
     "code": "02019879",
-    "time": "2015-07-05 00:38:47",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019879",
+    "time": "2015-08-23 10:17:44",
     "許可證字號": "衛署藥輸字第019879號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -43,12 +44,43 @@
         }
     ],
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "7600009110",
+            "成分名稱": "BROMOCRIPTINE (MESILATE)",
+            "含量描述": "(2.87MG) 2.5",
+            "含量": "",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "020198790003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019879&Seq=003&Type=9"
+        },
+        {
+            "title": "020198790002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019879&Seq=002&Type=9"
+        },
+        {
+            "title": "020198790001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019879&Seq=001&Type=9"
+        },
+        {
+            "title": "020198790004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019879&Seq=004&Type=8"
+        },
+        {
+            "title": "020198790003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019879&Seq=003&Type=8"
+        },
+        {
+            "title": "020198790002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019879&Seq=002&Type=8"
+        },
+        {
+            "title": "020198790001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019879&Seq=001&Type=8"
+        }
     ]
 }

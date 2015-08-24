@@ -1,6 +1,7 @@
 {
     "code": "01035438",
-    "time": "2015-08-21 05:47:16",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01035438",
+    "time": "2015-08-24 12:46:01",
     "許可證字號": "衛署藥製字第035438號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,12 +46,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 Camazole TS 10mg_INS_20120809___20120830.pdf",
+            "title": "Camazole TS 10mg_INS_20120809___20120830.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035438&Seq=001&Type=9"
         },
         {
-            "title": "外盒 Camazole TS 10mg_PL_20120809___20120830.pdf Camazole TS 10mg_PC_20120809___20120830.pdf",
+            "title": "Camazole TS 10mg_PL_20120809___20120830.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035438&Seq=002&Type=8"
+        },
+        {
+            "title": "Camazole TS 10mg_PC_20120809___20120830.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035438&Seq=001&Type=8"
         }
     ]
 }

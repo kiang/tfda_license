@@ -1,6 +1,7 @@
 {
     "code": "01040982",
-    "time": "2015-06-25 02:31:36",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01040982",
+    "time": "2015-08-23 01:16:17",
     "許可證字號": "衛署藥製字第040982號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -46,12 +47,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 Cexitin_INS_201410-103-11-06.pdf 01-040982-103-06-13.pdf",
+            "title": "Cexitin_INS_201410-103-11-06.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040982&Seq=002&Type=9"
         },
         {
-            "title": "外盒 Cexitin_PL_201410-103-11-06.pdf Cexitin_PC_201410-103-11-06.pdf",
+            "title": "01-040982-103-06-13.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040982&Seq=001&Type=9"
+        },
+        {
+            "title": "Cexitin_PL_201410-103-11-06.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040982&Seq=002&Type=8"
+        },
+        {
+            "title": "Cexitin_PC_201410-103-11-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040982&Seq=001&Type=8"
         }
     ]
 }

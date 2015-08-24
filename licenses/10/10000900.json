@@ -1,6 +1,7 @@
 {
     "code": "10000900",
-    "time": "2015-08-21 06:55:49",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000900",
+    "time": "2015-08-24 13:38:03",
     "許可證字號": "衛署菌疫輸字第000900號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -69,12 +70,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 0009000001-104-02-10.pdf",
+            "title": "0009000001-104-02-10.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000900&Seq=001&Type=9"
         },
         {
-            "title": "外盒 100009000011___20101012.jpg 100009000010___20101012.jpg",
+            "title": "100009000011___20101012.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000900&Seq=002&Type=8"
+        },
+        {
+            "title": "100009000010___20101012.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000900&Seq=001&Type=8"
         }
     ]
 }

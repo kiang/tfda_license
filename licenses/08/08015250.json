@@ -1,6 +1,7 @@
 {
     "code": "08015250",
-    "time": "2015-07-24 07:05:36",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08015250",
+    "time": "2015-08-23 19:54:29",
     "許可證字號": "衛署粧輸字第015250號",
     "註銷狀態": "已註銷",
     "註銷日期": "104\/05\/01",
@@ -45,12 +46,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 080152500001.jpg",
+            "title": "080152500001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015250&Seq=001&Type=9"
         },
         {
-            "title": "外盒 08015250___20110915.pdf 080152500002.jpg 080152500001.jpg",
+            "title": "08015250___20110915.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015250&Seq=003&Type=8"
+        },
+        {
+            "title": "080152500002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015250&Seq=002&Type=8"
+        },
+        {
+            "title": "080152500001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015250&Seq=001&Type=8"
         }
     ]
 }

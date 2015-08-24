@@ -1,6 +1,7 @@
 {
     "code": "01019360",
-    "time": "2015-06-24 19:28:45",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01019360",
+    "time": "2015-08-22 21:26:03",
     "許可證字號": "衛署藥製字第019360號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -85,12 +86,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010193600001.jpg",
+            "title": "010193600001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019360&Seq=001&Type=9"
         },
         {
-            "title": "外盒 010193600003.jpg 010193600002.jpg 010193600001.jpg",
+            "title": "010193600003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019360&Seq=003&Type=8"
+        },
+        {
+            "title": "010193600002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019360&Seq=002&Type=8"
+        },
+        {
+            "title": "010193600001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019360&Seq=001&Type=8"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "02020498",
-    "time": "2015-07-05 00:38:37",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02020498",
+    "time": "2015-08-23 10:46:22",
     "許可證字號": "衛署藥輸字第020498號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -43,12 +44,75 @@
         }
     ],
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5608000710",
+            "成分名稱": "LACTOBACILLI ACIDOPHILUS",
+            "含量描述": "*18",
+            "含量": "18.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5608000720",
+            "成分名稱": "BIFIDOBACTERIUM",
+            "含量描述": "*18",
+            "含量": "18.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5608001210",
+            "成分名稱": "STREPTOCOCCUS FAECALIS",
+            "含量描述": "*18",
+            "含量": "18.0000000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "020204980003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020498&Seq=003&Type=9"
+        },
+        {
+            "title": "020204980002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020498&Seq=002&Type=9"
+        },
+        {
+            "title": "020204980001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020498&Seq=001&Type=9"
+        },
+        {
+            "title": "020204980008.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020498&Seq=008&Type=8"
+        },
+        {
+            "title": "020204980007.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020498&Seq=007&Type=8"
+        },
+        {
+            "title": "020204980006.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020498&Seq=006&Type=8"
+        },
+        {
+            "title": "020204980005.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020498&Seq=005&Type=8"
+        },
+        {
+            "title": "020204980004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020498&Seq=004&Type=8"
+        },
+        {
+            "title": "020204980003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020498&Seq=003&Type=8"
+        },
+        {
+            "title": "020204980002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020498&Seq=002&Type=8"
+        },
+        {
+            "title": "020204980001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020498&Seq=001&Type=8"
+        }
     ]
 }

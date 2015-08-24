@@ -1,6 +1,7 @@
 {
     "code": "10000913",
-    "time": "2015-06-24 16:27:50",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000913",
+    "time": "2015-08-24 00:20:07",
     "許可證字號": "衛署菌疫輸字第000913號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -70,12 +71,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 0___20110902.18 amended by TW DOH 20110616 英.pdf 0___20110902.18 amended by TW DOH 20110616 中.pdf",
+            "title": "0___20110902.18 amended by TW DOH 20110616 英.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000913&Seq=002&Type=9"
         },
         {
-            "title": "外盒 PCC label___20110902.pdf PCC carton___20110902.pdf PCC carton back___20110902.pdf",
+            "title": "0___20110902.18 amended by TW DOH 20110616 中.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000913&Seq=001&Type=9"
+        },
+        {
+            "title": "PCC label___20110902.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000913&Seq=003&Type=8"
+        },
+        {
+            "title": "PCC carton___20110902.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000913&Seq=002&Type=8"
+        },
+        {
+            "title": "PCC carton back___20110902.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000913&Seq=001&Type=8"
         }
     ]
 }

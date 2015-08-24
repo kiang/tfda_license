@@ -1,6 +1,7 @@
 {
     "code": "01001386",
-    "time": "2015-06-24 15:43:20",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01001386",
+    "time": "2015-08-22 18:45:32",
     "許可證字號": "衛署藥製字第001386號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,12 +46,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010013860001-102-12-30.pdf 010013860001.doc",
+            "title": "010013860001-102-12-30.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001386&Seq=002&Type=9"
         },
         {
-            "title": "外盒 010013860003-102-12-30.jpg 010013860002-102-12-30.jpg",
+            "title": "010013860001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001386&Seq=001&Type=9"
+        },
+        {
+            "title": "010013860003-102-12-30.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001386&Seq=002&Type=8"
+        },
+        {
+            "title": "010013860002-102-12-30.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001386&Seq=001&Type=8"
         }
     ]
 }

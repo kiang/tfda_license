@@ -1,6 +1,7 @@
 {
     "code": "52026444",
-    "time": "2015-08-21 06:09:51",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026444",
+    "time": "2015-08-24 13:06:12",
     "許可證字號": "衛部藥輸字第026444號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -55,12 +56,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 020264440005-104-03-31.pdf 020264440004-104-03-31.pdf",
+            "title": "020264440005-104-03-31.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026444&Seq=002&Type=9"
         },
         {
-            "title": "外盒 020264440003-104-03-31.pdf 020264440002-104-03-31.pdf 020264440001-104-03-31.pdf",
+            "title": "020264440004-104-03-31.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026444&Seq=001&Type=9"
+        },
+        {
+            "title": "020264440003-104-03-31.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026444&Seq=003&Type=8"
+        },
+        {
+            "title": "020264440002-104-03-31.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026444&Seq=002&Type=8"
+        },
+        {
+            "title": "020264440001-104-03-31.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026444&Seq=001&Type=8"
         }
     ]
 }

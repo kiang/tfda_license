@@ -1,6 +1,7 @@
 {
     "code": "01028206",
-    "time": "2015-06-24 23:04:33",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01028206",
+    "time": "2015-08-22 22:37:44",
     "許可證字號": "衛署藥製字第028206號",
     "註銷狀態": "已註銷",
     "註銷日期": "98\/12\/30",
@@ -45,8 +46,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010282060003.jpg 010282060002.jpg 010282060001.doc",
+            "title": "010282060003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028206&Seq=003&Type=9"
+        },
+        {
+            "title": "010282060002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028206&Seq=002&Type=9"
+        },
+        {
+            "title": "010282060001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028206&Seq=001&Type=9"
         }
     ]
 }

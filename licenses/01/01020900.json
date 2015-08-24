@@ -1,6 +1,7 @@
 {
     "code": "01020900",
-    "time": "2015-08-21 03:17:14",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01020900",
+    "time": "2015-08-24 11:05:49",
     "許可證字號": "衛署藥製字第020900號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -61,12 +62,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010209000001-104-08-13.pdf 010209000001.jpg",
+            "title": "010209000001-104-08-13.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020900&Seq=002&Type=9"
         },
         {
-            "title": "外盒 010209000003.jpg 010209000002.jpg 010209000001.jpg",
+            "title": "010209000001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020900&Seq=001&Type=9"
+        },
+        {
+            "title": "010209000003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020900&Seq=003&Type=8"
+        },
+        {
+            "title": "010209000002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020900&Seq=002&Type=8"
+        },
+        {
+            "title": "010209000001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020900&Seq=001&Type=8"
         }
     ]
 }

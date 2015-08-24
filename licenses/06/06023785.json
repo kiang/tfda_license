@@ -1,6 +1,7 @@
 {
     "code": "06023785",
-    "time": "2015-08-21 04:13:37",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023785",
+    "time": "2015-08-24 11:42:57",
     "許可證字號": "衛署醫器輸字第023785號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,17 +39,19 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 060237850002___20130126.pdf",
+            "title": "060237850002___20130126.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023785&Seq=001&Type=9"
         },
         {
-            "title": "外盒 060237850001___20130126.pdf 060237850001-1___20130126.pdf",
+            "title": "060237850001___20130126.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023785&Seq=002&Type=8"
+        },
+        {
+            "title": "060237850001-1___20130126.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023785&Seq=001&Type=8"
         }
     ]
 }

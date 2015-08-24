@@ -1,6 +1,7 @@
 {
     "code": "01057897",
-    "time": "2015-06-25 04:59:41",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057897",
+    "time": "2015-08-23 03:04:45",
     "許可證字號": "衛署藥製字第057897號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -46,12 +47,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010578970001-2014-06-19.pdf 010578970003___20130430.pdf.pdf",
+            "title": "010578970001-2014-06-19.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057897&Seq=002&Type=9"
         },
         {
-            "title": "外盒 010578970002-2014-06-19.pdf 010578970002___20130430.pdf.pdf 010578970001___20130430.pdf.pdf",
+            "title": "010578970003___20130430.pdf.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057897&Seq=001&Type=9"
+        },
+        {
+            "title": "010578970002-2014-06-19.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057897&Seq=003&Type=8"
+        },
+        {
+            "title": "010578970002___20130430.pdf.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057897&Seq=002&Type=8"
+        },
+        {
+            "title": "010578970001___20130430.pdf.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057897&Seq=001&Type=8"
         }
     ]
 }

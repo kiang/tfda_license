@@ -1,6 +1,7 @@
 {
     "code": "55004996",
-    "time": "2015-07-24 05:23:53",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=55004996",
+    "time": "2015-08-22 04:58:17",
     "許可證字號": "衛部醫器製字第004996號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,17 +39,19 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 550049960001-104-05-29.pdf",
+            "title": "550049960001-104-05-29.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55004996&Seq=001&Type=9"
         },
         {
-            "title": "外盒 550049960003-104-05-29.pdf 550049960002-104-05-29.pdf",
+            "title": "550049960003-104-05-29.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55004996&Seq=002&Type=8"
+        },
+        {
+            "title": "550049960002-104-05-29.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55004996&Seq=001&Type=8"
         }
     ]
 }

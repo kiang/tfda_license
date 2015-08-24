@@ -1,6 +1,7 @@
 {
     "code": "01049256",
-    "time": "2015-07-05 01:41:49",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01049256",
+    "time": "2015-08-23 04:01:16",
     "許可證字號": "衛署藥製字第049256號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -35,12 +36,55 @@
     "CCC號列": "30042000319 人用醫藥製劑，含頭孢子菌類抗生素者Medicaments, containing cephalosporins, for human use",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812602630",
+            "成分名稱": "CEFMENOXIME HEMIHYDROCHLORIDE STERILE (CEFMENOXIME HYDROCHLORIDE )",
+            "含量描述": "(eq. to Cefmenoxime base 1000mg)",
+            "含量": "1036.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812602610",
+            "成分名稱": "CEFMENOXIME HEMIHYDROCHLORIDE",
+            "含量描述": "(eq. to Cefmenoxime base 500mg)",
+            "含量": "518.0000000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "010492560001-103-02-15.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049256&Seq=003&Type=9"
+        },
+        {
+            "title": "010492560002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049256&Seq=002&Type=9"
+        },
+        {
+            "title": "010492560001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049256&Seq=001&Type=9"
+        },
+        {
+            "title": "01049256c0005.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049256&Seq=005&Type=8"
+        },
+        {
+            "title": "01049256c0004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049256&Seq=004&Type=8"
+        },
+        {
+            "title": "01049256c0003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049256&Seq=003&Type=8"
+        },
+        {
+            "title": "01049256c0002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049256&Seq=002&Type=8"
+        },
+        {
+            "title": "01049256c0001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049256&Seq=001&Type=8"
+        }
     ]
 }

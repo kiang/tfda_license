@@ -1,6 +1,7 @@
 {
     "code": "02025847",
-    "time": "2015-06-25 18:56:19",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025847",
+    "time": "2015-08-23 12:17:23",
     "許可證字號": "衛署藥輸字第025847號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -33,13 +34,15 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 020258470002___20121120.pdf 020258470001___20121120.pdf",
+            "title": "020258470002___20121120.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025847&Seq=002&Type=9"
+        },
+        {
+            "title": "020258470001___20121120.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025847&Seq=001&Type=9"
         }
     ]
 }

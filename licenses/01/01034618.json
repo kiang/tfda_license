@@ -1,6 +1,7 @@
 {
     "code": "01034618",
-    "time": "2015-06-25 01:23:56",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01034618",
+    "time": "2015-08-23 00:34:16",
     "許可證字號": "衛署藥製字第034618號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -53,8 +54,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010346180003.JPG 010346180002.JPG 010346180001.doc",
+            "title": "010346180003.JPG",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034618&Seq=003&Type=9"
+        },
+        {
+            "title": "010346180002.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034618&Seq=002&Type=9"
+        },
+        {
+            "title": "010346180001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034618&Seq=001&Type=9"
         }
     ]
 }

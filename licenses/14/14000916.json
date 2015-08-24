@@ -1,6 +1,7 @@
 {
     "code": "14000916",
-    "time": "2015-06-24 10:12:20",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=14000916",
+    "time": "2015-08-22 17:36:08",
     "許可證字號": "內衛成製字第000916號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,8 +46,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 140009160003.jpg 140009160002.JPG 140009160001.JPG",
+            "title": "140009160003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14000916&Seq=003&Type=9"
+        },
+        {
+            "title": "140009160002.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14000916&Seq=002&Type=9"
+        },
+        {
+            "title": "140009160001.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14000916&Seq=001&Type=9"
         }
     ]
 }

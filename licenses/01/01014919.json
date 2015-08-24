@@ -1,6 +1,7 @@
 {
     "code": "01014919",
-    "time": "2015-08-21 06:37:04",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01014919",
+    "time": "2015-08-24 13:25:49",
     "許可證字號": "衛署藥製字第014919號",
     "註銷狀態": "已註銷",
     "註銷日期": "104\/06\/17",
@@ -45,8 +46,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010149190004.jpg 010149190003.jpg 010149190002.jpg 010149190001.doc",
+            "title": "010149190004.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014919&Seq=004&Type=9"
+        },
+        {
+            "title": "010149190003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014919&Seq=003&Type=9"
+        },
+        {
+            "title": "010149190002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014919&Seq=002&Type=9"
+        },
+        {
+            "title": "010149190001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014919&Seq=001&Type=9"
         }
     ]
 }

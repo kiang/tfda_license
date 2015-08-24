@@ -1,6 +1,7 @@
 {
     "code": "01020115",
-    "time": "2015-08-21 05:40:21",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01020115",
+    "time": "2015-08-24 12:38:22",
     "許可證字號": "衛署藥製字第020115號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,12 +46,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 特腦健仿單-104-06-25.pdf 010201150001.doc",
+            "title": "特腦健仿單-104-06-25.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020115&Seq=002&Type=9"
         },
         {
-            "title": "外盒 特腦健錠鋁箔-104-06-25.pdf 特腦健標籤-104-06-25.pdf",
+            "title": "010201150001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020115&Seq=001&Type=9"
+        },
+        {
+            "title": "特腦健錠鋁箔-104-06-25.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020115&Seq=002&Type=8"
+        },
+        {
+            "title": "特腦健標籤-104-06-25.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020115&Seq=001&Type=8"
         }
     ]
 }

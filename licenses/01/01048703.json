@@ -1,6 +1,7 @@
 {
     "code": "01048703",
-    "time": "2015-06-25 04:42:55",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01048703",
+    "time": "2015-08-23 03:43:22",
     "許可證字號": "衛署藥製字第048703號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,8 +21,7 @@
     "管制藥品分類級別": "",
     "主成分略述": "EXSICCATED FRUCTUS CARDUI MARIAE EXTRACT (EQ TO 70 MG OF SILYMARIN CALCULATED AS SILYBIN), NICOTINAMIDE, THIAMINE MONONITRATE, RIBOFLAVIN (VIT B2), PYRIDOXINE HCL, CYANOCOBALAMIN (VIT B12), PANTOTHENATE CALCIUM",
     "限制項目": [
-        "01國產",
-        "1G不得製造"
+        "01國產"
     ],
     "申請商名稱": "623104A481  捷安司生物科技股份有限公司",
     "申請商地址": "新北市中和區中正路736號2樓之2",
@@ -94,12 +94,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010487030001.jpg",
+            "title": "010487030001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048703&Seq=001&Type=9"
         },
         {
-            "title": "外盒 010487030003.jpg 010487030002.jpg 010487030001.jpg",
+            "title": "010487030003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048703&Seq=003&Type=8"
+        },
+        {
+            "title": "010487030002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048703&Seq=002&Type=8"
+        },
+        {
+            "title": "010487030001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048703&Seq=001&Type=8"
         }
     ]
 }

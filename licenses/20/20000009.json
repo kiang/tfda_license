@@ -1,6 +1,7 @@
 {
     "code": "20000009",
-    "time": "2015-06-22 02:02:20",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=20000009",
+    "time": "2015-08-23 13:49:21",
     "許可證字號": "衛署罕藥輸字第000009號",
     "註銷狀態": "已註銷",
     "註銷日期": "97\/10\/13",
@@ -54,8 +55,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 200000090004.jpg 200000090003.jpg 200000090002.jpg 200000090001.jpg",
+            "title": "200000090004.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000009&Seq=004&Type=9"
+        },
+        {
+            "title": "200000090003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000009&Seq=003&Type=9"
+        },
+        {
+            "title": "200000090002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000009&Seq=002&Type=9"
+        },
+        {
+            "title": "200000090001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000009&Seq=001&Type=9"
         }
     ]
 }

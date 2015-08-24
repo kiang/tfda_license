@@ -1,6 +1,7 @@
 {
     "code": "71000015",
-    "time": "2015-06-22 01:31:07",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=71000015",
+    "time": "2015-08-23 13:27:01",
     "許可證字號": "衛部罕藥製字第000015號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,12 +46,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 L4454-11_p.02_Ocarnit_150323-104-03-27.pdf L4454-11_p.01_Ocarnit_150323-104-03-27.pdf",
+            "title": "L4454-11_p.02_Ocarnit_150323-104-03-27.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=71000015&Seq=002&Type=9"
         },
         {
-            "title": "外盒 M4454-11_Ocarnit_150323-104-03-27.pdf K4454-11_Ocarnit_150317-104-03-27.pdf",
+            "title": "L4454-11_p.01_Ocarnit_150323-104-03-27.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=71000015&Seq=001&Type=9"
+        },
+        {
+            "title": "M4454-11_Ocarnit_150323-104-03-27.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=71000015&Seq=002&Type=8"
+        },
+        {
+            "title": "K4454-11_Ocarnit_150317-104-03-27.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=71000015&Seq=001&Type=8"
         }
     ]
 }

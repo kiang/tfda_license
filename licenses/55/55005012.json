@@ -1,6 +1,7 @@
 {
     "code": "55005012",
-    "time": "2015-08-21 05:28:33",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=55005012",
+    "time": "2015-08-24 12:27:16",
     "許可證字號": "衛部醫器製字第005012號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -39,17 +40,23 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 550050120004-104-07-07.pdf 550050120003-104-07-07.pdf",
+            "title": "550050120004-104-07-07.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55005012&Seq=002&Type=9"
         },
         {
-            "title": "外盒 550050120002-104-07-07.pdf 550050120001-104-07-07.pdf",
+            "title": "550050120003-104-07-07.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55005012&Seq=001&Type=9"
+        },
+        {
+            "title": "550050120002-104-07-07.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55005012&Seq=002&Type=8"
+        },
+        {
+            "title": "550050120001-104-07-07.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55005012&Seq=001&Type=8"
         }
     ]
 }

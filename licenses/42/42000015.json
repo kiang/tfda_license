@@ -1,6 +1,7 @@
 {
     "code": "42000015",
-    "time": "2015-06-23 23:23:34",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000015",
+    "time": "2015-08-22 04:41:59",
     "許可證字號": "衛署醫器陸輸字第000015號",
     "註銷狀態": "已註銷",
     "註銷日期": "101\/11\/27",
@@ -51,12 +52,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 420000150001.jpg",
+            "title": "420000150001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000015&Seq=001&Type=9"
         },
         {
-            "title": "外盒 420000150003.jpg 420000150002.jpg 420000150001.jpg",
+            "title": "420000150003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000015&Seq=003&Type=8"
+        },
+        {
+            "title": "420000150002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000015&Seq=002&Type=8"
+        },
+        {
+            "title": "420000150001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000015&Seq=001&Type=8"
         }
     ]
 }

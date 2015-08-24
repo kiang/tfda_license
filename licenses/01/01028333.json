@@ -1,6 +1,7 @@
 {
     "code": "01028333",
-    "time": "2015-06-24 22:45:01",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01028333",
+    "time": "2015-08-22 22:34:03",
     "許可證字號": "衛署藥製字第028333號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -109,8 +110,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010283330003.jpg 010283330002.jpg 010283330001.doc",
+            "title": "010283330001-104-07-16.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028333&Seq=004&Type=9"
+        },
+        {
+            "title": "010283330003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028333&Seq=003&Type=9"
+        },
+        {
+            "title": "010283330002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028333&Seq=002&Type=9"
+        },
+        {
+            "title": "010283330001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028333&Seq=001&Type=9"
         }
     ]
 }

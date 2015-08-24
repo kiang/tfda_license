@@ -1,6 +1,7 @@
 {
     "code": "02020825",
-    "time": "2015-07-05 00:38:21",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02020825",
+    "time": "2015-08-23 11:25:17",
     "許可證字號": "衛署藥輸字第020825號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -50,12 +51,139 @@
         }
     ],
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "6828001120",
+            "成分名稱": "TERLIPRESSIN ACETATE",
+            "含量描述": "",
+            "含量": "1.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "4012002100",
+            "成分名稱": "SODIUM CHLORIDE",
+            "含量描述": "",
+            "含量": "45.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9600014900",
+            "成分名稱": "HYDROCHLORIC ACID",
+            "含量描述": "",
+            "含量": "0.0000000000",
+            "單位": "Q.S."
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9604000900",
+            "成分名稱": "WATER FOR INJECTION",
+            "含量描述": "",
+            "含量": "5.0000000000",
+            "單位": "ML"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "可利新注射劑 insert 020208250001-103-11-28.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020825&Seq=011&Type=9"
+        },
+        {
+            "title": "020208250001 GLYPRESSIN-2014-01-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020825&Seq=010&Type=9"
+        },
+        {
+            "title": "02020825001-103-01-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020825&Seq=009&Type=9"
+        },
+        {
+            "title": "02020825001-2014-01-02.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020825&Seq=008&Type=9"
+        },
+        {
+            "title": "020208250002-102-06-13.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020825&Seq=007&Type=9"
+        },
+        {
+            "title": "020208250001-102-06-13.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020825&Seq=006&Type=9"
+        },
+        {
+            "title": "020208250005.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020825&Seq=005&Type=9"
+        },
+        {
+            "title": "020208250004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020825&Seq=004&Type=9"
+        },
+        {
+            "title": "020208250003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020825&Seq=003&Type=9"
+        },
+        {
+            "title": "020208250002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020825&Seq=002&Type=9"
+        },
+        {
+            "title": "020208250001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020825&Seq=001&Type=9"
+        },
+        {
+            "title": "02020825004-103-01-10.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020825&Seq=014&Type=8"
+        },
+        {
+            "title": "02020825003-103-01-10.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020825&Seq=013&Type=8"
+        },
+        {
+            "title": "02020825002-103-01-10.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020825&Seq=012&Type=8"
+        },
+        {
+            "title": "02020825c0011.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020825&Seq=011&Type=8"
+        },
+        {
+            "title": "02020825c0010.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020825&Seq=010&Type=8"
+        },
+        {
+            "title": "02020825c0009.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020825&Seq=009&Type=8"
+        },
+        {
+            "title": "02020825c0008.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020825&Seq=008&Type=8"
+        },
+        {
+            "title": "020208250007.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020825&Seq=007&Type=8"
+        },
+        {
+            "title": "020208250006.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020825&Seq=006&Type=8"
+        },
+        {
+            "title": "020208250005.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020825&Seq=005&Type=8"
+        },
+        {
+            "title": "020208250004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020825&Seq=004&Type=8"
+        },
+        {
+            "title": "020208250003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020825&Seq=003&Type=8"
+        },
+        {
+            "title": "020208250002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020825&Seq=002&Type=8"
+        },
+        {
+            "title": "020208250001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020825&Seq=001&Type=8"
+        }
     ]
 }

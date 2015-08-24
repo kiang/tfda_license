@@ -1,6 +1,7 @@
 {
     "code": "12002533",
-    "time": "2015-07-05 01:34:52",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12002533",
+    "time": "2015-08-23 13:44:27",
     "許可證字號": "內衛藥製字第002533號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,18 +35,23 @@
     "CCC號列": "30045000009 含有維他命或第２９３６節產品之其他醫藥製劑Other medicaments containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
     "ingredients": [
-
-    ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8810600300",
+            "成分名稱": "PYRIDOXINE HCL",
+            "含量描述": "50",
+            "含量": "50.0000000000",
+            "單位": "MG"
+        }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 120025330002.doc 120025330001.doc",
+            "title": "120025330002.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002533&Seq=002&Type=9"
+        },
+        {
+            "title": "120025330001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002533&Seq=001&Type=9"
         }
     ]
 }

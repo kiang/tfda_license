@@ -1,6 +1,7 @@
 {
     "code": "01011483",
-    "time": "2015-06-24 18:17:26",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01011483",
+    "time": "2015-08-22 19:51:42",
     "許可證字號": "衛署藥製字第011483號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,8 +46,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010114830001.jpg 010114830001.doc",
+            "title": "010114830001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01011483&Seq=002&Type=9"
+        },
+        {
+            "title": "010114830001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01011483&Seq=001&Type=9"
         }
     ]
 }

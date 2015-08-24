@@ -1,6 +1,7 @@
 {
     "code": "01009983",
-    "time": "2015-06-24 17:45:56",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01009983",
+    "time": "2015-08-22 19:42:35",
     "許可證字號": "衛署藥製字第009983號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,12 +46,28 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010099830002.jpg 010099830001.jpg 010099830001.doc",
+            "title": "010099830002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01009983&Seq=003&Type=9"
         },
         {
-            "title": "外盒 010099830003.jpg 010099830002.jpg 010099830001.jpg",
+            "title": "010099830001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01009983&Seq=002&Type=9"
+        },
+        {
+            "title": "010099830001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01009983&Seq=001&Type=9"
+        },
+        {
+            "title": "010099830003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01009983&Seq=003&Type=8"
+        },
+        {
+            "title": "010099830002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01009983&Seq=002&Type=8"
+        },
+        {
+            "title": "010099830001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01009983&Seq=001&Type=8"
         }
     ]
 }

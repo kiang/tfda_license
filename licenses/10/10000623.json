@@ -1,6 +1,7 @@
 {
     "code": "10000623",
-    "time": "2015-06-24 15:29:56",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000623",
+    "time": "2015-08-22 17:38:43",
     "許可證字號": "衛署菌疫輸字第000623號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -54,12 +55,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 100006230002___20110217.jpg 100006230001___20110217.jpg",
+            "title": "100006230002___20110217.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000623&Seq=002&Type=9"
         },
         {
-            "title": "外盒 100006230004___20110217.jpg 100006230003___20110217.jpg",
+            "title": "100006230001___20110217.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000623&Seq=001&Type=9"
+        },
+        {
+            "title": "100006230004___20110217.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000623&Seq=002&Type=8"
+        },
+        {
+            "title": "100006230003___20110217.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000623&Seq=001&Type=8"
         }
     ]
 }

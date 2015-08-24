@@ -1,6 +1,7 @@
 {
     "code": "01049263",
-    "time": "2015-07-05 01:41:52",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01049263",
+    "time": "2015-08-23 04:04:43",
     "許可證字號": "衛署藥製字第049263號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -35,12 +36,95 @@
     "CCC號列": "30049099101 抗過敏抗組織胺用藥Drugs for antihypersensitivity and antihistamine",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0400005810",
+            "成分名稱": "CETIRIZINE DIHYDROCHLORIDE (EQ TO CETIRIZINE 2HCL )",
+            "含量描述": "",
+            "含量": "5.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "1212002610",
+            "成分名稱": "PSEUDOEPHEDRINE HCL",
+            "含量描述": "",
+            "含量": "120.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9800000100",
+            "成分名稱": "CAPSULE SHELL",
+            "含量描述": "(衛署藥製字第012970號以及衛署藥製字第033672號)",
+            "含量": "1.0000000000",
+            "單位": "'S"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "010492630006.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049263&Seq=011&Type=9"
+        },
+        {
+            "title": "010492630005___20120316.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049263&Seq=010&Type=9"
+        },
+        {
+            "title": "010492630005.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049263&Seq=009&Type=9"
+        },
+        {
+            "title": "010492630004___20120316.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049263&Seq=008&Type=9"
+        },
+        {
+            "title": "010492630004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049263&Seq=007&Type=9"
+        },
+        {
+            "title": "010492630003___20120316.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049263&Seq=006&Type=9"
+        },
+        {
+            "title": "010492630003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049263&Seq=005&Type=9"
+        },
+        {
+            "title": "010492630002___20120316.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049263&Seq=004&Type=9"
+        },
+        {
+            "title": "010492630002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049263&Seq=003&Type=9"
+        },
+        {
+            "title": "010492630001___20120316.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049263&Seq=002&Type=9"
+        },
+        {
+            "title": "010492630001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049263&Seq=001&Type=9"
+        },
+        {
+            "title": "010492630003___20120316.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049263&Seq=005&Type=8"
+        },
+        {
+            "title": "010492630002___20120316.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049263&Seq=004&Type=8"
+        },
+        {
+            "title": "010492630002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049263&Seq=003&Type=8"
+        },
+        {
+            "title": "010492630001___20120316.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049263&Seq=002&Type=8"
+        },
+        {
+            "title": "010492630001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049263&Seq=001&Type=8"
+        }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "01040423",
-    "time": "2015-06-25 02:29:28",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01040423",
+    "time": "2015-08-23 00:47:05",
     "許可證字號": "衛署藥製字第040423號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,7 +39,7 @@
             "成分類別": "主成分",
             "成分代碼": "0812301760",
             "成分名稱": "CEPHRADINE ARGININE",
-            "含量描述": "",
+            "含量描述": "(Equivalent to Cephradine base)",
             "含量": "500.0000000000",
             "單位": "MG"
         },
@@ -46,18 +47,26 @@
             "成分類別": "主成分",
             "成分代碼": "0812301760",
             "成分名稱": "CEPHRADINE ARGININE",
-            "含量描述": "",
+            "含量描述": "(Equivalent to Cephradine base)",
             "含量": "1000.0000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 仿單標籤___20120424.pdf",
+            "title": "速保寧注射液仿單-104-08-05.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040423&Seq=002&Type=9"
+        },
+        {
+            "title": "仿單標籤___20120424.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040423&Seq=001&Type=9"
         },
         {
-            "title": "外盒 仿單標籤___20120424.pdf",
+            "title": "速保寧注射液標籤-104-08-05.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040423&Seq=002&Type=8"
+        },
+        {
+            "title": "仿單標籤___20120424.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040423&Seq=001&Type=8"
         }
     ]

@@ -1,6 +1,7 @@
 {
     "code": "05003501",
-    "time": "2015-06-24 02:24:54",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05003501",
+    "time": "2015-08-22 06:16:53",
     "許可證字號": "衛署醫器製字第003501號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,16 +39,18 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 050035010001-103-04-30.pdf 050035010003-103-04-11.pdf",
+            "title": "050035010001-103-04-30.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003501&Seq=003&Type=9"
         },
         {
-            "title": "外盒 050035010001-103-04-30.pdf",
+            "title": "050035010003-103-04-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003501&Seq=002&Type=9"
+        },
+        {
+            "title": "050035010001-103-04-30.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003501&Seq=002&Type=8"
         }
     ]

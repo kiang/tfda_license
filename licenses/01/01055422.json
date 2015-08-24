@@ -1,6 +1,7 @@
 {
     "code": "01055422",
-    "time": "2015-06-25 05:11:47",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01055422",
+    "time": "2015-08-23 02:53:25",
     "許可證字號": "衛署藥製字第055422號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -33,13 +34,15 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "外盒 F064標籤DOH-2014-06-17.pdf F064標籤DOH___20110126.doc",
+            "title": "F064標籤DOH-2014-06-17.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055422&Seq=002&Type=8"
+        },
+        {
+            "title": "F064標籤DOH___20110126.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055422&Seq=001&Type=8"
         }
     ]
 }

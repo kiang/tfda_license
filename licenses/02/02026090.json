@@ -1,6 +1,7 @@
 {
     "code": "02026090",
-    "time": "2015-06-25 18:44:57",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02026090",
+    "time": "2015-08-23 12:29:46",
     "許可證字號": "衛署藥輸字第026090號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,12 +46,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 INS_Pharacetam FCT 1000mg_2-102-10-17.pdf INS_Pharacetam FCT 1000mg_1-102-10-17.pdf",
+            "title": "INS_Pharacetam FCT 1000mg_2-102-10-17.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02026090&Seq=002&Type=9"
         },
         {
-            "title": "外盒 Foil_Pharacetam FCT 1000 mg-102-10-17.pdf Box_Pharacetam FCT 1000 mg-102-10-17.pdf",
+            "title": "INS_Pharacetam FCT 1000mg_1-102-10-17.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02026090&Seq=001&Type=9"
+        },
+        {
+            "title": "Foil_Pharacetam FCT 1000 mg-102-10-17.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02026090&Seq=002&Type=8"
+        },
+        {
+            "title": "Box_Pharacetam FCT 1000 mg-102-10-17.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02026090&Seq=001&Type=8"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "10000823",
-    "time": "2015-06-24 15:15:25",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000823",
+    "time": "2015-08-22 17:52:19",
     "許可證字號": "衛署菌疫輸字第000823號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -22,7 +23,7 @@
     "限制項目": [
         "02輸入"
     ],
-    "申請商名稱": "1426801100  臺灣諾和諾德藥品股份有限公司",
+    "申請商名稱": "1426801100  台灣諾和諾德藥品股份有限公司",
     "申請商地址": "台北市敦化南路二段２１６號７樓－１",
     "主製造廠": {
         "製造廠名稱": "F150324000  Novo Nordisk Production SAS",
@@ -33,17 +34,139 @@
     },
     "CCC號列": "30043100003 醫藥製劑，含有胰島素者Medicaments, containing insulin",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 100008230002-103-11-04.pdf 100008230001-103-11-04.pdf 100008230012.jpg 100008230011.jpg 100008230010.jpg 100008230009.jpg 100008230008.jpg 100008230007.jpg 100008230006.jpg 100008230005___20100531.JPG 100008230005.jpg 100008230004___20100531.JPG 100008230004.jpg 100008230003___20100531.JPG 100008230003.jpg 100008230002___20110809.pdf 100008230002___20100531.JPG 100008230002.jpg 100008230001___20110809.pdf 100008230001___20100531.JPG 100008230001.jpg",
+            "title": "100008230002-103-11-04.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=021&Type=9"
         },
         {
-            "title": "外盒 100008230008___20110809.pdf 100008230007___20110809.pdf 100008230007___20100531.JPG 100008230007.jpg 100008230006___20110809.pdf 100008230006___20100531.JPG 100008230006.jpg 100008230005.jpg 100008230004.jpg 100008230003.jpg 100008230002.jpg 100008230001.jpg",
+            "title": "100008230001-103-11-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=020&Type=9"
+        },
+        {
+            "title": "100008230012.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=019&Type=9"
+        },
+        {
+            "title": "100008230011.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=018&Type=9"
+        },
+        {
+            "title": "100008230010.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=017&Type=9"
+        },
+        {
+            "title": "100008230009.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=016&Type=9"
+        },
+        {
+            "title": "100008230008.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=015&Type=9"
+        },
+        {
+            "title": "100008230007.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=014&Type=9"
+        },
+        {
+            "title": "100008230006.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=013&Type=9"
+        },
+        {
+            "title": "100008230005___20100531.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=012&Type=9"
+        },
+        {
+            "title": "100008230005.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=011&Type=9"
+        },
+        {
+            "title": "100008230004___20100531.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=010&Type=9"
+        },
+        {
+            "title": "100008230004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=009&Type=9"
+        },
+        {
+            "title": "100008230003___20100531.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=008&Type=9"
+        },
+        {
+            "title": "100008230003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=007&Type=9"
+        },
+        {
+            "title": "100008230002___20110809.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=006&Type=9"
+        },
+        {
+            "title": "100008230002___20100531.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=005&Type=9"
+        },
+        {
+            "title": "100008230002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=004&Type=9"
+        },
+        {
+            "title": "100008230001___20110809.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=003&Type=9"
+        },
+        {
+            "title": "100008230001___20100531.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=002&Type=9"
+        },
+        {
+            "title": "100008230001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=001&Type=9"
+        },
+        {
+            "title": "100008230008___20110809.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=012&Type=8"
+        },
+        {
+            "title": "100008230007___20110809.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=011&Type=8"
+        },
+        {
+            "title": "100008230007___20100531.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=010&Type=8"
+        },
+        {
+            "title": "100008230007.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=009&Type=8"
+        },
+        {
+            "title": "100008230006___20110809.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=008&Type=8"
+        },
+        {
+            "title": "100008230006___20100531.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=007&Type=8"
+        },
+        {
+            "title": "100008230006.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=006&Type=8"
+        },
+        {
+            "title": "100008230005.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=005&Type=8"
+        },
+        {
+            "title": "100008230004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=004&Type=8"
+        },
+        {
+            "title": "100008230003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=003&Type=8"
+        },
+        {
+            "title": "100008230002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=002&Type=8"
+        },
+        {
+            "title": "100008230001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000823&Seq=001&Type=8"
         }
     ]
 }

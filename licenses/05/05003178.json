@@ -1,6 +1,7 @@
 {
     "code": "05003178",
-    "time": "2015-08-21 04:49:14",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05003178",
+    "time": "2015-08-24 11:56:31",
     "許可證字號": "衛署醫器製字第003178號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -39,17 +40,27 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 050031780005___20110412.JPG 050031780004___20110412.JPG",
+            "title": "050031780005___20110412.JPG",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003178&Seq=002&Type=9"
         },
         {
-            "title": "外盒 050031780003___20110412.JPG 050031780002___20110412.JPG 050031780001___20110412.JPG",
+            "title": "050031780004___20110412.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003178&Seq=001&Type=9"
+        },
+        {
+            "title": "050031780003___20110412.JPG",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003178&Seq=003&Type=8"
+        },
+        {
+            "title": "050031780002___20110412.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003178&Seq=002&Type=8"
+        },
+        {
+            "title": "050031780001___20110412.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003178&Seq=001&Type=8"
         }
     ]
 }

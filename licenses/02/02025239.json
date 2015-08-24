@@ -1,6 +1,7 @@
 {
     "code": "02025239",
-    "time": "2015-08-21 04:46:21",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025239",
+    "time": "2015-08-23 12:09:56",
     "許可證字號": "衛署藥輸字第025239號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -42,13 +43,15 @@
             "製程": "總公司"
         }
     ],
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "外盒 02025239002___20110706.jpg 02025239001___20110706.jpg",
+            "title": "02025239002___20110706.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025239&Seq=002&Type=8"
+        },
+        {
+            "title": "02025239001___20110706.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025239&Seq=001&Type=8"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "01009034",
-    "time": "2015-07-05 01:36:12",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01009034",
+    "time": "2015-08-22 19:41:31",
     "許可證字號": "衛署藥製字第009034號",
     "註銷狀態": "已註銷",
     "註銷日期": "103\/10\/08",
@@ -34,12 +35,71 @@
     "CCC號列": "30045000009 含有維他命或第２９３６節產品之其他醫藥製劑Other medicaments containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8804000100",
+            "成分名稱": "VITAMIN A",
+            "含量描述": "4000",
+            "含量": "4000.0000000000",
+            "單位": "IU (I"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8818000000",
+            "成分名稱": "VITAMIN D",
+            "含量描述": "400",
+            "含量": "400.0000000000",
+            "單位": "IU (I"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8820000210",
+            "成分名稱": "TOCOPHEROL ACETATE ALPHA (EQ TO VIT E ACETATE) (EQ TO VITAMIN E ACETATE)",
+            "含量描述": "1.35",
+            "含量": "1.3500000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "010090340010.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01009034&Seq=010&Type=9"
+        },
+        {
+            "title": "010090340009.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01009034&Seq=009&Type=9"
+        },
+        {
+            "title": "010090340008.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01009034&Seq=008&Type=9"
+        },
+        {
+            "title": "010090340007.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01009034&Seq=007&Type=9"
+        },
+        {
+            "title": "010090340006.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01009034&Seq=006&Type=9"
+        },
+        {
+            "title": "010090340005.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01009034&Seq=005&Type=9"
+        },
+        {
+            "title": "010090340004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01009034&Seq=004&Type=9"
+        },
+        {
+            "title": "010090340003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01009034&Seq=003&Type=9"
+        },
+        {
+            "title": "010090340002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01009034&Seq=002&Type=9"
+        },
+        {
+            "title": "010090340001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01009034&Seq=001&Type=9"
+        }
     ]
 }

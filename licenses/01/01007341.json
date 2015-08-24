@@ -1,6 +1,7 @@
 {
     "code": "01007341",
-    "time": "2015-06-24 18:05:48",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01007341",
+    "time": "2015-08-22 18:37:14",
     "許可證字號": "衛署藥製字第007341號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,12 +46,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010073410001.jpg",
+            "title": "010073410001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01007341&Seq=001&Type=9"
         },
         {
-            "title": "外盒 010073410003.jpg 010073410002.jpg 010073410001.jpg",
+            "title": "010073410003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01007341&Seq=003&Type=8"
+        },
+        {
+            "title": "010073410002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01007341&Seq=002&Type=8"
+        },
+        {
+            "title": "010073410001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01007341&Seq=001&Type=8"
         }
     ]
 }

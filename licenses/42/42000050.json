@@ -1,6 +1,7 @@
 {
     "code": "42000050",
-    "time": "2015-06-23 23:37:04",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000050",
+    "time": "2015-08-22 04:53:11",
     "許可證字號": "衛署醫器陸輸字第000050號",
     "註銷狀態": "已註銷",
     "註銷日期": "100\/03\/18",
@@ -39,13 +40,15 @@
     },
     "CCC號列": "90251990101 體溫計Fever thermometers",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 420000500002.jpg 420000500001.jpg",
+            "title": "420000500002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000050&Seq=002&Type=9"
+        },
+        {
+            "title": "420000500001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000050&Seq=001&Type=9"
         }
     ]
 }

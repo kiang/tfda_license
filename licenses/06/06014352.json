@@ -1,6 +1,7 @@
 {
     "code": "06014352",
-    "time": "2015-06-24 06:49:39",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014352",
+    "time": "2015-08-22 16:17:12",
     "許可證字號": "衛署醫器輸字第014352號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -25,30 +26,37 @@
     "醫器次類別三": "",
     "主成分略述": "",
     "限制項目": [
-        "02輸入"
+        "02輸入",
+        "09委託製造"
     ],
     "申請商名稱": "0420201100  巴德股份有限公司",
     "申請商地址": "台北市中山區南京東路三段26號10樓",
     "主製造廠": {
-        "製造廠名稱": "M460644000  C.R. BARD, INC.",
-        "製造廠廠址": "8195 INDUSTRIAL BLVD COVINGTON, GEORGIA 30014, USA",
+        "製造廠名稱": "M300093000  PRODUCTOS PARA EL CUIDADO DE LA SALUD",
+        "製造廠廠址": "CARRETERA INTERNACIONAL KM 6. 5, TERRAZAS DEL CID, NOGALES, SONORA, MEXICO 84000",
         "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
+        "製造廠國別": "MEXICO",
         "製程": ""
     },
     "CCC號列": "90189080006 其他第９０１８節所屬之貨品Other articles of heading 90.18",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 060143520002.jpg 060143520001.jpg",
+            "title": "060143520002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014352&Seq=002&Type=9"
         },
         {
-            "title": "外盒 060143520002.jpg 060143520001.jpg",
+            "title": "060143520001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014352&Seq=001&Type=9"
+        },
+        {
+            "title": "060143520002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014352&Seq=002&Type=8"
+        },
+        {
+            "title": "060143520001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014352&Seq=001&Type=8"
         }
     ]
 }

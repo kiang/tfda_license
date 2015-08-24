@@ -1,6 +1,7 @@
 {
     "code": "01049930",
-    "time": "2015-06-25 05:05:45",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01049930",
+    "time": "2015-08-23 04:18:54",
     "許可證字號": "衛署藥製字第049930號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,12 +46,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 0104993000001-102-06-20.pdf 0204993000001___20120314.pdf",
+            "title": "0104993000001-102-06-20.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049930&Seq=002&Type=9"
         },
         {
-            "title": "外盒 0104993000002-102-06-20.pdf 0204993000002___20120314.pdf",
+            "title": "0204993000001___20120314.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049930&Seq=001&Type=9"
+        },
+        {
+            "title": "0104993000002-102-06-20.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049930&Seq=002&Type=8"
+        },
+        {
+            "title": "0204993000002___20120314.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049930&Seq=001&Type=8"
         }
     ]
 }

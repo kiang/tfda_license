@@ -1,6 +1,7 @@
 {
     "code": "01034550",
-    "time": "2015-06-25 01:22:06",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01034550",
+    "time": "2015-08-23 01:28:28",
     "許可證字號": "衛署藥製字第034550號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -65,8 +66,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010345500002.jpg 010345500001.jpg",
+            "title": "010345500002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034550&Seq=002&Type=9"
+        },
+        {
+            "title": "010345500001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034550&Seq=001&Type=9"
         }
     ]
 }

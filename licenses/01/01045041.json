@@ -1,6 +1,7 @@
 {
     "code": "01045041",
-    "time": "2015-06-25 04:29:33",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01045041",
+    "time": "2015-08-23 01:39:37",
     "許可證字號": "衛署藥製字第045041號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -24,10 +25,10 @@
         "61完成BE試驗"
     ],
     "申請商名稱": "0908703200  信東生技股份有限公司",
-    "申請商地址": "桃園市桃園區豐林里介壽路２２號",
+    "申請商地址": "桃園市桃園區介壽路２２號",
     "主製造廠": {
         "製造廠名稱": "0908703300  信東生技股份有限公司",
-        "製造廠廠址": "桃園市豐林里介壽路２２號",
+        "製造廠廠址": "桃園市桃園區介壽路２２號",
         "製造廠公司地址": "",
         "製造廠國別": "TAIWAN",
         "製程": ""
@@ -62,12 +63,36 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010450410003.jpg 010450410002.jpg 010450410001.jpg",
+            "title": "010450410003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045041&Seq=003&Type=9"
         },
         {
-            "title": "外盒 01045041c0005.jpg 01045041c0004.jpg 01045041c0003.jpg 010450410002.jpg 010450410001.jpg",
+            "title": "010450410002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045041&Seq=002&Type=9"
+        },
+        {
+            "title": "010450410001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045041&Seq=001&Type=9"
+        },
+        {
+            "title": "01045041c0005.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045041&Seq=005&Type=8"
+        },
+        {
+            "title": "01045041c0004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045041&Seq=004&Type=8"
+        },
+        {
+            "title": "01045041c0003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045041&Seq=003&Type=8"
+        },
+        {
+            "title": "010450410002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045041&Seq=002&Type=8"
+        },
+        {
+            "title": "010450410001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045041&Seq=001&Type=8"
         }
     ]
 }

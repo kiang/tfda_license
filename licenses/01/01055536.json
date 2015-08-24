@@ -1,6 +1,7 @@
 {
     "code": "01055536",
-    "time": "2015-08-21 04:44:54",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01055536",
+    "time": "2015-08-23 02:53:40",
     "許可證字號": "衛署藥製字第055536號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -47,12 +48,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010555360001-102-05-17.doc 欣克喘___20110114.pdf",
+            "title": "010555360001-102-05-17.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055536&Seq=002&Type=9"
         },
         {
-            "title": "外盒 010555360003-102-05-17.pdf 010555360002-102-05-17.pdf 欣克喘lab___20110114.jpg",
+            "title": "欣克喘___20110114.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055536&Seq=001&Type=9"
+        },
+        {
+            "title": "010555360003-102-05-17.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055536&Seq=003&Type=8"
+        },
+        {
+            "title": "010555360002-102-05-17.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055536&Seq=002&Type=8"
+        },
+        {
+            "title": "欣克喘lab___20110114.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055536&Seq=001&Type=8"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "08019774",
-    "time": "2015-06-23 13:40:02",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08019774",
+    "time": "2015-08-23 20:51:32",
     "許可證字號": "衛署粧輸字第019774號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -11,14 +12,14 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00801977406",
-    "中文品名": "莉婕泡沫染髮劑 男性用 摩卡棕色(第1劑)",
-    "英文品名": "Liese Hair Color LPM1 (Solution 1)",
+    "中文品名": "莉婕泡沫染髮劑 楓葉紅色(第1劑)",
+    "英文品名": "Liese Hair Color L24 (Solution 1)",
     "用途": "染髮。",
     "劑型": "970液劑",
     "包裝": "500ml以下瓶裝附外盒",
     "化粧品類別": "0110染髮劑",
     "": "",
-    "主成分略述": "AMMONIA, m-Aminophenol, 4-AMINO-2-HYDROXYTOLUENE, 2,4-DIAMINOPHENOXYETHANOL HCL (EQ TO 2,4-DIAMINOPHENOXYETHANOL DIHYDROCHLORIDE), TOLUENE-2,5-DIAMINE",
+    "主成分略述": "AMMONIA, P-AMINOPHENOL, 4-AMINO-2-HYDROXYTOLUENE, TOLUENE-2,5-DIAMINE",
     "限制項目": [
         "02輸入"
     ],
@@ -39,15 +40,15 @@
             "成分代碼": "2820000100",
             "成分名稱": "AMMONIA",
             "含量描述": "",
-            "含量": "1.3500000000",
+            "含量": "1.2600000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035470",
-            "成分名稱": "m-Aminophenol",
+            "成分代碼": "9200035440",
+            "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
-            "含量": "0.0700000000",
+            "含量": "0.8900000000",
             "單位": "%(W\/W)"
         },
         {
@@ -55,15 +56,7 @@
             "成分代碼": "9200039000",
             "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
             "含量描述": "",
-            "含量": "0.1300000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9400003810",
-            "成分名稱": "2,4-DIAMINOPHENOXYETHANOL HCL (EQ TO 2,4-DIAMINOPHENOXYETHANOL DIHYDROCHLORIDE)",
-            "含量描述": "",
-            "含量": "0.1400000000",
+            "含量": "1.7200000000",
             "單位": "%(W\/W)"
         },
         {
@@ -71,13 +64,17 @@
             "成分代碼": "9400004300",
             "成分名稱": "TOLUENE-2,5-DIAMINE",
             "含量描述": "",
-            "含量": "0.2000000000",
+            "含量": "0.2200000000",
             "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
         {
-            "title": "外盒 08019774___20121126.pdf",
+            "title": "08019774-104-08-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019774&Seq=002&Type=8"
+        },
+        {
+            "title": "08019774___20121126.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019774&Seq=001&Type=8"
         }
     ]

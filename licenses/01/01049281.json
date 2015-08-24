@@ -1,6 +1,7 @@
 {
     "code": "01049281",
-    "time": "2015-07-05 01:44:23",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01049281",
+    "time": "2015-08-23 04:07:36",
     "許可證字號": "衛署藥製字第049281號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -35,12 +36,47 @@
     "CCC號列": "30042000211 人用醫藥製劑，含抗黴菌劑類抗生素者Medicaments, containing antifungal antibiotics, for human use",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812203810",
+            "成分名稱": "AMOROLFINE HYDROCHLORIDE",
+            "含量描述": "",
+            "含量": "55.7400000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "黴甲淨仿單___20120607.101.5.31(變更適應症).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049281&Seq=002&Type=9"
+        },
+        {
+            "title": "010492810001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049281&Seq=001&Type=9"
+        },
+        {
+            "title": "黴甲淨貼標101___20120607.5.31-2.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049281&Seq=006&Type=8"
+        },
+        {
+            "title": "黴甲淨內盒步驟0327(領證版)___20120607.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049281&Seq=005&Type=8"
+        },
+        {
+            "title": "20090910瑩碩黴甲淨彩盒_out-101___20120607.5.31(變更適應症).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049281&Seq=004&Type=8"
+        },
+        {
+            "title": "010492810003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049281&Seq=003&Type=8"
+        },
+        {
+            "title": "010492810002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049281&Seq=002&Type=8"
+        },
+        {
+            "title": "010492810001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049281&Seq=001&Type=8"
+        }
     ]
 }

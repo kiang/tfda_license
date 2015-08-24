@@ -1,6 +1,7 @@
 {
     "code": "08013867",
-    "time": "2015-07-05 00:56:24",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08013867",
+    "time": "2015-08-23 19:23:55",
     "許可證字號": "衛署粧輸字第013867號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,12 +35,63 @@
     "CCC號列": "33059020003 染髮劑Hair dyes",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2820000100",
+            "成分名稱": "AMMONIA",
+            "含量描述": "",
+            "含量": "1.5000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200038910",
+            "成分名稱": "4-CHLORORESORCINOL",
+            "含量描述": "",
+            "含量": "1.0000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9602087512",
+            "成分名稱": "HC YELLOW NO.4",
+            "含量描述": "",
+            "含量": "0.0050000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9602089200",
+            "成分名稱": "ACID BLUE 62",
+            "含量描述": "",
+            "含量": "0.0070000000",
+            "單位": "%(W\/W)"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "080138670003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013867&Seq=003&Type=9"
+        },
+        {
+            "title": "080138670002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013867&Seq=002&Type=9"
+        },
+        {
+            "title": "080138670001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013867&Seq=001&Type=9"
+        },
+        {
+            "title": "080138670003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013867&Seq=003&Type=8"
+        },
+        {
+            "title": "080138670002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013867&Seq=002&Type=8"
+        },
+        {
+            "title": "080138670001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013867&Seq=001&Type=8"
+        }
     ]
 }

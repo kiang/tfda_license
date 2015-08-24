@@ -1,6 +1,7 @@
 {
     "code": "01057784",
-    "time": "2015-06-25 05:16:05",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057784",
+    "time": "2015-08-23 03:26:25",
     "許可證字號": "衛署藥製字第057784號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -23,7 +24,7 @@
         "01國產"
     ],
     "申請商名稱": "0908703200  信東生技股份有限公司",
-    "申請商地址": "桃園市桃園區豐林里介壽路２２號",
+    "申請商地址": "桃園市桃園區介壽路２２號",
     "主製造廠": {
         "製造廠名稱": "0908703300  信東生技股份有限公司",
         "製造廠廠址": "桃園市桃園區介壽路２２號",
@@ -53,12 +54,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 12 0 149% KCl in 5% Dextrose Injection(衛署藥製字第057784號 G-11820)-2014-05-09.pdf 010577840002___20130121.pdf 0105778400001___20130121.pdf",
+            "title": "12 0 149% KCl in 5% Dextrose Injection(衛署藥製字第057784號 G-11820)-2014-05-09.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057784&Seq=003&Type=9"
         },
         {
-            "title": "外盒 010577840003___20130121.pdf 010577840002___20130121.pdf",
+            "title": "010577840002___20130121.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057784&Seq=002&Type=9"
+        },
+        {
+            "title": "0105778400001___20130121.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057784&Seq=001&Type=9"
+        },
+        {
+            "title": "010577840003___20130121.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057784&Seq=002&Type=8"
+        },
+        {
+            "title": "010577840002___20130121.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057784&Seq=001&Type=8"
         }
     ]
 }

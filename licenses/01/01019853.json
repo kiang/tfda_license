@@ -1,6 +1,7 @@
 {
     "code": "01019853",
-    "time": "2015-06-24 21:01:49",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01019853",
+    "time": "2015-08-22 20:07:51",
     "許可證字號": "衛署藥製字第019853號",
     "註銷狀態": "已註銷",
     "註銷日期": "103\/03\/24",
@@ -53,8 +54,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010198530002.doc 010198530001.doc",
+            "title": "010198530002.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019853&Seq=002&Type=9"
+        },
+        {
+            "title": "010198530001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019853&Seq=001&Type=9"
         }
     ]
 }

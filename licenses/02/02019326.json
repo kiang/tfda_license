@@ -1,6 +1,7 @@
 {
     "code": "02019326",
-    "time": "2015-07-05 02:17:00",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019326",
+    "time": "2015-08-23 10:11:45",
     "許可證字號": "衛署藥輸字第019326號",
     "註銷狀態": "已註銷",
     "註銷日期": "99\/04\/13",
@@ -34,12 +35,55 @@
     "CCC號列": "30043900005 醫藥製劑，含有其他內分泌素者Medicaments, containing other hormones",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "6816000300",
+            "成分名稱": "ESTRIOL",
+            "含量描述": "1.0",
+            "含量": "1.0000000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "白色",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "圓扁形",
+        "標記一": "DG,7",
+        "標記二": "ORGANON★"
+    },
     "藥物辨識外觀圖片": [
-
+        {
+            "title": "圖片",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019326&Seq=424&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "020193260006.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019326&Seq=006&Type=9"
+        },
+        {
+            "title": "020193260005.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019326&Seq=005&Type=9"
+        },
+        {
+            "title": "020193260004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019326&Seq=004&Type=9"
+        },
+        {
+            "title": "020193260003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019326&Seq=003&Type=9"
+        },
+        {
+            "title": "020193260002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019326&Seq=002&Type=9"
+        },
+        {
+            "title": "020193260001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019326&Seq=001&Type=9"
+        }
     ]
 }

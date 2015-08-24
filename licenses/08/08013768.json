@@ -1,6 +1,7 @@
 {
     "code": "08013768",
-    "time": "2015-07-05 00:52:02",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08013768",
+    "time": "2015-08-23 19:05:25",
     "許可證字號": "衛署粧輸字第013768號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,22 +35,47 @@
     "CCC號列": "33049110005 面粉Face powder",
     "藥理治療分類": "",
     "ingredients": [
-
-    ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8428000900",
+            "成分名稱": "SULFUR",
+            "含量描述": "",
+            "含量": "0.2000000000",
+            "單位": "%(W\/W)"
+        }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 080137680002.jpg 080137680001.jpg",
+            "title": "080137680002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013768&Seq=002&Type=9"
         },
         {
-            "title": "外盒 080137680006.jpg 080137680005.jpg 080137680004.jpg 080137680003.jpg 080137680002.jpg 080137680001.jpg",
+            "title": "080137680001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013768&Seq=001&Type=9"
+        },
+        {
+            "title": "080137680006.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013768&Seq=006&Type=8"
+        },
+        {
+            "title": "080137680005.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013768&Seq=005&Type=8"
+        },
+        {
+            "title": "080137680004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013768&Seq=004&Type=8"
+        },
+        {
+            "title": "080137680003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013768&Seq=003&Type=8"
+        },
+        {
+            "title": "080137680002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013768&Seq=002&Type=8"
+        },
+        {
+            "title": "080137680001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013768&Seq=001&Type=8"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "12005088",
-    "time": "2015-06-25 19:18:58",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12005088",
+    "time": "2015-08-22 17:07:25",
     "許可證字號": "內衛藥製字第005088號",
     "註銷狀態": "已註銷",
     "註銷日期": "102\/08\/02",
@@ -46,8 +47,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 120050880003.jpg 120050880002.jpg 120050880001.jpg",
+            "title": "120050880003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005088&Seq=003&Type=9"
+        },
+        {
+            "title": "120050880002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005088&Seq=002&Type=9"
+        },
+        {
+            "title": "120050880001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005088&Seq=001&Type=9"
         }
     ]
 }

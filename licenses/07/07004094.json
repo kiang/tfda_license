@@ -1,6 +1,7 @@
 {
     "code": "07004094",
-    "time": "2015-06-23 00:36:49",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07004094",
+    "time": "2015-08-22 04:03:56",
     "許可證字號": "衛署粧製字第004094號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,12 +35,67 @@
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2820000110",
+            "成分名稱": "AMMONIA SOLUTION",
+            "含量描述": "(28.2%)",
+            "含量": "2.2000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200035403",
+            "成分名稱": "AMINOPHENOL META- (EQ TO M-AMINOPHENOL)",
+            "含量描述": "",
+            "含量": "0.0400000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "0.3200000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9400003200",
+            "成分名稱": "P-PHENYLENEDIAMINE",
+            "含量描述": "",
+            "含量": "0.4000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900094310",
+            "成分名稱": "N,N-BIS(HYDROXYETHYL)-P-PHENYLENEDIAMINE SULFATE",
+            "含量描述": "",
+            "含量": "0.0400000000",
+            "單位": "%(W\/W)"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "070040940002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004094&Seq=002&Type=9"
+        },
+        {
+            "title": "070040940001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004094&Seq=001&Type=9"
+        },
+        {
+            "title": "070040940003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004094&Seq=003&Type=8"
+        },
+        {
+            "title": "070040940002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004094&Seq=002&Type=8"
+        },
+        {
+            "title": "070040940001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004094&Seq=001&Type=8"
+        }
     ]
 }

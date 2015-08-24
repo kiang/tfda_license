@@ -1,6 +1,7 @@
 {
     "code": "03010317",
-    "time": "2015-06-24 14:32:55",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=03010317",
+    "time": "2015-08-22 17:18:45",
     "許可證字號": "衛署成製字第010317號",
     "註銷狀態": "已註銷",
     "註銷日期": "97\/03\/26",
@@ -69,8 +70,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 030103170003.jpg 030103170002.jpg 030103170001.doc",
+            "title": "030103170003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03010317&Seq=003&Type=9"
+        },
+        {
+            "title": "030103170002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03010317&Seq=002&Type=9"
+        },
+        {
+            "title": "030103170001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03010317&Seq=001&Type=9"
         }
     ]
 }

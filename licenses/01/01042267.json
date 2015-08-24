@@ -1,6 +1,7 @@
 {
     "code": "01042267",
-    "time": "2015-06-25 03:21:26",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01042267",
+    "time": "2015-08-23 01:48:35",
     "許可證字號": "衛署藥製字第042267號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -23,7 +24,7 @@
         "01國產"
     ],
     "申請商名稱": "0908703200  信東生技股份有限公司",
-    "申請商地址": "桃園市桃園區豐林里介壽路２２號",
+    "申請商地址": "桃園市桃園區介壽路２２號",
     "主製造廠": {
         "製造廠名稱": "6132020070  榮民製藥股份有限公司",
         "製造廠廠址": "桃園市中壢區中山東路３段４４７號",
@@ -53,12 +54,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010422670002.jpg 010422670001.jpg",
+            "title": "010422670002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042267&Seq=002&Type=9"
         },
         {
-            "title": "外盒 010422670002.jpg 010422670001.jpg",
+            "title": "010422670001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042267&Seq=001&Type=9"
+        },
+        {
+            "title": "010422670002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042267&Seq=002&Type=8"
+        },
+        {
+            "title": "010422670001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042267&Seq=001&Type=8"
         }
     ]
 }

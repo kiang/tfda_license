@@ -1,6 +1,7 @@
 {
     "code": "45000179",
-    "time": "2015-08-21 07:32:15",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=45000179",
+    "time": "2015-08-24 14:05:58",
     "許可證字號": "衛署醫器外製字第000179號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -39,16 +40,22 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 450001790004___20100823.jpg 450001790003___20100823.jpg 450001790002___20100823.jpg",
+            "title": "450001790004___20100823.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=45000179&Seq=003&Type=9"
         },
         {
-            "title": "外盒 450001790001___20100823.jpg",
+            "title": "450001790003___20100823.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=45000179&Seq=002&Type=9"
+        },
+        {
+            "title": "450001790002___20100823.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=45000179&Seq=001&Type=9"
+        },
+        {
+            "title": "450001790001___20100823.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=45000179&Seq=001&Type=8"
         }
     ]

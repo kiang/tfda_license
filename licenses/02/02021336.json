@@ -1,6 +1,7 @@
 {
     "code": "02021336",
-    "time": "2015-06-25 16:35:17",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021336",
+    "time": "2015-08-24 01:25:05",
     "許可證字號": "衛署藥輸字第021336號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,10 +16,10 @@
     "英文品名": "SUCRATE GEL SUSPENSION",
     "適應症": "胃潰瘍、十二指腸潰瘍、食道潰瘍",
     "劑型": "183懸液劑",
-    "包裝": "盒裝",
+    "包裝": "4-1000袋盒裝 5公撮袋裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "主成分略述": "BASIC ALUMINUM SUCROSE SULFATE (SUCRALFATE)",
+    "主成分略述": "Sucralfate  Humid Gel equivalent to Sucralfate",
     "限制項目": [
         "02輸入"
     ],
@@ -52,16 +53,16 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "5640001900",
-            "成分名稱": "BASIC ALUMINUM SUCROSE SULFATE (SUCRALFATE)",
-            "含量描述": "1000",
-            "含量": "1000.0000000000",
-            "單位": "MG"
+            "成分代碼": "5628001200",
+            "成分名稱": "Sucralfate Humid Gel equivalent to Sucralfate",
+            "含量描述": "",
+            "含量": "1.0000000000",
+            "單位": "GM"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 02021336-102-05-30.pdf",
+            "title": "02021336-102-05-30.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021336&Seq=001&Type=9"
         }
     ]

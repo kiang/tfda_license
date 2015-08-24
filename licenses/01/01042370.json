@@ -1,6 +1,7 @@
 {
     "code": "01042370",
-    "time": "2015-06-25 03:00:57",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01042370",
+    "time": "2015-08-23 01:50:15",
     "許可證字號": "衛署藥製字第042370號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -53,8 +54,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010423700002.jpg 010423700001.jpg 010423700001.doc",
+            "title": "010423700002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042370&Seq=003&Type=9"
+        },
+        {
+            "title": "010423700001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042370&Seq=002&Type=9"
+        },
+        {
+            "title": "010423700001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042370&Seq=001&Type=9"
         }
     ]
 }

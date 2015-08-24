@@ -1,6 +1,7 @@
 {
     "code": "40000419",
-    "time": "2015-08-21 04:40:06",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=40000419",
+    "time": "2015-08-24 11:54:00",
     "許可證字號": "衛署粧陸輸字第000419號",
     "註銷狀態": "已註銷",
     "註銷日期": "104\/07\/09",
@@ -86,12 +87,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 400004190002.jpg 400004190001.jpg",
+            "title": "400004190002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000419&Seq=002&Type=9"
         },
         {
-            "title": "外盒 400004190003.jpg 400004190002.jpg 400004190001.jpg",
+            "title": "400004190001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000419&Seq=001&Type=9"
+        },
+        {
+            "title": "400004190003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000419&Seq=003&Type=8"
+        },
+        {
+            "title": "400004190002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000419&Seq=002&Type=8"
+        },
+        {
+            "title": "400004190001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000419&Seq=001&Type=8"
         }
     ]
 }

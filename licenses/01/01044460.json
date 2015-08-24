@@ -1,6 +1,7 @@
 {
     "code": "01044460",
-    "time": "2015-06-25 03:48:15",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01044460",
+    "time": "2015-08-23 02:04:09",
     "許可證字號": "衛署藥製字第044460號",
     "註銷狀態": "已註銷",
     "註銷日期": "102\/11\/04",
@@ -45,12 +46,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010444600001___20110810.jpg 010444600001.jpg",
+            "title": "010444600001___20110810.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044460&Seq=002&Type=9"
         },
         {
-            "title": "外盒 010444600003___20110810.jpg 010444600002___20110810.jpg",
+            "title": "010444600001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044460&Seq=001&Type=9"
+        },
+        {
+            "title": "010444600003___20110810.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044460&Seq=002&Type=8"
+        },
+        {
+            "title": "010444600002___20110810.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044460&Seq=001&Type=8"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "01011410",
-    "time": "2015-07-05 01:39:15",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01011410",
+    "time": "2015-08-22 19:47:57",
     "許可證字號": "衛署藥製字第011410號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -35,12 +36,37 @@
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "1220000400",
+            "成分名稱": "CHLORMEZANONE",
+            "含量描述": "100",
+            "含量": "100.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2808000100",
+            "成分名稱": "ACETAMINOPHEN (EQ TO PARACETAMOL)",
+            "含量描述": "450",
+            "含量": "450.0000000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "白色",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "圓扁形",
+        "標記一": "A-1",
+        "標記二": "JINUP"
+    },
     "藥物辨識外觀圖片": [
-
+        {
+            "title": "圖片",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01011410&Seq=042&Type=10"
+        }
     ]
 }

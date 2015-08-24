@@ -1,6 +1,7 @@
 {
     "code": "02025150",
-    "time": "2015-06-25 18:30:23",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025150",
+    "time": "2015-08-23 13:24:31",
     "許可證字號": "衛署藥輸字第025150號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -33,6 +34,15 @@
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "F420026200  Fresenius Kabi AB",
+            "製造廠廠址": "Kraftvagen 1, SE-196 37K Kungsangen, Sweden",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWEDEN",
+            "製程": "原料藥之取樣與秤量作業"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -461,12 +471,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 020251500001-104-02-06.pdf SmofKabiven PI中文仿單二___20100603.jpg SmofKabiven PI中文仿單一___20100603.jpg",
+            "title": "020251500001-104-02-06.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025150&Seq=003&Type=9"
         },
         {
-            "title": "外盒 外盒英文貼標___20100603.pdf SmofKabiven PI中文貼標___20100603.jpg",
+            "title": "SmofKabiven PI中文仿單二___20100603.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025150&Seq=002&Type=9"
+        },
+        {
+            "title": "SmofKabiven PI中文仿單一___20100603.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025150&Seq=001&Type=9"
+        },
+        {
+            "title": "外盒英文貼標___20100603.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025150&Seq=002&Type=8"
+        },
+        {
+            "title": "SmofKabiven PI中文貼標___20100603.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025150&Seq=001&Type=8"
         }
     ]
 }

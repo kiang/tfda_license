@@ -1,6 +1,7 @@
 {
     "code": "01057418",
-    "time": "2015-06-22 01:42:11",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057418",
+    "time": "2015-08-23 03:06:59",
     "許可證字號": "衛署藥製字第057418號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -84,12 +85,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 衛署藥製字第057418號-2014-04-08.pdf 010574180001___20121115.pdf",
+            "title": "衛署藥製字第057418號-2014-04-08.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057418&Seq=002&Type=9"
         },
         {
-            "title": "外盒 010574180003___20121115.pdf 010574180002___20121115.pdf",
+            "title": "010574180001___20121115.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057418&Seq=001&Type=9"
+        },
+        {
+            "title": "010574180003___20121115.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057418&Seq=002&Type=8"
+        },
+        {
+            "title": "010574180002___20121115.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057418&Seq=001&Type=8"
         }
     ]
 }

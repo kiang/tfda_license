@@ -1,6 +1,7 @@
 {
     "code": "58020760",
-    "time": "2015-07-05 00:46:26",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58020760",
+    "time": "2015-08-23 21:04:23",
     "許可證字號": "衛部粧輸字第020760號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,12 +35,31 @@
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8412000130",
+            "成分名稱": "ALUMINUM CHLOROHYDRATE",
+            "含量描述": "",
+            "含量": "5.0000000000",
+            "單位": "%(W\/W)"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "580207600001-103-05-27.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58020760&Seq=004&Type=8"
+        },
+        {
+            "title": "58020760-102-11-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58020760&Seq=003&Type=8"
+        },
+        {
+            "title": "580207600001-102-10-07.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58020760&Seq=002&Type=8"
+        },
+        {
+            "title": "580207600002-102-10-07.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58020760&Seq=001&Type=8"
+        }
     ]
 }

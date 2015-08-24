@@ -1,6 +1,7 @@
 {
     "code": "05001536",
-    "time": "2015-08-21 06:56:47",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05001536",
+    "time": "2015-08-24 13:38:40",
     "許可證字號": "衛署醫器製字第001536號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,13 +39,15 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 050015360002.jpg 050015360001.jpg",
+            "title": "050015360002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001536&Seq=002&Type=9"
+        },
+        {
+            "title": "050015360001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001536&Seq=001&Type=9"
         }
     ]
 }

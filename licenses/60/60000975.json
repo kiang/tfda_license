@@ -1,6 +1,7 @@
 {
     "code": "60000975",
-    "time": "2015-08-21 06:10:08",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60000975",
+    "time": "2015-08-24 13:06:29",
     "許可證字號": "衛部菌疫輸字第000975號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -55,12 +56,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 100009750001_中文仿單_0415-PEG-01-104-04-30.pdf",
+            "title": "100009750001_中文仿單_0415-PEG-01-104-04-30.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000975&Seq=001&Type=9"
         },
         {
-            "title": "外盒 100009750004_標籤_180 mcg-104-04-30.pdf 100009750003_外盒_180 mcg-104-04-30.pdf",
+            "title": "100009750004_標籤_180 mcg-104-04-30.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000975&Seq=002&Type=8"
+        },
+        {
+            "title": "100009750003_外盒_180 mcg-104-04-30.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000975&Seq=001&Type=8"
         }
     ]
 }

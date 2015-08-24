@@ -1,6 +1,7 @@
 {
     "code": "07004113",
-    "time": "2015-07-05 00:45:55",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07004113",
+    "time": "2015-08-21 23:55:35",
     "許可證字號": "衛署粧製字第004113號",
     "註銷狀態": "已註銷",
     "註銷日期": "101\/10\/30",
@@ -34,12 +35,67 @@
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2820000102",
+            "成分名稱": "AMMONIA WATER (AMMONIUM HYDROXIDE)",
+            "含量描述": "",
+            "含量": "1.4000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "0.4000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9400003200",
+            "成分名稱": "P-PHENYLENEDIAMINE",
+            "含量描述": "",
+            "含量": "0.4000000000",
+            "單位": "%(W\/W)"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "070041130002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004113&Seq=002&Type=9"
+        },
+        {
+            "title": "070041130001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004113&Seq=001&Type=9"
+        },
+        {
+            "title": "070041130007.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004113&Seq=007&Type=8"
+        },
+        {
+            "title": "070041130006.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004113&Seq=006&Type=8"
+        },
+        {
+            "title": "070041130005.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004113&Seq=005&Type=8"
+        },
+        {
+            "title": "070041130004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004113&Seq=004&Type=8"
+        },
+        {
+            "title": "070041130003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004113&Seq=003&Type=8"
+        },
+        {
+            "title": "070041130002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004113&Seq=002&Type=8"
+        },
+        {
+            "title": "070041130001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004113&Seq=001&Type=8"
+        }
     ]
 }

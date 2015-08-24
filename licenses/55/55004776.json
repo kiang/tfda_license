@@ -1,6 +1,7 @@
 {
     "code": "55004776",
-    "time": "2015-07-24 07:53:57",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=55004776",
+    "time": "2015-08-22 05:51:24",
     "許可證字號": "衛部醫器製字第004776號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -39,17 +40,23 @@
     },
     "CCC號列": "90013000005 隱形眼鏡Contact lenses",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 550047760004-103-10-08.pdf 550047760003-103-10-08.pdf",
+            "title": "550047760004-103-10-08.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55004776&Seq=002&Type=9"
         },
         {
-            "title": "外盒 550047760002-103-10-08.pdf 550047760001-103-10-08.pdf",
+            "title": "550047760003-103-10-08.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55004776&Seq=001&Type=9"
+        },
+        {
+            "title": "550047760002-103-10-08.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55004776&Seq=002&Type=8"
+        },
+        {
+            "title": "550047760001-103-10-08.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55004776&Seq=001&Type=8"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "06022724",
-    "time": "2015-07-24 06:32:01",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022724",
+    "time": "2015-08-24 00:04:26",
     "許可證字號": "衛署醫器輸字第022724號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,17 +39,27 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 醫器輸字第022724___20121130.pdf 0602272400014___20120204.pdf",
+            "title": "醫器輸字第022724___20121130.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022724&Seq=002&Type=9"
         },
         {
-            "title": "外盒 060227240003___20120204.jpg 060227240002___20120204.jpg 060227240001___20120204.jpg",
+            "title": "0602272400014___20120204.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022724&Seq=001&Type=9"
+        },
+        {
+            "title": "060227240003___20120204.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022724&Seq=003&Type=8"
+        },
+        {
+            "title": "060227240002___20120204.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022724&Seq=002&Type=8"
+        },
+        {
+            "title": "060227240001___20120204.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022724&Seq=001&Type=8"
         }
     ]
 }

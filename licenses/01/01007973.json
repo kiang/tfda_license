@@ -1,6 +1,7 @@
 {
     "code": "01007973",
-    "time": "2015-07-05 01:35:58",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01007973",
+    "time": "2015-08-22 19:48:10",
     "許可證字號": "衛署藥製字第007973號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -35,12 +36,19 @@
     "CCC號列": "30044099004 其他醫藥製劑，含有生物鹼或其衍生物，但未含內分泌素，第２９３７節之其他產品或抗生素者Other medicaments, containing alkaloids or derivatives thereof but not containing hormones, other products of heading 29.37 or antibiotics",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "1212002310",
+            "成分名稱": "PHENYLEPHRINE HCL",
+            "含量描述": "50",
+            "含量": "50.0000000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "07973 5%內視新點眼液-103-02-25.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01007973&Seq=001&Type=9"
+        }
     ]
 }

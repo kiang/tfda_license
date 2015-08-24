@@ -1,6 +1,7 @@
 {
     "code": "01019441",
-    "time": "2015-06-24 19:30:07",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01019441",
+    "time": "2015-08-22 20:20:32",
     "許可證字號": "衛署藥製字第019441號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -85,12 +86,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010194410002___20110428.jpg 010194410002.jpg 010194410001.jpg",
+            "title": "010194410002___20110428.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019441&Seq=003&Type=9"
         },
         {
-            "title": "外盒 010194410003___20110428.jpg 010194410001___20110428.jpg",
+            "title": "010194410002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019441&Seq=002&Type=9"
+        },
+        {
+            "title": "010194410001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019441&Seq=001&Type=9"
+        },
+        {
+            "title": "010194410003___20110428.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019441&Seq=002&Type=8"
+        },
+        {
+            "title": "010194410001___20110428.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019441&Seq=001&Type=8"
         }
     ]
 }

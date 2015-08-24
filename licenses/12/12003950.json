@@ -1,6 +1,7 @@
 {
     "code": "12003950",
-    "time": "2015-06-22 01:55:15",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12003950",
+    "time": "2015-08-22 16:50:20",
     "許可證字號": "內衛藥製字第003950號",
     "註銷狀態": "已註銷",
     "註銷日期": "104\/03\/03",
@@ -69,8 +70,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 120039500003.doc 120039500002.jpg 120039500001.jpg",
+            "title": "120039500003.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12003950&Seq=003&Type=9"
+        },
+        {
+            "title": "120039500002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12003950&Seq=002&Type=9"
+        },
+        {
+            "title": "120039500001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12003950&Seq=001&Type=9"
         }
     ]
 }

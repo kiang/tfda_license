@@ -1,6 +1,7 @@
 {
     "code": "05003640",
-    "time": "2015-06-24 01:47:27",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05003640",
+    "time": "2015-08-22 07:29:58",
     "許可證字號": "衛署醫器製字第003640號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -39,17 +40,23 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 050036400002___20120621.pdf 05003640-0001___20121113.pdf",
+            "title": "050036400002___20120621.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003640&Seq=002&Type=9"
         },
         {
-            "title": "外盒 050036400001___20120621.pdf 050036400001___20120621.jpg",
+            "title": "05003640-0001___20121113.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003640&Seq=001&Type=9"
+        },
+        {
+            "title": "050036400001___20120621.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003640&Seq=002&Type=8"
+        },
+        {
+            "title": "050036400001___20120621.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003640&Seq=001&Type=8"
         }
     ]
 }

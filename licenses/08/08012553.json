@@ -1,6 +1,7 @@
 {
     "code": "08012553",
-    "time": "2015-07-05 00:55:27",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08012553",
+    "time": "2015-08-23 18:37:13",
     "許可證字號": "衛署粧輸字第012553號",
     "註銷狀態": "已註銷",
     "註銷日期": "101\/10\/29",
@@ -34,12 +35,63 @@
     "CCC號列": "33059020003 染髮劑Hair dyes",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2820000102",
+            "成分名稱": "AMMONIA WATER (AMMONIUM HYDROXIDE)",
+            "含量描述": "",
+            "含量": "3.5100000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9602088400",
+            "成分名稱": "BASIC ORANGE 31",
+            "含量描述": "",
+            "含量": "0.4000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9602088500",
+            "成分名稱": "BASIC YELLOW 87",
+            "含量描述": "",
+            "含量": "0.2000000000",
+            "單位": "%(W\/W)"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "080125530001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08012553&Seq=001&Type=9"
+        },
+        {
+            "title": "080125530007.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08012553&Seq=007&Type=8"
+        },
+        {
+            "title": "080125530006.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08012553&Seq=006&Type=8"
+        },
+        {
+            "title": "080125530005.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08012553&Seq=005&Type=8"
+        },
+        {
+            "title": "080125530004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08012553&Seq=004&Type=8"
+        },
+        {
+            "title": "080125530003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08012553&Seq=003&Type=8"
+        },
+        {
+            "title": "080125530002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08012553&Seq=002&Type=8"
+        },
+        {
+            "title": "080125530001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08012553&Seq=001&Type=8"
+        }
     ]
 }

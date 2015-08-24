@@ -1,6 +1,7 @@
 {
     "code": "01003954",
-    "time": "2015-07-05 01:37:51",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01003954",
+    "time": "2015-08-24 00:25:00",
     "許可證字號": "衛署藥製字第003954號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,12 +35,51 @@
     "CCC號列": "30049010009 麻醉劑Anesthetics",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "7200001010",
+            "成分名稱": "LIDOCAINE HCL",
+            "含量描述": "10",
+            "含量": "10.0000000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "力卡因注射液-說明書-103-07-01.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003954&Seq=009&Type=9"
+        },
+        {
+            "title": "20130201--利卡因注射液標仿單-8___20130218.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003954&Seq=008&Type=9"
+        },
+        {
+            "title": "20130201--利卡因注射液標仿單-7___20130218.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003954&Seq=007&Type=9"
+        },
+        {
+            "title": "20130201--利卡因注射液標仿單-6___20130218.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003954&Seq=006&Type=9"
+        },
+        {
+            "title": "20130201--利卡因注射液標仿單-5___20130218.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003954&Seq=005&Type=9"
+        },
+        {
+            "title": "20130201--利卡因注射液標仿單-4___20130218.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003954&Seq=004&Type=9"
+        },
+        {
+            "title": "20130201--利卡因注射液標仿單-3___20130218.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003954&Seq=003&Type=9"
+        },
+        {
+            "title": "20130201--利卡因注射液標仿單-2___20130218.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003954&Seq=002&Type=9"
+        },
+        {
+            "title": "20130201--利卡因注射液標仿單-1___20130218.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003954&Seq=001&Type=9"
+        }
     ]
 }

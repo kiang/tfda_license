@@ -1,6 +1,7 @@
 {
     "code": "14000803",
-    "time": "2015-08-21 06:08:35",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=14000803",
+    "time": "2015-08-24 13:05:17",
     "許可證字號": "內衛成製字第000803號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,12 +46,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 140008030001.jpg",
+            "title": "140008030001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14000803&Seq=001&Type=9"
         },
         {
-            "title": "外盒 140008030003.jpg 140008030002.jpg 140008030001.jpg",
+            "title": "140008030003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14000803&Seq=003&Type=8"
+        },
+        {
+            "title": "140008030002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14000803&Seq=002&Type=8"
+        },
+        {
+            "title": "140008030001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14000803&Seq=001&Type=8"
         }
     ]
 }

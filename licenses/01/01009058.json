@@ -1,6 +1,7 @@
 {
     "code": "01009058",
-    "time": "2015-07-05 01:36:17",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01009058",
+    "time": "2015-08-22 19:41:43",
     "許可證字號": "衛署藥製字第009058號",
     "註銷狀態": "已註銷",
     "註銷日期": "99\/02\/08",
@@ -34,12 +35,13 @@
     "CCC號列": "29411090105 人用青黴素及具有青黴素酸結構之衍生物；其鹽類Penicillins and their derivatives with a penicillanic acid structure; other salts thereof, for human use",
     "藥理治療分類": "",
     "ingredients": [
-
-    ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812600350",
+            "成分名稱": "AMPICILLIN ANHYDROUS",
+            "含量描述": "",
+            "含量": "",
+            "單位": ""
+        }
     ]
 }

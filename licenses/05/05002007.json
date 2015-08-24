@@ -1,6 +1,7 @@
 {
     "code": "05002007",
-    "time": "2015-06-24 02:15:11",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05002007",
+    "time": "2015-08-22 06:46:52",
     "許可證字號": "衛署醫器製字第002007號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,17 +39,19 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 050020070001.jpg",
+            "title": "050020070001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05002007&Seq=001&Type=9"
         },
         {
-            "title": "外盒 050020070002.jpg 050020070001.jpg",
+            "title": "050020070002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05002007&Seq=002&Type=8"
+        },
+        {
+            "title": "050020070001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05002007&Seq=001&Type=8"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "01044069",
-    "time": "2015-06-22 01:00:20",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01044069",
+    "time": "2015-08-23 02:42:09",
     "許可證字號": "衛署藥製字第044069號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,12 +46,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010440690002___20111018.jpg 010440690001.jpg",
+            "title": "010440690002___20111018.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044069&Seq=002&Type=9"
         },
         {
-            "title": "外盒 010440690003___20111018.jpg 010440690001___20111018.jpg 010440690001.jpg",
+            "title": "010440690001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044069&Seq=001&Type=9"
+        },
+        {
+            "title": "010440690003___20111018.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044069&Seq=003&Type=8"
+        },
+        {
+            "title": "010440690001___20111018.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044069&Seq=002&Type=8"
+        },
+        {
+            "title": "010440690001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044069&Seq=001&Type=8"
         }
     ]
 }

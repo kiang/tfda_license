@@ -1,6 +1,7 @@
 {
     "code": "02019567",
-    "time": "2015-07-05 02:17:32",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019567",
+    "time": "2015-08-23 10:06:27",
     "許可證字號": "衛署藥輸字第019567號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,12 +35,35 @@
     "CCC號列": "30044099004 其他醫藥製劑，含有生物鹼或其衍生物，但未含內分泌素，第２９３７節之其他產品或抗生素者Other medicaments, containing alkaloids or derivatives thereof but not containing hormones, other products of heading 29.37 or antibiotics",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8600100160",
+            "成分名稱": "THEOPHYLLINE MONOHYDRATE",
+            "含量描述": "(ANHYDROUS) 400",
+            "含量": "",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "白色\/透明",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "長圓柱形",
+        "標記一": "",
+        "標記二": ""
+    },
     "藥物辨識外觀圖片": [
-
+        {
+            "title": "圖片",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019567&Seq=001&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "020195670001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019567&Seq=001&Type=9"
+        }
     ]
 }

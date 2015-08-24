@@ -1,6 +1,7 @@
 {
     "code": "12000365",
-    "time": "2015-06-24 09:45:44",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12000365",
+    "time": "2015-08-22 17:47:11",
     "許可證字號": "內衛藥製字第000365號",
     "註銷狀態": "已註銷",
     "註銷日期": "94\/05\/11",
@@ -101,8 +102,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 120003650003.jpg 120003650002.jpg 120003650001.jpg",
+            "title": "120003650003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000365&Seq=003&Type=9"
+        },
+        {
+            "title": "120003650002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000365&Seq=002&Type=9"
+        },
+        {
+            "title": "120003650001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000365&Seq=001&Type=9"
         }
     ]
 }

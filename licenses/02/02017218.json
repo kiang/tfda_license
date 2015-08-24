@@ -1,6 +1,7 @@
 {
     "code": "02017218",
-    "time": "2015-07-24 06:05:30",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02017218",
+    "time": "2015-08-23 09:48:54",
     "許可證字號": "衛署藥輸字第017218號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -62,12 +63,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 020172180001-104-05-22.pdf Normacol Plus-102-09-06.pdf",
+            "title": "020172180001-104-05-22.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017218&Seq=002&Type=9"
         },
         {
-            "title": "外盒 020172180002-102-09-18.pdf 020172180001-102-09-18.pdf",
+            "title": "Normacol Plus-102-09-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017218&Seq=001&Type=9"
+        },
+        {
+            "title": "020172180002-102-09-18.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017218&Seq=002&Type=8"
+        },
+        {
+            "title": "020172180001-102-09-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017218&Seq=001&Type=8"
         }
     ]
 }

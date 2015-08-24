@@ -1,6 +1,7 @@
 {
     "code": "01005948",
-    "time": "2015-06-24 18:01:27",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01005948",
+    "time": "2015-08-22 18:20:17",
     "許可證字號": "衛署藥製字第005948號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -53,12 +54,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 01059480001___20130411.pdf",
+            "title": "01059480001___20130411.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01005948&Seq=001&Type=9"
         },
         {
-            "title": "外盒 01059480003___20130411.pdf 01059480002___20130411.pdf 01059480001___20130411.pdf",
+            "title": "01059480003___20130411.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01005948&Seq=003&Type=8"
+        },
+        {
+            "title": "01059480002___20130411.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01005948&Seq=002&Type=8"
+        },
+        {
+            "title": "01059480001___20130411.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01005948&Seq=001&Type=8"
         }
     ]
 }

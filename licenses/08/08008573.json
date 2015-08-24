@@ -1,6 +1,7 @@
 {
     "code": "08008573",
-    "time": "2015-06-23 07:27:47",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08008573",
+    "time": "2015-08-22 02:36:40",
     "許可證字號": "衛署粧輸字第008573號",
     "註銷狀態": "已註銷",
     "註銷日期": "101\/11\/20",
@@ -53,12 +54,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 080085730001.jpg",
+            "title": "080085730001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08008573&Seq=001&Type=9"
         },
         {
-            "title": "外盒 080085730003.jpg 080085730002.jpg 080085730001.jpg",
+            "title": "080085730003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08008573&Seq=003&Type=8"
+        },
+        {
+            "title": "080085730002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08008573&Seq=002&Type=8"
+        },
+        {
+            "title": "080085730001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08008573&Seq=001&Type=8"
         }
     ]
 }

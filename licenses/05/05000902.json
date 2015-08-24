@@ -1,6 +1,7 @@
 {
     "code": "05000902",
-    "time": "2015-06-24 00:41:08",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05000902",
+    "time": "2015-08-22 04:45:54",
     "許可證字號": "衛署醫器製字第000902號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -66,8 +67,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 050009020002.jpg 050009020001.jpg",
+            "title": "050009020002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000902&Seq=002&Type=9"
+        },
+        {
+            "title": "050009020001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000902&Seq=001&Type=9"
         }
     ]
 }

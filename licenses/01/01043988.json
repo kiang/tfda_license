@@ -1,6 +1,7 @@
 {
     "code": "01043988",
-    "time": "2015-06-25 03:29:21",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01043988",
+    "time": "2015-08-23 02:36:23",
     "許可證字號": "衛署藥製字第043988號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -70,8 +71,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010439880003.jpg 010439880002.jpg 010439880001.doc",
+            "title": "010439880003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043988&Seq=003&Type=9"
+        },
+        {
+            "title": "010439880002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043988&Seq=002&Type=9"
+        },
+        {
+            "title": "010439880001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043988&Seq=001&Type=9"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "42000470",
-    "time": "2015-06-24 00:35:06",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000470",
+    "time": "2015-08-22 05:58:01",
     "許可證字號": "衛署醫器陸輸字第000470號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -39,17 +40,23 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 420004700001-102-11-25.pdf 420004700002___20121024.pdf",
+            "title": "420004700001-102-11-25.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000470&Seq=002&Type=9"
         },
         {
-            "title": "外盒 420004700001-102-11-25.pdf 420004700001___20121024.pdf",
+            "title": "420004700002___20121024.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000470&Seq=001&Type=9"
+        },
+        {
+            "title": "420004700001-102-11-25.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000470&Seq=002&Type=8"
+        },
+        {
+            "title": "420004700001___20121024.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000470&Seq=001&Type=8"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "52026545",
-    "time": "2015-07-05 00:39:09",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026545",
+    "time": "2015-08-23 05:37:52",
     "許可證字號": "衛部藥輸字第026545號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -42,13 +43,15 @@
             "製程": "公司"
         }
     ],
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "外盒 國內標籤-104-06-15.pdf 國外標籤-104-06-15.pdf",
+            "title": "國內標籤-104-06-15.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026545&Seq=002&Type=8"
+        },
+        {
+            "title": "國外標籤-104-06-15.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026545&Seq=001&Type=8"
         }
     ]
 }

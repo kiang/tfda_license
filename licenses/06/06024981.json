@@ -1,6 +1,7 @@
 {
     "code": "06024981",
-    "time": "2015-06-24 08:15:00",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024981",
+    "time": "2015-08-22 15:06:49",
     "許可證字號": "衛署醫器輸字第024981號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,16 +39,18 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 201404301614-103-04-30.pdf 060249810001-102-08-02.pdf",
+            "title": "201404301614-103-04-30.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06024981&Seq=002&Type=9"
         },
         {
-            "title": "外盒 060249810002-102-08-02.pdf",
+            "title": "060249810001-102-08-02.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06024981&Seq=001&Type=9"
+        },
+        {
+            "title": "060249810002-102-08-02.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06024981&Seq=001&Type=8"
         }
     ]

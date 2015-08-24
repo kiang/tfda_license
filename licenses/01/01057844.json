@@ -1,6 +1,7 @@
 {
     "code": "01057844",
-    "time": "2015-06-25 04:58:18",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057844",
+    "time": "2015-08-23 02:51:24",
     "許可證字號": "衛署藥製字第057844號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -62,12 +63,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 0105784400001-2014-03-20.pdf 0205784400001___20130319.pdf",
+            "title": "0105784400001-2014-03-20.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057844&Seq=002&Type=9"
         },
         {
-            "title": "外盒 0105784400002-2014-03-20.pdf 0205784400002___20130319.pdf",
+            "title": "0205784400001___20130319.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057844&Seq=001&Type=9"
+        },
+        {
+            "title": "0105784400002-2014-03-20.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057844&Seq=002&Type=8"
+        },
+        {
+            "title": "0205784400002___20130319.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057844&Seq=001&Type=8"
         }
     ]
 }

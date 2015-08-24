@@ -1,6 +1,7 @@
 {
     "code": "06010735",
-    "time": "2015-06-23 17:09:22",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010735",
+    "time": "2015-08-22 10:21:52",
     "許可證字號": "衛署醫器輸字第010735號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,7 +15,7 @@
     "中文品名": "\"柯惠\" 內視鏡自動血管夾",
     "英文品名": "\"Covidien\"ENDO CLIP SINGLE USE CLIP APPLIER",
     "效能": "",
-    "醫器規格": "176615,176619,176620,176625,176657,以下空白。",
+    "醫器規格": "176615,176619,176620,176625,176657,以下空白。註銷規格:176620，以下空白。",
     "劑型": "",
     "包裝": "",
     "醫器主類別一": "I一般及整型外科手術裝置",
@@ -30,15 +31,23 @@
     "申請商名稱": "1439201100  臺灣柯惠股份有限公司",
     "申請商地址": "台北市內湖區瑞光路407號4樓",
     "主製造廠": {
-        "製造廠名稱": "M630009100  Covidien, formerly Davis and Geck Caribe, Ltd.",
+        "製造廠名稱": "M630009000  Covidien",
         "製造廠廠址": "ZONA FRANCA DE SAN ISIDRO, CARRETERA SAN ISIDRO KM 17, SANTO DOMINGO, DOMINICAN REPUBLIC",
         "製造廠公司地址": "",
         "製造廠國別": "DOMINICAN REPUBLIC",
-        "製程": ""
+        "製程": "Manufactured by"
     },
     "CCC號列": "90189080006 其他第９０１８節所屬之貨品Other articles of heading 90.18",
     "藥理治療分類": "",
-    "ingredients": [
-
+    "ingredients": [],
+    "仿單外盒": [
+        {
+            "title": "060010735-104-08-19.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010735&Seq=001&Type=9"
+        },
+        {
+            "title": "060010735-104-08-19.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010735&Seq=001&Type=8"
+        }
     ]
 }

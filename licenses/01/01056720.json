@@ -1,6 +1,7 @@
 {
     "code": "01056720",
-    "time": "2015-06-22 01:41:59",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01056720",
+    "time": "2015-08-23 02:41:11",
     "許可證字號": "衛署藥製字第056720號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -63,12 +64,32 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 PI0567200002___20111212.jpg PI0567200001___20111212.jpg 010567200001___20130502.pdf",
+            "title": "PI0567200002___20111212.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056720&Seq=003&Type=9"
         },
         {
-            "title": "外盒 OB0567200001___20111212.jpg LB0567200001___20111212.jpg AL0567200001___20111212.jpg 010567200002___20130502.pdf",
+            "title": "PI0567200001___20111212.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056720&Seq=002&Type=9"
+        },
+        {
+            "title": "010567200001___20130502.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056720&Seq=001&Type=9"
+        },
+        {
+            "title": "OB0567200001___20111212.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056720&Seq=004&Type=8"
+        },
+        {
+            "title": "LB0567200001___20111212.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056720&Seq=003&Type=8"
+        },
+        {
+            "title": "AL0567200001___20111212.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056720&Seq=002&Type=8"
+        },
+        {
+            "title": "010567200002___20130502.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056720&Seq=001&Type=8"
         }
     ]
 }

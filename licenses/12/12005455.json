@@ -1,6 +1,7 @@
 {
     "code": "12005455",
-    "time": "2015-06-24 10:39:39",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12005455",
+    "time": "2015-08-22 17:47:47",
     "許可證字號": "內衛藥製字第005455號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -43,10 +44,34 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "裸錠",
+        "顏色": "黃色",
+        "特殊氣味": "",
+        "刻痕": "1",
+        "形狀": "圓扁形",
+        "標記一": "FY T028",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "華琳鹽酸硫胺明100毫克-104-08-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005455&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "仿單 120054550001.jpg",
+            "title": "華琳鹽酸硫胺明100毫克仿單標籤-104-08-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005455&Seq=002&Type=9"
+        },
+        {
+            "title": "120054550001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005455&Seq=001&Type=9"
+        },
+        {
+            "title": "華琳鹽酸硫胺明100毫克仿單標籤-104-08-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005455&Seq=001&Type=8"
         }
     ]
 }

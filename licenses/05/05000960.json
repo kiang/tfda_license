@@ -1,6 +1,7 @@
 {
     "code": "05000960",
-    "time": "2015-06-24 01:28:37",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05000960",
+    "time": "2015-08-22 06:10:56",
     "許可證字號": "衛署醫器製字第000960號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -66,12 +67,28 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 050009600003.jpg 050009600002.jpg 050009600001.jpg 050009600001.doc",
+            "title": "050009600003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000960&Seq=004&Type=9"
         },
         {
-            "title": "外盒 050009600002.jpg 050009600001.jpg",
+            "title": "050009600002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000960&Seq=003&Type=9"
+        },
+        {
+            "title": "050009600001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000960&Seq=002&Type=9"
+        },
+        {
+            "title": "050009600001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000960&Seq=001&Type=9"
+        },
+        {
+            "title": "050009600002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000960&Seq=002&Type=8"
+        },
+        {
+            "title": "050009600001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000960&Seq=001&Type=8"
         }
     ]
 }

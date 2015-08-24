@@ -1,6 +1,7 @@
 {
     "code": "02022321",
-    "time": "2015-06-25 16:26:40",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022321",
+    "time": "2015-08-23 11:44:56",
     "許可證字號": "衛署藥輸字第022321號",
     "註銷狀態": "已註銷",
     "註銷日期": "102\/11\/05",
@@ -53,8 +54,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 020223210002.jpg 020223210001.jpg",
+            "title": "020223210002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022321&Seq=002&Type=9"
+        },
+        {
+            "title": "020223210001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022321&Seq=001&Type=9"
         }
     ]
 }

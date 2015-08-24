@@ -1,6 +1,7 @@
 {
     "code": "12010383",
-    "time": "2015-06-24 10:55:37",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12010383",
+    "time": "2015-08-23 02:42:25",
     "許可證字號": "內衛藥製字第010383號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -46,12 +47,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010103830001-2014-04-09.pdf 120103830001.doc",
+            "title": "010103830001-2014-04-09.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12010383&Seq=002&Type=9"
         },
         {
-            "title": "外盒 010103830003-2014-04-09.pdf 010103830002-2014-04-09.pdf",
+            "title": "120103830001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12010383&Seq=001&Type=9"
+        },
+        {
+            "title": "010103830003-2014-04-09.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12010383&Seq=002&Type=8"
+        },
+        {
+            "title": "010103830002-2014-04-09.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12010383&Seq=001&Type=8"
         }
     ]
 }

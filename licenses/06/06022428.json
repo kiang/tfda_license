@@ -1,6 +1,7 @@
 {
     "code": "06022428",
-    "time": "2015-07-05 00:17:12",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022428",
+    "time": "2015-08-24 00:04:04",
     "許可證字號": "衛署醫器輸字第022428號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,17 +39,23 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 06022428_00001-102-07-04.pdf 060224280001___20110822.pdf",
+            "title": "06022428_00001-102-07-04.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022428&Seq=002&Type=9"
         },
         {
-            "title": "外盒 06022428_0001-102-07-04.pdf 060224280002___20110822.pdf",
+            "title": "060224280001___20110822.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022428&Seq=001&Type=9"
+        },
+        {
+            "title": "06022428_0001-102-07-04.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022428&Seq=002&Type=8"
+        },
+        {
+            "title": "060224280002___20110822.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022428&Seq=001&Type=8"
         }
     ]
 }

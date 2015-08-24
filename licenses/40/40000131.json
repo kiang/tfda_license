@@ -1,6 +1,7 @@
 {
     "code": "40000131",
-    "time": "2015-08-21 06:33:04",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=40000131",
+    "time": "2015-08-24 13:23:12",
     "許可證字號": "衛署粧陸輸字第000131號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -70,12 +71,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 400001310001.jpg",
+            "title": "400001310001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000131&Seq=001&Type=9"
         },
         {
-            "title": "外盒 40000131-104-08-11.pdf 40000131-104-05-12.pdf 40000131-103-12-11.pdf 400001310001-103-07-22.pdf",
+            "title": "40000131-104-08-11.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000131&Seq=004&Type=8"
+        },
+        {
+            "title": "40000131-104-05-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000131&Seq=003&Type=8"
+        },
+        {
+            "title": "40000131-103-12-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000131&Seq=002&Type=8"
+        },
+        {
+            "title": "400001310001-103-07-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000131&Seq=001&Type=8"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "10000678",
-    "time": "2015-06-22 01:04:14",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000678",
+    "time": "2015-08-22 17:42:30",
     "許可證字號": "衛署菌疫輸字第000678號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -11,18 +12,18 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA01000067808",
-    "中文品名": "諾德欣注射液５公絲﹨１．５公撮",
+    "中文品名": "諾德欣注射液５公絲\/１．５公撮",
     "英文品名": "NORDITROPIN SIMPLEXX INJECTION 5MG\/1.5ML",
-    "適應症": "對腦下垂體之生長激素分泌不足或功能不全造成的生長遲緩、透納氏症候群。青春期前，因慢性腎病所致之生長遲滯，成人之補充療法。低出生體重兒small for gestational age(SGA) (出生體重及\/或身高< -2 標準差)至2-4 歲或更大時，仍無法追上正常生長狀況。",
+    "適應症": "對腦下垂體之生長激素分泌不足或功能不全造成的生長遲緩、透納氏症候群。青春期前，因慢性腎病所致之生長遲滯。成人之補充療法。低出生體重兒small for gestational age(SGA) (出生體重及\/或身高< -2 標準差)至2-4 歲或更大時，仍無法追上正常生長狀況。",
     "劑型": "270注射劑",
-    "包裝": "盒裝 小瓶",
+    "包裝": "100小瓶以下盒裝 1.5公撮小瓶",
     "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "主成分略述": "SOMATOTROPIN (GROWTH HORMONE)",
+    "主成分略述": "SOMATROPIN",
     "限制項目": [
         "02輸入"
     ],
-    "申請商名稱": "1426801100  臺灣諾和諾德藥品股份有限公司",
+    "申請商名稱": "1426801100  台灣諾和諾德藥品股份有限公司",
     "申請商地址": "台北市敦化南路二段２１６號７樓－１",
     "主製造廠": {
         "製造廠名稱": "F110018100  NOVO NORDISK A\/S",
@@ -45,21 +46,61 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "6828001000",
-            "成分名稱": "SOMATOTROPIN (GROWTH HORMONE)",
-            "含量描述": "3.3",
+            "成分代碼": "6828001050",
+            "成分名稱": "SOMATROPIN",
+            "含量描述": "",
             "含量": "3.3000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 100006780001-104-04-01.pdf 100006780004.jpg 100006780003.jpg 100006780002.jpg 100006780001.jpg",
+            "title": "100006780001-104-04-01.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000678&Seq=005&Type=9"
         },
         {
-            "title": "外盒 100006780005-104-04-01.pdf 100006780004-104-04-01.pdf 100006780003-104-04-01.pdf 100006780004.jpg 100006780003.jpg 100006780002.jpg 100006780001.jpg",
+            "title": "100006780004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000678&Seq=004&Type=9"
+        },
+        {
+            "title": "100006780003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000678&Seq=003&Type=9"
+        },
+        {
+            "title": "100006780002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000678&Seq=002&Type=9"
+        },
+        {
+            "title": "100006780001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000678&Seq=001&Type=9"
+        },
+        {
+            "title": "100006780005-104-04-01.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000678&Seq=007&Type=8"
+        },
+        {
+            "title": "100006780004-104-04-01.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000678&Seq=006&Type=8"
+        },
+        {
+            "title": "100006780003-104-04-01.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000678&Seq=005&Type=8"
+        },
+        {
+            "title": "100006780004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000678&Seq=004&Type=8"
+        },
+        {
+            "title": "100006780003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000678&Seq=003&Type=8"
+        },
+        {
+            "title": "100006780002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000678&Seq=002&Type=8"
+        },
+        {
+            "title": "100006780001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000678&Seq=001&Type=8"
         }
     ]
 }

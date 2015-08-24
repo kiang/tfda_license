@@ -1,6 +1,7 @@
 {
     "code": "01024710",
-    "time": "2015-06-24 22:48:17",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01024710",
+    "time": "2015-08-22 21:53:51",
     "許可證字號": "衛署藥製字第024710號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -61,8 +62,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010247100003.jpg 010247100002.jpg 010247100001.jpg",
+            "title": "010247100003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024710&Seq=003&Type=9"
+        },
+        {
+            "title": "010247100002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024710&Seq=002&Type=9"
+        },
+        {
+            "title": "010247100001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024710&Seq=001&Type=9"
         }
     ]
 }

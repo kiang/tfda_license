@@ -1,6 +1,7 @@
 {
     "code": "08009508",
-    "time": "2015-07-05 00:50:16",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08009508",
+    "time": "2015-08-23 18:02:14",
     "許可證字號": "衛署粧輸字第009508號",
     "註銷狀態": "已註銷",
     "註銷日期": "98\/12\/21",
@@ -34,12 +35,13 @@
     "CCC號列": "33049990901 其他美容或化粧用品及保養皮膚用品（藥品除外）Other beauty or make-up preparations and preparations for the care of the skin (other than medicaments)",
     "藥理治療分類": "",
     "ingredients": [
-
-    ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8816000510",
+            "成分名稱": "MAGNESIUM ASCORBYL PHOSPHATE",
+            "含量描述": "",
+            "含量": "3.0000000000",
+            "單位": "%(W\/W)"
+        }
     ]
 }

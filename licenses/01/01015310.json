@@ -1,6 +1,7 @@
 {
     "code": "01015310",
-    "time": "2015-06-22 01:34:20",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01015310",
+    "time": "2015-08-22 20:31:16",
     "許可證字號": "衛署藥製字第015310號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -25,8 +26,8 @@
     "申請商名稱": "1407422200  臺灣派頓化學製藥股份有限公司",
     "申請商地址": "高雄市岡山區為隨里1鄰為隨東路50號",
     "主製造廠": {
-        "製造廠名稱": "1422121300  漁人製藥股份有限公司",
-        "製造廠廠址": "高雄市左營區民族一路７０７號",
+        "製造廠名稱": "1407422300  臺灣派頓化學製藥股份有限公司",
+        "製造廠廠址": "高雄市岡山區為隨里為隨東路五十號",
         "製造廠公司地址": "",
         "製造廠國別": "TAIWAN",
         "製程": ""
@@ -53,12 +54,32 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010153100001___20110727.pdf 010153100001.jpg",
+            "title": "010153100001___20110727.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01015310&Seq=002&Type=9"
         },
         {
-            "title": "外盒 010153100004___20110727.pdf 010153100003___20110727.pdf 010153100002___20110727.pdf 010153100002.jpg 010153100001.jpg",
+            "title": "010153100001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01015310&Seq=001&Type=9"
+        },
+        {
+            "title": "010153100004___20110727.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01015310&Seq=005&Type=8"
+        },
+        {
+            "title": "010153100003___20110727.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01015310&Seq=004&Type=8"
+        },
+        {
+            "title": "010153100002___20110727.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01015310&Seq=003&Type=8"
+        },
+        {
+            "title": "010153100002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01015310&Seq=002&Type=8"
+        },
+        {
+            "title": "010153100001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01015310&Seq=001&Type=8"
         }
     ]
 }

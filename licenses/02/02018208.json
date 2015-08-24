@@ -1,6 +1,7 @@
 {
     "code": "02018208",
-    "time": "2015-07-05 02:13:26",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02018208",
+    "time": "2015-08-23 10:16:14",
     "許可證字號": "衛署藥輸字第018208號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,12 +35,29 @@
     "CCC號列": "30039099905 其他醫藥製劑（不包括第３００２、３００５或３００６節所列者），包含兩種或以上之成分業經混合供治療或預防疾病之用，不具有劑量或零售包裝式樣者Other medicaments (excluding goods of heading 30.02.30.05 or30.06) consisting of two or more constituents which have been mixed together for therapeutic or prophylactic uses, not put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
-
-    ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2808602200",
+            "成分名稱": "CHOLINE MAGNESIUM TRISALICYLATE",
+            "含量描述": "",
+            "含量": "",
+            "單位": ""
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "4026001100",
+            "成分名稱": "MAGNESIUM",
+            "含量描述": "*4.41-4.59",
+            "含量": "",
+            "單位": "%"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5624000200",
+            "成分名稱": "CHOLINE",
+            "含量描述": "*18.87-19.65",
+            "含量": "",
+            "單位": "%"
+        }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "06025175",
-    "time": "2015-06-24 07:27:43",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06025175",
+    "time": "2015-08-22 15:42:36",
     "許可證字號": "衛署醫器輸字第025175號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -25,29 +26,28 @@
     "醫器次類別三": "",
     "主成分略述": "",
     "限制項目": [
-        "02輸入"
+        "02輸入",
+        "09委託製造"
     ],
     "申請商名稱": "1439201100  台灣柯惠股份有限公司",
     "申請商地址": "台北市內湖區瑞光路407號4樓",
     "主製造廠": {
-        "製造廠名稱": "M630009100  Covidien, formerly Davis and Geck Caribe, Ltd.",
+        "製造廠名稱": "M630009000  Covidien",
         "製造廠廠址": "ZONA FRANCA DE SAN ISIDRO, CARRETERA SAN ISIDRO KM 17, SANTO DOMINGO, DOMINICAN REPUBLIC",
         "製造廠公司地址": "",
         "製造廠國別": "DOMINICAN REPUBLIC",
-        "製程": "受託製造廠"
+        "製程": "Manufactured by"
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 060251750002-102-08-23.pdf",
+            "title": "060251750002-102-08-23.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06025175&Seq=001&Type=9"
         },
         {
-            "title": "外盒 060251750001-102-08-23.pdf",
+            "title": "060251750001-102-08-23.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06025175&Seq=001&Type=8"
         }
     ]

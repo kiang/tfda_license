@@ -1,6 +1,7 @@
 {
     "code": "02018151",
-    "time": "2015-06-22 01:42:32",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02018151",
+    "time": "2015-08-23 10:41:20",
     "許可證字號": "衛署藥輸字第018151號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,7 +27,7 @@
     "申請商地址": "台北市中山區復興北路378號11樓",
     "主製造廠": {
         "製造廠名稱": "F260317000  TAIHO PHARMACEUTICAL CO. LTD. (TOKUSHIMA PLANT)",
-        "製造廠廠址": "224-15, EBISUNO, HIRAISHI, KAWAUCHI-CHO, TOKUSHIMA-SHI, TOKUSHIMA 771-0194,JAPAN",
+        "製造廠廠址": "224-15,AZA-EBISUNO,HIRAISHI,KAWAUCHI-CHO,TOKUSHIMA-SHI,TOKUSHIMA,771-0194, JAPAN",
         "製造廠公司地址": "1-27 KANDA NISHIKI-CHO,CHIYODA-KU,TOKYO,JAPAN",
         "製造廠國別": "JAPAN",
         "製程": ""
@@ -47,7 +48,7 @@
             "成分類別": "主成分",
             "成分代碼": "1008400300",
             "成分名稱": "TEGAFUR (FTORAFUR)",
-            "含量描述": "200",
+            "含量描述": "",
             "含量": "200.0000000000",
             "單位": "MG"
         }
@@ -70,12 +71,36 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 Futraful Capsules_Chinese PI_final_page_2___20110826.jpg Futraful Capsules_Chinese PI_final_page_1___20110826.jpg 020181510002.jpg 020181510001.jpg",
+            "title": "富多拉富膠囊 (Futraful Capsules)_YM09F14-104-05-19.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02018151&Seq=005&Type=9"
+        },
+        {
+            "title": "Futraful Capsules_Chinese PI_final_page_2___20110826.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02018151&Seq=004&Type=9"
         },
         {
-            "title": "外盒 020181510003.jpg 020181510002.jpg 020181510001.jpg",
+            "title": "Futraful Capsules_Chinese PI_final_page_1___20110826.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02018151&Seq=003&Type=9"
+        },
+        {
+            "title": "020181510002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02018151&Seq=002&Type=9"
+        },
+        {
+            "title": "020181510001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02018151&Seq=001&Type=9"
+        },
+        {
+            "title": "020181510003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02018151&Seq=003&Type=8"
+        },
+        {
+            "title": "020181510002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02018151&Seq=002&Type=8"
+        },
+        {
+            "title": "020181510001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02018151&Seq=001&Type=8"
         }
     ]
 }

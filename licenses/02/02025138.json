@@ -1,6 +1,7 @@
 {
     "code": "02025138",
-    "time": "2015-06-22 01:03:41",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025138",
+    "time": "2015-08-23 13:23:45",
     "許可證字號": "衛署藥輸字第025138號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -117,12 +118,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 英文說明書___20110705.pdf 日文說明書___20110705.pdf 中文說明書___20110705.pdf",
+            "title": "英文說明書___20110705.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025138&Seq=003&Type=9"
         },
         {
-            "title": "外盒 盒子正面及瓶標___20110705.pdf 盒子反面___20110705.pdf",
+            "title": "日文說明書___20110705.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025138&Seq=002&Type=9"
+        },
+        {
+            "title": "中文說明書___20110705.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025138&Seq=001&Type=9"
+        },
+        {
+            "title": "盒子正面及瓶標___20110705.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025138&Seq=002&Type=8"
+        },
+        {
+            "title": "盒子反面___20110705.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025138&Seq=001&Type=8"
         }
     ]
 }

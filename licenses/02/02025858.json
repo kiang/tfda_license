@@ -1,6 +1,7 @@
 {
     "code": "02025858",
-    "time": "2015-06-25 18:37:22",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025858",
+    "time": "2015-08-23 12:20:17",
     "許可證字號": "衛署藥輸字第025858號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -33,13 +34,15 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 020258580002___20121213.jpg 020258580001___20121213.jpg",
+            "title": "020258580002___20121213.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025858&Seq=002&Type=9"
+        },
+        {
+            "title": "020258580001___20121213.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025858&Seq=001&Type=9"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "06009048",
-    "time": "2015-08-21 04:00:14",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06009048",
+    "time": "2015-08-24 11:33:23",
     "許可證字號": "衛署醫器輸字第009048號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,13 +39,19 @@
     },
     "CCC號列": "90189080006 其他第９０１８節所屬之貨品Other articles of heading 90.18",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 201407291633-103-07-29.pdf 06009048 AED___20120827.pdf 06-009048___20110308.pdf",
+            "title": "201407291633-103-07-29.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06009048&Seq=003&Type=9"
+        },
+        {
+            "title": "06009048 AED___20120827.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06009048&Seq=002&Type=9"
+        },
+        {
+            "title": "06-009048___20110308.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06009048&Seq=001&Type=9"
         }
     ]
 }

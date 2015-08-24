@@ -1,6 +1,7 @@
 {
     "code": "51058093",
-    "time": "2015-06-24 13:35:46",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058093",
+    "time": "2015-08-22 17:02:15",
     "許可證字號": "衛部藥製字第058093號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -46,12 +47,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 510580930003-2013-12-26.pdf 510580930005-102-11-27.pdf",
+            "title": "510580930003-2013-12-26.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058093&Seq=002&Type=9"
         },
         {
-            "title": "外盒 510580930004-102-11-27.jpg 510580930003-102-11-27.jpg",
+            "title": "510580930005-102-11-27.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058093&Seq=001&Type=9"
+        },
+        {
+            "title": "510580930004-102-11-27.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058093&Seq=002&Type=8"
+        },
+        {
+            "title": "510580930003-102-11-27.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058093&Seq=001&Type=8"
         }
     ]
 }

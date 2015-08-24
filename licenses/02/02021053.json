@@ -1,6 +1,7 @@
 {
     "code": "02021053",
-    "time": "2015-07-05 00:38:45",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021053",
+    "time": "2015-08-23 11:25:32",
     "許可證字號": "衛署藥輸字第021053號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -43,12 +44,107 @@
         }
     ],
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2012100201",
+            "成分名稱": "AMINOCAPROIC ACID EPSILON-",
+            "含量描述": "",
+            "含量": "30.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5228000100",
+            "成分名稱": "SODIUM BORATE (SODIUM BIBORATESODIUM TETRABORATE",
+            "含量描述": "",
+            "含量": "0.6600000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5236000100",
+            "成分名稱": "PIRFENOXONE (eq to CATALIN)( eq to PIRENOXINE)",
+            "含量描述": "",
+            "含量": "0.7500000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8404600600",
+            "成分名稱": "BORIC ACID",
+            "含量描述": "",
+            "含量": "150.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8404600600",
+            "成分名稱": "BORIC ACID",
+            "含量描述": "",
+            "含量": "12.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200000900",
+            "成分名稱": "TAURINE (EQ TO 2-AMINOETHANE SULFONIC ACID)",
+            "含量描述": "",
+            "含量": "73.5900000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "CATALIN-K_PI_130910-103-04-17.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021053&Seq=010&Type=9"
+        },
+        {
+            "title": "中文仿單___20110721.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021053&Seq=009&Type=9"
+        },
+        {
+            "title": "temp___20111005.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021053&Seq=008&Type=9"
+        },
+        {
+            "title": "CATALIN英文___20110721.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021053&Seq=007&Type=9"
+        },
+        {
+            "title": "020210530006.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021053&Seq=006&Type=9"
+        },
+        {
+            "title": "020210530005.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021053&Seq=005&Type=9"
+        },
+        {
+            "title": "020210530004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021053&Seq=004&Type=9"
+        },
+        {
+            "title": "020210530003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021053&Seq=003&Type=9"
+        },
+        {
+            "title": "020210530002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021053&Seq=002&Type=9"
+        },
+        {
+            "title": "020210530001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021053&Seq=001&Type=9"
+        },
+        {
+            "title": "020210530003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021053&Seq=003&Type=8"
+        },
+        {
+            "title": "020210530002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021053&Seq=002&Type=8"
+        },
+        {
+            "title": "020210530001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021053&Seq=001&Type=8"
+        }
     ]
 }

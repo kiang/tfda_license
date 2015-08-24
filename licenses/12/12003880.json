@@ -1,6 +1,7 @@
 {
     "code": "12003880",
-    "time": "2015-07-05 01:34:37",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12003880",
+    "time": "2015-08-22 16:45:30",
     "許可證字號": "內衛藥製字第003880號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -35,12 +36,21 @@
     "CCC號列": "30049099101 抗過敏抗組織胺用藥Drugs for antihypersensitivity and antihistamine",
     "藥理治療分類": "",
     "ingredients": [
-
-    ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0400000810",
+            "成分名稱": "CHLORPHENIRAMINE MALEATE",
+            "含量描述": "(INNER LAYER) 4",
+            "含量": "",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0400000810",
+            "成分名稱": "CHLORPHENIRAMINE MALEATE",
+            "含量描述": "OUTSIDE LAYER\/4",
+            "含量": "",
+            "單位": "MG"
+        }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "01037123",
-    "time": "2015-06-25 01:57:16",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01037123",
+    "time": "2015-08-23 00:30:47",
     "許可證字號": "衛署藥製字第037123號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -85,12 +86,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010371230002-102-10-08.jpg",
+            "title": "010371230002-102-10-08.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01037123&Seq=001&Type=9"
         },
         {
-            "title": "外盒 010371230003-102-10-08.jpg 010371230001-102-10-08.jpg",
+            "title": "010371230003-102-10-08.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01037123&Seq=002&Type=8"
+        },
+        {
+            "title": "010371230001-102-10-08.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01037123&Seq=001&Type=8"
         }
     ]
 }

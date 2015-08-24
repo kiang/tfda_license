@@ -1,6 +1,7 @@
 {
     "code": "05000444",
-    "time": "2015-06-24 00:33:26",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05000444",
+    "time": "2015-08-22 06:27:18",
     "許可證字號": "衛署醫器製字第000444號",
     "註銷狀態": "已註銷",
     "註銷日期": "101\/11\/19",
@@ -90,8 +91,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 050004440004.jpg 050004440003.jpg 050004440002.jpg 050004440001.jpg",
+            "title": "050004440004.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000444&Seq=004&Type=9"
+        },
+        {
+            "title": "050004440003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000444&Seq=003&Type=9"
+        },
+        {
+            "title": "050004440002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000444&Seq=002&Type=9"
+        },
+        {
+            "title": "050004440001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000444&Seq=001&Type=9"
         }
     ]
 }

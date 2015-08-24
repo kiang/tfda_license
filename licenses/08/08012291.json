@@ -1,6 +1,7 @@
 {
     "code": "08012291",
-    "time": "2015-06-22 01:53:29",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08012291",
+    "time": "2015-08-23 18:35:34",
     "許可證字號": "衛署粧輸字第012291號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,7 +19,7 @@
     "包裝": "500ML以下管裝 附紙外盒裝",
     "化粧品類別": "0105髮膏",
     "": "",
-    "主成分略述": "AMMONIA, AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL), AMINOPHENOL META- (EQ TO M-AMINOPHENOL), 2-METHYLRESORCINOL, P-PHENYLENEDIAMINE, 2,4-DIAMINOPHENOXYETHANOL SULFATE, TOLUENE-2,5-DIAMINE SULFATE, PHENYL METHYL PYRAZOLONE",
+    "主成分略述": "AMMONIA, AMMONIUM HYDROXIDE 28%, AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL), AMINOPHENOL META- (EQ TO M-AMINOPHENOL), 2-METHYLRESORCINOL, 2,4-DIAMINOPHENOXYETHANOL HCL (EQ TO 2,4-DIAMINOPHENOXYETHANOL DIHYDROCHLORIDE), TOLUENE-2,5-DIAMINE SULFATE, PHENYL METHYL PYRAZOLONE",
     "限制項目": [
         "02輸入"
     ],
@@ -36,10 +37,10 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000100",
-            "成分名稱": "AMMONIA",
-            "含量描述": "",
-            "含量": "1.7600000000",
+            "成分代碼": "2820000107",
+            "成分名稱": "AMMONIUM HYDROXIDE 28%",
+            "含量描述": "Eq to free Ammonia",
+            "含量": "1.7241200000",
             "單位": "%(W\/W)"
         },
         {
@@ -68,18 +69,10 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9400003200",
-            "成分名稱": "P-PHENYLENEDIAMINE",
+            "成分代碼": "9400003810",
+            "成分名稱": "2,4-DIAMINOPHENOXYETHANOL HCL (EQ TO 2,4-DIAMINOPHENOXYETHANOL DIHYDROCHLORIDE)",
             "含量描述": "",
-            "含量": "0.3000000000",
-            "單位": ""
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9400003820",
-            "成分名稱": "2,4-DIAMINOPHENOXYETHANOL SULFATE",
-            "含量描述": "",
-            "含量": "0.4000000000",
+            "含量": "0.0400000000",
             "單位": "%(W\/W)"
         },
         {
@@ -87,8 +80,8 @@
             "成分代碼": "9900066200",
             "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
             "含量描述": "",
-            "含量": "0.4000000000",
-            "單位": ""
+            "含量": "1.0000000000",
+            "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
@@ -96,14 +89,14 @@
             "成分名稱": "PHENYL METHYL PYRAZOLONE",
             "含量描述": "",
             "含量": "0.1000000000",
-            "單位": ""
+            "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "2820000100",
             "成分名稱": "AMMONIA",
-            "含量描述": "",
-            "含量": "1.7600000000",
+            "含量描述": "Eq to free Ammonia",
+            "含量": "1.7241200000",
             "單位": "%(W\/W)"
         },
         {
@@ -132,18 +125,10 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9400003200",
-            "成分名稱": "P-PHENYLENEDIAMINE",
+            "成分代碼": "9400003810",
+            "成分名稱": "2,4-DIAMINOPHENOXYETHANOL HCL (EQ TO 2,4-DIAMINOPHENOXYETHANOL DIHYDROCHLORIDE)",
             "含量描述": "",
-            "含量": "0.2500000000",
-            "單位": ""
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9400003820",
-            "成分名稱": "2,4-DIAMINOPHENOXYETHANOL SULFATE",
-            "含量描述": "",
-            "含量": "0.4000000000",
+            "含量": "0.0300000000",
             "單位": "%(W\/W)"
         },
         {
@@ -151,8 +136,8 @@
             "成分代碼": "9900066200",
             "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
             "含量描述": "",
-            "含量": "0.2000000000",
-            "單位": ""
+            "含量": "0.7000000000",
+            "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
@@ -160,14 +145,14 @@
             "成分名稱": "PHENYL METHYL PYRAZOLONE",
             "含量描述": "",
             "含量": "0.1000000000",
-            "單位": ""
+            "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000100",
-            "成分名稱": "AMMONIA",
-            "含量描述": "",
-            "含量": "1.7600000000",
+            "成分代碼": "2820000107",
+            "成分名稱": "AMMONIUM HYDROXIDE 28%",
+            "含量描述": "Eq to free Ammonia",
+            "含量": "1.7241200000",
             "單位": "%(W\/W)"
         },
         {
@@ -196,18 +181,10 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9400003200",
-            "成分名稱": "P-PHENYLENEDIAMINE",
+            "成分代碼": "9400003810",
+            "成分名稱": "2,4-DIAMINOPHENOXYETHANOL HCL (EQ TO 2,4-DIAMINOPHENOXYETHANOL DIHYDROCHLORIDE)",
             "含量描述": "",
-            "含量": "0.2000000000",
-            "單位": ""
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9400003820",
-            "成分名稱": "2,4-DIAMINOPHENOXYETHANOL SULFATE",
-            "含量描述": "",
-            "含量": "0.4000000000",
+            "含量": "0.0200000000",
             "單位": "%(W\/W)"
         },
         {
@@ -215,8 +192,8 @@
             "成分代碼": "9900066200",
             "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
             "含量描述": "",
-            "含量": "0.0250000000",
-            "單位": ""
+            "含量": "0.4200000000",
+            "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
@@ -224,13 +201,37 @@
             "成分名稱": "PHENYL METHYL PYRAZOLONE",
             "含量描述": "",
             "含量": "0.1000000000",
-            "單位": ""
+            "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 080122910006.jpg 080122910005.jpg 080122910004.jpg 080122910003.jpg 080122910002.jpg 080122910001.jpg",
+            "title": "080122910006.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08012291&Seq=006&Type=9"
+        },
+        {
+            "title": "080122910005.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08012291&Seq=005&Type=9"
+        },
+        {
+            "title": "080122910004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08012291&Seq=004&Type=9"
+        },
+        {
+            "title": "080122910003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08012291&Seq=003&Type=9"
+        },
+        {
+            "title": "080122910002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08012291&Seq=002&Type=9"
+        },
+        {
+            "title": "080122910001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08012291&Seq=001&Type=9"
+        },
+        {
+            "title": "08012291-104-06-30.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08012291&Seq=001&Type=8"
         }
     ]
 }

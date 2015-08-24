@@ -1,6 +1,7 @@
 {
     "code": "52026450",
-    "time": "2015-06-24 14:43:39",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026450",
+    "time": "2015-08-23 13:40:19",
     "許可證字號": "衛部藥輸字第026450號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,12 +46,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 020264500004 (英文仿單)-104-02-10.pdf 020264500003 (中文仿單)-104-02-10.pdf",
+            "title": "020264500004 (英文仿單)-104-02-10.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026450&Seq=003&Type=9"
         },
         {
-            "title": "外盒 020264500002 (瓶標)-104-02-04.pdf 020264500001 (外盒)-104-02-04.pdf",
+            "title": "020264500003 (中文仿單)-104-02-10.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026450&Seq=002&Type=9"
+        },
+        {
+            "title": "020264500002 (瓶標)-104-02-04.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026450&Seq=002&Type=8"
+        },
+        {
+            "title": "020264500001 (外盒)-104-02-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026450&Seq=001&Type=8"
         }
     ]
 }

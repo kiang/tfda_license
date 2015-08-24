@@ -1,6 +1,7 @@
 {
     "code": "01020910",
-    "time": "2015-06-24 20:21:06",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01020910",
+    "time": "2015-08-22 21:25:40",
     "許可證字號": "衛署藥製字第020910號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -61,8 +62,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010209100001-103-09-02.pdf 010209100001.doc",
+            "title": "010209100001-103-09-02.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020910&Seq=002&Type=9"
+        },
+        {
+            "title": "010209100001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020910&Seq=001&Type=9"
+        },
+        {
+            "title": "010209100002-104-05-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020910&Seq=002&Type=8"
+        },
+        {
+            "title": "鋁箔-104-05-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020910&Seq=001&Type=8"
         }
     ]
 }

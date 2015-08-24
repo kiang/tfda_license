@@ -1,6 +1,7 @@
 {
     "code": "01023884",
-    "time": "2015-06-24 20:34:27",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01023884",
+    "time": "2015-08-22 22:39:30",
     "許可證字號": "衛署藥製字第023884號",
     "註銷狀態": "已註銷",
     "註銷日期": "104\/01\/15",
@@ -101,12 +102,28 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010238840002.jpg 010238840001.jpg",
+            "title": "010238840002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023884&Seq=002&Type=9"
         },
         {
-            "title": "外盒 010238840004.jpg 010238840003.jpg 010238840002.jpg 010238840001.jpg",
+            "title": "010238840001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023884&Seq=001&Type=9"
+        },
+        {
+            "title": "010238840004.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023884&Seq=004&Type=8"
+        },
+        {
+            "title": "010238840003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023884&Seq=003&Type=8"
+        },
+        {
+            "title": "010238840002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023884&Seq=002&Type=8"
+        },
+        {
+            "title": "010238840001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023884&Seq=001&Type=8"
         }
     ]
 }

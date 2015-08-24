@@ -1,6 +1,7 @@
 {
     "code": "02019928",
-    "time": "2015-06-25 15:04:34",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019928",
+    "time": "2015-08-23 10:34:31",
     "許可證字號": "衛署藥輸字第019928號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -62,12 +63,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 中文仿單_20130418-102-06-11.pdf JPI_PIC-102-06-11.pdf",
+            "title": "中文仿單_20130418-102-06-11.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019928&Seq=002&Type=9"
         },
         {
-            "title": "外盒 Picibanil 0.2KE_label-102-06-11.pdf Picibanil 0.2KE_Box-102-06-11.pdf",
+            "title": "JPI_PIC-102-06-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019928&Seq=001&Type=9"
+        },
+        {
+            "title": "Picibanil 0.2KE_label-102-06-11.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019928&Seq=002&Type=8"
+        },
+        {
+            "title": "Picibanil 0.2KE_Box-102-06-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019928&Seq=001&Type=8"
         }
     ]
 }
