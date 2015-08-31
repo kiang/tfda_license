@@ -1,6 +1,7 @@
 {
     "code": "02016999",
-    "time": "2015-06-25 14:42:44",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02016999",
+    "time": "2015-08-23 09:29:12",
     "許可證字號": "衛署藥輸字第016999號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -56,17 +57,29 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02016999&Seq=001&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02016999&Seq=001&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 Youcobal 500 仿單-102-08-12.pdf 020169990001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02016999&Seq=002&Type=9"
+            "title": "Youcobal 500 仿單-102-08-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02016999&Seq=002&Type=9"
         },
         {
-            "title": "外盒 鋁箔片---Youcobal Tablets 500-102-08-12.pdf 外盒----Youcobal Tablets 500-102-08-12.pdf Youcobal 500 文字標籤-102-08-12.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02016999&Seq=003&Type=8"
+            "title": "020169990001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02016999&Seq=001&Type=9"
+        },
+        {
+            "title": "鋁箔片---Youcobal Tablets 500-102-08-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02016999&Seq=003&Type=8"
+        },
+        {
+            "title": "外盒----Youcobal Tablets 500-102-08-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02016999&Seq=002&Type=8"
+        },
+        {
+            "title": "Youcobal 500 文字標籤-102-08-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02016999&Seq=001&Type=8"
         }
     ]
 }

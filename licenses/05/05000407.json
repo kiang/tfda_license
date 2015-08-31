@@ -1,6 +1,7 @@
 {
     "code": "05000407",
-    "time": "2015-06-24 01:28:23",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05000407",
+    "time": "2015-08-22 08:10:29",
     "許可證字號": "衛署醫器製字第000407號",
     "註銷狀態": "已註銷",
     "註銷日期": "96\/07\/23",
@@ -74,8 +75,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 050004070003.jpg 050004070002.jpg 050004070001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=05000407&Seq=003&Type=9"
+            "title": "050004070003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000407&Seq=003&Type=9"
+        },
+        {
+            "title": "050004070002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000407&Seq=002&Type=9"
+        },
+        {
+            "title": "050004070001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000407&Seq=001&Type=9"
         }
     ]
 }

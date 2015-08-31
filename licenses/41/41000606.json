@@ -1,6 +1,7 @@
 {
     "code": "41000606",
-    "time": "2015-06-24 16:33:58",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=41000606",
+    "time": "2015-08-23 12:52:16",
     "許可證字號": "衛署藥陸輸字第000606號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -43,13 +44,15 @@
             "製程": "公司"
         }
     ],
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "外盒 410006060002-102-07-10.pdf 410006060001-102-07-10.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=41000606&Seq=002&Type=8"
+            "title": "410006060002-102-07-10.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=41000606&Seq=002&Type=8"
+        },
+        {
+            "title": "410006060001-102-07-10.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=41000606&Seq=001&Type=8"
         }
     ]
 }

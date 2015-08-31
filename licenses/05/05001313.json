@@ -1,6 +1,7 @@
 {
     "code": "05001313",
-    "time": "2015-06-22 01:06:44",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05001313",
+    "time": "2015-08-22 04:53:34",
     "許可證字號": "衛署醫器製字第001313號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,7 +29,7 @@
         "01國產"
     ],
     "申請商名稱": "0908703200  信東生技股份有限公司",
-    "申請商地址": "桃園市桃園區豐林里介壽路２２號",
+    "申請商地址": "桃園市桃園區介壽路２２號",
     "主製造廠": {
         "製造廠名稱": "0908703600  信東生技股份有限公司",
         "製造廠廠址": "桃園市桃園區豐林里介壽路22號",
@@ -82,8 +83,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 05001313___20110510.pdf 050013130002.jpg 050013130001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=05001313&Seq=003&Type=9"
+            "title": "05001313___20110510.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001313&Seq=003&Type=9"
+        },
+        {
+            "title": "050013130002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001313&Seq=002&Type=9"
+        },
+        {
+            "title": "050013130001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001313&Seq=001&Type=9"
         }
     ]
 }

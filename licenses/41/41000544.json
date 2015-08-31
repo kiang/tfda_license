@@ -1,6 +1,7 @@
 {
     "code": "41000544",
-    "time": "2015-06-24 16:59:13",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=41000544",
+    "time": "2015-08-24 00:17:58",
     "許可證字號": "衛署藥陸輸字第000544號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -25,7 +26,7 @@
     "申請商名稱": "620109A106  誠品貿易有限公司",
     "申請商地址": "台北市大同區民族西路243號1樓",
     "主製造廠": {
-        "製造廠名稱": "F640862000  HUBEI HONGYUAN PHARMACEUTICAL CO., LTD.",
+        "製造廠名稱": "F640862000  Hubei Hongyuan Pharmaceutical Technology Co., Ltd.",
         "製造廠廠址": "NO.8 FENGSHAN ROAD, INDUSTRIAL AND ECONOMIC DEVELOPMENT ZONE, LUOTIAN COUNTY, HUANGGANG CITY, HUBEI PROVINCE, CHINA",
         "製造廠公司地址": "",
         "製造廠國別": "CHINA",
@@ -33,13 +34,15 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 410005440002___20130219.pdf 410005440001___20130219.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=41000544&Seq=002&Type=9"
+            "title": "410005440002___20130219.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=41000544&Seq=002&Type=9"
+        },
+        {
+            "title": "410005440001___20130219.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=41000544&Seq=001&Type=9"
         }
     ]
 }

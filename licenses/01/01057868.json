@@ -1,6 +1,7 @@
 {
     "code": "01057868",
-    "time": "2015-06-25 04:58:55",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057868",
+    "time": "2015-08-23 03:00:25",
     "許可證字號": "衛署藥製字第057868號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -25,7 +26,7 @@
         "62完成溶離率試驗"
     ],
     "申請商名稱": "0908703200  信東生技股份有限公司",
-    "申請商地址": "桃園市桃園區豐林里介壽路２２號",
+    "申請商地址": "桃園市桃園區介壽路２２號",
     "主製造廠": {
         "製造廠名稱": "0908703300  信東生技股份有限公司",
         "製造廠廠址": "桃園市桃園區介壽路２２號",
@@ -47,12 +48,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010578680001___20130430.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01057868&Seq=001&Type=9"
+            "title": "010578680001___20130430.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057868&Seq=001&Type=9"
         },
         {
-            "title": "外盒 010578680004___20130430.pdf 010578680003___20130430.pdf 010578680002___20130430.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01057868&Seq=003&Type=8"
+            "title": "010578680004___20130430.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057868&Seq=003&Type=8"
+        },
+        {
+            "title": "010578680003___20130430.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057868&Seq=002&Type=8"
+        },
+        {
+            "title": "010578680002___20130430.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057868&Seq=001&Type=8"
         }
     ]
 }

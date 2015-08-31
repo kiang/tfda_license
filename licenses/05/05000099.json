@@ -1,6 +1,7 @@
 {
     "code": "05000099",
-    "time": "2015-06-23 21:27:35",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05000099",
+    "time": "2015-08-22 04:42:07",
     "許可證字號": "衛署醫器製字第000099號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,13 +39,15 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 050000990001.jpg 05000099-20110303___20110615.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=05000099&Seq=002&Type=9"
+            "title": "050000990001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000099&Seq=002&Type=9"
+        },
+        {
+            "title": "05000099-20110303___20110615.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000099&Seq=001&Type=9"
         }
     ]
 }

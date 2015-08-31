@@ -1,6 +1,7 @@
 {
     "code": "10000930",
-    "time": "2015-08-28 05:01:47",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000930",
+    "time": "2015-08-24 13:04:11",
     "許可證字號": "衛署菌疫輸字第000930號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -62,12 +63,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 PI-102-12-18.pdf IFU-102-12-18.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=10000930&Seq=002&Type=9"
+            "title": "PI-102-12-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000930&Seq=002&Type=9"
         },
         {
-            "title": "外盒 Chinese Label-102-12-18.jpg 135 Eng Label-102-12-18.pdf 135 Box-102-12-18.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=10000930&Seq=003&Type=8"
+            "title": "IFU-102-12-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000930&Seq=001&Type=9"
+        },
+        {
+            "title": "Chinese Label-102-12-18.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000930&Seq=003&Type=8"
+        },
+        {
+            "title": "135 Eng Label-102-12-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000930&Seq=002&Type=8"
+        },
+        {
+            "title": "135 Box-102-12-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000930&Seq=001&Type=8"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "01008740",
-    "time": "2015-06-24 17:40:15",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01008740",
+    "time": "2015-08-22 19:03:45",
     "許可證字號": "衛署藥製字第008740號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -65,17 +66,21 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01008740&Seq=032&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01008740&Seq=032&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 制酸錠___20121204.pdf 010087400001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01008740&Seq=002&Type=9"
+            "title": "制酸錠___20121204.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01008740&Seq=002&Type=9"
         },
         {
-            "title": "外盒 制酸錠___20121204.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01008740&Seq=001&Type=8"
+            "title": "010087400001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01008740&Seq=001&Type=9"
+        },
+        {
+            "title": "制酸錠___20121204.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01008740&Seq=001&Type=8"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "02023709",
-    "time": "2015-06-25 18:19:24",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023709",
+    "time": "2015-08-23 12:42:56",
     "許可證字號": "衛署藥輸字第023709號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,6 +35,15 @@
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "F420026200  Fresenius Kabi AB",
+            "製造廠廠址": "Kraftvagen 1, SE-196 37K Kungsangen, Sweden",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWEDEN",
+            "製程": "原料藥之取樣與秤量作業"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -158,8 +168,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 Kabiven PI_FKT-023709-1312-103-09-11.pdf 020237090004.jpg 020237090003.jpg 020237090002.jpg 020237090001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02023709&Seq=005&Type=9"
+            "title": "Kabiven PI_FKT-023709-1312-103-09-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023709&Seq=005&Type=9"
+        },
+        {
+            "title": "020237090004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023709&Seq=004&Type=9"
+        },
+        {
+            "title": "020237090003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023709&Seq=003&Type=9"
+        },
+        {
+            "title": "020237090002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023709&Seq=002&Type=9"
+        },
+        {
+            "title": "020237090001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023709&Seq=001&Type=9"
         }
     ]
 }

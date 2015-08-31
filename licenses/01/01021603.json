@@ -1,6 +1,7 @@
 {
     "code": "01021603",
-    "time": "2015-06-24 21:27:48",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01021603",
+    "time": "2015-08-24 00:39:06",
     "許可證字號": "衛署藥製字第021603號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,8 +46,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010216030002.jpg 010216030001.jpg 010216030001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01021603&Seq=003&Type=9"
+            "title": "010216030002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021603&Seq=003&Type=9"
+        },
+        {
+            "title": "010216030001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021603&Seq=002&Type=9"
+        },
+        {
+            "title": "010216030001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021603&Seq=001&Type=9"
         }
     ]
 }

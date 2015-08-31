@@ -1,6 +1,7 @@
 {
     "code": "01024135",
-    "time": "2015-06-24 21:20:33",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01024135",
+    "time": "2015-08-22 21:41:22",
     "許可證字號": "衛署藥製字第024135號",
     "註銷狀態": "已註銷",
     "註銷日期": "100\/02\/22",
@@ -45,8 +46,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010241350003.jpg 010241350002.jpg 010241350001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01024135&Seq=003&Type=9"
+            "title": "010241350003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024135&Seq=003&Type=9"
+        },
+        {
+            "title": "010241350002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024135&Seq=002&Type=9"
+        },
+        {
+            "title": "010241350001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024135&Seq=001&Type=9"
         }
     ]
 }

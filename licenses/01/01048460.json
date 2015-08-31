@@ -1,6 +1,7 @@
 {
     "code": "01048460",
-    "time": "2015-06-25 03:59:38",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01048460",
+    "time": "2015-08-23 01:44:15",
     "許可證字號": "衛署藥製字第048460號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,8 +21,7 @@
     "管制藥品分類級別": "",
     "主成分略述": "CYANOCOBALAMIN (VIT B12)",
     "限制項目": [
-        "01國產",
-        "09委託製造"
+        "01國產"
     ],
     "申請商名稱": "620118D651  麥迪森企業股份有限公司",
     "申請商地址": "臺北市中正區林森南路10號5樓",
@@ -46,12 +46,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 1.眼爽朗眼藥水-2014-02-06.pdf 010484600001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01048460&Seq=002&Type=9"
+            "title": "1.眼爽朗眼藥水-2014-02-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048460&Seq=002&Type=9"
         },
         {
-            "title": "外盒 010484600001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01048460&Seq=001&Type=8"
+            "title": "010484600001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048460&Seq=001&Type=9"
+        },
+        {
+            "title": "010484600001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048460&Seq=001&Type=8"
         }
     ]
 }

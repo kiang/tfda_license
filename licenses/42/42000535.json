@@ -1,6 +1,7 @@
 {
     "code": "42000535",
-    "time": "2015-07-24 06:34:28",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000535",
+    "time": "2015-08-22 04:54:23",
     "許可證字號": "衛署醫器陸輸字第000535號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -32,24 +33,30 @@
     "申請商地址": "台北市松山區敦化北路170號7樓",
     "主製造廠": {
         "製造廠名稱": "M640966100  Zhejiang Kindly Medical Devices Co., Ltd.",
-        "製造廠廠址": "No. 252, Yongqiang Road, Wenzhou, Zhejiang, China",
+        "製造廠廠址": "No.758, 5th Binhai Road Binhai Industrial Park, Longwan District325025 Wenzhou, Zhejiang Province, CHINA。",
         "製造廠公司地址": "",
         "製造廠國別": "CHINA",
         "製程": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 420005350001-102-09-11.pdf 420005350001-102-07-01.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=42000535&Seq=002&Type=9"
+            "title": "420005350001-102-09-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000535&Seq=002&Type=9"
         },
         {
-            "title": "外盒 420005350001-102-09-11.pdf 450005350002-102-07-01.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=42000535&Seq=002&Type=8"
+            "title": "420005350001-102-07-01.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000535&Seq=001&Type=9"
+        },
+        {
+            "title": "420005350001-102-09-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000535&Seq=002&Type=8"
+        },
+        {
+            "title": "450005350002-102-07-01.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000535&Seq=001&Type=8"
         }
     ]
 }

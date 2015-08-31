@@ -1,6 +1,7 @@
 {
     "code": "06013076",
-    "time": "2015-06-22 01:46:06",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06013076",
+    "time": "2015-08-22 11:24:40",
     "許可證字號": "衛署醫器輸字第013076號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,17 +39,19 @@
     },
     "CCC號列": "30062000004 血型分類試藥Blood-grouping reagents",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 060130760002.jpg 060130760001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06013076&Seq=002&Type=9"
+            "title": "060130760002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013076&Seq=002&Type=9"
         },
         {
-            "title": "外盒 060130760001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06013076&Seq=001&Type=8"
+            "title": "060130760001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013076&Seq=001&Type=9"
+        },
+        {
+            "title": "060130760001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013076&Seq=001&Type=8"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "01013337",
-    "time": "2015-08-28 03:09:14",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01013337",
+    "time": "2015-08-24 11:03:19",
     "許可證字號": "衛署藥製字第013337號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -22,7 +23,7 @@
     "限制項目": [
         "01國產"
     ],
-    "申請商名稱": "0906209200  恒安製藥工業股份有限公司",
+    "申請商名稱": "0906209200  恆安製藥工業股份有限公司",
     "申請商地址": "台中市西屯區台中工業區一路１０１號",
     "主製造廠": {
         "製造廠名稱": "1112209300  培力藥品工業股份有限公司",
@@ -69,12 +70,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 瀉痢朗仿單1040521-104-07-24.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01013337&Seq=001&Type=9"
+            "title": "瀉痢朗仿單1040521-104-07-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01013337&Seq=001&Type=9"
         },
         {
-            "title": "外盒 瀉痢朗膠囊標籤20150723-104-07-24.pdf 培力_瀉痢朗彩盒-BX008-10capV02-104-07-24.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01013337&Seq=002&Type=8"
+            "title": "瀉痢朗膠囊標籤20150723-104-07-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01013337&Seq=002&Type=8"
+        },
+        {
+            "title": "培力_瀉痢朗彩盒-BX008-10capV02-104-07-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01013337&Seq=001&Type=8"
         }
     ]
 }

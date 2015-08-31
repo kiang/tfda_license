@@ -1,6 +1,7 @@
 {
     "code": "01049275",
-    "time": "2015-07-05 01:44:20",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01049275",
+    "time": "2015-08-23 04:04:51",
     "許可證字號": "衛署藥製字第049275號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -36,12 +37,27 @@
     "CCC號列": "30049099389 醫藥製劑，含有咪達唑他（咪氟唑侖）者Medicaments, containing Midazolam",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2824202300",
+            "成分名稱": "MIDAZOLAM",
+            "含量描述": "",
+            "含量": "5.0000000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "010492750002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049275&Seq=002&Type=9"
+        },
+        {
+            "title": "010492750001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049275&Seq=001&Type=9"
+        },
+        {
+            "title": "010492750001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049275&Seq=001&Type=8"
+        }
     ]
 }

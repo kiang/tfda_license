@@ -1,6 +1,7 @@
 {
     "code": "06013957",
-    "time": "2015-06-24 05:53:19",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06013957",
+    "time": "2015-08-22 10:47:41",
     "許可證字號": "衛署醫器輸字第013957號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,17 +39,19 @@
     },
     "CCC號列": "90189010109 靜脈血壓計Venous blood pressure manometer",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 060139570002.jpg 060139570001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06013957&Seq=002&Type=9"
+            "title": "060139570002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013957&Seq=002&Type=9"
         },
         {
-            "title": "外盒 060139570001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06013957&Seq=001&Type=8"
+            "title": "060139570001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013957&Seq=001&Type=9"
+        },
+        {
+            "title": "060139570001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013957&Seq=001&Type=8"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "51058582",
-    "time": "2015-07-05 01:35:13",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058582",
+    "time": "2015-08-22 17:08:28",
     "許可證字號": "衛部藥製字第058582號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -33,13 +34,15 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "ingredients": [],
+    "仿單外盒": [
+        {
+            "title": "058582-002-104-05-07.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058582&Seq=002&Type=8"
+        },
+        {
+            "title": "058582-001-104-05-07.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058582&Seq=001&Type=8"
+        }
     ]
 }

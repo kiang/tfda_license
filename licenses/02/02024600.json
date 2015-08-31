@@ -1,6 +1,7 @@
 {
     "code": "02024600",
-    "time": "2015-06-25 18:11:56",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024600",
+    "time": "2015-08-23 12:04:47",
     "許可證字號": "衛署藥輸字第024600號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -53,12 +54,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 020246000002.jpg 020246000001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02024600&Seq=002&Type=9"
+            "title": "020246000002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024600&Seq=002&Type=9"
         },
         {
-            "title": "外盒 020246000002.jpg 020246000001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02024600&Seq=002&Type=8"
+            "title": "020246000001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024600&Seq=001&Type=9"
+        },
+        {
+            "title": "020246000002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024600&Seq=002&Type=8"
+        },
+        {
+            "title": "020246000001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024600&Seq=001&Type=8"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "08012655",
-    "time": "2015-06-23 09:42:11",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08012655",
+    "time": "2015-08-23 18:26:58",
     "許可證字號": "衛署粧輸字第012655號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -133,12 +134,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 080126550001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=08012655&Seq=001&Type=9"
+            "title": "080126550001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08012655&Seq=001&Type=9"
         },
         {
-            "title": "外盒 080126550003.jpg 080126550002.jpg 080126550001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=08012655&Seq=003&Type=8"
+            "title": "080126550003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08012655&Seq=003&Type=8"
+        },
+        {
+            "title": "080126550002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08012655&Seq=002&Type=8"
+        },
+        {
+            "title": "080126550001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08012655&Seq=001&Type=8"
         }
     ]
 }

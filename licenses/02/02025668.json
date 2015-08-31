@@ -1,6 +1,7 @@
 {
     "code": "02025668",
-    "time": "2015-06-25 18:54:19",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025668",
+    "time": "2015-08-23 12:11:40",
     "許可證字號": "衛署藥輸字第025668號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -96,17 +97,25 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02025668&Seq=418&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025668&Seq=418&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 020256680002___20120613.pdf 020256680001___20120613.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02025668&Seq=002&Type=9"
+            "title": "020256680002___20120613.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025668&Seq=002&Type=9"
         },
         {
-            "title": "外盒 020256680004___20120613.pdf 020256680003___20120613.PDF",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02025668&Seq=002&Type=8"
+            "title": "020256680001___20120613.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025668&Seq=001&Type=9"
+        },
+        {
+            "title": "020256680004___20120613.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025668&Seq=002&Type=8"
+        },
+        {
+            "title": "020256680003___20120613.PDF",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025668&Seq=001&Type=8"
         }
     ]
 }

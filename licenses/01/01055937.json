@@ -1,6 +1,7 @@
 {
     "code": "01055937",
-    "time": "2015-06-25 04:54:47",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01055937",
+    "time": "2015-08-23 03:57:22",
     "許可證字號": "衛署藥製字第055937號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -67,17 +68,25 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01055937&Seq=361&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055937&Seq=361&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 華興-可骨華仿單-1000525___20110608.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01055937&Seq=001&Type=9"
+            "title": "華興-可骨華仿單-1000525___20110608.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055937&Seq=001&Type=9"
         },
         {
-            "title": "外盒 可骨華標籤___20110608.pdf 可骨華外盒___20110608.pdf Covaxin鋁箔___20110608.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01055937&Seq=003&Type=8"
+            "title": "可骨華標籤___20110608.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055937&Seq=003&Type=8"
+        },
+        {
+            "title": "可骨華外盒___20110608.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055937&Seq=002&Type=8"
+        },
+        {
+            "title": "Covaxin鋁箔___20110608.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055937&Seq=001&Type=8"
         }
     ]
 }

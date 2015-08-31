@@ -1,6 +1,7 @@
 {
     "code": "01055028",
-    "time": "2015-08-28 04:54:34",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01055028",
+    "time": "2015-08-24 12:54:43",
     "許可證字號": "衛署藥製字第055028號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -58,17 +59,33 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01055028&Seq=359&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055028&Seq=359&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010550280001-104-06-05.pdf 010550280002___20100910.jpg 010550280001___20100910.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01055028&Seq=003&Type=9"
+            "title": "010550280001-104-06-05.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055028&Seq=003&Type=9"
         },
         {
-            "title": "外盒 010550280002-104-06-05.pdf 010550280002___20100910.jpg 010550280001___20100910.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01055028&Seq=003&Type=8"
+            "title": "010550280002___20100910.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055028&Seq=002&Type=9"
+        },
+        {
+            "title": "010550280001___20100910.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055028&Seq=001&Type=9"
+        },
+        {
+            "title": "010550280002-104-06-05.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055028&Seq=003&Type=8"
+        },
+        {
+            "title": "010550280002___20100910.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055028&Seq=002&Type=8"
+        },
+        {
+            "title": "010550280001___20100910.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055028&Seq=001&Type=8"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "02021173",
-    "time": "2015-06-25 16:16:26",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021173",
+    "time": "2015-08-24 01:26:53",
     "許可證字號": "衛署藥輸字第021173號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -61,12 +62,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 020211730001___20121109.pdf 020211730001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02021173&Seq=002&Type=9"
+            "title": "020211730001___20121109.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021173&Seq=002&Type=9"
         },
         {
-            "title": "外盒 020211730003___20121109.pdf 020211730002___20121109.jpg 020211730001___20121109.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02021173&Seq=003&Type=8"
+            "title": "020211730001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021173&Seq=001&Type=9"
+        },
+        {
+            "title": "020211730003___20121109.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021173&Seq=003&Type=8"
+        },
+        {
+            "title": "020211730002___20121109.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021173&Seq=002&Type=8"
+        },
+        {
+            "title": "020211730001___20121109.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021173&Seq=001&Type=8"
         }
     ]
 }

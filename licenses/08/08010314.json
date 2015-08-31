@@ -1,6 +1,7 @@
 {
     "code": "08010314",
-    "time": "2015-06-23 09:10:43",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08010314",
+    "time": "2015-08-23 18:19:11",
     "許可證字號": "衛署粧輸字第010314號",
     "註銷狀態": "已註銷",
     "註銷日期": "101\/11\/16",
@@ -45,8 +46,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 080103140004.jpg 080103140003.jpg 080103140002.jpg 080103140001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=08010314&Seq=004&Type=9"
+            "title": "080103140004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010314&Seq=004&Type=9"
+        },
+        {
+            "title": "080103140003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010314&Seq=003&Type=9"
+        },
+        {
+            "title": "080103140002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010314&Seq=002&Type=9"
+        },
+        {
+            "title": "080103140001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010314&Seq=001&Type=9"
         }
     ]
 }

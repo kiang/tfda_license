@@ -1,6 +1,7 @@
 {
     "code": "56026017",
-    "time": "2015-08-28 05:12:08",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026017",
+    "time": "2015-08-24 13:16:34",
     "許可證字號": "衛部醫器輸字第026017號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -39,17 +40,31 @@
     },
     "CCC號列": "90181300007 磁性共振影像器具Magnetic resonance imaging apparatus",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 560260170001-104-02-12.pdf 560260170001-103-10-28.pdf 060260170001-103-04-18.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=56026017&Seq=003&Type=9"
+            "title": "560260170001-104-02-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026017&Seq=003&Type=9"
         },
         {
-            "title": "外盒 560260170001-104-02-12.pdf 560260170001-103-10-28.pdf 060260170002-103-04-18.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=56026017&Seq=003&Type=8"
+            "title": "560260170001-103-10-28.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026017&Seq=002&Type=9"
+        },
+        {
+            "title": "060260170001-103-04-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026017&Seq=001&Type=9"
+        },
+        {
+            "title": "560260170001-104-02-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026017&Seq=003&Type=8"
+        },
+        {
+            "title": "560260170001-103-10-28.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026017&Seq=002&Type=8"
+        },
+        {
+            "title": "060260170002-103-04-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026017&Seq=001&Type=8"
         }
     ]
 }

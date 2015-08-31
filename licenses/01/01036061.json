@@ -1,6 +1,7 @@
 {
     "code": "01036061",
-    "time": "2015-06-25 01:50:39",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01036061",
+    "time": "2015-08-23 00:28:15",
     "許可證字號": "衛署藥製字第036061號",
     "註銷狀態": "已註銷",
     "註銷日期": "102\/07\/11",
@@ -56,13 +57,17 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01036061&Seq=300&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036061&Seq=300&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010360610002.jpg 010360610001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01036061&Seq=002&Type=9"
+            "title": "010360610002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036061&Seq=002&Type=9"
+        },
+        {
+            "title": "010360610001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036061&Seq=001&Type=9"
         }
     ]
 }

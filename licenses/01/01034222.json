@@ -1,6 +1,7 @@
 {
     "code": "01034222",
-    "time": "2015-06-25 00:33:30",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01034222",
+    "time": "2015-08-23 00:45:35",
     "許可證字號": "衛署藥製字第034222號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,12 +46,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 馬蓋先02___20120320.PDF 馬蓋先01___20120320.PDF 010342220001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01034222&Seq=003&Type=9"
+            "title": "馬蓋先02___20120320.PDF",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034222&Seq=003&Type=9"
         },
         {
-            "title": "外盒 馬蓋先02___20120320.PDF 馬蓋先01___20120320.PDF",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01034222&Seq=002&Type=8"
+            "title": "馬蓋先01___20120320.PDF",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034222&Seq=002&Type=9"
+        },
+        {
+            "title": "010342220001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034222&Seq=001&Type=9"
+        },
+        {
+            "title": "馬蓋先02___20120320.PDF",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034222&Seq=002&Type=8"
+        },
+        {
+            "title": "馬蓋先01___20120320.PDF",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034222&Seq=001&Type=8"
         }
     ]
 }

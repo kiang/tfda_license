@@ -1,6 +1,7 @@
 {
     "code": "05003675",
-    "time": "2015-06-24 01:56:29",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05003675",
+    "time": "2015-08-22 07:34:00",
     "許可證字號": "衛署醫器製字第003675號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,8 +14,8 @@
     "通關簽審文件編號": "",
     "中文品名": "欣安得血糖測試片",
     "英文品名": "GlucoSure Voice Blood Glucose Test Strip",
-    "效能": "本產品用於量測指尖、手掌及手臂採集的全血血糖值，其他血液如靜脈血、動脈全血、新生兒全血、血漿或血清等並不適用。本產品需搭配佳盛時語音血糖測試儀進行量測。",
-    "醫器規格": "AB-101(25片盒裝、30片盒裝、25片x2罐盒裝及50片盒裝)。以下空白",
+    "效能": "本產品用於量測指尖、手掌及手臂採集的全血血糖值，其他血液如靜脈血、動脈全血、新生兒全血、血漿或血清等並不適用。本產品需搭配佳盛時語音血糖測試儀進行量測。\r\n仿單、標籤變更為：詳如中文仿單核定本(原102年2月27日核定之仿單標籤核定本予以回收作廢)。",
+    "醫器規格": "AB-101(25片盒裝、30片盒裝、25片x2罐盒裝及50片盒裝)。新增規格：單片鋁箔包10片裝\/盒、單片鋁箔包25片裝\/盒、單片鋁箔包30片裝\/盒、單片鋁箔包50片裝\/盒。以下空白。",
     "劑型": "",
     "包裝": "",
     "醫器主類別一": "A臨床化學及臨床毒理學",
@@ -38,17 +39,27 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 050036750001___20121012.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=05003675&Seq=001&Type=9"
+            "title": "050036750004-104-08-20.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003675&Seq=002&Type=9"
         },
         {
-            "title": "外盒 050036750003___20121012.pdf 050036750002___20121012.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=05003675&Seq=002&Type=8"
+            "title": "050036750001___20121012.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003675&Seq=001&Type=9"
+        },
+        {
+            "title": "050036750005-104-08-20.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003675&Seq=003&Type=8"
+        },
+        {
+            "title": "050036750003___20121012.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003675&Seq=002&Type=8"
+        },
+        {
+            "title": "050036750002___20121012.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003675&Seq=001&Type=8"
         }
     ]
 }

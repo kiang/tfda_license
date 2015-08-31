@@ -1,6 +1,7 @@
 {
     "code": "06019643",
-    "time": "2015-06-24 06:32:56",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019643",
+    "time": "2015-08-22 12:57:39",
     "許可證字號": "衛署醫器輸字第019643號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,17 +39,27 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 060019643-099-03-09.pdf 060196430001.98.02.17-103-01-13.pdf 060196430001-102-10-09.pdf 06019643___20111122.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06019643&Seq=004&Type=9"
+            "title": "060019643-099-03-09.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019643&Seq=004&Type=9"
         },
         {
-            "title": "外盒 060019643-099-03-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06019643&Seq=001&Type=8"
+            "title": "060196430001.98.02.17-103-01-13.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019643&Seq=003&Type=9"
+        },
+        {
+            "title": "060196430001-102-10-09.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019643&Seq=002&Type=9"
+        },
+        {
+            "title": "06019643___20111122.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019643&Seq=001&Type=9"
+        },
+        {
+            "title": "060019643-099-03-09.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019643&Seq=001&Type=8"
         }
     ]
 }

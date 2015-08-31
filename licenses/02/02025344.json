@@ -1,6 +1,7 @@
 {
     "code": "02025344",
-    "time": "2015-06-25 18:31:35",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025344",
+    "time": "2015-08-23 12:23:39",
     "許可證字號": "衛署藥輸字第025344號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -42,13 +43,15 @@
             "製程": "總公司"
         }
     ],
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "外盒 020253440002___20110221.jpg 020253440001___20110221.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02025344&Seq=002&Type=8"
+            "title": "020253440002___20110221.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025344&Seq=002&Type=8"
+        },
+        {
+            "title": "020253440001___20110221.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025344&Seq=001&Type=8"
         }
     ]
 }

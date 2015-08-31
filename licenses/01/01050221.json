@@ -1,6 +1,7 @@
 {
     "code": "01050221",
-    "time": "2015-06-25 05:44:28",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01050221",
+    "time": "2015-08-23 02:34:59",
     "許可證字號": "衛署藥製字第050221號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -77,12 +78,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 001-102-08-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01050221&Seq=001&Type=9"
+            "title": "001-102-08-09.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050221&Seq=001&Type=9"
         },
         {
-            "title": "外盒 004-102-08-09.pdf 003-102-08-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01050221&Seq=002&Type=8"
+            "title": "004-102-08-09.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050221&Seq=002&Type=8"
+        },
+        {
+            "title": "003-102-08-09.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050221&Seq=001&Type=8"
         }
     ]
 }

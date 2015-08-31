@@ -1,6 +1,7 @@
 {
     "code": "06020176",
-    "time": "2015-07-24 06:29:45",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06020176",
+    "time": "2015-08-23 23:59:58",
     "許可證字號": "衛署醫器輸字第020176號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,17 +39,23 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 060201760002-103-04-24.pdf 仿單稿___20130410.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06020176&Seq=003&Type=9"
+            "title": "060201760002-103-04-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06020176&Seq=003&Type=9"
         },
         {
-            "title": "外盒 060201760001-103-04-24.pdf 彩圖___20130410.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06020176&Seq=003&Type=8"
+            "title": "仿單稿___20130410.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06020176&Seq=002&Type=9"
+        },
+        {
+            "title": "060201760001-103-04-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06020176&Seq=003&Type=8"
+        },
+        {
+            "title": "彩圖___20130410.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06020176&Seq=002&Type=8"
         }
     ]
 }

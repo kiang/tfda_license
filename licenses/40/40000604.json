@@ -1,6 +1,7 @@
 {
     "code": "40000604",
-    "time": "2015-06-22 02:01:30",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=40000604",
+    "time": "2015-08-23 22:22:36",
     "許可證字號": "衛署粧陸輸字第000604號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -85,12 +86,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 400006040002___20100524.jpg 400006040001___20100524.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=40000604&Seq=002&Type=9"
+            "title": "400006040002___20100524.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000604&Seq=002&Type=9"
         },
         {
-            "title": "外盒 400006040001-103-12-15.pdf 400006040002___20100524.jpg 400006040001___20100524.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=40000604&Seq=003&Type=8"
+            "title": "400006040001___20100524.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000604&Seq=001&Type=9"
+        },
+        {
+            "title": "400006040001-103-12-15.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000604&Seq=003&Type=8"
+        },
+        {
+            "title": "400006040002___20100524.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000604&Seq=002&Type=8"
+        },
+        {
+            "title": "400006040001___20100524.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000604&Seq=001&Type=8"
         }
     ]
 }

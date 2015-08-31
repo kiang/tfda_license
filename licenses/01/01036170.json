@@ -1,6 +1,7 @@
 {
     "code": "01036170",
-    "time": "2015-06-25 01:52:40",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01036170",
+    "time": "2015-08-23 00:12:29",
     "許可證字號": "衛署藥製字第036170號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -54,12 +55,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 Emelime_INS_201301___20130205.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01036170&Seq=001&Type=9"
+            "title": "Emelime_INS_201301___20130205.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036170&Seq=001&Type=9"
         },
         {
-            "title": "外盒 Emelime_PL 201301___20130205.pdf Emelime_PC 201301___20130205.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01036170&Seq=002&Type=8"
+            "title": "Emelime_PL 201301___20130205.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036170&Seq=002&Type=8"
+        },
+        {
+            "title": "Emelime_PC 201301___20130205.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036170&Seq=001&Type=8"
         }
     ]
 }

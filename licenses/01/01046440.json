@@ -1,6 +1,7 @@
 {
     "code": "01046440",
-    "time": "2015-06-25 03:35:44",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01046440",
+    "time": "2015-08-23 02:23:38",
     "許可證字號": "衛署藥製字第046440號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -64,13 +65,21 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01046440&Seq=417&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046440&Seq=417&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010464400003.jpg 010464400002.jpg 010464400001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01046440&Seq=003&Type=9"
+            "title": "010464400003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046440&Seq=003&Type=9"
+        },
+        {
+            "title": "010464400002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046440&Seq=002&Type=9"
+        },
+        {
+            "title": "010464400001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046440&Seq=001&Type=9"
         }
     ]
 }

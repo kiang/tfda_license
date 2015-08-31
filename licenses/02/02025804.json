@@ -1,6 +1,7 @@
 {
     "code": "02025804",
-    "time": "2015-06-25 19:06:24",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025804",
+    "time": "2015-08-23 12:45:26",
     "許可證字號": "衛署藥輸字第025804號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,12 +46,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 english leaflet___20120918.pdf chinese leaflet___20120918.PDF",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02025804&Seq=002&Type=9"
+            "title": "english leaflet___20120918.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025804&Seq=002&Type=9"
         },
         {
-            "title": "外盒 chinese label___20120918.jpg carton___20120918.pdf blister___20120918.PDF",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02025804&Seq=003&Type=8"
+            "title": "chinese leaflet___20120918.PDF",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025804&Seq=001&Type=9"
+        },
+        {
+            "title": "chinese label___20120918.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025804&Seq=003&Type=8"
+        },
+        {
+            "title": "carton___20120918.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025804&Seq=002&Type=8"
+        },
+        {
+            "title": "blister___20120918.PDF",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025804&Seq=001&Type=8"
         }
     ]
 }

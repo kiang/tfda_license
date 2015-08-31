@@ -1,6 +1,7 @@
 {
     "code": "01056311",
-    "time": "2015-06-25 05:47:55",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01056311",
+    "time": "2015-08-23 02:55:40",
     "許可證字號": "衛署藥製字第056311號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -21,7 +22,6 @@
     "主成分略述": "NICORANDIL",
     "限制項目": [
         "01國產",
-        "1G不得製造",
         "24監視期滿學名藥",
         "61完成BE試驗"
     ],
@@ -48,12 +48,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 世達_脈可定錠 仿單___20110909.TIF",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01056311&Seq=001&Type=9"
+            "title": "世達_脈可定錠 仿單___20110909.TIF",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056311&Seq=001&Type=9"
         },
         {
-            "title": "外盒 世達_脈可定錠 鋁箔___20110909.bmp 世達_脈可定錠 支盒___20110909.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01056311&Seq=002&Type=8"
+            "title": "世達_脈可定錠 鋁箔___20110909.bmp",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056311&Seq=002&Type=8"
+        },
+        {
+            "title": "世達_脈可定錠 支盒___20110909.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056311&Seq=001&Type=8"
         }
     ]
 }

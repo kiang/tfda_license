@@ -1,6 +1,7 @@
 {
     "code": "12003055",
-    "time": "2015-08-28 03:31:46",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12003055",
+    "time": "2015-08-24 11:27:22",
     "許可證字號": "內衛藥製字第003055號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,8 +46,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 內衛藥製字第003055號-103-09-30.pdf 120030550002.doc 120030550001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=12003055&Seq=003&Type=9"
+            "title": "內衛藥製字第003055號-103-09-30.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12003055&Seq=003&Type=9"
+        },
+        {
+            "title": "120030550002.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12003055&Seq=002&Type=9"
+        },
+        {
+            "title": "120030550001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12003055&Seq=001&Type=9"
         }
     ]
 }

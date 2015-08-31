@@ -1,6 +1,7 @@
 {
     "code": "22000011",
-    "time": "2015-06-24 13:07:49",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=22000011",
+    "time": "2015-08-23 13:59:23",
     "許可證字號": "罕菌疫輸字第000011號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -76,12 +77,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 中文仿單___20130122.pdf 220000110002___20121204.pdf 220000110001___20121204.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=22000011&Seq=003&Type=9"
+            "title": "中文仿單___20130122.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=22000011&Seq=003&Type=9"
         },
         {
-            "title": "外盒 外盒標籤___20130122.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=22000011&Seq=001&Type=8"
+            "title": "220000110002___20121204.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=22000011&Seq=002&Type=9"
+        },
+        {
+            "title": "220000110001___20121204.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=22000011&Seq=001&Type=9"
+        },
+        {
+            "title": "外盒標籤___20130122.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=22000011&Seq=001&Type=8"
         }
     ]
 }

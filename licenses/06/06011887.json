@@ -1,6 +1,7 @@
 {
     "code": "06011887",
-    "time": "2015-06-23 17:52:01",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06011887",
+    "time": "2015-08-22 12:19:55",
     "許可證字號": "衛署醫器輸字第011887號",
     "註銷狀態": "已註銷",
     "註銷日期": "101\/10\/29",
@@ -38,17 +39,19 @@
     },
     "CCC號列": "90189080006 其他第９０１８節所屬之貨品Other articles of heading 90.18",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 060118870001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06011887&Seq=001&Type=9"
+            "title": "060118870001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011887&Seq=001&Type=9"
         },
         {
-            "title": "外盒 060118870002.jpg 060118870001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06011887&Seq=002&Type=8"
+            "title": "060118870002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011887&Seq=002&Type=8"
+        },
+        {
+            "title": "060118870001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011887&Seq=001&Type=8"
         }
     ]
 }

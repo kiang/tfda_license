@@ -1,6 +1,7 @@
 {
     "code": "52026336",
-    "time": "2015-06-24 15:16:25",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026336",
+    "time": "2015-08-22 18:22:29",
     "許可證字號": "衛部藥輸字第026336號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,6 +35,15 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "F030045000  FRESENIUS KABI AUSTRIA GMBH",
+            "製造廠廠址": "AM GEWERBEPARK 6, 8402 WERNDORF, AUSTRIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRIA",
+            "製程": "包裝"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -46,12 +56,28 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 Rocuronium_中文仿單-103-10-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=52026336&Seq=001&Type=9"
+            "title": "Rocuronium_中文仿單-103-10-15.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026336&Seq=001&Type=9"
         },
         {
-            "title": "外盒 Rocuronium_label-5ml-103-10-15.pdf Rocuronium_label-2,5ml-103-10-15.pdf Rocuronium_carton-10x5ml_FC-103-10-15.pdf Rocuronium_carton-10x2,5ml_FC-103-10-15.pdf Rocuronium_中文標籤-103-10-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=52026336&Seq=005&Type=8"
+            "title": "Rocuronium_label-5ml-103-10-15.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026336&Seq=005&Type=8"
+        },
+        {
+            "title": "Rocuronium_label-2,5ml-103-10-15.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026336&Seq=004&Type=8"
+        },
+        {
+            "title": "Rocuronium_carton-10x5ml_FC-103-10-15.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026336&Seq=003&Type=8"
+        },
+        {
+            "title": "Rocuronium_carton-10x2,5ml_FC-103-10-15.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026336&Seq=002&Type=8"
+        },
+        {
+            "title": "Rocuronium_中文標籤-103-10-15.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026336&Seq=001&Type=8"
         }
     ]
 }

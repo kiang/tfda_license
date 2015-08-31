@@ -1,6 +1,7 @@
 {
     "code": "52026131",
-    "time": "2015-06-22 01:06:19",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026131",
+    "time": "2015-08-23 13:46:12",
     "許可證字號": "衛部藥輸字第026131號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -25,8 +26,8 @@
     "申請商名稱": "1206501100  博士倫股份有限公司",
     "申請商地址": "台北市大安區市民大道四段１０２號１１樓",
     "主製造廠": {
-        "製造廠名稱": "F470054000  DR. GERHARD MANN CHEM-PHARM FABRIK GMBH",
-        "製造廠廠址": "BRUNSBUTTELER DAMM 165-173 13581 BERLIN GERMANY",
+        "製造廠名稱": "F470054100  DR. GERHARD MANN. CHEM.-PHARM. FABRIK GMBH",
+        "製造廠廠址": "BRUNSBUTTELER DAMM 165-173 D-13581, BERLIN, FEDERAL REPUBLIC OF GERMANY",
         "製造廠公司地址": "",
         "製造廠國別": "GERMANY",
         "製程": ""
@@ -54,12 +55,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 020261310001-104-02-26.pdf 020261310001-102-11-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=52026131&Seq=002&Type=9"
+            "title": "020261310001-104-02-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026131&Seq=002&Type=9"
         },
         {
-            "title": "外盒 560261310003-104-02-26.pdf 560261310002-104-02-26.pdf 020261310001-102-11-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=52026131&Seq=003&Type=8"
+            "title": "020261310001-102-11-27.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026131&Seq=001&Type=9"
+        },
+        {
+            "title": "560261310003-104-02-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026131&Seq=003&Type=8"
+        },
+        {
+            "title": "560261310002-104-02-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026131&Seq=002&Type=8"
+        },
+        {
+            "title": "020261310001-102-11-27.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026131&Seq=001&Type=8"
         }
     ]
 }

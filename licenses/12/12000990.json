@@ -1,6 +1,7 @@
 {
     "code": "12000990",
-    "time": "2015-06-24 10:28:03",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12000990",
+    "time": "2015-08-22 17:14:42",
     "許可證字號": "內衛藥製字第000990號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -57,21 +58,33 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=12000990&Seq=440&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000990&Seq=440&Type=10"
         },
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=12000990&Seq=439&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000990&Seq=439&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 120009900004.jpg 120009900003.jpg 120009900002.jpg 120009900001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=12000990&Seq=004&Type=9"
+            "title": "120009900004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000990&Seq=004&Type=9"
         },
         {
-            "title": "外盒 硫酸奎尼丁PTP包裝電子檔(2015.01.20)-104-01-22.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=12000990&Seq=001&Type=8"
+            "title": "120009900003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000990&Seq=003&Type=9"
+        },
+        {
+            "title": "120009900002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000990&Seq=002&Type=9"
+        },
+        {
+            "title": "120009900001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000990&Seq=001&Type=9"
+        },
+        {
+            "title": "硫酸奎尼丁PTP包裝電子檔(2015.01.20)-104-01-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000990&Seq=001&Type=8"
         }
     ]
 }

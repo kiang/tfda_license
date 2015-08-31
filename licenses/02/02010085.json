@@ -1,6 +1,7 @@
 {
     "code": "02010085",
-    "time": "2015-06-25 08:18:27",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02010085",
+    "time": "2015-08-23 06:09:08",
     "許可證字號": "衛署藥輸字第010085號",
     "註銷狀態": "已註銷",
     "註銷日期": "104\/01\/16",
@@ -45,8 +46,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 020100850002___20120515.jpg 020100850002.jpg 020100850001___20120515.jpg 020100850001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02010085&Seq=004&Type=9"
+            "title": "020100850002___20120515.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02010085&Seq=004&Type=9"
+        },
+        {
+            "title": "020100850002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02010085&Seq=003&Type=9"
+        },
+        {
+            "title": "020100850001___20120515.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02010085&Seq=002&Type=9"
+        },
+        {
+            "title": "020100850001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02010085&Seq=001&Type=9"
         }
     ]
 }

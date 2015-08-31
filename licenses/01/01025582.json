@@ -1,6 +1,7 @@
 {
     "code": "01025582",
-    "time": "2015-06-24 22:06:04",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01025582",
+    "time": "2015-08-22 21:48:13",
     "許可證字號": "衛署藥製字第025582號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,8 +21,7 @@
     "管制藥品分類級別": "",
     "主成分略述": "EPRAZINONE HCL",
     "限制項目": [
-        "01國產",
-        "1G不得製造"
+        "01國產"
     ],
     "申請商名稱": "1203612200  華興化學製藥廠股份有限公司",
     "申請商地址": "彰化縣田尾鄉饒平村四維巷１２８號",
@@ -57,17 +57,21 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01025582&Seq=156&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025582&Seq=156&Type=10"
         },
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01025582&Seq=155&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025582&Seq=155&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010255820002.jpg 010255820001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01025582&Seq=002&Type=9"
+            "title": "010255820002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025582&Seq=002&Type=9"
+        },
+        {
+            "title": "010255820001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025582&Seq=001&Type=9"
         }
     ]
 }

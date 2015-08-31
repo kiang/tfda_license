@@ -1,6 +1,7 @@
 {
     "code": "52026201",
-    "time": "2015-06-24 15:00:18",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026201",
+    "time": "2015-08-23 05:37:22",
     "許可證字號": "衛部藥輸字第026201號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -46,12 +47,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 PI_02026201_page2-103-03-03.pdf PI_02026201_page1-103-03-03.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=52026201&Seq=002&Type=9"
+            "title": "PI_02026201_page2-103-03-03.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026201&Seq=002&Type=9"
         },
         {
-            "title": "外盒 label_02026201_200mL-103-03-03.pdf label_02026201_50mL-103-03-03.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=52026201&Seq=002&Type=8"
+            "title": "PI_02026201_page1-103-03-03.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026201&Seq=001&Type=9"
+        },
+        {
+            "title": "label_02026201_200mL-103-03-03.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026201&Seq=002&Type=8"
+        },
+        {
+            "title": "label_02026201_50mL-103-03-03.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026201&Seq=001&Type=8"
         }
     ]
 }

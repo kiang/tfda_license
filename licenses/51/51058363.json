@@ -1,6 +1,7 @@
 {
     "code": "51058363",
-    "time": "2015-06-24 14:05:41",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058363",
+    "time": "2015-08-22 16:57:07",
     "許可證字號": "衛部藥製字第058363號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,12 +46,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010583630003-104-02-09.pdf 010583630002-103-11-04.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=51058363&Seq=002&Type=9"
+            "title": "010583630003-104-02-09.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058363&Seq=002&Type=9"
         },
         {
-            "title": "外盒 010583630002-104-02-09.pdf 010583630001-104-02-09.pdf 010583630001-103-11-04.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=51058363&Seq=003&Type=8"
+            "title": "010583630002-103-11-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058363&Seq=001&Type=9"
+        },
+        {
+            "title": "010583630002-104-02-09.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058363&Seq=003&Type=8"
+        },
+        {
+            "title": "010583630001-104-02-09.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058363&Seq=002&Type=8"
+        },
+        {
+            "title": "010583630001-103-11-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058363&Seq=001&Type=8"
         }
     ]
 }

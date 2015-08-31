@@ -1,5 +1,7 @@
 {
     "code": "06021891",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021891",
+    "time": "2015-08-22 15:18:25",
     "許可證字號": "衛署醫器輸字第021891號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -37,17 +39,19 @@
     },
     "CCC號列": "90211010003 整形用具Orthopaedic appliances",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 06021891___20120604.pdf 06021891___20110510.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06021891&Seq=002&Type=9"
+            "title": "06021891___20120604.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021891&Seq=002&Type=9"
         },
         {
-            "title": "外盒 060218910001___20110511.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06021891&Seq=001&Type=8"
+            "title": "06021891___20110510.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021891&Seq=001&Type=9"
+        },
+        {
+            "title": "060218910001___20110511.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021891&Seq=001&Type=8"
         }
     ]
 }

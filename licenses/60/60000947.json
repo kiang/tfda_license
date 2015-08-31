@@ -1,6 +1,7 @@
 {
     "code": "60000947",
-    "time": "2015-06-24 14:23:26",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60000947",
+    "time": "2015-08-23 13:28:26",
     "許可證字號": "衛部菌疫輸字第000947號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -62,12 +63,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 100009470002_English PI-102-12-18.pdf 100009470001_Chinese PI-102-12-18.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=60000947&Seq=002&Type=9"
+            "title": "100009470002_English PI-102-12-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000947&Seq=002&Type=9"
         },
         {
-            "title": "外盒 100009470005_LAB-102-12-18.pdf 100009470004_CTN-102-12-18.pdf 100009470003_Chinese sticker-102-12-18.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=60000947&Seq=003&Type=8"
+            "title": "100009470001_Chinese PI-102-12-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000947&Seq=001&Type=9"
+        },
+        {
+            "title": "100009470005_LAB-102-12-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000947&Seq=003&Type=8"
+        },
+        {
+            "title": "100009470004_CTN-102-12-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000947&Seq=002&Type=8"
+        },
+        {
+            "title": "100009470003_Chinese sticker-102-12-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000947&Seq=001&Type=8"
         }
     ]
 }

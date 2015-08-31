@@ -1,6 +1,7 @@
 {
     "code": "20000027",
-    "time": "2015-06-24 14:47:38",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=20000027",
+    "time": "2015-08-22 21:44:14",
     "許可證字號": "衛署罕藥輸字第000027號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -56,8 +57,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 020000270002-102-05-15.pdf 020000270001-102-05-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=20000027&Seq=002&Type=9"
+            "title": "020000270002-102-05-15.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000027&Seq=002&Type=9"
+        },
+        {
+            "title": "020000270001-102-05-15.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000027&Seq=001&Type=9"
         }
     ]
 }

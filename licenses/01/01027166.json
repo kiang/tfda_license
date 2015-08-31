@@ -1,6 +1,7 @@
 {
     "code": "01027166",
-    "time": "2015-06-24 22:13:11",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01027166",
+    "time": "2015-08-22 22:10:49",
     "許可證字號": "衛署藥製字第027166號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,7 +39,7 @@
             "成分類別": "主成分",
             "成分代碼": "0812201410",
             "成分名稱": "ECONAZOLE NITRATE",
-            "含量描述": "10",
+            "含量描述": "",
             "含量": "10.0000000000",
             "單位": "MG"
         },
@@ -46,19 +47,27 @@
             "成分類別": "主成分",
             "成分代碼": "6804001610",
             "成分名稱": "TRIAMCINOLONE ACETONIDE",
-            "含量描述": "1",
+            "含量描述": "",
             "含量": "1.0000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010271660001___20120716.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01027166&Seq=001&Type=9"
+            "title": "010271660001___20120716.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027166&Seq=001&Type=9"
         },
         {
-            "title": "外盒 010271660004___20120716.jpg 010271660003___20120716.jpg 010271660002___20120716.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01027166&Seq=003&Type=8"
+            "title": "010271660004___20120716.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027166&Seq=003&Type=8"
+        },
+        {
+            "title": "010271660003___20120716.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027166&Seq=002&Type=8"
+        },
+        {
+            "title": "010271660002___20120716.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027166&Seq=001&Type=8"
         }
     ]
 }

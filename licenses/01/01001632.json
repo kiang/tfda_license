@@ -1,6 +1,7 @@
 {
     "code": "01001632",
-    "time": "2015-06-24 17:04:06",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01001632",
+    "time": "2015-08-22 19:25:56",
     "許可證字號": "衛署藥製字第001632號",
     "註銷狀態": "已註銷",
     "註銷日期": "99\/02\/08",
@@ -56,17 +57,33 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01001632&Seq=008&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001632&Seq=008&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010016320003.jpg 010016320002.jpg 010016320001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01001632&Seq=003&Type=9"
+            "title": "010016320003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001632&Seq=003&Type=9"
         },
         {
-            "title": "外盒 010016320003.jpg 010016320002.jpg 010016320001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01001632&Seq=003&Type=8"
+            "title": "010016320002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001632&Seq=002&Type=9"
+        },
+        {
+            "title": "010016320001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001632&Seq=001&Type=9"
+        },
+        {
+            "title": "010016320003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001632&Seq=003&Type=8"
+        },
+        {
+            "title": "010016320002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001632&Seq=002&Type=8"
+        },
+        {
+            "title": "010016320001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001632&Seq=001&Type=8"
         }
     ]
 }

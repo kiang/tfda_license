@@ -1,6 +1,7 @@
 {
     "code": "07004339",
-    "time": "2015-06-23 01:59:28",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07004339",
+    "time": "2015-08-22 04:17:03",
     "許可證字號": "衛署粧製字第004339號",
     "註銷狀態": "已註銷",
     "註銷日期": "103\/04\/17",
@@ -45,12 +46,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 070043390001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=07004339&Seq=001&Type=9"
+            "title": "070043390001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004339&Seq=001&Type=9"
         },
         {
-            "title": "外盒 070043390003.jpg 070043390002.jpg 070043390001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=07004339&Seq=003&Type=8"
+            "title": "070043390003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004339&Seq=003&Type=8"
+        },
+        {
+            "title": "070043390002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004339&Seq=002&Type=8"
+        },
+        {
+            "title": "070043390001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004339&Seq=001&Type=8"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "05003434",
-    "time": "2015-08-28 05:03:52",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05003434",
+    "time": "2015-08-24 13:07:11",
     "許可證字號": "衛署醫器製字第003434號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,17 +39,35 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 050034340001-104-06-01.pdf 050034340001___20120319.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=05003434&Seq=002&Type=9"
+            "title": "050034340001-104-06-01.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003434&Seq=002&Type=9"
         },
         {
-            "title": "外盒 050034340001-104-06-01.pdf 050034340006___20120319.pdf 050034340005___20120319.pdf 050034340004___20120319.pdf 050034340002___20120319.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=05003434&Seq=005&Type=8"
+            "title": "050034340001___20120319.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003434&Seq=001&Type=9"
+        },
+        {
+            "title": "050034340001-104-06-01.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003434&Seq=005&Type=8"
+        },
+        {
+            "title": "050034340006___20120319.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003434&Seq=004&Type=8"
+        },
+        {
+            "title": "050034340005___20120319.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003434&Seq=003&Type=8"
+        },
+        {
+            "title": "050034340004___20120319.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003434&Seq=002&Type=8"
+        },
+        {
+            "title": "050034340002___20120319.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003434&Seq=001&Type=8"
         }
     ]
 }

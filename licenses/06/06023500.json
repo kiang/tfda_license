@@ -1,6 +1,7 @@
 {
     "code": "06023500",
-    "time": "2015-06-24 07:44:54",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023500",
+    "time": "2015-08-22 14:38:25",
     "許可證字號": "衛署醫器輸字第023500號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,7 +15,7 @@
     "中文品名": "“西門子”診斷用超音波探頭",
     "英文品名": "“SIEMENS” Curved Array Transducer",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "6C1HD,以下空白。\r\n增加規格：8C3HD，以下空白。",
+    "醫器規格": "6C1HD,以下空白。\r\n增加規格：8C3HD，以下空白。增加規格：12L4、Z6Ms。",
     "劑型": "",
     "包裝": "",
     "醫器主類別一": "P放射學科用裝置",
@@ -39,17 +40,27 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 060235000001-104-01-23.pdf 060235000001___20120824.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06023500&Seq=002&Type=9"
+            "title": "中文仿單-104-08-05.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023500&Seq=003&Type=9"
         },
         {
-            "title": "外盒 060235000001-104-01-23.pdf 060235000002___20120824.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06023500&Seq=002&Type=8"
+            "title": "060235000001-104-01-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023500&Seq=002&Type=9"
+        },
+        {
+            "title": "060235000001___20120824.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023500&Seq=001&Type=9"
+        },
+        {
+            "title": "060235000001-104-01-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023500&Seq=002&Type=8"
+        },
+        {
+            "title": "060235000002___20120824.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023500&Seq=001&Type=8"
         }
     ]
 }

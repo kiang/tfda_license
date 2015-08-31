@@ -1,6 +1,7 @@
 {
     "code": "05003023",
-    "time": "2015-06-24 04:29:46",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05003023",
+    "time": "2015-08-22 07:01:42",
     "許可證字號": "衛署醫器製字第003023號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,17 +39,27 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 201307021655-102-07-02.pdf 201306041046.pdf2-102-06-04.pdf 201306041046-102-06-04.pdf 05003023001___20120924.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=05003023&Seq=005&Type=9"
+            "title": "201307021655-102-07-02.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003023&Seq=005&Type=9"
         },
         {
-            "title": "外盒 05003023001___20120924.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=05003023&Seq=001&Type=8"
+            "title": "201306041046.pdf2-102-06-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003023&Seq=004&Type=9"
+        },
+        {
+            "title": "201306041046-102-06-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003023&Seq=003&Type=9"
+        },
+        {
+            "title": "05003023001___20120924.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003023&Seq=001&Type=9"
+        },
+        {
+            "title": "05003023001___20120924.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003023&Seq=001&Type=8"
         }
     ]
 }

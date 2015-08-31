@@ -1,6 +1,7 @@
 {
     "code": "01020111",
-    "time": "2015-06-24 20:38:20",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01020111",
+    "time": "2015-08-22 20:33:10",
     "許可證字號": "衛署藥製字第020111號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -72,17 +73,29 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01020111&Seq=096&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020111&Seq=096&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 三速降仿單___20100514.jpg 010201110001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01020111&Seq=002&Type=9"
+            "title": "Trisdown FCT 仿單-104-05-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020111&Seq=003&Type=9"
         },
         {
-            "title": "外盒 三速降鋁箔___20100514.jpg 三速降標籤___20100514.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01020111&Seq=002&Type=8"
+            "title": "三速降仿單___20100514.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020111&Seq=002&Type=9"
+        },
+        {
+            "title": "010201110001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020111&Seq=001&Type=9"
+        },
+        {
+            "title": "三速降鋁箔___20100514.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020111&Seq=002&Type=8"
+        },
+        {
+            "title": "三速降標籤___20100514.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020111&Seq=001&Type=8"
         }
     ]
 }

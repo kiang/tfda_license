@@ -1,6 +1,7 @@
 {
     "code": "01020319",
-    "time": "2015-06-24 21:22:50",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01020319",
+    "time": "2015-08-22 21:15:51",
     "許可證字號": "衛署藥製字第020319號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -65,17 +66,25 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01020319&Seq=344&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020319&Seq=344&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 鼻樂膠囊仿單-103-11-11.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01020319&Seq=001&Type=9"
+            "title": "鼻樂膠囊仿單-103-11-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020319&Seq=001&Type=9"
         },
         {
-            "title": "外盒 鼻樂膠囊鋁箔-103-11-11.pdf 鼻樂膠囊外盒-103-11-11.pdf 鼻樂標籤-103-11-11.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01020319&Seq=003&Type=8"
+            "title": "鼻樂膠囊鋁箔-103-11-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020319&Seq=003&Type=8"
+        },
+        {
+            "title": "鼻樂膠囊外盒-103-11-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020319&Seq=002&Type=8"
+        },
+        {
+            "title": "鼻樂標籤-103-11-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020319&Seq=001&Type=8"
         }
     ]
 }

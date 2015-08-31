@@ -1,6 +1,7 @@
 {
     "code": "01018149",
-    "time": "2015-06-24 19:23:50",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01018149",
+    "time": "2015-08-22 20:54:34",
     "許可證字號": "衛署藥製字第018149號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -57,16 +58,56 @@
             "含量描述": "60",
             "含量": "60.0000000000",
             "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2808000100",
+            "成分名稱": "ACETAMINOPHEN (EQ TO PARACETAMOL)",
+            "含量描述": "",
+            "含量": "150.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2808600900",
+            "成分名稱": "ETHENZAMIDE (ETHOXYBENZAMIDE)",
+            "含量描述": "",
+            "含量": "247.5000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2820000450",
+            "成分名稱": "CAFFEINE ANHYDROUS",
+            "含量描述": "",
+            "含量": "60.0000000000",
+            "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 惠治痛錠說明書-103-12-05.pdf 010181490001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01018149&Seq=002&Type=9"
+            "title": "惠治痛錠說明書-103-12-05.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018149&Seq=002&Type=9"
         },
         {
-            "title": "外盒 惠治痛包裝盒標籤-甜橙口味-103-12-05.jpg 010181490003.jpg 010181490002.jpg 010181490001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01018149&Seq=004&Type=8"
+            "title": "010181490001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018149&Seq=001&Type=9"
+        },
+        {
+            "title": "惠治痛包裝盒標籤-甜橙口味-103-12-05.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018149&Seq=004&Type=8"
+        },
+        {
+            "title": "010181490003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018149&Seq=003&Type=8"
+        },
+        {
+            "title": "010181490002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018149&Seq=002&Type=8"
+        },
+        {
+            "title": "010181490001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018149&Seq=001&Type=8"
         }
     ]
 }

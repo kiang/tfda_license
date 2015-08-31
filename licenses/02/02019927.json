@@ -1,6 +1,7 @@
 {
     "code": "02019927",
-    "time": "2015-07-05 00:39:17",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019927",
+    "time": "2015-08-23 10:34:30",
     "許可證字號": "衛署藥輸字第019927號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -43,12 +44,39 @@
         }
     ],
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812601630",
+            "成分名稱": "PENICILLIN G POTASSIUM (BENZYLPENICILLIN POTASSIUM )",
+            "含量描述": "",
+            "含量": "1350.0000000000",
+            "單位": "U (UN"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5608001231",
+            "成分名稱": "STREPTOCOCCUS PYROGENE SU STRAIN TX WITH PN G POTASSIUM",
+            "含量描述": "(1.4MG)",
+            "含量": "0.0500000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "中文仿單_20130418-102-06-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019927&Seq=002&Type=9"
+        },
+        {
+            "title": "JPI_PIC-102-06-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019927&Seq=001&Type=9"
+        },
+        {
+            "title": "Picibanil 0.5KE_label-102-06-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019927&Seq=002&Type=8"
+        },
+        {
+            "title": "Picibanil 0.5KE_Box-102-06-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019927&Seq=001&Type=8"
+        }
     ]
 }

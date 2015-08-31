@@ -1,6 +1,7 @@
 {
     "code": "01041727",
-    "time": "2015-07-05 01:40:02",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01041727",
+    "time": "2015-08-23 01:32:50",
     "許可證字號": "衛署藥製字第041727號",
     "註銷狀態": "已註銷",
     "註銷日期": "104\/02\/02",
@@ -34,18 +35,35 @@
     "CCC號列": "30042000319 人用醫藥製劑，含頭孢子菌類抗生素者Medicaments, containing cephalosporins, for human use",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812300100",
+            "成分名稱": "CEFACLOR",
+            "含量描述": "250",
+            "含量": "250.0000000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "鮮藍紫\/白色",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "長圓柱形",
+        "標記一": "ROOT",
+        "標記二": "ROOT"
+    },
     "藥物辨識外觀圖片": [
-
+        {
+            "title": "圖片",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041727&Seq=367&Type=10"
+        }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010417270001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01041727&Seq=001&Type=9"
+            "title": "010417270001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041727&Seq=001&Type=9"
         }
     ]
 }

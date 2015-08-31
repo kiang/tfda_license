@@ -1,6 +1,7 @@
 {
     "code": "02025307",
-    "time": "2015-06-25 18:30:36",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025307",
+    "time": "2015-08-23 12:44:12",
     "許可證字號": "衛署藥輸字第025307號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -46,12 +47,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 02025307-2-104-02-09.pdf 02025307-1-104-02-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02025307&Seq=002&Type=9"
+            "title": "02025307-2-104-02-09.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025307&Seq=002&Type=9"
         },
         {
-            "title": "外盒 02025307-3-104-02-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02025307&Seq=001&Type=8"
+            "title": "02025307-1-104-02-09.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025307&Seq=001&Type=9"
+        },
+        {
+            "title": "02025307-3-104-02-09.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025307&Seq=001&Type=8"
         }
     ]
 }

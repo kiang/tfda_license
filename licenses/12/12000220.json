@@ -1,6 +1,7 @@
 {
     "code": "12000220",
-    "time": "2015-07-05 01:34:29",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12000220",
+    "time": "2015-08-23 13:33:36",
     "許可證字號": "內衛藥製字第000220號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,12 +35,27 @@
     "CCC號列": "30043200002 含有腎上腺皮質類固醇荷爾蒙，其衍生物及結構式類似者Containing adrenal corticosteroid hormones, their derivatives and structural analogues",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "6804000600",
+            "成分名稱": "DEXAMETHASONE",
+            "含量描述": "",
+            "含量": "0.5000000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "120002200003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000220&Seq=003&Type=9"
+        },
+        {
+            "title": "120002200002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000220&Seq=002&Type=9"
+        },
+        {
+            "title": "120002200001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000220&Seq=001&Type=9"
+        }
     ]
 }

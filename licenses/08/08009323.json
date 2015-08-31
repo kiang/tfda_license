@@ -1,6 +1,7 @@
 {
     "code": "08009323",
-    "time": "2015-06-23 09:59:27",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08009323",
+    "time": "2015-08-23 17:52:16",
     "許可證字號": "衛署粧輸字第009323號",
     "註銷狀態": "已註銷",
     "註銷日期": "103\/07\/24",
@@ -61,12 +62,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 080093230003.jpg 080093230002.jpg 080093230001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=08009323&Seq=003&Type=9"
+            "title": "080093230003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08009323&Seq=003&Type=9"
         },
         {
-            "title": "外盒 080093230002.jpg 080093230001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=08009323&Seq=002&Type=8"
+            "title": "080093230002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08009323&Seq=002&Type=9"
+        },
+        {
+            "title": "080093230001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08009323&Seq=001&Type=9"
+        },
+        {
+            "title": "080093230002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08009323&Seq=002&Type=8"
+        },
+        {
+            "title": "080093230001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08009323&Seq=001&Type=8"
         }
     ]
 }

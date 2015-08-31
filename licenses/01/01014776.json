@@ -1,6 +1,7 @@
 {
     "code": "01014776",
-    "time": "2015-08-21 05:38:50",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01014776",
+    "time": "2015-08-24 12:36:54",
     "許可證字號": "衛署藥製字第014776號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -80,13 +81,17 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01014776&Seq=065&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014776&Seq=065&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 衛署藥製字第014776號-104-06-03.pdf 010147760001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01014776&Seq=002&Type=9"
+            "title": "衛署藥製字第014776號-104-06-03.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014776&Seq=002&Type=9"
+        },
+        {
+            "title": "010147760001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014776&Seq=001&Type=9"
         }
     ]
 }

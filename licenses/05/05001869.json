@@ -1,6 +1,7 @@
 {
     "code": "05001869",
-    "time": "2015-06-24 03:48:55",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05001869",
+    "time": "2015-08-22 06:32:58",
     "許可證字號": "衛署醫器製字第001869號",
     "註銷狀態": "已註銷",
     "註銷日期": "101\/12\/03",
@@ -39,17 +40,31 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 050018690005.jpg 050018690004.jpg 050018690003.jpg 050018690002.jpg 050018690001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=05001869&Seq=005&Type=9"
+            "title": "050018690005.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001869&Seq=005&Type=9"
         },
         {
-            "title": "外盒 050018690001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=05001869&Seq=001&Type=8"
+            "title": "050018690004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001869&Seq=004&Type=9"
+        },
+        {
+            "title": "050018690003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001869&Seq=003&Type=9"
+        },
+        {
+            "title": "050018690002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001869&Seq=002&Type=9"
+        },
+        {
+            "title": "050018690001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001869&Seq=001&Type=9"
+        },
+        {
+            "title": "050018690001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001869&Seq=001&Type=8"
         }
     ]
 }

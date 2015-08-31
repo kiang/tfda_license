@@ -1,6 +1,7 @@
 {
     "code": "06008456",
-    "time": "2015-06-23 18:35:51",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06008456",
+    "time": "2015-08-22 11:47:36",
     "許可證字號": "衛署醫器輸字第008456號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,17 +39,19 @@
     },
     "CCC號列": "90013000005 隱形眼鏡Contact lenses",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 06008456-103-12-04.pdf 060084560002-103-04-11.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06008456&Seq=002&Type=9"
+            "title": "06008456-103-12-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06008456&Seq=002&Type=9"
         },
         {
-            "title": "外盒 060084560001-103-04-11.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06008456&Seq=001&Type=8"
+            "title": "060084560002-103-04-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06008456&Seq=001&Type=9"
+        },
+        {
+            "title": "060084560001-103-04-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06008456&Seq=001&Type=8"
         }
     ]
 }

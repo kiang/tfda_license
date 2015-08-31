@@ -1,6 +1,7 @@
 {
     "code": "01043749",
-    "time": "2015-06-22 01:56:31",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01043749",
+    "time": "2015-08-23 01:55:47",
     "許可證字號": "衛署藥製字第043749號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -64,17 +65,21 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01043749&Seq=398&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043749&Seq=398&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 Vita C_INS_201212-102-06-24.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01043749&Seq=001&Type=9"
+            "title": "Vita C_INS_201212-102-06-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043749&Seq=001&Type=9"
         },
         {
-            "title": "外盒 Vita C_PL_201212-102-06-24.pdf Vita C_PC_201212-102-06-24.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01043749&Seq=002&Type=8"
+            "title": "Vita C_PL_201212-102-06-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043749&Seq=002&Type=8"
+        },
+        {
+            "title": "Vita C_PC_201212-102-06-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043749&Seq=001&Type=8"
         }
     ]
 }

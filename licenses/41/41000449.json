@@ -1,6 +1,7 @@
 {
     "code": "41000449",
-    "time": "2015-06-24 15:37:57",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=41000449",
+    "time": "2015-08-22 18:46:02",
     "許可證字號": "衛署藥陸輸字第000449號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,20 +27,22 @@
     "申請商地址": "新北市中和區橋安街41號8樓",
     "主製造廠": {
         "製造廠名稱": "F640052000  HEBEI HUARONG PHARMACEUTICAL CO., LTD.",
-        "製造廠廠址": "EAST ROAD NORTH CIRCLE, SHIJIAZHUANG, HEBEI, CHINA",
+        "製造廠廠址": "EAST ROAD NORTH 2ND CIRCLE, SHIJIAZHUANG CITY, HEBEI PROVINCE,P.R. CHINA",
         "製造廠公司地址": "",
         "製造廠國別": "CHINA",
         "製程": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 410004490002___20110810.jpg 410004490001___20110810.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=41000449&Seq=002&Type=9"
+            "title": "410004490002___20110810.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=41000449&Seq=002&Type=9"
+        },
+        {
+            "title": "410004490001___20110810.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=41000449&Seq=001&Type=9"
         }
     ]
 }

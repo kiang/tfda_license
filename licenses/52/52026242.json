@@ -1,6 +1,7 @@
 {
     "code": "52026242",
-    "time": "2015-06-24 13:38:31",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026242",
+    "time": "2015-08-22 17:20:54",
     "許可證字號": "衛部藥輸字第026242號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -33,6 +34,15 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "6132051379  昱昇藥業有限公司桃園廠",
+            "製造廠廠址": "桃園市蘆竹區南山路一段436號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "包裝"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -53,12 +63,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 020262420002-103-04-30.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=52026242&Seq=001&Type=9"
+            "title": "020262420002-103-04-30.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026242&Seq=001&Type=9"
         },
         {
-            "title": "外盒 020262420003-103-04-30.pdf 020262420003-103-04-30.jpg 020262420002-103-04-30.pdf 020262420001-103-04-30.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=52026242&Seq=004&Type=8"
+            "title": "020262420003-103-04-30.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026242&Seq=004&Type=8"
+        },
+        {
+            "title": "020262420003-103-04-30.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026242&Seq=003&Type=8"
+        },
+        {
+            "title": "020262420002-103-04-30.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026242&Seq=002&Type=8"
+        },
+        {
+            "title": "020262420001-103-04-30.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026242&Seq=001&Type=8"
         }
     ]
 }

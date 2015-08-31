@@ -1,6 +1,7 @@
 {
     "code": "05001567",
-    "time": "2015-06-24 00:28:18",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05001567",
+    "time": "2015-08-22 06:52:31",
     "許可證字號": "衛署醫器製字第001567號",
     "註銷狀態": "已註銷",
     "註銷日期": "100\/02\/17",
@@ -38,17 +39,19 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 050015670001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=05001567&Seq=001&Type=9"
+            "title": "050015670001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001567&Seq=001&Type=9"
         },
         {
-            "title": "外盒 050015670002.jpg 050015670001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=05001567&Seq=002&Type=8"
+            "title": "050015670002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001567&Seq=002&Type=8"
+        },
+        {
+            "title": "050015670001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001567&Seq=001&Type=8"
         }
     ]
 }

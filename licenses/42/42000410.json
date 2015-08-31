@@ -1,6 +1,7 @@
 {
     "code": "42000410",
-    "time": "2015-06-24 01:15:53",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000410",
+    "time": "2015-08-22 04:58:41",
     "許可證字號": "衛署醫器陸輸字第000410號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -39,17 +40,27 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 醫器陸輸字第000410-102-07-16.pdf 420004100001___20120329.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=42000410&Seq=002&Type=9"
+            "title": "醫器陸輸字第000410-102-07-16.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000410&Seq=002&Type=9"
         },
         {
-            "title": "外盒 420004100004___20120329.jpg 420004100003___20120329.jpg 420004100002___20120329.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=42000410&Seq=003&Type=8"
+            "title": "420004100001___20120329.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000410&Seq=001&Type=9"
+        },
+        {
+            "title": "420004100004___20120329.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000410&Seq=003&Type=8"
+        },
+        {
+            "title": "420004100003___20120329.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000410&Seq=002&Type=8"
+        },
+        {
+            "title": "420004100002___20120329.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000410&Seq=001&Type=8"
         }
     ]
 }

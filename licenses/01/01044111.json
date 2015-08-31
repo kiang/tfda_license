@@ -1,6 +1,7 @@
 {
     "code": "01044111",
-    "time": "2015-06-25 04:25:44",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01044111",
+    "time": "2015-08-23 13:26:37",
     "許可證字號": "衛署藥製字第044111號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -47,8 +48,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "外盒 F002標籤-外銷專用品名___20120229.doc F002標籤-國產專用品名___20120229.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01044111&Seq=002&Type=8"
+            "title": "F002標籤-外銷專用品名___20120229.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044111&Seq=002&Type=8"
+        },
+        {
+            "title": "F002標籤-國產專用品名___20120229.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044111&Seq=001&Type=8"
         }
     ]
 }

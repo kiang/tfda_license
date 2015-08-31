@@ -1,6 +1,7 @@
 {
     "code": "12003213",
-    "time": "2015-06-24 10:33:20",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12003213",
+    "time": "2015-08-22 17:39:45",
     "許可證字號": "內衛藥製字第003213號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,8 +46,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 內衛藥003213 Ascormin Inj. In-2014-06-05.pdf 120032130002.doc 120032130001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=12003213&Seq=003&Type=9"
+            "title": "內衛藥003213 Ascormin Inj. In-2014-06-05.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12003213&Seq=003&Type=9"
+        },
+        {
+            "title": "120032130002.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12003213&Seq=002&Type=9"
+        },
+        {
+            "title": "120032130001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12003213&Seq=001&Type=9"
         }
     ]
 }

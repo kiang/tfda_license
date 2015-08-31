@@ -1,6 +1,7 @@
 {
     "code": "12006528",
-    "time": "2015-06-24 10:41:36",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12006528",
+    "time": "2015-08-22 18:06:40",
     "許可證字號": "內衛藥製字第006528號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -23,10 +24,10 @@
         "01國產"
     ],
     "申請商名稱": "0908703200  信東生技股份有限公司",
-    "申請商地址": "桃園市桃園區豐林里介壽路２２號",
+    "申請商地址": "桃園市桃園區介壽路２２號",
     "主製造廠": {
         "製造廠名稱": "0908703300  信東生技股份有限公司",
-        "製造廠廠址": "桃園市豐林里介壽路２２號",
+        "製造廠廠址": "桃園市桃園區介壽路２２號",
         "製造廠公司地址": "",
         "製造廠國別": "TAIWAN",
         "製程": ""
@@ -61,12 +62,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 Venacalo-B6 Inj.-2014-05-26.pdf 01 Venacalo B6 Injection(內衛藥製字第006528號)-103-04-03.pdf 120065280001-102-06-07.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=12006528&Seq=003&Type=9"
+            "title": "Venacalo-B6 Inj.-2014-05-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12006528&Seq=003&Type=9"
         },
         {
-            "title": "外盒 120065280002-102-06-07.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=12006528&Seq=001&Type=8"
+            "title": "01 Venacalo B6 Injection(內衛藥製字第006528號)-103-04-03.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12006528&Seq=002&Type=9"
+        },
+        {
+            "title": "120065280001-102-06-07.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12006528&Seq=001&Type=9"
+        },
+        {
+            "title": "120065280002-102-06-07.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12006528&Seq=001&Type=8"
         }
     ]
 }

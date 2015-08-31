@@ -1,6 +1,7 @@
 {
     "code": "02019000",
-    "time": "2015-07-05 02:16:06",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019000",
+    "time": "2015-08-23 12:44:04",
     "許可證字號": "衛署藥輸字第019000號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -35,12 +36,63 @@
     "CCC號列": "30044011009 鴉片類製劑Opium and opium alkaloids preparations",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2808800620",
+            "成分名稱": "MORPHINE SULPHATE",
+            "含量描述": "",
+            "含量": "60.0000000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "鮮紅橙",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "圓扁形",
+        "標記一": "60,mg",
+        "標記二": ""
+    },
     "藥物辨識外觀圖片": [
-
+        {
+            "title": "圖片",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019000&Seq=424&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "0815-萌蒂-硫酸嗎啡仿單-148x350mm-103-09-01.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019000&Seq=006&Type=9"
+        },
+        {
+            "title": "MST Tablets 60MG CTN 30s TW 5443-5 V1-2014-08-29.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019000&Seq=005&Type=9"
+        },
+        {
+            "title": "MST Tablets 30 MG CTN 30s TW 20140826-2014-08-29.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019000&Seq=004&Type=9"
+        },
+        {
+            "title": "0815-萌蒂-硫酸嗎啡仿單-148x350mm-2014-08-29.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019000&Seq=003&Type=9"
+        },
+        {
+            "title": "MST Tabs 舊 仿單___20110808.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019000&Seq=002&Type=9"
+        },
+        {
+            "title": "MST Tablets 60mg foil___20110808.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019000&Seq=001&Type=9"
+        },
+        {
+            "title": "MST Tablets 60MG CTN 30s TW 5443-5 V1-103-09-01.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019000&Seq=002&Type=8"
+        },
+        {
+            "title": "MST Tabs 60mg 舊外盒___20110808.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019000&Seq=001&Type=8"
+        }
     ]
 }

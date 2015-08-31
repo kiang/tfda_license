@@ -1,6 +1,7 @@
 {
     "code": "02022320",
-    "time": "2015-06-25 16:26:38",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022320",
+    "time": "2015-08-23 11:41:53",
     "許可證字號": "衛署藥輸字第022320號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -25,23 +26,14 @@
     "申請商名稱": "1424601100  賽諾菲股份有限公司",
     "申請商地址": "台北市松山區復興北路337號12、13、14樓",
     "主製造廠": {
-        "製造廠名稱": "F130180000  PATHEON UK LIMITED",
-        "製造廠廠址": "KINGFISHER DRIVE COVINGHAM SWINDON WILTSHIRE SN3 5BZ U.K.",
+        "製造廠名稱": "F450021000  Zentiva Saglik Urunleri San. ve Tic. A. S",
+        "製造廠廠址": "Kucukkaristiran 39780 Luleburgaz, Kirklareli, Turkey",
         "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
+        "製造廠國別": "TURKEY",
         "製程": ""
     },
     "CCC號列": "30042000319 人用醫藥製劑，含頭孢子菌類抗生素者Medicaments, containing cephalosporins, for human use",
     "藥理治療分類": "",
-    "次製造廠": [
-        {
-            "製造廠名稱": "F130188500  AVENTIS PHARMA LIMITED",
-            "製造廠廠址": "WEST MALLING, KENT ME19 4AH UNITED KINGDOM",
-            "製造廠公司地址": "",
-            "製造廠國別": "UNITED KINGDOM",
-            "製程": "許可證持有者"
-        }
-    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -54,12 +46,28 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 可活能 2.0克 英文仿單-103-10-29.pdf 可活能 2.0克 中文仿單-103-10-29.pdf 020223200002.jpg 020223200001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02022320&Seq=004&Type=9"
+            "title": "可活能 2.0克 英文仿單-103-10-29.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022320&Seq=004&Type=9"
         },
         {
-            "title": "外盒 020223200002.jpg 020223200001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02022320&Seq=002&Type=8"
+            "title": "可活能 2.0克 中文仿單-103-10-29.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022320&Seq=003&Type=9"
+        },
+        {
+            "title": "020223200002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022320&Seq=002&Type=9"
+        },
+        {
+            "title": "020223200001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022320&Seq=001&Type=9"
+        },
+        {
+            "title": "020223200002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022320&Seq=002&Type=8"
+        },
+        {
+            "title": "020223200001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022320&Seq=001&Type=8"
         }
     ]
 }

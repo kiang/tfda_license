@@ -1,6 +1,7 @@
 {
     "code": "10000908",
-    "time": "2015-08-28 04:11:59",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000908",
+    "time": "2015-08-22 18:09:44",
     "許可證字號": "衛署菌疫輸字第000908號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -61,12 +62,32 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 20150526182153804-104-05-26.pdf 100009080002___20110520.pdf 100009080001___20110520.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=10000908&Seq=003&Type=9"
+            "title": "20150526182153804-104-05-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000908&Seq=003&Type=9"
         },
         {
-            "title": "外盒 20150526182302942-104-05-26.pdf 100009080006___20110520.jpg 100009080005___20110520.pdf 100009080004___20110520.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=10000908&Seq=004&Type=8"
+            "title": "100009080002___20110520.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000908&Seq=002&Type=9"
+        },
+        {
+            "title": "100009080001___20110520.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000908&Seq=001&Type=9"
+        },
+        {
+            "title": "20150526182302942-104-05-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000908&Seq=004&Type=8"
+        },
+        {
+            "title": "100009080006___20110520.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000908&Seq=003&Type=8"
+        },
+        {
+            "title": "100009080005___20110520.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000908&Seq=002&Type=8"
+        },
+        {
+            "title": "100009080004___20110520.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000908&Seq=001&Type=8"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "01030270",
-    "time": "2015-08-28 03:14:46",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01030270",
+    "time": "2015-08-24 11:09:09",
     "許可證字號": "衛署藥製字第030270號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,12 +46,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 說明書-104-07-21.pdf 010302700001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01030270&Seq=002&Type=9"
+            "title": "說明書-104-07-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01030270&Seq=002&Type=9"
         },
         {
-            "title": "外盒 標籤-104-07-21.pdf 外盒-104-07-21.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01030270&Seq=002&Type=8"
+            "title": "010302700001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01030270&Seq=001&Type=9"
+        },
+        {
+            "title": "標籤-104-07-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01030270&Seq=002&Type=8"
+        },
+        {
+            "title": "外盒-104-07-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01030270&Seq=001&Type=8"
         }
     ]
 }

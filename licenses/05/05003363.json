@@ -1,6 +1,7 @@
 {
     "code": "05003363",
-    "time": "2015-06-24 03:15:40",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05003363",
+    "time": "2015-08-22 08:45:03",
     "許可證字號": "衛署醫器製字第003363號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,7 +15,7 @@
     "中文品名": "福爾舒康臂式血壓機",
     "英文品名": "FORA Comfort Blood Pressure Monitor",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "TD-3128A以下空白",
+    "醫器規格": "TD-3128A以下空白。增加規格：TD-3128B。",
     "劑型": "",
     "包裝": "",
     "醫器主類別一": "E心臟血管用裝置",
@@ -38,17 +39,19 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 050033630001___20110903.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=05003363&Seq=001&Type=9"
+            "title": "中文仿單-104-08-03.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003363&Seq=002&Type=9"
         },
         {
-            "title": "外盒 050033630002___20110903.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=05003363&Seq=001&Type=8"
+            "title": "050033630001___20110903.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003363&Seq=001&Type=9"
+        },
+        {
+            "title": "050033630002___20110903.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003363&Seq=001&Type=8"
         }
     ]
 }

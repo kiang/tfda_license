@@ -1,6 +1,7 @@
 {
     "code": "02025180",
-    "time": "2015-07-24 07:17:46",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025180",
+    "time": "2015-08-23 13:09:25",
     "許可證字號": "衛署藥輸字第025180號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -101,12 +102,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 scan 5___20110712.pdf scan 4___20110712.pdf scan 3___20110712.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02025180&Seq=003&Type=9"
+            "title": "scan 5___20110712.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025180&Seq=003&Type=9"
         },
         {
-            "title": "外盒 scan 2___20110712.pdf scan 1___20110712.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02025180&Seq=002&Type=8"
+            "title": "scan 4___20110712.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025180&Seq=002&Type=9"
+        },
+        {
+            "title": "scan 3___20110712.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025180&Seq=001&Type=9"
+        },
+        {
+            "title": "scan 2___20110712.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025180&Seq=002&Type=8"
+        },
+        {
+            "title": "scan 1___20110712.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025180&Seq=001&Type=8"
         }
     ]
 }

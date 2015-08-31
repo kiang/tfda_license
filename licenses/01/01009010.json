@@ -1,6 +1,7 @@
 {
     "code": "01009010",
-    "time": "2015-07-05 01:37:20",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01009010",
+    "time": "2015-08-22 19:38:43",
     "許可證字號": "衛署藥製字第009010號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -36,12 +37,27 @@
     "CCC號列": "30043200002 含有腎上腺皮質類固醇荷爾蒙，其衍生物及結構式類似者Containing adrenal corticosteroid hormones, their derivatives and structural analogues",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812109530",
+            "成分名稱": "NEOMYCIN (SULFATE)",
+            "含量描述": "(5MG) 3.5",
+            "含量": "",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "6804001120",
+            "成分名稱": "HYDROCORTISONE ACETATE",
+            "含量描述": "15",
+            "含量": "15.0000000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "1024021299-欣可爽點眼液-2014-01-09.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01009010&Seq=001&Type=9"
+        }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "02025440",
-    "time": "2015-06-25 18:52:51",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025440",
+    "time": "2015-08-23 12:44:21",
     "許可證字號": "衛署藥輸字第025440號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -25,8 +26,8 @@
     "申請商名稱": "1434901100  臺灣阿斯特捷利康股份有限公司",
     "申請商地址": "台北市大安區敦化南路二段207號21樓",
     "主製造廠": {
-        "製造廠名稱": "F460728000  PATHEON PHARMACEUTICAL INC.",
-        "製造廠廠址": "2110 EAST GALBRAITH ROAD, CINCINNATI, OHIO 4523,USA",
+        "製造廠名稱": "F460728000  PATHEON PHARMACEUTICALS INC.",
+        "製造廠廠址": "2110 EAST GALBRAITH ROAD, CINCINNATI, OHIO 45237,USA",
         "製造廠公司地址": "",
         "製造廠國別": "UNITED STATES",
         "製程": ""
@@ -36,7 +37,7 @@
     "次製造廠": [
         {
             "製造廠名稱": "F420032000  ASTRAZENECA AB",
-            "製造廠廠址": "S-151 85 SODERTALJE SWEDEN",
+            "製造廠廠址": "SE-151 85 SODERTALJE SWEDEN",
             "製造廠公司地址": "",
             "製造廠國別": "SWEDEN",
             "製程": "分裝"
@@ -62,12 +63,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010254400001-102-05-29.pdf 010254400001-102-05-29.pdf 02025440___20111201.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02025440&Seq=003&Type=9"
+            "title": "010254400001-102-05-29.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025440&Seq=003&Type=9"
         },
         {
-            "title": "外盒 020254400002___20111201.jpg 020254400001___20111201.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02025440&Seq=002&Type=8"
+            "title": "010254400001-102-05-29.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025440&Seq=002&Type=9"
+        },
+        {
+            "title": "02025440___20111201.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025440&Seq=001&Type=9"
+        },
+        {
+            "title": "020254400002___20111201.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025440&Seq=002&Type=8"
+        },
+        {
+            "title": "020254400001___20111201.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025440&Seq=001&Type=8"
         }
     ]
 }

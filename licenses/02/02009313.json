@@ -1,6 +1,7 @@
 {
     "code": "02009313",
-    "time": "2015-07-05 02:07:56",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02009313",
+    "time": "2015-08-23 06:53:39",
     "許可證字號": "衛署藥輸字第009313號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,12 +35,51 @@
     "CCC號列": "30063000002 Ｘ光檢驗用不透光製劑；專供病人用之診斷用試藥Opacifying preparations for X-ray examinations; diagnostic reagents designed to be administered to the patient",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0840001900",
+            "成分名稱": "MEGLUMINE (N-METHYLGLUCAMINE)",
+            "含量描述": "* 159.24",
+            "含量": "",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "3668001800",
+            "成分名稱": "DIATRIZOIC ACID",
+            "含量描述": "* 597.3",
+            "含量": "",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "02009313_Gastrografin (廠商自行加註賦形劑)-104-06-16.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02009313&Seq=002&Type=9"
+        },
+        {
+            "title": "020093130001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02009313&Seq=001&Type=9"
+        },
+        {
+            "title": "02009313_Label-103-12-05.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02009313&Seq=005&Type=8"
+        },
+        {
+            "title": "02009313_Carton-103-12-05.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02009313&Seq=004&Type=8"
+        },
+        {
+            "title": "衛署藥輸字第009313號_瓶標-103-02-25.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02009313&Seq=003&Type=8"
+        },
+        {
+            "title": "衛署藥輸字第009313號_外盒-103-02-25.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02009313&Seq=002&Type=8"
+        },
+        {
+            "title": "衛署藥輸字第009313號_中標-103-02-25.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02009313&Seq=001&Type=8"
+        }
     ]
 }

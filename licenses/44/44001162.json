@@ -1,6 +1,7 @@
 {
     "code": "44001162",
-    "time": "2015-08-28 04:27:42",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44001162",
+    "time": "2015-08-24 12:09:39",
     "許可證字號": "衛署醫器輸壹字第001162號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -39,13 +40,15 @@
     },
     "CCC號列": "90223000000 Ｘ光管X-ray tubes",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 440011620002.jpg 440011620001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=44001162&Seq=002&Type=9"
+            "title": "440011620002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=44001162&Seq=002&Type=9"
+        },
+        {
+            "title": "440011620001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=44001162&Seq=001&Type=9"
         }
     ]
 }

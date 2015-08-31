@@ -1,6 +1,7 @@
 {
     "code": "03016221",
-    "time": "2015-06-24 15:06:48",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=03016221",
+    "time": "2015-08-22 17:01:13",
     "許可證字號": "衛署成製字第016221號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,8 +21,7 @@
     "管制藥品分類級別": "",
     "主成分略述": "SODIUM CHLORIDE, GLYCERIN (eq to GLYCEROL)",
     "限制項目": [
-        "01國產",
-        "1G不得製造"
+        "01國產"
     ],
     "申請商名稱": "0311814200  久仁製藥廠股份有限公司",
     "申請商地址": "南投縣南投市永豐里工業路５９號",
@@ -54,12 +54,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 030162210002___20121212.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=03016221&Seq=001&Type=9"
+            "title": "030162210002___20121212.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03016221&Seq=001&Type=9"
         },
         {
-            "title": "外盒 030162210003___20121212.pdf 030162210001___20121212.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=03016221&Seq=002&Type=8"
+            "title": "030162210003___20121212.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03016221&Seq=002&Type=8"
+        },
+        {
+            "title": "030162210001___20121212.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03016221&Seq=001&Type=8"
         }
     ]
 }

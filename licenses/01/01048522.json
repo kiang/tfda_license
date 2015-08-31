@@ -1,6 +1,7 @@
 {
     "code": "01048522",
-    "time": "2015-06-25 04:01:02",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01048522",
+    "time": "2015-08-23 03:28:52",
     "許可證字號": "衛署藥製字第048522號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,7 +19,7 @@
     "包裝": "2-1000錠塑膠瓶裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "主成分略述": "SODIUM FLUORIDE, FLUORIDE (SODIUM)",
+    "主成分略述": "SODIUM FLUORIDE",
     "限制項目": [
         "01國產",
         "09委託製造"
@@ -39,27 +40,39 @@
             "成分類別": "主成分",
             "成分代碼": "9200008400",
             "成分名稱": "SODIUM FLUORIDE",
-            "含量描述": "",
+            "含量描述": "eq to FLUORIDE 0.25mg",
             "含量": "0.5530000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200088400",
-            "成分名稱": "FLUORIDE (SODIUM)",
-            "含量描述": "",
-            "含量": "0.2500000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010485220004.jpg 010485220003.jpg 010485220002.jpg 010485220001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01048522&Seq=004&Type=9"
+            "title": "010485220004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048522&Seq=004&Type=9"
         },
         {
-            "title": "外盒 010485220003.jpg 010485220002.jpg 010485220001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01048522&Seq=003&Type=8"
+            "title": "010485220003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048522&Seq=003&Type=9"
+        },
+        {
+            "title": "010485220002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048522&Seq=002&Type=9"
+        },
+        {
+            "title": "010485220001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048522&Seq=001&Type=9"
+        },
+        {
+            "title": "010485220003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048522&Seq=003&Type=8"
+        },
+        {
+            "title": "010485220002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048522&Seq=002&Type=8"
+        },
+        {
+            "title": "010485220001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048522&Seq=001&Type=8"
         }
     ]
 }

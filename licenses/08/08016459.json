@@ -1,6 +1,7 @@
 {
     "code": "08016459",
-    "time": "2015-06-23 11:35:05",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016459",
+    "time": "2015-08-23 19:59:57",
     "許可證字號": "衛署粧輸字第016459號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,16 +35,83 @@
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2820000100",
+            "成分名稱": "AMMONIA",
+            "含量描述": "",
+            "含量": "1.7880000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200035403",
+            "成分名稱": "AMINOPHENOL META- (EQ TO M-AMINOPHENOL)",
+            "含量描述": "",
+            "含量": "0.0120000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200038920",
+            "成分名稱": "2-METHYLRESORCINOL",
+            "含量描述": "",
+            "含量": "0.5250000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900066200",
+            "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
+            "含量描述": "",
+            "含量": "1.0500000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900084700",
+            "成分名稱": "2-METHYL-5-HYDROXYETHYLAMINOPHENOL",
+            "含量描述": "",
+            "含量": "0.0380000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900084900",
+            "成分名稱": "2-AMINO-6-CHLORO-4-NITROPHENOL",
+            "含量描述": "",
+            "含量": "0.0130000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900085800",
+            "成分名稱": "HYDROXYETHYL-3,4-METHYLENEDIOXYANILENE HCL",
+            "含量描述": "",
+            "含量": "0.0480000000",
+            "單位": "%(W\/W)"
+        }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 080164590001___20110216.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=08016459&Seq=001&Type=9"
+            "title": "080164590001___20110216.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016459&Seq=001&Type=9"
         },
         {
-            "title": "外盒 080164590004___20110216.jpg 080164590003___20110216.jpg 080164590002___20110216.jpg 080164590001___20110216.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=08016459&Seq=004&Type=8"
+            "title": "080164590004___20110216.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016459&Seq=004&Type=8"
+        },
+        {
+            "title": "080164590003___20110216.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016459&Seq=003&Type=8"
+        },
+        {
+            "title": "080164590002___20110216.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016459&Seq=002&Type=8"
+        },
+        {
+            "title": "080164590001___20110216.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016459&Seq=001&Type=8"
         }
     ]
 }

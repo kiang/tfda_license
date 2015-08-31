@@ -1,6 +1,7 @@
 {
     "code": "05002717",
-    "time": "2015-06-22 01:07:05",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05002717",
+    "time": "2015-08-22 05:58:15",
     "許可證字號": "衛署醫器製字第002717號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,17 +39,23 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 050027170003-104-04-14.pdf 050027170001-103-07-11.pdf 05002717 洹藝AD40___20120615.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=05002717&Seq=003&Type=9"
+            "title": "050027170003-104-04-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05002717&Seq=003&Type=9"
         },
         {
-            "title": "外盒 050027170002-103-07-11.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=05002717&Seq=001&Type=8"
+            "title": "050027170001-103-07-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05002717&Seq=002&Type=9"
+        },
+        {
+            "title": "05002717 洹藝AD40___20120615.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05002717&Seq=001&Type=9"
+        },
+        {
+            "title": "050027170002-103-07-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05002717&Seq=001&Type=8"
         }
     ]
 }

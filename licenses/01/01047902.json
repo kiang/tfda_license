@@ -1,6 +1,7 @@
 {
     "code": "01047902",
-    "time": "2015-08-28 04:52:34",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01047902",
+    "time": "2015-08-24 12:51:34",
     "許可證字號": "衛署藥製字第047902號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -53,12 +54,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 020479020001-104-05-12.pdf 010479020001-2014-06-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01047902&Seq=003&Type=9"
+            "title": "020479020001-104-05-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047902&Seq=003&Type=9"
         },
         {
-            "title": "外盒 療血得10%-104-05-12.pdf 010479020002-2014-06-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01047902&Seq=002&Type=8"
+            "title": "010479020001-2014-06-27.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047902&Seq=002&Type=9"
+        },
+        {
+            "title": "療血得10%-104-05-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047902&Seq=002&Type=8"
+        },
+        {
+            "title": "010479020002-2014-06-27.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047902&Seq=001&Type=8"
         }
     ]
 }

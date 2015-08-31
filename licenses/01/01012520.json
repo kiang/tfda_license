@@ -1,6 +1,7 @@
 {
     "code": "01012520",
-    "time": "2015-06-24 18:22:02",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01012520",
+    "time": "2015-08-22 19:55:07",
     "許可證字號": "衛署藥製字第012520號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,12 +46,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 0101252000001-102-08-07.pdf 010125200002.doc 010125200001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01012520&Seq=003&Type=9"
+            "title": "0101252000001-102-08-07.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012520&Seq=003&Type=9"
         },
         {
-            "title": "外盒 0101252000002-102-08-07.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01012520&Seq=001&Type=8"
+            "title": "010125200002.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012520&Seq=002&Type=9"
+        },
+        {
+            "title": "010125200001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012520&Seq=001&Type=9"
+        },
+        {
+            "title": "0101252000002-102-08-07.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012520&Seq=001&Type=8"
         }
     ]
 }

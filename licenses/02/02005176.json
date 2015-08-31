@@ -1,6 +1,7 @@
 {
     "code": "02005176",
-    "time": "2015-08-28 04:55:49",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02005176",
+    "time": "2015-08-24 12:56:32",
     "許可證字號": "衛署藥輸字第005176號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -65,17 +66,25 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02005176&Seq=417&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02005176&Seq=417&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 020051760004___20110712.jpg 020051760003___20110712.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02005176&Seq=002&Type=9"
+            "title": "020051760004___20110712.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02005176&Seq=002&Type=9"
         },
         {
-            "title": "外盒 020051760002___20110712.jpg 020051760001___20110712.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02005176&Seq=002&Type=8"
+            "title": "020051760003___20110712.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02005176&Seq=001&Type=9"
+        },
+        {
+            "title": "020051760002___20110712.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02005176&Seq=002&Type=8"
+        },
+        {
+            "title": "020051760001___20110712.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02005176&Seq=001&Type=8"
         }
     ]
 }

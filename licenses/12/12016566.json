@@ -1,6 +1,7 @@
 {
     "code": "12016566",
-    "time": "2015-08-28 05:25:43",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12016566",
+    "time": "2015-08-24 13:29:43",
     "許可證字號": "內衛藥製字第016566號",
     "註銷狀態": "已註銷",
     "註銷日期": "104\/06\/12",
@@ -45,12 +46,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 120165660001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=12016566&Seq=001&Type=9"
+            "title": "120165660001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12016566&Seq=001&Type=9"
         },
         {
-            "title": "外盒 120165660003.jpg 120165660002.jpg 120165660001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=12016566&Seq=003&Type=8"
+            "title": "120165660003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12016566&Seq=003&Type=8"
+        },
+        {
+            "title": "120165660002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12016566&Seq=002&Type=8"
+        },
+        {
+            "title": "120165660001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12016566&Seq=001&Type=8"
         }
     ]
 }

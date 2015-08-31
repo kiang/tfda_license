@@ -1,6 +1,7 @@
 {
     "code": "01023488",
-    "time": "2015-06-22 01:35:21",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01023488",
+    "time": "2015-08-23 12:05:29",
     "許可證字號": "衛署藥製字第023488號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -25,8 +26,8 @@
     "申請商名稱": "1103401100  健喬信元醫藥生技股份有限公司",
     "申請商地址": "新竹縣湖口鄉光復北路21巷4號",
     "主製造廠": {
-        "製造廠名稱": "620102P136  躍欣生技醫藥股份有限公司",
-        "製造廠廠址": "新竹縣湖口鄉光復路10號",
+        "製造廠名稱": "6133061486  優良化學製藥股份有限公司",
+        "製造廠廠址": "新竹縣湖口鄉中興村光復路10號",
         "製造廠公司地址": "",
         "製造廠國別": "TAIWAN",
         "製程": ""
@@ -104,17 +105,25 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01023488&Seq=130&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023488&Seq=130&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010234880002.jpg 010234880001.jpg 010234880001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01023488&Seq=003&Type=9"
+            "title": "010234880002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023488&Seq=003&Type=9"
         },
         {
-            "title": "外盒 010234880002-2013-12-31.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01023488&Seq=001&Type=8"
+            "title": "010234880001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023488&Seq=002&Type=9"
+        },
+        {
+            "title": "010234880001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023488&Seq=001&Type=9"
+        },
+        {
+            "title": "010234880002-2013-12-31.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023488&Seq=001&Type=8"
         }
     ]
 }

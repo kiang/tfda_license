@@ -1,6 +1,7 @@
 {
     "code": "01029300",
-    "time": "2015-06-24 22:22:36",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01029300",
+    "time": "2015-08-22 23:03:07",
     "許可證字號": "衛署藥製字第029300號",
     "註銷狀態": "已註銷",
     "註銷日期": "102\/10\/03",
@@ -53,8 +54,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010293000003.jpg 010293000002.jpg 010293000001.jpg 010293000001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01029300&Seq=004&Type=9"
+            "title": "010293000003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029300&Seq=004&Type=9"
+        },
+        {
+            "title": "010293000002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029300&Seq=003&Type=9"
+        },
+        {
+            "title": "010293000001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029300&Seq=002&Type=9"
+        },
+        {
+            "title": "010293000001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029300&Seq=001&Type=9"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "01004715",
-    "time": "2015-06-24 15:54:56",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01004715",
+    "time": "2015-08-22 18:16:25",
     "許可證字號": "衛署藥製字第004715號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -56,21 +57,37 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01004715&Seq=017&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004715&Seq=017&Type=10"
         },
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01004715&Seq=016&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004715&Seq=016&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010047150003.jpg 010047150002.jpg 010047150001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01004715&Seq=003&Type=9"
+            "title": "010047150003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004715&Seq=003&Type=9"
         },
         {
-            "title": "外盒 010047150003.jpg 010047150002.jpg 010047150001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01004715&Seq=003&Type=8"
+            "title": "010047150002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004715&Seq=002&Type=9"
+        },
+        {
+            "title": "010047150001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004715&Seq=001&Type=9"
+        },
+        {
+            "title": "010047150003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004715&Seq=003&Type=8"
+        },
+        {
+            "title": "010047150002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004715&Seq=002&Type=8"
+        },
+        {
+            "title": "010047150001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004715&Seq=001&Type=8"
         }
     ]
 }

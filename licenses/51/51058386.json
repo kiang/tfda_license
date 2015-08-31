@@ -1,6 +1,7 @@
 {
     "code": "51058386",
-    "time": "2015-06-24 14:05:59",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058386",
+    "time": "2015-08-22 16:58:08",
     "許可證字號": "衛部藥製字第058386號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -24,10 +25,10 @@
         "62完成溶離率試驗"
     ],
     "申請商名稱": "0908703200  信東生技股份有限公司",
-    "申請商地址": "桃園市桃園區豐林里介壽路２２號",
+    "申請商地址": "桃園市桃園區介壽路２２號",
     "主製造廠": {
         "製造廠名稱": "0908703300  信東生技股份有限公司",
-        "製造廠廠址": "桃園市豐林里介壽路２２號",
+        "製造廠廠址": "桃園市桃園區介壽路２２號",
         "製造廠公司地址": "",
         "製造廠國別": "TAIWAN",
         "製程": ""
@@ -46,12 +47,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 510583860001-103-10-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=51058386&Seq=001&Type=9"
+            "title": "510583860001-103-10-15.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058386&Seq=001&Type=9"
         },
         {
-            "title": "外盒 510583860003-103-10-15.pdf 510583860002-103-10-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=51058386&Seq=002&Type=8"
+            "title": "510583860003-103-10-15.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058386&Seq=002&Type=8"
+        },
+        {
+            "title": "510583860002-103-10-15.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058386&Seq=001&Type=8"
         }
     ]
 }

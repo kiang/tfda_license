@@ -1,6 +1,7 @@
 {
     "code": "41000489",
-    "time": "2015-06-24 16:57:01",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=41000489",
+    "time": "2015-08-22 18:48:51",
     "許可證字號": "衛署藥陸輸字第000489號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -43,13 +44,15 @@
             "製程": "總公司"
         }
     ],
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 原文標籤___20111223.jpg 中文標籤___20111223.JPG",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=41000489&Seq=002&Type=9"
+            "title": "原文標籤___20111223.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=41000489&Seq=002&Type=9"
+        },
+        {
+            "title": "中文標籤___20111223.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=41000489&Seq=001&Type=9"
         }
     ]
 }

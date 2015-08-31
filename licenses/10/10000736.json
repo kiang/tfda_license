@@ -1,6 +1,7 @@
 {
     "code": "10000736",
-    "time": "2015-08-28 05:01:14",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000736",
+    "time": "2015-08-24 13:03:25",
     "許可證字號": "衛署菌疫輸字第000736號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,12 +46,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 精製結核菌素仿單_20150522-104-05-26.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=10000736&Seq=001&Type=9"
+            "title": "精製結核菌素仿單_20150522-104-05-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000736&Seq=001&Type=9"
         },
         {
-            "title": "外盒 PPD 標籤-104-06-25.pdf PPD 外盒2-104-06-25.pdf PPD 外盒1-104-06-25.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=10000736&Seq=003&Type=8"
+            "title": "PPD 標籤-104-06-25.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000736&Seq=003&Type=8"
+        },
+        {
+            "title": "PPD 外盒2-104-06-25.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000736&Seq=002&Type=8"
+        },
+        {
+            "title": "PPD 外盒1-104-06-25.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000736&Seq=001&Type=8"
         }
     ]
 }

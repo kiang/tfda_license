@@ -1,6 +1,7 @@
 {
     "code": "06010114",
-    "time": "2015-06-23 23:21:42",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010114",
+    "time": "2015-08-22 12:07:41",
     "許可證字號": "衛署醫器輸字第010114號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,7 +10,7 @@
     "發證日期": "91\/10\/17",
     "許可證種類": "醫　器",
     "舊證字號": "",
-    "醫療器材級數": "",
+    "醫療器材級數": "第二等級",
     "通關簽審文件編號": "DHA00601011407",
     "中文品名": "\"博士倫\" 瑞霖去蛋白全效保養液",
     "英文品名": "RENU MULTIPLUS NO RUB MULTI-PURPOSE SOLUTION WITH HYDRANATE DAILY PROTEIN REMOVER",
@@ -58,12 +59,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 060101140003.jpg 060101140002.jpg 060101140001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06010114&Seq=003&Type=9"
+            "title": "060101140003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010114&Seq=003&Type=9"
         },
         {
-            "title": "外盒 060101140002.jpg 060101140001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06010114&Seq=002&Type=8"
+            "title": "060101140002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010114&Seq=002&Type=9"
+        },
+        {
+            "title": "060101140001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010114&Seq=001&Type=9"
+        },
+        {
+            "title": "060101140002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010114&Seq=002&Type=8"
+        },
+        {
+            "title": "060101140001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010114&Seq=001&Type=8"
         }
     ]
 }

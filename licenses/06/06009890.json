@@ -1,6 +1,7 @@
 {
     "code": "06009890",
-    "time": "2015-06-23 20:01:21",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06009890",
+    "time": "2015-08-22 12:15:55",
     "許可證字號": "衛署醫器輸字第009890號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,7 +10,7 @@
     "發證日期": "91\/04\/24",
     "許可證種類": "醫　器",
     "舊證字號": "",
-    "醫療器材級數": "",
+    "醫療器材級數": "第二等級",
     "通關簽審文件編號": "DHA00600989002",
     "中文品名": "\"博士倫\" 純視軟性隱形眼鏡",
     "英文品名": "\"BAUSCH & LOMB\" PUREVISION (BALAFILCON A) VISIBLITY TINTED CONTACT LENSES",
@@ -18,14 +19,15 @@
     "劑型": "",
     "包裝": "",
     "醫器主類別一": "M眼科用裝置",
-    "醫器次類別一": "",
+    "醫器次類別一": "M5925軟式隱形眼鏡",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
     "醫器次類別三": "",
     "主成分略述": "",
     "限制項目": [
-        "01國產"
+        "02輸入",
+        "11限眼科醫師使用（須經眼科醫師處方使用）"
     ],
     "申請商名稱": "1206501100  博士倫股份有限公司",
     "申請商地址": "台北市大安區市民大道四段１０２號１１樓",
@@ -38,13 +40,27 @@
     },
     "CCC號列": "90013000005 隱形眼鏡Contact lenses",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 060098900005.jpg 060098900004.jpg 060098900003.jpg 060098900002.jpg 060098900001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06009890&Seq=005&Type=9"
+            "title": "060098900005.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06009890&Seq=005&Type=9"
+        },
+        {
+            "title": "060098900004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06009890&Seq=004&Type=9"
+        },
+        {
+            "title": "060098900003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06009890&Seq=003&Type=9"
+        },
+        {
+            "title": "060098900002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06009890&Seq=002&Type=9"
+        },
+        {
+            "title": "060098900001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06009890&Seq=001&Type=9"
         }
     ]
 }

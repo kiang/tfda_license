@@ -1,6 +1,7 @@
 {
     "code": "02019024",
-    "time": "2015-07-05 02:15:48",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019024",
+    "time": "2015-08-23 11:45:18",
     "許可證字號": "衛署藥輸字第019024號",
     "註銷狀態": "已註銷",
     "註銷日期": "93\/05\/19",
@@ -34,12 +35,55 @@
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "1212001910",
+            "成分名稱": "NAPHAZOLINE HCL",
+            "含量描述": "0.03",
+            "含量": "0.0300000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8810600300",
+            "成分名稱": "PYRIDOXINE HCL",
+            "含量描述": "1",
+            "含量": "1.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8811200300",
+            "成分名稱": "CYANOCOBALAMIN (VIT B12)",
+            "含量描述": "0.025",
+            "含量": "0.0250000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200004620",
+            "成分名稱": "GLYCYRRHIZINATE DIPOTASSIUM (EQ TO DIPOTASSIUM GLYCYRRHIZINATE)",
+            "含量描述": "0.5",
+            "含量": "0.5000000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "020190240004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019024&Seq=004&Type=9"
+        },
+        {
+            "title": "020190240003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019024&Seq=003&Type=9"
+        },
+        {
+            "title": "020190240002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019024&Seq=002&Type=9"
+        },
+        {
+            "title": "020190240001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019024&Seq=001&Type=9"
+        }
     ]
 }

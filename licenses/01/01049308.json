@@ -1,6 +1,7 @@
 {
     "code": "01049308",
-    "time": "2015-07-05 01:44:28",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01049308",
+    "time": "2015-08-23 04:07:55",
     "許可證字號": "衛署藥製字第049308號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,7 +13,7 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00104930808",
     "中文品名": "降糖耐特錠 120 毫克",
-    "英文品名": "Gluant Tablets 120 mg",
+    "英文品名": "Glunat Tablets 120 mg",
     "適應症": "單獨治療或與metformin 合併使用，以治療第二型糖尿病病患(非胰島素依賴型糖尿病)。",
     "劑型": "116膜衣錠",
     "包裝": "2~1000錠塑膠瓶裝 及鋁箔盒裝",
@@ -36,12 +37,39 @@
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "6820601400",
+            "成分名稱": "NATEGLINIDE",
+            "含量描述": "",
+            "含量": "120.0000000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "010493080002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049308&Seq=002&Type=9"
+        },
+        {
+            "title": "010493080001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049308&Seq=001&Type=9"
+        },
+        {
+            "title": "010493080004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049308&Seq=004&Type=8"
+        },
+        {
+            "title": "010493080003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049308&Seq=003&Type=8"
+        },
+        {
+            "title": "010493080002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049308&Seq=002&Type=8"
+        },
+        {
+            "title": "010493080001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049308&Seq=001&Type=8"
+        }
     ]
 }

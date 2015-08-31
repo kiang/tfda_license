@@ -1,6 +1,7 @@
 {
     "code": "06011204",
-    "time": "2015-06-23 20:27:42",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06011204",
+    "time": "2015-08-22 16:14:42",
     "許可證字號": "衛署醫器輸字第011204號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,13 +39,19 @@
     },
     "CCC號列": "90278080908 其他血液分析儀或血球計數器Other hematology analyzer or blood cellcounter",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 060112040003.jpg 060112040002.jpg 060112040001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06011204&Seq=003&Type=9"
+            "title": "060112040003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011204&Seq=003&Type=9"
+        },
+        {
+            "title": "060112040002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011204&Seq=002&Type=9"
+        },
+        {
+            "title": "060112040001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011204&Seq=001&Type=9"
         }
     ]
 }

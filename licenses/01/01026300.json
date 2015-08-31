@@ -1,6 +1,7 @@
 {
     "code": "01026300",
-    "time": "2015-06-24 22:54:40",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01026300",
+    "time": "2015-08-22 22:21:22",
     "許可證字號": "衛署藥製字第026300號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -136,17 +137,21 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01026300&Seq=160&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026300&Seq=160&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 Aminol-A仿單-北進國際-102-10-22.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01026300&Seq=001&Type=9"
+            "title": "Aminol-A仿單-北進國際-102-10-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026300&Seq=001&Type=9"
         },
         {
-            "title": "外盒 Aminol-A瓶貼-北進國際-102-10-22.pdf Aminol-A外盒-北進國際-102-10-22.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01026300&Seq=002&Type=8"
+            "title": "Aminol-A瓶貼-北進國際-102-10-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026300&Seq=002&Type=8"
+        },
+        {
+            "title": "Aminol-A外盒-北進國際-102-10-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026300&Seq=001&Type=8"
         }
     ]
 }

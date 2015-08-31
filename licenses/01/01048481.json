@@ -1,6 +1,7 @@
 {
     "code": "01048481",
-    "time": "2015-06-25 04:00:02",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01048481",
+    "time": "2015-08-23 01:46:55",
     "許可證字號": "衛署藥製字第048481號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -208,21 +209,77 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01048481&Seq=468&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048481&Seq=468&Type=10"
         },
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01048481&Seq=467&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048481&Seq=467&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 喉康說明書-香橙___20100715.jpg 喉康說明書-蜜桃___20100715.jpg 喉康說明書-薄荷___20100715.jpg 喉康說明書-草莓___20100715.jpg 010484810002.jpg 010484810001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01048481&Seq=006&Type=9"
+            "title": "喉康說明書-香橙___20100715.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048481&Seq=006&Type=9"
         },
         {
-            "title": "外盒 喉康黃色貼標_草莓___20100715.jpg 喉康黃色貼標-香橙___20100715.jpg 喉康上葆貼標_蜜桃___20100715.jpg 喉康上葆貼標_薄荷___20100715.jpg 喉康_草莓___20100715.jpg 喉康_密桃___20100715.jpg 喉康-香橙___20100715.jpg 喉康-薄荷___20100715.jpg 010484810002.jpg 010484810001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01048481&Seq=010&Type=8"
+            "title": "喉康說明書-蜜桃___20100715.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048481&Seq=005&Type=9"
+        },
+        {
+            "title": "喉康說明書-薄荷___20100715.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048481&Seq=004&Type=9"
+        },
+        {
+            "title": "喉康說明書-草莓___20100715.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048481&Seq=003&Type=9"
+        },
+        {
+            "title": "010484810002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048481&Seq=002&Type=9"
+        },
+        {
+            "title": "010484810001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048481&Seq=001&Type=9"
+        },
+        {
+            "title": "喉康黃色貼標_草莓___20100715.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048481&Seq=010&Type=8"
+        },
+        {
+            "title": "喉康黃色貼標-香橙___20100715.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048481&Seq=009&Type=8"
+        },
+        {
+            "title": "喉康上葆貼標_蜜桃___20100715.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048481&Seq=008&Type=8"
+        },
+        {
+            "title": "喉康上葆貼標_薄荷___20100715.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048481&Seq=007&Type=8"
+        },
+        {
+            "title": "喉康_草莓___20100715.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048481&Seq=006&Type=8"
+        },
+        {
+            "title": "喉康_密桃___20100715.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048481&Seq=005&Type=8"
+        },
+        {
+            "title": "喉康-香橙___20100715.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048481&Seq=004&Type=8"
+        },
+        {
+            "title": "喉康-薄荷___20100715.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048481&Seq=003&Type=8"
+        },
+        {
+            "title": "010484810002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048481&Seq=002&Type=8"
+        },
+        {
+            "title": "010484810001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048481&Seq=001&Type=8"
         }
     ]
 }

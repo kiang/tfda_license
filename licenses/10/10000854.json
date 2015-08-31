@@ -1,6 +1,7 @@
 {
     "code": "10000854",
-    "time": "2015-06-24 14:57:37",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000854",
+    "time": "2015-08-23 13:39:59",
     "許可證字號": "衛署菌疫輸字第000854號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -36,7 +37,7 @@
     "次製造廠": [
         {
             "製造廠名稱": "F470267600  VETTER PHARMA - FERTIGUNG GMBH &amp; CO. KG",
-            "製造廠廠址": "SCHUTZENSTRAβE 87, 88212 RAVENSBURG, FEDERAL REPUBLIC OF GERMANY",
+            "製造廠廠址": "SCHUTZENSTRABE 87 AND 99-101 88212 RAVENSBURG, GERMANY",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
             "製程": ""
@@ -62,8 +63,28 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 Xyntha 250, 500 & 1000IU 菌疫輸000853, 00852, 000854-103-06-06.pdf 020008540001-102-07-01.pdf 020008540002___20120222.jpg 020008540002___20110614.jpg 020008540001___20120222.jpg 020008540001___20110614.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=10000854&Seq=006&Type=9"
+            "title": "Xyntha 250, 500 & 1000IU 菌疫輸000853, 00852, 000854-103-06-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000854&Seq=006&Type=9"
+        },
+        {
+            "title": "020008540001-102-07-01.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000854&Seq=005&Type=9"
+        },
+        {
+            "title": "020008540002___20120222.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000854&Seq=004&Type=9"
+        },
+        {
+            "title": "020008540002___20110614.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000854&Seq=003&Type=9"
+        },
+        {
+            "title": "020008540001___20120222.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000854&Seq=002&Type=9"
+        },
+        {
+            "title": "020008540001___20110614.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000854&Seq=001&Type=9"
         }
     ]
 }

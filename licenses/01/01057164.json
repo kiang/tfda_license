@@ -1,6 +1,7 @@
 {
     "code": "01057164",
-    "time": "2015-06-22 01:02:12",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057164",
+    "time": "2015-08-23 03:17:50",
     "許可證字號": "衛署藥製字第057164號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -33,17 +34,19 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 F083 Calcipotriol monohydrate標籤___20120510.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01057164&Seq=001&Type=9"
+            "title": "F083 Calcipotriol monohydrate標籤___20120510.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057164&Seq=001&Type=9"
         },
         {
-            "title": "外盒 台耀鈣多三醇單水合物-104-03-31.pdf F083 Calcipotriol monohydrate標籤___20120510.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01057164&Seq=002&Type=8"
+            "title": "台耀鈣多三醇單水合物-104-03-31.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057164&Seq=002&Type=8"
+        },
+        {
+            "title": "F083 Calcipotriol monohydrate標籤___20120510.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057164&Seq=001&Type=8"
         }
     ]
 }

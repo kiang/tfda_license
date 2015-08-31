@@ -1,6 +1,7 @@
 {
     "code": "60000959",
-    "time": "2015-06-22 01:06:34",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60000959",
+    "time": "2015-08-22 17:02:31",
     "許可證字號": "衛部菌疫輸字第000959號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -54,12 +55,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 100009590001-104-04-21.pdf 100009590001-103-11-12.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=60000959&Seq=002&Type=9"
+            "title": "100009590001-104-04-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000959&Seq=002&Type=9"
         },
         {
-            "title": "外盒 100009590002-104-04-21.pdf 100009590002-103-11-12.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=60000959&Seq=002&Type=8"
+            "title": "100009590001-103-11-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000959&Seq=001&Type=9"
+        },
+        {
+            "title": "100009590002-104-04-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000959&Seq=002&Type=8"
+        },
+        {
+            "title": "100009590002-103-11-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000959&Seq=001&Type=8"
         }
     ]
 }

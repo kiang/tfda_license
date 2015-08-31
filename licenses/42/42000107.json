@@ -1,6 +1,7 @@
 {
     "code": "42000107",
-    "time": "2015-06-22 01:10:58",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000107",
+    "time": "2015-08-22 05:54:34",
     "許可證字號": "衛署醫器陸輸字第000107號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,17 +39,19 @@
     },
     "CCC號列": "39269016909 其他塑膠製實驗室、衛生及醫療用之物品Other laboratory, hygienic and pharmaceutical articles, of plastics",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 420001070001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=42000107&Seq=001&Type=9"
+            "title": "420001070001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000107&Seq=001&Type=9"
         },
         {
-            "title": "外盒 420001070002.jpg 420001070001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=42000107&Seq=002&Type=8"
+            "title": "420001070002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000107&Seq=002&Type=8"
+        },
+        {
+            "title": "420001070001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000107&Seq=001&Type=8"
         }
     ]
 }

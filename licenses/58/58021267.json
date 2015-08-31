@@ -1,6 +1,7 @@
 {
     "code": "58021267",
-    "time": "2015-07-05 00:47:01",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58021267",
+    "time": "2015-08-23 21:56:12",
     "許可證字號": "衛部粧輸字第021267號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,16 +35,39 @@
     "CCC號列": "33049990901 其他美容或化粧用品及保養皮膚用品（藥品除外）Other beauty or make-up preparations and preparations for the care of the skin (other than medicaments)",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9600046110",
+            "成分名稱": "BUTYL METHOXYDIBENZOYLMETHANE",
+            "含量描述": "",
+            "含量": "1.2000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900066000",
+            "成分名稱": "OCTOCRYLENE",
+            "含量描述": "",
+            "含量": "2.0000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900071200",
+            "成分名稱": "ETHYLHEXYL METHOXYCINNAMATE",
+            "含量描述": "",
+            "含量": "7.5000000000",
+            "單位": "%(W\/W)"
+        }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 58021267-103-08-05.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=58021267&Seq=001&Type=9"
+            "title": "58021267-103-08-05.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58021267&Seq=001&Type=9"
         },
         {
-            "title": "外盒 58021267-103-08-05.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=58021267&Seq=001&Type=8"
+            "title": "58021267-103-08-05.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58021267&Seq=001&Type=8"
         }
     ]
 }

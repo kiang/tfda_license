@@ -1,6 +1,7 @@
 {
     "code": "02019704",
-    "time": "2015-06-25 16:00:48",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019704",
+    "time": "2015-08-23 10:36:15",
     "許可證字號": "衛署藥輸字第019704號",
     "註銷狀態": "已註銷",
     "註銷日期": "103\/01\/13",
@@ -81,17 +82,29 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02019704&Seq=424&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019704&Seq=424&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 020197040002.jpg 020197040001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02019704&Seq=002&Type=9"
+            "title": "020197040002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019704&Seq=002&Type=9"
         },
         {
-            "title": "外盒 02019704c0003.jpg 02019704c0002.jpg 02019704c0001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02019704&Seq=003&Type=8"
+            "title": "020197040001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019704&Seq=001&Type=9"
+        },
+        {
+            "title": "02019704c0003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019704&Seq=003&Type=8"
+        },
+        {
+            "title": "02019704c0002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019704&Seq=002&Type=8"
+        },
+        {
+            "title": "02019704c0001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019704&Seq=001&Type=8"
         }
     ]
 }

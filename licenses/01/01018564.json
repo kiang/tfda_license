@@ -1,6 +1,7 @@
 {
     "code": "01018564",
-    "time": "2015-06-24 19:50:16",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01018564",
+    "time": "2015-08-22 22:24:10",
     "許可證字號": "衛署藥製字第018564號",
     "註銷狀態": "已註銷",
     "註銷日期": "98\/10\/02",
@@ -72,17 +73,29 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01018564&Seq=083&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018564&Seq=083&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010185640004.jpg 010185640003.jpg 010185640002.jpg 010185640001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01018564&Seq=004&Type=9"
+            "title": "010185640004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018564&Seq=004&Type=9"
         },
         {
-            "title": "外盒 010185640001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01018564&Seq=001&Type=8"
+            "title": "010185640003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018564&Seq=003&Type=9"
+        },
+        {
+            "title": "010185640002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018564&Seq=002&Type=9"
+        },
+        {
+            "title": "010185640001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018564&Seq=001&Type=9"
+        },
+        {
+            "title": "010185640001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018564&Seq=001&Type=8"
         }
     ]
 }

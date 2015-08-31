@@ -1,6 +1,7 @@
 {
     "code": "12000181",
-    "time": "2015-06-24 08:54:26",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12000181",
+    "time": "2015-08-23 13:32:08",
     "許可證字號": "內衛藥製字第000181號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -56,13 +57,21 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=12000181&Seq=001&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000181&Seq=001&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 120001810003.jpg 120001810002.jpg 120001810001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=12000181&Seq=003&Type=9"
+            "title": "120001810003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000181&Seq=003&Type=9"
+        },
+        {
+            "title": "120001810002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000181&Seq=002&Type=9"
+        },
+        {
+            "title": "120001810001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000181&Seq=001&Type=9"
         }
     ]
 }

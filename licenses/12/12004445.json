@@ -1,6 +1,7 @@
 {
     "code": "12004445",
-    "time": "2015-06-24 10:36:10",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12004445",
+    "time": "2015-08-22 17:02:51",
     "許可證字號": "內衛藥製字第004445號",
     "註銷狀態": "已註銷",
     "註銷日期": "93\/04\/16",
@@ -64,13 +65,25 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=12004445&Seq=443&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12004445&Seq=443&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 120044450004.jpg 120044450003.jpg 120044450002.jpg 120044450001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=12004445&Seq=004&Type=9"
+            "title": "120044450004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12004445&Seq=004&Type=9"
+        },
+        {
+            "title": "120044450003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12004445&Seq=003&Type=9"
+        },
+        {
+            "title": "120044450002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12004445&Seq=002&Type=9"
+        },
+        {
+            "title": "120044450001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12004445&Seq=001&Type=9"
         }
     ]
 }

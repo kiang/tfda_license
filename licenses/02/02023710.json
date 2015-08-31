@@ -1,6 +1,7 @@
 {
     "code": "02023710",
-    "time": "2015-06-25 18:19:27",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023710",
+    "time": "2015-08-23 12:42:58",
     "許可證字號": "衛署藥輸字第023710號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,6 +35,15 @@
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "F420026200  Fresenius Kabi AB",
+            "製造廠廠址": "Kraftvagen 1, SE-196 37K Kungsangen, Sweden",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWEDEN",
+            "製程": "原料藥之取樣與秤量作業"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -174,12 +184,56 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 Kabiven_FKT-023710-1312-103-09-11.pdf Kabiven使用說明(Excel)___20110712.jpg Kabiven使用說明(Biofine)___20110712.jpg Kabiven仿單二___20110712.jpg Kabiven仿單一___20110712.jpg 020237100005.jpg 020237100004.jpg 020237100003.jpg 020237100002.jpg 020237100001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02023710&Seq=010&Type=9"
+            "title": "Kabiven_FKT-023710-1312-103-09-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023710&Seq=010&Type=9"
         },
         {
-            "title": "外盒 Kabiven貼標(2053 ml)___20110712.jpg Kabiven貼標(1540 ml)___20110712.jpg Kabiven貼標(1026 ml)___20110712.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02023710&Seq=003&Type=8"
+            "title": "Kabiven使用說明(Excel)___20110712.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023710&Seq=009&Type=9"
+        },
+        {
+            "title": "Kabiven使用說明(Biofine)___20110712.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023710&Seq=008&Type=9"
+        },
+        {
+            "title": "Kabiven仿單二___20110712.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023710&Seq=007&Type=9"
+        },
+        {
+            "title": "Kabiven仿單一___20110712.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023710&Seq=006&Type=9"
+        },
+        {
+            "title": "020237100005.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023710&Seq=005&Type=9"
+        },
+        {
+            "title": "020237100004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023710&Seq=004&Type=9"
+        },
+        {
+            "title": "020237100003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023710&Seq=003&Type=9"
+        },
+        {
+            "title": "020237100002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023710&Seq=002&Type=9"
+        },
+        {
+            "title": "020237100001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023710&Seq=001&Type=9"
+        },
+        {
+            "title": "Kabiven貼標(2053 ml)___20110712.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023710&Seq=003&Type=8"
+        },
+        {
+            "title": "Kabiven貼標(1540 ml)___20110712.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023710&Seq=002&Type=8"
+        },
+        {
+            "title": "Kabiven貼標(1026 ml)___20110712.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023710&Seq=001&Type=8"
         }
     ]
 }

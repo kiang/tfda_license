@@ -1,6 +1,7 @@
 {
     "code": "03012728",
-    "time": "2015-06-24 15:22:22",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=03012728",
+    "time": "2015-08-22 17:23:59",
     "許可證字號": "衛署成製字第012728號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -49,16 +50,32 @@
             "含量描述": "",
             "含量": "0.7800000000",
             "單位": "ML"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8436000161",
+            "成分名稱": "ALCOHOL 95% ( EQ TO ETHANOL 95%)",
+            "含量描述": "",
+            "含量": "0.7800000000",
+            "單位": "ML"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 030127280002.jpg 030127280001.jpg 030127280001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=03012728&Seq=003&Type=9"
+            "title": "030127280002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03012728&Seq=003&Type=9"
         },
         {
-            "title": "外盒 潔菌酒精液-2014-08-18.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=03012728&Seq=001&Type=8"
+            "title": "030127280001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03012728&Seq=002&Type=9"
+        },
+        {
+            "title": "030127280001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03012728&Seq=001&Type=9"
+        },
+        {
+            "title": "潔菌酒精液-2014-08-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03012728&Seq=001&Type=8"
         }
     ]
 }

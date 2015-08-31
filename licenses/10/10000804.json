@@ -1,6 +1,7 @@
 {
     "code": "10000804",
-    "time": "2015-08-28 03:30:20",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000804",
+    "time": "2015-08-24 11:26:02",
     "許可證字號": "衛署菌疫輸字第000804號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,8 +46,28 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 Aprida vial_E_CCDS v8_approved-103-01-16.pdf Aprida vial_C_CCDS v8_approved-103-01-16.pdf Aprida vial_E_CCDS v8_approved-2014-01-10.pdf Aprida vial_C_CCDS v8_approved-2014-01-10.pdf 100008040002.jpg 100008040001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=10000804&Seq=006&Type=9"
+            "title": "Aprida vial_E_CCDS v8_approved-103-01-16.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000804&Seq=006&Type=9"
+        },
+        {
+            "title": "Aprida vial_C_CCDS v8_approved-103-01-16.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000804&Seq=005&Type=9"
+        },
+        {
+            "title": "Aprida vial_E_CCDS v8_approved-2014-01-10.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000804&Seq=004&Type=9"
+        },
+        {
+            "title": "Aprida vial_C_CCDS v8_approved-2014-01-10.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000804&Seq=003&Type=9"
+        },
+        {
+            "title": "100008040002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000804&Seq=002&Type=9"
+        },
+        {
+            "title": "100008040001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000804&Seq=001&Type=9"
         }
     ]
 }

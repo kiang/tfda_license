@@ -1,6 +1,7 @@
 {
     "code": "42000263",
-    "time": "2015-06-23 18:24:43",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000263",
+    "time": "2015-08-22 04:43:14",
     "許可證字號": "衛署醫器陸輸字第000263號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,7 +29,7 @@
         "02輸入",
         "40大陸生產"
     ],
-    "申請商名稱": "1426801100  臺灣諾和諾德藥品股份有限公司",
+    "申請商名稱": "1426801100  台灣諾和諾德藥品股份有限公司",
     "申請商地址": "台北市敦化南路二段２１６號７樓－１",
     "主製造廠": {
         "製造廠名稱": "M640679000  NOVO NORDISK (CHINA) PHARMACEUTICALS CO., LTD.",
@@ -39,17 +40,31 @@
     },
     "CCC號列": "90189080006 其他第９０１８節所屬之貨品Other articles of heading 90.18",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 420002630002___20100701.pdf 420002630001___20100701.pdf 42000263-00001___20121011.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=42000263&Seq=003&Type=9"
+            "title": "420002630002___20100701.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000263&Seq=003&Type=9"
         },
         {
-            "title": "外盒 420002630002___20100701.pdf 420002630001___20100701.pdf 42000263-0001___20121011.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=42000263&Seq=003&Type=8"
+            "title": "420002630001___20100701.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000263&Seq=002&Type=9"
+        },
+        {
+            "title": "42000263-00001___20121011.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000263&Seq=001&Type=9"
+        },
+        {
+            "title": "420002630002___20100701.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000263&Seq=003&Type=8"
+        },
+        {
+            "title": "420002630001___20100701.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000263&Seq=002&Type=8"
+        },
+        {
+            "title": "42000263-0001___20121011.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000263&Seq=001&Type=8"
         }
     ]
 }

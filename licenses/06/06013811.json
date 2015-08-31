@@ -1,6 +1,7 @@
 {
     "code": "06013811",
-    "time": "2015-06-22 01:09:03",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06013811",
+    "time": "2015-08-22 12:35:15",
     "許可證字號": "衛署醫器輸字第013811號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,17 +39,27 @@
     },
     "CCC號列": "30059090001 其他屬第３００５節之貨品Others articles of heading 30.05",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 060138110003.jpg 060138110002.jpg 060138110001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06013811&Seq=003&Type=9"
+            "title": "060138110003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013811&Seq=003&Type=9"
         },
         {
-            "title": "外盒 060138110002.jpg 060138110001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06013811&Seq=002&Type=8"
+            "title": "060138110002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013811&Seq=002&Type=9"
+        },
+        {
+            "title": "060138110001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013811&Seq=001&Type=9"
+        },
+        {
+            "title": "060138110002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013811&Seq=002&Type=8"
+        },
+        {
+            "title": "060138110001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013811&Seq=001&Type=8"
         }
     ]
 }

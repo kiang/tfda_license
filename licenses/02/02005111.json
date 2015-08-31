@@ -1,6 +1,7 @@
 {
     "code": "02005111",
-    "time": "2015-07-05 01:40:52",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02005111",
+    "time": "2015-08-23 05:04:28",
     "許可證字號": "衛署藥輸字第005111號",
     "註銷狀態": "已註銷",
     "註銷日期": "99\/09\/29",
@@ -34,12 +35,29 @@
     "CCC號列": "30041010104 人用醫藥製劑，含青黴素類或具有青黴素酸結構之衍生物者Medicaments, containing penicillins or derivatives thereof,with a penicillinic acid structure, for human use",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812610010",
+            "成分名稱": "PHENOXY METHYL PENICILLIN POTASSIUM",
+            "含量描述": "100000",
+            "含量": "100000.0000000000",
+            "單位": "U (UN"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "白色",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "圓扁形",
+        "標記一": "V2",
+        "標記二": "恆通行1,013"
+    },
     "藥物辨識外觀圖片": [
-
+        {
+            "title": "圖片",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02005111&Seq=417&Type=10"
+        }
     ]
 }

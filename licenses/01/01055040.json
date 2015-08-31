@@ -1,6 +1,7 @@
 {
     "code": "01055040",
-    "time": "2015-08-28 05:52:31",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01055040",
+    "time": "2015-08-24 13:59:07",
     "許可證字號": "衛署藥製字第055040號",
     "註銷狀態": "已註銷",
     "註銷日期": "103\/02\/10",
@@ -33,17 +34,23 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 附件9-醫用氧氣10公升(含)以下鋼瓶指示 (2)___20101014.doc 01055040聯豐台中醫用氧氣___20121023.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01055040&Seq=002&Type=9"
+            "title": "附件9-醫用氧氣10公升(含)以下鋼瓶指示 (2)___20101014.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055040&Seq=002&Type=9"
         },
         {
-            "title": "外盒 標籤--鋼瓶___20101014.doc 圖片1___20101014.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01055040&Seq=002&Type=8"
+            "title": "01055040聯豐台中醫用氧氣___20121023.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055040&Seq=001&Type=9"
+        },
+        {
+            "title": "標籤--鋼瓶___20101014.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055040&Seq=002&Type=8"
+        },
+        {
+            "title": "圖片1___20101014.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055040&Seq=001&Type=8"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "01007157",
-    "time": "2015-06-24 18:04:08",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01007157",
+    "time": "2015-08-22 19:01:47",
     "許可證字號": "衛署藥製字第007157號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -58,13 +59,21 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01007157&Seq=028&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01007157&Seq=028&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010071570003.jpg 010071570002.jpg 010071570001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01007157&Seq=003&Type=9"
+            "title": "010071570003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01007157&Seq=003&Type=9"
+        },
+        {
+            "title": "010071570002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01007157&Seq=002&Type=9"
+        },
+        {
+            "title": "010071570001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01007157&Seq=001&Type=9"
         }
     ]
 }

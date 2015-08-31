@@ -1,6 +1,7 @@
 {
     "code": "70000029",
-    "time": "2015-07-05 00:36:53",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=70000029",
+    "time": "2015-08-23 13:27:03",
     "許可證字號": "衛部罕藥輸字第000029號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -61,12 +62,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 TOBI Podhaler中文仿單(TWI-200415)-104-06-04.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=70000029&Seq=001&Type=9"
+            "title": "TOBI Podhaler中文仿單(TWI-200415)-104-06-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=70000029&Seq=001&Type=9"
         },
         {
-            "title": "外盒 TOBI Podhaler鋁箔-104-06-04.pdf TOBI Podhaler外盒-104-06-04.pdf TOBI Podhaler中文標籤-104-06-04.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=70000029&Seq=003&Type=8"
+            "title": "TOBI Podhaler鋁箔-104-06-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=70000029&Seq=003&Type=8"
+        },
+        {
+            "title": "TOBI Podhaler外盒-104-06-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=70000029&Seq=002&Type=8"
+        },
+        {
+            "title": "TOBI Podhaler中文標籤-104-06-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=70000029&Seq=001&Type=8"
         }
     ]
 }

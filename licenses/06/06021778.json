@@ -1,6 +1,7 @@
 {
     "code": "06021778",
-    "time": "2015-07-24 06:31:24",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021778",
+    "time": "2015-08-22 14:55:24",
     "許可證字號": "衛署醫器輸字第021778號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,7 +15,7 @@
     "中文品名": "康世移動型電腦化放射影像閱讀系統",
     "英文品名": "Carestream Computed Radiography Equipment",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "VITA CR SYSTEM以下空白。增加規格：VITA LE CR SYSTEM、VITA SE CR SYSTEM。以下空白。(一)增加規格：VITA XE CR SYSTEM，以下空白。(二)製造廠名稱變更：Carestream Health, Ltd.",
+    "醫器規格": "VITA CR SYSTEM以下空白。增加規格：VITA LE CR SYSTEM、VITA SE CR SYSTEM。以下空白。(一)增加規格：VITA XE CR SYSTEM，以下空白。(二)製造廠名稱變更：Carestream Health, Ltd.。註銷規格：VITA SE CR SYSTEM。",
     "劑型": "",
     "包裝": "",
     "醫器主類別一": "P放射學科用裝置",
@@ -38,17 +39,31 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 仿單-102-07-03.pdf 06021778001___20130120.pdf 060217780002___20110209.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06021778&Seq=003&Type=9"
+            "title": "060217780001-104-08-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021778&Seq=004&Type=9"
         },
         {
-            "title": "外盒 彩圖-102-07-03.pdf 060217780001___20110209.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06021778&Seq=002&Type=8"
+            "title": "仿單-102-07-03.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021778&Seq=003&Type=9"
+        },
+        {
+            "title": "06021778001___20130120.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021778&Seq=002&Type=9"
+        },
+        {
+            "title": "060217780002___20110209.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021778&Seq=001&Type=9"
+        },
+        {
+            "title": "彩圖-102-07-03.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021778&Seq=002&Type=8"
+        },
+        {
+            "title": "060217780001___20110209.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021778&Seq=001&Type=8"
         }
     ]
 }

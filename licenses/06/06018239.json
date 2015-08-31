@@ -1,6 +1,7 @@
 {
     "code": "06018239",
-    "time": "2015-06-24 07:12:49",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06018239",
+    "time": "2015-08-22 16:18:11",
     "許可證字號": "衛署醫器輸字第018239號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -27,8 +28,8 @@
     "限制項目": [
         "02輸入"
     ],
-    "申請商名稱": "6201123673  西門子股份有限公司",
-    "申請商地址": "台北市南港區園區街３號８樓",
+    "申請商名稱": "6203282380  西門子醫療設備股份有限公司",
+    "申請商地址": "臺中市西屯區大墩十一街338號4樓之1",
     "主製造廠": {
         "製造廠名稱": "M462894000  SIEMENS HEALTHCARE DIAGNOSTICS INC.",
         "製造廠廠址": "500 GBC DRIVE, MAILSTOP 514, P.O .BOX 6101, NEWARK , DE 19714-6101, U.S.A.",
@@ -38,17 +39,107 @@
     },
     "CCC號列": "38220090902 其他診斷或實驗用有底襯之試劑及診斷或實驗用之配製試劑，不論是否有底襯，不包括第３００２節或第３００６節所列者Other diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading 30.02 or 30.06",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 060182390009.jpg 060182390008.jpg 060182390007.jpg 060182390006.jpg 060182390005.jpg 060182390004.jpg 060182390003.jpg 060182390002.jpg 060182390001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06018239&Seq=009&Type=9"
+            "title": "060182390009.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018239&Seq=009&Type=9"
         },
         {
-            "title": "外盒 060182390016.jpg 060182390015.jpg 060182390014.jpg 060182390013.jpg 060182390012.jpg 060182390011.jpg 060182390010.jpg 060182390009.jpg 060182390008.jpg 060182390007.jpg 060182390006.jpg 060182390005.jpg 060182390004.jpg 060182390003.jpg 060182390002.jpg 060182390001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06018239&Seq=016&Type=8"
+            "title": "060182390008.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018239&Seq=008&Type=9"
+        },
+        {
+            "title": "060182390007.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018239&Seq=007&Type=9"
+        },
+        {
+            "title": "060182390006.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018239&Seq=006&Type=9"
+        },
+        {
+            "title": "060182390005.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018239&Seq=005&Type=9"
+        },
+        {
+            "title": "060182390004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018239&Seq=004&Type=9"
+        },
+        {
+            "title": "060182390003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018239&Seq=003&Type=9"
+        },
+        {
+            "title": "060182390002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018239&Seq=002&Type=9"
+        },
+        {
+            "title": "060182390001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018239&Seq=001&Type=9"
+        },
+        {
+            "title": "060182390016.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018239&Seq=016&Type=8"
+        },
+        {
+            "title": "060182390015.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018239&Seq=015&Type=8"
+        },
+        {
+            "title": "060182390014.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018239&Seq=014&Type=8"
+        },
+        {
+            "title": "060182390013.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018239&Seq=013&Type=8"
+        },
+        {
+            "title": "060182390012.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018239&Seq=012&Type=8"
+        },
+        {
+            "title": "060182390011.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018239&Seq=011&Type=8"
+        },
+        {
+            "title": "060182390010.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018239&Seq=010&Type=8"
+        },
+        {
+            "title": "060182390009.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018239&Seq=009&Type=8"
+        },
+        {
+            "title": "060182390008.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018239&Seq=008&Type=8"
+        },
+        {
+            "title": "060182390007.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018239&Seq=007&Type=8"
+        },
+        {
+            "title": "060182390006.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018239&Seq=006&Type=8"
+        },
+        {
+            "title": "060182390005.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018239&Seq=005&Type=8"
+        },
+        {
+            "title": "060182390004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018239&Seq=004&Type=8"
+        },
+        {
+            "title": "060182390003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018239&Seq=003&Type=8"
+        },
+        {
+            "title": "060182390002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018239&Seq=002&Type=8"
+        },
+        {
+            "title": "060182390001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018239&Seq=001&Type=8"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "05003812",
-    "time": "2015-07-05 00:57:31",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05003812",
+    "time": "2015-08-22 07:36:37",
     "許可證字號": "衛署醫器製字第003812號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -39,13 +40,15 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "ingredients": [],
+    "仿單外盒": [
+        {
+            "title": "050038120001___20121122.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003812&Seq=001&Type=9"
+        },
+        {
+            "title": "050038120002___20121122.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003812&Seq=001&Type=8"
+        }
     ]
 }

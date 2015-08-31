@@ -1,6 +1,7 @@
 {
     "code": "08018201",
-    "time": "2015-06-23 13:45:20",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018201",
+    "time": "2015-08-23 20:24:36",
     "許可證字號": "衛署粧輸字第018201號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -61,12 +62,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 080182010001___20110914.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=08018201&Seq=001&Type=9"
+            "title": "080182010001___20110914.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018201&Seq=001&Type=9"
         },
         {
-            "title": "外盒 080182010004___20110914.pdf 080182010003___20110914.pdf 080182010002___20110914.pdf 080182010001___20110916.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=08018201&Seq=004&Type=8"
+            "title": "080182010004___20110914.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018201&Seq=004&Type=8"
+        },
+        {
+            "title": "080182010003___20110914.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018201&Seq=003&Type=8"
+        },
+        {
+            "title": "080182010002___20110914.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018201&Seq=002&Type=8"
+        },
+        {
+            "title": "080182010001___20110916.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018201&Seq=001&Type=8"
         }
     ]
 }

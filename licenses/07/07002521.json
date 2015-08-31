@@ -1,6 +1,7 @@
 {
     "code": "07002521",
-    "time": "2015-07-05 00:48:21",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07002521",
+    "time": "2015-08-23 23:32:42",
     "許可證字號": "衛署粧製字第002521號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,12 +35,95 @@
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2820000105",
+            "成分名稱": "25% AMMONIA SOLUTION ( EQ TO AMMONIA 25%)",
+            "含量描述": "",
+            "含量": "7.5000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8428000500",
+            "成分名稱": "RESORCINOL (RESORCIN)",
+            "含量描述": "",
+            "含量": "0.0500000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200035401",
+            "成分名稱": "AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL)",
+            "含量描述": "",
+            "含量": "1.8000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200035402",
+            "成分名稱": "AMINOPHENOL ORTHO-",
+            "含量描述": "",
+            "含量": "0.0500000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200038920",
+            "成分名稱": "2-METHYLRESORCINOL",
+            "含量描述": "",
+            "含量": "0.0500000000",
+            "單位": "%(W\/W)"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "070025210008.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07002521&Seq=009&Type=9"
+        },
+        {
+            "title": "070025210007.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07002521&Seq=008&Type=9"
+        },
+        {
+            "title": "070025210006.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07002521&Seq=007&Type=9"
+        },
+        {
+            "title": "070025210005.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07002521&Seq=006&Type=9"
+        },
+        {
+            "title": "070025210004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07002521&Seq=005&Type=9"
+        },
+        {
+            "title": "070025210003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07002521&Seq=004&Type=9"
+        },
+        {
+            "title": "070025210002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07002521&Seq=003&Type=9"
+        },
+        {
+            "title": "070025210001___20111028.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07002521&Seq=002&Type=9"
+        },
+        {
+            "title": "070025210001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07002521&Seq=001&Type=9"
+        },
+        {
+            "title": "070025210003___20111028.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07002521&Seq=003&Type=8"
+        },
+        {
+            "title": "070025210002___20111028.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07002521&Seq=002&Type=8"
+        },
+        {
+            "title": "070025210001___20111028.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07002521&Seq=001&Type=8"
+        }
     ]
 }

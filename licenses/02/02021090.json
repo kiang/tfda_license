@@ -1,6 +1,7 @@
 {
     "code": "02021090",
-    "time": "2015-07-05 02:18:26",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021090",
+    "time": "2015-08-23 11:30:50",
     "許可證字號": "衛署藥輸字第021090號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,12 +35,51 @@
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2412001111",
+            "成分名稱": "GINKGO BILOBA FOLIUM EXTRACT",
+            "含量描述": "",
+            "含量": "40.0000000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "020210900002___20110712.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021090&Seq=004&Type=9"
+        },
+        {
+            "title": "020210900002___20110706.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021090&Seq=003&Type=9"
+        },
+        {
+            "title": "020210900001___20110712.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021090&Seq=002&Type=9"
+        },
+        {
+            "title": "020210900001___20110706.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021090&Seq=001&Type=9"
+        },
+        {
+            "title": "020210900002___20110712.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021090&Seq=005&Type=8"
+        },
+        {
+            "title": "020210900002___20110706.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021090&Seq=004&Type=8"
+        },
+        {
+            "title": "020210900001___20110712.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021090&Seq=003&Type=8"
+        },
+        {
+            "title": "020210900001___20110706.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021090&Seq=002&Type=8"
+        },
+        {
+            "title": "020210900001(外盒)___20110712.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021090&Seq=001&Type=8"
+        }
     ]
 }

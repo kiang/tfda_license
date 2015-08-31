@@ -1,6 +1,7 @@
 {
     "code": "01014550",
-    "time": "2015-06-24 18:50:52",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01014550",
+    "time": "2015-08-22 20:14:05",
     "許可證字號": "衛署藥製字第014550號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -69,12 +70,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 020145500001-102-10-28.pdf 010145500001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01014550&Seq=002&Type=9"
+            "title": "020145500001-102-10-28.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014550&Seq=002&Type=9"
         },
         {
-            "title": "外盒 020145500003-102-10-28.jpg 020145500002-102-10-28.jpg 020145500001-102-10-28.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01014550&Seq=003&Type=8"
+            "title": "010145500001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014550&Seq=001&Type=9"
+        },
+        {
+            "title": "020145500003-102-10-28.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014550&Seq=003&Type=8"
+        },
+        {
+            "title": "020145500002-102-10-28.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014550&Seq=002&Type=8"
+        },
+        {
+            "title": "020145500001-102-10-28.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014550&Seq=001&Type=8"
         }
     ]
 }

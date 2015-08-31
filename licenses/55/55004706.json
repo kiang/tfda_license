@@ -1,6 +1,7 @@
 {
     "code": "55004706",
-    "time": "2015-06-24 00:38:08",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=55004706",
+    "time": "2015-08-22 05:52:25",
     "許可證字號": "衛部醫器製字第004706號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,7 +14,7 @@
     "通關簽審文件編號": "",
     "中文品名": "福爾見康血糖測試系統",
     "英文品名": "FORA GD70 Comfort Blood Glucose Monitoring System",
-    "效能": "本產品為體外診斷醫療器材，可定量檢測血液中葡萄糖。需使用新鮮的指尖全血及靜脈全血，適用於糖尿病患者自我量測及監控血糖。",
+    "效能": "本產品為體外診斷醫療器材，可定量檢測血液中葡萄糖。需使用新鮮的指尖全血及靜脈全血，適用於糖尿病患者自我量測及監控血糖。\r\n仿單、包裝變更(變更搭配使用之採血筆資訊)為：詳如中文仿單核定本(原103年9月11日核定之仿單標籤核定本予以回收作廢)。\r\n以下空白。",
     "醫器規格": "詳如中文仿單核定本",
     "劑型": "",
     "包裝": "",
@@ -38,17 +39,23 @@
     },
     "CCC號列": "38220020006 糖尿病試紙，切成一定尺寸Test tape for diabetes, cut to size",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 550047060001-103-10-06.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=55004706&Seq=001&Type=9"
+            "title": "550047060003-104-08-20.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55004706&Seq=002&Type=9"
         },
         {
-            "title": "外盒 550047060002-103-10-06.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=55004706&Seq=001&Type=8"
+            "title": "550047060001-103-10-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55004706&Seq=001&Type=9"
+        },
+        {
+            "title": "550047060004-104-08-20.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55004706&Seq=002&Type=8"
+        },
+        {
+            "title": "550047060002-103-10-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55004706&Seq=001&Type=8"
         }
     ]
 }

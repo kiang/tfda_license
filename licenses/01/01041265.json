@@ -1,6 +1,7 @@
 {
     "code": "01041265",
-    "time": "2015-06-25 03:15:22",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01041265",
+    "time": "2015-08-23 13:24:46",
     "許可證字號": "衛署藥製字第041265號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -24,11 +25,11 @@
         "09委託製造",
         "1G不得製造"
     ],
-    "申請商名稱": "6103030026  國嘉製藥工業股份有限公司幼獅三廠",
+    "申請商名稱": "6203030448  國嘉製藥工業股份有限公司",
     "申請商地址": "臺中市大甲區日南里工十路2號",
     "主製造廠": {
-        "製造廠名稱": "6103030026  國嘉製藥工業股份有限公司幼獅三廠",
-        "製造廠廠址": "臺中市大甲區日南里工十路2號",
+        "製造廠名稱": "1112810300  國嘉製藥工業股份有限公司",
+        "製造廠廠址": "台中市大甲區日南里青年路１５５號",
         "製造廠公司地址": "",
         "製造廠國別": "TAIWAN",
         "製程": ""
@@ -58,13 +59,29 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01041265&Seq=358&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041265&Seq=358&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010412650004.jpg 010412650003.jpg 010412650002.jpg 010412650001.jpg 010412650001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01041265&Seq=005&Type=9"
+            "title": "010412650004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041265&Seq=005&Type=9"
+        },
+        {
+            "title": "010412650003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041265&Seq=004&Type=9"
+        },
+        {
+            "title": "010412650002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041265&Seq=003&Type=9"
+        },
+        {
+            "title": "010412650001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041265&Seq=002&Type=9"
+        },
+        {
+            "title": "010412650001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041265&Seq=001&Type=9"
         }
     ]
 }

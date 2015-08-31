@@ -1,6 +1,7 @@
 {
     "code": "06015730",
-    "time": "2015-06-24 05:39:23",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06015730",
+    "time": "2015-08-22 14:17:28",
     "許可證字號": "衛署醫器輸字第015730號",
     "註銷狀態": "已註銷",
     "註銷日期": "101\/11\/22",
@@ -38,13 +39,19 @@
     },
     "CCC號列": "90212990103 牙科植入器材Enclosseous implant",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 060157300003.jpg 060157300002.jpg 060157300001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06015730&Seq=003&Type=9"
+            "title": "060157300003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06015730&Seq=003&Type=9"
+        },
+        {
+            "title": "060157300002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06015730&Seq=002&Type=9"
+        },
+        {
+            "title": "060157300001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06015730&Seq=001&Type=9"
         }
     ]
 }

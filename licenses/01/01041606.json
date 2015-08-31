@@ -1,6 +1,7 @@
 {
     "code": "01041606",
-    "time": "2015-06-25 02:15:38",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01041606",
+    "time": "2015-08-23 01:13:06",
     "許可證字號": "衛署藥製字第041606號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -24,7 +25,7 @@
         "09委託製造"
     ],
     "申請商名稱": "0908703200  信東生技股份有限公司",
-    "申請商地址": "桃園市桃園區豐林里介壽路２２號",
+    "申請商地址": "桃園市桃園區介壽路２２號",
     "主製造廠": {
         "製造廠名稱": "0306811300  大豐製藥股份有限公司",
         "製造廠廠址": "彰化市延平里岸頭巷１１號",
@@ -57,17 +58,41 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01041606&Seq=365&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041606&Seq=365&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010416060005.jpg 010416060004.jpg 010416060003.jpg 010416060002.jpg 010416060001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01041606&Seq=005&Type=9"
+            "title": "010416060005.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041606&Seq=005&Type=9"
         },
         {
-            "title": "外盒 010416060003.jpg 010416060002.jpg 010416060001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01041606&Seq=003&Type=8"
+            "title": "010416060004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041606&Seq=004&Type=9"
+        },
+        {
+            "title": "010416060003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041606&Seq=003&Type=9"
+        },
+        {
+            "title": "010416060002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041606&Seq=002&Type=9"
+        },
+        {
+            "title": "010416060001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041606&Seq=001&Type=9"
+        },
+        {
+            "title": "010416060003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041606&Seq=003&Type=8"
+        },
+        {
+            "title": "010416060002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041606&Seq=002&Type=8"
+        },
+        {
+            "title": "010416060001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041606&Seq=001&Type=8"
         }
     ]
 }

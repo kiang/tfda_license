@@ -1,6 +1,7 @@
 {
     "code": "02023546",
-    "time": "2015-07-05 02:19:13",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023546",
+    "time": "2015-08-23 11:41:20",
     "許可證字號": "衛署藥輸字第023546號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,12 +35,35 @@
     "CCC號列": "30043200002 含有腎上腺皮質類固醇荷爾蒙，其衍生物及結構式類似者Containing adrenal corticosteroid hormones, their derivatives and structural analogues",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812109530",
+            "成分名稱": "NEOMYCIN (SULFATE)",
+            "含量描述": "",
+            "含量": "3.5000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "6804000200",
+            "成分名稱": "BETAMETHASONE",
+            "含量描述": "",
+            "含量": "1.0000000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "020235460003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023546&Seq=003&Type=9"
+        },
+        {
+            "title": "020235460002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023546&Seq=002&Type=9"
+        },
+        {
+            "title": "020235460001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023546&Seq=001&Type=9"
+        }
     ]
 }

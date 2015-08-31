@@ -1,6 +1,7 @@
 {
     "code": "10000776",
-    "time": "2015-06-24 14:41:25",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000776",
+    "time": "2015-08-23 12:50:34",
     "許可證字號": "衛署菌疫輸字第000776號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -37,7 +38,7 @@
     "次製造廠": [
         {
             "製造廠名稱": "F130139000  AESICA QUEENBOROUGH LIMITED",
-            "製造廠廠址": "QUEENBOROUGH KENT, ME11 5EL, ENGLAND",
+            "製造廠廠址": "NORTH ROAD, QUEENBOROUGH, KENT, ME11 5EL, UK",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED KINGDOM",
             "製程": "注射筆組裝廠"
@@ -47,6 +48,13 @@
             "製造廠廠址": "Road No. 2, Km.59.2 Barceloneta Puerto Rico 00617",
             "製造廠公司地址": "",
             "製造廠國別": "PUERTO RICO",
+            "製程": "原料藥製造廠"
+        },
+        {
+            "製造廠名稱": "F390032000  Lonza Biologics Tuas Pte Ltd.",
+            "製造廠廠址": "35 Tuas South Avenue 6, Singapore, 637377",
+            "製造廠公司地址": "",
+            "製造廠國別": "SINGAPORE",
             "製程": "原料藥製造廠"
         },
         {
@@ -83,12 +91,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 Humira PFS 仿單-CCDS03321113(針頭規格為29ga TPE thermoplastic elastomer) 2014.05 補件 - A3-2014-05-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=10000776&Seq=001&Type=9"
+            "title": "Humira PFS 仿單-CCDS03321113(針頭規格為29ga TPE thermoplastic elastomer) 2014.05 補件 - A3-2014-05-09.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000776&Seq=001&Type=9"
         },
         {
-            "title": "外盒 Humira Label - AbbVie labeling-103-09-09.pdf Humira carton- AbbVie labeling-103-09-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=10000776&Seq=002&Type=8"
+            "title": "Humira Label - AbbVie labeling-103-09-09.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000776&Seq=002&Type=8"
+        },
+        {
+            "title": "Humira carton- AbbVie labeling-103-09-09.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000776&Seq=001&Type=8"
         }
     ]
 }

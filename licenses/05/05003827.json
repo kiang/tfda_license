@@ -1,6 +1,7 @@
 {
     "code": "05003827",
-    "time": "2015-06-24 02:34:47",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05003827",
+    "time": "2015-08-22 07:36:55",
     "許可證字號": "衛署醫器製字第003827號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -39,17 +40,23 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 050038270001-102-11-12.pdf 050038270002___20121220.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=05003827&Seq=002&Type=9"
+            "title": "050038270001-102-11-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003827&Seq=002&Type=9"
         },
         {
-            "title": "外盒 050038270001-102-11-12.pdf 050038270001___20121220.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=05003827&Seq=002&Type=8"
+            "title": "050038270002___20121220.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003827&Seq=001&Type=9"
+        },
+        {
+            "title": "050038270001-102-11-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003827&Seq=002&Type=8"
+        },
+        {
+            "title": "050038270001___20121220.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003827&Seq=001&Type=8"
         }
     ]
 }

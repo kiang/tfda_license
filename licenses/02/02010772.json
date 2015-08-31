@@ -1,6 +1,7 @@
 {
     "code": "02010772",
-    "time": "2015-07-05 02:05:45",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02010772",
+    "time": "2015-08-23 08:07:13",
     "許可證字號": "衛署藥輸字第010772號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,7 +35,14 @@
     "CCC號列": "30042000612 人用醫藥製劑，含巨環類抗生素者Medicaments, containing macrolides, for human use",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812509260",
+            "成分名稱": "ERYTHROMYCIN (STEARATE)",
+            "含量描述": "500.00",
+            "含量": "500.0000000000",
+            "單位": "MG"
+        }
     ],
     "藥物辨識詳細資料": {
         "外觀尺寸": "",
@@ -49,7 +57,7 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02010772&Seq=419&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02010772&Seq=419&Type=10"
         }
     ]
 }

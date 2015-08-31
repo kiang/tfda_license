@@ -1,6 +1,7 @@
 {
     "code": "01026128",
-    "time": "2015-06-24 22:09:36",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01026128",
+    "time": "2015-08-23 13:08:56",
     "許可證字號": "衛署藥製字第026128號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,15 +39,23 @@
             "成分類別": "主成分",
             "成分代碼": "0824000720",
             "成分名稱": "SULFADIAZINE SILVER",
-            "含量描述": "10",
+            "含量描述": "",
             "含量": "10.0000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010261280003.JPG 010261280002.JPG 010261280001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01026128&Seq=003&Type=9"
+            "title": "010261280003.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026128&Seq=003&Type=9"
+        },
+        {
+            "title": "010261280002.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026128&Seq=002&Type=9"
+        },
+        {
+            "title": "010261280001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026128&Seq=001&Type=9"
         }
     ]
 }

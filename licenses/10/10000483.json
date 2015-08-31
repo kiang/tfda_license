@@ -1,6 +1,7 @@
 {
     "code": "10000483",
-    "time": "2015-06-24 15:13:28",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000483",
+    "time": "2015-08-23 13:05:24",
     "許可證字號": "衛署菌疫輸字第000483號",
     "註銷狀態": "已註銷",
     "註銷日期": "94\/09\/09",
@@ -33,13 +34,23 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 100004830004.jpg 100004830003.jpg 100004830002.jpg 100004830001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=10000483&Seq=004&Type=9"
+            "title": "100004830004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000483&Seq=004&Type=9"
+        },
+        {
+            "title": "100004830003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000483&Seq=003&Type=9"
+        },
+        {
+            "title": "100004830002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000483&Seq=002&Type=9"
+        },
+        {
+            "title": "100004830001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000483&Seq=001&Type=9"
         }
     ]
 }

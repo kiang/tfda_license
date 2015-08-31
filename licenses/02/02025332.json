@@ -1,6 +1,7 @@
 {
     "code": "02025332",
-    "time": "2015-07-24 06:10:15",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025332",
+    "time": "2015-08-23 12:22:36",
     "許可證字號": "衛署藥輸字第025332號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -25,7 +26,7 @@
     "申請商名稱": "0924601100  台灣諾華股份有限公司",
     "申請商地址": "台北市中正區仁愛路二段99號11、12、13樓",
     "主製造廠": {
-        "製造廠名稱": "F460793000  ALKERMES GAINESVILLE LLC",
+        "製造廠名稱": "F460793000  Recro Gainesville LLC",
         "製造廠廠址": "1300 GOULD DRIVE, GAINESVILLE, GA 30504, USA",
         "製造廠公司地址": "",
         "製造廠國別": "UNITED STATES",
@@ -42,11 +43,11 @@
             "製程": "許可證持有者"
         },
         {
-            "製造廠名稱": "F460422100  NOVARTIS PHARMACEUTICALS CORPORATION",
-            "製造廠廠址": "25 OLD MILL ROAD SUFFERN NEW YORK 10901 USA",
+            "製造廠名稱": "F460943000  PACKAGING COORDINATORS LLC",
+            "製造廠廠址": "3001 RED LION ROAD, PHILADELPHIA, PENNSYLVANIA (PA) 19114, USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
-            "製程": "分裝"
+            "製程": "包裝及分裝"
         }
     ],
     "ingredients": [
@@ -69,12 +70,32 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 利他能持續性藥效膠囊_英文仿單_TWI-240214-103-08-25.pdf 利他能持續性藥效膠囊_中文仿單_TWI-240214-103-08-25.pdf 利他能持續性藥效膠囊-TWI-150713-102-09-06.pdf Ritalin LA leaflet_e(201211)_typesetting-102-09-06.pdf 02025332英文___20130325.pdf 02025332中文___20130325.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02025332&Seq=006&Type=9"
+            "title": "利他能持續性藥效膠囊_英文仿單_TWI-240214-103-08-25.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025332&Seq=006&Type=9"
         },
         {
-            "title": "外盒 02253320001___20130325.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02025332&Seq=001&Type=8"
+            "title": "利他能持續性藥效膠囊_中文仿單_TWI-240214-103-08-25.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025332&Seq=005&Type=9"
+        },
+        {
+            "title": "利他能持續性藥效膠囊-TWI-150713-102-09-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025332&Seq=004&Type=9"
+        },
+        {
+            "title": "Ritalin LA leaflet_e(201211)_typesetting-102-09-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025332&Seq=003&Type=9"
+        },
+        {
+            "title": "02025332英文___20130325.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025332&Seq=002&Type=9"
+        },
+        {
+            "title": "02025332中文___20130325.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025332&Seq=001&Type=9"
+        },
+        {
+            "title": "02253320001___20130325.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025332&Seq=001&Type=8"
         }
     ]
 }

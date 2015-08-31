@@ -1,6 +1,7 @@
 {
     "code": "01033675",
-    "time": "2015-06-22 00:58:08",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01033675",
+    "time": "2015-08-23 00:29:50",
     "許可證字號": "衛署藥製字第033675號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -56,13 +57,17 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01033675&Seq=261&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033675&Seq=261&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010336750002.jpg 010336750001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01033675&Seq=002&Type=9"
+            "title": "010336750002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033675&Seq=002&Type=9"
+        },
+        {
+            "title": "010336750001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033675&Seq=001&Type=9"
         }
     ]
 }

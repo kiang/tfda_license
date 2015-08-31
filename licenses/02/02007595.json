@@ -1,6 +1,7 @@
 {
     "code": "02007595",
-    "time": "2015-07-05 01:54:55",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02007595",
+    "time": "2015-08-23 04:42:48",
     "許可證字號": "衛署藥輸字第007595號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,12 +35,13 @@
     "CCC號列": "30044099004 其他醫藥製劑，含有生物鹼或其衍生物，但未含內分泌素，第２９３７節之其他產品或抗生素者Other medicaments, containing alkaloids or derivatives thereof but not containing hormones, other products of heading 29.37 or antibiotics",
     "藥理治療分類": "",
     "ingredients": [
-
-    ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "1208004610",
+            "成分名稱": "SCOPOLAMINE BROMOBUTYLATE",
+            "含量描述": "",
+            "含量": "10.0000000000",
+            "單位": "MG"
+        }
     ]
 }

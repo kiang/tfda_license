@@ -1,6 +1,7 @@
 {
     "code": "52026464",
-    "time": "2015-06-24 14:44:04",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026464",
+    "time": "2015-08-23 13:41:24",
     "許可證字號": "衛部藥輸字第026464號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -46,12 +47,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 02-026464-0001_PI_TWI-150115-104-02-04.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=52026464&Seq=001&Type=9"
+            "title": "02-026464-0001_PI_TWI-150115-104-02-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026464&Seq=001&Type=9"
         },
         {
-            "title": "外盒 02-026464-0003_FL-104-02-04.pdf 02-026464-0002_FB-104-02-04.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=52026464&Seq=002&Type=8"
+            "title": "02-026464-0003_FL-104-02-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026464&Seq=002&Type=8"
+        },
+        {
+            "title": "02-026464-0002_FB-104-02-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026464&Seq=001&Type=8"
         }
     ]
 }

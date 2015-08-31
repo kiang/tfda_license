@@ -1,6 +1,7 @@
 {
     "code": "01050768",
-    "time": "2015-06-25 05:30:05",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01050768",
+    "time": "2015-08-23 04:26:05",
     "許可證字號": "衛署藥製字第050768號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -46,12 +47,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 020507680001___20120103.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01050768&Seq=001&Type=9"
+            "title": "020507680001___20120103.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050768&Seq=001&Type=9"
         },
         {
-            "title": "外盒 020507680004___20120103.PDF 020507680003___20120103.PDF 020507680002___20120103.PDF",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01050768&Seq=003&Type=8"
+            "title": "020507680004___20120103.PDF",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050768&Seq=003&Type=8"
+        },
+        {
+            "title": "020507680003___20120103.PDF",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050768&Seq=002&Type=8"
+        },
+        {
+            "title": "020507680002___20120103.PDF",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050768&Seq=001&Type=8"
         }
     ]
 }

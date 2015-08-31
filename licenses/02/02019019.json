@@ -1,6 +1,7 @@
 {
     "code": "02019019",
-    "time": "2015-07-05 00:38:30",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019019",
+    "time": "2015-08-23 09:47:19",
     "許可證字號": "衛署藥輸字第019019號",
     "註銷狀態": "已註銷",
     "註銷日期": "102\/07\/26",
@@ -43,12 +44,91 @@
         }
     ],
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5232000310",
+            "成分名稱": "TETRAHYDROZOLINE HCL",
+            "含量描述": "",
+            "含量": "0.2500000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8406001200",
+            "成分名稱": "FLUOROMETHOLONE",
+            "含量描述": "",
+            "含量": "1.0000000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "Efemoline_英文仿單___20130430.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019019&Seq=017&Type=9"
+        },
+        {
+            "title": "Efemoline_中文仿單___20130430.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019019&Seq=016&Type=9"
+        },
+        {
+            "title": "020190190012.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019019&Seq=015&Type=9"
+        },
+        {
+            "title": "020190190011.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019019&Seq=014&Type=9"
+        },
+        {
+            "title": "020190190010.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019019&Seq=013&Type=9"
+        },
+        {
+            "title": "020190190009.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019019&Seq=012&Type=9"
+        },
+        {
+            "title": "020190190008.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019019&Seq=011&Type=9"
+        },
+        {
+            "title": "020190190007.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019019&Seq=010&Type=9"
+        },
+        {
+            "title": "020190190006.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019019&Seq=009&Type=9"
+        },
+        {
+            "title": "020190190005.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019019&Seq=008&Type=9"
+        },
+        {
+            "title": "020190190004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019019&Seq=007&Type=9"
+        },
+        {
+            "title": "020190190003___20110718.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019019&Seq=006&Type=9"
+        },
+        {
+            "title": "020190190003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019019&Seq=005&Type=9"
+        },
+        {
+            "title": "020190190002___20110718.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019019&Seq=004&Type=9"
+        },
+        {
+            "title": "020190190002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019019&Seq=003&Type=9"
+        },
+        {
+            "title": "020190190001___20110718.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019019&Seq=002&Type=9"
+        },
+        {
+            "title": "020190190001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019019&Seq=001&Type=9"
+        }
     ]
 }

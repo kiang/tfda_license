@@ -1,6 +1,7 @@
 {
     "code": "12005199",
-    "time": "2015-06-24 09:36:01",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12005199",
+    "time": "2015-08-22 17:12:47",
     "許可證字號": "內衛藥製字第005199號",
     "註銷狀態": "已註銷",
     "註銷日期": "102\/08\/02",
@@ -54,12 +55,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 0100519990002___20120808.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=12005199&Seq=001&Type=9"
+            "title": "0100519990002___20120808.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005199&Seq=001&Type=9"
         },
         {
-            "title": "外盒 010051990003___20120808.pdf 010051990001___20120808.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=12005199&Seq=002&Type=8"
+            "title": "010051990003___20120808.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005199&Seq=002&Type=8"
+        },
+        {
+            "title": "010051990001___20120808.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005199&Seq=001&Type=8"
         }
     ]
 }

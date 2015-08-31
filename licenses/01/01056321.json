@@ -1,6 +1,7 @@
 {
     "code": "01056321",
-    "time": "2015-06-22 01:41:54",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01056321",
+    "time": "2015-08-23 02:55:59",
     "許可證字號": "衛署藥製字第056321號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -56,17 +57,37 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01056321&Seq=344&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056321&Seq=344&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010563210001-2014-08-28.pdf PI0563210002___20110727.jpg PI0563210001___20110727.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01056321&Seq=003&Type=9"
+            "title": "010563210001-2014-08-28.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056321&Seq=003&Type=9"
         },
         {
-            "title": "外盒 010563210002-2014-08-28.pdf OB0563210001___20110727.jpg LB0563210001___20110727.jpg AL0563210001___20110727.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01056321&Seq=004&Type=8"
+            "title": "PI0563210002___20110727.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056321&Seq=002&Type=9"
+        },
+        {
+            "title": "PI0563210001___20110727.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056321&Seq=001&Type=9"
+        },
+        {
+            "title": "010563210002-2014-08-28.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056321&Seq=004&Type=8"
+        },
+        {
+            "title": "OB0563210001___20110727.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056321&Seq=003&Type=8"
+        },
+        {
+            "title": "LB0563210001___20110727.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056321&Seq=002&Type=8"
+        },
+        {
+            "title": "AL0563210001___20110727.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056321&Seq=001&Type=8"
         }
     ]
 }

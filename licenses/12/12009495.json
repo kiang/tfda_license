@@ -1,6 +1,7 @@
 {
     "code": "12009495",
-    "time": "2015-06-24 11:42:35",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12009495",
+    "time": "2015-08-22 17:43:02",
     "許可證字號": "內衛藥製字第009495號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -85,12 +86,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 120094950001-102-05-21.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=12009495&Seq=001&Type=9"
+            "title": "120094950001-102-05-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12009495&Seq=001&Type=9"
         },
         {
-            "title": "外盒 120094950004-102-05-21.pdf 120094950003-102-05-21.pdf 120094950002-102-05-21.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=12009495&Seq=003&Type=8"
+            "title": "120094950004-102-05-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12009495&Seq=003&Type=8"
+        },
+        {
+            "title": "120094950003-102-05-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12009495&Seq=002&Type=8"
+        },
+        {
+            "title": "120094950002-102-05-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12009495&Seq=001&Type=8"
         }
     ]
 }

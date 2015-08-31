@@ -1,6 +1,7 @@
 {
     "code": "01056652",
-    "time": "2015-07-24 06:04:03",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01056652",
+    "time": "2015-08-23 13:02:54",
     "許可證字號": "衛署藥製字第056652號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -24,10 +25,10 @@
         "61完成BE試驗"
     ],
     "申請商名稱": "0908703200  信東生技股份有限公司",
-    "申請商地址": "桃園市桃園區豐林里介壽路２２號",
+    "申請商地址": "桃園市桃園區介壽路２２號",
     "主製造廠": {
         "製造廠名稱": "0908703300  信東生技股份有限公司",
-        "製造廠廠址": "桃園市豐林里介壽路２２號",
+        "製造廠廠址": "桃園市桃園區介壽路２２號",
         "製造廠公司地址": "",
         "製造廠國別": "TAIWAN",
         "製程": ""
@@ -46,12 +47,28 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 Metdia E.R.Tablets 500mg (Lit)-20141219-104-05-19.pdf 010566520001___20110819.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01056652&Seq=002&Type=9"
+            "title": "Metdia E.R.Tablets 500mg (Lit)-20141219-104-05-19.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056652&Seq=002&Type=9"
         },
         {
-            "title": "外盒 Metdia E.R.Tablets 500mg (Box)-20141218-104-05-19.pdf Metdia E___20110819.R.Tablets 500mg Alu.pdf 010566520003___20110819.jpg 010566520002___20110819.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01056652&Seq=004&Type=8"
+            "title": "010566520001___20110819.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056652&Seq=001&Type=9"
+        },
+        {
+            "title": "Metdia E.R.Tablets 500mg (Box)-20141218-104-05-19.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056652&Seq=004&Type=8"
+        },
+        {
+            "title": "Metdia E___20110819.R.Tablets 500mg Alu.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056652&Seq=003&Type=8"
+        },
+        {
+            "title": "010566520003___20110819.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056652&Seq=002&Type=8"
+        },
+        {
+            "title": "010566520002___20110819.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056652&Seq=001&Type=8"
         }
     ]
 }

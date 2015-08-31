@@ -1,6 +1,7 @@
 {
     "code": "01003996",
-    "time": "2015-07-05 01:38:02",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01003996",
+    "time": "2015-08-22 18:15:14",
     "許可證字號": "衛署藥製字第003996號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,12 +35,19 @@
     "CCC號列": "29349920005 硫辛酸胺Thioctamide (1,2-Dithiolane-3-pentanoic amide)",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5656900720",
+            "成分名稱": "THIOCTIC ACID AMIDE (THIOCTAMIDE)",
+            "含量描述": "",
+            "含量": "",
+            "單位": ""
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "010039960001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003996&Seq=001&Type=9"
+        }
     ]
 }

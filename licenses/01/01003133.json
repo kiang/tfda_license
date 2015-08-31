@@ -1,6 +1,7 @@
 {
     "code": "01003133",
-    "time": "2015-07-05 01:37:38",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01003133",
+    "time": "2015-08-22 18:43:08",
     "許可證字號": "衛署藥製字第003133號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,12 +35,27 @@
     "CCC號列": "30049092000 安瓿裝蒸餾水Water, distilled, in ampoules",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9604000900",
+            "成分名稱": "WATER FOR INJECTION",
+            "含量描述": "(STERILE)",
+            "含量": "",
+            "單位": ""
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "010031330002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003133&Seq=003&Type=9"
+        },
+        {
+            "title": "010031330001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003133&Seq=002&Type=9"
+        },
+        {
+            "title": "010031330001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003133&Seq=001&Type=9"
+        }
     ]
 }

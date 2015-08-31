@@ -1,6 +1,7 @@
 {
     "code": "10000707",
-    "time": "2015-06-24 15:14:52",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000707",
+    "time": "2015-08-23 13:34:55",
     "許可證字號": "衛署菌疫輸字第000707號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,10 +16,10 @@
     "英文品名": "SAIZEN 3.33MG",
     "適應症": "腦下垂體生長激素分泌不足所導致之生長遲滯、其他 GONADOL DYSGENESIS(TURNER'S SYNDROME)所導致之生長遲滯、青春期前因慢性腎臟衰竭導致之生長遲滯及成人生長激素嚴重分泌不足之補充療法。低出生體重兒(Small for Gestational Age；SGA)逾四歲者之生長障礙。",
     "劑型": "243凍晶注射劑",
-    "包裝": "100瓶以下盒裝",
+    "包裝": "100瓶以下盒裝附等瓶數5公撮溶劑",
     "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "主成分略述": "SOMATROPIN (BIOSYNTHETIC HUMAN GROWTH HORMONE)",
+    "主成分略述": "SOMATROPIN (r-hGH)",
     "限制項目": [
         "02輸入"
     ],
@@ -45,21 +46,33 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "6828001030",
-            "成分名稱": "SOMATROPIN (BIOSYNTHETIC HUMAN GROWTH HORMONE)",
-            "含量描述": "(3.33mg)",
+            "成分代碼": "6828001040",
+            "成分名稱": "SOMATROPIN (r-hGH)",
+            "含量描述": "(=3.33mg)",
             "含量": "10.0000000000",
             "單位": "IU"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 衛署菌疫輸000707號-103-08-07.pdf 100007070002.jpg 100007070001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=10000707&Seq=003&Type=9"
+            "title": "衛署菌疫輸000707號-103-08-07.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000707&Seq=003&Type=9"
         },
         {
-            "title": "外盒 100007070002.jpg 100007070001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=10000707&Seq=002&Type=8"
+            "title": "100007070002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000707&Seq=002&Type=9"
+        },
+        {
+            "title": "100007070001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000707&Seq=001&Type=9"
+        },
+        {
+            "title": "100007070002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000707&Seq=002&Type=8"
+        },
+        {
+            "title": "100007070001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000707&Seq=001&Type=8"
         }
     ]
 }

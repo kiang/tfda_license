@@ -1,6 +1,7 @@
 {
     "code": "01042810",
-    "time": "2015-06-25 03:25:27",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01042810",
+    "time": "2015-08-23 01:38:37",
     "許可證字號": "衛署藥製字第042810號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -65,17 +66,29 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01042810&Seq=387&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042810&Seq=387&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010428100001-2014-02-25.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01042810&Seq=002&Type=9"
+            "title": "010428100001_20150430-104-07-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042810&Seq=003&Type=9"
         },
         {
-            "title": "外盒 010428100004-2014-02-25.pdf 010428100003-2014-02-25.pdf 010428100002-2014-02-25.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01042810&Seq=004&Type=8"
+            "title": "010428100001-2014-02-25.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042810&Seq=002&Type=9"
+        },
+        {
+            "title": "010428100004-2014-02-25.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042810&Seq=004&Type=8"
+        },
+        {
+            "title": "010428100003-2014-02-25.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042810&Seq=003&Type=8"
+        },
+        {
+            "title": "010428100002-2014-02-25.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042810&Seq=002&Type=8"
         }
     ]
 }

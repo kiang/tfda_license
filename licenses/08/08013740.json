@@ -1,6 +1,7 @@
 {
     "code": "08013740",
-    "time": "2015-07-05 00:51:50",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08013740",
+    "time": "2015-08-23 19:04:52",
     "許可證字號": "衛署粧輸字第013740號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,22 +35,71 @@
     "CCC號列": "33059020003 染髮劑Hair dyes",
     "藥理治療分類": "",
     "ingredients": [
-
-    ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "0.1000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900066200",
+            "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
+            "含量描述": "",
+            "含量": "1.0000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900084700",
+            "成分名稱": "2-METHYL-5-HYDROXYETHYLAMINOPHENOL",
+            "含量描述": "",
+            "含量": "0.1000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900084800",
+            "成分名稱": "2-AMINO-3-HYDROXYPYRIDINE",
+            "含量描述": "",
+            "含量": "0.1000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900085300",
+            "成分名稱": "4-HYDROXYPROPYLAMINO-3-NITROPHENOL",
+            "含量描述": "",
+            "含量": "0.1000000000",
+            "單位": "%(W\/W)"
+        }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 080137400002.jpg 080137400001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=08013740&Seq=002&Type=9"
+            "title": "080137400002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013740&Seq=002&Type=9"
         },
         {
-            "title": "外盒 080137400004.jpg 080137400003.jpg 080137400002.jpg 080137400001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=08013740&Seq=004&Type=8"
+            "title": "080137400001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013740&Seq=001&Type=9"
+        },
+        {
+            "title": "080137400004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013740&Seq=004&Type=8"
+        },
+        {
+            "title": "080137400003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013740&Seq=003&Type=8"
+        },
+        {
+            "title": "080137400002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013740&Seq=002&Type=8"
+        },
+        {
+            "title": "080137400001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013740&Seq=001&Type=8"
         }
     ]
 }

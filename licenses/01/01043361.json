@@ -1,6 +1,7 @@
 {
     "code": "01043361",
-    "time": "2015-06-25 03:27:36",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01043361",
+    "time": "2015-08-23 02:18:57",
     "許可證字號": "衛署藥製字第043361號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -101,12 +102,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010433610003___20130402.pdf 010433610002___20130402.pdf 010433610001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01043361&Seq=003&Type=9"
+            "title": "010433610003___20130402.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043361&Seq=003&Type=9"
         },
         {
-            "title": "外盒 010433610001___20130402.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01043361&Seq=001&Type=8"
+            "title": "010433610002___20130402.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043361&Seq=002&Type=9"
+        },
+        {
+            "title": "010433610001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043361&Seq=001&Type=9"
+        },
+        {
+            "title": "010433610001___20130402.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043361&Seq=001&Type=8"
         }
     ]
 }

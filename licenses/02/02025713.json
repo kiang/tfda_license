@@ -1,6 +1,7 @@
 {
     "code": "02025713",
-    "time": "2015-06-25 18:33:09",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025713",
+    "time": "2015-08-23 12:16:01",
     "許可證字號": "衛署藥輸字第025713號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -57,8 +58,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 020257130003-102-12-11.jpg 020257130002-102-12-11.jpg 020257130001-102-12-11.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02025713&Seq=003&Type=9"
+            "title": "020257130003-102-12-11.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025713&Seq=003&Type=9"
+        },
+        {
+            "title": "020257130002-102-12-11.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025713&Seq=002&Type=9"
+        },
+        {
+            "title": "020257130001-102-12-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025713&Seq=001&Type=9"
         }
     ]
 }

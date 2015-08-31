@@ -1,6 +1,7 @@
 {
     "code": "01055239",
-    "time": "2015-06-25 05:32:38",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01055239",
+    "time": "2015-08-23 02:32:56",
     "許可證字號": "衛署藥製字第055239號",
     "廢止狀態": "已廢止",
     "廢止日期": "",
@@ -58,17 +59,29 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01055239&Seq=469&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055239&Seq=469&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010552390002___20101001.jpg 010552390001___20101001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01055239&Seq=002&Type=9"
+            "title": "010552390002___20101001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055239&Seq=002&Type=9"
         },
         {
-            "title": "外盒 010552390005___20101001.jpg 010552390004___20101001.jpg 010552390003___20101001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01055239&Seq=003&Type=8"
+            "title": "010552390001___20101001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055239&Seq=001&Type=9"
+        },
+        {
+            "title": "010552390005___20101001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055239&Seq=003&Type=8"
+        },
+        {
+            "title": "010552390004___20101001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055239&Seq=002&Type=8"
+        },
+        {
+            "title": "010552390003___20101001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055239&Seq=001&Type=8"
         }
     ]
 }

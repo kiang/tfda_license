@@ -1,6 +1,7 @@
 {
     "code": "08016821",
-    "time": "2015-06-23 11:47:35",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016821",
+    "time": "2015-08-23 20:00:50",
     "許可證字號": "衛署粧輸字第016821號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -99,10 +100,22 @@
             "單位": "%(W\/W)"
         }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "080168210001___20100430.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016821&Seq=001&Type=9"
+        },
+        {
+            "title": "080168210003___20100430.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016821&Seq=003&Type=8"
+        },
+        {
+            "title": "080168210002___20100430.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016821&Seq=002&Type=8"
+        },
+        {
+            "title": "080168210001___20100430.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016821&Seq=001&Type=8"
+        }
     ]
 }

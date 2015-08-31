@@ -1,6 +1,7 @@
 {
     "code": "05003327",
-    "time": "2015-06-24 03:14:21",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05003327",
+    "time": "2015-08-22 08:52:21",
     "許可證字號": "衛署醫器製字第003327號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,17 +39,19 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 050033270003___20110822.jpg 050033270002___20110822.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=05003327&Seq=002&Type=9"
+            "title": "050033270003___20110822.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003327&Seq=002&Type=9"
         },
         {
-            "title": "外盒 050033270001___20110822.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=05003327&Seq=001&Type=8"
+            "title": "050033270002___20110822.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003327&Seq=001&Type=9"
+        },
+        {
+            "title": "050033270001___20110822.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003327&Seq=001&Type=8"
         }
     ]
 }

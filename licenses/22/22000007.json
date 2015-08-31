@@ -1,6 +1,7 @@
 {
     "code": "22000007",
-    "time": "2015-06-24 13:07:38",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=22000007",
+    "time": "2015-08-23 13:32:28",
     "許可證字號": "罕菌疫輸字第000007號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -61,12 +62,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 02 Aldurazyme - PI _20140812-103-08-26.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=22000007&Seq=001&Type=9"
+            "title": "02 Aldurazyme - PI _20140812-103-08-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=22000007&Seq=001&Type=9"
         },
         {
-            "title": "外盒 02 Aldurazyme - Vial label_2014812-103-08-26.pdf 02 Aldurazyme - Carton_20140812-103-08-26.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=22000007&Seq=002&Type=8"
+            "title": "02 Aldurazyme - Vial label_2014812-103-08-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=22000007&Seq=002&Type=8"
+        },
+        {
+            "title": "02 Aldurazyme - Carton_20140812-103-08-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=22000007&Seq=001&Type=8"
         }
     ]
 }

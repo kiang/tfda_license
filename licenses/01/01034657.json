@@ -1,6 +1,7 @@
 {
     "code": "01034657",
-    "time": "2015-06-25 00:57:54",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01034657",
+    "time": "2015-08-23 00:38:35",
     "許可證字號": "衛署藥製字第034657號",
     "註銷狀態": "已註銷",
     "註銷日期": "100\/12\/21",
@@ -45,8 +46,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010346570002.jpg 010346570001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01034657&Seq=002&Type=9"
+            "title": "010346570002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034657&Seq=002&Type=9"
+        },
+        {
+            "title": "010346570001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034657&Seq=001&Type=9"
         }
     ]
 }

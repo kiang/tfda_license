@@ -1,6 +1,7 @@
 {
     "code": "10000615",
-    "time": "2015-06-24 14:40:47",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000615",
+    "time": "2015-08-22 17:35:48",
     "許可證字號": "衛署菌疫輸字第000615號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,10 +16,10 @@
     "英文品名": "SAIZEN 8MG CLICK EASY",
     "適應症": "腦下垂體生長激素分泌不足、其他ＧＯＮＡＤＯＬ　ＤＹＳＧＥＮＥＳＩＳ（ＴＵＲＮＥＲ’Ｓ　ＳＹＮＤＲＯＭＥ）所導致之生長遲滯、青春期前因慢性腎臟衰竭導致之生長遲滯。成人生長激素嚴重分泌不足之補充療法。低出生體重兒(Small for Gestational Age；SGA)逾四歲者之生長障礙。",
     "劑型": "245凍晶乾燥注射劑",
-    "包裝": "小瓶附溶液 盒裝",
+    "包裝": "24IU(8mg)小瓶裝附等瓶數瓶裝溶劑 100瓶以下盒裝",
     "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "主成分略述": "SOMATOTROPIN (GROWTH HORMONE)",
+    "主成分略述": "SOMATROPIN (r-hGH)",
     "限制項目": [
         "02輸入"
     ],
@@ -45,21 +46,41 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "6828001000",
-            "成分名稱": "SOMATOTROPIN (GROWTH HORMONE)",
-            "含量描述": "(R-HGH)",
+            "成分代碼": "6828001040",
+            "成分名稱": "SOMATROPIN (r-hGH)",
+            "含量描述": "",
             "含量": "24.0000000000",
             "單位": "IU (I"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 Saizen 8mg 中文仿單-201312 Hi-103-06-06.pdf 100006150004.jpg 100006150003.jpg 100006150002.jpg 100006150001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=10000615&Seq=005&Type=9"
+            "title": "Saizen 8mg 中文仿單-201312 Hi-103-06-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000615&Seq=005&Type=9"
         },
         {
-            "title": "外盒 100006150002.jpg 100006150001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=10000615&Seq=002&Type=8"
+            "title": "100006150004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000615&Seq=004&Type=9"
+        },
+        {
+            "title": "100006150003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000615&Seq=003&Type=9"
+        },
+        {
+            "title": "100006150002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000615&Seq=002&Type=9"
+        },
+        {
+            "title": "100006150001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000615&Seq=001&Type=9"
+        },
+        {
+            "title": "100006150002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000615&Seq=002&Type=8"
+        },
+        {
+            "title": "100006150001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000615&Seq=001&Type=8"
         }
     ]
 }

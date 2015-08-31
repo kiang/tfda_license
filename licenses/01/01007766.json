@@ -1,6 +1,7 @@
 {
     "code": "01007766",
-    "time": "2015-07-05 01:37:12",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01007766",
+    "time": "2015-08-22 19:26:51",
     "許可證字號": "衛署藥製字第007766號",
     "註銷狀態": "已註銷",
     "註銷日期": "103\/02\/24",
@@ -34,18 +35,19 @@
     "CCC號列": "30042000514 人用醫藥製劑，含氯絲菌素或其衍生物者Medicaments, containing chloramphenicol or its derivatives, for human use",
     "藥理治療分類": "",
     "ingredients": [
-
-    ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812409120",
+            "成分名稱": "CHLORAMPHENICOL (PALMITATE)",
+            "含量描述": "125",
+            "含量": "125.0000000000",
+            "單位": "MG"
+        }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010077660001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01007766&Seq=001&Type=9"
+            "title": "010077660001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01007766&Seq=001&Type=9"
         }
     ]
 }

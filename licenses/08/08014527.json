@@ -1,6 +1,7 @@
 {
     "code": "08014527",
-    "time": "2015-07-05 00:55:12",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08014527",
+    "time": "2015-08-23 21:20:38",
     "許可證字號": "衛署粧輸字第014527號",
     "註銷狀態": "已註銷",
     "註銷日期": "103\/07\/24",
@@ -34,12 +35,75 @@
     "CCC號列": "33049910105 含藥之面霜Medicated face cream",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9600046110",
+            "成分名稱": "BUTYL METHOXYDIBENZOYLMETHANE",
+            "含量描述": "",
+            "含量": "0.5000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900071200",
+            "成分名稱": "ETHYLHEXYL METHOXYCINNAMATE",
+            "含量描述": "",
+            "含量": "1.9990000000",
+            "單位": "%(W\/W)"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "080145270001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014527&Seq=001&Type=9"
+        },
+        {
+            "title": "080145270007.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014527&Seq=012&Type=8"
+        },
+        {
+            "title": "080145270006.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014527&Seq=011&Type=8"
+        },
+        {
+            "title": "080145270005___20110708.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014527&Seq=010&Type=8"
+        },
+        {
+            "title": "080145270005.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014527&Seq=009&Type=8"
+        },
+        {
+            "title": "080145270004___20110708.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014527&Seq=008&Type=8"
+        },
+        {
+            "title": "080145270004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014527&Seq=007&Type=8"
+        },
+        {
+            "title": "080145270003___20110708.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014527&Seq=006&Type=8"
+        },
+        {
+            "title": "080145270003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014527&Seq=005&Type=8"
+        },
+        {
+            "title": "080145270002___20110708.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014527&Seq=004&Type=8"
+        },
+        {
+            "title": "080145270002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014527&Seq=003&Type=8"
+        },
+        {
+            "title": "080145270001___20110708.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014527&Seq=002&Type=8"
+        },
+        {
+            "title": "080145270001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014527&Seq=001&Type=8"
+        }
     ]
 }

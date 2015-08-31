@@ -1,6 +1,7 @@
 {
     "code": "01013118",
-    "time": "2015-06-22 00:54:50",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01013118",
+    "time": "2015-08-23 12:48:58",
     "許可證字號": "衛署藥製字第013118號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -39,19 +40,27 @@
             "成分類別": "主成分",
             "成分代碼": "1220000400",
             "成分名稱": "CHLORMEZANONE",
-            "含量描述": "100",
+            "含量描述": "",
             "含量": "100.0000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 氯美查諾錠20150204-104-04-08.doc 010131180001.DOC",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01013118&Seq=002&Type=9"
+            "title": "氯美查諾錠20150204-104-04-08.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01013118&Seq=002&Type=9"
         },
         {
-            "title": "外盒 氯美查諾鋁箔-104-04-08.pdf 氯美查諾標籤-104-04-08.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01013118&Seq=002&Type=8"
+            "title": "010131180001.DOC",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01013118&Seq=001&Type=9"
+        },
+        {
+            "title": "氯美查諾鋁箔-104-04-08.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01013118&Seq=002&Type=8"
+        },
+        {
+            "title": "氯美查諾標籤-104-04-08.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01013118&Seq=001&Type=8"
         }
     ]
 }

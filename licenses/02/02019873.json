@@ -1,6 +1,7 @@
 {
     "code": "02019873",
-    "time": "2015-07-05 02:18:18",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019873",
+    "time": "2015-08-23 10:16:44",
     "許可證字號": "衛署藥輸字第019873號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,12 +35,13 @@
     "CCC號列": "29395990003 其他茶鹼及胺非林（乙二胺茶鹼）及其衍生物；其鹽類Other theophylline and aminophylline (theophylline-ethylenediamine) and their derivatives; salts thereof",
     "藥理治療分類": "",
     "ingredients": [
-
-    ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2412002100",
+            "成分名稱": "PENTOXIFYLLINE",
+            "含量描述": "98.5-101.5",
+            "含量": "",
+            "單位": "GM"
+        }
     ]
 }

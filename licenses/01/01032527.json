@@ -1,6 +1,7 @@
 {
     "code": "01032527",
-    "time": "2015-06-24 23:41:49",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01032527",
+    "time": "2015-08-22 22:38:14",
     "許可證字號": "衛署藥製字第032527號",
     "註銷狀態": "已註銷",
     "註銷日期": "103\/12\/09",
@@ -61,8 +62,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010325270003.doc 010325270002.jpg 010325270001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01032527&Seq=003&Type=9"
+            "title": "010325270003.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032527&Seq=003&Type=9"
+        },
+        {
+            "title": "010325270002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032527&Seq=002&Type=9"
+        },
+        {
+            "title": "010325270001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032527&Seq=001&Type=9"
         }
     ]
 }

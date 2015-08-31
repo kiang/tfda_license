@@ -1,6 +1,7 @@
 {
     "code": "01027044",
-    "time": "2015-06-24 22:38:40",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01027044",
+    "time": "2015-08-22 22:17:57",
     "許可證字號": "衛署藥製字第027044號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -56,13 +57,21 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01027044&Seq=167&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027044&Seq=167&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010270440003.jpg 010270440002.jpg 010270440001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01027044&Seq=003&Type=9"
+            "title": "010270440003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027044&Seq=003&Type=9"
+        },
+        {
+            "title": "010270440002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027044&Seq=002&Type=9"
+        },
+        {
+            "title": "010270440001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027044&Seq=001&Type=9"
         }
     ]
 }

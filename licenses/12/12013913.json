@@ -1,6 +1,7 @@
 {
     "code": "12013913",
-    "time": "2015-06-24 12:25:56",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12013913",
+    "time": "2015-08-23 05:39:47",
     "許可證字號": "內衛藥製字第013913號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -56,21 +57,33 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=12013913&Seq=464&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12013913&Seq=464&Type=10"
         },
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=12013913&Seq=463&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12013913&Seq=463&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 030139130001-103-12-09.pdf 120139130001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=12013913&Seq=002&Type=9"
+            "title": "030139130001-103-12-09.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12013913&Seq=002&Type=9"
         },
         {
-            "title": "外盒 030139130003-103-12-09.jpg 030139130002-103-12-09.jpg 030139130001-103-12-09.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=12013913&Seq=003&Type=8"
+            "title": "120139130001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12013913&Seq=001&Type=9"
+        },
+        {
+            "title": "030139130003-103-12-09.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12013913&Seq=003&Type=8"
+        },
+        {
+            "title": "030139130002-103-12-09.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12013913&Seq=002&Type=8"
+        },
+        {
+            "title": "030139130001-103-12-09.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12013913&Seq=001&Type=8"
         }
     ]
 }

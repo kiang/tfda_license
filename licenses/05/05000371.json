@@ -1,6 +1,7 @@
 {
     "code": "05000371",
-    "time": "2015-06-23 21:33:28",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05000371",
+    "time": "2015-08-22 04:46:55",
     "許可證字號": "衛署醫器製字第000371號",
     "註銷狀態": "已註銷",
     "註銷日期": "101\/11\/19",
@@ -66,8 +67,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 050003710004.jpg 050003710003.jpg 050003710002.jpg 050003710001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=05000371&Seq=004&Type=9"
+            "title": "050003710004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000371&Seq=004&Type=9"
+        },
+        {
+            "title": "050003710003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000371&Seq=003&Type=9"
+        },
+        {
+            "title": "050003710002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000371&Seq=002&Type=9"
+        },
+        {
+            "title": "050003710001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000371&Seq=001&Type=9"
         }
     ]
 }

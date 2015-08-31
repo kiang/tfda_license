@@ -1,6 +1,7 @@
 {
     "code": "07002446",
-    "time": "2015-08-28 03:59:44",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07002446",
+    "time": "2015-08-23 22:48:18",
     "許可證字號": "衛署粧製字第002446號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -33,13 +34,23 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "外盒 07002446-3-104-07-07.pdf 07002446-2-104-07-07.pdf 07002446-1-104-07-07.pdf 070024460001___20111103.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=07002446&Seq=004&Type=8"
+            "title": "07002446-3-104-07-07.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07002446&Seq=004&Type=8"
+        },
+        {
+            "title": "07002446-2-104-07-07.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07002446&Seq=003&Type=8"
+        },
+        {
+            "title": "07002446-1-104-07-07.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07002446&Seq=002&Type=8"
+        },
+        {
+            "title": "070024460001___20111103.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07002446&Seq=001&Type=8"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "01043893",
-    "time": "2015-06-22 01:22:56",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01043893",
+    "time": "2015-08-23 01:55:20",
     "許可證字號": "衛署藥製字第043893號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,7 +39,7 @@
             "成分類別": "主成分",
             "成分代碼": "2808401300",
             "成分名稱": "IBUPROFEN",
-            "含量描述": "600",
+            "含量描述": "",
             "含量": "600.0000000000",
             "單位": "MG"
         }
@@ -56,17 +57,53 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01043893&Seq=400&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043893&Seq=400&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010438930004.jpg 010438930003.jpg 010438930002.jpg 010438930001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01043893&Seq=004&Type=9"
+            "title": "010438930001-104-07-29.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043893&Seq=005&Type=9"
         },
         {
-            "title": "外盒 010438930003.jpg 010438930002.jpg 010438930001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01043893&Seq=003&Type=8"
+            "title": "010438930004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043893&Seq=004&Type=9"
+        },
+        {
+            "title": "010438930003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043893&Seq=003&Type=9"
+        },
+        {
+            "title": "010438930002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043893&Seq=002&Type=9"
+        },
+        {
+            "title": "010438930001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043893&Seq=001&Type=9"
+        },
+        {
+            "title": "010438930004-104-07-29.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043893&Seq=006&Type=8"
+        },
+        {
+            "title": "010438930003-104-07-29.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043893&Seq=005&Type=8"
+        },
+        {
+            "title": "010438930002-104-07-29.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043893&Seq=004&Type=8"
+        },
+        {
+            "title": "010438930003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043893&Seq=003&Type=8"
+        },
+        {
+            "title": "010438930002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043893&Seq=002&Type=8"
+        },
+        {
+            "title": "010438930001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043893&Seq=001&Type=8"
         }
     ]
 }

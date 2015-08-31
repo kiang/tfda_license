@@ -1,6 +1,7 @@
 {
     "code": "42000376",
-    "time": "2015-06-23 23:34:55",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000376",
+    "time": "2015-08-22 13:42:07",
     "許可證字號": "衛署醫器陸輸字第000376號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -39,17 +40,19 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 420003760002___20111006.pdf 420003760001___20111006.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=42000376&Seq=002&Type=9"
+            "title": "420003760002___20111006.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000376&Seq=002&Type=9"
         },
         {
-            "title": "外盒 420003760003___20111006.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=42000376&Seq=001&Type=8"
+            "title": "420003760001___20111006.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000376&Seq=001&Type=9"
+        },
+        {
+            "title": "420003760003___20111006.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000376&Seq=001&Type=8"
         }
     ]
 }

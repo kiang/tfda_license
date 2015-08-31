@@ -1,6 +1,7 @@
 {
     "code": "01026164",
-    "time": "2015-08-28 03:13:35",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01026164",
+    "time": "2015-08-24 11:08:02",
     "許可證字號": "衛署藥製字第026164號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -64,17 +65,21 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01026164&Seq=160&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026164&Seq=160&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 APT-阿斯匹寧-咖啡因錠20130710-102-08-09.doc 010261640001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01026164&Seq=002&Type=9"
+            "title": "APT-阿斯匹寧-咖啡因錠20130710-102-08-09.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026164&Seq=002&Type=9"
         },
         {
-            "title": "外盒 106046-APT 阿斯匹寧 1000-130627-102-08-09.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01026164&Seq=001&Type=8"
+            "title": "010261640001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026164&Seq=001&Type=9"
+        },
+        {
+            "title": "106046-APT 阿斯匹寧 1000-130627-102-08-09.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026164&Seq=001&Type=8"
         }
     ]
 }

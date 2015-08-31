@@ -1,6 +1,7 @@
 {
     "code": "01041268",
-    "time": "2015-06-25 03:15:26",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01041268",
+    "time": "2015-08-23 13:25:18",
     "許可證字號": "衛署藥製字第041268號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -57,17 +58,25 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01041268&Seq=353&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041268&Seq=353&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 100___20120424.9剛炎200毫克新版P1.pdf 010412680001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01041268&Seq=002&Type=9"
+            "title": "100___20120424.9剛炎200毫克新版P1.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041268&Seq=002&Type=9"
         },
         {
-            "title": "外盒 剛炎膠囊-01___20120424.04.13.jpg 100___20120424.9剛炎200毫克新版P2.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01041268&Seq=002&Type=8"
+            "title": "010412680001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041268&Seq=001&Type=9"
+        },
+        {
+            "title": "剛炎膠囊-01___20120424.04.13.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041268&Seq=002&Type=8"
+        },
+        {
+            "title": "100___20120424.9剛炎200毫克新版P2.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041268&Seq=001&Type=8"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "01020854",
-    "time": "2015-06-22 00:56:02",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01020854",
+    "time": "2015-08-22 20:47:34",
     "許可證字號": "衛署藥製字第020854號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -56,17 +57,21 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01020854&Seq=001&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020854&Seq=001&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 世紀喘服利寧錠仿單___20110816.jpg 010208540001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01020854&Seq=002&Type=9"
+            "title": "世紀喘服利寧錠仿單___20110816.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020854&Seq=002&Type=9"
         },
         {
-            "title": "外盒 世紀喘服利寧錠PTP___20110816.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01020854&Seq=001&Type=8"
+            "title": "010208540001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020854&Seq=001&Type=9"
+        },
+        {
+            "title": "世紀喘服利寧錠PTP___20110816.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020854&Seq=001&Type=8"
         }
     ]
 }

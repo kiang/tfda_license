@@ -1,6 +1,7 @@
 {
     "code": "01026588",
-    "time": "2015-06-24 22:10:37",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01026588",
+    "time": "2015-08-22 21:57:22",
     "許可證字號": "衛署藥製字第026588號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,10 +13,10 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102658800",
     "中文品名": "舒潰平錠",
-    "英文品名": "SPAGASGEL TABLETS \"SWISS\"",
+    "英文品名": "SPAGASGEL TABLETS",
     "適應症": "胃酸過多、胃炎、十二指腸炎、胃及十二指腸潰瘍所引起之痙攣及疼痛",
     "劑型": "110錠劑",
-    "包裝": "盒裝 瓶裝 罐裝",
+    "包裝": "24、50、100、1000粒瓶裝 24、50粒盒裝 24、50、100、1000粒罐裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
     "主成分略述": "BUTINOLIN PHOSPHATE, DRIED ALUMINUM HYDROXIDE GEL, CALCIUM CARBONATE",
@@ -72,13 +73,21 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01026588&Seq=164&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026588&Seq=164&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010265880002.jpg 010265880001.jpg 010265880001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01026588&Seq=003&Type=9"
+            "title": "010265880002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026588&Seq=003&Type=9"
+        },
+        {
+            "title": "010265880001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026588&Seq=002&Type=9"
+        },
+        {
+            "title": "010265880001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026588&Seq=001&Type=9"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "10000844",
-    "time": "2015-06-24 16:27:44",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000844",
+    "time": "2015-08-23 13:38:25",
     "許可證字號": "衛署菌疫輸字第000844號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -62,8 +63,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "外盒 F8 TW PI___20121228.pdf F8 TW label___20121228.pdf F8 TW carton___20121228.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=10000844&Seq=003&Type=8"
+            "title": "F8 TW PI___20121228.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000844&Seq=003&Type=8"
+        },
+        {
+            "title": "F8 TW label___20121228.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000844&Seq=002&Type=8"
+        },
+        {
+            "title": "F8 TW carton___20121228.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000844&Seq=001&Type=8"
         }
     ]
 }

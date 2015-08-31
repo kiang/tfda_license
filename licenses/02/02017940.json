@@ -1,6 +1,7 @@
 {
     "code": "02017940",
-    "time": "2015-07-05 02:17:23",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02017940",
+    "time": "2015-08-23 10:07:44",
     "許可證字號": "衛署藥輸字第017940號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,12 +35,13 @@
     "CCC號列": "29209039009 碳酸酯及其鹽類，及其鹵化、磺化、硝化或亞硝化衍生物Carbonic ester and their salts, and their halogenated, sulphonated, nitrated or nitrosated derivatives",
     "藥理治療分類": "",
     "ingredients": [
-
-    ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9600019400",
+            "成分名稱": "METHYLPARABEN (METHYL PARABEN) (METAGIN) (METHYL HYDROXYBENZOATE)(METHYL PARABEN)",
+            "含量描述": "99.0-100.5",
+            "含量": "",
+            "單位": "%"
+        }
     ]
 }

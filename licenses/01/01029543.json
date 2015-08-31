@@ -1,6 +1,7 @@
 {
     "code": "01029543",
-    "time": "2015-06-24 23:08:08",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01029543",
+    "time": "2015-08-23 00:26:29",
     "許可證字號": "衛署藥製字第029543號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -56,17 +57,45 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01029543&Seq=192&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029543&Seq=192&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010370700001___20121009.pdf 010295430001___20121009.pdf 010265290001___20121009.pdf 010185560001___20121009.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01029543&Seq=004&Type=9"
+            "title": "010370700001___20121009.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029543&Seq=004&Type=9"
         },
         {
-            "title": "外盒 010370700002___20121009.TIF 010370700001___20121009.JPG 010295430001___20121009.JPG 010265290001___20121009.JPG 010185560001___20121009.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01029543&Seq=005&Type=8"
+            "title": "010295430001___20121009.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029543&Seq=003&Type=9"
+        },
+        {
+            "title": "010265290001___20121009.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029543&Seq=002&Type=9"
+        },
+        {
+            "title": "010185560001___20121009.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029543&Seq=001&Type=9"
+        },
+        {
+            "title": "010370700002___20121009.TIF",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029543&Seq=005&Type=8"
+        },
+        {
+            "title": "010370700001___20121009.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029543&Seq=004&Type=8"
+        },
+        {
+            "title": "010295430001___20121009.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029543&Seq=003&Type=8"
+        },
+        {
+            "title": "010265290001___20121009.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029543&Seq=002&Type=8"
+        },
+        {
+            "title": "010185560001___20121009.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029543&Seq=001&Type=8"
         }
     ]
 }

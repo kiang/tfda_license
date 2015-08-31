@@ -1,6 +1,7 @@
 {
     "code": "01004140",
-    "time": "2015-06-24 16:46:55",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01004140",
+    "time": "2015-08-22 18:05:37",
     "許可證字號": "衛署藥製字第004140號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,12 +46,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 0328-佼佼軟膏說明書___20120504.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01004140&Seq=002&Type=9"
+            "title": "0328-佼佼軟膏說明書___20120504.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004140&Seq=002&Type=9"
         },
         {
-            "title": "外盒 佼佼軟膏盒稿-轉___20120504.pdf 0327-佼佼軟膏5G___20120504.jpg 0327-佼佼軟膏3___20120504.5G.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01004140&Seq=005&Type=8"
+            "title": "佼佼軟膏盒稿-轉___20120504.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004140&Seq=005&Type=8"
+        },
+        {
+            "title": "0327-佼佼軟膏5G___20120504.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004140&Seq=004&Type=8"
+        },
+        {
+            "title": "0327-佼佼軟膏3___20120504.5G.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004140&Seq=002&Type=8"
         }
     ]
 }

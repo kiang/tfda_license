@@ -1,6 +1,7 @@
 {
     "code": "05001903",
-    "time": "2015-06-24 02:48:52",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05001903",
+    "time": "2015-08-22 06:35:34",
     "許可證字號": "衛署醫器製字第001903號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,7 +29,7 @@
         "01國產"
     ],
     "申請商名稱": "0908703200  信東生技股份有限公司",
-    "申請商地址": "桃園市桃園區豐林里介壽路２２號",
+    "申請商地址": "桃園市桃園區介壽路２２號",
     "主製造廠": {
         "製造廠名稱": "0908703600  信東生技股份有限公司",
         "製造廠廠址": "桃園市桃園區大林里介壽路２２號",
@@ -38,17 +39,27 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 050019030001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=05001903&Seq=001&Type=9"
+            "title": "050019030001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001903&Seq=001&Type=9"
         },
         {
-            "title": "外盒 050019030004.jpg 050019030003.jpg 050019030002.jpg 050019030001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=05001903&Seq=004&Type=8"
+            "title": "050019030004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001903&Seq=004&Type=8"
+        },
+        {
+            "title": "050019030003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001903&Seq=003&Type=8"
+        },
+        {
+            "title": "050019030002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001903&Seq=002&Type=8"
+        },
+        {
+            "title": "050019030001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001903&Seq=001&Type=8"
         }
     ]
 }

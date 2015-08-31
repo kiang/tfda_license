@@ -1,6 +1,7 @@
 {
     "code": "01026804",
-    "time": "2015-06-24 21:52:46",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01026804",
+    "time": "2015-08-22 22:06:15",
     "許可證字號": "衛署藥製字第026804號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,15 +39,19 @@
             "成分類別": "主成分",
             "成分代碼": "6804008640",
             "成分名稱": "DEXAMETHASONE PHOSPHATE (SODIUM)",
-            "含量描述": "(5.5MG) 5",
-            "含量": "",
+            "含量描述": "(5.5MG)",
+            "含量": "5.0000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 027944敏速平注射液仿單-103-09-19.pdf 010268040001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01026804&Seq=002&Type=9"
+            "title": "027944敏速平注射液仿單-103-09-19.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026804&Seq=002&Type=9"
+        },
+        {
+            "title": "010268040001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026804&Seq=001&Type=9"
         }
     ]
 }

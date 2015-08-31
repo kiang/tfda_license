@@ -1,6 +1,7 @@
 {
     "code": "08013685",
-    "time": "2015-07-05 00:56:28",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08013685",
+    "time": "2015-08-23 19:12:27",
     "許可證字號": "衛署粧輸字第013685號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,12 +35,103 @@
     "CCC號列": "33059020003 染髮劑Hair dyes",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2820000100",
+            "成分名稱": "AMMONIA",
+            "含量描述": "",
+            "含量": "1.5000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "0.7330000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900066200",
+            "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
+            "含量描述": "",
+            "含量": "2.4900000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2820000100",
+            "成分名稱": "AMMONIA",
+            "含量描述": "",
+            "含量": "1.8000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "0.3250000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900066200",
+            "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
+            "含量描述": "",
+            "含量": "1.8000000000",
+            "單位": "%(W\/W)"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "080136850006.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013685&Seq=006&Type=9"
+        },
+        {
+            "title": "080136850005.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013685&Seq=005&Type=9"
+        },
+        {
+            "title": "080136850004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013685&Seq=004&Type=9"
+        },
+        {
+            "title": "080136850003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013685&Seq=003&Type=9"
+        },
+        {
+            "title": "080136850002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013685&Seq=002&Type=9"
+        },
+        {
+            "title": "080136850001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013685&Seq=001&Type=9"
+        },
+        {
+            "title": "080136850006.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013685&Seq=006&Type=8"
+        },
+        {
+            "title": "080136850005.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013685&Seq=005&Type=8"
+        },
+        {
+            "title": "080136850004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013685&Seq=004&Type=8"
+        },
+        {
+            "title": "080136850003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013685&Seq=003&Type=8"
+        },
+        {
+            "title": "080136850002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013685&Seq=002&Type=8"
+        },
+        {
+            "title": "080136850001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013685&Seq=001&Type=8"
+        }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "02019012",
-    "time": "2015-07-05 00:38:27",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019012",
+    "time": "2015-08-23 09:45:26",
     "許可證字號": "衛署藥輸字第019012號",
     "註銷狀態": "已註銷",
     "註銷日期": "102\/07\/30",
@@ -43,12 +44,71 @@
         }
     ],
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0400000240",
+            "成分名稱": "ANTAZOLINE HCL",
+            "含量描述": "0.5",
+            "含量": "0.5000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5232000310",
+            "成分名稱": "TETRAHYDROZOLINE HCL",
+            "含量描述": "0.4",
+            "含量": "0.4000000000",
+            "單位": "MG"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "Spersallerg_中文仿單_核定___20121024.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019012&Seq=012&Type=9"
+        },
+        {
+            "title": "IPL- Spersallerg 英文仿單___20121024.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019012&Seq=011&Type=9"
+        },
+        {
+            "title": "020190120010.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019012&Seq=010&Type=9"
+        },
+        {
+            "title": "020190120009.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019012&Seq=009&Type=9"
+        },
+        {
+            "title": "020190120008.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019012&Seq=008&Type=9"
+        },
+        {
+            "title": "020190120007.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019012&Seq=007&Type=9"
+        },
+        {
+            "title": "020190120006.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019012&Seq=006&Type=9"
+        },
+        {
+            "title": "020190120005.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019012&Seq=005&Type=9"
+        },
+        {
+            "title": "020190120004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019012&Seq=004&Type=9"
+        },
+        {
+            "title": "020190120003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019012&Seq=003&Type=9"
+        },
+        {
+            "title": "020190120002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019012&Seq=002&Type=9"
+        },
+        {
+            "title": "020190120001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019012&Seq=001&Type=9"
+        }
     ]
 }

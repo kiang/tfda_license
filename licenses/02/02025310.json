@@ -1,6 +1,7 @@
 {
     "code": "02025310",
-    "time": "2015-06-25 18:30:41",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025310",
+    "time": "2015-08-23 13:24:56",
     "許可證字號": "衛署藥輸字第025310號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -25,9 +26,9 @@
     "申請商名稱": "0924601100  台灣諾華股份有限公司",
     "申請商地址": "台北市中正區仁愛路二段99號11、12、13樓",
     "主製造廠": {
-        "製造廠名稱": "F530003000  LEK PHARMACEUTICALS D.D",
-        "製造廠廠址": "VEROVSKOVA 57, SI-1526 LJUBLJANA, SLOVENIA",
-        "製造廠公司地址": "",
+        "製造廠名稱": "F530002000  LEK PHARMACEUTICALS D.D.",
+        "製造廠廠址": "PERZONALI 47, 2391 PREVALJE, SLOVENIA",
+        "製造廠公司地址": "VEROVSKOVA 57, 1526 LJUBLJANA, SLOVENIA",
         "製造廠國別": "SLOVENIA",
         "製程": ""
     },
@@ -53,12 +54,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 Curam 625mg DT Chinese PI___20110301.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02025310&Seq=001&Type=9"
+            "title": "Curam 625mg DT Chinese PI___20110301.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025310&Seq=001&Type=9"
         },
         {
-            "title": "外盒 Curam DT Chinese label___20110301.pdf Curam 625mg dispersible tablet(100-0201-outline)___20110301.pdf 020253110001___20110301.JPG",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02025310&Seq=003&Type=8"
+            "title": "Curam DT Chinese label___20110301.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025310&Seq=003&Type=8"
+        },
+        {
+            "title": "Curam 625mg dispersible tablet(100-0201-outline)___20110301.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025310&Seq=002&Type=8"
+        },
+        {
+            "title": "020253110001___20110301.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025310&Seq=001&Type=8"
         }
     ]
 }

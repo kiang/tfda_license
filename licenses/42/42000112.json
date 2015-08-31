@@ -1,10 +1,11 @@
 {
     "code": "42000112",
-    "time": "2015-06-23 23:09:02",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000112",
+    "time": "2015-08-22 05:55:56",
     "許可證字號": "衛署醫器陸輸字第000112號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "104\/08\/10",
+    "註銷理由": "自請註銷",
     "有效日期": "105\/05\/08",
     "發證日期": "95\/05\/08",
     "許可證種類": "醫　器",
@@ -39,17 +40,51 @@
     },
     "CCC號列": "90251990101 體溫計Fever thermometers",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 420001120009.jpg 420001120008.jpg 420001120007.jpg 420001120006.jpg 420001120005.jpg 420001120004.jpg 420001120003.jpg 420001120002.jpg 420001120001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=42000112&Seq=009&Type=9"
+            "title": "420001120009.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000112&Seq=009&Type=9"
         },
         {
-            "title": "外盒 420001120002.jpg 420001120001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=42000112&Seq=002&Type=8"
+            "title": "420001120008.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000112&Seq=008&Type=9"
+        },
+        {
+            "title": "420001120007.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000112&Seq=007&Type=9"
+        },
+        {
+            "title": "420001120006.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000112&Seq=006&Type=9"
+        },
+        {
+            "title": "420001120005.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000112&Seq=005&Type=9"
+        },
+        {
+            "title": "420001120004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000112&Seq=004&Type=9"
+        },
+        {
+            "title": "420001120003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000112&Seq=003&Type=9"
+        },
+        {
+            "title": "420001120002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000112&Seq=002&Type=9"
+        },
+        {
+            "title": "420001120001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000112&Seq=001&Type=9"
+        },
+        {
+            "title": "420001120002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000112&Seq=002&Type=8"
+        },
+        {
+            "title": "420001120001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000112&Seq=001&Type=8"
         }
     ]
 }

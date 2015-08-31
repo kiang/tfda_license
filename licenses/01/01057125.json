@@ -1,6 +1,7 @@
 {
     "code": "01057125",
-    "time": "2015-06-25 05:14:20",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057125",
+    "time": "2015-08-23 03:07:03",
     "許可證字號": "衛署藥製字第057125號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -33,13 +34,19 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "外盒 漢翔醫用氧氣短期使用小標___20120608.pdf 漢翔醫用氧氣短期使___20120608...pdf 漢翔醫用氧氣(短期使用標籤)___20120608.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01057125&Seq=003&Type=8"
+            "title": "漢翔醫用氧氣短期使用小標___20120608.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057125&Seq=003&Type=8"
+        },
+        {
+            "title": "漢翔醫用氧氣短期使___20120608...pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057125&Seq=002&Type=8"
+        },
+        {
+            "title": "漢翔醫用氧氣(短期使用標籤)___20120608.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057125&Seq=001&Type=8"
         }
     ]
 }

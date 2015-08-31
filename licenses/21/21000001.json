@@ -1,6 +1,7 @@
 {
     "code": "21000001",
-    "time": "2015-06-22 01:44:40",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=21000001",
+    "time": "2015-08-22 17:03:37",
     "許可證字號": "衛署罕藥製字第000001號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,8 +46,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 201503031057-104-03-03.pdf Sodium Benzoate 中文仿單擬稿 20150302-104-03-03.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=21000001&Seq=002&Type=9"
+            "title": "201503031057-104-03-03.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=21000001&Seq=002&Type=9"
+        },
+        {
+            "title": "Sodium Benzoate 中文仿單擬稿 20150302-104-03-03.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=21000001&Seq=001&Type=9"
         }
     ]
 }

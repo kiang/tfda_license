@@ -1,6 +1,7 @@
 {
     "code": "01042523",
-    "time": "2015-06-25 02:38:45",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01042523",
+    "time": "2015-08-23 01:31:42",
     "許可證字號": "衛署藥製字第042523號",
     "註銷狀態": "已註銷",
     "註銷日期": "103\/07\/11",
@@ -128,13 +129,17 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01042523&Seq=468&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042523&Seq=468&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010425230002.jpg 010425230001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01042523&Seq=002&Type=9"
+            "title": "010425230002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042523&Seq=002&Type=9"
+        },
+        {
+            "title": "010425230001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042523&Seq=001&Type=9"
         }
     ]
 }

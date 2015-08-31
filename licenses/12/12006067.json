@@ -1,6 +1,7 @@
 {
     "code": "12006067",
-    "time": "2015-06-22 01:44:27",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12006067",
+    "time": "2015-08-22 17:56:04",
     "許可證字號": "內衛藥製字第006067號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -23,10 +24,10 @@
         "01國產"
     ],
     "申請商名稱": "0908703200  信東生技股份有限公司",
-    "申請商地址": "桃園市桃園區豐林里介壽路２２號",
+    "申請商地址": "桃園市桃園區介壽路２２號",
     "主製造廠": {
         "製造廠名稱": "0908703300  信東生技股份有限公司",
-        "製造廠廠址": "桃園市豐林里介壽路２２號",
+        "製造廠廠址": "桃園市桃園區介壽路２２號",
         "製造廠公司地址": "",
         "製造廠國別": "TAIWAN",
         "製程": ""
@@ -45,8 +46,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 12006067仿單-104-03-05.pdf 120060670002.jpg 120060670001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=12006067&Seq=003&Type=9"
+            "title": "12006067仿單-104-03-05.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12006067&Seq=003&Type=9"
+        },
+        {
+            "title": "120060670002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12006067&Seq=002&Type=9"
+        },
+        {
+            "title": "120060670001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12006067&Seq=001&Type=9"
         }
     ]
 }

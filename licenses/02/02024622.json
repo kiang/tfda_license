@@ -1,6 +1,7 @@
 {
     "code": "02024622",
-    "time": "2015-06-25 18:12:41",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024622",
+    "time": "2015-08-23 13:05:16",
     "許可證字號": "衛署藥輸字第024622號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -25,8 +26,8 @@
     "申請商名稱": "1504402200  輝瑞大藥廠股份有限公司",
     "申請商地址": "新北市淡水區中正東路２段１７７號",
     "主製造廠": {
-        "製造廠名稱": "F150080100  PFIZER PGM.",
-        "製造廠廠址": "29, ROUTE DES INDUSTRIES 37530 POCE-SIR-CISSE FRANCE.",
+        "製造廠名稱": "F150080100  Fareva Amboise",
+        "製造廠廠址": "ZONE INDUSTRIELLE, 29, ROUTE DES INDUSTRIES 37530 POCE-SIR-CISSE, FRANCE",
         "製造廠公司地址": "",
         "製造廠國別": "FRANCE",
         "製程": ""
@@ -45,12 +46,28 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 020246220001-103-10-20.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02024622&Seq=016&Type=9"
+            "title": "020246220001-103-10-20.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024622&Seq=016&Type=9"
         },
         {
-            "title": "外盒 020246220005.jpg 020246220004.jpg 020246220003.jpg 020246220002.jpg 020246220001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02024622&Seq=005&Type=8"
+            "title": "020246220005.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024622&Seq=005&Type=8"
+        },
+        {
+            "title": "020246220004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024622&Seq=004&Type=8"
+        },
+        {
+            "title": "020246220003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024622&Seq=003&Type=8"
+        },
+        {
+            "title": "020246220002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024622&Seq=002&Type=8"
+        },
+        {
+            "title": "020246220001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024622&Seq=001&Type=8"
         }
     ]
 }

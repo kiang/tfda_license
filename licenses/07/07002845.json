@@ -1,6 +1,7 @@
 {
     "code": "07002845",
-    "time": "2015-06-22 23:40:26",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07002845",
+    "time": "2015-08-23 22:49:44",
     "許可證字號": "衛署粧製字第002845號",
     "註銷狀態": "已註銷",
     "註銷日期": "101\/10\/30",
@@ -45,8 +46,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 070028450002.jpg 070028450001.jpg 070028450001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=07002845&Seq=003&Type=9"
+            "title": "070028450002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07002845&Seq=003&Type=9"
+        },
+        {
+            "title": "070028450001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07002845&Seq=002&Type=9"
+        },
+        {
+            "title": "070028450001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07002845&Seq=001&Type=9"
         }
     ]
 }

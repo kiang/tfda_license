@@ -1,6 +1,7 @@
 {
     "code": "03010322",
-    "time": "2015-08-28 03:29:26",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=03010322",
+    "time": "2015-08-24 11:25:08",
     "許可證字號": "衛署成製字第010322號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -77,12 +78,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 03010322.pdf 030103220001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=03010322&Seq=002&Type=9"
+            "title": "03010322.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03010322&Seq=002&Type=9"
         },
         {
-            "title": "外盒 030103220002.jpg 030103220001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=03010322&Seq=002&Type=8"
+            "title": "030103220001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03010322&Seq=001&Type=9"
+        },
+        {
+            "title": "030103220002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03010322&Seq=002&Type=8"
+        },
+        {
+            "title": "030103220001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03010322&Seq=001&Type=8"
         }
     ]
 }

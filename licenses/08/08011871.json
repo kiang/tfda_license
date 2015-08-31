@@ -1,6 +1,7 @@
 {
     "code": "08011871",
-    "time": "2015-07-05 00:51:38",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08011871",
+    "time": "2015-08-23 18:23:12",
     "許可證字號": "衛署粧輸字第011871號",
     "註銷狀態": "已註銷",
     "註銷日期": "101\/12\/07",
@@ -34,12 +35,51 @@
     "CCC號列": "33049110005 面粉Face powder",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200011500",
+            "成分名稱": "ZINC OXIDE",
+            "含量描述": "",
+            "含量": "3.4100000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9602020800",
+            "成分名稱": "TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)",
+            "含量描述": "",
+            "含量": "12.7194000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900071200",
+            "成分名稱": "ETHYLHEXYL METHOXYCINNAMATE",
+            "含量描述": "",
+            "含量": "5.2447500000",
+            "單位": "%(W\/W)"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "080118710001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011871&Seq=001&Type=9"
+        },
+        {
+            "title": "080118710004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011871&Seq=004&Type=8"
+        },
+        {
+            "title": "080118710003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011871&Seq=003&Type=8"
+        },
+        {
+            "title": "080118710002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011871&Seq=002&Type=8"
+        },
+        {
+            "title": "080118710001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011871&Seq=001&Type=8"
+        }
     ]
 }

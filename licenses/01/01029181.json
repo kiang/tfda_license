@@ -1,6 +1,7 @@
 {
     "code": "01029181",
-    "time": "2015-06-24 23:51:33",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01029181",
+    "time": "2015-08-22 22:53:06",
     "許可證字號": "衛署藥製字第029181號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -11,11 +12,11 @@
     "舊證字號": "01007347",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102918101",
-    "中文品名": "維膚舒軟膏",
+    "中文品名": "\"大豐\"維膚舒軟膏",
     "英文品名": "WEFUSU OINTMENT \"T.F.\"",
     "適應症": "濕疹或皮膚炎。",
     "劑型": "360軟膏劑",
-    "包裝": "瓶裝 管裝",
+    "包裝": "1000公克以下瓶裝 1000公克以下管裝",
     "藥品類別": "07須經醫師指示使用",
     "管制藥品分類級別": "",
     "主成分略述": "HYDROCORTISONE ACETATE, CROTAMITON",
@@ -53,8 +54,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010291810003.jpg 010291810002.jpg 010291810001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01029181&Seq=003&Type=9"
+            "title": "010291810003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029181&Seq=003&Type=9"
+        },
+        {
+            "title": "010291810002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029181&Seq=002&Type=9"
+        },
+        {
+            "title": "010291810001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029181&Seq=001&Type=9"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "01018176",
-    "time": "2015-06-24 19:24:17",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01018176",
+    "time": "2015-08-22 19:21:01",
     "許可證字號": "衛署藥製字第018176號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,8 +21,7 @@
     "管制藥品分類級別": "",
     "主成分略述": "THIAMINE DISULFIDE, PYRIDOXINE HCL, CYANOCOBALAMIN (VIT B12)",
     "限制項目": [
-        "01國產",
-        "1G不得製造"
+        "01國產"
     ],
     "申請商名稱": "0507809200  世達藥品工業股份有限公司",
     "申請商地址": "台中市西屯工業區十五路２號",
@@ -62,8 +62,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010181760003.jpg 010181760002.jpg 010181760001.DOC",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01018176&Seq=003&Type=9"
+            "title": "010181760003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018176&Seq=003&Type=9"
+        },
+        {
+            "title": "010181760002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018176&Seq=002&Type=9"
+        },
+        {
+            "title": "010181760001.DOC",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018176&Seq=001&Type=9"
         }
     ]
 }

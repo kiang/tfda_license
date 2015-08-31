@@ -1,6 +1,7 @@
 {
     "code": "12010002",
-    "time": "2015-06-24 11:17:25",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12010002",
+    "time": "2015-08-22 17:51:19",
     "許可證字號": "內衛藥製字第010002號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,12 +46,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010100020001-2014-03-19.pdf 120100020001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=12010002&Seq=002&Type=9"
+            "title": "010100020001-2014-03-19.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12010002&Seq=002&Type=9"
         },
         {
-            "title": "外盒 010100020003-2014-03-19.pdf 010100020002-2014-03-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=12010002&Seq=002&Type=8"
+            "title": "120100020001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12010002&Seq=001&Type=9"
+        },
+        {
+            "title": "010100020003-2014-03-19.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12010002&Seq=002&Type=8"
+        },
+        {
+            "title": "010100020002-2014-03-19.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12010002&Seq=001&Type=8"
         }
     ]
 }

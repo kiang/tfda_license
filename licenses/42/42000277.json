@@ -1,6 +1,7 @@
 {
     "code": "42000277",
-    "time": "2015-08-28 04:39:42",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000277",
+    "time": "2015-08-24 12:21:51",
     "許可證字號": "衛署醫器陸輸字第000277號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -39,17 +40,19 @@
     },
     "CCC號列": "90181100009 心電圖計Electro-cardiographs",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 img-417100708-0001___20120417.pdf 420002770002___20100907.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=42000277&Seq=002&Type=9"
+            "title": "img-417100708-0001___20120417.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000277&Seq=002&Type=9"
         },
         {
-            "title": "外盒 420002770001___20100907.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=42000277&Seq=001&Type=8"
+            "title": "420002770002___20100907.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000277&Seq=001&Type=9"
+        },
+        {
+            "title": "420002770001___20100907.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000277&Seq=001&Type=8"
         }
     ]
 }

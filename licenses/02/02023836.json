@@ -1,6 +1,7 @@
 {
     "code": "02023836",
-    "time": "2015-06-25 17:39:35",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023836",
+    "time": "2015-08-24 01:29:52",
     "許可證字號": "衛署藥輸字第023836號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -25,14 +26,23 @@
     "申請商名稱": "6231105405  輝瑞生技股份有限公司",
     "申請商地址": "新北市淡水區中正東路二段177號",
     "主製造廠": {
-        "製造廠名稱": "F260317500  TAIHO PHARMACEUTICAL CO., LTD.",
-        "製造廠廠址": "1-27 KANDANISHIKI-CHO, CHIYODA-KU, TOKYO, 101, JAPAN",
+        "製造廠名稱": "F260829000  Otsuka Chemical Co., Ltd. Tokushima Factory",
+        "製造廠廠址": "463 Kagasuno, Kawauchi-cho, Tokushima, 771-0193, Japan",
         "製造廠公司地址": "",
         "製造廠國別": "JAPAN",
         "製程": ""
     },
     "CCC號列": "29411090105 人用青黴素及具有青黴素酸結構之衍生物；其鹽類Penicillins and their derivatives with a penicillanic acid structure; other salts thereof, for human use",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "F260317500  TAIHO PHARMACEUTICAL CO., LTD.",
+            "製造廠廠址": "1-27 KANDANISHIKI-CHO, CHIYODA-KU, TOKYO, 101, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "總公司"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",

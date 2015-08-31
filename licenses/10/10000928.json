@@ -1,6 +1,7 @@
 {
     "code": "10000928",
-    "time": "2015-08-28 03:31:04",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000928",
+    "time": "2015-08-24 11:26:47",
     "許可證字號": "衛署菌疫輸字第000928號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -68,12 +69,36 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 100009280001-104-07-06.pdf 100009280001-104-02-01.pdf 20131213_Response_2_A2_100009280001-103-01-10.pdf 100009280001___20120912.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=10000928&Seq=004&Type=9"
+            "title": "100009280001-104-07-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000928&Seq=004&Type=9"
         },
         {
-            "title": "外盒 100009280005___20120912.pdf 100009280004___20120912.pdf 100009280003___20120912.pdf 100009280002___20120912.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=10000928&Seq=004&Type=8"
+            "title": "100009280001-104-02-01.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000928&Seq=003&Type=9"
+        },
+        {
+            "title": "20131213_Response_2_A2_100009280001-103-01-10.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000928&Seq=002&Type=9"
+        },
+        {
+            "title": "100009280001___20120912.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000928&Seq=001&Type=9"
+        },
+        {
+            "title": "100009280005___20120912.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000928&Seq=004&Type=8"
+        },
+        {
+            "title": "100009280004___20120912.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000928&Seq=003&Type=8"
+        },
+        {
+            "title": "100009280003___20120912.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000928&Seq=002&Type=8"
+        },
+        {
+            "title": "100009280002___20120912.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000928&Seq=001&Type=8"
         }
     ]
 }

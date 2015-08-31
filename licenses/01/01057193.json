@@ -1,6 +1,7 @@
 {
     "code": "01057193",
-    "time": "2015-06-25 04:56:08",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057193",
+    "time": "2015-08-23 04:05:43",
     "許可證字號": "衛署藥製字第057193號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -53,12 +54,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 拉利通仿單-105___20120518.5.15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01057193&Seq=001&Type=9"
+            "title": "拉利通仿單-105___20120518.5.15.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057193&Seq=001&Type=9"
         },
         {
-            "title": "外盒 拉利通鋁箔-101___20120518.5.14.pdf 拉利通貼標101___20120518.5.15-2-.pdf 拉利通外盒101___20120518.5.15-2-.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01057193&Seq=003&Type=8"
+            "title": "拉利通鋁箔-101___20120518.5.14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057193&Seq=003&Type=8"
+        },
+        {
+            "title": "拉利通貼標101___20120518.5.15-2-.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057193&Seq=002&Type=8"
+        },
+        {
+            "title": "拉利通外盒101___20120518.5.15-2-.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057193&Seq=001&Type=8"
         }
     ]
 }

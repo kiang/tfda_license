@@ -1,6 +1,7 @@
 {
     "code": "41000424",
-    "time": "2015-06-24 15:36:55",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=41000424",
+    "time": "2015-08-22 18:42:23",
     "許可證字號": "衛署藥陸輸字第000424號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,13 +35,15 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "外盒 Lincomycin 英文標___20110415.pdf Lincomycin 中文標___20110415.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=41000424&Seq=002&Type=8"
+            "title": "Lincomycin 英文標___20110415.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=41000424&Seq=002&Type=8"
+        },
+        {
+            "title": "Lincomycin 中文標___20110415.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=41000424&Seq=001&Type=8"
         }
     ]
 }

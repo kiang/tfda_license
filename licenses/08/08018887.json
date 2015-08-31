@@ -1,6 +1,7 @@
 {
     "code": "08018887",
-    "time": "2015-06-23 15:12:05",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018887",
+    "time": "2015-08-23 21:06:00",
     "許可證字號": "衛署粧輸字第018887號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -25,7 +26,7 @@
     "申請商名稱": "0810722200  佳麗寶化工股份有限公司",
     "申請商地址": "高雄市大社區保社村旗楠路１０１號",
     "主製造廠": {
-        "製造廠名稱": "C260264100  Kanebo Cosmetics Inc.Odawara plant",
+        "製造廠名稱": "C260264100  KAO COSMETIC PRODUCTS ODAWARA CO., LTD.",
         "製造廠廠址": "3-28,kotobuki-cho 5 chome,odawara city,kanagawa,Japan.",
         "製造廠公司地址": "",
         "製造廠國別": "JAPAN",
@@ -69,8 +70,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "外盒 080188870001-104-01-27.pdf 08018887___20130116.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=08018887&Seq=002&Type=8"
+            "title": "080188870001-104-01-27.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018887&Seq=002&Type=8"
+        },
+        {
+            "title": "08018887___20130116.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018887&Seq=001&Type=8"
         }
     ]
 }

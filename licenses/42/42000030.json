@@ -1,6 +1,7 @@
 {
     "code": "42000030",
-    "time": "2015-06-23 23:28:19",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000030",
+    "time": "2015-08-22 04:55:01",
     "許可證字號": "衛署醫器陸輸字第000030號",
     "註銷狀態": "已註銷",
     "註銷日期": "101\/11\/30",
@@ -39,17 +40,27 @@
     },
     "CCC號列": "90189010109 靜脈血壓計Venous blood pressure manometer",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 420000300004.jpg 420000300003.jpg 420000300002.jpg 420000300001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=42000030&Seq=004&Type=9"
+            "title": "420000300004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000030&Seq=004&Type=9"
         },
         {
-            "title": "外盒 420000300001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=42000030&Seq=001&Type=8"
+            "title": "420000300003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000030&Seq=003&Type=9"
+        },
+        {
+            "title": "420000300002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000030&Seq=002&Type=9"
+        },
+        {
+            "title": "420000300001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000030&Seq=001&Type=9"
+        },
+        {
+            "title": "420000300001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000030&Seq=001&Type=8"
         }
     ]
 }

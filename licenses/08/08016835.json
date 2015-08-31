@@ -1,6 +1,7 @@
 {
     "code": "08016835",
-    "time": "2015-07-05 00:52:58",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016835",
+    "time": "2015-08-23 20:01:07",
     "許可證字號": "衛署粧輸字第016835號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,12 +35,55 @@
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9600046110",
+            "成分名稱": "BUTYL METHOXYDIBENZOYLMETHANE",
+            "含量描述": "",
+            "含量": "2.0000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9600092110",
+            "成分名稱": "PHENYLBENZIMIDAZOLE SULFONIC ACID",
+            "含量描述": "",
+            "含量": "3.5000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900066000",
+            "成分名稱": "OCTOCRYLENE",
+            "含量描述": "",
+            "含量": "3.0000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900095700",
+            "成分名稱": "BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
+            "含量描述": "",
+            "含量": "1.5000000000",
+            "單位": "%(W\/W)"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "080168350004___20110513.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016835&Seq=004&Type=8"
+        },
+        {
+            "title": "080168350003___20110513.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016835&Seq=003&Type=8"
+        },
+        {
+            "title": "080168350002___20110513.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016835&Seq=002&Type=8"
+        },
+        {
+            "title": "080168350001___20110513.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016835&Seq=001&Type=8"
+        }
     ]
 }

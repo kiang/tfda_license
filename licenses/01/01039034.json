@@ -1,6 +1,7 @@
 {
     "code": "01039034",
-    "time": "2015-07-24 07:10:44",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01039034",
+    "time": "2015-08-23 02:37:18",
     "許可證字號": "衛署藥製字第039034號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,7 +19,7 @@
     "包裝": "0.5公撮塑膠瓶裝、單劑量包裝。塑膠瓶裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "主成分略述": "TIMOLOL (MALEATE), SODIUM CHLORIDE, SODIUM PHOSPHATE MONOBASIC DIHYDRATE, SODIUM PHOSPHATE DIBASIC. 12H2O, DISTILLED WATER ADD TO MAKE",
+    "主成分略述": "TIMOLOL (MALEATE)",
     "限制項目": [
         "01國產"
     ],
@@ -41,44 +42,12 @@
             "含量描述": "",
             "含量": "2.5000000000",
             "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "4012002100",
-            "成分名稱": "SODIUM CHLORIDE",
-            "含量描述": "",
-            "含量": "5.4000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "5612002616",
-            "成分名稱": "SODIUM PHOSPHATE MONOBASIC DIHYDRATE",
-            "含量描述": "",
-            "含量": "2.4000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "5612002692",
-            "成分名稱": "SODIUM PHOSPHATE DIBASIC. 12H2O",
-            "含量描述": "",
-            "含量": "12.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9604003300",
-            "成分名稱": "DISTILLED WATER ADD TO MAKE",
-            "含量描述": "",
-            "含量": "1.0000000000",
-            "單位": "ML"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 201405271543-2014-05-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01039034&Seq=001&Type=9"
+            "title": "201405271543-2014-05-27.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039034&Seq=001&Type=9"
         }
     ]
 }

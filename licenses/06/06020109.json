@@ -1,6 +1,7 @@
 {
     "code": "06020109",
-    "time": "2015-06-24 06:13:53",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06020109",
+    "time": "2015-08-22 15:11:04",
     "許可證字號": "衛署醫器輸字第020109號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,17 +39,19 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 201403201628-103-03-20.pdf 06020109-00001___20121119.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06020109&Seq=002&Type=9"
+            "title": "201403201628-103-03-20.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06020109&Seq=002&Type=9"
         },
         {
-            "title": "外盒 06020109-0001___20121119.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06020109&Seq=001&Type=8"
+            "title": "06020109-00001___20121119.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06020109&Seq=001&Type=9"
+        },
+        {
+            "title": "06020109-0001___20121119.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06020109&Seq=001&Type=8"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "02022889",
-    "time": "2015-06-22 01:57:36",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022889",
+    "time": "2015-08-23 13:04:25",
     "許可證字號": "衛署藥輸字第022889號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,7 +19,7 @@
     "包裝": "鋁箔盒裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "主成分略述": "ATORVASTATIN (CALCIUM)",
+    "主成分略述": "ATORVASTATIN CALCIUM (2:1) TRIHYDRATE",
     "限制項目": [
         "02輸入",
         "53依本署七七公告事項八得免除國內進行臨床試驗之特殊醫療需要之新藥"
@@ -46,21 +47,61 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2406003120",
-            "成分名稱": "ATORVASTATIN (CALCIUM)",
-            "含量描述": "",
-            "含量": "40.0000000000",
+            "成分代碼": "2406003130",
+            "成分名稱": "ATORVASTATIN CALCIUM (2:1) TRIHYDRATE",
+            "含量描述": "eq. to 40mg Atorvastatin",
+            "含量": "43.4000000000",
             "單位": "MG"
+        }
+    ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "膜衣錠",
+        "顏色": "白色",
+        "特殊氣味": "",
+        "刻痕": "1",
+        "形狀": "圓凸形",
+        "標記一": "ATV",
+        "標記二": "40"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Lipitor 40mg-104-08-05.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022889&Seq=001&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 020228890001-103-09-16.pdf 020228890001-103-05-13.pdf Lipitor LLD USPI 201202-2___20130128.pdf 020228890010.jpg 020228890009.jpg 020228890008.jpg 020228890007.jpg 020228890006.jpg 020228890005.jpg 020228890004.jpg 020228890003.jpg 020228890002___20110712.jpg 020228890002.jpg 020228890001___20110712.jpg 020228890001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02022889&Seq=015&Type=9"
+            "title": "020228890001-104-08-13.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022889&Seq=002&Type=9"
         },
         {
-            "title": "外盒 020228890006.jpg 020228890005.jpg 020228890004.jpg 020228890003.jpg 020228890002.jpg 020228890001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=02022889&Seq=006&Type=8"
+            "title": "020228890001-104-08-05.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022889&Seq=001&Type=9"
+        },
+        {
+            "title": "020228890006.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022889&Seq=006&Type=8"
+        },
+        {
+            "title": "020228890005.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022889&Seq=005&Type=8"
+        },
+        {
+            "title": "020228890004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022889&Seq=004&Type=8"
+        },
+        {
+            "title": "020228890003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022889&Seq=003&Type=8"
+        },
+        {
+            "title": "020228890002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022889&Seq=002&Type=8"
+        },
+        {
+            "title": "020228890001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022889&Seq=001&Type=8"
         }
     ]
 }

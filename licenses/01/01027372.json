@@ -1,6 +1,7 @@
 {
     "code": "01027372",
-    "time": "2015-06-22 01:36:01",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01027372",
+    "time": "2015-08-22 22:15:10",
     "許可證字號": "衛署藥製字第027372號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +21,8 @@
     "管制藥品分類級別": "",
     "主成分略述": "THIAMINE TETRAHYDROFURFURYL DISULFIDE, PYRIDOXINE HCL, HYDROXOCOBALAMIN (ACETATE)",
     "限制項目": [
-        "01國產"
+        "01國產",
+        "1G不得製造"
     ],
     "申請商名稱": "1700702200  聯邦化學製藥股份有限公司",
     "申請商地址": "台北市內湖區行愛路69號6樓",
@@ -61,12 +63,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 衛署藥製字第027372-104-03-14.pdf 010273720003.jpg 010273720002.jpg 010273720001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01027372&Seq=004&Type=9"
+            "title": "衛署藥製字第027372-104-03-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027372&Seq=004&Type=9"
         },
         {
-            "title": "外盒 衛署藥製字第027372-104-03-14.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01027372&Seq=001&Type=8"
+            "title": "010273720003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027372&Seq=003&Type=9"
+        },
+        {
+            "title": "010273720002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027372&Seq=002&Type=9"
+        },
+        {
+            "title": "010273720001.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027372&Seq=001&Type=9"
+        },
+        {
+            "title": "衛署藥製字第027372-104-03-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027372&Seq=001&Type=8"
         }
     ]
 }

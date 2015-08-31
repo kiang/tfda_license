@@ -1,6 +1,7 @@
 {
     "code": "06008672",
-    "time": "2015-06-23 21:16:55",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06008672",
+    "time": "2015-08-22 10:30:22",
     "許可證字號": "衛署醫器輸字第008672號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,17 +39,19 @@
     },
     "CCC號列": "90219090009 其他第９０２１節所屬之貨品Other articles of heading 90.21",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 060086720001-103-01-22.pdf 060086720001-102-11-06.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06008672&Seq=002&Type=9"
+            "title": "060086720001-103-01-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06008672&Seq=002&Type=9"
         },
         {
-            "title": "外盒 060086720001-103-01-22.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=06008672&Seq=001&Type=8"
+            "title": "060086720001-102-11-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06008672&Seq=001&Type=9"
+        },
+        {
+            "title": "060086720001-103-01-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06008672&Seq=001&Type=8"
         }
     ]
 }

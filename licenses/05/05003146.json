@@ -1,6 +1,7 @@
 {
     "code": "05003146",
-    "time": "2015-06-24 02:10:55",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05003146",
+    "time": "2015-08-22 06:11:41",
     "許可證字號": "衛署醫器製字第003146號",
     "註銷狀態": "已註銷",
     "註銷日期": "103\/12\/19",
@@ -38,17 +39,19 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 05003146___20110510.pdf 050031460001___20110124.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=05003146&Seq=002&Type=9"
+            "title": "05003146___20110510.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003146&Seq=002&Type=9"
         },
         {
-            "title": "外盒 050031460002___20110124.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=05003146&Seq=001&Type=8"
+            "title": "050031460001___20110124.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003146&Seq=001&Type=9"
+        },
+        {
+            "title": "050031460002___20110124.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003146&Seq=001&Type=8"
         }
     ]
 }

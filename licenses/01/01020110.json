@@ -1,6 +1,7 @@
 {
     "code": "01020110",
-    "time": "2015-06-24 20:38:18",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01020110",
+    "time": "2015-08-22 20:33:09",
     "許可證字號": "衛署藥製字第020110號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -53,12 +54,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 Ascaine Tab___20120328.pdf 010201100001.DOC",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01020110&Seq=002&Type=9"
+            "title": "Ascaine Tab___20120328.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020110&Seq=002&Type=9"
         },
         {
-            "title": "外盒 Ascaine鋁箔___20120328.jpg Ascaine標籤___20120328.jpg Ascaine外盒___20120328.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01020110&Seq=003&Type=8"
+            "title": "010201100001.DOC",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020110&Seq=001&Type=9"
+        },
+        {
+            "title": "Ascaine鋁箔___20120328.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020110&Seq=003&Type=8"
+        },
+        {
+            "title": "Ascaine標籤___20120328.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020110&Seq=002&Type=8"
+        },
+        {
+            "title": "Ascaine外盒___20120328.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020110&Seq=001&Type=8"
         }
     ]
 }

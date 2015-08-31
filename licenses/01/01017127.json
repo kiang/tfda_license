@@ -1,6 +1,7 @@
 {
     "code": "01017127",
-    "time": "2015-07-24 05:37:33",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01017127",
+    "time": "2015-08-22 21:33:07",
     "許可證字號": "衛署藥製字第017127號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -96,17 +97,21 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01017127&Seq=001&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01017127&Seq=001&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 感冒錠說明書___20120830.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01017127&Seq=001&Type=9"
+            "title": "感冒錠說明書___20120830.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01017127&Seq=001&Type=9"
         },
         {
-            "title": "外盒 感冒錠鋁箔___20120830.pdf 感冒錠標籤___20120830.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01017127&Seq=002&Type=8"
+            "title": "感冒錠鋁箔___20120830.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01017127&Seq=002&Type=8"
+        },
+        {
+            "title": "感冒錠標籤___20120830.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01017127&Seq=001&Type=8"
         }
     ]
 }

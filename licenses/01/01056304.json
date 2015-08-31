@@ -1,6 +1,7 @@
 {
     "code": "01056304",
-    "time": "2015-06-25 05:47:48",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01056304",
+    "time": "2015-08-23 13:01:45",
     "許可證字號": "衛署藥製字第056304號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -33,17 +34,23 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 img023___20110624.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01056304&Seq=001&Type=9"
+            "title": "img023___20110624.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056304&Seq=001&Type=9"
         },
         {
-            "title": "外盒 IMG_1271___20110624.JPG CO2標籤___20110624.pdf 1___20110624.bmp",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01056304&Seq=003&Type=8"
+            "title": "IMG_1271___20110624.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056304&Seq=003&Type=8"
+        },
+        {
+            "title": "CO2標籤___20110624.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056304&Seq=002&Type=8"
+        },
+        {
+            "title": "1___20110624.bmp",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056304&Seq=001&Type=8"
         }
     ]
 }

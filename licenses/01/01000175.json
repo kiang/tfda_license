@@ -1,6 +1,7 @@
 {
     "code": "01000175",
-    "time": "2015-06-22 00:53:43",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01000175",
+    "time": "2015-08-22 18:29:00",
     "許可證字號": "衛署藥製字第000175號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -56,13 +57,21 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01000175&Seq=004&Type=10"
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01000175&Seq=004&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 衛署藥製字第000175號-2014-06-30.doc 010001750001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/(S(knoy1cz5iwyfatvvguaez0re))\/ShowFile.aspx?LicId=01000175&Seq=003&Type=9"
+            "title": "LT-T026 000175-104-08-05.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01000175&Seq=004&Type=9"
+        },
+        {
+            "title": "衛署藥製字第000175號-2014-06-30.doc",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01000175&Seq=003&Type=9"
+        },
+        {
+            "title": "010001750001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01000175&Seq=001&Type=9"
         }
     ]
 }
