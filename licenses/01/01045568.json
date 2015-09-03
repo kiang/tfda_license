@@ -1,6 +1,7 @@
 {
     "code": "01045568",
-    "time": "2015-08-28 04:04:14",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01045568",
+    "time": "2015-09-04 04:01:44",
     "許可證字號": "衛署藥製字第045568號",
     "註銷狀態": "已註銷",
     "註銷日期": "104\/07\/14",
@@ -85,12 +86,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010455680001-103-01-02.jpg 010455680001-102-11-15.jpg",
+            "title": "010455680001-103-01-02.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045568&Seq=002&Type=9"
         },
         {
-            "title": "外盒 010455680001-103-01-02.jpg 010455680003-102-11-15.jpg 010455680002-102-11-15.jpg",
+            "title": "010455680001-102-11-15.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045568&Seq=001&Type=9"
+        },
+        {
+            "title": "010455680001-103-01-02.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045568&Seq=003&Type=8"
+        },
+        {
+            "title": "010455680003-102-11-15.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045568&Seq=002&Type=8"
+        },
+        {
+            "title": "010455680002-102-11-15.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045568&Seq=001&Type=8"
         }
     ]
 }

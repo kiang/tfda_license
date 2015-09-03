@@ -1,6 +1,7 @@
 {
     "code": "07003936",
-    "time": "2015-08-28 03:59:51",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07003936",
+    "time": "2015-09-04 03:57:28",
     "許可證字號": "衛署粧製字第003936號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -53,12 +54,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 070039360002.jpg 070039360001.jpg",
+            "title": "070039360002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003936&Seq=002&Type=9"
         },
         {
-            "title": "外盒 07003936-104-07-16.pdf 07003936-104-03-30.pdf",
+            "title": "070039360001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003936&Seq=001&Type=9"
+        },
+        {
+            "title": "07003936-104-07-16.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003936&Seq=002&Type=8"
+        },
+        {
+            "title": "07003936-104-03-30.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003936&Seq=001&Type=8"
         }
     ]
 }
