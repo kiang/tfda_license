@@ -1,7 +1,7 @@
 {
     "code": "06024253",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024253",
-    "time": "2015-08-22 14:46:39",
+    "time": "2015-09-11 03:07:02",
     "許可證字號": "衛署醫器輸字第024253號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,7 +15,7 @@
     "中文品名": "“康世”數位牙科放射影像感應器",
     "英文品名": "“Carestream”Digital Dental Radiography Sensors",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "RVG 5100, RVG 6100,以下空白",
+    "醫器規格": "RVG 5100, RVG 6100,以下空白。增加規格: RVG 5200、RVG 6200，以下空白。",
     "劑型": "",
     "包裝": "",
     "醫器主類別一": "F牙科裝置",
@@ -39,11 +39,21 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+
+    ],
     "仿單外盒": [
+        {
+            "title": "060242530001-104-09-01.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06024253&Seq=002&Type=9"
+        },
         {
             "title": "060242530002___20130321.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06024253&Seq=001&Type=9"
+        },
+        {
+            "title": "060242530002-104-09-01.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06024253&Seq=002&Type=8"
         },
         {
             "title": "060242530001___20130321.pdf",
