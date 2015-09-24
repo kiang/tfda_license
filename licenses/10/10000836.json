@@ -1,7 +1,7 @@
 {
     "code": "10000836",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000836",
-    "time": "2015-09-18 04:09:00",
+    "time": "2015-09-25 04:34:51",
     "許可證字號": "衛署菌疫輸字第000836號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -36,10 +36,17 @@
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "F460199200  BAXTER HEALTHCARE CORPORATION",
-            "製造廠廠址": "911 NORTH DAVIS,CLEVELAND,MISSISSIPPI,38732,USA",
+            "製造廠名稱": "F050046000  BAXTER S.A.",
+            "製造廠廠址": "BD. R. BRANQUART 80, 7860 LESSINES, BELGIUM",
             "製造廠公司地址": "",
-            "製造廠國別": "UNITED STATES",
+            "製造廠國別": "BELGIUM",
+            "製程": "Package、Label and batch release"
+        },
+        {
+            "製造廠名稱": "F470367000  HAMELN PHARMACEUTICALS GMBH",
+            "製造廠廠址": "LANGES FELD 13, 31789 HAMELN, LOWER SAXONY, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
             "製程": "Diluent"
         }
     ],
@@ -63,12 +70,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "020008360001-104-09-17.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000836&Seq=003&Type=9"
+        },
+        {
             "title": "020008370001-103-06-11.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000836&Seq=002&Type=9"
         },
         {
             "title": "020008360001-103-02-14.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000836&Seq=001&Type=9"
+        },
+        {
+            "title": "020008360003-104-09-17.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000836&Seq=002&Type=8"
         },
         {
             "title": "020008370002-103-06-11.pdf",
