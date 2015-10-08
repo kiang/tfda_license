@@ -1,7 +1,7 @@
 {
     "code": "70000028",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=70000028",
-    "time": "2015-08-23 13:27:02",
+    "time": "2015-10-09 03:48:40",
     "許可證字號": "衛部罕藥輸字第000028號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -36,11 +36,25 @@
     "藥理治療分類": "",
     "次製造廠": [
         {
+            "製造廠名稱": "1225204000  裕利股份有限公司",
+            "製造廠廠址": "桃園市大園區和平村1鄰舊厝子1之2號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "貼標廠"
+        },
+        {
             "製造廠名稱": "F130226000  ALMAC PHARMA SERVICES LTD.",
             "製造廠廠址": "SEAGOE INDUSTRIAL ESTATE, CRAIGAVON, CO. ARMAGH, BT63 5QD, U.K.",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED KINGDOM",
             "製程": "公司"
+        },
+        {
+            "製造廠名稱": "F430277000  ACTELION PHARMACEUTICALS LTD.",
+            "製造廠廠址": "GEWERBESTRASSE 16, CH-4123 ALLSCHWIL, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": "許可證持有者"
         },
         {
             "製造廠名稱": "F430292100  LONZA AG",
@@ -62,8 +76,24 @@
     ],
     "仿單外盒": [
         {
+            "title": "Zavesca_PI-104-08-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=70000028&Seq=002&Type=9"
+        },
+        {
             "title": "020000280001-103-08-29.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=70000028&Seq=001&Type=9"
+        },
+        {
+            "title": "Zavesca_label-104-08-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=70000028&Seq=005&Type=8"
+        },
+        {
+            "title": "Zavesca_carton-104-08-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=70000028&Seq=004&Type=8"
+        },
+        {
+            "title": "Zavesca_blister-104-08-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=70000028&Seq=003&Type=8"
         },
         {
             "title": "020000280003-103-08-29.pdf",

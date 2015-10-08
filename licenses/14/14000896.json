@@ -1,7 +1,7 @@
 {
     "code": "14000896",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=14000896",
-    "time": "2015-08-24 13:05:20",
+    "time": "2015-10-09 03:46:28",
     "許可證字號": "內衛成製字第000896號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,10 +16,10 @@
     "英文品名": "CHINALOL OINTMENT",
     "適應症": "挫傷、捩傷、肩酸、肌肉痛、神經痛、風濕性疼痛",
     "劑型": "360軟膏劑",
-    "包裝": "管裝",
+    "包裝": "10, 15, 20, 25, 30, 50等克管裝",
     "藥品類別": "03成藥",
     "管制藥品分類級別": "",
-    "主成分略述": "DIPHENHYDRAMINE LAURYL SULFATE, CAMPHOR, MENTHOL L-, METHYL SALICYLATE, TOCOPHEROL ACETATE ALPHA (EQ TO VIT E ACETATE) (EQ TO VITAMIN E ACETATE)",
+    "主成分略述": "DIPHENHYDRAMINE LAURYL SULFATE, CAMPHOR, L-MENTHOL, METHYL SALICYLATE, TOCOPHEROL ACETATE ALPHA (EQ TO VIT E ACETATE) (EQ TO VITAMIN E ACETATE)",
     "限制項目": [
         "01國產"
     ],
@@ -54,7 +54,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "8408000302",
-            "成分名稱": "MENTHOL L-",
+            "成分名稱": "L-MENTHOL",
             "含量描述": "60",
             "含量": "60.0000000000",
             "單位": "MG"
@@ -84,6 +84,10 @@
         {
             "title": "140008960001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14000896&Seq=001&Type=9"
+        },
+        {
+            "title": "v23_CNL-O_外盒_active-104-09-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14000896&Seq=001&Type=8"
         }
     ]
 }

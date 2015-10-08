@@ -1,7 +1,7 @@
 {
     "code": "01038192",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01038192",
-    "time": "2015-08-23 01:17:27",
+    "time": "2015-10-09 03:25:32",
     "許可證字號": "衛署藥製字第038192號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,8 +13,8 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00103819204",
     "中文品名": "\"台裕\" 泰博敏注射液５毫克\/毫升（羥鈷胺）",
-    "英文品名": "TAIBAMIN INJECTION 5MG\/ML (HYDROXOCOBALAMINE) \"TAI YU\"",
-    "適應症": "維化命Ｂ１２缺乏症之預防及治療",
+    "英文品名": "TAIBAMIN INJECTION 5MG\/ML \"TAI YU\" (HYDROXOCOBALAMINE)",
+    "適應症": "惡性貧血症、出血性貧血、具有神經合併症之惡性貧血、巨紅血球性貧血、巨胚紅血球性貧血、維他命Ｂ１２缺乏症",
     "劑型": "270注射劑",
     "包裝": "2公撮安瓿 100支以下盒裝",
     "藥品類別": "05限由醫師使用",
@@ -39,12 +39,16 @@
             "成分類別": "主成分",
             "成分代碼": "8811200400",
             "成分名稱": "HYDROXOCOBALAMIN",
-            "含量描述": "5",
+            "含量描述": "(as acetate)",
             "含量": "5.0000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "泰博敏-E-104-09-07.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038192&Seq=003&Type=9"
+        },
         {
             "title": "038192 泰博敏-D-103-03-14.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038192&Seq=002&Type=9"
@@ -52,6 +56,14 @@
         {
             "title": "010381920001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038192&Seq=001&Type=9"
+        },
+        {
+            "title": "1A10B0AT010002-泰博敏注射液-2ml(B版)2015-07-08-104-09-07.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038192&Seq=002&Type=8"
+        },
+        {
+            "title": "1A01B0AT010002-泰博敏注射液5毫克2mlx100A(A版)2015-07-09 (2)-104-09-07.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038192&Seq=001&Type=8"
         }
     ]
 }

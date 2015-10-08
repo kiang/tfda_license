@@ -1,7 +1,7 @@
 {
     "code": "06019589",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019589",
-    "time": "2015-08-24 13:10:35",
+    "time": "2015-10-09 04:03:22",
     "許可證字號": "衛署醫器輸字第019589號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,7 +15,7 @@
     "中文品名": "“戈爾”威爾棒周邊血管支架",
     "英文品名": "“GORE”VIABAHN Endoprosthesis",
     "效能": "用於改善病患淺層之股骨動脈周邊血管，口徑介於4.0~7.5mm範圍內之血管機能損害，以改善血管栓塞，促進血液暢通。",
-    "醫器規格": "VBC050202, VBC050502, VBC051002,VBC051502, VBC060202, VBC060501, VBC060502, VBC061001, VBC061002, VBC061501, VBC061502, VBC070202,VBC070501, VBC070502, VBC071001, VBC071002, VBC071501,VBC071502, VBC080202, VBC080501, VBC080502, VBC081001, VBC081002,VBC081501, VBC081502, 以下空白。",
+    "醫器規格": "VBC050202, VBC050502, VBC051002,VBC051502, VBC060202, VBC060501, VBC060502, VBC061001, VBC061002, VBC061501, VBC061502, VBC070202,VBC070501, VBC070502, VBC071001, VBC071002, VBC071501,VBC071502, VBC080202, VBC080501, VBC080502, VBC081001, VBC081002,VBC081501, VBC081502, 以下空白。增加規格：詳如中文仿單核定本。",
     "劑型": "",
     "包裝": "",
     "醫器主類別一": "E心臟血管用裝置",
@@ -39,5 +39,25 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": []
+    "ingredients": [
+
+    ],
+    "仿單外盒": [
+        {
+            "title": "060195890002-104-09-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019589&Seq=002&Type=9"
+        },
+        {
+            "title": "060185890001-104-09-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019589&Seq=001&Type=9"
+        },
+        {
+            "title": "060195890002-104-09-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019589&Seq=002&Type=8"
+        },
+        {
+            "title": "060185890001-104-09-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019589&Seq=001&Type=8"
+        }
+    ]
 }

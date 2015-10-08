@@ -1,21 +1,21 @@
 {
     "code": "06015376",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06015376",
-    "time": "2015-08-22 14:21:09",
+    "time": "2015-10-09 04:45:45",
     "許可證字號": "衛署醫器輸字第015376號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "104\/12\/09",
+    "有效日期": "109\/12\/09",
     "發證日期": "94\/12\/09",
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00601537600",
-    "中文品名": "英尤凱表皮及動物蛋白類過敏原特異性IgE檢測試劑",
-    "英文品名": "Immuno CAP Epidermals and animal proteins specific IgE",
+    "中文品名": "英尤凱表皮及動物蛋白類過敏原特異性IgE檢測試劑\r\n中文名稱變更為：英尤凱表皮及動物蛋白類過敏原檢測試劑。",
+    "英文品名": "Immuno CAP Epidermals and animal proteins specific IgE\r\n英文名稱變更為：ImmunoCAP Allergen Epidermals and animal proteins",
     "效能": "用於體外測試人類血清或血漿檢體中循環系統sIgE的定量方法。",
-    "醫器規格": "規格變更：詳如中文仿單核定本。",
+    "醫器規格": "規格變更：詳如中文仿單核定本。\r\n規格變更:\t１、型號註銷:14-4121-01及14-5240-01。\r\n\t２、型號變更:14-4244-01變更為14-4395-01。",
     "劑型": "",
     "包裝": "",
     "醫器主類別一": "C免疫學及微生物學裝置",
@@ -31,19 +31,29 @@
     "申請商名稱": "620110P095  台灣法迪亞股份有限公司",
     "申請商地址": "台北市內湖區洲子街85號6樓之1",
     "主製造廠": {
-        "製造廠名稱": "M420039000  PHADIA AB",
-        "製造廠廠址": "RAPSGATAN 7,P.O. BOX 6460-SE751 37, UPPSALA, SWEDEN",
+        "製造廠名稱": "M420039100  PHADIA AB",
+        "製造廠廠址": "RAPSGATAN 7P, P.O. BOX 6460, 751 37 UPPSALA, SWEDEN",
         "製造廠公司地址": "",
         "製造廠國別": "SWEDEN",
         "製程": ""
     },
     "CCC號列": "38220090902 其他診斷或實驗用有底襯之試劑及診斷或實驗用之配製試劑，不論是否有底襯，不包括第３００２節或第３００６節所列者Other diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading 30.02 or 30.06",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+
+    ],
     "仿單外盒": [
+        {
+            "title": "060153760001-104-08-31.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06015376&Seq=002&Type=9"
+        },
         {
             "title": "201306181143-102-06-18.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06015376&Seq=001&Type=9"
+        },
+        {
+            "title": "060153760001-104-08-31.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06015376&Seq=001&Type=8"
         }
     ]
 }

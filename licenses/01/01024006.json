@@ -1,7 +1,7 @@
 {
     "code": "01024006",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01024006",
-    "time": "2015-08-22 22:46:15",
+    "time": "2015-10-09 03:17:18",
     "許可證字號": "衛署藥製字第024006號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,10 +16,10 @@
     "英文品名": "TBC No.8A Injection",
     "適應症": "本劑適於不能或無法充分經口、經腸管補給營養、而經由中心靜脈、營養療法賴以補給水分、電解質和熱量之患者",
     "劑型": "270注射劑",
-    "包裝": "瓶裝",
+    "包裝": "400公撮瓶裝 1000公撮玻璃瓶裝",
     "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "主成分略述": "POTASSIUM ACETATE, SODIUM CHLORIDE, DEXTROSE MONOHYDRATE",
+    "主成分略述": "POTASSIUM ACETATE, SODIUM ACETATE TRIHYDRATE (EQ TO SODIUM ACETATE 3H2O ), SODIUM CHLORIDE, DEXTROSE MONOHYDRATE, MAGNESIUM SULFATE 7H2O, CALCIUM GLUCONATE MONOHYDRATE",
     "限制項目": [
         "01國產"
     ],
@@ -45,6 +45,14 @@
         },
         {
             "成分類別": "主成分",
+            "成分代碼": "4008000670",
+            "成分名稱": "SODIUM ACETATE TRIHYDRATE (EQ TO SODIUM ACETATE 3H2O )",
+            "含量描述": "3.40",
+            "含量": "3.4000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
             "成分代碼": "4012002100",
             "成分名稱": "SODIUM CHLORIDE",
             "含量描述": "2.050",
@@ -57,6 +65,22 @@
             "成分名稱": "DEXTROSE MONOHYDRATE",
             "含量描述": "313",
             "含量": "313.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5612001580",
+            "成分名稱": "MAGNESIUM SULFATE 7H2O",
+            "含量描述": "0.925",
+            "含量": "0.9250000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "6824000150",
+            "成分名稱": "CALCIUM GLUCONATE MONOHYDRATE",
+            "含量描述": "4.48",
+            "含量": "4.4800000000",
             "單位": "MG"
         }
     ],

@@ -1,6 +1,7 @@
 {
     "code": "07004193",
-    "time": "2015-07-24 07:40:41",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07004193",
+    "time": "2015-10-09 04:28:17",
     "許可證字號": "衛署粧製字第004193號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,7 +19,7 @@
     "包裝": "500ML以下瓶裝 附外盒裝",
     "化粧品類別": "0714防晒化粧用品",
     "": "",
-    "主成分略述": "BENZOPHENONE-3, TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE), ETHYLHEXYL METHOXYCINNAMATE",
+    "主成分略述": "BENZOPHENONE-3, ETHYLHEXYL METHOXYCINNAMATE",
     "限制項目": [
         "02輸入"
     ],
@@ -44,14 +45,6 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9602020800",
-            "成分名稱": "TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)",
-            "含量描述": "",
-            "含量": "5.6400000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "9900071200",
             "成分名稱": "ETHYLHEXYL METHOXYCINNAMATE",
             "含量描述": "",
@@ -61,12 +54,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 070041930001.jpg",
+            "title": "070041930001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004193&Seq=001&Type=9"
         },
         {
-            "title": "外盒 070041930003.jpg 070041930002.jpg 070041930001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004193&Seq=003&Type=8"
+            "title": "07004193-104-09-07.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004193&Seq=004&Type=8"
         }
     ]
 }

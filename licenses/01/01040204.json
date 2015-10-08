@@ -1,7 +1,7 @@
 {
     "code": "01040204",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01040204",
-    "time": "2015-08-23 00:58:13",
+    "time": "2015-10-09 03:27:09",
     "許可證字號": "衛署藥製字第040204號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "16.0g(10.0cm X 14.0cm)X1~10片鋁箔袋裝",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
     "管制藥品分類級別": "",
-    "主成分略述": "DIPHENHYDRAMINE HCL, GLYCOL SALICYLATE, CAMPHOR DL-, MENTHOL L-, TOCOPHEROL ACETATE ALPHA DL-, GLYCYRRHIZINIC ACID (EQ TO GLYCYRRHETINIC ACID GLYCOSIDE)(EQ TO GLYCYRRHIZIC ACID )",
+    "主成分略述": "DIPHENHYDRAMINE HCL, GLYCOL SALICYLATE, DL-CAMPHOR, L-MENTHOL, TOCOPHEROL ACETATE, GLYCYRRHIZINIC ACID (EQ TO GLYCYRRHETINIC ACID GLYCOSIDE)(EQ TO GLYCYRRHIZIC ACID )",
     "限制項目": [
         "01國產"
     ],
@@ -54,23 +54,23 @@
         {
             "成分類別": "主成分",
             "成分代碼": "8408000103",
-            "成分名稱": "CAMPHOR DL-",
+            "成分名稱": "DL-CAMPHOR",
             "含量描述": "80.0",
             "含量": "80.0000000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8408000302",
-            "成分名稱": "MENTHOL L-",
+            "成分代碼": "8408000330",
+            "成分名稱": "L-MENTHOL",
             "含量描述": "80.0",
             "含量": "80.0000000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8820000213",
-            "成分名稱": "TOCOPHEROL ACETATE ALPHA DL-",
+            "成分代碼": "8820000200",
+            "成分名稱": "TOCOPHEROL ACETATE",
             "含量描述": "48.0",
             "含量": "48.0000000000",
             "單位": "MG"

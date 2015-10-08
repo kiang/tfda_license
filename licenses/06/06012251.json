@@ -1,12 +1,12 @@
 {
     "code": "06012251",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06012251",
-    "time": "2015-08-22 12:48:05",
+    "time": "2015-10-09 04:41:56",
     "許可證字號": "衛署醫器輸字第012251號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "104\/09\/08",
+    "有效日期": "109\/09\/08",
     "發證日期": "94\/09\/08",
     "許可證種類": "醫　器",
     "舊證字號": "",
@@ -15,7 +15,7 @@
     "中文品名": "貝克曼庫爾特 亞瑟斯癌胚胎抗原試劑組",
     "英文品名": "BECKMAN COULTER Access CEA Reagent",
     "效能": "定量偵測人類血清中癌胚胎抗原的量，以幫助管理癌症的病人，特別是大腸癌的病人。",
-    "醫器規格": "試劑(#33200): 2×50Tests\/Kit校正液(#33205): 6×2.5 mL",
+    "醫器規格": "試劑(#33200): 2×50Tests\/Kit校正液(#33205): 6×2.5 mL\r\n規格及仿單變更：詳如中文仿單核定本(原94年10月6日仿單核定本收回作廢)。",
     "劑型": "",
     "包裝": "",
     "醫器主類別一": "C免疫學及微生物學用裝置",
@@ -26,21 +26,28 @@
     "醫器次類別三": "",
     "主成分略述": "",
     "限制項目": [
-        "02輸入"
+        "02輸入",
+        "09委託製造"
     ],
     "申請商名稱": "6201027023  美商貝克曼庫爾特有限公司台灣分公司",
     "申請商地址": "台北市大安區敦化南路二段216號8樓",
     "主製造廠": {
-        "製造廠名稱": "M461066300  BECKMAN COULTER INC. (IMMUNODIAGNOSTIC DEVELOPMENT CENTER)",
-        "製造廠廠址": "1000 LAKE HAZELTINE DRIVE, CHASKA, MN 55318-1084, U.S.A.",
+        "製造廠名稱": "M150334000  BIO-RAD",
+        "製造廠廠址": "ROUTE DE CASSEL 59114 STEENVOORDE, FRANCE",
         "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
+        "製造廠國別": "FRANCE",
+        "製程": "Manufactured by"
     },
     "CCC號列": "38220090902 其他診斷或實驗用有底襯之試劑及診斷或實驗用之配製試劑，不論是否有底襯，不包括第３００２節或第３００６節所列者Other diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading 30.02 or 30.06",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+
+    ],
     "仿單外盒": [
+        {
+            "title": "060122510001-104-08-31.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012251&Seq=017&Type=9"
+        },
         {
             "title": "060122510016.JPG",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012251&Seq=016&Type=9"
@@ -104,6 +111,10 @@
         {
             "title": "060122510001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012251&Seq=001&Type=9"
+        },
+        {
+            "title": "060122510001-104-08-31.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012251&Seq=005&Type=8"
         },
         {
             "title": "060122510004.jpg",

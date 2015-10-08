@@ -1,7 +1,7 @@
 {
     "code": "01034923",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01034923",
-    "time": "2015-08-23 00:00:50",
+    "time": "2015-10-09 03:22:35",
     "許可證字號": "衛署藥製字第034923號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,7 +16,7 @@
     "英文品名": "INDOCIN CREAM (INDOMETHACIN)",
     "適應症": "暫時緩解局部疼痛。",
     "劑型": "363乳膏劑",
-    "包裝": "軟管裝 罐裝",
+    "包裝": "1000公克以下軟管裝 1000公克以下塑膠罐裝",
     "藥品類別": "07須經醫師指示使用",
     "管制藥品分類級別": "",
     "主成分略述": "INDOMETHACIN (eq to Indometacin)",
@@ -40,15 +40,27 @@
             "成分類別": "主成分",
             "成分代碼": "2808000800",
             "成分名稱": "INDOMETHACIN (eq to Indometacin)",
-            "含量描述": "10",
+            "含量描述": "(MICRO)",
             "含量": "10.0000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
+            "title": "說明書-依達欣乳膏-2-104-09-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034923&Seq=003&Type=9"
+        },
+        {
+            "title": "說明書-依達欣乳膏-1-104-09-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034923&Seq=002&Type=9"
+        },
+        {
             "title": "010349230001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034923&Seq=001&Type=9"
+        },
+        {
+            "title": "依達欣乳膏-包裝盒-展開圖-104-09-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034923&Seq=001&Type=8"
         }
     ]
 }

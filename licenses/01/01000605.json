@@ -1,7 +1,7 @@
 {
     "code": "01000605",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01000605",
-    "time": "2015-08-24 12:35:01",
+    "time": "2015-10-09 03:08:37",
     "許可證字號": "衛署藥製字第000605號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,7 +16,7 @@
     "英文品名": "FLUCORT-F OINTMENT 0.025%",
     "適應症": "火傷、濕疹、接觸性皮膚炎、異性皮膚炎、陰部肛門瘙癢症、乳兒濕疹、蕁麻疹",
     "劑型": "360軟膏劑",
-    "包裝": "100克瓶裝 3,5,10,30克軟管裝",
+    "包裝": "100公克以下瓶裝 軟管裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
     "主成分略述": "NEOMYCIN (SULFATE), FLUOCINOLONE ACETONIDE",
@@ -54,8 +54,32 @@
     ],
     "仿單外盒": [
         {
+            "title": "v2_FLF-O_仿單(包裝型態變更)-104-09-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01000605&Seq=003&Type=9"
+        },
+        {
+            "title": "v1_FLF-O_仿單_active-104-09-10.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01000605&Seq=002&Type=9"
+        },
+        {
             "title": "010006050001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01000605&Seq=001&Type=9"
+        },
+        {
+            "title": "v24_FLF-O 5G_外盒_active-104-09-17.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01000605&Seq=004&Type=8"
+        },
+        {
+            "title": "v1_FLF-O 100G_外盒_active-104-09-17.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01000605&Seq=003&Type=8"
+        },
+        {
+            "title": "v24_FLF-O 10G_外盒_active-104-09-17.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01000605&Seq=002&Type=8"
+        },
+        {
+            "title": "v24_FLF-O 20G_外盒-104-09-17.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01000605&Seq=001&Type=8"
         }
     ]
 }

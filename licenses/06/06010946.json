@@ -1,7 +1,7 @@
 {
     "code": "06010946",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010946",
-    "time": "2015-08-22 11:40:48",
+    "time": "2015-10-09 03:51:18",
     "許可證字號": "衛署醫器輸字第010946號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,7 +15,7 @@
     "中文品名": "3M 印品牙科精密印膜材",
     "英文品名": "3M IMPREGUM PENTA SOFT POLYETHER IMPRESSION MATERIAL",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "詳如中文仿單核定本",
+    "醫器規格": "詳如中文仿單核定本。增加規格及註銷規格:詳如中文仿單核定本。(原94.04.25核准之仿單、標籤核定本予以回收作廢)",
     "劑型": "",
     "包裝": "",
     "醫器主類別一": "F牙科用裝置",
@@ -39,8 +39,14 @@
     },
     "CCC號列": "34070020009 牙科用蠟或牙科用塑型料Dental waxes or dental impression compounds",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+
+    ],
     "仿單外盒": [
+        {
+            "title": "06010946-104-10-01.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010946&Seq=008&Type=9"
+        },
         {
             "title": "060109460007.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010946&Seq=007&Type=9"
@@ -68,6 +74,10 @@
         {
             "title": "060109460001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010946&Seq=001&Type=9"
+        },
+        {
+            "title": "06010946-104-10-01.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010946&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "01040970",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01040970",
-    "time": "2015-08-23 01:08:48",
+    "time": "2015-10-09 03:28:05",
     "許可證字號": "衛署藥製字第040970號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "800mg鋁箔包裝",
     "藥品類別": "07須經醫師指示使用",
     "管制藥品分類級別": "",
-    "主成分略述": "DL-METHYLEPHEDRINE HCL, ACETAMINOPHEN (EQ TO PARACETAMOL), CAFFEINE ANHYDROUS, CINNAMON POWDER (CINNAMON CORTEX POWDER), GINGER POWDER, D-BORNEOL, CLOVE OIL, MENTHOL L-, GLYCYRRHIZA (LIQUORICE), POWDERED SWEET HYDRANGEA LEAF",
+    "主成分略述": "DL-METHYLEPHEDRINE HCL, ACETAMINOPHEN (EQ TO PARACETAMOL), CAFFEINE ANHYDROUS, CINNAMON POWDER (CINNAMON CORTEX POWDER), GINGER POWDER, D-BORNEOL, CLOVE OIL, L-MENTHOL, GLYCYRRHIZA (LIQUORICE), POWDERED SWEET HYDRANGEA LEAF",
     "限制項目": [
         "01國產",
         "1G不得製造"
@@ -95,7 +95,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "8408000302",
-            "成分名稱": "MENTHOL L-",
+            "成分名稱": "L-MENTHOL",
             "含量描述": "",
             "含量": "3.0000000000",
             "單位": "MG"
@@ -115,6 +115,12 @@
             "含量描述": "",
             "含量": "50.0000000000",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "克冒能-104-09-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040970&Seq=001&Type=9"
         }
     ]
 }

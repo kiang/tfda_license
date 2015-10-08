@@ -1,7 +1,7 @@
 {
     "code": "01010899",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01010899",
-    "time": "2015-08-22 19:55:52",
+    "time": "2015-10-09 03:11:27",
     "許可證字號": "衛署藥製字第010899號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "4-1000錠塑膠瓶裝 鋁箔盒裝",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
     "管制藥品分類級別": "",
-    "主成分略述": "CHLORPHENIRAMINE MALEATE, OROTIC ACID (VIT B13), GLYCYRRHIZINIC ACID (EQ TO GLYCYRRHETINIC ACID GLYCOSIDE)(EQ TO GLYCYRRHIZIC ACID )",
+    "主成分略述": "CHLORPHENIRAMINE MALEATE, OROTIC ACID (VIT B13), GLYCYRRHIZIN",
     "限制項目": [
         "01國產"
     ],
@@ -39,7 +39,7 @@
             "成分類別": "主成分",
             "成分代碼": "0400000810",
             "成分名稱": "CHLORPHENIRAMINE MALEATE",
-            "含量描述": "5",
+            "含量描述": "",
             "含量": "5.0000000000",
             "單位": "MG"
         },
@@ -47,15 +47,15 @@
             "成分類別": "主成分",
             "成分代碼": "8811300100",
             "成分名稱": "OROTIC ACID (VIT B13)",
-            "含量描述": "30",
+            "含量描述": "",
             "含量": "30.0000000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200004600",
-            "成分名稱": "GLYCYRRHIZINIC ACID (EQ TO GLYCYRRHETINIC ACID GLYCOSIDE)(EQ TO GLYCYRRHIZIC ACID )",
-            "含量描述": "50",
+            "成分代碼": "9200004602",
+            "成分名稱": "GLYCYRRHIZIN",
+            "含量描述": "",
             "含量": "50.0000000000",
             "單位": "MG"
         }
