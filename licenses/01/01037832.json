@@ -1,7 +1,7 @@
 {
     "code": "01037832",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01037832",
-    "time": "2015-08-23 00:31:26",
+    "time": "2015-11-06 03:17:59",
     "許可證字號": "衛署藥製字第037832號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -39,12 +39,28 @@
             "成分類別": "主成分",
             "成分代碼": "0818000100",
             "成分名稱": "ACYCLOVIR",
-            "含量描述": "50",
+            "含量描述": "",
+            "含量": "50.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0818000100",
+            "成分名稱": "ACYCLOVIR",
+            "含量描述": "",
             "含量": "50.0000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "說明書-檸檬口味-104-10-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01037832&Seq=005&Type=9"
+        },
+        {
+            "title": "說明書-哈密瓜口味-104-10-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01037832&Seq=004&Type=9"
+        },
         {
             "title": "20140904-說-103-09-17.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01037832&Seq=003&Type=9"
@@ -56,6 +72,30 @@
         {
             "title": "010378320001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01037832&Seq=001&Type=9"
+        },
+        {
+            "title": "標籤-檸檬口味-104-10-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01037832&Seq=009&Type=8"
+        },
+        {
+            "title": "標籤-哈密瓜口味-104-10-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01037832&Seq=008&Type=8"
+        },
+        {
+            "title": "管-檸檬口味-104-10-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01037832&Seq=007&Type=8"
+        },
+        {
+            "title": "管-哈密瓜口味-104-10-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01037832&Seq=006&Type=8"
+        },
+        {
+            "title": "紙盒-檸檬口味-104-10-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01037832&Seq=005&Type=8"
+        },
+        {
+            "title": "紙盒-哈密瓜口味-104-10-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01037832&Seq=004&Type=8"
         },
         {
             "title": "20140904-軟管-103-09-17.pdf",

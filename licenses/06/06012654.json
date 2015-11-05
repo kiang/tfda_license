@@ -1,7 +1,7 @@
 {
     "code": "06012654",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06012654",
-    "time": "2015-10-23 04:46:55",
+    "time": "2015-11-06 03:45:50",
     "許可證字號": "衛署醫器輸字第012654號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,9 +13,9 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00601265400",
     "中文品名": "\"德瑞\"萊棒恩特黏著劑",
-    "英文品名": "\"DETREY\" PRIME&BOND NT DENTAL ADHESIVE",
+    "英文品名": "\"DETREY\" PRIME&BOND NT DENTAL ADHESIVE。英文品名變更:“DeTrey”Spectrum Bond Dental Adhesive。",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "606.67.275,以下空白。增加規格：606.67.273，以下空白。註銷規格：606.67.275(原95年1月17日核准之標籤、仿單核定本予以回收作廢)。",
+    "醫器規格": "606.67.275,以下空白。增加規格：606.67.273，以下空白。註銷規格：606.67.275(原95年1月17日核准之標籤、仿單核定本予以回收作廢)。\r\n型號變更:型號606.67.273變更為型號606.67.225，以下空白。",
     "劑型": "",
     "包裝": "",
     "醫器主類別一": "F牙科裝置",
@@ -39,13 +39,19 @@
     },
     "CCC號列": "30064010008 牙科用粘固劑及填充物Dental cements and other dental fillings",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
+        {
+            "title": "06012654-104-10-27.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012654&Seq=003&Type=9"
+        },
         {
             "title": "06012654___20110510.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012654&Seq=002&Type=9"
+        },
+        {
+            "title": "06012654-104-10-27.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012654&Seq=005&Type=8"
         }
     ]
 }

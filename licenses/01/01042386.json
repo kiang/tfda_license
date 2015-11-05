@@ -1,7 +1,7 @@
 {
     "code": "01042386",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01042386",
-    "time": "2015-08-23 01:53:48",
+    "time": "2015-11-06 03:21:31",
     "許可證字號": "衛署藥製字第042386號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,10 +16,10 @@
     "英文品名": "COLD F.C. TABLETS",
     "適應症": "感冒諸症狀（流鼻水、鼻塞、打噴嚏、咽喉痛、發熱、頭痛、咳嗽、喀痰等）之緩解",
     "劑型": "116膜衣錠",
-    "包裝": "瓶裝 鋁箔盒裝",
+    "包裝": "12-1000粒塑膠瓶裝 12-1000粒鋁箔盒裝",
     "藥品類別": "17醫師藥師藥劑生指示藥",
     "管制藥品分類級別": "",
-    "主成分略述": "CHLORPHENIRAMINE MALEATE, DL-METHYLEPHEDRINE HCL, ACETAMINOPHEN (EQ TO PARACETAMOL), CAFFEINE, CLOPERASTINE HCL, GUAIACOL GLYCERYL ETHER (EQ TO GUAIFENESIN)",
+    "主成分略述": "DL-CHLORPHENIRAMINE MALEATE, DL-METHYLEPHEDRINE HCL, ACETAMINOPHEN (EQ TO PARACETAMOL), CAFFEINE, CLOPERASTINE HCL, GUAIACOL GLYCERYL ETHER (EQ TO GUAIFENESIN)",
     "限制項目": [
         "01國產"
     ],
@@ -37,8 +37,8 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "0400000810",
-            "成分名稱": "CHLORPHENIRAMINE MALEATE",
+            "成分代碼": "0400000813",
+            "成分名稱": "DL-CHLORPHENIRAMINE MALEATE",
             "含量描述": "1",
             "含量": "1.0000000000",
             "單位": "MG"
@@ -84,6 +84,10 @@
             "單位": "MG"
         }
     ],
-    "藥物辨識詳細資料": [],
-    "藥物辨識外觀圖片": []
+    "仿單外盒": [
+        {
+            "title": "感冒膜衣錠_仿單-104-08-28.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042386&Seq=001&Type=9"
+        }
+    ]
 }

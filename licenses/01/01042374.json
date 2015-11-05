@@ -1,7 +1,7 @@
 {
     "code": "01042374",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01042374",
-    "time": "2015-08-24 12:48:22",
+    "time": "2015-11-06 03:21:29",
     "許可證字號": "衛署藥製字第042374號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,7 +13,7 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00104237402",
     "中文品名": "優榮黴素靜脈注射劑（西華耑隆）〝優良〞",
-    "英文品名": "U-RON FOR IV INJECTION (CEFTRIAXONE) \"U-LIANG\"",
+    "英文品名": "U-RON FOR IV INJECTION \"U-LIANG\"  (CEFTRIAXONE)",
     "適應症": "葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細胞引起之感染症",
     "劑型": "240乾粉注射劑",
     "包裝": "盒裝 小瓶",
@@ -39,8 +39,32 @@
             "成分類別": "主成分",
             "成分代碼": "0812693015",
             "成分名稱": "CEFTRIAXONE (DISODIUM 3.5H2O)",
-            "含量描述": "1",
+            "含量描述": "CEFTRIAXONE (as DISODIUM 3.5H2O) 0.25 GM potency",
+            "含量": "0.2500000000",
+            "單位": "GM"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812693015",
+            "成分名稱": "CEFTRIAXONE (DISODIUM 3.5H2O)",
+            "含量描述": "CEFTRIAXONE (as DISODIUM 3.5H2O) 0.5 GM potency",
+            "含量": "0.5000000000",
+            "單位": "GM"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812693015",
+            "成分名稱": "CEFTRIAXONE (DISODIUM 3.5H2O)",
+            "含量描述": "CEFTRIAXONE (as DISODIUM 3.5H2O) 1 GM potency",
             "含量": "1.0000000000",
+            "單位": "GM"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812693015",
+            "成分名稱": "CEFTRIAXONE (DISODIUM 3.5H2O)",
+            "含量描述": "CEFTRIAXONE (as DISODIUM 3.5H2O) 2 GM potency",
+            "含量": "2.0000000000",
             "單位": "GM"
         }
     ],

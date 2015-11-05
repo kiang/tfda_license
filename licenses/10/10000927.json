@@ -1,7 +1,7 @@
 {
     "code": "10000927",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000927",
-    "time": "2015-08-23 13:40:39",
+    "time": "2015-11-06 03:35:11",
     "許可證字號": "衛署菌疫輸字第000927號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,7 +26,7 @@
     "申請商名稱": "1902001100  台灣協和醱酵麒麟股份有限公司",
     "申請商地址": "台北市中山區中山北路二段44號14樓",
     "主製造廠": {
-        "製造廠名稱": "F250350000  PATHEON ITALIA S.P.A.",
+        "製造廠名稱": "F250350000  PATHEON ITALIA S.P.A. MONZA OPERATIONS",
         "製造廠廠址": "VIALE G.B. STUCCHI, 110-20900 MONZA (MB), ITALY",
         "製造廠公司地址": "",
         "製造廠國別": "ITALY",
@@ -61,14 +61,14 @@
             "製造廠廠址": "5550 AIRPORT BOULEVARD BOULDER, CO 80301, U.S.A",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
-            "製程": ""
+            "製程": "主成分(drug substance)製造廠"
         },
         {
             "製造廠名稱": "F460765000  AMGEN INC. (ACO)",
             "製造廠廠址": "4000 NELSON ROAD, LONGMONT CO 80503, U.S.A.",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
-            "製程": ""
+            "製程": "主成分(drug substance)製造廠"
         }
     ],
     "ingredients": [
@@ -82,6 +82,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "[Package Insert] Romiplate_2015-104-08-19.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000927&Seq=007&Type=9"
+        },
         {
             "title": "Nplate_PI(KKTW)_v2-102-09-25.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000927&Seq=006&Type=9"
@@ -105,6 +109,10 @@
         {
             "title": "100009270001___20121126.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000927&Seq=001&Type=9"
+        },
+        {
+            "title": "[外盒圖檔] Romiplate_2015JUL-104-08-19.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000927&Seq=007&Type=8"
         },
         {
             "title": "100009270004-104-03-31.pdf",

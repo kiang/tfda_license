@@ -1,7 +1,7 @@
 {
     "code": "08010571",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08010571",
-    "time": "2015-08-23 18:46:52",
+    "time": "2015-11-06 04:04:59",
     "許可證字號": "衛署粧輸字第010571號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,22 +12,22 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00801057102",
-    "中文品名": "歌薇克而濃絲護髮染髮霜 5K (赤銅色)",
-    "英文品名": "GOLDWELL COLORANCE ACID COLOR 5K",
+    "中文品名": "歌薇平衡護髮染髮霜5K",
+    "英文品名": "Goldwell Colorance Cover Plus 5K",
     "用途": "染髮。",
     "劑型": "990乳霜劑",
-    "包裝": "500G以下鋁罐裝",
+    "包裝": "500G以下鋁罐裝 無外盒",
     "化粧品類別": "0110染髮劑",
     "": "",
-    "主成分略述": "RESORCINOL (RESORCIN), 4-AMINO-M-CRESOL, AMINOPHENOL META- (EQ TO M-AMINOPHENOL), HC YELLOW NO.2, TOLUENE-2,5-DIAMINE SULFATE, 2-AMINO-3-HYDROXYPYRIDINE, 2-AMINO-4-HYDROXYETHYLAMINOANISOLE SULFATE, 1-(BETA-HYDROXYETHYL)-AMINO-2-NITRO-4-AMINOBENZENE",
+    "主成分略述": "RESORCINOL (RESORCIN), 4-AMINO-M-CRESOL, AMINOPHENOL META- (EQ TO M-AMINOPHENOL), SODIUM PICRAMATE, HC YELLOW NO.2, HC RED NO.3, TOLUENE-2,5-DIAMINE SULFATE, 2-AMINO-3-HYDROXYPYRIDINE, 2-AMINO-4-HYDROXYETHYLAMINOANISOLE SULFATE",
     "限制項目": [
         "02輸入"
     ],
     "申請商名稱": "1434301100  臺灣歌薇股份有限公司",
     "申請商地址": "台北市中山區建國北路1段90號12樓",
     "主製造廠": {
-        "製造廠名稱": "C470042000  KPSS GMBH",
-        "製造廠廠址": "PFUNGSTADTER STRASSE 92-100, 64297 DARMSTADT, GERMANY",
+        "製造廠名稱": "C470082100  Kao Germany GmbH",
+        "製造廠廠址": "Kao Manufacturing Germany GmbH, Zerninstraβe 12-18, 64297 Darmstadt, Germany",
         "製造廠公司地址": "",
         "製造廠國別": "GERMANY",
         "製程": ""
@@ -61,10 +61,26 @@
         },
         {
             "成分類別": "主成分",
+            "成分代碼": "9400003510",
+            "成分名稱": "SODIUM PICRAMATE",
+            "含量描述": "",
+            "含量": "0.0500000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
             "成分代碼": "9602087540",
             "成分名稱": "HC YELLOW NO.2",
             "含量描述": "",
             "含量": "0.2000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9602088320",
+            "成分名稱": "HC RED NO.3",
+            "含量描述": "",
+            "含量": "0.3600000000",
             "單位": "%(W\/W)"
         },
         {
@@ -90,14 +106,12 @@
             "含量描述": "",
             "含量": "0.0300000000",
             "單位": "%(W\/W)"
-        },
+        }
+    ],
+    "仿單外盒": [
         {
-            "成分類別": "主成分",
-            "成分代碼": "9900095000",
-            "成分名稱": "1-(BETA-HYDROXYETHYL)-AMINO-2-NITRO-4-AMINOBENZENE",
-            "含量描述": "",
-            "含量": "0.3600000000",
-            "單位": "%(W\/W)"
+            "title": "08010571-104-10-28.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010571&Seq=001&Type=8"
         }
     ]
 }

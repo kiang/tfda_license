@@ -1,7 +1,7 @@
 {
     "code": "10000827",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000827",
-    "time": "2015-08-22 17:55:41",
+    "time": "2015-11-06 03:34:57",
     "許可證字號": "衛署菌疫輸字第000827號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,8 +15,8 @@
     "中文品名": "嘉喜[四價人類乳突病毒(第6,11,16,18型)基因重組疫苗]",
     "英文品名": "GARDASIL [Quadrivalent Human Papillomavirus (Types 6,11,16,18) Recombinant Vaccine]",
     "適應症": "9‐26 歲女性之預防接種；預防發生疫苗所含的人類乳突病毒第6、11、16 及18 型所引起的子宮頸癌前期或分化不良的病變和癌症、陰道及外陰部癌前期或分化不良的病變、生殖器疣(俗稱菜花)。\r\n9‐26 歲男性之預防接種；預防發生人類乳突病毒第6 與11 型所引起的生殖器疣。\r\n16‐26 歲男性高危險族群之預防接種，以預防第6、11、16 及18 型HPV 所引起的第2 級與第3 級肛門上皮內贅瘤(AIN)以及第16 及18 型HPV 所引起的肛門癌。說明：男性高危險族群指曾有同性性行為之男性。",
-    "劑型": "270注射劑",
-    "包裝": "0.5毫升注射針筒 ( 附或不附針頭 ) 0.5毫升小瓶 1-100支盒裝",
+    "劑型": "271滅菌懸液注射劑",
+    "包裝": "1-100支盒裝 0.5毫升注射針筒 ( 附或不附針頭 )",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
     "主成分略述": "TYPE 6 L1 PROTEIN, TYPE 11 L1 PROTEIN, TYPE 16 L1 PROTEIN, TYPE 18 L1 PROTEIN",
@@ -37,18 +37,18 @@
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "F020015000  MERCK SHARP &amp; DOHME (AUSTRALIA) PTY LTD.",
-            "製造廠廠址": "54-68 FERNDELL STREET,SOUTH GRANVILLE N.S.W. 2142 AUSTRALIA.",
-            "製造廠公司地址": "",
-            "製造廠國別": "AUSTRALIA",
-            "製程": "包裝"
-        },
-        {
             "製造廠名稱": "F170016000  MERCK SHARP &amp; DOHME B.V.",
             "製造廠廠址": "WAARDERWEG 39,2031 BN,HAARLEM,THE NETHERLAND",
             "製造廠公司地址": "",
             "製造廠國別": "NETHERLANDS",
             "製程": "包裝"
+        },
+        {
+            "製造廠名稱": "F460122100  Merck Sharp &amp; Dohme Corp.",
+            "製造廠廠址": "2778 SOUTH EAST SIDE HIGHWAY ELKTON VA 22827, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "主成分(drug substance)製造廠"
         }
     ],
     "ingredients": [
@@ -86,6 +86,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "100008270001-104-10-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000827&Seq=046&Type=9"
+        },
         {
             "title": "100008270002-104-08-05.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000827&Seq=049&Type=9"

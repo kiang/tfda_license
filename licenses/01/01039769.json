@@ -1,7 +1,7 @@
 {
     "code": "01039769",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01039769",
-    "time": "2015-08-23 03:09:15",
+    "time": "2015-11-06 03:19:43",
     "許可證字號": "衛署藥製字第039769號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,10 +13,10 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00103976902",
     "中文品名": "瑞平膠囊２５毫克（慮平）",
-    "英文品名": "ROSUP CAPSULES 25MG (LOXAPINE) \"SWISS\"",
+    "英文品名": "ROSUP CAPSULES 25MG \"SWISS\" (LOXAPINE)",
     "適應症": "精神病狀態",
     "劑型": "130膠囊劑",
-    "包裝": "塑膠容器裝 鋁箔裝",
+    "包裝": "2-1000顆鋁箔盒裝 2-1000顆塑膠罐裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
     "主成分略述": "LOXAPINE SUCCINATE",
@@ -39,7 +39,7 @@
             "成分類別": "主成分",
             "成分代碼": "2816800810",
             "成分名稱": "LOXAPINE SUCCINATE",
-            "含量描述": "34",
+            "含量描述": "(EQ. TO LOYAPINE)",
             "含量": "34.0000000000",
             "單位": "MG"
         }
@@ -56,6 +56,10 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "R06-CAP-104-10-03.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039769&Seq=348&Type=10"
+        },
+        {
             "title": "圖片",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039769&Seq=347&Type=10"
         },
@@ -68,6 +72,10 @@
         {
             "title": "010397690001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039769&Seq=001&Type=9"
+        },
+        {
+            "title": "R06-罐裝-104-10-03.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039769&Seq=001&Type=8"
         }
     ]
 }

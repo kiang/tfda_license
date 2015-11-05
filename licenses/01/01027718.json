@@ -1,7 +1,7 @@
 {
     "code": "01027718",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01027718",
-    "time": "2015-08-22 22:25:56",
+    "time": "2015-11-06 03:12:43",
     "許可證字號": "衛署藥製字第027718號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "安瓿",
     "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "主成分略述": "BETAMETHASONE (SODIUM PHOSPHATE)",
+    "主成分略述": "BETAMETHASONE DISODIUM PHOSPHATE",
     "限制項目": [
         "01國產"
     ],
@@ -37,8 +37,8 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "6804009231",
-            "成分名稱": "BETAMETHASONE (SODIUM PHOSPHATE)",
+            "成分代碼": "6804000230",
+            "成分名稱": "BETAMETHASONE DISODIUM PHOSPHATE",
             "含量描述": "(5.3MG) 4",
             "含量": "",
             "單位": "MG"
@@ -48,6 +48,10 @@
         {
             "title": "01027718-102-12-24.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027718&Seq=001&Type=9"
+        },
+        {
+            "title": "RD-INJ Box-104-09-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027718&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "01008376",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01008376",
-    "time": "2015-08-22 19:13:17",
+    "time": "2015-11-06 03:07:37",
     "許可證字號": "衛署藥製字第008376號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,9 +17,9 @@
     "適應症": "口腔、咽喉、消毒及消炎作用、嘶啞、喉乾、鎮咳、袪痰",
     "劑型": "122口含錠",
     "包裝": "盒裝",
-    "藥品類別": "07須經醫師指示使用",
+    "藥品類別": "17醫師藥師藥劑生指示藥品",
     "管制藥品分類級別": "",
-    "主成分略述": "PLATYCODON POWDER, POLYGALA RADIX POWDER, CETYLPYRIDINIUM CHLORIDE, AZULENE WATER SOLUBLE, GLYCYRRHIZATE SODIUM",
+    "主成分略述": "PLATYCODON FLUID EXTRACT, POLYGALA RADIX POWDER, CETYLPYRIDINIUM CHLORIDE, AZULENE WATER SOLUBLE, GLYCYRRHIZATE SODIUM",
     "限制項目": [
         "01國產"
     ],
@@ -37,17 +37,17 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "4800003602",
-            "成分名稱": "PLATYCODON POWDER",
-            "含量描述": "150",
-            "含量": "150.0000000000",
+            "成分代碼": "4800003630",
+            "成分名稱": "PLATYCODON FLUID EXTRACT",
+            "含量描述": "",
+            "含量": "30.0000000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "4800003812",
             "成分名稱": "POLYGALA RADIX POWDER",
-            "含量描述": "0.7",
+            "含量描述": "",
             "含量": "0.7000000000",
             "單位": "MG"
         },
@@ -55,7 +55,7 @@
             "成分類別": "主成分",
             "成分代碼": "8404601310",
             "成分名稱": "CETYLPYRIDINIUM CHLORIDE",
-            "含量描述": "1",
+            "含量描述": "",
             "含量": "1.0000000000",
             "單位": "MG"
         },
@@ -63,7 +63,7 @@
             "成分類別": "主成分",
             "成分代碼": "8406000201",
             "成分名稱": "AZULENE WATER SOLUBLE",
-            "含量描述": "0.4",
+            "含量描述": "",
             "含量": "0.4000000000",
             "單位": "MG"
         },
@@ -71,15 +71,27 @@
             "成分類別": "主成分",
             "成分代碼": "9200004631",
             "成分名稱": "GLYCYRRHIZATE SODIUM",
-            "含量描述": "2.5",
+            "含量描述": "",
             "含量": "2.5000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
+            "title": "甘佳口含錠說明書-104-10-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01008376&Seq=002&Type=9"
+        },
+        {
             "title": "010083760001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01008376&Seq=001&Type=9"
+        },
+        {
+            "title": "衛署藥製字第008376號鋁箔紙-104-10-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01008376&Seq=002&Type=8"
+        },
+        {
+            "title": "衛署藥製字第008376號紙盒-104-10-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01008376&Seq=001&Type=8"
         }
     ]
 }

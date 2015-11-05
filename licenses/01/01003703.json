@@ -1,7 +1,7 @@
 {
     "code": "01003703",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01003703",
-    "time": "2015-08-22 19:13:54",
+    "time": "2015-11-06 03:06:57",
     "許可證字號": "衛署藥製字第003703號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,10 +16,10 @@
     "英文品名": "EPILON TABLETS \"YUNG SHIN\"",
     "適應症": "胃、十二指腸潰瘍、胃痛、胃酸過多、胃痙攣、胃炎。",
     "劑型": "110錠劑",
-    "包裝": "100粒瓶裝 500粒 1000粒罐裝 盒裝",
+    "包裝": "6-1000錠塑膠瓶裝 鋁箔盒裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "X取消管制藥品註記",
-    "主成分略述": "BUTYLSCOPOLAMINE BROMIDE (EQ TO HYOSCINE-N-BUTYLBROMIDE), DICYCLOMINE HCL, CHLORDIAZEPOXIDE, MAGNESIUM ALUMINUM HYDROXIDE CO-DRIED GEL, MAGNESIUM OXIDE, CHLOROPHYLL SODIUM COPPER",
+    "主成分略述": "BUTYLSCOPOLAMINE BROMIDE (EQ TO HYOSCINE-N-BUTYLBROMIDE), DICYCLOMINE HCL, CHLORDIAZEPOXIDE, MAGNESIUM ALUMINUM HYDROXIDE CO-DRIED GEL, MAGNESIUM OXIDE, CHLOROPHYLL SODIUM COPPER, SYNTHETIC ALUMINUM SILICATE",
     "限制項目": [
         "01國產"
     ],
@@ -82,6 +82,14 @@
             "含量描述": "",
             "含量": "3.0000000000",
             "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9600002020",
+            "成分名稱": "SYNTHETIC ALUMINUM SILICATE",
+            "含量描述": "",
+            "含量": "60.0000000000",
+            "單位": "MG"
         }
     ],
     "藥物辨識詳細資料": {
@@ -108,6 +116,10 @@
         {
             "title": "010037030001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003703&Seq=001&Type=9"
+        },
+        {
+            "title": "003703標籤仿單-104-10-20.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003703&Seq=001&Type=8"
         }
     ]
 }

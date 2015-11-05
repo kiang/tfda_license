@@ -1,7 +1,7 @@
 {
     "code": "01029248",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01029248",
-    "time": "2015-08-22 22:55:52",
+    "time": "2015-11-06 03:13:06",
     "許可證字號": "衛署藥製字第029248號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,14 +12,14 @@
     "舊證字號": "01020981",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102924804",
-    "中文品名": "\"生達\" 綜合感冒膠囊",
-    "英文品名": "Relecold Capsules \"SOURIREE\"",
+    "中文品名": "生達綜合感冒膠囊",
+    "英文品名": "Standard Relecold Capsules",
     "適應症": "感冒諸症狀（流鼻水、鼻塞、打噴嚏、咽喉痛、咳嗽、畏寒、發燒、頭痛、關節痛、肌肉痛等）之緩解。",
     "劑型": "130膠囊劑",
     "包裝": "6-1000粒PTP 鋁箔盒裝 塑膠瓶裝",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
     "管制藥品分類級別": "",
-    "主成分略述": "CHLORPHENIRAMINE MALEATE, DL-METHYLEPHEDRINE HCL, ACETAMINOPHEN (EQ TO PARACETAMOL), ETHENZAMIDE (ETHOXYBENZAMIDE), CAFFEINE ANHYDROUS, DEXTROMETHORPHAN HBR",
+    "主成分略述": "CHLORPHENIRAMINE MALEATE, DL-METHYLEPHEDRINE HCL, ACETAMINOPHEN (EQ TO PARACETAMOL), ETHENZAMIDE (ETHOXYBENZAMIDE), CAFFEINE ANHYDROUS, DEXTROMETHORPHAN HBR, SODIUM LAURYL SULFATE, GELATIN, TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE), BRILLIANT BLUE FCF, NEW COCCINE",
     "限制項目": [
         "01國產"
     ],
@@ -82,6 +82,46 @@
             "含量描述": "10",
             "含量": "10.0000000000",
             "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8420000600",
+            "成分名稱": "SODIUM LAURYL SULFATE",
+            "含量描述": "",
+            "含量": "",
+            "單位": ""
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9600012700",
+            "成分名稱": "GELATIN",
+            "含量描述": "",
+            "含量": "",
+            "單位": ""
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9602020800",
+            "成分名稱": "TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)",
+            "含量描述": "",
+            "含量": "",
+            "單位": ""
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9602040205",
+            "成分名稱": "BRILLIANT BLUE FCF",
+            "含量描述": "",
+            "含量": "",
+            "單位": ""
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9602040301",
+            "成分名稱": "NEW COCCINE",
+            "含量描述": "",
+            "含量": "",
+            "單位": ""
         }
     ],
     "藥物辨識詳細資料": {
@@ -102,6 +142,10 @@
     ],
     "仿單外盒": [
         {
+            "title": "綜合感冒膠囊仿單_LI-3021 S0410-104-10-15.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029248&Seq=005&Type=9"
+        },
+        {
             "title": "衛署藥製字第029248號綜合感冒膠囊依公告acetam仿單刊載-104.05.21(中文生達)-104-05-22.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029248&Seq=004&Type=9"
         },
@@ -116,6 +160,14 @@
         {
             "title": "010292480001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029248&Seq=001&Type=9"
+        },
+        {
+            "title": "S0410 綜合感冒膠囊 LB-104-10-15.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029248&Seq=002&Type=8"
+        },
+        {
+            "title": "綜合感冒外盒-104-10-15.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029248&Seq=001&Type=8"
         }
     ]
 }

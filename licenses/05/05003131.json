@@ -1,7 +1,7 @@
 {
     "code": "05003131",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05003131",
-    "time": "2015-09-25 05:18:19",
+    "time": "2015-11-06 03:38:40",
     "許可證字號": "衛署醫器製字第003131號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,7 +15,7 @@
     "中文品名": "威創手持式血氧濃度計",
     "英文品名": "V-Trust Handheld Pulse Oximeter",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "TD-8201以下空白。TD-8250，TD-8201B，以下空白。增加規格：TD-8250A、TD-8250B，以下空白。",
+    "醫器規格": "TD-8201以下空白。TD-8250，TD-8201B，以下空白。增加規格：TD-8250A、TD-8250B，以下空白。增加規格：TD-8255，以下空白。",
     "劑型": "",
     "包裝": "",
     "醫器主類別一": "E心臟血管用裝置",
@@ -39,10 +39,12 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
+        {
+            "title": "050031310003-104-10-05.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003131&Seq=003&Type=9"
+        },
         {
             "title": "仿單-102-08-09.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003131&Seq=002&Type=9"
@@ -50,6 +52,10 @@
         {
             "title": "050031310001___20101207.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003131&Seq=001&Type=9"
+        },
+        {
+            "title": "050031310003-104-10-05.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003131&Seq=003&Type=8"
         },
         {
             "title": "彩圖-102-08-09.pdf",

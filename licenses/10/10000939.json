@@ -1,7 +1,7 @@
 {
     "code": "10000939",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000939",
-    "time": "2015-09-25 04:35:35",
+    "time": "2015-11-06 03:35:18",
     "許可證字號": "衛署菌疫輸字第000939號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "單劑量0.5ml預充填注射針筒或PRTC(Plastic Rigid Tip Cap)預充填注射針筒附或不附針頭(每盒100支以下)",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "主成分略述": "A\/California\/7\/2009(H1N1)-like strain, B\/Massachusetts\/02\/2012, B\/Brisbane\/60\/2008-like virus, A\/Victoria\/361\/2011(H3N2)",
+    "主成分略述": "A\/California\/7\/2009(H1N1)-like virus, A\/Switzerland\/9715293\/2013 (H3N2)-like strain (A\/Switzerland\/9715293\/2013, NIB-88), B\/Phuket\/3073\/2013, B\/BRISBANE\/60\/2008",
     "限制項目": [
         ""
     ],
@@ -37,38 +37,50 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "8012002470",
-            "成分名稱": "A\/California\/7\/2009(H1N1)-like strain",
+            "成分代碼": "8012002471",
+            "成分名稱": "A\/California\/7\/2009(H1N1)-like virus",
             "含量描述": "",
             "含量": "15.0000000000",
             "單位": "ug HA"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8012002700",
-            "成分名稱": "B\/Massachusetts\/02\/2012",
-            "含量描述": "-like virus",
-            "含量": "15.0000000000",
-            "單位": "ug HA"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "8012006510",
-            "成分名稱": "B\/Brisbane\/60\/2008-like virus",
+            "成分代碼": "8012005760",
+            "成分名稱": "A\/Switzerland\/9715293\/2013 (H3N2)-like strain (A\/Switzerland\/9715293\/2013, NIB-88)",
             "含量描述": "",
             "含量": "15.0000000000",
             "單位": "ug HA"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8012016000",
-            "成分名稱": "A\/Victoria\/361\/2011(H3N2)",
-            "含量描述": "-like virus",
+            "成分代碼": "8012006220",
+            "成分名稱": "B\/Phuket\/3073\/2013",
+            "含量描述": "",
+            "含量": "15.0000000000",
+            "單位": "ug HA"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8012006500",
+            "成分名稱": "B\/BRISBANE\/60\/2008",
+            "含量描述": "",
             "含量": "15.0000000000",
             "單位": "ug HA"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "020009390003-104-10-13.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=019&Type=9"
+        },
+        {
+            "title": "020009390002-104-10-13.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=018&Type=9"
+        },
+        {
+            "title": "020009390001-104-10-13.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=017&Type=9"
+        },
         {
             "title": "Fluarix Tetra L127-007-02P-104-08-27.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=016&Type=9"
@@ -132,6 +144,18 @@
         {
             "title": "020009390001-102-06-18.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=001&Type=9"
+        },
+        {
+            "title": "Fluarix Tetra NH 2015-2016 label-104-10-13.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=008&Type=8"
+        },
+        {
+            "title": "Fluarix Tetra K127-007-02-104-10-13.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=007&Type=8"
+        },
+        {
+            "title": "Fluarix Tetra NH 2015-2016 box x10-104-10-13.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=006&Type=8"
         },
         {
             "title": "Fluarix Tetra K127-007-02-104-08-27.pdf",
