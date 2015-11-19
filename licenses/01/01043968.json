@@ -1,7 +1,7 @@
 {
     "code": "01043968",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01043968",
-    "time": "2015-11-13 04:14:31",
+    "time": "2015-11-20 04:04:41",
     "許可證字號": "衛署藥製字第043968號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,10 +16,10 @@
     "英文品名": "CEPHRADINE WITH ARGININE \"TBC\"",
     "適應症": "抗生素劑。",
     "劑型": "040（粉）",
-    "包裝": "鋁箔袋裝",
+    "包裝": "0.5 kg 以上鋁箔袋裝",
     "藥品類別": "01製劑原料",
     "管制藥品分類級別": "",
-    "主成分略述": "",
+    "主成分略述": "CEPHRADINE (AS MIXTURE OF CEPHRADINE AND ARGININE)",
     "限制項目": [
         "01國產"
     ],
@@ -34,5 +34,14 @@
     },
     "CCC號列": "30032000310 人用醫藥製劑，含頭孢子菌類抗生素者Medicaments, containing cephalosporins, for human use",
     "藥理治療分類": "",
-    "ingredients": []
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812301720",
+            "成分名稱": "CEPHRADINE (AS MIXTURE OF CEPHRADINE AND ARGININE)",
+            "含量描述": "90-115 ％",
+            "含量": "0.0000000000",
+            "單位": ""
+        }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "07004255",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07004255",
-    "time": "2015-11-13 04:43:33",
+    "time": "2015-11-20 04:33:38",
     "許可證字號": "衛署粧製字第004255號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "500ML以下瓶裝 附外盒裝",
     "化粧品類別": "0711防晒乳液",
     "": "",
-    "主成分略述": "BENZOPHENONE-3, BUTYL METHOXYDIBENZOYLMETHANE, OCTOCRYLENE, ETHYLHEXYL-P-METHOXYCINNAMATE ( EQ TO ETHYLHEXYL P-METHOXYCINNAMATE)",
+    "主成分略述": "BENZOPHENONE-3, OCTOCRYLENE, ETHYLHEXYL-P-METHOXYCINNAMATE ( EQ TO ETHYLHEXYL P-METHOXYCINNAMATE), METHYLENE BIS-BENZOTRIAZOLYL TETRAMETHYLBUTYLPHENOL",
     "限制項目": [
         "01國產"
     ],
@@ -45,14 +45,6 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9600046110",
-            "成分名稱": "BUTYL METHOXYDIBENZOYLMETHANE",
-            "含量描述": "",
-            "含量": "0.5000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "9900066000",
             "成分名稱": "OCTOCRYLENE",
             "含量描述": "",
@@ -64,7 +56,15 @@
             "成分代碼": "9900071220",
             "成分名稱": "ETHYLHEXYL-P-METHOXYCINNAMATE ( EQ TO ETHYLHEXYL P-METHOXYCINNAMATE)",
             "含量描述": "",
-            "含量": "3.0000000000",
+            "含量": "2.9977500000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900093700",
+            "成分名稱": "METHYLENE BIS-BENZOTRIAZOLYL TETRAMETHYLBUTYLPHENOL",
+            "含量描述": "",
+            "含量": "0.5000000000",
             "單位": "%(W\/W)"
         }
     ],
@@ -74,16 +74,12 @@
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004255&Seq=001&Type=9"
         },
         {
-            "title": "070042550002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004255&Seq=003&Type=8"
+            "title": "07004255-104-11-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004255&Seq=004&Type=8"
         },
         {
             "title": "070042550001___20111118.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004255&Seq=002&Type=8"
-        },
-        {
-            "title": "070042550001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004255&Seq=001&Type=8"
         }
     ]
 }
