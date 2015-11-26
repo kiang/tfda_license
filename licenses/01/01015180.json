@@ -1,7 +1,7 @@
 {
     "code": "01015180",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01015180",
-    "time": "2015-11-20 04:44:12",
+    "time": "2015-11-27 04:53:28",
     "許可證字號": "衛署藥製字第015180號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "1、10、50、100毫升小瓶裝，100支以下盒裝小瓶",
     "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "主成分略述": "COLISTIN (METHASULFANATE SODIUM)",
+    "主成分略述": "COLISTIN SODIUM METHANESULFONATE (COLISTIMETHATE SOD.)",
     "限制項目": [
         "01國產"
     ],
@@ -37,11 +37,11 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "0812009321",
-            "成分名稱": "COLISTIN (METHASULFANATE SODIUM)",
-            "含量描述": "66.8 MG\/ 2000000",
-            "含量": "",
-            "單位": "IU (I"
+            "成分代碼": "0812000320",
+            "成分名稱": "COLISTIN SODIUM METHANESULFONATE (COLISTIMETHATE SOD.)",
+            "含量描述": "(66.8 MG POTENCY)",
+            "含量": "2000000.0000000000",
+            "單位": "U (UNIT)"
         }
     ]
 }
