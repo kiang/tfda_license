@@ -1,7 +1,7 @@
 {
     "code": "09000085",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=09000085",
-    "time": "2015-09-25 04:34:08",
+    "time": "2015-12-11 03:40:41",
     "許可證字號": "衛署菌疫製字第000085號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -21,7 +21,8 @@
     "管制藥品分類級別": "",
     "主成分略述": "MONOSODIUM GLUTAMATE (SODIUM GLUTAMATE), B.C.G. VACCINE FREEZE-DRIED",
     "限制項目": [
-        "1G依藥品審查準則第64條不得製造"
+        "01國產",
+        "09委託製造"
     ],
     "申請商名稱": "6201126156  衛生福利部疾病管制署",
     "申請商地址": "台北市南港區昆陽街161號",
@@ -54,8 +55,32 @@
     ],
     "仿單外盒": [
         {
+            "title": "BCG仿單-104-11-27.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000085&Seq=003&Type=9"
+        },
+        {
+            "title": "BCG仿單核定本-104-10-19.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000085&Seq=002&Type=9"
+        },
+        {
             "title": "凍結乾燥卡介苗仿單___20100510.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000085&Seq=001&Type=9"
+        },
+        {
+            "title": "BCG瓶籤-104-11-27.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000085&Seq=004&Type=8"
+        },
+        {
+            "title": "BCG紙盒-104-11-27.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000085&Seq=003&Type=8"
+        },
+        {
+            "title": "BCG瓶籤核定本-104-10-19.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000085&Seq=002&Type=8"
+        },
+        {
+            "title": "BCG紙盒核定本-104-10-19.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000085&Seq=001&Type=8"
         }
     ]
 }

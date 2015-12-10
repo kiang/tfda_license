@@ -1,7 +1,7 @@
 {
     "code": "02023963",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023963",
-    "time": "2015-08-23 11:53:24",
+    "time": "2015-12-11 03:38:24",
     "許可證字號": "衛署藥輸字第023963號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -24,7 +24,7 @@
         "02輸入"
     ],
     "申請商名稱": "620102S342  新加坡商赫士睿股份有限公司台灣分公司",
-    "申請商地址": "台北市大安區敦化南路2段333號18樓",
+    "申請商地址": "新北市淡水區中正東路2段177號",
     "主製造廠": {
         "製造廠名稱": "F020031100  HOSPIRA AUSTRALIA PTY LTD.",
         "製造廠廠址": "1-5, 7-23 AND 25-39 LEXIA PLACE, MULGRAVE, VICTORIA 3170, AUSTRALIA",
@@ -34,6 +34,15 @@
     },
     "CCC號列": "30049071005 抗癌藥Anti-cancer preparations",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "1225204000  裕利股份有限公司",
+            "製造廠廠址": "桃園市大園區和平村1鄰舊厝子1之2號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "包裝"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -46,12 +55,24 @@
     ],
     "仿單外盒": [
         {
+            "title": "P02396302賽達拉敏注射液Cytarabine_CPI(病人用藥資訊)_2015-11版-104-11-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023963&Seq=004&Type=9"
+        },
+        {
+            "title": "P02396302賽達拉敏注射液Cytarabine_CPI(靜脈和皮下途徑使用)_2015-11版-104-11-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023963&Seq=003&Type=9"
+        },
+        {
             "title": "P2169501賽達拉敏注射液Cytarabine-final-103-01-07.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023963&Seq=002&Type=9"
         },
         {
             "title": "020239630001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023963&Seq=001&Type=9"
+        },
+        {
+            "title": "P02396302賽達拉敏注射液Cytarabine_外盒及標籤_2015-11版-104-11-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023963&Seq=001&Type=8"
         }
     ]
 }

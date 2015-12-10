@@ -1,7 +1,7 @@
 {
     "code": "58021956",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58021956",
-    "time": "2015-08-23 21:58:50",
+    "time": "2015-12-11 04:13:02",
     "許可證字號": "衛部粧輸字第021956號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "500ml以下管裝附外盒",
     "化粧品類別": "0714防晒化粧用品",
     "": "",
-    "主成分略述": "Ammonium hydroxide (21.4%), RESORCINOL (RESORCIN), P-METHYLAMINOPHENOL SULFATE, P-AMINOPHENOL, 4-CHLORORESORCINOL, 2-METHYLRESORCINOL, P-PHENYLENEDIAMINE",
+    "主成分略述": "Ammonium hydroxide (21.4%), RESORCINOL (RESORCIN), P-METHYLAMINOPHENOL SULFATE, P-AMINOPHENOL, 2-METHYLRESORCINOL, 4-AMINO-2-HYDROXYTOLUENE, P-PHENYLENEDIAMINE",
     "限制項目": [
         ""
     ],
@@ -48,7 +48,7 @@
             "成分代碼": "8428000500",
             "成分名稱": "RESORCINOL (RESORCIN)",
             "含量描述": "",
-            "含量": "0.1400000000",
+            "含量": "0.1200000000",
             "單位": "%(W\/W)"
         },
         {
@@ -56,7 +56,7 @@
             "成分代碼": "9200035411",
             "成分名稱": "P-METHYLAMINOPHENOL SULFATE",
             "含量描述": "",
-            "含量": "0.1000000000",
+            "含量": "0.0500000000",
             "單位": "%(W\/W)"
         },
         {
@@ -64,15 +64,7 @@
             "成分代碼": "9200035440",
             "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
-            "含量": "0.0700000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200038910",
-            "成分名稱": "4-CHLORORESORCINOL",
-            "含量描述": "",
-            "含量": "0.0750000000",
+            "含量": "0.1000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -80,7 +72,15 @@
             "成分代碼": "9200038920",
             "成分名稱": "2-METHYLRESORCINOL",
             "含量描述": "",
-            "含量": "0.0650000000",
+            "含量": "0.0700000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "0.0100000000",
             "單位": "%(W\/W)"
         },
         {
@@ -88,7 +88,7 @@
             "成分代碼": "9400003200",
             "成分名稱": "P-PHENYLENEDIAMINE",
             "含量描述": "",
-            "含量": "0.1700000000",
+            "含量": "0.1000000000",
             "單位": "%(W\/W)"
         }
     ],
@@ -96,6 +96,10 @@
         {
             "title": "58021956-104-02-12.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58021956&Seq=001&Type=9"
+        },
+        {
+            "title": "58021956-104-11-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58021956&Seq=001&Type=8"
         }
     ]
 }

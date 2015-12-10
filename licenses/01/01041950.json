@@ -1,7 +1,7 @@
 {
     "code": "01041950",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01041950",
-    "time": "2015-08-23 01:07:26",
+    "time": "2015-12-11 03:26:37",
     "許可證字號": "衛署藥製字第041950號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,14 +12,14 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00104195004",
-    "中文品名": "女之命糖衣錠",
+    "中文品名": "\"人生\"女之命糖衣錠",
     "英文品名": "WOMENLIFE S.C. TABLETS\"J.S.\"",
     "適應症": "更年期障礙所引起的諸症狀（肩酸痛、頭痛、頭重、神經痛、冷感症、便秘、生理不順、月經痛、生理異常、全身倦怠、目暈耳鳴、下腹腰痛）",
     "劑型": "119糖衣錠",
-    "包裝": "瓶裝 鋁箔盒裝",
-    "藥品類別": "17醫師藥師藥劑生指示藥",
+    "包裝": "24-1000錠瓶裝 鋁箔盒裝",
+    "藥品類別": "17醫師藥師藥劑生指示藥品",
     "管制藥品分類級別": "",
-    "主成分略述": "SAFFLOWER POWDERED, CINNAMON BARK POWDER ( EQ TO POWDERED CINNAMON BARK ), RHUBARB POWDER (EQ TO POWDERED RHUBARB), BIOTIN, THIAMINE HYDROCHLORIDE, RIBOFLAVIN (VIT B2), PYRIDOXINE HCL, CYANOCOBALAMIN (VIT B12), FOLIC ACID, TOCOPHEROL SUCCINATE, GINSENG POWDER, LECITHIN SOYA, CNIDIUM RHIZOMA(CNIDII RHIZOMA), PENDY POWDERED, HOELEN POWDERED, ANGELICA POWDERED, CYPERI RHIZOMA, PINELLIA POWDERED, ATRACTYLODES LANCEA RHIZOMA POWDER",
+    "主成分略述": "POWDERED JAPANESE VALERIAN, CALCIUM PEARL, SAFFLOWER POWDERED, CINNAMON BARK POWDER ( EQ TO POWDERED CINNAMON BARK ), RHUBARB POWDER (EQ TO POWDERED RHUBARB), POWDERED PEONY ROOT, BIOTIN, THIAMINE HYDROCHLORIDE, RIBOFLAVIN (VIT B2), PYRIDOXINE HCL, CYANOCOBALAMIN (VIT B12), FOLIC ACID, Calcium Pantothenate, TOCOPHEROL SUCCINATE, AMINOETHYLSULFONIC ACID, GINSENG POWDER, LECITHIN SOYA, CNIDIUM RHIZOMA(CNIDII RHIZOMA), HOELEN POWDERED, ANGELICA POWDERED, POWDERED CYPERUS RHIZOME, PINELLIA POWDERED, ATRACTYLODES LANCEA RHIZOMA POWDER, EVODIA FRUIT",
     "限制項目": [
         "01國產"
     ],
@@ -35,6 +35,22 @@
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2824000640",
+            "成分名稱": "POWDERED JAPANESE VALERIAN",
+            "含量描述": "",
+            "含量": "17.2500000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "4012000400",
+            "成分名稱": "CALCIUM PEARL",
+            "含量描述": "",
+            "含量": "0.8300000000",
+            "單位": "MG"
+        },
         {
             "成分類別": "主成分",
             "成分代碼": "4020001510",
@@ -61,11 +77,19 @@
         },
         {
             "成分類別": "主成分",
+            "成分代碼": "8412001520",
+            "成分名稱": "POWDERED PEONY ROOT",
+            "含量描述": "25",
+            "含量": "25.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
             "成分代碼": "8810000100",
             "成分名稱": "BIOTIN",
             "含量描述": "0.083",
             "含量": "0.0830000000",
-            "單位": "MG"
+            "單位": "ug"
         },
         {
             "成分類別": "主成分",
@@ -97,7 +121,7 @@
             "成分名稱": "CYANOCOBALAMIN (VIT B12)",
             "含量描述": "0.083",
             "含量": "0.0830000000",
-            "單位": "MG"
+            "單位": "ug"
         },
         {
             "成分類別": "主成分",
@@ -109,10 +133,26 @@
         },
         {
             "成分類別": "主成分",
+            "成分代碼": "8812300210",
+            "成分名稱": "Calcium Pantothenate",
+            "含量描述": "",
+            "含量": "0.4200000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
             "成分代碼": "8820000400",
             "成分名稱": "TOCOPHEROL SUCCINATE",
             "含量描述": "0.42",
             "含量": "0.4200000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200000940",
+            "成分名稱": "AMINOETHYLSULFONIC ACID",
+            "含量描述": "",
+            "含量": "7.5000000000",
             "單位": "MG"
         },
         {
@@ -136,15 +176,7 @@
             "成分代碼": "9200024910",
             "成分名稱": "CNIDIUM RHIZOMA(CNIDII RHIZOMA)",
             "含量描述": "(POWDERED) 8.33",
-            "含量": "",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200025101",
-            "成分名稱": "PENDY POWDERED",
-            "含量描述": "25",
-            "含量": "25.0000000000",
+            "含量": "0.0000000000",
             "單位": "MG"
         },
         {
@@ -160,15 +192,15 @@
             "成分代碼": "9200025301",
             "成分名稱": "ANGELICA POWDERED",
             "含量描述": "(ROOT) 25",
-            "含量": "",
+            "含量": "0.0000000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200025410",
-            "成分名稱": "CYPERI RHIZOMA",
+            "成分代碼": "9200025412",
+            "成分名稱": "POWDERED CYPERUS RHIZOME",
             "含量描述": "POWDERED 4.17",
-            "含量": "",
+            "含量": "0.0000000000",
             "單位": "MG"
         },
         {
@@ -176,7 +208,7 @@
             "成分代碼": "9200025501",
             "成分名稱": "PINELLIA POWDERED",
             "含量描述": "(TUBER) 6.25",
-            "含量": "",
+            "含量": "0.0000000000",
             "單位": "MG"
         },
         {
@@ -185,6 +217,14 @@
             "成分名稱": "ATRACTYLODES LANCEA RHIZOMA POWDER",
             "含量描述": "8.33",
             "含量": "8.3300000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900096400",
+            "成分名稱": "EVODIA FRUIT",
+            "含量描述": "(powder)",
+            "含量": "3.3300000000",
             "單位": "MG"
         }
     ],

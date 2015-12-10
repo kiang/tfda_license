@@ -1,7 +1,7 @@
 {
     "code": "02025810",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025810",
-    "time": "2015-08-24 13:02:30",
+    "time": "2015-12-11 03:39:52",
     "許可證字號": "衛署藥輸字第025810號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,19 +16,19 @@
     "英文品名": "Livalo Tablets 4mg",
     "適應症": "原發性高膽固醇血症及混合型血脂異常。",
     "劑型": "116膜衣錠",
-    "包裝": "2~1000錠鋁箔片(PTP)盒裝",
+    "包裝": "2~1000錠鋁箔盒裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "主成分略述": "PITAVASTATIN CALCIUM",
+    "主成分略述": "Pitavastatin Calcium Hydrate",
     "限制項目": [
         "02輸入"
     ],
     "申請商名稱": "6201010313  台田藥品股份有限公司",
     "申請商地址": "臺北市南港區市民大道七段8號14樓之1",
     "主製造廠": {
-        "製造廠名稱": "F260152200  KOWA COMPANY LTD.",
-        "製造廠廠址": "18-57, HATOOKA 2-CHOME, KITA-KU, NAGOYA, JAPAN",
-        "製造廠公司地址": "6-29, NISHIKI 3-CHOME, NAKA-KU, NAGOYA, JAPAN",
+        "製造廠名稱": "F260152200  KOWA COMPANY LTD. NAGOYA FACTORY",
+        "製造廠廠址": "18-57 HATOOKA 2-CHOME KITA-KU NAGOYA JAPAN",
+        "製造廠公司地址": "",
         "製造廠國別": "JAPAN",
         "製程": ""
     },
@@ -43,6 +43,13 @@
             "製程": "包裝"
         },
         {
+            "製造廠名稱": "F260152500  KOWA COMPANY LTD.",
+            "製造廠廠址": "6-29,NISHIKI, 3-CHOME, NAKA-KU, NAGOYA, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "公司"
+        },
+        {
             "製造廠名稱": "F260582000  NISSAN CHEMICAL INDUSTRIES, LTD.",
             "製造廠廠址": "6903-1, OAZA ONODA, SANYOONODA, YAMAGUCHI 756-0093, JAPAN",
             "製造廠公司地址": "",
@@ -53,10 +60,10 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2406003310",
-            "成分名稱": "PITAVASTATIN CALCIUM",
-            "含量描述": "",
-            "含量": "4.0000000000",
+            "成分代碼": "2406003320",
+            "成分名稱": "Pitavastatin Calcium Hydrate",
+            "含量描述": "(EQ TO Pitavastatin Calcium 4.0mg)",
+            "含量": "4.4000000000",
             "單位": "MG"
         }
     ],

@@ -1,7 +1,7 @@
 {
     "code": "03009305",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=03009305",
-    "time": "2015-08-23 07:56:17",
+    "time": "2015-12-11 03:40:23",
     "許可證字號": "衛署成製字第009305號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "瓶裝",
     "藥品類別": "03成藥",
     "管制藥品分類級別": "",
-    "主成分略述": "CREOSOTE, CINNAMON POWDER (CINNAMON CORTEX POWDER), CLOVE POWDER",
+    "主成分略述": "CREOSOTE, CINNAMON POWDER (CINNAMON CORTEX POWDER), CLOVE POWDER, YEAST (TORULA YEAST)",
     "限制項目": [
         "01國產"
     ],
@@ -57,6 +57,14 @@
             "成分名稱": "CLOVE POWDER",
             "含量描述": "30",
             "含量": "30.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8810000600",
+            "成分名稱": "YEAST (TORULA YEAST)",
+            "含量描述": "(YEAST MEDIC)",
+            "含量": "40.0000000000",
             "單位": "MG"
         }
     ]

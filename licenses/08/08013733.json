@@ -1,7 +1,7 @@
 {
     "code": "08013733",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08013733",
-    "time": "2015-08-23 19:04:43",
+    "time": "2015-12-11 04:09:50",
     "許可證字號": "衛署粧輸字第013733號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,13 +13,13 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00801373301",
     "中文品名": "Biore 高防曬控油隔離乳液",
-    "英文品名": "Biore UV Perfect Face Milk",
+    "英文品名": "Bioré UV PERFECT Face Milk",
     "用途": "防止日曬、滋滑肌膚。",
     "劑型": "944乳劑",
-    "包裝": "500ML以下塑膠瓶裝",
+    "包裝": "500ML以下瓶裝附吊卡",
     "化粧品類別": "0711防晒乳液",
     "": "",
-    "主成分略述": "ZINC OXIDE, ETHYLHEXYL METHOXYCINNAMATE",
+    "主成分略述": "ZINC OXIDE, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, ETHYLHEXYL METHOXYCINNAMATE, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
     "限制項目": [
         "02輸入"
     ],
@@ -40,7 +40,15 @@
             "成分代碼": "9200011500",
             "成分名稱": "ZINC OXIDE",
             "含量描述": "",
-            "含量": "12.0400000000",
+            "含量": "9.1000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9600203500",
+            "成分名稱": "DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE",
+            "含量描述": "",
+            "含量": "2.0000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -48,7 +56,15 @@
             "成分代碼": "9900071200",
             "成分名稱": "ETHYLHEXYL METHOXYCINNAMATE",
             "含量描述": "",
-            "含量": "5.0000000000",
+            "含量": "7.0000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900095700",
+            "成分名稱": "BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
+            "含量描述": "",
+            "含量": "1.0000000000",
             "單位": "%(W\/W)"
         }
     ],
@@ -60,6 +76,10 @@
         {
             "title": "08013733 中英文 包裝 製造廠變更___20120806.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013733&Seq=001&Type=9"
+        },
+        {
+            "title": "08013733-104-11-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013733&Seq=004&Type=8"
         },
         {
             "title": "080137330003.jpg",

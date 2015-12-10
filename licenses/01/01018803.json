@@ -1,7 +1,7 @@
 {
     "code": "01018803",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01018803",
-    "time": "2015-08-22 19:38:59",
+    "time": "2015-12-11 03:12:42",
     "許可證字號": "衛署藥製字第018803號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,14 +12,14 @@
     "舊證字號": "00000000",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00101880308",
-    "中文品名": "舒朗糖衣錠",
+    "中文品名": "\"培力\"舒朗糖衣錠",
     "英文品名": "SULAN SUGAR COATED TABLETS \"P.L.\"",
     "適應症": "更年期障礙及婦科上生理機能障礙（如月經痛、月經前緊張、神經緊張、神經性消化不良、偏頭痛之預防）",
     "劑型": "119糖衣錠",
-    "包裝": "瓶裝 盒裝",
+    "包裝": "200、500、1000粒瓶裝 100粒盒裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "X取消管制藥品註記",
-    "主成分略述": "BELLADONNA LEAF ALKALOID, ERGOTAMINE TARTRATE, PHENOBARBITAL",
+    "主成分略述": "BELLADONNA EXTRACT, ERGOTAMINE TARTRATE, PHENOBARBITAL",
     "限制項目": [
         "01國產"
     ],
@@ -37,10 +37,10 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "1208000613",
-            "成分名稱": "BELLADONNA LEAF ALKALOID",
-            "含量描述": "(10MG) 0.1",
-            "含量": "",
+            "成分代碼": "1208000601",
+            "成分名稱": "BELLADONNA EXTRACT",
+            "含量描述": "(equivalent to 0.1mg of the total alkaloid of BELLADONNALEAF)",
+            "含量": "10.0000000000",
             "單位": "MG"
         },
         {

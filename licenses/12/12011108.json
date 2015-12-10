@@ -1,7 +1,7 @@
 {
     "code": "12011108",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12011108",
-    "time": "2015-08-22 17:54:38",
+    "time": "2015-12-11 03:42:04",
     "許可證字號": "內衛藥製字第011108號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,14 +12,14 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY01201110801",
-    "中文品名": "胃立爽顆粒",
+    "中文品名": "\"人生\"胃立爽顆粒",
     "英文品名": "STOMASON GRANULES \"JEN SHENG\"",
     "適應症": "急慢性胃炎、胃酸過多、噁心、嘔吐、胃潰瘍、十二指腸潰瘍",
     "劑型": "150內服顆粒劑",
     "包裝": "盒裝 瓶裝",
     "藥品類別": "07須經醫師指示使用",
     "管制藥品分類級別": "",
-    "主成分略述": "SCOPOLA, BENACTYZINE HCL, MAGNESIUM CARBONATE, POLYMIGEL (AL.HYDROXIDE +CACO3 +MGCO3 ), CHOLIC ACID, CHLOROPHYLL SODIUM COPPER",
+    "主成分略述": "SCOPOLIA EXTRACT, BENACTYZINE HCL, MAGNESIUM CARBONATE, POLYMIGEL (AL.HYDROXIDE +CACO3 +MGCO3 ), CHOLIC ACID, SODIUM COPPER CHLOROPHYLLIN",
     "限制項目": [
         "01國產"
     ],
@@ -37,10 +37,10 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "1208004500",
-            "成分名稱": "SCOPOLA",
-            "含量描述": "(EXTRACT) 10",
-            "含量": "",
+            "成分代碼": "1208004502",
+            "成分名稱": "SCOPOLIA EXTRACT",
+            "含量描述": "",
+            "含量": "10.0000000000",
             "單位": "MG"
         },
         {
@@ -77,8 +77,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8416000640",
-            "成分名稱": "CHLOROPHYLL SODIUM COPPER",
+            "成分代碼": "8416000642",
+            "成分名稱": "SODIUM COPPER CHLOROPHYLLIN",
             "含量描述": "15",
             "含量": "15.0000000000",
             "單位": "MG"

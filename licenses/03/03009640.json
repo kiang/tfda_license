@@ -1,7 +1,7 @@
 {
     "code": "03009640",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=03009640",
-    "time": "2015-08-23 09:14:55",
+    "time": "2015-12-11 03:40:25",
     "許可證字號": "衛署成製字第009640號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,13 +14,14 @@
     "通關簽審文件編號": "DHY00300964008",
     "中文品名": "興國胃散",
     "英文品名": "",
-    "適應症": "胃痛、嘔吐胃酸、胃弱、食慾不振、消化不良",
+    "適應症": "胃痛、胃酸過多、食慾不振、消化不良",
     "劑型": "140散劑",
-    "包裝": "盒裝",
+    "包裝": "18-1000g塑膠盒裝",
     "藥品類別": "03成藥",
     "管制藥品分類級別": "",
-    "主成分略述": "MYRISTICA POWDER, SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE), MAGNESIUM CARBONATE, ANISI STELLATUM POWDER, GLYCYRRHIZA POWDER, CARYOPHILLIN POWDER",
+    "主成分略述": "MYRISTICA POWDER, SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE), MAGNESIUM CARBONATE, DL-MENTHOL, ANISI STELLATUM POWDER, GLYCYRRHIZA POWDER, CARYOPHILLIN POWDER",
     "限制項目": [
+        "01國產",
         "09委託製造"
     ],
     "申請商名稱": "0201709200  人生製藥股份有限公司",
@@ -57,6 +58,14 @@
             "成分名稱": "MAGNESIUM CARBONATE",
             "含量描述": "0.5",
             "含量": "0.5000000000",
+            "單位": "GM"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8408000303",
+            "成分名稱": "DL-MENTHOL",
+            "含量描述": "0.02",
+            "含量": "0.0200000000",
             "單位": "GM"
         },
         {

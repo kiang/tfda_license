@@ -1,7 +1,7 @@
 {
     "code": "01046204",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01046204",
-    "time": "2015-08-23 01:02:17",
+    "time": "2015-12-11 03:29:55",
     "許可證字號": "衛署藥製字第046204號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,8 +26,8 @@
     "申請商名稱": "0939101200  科進製藥科技股份有限公司",
     "申請商地址": "台北市南港區園區街3號14樓之7",
     "主製造廠": {
-        "製造廠名稱": "6133061413  歐帕生技醫藥股份有限公司",
-        "製造廠廠址": "新竹縣湖口鄉光復路1號",
+        "製造廠名稱": "6133050732  科進製藥科技股份有限公司新竹廠",
+        "製造廠廠址": "新竹縣竹北市東海里生醫路2段22、26號4樓",
         "製造廠公司地址": "",
         "製造廠國別": "TAIWAN",
         "製程": ""
@@ -62,12 +62,28 @@
     ],
     "仿單外盒": [
         {
+            "title": "免你喘錠 中文仿單-104-11-09.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046204&Seq=003&Type=9"
+        },
+        {
             "title": "010462040002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046204&Seq=002&Type=9"
         },
         {
             "title": "010462040001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046204&Seq=001&Type=9"
+        },
+        {
+            "title": "免你喘錠鋁箔-104-11-09.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046204&Seq=003&Type=8"
+        },
+        {
+            "title": "免你喘錠標籤-104-11-09.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046204&Seq=002&Type=8"
+        },
+        {
+            "title": "免你喘錠外盒-104-11-09.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046204&Seq=001&Type=8"
         }
     ]
 }

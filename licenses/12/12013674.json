@@ -1,7 +1,7 @@
 {
     "code": "12013674",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12013674",
-    "time": "2015-08-22 17:22:05",
+    "time": "2015-12-11 03:42:36",
     "許可證字號": "內衛藥製字第013674號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,14 +12,14 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY01201367402",
-    "中文品名": "胃腸藥",
+    "中文品名": "\"人生\"胃腸藥",
     "英文品名": "WEISAN \"JEN SHENG\"",
     "適應症": "緩解胃部不適或灼熱感、胃酸過多、消化不良",
-    "劑型": "140散劑",
+    "劑型": "041粉劑",
     "包裝": "盒裝",
     "藥品類別": "07須經醫師指示使用",
     "管制藥品分類級別": "",
-    "主成分略述": "SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE), MAGNESIUM CARBONATE, CINNAMON (CINNAMON CORTEX ) (CINNAMON BARK), FENNEL (FOENICULUM), RHEUM, LIPASE, MENTHOL, GLYCYRRHIZA (LIQUORICE)",
+    "主成分略述": "SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE), LYPASE, MAGNESIUM CARBONATE, CINNAMON (CINNAMON CORTEX ) (CINNAMON BARK), FENNEL (FOENICULUM), RHEUM, MENTHOL, GLYCYRRHIZA (LIQUORICE)",
     "限制項目": [
         "01國產"
     ],
@@ -41,6 +41,14 @@
             "成分名稱": "SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE)",
             "含量描述": "18",
             "含量": "18.0000000000",
+            "單位": "%"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "4400007000",
+            "成分名稱": "LYPASE",
+            "含量描述": "5",
+            "含量": "5.0000000000",
             "單位": "%"
         },
         {
@@ -73,14 +81,6 @@
             "成分名稱": "RHEUM",
             "含量描述": "7",
             "含量": "7.0000000000",
-            "單位": "%"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "5616000900",
-            "成分名稱": "LIPASE",
-            "含量描述": "5",
-            "含量": "5.0000000000",
             "單位": "%"
         },
         {

@@ -1,7 +1,7 @@
 {
     "code": "08017853",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08017853",
-    "time": "2015-08-23 20:33:13",
+    "time": "2015-12-11 04:11:05",
     "許可證字號": "衛署粧輸字第017853號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "500 ml以下瓶裝",
     "化粧品類別": "0711防晒乳液",
     "": "",
-    "主成分略述": "BUTYL METHOXYDIBENZOYLMETHANE, PHENYLBENZIMIDAZOLE SULFONIC ACID, ETHYLHEXYL SALICYLATE",
+    "主成分略述": "BUTYL METHOXYDIBENZOYLMETHANE, PHENYLBENZIMIDAZOLE SULFONIC ACID, OCTOCRYLENE, ETHYLHEXYL SALICYLATE",
     "限制項目": [
         "02輸入"
     ],
@@ -53,14 +53,26 @@
         },
         {
             "成分類別": "主成分",
+            "成分代碼": "9900066000",
+            "成分名稱": "OCTOCRYLENE",
+            "含量描述": "",
+            "含量": "1.0000000000",
+            "單位": ""
+        },
+        {
+            "成分類別": "主成分",
             "成分代碼": "9900085500",
             "成分名稱": "ETHYLHEXYL SALICYLATE",
             "含量描述": "",
-            "含量": "5.0000000000",
+            "含量": "4.0000000000",
             "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "08017853-104-11-17.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08017853&Seq=005&Type=8"
+        },
         {
             "title": "08017853-104-03-10.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08017853&Seq=004&Type=8"

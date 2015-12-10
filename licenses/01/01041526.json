@@ -1,7 +1,7 @@
 {
     "code": "01041526",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01041526",
-    "time": "2015-08-23 01:23:25",
+    "time": "2015-12-11 03:25:58",
     "許可證字號": "衛署藥製字第041526號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,7 +12,7 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00104152604",
-    "中文品名": "倍骼膠囊２５０公絲（硫酸固可沙明）",
+    "中文品名": "\"明德\"倍骼膠囊250毫克(硫酸固可沙明)",
     "英文品名": "BEGUP CAPSULES 250MG \"MEIDER\" (GLUCOSAMIME SULFATE)",
     "適應症": "緩解退化性關節炎之疼痛。",
     "劑型": "130膠囊劑",
@@ -39,7 +39,15 @@
             "成分類別": "主成分",
             "成分代碼": "9600013300",
             "成分名稱": "GLUCOSAMINE SULPHATE",
-            "含量描述": "250.0",
+            "含量描述": "",
+            "含量": "250.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9600013300",
+            "成分名稱": "GLUCOSAMINE SULPHATE",
+            "含量描述": "",
             "含量": "250.0000000000",
             "單位": "MG"
         }
@@ -66,6 +74,10 @@
     ],
     "仿單外盒": [
         {
+            "title": "041526_倍骼膠囊說明書-104-11-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041526&Seq=004&Type=9"
+        },
+        {
             "title": "010415260003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041526&Seq=003&Type=9"
         },
@@ -76,6 +88,22 @@
         {
             "title": "010415260001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041526&Seq=001&Type=9"
+        },
+        {
+            "title": "041526_倍骼膠囊桔乳標籤-104-11-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041526&Seq=004&Type=8"
+        },
+        {
+            "title": "041526_倍骼膠囊桔乳內盒-104-11-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041526&Seq=003&Type=8"
+        },
+        {
+            "title": "041526_倍骼膠囊紅白標籤-104-11-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041526&Seq=002&Type=8"
+        },
+        {
+            "title": "041526_倍骼膠囊紅白內盒-104-11-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041526&Seq=001&Type=8"
         }
     ]
 }

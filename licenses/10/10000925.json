@@ -1,7 +1,7 @@
 {
     "code": "10000925",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000925",
-    "time": "2015-09-25 04:35:28",
+    "time": "2015-12-11 03:41:08",
     "許可證字號": "衛署菌疫輸字第000925號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "2, 4, 10毫升裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "主成分略述": "THROMBIN, CALCIUM CHLORIDE, APROTININ ( BOVINE), PROTEIN CLOTTABLE ( HUMAN ) ( FIBRINOGEN 70-110mg, PLASMAFIBRONECTIN 2-9mg, PLASMINOGEN 0.04-0.12mg)",
+    "主成分略述": "THROMBIN, CALCIUM CHLORIDE, APROTININ (SYNTHETIC), PROTEIN CLOTTABLE ( HUMAN ) ( FIBRINOGEN 70-110mg, PLASMAFIBRONECTIN 2-9mg, PLASMINOGEN 0.04-0.12mg)",
     "限制項目": [
         "02輸入"
     ],
@@ -37,8 +37,8 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "4410000120",
-            "成分名稱": "APROTININ ( BOVINE)",
+            "成分代碼": "4410000130",
+            "成分名稱": "APROTININ (SYNTHETIC)",
             "含量描述": "(2250-3750)",
             "含量": "3000.0000000000",
             "單位": "KIU"

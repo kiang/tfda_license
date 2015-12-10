@@ -1,7 +1,7 @@
 {
     "code": "02024326",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024326",
-    "time": "2015-09-25 05:16:03",
+    "time": "2015-12-11 03:38:40",
     "許可證字號": "衛署藥輸字第024326號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "2-1000錠鋁箔盒裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "主成分略述": "MIRTAZAPINE",
+    "主成分略述": "Mirtazapine (as coated Mirtazapine containing 24% active ingredient)",
     "限制項目": [
         "02輸入",
         "25監視中學名藥"
@@ -47,14 +47,22 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2816901700",
-            "成分名稱": "MIRTAZAPINE",
-            "含量描述": "",
-            "含量": "15.0000000000",
+            "成分代碼": "2816901720",
+            "成分名稱": "Mirtazapine (as coated Mirtazapine containing 24% active ingredient)",
+            "含量描述": "eq to mirtazapine 15mg",
+            "含量": "62.5000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "樂活優口溶錠15毫克_LF(Eng)-104-11-05.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024326&Seq=020&Type=9"
+        },
+        {
+            "title": "樂活優口溶錠15毫克_LF-104-11-05.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024326&Seq=019&Type=9"
+        },
         {
             "title": "樂活優口溶錠15, 30, 45毫克_Feb2014-103-10-06.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024326&Seq=018&Type=9"

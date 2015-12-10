@@ -1,7 +1,7 @@
 {
     "code": "01036667",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01036667",
-    "time": "2015-08-22 23:59:53",
+    "time": "2015-12-11 03:23:08",
     "許可證字號": "衛署藥製字第036667號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,10 +13,10 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00103666702",
     "中文品名": "\"瑞士\"瑞拿菌膠囊１００公絲（美諾四環素）",
-    "英文品名": "NOCIGEN CAPSULES 100MG (MINOCYCLINE) \"SWISS\"",
+    "英文品名": "NOCIGEN CAPSULES 100MG  \"SWISS\"(MINOCYCLINE)",
     "適應症": "革蘭氏陽性、陰性菌、立克次氏體及巨型濾過性病毒引起之感染症。",
     "劑型": "130膠囊劑",
-    "包裝": "罐裝 盒裝",
+    "包裝": "6-1000粒塑膠罐裝 6-1000粒鋁箔盒裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
     "主成分略述": "MINOCYCLINE (HCL)",
@@ -39,7 +39,7 @@
             "成分類別": "主成分",
             "成分代碼": "0812809610",
             "成分名稱": "MINOCYCLINE (HCL)",
-            "含量描述": "100",
+            "含量描述": "EQ TO MINOCYCLINE",
             "含量": "100.0000000000",
             "單位": "MG"
         }
@@ -56,14 +56,26 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "N22-CAP-104-10-03.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036667&Seq=311&Type=10"
+        },
+        {
             "title": "圖片",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036667&Seq=310&Type=10"
         }
     ],
     "仿單外盒": [
         {
+            "title": "瑞拿菌膠囊100毫克A036667-仿單20151112-104-11-25.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036667&Seq=002&Type=9"
+        },
+        {
             "title": "010366670001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036667&Seq=001&Type=9"
+        },
+        {
+            "title": "N22-罐裝-104-10-03.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036667&Seq=001&Type=8"
         }
     ]
 }

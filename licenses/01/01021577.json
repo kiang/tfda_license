@@ -1,7 +1,7 @@
 {
     "code": "01021577",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01021577",
-    "time": "2015-08-24 00:38:51",
+    "time": "2015-12-11 03:14:10",
     "許可證字號": "衛署藥製字第021577號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,13 +13,13 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102157709",
     "中文品名": "治腫寧軟膏（希克坦）",
-    "英文品名": "GILONRING OINTMENT (HIPPOCASTANI) \"P.L.\"",
+    "英文品名": "GILONRING OINTMENT \"P.L.\" (HIPPOCASTANI)",
     "適應症": "改善慢性靜脈功能不全引起局部腫脹之輔助療法。",
     "劑型": "360軟膏劑",
-    "包裝": "管裝",
+    "包裝": "每支15公克24支, 每支70公克12支盒裝",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
     "管制藥品分類級別": "",
-    "主成分略述": "ESCIN (A.HIPPOCASTANUM L EXTRACT)",
+    "主成分略述": "AESCULUS HIPPOCASTANUM L EXTRACT",
     "限制項目": [
         "01國產"
     ],
@@ -37,10 +37,10 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2412009801",
-            "成分名稱": "ESCIN (A.HIPPOCASTANUM L EXTRACT)",
-            "含量描述": "(42.6MG) 6.816",
-            "含量": "",
+            "成分代碼": "2412000801",
+            "成分名稱": "AESCULUS HIPPOCASTANUM L EXTRACT",
+            "含量描述": "(equivalent to 6.816mg of total triterpenes calculated as aesein)",
+            "含量": "42.6000000000",
             "單位": "MG"
         }
     ],

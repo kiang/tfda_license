@@ -1,7 +1,7 @@
 {
     "code": "08019103",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08019103",
-    "time": "2015-08-23 20:38:26",
+    "time": "2015-12-11 04:11:48",
     "許可證字號": "衛署粧輸字第019103號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "500ml以下軟管裝附外盒",
     "化粧品類別": "0110染髮劑",
     "": "",
-    "主成分略述": "Ammonium Hydroxide (21.5% w\/w ammonia in water), RESORCINOL (RESORCIN), 4-CHLORORESORCINOL, 2-METHYLRESORCINOL, P-PHENYLENEDIAMINE, 2-AMINO-6-CHLORO-4-NITROPHENOL",
+    "主成分略述": "Ammonium Hydroxide (21.5% w\/w ammonia in water), RESORCINOL (RESORCIN), m-Aminophenol, 4-CHLORORESORCINOL, 2-METHYLRESORCINOL, P-PHENYLENEDIAMINE",
     "限制項目": [
         "02輸入"
     ],
@@ -53,10 +53,18 @@
         },
         {
             "成分類別": "主成分",
+            "成分代碼": "9200035470",
+            "成分名稱": "m-Aminophenol",
+            "含量描述": "",
+            "含量": "0.0100000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
             "成分代碼": "9200038910",
             "成分名稱": "4-CHLORORESORCINOL",
             "含量描述": "",
-            "含量": "0.0550000000",
+            "含量": "0.0600000000",
             "單位": "%(W\/W)"
         },
         {
@@ -64,7 +72,7 @@
             "成分代碼": "9200038920",
             "成分名稱": "2-METHYLRESORCINOL",
             "含量描述": "",
-            "含量": "0.0800000000",
+            "含量": "0.0600000000",
             "單位": "%(W\/W)"
         },
         {
@@ -72,19 +80,15 @@
             "成分代碼": "9400003200",
             "成分名稱": "P-PHENYLENEDIAMINE",
             "含量描述": "",
-            "含量": "0.1300000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9900084900",
-            "成分名稱": "2-AMINO-6-CHLORO-4-NITROPHENOL",
-            "含量描述": "",
-            "含量": "0.0100000000",
+            "含量": "0.1500000000",
             "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "080191030001-104-11-20.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019103&Seq=002&Type=8"
+        },
         {
             "title": "08019103___20120509.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019103&Seq=001&Type=8"

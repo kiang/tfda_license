@@ -1,7 +1,7 @@
 {
     "code": "02025033",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025033",
-    "time": "2015-08-23 12:25:59",
+    "time": "2015-12-11 03:39:20",
     "許可證字號": "衛署藥輸字第025033號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,7 +14,7 @@
     "通關簽審文件編號": "DHA00202503306",
     "中文品名": "適喘樂舒沛噴吸入劑 2.5 微公克",
     "英文品名": "Spiriva Respimat 2.5mcg, Solution for Inhalation",
-    "適應症": "慢性阻塞性肺疾 (包括慢性支氣管炎及肺氣腫)之維持治療。",
+    "適應症": "慢性阻塞性肺疾(包括慢性支氣管炎及肺氣腫)之維持治療及降低惡化。\r\n適用於已接受吸入性皮質類固醇(每日劑量相當於≥800μg budesonide)與長效β2促進劑(agonist)而仍未控制症狀，且過去一年發生一次或以上嚴重惡化之成人支氣管氣喘患者，作為維持性支氣管擴張劑附加治療。",
     "劑型": "103口腔吸入劑",
     "包裝": "100毫升以下鋁罐裝 附舒沛噴吸入器",
     "藥品類別": "06須由醫師處方使用",
@@ -48,12 +48,16 @@
             "成分類別": "主成分",
             "成分代碼": "1208006600",
             "成分名稱": "TIOTROPIUM",
-            "含量描述": "",
+            "含量描述": "(corresponds to tiotropium bromide monohydrate 0.006247mg)",
             "含量": "0.0050000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "020250330001_2105Nov20-104-11-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025033&Seq=005&Type=9"
+        },
         {
             "title": "1031014適喘樂®+舒沛噴®+吸入劑+2.5微公克(英仿)-103-10-15.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025033&Seq=004&Type=9"
@@ -69,6 +73,22 @@
         {
             "title": "010250330001___20110714.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025033&Seq=001&Type=9"
+        },
+        {
+            "title": "020250330005-104-11-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025033&Seq=004&Type=8"
+        },
+        {
+            "title": "020250330004-104-11-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025033&Seq=003&Type=8"
+        },
+        {
+            "title": "020250330003-104-11-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025033&Seq=002&Type=8"
+        },
+        {
+            "title": "020250330002-104-11-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025033&Seq=001&Type=8"
         }
     ]
 }

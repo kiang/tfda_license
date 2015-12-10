@@ -1,7 +1,7 @@
 {
     "code": "01007212",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01007212",
-    "time": "2015-08-22 19:07:37",
+    "time": "2015-12-11 03:09:40",
     "許可證字號": "衛署藥製字第007212號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,14 +12,14 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00100721200",
-    "中文品名": "佳胃朗錠",
+    "中文品名": "\"人生\"佳胃朗錠",
     "英文品名": "CHIAWEILAN TABLETS \"J.S.\"",
     "適應症": "緩解胃部不適或灼熱感、胃酸過多、消化不良",
     "劑型": "110錠劑",
-    "包裝": "瓶裝 罐裝",
+    "包裝": "12-1000錠瓶裝 罐裝",
     "藥品類別": "07須經醫師指示使用",
     "管制藥品分類級別": "",
-    "主成分略述": "PIPERILATE HCL (PIPETHANATE HYDROCHLORIDE), GLYCINE (EQ TO AMINOACETIC ACID)(EQ TO GLYCOCOLL), MAGNESIUM CARBONATE, ALUMINUM DIACETATE(AL. ACETATE BASIC)(AL. SUBACETATE), CHLOROPHYLL SODIUM COPPER, GLYCYRRHIZA EXTRACT",
+    "主成分略述": "PIPERILATE HCL (PIPETHANATE HYDROCHLORIDE), GLYCINE (EQ TO AMINOACETIC ACID)(EQ TO GLYCOCOLL), ALUMINUM MAGNESIUM SILICATE, MAGNESIUM CARBONATE, SODIUM COPPER CHLOROPHYLLIN, GLYCYRRHIZA EXTRACT",
     "限制項目": [
         "01國產"
     ],
@@ -53,6 +53,14 @@
         },
         {
             "成分類別": "主成分",
+            "成分代碼": "5604000500",
+            "成分名稱": "ALUMINUM MAGNESIUM SILICATE",
+            "含量描述": "147.5",
+            "含量": "147.5000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
             "成分代碼": "5604002400",
             "成分名稱": "MAGNESIUM CARBONATE",
             "含量描述": "10.5",
@@ -61,16 +69,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8412002000",
-            "成分名稱": "ALUMINUM DIACETATE(AL. ACETATE BASIC)(AL. SUBACETATE)",
-            "含量描述": "147.5",
-            "含量": "147.5000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "8416000640",
-            "成分名稱": "CHLOROPHYLL SODIUM COPPER",
+            "成分代碼": "8416000642",
+            "成分名稱": "SODIUM COPPER CHLOROPHYLLIN",
             "含量描述": "0.5",
             "含量": "0.5000000000",
             "單位": "MG"

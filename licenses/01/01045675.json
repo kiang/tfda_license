@@ -1,7 +1,7 @@
 {
     "code": "01045675",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01045675",
-    "time": "2015-08-23 02:15:47",
+    "time": "2015-12-11 03:29:40",
     "許可證字號": "衛署藥製字第045675號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -56,7 +56,7 @@
             "成分代碼": "4400007100",
             "成分名稱": "BIODIASTASE",
             "含量描述": "(1000)",
-            "含量": "1.6700000000",
+            "含量": "15.0000000000",
             "單位": "MG"
         },
         {
@@ -96,8 +96,30 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "07-104-11-05.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045675&Seq=417&Type=10"
+        },
+        {
             "title": "圖片",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045675&Seq=416&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "01-104-11-05.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045675&Seq=001&Type=9"
+        },
+        {
+            "title": "05-104-11-05.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045675&Seq=003&Type=8"
+        },
+        {
+            "title": "04-104-11-05.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045675&Seq=002&Type=8"
+        },
+        {
+            "title": "03-104-11-05.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045675&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "02011315",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02011315",
-    "time": "2015-08-23 07:00:49",
+    "time": "2015-12-11 03:36:08",
     "許可證字號": "衛署藥輸字第011315號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,14 +12,14 @@
     "舊證字號": "02005068",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00201131503",
-    "中文品名": "\"隆柏\" 得安緒糖衣錠",
-    "英文品名": "DEANXIT DRAGEES",
+    "中文品名": "\"隆柏\" 得安緒膜衣錠",
+    "英文品名": "DEANXIT FILM COATED TABLETS",
     "適應症": "焦慮症，憂鬱症．",
-    "劑型": "119糖衣錠",
+    "劑型": "116膜衣錠",
     "包裝": "盒裝 瓶裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "主成分略述": "MELITRACEN (HCL), FLUPENTIXOL (2HCL)  (EQ TO FLUPENTHIXOL (2HCL))",
+    "主成分略述": "MELITRACEN (HCL), FLUPENTIXOL (2HCL)  (EQ TO FLUPENTHIXOL (2HCL)), MACROGOL 3350, PARTIALLY HYDROLYZED POLYVINYL ALCOHOL",
     "限制項目": [
         "02輸入"
     ],
@@ -50,9 +50,29 @@
             "含量描述": "",
             "含量": "0.5000000000",
             "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8424121097",
+            "成分名稱": "MACROGOL 3350",
+            "含量描述": "PEG3350",
+            "含量": "",
+            "單位": ""
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9600023710",
+            "成分名稱": "PARTIALLY HYDROLYZED POLYVINYL ALCOHOL",
+            "含量描述": "",
+            "含量": "",
+            "單位": ""
         }
     ],
     "仿單外盒": [
+        {
+            "title": "020113150001-PI-104-09-10.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02011315&Seq=003&Type=9"
+        },
         {
             "title": "020113150005___20110921.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02011315&Seq=002&Type=9"

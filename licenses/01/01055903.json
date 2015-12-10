@@ -1,10 +1,12 @@
 {
     "code": "01055903",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01055903",
+    "time": "2015-12-11 04:19:06",
     "許可證字號": "衛署藥製字第055903號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "105\/01\/05",
+    "有效日期": "110\/01\/05",
     "發證日期": "100\/01\/05",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -44,12 +46,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 PI0559030002___20110218.jpg PI0559030001___20110218.jpg",
+            "title": "PI0559030002___20110218.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055903&Seq=002&Type=9"
         },
         {
-            "title": "外盒 OB0559030001___20110218.jpg LB0559030001___20110218.jpg",
+            "title": "PI0559030001___20110218.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055903&Seq=001&Type=9"
+        },
+        {
+            "title": "OB0559030001___20110218.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055903&Seq=002&Type=8"
+        },
+        {
+            "title": "LB0559030001___20110218.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055903&Seq=001&Type=8"
         }
     ]
 }

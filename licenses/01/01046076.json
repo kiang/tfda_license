@@ -1,7 +1,7 @@
 {
     "code": "01046076",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01046076",
-    "time": "2015-08-23 12:42:24",
+    "time": "2015-12-11 03:29:49",
     "許可證字號": "衛署藥製字第046076號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,9 +17,9 @@
     "適應症": "緩解感冒之各種症狀(咽喉痛、畏寒、發燒、頭痛、關節痛、肌肉酸痛、流鼻水、鼻塞、打噴嚏、咳嗽)。",
     "劑型": "150內服顆粒劑",
     "包裝": "6-166包鋁箔袋裝",
-    "藥品類別": "17醫師藥師藥劑生指示藥",
+    "藥品類別": "17醫師藥師藥劑生指示藥品",
     "管制藥品分類級別": "",
-    "主成分略述": "CHLORPHENIRAMINE MALEATE, EPHEDRA HERBA EXTRACT, ACETAMINOPHEN (EQ TO PARACETAMOL), ETHENZAMIDE (ETHOXYBENZAMIDE), CAFFEINE ANHYDROUS, NOSCAPINE, CINNAMON CORTEX (POWDER), GLYCYRRHIZA RADIX, ZINGER RHIZOMA (ZINGIBER RHIZOMA), PAEONIAE RADIX, PUERARIAE RADIX, ZIZYPHI FRUCTUS",
+    "主成分略述": "CHLORPHENIRAMINE MALEATE, EPHEDRAE HERBA, ACETAMINOPHEN (EQ TO PARACETAMOL), ETHENZAMIDE (ETHOXYBENZAMIDE), CAFFEINE ANHYDROUS, NOSCAPINE, CINNAMOMI CORTEX, GLYCYRRHIZAE RADIX PULVERATA, ZINGIBERIS RHIZOMA PULVERATUM, PAEONIAE RADIX, PUERARIAE RADIX, ZIZYPHI FRUCTUS",
     "限制項目": [
         "01國產"
     ],
@@ -45,9 +45,9 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "1212003611",
-            "成分名稱": "EPHEDRA HERBA EXTRACT",
-            "含量描述": "(5：1)",
+            "成分代碼": "1212003620",
+            "成分名稱": "EPHEDRAE HERBA",
+            "含量描述": "(3.75：1)",
             "含量": "15.8300000000",
             "單位": "MG"
         },
@@ -85,25 +85,25 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "5610009100",
-            "成分名稱": "CINNAMON CORTEX (POWDER)",
-            "含量描述": "",
+            "成分代碼": "5610009110",
+            "成分名稱": "CINNAMOMI CORTEX",
+            "含量描述": "(powder)",
             "含量": "28.3300000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200004410",
-            "成分名稱": "GLYCYRRHIZA RADIX",
+            "成分代碼": "9200004413",
+            "成分名稱": "GLYCYRRHIZAE RADIX PULVERATA",
             "含量描述": "",
             "含量": "33.3300000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200015010",
-            "成分名稱": "ZINGER RHIZOMA (ZINGIBER RHIZOMA)",
-            "含量描述": "(5：1)",
+            "成分代碼": "9200015012",
+            "成分名稱": "ZINGIBERIS RHIZOMA PULVERATUM",
+            "含量描述": "ZINGIBERIS RHIZOMA (5：1)",
             "含量": "4.1700000000",
             "單位": "MG"
         },

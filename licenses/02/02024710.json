@@ -1,7 +1,7 @@
 {
     "code": "02024710",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024710",
-    "time": "2015-08-24 13:01:10",
+    "time": "2015-12-11 03:39:04",
     "許可證字號": "衛署藥輸字第024710號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -30,10 +30,19 @@
         "製造廠廠址": "ROUTE DE 1'ETRAZ, 1260 NYON, SWITZERLAND",
         "製造廠公司地址": "",
         "製造廠國別": "SWITZERLAND",
-        "製程": ""
+        "製程": "製造、分裝"
     },
     "CCC號列": "",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "7770824858  台灣大昌華嘉股份有限公司",
+            "製造廠廠址": "桃園市楊梅區梅獅路二段629號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "包裝"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -45,6 +54,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "020247100001-104-11-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024710&Seq=007&Type=9"
+        },
         {
             "title": "020247100001-104-06-29.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024710&Seq=006&Type=9"
@@ -68,6 +81,14 @@
         {
             "title": "020247100001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024710&Seq=001&Type=9"
+        },
+        {
+            "title": "020247100004-104-11-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024710&Seq=011&Type=8"
+        },
+        {
+            "title": "020247100003-104-11-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024710&Seq=010&Type=8"
         },
         {
             "title": "020247100003-103-09-03.pdf",
