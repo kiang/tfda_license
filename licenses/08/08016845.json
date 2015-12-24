@@ -1,27 +1,89 @@
 {
     "code": "08016845",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016845",
-    "time": "2015-12-18 05:27:56",
-    "許可證字號": "",
-    "": "",
-    "有效日期": "",
-    "發證日期": "",
-    "許可證種類": "",
+    "time": "2015-12-25 03:34:47",
+    "許可證字號": "衛署粧輸字第016845號",
+    "註銷狀態": "",
+    "註銷日期": "",
+    "註銷理由": "",
+    "有效日期": "108\/01\/22",
+    "發證日期": "99\/01\/22",
+    "許可證種類": "含藥化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
-    "通關簽審文件編號": "",
-    "中文品名": "",
-    "英文品名": "",
-    "劑型": "",
-    "主成分略述": "",
-    "限制項目": "",
-    "申請商名稱": "",
-    "申請商地址": [
-        ""
+    "通關簽審文件編號": "DHA00801684501",
+    "中文品名": "Bioré含水防曬清透水凝露",
+    "英文品名": "Bioré UV AQUA Rich Watery Gel",
+    "用途": "防曬。",
+    "劑型": "944乳劑",
+    "包裝": "500公克以下瓶裝",
+    "化粧品類別": "0714防晒化粧用品",
+    "": "",
+    "主成分略述": "DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, ETHYLHEXYL METHOXYCINNAMATE, ETHYLHEXYL TRIAZONE, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
+    "限制項目": [
+        "02輸入"
     ],
+    "申請商名稱": "0827701100  花王（台灣）股份有限公司",
+    "申請商地址": "新北市新店區北新路三段207號10樓",
+    "主製造廠": {
+        "製造廠名稱": "C260295000  KAO CORPORATION TOYOHASHI PLANT",
+        "製造廠廠址": "4-51 AKEMI-CHO, TOYOHASHI, AICHI PREFECTURE 441-8074 JAPAN",
+        "製造廠公司地址": "",
+        "製造廠國別": "JAPAN",
+        "製程": ""
+    },
     "CCC號列": "",
-    "主製造廠": [],
-    "ingredients": [],
-    "藥物辨識詳細資料": [],
-    "藥物辨識外觀圖片": []
+    "藥理治療分類": "",
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9600203500",
+            "成分名稱": "DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE",
+            "含量描述": "",
+            "含量": "1.2000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900071200",
+            "成分名稱": "ETHYLHEXYL METHOXYCINNAMATE",
+            "含量描述": "",
+            "含量": "10.0000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900090400",
+            "成分名稱": "ETHYLHEXYL TRIAZONE",
+            "含量描述": "",
+            "含量": "1.0000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900095700",
+            "成分名稱": "BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
+            "含量描述": "",
+            "含量": "1.8000000000",
+            "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08016845-104-11-19.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016845&Seq=004&Type=8"
+        },
+        {
+            "title": "080168450003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016845&Seq=003&Type=8"
+        },
+        {
+            "title": "080168450002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016845&Seq=002&Type=8"
+        },
+        {
+            "title": "080168450001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016845&Seq=001&Type=8"
+        }
+    ]
 }

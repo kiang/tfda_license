@@ -1,27 +1,125 @@
 {
     "code": "60000949",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60000949",
-    "time": "2015-12-18 03:46:37",
-    "許可證字號": "",
-    "": "",
-    "有效日期": "",
-    "發證日期": "",
-    "許可證種類": "",
+    "time": "2015-12-25 03:21:22",
+    "許可證字號": "衛部菌疫輸字第000949號",
+    "註銷狀態": "",
+    "註銷日期": "",
+    "註銷理由": "",
+    "有效日期": "107\/11\/06",
+    "發證日期": "102\/11\/06",
+    "許可證種類": "菌　疫",
     "舊證字號": "",
     "醫療器材級數": "",
-    "通關簽審文件編號": "",
-    "中文品名": "",
-    "英文品名": "",
-    "劑型": "",
-    "主成分略述": "",
-    "限制項目": "",
-    "申請商名稱": "",
-    "申請商地址": [
-        ""
+    "通關簽審文件編號": "DHA06000094906",
+    "中文品名": "賀癌寧凍晶注射劑",
+    "英文品名": "Kadcyla",
+    "適應症": "KADCYLA單獨使用時能夠治療HER2陽性、之前分別接受過trastuzumab與一種taxane藥物治療或其合併療法的轉移性乳癌病患。\r\n說明：\r\n病患應符合下列條件：\r\n之前已經接受過轉移性癌症治療，或在輔助療法治療期間或完成治療後6個月內癌症復發。",
+    "劑型": "243凍晶注射劑",
+    "包裝": "100支以下盒裝 小瓶裝",
+    "藥品類別": "05限由醫師使用",
+    "管制藥品分類級別": "",
+    "主成分略述": "Trastuzumab Emtansine",
+    "限制項目": [
+        "02輸入"
     ],
+    "申請商名稱": "1901701100  羅氏大藥廠股份有限公司",
+    "申請商地址": "台北市松山區民生東路三段１３４號９樓",
+    "主製造廠": {
+        "製造廠名稱": "F460030300  Patheon Manufacturing Services LLC",
+        "製造廠廠址": "5900 Martin Luther King Jr. Highway,Greenville,NC27834,USA",
+        "製造廠公司地址": "",
+        "製造廠國別": "UNITED STATES",
+        "製程": ""
+    },
     "CCC號列": "",
-    "主製造廠": [],
-    "ingredients": [],
-    "藥物辨識詳細資料": [],
-    "藥物辨識外觀圖片": []
+    "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "F430208000  F.HOFFMANN-LA ROCHE LTD.",
+            "製造廠廠址": "WURMISWEG, CH-4303 KAISERAUGST, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": "包裝"
+        },
+        {
+            "製造廠名稱": "F430292000  LONZA LTD.",
+            "製造廠廠址": "CHEMIE, LONZASTRASSE, 3930 VISP, SWITERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": "原料藥製造廠"
+        }
+    ],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "1013000510",
+            "成分名稱": "Trastuzumab Emtansine",
+            "含量描述": "",
+            "含量": "20.0000000000",
+            "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "000949 Kadcyla 仿單_0915-KAD-01-104-11-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000949&Seq=006&Type=9"
+        },
+        {
+            "title": "010009490001-104-04-27.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000949&Seq=005&Type=9"
+        },
+        {
+            "title": "100009490001-2014-04-10.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000949&Seq=004&Type=9"
+        },
+        {
+            "title": "100009490003-102-12-06.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000949&Seq=003&Type=9"
+        },
+        {
+            "title": "100009490002-102-12-06.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000949&Seq=002&Type=9"
+        },
+        {
+            "title": "100009490001-102-12-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000949&Seq=001&Type=9"
+        },
+        {
+            "title": "000949 Kadcyla 貼標_160mg-104-11-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000949&Seq=009&Type=8"
+        },
+        {
+            "title": "000949 Kadcyla 貼標_100mg-104-11-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000949&Seq=008&Type=8"
+        },
+        {
+            "title": "000949 Kadcyla 外盒 160mg-104-11-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000949&Seq=007&Type=8"
+        },
+        {
+            "title": "000949 Kadcyla 外盒 100mg-104-11-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000949&Seq=006&Type=8"
+        },
+        {
+            "title": "000949 Kadcyla 中文標籤-104-11-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000949&Seq=005&Type=8"
+        },
+        {
+            "title": "100009490007-102-12-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000949&Seq=004&Type=8"
+        },
+        {
+            "title": "100009490006-102-12-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000949&Seq=003&Type=8"
+        },
+        {
+            "title": "100009490005-102-12-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000949&Seq=002&Type=8"
+        },
+        {
+            "title": "100009490004-102-12-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000949&Seq=001&Type=8"
+        }
+    ]
 }
