@@ -1,7 +1,7 @@
 {
     "code": "01012828",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01012828",
-    "time": "2015-08-22 19:36:05",
+    "time": "2016-01-08 03:01:52",
     "許可證字號": "衛署藥製字第012828號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "6-1000錠鋁箔盒裝 6-1000錠塑膠瓶裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "主成分略述": "OXETHAZAINE, GLYCYRRHIZINIC ACID (EQ TO GLYCYRRHETINIC ACID GLYCOSIDE)(EQ TO GLYCYRRHIZIC ACID ), POLYMAGAL",
+    "主成分略述": "OXETHAZAINE, POLYMAGAL",
     "限制項目": [
         "01國產"
     ],
@@ -39,14 +39,6 @@
             "成分類別": "主成分",
             "成分代碼": "5604002900",
             "成分名稱": "OXETHAZAINE",
-            "含量描述": "",
-            "含量": "10.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200004600",
-            "成分名稱": "GLYCYRRHIZINIC ACID (EQ TO GLYCYRRHETINIC ACID GLYCOSIDE)(EQ TO GLYCYRRHIZIC ACID )",
             "含量描述": "",
             "含量": "10.0000000000",
             "單位": "MG"
@@ -78,6 +70,10 @@
     ],
     "仿單外盒": [
         {
+            "title": "0100128280001-105-01-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012828&Seq=004&Type=9"
+        },
+        {
             "title": "010128280003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012828&Seq=003&Type=9"
         },
@@ -88,6 +84,22 @@
         {
             "title": "010128280001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012828&Seq=001&Type=9"
+        },
+        {
+            "title": "0100128280004-105-01-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012828&Seq=004&Type=8"
+        },
+        {
+            "title": "0100128280003-105-01-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012828&Seq=003&Type=8"
+        },
+        {
+            "title": "0100128280002-105-01-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012828&Seq=002&Type=8"
+        },
+        {
+            "title": "0100128280001-105-01-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012828&Seq=001&Type=8"
         }
     ]
 }

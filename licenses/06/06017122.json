@@ -1,7 +1,7 @@
 {
     "code": "06017122",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06017122",
-    "time": "2015-08-22 12:55:39",
+    "time": "2016-01-08 03:23:16",
     "許可證字號": "衛署醫器輸字第017122號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,7 +15,7 @@
     "中文品名": "\"卡弗迅\" 生檢針",
     "英文品名": "\"CareFusion\" Biopsy Needles",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "TEMNO BIOPSY NEEDLES,STERNUM TEMNO DEVICE,BONE BEVEL BIOPSY NEEDLE,以下空白。註銷規格: 詳如中文仿單核定本,以下空白.",
+    "醫器規格": "TEMNO BIOPSY NEEDLES,STERNUM TEMNO DEVICE,BONE BEVEL BIOPSY NEEDLE,以下空白。註銷規格: 詳如中文仿單核定本,以下空白。註銷規格: ST1、ST2L、ST3，以下空白。",
     "劑型": "",
     "包裝": "",
     "醫器主類別一": "H胃腸病學-泌尿學科用裝置",
@@ -26,7 +26,8 @@
     "醫器次類別三": "",
     "主成分略述": "",
     "限制項目": [
-        "02輸入"
+        "02輸入",
+        "09委託製造"
     ],
     "申請商名稱": "0517701100  世新儀器有限公司",
     "申請商地址": "台北市松江路２２１巷１９號",
@@ -41,6 +42,10 @@
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
+        {
+            "title": "06017122-104-12-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017122&Seq=015&Type=9"
+        },
         {
             "title": "060171220013.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017122&Seq=014&Type=9"
@@ -96,6 +101,10 @@
         {
             "title": "06017122-0001___20110907.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017122&Seq=001&Type=9"
+        },
+        {
+            "title": "06017122-104-12-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017122&Seq=001&Type=8"
         }
     ]
 }

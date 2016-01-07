@@ -1,7 +1,7 @@
 {
     "code": "01029359",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01029359",
-    "time": "2015-11-27 04:56:58",
+    "time": "2016-01-08 03:05:23",
     "許可證字號": "衛署藥製字第029359號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,10 +16,10 @@
     "英文品名": "TANABE ICHOYAKU U TABLETS",
     "適應症": "胃痛、胃酸過多、胃灼熱感、打嗝、胸悶、胃部停滯感、胃部膨滿感、噁心、嘔吐、食慾不振、消化不良",
     "劑型": "110錠劑",
-    "包裝": "18-1000粒玻璃瓶裝",
+    "包裝": "18-1000錠玻璃瓶裝",
     "藥品類別": "07須經醫師指示使用",
     "管制藥品分類級別": "",
-    "主成分略述": "SCOPOLIA EXTRACT, HISTIDINE L- HCL (EQ TO L-HISTIDINE HYDROCHLORIDE), MAGNESIUM ALUMINUM METASILICATE (NEUSILIN), DIASTASE BIO-, VITAMIN U (METHYLMETHIONINE SULFONIUM CHLORIDE)",
+    "主成分略述": "SCOPOLIA EXTRACT, HISTIDINE L- HCL (EQ TO L-HISTIDINE HYDROCHLORIDE), MAGNESIUM ALUMINUM METASILICATE (NEUSILIN), DIASTASE BIO-, DEHYDROCHOLIC ACID, VITAMIN U (METHYLMETHIONINE SULFONIUM CHLORIDE)",
     "限制項目": [
         "01國產"
     ],
@@ -64,7 +64,15 @@
             "成分代碼": "5616000780",
             "成分名稱": "DIASTASE BIO-",
             "含量描述": "(2000) 8.3",
-            "含量": "",
+            "含量": "0.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5632000300",
+            "成分名稱": "DEHYDROCHOLIC ACID",
+            "含量描述": "16.7",
+            "含量": "16.7000000000",
             "單位": "MG"
         },
         {
@@ -78,8 +86,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "010293590001-104-12-10.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029359&Seq=002&Type=9"
+        },
+        {
             "title": "010293590001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029359&Seq=001&Type=9"
+        },
+        {
+            "title": "010293590003-104-12-10.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029359&Seq=003&Type=8"
+        },
+        {
+            "title": "010293590002-104-12-10.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029359&Seq=002&Type=8"
         },
         {
             "title": "v1_TIU-J 150T_外盒_active-104-09-18.pdf",

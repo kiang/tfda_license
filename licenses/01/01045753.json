@@ -1,7 +1,7 @@
 {
     "code": "01045753",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01045753",
-    "time": "2015-08-23 02:21:25",
+    "time": "2016-01-08 03:10:32",
     "許可證字號": "衛署藥製字第045753號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,10 +16,10 @@
     "英文品名": "GAN AN CAPSULES",
     "適應症": "慢性肝病的營養補給。",
     "劑型": "130膠囊劑",
-    "包裝": "6-1000粒塑膠瓶裝 鋁箔盒裝",
+    "包裝": "PTP 鋁箔盒裝 6-1000粒塑膠瓶裝",
     "藥品類別": "17醫師藥師藥劑生指示藥",
     "管制藥品分類級別": "",
-    "主成分略述": "SILYMARIN (EXSICCATED FRUCTUS CARDUI MARIANUS EXTRACT), NICOTINAMIDE, THIAMINE HYDROCHLORIDE, RIBOFLAVIN (VIT B2), PYRIDOXINE HCL, CYANOCOBALAMIN (VIT B12), PANTOTHENATE CALCIUM",
+    "主成分略述": "EXSICCATED FRUCTUS CARDUI MARIAE EXTRACT (EQ TO 70 MG OF SILYMARIN CALCULATED AS SILYBIN), NICOTINAMIDE, THIAMINE HYDROCHLORIDE, RIBOFLAVIN (VIT B2), PYRIDOXINE HCL, CYANOCOBALAMIN (VIT B12), PANTOTHENATE CALCIUM",
     "限制項目": [
         "01國產"
     ],
@@ -37,8 +37,8 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "5656991100",
-            "成分名稱": "SILYMARIN (EXSICCATED FRUCTUS CARDUI MARIANUS EXTRACT)",
+            "成分代碼": "5656900940",
+            "成分名稱": "EXSICCATED FRUCTUS CARDUI MARIAE EXTRACT (EQ TO 70 MG OF SILYMARIN CALCULATED AS SILYBIN)",
             "含量描述": "",
             "含量": "107.7000000000",
             "單位": "MG"
@@ -110,8 +110,16 @@
     ],
     "仿單外盒": [
         {
+            "title": "010457530001-104-12-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045753&Seq=002&Type=9"
+        },
+        {
             "title": "010457530001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045753&Seq=001&Type=9"
+        },
+        {
+            "title": "01045753-104-12-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045753&Seq=001&Type=8"
         }
     ]
 }

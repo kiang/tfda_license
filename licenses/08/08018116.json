@@ -1,7 +1,7 @@
 {
     "code": "08018116",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018116",
-    "time": "2015-08-23 20:34:41",
+    "time": "2016-01-08 03:32:15",
     "許可證字號": "衛署粧輸字第018116號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,13 +13,13 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00801811602",
     "中文品名": "醇香創意永久染膏 Y 黃色",
-    "英文品名": "milk_shake creative permanent colour Y YELLOW",
+    "英文品名": "Milk_Shake Creative Conditioning Permanent Colour YELLOW",
     "用途": "染髮。",
     "劑型": "992霜劑",
     "包裝": "500ml 以下管裝附外盒",
     "化粧品類別": "0110染髮劑",
     "": "",
-    "主成分略述": "AMMONIA WATER (AMMONIUM HYDROXIDE), HC YELLOW NO.4",
+    "主成分略述": "Ammonium Hydroxide 30%, BASIC YELLOW 87",
     "限制項目": [
         "02輸入"
     ],
@@ -37,19 +37,25 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000102",
-            "成分名稱": "AMMONIA WATER (AMMONIUM HYDROXIDE)",
+            "成分代碼": "2820000160",
+            "成分名稱": "Ammonium Hydroxide 30%",
             "含量描述": "",
-            "含量": "1.0000000000",
+            "含量": "1.8000000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9602087512",
-            "成分名稱": "HC YELLOW NO.4",
+            "成分代碼": "9602088500",
+            "成分名稱": "BASIC YELLOW 87",
             "含量描述": "",
-            "含量": "0.3500000000",
+            "含量": "0.3000000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08018116-104-12-07.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018116&Seq=001&Type=8"
         }
     ]
 }

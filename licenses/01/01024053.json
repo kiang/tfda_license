@@ -1,7 +1,7 @@
 {
     "code": "01024053",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01024053",
-    "time": "2015-08-22 22:49:48",
+    "time": "2016-01-08 03:04:15",
     "許可證字號": "衛署藥製字第024053號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,10 +16,10 @@
     "英文品名": "BLOODFULL S.C. TABLETS \"C.H.\"",
     "適應症": "妊娠期、發育期、貧血、手術後及其他一般鐵質缺乏性貧血低血色素性貧血",
     "劑型": "119糖衣錠",
-    "包裝": "100,500,1000粒瓶裝",
+    "包裝": "12-1000粒塑膠瓶裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "主成分略述": "FERROUS FUMARATE, NIACINAMIDE (NICOTINAMIDE), THIAMINE MONONITRATE, RIBOFLAVIN (VIT B2), CYANOCOBALAMIN (VIT B12), FOLIC ACID",
+    "主成分略述": "FERROUS FUMARATE, NICOTINAMIDE, THIAMINE MONONITRATE, RIBOFLAVIN (VIT B2), CYANOCOBALAMIN, FOLIC ACID",
     "限制項目": [
         "01國產"
     ],
@@ -45,8 +45,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8810000300",
-            "成分名稱": "NIACINAMIDE (NICOTINAMIDE)",
+            "成分代碼": "8810000330",
+            "成分名稱": "NICOTINAMIDE",
             "含量描述": "3",
             "含量": "3.0000000000",
             "單位": "MG"
@@ -69,8 +69,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8811200300",
-            "成分名稱": "CYANOCOBALAMIN (VIT B12)",
+            "成分代碼": "8811200301",
+            "成分名稱": "CYANOCOBALAMIN",
             "含量描述": "2",
             "含量": "2.0000000000",
             "單位": "MCG"
@@ -106,6 +106,10 @@
     ],
     "仿單外盒": [
         {
+            "title": "010240530001-104-12-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024053&Seq=004&Type=9"
+        },
+        {
             "title": "010240530003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024053&Seq=003&Type=9"
         },
@@ -116,6 +120,14 @@
         {
             "title": "010240530001.DOC",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024053&Seq=001&Type=9"
+        },
+        {
+            "title": "010240530003-104-12-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024053&Seq=002&Type=8"
+        },
+        {
+            "title": "010240530002-104-12-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024053&Seq=001&Type=8"
         }
     ]
 }

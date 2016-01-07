@@ -1,7 +1,7 @@
 {
     "code": "01046752",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01046752",
-    "time": "2015-08-23 01:57:41",
+    "time": "2016-01-08 03:10:43",
     "許可證字號": "衛署藥製字第046752號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -21,7 +21,8 @@
     "管制藥品分類級別": "",
     "主成分略述": "HYDROCORTISONE ACETATE, UREA",
     "限制項目": [
-        "01國產"
+        "01國產",
+        "1R不得製造"
     ],
     "申請商名稱": "6201023589  臺灣源山股份有限公司",
     "申請商地址": "台北市大安區忠孝東路３段９８之１號５樓",
@@ -54,8 +55,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "046752-1-104-10-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046752&Seq=003&Type=9"
+        },
+        {
+            "title": "046299-1-104-10-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046752&Seq=002&Type=9"
+        },
+        {
             "title": "010467520001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046752&Seq=001&Type=9"
+        },
+        {
+            "title": "046752-2-104-10-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046752&Seq=001&Type=8"
         }
     ]
 }

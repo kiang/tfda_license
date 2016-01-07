@@ -1,7 +1,7 @@
 {
     "code": "01043980",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01043980",
-    "time": "2015-11-27 06:01:36",
+    "time": "2016-01-08 03:10:07",
     "許可證字號": "衛署藥製字第043980號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "5毫升安瓿附溶液 5毫升小瓶附溶液 100支以下盒裝",
     "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "主成分略述": "GLUCOSE ANHYDROUS, TETRACAINE HCL",
+    "主成分略述": "TETRACAINE HCL",
     "限制項目": [
         "01國產"
     ],
@@ -37,25 +37,29 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "4020000750",
-            "成分名稱": "GLUCOSE ANHYDROUS",
-            "含量描述": "500",
-            "含量": "500.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "7200001510",
             "成分名稱": "TETRACAINE HCL",
-            "含量描述": "20",
+            "含量描述": "",
             "含量": "20.0000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
+            "title": "得特卡因仿單B-MT2404-104-11-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043980&Seq=003&Type=9"
+        },
+        {
+            "title": "得特卡因仿單A-MT2404-104-11-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043980&Seq=002&Type=9"
+        },
+        {
             "title": "010439800001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043980&Seq=001&Type=9"
+        },
+        {
+            "title": "01043980-104-11-30.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043980&Seq=001&Type=8"
         }
     ]
 }

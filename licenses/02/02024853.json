@@ -1,7 +1,7 @@
 {
     "code": "02024853",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024853",
-    "time": "2015-08-23 12:17:56",
+    "time": "2016-01-08 03:15:03",
     "許可證字號": "衛署藥輸字第024853號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "1.2毫升(附等支數)注射瓶 1.8毫升小瓶裝 100支以下盒裝",
     "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "主成分略述": "POLYETHYLENE GLYCOL 400, ALCOHOL ABSOLUTE (EQ TO ALCOHOL DEHYDRATED)(EQ TO ETHANOL ABSOLUTE OR ABSOLUTE ETHANOL), TEMSIROLIMUS, POLYSORBATE 80(TWEEN 80)(SORBIMACROGOL OLEATE300",
+    "主成分略述": "TEMSIROLIMUS",
     "限制項目": [
         "02輸入",
         "1EPhaseIVStudy"
@@ -52,33 +52,13 @@
             "含量描述": "",
             "含量": "25.0000000000",
             "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "8424121800",
-            "成分名稱": "POLYETHYLENE GLYCOL 400",
-            "含量描述": "",
-            "含量": "522.7800000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "8436000160",
-            "成分名稱": "ALCOHOL ABSOLUTE (EQ TO ALCOHOL DEHYDRATED)(EQ TO ETHANOL ABSOLUTE OR ABSOLUTE ETHANOL)",
-            "含量描述": "",
-            "含量": "243.3300000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9600023500",
-            "成分名稱": "POLYSORBATE 80(TWEEN 80)(SORBIMACROGOL OLEATE300",
-            "含量描述": "",
-            "含量": "488.8900000000",
-            "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "020248530001-104-12-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024853&Seq=002&Type=9"
+        },
         {
             "title": "020248530001-104-02-05.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024853&Seq=001&Type=9"

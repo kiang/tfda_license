@@ -1,7 +1,7 @@
 {
     "code": "10000877",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000877",
-    "time": "2015-08-22 17:57:05",
+    "time": "2016-01-08 03:16:47",
     "許可證字號": "衛署菌疫輸字第000877號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,7 +14,7 @@
     "通關簽審文件編號": "DHA01000087701",
     "中文品名": "爾必得舒 注射液 5 毫克\/毫升",
     "英文品名": "Erbitux 5mg\/ml Solution for infusion",
-    "適應症": "Erbitux與FOLFIRI(Folinic acid\/5-FU\/Irinotecan)合併使用於治療具表皮生長因子受體表現型(EGFR expressing)，KRAS原生型(wild-type)之轉移性直腸結腸癌病患之第一線治療。Erbitux與放射線療法合併使用，治療局部晚期之口咽癌、下咽癌及喉癌患者。Erbitux與內含platinum類之化學療法合併使用，治療復發及\/或轉移性頭頸部鱗狀細胞癌患者。",
+    "適應症": "Erbitux適用於治療具表皮生長因子受體表現型(EGFR expressing)，RAS原生型(wild-type)之轉移性直腸結腸癌患者\r\n• 與FOLFIRI (Folinic acid\/ 5-FU\/ Irinotecan)合併使用之第一線治療。\r\n• 與FOLFOX合併使用之第一線治療。\r\nErbitux與放射線療法合併使用，治療局部晚期之口咽癌、下咽癌及喉癌患者。\r\nErbitux與內含platinum類之化學療法合併使用，治療復發及\/或轉移性頭頸部鱗狀細胞癌患者。",
     "劑型": "270注射劑",
     "包裝": "20毫升小瓶裝 100支以下盒裝",
     "藥品類別": "05限由醫師使用",
@@ -26,28 +26,21 @@
     "申請商名稱": "1419601100  台灣默克股份有限公司",
     "申請商地址": "台北市內湖區堤頂大道2段89號6樓",
     "主製造廠": {
-        "製造廠名稱": "F470215200  BOEHRINGER INGELHEIM PHARMA GMBH &amp; CO. KG",
-        "製造廠廠址": "BIRKENDORFER STRASSE 65, 88397 BIBERACH AN DER RISS, GERMANY",
+        "製造廠名稱": "F470076000  MERCK KGaA",
+        "製造廠廠址": "FRANKFURTER STRASSE 250, D-64293 DARMSTADT, GERMANY",
         "製造廠公司地址": "",
         "製造廠國別": "GERMANY",
-        "製程": ""
+        "製程": "自濃縮原料藥(Concentrated bulk)之稀釋(Dilution或Formulation)作業至成品製劑、一級及二級包裝作業。"
     },
     "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "F470021200  BOEHRINGER INGELHEIM Pharma GmbH &amp; Co.KG",
-            "製造廠廠址": "BIRKENDORFER STRASSE 65, 88397 BIBERACH AN DER RISS.  GERMANY",
+            "製造廠名稱": "F430283000  MERCK SERONO S.A.-CORSIER-SUR-VEVEY",
+            "製造廠廠址": "ROUTE DE FENIL, 25 ZONE INDUSTRIELLE B, 1804 CORSIER-SUR-VEVEY, SWITZERLAND",
             "製造廠公司地址": "",
-            "製造廠國別": "GERMANY",
-            "製程": "主成分(drug substance)製造廠"
-        },
-        {
-            "製造廠名稱": "F470076000  MERCK KGaA",
-            "製造廠廠址": "FRANKFURTER STRASSE 250, D-64293 DARMSTADT, GERMANY",
-            "製造廠公司地址": "",
-            "製造廠國別": "GERMANY",
-            "製程": ""
+            "製造廠國別": "SWITZERLAND",
+            "製程": "原料藥(Cetuximab)自工作細胞庫至濃縮原料藥(Concentrated bulk)之製造階段。"
         }
     ],
     "ingredients": [
@@ -61,6 +54,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "100008770002-Erbitux 5mg中文仿單_20151218-104-12-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000877&Seq=008&Type=9"
+        },
         {
             "title": "Erbitux 5mg 英文仿單-修F___20120523.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000877&Seq=007&Type=9"

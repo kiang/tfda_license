@@ -1,7 +1,7 @@
 {
     "code": "08018168",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018168",
-    "time": "2015-08-23 21:21:34",
+    "time": "2016-01-08 03:32:19",
     "許可證字號": "衛署粧輸字第018168號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,14 +12,14 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00801816808",
-    "中文品名": "醇香創意永久染膏 7.66 亞麻亮紅色",
-    "英文品名": "milk_shake creative permanent colour 7.66 INTENSE RED MEDIUM BLOND",
+    "中文品名": "醇香創意永久染膏7.666亞麻火紅色",
+    "英文品名": "Milk_Shake Creative Conditioning Permanent Colour 7.666 Fire Red Medium Blond",
     "用途": "染髮",
     "劑型": "992霜劑",
     "包裝": "500ml以下管裝附外盒",
     "化粧品類別": "0110染髮劑",
     "": "",
-    "主成分略述": "AMMONIA WATER (AMMONIUM HYDROXIDE), 4-AMINO-M-CRESOL, P-AMINOPHENOL, 4-AMINO-2-HYDROXYTOLUENE, P-PHENYLENEDIAMINE",
+    "主成分略述": "Ammonium Hydroxide 30%, 5-AMINO-6-CHLORO-O-CRESOL, m-Aminophenol, 4-AMINO-2-HYDROXYTOLUENE, 1-HYDROXYETHYL 4,5-DIAMINO PYRAZOLE SULFATE",
     "限制項目": [
         "02輸入"
     ],
@@ -37,26 +37,26 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000102",
-            "成分名稱": "AMMONIA WATER (AMMONIUM HYDROXIDE)",
+            "成分代碼": "2820000160",
+            "成分名稱": "Ammonium Hydroxide 30%",
             "含量描述": "",
-            "含量": "2.6000000000",
+            "含量": "1.8000000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002632",
-            "成分名稱": "4-AMINO-M-CRESOL",
+            "成分代碼": "9200002650",
+            "成分名稱": "5-AMINO-6-CHLORO-O-CRESOL",
             "含量描述": "",
-            "含量": "0.5500000000",
+            "含量": "0.5000000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035440",
-            "成分名稱": "P-AMINOPHENOL",
+            "成分代碼": "9200035470",
+            "成分名稱": "m-Aminophenol",
             "含量描述": "",
-            "含量": "0.7000000000",
+            "含量": "0.1000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -64,19 +64,23 @@
             "成分代碼": "9200039000",
             "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
             "含量描述": "",
-            "含量": "1.0000000000",
+            "含量": "0.2500000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9400003200",
-            "成分名稱": "P-PHENYLENEDIAMINE",
+            "成分代碼": "9900097210",
+            "成分名稱": "1-HYDROXYETHYL 4,5-DIAMINO PYRAZOLE SULFATE",
             "含量描述": "",
-            "含量": "0.2000000000",
+            "含量": "1.0000000000",
             "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "08018168-104-12-07.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018168&Seq=004&Type=8"
+        },
         {
             "title": "080181680003___20110914.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018168&Seq=003&Type=8"

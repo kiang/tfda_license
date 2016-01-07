@@ -1,7 +1,7 @@
 {
     "code": "01038229",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01038229",
-    "time": "2015-08-24 00:57:44",
+    "time": "2016-01-08 03:07:38",
     "許可證字號": "衛署藥製字第038229號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "200毫升玻璃瓶裝 100支以下盒裝",
     "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "主成分略述": "CALCIUM GLUCONATE, CALCIUM SACCHARATE",
+    "主成分略述": "CALCIUM GLUCONATE",
     "限制項目": [
         "01國產"
     ],
@@ -42,17 +42,13 @@
             "含量描述": "96.1",
             "含量": "96.1000000000",
             "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9600005200",
-            "成分名稱": "CALCIUM SACCHARATE",
-            "含量描述": "3",
-            "含量": "3.0000000000",
-            "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "Calcium gluconate Inj. 10% In-104-12-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038229&Seq=004&Type=9"
+        },
         {
             "title": "Calcium gluconate Inj. 10% In-103-10-08.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038229&Seq=003&Type=9"
@@ -64,6 +60,10 @@
         {
             "title": "010382290001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038229&Seq=001&Type=9"
+        },
+        {
+            "title": "Calcium gluconate Inj. La-104-12-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038229&Seq=002&Type=8"
         },
         {
             "title": "Calcium gluconate Inj. La-103-10-08.pdf",

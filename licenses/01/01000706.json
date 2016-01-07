@@ -1,7 +1,7 @@
 {
     "code": "01000706",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01000706",
-    "time": "2015-08-22 18:14:43",
+    "time": "2016-01-08 03:00:25",
     "許可證字號": "衛署藥製字第000706號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,10 +16,10 @@
     "英文品名": "PEPTIDIN GRANULES",
     "適應症": "胃、十二指腸潰瘍、胃酸過多、胃炎、及其他需要控制胃酸之症狀",
     "劑型": "150內服顆粒劑",
-    "包裝": "盒裝 瓶裝",
+    "包裝": "1克，50,300,1000包膠箔盒裝 50,100,500克瓶裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "主成分略述": "HOMATROPINE METHYLBROMIDE, MAGNESIUM ALUMINUM HYDROXIDE MONOHYDRATE, MAGNESIUM TRISILICATE",
+    "主成分略述": "HOMATROPINE METHYLBROMIDE, MAGNESIUM TRISILICATE, ALUMINUM MAGNESIUM HYDRATE",
     "限制項目": [
         "01國產"
     ],
@@ -27,7 +27,7 @@
     "申請商地址": "台南市新營區土庫里土庫6之20號",
     "主製造廠": {
         "製造廠名稱": "0510620300  生達化學製藥股份有限公司",
-        "製造廠廠址": "台南市新營區土庫里土庫６－２０號",
+        "製造廠廠址": "台南市新營區土庫里土庫6之20號",
         "製造廠公司地址": "",
         "製造廠國別": "TAIWAN",
         "製程": ""
@@ -39,31 +39,51 @@
             "成分類別": "主成分",
             "成分代碼": "5224000220",
             "成分名稱": "HOMATROPINE METHYLBROMIDE",
-            "含量描述": "2",
+            "含量描述": "",
             "含量": "2.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "5604002350",
-            "成分名稱": "MAGNESIUM ALUMINUM HYDROXIDE MONOHYDRATE",
-            "含量描述": "400",
-            "含量": "400.0000000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "5604002700",
             "成分名稱": "MAGNESIUM TRISILICATE",
-            "含量描述": "300",
+            "含量描述": "",
             "含量": "300.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5604005100",
+            "成分名稱": "ALUMINUM MAGNESIUM HYDRATE",
+            "含量描述": "",
+            "含量": "400.0000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
+            "title": "2217040_S0412 Peptidin 培普鎮-LT-104-12-30.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01000706&Seq=002&Type=9"
+        },
+        {
             "title": "010007060001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01000706&Seq=001&Type=9"
+        },
+        {
+            "title": "0100007060001-104-12-30.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01000706&Seq=004&Type=8"
+        },
+        {
+            "title": "0100007060004-104-12-30.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01000706&Seq=003&Type=8"
+        },
+        {
+            "title": "0100007060003-104-12-30.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01000706&Seq=002&Type=8"
+        },
+        {
+            "title": "0100007060002-104-12-30.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01000706&Seq=001&Type=8"
         }
     ]
 }

@@ -1,12 +1,12 @@
 {
     "code": "02024430",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024430",
-    "time": "2015-08-23 12:02:20",
+    "time": "2016-01-08 03:14:47",
     "許可證字號": "衛署藥輸字第024430號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "105\/04\/11",
+    "有效日期": "110\/04\/11",
     "發證日期": "95\/04\/11",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -26,15 +26,22 @@
     "申請商名稱": "0924601100  台灣諾華股份有限公司",
     "申請商地址": "台北市中正區仁愛路二段99號11、12、13樓",
     "主製造廠": {
-        "製造廠名稱": "F150161000  Delpharm Huningue S.A.S.",
-        "製造廠廠址": "(POSTAL ADD) 26 RUE DE LA CHAPELLE, 68333 HUNINGUE CEDEX, FRANCE。(LOCATION ADD) 26 RUE DE LA CHAPELLE, B.P. 349, 68330 HUNINGUE, FRANCE",
-        "製造廠公司地址": "(POSTAL ADD) CH-4002, BASEL, SWITZERLAND。(LOCATION ADD) LICHTSTRASSE 35, CH-4056, BASEL, SWITZERLAND",
+        "製造廠名稱": "F150299000  DELPHARM HUNINGUE SAS",
+        "製造廠廠址": "26 RUE DE LA CHAPELLE, 68330 HUNUNGUE, FRANCE",
+        "製造廠公司地址": "",
         "製造廠國別": "FRANCE",
         "製程": ""
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
     "次製造廠": [
+        {
+            "製造廠名稱": "1225204000  裕利股份有限公司",
+            "製造廠廠址": "桃園市大園區和平村1鄰舊厝子1之2號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠"
+        },
         {
             "製造廠名稱": "F430253000  NOVARTIS PHARMA AG",
             "製造廠廠址": "LICHTSTRASSE 35, CH-4056 BASEL, SWITZERLAND",
@@ -54,6 +61,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "憶思能口服溶液-TWI-300614-104-09-16.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024430&Seq=001&Type=9"
+        },
         {
             "title": "020244300004.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024430&Seq=004&Type=8"

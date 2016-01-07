@@ -1,7 +1,7 @@
 {
     "code": "01030862",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01030862",
-    "time": "2015-08-22 23:08:39",
+    "time": "2016-01-08 03:05:37",
     "許可證字號": "衛署藥製字第030862號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "60-4000公撮塑膠桶裝 60-4000公撮塑膠瓶裝",
     "藥品類別": "07須經醫師指示使用",
     "管制藥品分類級別": "",
-    "主成分略述": "PLATYCODON EXTRACT",
+    "主成分略述": "PLATYCODON FLUID EXTRACT",
     "限制項目": [
         "01國產"
     ],
@@ -37,14 +37,18 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "4800003601",
-            "成分名稱": "PLATYCODON EXTRACT",
-            "含量描述": "(FLUID=0.2ML)",
-            "含量": "65.0000000000",
-            "單位": "MG"
+            "成分代碼": "4800003630",
+            "成分名稱": "PLATYCODON FLUID EXTRACT",
+            "含量描述": "(eq. to platycodon Ext 65mg)",
+            "含量": "20.0000000000",
+            "單位": "ML"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "生達鎮咳袪痰液-104-12-15.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01030862&Seq=005&Type=9"
+        },
         {
             "title": "010308620004.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01030862&Seq=004&Type=9"
@@ -60,6 +64,10 @@
         {
             "title": "010308620001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01030862&Seq=001&Type=9"
+        },
+        {
+            "title": "生達鎮咳袪痰液-104-12-15.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01030862&Seq=001&Type=8"
         }
     ]
 }

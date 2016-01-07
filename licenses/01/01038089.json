@@ -1,7 +1,7 @@
 {
     "code": "01038089",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01038089",
-    "time": "2015-08-23 01:17:35",
+    "time": "2016-01-08 03:07:35",
     "許可證字號": "衛署藥製字第038089號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "4-1000錠玻璃瓶裝 鋁箔盒裝 塑膠瓶裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "主成分略述": "CIPROFLOXACIN (HCL)",
+    "主成分略述": "CIPROFLOXACIN HYDROCHLORIDE MONOHYDRATE( EQ TO CIPROFLOXACIN HYDROCHLORIDE H2O)",
     "限制項目": [
         "01國產"
     ],
@@ -37,9 +37,9 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "0812709710",
-            "成分名稱": "CIPROFLOXACIN (HCL)",
-            "含量描述": "291",
+            "成分代碼": "0812700730",
+            "成分名稱": "CIPROFLOXACIN HYDROCHLORIDE MONOHYDRATE( EQ TO CIPROFLOXACIN HYDROCHLORIDE H2O)",
+            "含量描述": "291(EQ TO CIPROFLOXACIN 250mg)",
             "含量": "291.0000000000",
             "單位": "MG"
         }
@@ -61,6 +61,14 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "0100380890001-104-12-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038089&Seq=004&Type=9"
+        },
+        {
+            "title": "0100380890001-104-10-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038089&Seq=003&Type=9"
+        },
         {
             "title": "010380890001___20120406.PDF",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038089&Seq=002&Type=9"

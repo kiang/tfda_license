@@ -1,7 +1,7 @@
 {
     "code": "01016409",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01016409",
-    "time": "2015-08-22 21:21:47",
+    "time": "2016-01-08 03:02:31",
     "許可證字號": "衛署藥製字第016409號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,9 +19,11 @@
     "包裝": "8-1000錠塑膠瓶裝 鋁箔盒裝",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
     "管制藥品分類級別": "",
-    "主成分略述": "SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE), CINNAMON (CINNAMON CORTEX ) (CINNAMON BARK), COPTIS RHIZOMA, BORNEOL, GENTIANA SCABRAE RADIX, MENTHOL L-, GLYCYRRHIZA RADIX, GAMBIR, PEPPER, CARYOPHILLI FLORES, HYDRANGEAE DULCIS FOLIUM",
+    "主成分略述": "SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE), CINNAMON (CINNAMON CORTEX ) (CINNAMON BARK), COPTIS RHIZOMA, BORNEOL, GENTIANA SCABRAE RADIX, L-MENTHOL, GLYCYRRHIZA RADIX, GAMBIR, PEPPER, CARYOPHILLI FLORES, HYDRANGEAE DULCIS FOLIUM",
     "限制項目": [
-        "01國產"
+        "01國產",
+        "09委託製造",
+        "1G依藥品審查準則第64條不得製造"
     ],
     "申請商名稱": "6203281696  富生醫藥生技股份有限公司",
     "申請商地址": "臺中市南屯區工業區23路19號",
@@ -78,7 +80,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "8408000302",
-            "成分名稱": "MENTHOL L-",
+            "成分名稱": "L-MENTHOL",
             "含量描述": "6",
             "含量": "6.0000000000",
             "單位": "MG"

@@ -1,7 +1,7 @@
 {
     "code": "08018115",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018115",
-    "time": "2015-08-23 20:34:40",
+    "time": "2016-01-08 03:32:14",
     "許可證字號": "衛署粧輸字第018115號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,14 +12,14 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00801811500",
-    "中文品名": "醇香創意永久染膏 907 自然極淺亞麻紫色",
-    "英文品名": "milk_shake creative permanent colour 907 NATURAL VIOLET ULTRA BLOND",
+    "中文品名": "醇香創意永久染膏12.07 自然亞麻紫色",
+    "英文品名": "Milk_Shake Creative Conditioning Permanent Colour 12.07 Natural Violet",
     "用途": "染髮。",
     "劑型": "992霜劑",
     "包裝": "500ml 以下管裝附外盒",
     "化粧品類別": "0110染髮劑",
     "": "",
-    "主成分略述": "AMMONIA WATER (AMMONIUM HYDROXIDE), RESORCINOL (RESORCIN), M-AMINOPHENOL SULFATE, P-PHENYLENEDIAMINE",
+    "主成分略述": "Ammonium Hydroxide 30%, RESORCINOL (RESORCIN), m-Aminophenol, 4-AMINO-2-HYDROXYTOLUENE, P-PHENYLENEDIAMINE",
     "限制項目": [
         "02輸入"
     ],
@@ -37,10 +37,10 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000102",
-            "成分名稱": "AMMONIA WATER (AMMONIUM HYDROXIDE)",
+            "成分代碼": "2820000160",
+            "成分名稱": "Ammonium Hydroxide 30%",
             "含量描述": "",
-            "含量": "3.5000000000",
+            "含量": "3.0000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -48,15 +48,23 @@
             "成分代碼": "8428000500",
             "成分名稱": "RESORCINOL (RESORCIN)",
             "含量描述": "",
-            "含量": "0.1200000000",
+            "含量": "0.0370000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035430",
-            "成分名稱": "M-AMINOPHENOL SULFATE",
+            "成分代碼": "9200035470",
+            "成分名稱": "m-Aminophenol",
             "含量描述": "",
-            "含量": "0.0800000000",
+            "含量": "0.0180000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "0.0130000000",
             "單位": "%(W\/W)"
         },
         {
@@ -64,8 +72,14 @@
             "成分代碼": "9400003200",
             "成分名稱": "P-PHENYLENEDIAMINE",
             "含量描述": "",
-            "含量": "0.0400000000",
+            "含量": "0.0480000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08018115-104-12-07.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018115&Seq=001&Type=8"
         }
     ]
 }

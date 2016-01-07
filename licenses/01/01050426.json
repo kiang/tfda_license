@@ -1,7 +1,7 @@
 {
     "code": "01050426",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01050426",
-    "time": "2015-08-23 02:47:33",
+    "time": "2016-01-08 03:12:06",
     "許可證字號": "衛署藥製字第050426號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,7 +14,7 @@
     "通關簽審文件編號": "DHY00105042601",
     "中文品名": "諾醣達膜衣錠 4 毫克",
     "英文品名": "Rovendia F.C. Tablets 4mg",
-    "適應症": "其他口服降血糖藥品適當合併治療之後均無法良好控制血糖或無法耐受時之第二型糖尿病。",
+    "適應症": "Rosiglitazone是一種thiazolidinedione類之抗糖尿病藥品，適用於與飲食控制及運動配合治療，以改善第二型糖尿病成人患者的血糖控制效果。",
     "劑型": "116膜衣錠",
     "包裝": "2-1000 錠塑膠瓶裝 2-1000 錠鋁箔盒裝",
     "藥品類別": "06須由醫師處方使用",
@@ -23,6 +23,7 @@
     "限制項目": [
         "01國產",
         "1D須執行風險管理計畫",
+        "1R不得製造",
         "24監視期滿學名藥",
         "61完成BE試驗",
         "81依100年07月27日署授食字第1001403661公告含Rosiglitazone藥品須執行風險評估暨管控計畫"
@@ -46,6 +47,52 @@
             "含量描述": "(Eq. to Rosiglitazone 4mg)",
             "含量": "5.3000000000",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "010504260008-104-08-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050426&Seq=008&Type=9"
+        },
+        {
+            "title": "010504260007-104-08-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050426&Seq=007&Type=9"
+        },
+        {
+            "title": "010504260006-104-08-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050426&Seq=006&Type=9"
+        },
+        {
+            "title": "010504260005-104-08-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050426&Seq=005&Type=9"
+        },
+        {
+            "title": "010504260004-104-08-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050426&Seq=004&Type=9"
+        },
+        {
+            "title": "010504260003-104-08-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050426&Seq=003&Type=9"
+        },
+        {
+            "title": "010504260002-104-08-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050426&Seq=002&Type=9"
+        },
+        {
+            "title": "010504260001-104-08-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050426&Seq=001&Type=9"
+        },
+        {
+            "title": "010504260011-104-08-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050426&Seq=003&Type=8"
+        },
+        {
+            "title": "010504260010-104-08-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050426&Seq=002&Type=8"
+        },
+        {
+            "title": "010504260009-104-08-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050426&Seq=001&Type=8"
         }
     ]
 }
