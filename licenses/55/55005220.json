@@ -1,7 +1,7 @@
 {
     "code": "55005220",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=55005220",
-    "time": "2016-01-15 04:01:42",
+    "time": "2016-01-22 04:08:07",
     "許可證字號": "衛部醫器製字第005220號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -40,5 +40,15 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": []
+    "ingredients": [],
+    "仿單外盒": [
+        {
+            "title": "550052200001-105-01-15.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55005220&Seq=001&Type=9"
+        },
+        {
+            "title": "550052200002-105-01-15.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55005220&Seq=001&Type=8"
+        }
+    ]
 }
