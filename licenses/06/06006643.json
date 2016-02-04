@@ -1,7 +1,7 @@
 {
     "code": "06006643",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06006643",
-    "time": "2015-08-22 10:46:35",
+    "time": "2016-02-05 03:41:54",
     "許可證字號": "衛署醫器輸字第006643號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,7 +15,7 @@
     "中文品名": "\"卡爾費森\" 藥物靜脈注射組件",
     "英文品名": "\"CAREFUSION\" ADMINISTRATION SETS",
     "效能": "",
-    "醫器規格": "2200, 2210, 2214, 2220, 2230, 2240, 2241, 2260, 2264, 2277, 2280, 9943。",
+    "醫器規格": "2200, 2210, 2214, 2220, 2230, 2240, 2241, 2260, 2264, 2277, 2280, 9943。註銷規格：2214及2220。型號變更：詳如中文仿單核定本(原95年8月25日核准之標籤、仿單核定本予以回收作廢)。",
     "劑型": "",
     "包裝": "",
     "醫器主類別一": "1399其他",
@@ -26,21 +26,26 @@
     "醫器次類別三": "",
     "主成分略述": "",
     "限制項目": [
-        "02輸入"
+        "02輸入",
+        "09委託製造"
     ],
     "申請商名稱": "1511501100  潔昇興業股份有限公司",
     "申請商地址": "台北市中山區民生東路二段176號6樓",
     "主製造廠": {
-        "製造廠名稱": "M462603000  CAREFUSION 303, INC.",
-        "製造廠廠址": "10020 PACIFIC MESA BLVD., SAN DIEGO, CA 92121, USA",
+        "製造廠名稱": "M300116000  SISTEMAS MEDICOS ALARIS, S.A De C.V.",
+        "製造廠廠址": "BLVD. INSURGENTES No. 20351 Parque Industrial EL Florido TIJUANA, Baja California MEXICO 22244",
         "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
+        "製造廠國別": "MEXICO",
+        "製程": "Manufactured by"
     },
     "CCC號列": "90189030007 靜脈點滴注射器Intravenous administration set",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
+        {
+            "title": "060066430001-105-01-13.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06006643&Seq=019&Type=9"
+        },
         {
             "title": "060066430018.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06006643&Seq=018&Type=9"
@@ -112,6 +117,10 @@
         {
             "title": "060066430001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06006643&Seq=001&Type=9"
+        },
+        {
+            "title": "060066430001-105-01-13.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06006643&Seq=002&Type=8"
         },
         {
             "title": "060066430001.jpg",

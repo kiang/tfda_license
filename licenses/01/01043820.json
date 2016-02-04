@@ -1,7 +1,7 @@
 {
     "code": "01043820",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01043820",
-    "time": "2015-08-24 12:49:05",
+    "time": "2016-02-05 03:22:50",
     "許可證字號": "衛署藥製字第043820號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,14 +12,14 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00104382001",
-    "中文品名": "普服芬膜衣錠２００公絲",
-    "英文品名": "PURFEN F.C. TABLET 200MG",
+    "中文品名": "康利舒冒止炎痛膜衣錠",
+    "英文品名": "COLD-FREE BROFEN IB F.C. TABLET",
     "適應症": "下列病患及症狀之消炎鎮痛：慢性風濕關節炎、關節痛及關節炎、神經痛及神經炎、背腰痛、手術及外傷後之消炎、鎮痛。",
     "劑型": "116膜衣錠",
     "包裝": "塑膠瓶裝 鋁箔盒裝",
     "藥品類別": "17醫師藥師藥劑生指示藥",
     "管制藥品分類級別": "",
-    "主成分略述": "IBUPROFEN",
+    "主成分略述": "IBUPROFEN, POLYETHYLENE GLYCOL 3350, HYPROMELLOSE, TALC, TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE), SUNSET YELLOW FCF ALUMINUM LAKE, WATER PURIFIED ( EQ TO AQUEOUS PURIFIED OR PURIFIED WATER ), POLYDEXTROSE",
     "限制項目": [
         "01國產"
     ],
@@ -42,6 +42,76 @@
             "含量描述": "",
             "含量": "200.0000000000",
             "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8424122900",
+            "成分名稱": "POLYETHYLENE GLYCOL 3350",
+            "含量描述": "(PEG)",
+            "含量": "6.0000000000",
+            "單位": "%"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9600015505",
+            "成分名稱": "HYPROMELLOSE",
+            "含量描述": "(HPMC) 6",
+            "含量": "39.0000000000",
+            "單位": "%"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9600031309",
+            "成分名稱": "TALC",
+            "含量描述": "",
+            "含量": "10.0000000000",
+            "單位": "%"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9602020800",
+            "成分名稱": "TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)",
+            "含量描述": "",
+            "含量": "30.0000000000",
+            "單位": "%"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9602040710",
+            "成分名稱": "SUNSET YELLOW FCF ALUMINUM LAKE",
+            "含量描述": "",
+            "含量": "0.2400000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9604001100",
+            "成分名稱": "WATER PURIFIED ( EQ TO AQUEOUS PURIFIED OR PURIFIED WATER )",
+            "含量描述": "q.s",
+            "含量": "",
+            "單位": ""
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900062200",
+            "成分名稱": "POLYDEXTROSE",
+            "含量描述": "",
+            "含量": "15.0000000000",
+            "單位": "%"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "Cold-free Brofen IB FCT_INS_201507-105-01-25.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043820&Seq=001&Type=9"
+        },
+        {
+            "title": "Cold-free Brofen_PF_201507-105-01-25.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043820&Seq=002&Type=8"
+        },
+        {
+            "title": "Cold-free Brofen_PC_201507-105-01-25.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043820&Seq=001&Type=8"
         }
     ]
 }

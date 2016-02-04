@@ -1,7 +1,7 @@
 {
     "code": "01044620",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01044620",
-    "time": "2015-12-25 04:12:03",
+    "time": "2016-02-05 03:23:53",
     "許可證字號": "衛署藥製字第044620號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "鋁管裝",
     "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "主成分略述": "EPHEDRINE HCL (EQ TO EPHEDRINE HYDROCHLORIDE), TYROTHRICIN, LIDOCAINE HCL, CETYLPYRIDINIUM CHLORIDE, L-MENTHOL, EUCALYPTUS OIL (OLEUM EUCALYPTI)",
+    "主成分略述": "EPHEDRINE HCL (EQ TO EPHEDRINE HYDROCHLORIDE), TYROTHRICIN, LIDOCAINE HCL, CETYLPYRIDINIUM CHLORIDE",
     "限制項目": [
         "01國產"
     ],
@@ -66,28 +66,20 @@
             "含量描述": "",
             "含量": "0.2500000000",
             "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "8408000302",
-            "成分名稱": "L-MENTHOL",
-            "含量描述": "",
-            "含量": "2.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9600012200",
-            "成分名稱": "EUCALYPTUS OIL (OLEUM EUCALYPTI)",
-            "含量描述": "",
-            "含量": "10.0000000000",
-            "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
+            "title": "01044620仿單-105-01-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044620&Seq=002&Type=9"
+        },
+        {
             "title": "010446200001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044620&Seq=001&Type=9"
+        },
+        {
+            "title": "01044620標籤-105-01-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044620&Seq=001&Type=8"
         }
     ]
 }

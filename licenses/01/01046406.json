@@ -1,7 +1,7 @@
 {
     "code": "01046406",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01046406",
-    "time": "2015-09-25 04:25:23",
+    "time": "2016-02-05 03:24:34",
     "許可證字號": "衛署藥製字第046406號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,14 +12,14 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00104640606",
-    "中文品名": "衛寶血液透析濃縮液D204L",
-    "英文品名": "GAMBRO HEMODIALYSIS CONCENTRATE D204L",
+    "中文品名": "百特血液透析濃縮液D204L",
+    "英文品名": "BAXTER HEMODIALYSIS CONCENTRATE D204L",
     "適應症": "洗腎液。",
     "劑型": "272透析用液劑",
     "包裝": "10公升以下，200公升塑膠桶裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "主成分略述": "CALCIUM CHLORIDE DIHYDRATE, MAGNESIUM CHLORIDE HEXAHYDRATE (EQ TO MAGNESIUM CHLORIDE 6H2O), POTASSIUM CHLORIDE, SODIUM CHLORIDE, ACETIC ACID GLACIAL( eq to  GLACIAL ACETIC ACID)",
+    "主成分略述": "CALCIUM CHLORIDE DIHYDRATE, MAGNESIUM CHLORIDE HEXAHYDRATE (EQ TO MAGNESIUM CHLORIDE 6H2O), POTASSIUM CHLORIDE, SODIUM CHLORIDE, GLUCOSE MONOHYDRATE, ACETIC ACID GLACIAL( eq to  GLACIAL ACETIC ACID)",
     "限制項目": [
         "01國產"
     ],
@@ -69,6 +69,14 @@
         },
         {
             "成分類別": "主成分",
+            "成分代碼": "4020000760",
+            "成分名稱": "GLUCOSE MONOHYDRATE",
+            "含量描述": "",
+            "含量": "38.5000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
             "成分代碼": "9600000302",
             "成分名稱": "ACETIC ACID GLACIAL( eq to GLACIAL ACETIC ACID)",
             "含量描述": "",
@@ -77,6 +85,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "20160115145509553-105-01-15.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046406&Seq=004&Type=9"
+        },
         {
             "title": "D204L_FINAL-2014-03-17.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046406&Seq=003&Type=9"

@@ -1,7 +1,7 @@
 {
     "code": "10000803",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000803",
-    "time": "2015-10-23 04:43:58",
+    "time": "2016-02-05 03:38:23",
     "許可證字號": "衛署菌疫輸字第000803號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -24,7 +24,7 @@
         "02輸入"
     ],
     "申請商名稱": "1424601100  賽諾菲股份有限公司",
-    "申請商地址": "台北市松山區復興北路337號12、13、14樓",
+    "申請商地址": "台北市信義區松仁路3號7樓",
     "主製造廠": {
         "製造廠名稱": "F470108000  SANOFI-AVENTIS DEUTSCHLAND GMBH,INDUSTRIEPARK HOECHST",
         "製造廠廠址": "D-65926 FRANKFURT AM MAIN,GERMANY",
@@ -34,6 +34,15 @@
     },
     "CCC號列": "30043100003 醫藥製劑，含有胰島素者Medicaments, containing insulin",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "M471077000  SANOFI-AVENTIS DEUTSCHLAND GMBH",
+            "製造廠廠址": "INDUSTRIEPARK HOECHST D-65926 FRANKFURT AM MAIN GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "原料藥製造廠"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",

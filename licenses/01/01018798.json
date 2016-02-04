@@ -1,7 +1,7 @@
 {
     "code": "01018798",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01018798",
-    "time": "2015-08-22 19:38:57",
+    "time": "2016-02-05 03:06:07",
     "許可證字號": "衛署藥製字第018798號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,10 +16,10 @@
     "英文品名": "TRICODEX CREAM \"C.C.P.\"",
     "適應症": "濕疹、皮膚炎、牛皮癬、濕疹性乾癬、皮膚搔癢症",
     "劑型": "360軟膏劑",
-    "包裝": "軟管裝 罐裝",
-    "藥品類別": "07須經醫師指示使用",
+    "包裝": "100克以下軟管裝 500克罐裝",
+    "藥品類別": "17醫師藥師藥劑生指示藥品",
     "管制藥品分類級別": "",
-    "主成分略述": "DIPHENYLPYRALINE HCL, NEOMYCIN (SULFATE), NYLIDRIN HCL ( BUPHENIN HYDROCHLORIDE ), HYDROCORTISONE",
+    "主成分略述": "DIPHENYLPYRALINE HCL, NEOMYCIN (SULFATE), HYDROCORTISONE",
     "限制項目": [
         "01國產"
     ],
@@ -53,14 +53,6 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "2412001910",
-            "成分名稱": "NYLIDRIN HCL ( BUPHENIN HYDROCHLORIDE )",
-            "含量描述": "1",
-            "含量": "1.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "6804001100",
             "成分名稱": "HYDROCORTISONE",
             "含量描述": "5",
@@ -69,6 +61,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "Tricodex Cream In-105-01-25.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018798&Seq=005&Type=9"
+        },
         {
             "title": "010187980004.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018798&Seq=004&Type=9"
@@ -84,6 +80,14 @@
         {
             "title": "010187980001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018798&Seq=001&Type=9"
+        },
+        {
+            "title": "Tricodex Cream Box-105-01-25.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018798&Seq=002&Type=8"
+        },
+        {
+            "title": "Tricodex cream (15gm)-105-01-25.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018798&Seq=001&Type=8"
         }
     ]
 }

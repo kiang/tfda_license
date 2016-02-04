@@ -1,7 +1,7 @@
 {
     "code": "01026482",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01026482",
-    "time": "2015-08-22 21:56:31",
+    "time": "2016-02-05 03:10:10",
     "許可證字號": "衛署藥製字第026482號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,15 +19,15 @@
     "包裝": "5~4000毫升塑膠瓶裝",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
     "管制藥品分類級別": "",
-    "主成分略述": "PHENYLEPHRINE HCL, ACETAMINOPHEN (EQ TO PARACETAMOL), DEXTROMETHORPHAN HBR, GUAIACOL GLYCERYL ETHER (EQ TO GUAIFENESIN)",
+    "主成分略述": "PHENYLEPHRINE HCL, ACETAMINOPHEN (EQ TO PARACETAMOL), DEXTROMETHORPHAN HBR, GUAIACOL GLYCOLATE (EQ TO GLYCERYL GUAIACOLATE)",
     "限制項目": [
-        "09委託製造"
+        ""
     ],
     "申請商名稱": "0201504200  人人化學製藥股份有限公司",
     "申請商地址": "桃園市中壢區南園二路３號",
     "主製造廠": {
         "製造廠名稱": "0201504300  人人化學製藥股份有限公司中壢廠",
-        "製造廠廠址": "中壢市中壢工業區南園二路３號",
+        "製造廠廠址": "桃園市中壢區南園二路３號",
         "製造廠公司地址": "",
         "製造廠國別": "TAIWAN",
         "製程": ""
@@ -39,7 +39,7 @@
             "成分類別": "主成分",
             "成分代碼": "1212002310",
             "成分名稱": "PHENYLEPHRINE HCL",
-            "含量描述": "0.5",
+            "含量描述": "",
             "含量": "0.5000000000",
             "單位": "MG"
         },
@@ -47,7 +47,7 @@
             "成分類別": "主成分",
             "成分代碼": "2808000100",
             "成分名稱": "ACETAMINOPHEN (EQ TO PARACETAMOL)",
-            "含量描述": "24.0",
+            "含量描述": "",
             "含量": "24.0000000000",
             "單位": "MG"
         },
@@ -55,20 +55,24 @@
             "成分類別": "主成分",
             "成分代碼": "4800001010",
             "成分名稱": "DEXTROMETHORPHAN HBR",
-            "含量描述": "1.5",
+            "含量描述": "",
             "含量": "1.5000000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "4800001420",
-            "成分名稱": "GUAIACOL GLYCERYL ETHER (EQ TO GUAIFENESIN)",
-            "含量描述": "10.0",
+            "成分代碼": "4800001430",
+            "成分名稱": "GUAIACOL GLYCOLATE (EQ TO GLYCERYL GUAIACOLATE)",
+            "含量描述": "",
             "含量": "10.0000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "舒痛糖漿-105-01-28.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026482&Seq=003&Type=9"
+        },
         {
             "title": "舒痛糖漿-104-05-18.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026482&Seq=002&Type=9"

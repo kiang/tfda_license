@@ -1,7 +1,7 @@
 {
     "code": "01026233",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01026233",
-    "time": "2015-08-22 21:54:00",
+    "time": "2016-02-05 03:10:02",
     "許可證字號": "衛署藥製字第026233號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,13 +13,13 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102623302",
     "中文品名": "\"南光\"復腦通膠囊５毫克",
-    "英文品名": "FLUNAZON CAPSULES 5MG (FLUNARIZINE) \"N.K.\"",
+    "英文品名": "FLUNAZON CAPSULES 5MG “N.K.”",
     "適應症": "噁心、眩暈、迷路障礙、暈動病、末梢血管循環障礙",
     "劑型": "130膠囊劑",
     "包裝": "4-1000粒塑膠瓶裝 4-1000粒鋁箔盒裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "主成分略述": "FLUNARIZINE (HYDROCHLORIDE)",
+    "主成分略述": "FLUNARIZINE HCL (FLUNARIZINE 2HCL)",
     "限制項目": [
         "01國產"
     ],
@@ -37,10 +37,10 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2412091010",
-            "成分名稱": "FLUNARIZINE (HYDROCHLORIDE)",
-            "含量描述": "(5.9MG) 5.0",
-            "含量": "",
+            "成分代碼": "2412001010",
+            "成分名稱": "FLUNARIZINE HCL (FLUNARIZINE 2HCL)",
+            "含量描述": "(5.9MG) (equivalent to FLUNARIZINE 5.0 mg)",
+            "含量": "5.9000000000",
             "單位": "MG"
         }
     ],
@@ -55,6 +55,10 @@
         "標記二": "N.K.P.,193"
     },
     "藥物辨識外觀圖片": [
+        {
+            "title": "193026233_外觀_201509-104-09-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026233&Seq=161&Type=10"
+        },
         {
             "title": "圖片",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026233&Seq=160&Type=10"

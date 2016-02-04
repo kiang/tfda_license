@@ -1,7 +1,7 @@
 {
     "code": "02024870",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024870",
-    "time": "2015-08-23 12:21:37",
+    "time": "2016-02-05 03:36:25",
     "許可證字號": "衛署藥輸字第024870號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "單片(5.25cm2)鋁箔袋裝 100片以下盒裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "B第二級管制藥品",
-    "主成分略述": "FENTANYL (EQ TO FENTANYL BASE)",
+    "主成分略述": "Fentanyl",
     "限制項目": [
         "02輸入",
         "32第二級管制藥品"
@@ -38,8 +38,8 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2808800300",
-            "成分名稱": "FENTANYL (EQ TO FENTANYL BASE)",
+            "成分代碼": "2808800305",
+            "成分名稱": "Fentanyl",
             "含量描述": "",
             "含量": "2.1000000000",
             "單位": "MG"
@@ -69,6 +69,18 @@
         {
             "title": "PI of Durogesic D-TRANS___20121005.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024870&Seq=001&Type=9"
+        },
+        {
+            "title": "985641_2-104-09-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024870&Seq=003&Type=8"
+        },
+        {
+            "title": "987442_2-104-09-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024870&Seq=002&Type=8"
+        },
+        {
+            "title": "987447_1-104-09-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024870&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "01031360",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01031360",
-    "time": "2015-08-22 23:15:59",
+    "time": "2016-02-05 03:12:49",
     "許可證字號": "衛署藥製字第031360號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,10 +16,10 @@
     "英文品名": "S.W.C. TABLETS \"C.H.\"",
     "適應症": "緩解胃部不適或灼熱感、胃酸過多、消化不良。",
     "劑型": "110錠劑",
-    "包裝": "12-1000錠瓶裝 12-1000錠鋁箔紙盒裝",
-    "藥品類別": "07須經醫師指示使用",
+    "包裝": "12-1000錠塑膠瓶裝 12-1000粒PTP 鋁箔盒裝",
+    "藥品類別": "17醫師藥師藥劑生指示藥品",
     "管制藥品分類級別": "",
-    "主成分略述": "SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE), CINNAMON POWDER (CINNAMON CORTEX POWDER), COPTIS RHIZOMA POWDER, BORNEOL, GENTIAN POWDER, CLOVE FLOWER, MENTHOL L-, GLYCYRRHIZA RADIX POWDER, GAMBIR POWDER, PEPPER, HYDRANGEAE DULCIS FOLIUM",
+    "主成分略述": "SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE), CINNAMON POWDER (CINNAMON CORTEX POWDER), COPTIS RHIZOMA POWDER, BORNEOL, GENTIAN POWDER, CLOVE POWDER, L-MENTHOL, GLYCYRRHIZA RADIX POWDER, GAMBIR POWDER, PEPPER, HYDRANGEAE DULCIS FOLIUM",
     "限制項目": [
         "01國產"
     ],
@@ -77,8 +77,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "7200000310",
-            "成分名稱": "CLOVE FLOWER",
+            "成分代碼": "7200000301",
+            "成分名稱": "CLOVE POWDER",
             "含量描述": "20",
             "含量": "20.0000000000",
             "單位": "MG"
@@ -86,7 +86,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "8408000302",
-            "成分名稱": "MENTHOL L-",
+            "成分名稱": "L-MENTHOL",
             "含量描述": "6",
             "含量": "6.0000000000",
             "單位": "MG"
@@ -142,6 +142,10 @@
     ],
     "仿單外盒": [
         {
+            "title": "010313600001-105-01-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031360&Seq=004&Type=9"
+        },
+        {
             "title": "010313600003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031360&Seq=003&Type=9"
         },
@@ -152,6 +156,10 @@
         {
             "title": "010313600001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031360&Seq=001&Type=9"
+        },
+        {
+            "title": "正和爽胃腸-105-01-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031360&Seq=001&Type=8"
         }
     ]
 }
