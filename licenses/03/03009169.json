@@ -1,7 +1,7 @@
 {
     "code": "03009169",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=03009169",
-    "time": "2015-08-23 07:56:13",
+    "time": "2016-03-04 03:11:35",
     "許可證字號": "衛署成製字第009169號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,12 +16,13 @@
     "英文品名": "WAN IN VAPOR INHALER",
     "適應症": "鼻塞頭眩、暈車暈船、清涼。",
     "劑型": "403鼻用吸入劑",
-    "包裝": "瓶裝",
+    "包裝": "每支0.6CM-4CM塑膠瓶裝",
     "藥品類別": "13乙類成藥",
     "管制藥品分類級別": "",
-    "主成分略述": "CAMPHOR, MENTHOL, METHYL SALICYLATE, EUCALYPTUS OIL (OLEUM EUCALYPTI)",
+    "主成分略述": "CAMPHOR, MENTHOL, METHYL SALICYLATE",
     "限制項目": [
-        "01國產"
+        "01國產",
+        "09委託製造"
     ],
     "申請商名稱": "6201098764  白花油國際有限公司",
     "申請商地址": "台南市佳里區延平路351號6樓之2",
@@ -58,17 +59,13 @@
             "含量描述": "74",
             "含量": "74.0000000000",
             "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9600012200",
-            "成分名稱": "EUCALYPTUS OIL (OLEUM EUCALYPTI)",
-            "含量描述": "34",
-            "含量": "34.0000000000",
-            "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "萬應威薄兒鼻用吸入劑-105-02-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03009169&Seq=005&Type=9"
+        },
         {
             "title": "顏玉瑩爽鼻通原始-01-2014-03-24.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03009169&Seq=004&Type=9"
@@ -84,6 +81,10 @@
         {
             "title": "030091690001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03009169&Seq=001&Type=9"
+        },
+        {
+            "title": "萬應威薄兒鼻用吸入劑-105-02-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03009169&Seq=002&Type=8"
         },
         {
             "title": "萬應威薄兒-0302-out___20120319.pdf",

@@ -1,7 +1,7 @@
 {
     "code": "02024842",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024842",
-    "time": "2015-08-23 12:17:27",
+    "time": "2016-03-04 03:10:24",
     "許可證字號": "衛署藥輸字第024842號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "單片(21.0cm2)鋁箔袋裝 5袋盒裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "B第二級管制藥品",
-    "主成分略述": "FENTANYL (EQ TO FENTANYL BASE)",
+    "主成分略述": "Fentanyl",
     "限制項目": [
         "02輸入",
         "24監視期滿學名藥"
@@ -38,14 +38,18 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2808800300",
-            "成分名稱": "FENTANYL (EQ TO FENTANYL BASE)",
-            "含量描述": "(With a release rate of 50？gg\/h)",
+            "成分代碼": "2808800305",
+            "成分名稱": "Fentanyl",
+            "含量描述": "(With a release rate of 50 ug\/h)",
             "含量": "8.4000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "DUROGESIC CCDS 25Feb2014 v1601-34x50cm-105-02-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024842&Seq=005&Type=9"
+        },
         {
             "title": "0248420001-103-06-24.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024842&Seq=004&Type=9"

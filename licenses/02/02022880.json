@@ -1,7 +1,7 @@
 {
     "code": "02022880",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022880",
-    "time": "2015-09-18 05:09:47",
+    "time": "2016-03-04 03:08:58",
     "許可證字號": "衛署藥輸字第022880號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,15 +19,16 @@
     "包裝": "100GM以下塑膠瓶裝",
     "藥品類別": "17醫師藥師藥劑生指示藥",
     "管制藥品分類級別": "",
-    "主成分略述": "ISOPROPANOL, CAMPHOR DL-, MENTHOL L-, METHYL SALICYLATE, GLYCYRRHETIC ACID (EQ TO GLYCYRRHETINIC ACID)",
+    "主成分略述": "ISOPROPANOL, DL-CAMPHOR, L-MENTHOL, METHYL SALICYLATE, GLYCYRRHETIC ACID (EQ TO GLYCYRRHETINIC ACID)",
     "限制項目": [
-        "02輸入"
+        "02輸入",
+        "1Q不得輸入"
     ],
     "申請商名稱": "0203209100  人生製藥股份有限公司",
     "申請商地址": "台中市西屯區工業五路３號",
     "主製造廠": {
-        "製造廠名稱": "F260490000  MIKASA SEIYAKU CO., LTD.",
-        "製造廠廠址": "2-3-1 TOYOTAMAKITA, NERIMAKU, TOKYO",
+        "製造廠名稱": "F260490100  MIKASA SEIYAKU CO., LTD.",
+        "製造廠廠址": "3-1, 2-CHOME, TOYOTAMA-KITA, NERIMA-KU, TOKYO, JAPAN",
         "製造廠公司地址": "",
         "製造廠國別": "JAPAN",
         "製程": ""
@@ -46,7 +47,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "8408000103",
-            "成分名稱": "CAMPHOR DL-",
+            "成分名稱": "DL-CAMPHOR",
             "含量描述": "",
             "含量": "0.0500000000",
             "單位": "GM"
@@ -54,7 +55,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "8408000302",
-            "成分名稱": "MENTHOL L-",
+            "成分名稱": "L-MENTHOL",
             "含量描述": "",
             "含量": "0.0600000000",
             "單位": "GM"

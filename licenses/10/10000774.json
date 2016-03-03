@@ -1,7 +1,7 @@
 {
     "code": "10000774",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000774",
-    "time": "2015-12-25 04:17:27",
+    "time": "2016-03-04 03:11:48",
     "許可證字號": "衛署菌疫輸字第000774號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,8 +26,8 @@
     "申請商名稱": "0617501100  百特醫療產品股份有限公司",
     "申請商地址": "台北市敦化南路二段２１６號１５樓",
     "主製造廠": {
-        "製造廠名稱": "F030038100  BAXTER AG",
-        "製造廠廠址": "INDUSTRIESTRASSE 72, 1221, WIEN, AUSTRIA",
+        "製造廠名稱": "F030033100  BAXTER AG",
+        "製造廠廠址": "Lange Allee 24, 1221, Wien, AUSTRIA",
         "製造廠公司地址": "",
         "製造廠國別": "AUSTRIA",
         "製程": ""
@@ -36,18 +36,18 @@
     "藥理治療分類": "",
     "次製造廠": [
         {
+            "製造廠名稱": "6132051324  泛泰醫療產品股份有限公司",
+            "製造廠廠址": "桃園市蘆竹區海湖里海山東街482號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "貼標廠"
+        },
+        {
             "製造廠名稱": "F030018100  BAXTER AG",
             "製造廠廠址": "INDUSTRIESTRASSE 67, A-1221 WIEN, AUSTRIA",
             "製造廠公司地址": "",
             "製造廠國別": "AUSTRIA",
             "製程": "許可證持有者"
-        },
-        {
-            "製造廠名稱": "F030033100  BAXTER AG",
-            "製造廠廠址": "Lange Allee 24, 1221, Wien, AUSTRIA",
-            "製造廠公司地址": "",
-            "製造廠國別": "AUSTRIA",
-            "製程": "包裝"
         }
     ],
     "ingredients": [
@@ -61,6 +61,18 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "020007740003-105-02-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000774&Seq=005&Type=9"
+        },
+        {
+            "title": "020007740002-105-02-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000774&Seq=004&Type=9"
+        },
+        {
+            "title": "020007740001-105-02-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000774&Seq=003&Type=9"
+        },
         {
             "title": "020007740001-103-07-04.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000774&Seq=002&Type=9"

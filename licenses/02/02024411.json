@@ -1,12 +1,12 @@
 {
     "code": "02024411",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024411",
-    "time": "2015-08-23 11:59:49",
+    "time": "2016-03-04 03:47:23",
     "許可證字號": "衛署藥輸字第024411號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "105\/03\/15",
+    "有效日期": "110\/03\/15",
     "發證日期": "95\/03\/15",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -19,7 +19,7 @@
     "包裝": "5-4000毫升玻璃瓶裝",
     "藥品類別": "17醫師藥師藥劑生指示藥",
     "管制藥品分類級別": "",
-    "主成分略述": "DEXTROMETHORPHAN HCL, GUAIACOL GLYCERYL ETHER (EQ TO GUAIFENESIN)",
+    "主成分略述": "DEXTROMETHORPHAN HBR, GUAIACOL GLYCERYL ETHER (EQ TO GUAIFENESIN)",
     "限制項目": [
         "02輸入"
     ],
@@ -37,8 +37,8 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "4800001020",
-            "成分名稱": "DEXTROMETHORPHAN HCL",
+            "成分代碼": "4800001010",
+            "成分名稱": "DEXTROMETHORPHAN HBR",
             "含量描述": "",
             "含量": "3.0000000000",
             "單位": "MG"
@@ -54,6 +54,10 @@
     ],
     "仿單外盒": [
         {
+            "title": "020244110001-104-12-10.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024411&Seq=004&Type=9"
+        },
+        {
             "title": "020244110001-102-10-02.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024411&Seq=003&Type=9"
         },
@@ -64,6 +68,14 @@
         {
             "title": "020244110001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024411&Seq=001&Type=9"
+        },
+        {
+            "title": "020244110002-104-09-25.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024411&Seq=007&Type=8"
+        },
+        {
+            "title": "020244110001-104-09-25.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024411&Seq=006&Type=8"
         },
         {
             "title": "020244110005___20100729.jpg",

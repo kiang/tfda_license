@@ -1,7 +1,7 @@
 {
     "code": "01036468",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01036468",
-    "time": "2015-08-23 00:33:31",
+    "time": "2016-03-04 03:03:27",
     "許可證字號": "衛署藥製字第036468號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,10 +16,10 @@
     "英文品名": "VITAFOS CAPSULE",
     "適應症": "神經炎、多發性神經炎、腳氣病、維他命Ｂ１缺乏症。",
     "劑型": "130膠囊劑",
-    "包裝": "盒裝",
+    "包裝": "6-1000粒鋁箔盒裝塑膠罐裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "主成分略述": "BENFOTIAMIN (BENZOYLTHIAMINE MONOPHOSPHATE)(BIOTAMIN), THIAMINE(HCL)",
+    "主成分略述": "BENFOTIAMIN (BENZOYLTHIAMINE MONOPHOSPHATE)(BIOTAMIN), PYRIDOXINE HYDROCHLORIDE, CYANOCOBALAMIN",
     "限制項目": [
         "01國產"
     ],
@@ -45,10 +45,18 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8810109900",
-            "成分名稱": "THIAMINE(HCL)",
-            "含量描述": "25.0",
+            "成分代碼": "8810600330",
+            "成分名稱": "PYRIDOXINE HYDROCHLORIDE",
+            "含量描述": "25",
             "含量": "25.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8811200301",
+            "成分名稱": "CYANOCOBALAMIN",
+            "含量描述": "0.25",
+            "含量": "0.2500000000",
             "單位": "MG"
         }
     ],
@@ -69,6 +77,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "A036468-仿單-105-02-19.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036468&Seq=002&Type=9"
+        },
         {
             "title": "010364680001.DOC",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036468&Seq=001&Type=9"
