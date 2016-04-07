@@ -1,7 +1,7 @@
 {
     "code": "52026521",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026521",
-    "time": "2015-08-23 01:12:15",
+    "time": "2016-04-08 03:25:15",
     "許可證字號": "衛部藥輸字第026521號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "2-1,000錠鋁箔盒裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "主成分略述": "AMLODIPINE BESYLATE",
+    "主成分略述": "OLMESARTAN MEDOXOMIL, AMLODIPINE BESYLATE",
     "限制項目": [
         "02輸入",
         "26監視期滿新藥"
@@ -47,6 +47,14 @@
     "ingredients": [
         {
             "成分類別": "主成分",
+            "成分代碼": "2408005910",
+            "成分名稱": "OLMESARTAN MEDOXOMIL",
+            "含量描述": "",
+            "含量": "40.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
             "成分代碼": "2412402210",
             "成分名稱": "AMLODIPINE BESYLATE",
             "含量描述": "(Amlodipine......10.00mg)",
@@ -55,6 +63,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "Sevikar-105-03-03.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026521&Seq=002&Type=9"
+        },
         {
             "title": "舒脈康膜衣錠5,40&10,40-C-PI-104-07-03.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026521&Seq=001&Type=9"

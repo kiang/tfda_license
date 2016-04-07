@@ -1,7 +1,7 @@
 {
     "code": "02010052",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02010052",
-    "time": "2015-08-24 12:56:35",
+    "time": "2016-04-08 03:17:23",
     "許可證字號": "衛署藥輸字第010052號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "90、200顆瓶裝",
     "藥品類別": "17醫師藥師藥劑生指示藥",
     "管制藥品分類級別": "",
-    "主成分略述": "SAFFLOWER OIL, TOCOPHEROL ACETATE ALPHA D-",
+    "主成分略述": "TOCOPHEROL ACETATE ALPHA D-",
     "限制項目": [
         "02輸入"
     ],
@@ -46,19 +46,25 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "4020001500",
-            "成分名稱": "SAFFLOWER OIL",
-            "含量描述": "",
-            "含量": "200.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "8820000211",
             "成分名稱": "TOCOPHEROL ACETATE ALPHA D-",
             "含量描述": "",
             "含量": "100.0000000000",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "台湾TVE添付文書-105-03-07.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02010052&Seq=002&Type=9"
+        },
+        {
+            "title": "仿單-TVE_湧永維他命E軟膠嚢_-104-10-01.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02010052&Seq=001&Type=9"
+        },
+        {
+            "title": "20160307150335092-105-03-07.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02010052&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "60000964",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60000964",
-    "time": "2015-08-22 17:16:29",
+    "time": "2016-04-08 03:25:38",
     "許可證字號": "衛部菌疫輸字第000964號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -37,11 +37,32 @@
     "藥理治療分類": "",
     "次製造廠": [
         {
+            "製造廠名稱": "F130342000  PIRAMAL HEALTHCARE UK LIMITED",
+            "製造廠廠址": "EARLS ROAD, GRANGEMOUTH STIRLINGSHIRE, FK3 8XG, UK",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": "主成分(drug substance)製造廠"
+        },
+        {
             "製造廠名稱": "F250344000  TAKEDA ITALIA S.P.A.",
             "製造廠廠址": "VIA CROSA 86, 28065 CERANO (NOVARA), ITALY",
             "製造廠公司地址": "VIA VITTORINI, 129, 00144 ROMA, ITALY",
             "製造廠國別": "ITALY",
             "製程": "次包裝廠"
+        },
+        {
+            "製造廠名稱": "F460850000  AbbVie Bioresearch Center",
+            "製造廠廠址": "100 Research Drive, Worcester, MA 01605, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "主成分(drug substance)製造廠"
+        },
+        {
+            "製造廠名稱": "F460877000  SAFC INC.",
+            "製造廠廠址": "645 SCIENCE DRIVE, MADISON, WI 53711, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "主成分(drug substance)製造廠"
         }
     ],
     "ingredients": [
@@ -55,6 +76,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "03_中文仿單_ADCETRIS Chinese PI_EU SmPC-ver 2014-08-22_(PI 更新用)_20160204 - A3-105-03-03.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000964&Seq=003&Type=9"
+        },
         {
             "title": "Adcetris approved PI-20140320-II0010-Version 8_20141017(領證用) - A3-103-10-20.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000964&Seq=002&Type=9"

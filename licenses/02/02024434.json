@@ -1,7 +1,7 @@
 {
     "code": "02024434",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024434",
-    "time": "2015-08-23 12:04:27",
+    "time": "2016-04-08 03:19:53",
     "許可證字號": "衛署藥輸字第024434號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -21,13 +21,14 @@
     "管制藥品分類級別": "",
     "主成分略述": "VORICONAZOLE",
     "限制項目": [
-        "02輸入"
+        "02輸入",
+        "1Q不得輸入"
     ],
     "申請商名稱": "1504401100  輝瑞大藥廠股份有限公司",
     "申請商地址": "新北市淡水區中正東路二段１７７號",
     "主製造廠": {
         "製造廠名稱": "F150080100  Fareva Amboise",
-        "製造廠廠址": "ZONE INDUSTRIELLE, 29, ROUTE DES INDUSTRIES 37530 POCE-SIR-CISSE, FRANCE",
+        "製造廠廠址": "ZONE INDUSTRIELLE, 29, ROUTE DES INDUSTRIES 37530 POCE-SUR-CISSE, FRANCE",
         "製造廠公司地址": "",
         "製造廠國別": "FRANCE",
         "製程": ""
@@ -53,6 +54,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "020244340001-105-02-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024434&Seq=008&Type=9"
+        },
         {
             "title": "020244340007.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024434&Seq=007&Type=9"

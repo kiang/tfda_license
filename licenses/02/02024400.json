@@ -1,7 +1,7 @@
 {
     "code": "02024400",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024400",
-    "time": "2015-09-25 04:32:16",
+    "time": "2016-04-08 04:32:35",
     "許可證字號": "衛署藥輸字第024400號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,9 +19,10 @@
     "包裝": "100毫升以下塑膠瓶裝",
     "藥品類別": "17醫師藥師藥劑生指示藥",
     "管制藥品分類級別": "",
-    "主成分略述": "CHLORPHENIRAMINE MALEATE, NEOSTIGMINE METHYLSULFATE, AMINOCAPROIC ACID EPSILON-, PYRIDOXINE HCL, AMINOETHYLSULFONIC ACID",
+    "主成分略述": "CHLORPHENIRAMINE MALEATE, NEOSTIGMINE METHYLSULFATE, AMINOCAPROIC ACID EPSILON-, CHONDROITIN SULFATE SODIUM (EQ TO SODIUM CHONDROITIN SULFATE ), PYRIDOXINE HCL, AMINOETHYLSULFONIC ACID",
     "限制項目": [
-        "02輸入"
+        "02輸入",
+        "1Q不得輸入"
     ],
     "申請商名稱": "1703501100  優德貿易有限公司",
     "申請商地址": "台北市松山區八德路三段12巷51弄24號1樓",
@@ -57,6 +58,14 @@
             "成分名稱": "AMINOCAPROIC ACID EPSILON-",
             "含量描述": "",
             "含量": "10.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2406000310",
+            "成分名稱": "CHONDROITIN SULFATE SODIUM (EQ TO SODIUM CHONDROITIN SULFATE )",
+            "含量描述": "",
+            "含量": "1.0000000000",
             "單位": "MG"
         },
         {

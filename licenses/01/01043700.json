@@ -1,7 +1,7 @@
 {
     "code": "01043700",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01043700",
-    "time": "2015-08-24 00:54:13",
+    "time": "2016-04-08 03:11:32",
     "許可證字號": "衛署藥製字第043700號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,7 +16,7 @@
     "英文品名": "MEPTIN-MINI TABLETS",
     "適應症": "支氣管氣喘、慢性支氣管炎、肺氣腫諸疾患之氣道閉塞性障礙。",
     "劑型": "110錠劑",
-    "包裝": "鋁箔盒裝 塑膠瓶裝",
+    "包裝": "4-1000錠鋁箔盒裝 4-1000錠塑膠瓶裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
     "主成分略述": "PROCATEROL HYDROCHLORIDE HEMIHYDRATE",
@@ -39,9 +39,9 @@
             "成分類別": "主成分",
             "成分代碼": "1212003915",
             "成分名稱": "PROCATEROL HYDROCHLORIDE HEMIHYDRATE",
-            "含量描述": "25",
-            "含量": "25.0000000000",
-            "單位": "MCG"
+            "含量描述": "",
+            "含量": "0.0250000000",
+            "單位": "MG"
         }
     ],
     "藥物辨識詳細資料": {
@@ -61,6 +61,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "Meptin mini_IT0305_20160225 (final)-105-03-01.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043700&Seq=004&Type=9"
+        },
         {
             "title": "Meptin mini_20141112(只加賦形劑)_clean ver-103-11-20.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043700&Seq=003&Type=9"

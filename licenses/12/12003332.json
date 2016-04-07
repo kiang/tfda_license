@@ -1,7 +1,7 @@
 {
     "code": "12003332",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12003332",
-    "time": "2015-08-22 16:31:46",
+    "time": "2016-04-08 03:22:40",
     "許可證字號": "內衛藥製字第003332號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,12 +14,12 @@
     "通關簽審文件編號": "DHY01200333207",
     "中文品名": "必治痒藥膏（外用）",
     "英文品名": "ANTIPRURITIC OINTMENT FOR EXTERNAL USE \"MAY SEE\"",
-    "適應症": "皮膚病、一切外傷（刀傷、擦傷、火傷）、搔癢症、濕疹、汗疹、毒蟲咬傷、螫傷",
+    "適應症": "皮膚搔癢症、昆蟲刺螫症、急慢性蕁麻疹之搔癢、神經性皮膚炎、汗疹等之搔癢緩解。",
     "劑型": "360軟膏劑",
-    "包裝": "軟管裝",
-    "藥品類別": "07須經醫師指示使用",
+    "包裝": "1000公克以下鋁軟管裝",
+    "藥品類別": "17醫師藥師藥劑生指示藥品",
     "管制藥品分類級別": "",
-    "主成分略述": "CHLORPHENIRAMINE MALEATE, LIDOCAINE, HEXACHLOROPHENE, CAMPHOR, MENTHOL, METHYL SALICYLATE",
+    "主成分略述": "CHLORPHENIRAMINE MALEATE, LIDOCAINE, CAMPHOR, MENTHOL, METHYL SALICYLATE",
     "限制項目": [
         "01國產"
     ],
@@ -53,14 +53,6 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8404601800",
-            "成分名稱": "HEXACHLOROPHENE",
-            "含量描述": "",
-            "含量": "1.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "8408000100",
             "成分名稱": "CAMPHOR",
             "含量描述": "",
@@ -86,6 +78,10 @@
     ],
     "仿單外盒": [
         {
+            "title": "必治痒藥膏(外用)仿單-105-03-08.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12003332&Seq=004&Type=9"
+        },
+        {
             "title": "01033320001-103-01-23.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12003332&Seq=003&Type=9"
         },
@@ -96,6 +92,14 @@
         {
             "title": "120033320001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12003332&Seq=001&Type=9"
+        },
+        {
+            "title": "必治痒藥膏(外用)軟管-105-03-08.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12003332&Seq=002&Type=8"
+        },
+        {
+            "title": "必治痒藥膏(外用)標籤-105-03-08.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12003332&Seq=001&Type=8"
         }
     ]
 }
