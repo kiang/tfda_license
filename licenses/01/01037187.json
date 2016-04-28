@@ -1,7 +1,7 @@
 {
     "code": "01037187",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01037187",
-    "time": "2016-04-22 04:53:58",
+    "time": "2016-04-29 04:45:54",
     "許可證字號": "衛署藥製字第037187號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -39,23 +39,51 @@
             "成分類別": "主成分",
             "成分代碼": "0812100530",
             "成分名稱": "NEOMYCIN SULFATE",
-            "含量描述": "(POTENCY) 3.5",
-            "含量": "",
+            "含量描述": "(POTENCY)",
+            "含量": "3.5000000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "8406000910",
             "成分名稱": "FLUOCINOLONE ACETONIDE",
-            "含量描述": "0.25",
+            "含量描述": "",
+            "含量": "0.2500000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812100530",
+            "成分名稱": "NEOMYCIN SULFATE",
+            "含量描述": "(POTENCY)",
+            "含量": "3.5000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8406000910",
+            "成分名稱": "FLUOCINOLONE ACETONIDE",
+            "含量描述": "",
             "含量": "0.2500000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
+            "title": "恩-福新乳膏仿單(無香料)-105-04-20.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01037187&Seq=003&Type=9"
+        },
+        {
+            "title": "恩-福新乳膏仿單(有香料)-105-04-20.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01037187&Seq=002&Type=9"
+        },
+        {
             "title": "恩-福新仿單-2014-03-25.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01037187&Seq=001&Type=9"
+        },
+        {
+            "title": "Neo-Fluocin 外盒標籤-105-04-20.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01037187&Seq=003&Type=8"
         },
         {
             "title": "恩-福新標籤-2014-03-25.pdf",
