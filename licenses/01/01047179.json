@@ -1,7 +1,7 @@
 {
     "code": "01047179",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01047179",
-    "time": "2015-08-23 01:04:48",
+    "time": "2016-05-06 03:21:11",
     "許可證字號": "衛署藥製字第047179號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -21,13 +21,14 @@
     "管制藥品分類級別": "",
     "主成分略述": "PROCATEROL HYDROCHLORIDE HEMIHYDRATE",
     "限制項目": [
-        "01國產"
+        "01國產",
+        "1R不得製造"
     ],
     "申請商名稱": "0939101200  科進製藥科技股份有限公司",
     "申請商地址": "台北市南港區園區街3號14樓之7",
     "主製造廠": {
-        "製造廠名稱": "0413004300  五洲製藥股份有限公司",
-        "製造廠廠址": "桃園市新屋區赤欄村二鄰１７號之１",
+        "製造廠名稱": "6133050732  科進製藥科技股份有限公司新竹廠",
+        "製造廠廠址": "新竹縣竹北市東海里生醫路2段22、26號4樓",
         "製造廠公司地址": "",
         "製造廠國別": "TAIWAN",
         "製程": ""
@@ -46,12 +47,24 @@
     ],
     "仿單外盒": [
         {
+            "title": "藥製047179_Procatin Liquid 仿單_20160330-105-04-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047179&Seq=004&Type=9"
+        },
+        {
+            "title": "Procatin Liquid 仿單_20150828-104-08-28.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047179&Seq=003&Type=9"
+        },
+        {
             "title": "010471790002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047179&Seq=002&Type=9"
         },
         {
             "title": "010471790001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047179&Seq=001&Type=9"
+        },
+        {
+            "title": "藥製047179_Procatin Liquid 標籤_20160330-105-04-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047179&Seq=001&Type=8"
         }
     ]
 }

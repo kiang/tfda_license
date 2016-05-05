@@ -1,7 +1,7 @@
 {
     "code": "01043283",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01043283",
-    "time": "2016-01-29 04:22:05",
+    "time": "2016-05-06 03:17:38",
     "許可證字號": "衛署藥製字第043283號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "軟管裝 塑膠容器裝",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
     "管制藥品分類級別": "",
-    "主成分略述": "L-MENTHOL, TURPENTINE OIL, METHYL SALICYLATE, EUCALYPTUS OIL (OLEUM EUCALYPTI)",
+    "主成分略述": "L-MENTHOL, METHYL SALICYLATE",
     "限制項目": [
         "01國產"
     ],
@@ -45,30 +45,18 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8410000505",
-            "成分名稱": "TURPENTINE OIL",
-            "含量描述": "15",
-            "含量": "15.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "8424400200",
             "成分名稱": "METHYL SALICYLATE",
             "含量描述": "120",
             "含量": "120.0000000000",
             "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9600012200",
-            "成分名稱": "EUCALYPTUS OIL (OLEUM EUCALYPTI)",
-            "含量描述": "20",
-            "含量": "20.0000000000",
-            "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "人生-面達新酸痛軟膏 new-105-04-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043283&Seq=004&Type=9"
+        },
         {
             "title": "010432830003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043283&Seq=003&Type=9"
@@ -80,6 +68,14 @@
         {
             "title": "010432830001.JPG",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043283&Seq=001&Type=9"
+        },
+        {
+            "title": "面達新Q支盒30g-105-04-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043283&Seq=002&Type=8"
+        },
+        {
+            "title": "軟膏管30g-105-04-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043283&Seq=001&Type=8"
         }
     ]
 }

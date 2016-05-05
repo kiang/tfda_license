@@ -1,7 +1,7 @@
 {
     "code": "01025649",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01025649",
-    "time": "2015-08-22 21:48:36",
+    "time": "2016-05-06 03:05:18",
     "許可證字號": "衛署藥製字第025649號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,14 +12,14 @@
     "舊證字號": "00000000",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102564902",
-    "中文品名": "溫不妊３０糖衣錠",
-    "英文品名": "WINSTOP 30 S.C. TABLETS \"WINSTON\"",
+    "中文品名": "\"溫士頓\"溫不妊30膜衣錠",
+    "英文品名": "WINSTOP 30  F.C. TABLETS \"WINSTON\"",
     "適應症": "抑制排卵",
-    "劑型": "119糖衣錠",
-    "包裝": "2-1000錠鋁箔盒裝 、玻璃瓶裝",
+    "劑型": "116膜衣錠",
+    "包裝": "2-1000錠鋁箔盒裝 塑膠瓶裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "主成分略述": "ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ TO ETHINYLESTRADIOL), NORGESTREL L-",
+    "主成分略述": "ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ TO ETHINYLESTRADIOL), NORGESTREL L-, Opadry II 85F19250 Clear, OPADRY 85F58789 White, WATER PURIFIED ( EQ TO AQUEOUS PURIFIED OR PURIFIED WATER )",
     "限制項目": [
         "01國產",
         "1G不得製造"
@@ -40,7 +40,7 @@
             "成分類別": "主成分",
             "成分代碼": "6816000600",
             "成分名稱": "ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ TO ETHINYLESTRADIOL)",
-            "含量描述": "0.03",
+            "含量描述": "",
             "含量": "0.0300000000",
             "單位": "MG"
         },
@@ -48,9 +48,55 @@
             "成分類別": "主成分",
             "成分代碼": "6832001002",
             "成分名稱": "NORGESTREL L-",
-            "含量描述": "0.15",
+            "含量描述": "",
             "含量": "0.1500000000",
             "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9602090162",
+            "成分名稱": "Opadry II 85F19250 Clear",
+            "含量描述": "",
+            "含量": "0.8000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9602090168",
+            "成分名稱": "OPADRY 85F58789 White",
+            "含量描述": "",
+            "含量": "4.2000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9604001100",
+            "成分名稱": "WATER PURIFIED ( EQ TO AQUEOUS PURIFIED OR PURIFIED WATER )",
+            "含量描述": "(不存在最終成品)",
+            "含量": "",
+            "單位": "Q.S."
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "溫不妊30說明書_20151215-105-03-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025649&Seq=001&Type=9"
+        },
+        {
+            "title": "溫不妊30鋁箔袋_20151215-105-03-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025649&Seq=004&Type=8"
+        },
+        {
+            "title": "溫不妊30標籤_20151215-105-03-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025649&Seq=003&Type=8"
+        },
+        {
+            "title": "溫不妊30彩盒_20151215-105-03-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025649&Seq=002&Type=8"
+        },
+        {
+            "title": "溫不妊30PTP_20151215-105-03-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025649&Seq=001&Type=8"
         }
     ]
 }

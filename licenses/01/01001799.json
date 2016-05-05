@@ -1,7 +1,7 @@
 {
     "code": "01001799",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01001799",
-    "time": "2015-08-22 18:27:36",
+    "time": "2016-05-06 03:00:46",
     "許可證字號": "衛署藥製字第001799號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,19 +12,19 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00100179902",
-    "中文品名": "\"榮山\" 胃王錠",
+    "中文品名": "胃王錠",
     "英文品名": "WE-WANG TABLETS",
     "適應症": "胃、十二指腸潰瘍、胃痛、胃酸過多症、胃痙攣、胃炎",
     "劑型": "110錠劑",
-    "包裝": "12,36,50,100,500粒瓶裝",
+    "包裝": "12、36、50、100、500、1000粒瓶裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "主成分略述": "BUTYLSCOPOLAMINE BROMIDE (EQ TO HYOSCINE-N-BUTYLBROMIDE), DICYCLOMINE HCL, CHLORDIAZEPOXIDE HCL, MAGNESIUM ALUMINUM HYDROXIDE CO-DRIED GEL, MAGNESIUM OXIDE, CHLOROPHYLL SODIUM COPPER",
+    "主成分略述": "BUTYLSCOPOLAMINE BROMIDE (EQ TO HYOSCINE-N-BUTYLBROMIDE), DICYCLOMINE HCL, CHLORDIAZEPOXIDE HCL, MAGNESIUM ALUMINUM HYDROXIDE CO-DRIED GEL, MAGNESIUM OXIDE, SODIUM COPPER CHLOROPHYLLIN, SYNTHETIC ALUMINUM SILICATE",
     "限制項目": [
         "09委託製造"
     ],
-    "申請商名稱": "1417721200  榮山藥品股份有限公司",
-    "申請商地址": "高雄市三民區民享里重慶街１１６號",
+    "申請商名稱": "0900822200  美西製藥有限公司",
+    "申請商地址": "高雄市仁武區仁武里工業一路９號",
     "主製造廠": {
         "製造廠名稱": "0900822300  美西製藥有限公司",
         "製造廠廠址": "高雄市仁武區仁武里工業一路９號",
@@ -77,10 +77,18 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8416000640",
-            "成分名稱": "CHLOROPHYLL SODIUM COPPER",
+            "成分代碼": "8416000642",
+            "成分名稱": "SODIUM COPPER CHLOROPHYLLIN",
             "含量描述": "",
             "含量": "3.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9600002020",
+            "成分名稱": "SYNTHETIC ALUMINUM SILICATE",
+            "含量描述": "",
+            "含量": "60.0000000000",
             "單位": "MG"
         }
     ],

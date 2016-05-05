@@ -1,7 +1,7 @@
 {
     "code": "12002368",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12002368",
-    "time": "2015-12-25 04:17:50",
+    "time": "2016-05-06 03:36:20",
     "許可證字號": "內衛藥製字第002368號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "10、30、100、500顆盒裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "主成分略述": "TETRACYCLINE HCL (EQ TO TETRACYCLINE HYDROCHLORIDE)",
+    "主成分略述": "TETRACYCLINE HCL (EQ TO TETRACYCLINE HYDROCHLORIDE), GLUCOSAMINE HYDROCHLORIDE",
     "限制項目": [
         "01國產"
     ],
@@ -41,6 +41,14 @@
             "成分名稱": "TETRACYCLINE HCL (EQ TO TETRACYCLINE HYDROCHLORIDE)",
             "含量描述": "(POTENCY)",
             "含量": "250.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9600013200",
+            "成分名稱": "GLUCOSAMINE HYDROCHLORIDE",
+            "含量描述": "",
+            "含量": "125.0000000000",
             "單位": "MG"
         }
     ],

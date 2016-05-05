@@ -1,7 +1,7 @@
 {
     "code": "08017816",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08017816",
-    "time": "2016-03-25 05:01:24",
+    "time": "2016-05-06 04:01:10",
     "許可證字號": "衛署粧輸字第017816號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "500 毫升以下管裝 附外盒",
     "化粧品類別": "0110染髮劑",
     "": "",
-    "主成分略述": "AMMONIUM HYDROXIDE 25%, RESORCINOL (RESORCIN), P-AMINOPHENOL, 4-AMINO-2-HYDROXYTOLUENE, P-PHENYLENEDIAMINE, 2-METHYL-5-HYDROXYETHYLAMINOPHENOL, 2-AMINO-3-HYDROXYPYRIDINE, 2,4-DIAMINOPHENOXYETHANOL HYDROCHLORIDE",
+    "主成分略述": "AMMONIUM HYDROXIDE 25%, RESORCINOL (RESORCIN), P-AMINOPHENOL, 2-METHYLRESORCINOL, 4-AMINO-2-HYDROXYTOLUENE, TOLUENE-2,5-DIAMINE, 2-AMINO-3-HYDROXYPYRIDINE, 2,4-DIAMINOPHENOXYETHANOL HYDROCHLORIDE",
     "限制項目": [
         "02輸入"
     ],
@@ -48,7 +48,7 @@
             "成分代碼": "8428000500",
             "成分名稱": "RESORCINOL (RESORCIN)",
             "含量描述": "",
-            "含量": "0.1000000000",
+            "含量": "0.0600000000",
             "單位": "%(W\/W)"
         },
         {
@@ -56,7 +56,15 @@
             "成分代碼": "9200035440",
             "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
-            "含量": "0.2500000000",
+            "含量": "0.4500000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200038920",
+            "成分名稱": "2-METHYLRESORCINOL",
+            "含量描述": "",
+            "含量": "0.0400000000",
             "單位": "%(W\/W)"
         },
         {
@@ -64,23 +72,15 @@
             "成分代碼": "9200039000",
             "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
             "含量描述": "",
-            "含量": "0.0600000000",
+            "含量": "0.0500000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9400003200",
-            "成分名稱": "P-PHENYLENEDIAMINE",
+            "成分代碼": "9400004300",
+            "成分名稱": "TOLUENE-2,5-DIAMINE",
             "含量描述": "",
-            "含量": "0.1700000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9900084700",
-            "成分名稱": "2-METHYL-5-HYDROXYETHYLAMINOPHENOL",
-            "含量描述": "",
-            "含量": "0.0600000000",
+            "含量": "0.6500000000",
             "單位": "%(W\/W)"
         },
         {
@@ -88,7 +88,7 @@
             "成分代碼": "9900084800",
             "成分名稱": "2-AMINO-3-HYDROXYPYRIDINE",
             "含量描述": "",
-            "含量": "0.0500000000",
+            "含量": "0.0560000000",
             "單位": "%(W\/W)"
         },
         {
@@ -96,7 +96,7 @@
             "成分代碼": "9900092100",
             "成分名稱": "2,4-DIAMINOPHENOXYETHANOL HYDROCHLORIDE",
             "含量描述": "",
-            "含量": "0.0300000000",
+            "含量": "0.0200000000",
             "單位": "%(W\/W)"
         }
     ],
@@ -112,6 +112,14 @@
         {
             "title": "080178160001___20110419.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08017816&Seq=001&Type=9"
+        },
+        {
+            "title": "08017816-2-105-04-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08017816&Seq=010&Type=8"
+        },
+        {
+            "title": "08017816-1-105-04-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08017816&Seq=009&Type=8"
         },
         {
             "title": "08017816-02-104-06-03.pdf",

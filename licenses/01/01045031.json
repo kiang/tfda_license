@@ -1,7 +1,7 @@
 {
     "code": "01045031",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01045031",
-    "time": "2015-08-23 03:14:13",
+    "time": "2016-05-06 03:19:07",
     "許可證字號": "衛署藥製字第045031號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "12-1000錠塑膠瓶裝 鋁箔盒裝 2000錠塑膠瓶裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "主成分略述": "NEUSILIN (MAGNESIUM ALUMINO SILICATE), DIHYDROXYALUMINUM ALLANTOINATE",
+    "主成分略述": "MAGNESIUM ALUMINOMETASILICATE, DIHYDROXYALUMINUM ALLANTOINATE",
     "限制項目": [
         "01國產"
     ],
@@ -37,9 +37,9 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "5604009500",
-            "成分名稱": "NEUSILIN (MAGNESIUM ALUMINO SILICATE)",
-            "含量描述": "(FH2)",
+            "成分代碼": "5604000512",
+            "成分名稱": "MAGNESIUM ALUMINOMETASILICATE",
+            "含量描述": "",
             "含量": "450.0000000000",
             "單位": "MG"
         },
@@ -66,6 +66,12 @@
         {
             "title": "圖片",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045031&Seq=413&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "010450310001-104-09-25.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045031&Seq=001&Type=9"
         }
     ]
 }

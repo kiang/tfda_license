@@ -1,7 +1,7 @@
 {
     "code": "07003287",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07003287",
-    "time": "2015-08-23 22:52:32",
+    "time": "2016-05-06 03:59:07",
     "許可證字號": "衛署粧製字第003287號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "500GM以下瓶裝 管裝",
     "化粧品類別": "0711防晒乳液",
     "": "",
-    "主成分略述": "OCTYL METHOXYCINNAMATE (PARSOL KCX), BUTYL METHOXYDIBENZOYLMETHANE, TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)",
+    "主成分略述": "OCTYL METHOXYCINNAMATE (PARSOL KCX), BUTYL METHOXYDIBENZOYLMETHANE",
     "限制項目": [
         "01國產"
     ],
@@ -50,14 +50,12 @@
             "含量描述": "",
             "含量": "3.0000000000",
             "單位": "%(W\/W)"
-        },
+        }
+    ],
+    "仿單外盒": [
         {
-            "成分類別": "主成分",
-            "成分代碼": "9602020800",
-            "成分名稱": "TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)",
-            "含量描述": "",
-            "含量": "5.0000000000",
-            "單位": "%(W\/W)"
+            "title": "07003287-105-04-27.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003287&Seq=001&Type=8"
         }
     ]
 }

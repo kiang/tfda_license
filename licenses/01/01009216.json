@@ -1,7 +1,7 @@
 {
     "code": "01009216",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01009216",
-    "time": "2016-01-29 04:11:55",
+    "time": "2016-05-06 03:01:36",
     "許可證字號": "衛署藥製字第009216號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "6-1000公克鐵罐裝",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
     "管制藥品分類級別": "",
-    "主成分略述": "SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE), MAGNESIUM CARBONATE, CINNAMON (CINNAMON CORTEX ) (CINNAMON BARK), RHEUM, GENTIAN POWDER, GLYCYRRHIZA (LIQUORICE)",
+    "主成分略述": "SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE), MAGNESIUM CARBONATE, CINNAMON (CINNAMON CORTEX ) (CINNAMON BARK), RHEUM, GENTIAN POWDER, CLOVE, GLYCYRRHIZA (LIQUORICE)",
     "限制項目": [
         "01國產"
     ],
@@ -73,6 +73,14 @@
             "成分名稱": "GENTIAN POWDER",
             "含量描述": "13",
             "含量": "13.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "7200000300",
+            "成分名稱": "CLOVE",
+            "含量描述": "25",
+            "含量": "25.0000000000",
             "單位": "MG"
         },
         {

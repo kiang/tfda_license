@@ -1,7 +1,7 @@
 {
     "code": "10000735",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000735",
-    "time": "2015-08-23 13:36:17",
+    "time": "2016-05-06 03:35:53",
     "許可證字號": "衛署菌疫輸字第000735號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "1小瓶 附1小公撮小瓶附溶液",
     "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "主成分略述": "GLUCAGON, WATER FOR INJECTION",
+    "主成分略述": "GLUCAGON",
     "限制項目": [
         "02輸入"
     ],
@@ -34,6 +34,15 @@
     },
     "CCC號列": "30043900005 醫藥製劑，含有其他內分泌素者Medicaments, containing other hormones",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "F110034100  Novo Nordisk A\/S",
+            "製造廠廠址": "Brogaardsvej 66, DK-2820 Gentofte, Denmark",
+            "製造廠公司地址": "",
+            "製造廠國別": "DENMARK",
+            "製程": "原料藥製造廠"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -42,14 +51,6 @@
             "含量描述": "",
             "含量": "1.0000000000",
             "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9604000900",
-            "成分名稱": "WATER FOR INJECTION",
-            "含量描述": "",
-            "含量": "1.0000000000",
-            "單位": "ML"
         }
     ],
     "仿單外盒": [
@@ -60,6 +61,14 @@
         {
             "title": "100007350001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000735&Seq=001&Type=9"
+        },
+        {
+            "title": "8-9401-10-303-4_v1-11 GlucaGen STF 2013-104-09-25.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000735&Seq=004&Type=8"
+        },
+        {
+            "title": "GLUCAGEN 1MG-104-09-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000735&Seq=003&Type=8"
         },
         {
             "title": "100007350002.jpg",

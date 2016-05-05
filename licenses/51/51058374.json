@@ -1,7 +1,7 @@
 {
     "code": "51058374",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058374",
-    "time": "2015-09-25 04:37:54",
+    "time": "2016-05-06 03:40:01",
     "許可證字號": "衛部藥製字第058374號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -44,14 +44,34 @@
             "單位": "MG"
         }
     ],
-    "仿單外盒": [
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "膜衣錠",
+        "特殊劑型": "",
+        "顏色": "蘋果綠色",
+        "特殊氣味": "",
+        "刻痕": "2",
+        "形狀": "圓凸形",
+        "標記一": "銀杏葉圖案",
+        "標記二": "ST220"
+    },
+    "藥物辨識外觀圖片": [
         {
-            "title": "Golden Energy Ginkgo Biloba F C Tablets 40mg-20150716-104-07-16.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058374&Seq=002&Type=9"
+            "title": "Golden Energy Ginkgo Biloba F.C. Tablets 40mg 058374-104-12-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058374&Seq=003&Type=10"
         },
         {
-            "title": "510583740001-103-10-06.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058374&Seq=001&Type=9"
+            "title": "20150106182143288-104-01-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058374&Seq=002&Type=10"
+        },
+        {
+            "title": "活力沛銀杏膜衣錠---外觀照片-103-10-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058374&Seq=001&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "Golden Energy Ginkgo Biloba FCT 40mg (Lit)(印刷版次2)-104-12-25.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058374&Seq=003&Type=9"
         },
         {
             "title": "510583740004-103-10-06.pdf",
