@@ -1,7 +1,7 @@
 {
     "code": "01029374",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01029374",
-    "time": "2016-05-06 04:59:28",
+    "time": "2016-05-13 04:55:41",
     "許可證字號": "衛署藥製字第029374號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -44,6 +44,34 @@
             "單位": "MG"
         }
     ],
-    "藥物辨識詳細資料": [],
-    "藥物辨識外觀圖片": []
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "淡紅橙",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "圓扁形",
+        "標記一": "S.D",
+        "標記二": "50"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "圖片",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029374&Seq=188&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "020293740002___20110920.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029374&Seq=002&Type=9"
+        },
+        {
+            "title": "020293740001___20110920.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029374&Seq=001&Type=9"
+        },
+        {
+            "title": "020293740003___20110920.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029374&Seq=001&Type=8"
+        }
+    ]
 }
