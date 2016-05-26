@@ -1,7 +1,7 @@
 {
     "code": "01011224",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01011224",
-    "time": "2016-05-20 04:40:27",
+    "time": "2016-05-27 04:52:17",
     "許可證字號": "衛署藥製字第011224號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -56,11 +56,19 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "D15-膠囊-104-09-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01011224&Seq=043&Type=10"
+        },
+        {
             "title": "圖片",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01011224&Seq=042&Type=10"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "D15-依1041404689公告變更DOH-105-03-15.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01011224&Seq=004&Type=9"
+        },
         {
             "title": "010112240002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01011224&Seq=003&Type=9"
@@ -72,6 +80,10 @@
         {
             "title": "010112240001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01011224&Seq=001&Type=9"
+        },
+        {
+            "title": "D15-罐裝-104-09-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01011224&Seq=001&Type=8"
         }
     ]
 }
