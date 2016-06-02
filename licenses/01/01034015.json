@@ -1,7 +1,7 @@
 {
     "code": "01034015",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01034015",
-    "time": "2016-05-27 03:59:20",
+    "time": "2016-06-03 03:51:16",
     "許可證字號": "衛署藥製字第034015號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,11 +12,11 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00103401501",
-    "中文品名": "\"羅得\" 安克疹乳膏５０公絲\/公克（艾賽可威）",
+    "中文品名": "\"羅得\"安克疹乳膏50毫克\/公克(艾賽可威)",
     "英文品名": "ANCLOZIN CREAM 50MG\/GM \"ROOT\" (ACYCLOVIR)",
     "適應症": "由單純泡疹引起之感染。",
     "劑型": "363乳膏劑",
-    "包裝": "1000公克以下",
+    "包裝": "1000公克以下鋁軟管裝 1000公克以下塑膠瓶裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
     "主成分略述": "ACYCLOVIR",
@@ -39,12 +39,28 @@
             "成分類別": "主成分",
             "成分代碼": "0818000100",
             "成分名稱": "ACYCLOVIR",
-            "含量描述": "50",
+            "含量描述": "",
+            "含量": "50.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0818000100",
+            "成分名稱": "ACYCLOVIR",
+            "含量描述": "",
             "含量": "50.0000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "010340150001 薄荷味仿單-105-05-27.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034015&Seq=006&Type=9"
+        },
+        {
+            "title": "010340150001 原味仿單-105-05-27.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034015&Seq=005&Type=9"
+        },
         {
             "title": "PO-10 安克疹 說明書-104-09-30.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034015&Seq=004&Type=9"
@@ -60,6 +76,30 @@
         {
             "title": "010340150001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034015&Seq=001&Type=9"
+        },
+        {
+            "title": "010340150004 薄荷味軟管標籤-105-05-27.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034015&Seq=006&Type=8"
+        },
+        {
+            "title": "010340150004 原味軟管標籤-105-05-27.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034015&Seq=005&Type=8"
+        },
+        {
+            "title": "010340150003 薄荷味標籤-105-05-27.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034015&Seq=004&Type=8"
+        },
+        {
+            "title": "010340150003 原味標籤-105-05-27.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034015&Seq=003&Type=8"
+        },
+        {
+            "title": "010340150002 薄荷味外盒-105-05-27.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034015&Seq=002&Type=8"
+        },
+        {
+            "title": "010340150002 原味外盒-105-05-27.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034015&Seq=001&Type=8"
         }
     ]
 }
