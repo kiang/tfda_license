@@ -1,7 +1,7 @@
 {
     "code": "02023921",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023921",
-    "time": "2015-08-23 12:07:11",
+    "time": "2016-06-10 03:16:20",
     "許可證字號": "衛署藥輸字第023921號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,7 +13,7 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "null",
     "中文品名": "沛眠錠7.5毫克",
-    "英文品名": "PMS-ZOPICLONE 7.5MG TABLETS",
+    "英文品名": "pms-ZOPICLONE 7.5MG TABLETS",
     "適應症": "失眠症。",
     "劑型": "116膜衣錠",
     "包裝": "2-1000粒塑膠瓶裝",
@@ -35,6 +35,15 @@
     },
     "CCC號列": "30049099432 醫藥製劑，含有唑匹可隆者Medicaments, containing Zopiclone",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "0510620700  生達化學製藥股份有限公司二廠",
+            "製造廠廠址": "台南市新營區開元路１５４號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "貼標廠"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -59,6 +68,16 @@
         {
             "title": "圖片",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023921&Seq=438&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "2211010 S0303 Pms-Zopiclone 沛眠LT-104-12-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023921&Seq=002&Type=9"
+        },
+        {
+            "title": "2211010 S0303 Pms-Zopiclone 沛眠LT-104-12-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023921&Seq=001&Type=9"
         }
     ]
 }

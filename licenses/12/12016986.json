@@ -1,7 +1,7 @@
 {
     "code": "12016986",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12016986",
-    "time": "2015-12-25 04:18:27",
+    "time": "2016-06-10 03:19:09",
     "許可證字號": "內衛藥製字第016986號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "10公撮1、10、50小瓶裝 1公撮10、50、100、200安瓿瓶裝",
     "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "主成分略述": "HYDROXOCOBALAMIN",
+    "主成分略述": "HYDROXOCOBALAMIN ACETATE",
     "限制項目": [
         "01國產"
     ],
@@ -37,14 +37,18 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "8811200400",
-            "成分名稱": "HYDROXOCOBALAMIN",
-            "含量描述": "1000",
-            "含量": "1000.0000000000",
-            "單位": "MCG"
+            "成分代碼": "8811200420",
+            "成分名稱": "HYDROXOCOBALAMIN ACETATE",
+            "含量描述": "(eq. to HYDROXOCOBALAMIN 1000MCG)",
+            "含量": "1.0450000000",
+            "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "12016986_大豐持續性維生素B12-說明書-105-05-03.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12016986&Seq=003&Type=9"
+        },
         {
             "title": "010169860001-2014-03-10.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12016986&Seq=002&Type=9"
@@ -52,6 +56,10 @@
         {
             "title": "120169860001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12016986&Seq=001&Type=9"
+        },
+        {
+            "title": "12016986_大豐持續性維生素B12-標籤-105-05-03.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12016986&Seq=005&Type=8"
         },
         {
             "title": "010169860005-2014-03-10.pdf",

@@ -1,7 +1,7 @@
 {
     "code": "02018463",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02018463",
-    "time": "2016-03-25 04:51:27",
+    "time": "2016-06-10 03:15:14",
     "許可證字號": "衛署藥輸字第018463號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "20ML,30ML,50ML小瓶 100ML,150ML,200ML瓶裝 30ML,50ML,75ML,100ML,125ML塑膠注射針筒 每一百支盒裝",
     "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "主成分略述": "TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL), IOVERSOL",
+    "主成分略述": "IOVERSOL",
     "限制項目": [
         "02輸入"
     ],
@@ -37,14 +37,6 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "4008001000",
-            "成分名稱": "TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL)",
-            "含量描述": "",
-            "含量": "3.6000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "9200034700",
             "成分名稱": "IOVERSOL",
             "含量描述": "",
@@ -60,6 +52,10 @@
         {
             "title": "020184630001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02018463&Seq=001&Type=9"
+        },
+        {
+            "title": "2. 018463-Optiray 320 標籤、外盒-105-02-19.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02018463&Seq=001&Type=8"
         }
     ]
 }

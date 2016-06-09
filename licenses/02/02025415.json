@@ -1,7 +1,7 @@
 {
     "code": "02025415",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025415",
-    "time": "2015-08-23 12:28:55",
+    "time": "2016-06-10 04:10:34",
     "許可證字號": "衛署藥輸字第025415號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "6-900包(每包1.1克)鋁箔袋盒裝",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
     "管制藥品分類級別": "",
-    "主成分略述": "CHLORPHENIRAMINE MALEATE, ACETAMINOPHEN (EQ TO PARACETAMOL), ETHENZAMIDE (ETHOXYBENZAMIDE), CAFFEINE ANHYDROUS, TIPEPIDINE HIBENZATE, KAKKONTOO EXTRACT",
+    "主成分略述": "CHLORPHENIRAMINE MALEATE, EPHEDRAE HERBA, ACETAMINOPHEN (EQ TO PARACETAMOL), ETHENZAMIDE (ETHOXYBENZAMIDE), CAFFEINE ANHYDROUS, TIPEPIDINE HIBENZATE, CINNAMON BARK, GINGER, PEONY ROOT, GLYCYRRHIZA (LIQUORICE), JUJUBE, PUERARIA ROOT, KAKKONTOO EXTRACT",
     "限制項目": [
         "02輸入"
     ],
@@ -82,6 +82,62 @@
             "含量描述": "",
             "含量": "500.0000000000",
             "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "1212003620",
+            "成分名稱": "EPHEDRAE HERBA",
+            "含量描述": "",
+            "含量": "0.4000000000",
+            "單位": "GM"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5610000109",
+            "成分名稱": "CINNAMON BARK",
+            "含量描述": "",
+            "含量": "0.3000000000",
+            "單位": "GM"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5610000400",
+            "成分名稱": "GINGER",
+            "含量描述": "",
+            "含量": "0.1000000000",
+            "單位": "GM"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8412001502",
+            "成分名稱": "PEONY ROOT",
+            "含量描述": "",
+            "含量": "0.3000000000",
+            "單位": "GM"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200004400",
+            "成分名稱": "GLYCYRRHIZA (LIQUORICE)",
+            "含量描述": "",
+            "含量": "0.2000000000",
+            "單位": "GM"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200024810",
+            "成分名稱": "JUJUBE",
+            "含量描述": "",
+            "含量": "0.4000000000",
+            "單位": "GM"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200032110",
+            "成分名稱": "PUERARIA ROOT",
+            "含量描述": "",
+            "含量": "0.8000000000",
+            "單位": "GM"
         }
     ],
     "仿單外盒": [

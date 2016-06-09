@@ -1,7 +1,7 @@
 {
     "code": "08017827",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08017827",
-    "time": "2016-03-25 05:01:32",
+    "time": "2016-06-10 03:36:08",
     "許可證字號": "衛署粧輸字第017827號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "500 毫升以下管裝 附外盒",
     "化粧品類別": "0110染髮劑",
     "": "",
-    "主成分略述": "AMMONIUM HYDROXIDE 25%, RESORCINOL (RESORCIN), M-AMINOPHENOL SULFATE, P-AMINOPHENOL, P-PHENYLENEDIAMINE, TOLUENE-2,5-DIAMINE SULFATE, 2,4-DIAMINOPHENOXYETHANOL HYDROCHLORIDE",
+    "主成分略述": "AMMONIUM HYDROXIDE 25%, RESORCINOL (RESORCIN), m-Aminophenol, 2-METHYLRESORCINOL, TOLUENE-2,5-DIAMINE SULFATE, 2,4-DIAMINOPHENOXYETHANOL HYDROCHLORIDE",
     "限制項目": [
         "02輸入"
     ],
@@ -48,31 +48,23 @@
             "成分代碼": "8428000500",
             "成分名稱": "RESORCINOL (RESORCIN)",
             "含量描述": "",
-            "含量": "0.0300000000",
+            "含量": "0.0800000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035430",
-            "成分名稱": "M-AMINOPHENOL SULFATE",
-            "含量描述": "",
-            "含量": "0.0080000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200035440",
-            "成分名稱": "P-AMINOPHENOL",
-            "含量描述": "",
-            "含量": "0.1000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9400003200",
-            "成分名稱": "P-PHENYLENEDIAMINE",
+            "成分代碼": "9200035470",
+            "成分名稱": "m-Aminophenol",
             "含量描述": "",
             "含量": "0.0500000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200038920",
+            "成分名稱": "2-METHYLRESORCINOL",
+            "含量描述": "",
+            "含量": "0.1100000000",
             "單位": "%(W\/W)"
         },
         {
@@ -80,7 +72,7 @@
             "成分代碼": "9900066200",
             "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
             "含量描述": "",
-            "含量": "0.0500000000",
+            "含量": "0.1800000000",
             "單位": "%(W\/W)"
         },
         {
@@ -90,12 +82,6 @@
             "含量描述": "",
             "含量": "0.0100000000",
             "單位": "%(W\/W)"
-        }
-    ],
-    "仿單外盒": [
-        {
-            "title": "080178270001___20110222.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08017827&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "06017174",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06017174",
-    "time": "2016-04-29 04:57:57",
+    "time": "2016-06-10 03:24:10",
     "許可證字號": "衛署醫器輸字第017174號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,7 +15,7 @@
     "中文品名": "\"微鐵克2\" 革蘭氏陰性菌藥敏卡抗生素-頭孢子菌素類",
     "英文品名": "VITEK 2 Gram Negative AST for Cephalosporin Antibiotics",
     "效能": "用於細菌的藥物感受性試驗。",
-    "醫器規格": "",
+    "醫器規格": "變更項目如下(新增抗生素：Cefixime、Cefmetazole、Cefpirome)：詳如中文仿單核定本。\r\n以下空白。",
     "劑型": "",
     "包裝": "",
     "醫器主類別一": "C免疫學及微生物學裝置",
@@ -42,8 +42,16 @@
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "060171740002-105-06-08.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017174&Seq=002&Type=9"
+        },
+        {
             "title": "06017174-2006-06-29.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017174&Seq=001&Type=9"
+        },
+        {
+            "title": "060171740002-105-06-08.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017174&Seq=001&Type=8"
         }
     ]
 }

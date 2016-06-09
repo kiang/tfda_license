@@ -1,7 +1,7 @@
 {
     "code": "10000456",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000456",
-    "time": "2016-03-25 04:22:32",
+    "time": "2016-06-10 03:18:07",
     "許可證字號": "衛署菌疫輸字第000456號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -30,7 +30,7 @@
         "製造廠廠址": "89 RUE DE L'INSTITUT 1330 RIXENSART, BELGIUM",
         "製造廠公司地址": "",
         "製造廠國別": "BELGIUM",
-        "製程": ""
+        "製程": "行政放行"
     },
     "CCC號列": "30022000008 人類醫藥用疫苗Vaccines for human medicine",
     "藥理治療分類": "",
@@ -41,6 +41,13 @@
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
             "製程": "委託包裝廠(貼標)"
+        },
+        {
+            "製造廠名稱": "F050087000  GLAXOSMITHKLINE BIOLOGICALS S.A.",
+            "製造廠廠址": "PARC DE LA NOIRE EPINE, RUE FLEMING 20, B-1300 WAVRE, BELGIUM",
+            "製造廠公司地址": "",
+            "製造廠國別": "BELGIUM",
+            "製程": "調液、充填及包裝作業"
         }
     ],
     "ingredients": [
@@ -54,6 +61,26 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "020004560001-105-05-19.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000456&Seq=001&Type=9"
+        },
+        {
+            "title": "020004560005-105-05-19.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000456&Seq=010&Type=8"
+        },
+        {
+            "title": "020004560004-105-05-19.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000456&Seq=009&Type=8"
+        },
+        {
+            "title": "020004560003-105-05-19.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000456&Seq=008&Type=8"
+        },
+        {
+            "title": "020004560002-105-05-19.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000456&Seq=007&Type=8"
+        },
         {
             "title": "020004560006-102-11-05.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000456&Seq=006&Type=8"

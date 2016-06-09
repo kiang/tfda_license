@@ -1,7 +1,7 @@
 {
     "code": "02023405",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023405",
-    "time": "2015-11-27 05:10:42",
+    "time": "2016-06-10 03:16:03",
     "許可證字號": "衛署藥輸字第023405號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "10ML安瓿 50ML, 100ML玻璃瓶裝 各100支以下盒裝",
     "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "主成分略述": "EICOSAPENTAENOIC ACID (EPA), DOCOSAHEXAENOIC ACID (DHA), HIGHLY REFINED FISH OIL, TOCOPHEROL ALPHA DL- (EQ TO DL-ALPHA TOCOPHEROL), LECITHIN, GLYCERIN (eq to GLYCEROL)",
+    "主成分略述": "EICOSAPENTAENOIC ACID (EPA), DOCOSAHEXAENOIC ACID (DHA), HIGHLY REFINED FISH OIL, TOCOPHEROL ALPHA DL- (EQ TO DL-ALPHA TOCOPHEROL), LECITHIN",
     "限制項目": [
         "02輸入",
         "56依本署88、07、05衛署藥字第88036748號公告,經本署認定得免除國內進行臨床試驗之新藥"
@@ -50,7 +50,7 @@
             "成分代碼": "4020003400",
             "成分名稱": "EICOSAPENTAENOIC ACID (EPA)",
             "含量描述": "12.5-28.2",
-            "含量": "",
+            "含量": "0.0000000000",
             "單位": "MG"
         },
         {
@@ -58,7 +58,7 @@
             "成分代碼": "4020003500",
             "成分名稱": "DOCOSAHEXAENOIC ACID (DHA)",
             "含量描述": "14.4-30.9",
-            "含量": "",
+            "含量": "0.0000000000",
             "單位": "MG"
         },
         {
@@ -74,7 +74,7 @@
             "成分代碼": "8820000113",
             "成分名稱": "TOCOPHEROL ALPHA DL- (EQ TO DL-ALPHA TOCOPHEROL)",
             "含量描述": "0.15-0.296",
-            "含量": "",
+            "含量": "0.0000000000",
             "單位": "MG"
         },
         {
@@ -84,17 +84,13 @@
             "含量描述": "",
             "含量": "12.0000000000",
             "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9600013500",
-            "成分名稱": "GLYCERIN (eq to GLYCEROL)",
-            "含量描述": "",
-            "含量": "25.0000000000",
-            "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "Omegaven中文仿單_FKT-023405-1512-104-12-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023405&Seq=003&Type=9"
+        },
         {
             "title": "Omegaven Emulsion for I___20100826.V. Infusion中文仿單二.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023405&Seq=002&Type=9"

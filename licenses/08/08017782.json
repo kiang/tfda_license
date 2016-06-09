@@ -1,7 +1,7 @@
 {
     "code": "08017782",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08017782",
-    "time": "2016-03-25 05:00:54",
+    "time": "2016-06-10 03:36:00",
     "許可證字號": "衛署粧輸字第017782號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "500 毫升以下管裝 附外盒",
     "化粧品類別": "0110染髮劑",
     "": "",
-    "主成分略述": "AMMONIUM HYDROXIDE 25%, RESORCINOL (RESORCIN), M-AMINOPHENOL SULFATE, 4-CHLORORESORCINOL, 2-METHYLRESORCINOL, P-PHENYLENEDIAMINE, TOLUENE-2,5-DIAMINE SULFATE",
+    "主成分略述": "AMMONIUM HYDROXIDE 25%, RESORCINOL (RESORCIN), M-AMINOPHENOL SULFATE, 4-CHLORORESORCINOL, 2-METHYLRESORCINOL, TOLUENE-2,5-DIAMINE SULFATE",
     "限制項目": [
         "02輸入"
     ],
@@ -56,7 +56,7 @@
             "成分代碼": "9200035430",
             "成分名稱": "M-AMINOPHENOL SULFATE",
             "含量描述": "",
-            "含量": "0.0600000000",
+            "含量": "0.0700000000",
             "單位": "%(W\/W)"
         },
         {
@@ -64,7 +64,7 @@
             "成分代碼": "9200038910",
             "成分名稱": "4-CHLORORESORCINOL",
             "含量描述": "",
-            "含量": "0.0600000000",
+            "含量": "0.0400000000",
             "單位": "%(W\/W)"
         },
         {
@@ -72,15 +72,7 @@
             "成分代碼": "9200038920",
             "成分名稱": "2-METHYLRESORCINOL",
             "含量描述": "",
-            "含量": "0.1500000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9400003200",
-            "成分名稱": "P-PHENYLENEDIAMINE",
-            "含量描述": "",
-            "含量": "0.2000000000",
+            "含量": "0.2500000000",
             "單位": "%(W\/W)"
         },
         {
@@ -88,18 +80,14 @@
             "成分代碼": "9900066200",
             "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
             "含量描述": "",
-            "含量": "0.2000000000",
+            "含量": "0.6500000000",
             "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
         {
-            "title": "080177820001-104-06-04.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08017782&Seq=002&Type=8"
-        },
-        {
-            "title": "080177820001___20110222.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08017782&Seq=001&Type=8"
+            "title": "08017782-105-05-25.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08017782&Seq=003&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "01014241",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01014241",
-    "time": "2016-05-27 04:53:05",
+    "time": "2016-06-10 03:02:36",
     "許可證字號": "衛署藥製字第014241號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -44,7 +44,27 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "2ml",
+        "特殊劑型": "",
+        "顏色": "無色或微黃色",
+        "特殊氣味": "無",
+        "刻痕": "沒有",
+        "形狀": "長圓柱形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "[外觀]014241待普菲林注射液(2毫升)-104-12-31.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014241&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
+        {
+            "title": "014241待普菲林-E-105-03-30.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014241&Seq=004&Type=9"
+        },
         {
             "title": "待普菲林仿單160307-105-03-21.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014241&Seq=003&Type=9"
@@ -56,6 +76,10 @@
         {
             "title": "待普菲林注射液瓶標160303-105-03-21.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014241&Seq=001&Type=8"
+        },
+        {
+            "title": "[外盒]014241待普菲林注射液(2毫升)-104-12-31.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014241&Seq=003&Type=8"
         }
     ]
 }

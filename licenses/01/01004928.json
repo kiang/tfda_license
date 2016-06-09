@@ -1,7 +1,7 @@
 {
     "code": "01004928",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01004928",
-    "time": "2015-08-22 18:12:15",
+    "time": "2016-06-10 03:01:16",
     "許可證字號": "衛署藥製字第004928號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,15 +16,15 @@
     "英文品名": "BETADERM CREAM",
     "適應症": "蕁麻疹、慢性濕疹、嬰兒性濕疹、銅幣性濕疹、脂漏性濕疹、異位性皮膚炎、類濕疹性皮膚炎、接觸性皮膚炎、神經性皮膚炎、牛皮癬、濕疹性乾癬、皮膚搔癢症",
     "劑型": "360軟膏劑",
-    "包裝": "瓶裝 100公克罐裝 3、5、15、25公克管裝",
+    "包裝": "150克瓶裝 100、450克罐裝 3、5、15、25克管裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "主成分略述": "DIPHENYLPYRALINE HCL, NEOMYCIN (SULFATE), NYLIDRIN HCL ( BUPHENIN HYDROCHLORIDE ), BETAMETHASONE 17-VALERATE",
+    "主成分略述": "DIPHENYLPYRALINE HCL, NEOMYCIN SULFATE, NYLIDRIN HCL ( BUPHENIN HYDROCHLORIDE ), BETAMETHASONE 17-VALERATE",
     "限制項目": [
         "01國產"
     ],
-    "申請商名稱": "0510620200  生達化學製藥股份有限公司",
-    "申請商地址": "台南市新營區土庫里土庫6之20號",
+    "申請商名稱": "0521620200  生達化學製藥股份有限公司二廠",
+    "申請商地址": "台南市新營區開元路１５４號",
     "主製造廠": {
         "製造廠名稱": "0510620700  生達化學製藥股份有限公司二廠",
         "製造廠廠址": "台南市新營區開元路１５４號",
@@ -45,10 +45,10 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "0812109530",
-            "成分名稱": "NEOMYCIN (SULFATE)",
-            "含量描述": "(5MG)",
-            "含量": "3.5000000000",
+            "成分代碼": "0812100530",
+            "成分名稱": "NEOMYCIN SULFATE",
+            "含量描述": "(EQ. TO NEOMYCIN 3.5MG)",
+            "含量": "5.0000000000",
             "單位": "MG"
         },
         {
@@ -70,12 +70,32 @@
     ],
     "仿單外盒": [
         {
+            "title": "0100049280001-104-08-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004928&Seq=003&Type=9"
+        },
+        {
             "title": "010049280002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004928&Seq=002&Type=9"
         },
         {
             "title": "010049280001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004928&Seq=001&Type=9"
+        },
+        {
+            "title": "0100049280004-104-08-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004928&Seq=004&Type=8"
+        },
+        {
+            "title": "0100049280003-104-08-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004928&Seq=003&Type=8"
+        },
+        {
+            "title": "0100049280002-104-08-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004928&Seq=002&Type=8"
+        },
+        {
+            "title": "0100049280001-104-08-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004928&Seq=001&Type=8"
         }
     ]
 }

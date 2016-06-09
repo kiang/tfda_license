@@ -1,7 +1,7 @@
 {
     "code": "08017788",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08017788",
-    "time": "2016-03-25 05:00:59",
+    "time": "2016-06-10 03:36:01",
     "許可證字號": "衛署粧輸字第017788號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "500 毫升以下管裝 附外盒",
     "化粧品類別": "0110染髮劑",
     "": "",
-    "主成分略述": "AMMONIUM HYDROXIDE 25%, 5-AMINO-6-CHLORO-O-CRESOL, P-AMINOPHENOL, 4-AMINO-2-HYDROXYTOLUENE, P-PHENYLENEDIAMINE, 2-METHYL-5-HYDROXYETHYLAMINOPHENOL, 2-AMINO-3-HYDROXYPYRIDINE, 2-AMINO-6-CHLORO-4-NITROPHENOL",
+    "主成分略述": "AMMONIUM HYDROXIDE 25%, 5-AMINO-6-CHLORO-O-CRESOL, P-AMINOPHENOL, 4-AMINO-2-HYDROXYTOLUENE, TOLUENE-2,5-DIAMINE SULFATE, 2-METHYL-5-HYDROXYETHYLAMINOPHENOL, 2-AMINO-3-HYDROXYPYRIDINE, 2-AMINO-6-CHLORO-4-NITROPHENOL",
     "限制項目": [
         "02輸入"
     ],
@@ -48,7 +48,7 @@
             "成分代碼": "9200002650",
             "成分名稱": "5-AMINO-6-CHLORO-O-CRESOL",
             "含量描述": "",
-            "含量": "0.1000000000",
+            "含量": "0.0800000000",
             "單位": "%(W\/W)"
         },
         {
@@ -56,7 +56,7 @@
             "成分代碼": "9200035440",
             "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
-            "含量": "0.2100000000",
+            "含量": "0.1500000000",
             "單位": "%(W\/W)"
         },
         {
@@ -64,15 +64,15 @@
             "成分代碼": "9200039000",
             "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
             "含量描述": "",
-            "含量": "0.0900000000",
+            "含量": "0.0700000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9400003200",
-            "成分名稱": "P-PHENYLENEDIAMINE",
+            "成分代碼": "9900066200",
+            "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
             "含量描述": "",
-            "含量": "0.1000000000",
+            "含量": "0.2000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -80,7 +80,7 @@
             "成分代碼": "9900084700",
             "成分名稱": "2-METHYL-5-HYDROXYETHYLAMINOPHENOL",
             "含量描述": "",
-            "含量": "0.0900000000",
+            "含量": "0.0600000000",
             "單位": "%(W\/W)"
         },
         {
@@ -88,7 +88,7 @@
             "成分代碼": "9900084800",
             "成分名稱": "2-AMINO-3-HYDROXYPYRIDINE",
             "含量描述": "",
-            "含量": "0.1400000000",
+            "含量": "0.1300000000",
             "單位": "%(W\/W)"
         },
         {
@@ -96,7 +96,7 @@
             "成分代碼": "9900084900",
             "成分名稱": "2-AMINO-6-CHLORO-4-NITROPHENOL",
             "含量描述": "",
-            "含量": "0.0800000000",
+            "含量": "0.0500000000",
             "單位": "%(W\/W)"
         }
     ],

@@ -1,7 +1,7 @@
 {
     "code": "01045725",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01045725",
-    "time": "2015-08-23 02:18:36",
+    "time": "2016-06-10 03:11:20",
     "許可證字號": "衛署藥製字第045725號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -21,7 +21,9 @@
     "管制藥品分類級別": "",
     "主成分略述": "ETODOLAC",
     "限制項目": [
-        "01國產"
+        "01國產",
+        "09委託製造",
+        "5C依本署82、07、07衛署藥字第8246232號公告於國內進行臨床試驗且經本署核定之新藥"
     ],
     "申請商名稱": "620101P998  東生華製藥股份有限公司",
     "申請商地址": "台北市南港區園區街3之1號3樓之1",
@@ -46,12 +48,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "010457250002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045725&Seq=002&Type=9"
+            "title": "1056017614-06-附件六-變更後中文仿單擬稿-105-04-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045725&Seq=001&Type=9"
         },
         {
-            "title": "010457250001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045725&Seq=001&Type=9"
+            "title": "1056017614-06-附件六-變更後中文鋁箔擬稿-105-04-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045725&Seq=002&Type=8"
+        },
+        {
+            "title": "06-附件六-變更後中文外盒擬稿-105-04-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045725&Seq=001&Type=8"
         }
     ]
 }

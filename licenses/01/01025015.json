@@ -1,7 +1,7 @@
 {
     "code": "01025015",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01025015",
-    "time": "2015-08-22 21:46:36",
+    "time": "2016-06-10 03:04:29",
     "許可證字號": "衛署藥製字第025015號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,10 +16,10 @@
     "英文品名": "SANVITA INJECTION \"ASTAR\"",
     "適應症": "神經痛、神經炎、關節痛、肌肉痛、糖尿病性神經障害、營養障害性神經疾患、營養不全、惡性貧血、營養性貧血、寄生蟲性貧血",
     "劑型": "270注射劑",
-    "包裝": "安瓿",
+    "包裝": "20公撮10、50、100安瓿",
     "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "主成分略述": "THIAMINE DISULFIDE, PYRIDOXINE HCL, HYDROXOCOBALAMIN",
+    "主成分略述": "THIAMINE DISULFIDE, PYRIDOXINE HCL, HYDROXOCOBALAMIN ACETATE",
     "限制項目": [
         "01國產"
     ],
@@ -39,7 +39,7 @@
             "成分類別": "主成分",
             "成分代碼": "8810100800",
             "成分名稱": "THIAMINE DISULFIDE",
-            "含量描述": "2.5",
+            "含量描述": "",
             "含量": "2.5000000000",
             "單位": "MG"
         },
@@ -47,16 +47,16 @@
             "成分類別": "主成分",
             "成分代碼": "8810600300",
             "成分名稱": "PYRIDOXINE HCL",
-            "含量描述": "5",
+            "含量描述": "",
             "含量": "5.0000000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8811200400",
-            "成分名稱": "HYDROXOCOBALAMIN",
-            "含量描述": "50",
-            "含量": "50.0000000000",
+            "成分代碼": "8811200420",
+            "成分名稱": "HYDROXOCOBALAMIN ACETATE",
+            "含量描述": "(eq to HYDROXOCOBALAMIN 50MCG)",
+            "含量": "52.0000000000",
             "單位": "MCG"
         }
     ],
@@ -64,6 +64,14 @@
         {
             "title": "01025015-103-01-14.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025015&Seq=001&Type=9"
+        },
+        {
+            "title": "盒貼標籤-104-09-19.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025015&Seq=002&Type=8"
+        },
+        {
+            "title": "外盒包裝-104-09-19.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025015&Seq=001&Type=8"
         }
     ]
 }

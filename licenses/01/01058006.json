@@ -1,7 +1,7 @@
 {
     "code": "01058006",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01058006",
-    "time": "2016-02-26 04:37:29",
+    "time": "2016-06-10 03:14:39",
     "許可證字號": "衛署藥製字第058006號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "10毫升塑膠安瓿裝 10毫升玻璃安瓿裝 10、50、100毫升玻璃小瓶裝 50、100、200毫升LDPE塑膠瓶裝 100支以下盒裝",
     "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "主成分略述": "CALCIUM GLUCONATE, CALCIUM SACCHARATE",
+    "主成分略述": "CALCIUM GLUCONATE",
     "限制項目": [
         "01國產",
         "1G依藥品審查準則第64條不得製造玻璃安瓿"
@@ -43,20 +43,28 @@
             "含量描述": "",
             "含量": "100.0000000000",
             "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9600005200",
-            "成分名稱": "CALCIUM SACCHARATE",
-            "含量描述": "",
-            "含量": "3.5000000000",
-            "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
+            "title": "0105800060001-105-05-13.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01058006&Seq=002&Type=9"
+        },
+        {
             "title": "說明書-104-09-24.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01058006&Seq=001&Type=9"
+        },
+        {
+            "title": "010580060004-105-05-13.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01058006&Seq=003&Type=8"
+        },
+        {
+            "title": "010580060003-105-05-13.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01058006&Seq=002&Type=8"
+        },
+        {
+            "title": "010580060002-105-05-13.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01058006&Seq=001&Type=8"
         }
     ]
 }

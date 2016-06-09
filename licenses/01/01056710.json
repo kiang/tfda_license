@@ -1,7 +1,7 @@
 {
     "code": "01056710",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01056710",
-    "time": "2015-11-27 05:07:33",
+    "time": "2016-06-10 03:14:03",
     "許可證字號": "衛署藥製字第056710號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "1400毫升以下玻璃瓶裝",
     "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "主成分略述": "CALCIUM CHLORIDE, POTASSIUM CHLORIDE, SODIUM CHLORIDE, HISTIDINE L- HCL (EQ TO L-HISTIDINE HYDROCHLORIDE), L-ISOLEUCINE, L-LEUCINE, LYSINE L- HCL ( EQ TO L-LYSINE HCL), L-METHIONINE, L-PHENYLALANINE, L-THREONINE, L-TRYPTOPHAN, L-VALINE, GLYCINE (EQ TO AMINOACETIC ACID)(EQ TO GLYCOCOLL), L-ARGININE HCL, SORBITOL",
+    "主成分略述": "CALCIUM CHLORIDE DIHYDRATE, POTASSIUM CHLORIDE, SODIUM CHLORIDE, HISTIDINE L- HCL (EQ TO L-HISTIDINE HYDROCHLORIDE), L-ISOLEUCINE, L-LEUCINE, LYSINE L- HCL ( EQ TO L-LYSINE HCL), L-METHIONINE, L-PHENYLALANINE, L-THREONINE, L-TRYPTOPHAN, L-VALINE, GLYCINE (EQ TO AMINOACETIC ACID)(EQ TO GLYCOCOLL), L-ARGININE HCL, SORBITOL",
     "限制項目": [
         "01國產"
     ],
@@ -37,8 +37,8 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "4012000300",
-            "成分名稱": "CALCIUM CHLORIDE",
+            "成分代碼": "4012000350",
+            "成分名稱": "CALCIUM CHLORIDE DIHYDRATE",
             "含量描述": "",
             "含量": "0.1600000000",
             "單位": "MG"
@@ -158,6 +158,10 @@
     ],
     "仿單外盒": [
         {
+            "title": "康安命補滋仿單-105-04-28.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056710&Seq=004&Type=9"
+        },
+        {
             "title": "康安命補滋注射液仿單-104-08-19.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056710&Seq=003&Type=9"
         },
@@ -168,6 +172,10 @@
         {
             "title": "康安命補滋標仿單___20111123.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056710&Seq=001&Type=9"
+        },
+        {
+            "title": "康安命補滋-標籤-105-04-28.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056710&Seq=004&Type=8"
         },
         {
             "title": "084 標籤 康安命補滋注射液(Con-Amin P-RS Injection)-104-09-10.pdf",
