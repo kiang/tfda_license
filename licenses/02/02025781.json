@@ -1,7 +1,7 @@
 {
     "code": "02025781",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025781",
-    "time": "2016-06-24 03:16:50",
+    "time": "2016-07-01 03:16:06",
     "許可證字號": "衛署藥輸字第025781號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,7 +14,7 @@
     "通關簽審文件編號": "DHA00202578106",
     "中文品名": "\"德國\"委丹扎注射劑",
     "英文品名": "Vidaza Powder for Suspension for Injection",
-    "適應症": "治療骨髓增生不良症候群高危險性的病患High Risk MDS：頑固性貧血併有過量芽細胞(RA with excess blasts，RAEB)、轉變中的頑固性貧血併有過量芽細胞(RAEB in transformation，RAEB-T)、及慢性骨髓單核細胞性白血病(chronic myelomonocytic leukemia, CMMoL)。",
+    "適應症": "治療骨髓增生不良症候群高危險性的病患High Risk MDS：頑固性貧血併有過量芽細胞(RA with excess blasts，RAEB)、轉變中的頑固性貧血併有過量芽細胞(RAEB in transformation，RAEB-T)、及慢性骨髓單核細胞性白血病(chronic myelomonocytic leukemia, CMMoL)。\r\nVidaza適用於治療65歲(含)以上、不適合接受HSCT或密集化學治療、且骨髓芽細胞比例>30%的AML成人患者(依據WHO分類)。",
     "劑型": "243凍晶注射劑",
     "包裝": "100毫克玻璃小瓶裝 100支以下盒裝",
     "藥品類別": "05限由醫師使用",
@@ -22,7 +22,8 @@
     "主成分略述": "AZACITIDINE",
     "限制項目": [
         "02輸入",
-        "25監視中學名藥"
+        "25監視中學名藥",
+        "5E已執行國內臨床試驗"
     ],
     "申請商名稱": "620117G076  賽基有限公司",
     "申請商地址": "臺北市信義區松仁路32號9樓",
@@ -55,6 +56,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "德國委丹扎注射劑 中文仿單 (修正)-105-06-28.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025781&Seq=003&Type=9"
+        },
         {
             "title": "Vidaza Baxter-102-05-22.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025781&Seq=002&Type=9"
