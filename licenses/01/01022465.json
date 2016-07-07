@@ -1,7 +1,7 @@
 {
     "code": "01022465",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01022465",
-    "time": "2015-08-22 20:46:51",
+    "time": "2016-07-08 03:01:46",
     "許可證字號": "衛署藥製字第022465號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,11 +12,11 @@
     "舊證字號": "00000000",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102246503",
-    "中文品名": "施免潰瘍注射液（希每得定）",
-    "英文品名": "CIMETIDINE INJECTION \"CHI SHENG\"",
+    "中文品名": "&quot;濟生&quot;施免潰瘍注射液（希每得定）",
+    "英文品名": "CIMETIDINE INJECTION &quot;CHI SHENG&quot;",
     "適應症": "住院病人伴隨有病理性胃酸分泌過高之症狀，頑固性(難治的)十二指腸潰瘍，或不能口服之病人消化性潰瘍之短期替代療法。",
     "劑型": "270注射劑",
-    "包裝": "安瓿",
+    "包裝": "2毫升玻璃安瓿裝 100支以下盒裝",
     "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
     "主成分略述": "CIMETIDINE",
@@ -39,15 +39,27 @@
             "成分類別": "主成分",
             "成分代碼": "5640000500",
             "成分名稱": "CIMETIDINE",
-            "含量描述": "100",
+            "含量描述": "",
             "含量": "100.0000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
+            "title": "濟生施免潰瘍注射液仿單-105-06-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01022465&Seq=003&Type=9"
+        },
+        {
+            "title": "081 仿單 施免潰瘍注射液(希每得定)(CIMETIDINE INJECTION CHI SHENG)-104-09-10.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01022465&Seq=002&Type=9"
+        },
+        {
             "title": "01022465-2014-02-14.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01022465&Seq=001&Type=9"
+        },
+        {
+            "title": "濟生施免潰瘍注射液標籤-105-06-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01022465&Seq=001&Type=8"
         }
     ]
 }

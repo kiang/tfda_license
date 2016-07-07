@@ -1,7 +1,7 @@
 {
     "code": "07003618",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07003618",
-    "time": "2015-08-23 22:53:28",
+    "time": "2016-07-08 03:59:10",
     "許可證字號": "衛署粧製字第003618號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "500ML以下瓶裝 附外盒裝",
     "化粧品類別": "0714防晒化粧用品",
     "": "",
-    "主成分略述": "OCTYL METHOXYCINNAMATE (PARSOL KCX), BENZOPHENONE-3, TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE), TINOSORB M (50%)",
+    "主成分略述": "OCTYL METHOXYCINNAMATE (PARSOL KCX), BENZOPHENONE-3",
     "限制項目": [
         "01國產"
     ],
@@ -50,25 +50,13 @@
             "含量描述": "",
             "含量": "2.0000000000",
             "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9602020800",
-            "成分名稱": "TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)",
-            "含量描述": "",
-            "含量": "6.2500000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9900081910",
-            "成分名稱": "TINOSORB M (50%)",
-            "含量描述": "",
-            "含量": "10.0000000000",
-            "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "07003618-105-06-08.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003618&Seq=003&Type=8"
+        },
         {
             "title": "07003618-103-09-03.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003618&Seq=002&Type=8"

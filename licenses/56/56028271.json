@@ -1,7 +1,7 @@
 {
     "code": "56028271",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028271",
-    "time": "2016-04-29 04:38:16",
+    "time": "2016-07-08 03:56:04",
     "許可證字號": "衛部醫器輸字第028271號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -31,7 +31,7 @@
     "申請商名稱": "6203282380  西門子醫療設備股份有限公司",
     "申請商地址": "台北市南港區園區街3號2樓之2",
     "主製造廠": {
-        "製造廠名稱": "M470296000  SIEMENS AG, MEDICAL SOLUTIONS, BUSINESS UNIT AX",
+        "製造廠名稱": "M470296000  SIEMENS HEALTHCARE GMBH, ADVANCED THERAPIES",
         "製造廠廠址": "SIEMENSSTRABE 1, DE-91301 FORCHHEIM GERMANY",
         "製造廠公司地址": "",
         "製造廠國別": "GERMANY",
@@ -39,5 +39,19 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": []
+    "ingredients": [],
+    "仿單外盒": [
+        {
+            "title": "560282710003-105-05-10.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56028271&Seq=001&Type=9"
+        },
+        {
+            "title": "560282710002-105-05-10.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56028271&Seq=002&Type=8"
+        },
+        {
+            "title": "560282710001-105-05-10.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56028271&Seq=001&Type=8"
+        }
+    ]
 }

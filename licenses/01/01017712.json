@@ -1,7 +1,7 @@
 {
     "code": "01017712",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01017712",
-    "time": "2015-08-22 21:10:05",
+    "time": "2016-07-08 03:01:23",
     "許可證字號": "衛署藥製字第017712號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,8 +12,8 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00101771200",
-    "中文品名": "\"中國化學\" 西華樂林注射劑１公克",
-    "英文品名": "CEFAZOLIN INJECTION 1GM \"C.C.P.\"",
+    "中文品名": "&quot;中國化學&quot; 西華樂林注射劑１公克",
+    "英文品名": "CEFAZOLIN INJECTION 1GM &quot;C.C.P.&quot;",
     "適應症": "葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症",
     "劑型": "240乾粉注射劑",
     "包裝": "1公克小瓶裝，100支以下盒裝",
@@ -45,6 +45,14 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "Cefazolin 1gm In-105-06-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01017712&Seq=012&Type=9"
+        },
+        {
+            "title": "A017712 In-104-11-20.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01017712&Seq=011&Type=9"
+        },
         {
             "title": "1036013811-藥製017712 Cefazolin Inj 1gm In-2014-03-19.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01017712&Seq=010&Type=9"
@@ -84,6 +92,14 @@
         {
             "title": "010177120001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01017712&Seq=001&Type=9"
+        },
+        {
+            "title": "Cefazolin 1gm Box La(25V)-105-06-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01017712&Seq=002&Type=8"
+        },
+        {
+            "title": "Cefazolin 1gm La(1V)-105-06-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01017712&Seq=001&Type=8"
         }
     ]
 }

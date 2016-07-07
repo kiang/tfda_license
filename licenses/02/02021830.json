@@ -1,7 +1,7 @@
 {
     "code": "02021830",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021830",
-    "time": "2015-08-24 01:33:26",
+    "time": "2016-07-08 03:08:55",
     "許可證字號": "衛署藥輸字第021830號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "瓶裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "主成分略述": "AZITHROMYCIN (AS DIHYDRATE)",
+    "主成分略述": "AZITHROMYCIN DIHYDRATE, AZITHROMYCIN (AS DIHYDRATE)",
     "限制項目": [
         "02輸入"
     ],
@@ -37,6 +37,14 @@
     "ingredients": [
         {
             "成分類別": "主成分",
+            "成分代碼": "0812500420",
+            "成分名稱": "AZITHROMYCIN DIHYDRATE",
+            "含量描述": "",
+            "含量": "50.0800000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
             "成分代碼": "0812590410",
             "成分名稱": "AZITHROMYCIN (AS DIHYDRATE)",
             "含量描述": "209.5",
@@ -46,8 +54,24 @@
     ],
     "仿單外盒": [
         {
+            "title": "020218300001-105-06-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021830&Seq=002&Type=9"
+        },
+        {
             "title": "020218300001-104-03-19.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021830&Seq=001&Type=9"
+        },
+        {
+            "title": "LAB-020218300001-105-06-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021830&Seq=003&Type=8"
+        },
+        {
+            "title": "CTN-020218300001-105-06-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021830&Seq=002&Type=8"
+        },
+        {
+            "title": "Zithromax POS_MA no. 021830外盒包裝-104-09-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021830&Seq=001&Type=8"
         }
     ]
 }

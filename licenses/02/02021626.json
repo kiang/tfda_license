@@ -1,7 +1,7 @@
 {
     "code": "02021626",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021626",
-    "time": "2015-08-23 10:55:43",
+    "time": "2016-07-08 03:08:51",
     "許可證字號": "衛署藥輸字第021626號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -36,6 +36,15 @@
     },
     "CCC號列": "30044019001 其他麻醉藥品製劑Other narcotics preparations",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "F130379000  Indivior UK Limited",
+            "製造廠廠址": "103 - 105 Bath Road, Berkshire England, SL1 3UH",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": "市場許可證持有者"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -48,16 +57,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "Tem inj_Outer Box-103-11-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021626&Seq=003&Type=8"
+            "title": "Temgesic Inj._PI (第二階段)-105-06-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021626&Seq=001&Type=9"
         },
         {
-            "title": "Tem inj_Chinese Label-103-11-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021626&Seq=002&Type=8"
+            "title": "Temgesic Inj_Ampoule label-105-06-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021626&Seq=005&Type=8"
         },
         {
-            "title": "Tem inj_Ampoule label-103-11-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021626&Seq=001&Type=8"
+            "title": "Temgesic Inj._Carton (第二階段)-105-06-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021626&Seq=004&Type=8"
         }
     ]
 }

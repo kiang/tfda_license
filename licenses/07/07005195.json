@@ -1,11 +1,11 @@
 {
     "code": "07005195",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07005195",
-    "time": "2015-08-22 04:20:44",
+    "time": "2016-07-08 04:24:52",
     "許可證字號": "衛署粧製字第005195號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "廢止狀態": "已廢止",
+    "廢止日期": "",
+    "廢止理由": "",
     "有效日期": "107\/08\/26",
     "發證日期": "98\/08\/26",
     "許可證種類": "含藥化粧品",
@@ -13,7 +13,7 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00700519502",
     "中文品名": "詩芙儂 健萌養髮洗髮精、諾婕蒂 活力養髮洗髮乳、上山採藥 活髮生力洗髮精、Q.T.SKIN 活髮養髮洗髮精",
-    "英文品名": "Sofnon Full & Thick Shampoo, Nobori Full & Thick Shampoo, tsaio Full & Thick Shampoo, Q.T.Skin Full & Thick Shampoo",
+    "英文品名": "Sofnon Full &amp; Thick Shampoo, Nobori Full &amp; Thick Shampoo, tsaio Full &amp; Thick Shampoo, Q.T.Skin Full &amp; Thick Shampoo",
     "用途": "清潔毛髮及頭皮、強健髮根，滋養毛囊。",
     "劑型": "970液劑",
     "包裝": "500ml以下、600ml瓶裝 無外盒",
@@ -42,6 +42,12 @@
             "含量描述": "",
             "含量": "0.0010000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "07005195-2009-08-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005195&Seq=001&Type=9"
         }
     ]
 }

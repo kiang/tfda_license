@@ -1,7 +1,7 @@
 {
     "code": "01047792",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01047792",
-    "time": "2016-01-29 05:00:12",
+    "time": "2016-07-08 03:05:58",
     "許可證字號": "衛署藥製字第047792號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,8 +12,8 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00104779203",
-    "中文品名": "\"順華\" 樂可樂舒液劑",
-    "英文品名": "Lactulose Liquid \"SHUN HWA\"",
+    "中文品名": "&quot;順華&quot; 樂可樂舒液劑",
+    "英文品名": "Lactulose Liquid &quot;SHUN HWA&quot;",
     "適應症": "改善高氨血症之下列各症、精神神經障礙、腦波異狀、手指顫抖。",
     "劑型": "170內服液劑",
     "包裝": "60-4000毫升塑膠瓶裝",
@@ -39,7 +39,7 @@
             "成分類別": "主成分",
             "成分代碼": "4010000300",
             "成分名稱": "LACTULOSE",
-            "含量描述": "70%",
+            "含量描述": "70% (eq. to Lactulose 600mg)",
             "含量": "0.8571000000",
             "單位": "ML"
         },
@@ -47,15 +47,31 @@
             "成分類別": "主成分",
             "成分代碼": "4010000300",
             "成分名稱": "LACTULOSE",
-            "含量描述": "",
-            "含量": "600.0000000000",
-            "單位": "MG"
+            "含量描述": "70% (eq. to Lactulose 600mg)",
+            "含量": "0.8571000000",
+            "單位": "ML"
         }
     ],
     "仿單外盒": [
         {
+            "title": "樂可樂舒說明書-無焦添加焦糖組成-105-06-02.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047792&Seq=003&Type=9"
+        },
+        {
+            "title": "樂可樂舒說明書-原賦形劑組成-105-06-02.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047792&Seq=002&Type=9"
+        },
+        {
             "title": "010477920001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047792&Seq=001&Type=9"
+        },
+        {
+            "title": "樂可樂舒標籤貼紙-無焦添加焦糖組成-105-06-02.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047792&Seq=005&Type=8"
+        },
+        {
+            "title": "樂可樂舒標籤貼紙-原賦形劑組成-105-06-02.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047792&Seq=004&Type=8"
         },
         {
             "title": "010477920003.jpg",

@@ -1,7 +1,7 @@
 {
     "code": "02023229",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023229",
-    "time": "2015-08-23 10:55:22",
+    "time": "2016-07-08 03:09:47",
     "許可證字號": "衛署藥輸字第023229號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "500公撮以下瓶裝附量器",
     "藥品類別": "17醫師藥師藥劑生指示藥",
     "管制藥品分類級別": "",
-    "主成分略述": "CHLORPHENIRAMINE MALEATE, AMINOCAPROIC ACID, CHONDROITIN SULFATE SODIUM (EQ TO SODIUM CHONDROITIN SULFATE )",
+    "主成分略述": "CHLORPHENIRAMINE MALEATE, AMINOCAPROIC ACID, CHONDROITIN SULFATE SODIUM (EQ TO SODIUM CHONDROITIN SULFATE ), GLYCYRRHIZINATE DIPOTASSIUM (EQ TO DIPOTASSIUM GLYCYRRHIZINATE)",
     "限制項目": [
         "02輸入"
     ],
@@ -67,6 +67,14 @@
             "含量描述": "",
             "含量": "0.0500000000",
             "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200004620",
+            "成分名稱": "GLYCYRRHIZINATE DIPOTASSIUM (EQ TO DIPOTASSIUM GLYCYRRHIZINATE)",
+            "含量描述": "",
+            "含量": "0.2000000000",
+            "單位": "MG"
         }
     ],
     "仿單外盒": [
@@ -77,6 +85,10 @@
         {
             "title": "020232290001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023229&Seq=001&Type=9"
+        },
+        {
+            "title": "6-新鮮視洗眼液-合併檔(完成)-104-09-30.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023229&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "01044023",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01044023",
-    "time": "2016-07-01 03:09:32",
+    "time": "2016-07-08 05:09:42",
     "許可證字號": "衛署藥製字第044023號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,8 +12,8 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00104402306",
-    "中文品名": "\"晟德\" 勝克敏液1毫克\/毫升",
-    "英文品名": "CETIRIZINE ORAL SOLUTION 1MG\/ML \"CENTER\"",
+    "中文品名": "&quot;晟德&quot; 勝克敏液1毫克\/毫升",
+    "英文品名": "CETIRIZINE ORAL SOLUTION 1MG\/ML &quot;CENTER&quot;",
     "適應症": "季節性鼻炎、過敏性鼻炎、結膜炎、蕁麻疹、過敏性搔癢等過敏現象。",
     "劑型": "170內服液劑",
     "包裝": "20-4000公撮塑膠瓶裝",
@@ -42,9 +42,25 @@
             "含量描述": "",
             "含量": "1.0000000000",
             "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0400005810",
+            "成分名稱": "CETIRIZINE DIHYDROCHLORIDE (EQ TO CETIRIZINE 2HCL )",
+            "含量描述": "",
+            "含量": "1.0000000000",
+            "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "01044023002-105-06-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044023&Seq=007&Type=9"
+        },
+        {
+            "title": "01044023001-105-06-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044023&Seq=006&Type=9"
+        },
         {
             "title": "010440230004.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044023&Seq=005&Type=9"
@@ -64,6 +80,10 @@
         {
             "title": "010440230001.DOC",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044023&Seq=001&Type=9"
+        },
+        {
+            "title": "01044023003-105-06-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044023&Seq=005&Type=8"
         },
         {
             "title": "010440230004.jpg",
