@@ -1,7 +1,7 @@
 {
     "code": "01034014",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01034014",
-    "time": "2016-07-15 03:03:41",
+    "time": "2016-07-22 03:03:30",
     "許可證字號": "衛署藥製字第034014號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -44,7 +44,27 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "淡紅",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "橢圓形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "4.0_Noyan Tab.375mg._劑型外觀-104-10-23(廠商自行上傳).PDF",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034014&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
+        {
+            "title": "1.0_Noyan Tab.375mg._仿單-104-11-03(廠商自行上傳).PDF",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034014&Seq=006&Type=9"
+        },
         {
             "title": "Noyan Tablets 375mg_FDA_20141024-103-10-29.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034014&Seq=005&Type=9"
@@ -64,6 +84,22 @@
         {
             "title": "CTD 1.6 外盒仿單標籤粘貼表_衛署藥製字第034014號_Noyan Tablets 375mg仿單、標籤、鋁箔、外盒_1031024-103-10-29.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034014&Seq=001&Type=9"
+        },
+        {
+            "title": "5.1_Noyan Tab.375mg._鋁箔盒裝_10'S_4717818003142-104-10-23(廠商自行上傳).PDF",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034014&Seq=004&Type=8"
+        },
+        {
+            "title": "5.0_Noyan Tab.375mg._塑膠瓶裝_1000'S_4717818003104-104-10-23(廠商自行上傳).PDF",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034014&Seq=003&Type=8"
+        },
+        {
+            "title": "3.0_Noyan Tab.375mg._鋁箔-104-10-23(廠商自行上傳).PDF",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034014&Seq=002&Type=8"
+        },
+        {
+            "title": "2.0_Noyan Tab.375mg._標籤-104-10-23(廠商自行上傳).PDF",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034014&Seq=001&Type=8"
         }
     ]
 }
