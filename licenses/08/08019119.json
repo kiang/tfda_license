@@ -1,7 +1,7 @@
 {
     "code": "08019119",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08019119",
-    "time": "2015-08-23 21:06:49",
+    "time": "2016-08-05 03:34:34",
     "許可證字號": "衛署粧輸字第019119號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,7 +13,7 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00801911900",
     "中文品名": "DIA 潤色染 5.15 - 淺棕色帶灰-棗紅色調",
-    "英文品名": "L’OREAL PROFESSIONNEL DIA RICHESSE COLORATION TON SUR TON* CR&Egrave;ME-Shade 5.15",
+    "英文品名": "L’OREAL PROFESSIONNEL DIA RICHESSE COLORATION TON SUR TON* CR&amp;Egrave;ME-Shade 5.15",
     "用途": "染髮。",
     "劑型": "992霜劑",
     "包裝": "500 ml以下管裝附外盒",
@@ -90,6 +90,12 @@
             "含量描述": "",
             "含量": "0.0198000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08019119-105-07-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019119&Seq=001&Type=8"
         }
     ]
 }

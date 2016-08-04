@@ -1,7 +1,7 @@
 {
     "code": "10000683",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000683",
-    "time": "2015-08-23 13:33:31",
+    "time": "2016-08-05 03:13:44",
     "許可證字號": "衛署菌疫輸字第000683號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,10 +16,10 @@
     "英文品名": "GENOTROPIN 5.3MG",
     "適應症": "腦下垂體之生長激素分泌不足所導致之生長干擾；TURNER'S SYNDROME所導致之生長干擾；PRADER-WILLI SYNDROME所導致之生長干擾；慢性腎臟功能不足所導致之生長干擾；成人生長激素嚴重缺乏之補充療法。低出生體重兒Small for Gestational Age(SGA)逾四歲者之生長障礙。",
     "劑型": "243凍晶注射劑",
-    "包裝": "小瓶附溶液",
+    "包裝": "1x1 ml；10x1 mlTwo compartment cartridge 單支裝、5支裝預先充填注射筆(Pre-Filled Pen, GoQuick)",
     "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "主成分略述": "SOMATOTROPIN HUMAN",
+    "主成分略述": "RECOMBINANT SOMATROPIN",
     "限制項目": [
         "02輸入"
     ],
@@ -41,19 +41,34 @@
             "製造廠公司地址": "",
             "製造廠國別": "BELGIUM",
             "製程": "包裝"
+        },
+        {
+            "製造廠名稱": "F420040000  PFIZER HEALTH AB",
+            "製造廠廠址": "MARIEFREDSVAGEN 37, SE-645 41 STRANGNAS, SWEDEN",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWEDEN",
+            "製程": "主成分(drug substance)製造廠"
         }
     ],
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "6828001001",
-            "成分名稱": "SOMATOTROPIN HUMAN",
+            "成分代碼": "6828001020",
+            "成分名稱": "RECOMBINANT SOMATROPIN",
             "含量描述": "(5.3MG)",
             "含量": "16.0000000000",
             "單位": "IU (I"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "020006830001-105-07-27.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000683&Seq=025&Type=9"
+        },
+        {
+            "title": "Genotropin LLD Belgium LPD 201203-2-104-09-23(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000683&Seq=024&Type=9"
+        },
         {
             "title": "Genotropin 5.3 mg & 12 mg菌疫輸000683 & 000856-103-04-21.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000683&Seq=023&Type=9"
@@ -145,6 +160,10 @@
         {
             "title": "020006830001-GoQuick___20110809.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000683&Seq=001&Type=9"
+        },
+        {
+            "title": "Genotropin 5.3 mg 外盒-104-09-20(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000683&Seq=001&Type=8"
         }
     ]
 }

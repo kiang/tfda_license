@@ -1,7 +1,7 @@
 {
     "code": "02013362",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02013362",
-    "time": "2015-08-23 09:28:50",
+    "time": "2016-08-05 03:09:51",
     "許可證字號": "衛署藥輸字第013362號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "6-1000粒盒裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "主成分略述": "MAGNESIUM ALUMINUM METASILICATE (NEUSILIN), TOCOPHEROL NICOTINATE ALPHA-",
+    "主成分略述": "TOCOPHEROL NICOTINATE ALPHA-",
     "限制項目": [
         "02輸入"
     ],
@@ -35,14 +35,6 @@
     "CCC號列": "30045000009 含有維他命或第２９３６節產品之其他醫藥製劑Other medicaments containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
     "ingredients": [
-        {
-            "成分類別": "主成分",
-            "成分代碼": "5604000501",
-            "成分名稱": "MAGNESIUM ALUMINUM METASILICATE (NEUSILIN)",
-            "含量描述": "",
-            "含量": "6.0000000000",
-            "單位": "MG"
-        },
         {
             "成分類別": "主成分",
             "成分代碼": "8820000310",
@@ -66,6 +58,28 @@
         {
             "title": "圖片",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02013362&Seq=419&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "060133620001-105-06-30.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02013362&Seq=001&Type=9"
+        },
+        {
+            "title": "裕安朗恩仿單(加刊賦形劑)-105-01-06(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02013362&Seq=002&Type=9"
+        },
+        {
+            "title": "060133620002-105-06-30.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02013362&Seq=001&Type=8"
+        },
+        {
+            "title": "裕安朗安外盒-105-01-06(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02013362&Seq=003&Type=8"
+        },
+        {
+            "title": "裕安朗恩PTP片-105-01-06(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02013362&Seq=002&Type=8"
         }
     ]
 }

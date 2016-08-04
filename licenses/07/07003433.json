@@ -1,6 +1,7 @@
 {
     "code": "07003433",
-    "time": "2015-06-23 01:59:45",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07003433",
+    "time": "2016-08-05 03:32:37",
     "許可證字號": "衛署粧製字第003433號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,15 +19,15 @@
     "包裝": "500G以下塑膠瓶裝",
     "化粧品類別": "0708防晒面霜",
     "": "",
-    "主成分略述": "OCTYL METHOXYCINNAMATE (PARSOL KCX), ZINC OXIDE, TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)",
+    "主成分略述": "OCTYL METHOXYCINNAMATE (PARSOL KCX), ZINC OXIDE",
     "限制項目": [
         "01國產"
     ],
     "申請商名稱": "1409304200  臺灣資生堂股份有限公司",
     "申請商地址": "中壢市忠福里西園路１４８號",
     "主製造廠": {
-        "製造廠名稱": "1409304500  臺灣資生堂股份有限公司",
-        "製造廠廠址": "中壢市忠福里西園路１４８號",
+        "製造廠名稱": "5833060099  台灣資生堂股份有限公司新竹工廠",
+        "製造廠廠址": "新竹縣湖口鄉中興村光復北路60號",
         "製造廠公司地址": "",
         "製造廠國別": "TAIWAN",
         "製程": ""
@@ -49,24 +50,36 @@
             "含量描述": "",
             "含量": "9.3000000000",
             "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9602020800",
-            "成分名稱": "TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)",
-            "含量描述": "",
-            "含量": "1.6600000000",
-            "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
         {
-            "title": "仿單 070034330001.jpg",
+            "title": "070034330001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003433&Seq=001&Type=9"
         },
         {
-            "title": "外盒 07003433___20100721.pdf 070034330002___20100708.JPG 070034330002.jpg 070034330001___20100708.jpg 070034330001.jpg",
+            "title": "07003433-105-08-01.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003433&Seq=006&Type=8"
+        },
+        {
+            "title": "07003433___20100721.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003433&Seq=005&Type=8"
+        },
+        {
+            "title": "070034330002___20100708.JPG",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003433&Seq=004&Type=8"
+        },
+        {
+            "title": "070034330002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003433&Seq=003&Type=8"
+        },
+        {
+            "title": "070034330001___20100708.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003433&Seq=002&Type=8"
+        },
+        {
+            "title": "070034330001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003433&Seq=001&Type=8"
         }
     ]
 }

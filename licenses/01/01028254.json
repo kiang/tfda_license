@@ -1,7 +1,7 @@
 {
     "code": "01028254",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01028254",
-    "time": "2016-03-25 04:00:11",
+    "time": "2016-08-05 03:01:55",
     "許可證字號": "衛署藥製字第028254號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "100公克以下塑膠瓶裝 鋁管裝 1000公克塑膠瓶裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "主成分略述": "NEOMYCIN SULFATE, TRIAMCINOLONE (ACETONIDE)",
+    "主成分略述": "NEOMYCIN (SULFATE), TRIAMCINOLONE (ACETONIDE)",
     "限制項目": [
         "01國產"
     ],
@@ -37,10 +37,10 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "0812100530",
-            "成分名稱": "NEOMYCIN SULFATE",
-            "含量描述": "(potency)",
-            "含量": "5.0000000000",
+            "成分代碼": "0812109530",
+            "成分名稱": "NEOMYCIN (SULFATE)",
+            "含量描述": "(5mg) 3.5mg(potency)",
+            "含量": "3.5000000000",
             "單位": "MG"
         },
         {
@@ -53,6 +53,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "#28254-insert-105-02-17(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028254&Seq=002&Type=9"
+        },
         {
             "title": "010282540001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028254&Seq=001&Type=9"

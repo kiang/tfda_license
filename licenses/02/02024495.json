@@ -1,12 +1,12 @@
 {
     "code": "02024495",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024495",
-    "time": "2015-08-23 11:55:22",
+    "time": "2016-08-05 03:12:07",
     "許可證字號": "衛署藥輸字第024495號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "105\/07\/26",
+    "有效日期": "110\/07\/26",
     "發證日期": "95\/07\/26",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -19,7 +19,7 @@
     "包裝": "4-1000錠塑膠瓶裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "主成分略述": "LANTHANUM CARBONATE TETRAHYDRATE",
+    "主成分略述": "Lanthanum Carbonate Hydrate",
     "限制項目": [
         "02輸入",
         "52依本署七七公告於國內進行臨床試驗且核定為新藥"
@@ -47,14 +47,22 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "9901006100",
-            "成分名稱": "LANTHANUM CARBONATE TETRAHYDRATE",
+            "成分代碼": "9901006120",
+            "成分名稱": "Lanthanum Carbonate Hydrate",
             "含量描述": "",
             "含量": "954.0000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "Fosrenol Chinese PI-105-07-29.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024495&Seq=026&Type=9"
+        },
+        {
+            "title": "福斯利諾中文仿單201307-104-08-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024495&Seq=025&Type=9"
+        },
         {
             "title": "020244950001-102-08-26.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024495&Seq=024&Type=9"

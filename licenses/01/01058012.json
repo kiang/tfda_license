@@ -1,7 +1,7 @@
 {
     "code": "01058012",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01058012",
-    "time": "2016-05-27 05:13:42",
+    "time": "2016-08-05 03:09:40",
     "許可證字號": "衛署藥製字第058012號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,8 +12,8 @@
     "舊證字號": "12010437",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00105801201",
-    "中文品名": "\"永豐\"注射用蒸餾水",
-    "英文品名": "Sterile Water For Injection \"Y.F.\"",
+    "中文品名": "&quot;永豐&quot;注射用蒸餾水",
+    "英文品名": "Sterile Water For Injection &quot;Y.F.&quot;",
     "適應症": "藥品溶劑。",
     "劑型": "270注射劑",
     "包裝": "100支以下盒裝 500,1000毫升塑膠軟袋裝 500,1000毫升塑膠瓶裝 500,1000毫升玻璃瓶裝 50,100,200,250毫升LDPE塑膠瓶裝 5,10,20毫升LDPE塑膠安瓿裝 2,5,10,20毫升玻璃安瓿裝",
@@ -43,6 +43,24 @@
             "含量描述": "",
             "含量": "1.0000000000",
             "單位": "ML"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "說明書-104-09-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01058012&Seq=001&Type=9"
+        },
+        {
+            "title": "1000ML軟袋紙箱-104-09-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01058012&Seq=003&Type=8"
+        },
+        {
+            "title": "20ML紙盒-104-09-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01058012&Seq=002&Type=8"
+        },
+        {
+            "title": "10ML紙盒-104-09-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01058012&Seq=001&Type=8"
         }
     ]
 }

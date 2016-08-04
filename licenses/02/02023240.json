@@ -1,7 +1,7 @@
 {
     "code": "02023240",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023240",
-    "time": "2015-08-23 10:57:39",
+    "time": "2016-08-05 03:55:07",
     "許可證字號": "衛署藥輸字第023240號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -21,7 +21,8 @@
     "管制藥品分類級別": "",
     "主成分略述": "CHLORPHENIRAMINE MALEATE, DL-METHYLEPHEDRINE HCL, ACETAMINOPHEN (EQ TO PARACETAMOL), ETHENZAMIDE (ETHOXYBENZAMIDE), CAFFEINE ANHYDROUS, CARBETAPENTANE CITRATE (eq to Pentoxyverine Citrate), RIBOFLAVIN (VIT B2), HESPERIDIN (VIT P)",
     "限制項目": [
-        "02輸入"
+        "02輸入",
+        "1Q不得輸入"
     ],
     "申請商名稱": "1508901100  德佑藥品有限公司",
     "申請商地址": "台北市松山區敦化南路一段3號2樓",
@@ -98,6 +99,16 @@
             "含量描述": "",
             "含量": "5.0000000000",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "嘉佑感冒膠囊_仿單(騎縫章版)-105-04-19.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023240&Seq=002&Type=9"
+        },
+        {
+            "title": "嘉佑感冒膠囊_1050414-105-04-19.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023240&Seq=001&Type=9"
         }
     ]
 }

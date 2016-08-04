@@ -1,7 +1,7 @@
 {
     "code": "06010789",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010789",
-    "time": "2016-05-27 05:35:08",
+    "time": "2016-08-05 03:19:41",
     "許可證字號": "衛署醫器輸字第010789號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,10 +12,10 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00601078900",
-    "中文品名": "\"巴德\" 歐比特操控式電極導管",
-    "英文品名": "\"BARD\"  ORBITER PV STEERABLE ELECTRODE CATHETER",
+    "中文品名": "&quot;巴德&quot; 歐比特操控式電極導管",
+    "英文品名": "&quot;BARD&quot;  ORBITER PV STEERABLE ELECTRODE CATHETER",
     "效能": "",
-    "醫器規格": "詳如中文仿單核定本",
+    "醫器規格": "詳如中文仿單核定本。註銷規格：390003P。",
     "劑型": "",
     "包裝": "",
     "醫器主類別一": "E心臟血管用裝置",
@@ -26,28 +26,25 @@
     "醫器次類別三": "",
     "主成分略述": "",
     "限制項目": [
-        "02輸入"
+        "02輸入",
+        "09委託製造"
     ],
     "申請商名稱": "1119301100  荷商波士頓科技有限公司臺灣分公司",
     "申請商地址": "台北市南港區忠孝東路六段21號14樓",
     "主製造廠": {
-        "製造廠名稱": "M463302000  C.R. BARD, INC.",
-        "製造廠廠址": "289 BAY ROAD QUEENSBURY, NY 12804 U.S.A.",
+        "製造廠名稱": "M090007100  Boston Scientific Corporation",
+        "製造廠廠址": "302 Parkway, Global Park, Heredia, Costa Rica",
         "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
+        "製造廠國別": "COSTA RICA",
+        "製程": "Manufactured by"
     },
     "CCC號列": "90183900007 其他導管、套管及類似品Other catheters, cannulae and the like",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060107890002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010789&Seq=002&Type=9"
-        },
-        {
-            "title": "060107890001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010789&Seq=001&Type=9"
+            "title": "06010789001-105-07-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010789&Seq=003&Type=9"
         }
     ]
 }

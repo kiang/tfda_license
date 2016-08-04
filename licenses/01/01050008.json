@@ -1,7 +1,7 @@
 {
     "code": "01050008",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01050008",
-    "time": "2015-08-23 02:14:28",
+    "time": "2016-08-05 03:07:46",
     "許可證字號": "衛署藥製字第050008號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -21,7 +21,8 @@
     "管制藥品分類級別": "",
     "主成分略述": "TROSPIUM CHLORIDE",
     "限制項目": [
-        "01國產"
+        "01國產",
+        "09委託製造"
     ],
     "申請商名稱": "0419901100  天義企業股份有限公司",
     "申請商地址": "台北市復興南路一段１２９號５樓",
@@ -44,10 +45,46 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "淺藍色",
+        "特殊氣味": "",
+        "刻痕": "沒有",
+        "形狀": "圓扁形",
+        "標記一": "TP10",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "URC藥物外觀-104-09-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050008&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
+        {
+            "title": "URC新仿單(賦形劑)-105-07-19.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050008&Seq=003&Type=9"
+        },
+        {
+            "title": "URC仿單-104-09-23(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050008&Seq=002&Type=9"
+        },
         {
             "title": "2013.10.30 天義-友樂可仿單-102-11-27.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050008&Seq=001&Type=9"
+        },
+        {
+            "title": "URC鋁箔-104-09-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050008&Seq=008&Type=8"
+        },
+        {
+            "title": "URC瓶裝-104-09-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050008&Seq=007&Type=8"
+        },
+        {
+            "title": "URC外盒-104-09-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050008&Seq=006&Type=8"
         },
         {
             "title": "01050008-102-11-27.jpg",

@@ -1,7 +1,7 @@
 {
     "code": "08006467",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08006467",
-    "time": "2015-08-22 02:51:30",
+    "time": "2016-08-05 03:33:50",
     "許可證字號": "衛署粧輸字第006467號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,13 +13,13 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00800646702",
     "中文品名": "萊肯重組染髮膏　７\/６４咖啡橙中金黃色",
-    "英文品名": "LAKME COLLAGE CREME HAIR COLOR 7\/64 BROWN COPPERY BLONDE",
+    "英文品名": "LAKME COLLAGE CREME HAIR COLOR 7\/64 COPPER CHESTNUT MEDIUM BLONDE",
     "用途": "染髮。",
     "劑型": "992霜劑",
     "包裝": "管裝 紙盒裝",
     "化粧品類別": "0110染髮劑",
     "": "",
-    "主成分略述": "AMMONIA WATER (AMMONIUM HYDROXIDE), NITROPARAPHENYLENEDIAMINE(P-PHENYLENEDIAMINE NITRO-",
+    "主成分略述": "AMMONIUM HYDROXIDE 28%, RESORCINOL (RESORCIN), P-AMINOPHENOL, 4-AMINO-2-HYDROXYTOLUENE, TOLUENE-2,5-DIAMINE SULFATE, 2-AMINO-6-CHLORO-4-NITROPHENOL",
     "限制項目": [
         "02輸入"
     ],
@@ -37,18 +37,50 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000102",
-            "成分名稱": "AMMONIA WATER (AMMONIUM HYDROXIDE)",
-            "含量描述": "(28%) 7.143",
-            "含量": "",
+            "成分代碼": "2820000107",
+            "成分名稱": "AMMONIUM HYDROXIDE 28%",
+            "含量描述": "eq to free Ammonia",
+            "含量": "1.7600000000",
             "單位": "%(W\/W"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9400003230",
-            "成分名稱": "NITROPARAPHENYLENEDIAMINE(P-PHENYLENEDIAMINE NITRO-",
-            "含量描述": "(2-) 0.15",
-            "含量": "",
+            "成分代碼": "8428000500",
+            "成分名稱": "RESORCINOL (RESORCIN)",
+            "含量描述": "",
+            "含量": "0.1880000000",
+            "單位": "%(W\/W"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200035440",
+            "成分名稱": "P-AMINOPHENOL",
+            "含量描述": "",
+            "含量": "0.2000000000",
+            "單位": "%(W\/W"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "0.1000000000",
+            "單位": "%(W\/W"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900066200",
+            "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
+            "含量描述": "",
+            "含量": "0.4000000000",
+            "單位": "%(W\/W"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900084900",
+            "成分名稱": "2-AMINO-6-CHLORO-4-NITROPHENOL",
+            "含量描述": "",
+            "含量": "0.0500000000",
             "單位": "%(W\/W"
         }
     ],
@@ -56,6 +88,10 @@
         {
             "title": "080064670001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08006467&Seq=001&Type=9"
+        },
+        {
+            "title": "08006467-105-07-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08006467&Seq=001&Type=8"
         }
     ]
 }

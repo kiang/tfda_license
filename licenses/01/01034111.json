@@ -1,7 +1,7 @@
 {
     "code": "01034111",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01034111",
-    "time": "2016-01-29 04:17:55",
+    "time": "2016-08-05 03:02:27",
     "許可證字號": "衛署藥製字第034111號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,8 +12,8 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00103411100",
-    "中文品名": "\"易陽\"免爾暈錠6毫克（貝他喜汀）",
-    "英文品名": "BETAHISTANE TABLETS 6MG (BETAHISTINE) \"EAYUNG\"",
+    "中文品名": "&quot;易陽&quot;免爾暈錠6毫克（貝他喜汀）",
+    "英文品名": "BETAHISTANE TABLETS 6MG (BETAHISTINE) &quot;EAYUNG&quot;",
     "適應症": "梅尼艾氏症候群所引起之眩暈，聽力障礙。",
     "劑型": "110錠劑",
     "包裝": "6-1000粒塑膠瓶裝",
@@ -21,8 +21,7 @@
     "管制藥品分類級別": "",
     "主成分略述": "BETAHISTINE MESYLATE",
     "限制項目": [
-        "01國產",
-        "1G不得製造"
+        "01國產"
     ],
     "申請商名稱": "6202080659  易陽實業有限公司",
     "申請商地址": "高雄市前鎮區崗山北街341巷3號",
@@ -57,8 +56,26 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "免耳暈錠-104-12-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034111&Seq=276&Type=10"
+        },
+        {
             "title": "圖片",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034111&Seq=275&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "免爾暈錠-標籤-104-12-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034111&Seq=002&Type=9"
+        },
+        {
+            "title": "免爾暈錠仿單-104-12-22(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034111&Seq=001&Type=9"
+        },
+        {
+            "title": "免爾暈錠-104-12-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034111&Seq=001&Type=8"
         }
     ]
 }

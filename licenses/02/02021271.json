@@ -1,7 +1,7 @@
 {
     "code": "02021271",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021271",
-    "time": "2015-08-23 10:26:24",
+    "time": "2016-08-05 03:10:33",
     "許可證字號": "衛署藥輸字第021271號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "100公克以下塑膠軟管裝",
     "藥品類別": "17指示用藥",
     "管制藥品分類級別": "",
-    "主成分略述": "CETRIMIDE, DEXPANTHENOL",
+    "主成分略述": "DEXPANTHENOL",
     "限制項目": [
         "02輸入"
     ],
@@ -37,14 +37,6 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "8404601080",
-            "成分名稱": "CETRIMIDE",
-            "含量描述": "",
-            "含量": "0.1000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "8812300120",
             "成分名稱": "DEXPANTHENOL",
             "含量描述": "",
@@ -56,6 +48,14 @@
         {
             "title": "Corneregel (衛署藥輸字第021271號) 仿單.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021271&Seq=001&Type=9"
+        },
+        {
+            "title": "Corneregel (衛署藥輸字第021271號) 10g-104-09-30.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021271&Seq=002&Type=8"
+        },
+        {
+            "title": "Corneregel (衛署藥輸字第021271號) 5g-104-09-30.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021271&Seq=001&Type=8"
         }
     ]
 }

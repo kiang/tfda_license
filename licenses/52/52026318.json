@@ -1,7 +1,7 @@
 {
     "code": "52026318",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026318",
-    "time": "2015-08-23 13:50:49",
+    "time": "2016-08-05 03:16:02",
     "許可證字號": "衛部藥輸字第026318號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,7 +14,7 @@
     "通關簽審文件編號": "DHA05202631807",
     "中文品名": "潤娃易利達92\/22 mcg乾粉吸入劑",
     "英文品名": "Relvar Ellipta 92\/22 mcg Inhalation Powder",
-    "適應症": "慢性阻塞性肺病(COPD)患者之氣道阻塞症狀的維持治療。降低有惡化病史患者之COPD惡化。",
+    "適應症": "1.1 慢性阻塞性肺病的維持治療：\r\n慢性阻塞性肺病(COPD)患者之氣道阻塞症狀的維持治療。\r\n降低有惡化病史患者之COPD惡化。\r\n1.2 氣喘的治療：\r\n治療適合使用吸入型皮質類固醇及長效β2作用劑合併治療的18歲及以上氣喘患者。",
     "劑型": "407乾粉吸入劑",
     "包裝": "14、30劑量塑膠殼裝 含劑量計數之吸入器",
     "藥品類別": "06須由醫師處方使用",
@@ -39,7 +39,7 @@
             "成分類別": "主成分",
             "成分代碼": "8406002240",
             "成分名稱": "Fluticasone furoate (micronised)",
-            "含量描述": "",
+            "含量描述": "Equivalent to Fluticasone furoate 100 mcg (pre-dispensed dose) or 92 mcg (delivered dose)",
             "含量": "100.0000000000",
             "單位": "MCG"
         },
@@ -47,9 +47,41 @@
             "成分類別": "主成分",
             "成分代碼": "1212005510",
             "成分名稱": "Vilanterol trifenatate (micronised)",
-            "含量描述": "",
+            "含量描述": "Equivalent to Vilanterol 25 mcg (pre-dispensed dose) or 22 mcg (delivered dose)",
             "含量": "40.0000000000",
             "單位": "MCG"
+        }
+    ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "6.7cm x 8.8cm",
+        "特殊劑型": "",
+        "顏色": "灰色容器,藍色吸口蓋",
+        "特殊氣味": "",
+        "刻痕": "0",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "520263180005-105-01-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026318&Seq=005&Type=10"
+        },
+        {
+            "title": "520263180004-105-01-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026318&Seq=004&Type=10"
+        },
+        {
+            "title": "520263180003-105-01-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026318&Seq=003&Type=10"
+        },
+        {
+            "title": "520263180002-105-01-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026318&Seq=002&Type=10"
+        },
+        {
+            "title": "520263180001-105-01-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026318&Seq=001&Type=10"
         }
     ],
     "仿單外盒": [
@@ -60,6 +92,22 @@
         {
             "title": "020263180001-103-08-18.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026318&Seq=001&Type=9"
+        },
+        {
+            "title": "Relvar K296-001-T01_10000000128770-105-01-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026318&Seq=008&Type=8"
+        },
+        {
+            "title": "Relvar K296-001-F01_10000000128861-105-01-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026318&Seq=007&Type=8"
+        },
+        {
+            "title": "Relvar K296-001-B01_10000000128862-105-01-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026318&Seq=006&Type=8"
+        },
+        {
+            "title": "Relvar M296-001-01_10000000128768-105-01-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026318&Seq=005&Type=8"
         },
         {
             "title": "020263180005-103-08-18.pdf",

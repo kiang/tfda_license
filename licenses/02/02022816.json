@@ -1,7 +1,7 @@
 {
     "code": "02022816",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022816",
-    "time": "2016-03-25 04:20:01",
+    "time": "2016-08-05 03:11:09",
     "許可證字號": "衛署藥輸字第022816號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,6 +34,15 @@
     },
     "CCC號列": "30042000211 人用醫藥製劑，含抗黴菌劑類抗生素者Medicaments, containing antifungal antibiotics, for human use",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "6605071926  久裕企業股份有限公司(委託包裝)",
+            "製造廠廠址": "桃園市桃園區大林里興邦路43巷2之1號4樓",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "貼標廠"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -56,6 +65,10 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "capsule-104-09-29(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022816&Seq=436&Type=10"
+        },
+        {
             "title": "圖片",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022816&Seq=435&Type=10"
         }
@@ -64,6 +77,10 @@
         {
             "title": "楊森適撲諾膠囊Sporanox 100毫克 中文仿單-21x60cm-105-01-04.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022816&Seq=023&Type=9"
+        },
+        {
+            "title": "[打樣版]PI_Sporanox Cap_CCDS 24Apr2014_v1401-104-09-29(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022816&Seq=024&Type=9"
         },
         {
             "title": "020228160001-104-01-21.pdf",
@@ -152,6 +169,18 @@
         {
             "title": "020228160001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022816&Seq=001&Type=9"
+        },
+        {
+            "title": "bottle-104-09-29(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022816&Seq=003&Type=8"
+        },
+        {
+            "title": "blister-104-09-29(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022816&Seq=002&Type=8"
+        },
+        {
+            "title": "box-104-09-29(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022816&Seq=001&Type=8"
         }
     ]
 }

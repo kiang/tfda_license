@@ -1,7 +1,7 @@
 {
     "code": "01040813",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01040813",
-    "time": "2015-08-23 00:16:49",
+    "time": "2016-08-05 03:03:57",
     "許可證字號": "衛署藥製字第040813號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,12 +14,12 @@
     "通關簽審文件編號": "DHYS0104081300",
     "中文品名": "力卡安命注射液",
     "英文品名": "GLYCAL-AMIN INJECTION",
-    "適應症": "不能攝取適當食物之患者之補助治療劑、蛋白質之消化吸收機能及合成利用障礙、嚴重創傷、火傷、朋折時蛋白質之補給、蛋白質攝取減少之營養夫調症。",
+    "適應症": "不能攝取適當食物之患者之補助治療劑、蛋白質之消化吸收機能及合成利用障礙、嚴重創傷、火傷、骨折時蛋白質之補給、蛋白質攝取減少之營養夫調症。",
     "劑型": "270注射劑",
-    "包裝": "500,1000公撮玻璃容器裝 1400毫升以下軟袋裝 1400毫升以下玻璃瓶裝",
-    "藥品類別": "06須由醫師處方使用",
+    "包裝": "500,1000公撮玻璃瓶裝 1400毫升以下軟袋裝 1400毫升以下玻璃瓶裝",
+    "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "主成分略述": "SODIUM ACETATE TRIHYDRATE (EQ TO SODIUM ACETATE 3H2O ), CALCIUM ACETATE MONOHYDRATE, MAGNESIUM ACETATE TETRAHYDRATE, L-ALANINE, L-ARGININE, L-HISTIDINE, L-ISOLEUCINE, L-LEUCINE, L-LYSINE ACETATE, L-METHIONINE, L-PHENYLALANINE, L-PROLINE, L-SERINE, L-THREONINE, L-TRYPTOPHAN, L-VALINE, GLYCINE (EQ TO AMINOACETIC ACID)(EQ TO GLYCOCOLL), CYSTEINE L- HCL (MONOHYDRATE), GLYCERIN (eq to GLYCEROL), POTASSIUM METABISULFITE",
+    "主成分略述": "SODIUM ACETATE TRIHYDRATE (EQ TO SODIUM ACETATE 3H2O ), CALCIUM ACETATE MONOHYDRATE, MAGNESIUM ACETATE TETRAHYDRATE, L-ALANINE, L-ARGININE, L-HISTIDINE, L-ISOLEUCINE, L-LEUCINE, L-LYSINE ACETATE, L-METHIONINE, L-PHENYLALANINE, L-PROLINE, L-SERINE, L-THREONINE, L-TRYPTOPHAN, L-VALINE, GLYCINE (EQ TO AMINOACETIC ACID)(EQ TO GLYCOCOLL), CYSTEINE L- HCL (MONOHYDRATE), GLYCERIN (eq to GLYCEROL)",
     "限制項目": [
         "01國產"
     ],
@@ -47,7 +47,7 @@
             "成分類別": "主成分",
             "成分代碼": "4012000260",
             "成分名稱": "CALCIUM ACETATE MONOHYDRATE",
-            "含量描述": "",
+            "含量描述": "(EQ. TO CALCIUM ACETATE 0.23MG)",
             "含量": "0.2600000000",
             "單位": "MG"
         },
@@ -186,17 +186,17 @@
             "含量描述": "",
             "含量": "30.0000000000",
             "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9600024200",
-            "成分名稱": "POTASSIUM METABISULFITE",
-            "含量描述": "",
-            "含量": "0.5000000000",
-            "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "力卡安命注射液 仿單-105-07-27.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040813&Seq=004&Type=9"
+        },
+        {
+            "title": "187 仿單 力卡安命注射液(GLYCAL-AMIN INJECTION)-104-09-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040813&Seq=003&Type=9"
+        },
         {
             "title": "01040813-2014-02-14.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040813&Seq=002&Type=9"
@@ -204,6 +204,14 @@
         {
             "title": "力卡安命注射液仿單___20120531.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040813&Seq=001&Type=9"
+        },
+        {
+            "title": "力卡安命注射液 標籤-105-07-27.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040813&Seq=003&Type=8"
+        },
+        {
+            "title": "187 標籤 力卡安命注射液(GLYCAL-AMIN INJECTION)-104-09-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040813&Seq=002&Type=8"
         },
         {
             "title": "Glycal-Amin___20120531.pdf",
