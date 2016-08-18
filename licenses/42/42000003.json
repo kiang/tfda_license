@@ -1,7 +1,7 @@
 {
     "code": "42000003",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000003",
-    "time": "2016-08-05 04:49:42",
+    "time": "2016-08-19 03:50:34",
     "許可證字號": "衛署醫器陸輸字第000003號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -40,5 +40,15 @@
     },
     "CCC號列": "30061010004 已消毒腸線及類似已消毒外科縫合材料Sterile surgical catgut, similar sterile suture materials and sterile tissue adhesives for surgical wound closure",
     "藥理治療分類": "",
-    "ingredients": []
+    "ingredients": [],
+    "仿單外盒": [
+        {
+            "title": "000003-insert-2-105-03-30.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000003&Seq=002&Type=9"
+        },
+        {
+            "title": "000003-insert-1-105-03-30.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000003&Seq=001&Type=9"
+        }
+    ]
 }
