@@ -1,7 +1,7 @@
 {
     "code": "08016776",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016776",
-    "time": "2015-08-23 20:10:25",
+    "time": "2016-09-09 03:17:15",
     "許可證字號": "衛署粧輸字第016776號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,8 +12,8 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00801677608",
-    "中文品名": "荷普染髮膏 PA N14自然色,柯雅煥然染劑 粉彩系列C-N14,柯雅煥然染劑 絢彩系列OF-N14",
-    "英文品名": "Access Free HB Passion Color N14,HB CARETECT COLOR FN14,CARETECT OG FASHION COLOR O-Co6",
+    "中文品名": "荷普染髮膏 PA N14自然色,柯雅煥然染劑 粉彩系列C-N14,柯雅煥然染劑 絢彩系列OF-N14、實萃染髮劑 花妍系列N-N14",
+    "英文品名": "Access Free HB Passion Color N14,HB CARETECT COLOR FN14,CARETECT OG FASHION COLOR O-Co6, NASEED FASHION COLOR N-N14",
     "用途": "染髮(第一劑)。",
     "劑型": "992霜劑",
     "包裝": "500 g以下管裝 附外盒",
@@ -26,7 +26,7 @@
     "申請商名稱": "6628836950  娜普菈股份有限公司",
     "申請商地址": "台北市中山區長安東路2段110號9樓之1",
     "主製造廠": {
-        "製造廠名稱": "C260315000  B.S.P CO., LTD. LABORATORY IN TOKUSHIMA FACTORY",
+        "製造廠名稱": "C260315000  B.S.P CO., LTD.",
         "製造廠廠址": "517, NISHI-AKATANI, WAKI-MACHI, MIMA, TOKUSHIMA, JAPAN",
         "製造廠公司地址": "",
         "製造廠國別": "JAPAN",
@@ -106,6 +106,40 @@
             "含量描述": "",
             "含量": "0.0050000000",
             "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2820000126",
+            "成分名稱": "STRONG AMMONIA SOLUTION (28%)",
+            "含量描述": "",
+            "含量": "10.0000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200035440",
+            "成分名稱": "P-AMINOPHENOL",
+            "含量描述": "",
+            "含量": "0.0020000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9400003200",
+            "成分名稱": "P-PHENYLENEDIAMINE",
+            "含量描述": "",
+            "含量": "0.0050000000",
+            "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08016776-2009-12-28.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016776&Seq=001&Type=9"
+        },
+        {
+            "title": "08016776-105-08-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016776&Seq=001&Type=8"
         }
     ]
 }

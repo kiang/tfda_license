@@ -1,7 +1,7 @@
 {
     "code": "02023279",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023279",
-    "time": "2015-08-23 11:08:12",
+    "time": "2016-09-09 03:04:35",
     "許可證字號": "衛署藥輸字第023279號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "2-1000錠鋁箔盒裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "主成分略述": "PRAMIPEXOLE",
+    "主成分略述": "PRAMIPEXOLE ( PRAMIPEXOLE DIHYDROCHLORIDE MONOHYDRATE)",
     "限制項目": [
         "02輸入"
     ],
@@ -46,14 +46,18 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "7600001500",
-            "成分名稱": "PRAMIPEXOLE",
-            "含量描述": "",
+            "成分代碼": "7600001520",
+            "成分名稱": "PRAMIPEXOLE ( PRAMIPEXOLE DIHYDROCHLORIDE MONOHYDRATE)",
+            "含量描述": "(0.125 MG)",
             "含量": "0.0880000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "020232790001-105-08-16.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023279&Seq=048&Type=9"
+        },
         {
             "title": "020232790040.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023279&Seq=047&Type=9"

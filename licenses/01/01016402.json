@@ -1,7 +1,7 @@
 {
     "code": "01016402",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01016402",
-    "time": "2015-08-22 21:19:35",
+    "time": "2016-09-09 03:00:33",
     "許可證字號": "衛署藥製字第016402號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,7 +16,7 @@
     "英文品名": "SILVER SULFADIAZINE CREAM",
     "適應症": "熱傷感染之預防及治療（特別是革蘭氏陰性細菌感染症、例如綠膿桿菌感染症）其他刀傷、外傷、創傷、傷口感染之預防及治療",
     "劑型": "363乳膏劑",
-    "包裝": "20,50,100,250,500,1000克管裝 50,100,250,400,500,1000克瓶裝 50,100,250,400,500,1000克罐裝",
+    "包裝": "1000公克以下瓶裝 1000公克以下罐裝 1000公克以下塑膠軟管裝 1000公克以下鋁軟管裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
     "主成分略述": "SULFADIAZINE SILVER (MONOHYDRATE)",
@@ -44,7 +44,27 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "white",
+        "特殊氣味": "",
+        "刻痕": "0",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "S57-tube20克-104-09-28.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016402&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
+        {
+            "title": "010164020001-105-07-28.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016402&Seq=003&Type=9"
+        },
         {
             "title": "010164020002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016402&Seq=002&Type=9"
@@ -52,6 +72,38 @@
         {
             "title": "010164020001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016402&Seq=001&Type=9"
+        },
+        {
+            "title": "01016402_標籤外盒-105-07-28.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016402&Seq=008&Type=8"
+        },
+        {
+            "title": "S57-罐裝50G-104-10-01.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016402&Seq=007&Type=8"
+        },
+        {
+            "title": "S57-外盒500克-104-09-28.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016402&Seq=006&Type=8"
+        },
+        {
+            "title": "S57-罐裝500克-104-09-28.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016402&Seq=005&Type=8"
+        },
+        {
+            "title": "S57-外盒400克-104-09-28.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016402&Seq=004&Type=8"
+        },
+        {
+            "title": "S57-罐裝400克-104-09-28.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016402&Seq=003&Type=8"
+        },
+        {
+            "title": "S57-外盒50克-104-09-28.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016402&Seq=002&Type=8"
+        },
+        {
+            "title": "S57-外盒20克-104-09-28.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016402&Seq=001&Type=8"
         }
     ]
 }

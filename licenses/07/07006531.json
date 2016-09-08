@@ -1,7 +1,7 @@
 {
     "code": "07006531",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07006531",
-    "time": "2015-08-22 00:07:32",
+    "time": "2016-09-09 03:15:41",
     "許可證字號": "衛署粧製字第006531號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "500g以下管裝 瓶裝附外盒",
     "化粧品類別": "0110染髮劑",
     "": "",
-    "主成分略述": "Ammonia solution (25%), 5-AMINO-6-CHLORO-O-CRESOL, m-Aminophenol, 1-HYDROXYETHYL-4,5-DIAMINO-PYRAZOLE SULFATE",
+    "主成分略述": "Ammonia solution (25%), 5-AMINO-6-CHLORO-O-CRESOL, m-Aminophenol, TOLUENE-2,5-DIAMINE SULFATE, 1-HYDROXYETHYL-4,5-DIAMINO-PYRAZOLE SULFATE",
     "限制項目": [
         ""
     ],
@@ -40,7 +40,7 @@
             "成分代碼": "2820000119",
             "成分名稱": "Ammonia solution (25%)",
             "含量描述": "",
-            "含量": "6.7200000000",
+            "含量": "3.0000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -48,7 +48,7 @@
             "成分代碼": "9200002650",
             "成分名稱": "5-AMINO-6-CHLORO-O-CRESOL",
             "含量描述": "",
-            "含量": "0.4000000000",
+            "含量": "0.2000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -56,7 +56,15 @@
             "成分代碼": "9200035470",
             "成分名稱": "m-Aminophenol",
             "含量描述": "",
-            "含量": "0.2750000000",
+            "含量": "0.3000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900066200",
+            "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
+            "含量描述": "",
+            "含量": "0.0500000000",
             "單位": "%(W\/W)"
         },
         {
@@ -64,11 +72,15 @@
             "成分代碼": "9900097240",
             "成分名稱": "1-HYDROXYETHYL-4,5-DIAMINO-PYRAZOLE SULFATE",
             "含量描述": "",
-            "含量": "0.6040000000",
+            "含量": "0.9600000000",
             "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "07006531-105-08-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006531&Seq=002&Type=8"
+        },
         {
             "title": "07006531-102-07-29.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006531&Seq=001&Type=8"

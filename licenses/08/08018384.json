@@ -1,7 +1,7 @@
 {
     "code": "08018384",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018384",
-    "time": "2015-08-23 21:16:47",
+    "time": "2016-09-09 03:18:05",
     "許可證字號": "衛署粧輸字第018384號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,6 +34,15 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "C260254000  B.S.P CO., LTD.",
+            "製造廠廠址": "517,Nishi-akatani,Waki-machi,Mima,Tokushima,\r\nJapan",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -42,6 +51,16 @@
             "含量描述": "",
             "含量": "3.8000000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08018384-105-09-01.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018384&Seq=002&Type=8"
+        },
+        {
+            "title": "08018384-105-08-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018384&Seq=001&Type=8"
         }
     ]
 }

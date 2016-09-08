@@ -1,7 +1,7 @@
 {
     "code": "08009370",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08009370",
-    "time": "2016-07-29 05:54:27",
+    "time": "2016-09-09 03:15:43",
     "許可證字號": "衛署粧輸字第009370號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,13 +13,13 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00800937002",
     "中文品名": "１３０號金燦珍顏護膚霜",
-    "英文品名": "MARIA GALLAND CREME PRECIEUSE ECLAT JEUNESSE (130) (RADIANCE OF YOUTH PRECIOUS CREAM 130)",
+    "英文品名": "Maria Galland Cr&#232;me Precieuse 130(Precious Cream 130)",
     "用途": "防曬、預防皮膚曬傷及曬黑、抗皺、淡化細紋、保濕滋養肌膚。",
     "劑型": "992霜劑",
     "包裝": "500ML以下罐裝 附外紙盒裝",
     "化粧品類別": "0708防晒面霜",
     "": "",
-    "主成分略述": "RETINYL PALMITATE, TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE), ETHYLHEXYL METHOXYCINNAMATE",
+    "主成分略述": "ETHYLHEXYL METHOXYCINNAMATE",
     "限制項目": [
         "02輸入"
     ],
@@ -37,27 +37,17 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "8428001930",
-            "成分名稱": "RETINYL PALMITATE",
-            "含量描述": "",
-            "含量": "0.1500000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9602020800",
-            "成分名稱": "TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)",
-            "含量描述": "",
-            "含量": "0.5000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "9900071200",
             "成分名稱": "ETHYLHEXYL METHOXYCINNAMATE",
             "含量描述": "",
             "含量": "7.0000000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08009370-105-08-10.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08009370&Seq=001&Type=8"
         }
     ]
 }

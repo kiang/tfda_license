@@ -1,7 +1,7 @@
 {
     "code": "02023681",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023681",
-    "time": "2015-08-24 01:34:52",
+    "time": "2016-09-09 03:04:48",
     "許可證字號": "衛署藥輸字第023681號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,6 +34,15 @@
     },
     "CCC號列": "30043200002 含有腎上腺皮質類固醇荷爾蒙，其衍生物及結構式類似者Containing adrenal corticosteroid hormones, their derivatives and structural analogues",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "6131180602  台灣美強股份有限公司",
+            "製造廠廠址": "新北市深坑區北深路3段155巷5號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "貼標廠"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -42,6 +51,16 @@
             "含量描述": "",
             "含量": "0.9850000000",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "Dexagel (衛署藥輸字第023681號.)-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023681&Seq=001&Type=9"
+        },
+        {
+            "title": "Dexagel (衛署藥輸字第023681號)-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023681&Seq=001&Type=8"
         }
     ]
 }

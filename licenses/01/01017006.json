@@ -1,7 +1,7 @@
 {
     "code": "01017006",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01017006",
-    "time": "2016-03-25 04:49:52",
+    "time": "2016-09-09 03:00:34",
     "許可證字號": "衛署藥製字第017006號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,8 +12,8 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00101700603",
-    "中文品名": "\"歐業\"風濕痛膠囊",
-    "英文品名": "FONES-TON CAPSULES \"K.B.\"",
+    "中文品名": "&quot;歐業&quot;風濕痛膠囊",
+    "英文品名": "FONES-TON CAPSULES &quot;K.B.&quot;",
     "適應症": "神經痛、關節炎、肌肉痛、風濕痛、手術後肌痛、及肌肉痙攣強直所致疼痛之緩解",
     "劑型": "130膠囊劑",
     "包裝": "盒裝 瓶裝",
@@ -69,10 +69,38 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "20mm",
+        "特殊劑型": "",
+        "顏色": "綠\/白",
+        "特殊氣味": "",
+        "刻痕": "0",
+        "形狀": "",
+        "標記一": "OUYeh",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "風濕痛-104-12-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01017006&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
+        {
+            "title": "風濕痛-105-08-19(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01017006&Seq=002&Type=9"
+        },
         {
             "title": "風濕痛-104-05-22.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01017006&Seq=001&Type=9"
+        },
+        {
+            "title": "風濕痛-外銷-104-11-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01017006&Seq=002&Type=8"
+        },
+        {
+            "title": "images (4)-104-09-25.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01017006&Seq=001&Type=8"
         }
     ]
 }

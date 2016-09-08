@@ -1,7 +1,7 @@
 {
     "code": "02022770",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022770",
-    "time": "2015-08-23 11:13:37",
+    "time": "2016-09-09 03:04:20",
     "許可證字號": "衛署藥輸字第022770號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,6 +34,15 @@
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "1225204000  裕利股份有限公司",
+            "製造廠廠址": "桃園市大園區和平村1鄰舊厝子1之2號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠(委託貼標及置入仿單)"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -46,12 +55,24 @@
     ],
     "仿單外盒": [
         {
+            "title": "Nimbex injection 2mg L876-302-05_10000000123422-104-09-09(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022770&Seq=004&Type=9"
+        },
+        {
             "title": "020227700001-102-12-03.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022770&Seq=003&Type=9"
         },
         {
             "title": "020227700001.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022770&Seq=002&Type=9"
+        },
+        {
+            "title": "GEP Pack 10000000123425-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022770&Seq=002&Type=8"
+        },
+        {
+            "title": "Nimbex M876-302-05_10000000123424-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022770&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "02025498",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025498",
-    "time": "2015-08-23 12:04:12",
+    "time": "2016-09-09 03:27:31",
     "許可證字號": "衛署藥輸字第025498號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "6-1000錠玻璃瓶裝 6-1000錠鋁箔盒裝",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
     "管制藥品分類級別": "",
-    "主成分略述": "FURSULTIAMINE HYDROCHLORIDE, PYRIDOXINE HYDROCHLORIDE, CYANOCOBALAMIN (ANHYDROUS), CALCIUM PANTOTHENATE TYPE S, TOCOPHEROL CALCIUM SUCCINATE",
+    "主成分略述": "ORYZANOL GAMMA-, FURSULTIAMINE HYDROCHLORIDE, PYRIDOXINE HYDROCHLORIDE, CYANOCOBALAMIN (ANHYDROUS), CALCIUM PANTOTHENATE TYPE S, TOCOPHEROL CALCIUM SUCCINATE",
     "限制項目": [
         "02輸入"
     ],
@@ -35,6 +35,14 @@
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2820002103",
+            "成分名稱": "ORYZANOL GAMMA-",
+            "含量描述": "",
+            "含量": "3.3300000000",
+            "單位": "MG"
+        },
         {
             "成分類別": "主成分",
             "成分代碼": "8810102510",
@@ -77,6 +85,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "金壕_舒適康糖衣錠_1050712-105-07-12(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025498&Seq=002&Type=9"
+        },
         {
             "title": "舒適康糖衣錠___20110908.docx",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025498&Seq=001&Type=9"

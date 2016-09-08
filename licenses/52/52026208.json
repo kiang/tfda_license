@@ -1,7 +1,7 @@
 {
     "code": "52026208",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026208",
-    "time": "2015-11-27 05:17:05",
+    "time": "2016-09-09 03:07:26",
     "許可證字號": "衛部藥輸字第026208號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -35,6 +35,15 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "6605071926  久裕企業股份有限公司(委託包裝)",
+            "製造廠廠址": "桃園市桃園區大林里興邦路43巷2之1號4樓",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "貼標廠"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -47,8 +56,16 @@
     ],
     "仿單外盒": [
         {
+            "title": "[打樣版]PI_Resolor_1mg_EUSmPC 10Aug2010_v1501_2015-12-30-105-01-03(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026208&Seq=002&Type=9"
+        },
+        {
             "title": "Resolor FC Tablets 2mg 中文仿單-103-03-20.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026208&Seq=001&Type=9"
+        },
+        {
+            "title": "Resolor 2mg box-104-09-27(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026208&Seq=006&Type=8"
         },
         {
             "title": "Resolor FC Tablets 2mg 鋁箔-103-03-20.pdf",

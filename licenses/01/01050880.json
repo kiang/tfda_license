@@ -1,7 +1,7 @@
 {
     "code": "01050880",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01050880",
-    "time": "2015-08-23 04:30:17",
+    "time": "2016-09-09 03:02:56",
     "許可證字號": "衛署藥製字第050880號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -52,12 +52,36 @@
             "含量描述": "(Potency)",
             "含量": "1.0000000000",
             "單位": "GM"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812302920",
+            "成分名稱": "CEFEPIME (AS HYDROCHLORIDE)",
+            "含量描述": "(Potency)",
+            "含量": "2.0000000000",
+            "單位": "GM"
         }
     ],
     "仿單外盒": [
         {
+            "title": "54031289 Cefepime Injectable (Lit)-(印刷版次3)-104-12-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050880&Seq=002&Type=9"
+        },
+        {
             "title": "Cefepime Injectable-103-09-03.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050880&Seq=001&Type=9"
+        },
+        {
+            "title": "54032059 Cefepime Injectable(L-2.0g)-(印刷版次1)-105-02-25(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050880&Seq=003&Type=8"
+        },
+        {
+            "title": "54031639 Cefepime Injectable(L-1.0g)-(印刷版次1)-105-02-25(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050880&Seq=002&Type=8"
+        },
+        {
+            "title": "54031279 Cefepime Injectable(L-0.5g)-(規格版次02)-105-02-25(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050880&Seq=001&Type=8"
         }
     ]
 }

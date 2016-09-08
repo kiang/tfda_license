@@ -1,7 +1,7 @@
 {
     "code": "02017528",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02017528",
-    "time": "2016-05-27 05:14:18",
+    "time": "2016-09-09 03:03:42",
     "許可證字號": "衛署藥輸字第017528號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -36,6 +36,13 @@
     "藥理治療分類": "",
     "次製造廠": [
         {
+            "製造廠名稱": "1225204000  裕利股份有限公司",
+            "製造廠廠址": "桃園市大園區和平村1鄰舊厝子1之2號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠(委託貼標及置入仿單)"
+        },
+        {
             "製造廠名稱": "F020037000  GLAXOSMITHKLINE AUSTRALIA PTY LTD.",
             "製造廠廠址": "1061 MOUNTAIN HIGHWAY, BORONIA, VICTORIA 3155,AUSTRALIA",
             "製造廠公司地址": "",
@@ -53,10 +60,38 @@
             "單位": "MCG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "4.8cm x 9.9cm",
+        "特殊劑型": "",
+        "顏色": "藍綠色吸入器和金屬罐",
+        "特殊氣味": "",
+        "刻痕": "0",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "020175280003-104-09-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017528&Seq=003&Type=10"
+        },
+        {
+            "title": "020175280002-104-09-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017528&Seq=002&Type=10"
+        },
+        {
+            "title": "020175280001-104-09-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017528&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "020175280001-105-03-28.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017528&Seq=011&Type=9"
+        },
+        {
+            "title": "Ventolin Inhaler L811-608-03_10000000129233-104-09-03(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017528&Seq=012&Type=9"
         },
         {
             "title": "020175280002-103-09-09.pdf",
@@ -97,6 +132,10 @@
         {
             "title": "020175280001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017528&Seq=001&Type=9"
+        },
+        {
+            "title": "Ventolin Inhaler M811-608-02_10000000129231-104-09-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017528&Seq=001&Type=8"
         }
     ]
 }

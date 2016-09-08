@@ -1,7 +1,7 @@
 {
     "code": "51R00033",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51R00033",
-    "time": "2016-02-26 04:40:11",
+    "time": "2016-09-09 03:07:23",
     "許可證字號": "衛部藥製字第R00033號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -41,14 +41,22 @@
             "成分代碼": "7800000200",
             "成分名稱": "2-Deoxy-2-[18F]fluoro-D-glucose",
             "含量描述": "370MBq at calibration time (10 mCi at calibration time)",
-            "含量": "0.0000000000",
-            "單位": ""
+            "含量": "370.0000000000",
+            "單位": "MBq"
         }
     ],
     "仿單外盒": [
         {
+            "title": "01.101-mf18(3.6) 藥品仿單20150206-105-01-18(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51R00033&Seq=002&Type=9"
+        },
+        {
             "title": "2-1仿單黏貼表-104-02-09.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51R00033&Seq=001&Type=9"
+        },
+        {
+            "title": "01.101-mf17(2.2)產品包裝容器及標籤格式(20150306)-105-01-18(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51R00033&Seq=002&Type=8"
         },
         {
             "title": "3-1外盒、標籤黏貼表-104-02-09.pdf",

@@ -1,7 +1,7 @@
 {
     "code": "01021138",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01021138",
-    "time": "2015-08-22 20:34:25",
+    "time": "2016-09-09 03:00:43",
     "許可證字號": "衛署藥製字第021138號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,10 +16,10 @@
     "英文品名": "SCARTENAN OINTMENT",
     "適應症": "外傷傷口、手術時的傷口、僂管性骨炎、潰瘍性靜脈曲張、動脈潰瘍、疤痕及預防燙傷癒合後引起的皮膚萎縮及瘢瘤",
     "劑型": "360軟膏劑",
-    "包裝": "管裝 罐裝",
+    "包裝": "5,10,15,20,30,40公克管裝 100公克罐裝",
     "藥品類別": "07須經醫師指示使用",
     "管制藥品分類級別": "",
-    "主成分略述": "ACETAMIDOCAPROIC ACID -EPSILON (ACEXAMIC ACID), ACEXAMIC ACID, SORBIC ACID",
+    "主成分略述": "ACETAMIDOCAPROIC ACID -EPSILON (ACEXAMIC ACID)",
     "限制項目": [
         "01國產"
     ],
@@ -42,25 +42,13 @@
             "含量描述": "50",
             "含量": "50.0000000000",
             "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "8406000102",
-            "成分名稱": "ACEXAMIC ACID",
-            "含量描述": "",
-            "含量": "50.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9600029000",
-            "成分名稱": "SORBIC ACID",
-            "含量描述": "2",
-            "含量": "2.0000000000",
-            "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "抗疤能軟膏仿單-104-12-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021138&Seq=012&Type=9"
+        },
         {
             "title": "010211380011.JPG",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021138&Seq=011&Type=9"
@@ -104,6 +92,10 @@
         {
             "title": "010211380001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021138&Seq=001&Type=9"
+        },
+        {
+            "title": "抗疤能軟膏-外盒-104-12-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021138&Seq=001&Type=8"
         }
     ]
 }
