@@ -1,7 +1,7 @@
 {
     "code": "09000113",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=09000113",
-    "time": "2016-09-16 03:06:39",
+    "time": "2016-09-23 03:06:26",
     "許可證字號": "衛署菌疫製字第000113號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "0.5公撮(1 Syringe\/盒)注射針筒 0.25公撮、0.5公撮(20 Syringe\/盒)注射針筒 0.5公撮、1公撮、5公撮、20公撮(10瓶\/盒)玻璃瓶裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "主成分略述": "A\/California\/7\/2009(H1N1)-like virus, A\/Switzerland\/9715293\/2013 (H3N2) like virus, B\/Phuket\/3073\/2013",
+    "主成分略述": "A\/California\/7\/2009(H1N1)-like virus, A\/California\/7\/2009 (H1N1) like virus, A\/Hong Kong\/4801\/2014 (H3N2) like virus, B\/Brisbane\/60\/2008 like virus",
     "限制項目": [
         "01國產"
     ],
@@ -37,25 +37,25 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "8012002471",
-            "成分名稱": "A\/California\/7\/2009(H1N1)-like virus",
+            "成分代碼": "8012002479",
+            "成分名稱": "A\/California\/7\/2009 (H1N1) like virus",
             "含量描述": "",
             "含量": "30.0000000000",
             "單位": "MCG\/ML (=UG\/ML)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8012005770",
-            "成分名稱": "A\/Switzerland\/9715293\/2013 (H3N2) like virus",
-            "含量描述": "A(H3N2) virus antigenically like the cell-propagated prototype virus A",
+            "成分代碼": "8012005790",
+            "成分名稱": "A\/Hong Kong\/4801\/2014 (H3N2) like virus",
+            "含量描述": "",
             "含量": "30.0000000000",
             "單位": "MCG\/ML (=UG\/ML)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8012006220",
-            "成分名稱": "B\/Phuket\/3073\/2013",
-            "含量描述": "like virus",
+            "成分代碼": "8012006540",
+            "成分名稱": "B\/Brisbane\/60\/2008 like virus",
+            "含量描述": "",
             "含量": "30.0000000000",
             "單位": "MCG\/ML (=UG\/ML)"
         },
