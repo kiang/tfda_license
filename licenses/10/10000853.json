@@ -1,7 +1,7 @@
 {
     "code": "10000853",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000853",
-    "time": "2015-08-23 13:39:58",
+    "time": "2016-10-07 03:07:01",
     "許可證字號": "衛署菌疫輸字第000853號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "小瓶附注射針筒裝溶液及輸注器",
     "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "主成分略述": "MOROCTOCOG Alfa, 0.9% SODIUM CHLORIDE",
+    "主成分略述": "MOROCTOCOG Alfa",
     "限制項目": [
         "02輸入"
     ],
@@ -36,6 +36,13 @@
     "藥理治療分類": "",
     "次製造廠": [
         {
+            "製造廠名稱": "F420045100  Swedish Orphan Biovitrum AB (publ)",
+            "製造廠廠址": "Strandbergsgatan 49 SE-112 76, Stockholm, Sweden",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWEDEN",
+            "製程": "主成分(drug substance)製造廠"
+        },
+        {
             "製造廠名稱": "F470267600  VETTER PHARMA - FERTIGUNG GMBH &amp; CO. KG",
             "製造廠廠址": "SCHUTZENSTRABE 87 AND 99-101 88212 RAVENSBURG, GERMANY",
             "製造廠公司地址": "",
@@ -51,14 +58,6 @@
             "含量描述": "",
             "含量": "250.0000000000",
             "單位": "IU"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "4012002120",
-            "成分名稱": "0.9% SODIUM CHLORIDE",
-            "含量描述": "",
-            "含量": "4.0000000000",
-            "單位": "ML"
         }
     ],
     "仿單外盒": [
@@ -85,6 +84,10 @@
         {
             "title": "020008530001___20110610.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000853&Seq=001&Type=9"
+        },
+        {
+            "title": "Xyntha 250IU_外盒包裝核定本-104-09-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000853&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "02021369",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021369",
-    "time": "2015-08-23 10:12:03",
+    "time": "2016-10-07 03:33:39",
     "許可證字號": "衛署藥輸字第021369號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "軟管裝",
     "藥品類別": "17醫師藥師藥劑生指示藥",
     "管制藥品分類級別": "",
-    "主成分略述": "MICONAZOLE NITRATE, HYDROCORTAMATE",
+    "主成分略述": "MICONAZOLE NITRATE, HYDROCORTISONE",
     "限制項目": [
         "02輸入"
     ],
@@ -45,14 +45,18 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8406001600",
-            "成分名稱": "HYDROCORTAMATE",
+            "成分代碼": "6804001100",
+            "成分名稱": "HYDROCORTISONE",
             "含量描述": "10",
             "含量": "10.0000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "Candiplas H cream 2016-104-12-10.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021369&Seq=002&Type=9"
+        },
         {
             "title": "020213690001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021369&Seq=001&Type=9"

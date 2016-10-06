@@ -1,7 +1,7 @@
 {
     "code": "02007152",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02007152",
-    "time": "2016-05-27 05:13:59",
+    "time": "2016-10-07 03:04:34",
     "許可證字號": "衛署藥輸字第007152號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -65,11 +65,19 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "tablet-104-09-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02007152&Seq=418&Type=10"
+        },
+        {
             "title": "圖片",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02007152&Seq=417&Type=10"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "020071520001-105-09-30.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02007152&Seq=005&Type=9"
+        },
         {
             "title": "020071520001-104-04-27.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02007152&Seq=004&Type=9"
@@ -85,6 +93,10 @@
         {
             "title": "020071520001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02007152&Seq=001&Type=9"
+        },
+        {
+            "title": "carton-104-09-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02007152&Seq=001&Type=8"
         }
     ]
 }

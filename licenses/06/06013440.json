@@ -1,7 +1,7 @@
 {
     "code": "06013440",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06013440",
-    "time": "2015-09-25 05:23:11",
+    "time": "2016-10-07 03:10:15",
     "許可證字號": "衛署醫器輸字第013440號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,7 +15,7 @@
     "中文品名": "希摩西爾抗凝血酶測定試劑",
     "英文品名": "HemosIL Liquid Antithrombin assay",
     "效能": "利用比色方法測定人類血漿中抗凝血&#37238;(antithrombin)的濃度。",
-    "醫器規格": "110 tests\/kit",
+    "醫器規格": "110 tests\/kit\r\n增加規格：0020300400、0020030100，以下空白。",
     "劑型": "",
     "包裝": "",
     "醫器主類別一": "B血液學及病理學用裝置",
@@ -39,10 +39,12 @@
     },
     "CCC號列": "38220090902 其他診斷或實驗用有底襯之試劑及診斷或實驗用之配製試劑，不論是否有底襯，不包括第３００２節或第３００６節所列者Other diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading 30.02 or 30.06",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
+        {
+            "title": "060134400008-105-09-20.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013440&Seq=008&Type=9"
+        },
         {
             "title": "060134400007.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013440&Seq=007&Type=9"
@@ -70,6 +72,10 @@
         {
             "title": "060134400001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013440&Seq=001&Type=9"
+        },
+        {
+            "title": "060134400008-105-09-20.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013440&Seq=003&Type=8"
         },
         {
             "title": "060134400002.jpg",

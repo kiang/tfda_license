@@ -1,7 +1,7 @@
 {
     "code": "12010213",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12010213",
-    "time": "2016-06-24 05:03:16",
+    "time": "2016-10-07 03:07:12",
     "許可證字號": "內衛藥製字第010213號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,14 +12,14 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY01201021303",
-    "中文品名": "\"南光\"美使癢丁注射液",
-    "英文品名": "BISOTIN INJECTION \"N.K.\"",
+    "中文品名": "&quot;南光&quot;美使癢丁注射液",
+    "英文品名": "BISOTIN INJECTION &quot;N.K.&quot;",
     "適應症": "急、慢性皮膚炎、急慢性濕疹、搔癢症、過敏症、蕁麻疹、藥物疹、藥物過敏",
     "劑型": "270注射劑",
     "包裝": "安瓿",
     "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "主成分略述": "CHLORPHENIRAMINE MALEATE, METHIONINE DL-, BIOTIN, NIACINAMIDE (NICOTINAMIDE), THIAMINE HYDROCHLORIDE, RIBOFLAVIN (VIT B2), PYRIDOXINE HCL, INOSITOL (MESO-INOSITOL)",
+    "主成分略述": "CHLORPHENIRAMINE MALEATE, METHIONINE DL-, BIOTIN, NIACINAMIDE (NICOTINAMIDE), THIAMINE HYDROCHLORIDE, RIBOFLAVIN PHOSPHATE SODIUM, PYRIDOXINE HCL, INOSITOL (MESO-INOSITOL)",
     "限制項目": [
         "01國產"
     ],
@@ -39,7 +39,7 @@
             "成分類別": "主成分",
             "成分代碼": "0400000810",
             "成分名稱": "CHLORPHENIRAMINE MALEATE",
-            "含量描述": "2",
+            "含量描述": "",
             "含量": "2.0000000000",
             "單位": "MG"
         },
@@ -47,7 +47,7 @@
             "成分類別": "主成分",
             "成分代碼": "4020101503",
             "成分名稱": "METHIONINE DL-",
-            "含量描述": "30",
+            "含量描述": "",
             "含量": "30.0000000000",
             "單位": "MG"
         },
@@ -55,7 +55,7 @@
             "成分類別": "主成分",
             "成分代碼": "8810000100",
             "成分名稱": "BIOTIN",
-            "含量描述": "0.25",
+            "含量描述": "",
             "含量": "0.2500000000",
             "單位": "MG"
         },
@@ -63,7 +63,7 @@
             "成分類別": "主成分",
             "成分代碼": "8810000300",
             "成分名稱": "NIACINAMIDE (NICOTINAMIDE)",
-            "含量描述": "10",
+            "含量描述": "",
             "含量": "10.0000000000",
             "單位": "MG"
         },
@@ -71,15 +71,15 @@
             "成分類別": "主成分",
             "成分代碼": "8810100900",
             "成分名稱": "THIAMINE HYDROCHLORIDE",
-            "含量描述": "10",
+            "含量描述": "",
             "含量": "10.0000000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8810200400",
-            "成分名稱": "RIBOFLAVIN (VIT B2)",
-            "含量描述": "(as Sodium Phosphate)",
+            "成分代碼": "8810200700",
+            "成分名稱": "RIBOFLAVIN PHOSPHATE SODIUM",
+            "含量描述": "",
             "含量": "2.0000000000",
             "單位": "MG"
         },
@@ -87,7 +87,7 @@
             "成分類別": "主成分",
             "成分代碼": "8810600300",
             "成分名稱": "PYRIDOXINE HCL",
-            "含量描述": "5",
+            "含量描述": "",
             "含量": "5.0000000000",
             "單位": "MG"
         },
@@ -95,12 +95,16 @@
             "成分類別": "主成分",
             "成分代碼": "8813000100",
             "成分名稱": "INOSITOL (MESO-INOSITOL)",
-            "含量描述": "10",
+            "含量描述": "",
             "含量": "10.0000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "068010213_仿單_101713-00-104-09-29(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12010213&Seq=003&Type=9"
+        },
         {
             "title": "068(內衛藥製字第010213號)美使癢丁注射液-103-02-19.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12010213&Seq=002&Type=9"
@@ -108,6 +112,14 @@
         {
             "title": "120102130001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12010213&Seq=001&Type=9"
+        },
+        {
+            "title": "068010213_彩盒(2mLx100A)_032414-01-104-09-29(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12010213&Seq=002&Type=8"
+        },
+        {
+            "title": "068010213_自黏標(2mL)_012715-01-104-09-29(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12010213&Seq=001&Type=8"
         }
     ]
 }

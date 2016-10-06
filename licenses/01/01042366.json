@@ -1,7 +1,7 @@
 {
     "code": "01042366",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01042366",
-    "time": "2015-08-23 01:50:09",
+    "time": "2016-10-07 03:03:04",
     "許可證字號": "衛署藥製字第042366號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,10 +16,10 @@
     "英文品名": "MUCAINE TABLETS",
     "適應症": "胃酸過多引起之胃痛及胃灼熱。",
     "劑型": "110錠劑",
-    "包裝": "塑膠容器裝 鋁箔盒裝",
+    "包裝": "32-1000粒塑膠瓶裝 32-1000粒鋁箔盒裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "主成分略述": "ALUMINUM HYDROXIDE (ALUMINA HYDRATED), MAGNESIUM CARBONATE, OXETHAZAINE",
+    "主成分略述": "Aluminum Hydroxide Dried, MAGNESIUM CARBONATE, OXETHAZAINE",
     "限制項目": [
         "01國產"
     ],
@@ -37,10 +37,10 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "5604000200",
-            "成分名稱": "ALUMINUM HYDROXIDE (ALUMINA HYDRATED)",
-            "含量描述": "(DRIED) 165",
-            "含量": "",
+            "成分代碼": "5604000260",
+            "成分名稱": "Aluminum Hydroxide Dried",
+            "含量描述": "",
+            "含量": "165.0000000000",
             "單位": "MG"
         },
         {
@@ -72,14 +72,26 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "Mucaine Tablets 外觀-104-09-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042366&Seq=379&Type=10"
+        },
+        {
             "title": "圖片",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042366&Seq=378&Type=10"
         }
     ],
     "仿單外盒": [
         {
+            "title": "Mucaine Populating (Taiwan 19981229)-2-104-09-25(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042366&Seq=002&Type=9"
+        },
+        {
             "title": "010423660001.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042366&Seq=001&Type=9"
+        },
+        {
+            "title": "Mucaine Tablets carton-104-09-11.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042366&Seq=001&Type=8"
         }
     ]
 }

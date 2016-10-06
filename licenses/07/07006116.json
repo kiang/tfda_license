@@ -1,7 +1,7 @@
 {
     "code": "07006116",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07006116",
-    "time": "2015-08-22 04:13:47",
+    "time": "2016-10-07 03:16:07",
     "許可證字號": "衛署粧製字第006116號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,14 +12,14 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00700611608",
-    "中文品名": "夢17泡泡染髮乳(櫻桃紅)、夢17無PPD泡泡染髮乳(櫻桃紅)、美髮時空泡泡染髮乳(櫻桃紅)、玩美染髮乳(櫻桃紅)、快速染髮乳(櫻桃紅)、輕鬆染髮乳(櫻桃紅)、獨染風騷染髮乳 (櫻桃紅)",
+    "中文品名": "夢17泡泡染髮乳、夢17無PPD泡泡染髮乳、快速染髮乳、輕鬆染髮乳、美髮時空泡泡染髮乳、獨染風騷染髮乳、玩美染髮乳、夢17泡沫染髮乳、夢17泡泡香香染髮乳、泡泡香香染髮乳、泡泡染髮乳、風采泡泡染髮乳、獨染風騷泡泡染髮乳、美髮時空染髮乳、立體護髮染、夢17立體護髮染-櫻桃紅、楓糖紅、栗子紅(第一劑、第二劑)",
     "英文品名": "\/",
     "用途": "染髮。",
-    "劑型": "944乳劑",
-    "包裝": "500ml以下瓶裝附外盒 500ml以下鋁箔袋裝",
+    "劑型": "084液劑(第一劑)",
+    "包裝": "500ml以下袋裝附外盒",
     "化粧品類別": "0110染髮劑",
     "": "",
-    "主成分略述": "AMMONIA SOLUTION (29%), HYDROGEN PEROXIDE 50%, CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL), M-AMINOPHENOL SULFATE, P-AMINOPHENOL, TOLUENE-2,5-DIAMINE SULFATE, 1-HYDROXYETHYL-4,5-DIAMINO-PYRAZOLE SULFATE",
+    "主成分略述": "HYDROGEN PEROXIDE 50%, CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL), P-AMINOPHENOL, TOLUENE-2,5-DIAMINE SULFATE, 1-HYDROXYETHYL-4,5-DIAMINO-PYRAZOLE SULFATE",
     "限制項目": [
         "01國產"
     ],
@@ -37,26 +37,10 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000129",
-            "成分名稱": "AMMONIA SOLUTION (29%)",
-            "含量描述": "",
-            "含量": "2.5000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "9200002612",
             "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
             "含量描述": "",
-            "含量": "0.1000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200035430",
-            "成分名稱": "M-AMINOPHENOL SULFATE",
-            "含量描述": "",
-            "含量": "0.8000000000",
+            "含量": "0.5000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -64,7 +48,7 @@
             "成分代碼": "9200035440",
             "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
-            "含量": "0.2000000000",
+            "含量": "0.3500000000",
             "單位": "%(W\/W)"
         },
         {
@@ -72,7 +56,7 @@
             "成分代碼": "9900066200",
             "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
             "含量描述": "",
-            "含量": "0.0500000000",
+            "含量": "2.3000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -80,7 +64,7 @@
             "成分代碼": "9900097240",
             "成分名稱": "1-HYDROXYETHYL-4,5-DIAMINO-PYRAZOLE SULFATE",
             "含量描述": "",
-            "含量": "1.5000000000",
+            "含量": "0.3500000000",
             "單位": "%(W\/W)"
         },
         {
@@ -94,8 +78,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "07006116___20120611.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006116&Seq=001&Type=8"
+            "title": "07006116(外銷)-105-09-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006116&Seq=004&Type=8"
+        },
+        {
+            "title": "07006116-105-09-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006116&Seq=003&Type=8"
+        },
+        {
+            "title": "07006116-105-09-08.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006116&Seq=002&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "10000743",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000743",
-    "time": "2015-12-25 04:17:24",
+    "time": "2016-10-07 03:06:53",
     "許可證字號": "衛署菌疫輸字第000743號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,8 +12,8 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA01000074306",
-    "中文品名": "栓體舒注射液",
-    "英文品名": "ACTILYSE INJECTION",
+    "中文品名": "栓體舒注射液50毫克",
+    "英文品名": "ACTILYSE INJECTION 50MG",
     "適應症": "急性冠狀動脈栓塞之血栓溶解、急性大片肺栓塞、急性缺血性中風之血栓溶解。",
     "劑型": "270注射劑",
     "包裝": "1小瓶盒裝 附1小瓶裝溶劑",
@@ -45,6 +45,14 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "020007430001-105-09-07.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000743&Seq=042&Type=9"
+        },
+        {
+            "title": "50 mg_仿單-104-12-25(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000743&Seq=041&Type=9"
+        },
         {
             "title": "100007430039.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000743&Seq=039&Type=9"
@@ -200,6 +208,10 @@
         {
             "title": "100007430001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000743&Seq=001&Type=9"
+        },
+        {
+            "title": "50 mg_外盒-104-12-25(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000743&Seq=002&Type=8"
         }
     ]
 }

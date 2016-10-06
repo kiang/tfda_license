@@ -1,7 +1,7 @@
 {
     "code": "02024055",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024055",
-    "time": "2015-09-25 04:31:50",
+    "time": "2016-10-07 03:05:45",
     "許可證字號": "衛署藥輸字第024055號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,16 +12,17 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00202405501",
-    "中文品名": "\"百特\" 費里歐尼爾 40含 2.27%葡萄糖腹膜透析液",
+    "中文品名": "&quot;百特&quot; 費里歐尼爾 40含 2.27%葡萄糖腹膜透析液",
     "英文品名": "PHYSIONEAL 40 GLUCOSE 2.27% W\/V\/22.7 MG\/ML SOLUTION FOR PERITONEAL DIALYSIS",
     "適應症": "腹膜透析。",
     "劑型": "272透析用液劑",
     "包裝": "5000公撮以下塑膠軟袋裝",
     "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "主成分略述": "SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE), SODIUM LACTATE, CALCIUM CHLORIDE DIHYDRATE, SODIUM CHLORIDE, GLUCOSE MONOHYDRATE",
+    "主成分略述": "SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE), SODIUM LACTATE, CALCIUM CHLORIDE DIHYDRATE, MAGNESIUM CHLORIDE HEXAHYDRATE (EQ TO MAGNESIUM CHLORIDE 6H2O), SODIUM CHLORIDE, GLUCOSE MONOHYDRATE",
     "限制項目": [
         "02輸入",
+        "1Q不得輸入",
         "53依本署七七公告事項八得免除國內進行臨床試驗之特殊醫療需要之新藥"
     ],
     "申請商名稱": "0617501100  百特醫療產品股份有限公司",
@@ -42,6 +43,14 @@
             "成分名稱": "CALCIUM CHLORIDE DIHYDRATE",
             "含量描述": "",
             "含量": "0.5070000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "4012001550",
+            "成分名稱": "MAGNESIUM CHLORIDE HEXAHYDRATE (EQ TO MAGNESIUM CHLORIDE 6H2O)",
+            "含量描述": "",
+            "含量": "0.1400000000",
             "單位": "MG"
         },
         {
@@ -79,12 +88,24 @@
     ],
     "仿單外盒": [
         {
+            "title": "020240550001-105-09-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024055&Seq=004&Type=9"
+        },
+        {
+            "title": "Physioneal 40 Glucose 2.27% -PI 20140428-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024055&Seq=003&Type=9"
+        },
+        {
             "title": "020240550001-103-04-29.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024055&Seq=002&Type=9"
         },
         {
             "title": "020240550001-103-02-14.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024055&Seq=001&Type=9"
+        },
+        {
+            "title": "Physioneal 40 Glucose 2.27% -Label 20041122-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024055&Seq=001&Type=8"
         }
     ]
 }

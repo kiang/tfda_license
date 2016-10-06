@@ -1,11 +1,11 @@
 {
     "code": "01014938",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01014938",
-    "time": "2015-08-22 19:45:54",
+    "time": "2016-10-07 03:19:39",
     "許可證字號": "衛署藥製字第014938號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "105\/09\/10",
+    "註銷理由": "許可證已逾有效期",
     "有效日期": "102\/05\/25",
     "發證日期": "67\/05\/26",
     "許可證種類": "製　劑",
@@ -13,7 +13,7 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00101493801",
     "中文品名": "寧爾咳膠囊",
-    "英文品名": "NINELKER CAPSULES \"GENTLE\"",
+    "英文品名": "NINELKER CAPSULES &quot;GENTLE&quot;",
     "適應症": "緩解感冒之各種症狀(流鼻水、鼻塞、打噴嚏、咽喉痛、咳嗽、喀痰、畏寒、關節痛、肌肉酸痛)。",
     "劑型": "130膠囊劑",
     "包裝": "6-1000粒塑膠瓶裝",
@@ -96,14 +96,26 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "寧爾咳t-104-11-16(廠商自行上傳).PDF",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014938&Seq=067&Type=10"
+        },
+        {
             "title": "圖片",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014938&Seq=066&Type=10"
         }
     ],
     "仿單外盒": [
         {
+            "title": "寧爾咳523.1仿單擬稿-1500909增賦形劑-ok-104-12-22(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014938&Seq=002&Type=9"
+        },
+        {
             "title": "010149380001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014938&Seq=001&Type=9"
+        },
+        {
+            "title": "寧爾咳膠囊中標-104-11-16(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014938&Seq=001&Type=8"
         }
     ]
 }

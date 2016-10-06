@@ -1,7 +1,7 @@
 {
     "code": "06010465",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010465",
-    "time": "2015-09-25 04:44:02",
+    "time": "2016-10-07 03:09:44",
     "許可證字號": "衛署醫器輸字第010465號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,8 +12,8 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00601046500",
-    "中文品名": "\"衛寶\" 普利司馬連續性液體管理系統",
-    "英文品名": "\"GAMBRO\" PRISMA CONTINUOUS FLUID MANAGEMENT SYSTEM",
+    "中文品名": "&quot;衛寶&quot; 普利司馬連續性液體管理系統",
+    "英文品名": "&quot;GAMBRO&quot; PRISMA CONTINUOUS FLUID MANAGEMENT SYSTEM",
     "效能": "",
     "醫器規格": "詳如中文仿單核定本",
     "劑型": "",
@@ -39,7 +39,15 @@
     },
     "CCC號列": "90189050002 人工腎（透析）裝置Artificial kidney (dialysis) apparatus",
     "藥理治療分類": "",
-    "ingredients": [
-
+    "ingredients": [],
+    "仿單外盒": [
+        {
+            "title": "010465 - Prisma Machine - Chinese IFU-105-03-02.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010465&Seq=001&Type=9"
+        },
+        {
+            "title": "010465 - Prisma Machine - Label-105-03-02.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010465&Seq=001&Type=8"
+        }
     ]
 }

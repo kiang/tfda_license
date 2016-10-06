@@ -1,7 +1,7 @@
 {
     "code": "01042091",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01042091",
-    "time": "2015-08-23 02:11:07",
+    "time": "2016-10-07 03:03:03",
     "許可證字號": "衛署藥製字第042091號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,14 +12,14 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00104209100",
-    "中文品名": "信騰注射劑（西他利丁）",
-    "英文品名": "SINTUM FOR INJECTION (CEFTAZIDIME)\"S.T.\"",
-    "適應症": "ＣＥＦＴＡＺＩＤＩＭＥ是殺菌性頭孢子菌抗生素、對多種乙內醯胺每有抵抗力、並對廣範圍的革蘭氏陽性菌及陰性菌有效。",
+    "中文品名": "&quot;信東&quot;信騰注射劑（西他利丁）",
+    "英文品名": "SINTUM FOR INJECTION (CEFTAZIDIME)&quot;S.T.&quot;",
+    "適應症": "ＣＥＦＴＡＺＩＤＩＭＥ是殺菌性頭孢子菌抗生素，對多種乙內醯胺酶有抵抗力，並對廣範圍的革蘭氏陽性菌及陰性菌有效。",
     "劑型": "240乾粉注射劑",
-    "包裝": "小瓶 盒裝",
+    "包裝": "0.5、1、2公克小瓶裝 100支以下盒裝",
     "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "主成分略述": "CEFTAZIDIME",
+    "主成分略述": "CEFTAZIDIME (5H2O)",
     "限制項目": [
         "01國產"
     ],
@@ -37,17 +37,53 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "0812302300",
-            "成分名稱": "CEFTAZIDIME",
-            "含量描述": "0.5",
+            "成分代碼": "0812392305",
+            "成分名稱": "CEFTAZIDIME (5H2O)",
+            "含量描述": "",
             "含量": "0.5000000000",
+            "單位": "GM"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812392305",
+            "成分名稱": "CEFTAZIDIME (5H2O)",
+            "含量描述": "",
+            "含量": "1.0000000000",
+            "單位": "GM"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812392305",
+            "成分名稱": "CEFTAZIDIME (5H2O)",
+            "含量描述": "",
+            "含量": "2.0000000000",
             "單位": "GM"
         }
     ],
     "仿單外盒": [
         {
-            "title": "Sintum for Inj.-103-07-18.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042091&Seq=001&Type=9"
+            "title": "信騰注射液(衛署藥製字第042091號)-仿單-105-08-29.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042091&Seq=003&Type=9"
+        },
+        {
+            "title": "信騰注射液(衛署藥製字第042091號)-標籤、印字盒-105-08-29.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042091&Seq=005&Type=8"
+        },
+        {
+            "title": "54191899 Sintum for Injection (L-2.0g)(2mlVail)(印刷版次1)-104-12-18(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042091&Seq=004&Type=8"
+        },
+        {
+            "title": "54191429 Sintum for Injection 1.0g(L)-蘭國(規格版次04)-104-10-23(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042091&Seq=003&Type=8"
+        },
+        {
+            "title": "54191409 Sintum for Inj.(L-2.0g)-蘭國(規格版次02)-104-10-23(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042091&Seq=002&Type=8"
+        },
+        {
+            "title": "54191399 Sintum for Inj.(box-2g)-蘭國(規格版次02)-104-10-23(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042091&Seq=001&Type=8"
         }
     ]
 }

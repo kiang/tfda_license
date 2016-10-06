@@ -1,7 +1,7 @@
 {
     "code": "01009271",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01009271",
-    "time": "2015-08-22 20:11:24",
+    "time": "2016-10-07 03:00:33",
     "許可證字號": "衛署藥製字第009271號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "500毫升玻璃瓶裝 100支以下盒裝",
     "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "主成分略述": "SODIUM LACTATE, CALCIUM CHLORIDE, POTASSIUM CHLORIDE, SODIUM CHLORIDE, SORBITOL D-",
+    "主成分略述": "SODIUM LACTATE, CALCIUM CHLORIDE DIHYDRATE, POTASSIUM CHLORIDE, SODIUM CHLORIDE, SORBITOL D-",
     "限制項目": [
         "01國產",
         "09委託製造"
@@ -40,14 +40,14 @@
             "成分類別": "主成分",
             "成分代碼": "4008000900",
             "成分名稱": "SODIUM LACTATE",
-            "含量描述": "",
+            "含量描述": "as 60%aqueous solution (2.5833g)",
             "含量": "1.5500000000",
             "單位": "GM"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "4012000300",
-            "成分名稱": "CALCIUM CHLORIDE",
+            "成分代碼": "4012000350",
+            "成分名稱": "CALCIUM CHLORIDE DIHYDRATE",
             "含量描述": "",
             "含量": "0.1000000000",
             "單位": "GM"
@@ -79,8 +79,32 @@
     ],
     "仿單外盒": [
         {
+            "title": "105.09.05 輸必得哈特曼 仿單標籤黏貼表-105-09-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01009271&Seq=004&Type=9"
+        },
+        {
+            "title": "201609051153-105-09-05.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01009271&Seq=003&Type=9"
+        },
+        {
+            "title": "01009271001-104-10-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01009271&Seq=002&Type=9"
+        },
+        {
             "title": "010092710001-2014-06-25.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01009271&Seq=001&Type=9"
+        },
+        {
+            "title": "105.09.05 輸必得哈特曼 仿單標籤黏貼表-105-09-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01009271&Seq=004&Type=8"
+        },
+        {
+            "title": "201609051153-105-09-05.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01009271&Seq=003&Type=8"
+        },
+        {
+            "title": "01009271002-104-10-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01009271&Seq=002&Type=8"
         },
         {
             "title": "010092710002-2014-06-25.pdf",

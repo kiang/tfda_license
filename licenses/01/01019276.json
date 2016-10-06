@@ -1,7 +1,7 @@
 {
     "code": "01019276",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01019276",
-    "time": "2016-03-25 03:56:50",
+    "time": "2016-10-07 03:01:17",
     "許可證字號": "衛署藥製字第019276號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,14 +12,14 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00101927603",
-    "中文品名": "\"台裕\" 久克坦注射液（硫辛酸）",
-    "英文品名": "THIOCTAN INJECTION (THIOCTIC ACID) \"TAI YU\"",
+    "中文品名": "&quot;台裕&quot; 久克坦注射液（硫辛酸）",
+    "英文品名": "THIOCTAN INJECTION (THIOCTIC ACID) &quot;TAI YU&quot;",
     "適應症": "維護肝臟正常功能",
     "劑型": "270注射劑",
     "包裝": "2毫升、5毫升安瓿 100支以下盒裝",
     "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "主成分略述": "THIOCTIC ACID (as sodium salt)",
+    "主成分略述": "THIOCTIC ACID (VIT B14ALPHA-LIPOIC ACID)",
     "限制項目": [
         "01國產"
     ],
@@ -37,14 +37,38 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "5656900730",
-            "成分名稱": "THIOCTIC ACID (as sodium salt)",
+            "成分代碼": "5656900700",
+            "成分名稱": "THIOCTIC ACID (VIT B14ALPHA-LIPOIC ACID)",
             "含量描述": "",
-            "含量": "10.0000000000",
+            "含量": "5.0000000000",
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "5ml",
+        "特殊劑型": "",
+        "顏色": "微黃色",
+        "特殊氣味": "無",
+        "刻痕": "2",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "[外觀]019276久克坦注射液(硫辛酸)(5毫升)-104-12-30.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019276&Seq=001&Type=10"
+        },
+        {
+            "title": "[外觀]019276久克坦注射液(硫辛酸)(5毫升)-104-12-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019276&Seq=002&Type=10"
+        }
+    ],
     "仿單外盒": [
+        {
+            "title": "019276久克坦-B-104-12-31.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019276&Seq=003&Type=9"
+        },
         {
             "title": "019276 久克坦-B-103-03-28.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019276&Seq=002&Type=9"
@@ -52,6 +76,14 @@
         {
             "title": "010192760001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019276&Seq=001&Type=9"
+        },
+        {
+            "title": "[外盒]019276久克坦注射液(硫辛酸)(5毫升)-104-12-30.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019276&Seq=002&Type=8"
+        },
+        {
+            "title": "[外盒]019276久克坦注射液(硫辛酸)(5毫升)-104-12-30.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019276&Seq=001&Type=8"
         }
     ]
 }

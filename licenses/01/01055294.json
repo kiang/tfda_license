@@ -1,7 +1,7 @@
 {
     "code": "01055294",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01055294",
-    "time": "2015-09-25 04:28:05",
+    "time": "2016-10-07 03:04:09",
     "許可證字號": "衛署藥製字第055294號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "100毫升以下塑膠瓶裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "主成分略述": "SODIUM PHOSPHATE DIBASIC HEPTAHYDRATE, SODIUM PHOSPHATE MONOBASIC MONOHYDRATE (SODIUM DIHYDROGEN PHOSPHATE MONOHYDRATE)",
+    "主成分略述": "SODIUM PHOSPHATE MONOBASIC MONOHYDRATE (SODIUM DIHYDROGEN PHOSPHATE MONOHYDRATE), DIBASIC SODIUM PHOSPHATE HEPTAHYDRATE",
     "限制項目": [
         "01國產",
         "25監視中學名藥"
@@ -38,18 +38,18 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "5612002609",
-            "成分名稱": "SODIUM PHOSPHATE DIBASIC HEPTAHYDRATE",
-            "含量描述": "",
-            "含量": "180.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "5612002617",
             "成分名稱": "SODIUM PHOSPHATE MONOBASIC MONOHYDRATE (SODIUM DIHYDROGEN PHOSPHATE MONOHYDRATE)",
             "含量描述": "",
             "含量": "480.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5612002694",
+            "成分名稱": "DIBASIC SODIUM PHOSPHATE HEPTAHYDRATE",
+            "含量描述": "",
+            "含量": "180.0000000000",
             "單位": "MG"
         }
     ],
@@ -65,6 +65,10 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "富利瀉-104-12-09(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055294&Seq=471&Type=10"
+        },
+        {
             "title": "圖片",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055294&Seq=470&Type=10"
         },
@@ -75,8 +79,32 @@
     ],
     "仿單外盒": [
         {
+            "title": "010552940001-105-09-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055294&Seq=003&Type=9"
+        },
+        {
+            "title": "富利瀉仿單-104-12-09(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055294&Seq=002&Type=9"
+        },
+        {
             "title": "010552940001___20101027.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055294&Seq=001&Type=9"
+        },
+        {
+            "title": "010552940002-105-09-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055294&Seq=006&Type=8"
+        },
+        {
+            "title": "010552940001-105-09-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055294&Seq=005&Type=8"
+        },
+        {
+            "title": "富利瀉瓶標-104-12-09(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055294&Seq=004&Type=8"
+        },
+        {
+            "title": "富利瀉外盒-104-12-09(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055294&Seq=003&Type=8"
         },
         {
             "title": "010552940003___20101027.jpg",

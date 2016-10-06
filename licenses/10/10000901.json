@@ -1,7 +1,7 @@
 {
     "code": "10000901",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000901",
-    "time": "2016-06-24 05:01:44",
+    "time": "2016-10-07 03:07:04",
     "許可證字號": "衛署菌疫輸字第000901號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "包裝": "0.5毫克針筒裝 100支以下盒裝",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "主成分略述": "A\/California\/7\/2009(H1N1)-pdm09 like strain(A\/California\/7\/2009, NYMC X-181 ), A\/Switzerland\/9715293\/2013 (H3N2)-like strain (A\/Switzerland\/9715293\/2013, NIB-88), B\/Phuket\/3073\/2013-like strain (B\/Brisbane\/9\/2014, wild type)",
+    "主成分略述": "A\/California\/7\/2009 (H1N1)pdm09-like strain (A\/California\/7\/2009, NYMC X-181), A\/Hong Kong\/4801\/2014 (H3N2)-like strain (A\/Hong Kong\/4801\/2014, NYMC X-263B), B\/Brisbane\/60\/2008-like strain (B\/Brisbane\/60\/2008, wild type)",
     "限制項目": [
         "02輸入"
     ],
@@ -60,30 +60,34 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "8012002476",
-            "成分名稱": "A\/California\/7\/2009(H1N1)-pdm09 like strain(A\/California\/7\/2009, NYMC X-181 )",
+            "成分代碼": "8012002478",
+            "成分名稱": "A\/California\/7\/2009 (H1N1)pdm09-like strain (A\/California\/7\/2009, NYMC X-181)",
             "含量描述": "",
             "含量": "15.0000000000",
             "單位": "ug haemagglutinin"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8012005760",
-            "成分名稱": "A\/Switzerland\/9715293\/2013 (H3N2)-like strain (A\/Switzerland\/9715293\/2013, NIB-88)",
+            "成分代碼": "8012005780",
+            "成分名稱": "A\/Hong Kong\/4801\/2014 (H3N2)-like strain (A\/Hong Kong\/4801\/2014, NYMC X-263B)",
             "含量描述": "",
             "含量": "15.0000000000",
             "單位": "ug haemagglutinin"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8012006230",
-            "成分名稱": "B\/Phuket\/3073\/2013-like strain (B\/Brisbane\/9\/2014, wild type)",
+            "成分代碼": "8012006530",
+            "成分名稱": "B\/Brisbane\/60\/2008-like strain (B\/Brisbane\/60\/2008, wild type)",
             "含量描述": "",
             "含量": "15.0000000000",
             "單位": "ug haemagglutinin"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "安爾保流感疫苗-TWI-200916-回一校-105-09-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000901&Seq=010&Type=9"
+        },
         {
             "title": "外核標籤-104-09-17.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000901&Seq=009&Type=9"
@@ -119,6 +123,10 @@
         {
             "title": "100009010001___20101206.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000901&Seq=001&Type=9"
+        },
+        {
+            "title": "Agrippal S1 中文標籤 2016 09 20-105-09-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000901&Seq=002&Type=8"
         },
         {
             "title": "外核標籤-104-09-17.pdf",

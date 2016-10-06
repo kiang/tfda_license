@@ -1,7 +1,7 @@
 {
     "code": "02023739",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023739",
-    "time": "2015-08-23 12:17:44",
+    "time": "2016-10-07 03:05:39",
     "許可證字號": "衛署藥輸字第023739號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -42,13 +42,6 @@
             "製造廠公司地址": "",
             "製造廠國別": "NETHERLANDS",
             "製程": "許可證持有者"
-        },
-        {
-            "製造廠名稱": "F230029100  ORGANON IRELAND LIMITED",
-            "製造廠廠址": "DRYNAM ROAD, SWORDS, CO. DUBLIN, IRELAND",
-            "製造廠公司地址": "",
-            "製造廠國別": "IRELAND",
-            "製程": "包裝"
         }
     ],
     "ingredients": [
@@ -62,6 +55,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "020237390001-105-09-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023739&Seq=006&Type=9"
+        },
         {
             "title": "020237390004.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023739&Seq=005&Type=9"
@@ -81,6 +78,18 @@
         {
             "title": "0202373900001___20121224.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023739&Seq=001&Type=9"
+        },
+        {
+            "title": "020237390002-105-09-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023739&Seq=003&Type=8"
+        },
+        {
+            "title": "Orgalutran Solution for Injection Label-104-08-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023739&Seq=002&Type=8"
+        },
+        {
+            "title": "Orgalutran Solution for Injection Carton-104-08-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023739&Seq=001&Type=8"
         }
     ]
 }

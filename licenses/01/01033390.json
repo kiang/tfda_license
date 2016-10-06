@@ -1,7 +1,7 @@
 {
     "code": "01033390",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01033390",
-    "time": "2016-03-25 04:03:31",
+    "time": "2016-10-07 03:02:04",
     "許可證字號": "衛署藥製字第033390號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,8 +12,8 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "null",
-    "中文品名": "\"國嘉\" 舒眠錠０．２５公絲（阿若南）",
-    "英文品名": "SOMILIN TABLETS 0.25MG (TRIAZOLAM)\"KOJAR\"",
+    "中文品名": "&quot;國嘉&quot; 舒眠錠０．２５公絲（阿若南）",
+    "英文品名": "SOMILIN TABLETS 0.25MG (TRIAZOLAM)&quot;KOJAR&quot;",
     "適應症": "不眠症",
     "劑型": "110錠劑",
     "包裝": "2-1000錠塑膠瓶裝 PTP鋁箔盒裝",
@@ -58,11 +58,19 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "PT-25 舒眠錠0.25mg-104-09-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033390&Seq=255&Type=10"
+        },
+        {
             "title": "圖片",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033390&Seq=254&Type=10"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "PT-25(加) 舒眠錠0.25mg-1.2版-105-01-25(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033390&Seq=003&Type=9"
+        },
         {
             "title": "PT-25(加) 舒眠錠0.25mg-1.1版-104-09-15.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033390&Seq=002&Type=9"
@@ -70,6 +78,10 @@
         {
             "title": "010333900001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033390&Seq=001&Type=9"
+        },
+        {
+            "title": "PT-25 舒眠-盒-104-11-27(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033390&Seq=001&Type=8"
         }
     ]
 }

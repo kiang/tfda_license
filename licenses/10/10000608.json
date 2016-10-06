@@ -1,7 +1,7 @@
 {
     "code": "10000608",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000608",
-    "time": "2015-08-22 17:31:02",
+    "time": "2016-10-07 03:06:50",
     "許可證字號": "衛署菌疫輸字第000608號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,10 +16,10 @@
     "英文品名": "BENEFIX{RFIX} COAGULATION FACTOR IX (RECOMBINANT)",
     "適應症": "適用於控制與預防Ｂ型血友病（先天性第九凝血因子缺乏症，或稱聖誕節症）之出血，包括接受外科手術時的出血控制與預防出血。",
     "劑型": "243凍晶注射劑",
-    "包裝": "250IU,500IU,1000IU小瓶裝 5ML(附輸注器）針筒裝附溶劑",
+    "包裝": "250IU,500IU,1000IU, 2000IU小瓶裝 5ML(附輸注器）針筒裝附溶劑",
     "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "主成分略述": "GAMMA-FIX(NONACOG ALFA)",
+    "主成分略述": "rFIX(Nonacog alfa)",
     "限制項目": [
         "02輸入"
     ],
@@ -43,8 +43,15 @@
             "製程": "許可證持有者"
         },
         {
+            "製造廠名稱": "F460691000  WYETH BIOPHARMA DIVISION OF WYETH PHARMACEUTICALS INC, A SUBSIDIARY OF PFIZER INC.",
+            "製造廠廠址": "ONE BURTT ROAD, ANDOVER, MA 01810, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "主成分(drug substance)製造廠"
+        },
+        {
             "製造廠名稱": "F470267200  VETTER PHARMA-FERTIGUNG GMBH &amp; CO. KG",
-            "製造廠廠址": "SCHUTZENSTRABE 87,99-101, 88212 RAVENSBURG, GERMANY",
+            "製造廠廠址": "SCHUTZENSTRASSE 87,99-101, 88212 RAVENSBURG, GERMANY",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
             "製程": "溶液劑製造廠"
@@ -54,7 +61,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9900070100",
-            "成分名稱": "GAMMA-FIX(NONACOG ALFA)",
+            "成分名稱": "rFIX(Nonacog alfa)",
             "含量描述": "",
             "含量": "250.0000000000",
             "單位": "IU (I"
@@ -62,7 +69,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9900070100",
-            "成分名稱": "GAMMA-FIX(NONACOG ALFA)",
+            "成分名稱": "rFIX(Nonacog alfa)",
             "含量描述": "",
             "含量": "500.0000000000",
             "單位": "IU (I"
@@ -70,7 +77,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9900070100",
-            "成分名稱": "GAMMA-FIX(NONACOG ALFA)",
+            "成分名稱": "rFIX(Nonacog alfa)",
             "含量描述": "",
             "含量": "1000.0000000000",
             "單位": "IU (I"
@@ -128,6 +135,30 @@
         {
             "title": "020006080001___20110415.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000608&Seq=001&Type=9"
+        },
+        {
+            "title": "BeneFIX-2000-CTN-050413-105-09-30.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000608&Seq=026&Type=8"
+        },
+        {
+            "title": "BeneFIX-2000 Vial-Lab-050413-105-09-30.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000608&Seq=025&Type=8"
+        },
+        {
+            "title": "BeneFIX-2000 Tray-Lab-050413-105-09-30.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000608&Seq=024&Type=8"
+        },
+        {
+            "title": "BeneFix 500IU_外盒包裝核定本-104-09-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000608&Seq=023&Type=8"
+        },
+        {
+            "title": "BeneFix 1000IU_外盒包裝核定本-104-09-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000608&Seq=022&Type=8"
+        },
+        {
+            "title": "BeneFix 250IU_外盒包裝核定本-104-09-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000608&Seq=021&Type=8"
         },
         {
             "title": "BeneFIX 250 IU-Vial LAB-040410-104-04-23.pdf",
