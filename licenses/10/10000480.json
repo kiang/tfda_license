@@ -1,7 +1,7 @@
 {
     "code": "10000480",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000480",
-    "time": "2016-10-14 03:48:59",
+    "time": "2016-10-21 03:48:10",
     "許可證字號": "衛署菌疫輸字第000480號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "水痘之主動免疫。",
     "劑型": "245凍晶乾燥注射劑",
     "包裝": "盒裝 小瓶",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "OKA\/MERCK VARICELLA VIRUS",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "OKA\/MERCKVARICELLAVIRUS"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "0929301100  美商默沙東藥廠股份有限公司台灣分公司",
-    "申請商地址": "台北市信義區信義路五段106號12樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F460123000  MERCK SHARP &amp; DOHME CORP.",
         "製造廠廠址": "770 SUMNEYTOWN PIKE, WEST POINT, PA 19486 U.S.A.",
         "製造廠公司地址": "ONE MERCK DRIVE,WHITEHOUSE STATION,NEW JERSEY,USA",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30022000008 人類醫藥用疫苗Vaccines for human medicine",
     "藥理治療分類": "",
@@ -61,6 +60,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "100004800001-105-10-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000480&Seq=013&Type=9"
+        },
         {
             "title": "100004800001-103-04-02.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000480&Seq=012&Type=9"

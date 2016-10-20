@@ -1,7 +1,7 @@
 {
     "code": "01027966",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01027966",
-    "time": "2016-10-14 04:06:02",
+    "time": "2016-10-21 04:05:13",
     "許可證字號": "衛署藥製字第027966號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,21 +17,19 @@
     "適應症": "發育不良、營養補給、虛弱體質、熱性消耗性疾患之輔助治療、妊娠婦之營養補給",
     "劑型": "119糖衣錠",
     "包裝": "瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "07須經醫師指示使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "VITAMIN A ACETATE, NIACINAMIDE (NICOTINAMIDE), THIAMINE (VITAMIN B1), RIBOFLAVIN (VIT B2), PYRIDOXINE HCL, CYANOCOBALAMIN (VIT B12), FOLIC ACID, PANTOTHENATE CALCIUM, VITAMIN C (ROSE HIPS EXTRACT), VITAMIN D, TOCOPHEROL ALPHA-, VITAMIN K ACTIVITY",
-    "限制項目": [
-        "01國產",
-        "1G不得製造"
+    "主成分略述": [
+        "VITAMINAACETATE,NIACINAMIDE(NICOTINAMIDE),THIAMINE(VITAMINB1),RIBOFLAVIN(VITB2),PYRIDOXINEHCL,CYANOCOBALAMIN(VITB12),FOLICACID,PANTOTHENATECALCIUM,VITAMINC(ROSEHIPSEXTRACT),VITAMIND,TOCOPHEROLALPHA-,VITAMINKACTIVITY"
     ],
+    "限制項目": "01國　產 1G不得製造",
     "申請商名稱": "1302820200  新喜國際企業股份有限公司",
-    "申請商地址": "台南市鹽水區孫厝里孫厝寮４之６號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1210702300  順華藥品工業股份有限公司三峽工廠",
         "製造廠廠址": "新北市三峽區二鬮路186號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30045000009 含有維他命或第２９３６節產品之其他醫藥製劑Other medicaments containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
@@ -131,6 +129,12 @@
             "含量描述": "0.05",
             "含量": "0.0500000000",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "新喜維他命26糖衣錠說明書(160615新)-105-10-17(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027966&Seq=001&Type=9"
         }
     ]
 }
