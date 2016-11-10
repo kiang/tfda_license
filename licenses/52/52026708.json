@@ -1,7 +1,7 @@
 {
     "code": "52026708",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026708",
-    "time": "2016-04-29 04:36:57",
+    "time": "2016-11-11 03:05:10",
     "許可證字號": "衛部藥輸字第026708號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,25 +17,37 @@
     "適應症": "Exviera適用於與Viekirax、ribavirin併用(併用方式詳參劑量與投藥方法段)，以治療成人慢性C型肝炎基因型1之感染。",
     "劑型": "116膜衣錠",
     "包裝": "4-1000錠以下鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "Dasabuvir Sodium Monohydrate",
-    "限制項目": [
-        "02輸入",
-        "51免除銜接性臨床試驗"
+    "主成分略述": [
+        "DasabuvirSodiumMonohydrate"
     ],
+    "限制項目": "02輸　入 51免除銜接性臨床試驗",
     "申請商名稱": "6401101591  瑞士商艾伯維藥品有限公司台灣分公司",
-    "申請商地址": "台北市中山區民生東路三段49號及51號15樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F230075000  AbbVie Ireland NL B.V.",
         "製造廠廠址": "Manorhamilton Road,Sligo,Ireland",
         "製造廠公司地址": "",
-        "製造廠國別": "IRELAND",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
+        {
+            "製造廠名稱": "7770824858  台灣大昌華嘉股份有限公司",
+            "製造廠廠址": "桃園市楊梅區梅獅路二段629號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠(委託貼標及置入仿單)"
+        },
+        {
+            "製造廠名稱": "F138084000  AbbVie Ltd.",
+            "製造廠廠址": "Maidenhead, SL6 4UB, United Kingdom",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": "許可證持有者"
+        },
         {
             "製造廠名稱": "F470246000  ABBVIE DEUTSCHLAND GMBH &amp; CO. KG",
             "製造廠廠址": "KNOLLSTRASSE 67061 LUDWIGSHAFEN GERMANY",
@@ -56,8 +68,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "Exviera 中文仿單_A3-105-09-30.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026708&Seq=002&Type=9"
+        },
+        {
             "title": "Exviera 中文仿單-105-03-09.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026708&Seq=001&Type=9"
+        },
+        {
+            "title": "20010569 AE_BH_IR_IQ_JO_KW_LB_OM_QA_SA_SY_TW_YE_d3_3_366728-105-10-17.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026708&Seq=006&Type=8"
+        },
+        {
+            "title": "20010568 AE_BH_IQ_IR_JO_KW_LB_OM_QA_SA_SY_TW_YE_d5_5_361907-105-10-17.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026708&Seq=005&Type=8"
         },
         {
             "title": "24602076 AE_BH_IR_IQ_JO_KW_LB_OM_QA_SA_SY_YE 1_d8_310107-105-03-09.pdf",

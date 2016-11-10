@@ -1,7 +1,7 @@
 {
     "code": "02022386",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022386",
-    "time": "2016-03-25 04:19:38",
+    "time": "2016-11-11 03:03:31",
     "許可證字號": "衛署藥輸字第022386號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "痔瘡、肛門周圍炎、肛門龜裂",
     "劑型": "360軟膏劑",
     "包裝": "100公克以下管裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥",
-    "管制藥品分類級別": "",
-    "主成分略述": "HYDROCORTISONE, CINCHOCAINE HYDROCHLORIDE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "HYDROCORTISONE,CINCHOCAINEHYDROCHLORIDE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1424601100  賽諾菲股份有限公司",
-    "申請商地址": "台北市信義區松仁路3號7樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F070073000  VALEANT PHARMACEUTICALS INTERNATIONAL INCORPORATED",
         "製造廠廠址": "2150 ST. ELZEAR BLVD. WEST LAVAL, QUEBEC H7L 4A8 CANADA",
         "製造廠公司地址": "",
-        "製造廠國別": "CANADA",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
@@ -59,6 +58,20 @@
             "含量描述": "",
             "含量": "5.0000000000",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "Proctosedyl Oint GLUv3-Feb2016-105-10-25.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022386&Seq=002&Type=9"
+        },
+        {
+            "title": "Proctosedyl Oint_leaflet-104-09-03(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022386&Seq=001&Type=9"
+        },
+        {
+            "title": "Proctosedyl Oint_box & supp artwork-104-09-03(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022386&Seq=001&Type=8"
         }
     ]
 }

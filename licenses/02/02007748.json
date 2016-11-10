@@ -1,7 +1,7 @@
 {
     "code": "02007748",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02007748",
-    "time": "2015-08-23 04:55:38",
+    "time": "2016-11-11 03:02:37",
     "許可證字號": "衛署藥輸字第007748號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "維生素或礦物質缺乏症",
     "劑型": "132軟膠囊劑",
     "包裝": "盒裝 瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥",
-    "管制藥品分類級別": "",
-    "主成分略述": "IRON (FERROUS FUMARATE), DEANOL (OROTATATE), CALCIUM-MAGNIUM-INOSITOLE HEXAPHOSPHATE, CALCIUM PHOSPHATE DIBASIC ANHYDROUS, MAGNESIUM (SULFATE), CUPRIC (SULFATE), CHOLINE BITARTRATE, VITAMIN A PALMITATE, NIACINAMIDE (NICOTINAMIDE), THIAMINE MONONITRATE, RIBOFLAVIN (VIT B2), PYRIDOXINE HCL, CYANOCOBALAMIN (VIT B12), PANTOTHENIC ACID, ASCORBIC ACID (VIT C), CHOLECALCIFEROL ( EQ TO VIT D3) ( EQ TO VITAMIN D3), TOCOPHEROL ACETATE, RUTIN, ADENOSINE, MAGNESIUM (OROTATE)",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "IRON(FERROUSFUMARATE),DEANOL(OROTATATE),CALCIUM-MAGNIUM-INOSITOLEHEXAPHOSPHATE,CALCIUMPHOSPHATEDIBASICANHYDROUS,MAGNESIUM(SULFATE),CUPRIC(SULFATE),CHOLINEBITARTRATE,VITAMINAPALMITATE,NIACINAMIDE(NICOTINAMIDE),THIAMINEMONONITRATE,RIBOFLAVIN(VITB2),PYRIDOXINEHCL,CYANOCOBALAMIN(VITB12),PANTOTHENICACID,ASCORBICACID(VITC),CHOLECALCIFEROL(EQTOVITD3)(EQTOVITAMIND3),TOCOPHEROLACETATE,RUTIN,ADENOSINE,MAGNESIUM(OROTATE)"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1701401100  鴻信股份有限公司",
-    "申請商地址": "台北市松江路８７號８樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F470157200  CATALENT GERMANY EBERBACH GMBH",
         "製造廠廠址": "GAMMELSBACHER STRASSE 2, DE-69412, EBERBACH GERMANY",
         "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": "製造、包裝"
+        "": ""
     },
     "CCC號列": "30045000009 含有維他命或第２９３６節產品之其他醫藥製劑Other medicaments containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
@@ -39,23 +38,23 @@
             "成分類別": "主成分",
             "成分代碼": "2004491100",
             "成分名稱": "IRON (FERROUS FUMARATE)",
-            "含量描述": "(30MG) 10",
-            "含量": "",
+            "含量描述": "(30MG)",
+            "含量": "10.0000000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "2820009820",
             "成分名稱": "DEANOL (OROTATATE)",
-            "含量描述": "(22MG) 8.1",
-            "含量": "",
+            "含量描述": "(22MG)",
+            "含量": "8.1000000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "4020002500",
             "成分名稱": "CALCIUM-MAGNIUM-INOSITOLE HEXAPHOSPHATE",
-            "含量描述": "50",
+            "含量描述": "",
             "含量": "50.0000000000",
             "單位": "MG"
         },
@@ -63,7 +62,7 @@
             "成分類別": "主成分",
             "成分代碼": "4024000250",
             "成分名稱": "CALCIUM PHOSPHATE DIBASIC ANHYDROUS",
-            "含量描述": "85",
+            "含量描述": "",
             "含量": "85.0000000000",
             "單位": "MG"
         },
@@ -71,23 +70,23 @@
             "成分類別": "主成分",
             "成分代碼": "5612091500",
             "成分名稱": "MAGNESIUM (SULFATE)",
-            "含量描述": "(1.5MG) 0.5",
-            "含量": "",
+            "含量描述": "(1.5MG)",
+            "含量": "0.5000000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "5620009200",
             "成分名稱": "CUPRIC (SULFATE)",
-            "含量描述": "(2.8MG) 1",
-            "含量": "",
+            "含量描述": "(2.8MG)",
+            "含量": "1.0000000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "5624000400",
             "成分名稱": "CHOLINE BITARTRATE",
-            "含量描述": "50",
+            "含量描述": "",
             "含量": "50.0000000000",
             "單位": "MG"
         },
@@ -95,7 +94,7 @@
             "成分類別": "主成分",
             "成分代碼": "8804000300",
             "成分名稱": "VITAMIN A PALMITATE",
-            "含量描述": "10",
+            "含量描述": "",
             "含量": "10.0000000000",
             "單位": "MG"
         },
@@ -103,7 +102,7 @@
             "成分類別": "主成分",
             "成分代碼": "8810000300",
             "成分名稱": "NIACINAMIDE (NICOTINAMIDE)",
-            "含量描述": "10",
+            "含量描述": "",
             "含量": "10.0000000000",
             "單位": "MG"
         },
@@ -111,7 +110,7 @@
             "成分類別": "主成分",
             "成分代碼": "8810101001",
             "成分名稱": "THIAMINE MONONITRATE",
-            "含量描述": "10",
+            "含量描述": "",
             "含量": "10.0000000000",
             "單位": "MG"
         },
@@ -119,7 +118,7 @@
             "成分類別": "主成分",
             "成分代碼": "8810200400",
             "成分名稱": "RIBOFLAVIN (VIT B2)",
-            "含量描述": "3",
+            "含量描述": "",
             "含量": "3.0000000000",
             "單位": "MG"
         },
@@ -127,7 +126,7 @@
             "成分類別": "主成分",
             "成分代碼": "8810600300",
             "成分名稱": "PYRIDOXINE HCL",
-            "含量描述": "5",
+            "含量描述": "",
             "含量": "5.0000000000",
             "單位": "MG"
         },
@@ -135,7 +134,7 @@
             "成分類別": "主成分",
             "成分代碼": "8811200300",
             "成分名稱": "CYANOCOBALAMIN (VIT B12)",
-            "含量描述": "0.005",
+            "含量描述": "",
             "含量": "0.0050000000",
             "單位": "MG"
         },
@@ -143,7 +142,7 @@
             "成分類別": "主成分",
             "成分代碼": "8812300100",
             "成分名稱": "PANTOTHENIC ACID",
-            "含量描述": "10",
+            "含量描述": "",
             "含量": "10.0000000000",
             "單位": "MG"
         },
@@ -151,7 +150,7 @@
             "成分類別": "主成分",
             "成分代碼": "8816000100",
             "成分名稱": "ASCORBIC ACID (VIT C)",
-            "含量描述": "70",
+            "含量描述": "",
             "含量": "70.0000000000",
             "單位": "MG"
         },
@@ -159,15 +158,15 @@
             "成分類別": "主成分",
             "成分代碼": "8818000300",
             "成分名稱": "CHOLECALCIFEROL ( EQ TO VIT D3) ( EQ TO VITAMIN D3)",
-            "含量描述": "(400IU) 0.4",
-            "含量": "",
+            "含量描述": "(400IU)",
+            "含量": "0.4000000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "8820000200",
             "成分名稱": "TOCOPHEROL ACETATE",
-            "含量描述": "15",
+            "含量描述": "",
             "含量": "15.0000000000",
             "單位": "MG"
         },
@@ -175,7 +174,7 @@
             "成分類別": "主成分",
             "成分代碼": "8832000500",
             "成分名稱": "RUTIN",
-            "含量描述": "10",
+            "含量描述": "",
             "含量": "10.0000000000",
             "單位": "MG"
         },
@@ -183,7 +182,7 @@
             "成分類別": "主成分",
             "成分代碼": "9200000300",
             "成分名稱": "ADENOSINE",
-            "含量描述": "2",
+            "含量描述": "",
             "含量": "2.0000000000",
             "單位": "MG"
         },
@@ -191,15 +190,43 @@
             "成分類別": "主成分",
             "成分代碼": "9900933300",
             "成分名稱": "MAGNESIUM (OROTATE)",
-            "含量描述": "(100MG) 6.6",
-            "含量": "",
+            "含量描述": "(100MG)",
+            "含量": "6.6000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
+            "title": "倍健仿單-105-10-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02007748&Seq=003&Type=9"
+        },
+        {
+            "title": "倍健仿單-104-12-28(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02007748&Seq=002&Type=9"
+        },
+        {
             "title": "倍健仿單-102-05-15.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02007748&Seq=001&Type=9"
+        },
+        {
+            "title": "倍健QRcode文字內容-105-10-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02007748&Seq=008&Type=8"
+        },
+        {
+            "title": "倍健100粒裝外盒-105-10-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02007748&Seq=007&Type=8"
+        },
+        {
+            "title": "倍健30粒裝外盒-105-10-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02007748&Seq=006&Type=8"
+        },
+        {
+            "title": "倍健10粒裝外盒-105-10-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02007748&Seq=005&Type=8"
+        },
+        {
+            "title": "倍健外盒包裝-104-12-28(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02007748&Seq=004&Type=8"
         },
         {
             "title": "倍健100粒裝外盒-102-05-15.pdf",

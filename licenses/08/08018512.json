@@ -1,12 +1,12 @@
 {
     "code": "08018512",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018512",
-    "time": "2015-08-23 20:17:03",
+    "time": "2016-11-11 03:17:34",
     "許可證字號": "衛署粧輸字第018512號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "105\/10\/13",
+    "有效日期": "109\/10\/13",
     "發證日期": "100\/10\/13",
     "許可證種類": "含藥化粧品",
     "舊證字號": "",
@@ -17,20 +17,19 @@
     "用途": "染髮。",
     "劑型": "860膏劑",
     "包裝": "500公撮以下管裝附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "AMMONIA WATER (AMMONIUM HYDROXIDE), RESORCINOL (RESORCIN), 5-AMINO-6-CHLORO-O-CRESOL, M-AMINOPHENOL SULFATE, P-AMINOPHENOL, TOLUENE-2,5-DIAMINE SULFATE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "AMMONIAWATER(AMMONIUMHYDROXIDE),RESORCINOL(RESORCIN),5-AMINO-6-CHLORO-O-CRESOL,M-AMINOPHENOLSULFATE,P-AMINOPHENOL,TOLUENE-2,5-DIAMINESULFATE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1318921100  愛華美國際貿易有限公司",
-    "申請商地址": "高雄市三多二路１７１號７樓之２",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C470076000  TITANIA FABRIK GMBH.",
         "製造廠廠址": "FORTUNASTRASSE 10-14 D-42489 W&amp;Uuml;LFRATH , GERMANY",
         "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -130,6 +129,12 @@
             "含量描述": "",
             "含量": "0.0800000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08018512-105-09-01.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018512&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "02022193",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022193",
-    "time": "2015-08-23 11:21:53",
+    "time": "2016-11-11 03:03:22",
     "許可證字號": "衛署藥輸字第022193號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,28 +12,36 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00202219300",
-    "中文品名": "帕定平錠劑１０公絲",
+    "中文品名": "帕定平錠劑10毫克",
     "英文品名": "ELDEPRYL TABLETS 10MG",
     "適應症": "巴金森病症之輔助治療劑。",
     "劑型": "110錠劑",
     "包裝": "2-1000錠瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "SELEGILINE HYDROCHLORIDE(DEPRENYL HYDROCHLORIDE)",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "SELEGILINEHYDROCHLORIDE(DEPRENYLHYDROCHLORIDE)"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1407301100  臺灣美強股份有限公司",
-    "申請商地址": "台北市中山區南京東路二段66號4樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F140013000  ORION CORPORATION TURKU PLANT",
         "製造廠廠址": "TENQSTROMINKATU 8-FIR-20360 TURKU FINLANDSF-20101 TURKU, FINLAND",
         "製造廠公司地址": "ORIONINTIE 1,02200 ESPOO,FINLAND",
-        "製造廠國別": "FINLAND",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "6131180602  台灣美強股份有限公司",
+            "製造廠廠址": "新北市深坑區北深路3段155巷5號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠(委託貼標及置入仿單)"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -46,6 +54,10 @@
     ],
     "仿單外盒": [
         {
+            "title": "Eldepryl 中文仿單2016_v06-105-10-19(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022193&Seq=006&Type=9"
+        },
+        {
             "title": "02022193___20120523.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022193&Seq=003&Type=9"
         },
@@ -56,6 +68,22 @@
         {
             "title": "020221930001___20100729.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022193&Seq=001&Type=9"
+        },
+        {
+            "title": "Eldepryl_外瓶-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022193&Seq=007&Type=8"
+        },
+        {
+            "title": "Eldepryl_外盒3-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022193&Seq=006&Type=8"
+        },
+        {
+            "title": "Eldepryl_外盒2-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022193&Seq=005&Type=8"
+        },
+        {
+            "title": "Eldepryl_外盒-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022193&Seq=004&Type=8"
         },
         {
             "title": "022193___20110707.jpg",

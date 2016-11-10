@@ -1,7 +1,7 @@
 {
     "code": "01038090",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01038090",
-    "time": "2015-08-23 01:17:37",
+    "time": "2016-11-11 03:01:11",
     "許可證字號": "衛署藥製字第038090號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,35 +16,42 @@
     "英文品名": "SUXEN FILM COATED TABLETS 500MG (CIPROFLOXACIN)",
     "適應症": "對ＣＩＰＲＯＦＬＯＸＡＣＩＮ有感受性之細菌所起之呼吸道感染、中耳炎、竇炎、眼感染、腎臟及泌尿道感染（包括淋病）、腹部感染（包括腹膜炎）、皮膚及軟組織感染、骨髓炎、關節感染、菌血症",
     "劑型": "116膜衣錠",
-    "包裝": "瓶裝 鋁箔裝",
+    "包裝": "2-1000錠瓶裝 鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "CIPROFLOXACIN (HCL)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "CIPROFLOXACINHYDROCHLORIDEMONOHYDRATE(EQTOCIPROFLOXACINHYDROCHLORIDEH2O)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0502110200  永信藥品工業股份有限公司",
-    "申請商地址": "台中市大甲區頂店里中山路一段1191號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0502110300  永信藥品工業股份有限公司台中幼獅廠",
         "製造廠廠址": "台中市大甲區日南里工九路２７號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30042000916 人用醫藥製劑，含有其他抗生素者Medicaments, containing other antibiotics, for human use",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "0812709710",
-            "成分名稱": "CIPROFLOXACIN (HCL)",
-            "含量描述": "582",
+            "成分代碼": "0812700730",
+            "成分名稱": "CIPROFLOXACIN HYDROCHLORIDE MONOHYDRATE( EQ TO CIPROFLOXACIN HYDROCHLORIDE H2O)",
+            "含量描述": "582(EQ TO CIPROFLOXACIN 500 mg)",
             "含量": "582.0000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "010380900001-105-10-20.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038090&Seq=003&Type=9"
+        },
+        {
+            "title": "010380900001-104-10-15(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038090&Seq=002&Type=9"
+        },
         {
             "title": "010380900001___20120406.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038090&Seq=001&Type=9"

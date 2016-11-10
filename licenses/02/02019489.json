@@ -1,7 +1,7 @@
 {
     "code": "02019489",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019489",
-    "time": "2015-08-23 09:59:27",
+    "time": "2016-11-11 03:03:02",
     "許可證字號": "衛署藥輸字第019489號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,35 +16,38 @@
     "英文品名": "PREMARIN VAGINAL CREAM",
     "適應症": "萎縮性陰道炎及更年期性外陰萎縮症",
     "劑型": "563陰道用乳膏劑",
-    "包裝": "1000公克管裝",
+    "包裝": "1000公克以下管裝 每克各附擦藥器",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "ESTROGEN (CONJUGATED)",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "ConjugatedEstrogen(CE)Concentrate"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "0929101100  美商惠氏藥廠（亞洲）股份有限公司台灣分公司",
-    "申請商地址": "新北市淡水區中正東路二段177號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F070002000  PFIZER CANADA INC.",
         "製造廠廠址": "1025 MARCEL LAURIN BOULEVARD, SAINT LAURENT QUEBEC, H4R 1J6 CANADA",
         "製造廠公司地址": "",
-        "製造廠國別": "CANADA",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30043900005 醫藥製劑，含有其他內分泌素者Medicaments, containing other hormones",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "6816009401",
-            "成分名稱": "ESTROGEN (CONJUGATED)",
+            "成分代碼": "6816000430",
+            "成分名稱": "Conjugated Estrogen (CE) Concentrate",
             "含量描述": "",
             "含量": "0.6250000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "020194890001-105-10-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019489&Seq=023&Type=9"
+        },
         {
             "title": "020194890001-102-09-16.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019489&Seq=022&Type=9"
@@ -132,6 +135,10 @@
         {
             "title": "020194890001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019489&Seq=001&Type=9"
+        },
+        {
+            "title": "Premarin Vaginal Cream 14 g外盒-104-09-21(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019489&Seq=006&Type=8"
         },
         {
             "title": "中文標籤-Pfizer Canada___20120613.pdf",

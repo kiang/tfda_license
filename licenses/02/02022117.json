@@ -1,7 +1,7 @@
 {
     "code": "02022117",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022117",
-    "time": "2016-05-27 05:15:11",
+    "time": "2016-11-11 03:03:18",
     "許可證字號": "衛署藥輸字第022117號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,24 +17,30 @@
     "適應症": "嚴重性牛皮癬、皮膚角化症。",
     "劑型": "130膠囊劑",
     "包裝": "2-1000粒盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "ACITRETIN ( SPRAY DRY POWDER 25%,IN GELATIN 27%,GLUCOSE,LIQUID,SPRAY-DRIED 41%,SODIUM ASCORBATE 7%)",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "ACITRETIN(SPRAYDRYPOWDER25%,INGELATIN27%,GLUCOSE,LIQUID,SPRAY-DRIED41%,SODIUMASCORBATE7%)"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1407301100  臺灣美強股份有限公司",
-    "申請商地址": "台北市中山區南京東路二段66號4樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F070024100  PATHEON, INC.",
         "製造廠廠址": "2100 SYNTEX COURT MISSISSAUGA, ONTARIO, CANADA L5N 7K9",
         "製造廠公司地址": "",
-        "製造廠國別": "CANADA",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30042000916 人用醫藥製劑，含有其他抗生素者Medicaments, containing other antibiotics, for human use",
     "藥理治療分類": "",
     "次製造廠": [
+        {
+            "製造廠名稱": "6131180602  台灣美強股份有限公司",
+            "製造廠廠址": "新北市深坑區北深路3段155巷5號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠(委託貼標及置入仿單)"
+        },
         {
             "製造廠名稱": "F150203100  CENEXI",
             "製造廠廠址": "52, RUE MARCEL ET JACQUES GAUCHER 94120 FONTENAY-SOUS-BOIS FRANCE",
@@ -74,9 +80,17 @@
         {
             "title": "Neotigason 25mg_cap-105-03-10.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022117&Seq=432&Type=10"
+        },
+        {
+            "title": "Neotigason 25mg_cap-104-09-25(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022117&Seq=433&Type=10"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "新定康癬 膠囊 10 & 25mg-中文仿單_201610_V06-105-10-19(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022117&Seq=005&Type=9"
+        },
         {
             "title": "020221170002___20100729.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022117&Seq=002&Type=9"
@@ -84,6 +98,18 @@
         {
             "title": "020221170001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022117&Seq=001&Type=9"
+        },
+        {
+            "title": "Neotigason 25_PTP-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022117&Seq=005&Type=8"
+        },
+        {
+            "title": "Neotigason 25mg_2-104-09-25(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022117&Seq=004&Type=8"
+        },
+        {
+            "title": "Neotigason 25mg-104-09-25(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022117&Seq=003&Type=8"
         },
         {
             "title": "020221170002___20100729.jpg",

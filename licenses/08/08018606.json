@@ -1,7 +1,7 @@
 {
     "code": "08018606",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018606",
-    "time": "2015-08-23 20:08:47",
+    "time": "2016-11-11 03:20:55",
     "許可證字號": "衛署粧輸字第018606號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "用途": "防曬、保濕。",
     "劑型": "902噴霧劑",
     "包裝": "300公克以下鋁罐裝 背卡",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0714防晒化粧用品",
-    "": "",
-    "主成分略述": "OCTOCRYLENE, ETHYLHEXYL METHOXYCINNAMATE, ETHYLHEXYL SALICYLATE, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "OCTOCRYLENE,ETHYLHEXYLMETHOXYCINNAMATE,ETHYLHEXYLSALICYLATE,BIS-ETHYLHEXYLOXYPHENOLMETHOXYPHENYLTRIAZINE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "0620801100  百陸達股份有限公司",
-    "申請商地址": "台北市信義區基隆路2段149之17號10樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C260134000  JO COSMETICS CO., LTD.",
         "製造廠廠址": "3-12-10 OHMORI NISHI OHTA-KU TOKYO JAPAN",
         "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -66,6 +65,12 @@
             "含量描述": "",
             "含量": "1.0000000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08018606-105-07-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018606&Seq=001&Type=8"
         }
     ]
 }

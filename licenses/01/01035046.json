@@ -1,37 +1,35 @@
 {
     "code": "01035046",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01035046",
-    "time": "2016-06-24 04:37:40",
+    "time": "2016-11-11 03:13:17",
     "許可證字號": "衛署藥製字第035046號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/03\/26",
+    "有效日期": "111\/03\/26",
     "發證日期": "81\/03\/26",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00103504604",
     "中文品名": "〝西華〞咳達寧糖漿",
-    "英文品名": "CODERINE SYRUP \"C.P.\"",
+    "英文品名": "CODERINE SYRUP &quot;C.P.&quot;",
     "適應症": "鎮咳、袪痰（伴隨上呼吸道充血和支氣管充血的感冒、枯草熱、鼻竇炎、咳嗽、打噴涕、流鼻水、喀痰之緩解）。",
     "劑型": "170內服液劑",
     "包裝": "60-4000公撮瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "D第四級管制藥品",
-    "主成分略述": "PSEUDOEPHEDRINE HCL, CODEINE PHOSPHATE, GUAIACOL GLYCERYL ETHER (EQ TO GUAIFENESIN)",
-    "限制項目": [
-        "01國產",
-        "34第四級管制藥品"
+    "主成分略述": [
+        "PSEUDOEPHEDRINEHCL,CODEINEPHOSPHATE,GUAIACOLGLYCERYLETHER(EQTOGUAIFENESIN)"
     ],
+    "限制項目": "01國　產 34第四級管制藥品",
     "申請商名稱": "1013806200  晟德大藥廠股份有限公司",
-    "申請商地址": "台北市南港區園區街3之2號7樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "6133060087  晟德大藥廠股份有限公司新竹廠",
         "製造廠廠址": "新竹縣湖口鄉實踐路2號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
@@ -59,6 +57,12 @@
             "含量描述": "20.0",
             "含量": "20.0000000000",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "01035046001-104-12-25(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035046&Seq=002&Type=9"
         }
     ]
 }

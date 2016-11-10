@@ -1,7 +1,7 @@
 {
     "code": "40000713",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=40000713",
-    "time": "2015-08-23 22:40:47",
+    "time": "2016-11-11 03:20:58",
     "許可證字號": "衛署粧陸輸字第000713號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "用途": "防曬。",
     "劑型": "944乳劑",
     "包裝": "500公撮以下瓶裝附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0711防晒乳液",
-    "": "",
-    "主成分略述": "HOMOMETHYL SALICYLATE (HOMOSALATE), BENZOPHENONE-3, BUTYL METHOXYDIBENZOYLMETHANE, OCTOCRYLENE, ETHYLHEXYL SALICYLATE",
-    "限制項目": [
-        "40大陸生產"
+    "主成分略述": [
+        "HOMOMETHYLSALICYLATE(HOMOSALATE),BENZOPHENONE-3,BUTYLMETHOXYDIBENZOYLMETHANE,OCTOCRYLENE,ETHYLHEXYLSALICYLATE"
     ],
+    "限制項目": "40大陸生產",
     "申請商名稱": "1429602100  臺灣雅芳股份有限公司",
-    "申請商地址": "台北市松山區敦化北路88號14樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C640028000  AVON MANUFACTURING (GUANGZHOU) LTD.",
         "製造廠廠址": "No.11 Industry Road, Conghua, Economic &amp; Technological Development Zone, Guangzhou, People’s Republic of China.",
         "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -74,6 +73,12 @@
             "含量描述": "",
             "含量": "4.7500000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "40000713-105-07-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000713&Seq=001&Type=8"
         }
     ]
 }

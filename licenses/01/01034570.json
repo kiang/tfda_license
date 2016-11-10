@@ -1,12 +1,12 @@
 {
     "code": "01034570",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01034570",
-    "time": "2016-01-29 04:18:10",
+    "time": "2016-11-11 03:13:03",
     "許可證字號": "衛署藥製字第034570號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "105\/11\/09",
+    "有效日期": "110\/11\/09",
     "發證日期": "80\/11\/09",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -17,20 +17,19 @@
     "適應症": "暫時緩解過敏性鼻炎，枯草熱所引起之相關症狀(流鼻涕、打噴嚏、眼睛及喉部搔癢)及過敏所引起之搔癢，皮膚癢疹。",
     "劑型": "130膠囊劑",
     "包裝": "6-1000粒瓶裝 6-1000粒鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥",
-    "管制藥品分類級別": "",
-    "主成分略述": "CHLORPHENIRAMINE MALEATE, OROTIC ACID (VIT B13), MONO AMMONIUM GLYCYRRHIZINATE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "CHLORPHENIRAMINEMALEATE,OROTICACID(VITB13),MONOAMMONIUMGLYCYRRHIZINATE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0413004200  五洲製藥股份有限公司",
-    "申請商地址": "桃園市新屋區赤欄里17之1號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0413004300  五洲製藥股份有限公司",
         "製造廠廠址": "桃園市新屋區赤欄村二鄰１７號之１",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049099101 抗過敏抗組織胺用藥Drugs for antihypersensitivity and antihistamine",
     "藥理治療分類": "",
@@ -72,8 +71,26 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "敏肝寧膠囊 cap 01-104-10-01(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034570&Seq=282&Type=10"
+        },
+        {
             "title": "圖片",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034570&Seq=281&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "1021126敏肝寧(2)-104-10-29(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034570&Seq=001&Type=9"
+        },
+        {
+            "title": "敏肝寧內盒10粒內盒-104-09-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034570&Seq=002&Type=8"
+        },
+        {
+            "title": "敏肝寧40粒裝內盒-104-09-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034570&Seq=001&Type=8"
         }
     ]
 }

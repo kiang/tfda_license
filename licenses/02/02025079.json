@@ -1,7 +1,7 @@
 {
     "code": "02025079",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025079",
-    "time": "2015-08-23 12:38:53",
+    "time": "2016-11-11 03:04:06",
     "許可證字號": "衛署藥輸字第025079號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,22 +16,20 @@
     "英文品名": "Tetraspan 10% Solution for Infusion",
     "適應症": "單獨使用晶質輸注液無法治療之急性出血導致之低血容積病人，本品無法取代紅血球及血漿中的凝血因子。",
     "劑型": "27D注射液劑",
-    "包裝": "500 毫升塑膠軟瓶 200, 500,1000毫升塑膠軟袋裝",
+    "包裝": "500 毫升塑膠軟瓶 250, 500,1000毫升塑膠軟袋裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "SODIUM ACETATE TRIHYDRATE (EQ TO SODIUM ACETATE 3H2O ), CALCIUM CHLORIDE DIHYDRATE, MAGNESIUM CHLORIDE HEXAHYDRATE (EQ TO MAGNESIUM CHLORIDE 6H2O), POTASSIUM CHLORIDE, SODIUM CHLORIDE, POLY(O-2- HYDROXYETHYL)STARCH (HES)(MOLAR SUBS 0.42; AVERAGE MOLECULAR WEIGHT 130000 DA), MALIC ACID",
-    "限制項目": [
-        "02輸入",
-        "58依本署891212衛署藥字第0890035812號公告經本署認定得免除國內銜接性試驗且經本署核定之新藥"
+    "主成分略述": [
+        "SODIUMACETATETRIHYDRATE(EQTOSODIUMACETATE3H2O),CALCIUMCHLORIDEDIHYDRATE,MAGNESIUMCHLORIDEHEXAHYDRATE(EQTOMAGNESIUMCHLORIDE6H2O),POTASSIUMCHLORIDE,SODIUMCHLORIDE,POLY(O-2-HYDROXYETHYL)STARCH(HES)(MOLARSUBS0.42;AVERAGEMOLECULARWEIGHT130000DA),MALICACID"
     ],
+    "限制項目": "02輸　入 58依本署891212衛署藥字第0890035812號公告經本署認定得免除國內銜接性試驗且經本署核定之新藥",
     "申請商名稱": "1426402100  台灣柏朗股份有限公司",
-    "申請商地址": "台北市松山區健康路152號9樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F430095100  B. BRAUN MEDICAL AG",
         "製造廠廠址": "ROUTE DE SORGE 9 CH-1023 CRISSIER SWITZERLAND",
-        "製造廠公司地址": "SEESATZ, 6204 SEMPACH, SWITZERLAND",
-        "製造廠國別": "SWITZERLAND",
-        "製程": ""
+        "製造廠公司地址": "",
+        "": ""
     },
     "CCC號列": "30049020007 血液代用品與血漿代用品及基因重組製劑Substitutes of blood, substitutes of plasma and preparationsof gennetic recombinants",
     "藥理治療分類": "",
@@ -104,6 +102,14 @@
     ],
     "仿單外盒": [
         {
+            "title": "DFU.ch_tetraspan 10%_0535_201601-105-10-13.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025079&Seq=005&Type=9"
+        },
+        {
+            "title": "NP53565_1015 Tetraspan 10_-104-10-28(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025079&Seq=004&Type=9"
+        },
+        {
             "title": "01_DfU.ch_Tetraspan 10%_20150421-104-05-04.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025079&Seq=003&Type=9"
         },
@@ -114,6 +120,10 @@
         {
             "title": "020250790001-2014-04-08.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025079&Seq=001&Type=9"
+        },
+        {
+            "title": "BB-FE65363外箱-正-104-10-28(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025079&Seq=001&Type=8"
         }
     ]
 }

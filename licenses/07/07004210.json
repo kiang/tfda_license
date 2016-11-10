@@ -1,11 +1,12 @@
 {
     "code": "07004210",
-    "time": "2015-06-22 01:52:11",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07004210",
+    "time": "2016-11-11 03:16:21",
     "許可證字號": "衛署粧製字第004210號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "105\/12\/08",
+    "有效日期": "109\/12\/08",
     "發證日期": "100\/12\/08",
     "許可證種類": "含藥化粧品",
     "舊證字號": "",
@@ -16,20 +17,19 @@
     "用途": "對抗UVA\/UVB紫外線傷害。",
     "劑型": "944乳劑",
     "包裝": "500ML以下軟管裝 附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0711防晒乳液",
-    "": "",
-    "主成分略述": "ETHYLHEXYL METHOXYCINNAMATE, METHYLENE BIS-BENZOTRIAZOLYL TETRAMETHYLBUTYLPHENOL, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "ETHYLHEXYLMETHOXYCINNAMATE,METHYLENEBIS-BENZOTRIAZOLYLTETRAMETHYLBUTYLPHENOL,BIS-ETHYLHEXYLOXYPHENOLMETHOXYPHENYLTRIAZINE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "6201118896  新鈺生技股份有限公司",
-    "申請商地址": "臺北市內湖區瑞光路360號6樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "5899655947  新鈺生技股份有限公司嘉義分公司",
         "製造廠廠址": "嘉義縣民雄鄉北斗村成功二街10號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -61,12 +61,44 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 070042100003.jpg 070042100002.jpg 070042100001.jpg",
+            "title": "070042100003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004210&Seq=003&Type=9"
         },
         {
-            "title": "外盒 07004210-104-03-19.pdf 070042100006.jpg 070042100005.jpg 070042100004.jpg 070042100003.jpg 070042100002.jpg 070042100001.jpg",
+            "title": "070042100002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004210&Seq=002&Type=9"
+        },
+        {
+            "title": "070042100001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004210&Seq=001&Type=9"
+        },
+        {
+            "title": "07004210-104-03-19.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004210&Seq=007&Type=8"
+        },
+        {
+            "title": "070042100006.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004210&Seq=006&Type=8"
+        },
+        {
+            "title": "070042100005.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004210&Seq=005&Type=8"
+        },
+        {
+            "title": "070042100004.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004210&Seq=004&Type=8"
+        },
+        {
+            "title": "070042100003.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004210&Seq=003&Type=8"
+        },
+        {
+            "title": "070042100002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004210&Seq=002&Type=8"
+        },
+        {
+            "title": "070042100001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004210&Seq=001&Type=8"
         }
     ]
 }

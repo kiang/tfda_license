@@ -1,7 +1,7 @@
 {
     "code": "02023963",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023963",
-    "time": "2016-06-24 04:55:33",
+    "time": "2016-11-11 03:03:51",
     "許可證字號": "衛署藥輸字第023963號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,30 +17,29 @@
     "適應症": "抗腫瘤劑。",
     "劑型": "27D注射液劑",
     "包裝": "1公撮、5公撮、10公撮小瓶 、各100支以下小瓶 盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "CYTARABINE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "CYTARABINE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "620102S342  新加坡商赫士睿股份有限公司台灣分公司",
-    "申請商地址": "新北市淡水區中正東路2段177號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F020031100  HOSPIRA AUSTRALIA PTY LTD.",
         "製造廠廠址": "1-5, 7-23 AND 25-39 LEXIA PLACE, MULGRAVE, VICTORIA 3170, AUSTRALIA",
         "製造廠公司地址": "",
-        "製造廠國別": "AUSTRALIA",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049071005 抗癌藥Anti-cancer preparations",
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "1225204000  裕利股份有限公司",
-            "製造廠廠址": "桃園市大園區和平村1鄰舊厝子1之2號",
+            "製造廠名稱": "6605071926  久裕企業股份有限公司",
+            "製造廠廠址": "桃園市桃園區大林里興邦路43巷2之1號4樓，3樓B區，1樓A區",
             "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
-            "製程": "包裝"
+            "製造廠國別": "",
+            "製程": "二級包裝廠(委託貼標及置入仿單)"
         }
     ],
     "ingredients": [
@@ -63,6 +62,10 @@
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023963&Seq=003&Type=9"
         },
         {
+            "title": "P02396301 賽達拉敏注射液Cytarabine-final-104-10-14(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023963&Seq=005&Type=9"
+        },
+        {
             "title": "P2169501賽達拉敏注射液Cytarabine-final-103-01-07.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023963&Seq=002&Type=9"
         },
@@ -73,6 +76,10 @@
         {
             "title": "P02396302賽達拉敏注射液Cytarabine_外盒及標籤_2015-11版-104-11-12.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023963&Seq=001&Type=8"
+        },
+        {
+            "title": "023963 賽達拉敏注射液(Cytarabine Solution Vail 500mg 5ml-外盒6面-104-10-14(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023963&Seq=002&Type=8"
         }
     ]
 }
