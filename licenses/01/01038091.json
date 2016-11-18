@@ -1,7 +1,7 @@
 {
     "code": "01038091",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01038091",
-    "time": "2015-08-23 01:18:28",
+    "time": "2016-11-18 13:47:21",
     "許可證字號": "衛署藥製字第038091號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,24 +13,23 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00103809101",
     "中文品名": "“瑪科隆”婷晴錠",
-    "英文品名": "TENGEN TABLETS \"MACRO\"",
+    "英文品名": "TENGEN TABLETS &quot;MACRO&quot;",
     "適應症": "動情激素缺乏、更年期諸症狀、無月經症、骨鬆症、月經過少、卵巢切除手術後之治療",
     "劑型": "110錠劑",
-    "包裝": "鋁箔裝",
+    "包裝": "21粒鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "ESTRADIOL VALERATE, MEDROXYPROGESTERONE ACETATE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "ESTRADIOLVALERATE,MEDROXYPROGESTERONEACETATE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1437009100  瑪科隆股份有限公司",
-    "申請商地址": "台中市西區忠明南路３０３號２４樓之２",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0502918300  永勝藥品工業股份有限公司",
         "製造廠廠址": "嘉義縣民雄鄉興南村頭橋工業區工業三路６之３號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30043900005 醫藥製劑，含有其他內分泌素者Medicaments, containing other hormones",
     "藥理治療分類": "",
@@ -60,7 +59,27 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "白色",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "圓扁形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "TENGEN TABLETS_W-104-11-07(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038091&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
+        {
+            "title": "Tengen婷晴錠_20151203-104-12-17(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038091&Seq=003&Type=9"
+        },
         {
             "title": "010380910002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038091&Seq=002&Type=9"
@@ -68,6 +87,10 @@
         {
             "title": "010380910001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038091&Seq=001&Type=9"
+        },
+        {
+            "title": "TENGEN TABLETS_PTP-104-12-17(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038091&Seq=002&Type=8"
         }
     ]
 }

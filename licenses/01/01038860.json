@@ -1,7 +1,7 @@
 {
     "code": "01038860",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01038860",
-    "time": "2015-08-24 00:55:55",
+    "time": "2016-11-18 13:56:42",
     "許可證字號": "衛署藥製字第038860號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,42 +12,33 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00103886006",
-    "中文品名": "佳胃捷錠",
-    "英文品名": "OXEMGAL TABLETS \"H.S.\"",
-    "適應症": "急、慢性胃炎伴隨之諸症狀、胃痛、胃灼熱、噁心、胃部不適感",
+    "中文品名": "&quot;黃氏&quot;佳胃捷錠",
+    "英文品名": "OXEMGAL TABLETS &quot;H.S.&quot;",
+    "適應症": "胃炎、腸炎、食道炎所伴隨之胃痛、胃酸過多、胃部不適或灼熱感",
     "劑型": "110錠劑",
-    "包裝": "塑膠容器裝 鋁箔裝",
+    "包裝": "16-1000錠塑膠瓶裝 鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥",
-    "管制藥品分類級別": "",
-    "主成分略述": "ALUMINUM HYDROXIDE (ALUMINA HYDRATED), ALUMINUM HYDROXIDE DRIED GEL, MAGNESIUM CARBONATE, OXETHAZAINE, MAGNESIUM OXIDE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "ALUMINUMHYDROXIDEDRIEDGEL,MAGNESIUMCARBONATE,OXETHAZAINE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1223216200  黃氏製藥股份有限公司",
-    "申請商地址": "雲林縣斗南鎮小東里大同路４４４巷１１號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1223216300  黃氏製藥股份有限公司",
         "製造廠廠址": "雲林縣斗南鎮小東里大同路４４４巷１１號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "5604000200",
-            "成分名稱": "ALUMINUM HYDROXIDE (ALUMINA HYDRATED)",
-            "含量描述": "126",
-            "含量": "126.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "5604000202",
             "成分名稱": "ALUMINUM HYDROXIDE DRIED GEL",
-            "含量描述": "165",
+            "含量描述": "eq. ALUMINUM HYDROXIDE 126 mg",
             "含量": "165.0000000000",
             "單位": "MG"
         },
@@ -55,7 +46,7 @@
             "成分類別": "主成分",
             "成分代碼": "5604002400",
             "成分名稱": "MAGNESIUM CARBONATE",
-            "含量描述": "83",
+            "含量描述": "eq. MAGNESIUM OXIDE 35 mg",
             "含量": "83.0000000000",
             "單位": "MG"
         },
@@ -65,14 +56,6 @@
             "成分名稱": "OXETHAZAINE",
             "含量描述": "5",
             "含量": "5.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "5612001300",
-            "成分名稱": "MAGNESIUM OXIDE",
-            "含量描述": "35",
-            "含量": "35.0000000000",
             "單位": "MG"
         }
     ],
@@ -94,12 +77,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "T-45.150728佳胃捷(說明書)-104-11-13(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038860&Seq=003&Type=9"
+        },
+        {
             "title": "010388600002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038860&Seq=002&Type=9"
         },
         {
             "title": "010388600001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038860&Seq=001&Type=9"
+        },
+        {
+            "title": "T-45.150728佳胃捷(內盒)-104-11-13(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038860&Seq=001&Type=8"
         }
     ]
 }

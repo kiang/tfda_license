@@ -1,7 +1,7 @@
 {
     "code": "01038310",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01038310",
-    "time": "2015-09-25 05:12:44",
+    "time": "2016-11-18 13:50:05",
     "許可證字號": "衛署藥製字第038310號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,24 @@
     "舊證字號": "01033057",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00103831000",
-    "中文品名": "\"生春\"貼酸明痠痛布",
-    "英文品名": "TIESONMIN PLASTER \"SHENG CHUN\"",
+    "中文品名": "&quot;生春&quot;貼酸明痠痛布",
+    "英文品名": "TIESONMIN PLASTER &quot;SHENG CHUN&quot;",
     "適應症": "腰痛、碰傷、關節痛、筋肉痛、筋肉疲勞、骨折痛",
     "劑型": "325藥膠布",
     "包裝": "12g(10x14cm)\/片裝,1000片以下鋁箔袋裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
-    "管制藥品分類級別": "",
-    "主成分略述": "DIPHENHYDRAMINE HCL, GLYCOL SALICYLATE, CAMPHOR DL-, MENTHOL, TOCOPHEROL ACETATE, GLYCYRRHIZINIC ACID (EQ TO GLYCYRRHETINIC ACID GLYCOSIDE)(EQ TO GLYCYRRHIZIC ACID )",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "DIPHENHYDRAMINEHCL,GLYCOLSALICYLATE,DL-CAMPHOR,MENTHOL,TOCOPHEROLACETATE,GLYCYRRHIZINICACID(EQTOGLYCYRRHETINICACIDGLYCOSIDE)(EQTOGLYCYRRHIZICACID)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0515720200  生春堂製藥工業股份有限公司",
-    "申請商地址": "台南市永康區王行里興工路６號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "6141311262  立康生物科技股份有限公司工廠",
         "製造廠廠址": "台南市永康區王行里環工路29、31、31之1、31之2、31之3、31之5號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30051090909 其他粘敷料和其他具有粘層之物品Other adhesive dressings and other articles having an adhesive layer",
     "藥理治療分類": "",
@@ -54,7 +53,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "8408000103",
-            "成分名稱": "CAMPHOR DL-",
+            "成分名稱": "DL-CAMPHOR",
             "含量描述": "",
             "含量": "0.5000000000",
             "單位": "GM"

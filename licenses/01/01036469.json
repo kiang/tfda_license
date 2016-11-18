@@ -1,7 +1,7 @@
 {
     "code": "01036469",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01036469",
-    "time": "2015-08-23 00:33:32",
+    "time": "2016-11-18 13:32:19",
     "許可證字號": "衛署藥製字第036469號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,22 +15,21 @@
     "中文品名": "比比黴素注射液１５０公絲\/公撮（克林達黴素）",
     "英文品名": "B. B. INJECTION 150MG\/ML (CLINDAMYCIN)",
     "適應症": "葡萄球菌、鏈球菌、肺炎雙球菌、厭氣菌等具有感受性菌株所引起之感染症。",
-    "劑型": "270注射劑",
-    "包裝": "盒裝 安瓿 小瓶",
+    "劑型": "279注射液",
+    "包裝": "100支以下盒裝 1、2公撮安瓿 2、4、10公撮小瓶",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "CLINDAMYCIN (AS PHOSPHATE)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "CLINDAMYCIN(ASPHOSPHATE)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1304820200  瑞士藥廠股份有限公司",
-    "申請商地址": "台南市新市區中山路182號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "6105200026  瑞士藥廠股份有限公司新市廠",
         "製造廠廠址": "台南市新市區中山路182號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30042000916 人用醫藥製劑，含有其他抗生素者Medicaments, containing other antibiotics, for human use",
     "藥理治療分類": "",
@@ -46,12 +45,28 @@
     ],
     "仿單外盒": [
         {
+            "title": "B34-仿單-104-09-22(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036469&Seq=003&Type=9"
+        },
+        {
             "title": "衛署藥製字第036469 號-103-02-15.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036469&Seq=002&Type=9"
         },
         {
             "title": "010364690001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036469&Seq=001&Type=9"
+        },
+        {
+            "title": "B34-外盒100A-104-10-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036469&Seq=003&Type=8"
+        },
+        {
+            "title": "B34-外盒-104-09-22(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036469&Seq=002&Type=8"
+        },
+        {
+            "title": "B34-排裝-104-09-22(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036469&Seq=001&Type=8"
         }
     ]
 }

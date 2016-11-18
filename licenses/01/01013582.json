@@ -1,7 +1,7 @@
 {
     "code": "01013582",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01013582",
-    "time": "2016-03-25 03:54:31",
+    "time": "2016-11-18 10:30:42",
     "許可證字號": "衛署藥製字第013582號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,24 +13,23 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00101358206",
     "中文品名": "固肝敏治注射液",
-    "英文品名": "GLUCAMETHI INJECTION \"TAI YU\"",
+    "英文品名": "GLUCAMETHI INJECTION &quot;TAI YU&quot;",
     "適應症": "濕疹、過敏性疾患、營養補給",
     "劑型": "270注射劑",
     "包裝": "安瓿",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "DEXTROSE MONOHYDRATE, METHIONINE DL-, THIAMINE HYDROCHLORIDE, RIBOFLAVIN(5'-PHOSPHATE SODIUM)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "DEXTROSEMONOHYDRATE,METHIONINEDL-,THIAMINEHYDROCHLORIDE,RIBOFLAVIN(5'-PHOSPHATESODIUM)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1402206200  台裕化學製藥廠股份有限公司",
-    "申請商地址": "新竹縣竹東鎮員山路１１巷１３弄１號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1402206300  臺裕化學製藥廠股份有限公司",
         "製造廠廠址": "新竹縣竹東鎮員山路11巷13弄1號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -68,7 +67,27 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "20ml",
+        "特殊劑型": "",
+        "顏色": "黃色",
+        "特殊氣味": "無",
+        "刻痕": "2",
+        "形狀": "長圓柱形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "[外觀]013582固肝敏治注射液(20毫升)-104-12-31(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01013582&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
+        {
+            "title": "013582固肝敏治-C-104-12-31(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01013582&Seq=003&Type=9"
+        },
         {
             "title": "衛署藥製字第013582號-仿單加刊賦形劑-103-06-09.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01013582&Seq=002&Type=9"
@@ -76,6 +95,10 @@
         {
             "title": "010135820001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01013582&Seq=001&Type=9"
+        },
+        {
+            "title": "[外盒]013582固肝敏治注射液(20毫升)-104-12-31(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01013582&Seq=001&Type=8"
         }
     ]
 }

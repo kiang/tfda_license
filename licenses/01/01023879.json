@@ -1,7 +1,7 @@
 {
     "code": "01023879",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01023879",
-    "time": "2015-08-22 22:37:21",
+    "time": "2016-11-18 12:09:37",
     "許可證字號": "衛署藥製字第023879號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,24 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102387909",
-    "中文品名": "\"福元\" 樂得克錠",
-    "英文品名": "ROTEC TABLETS \"F.Y.\"",
+    "中文品名": "&quot;福元&quot; 樂得克錠",
+    "英文品名": "ROTEC TABLETS &quot;F.Y.&quot;",
     "適應症": "緩解過敏性鼻炎、枯草熱所引起之相關症狀（鼻塞、流鼻水、打噴嚏、眼睛及喉部搔癢）。",
     "劑型": "110錠劑",
     "包裝": "8-28錠PTP 鋁箔盒裝 8-28錠AL-FOIL 鋁箔盒",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
-    "管制藥品分類級別": "",
-    "主成分略述": "CARBINOXAMINE MALEATE, PSEUDOEPHEDRINE HCL",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "CARBINOXAMINEMALEATE,PSEUDOEPHEDRINEHCL"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1419531200  福元化學製藥股份有限公司",
-    "申請商地址": "新北市瑞芳區大寮路95-1號1樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1419502300  福元化學製藥股份有限公司",
         "製造廠廠址": "新北市瑞芳區大寮路９５號之１",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049099101 抗過敏抗組織胺用藥Drugs for antihypersensitivity and antihistamine",
     "藥理治療分類": "",
@@ -64,13 +63,17 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "023879-104-09-15(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023879&Seq=134&Type=10"
+        },
+        {
             "title": "圖片",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023879&Seq=133&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "LT-T034 023879-104-08-06.pdf",
+            "title": "LT-T034 023879-104-08-06(廠商自行上傳).pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023879&Seq=005&Type=9"
         },
         {
@@ -88,6 +91,10 @@
         {
             "title": "010238790001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023879&Seq=001&Type=9"
+        },
+        {
+            "title": "LA-T034 023879-104-09-15(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023879&Seq=001&Type=8"
         }
     ]
 }

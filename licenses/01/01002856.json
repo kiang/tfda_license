@@ -1,7 +1,7 @@
 {
     "code": "01002856",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01002856",
-    "time": "2015-08-22 19:37:05",
+    "time": "2016-11-18 09:16:46",
     "許可證字號": "衛署藥製字第002856號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,24 +13,23 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00100285606",
     "中文品名": "福而化原錠",
-    "英文品名": "FULLPHAGEN TABLETS \"F.Y.\"",
+    "英文品名": "FULLPHAGEN TABLETS &quot;F.Y.&quot;",
     "適應症": "暫時緩解過敏性鼻炎，枯草熱所引起之相關症狀(流鼻涕、打噴嚏、眼睛及喉部搔癢)及過敏所引起之搔癢，皮膚癢疹。",
     "劑型": "110錠劑",
     "包裝": "8~1000錠塑膠瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "07須經醫師指示使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "CHLORPHENIRAMINE MALEATE, BIOTIN, NIACINAMIDE (NICOTINAMIDE), RIBOFLAVIN (VIT B2), PYRIDOXINE HCL, PANTOTHENATE CALCIUM, GLYCYRRHIZINIC ACID (EQ TO GLYCYRRHETINIC ACID GLYCOSIDE)(EQ TO GLYCYRRHIZIC ACID )",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "CHLORPHENIRAMINEMALEATE,BIOTIN,NIACINAMIDE(NICOTINAMIDE),RIBOFLAVIN(VITB2),PYRIDOXINEHCL,PANTOTHENATECALCIUM,GLYCYRRHIZINICACID(EQTOGLYCYRRHETINICACIDGLYCOSIDE)(EQTOGLYCYRRHIZICACID)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1419531200  福元化學製藥股份有限公司",
-    "申請商地址": "新北市瑞芳區大寮路95-1號1樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1419502300  福元化學製藥股份有限公司",
         "製造廠廠址": "新北市瑞芳區大寮路９５號之１",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049099101 抗過敏抗組織胺用藥Drugs for antihypersensitivity and antihistamine",
     "藥理治療分類": "",
@@ -104,11 +103,19 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "002856-104-09-15(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01002856&Seq=011&Type=10"
+        },
+        {
             "title": "圖片",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01002856&Seq=010&Type=10"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "LT-T025 002856-104-10-02(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01002856&Seq=005&Type=9"
+        },
         {
             "title": "福而化原錠 衛署藥製字第002856號-104-08-18.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01002856&Seq=004&Type=9"
@@ -124,6 +131,10 @@
         {
             "title": "010028560001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01002856&Seq=001&Type=9"
+        },
+        {
+            "title": "LA-T025 002856-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01002856&Seq=001&Type=8"
         }
     ]
 }

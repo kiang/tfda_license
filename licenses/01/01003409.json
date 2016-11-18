@@ -1,7 +1,7 @@
 {
     "code": "01003409",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01003409",
-    "time": "2016-01-29 04:11:01",
+    "time": "2016-11-18 09:20:43",
     "許可證字號": "衛署藥製字第003409號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "維護肝臟正常功能、皮膚炎、病後回復期、妊產、授乳婦之營養補給、維生素缺乏症",
     "劑型": "119糖衣錠",
     "包裝": "瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
-    "管制藥品分類級別": "",
-    "主成分略述": "THIOCTIC ACID AMIDE (THIOCTAMIDE), NIACINAMIDE (NICOTINAMIDE), VITAMIN B1 (MONONITRATE), RIBOFLAVIN (VIT B2), VITAMIN B6 (HCL FROM YEAST CONC.), CYANOCOBALAMIN (VIT B12), OROTIC ACID (VIT B13), PANTOTHENATE CALCIUM, INOSITOL (MESO-INOSITOL), VITAMIN C (ROSE HIPS EXTRACT)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "THIOCTICACIDAMIDE(THIOCTAMIDE),NIACINAMIDE(NICOTINAMIDE),VITAMINB1(MONONITRATE),RIBOFLAVIN(VITB2),VITAMINB6(HCLFROMYEASTCONC.),CYANOCOBALAMIN(VITB12),OROTICACID(VITB13),PANTOTHENATECALCIUM,INOSITOL(MESO-INOSITOL),VITAMINC(ROSEHIPSEXTRACT)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1419531200  福元化學製藥股份有限公司",
-    "申請商地址": "新北市瑞芳區大寮路95-1號1樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1419502300  福元化學製藥股份有限公司",
         "製造廠廠址": "新北市瑞芳區大寮路９５號之１",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049030005 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -118,8 +117,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "LT-SCT017 003409-105-01-06(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003409&Seq=002&Type=9"
+        },
+        {
             "title": "欲好肝糖衣錠 衛署藥製字第003409號-104-11-15.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003409&Seq=001&Type=9"
+        },
+        {
+            "title": "CA-SCT017 003409-105-01-06(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003409&Seq=002&Type=8"
+        },
+        {
+            "title": "LA-SCT017 003409-105-01-06(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003409&Seq=001&Type=8"
         }
     ]
 }

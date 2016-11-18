@@ -1,7 +1,7 @@
 {
     "code": "01010120",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01010120",
-    "time": "2016-01-29 04:12:01",
+    "time": "2016-11-18 10:03:19",
     "許可證字號": "衛署藥製字第010120號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "由革蘭氏陽性菌及陰性菌所引起之呼吸道、胃腸道、尿道感染症",
     "劑型": "110錠劑",
     "包裝": "8~1000錠塑膠瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "SULFAMETHOXAZOLE, TRIMETHOPRIM",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "SULFAMETHOXAZOLE,TRIMETHOPRIM"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "6211060503  華琳實業有限公司",
-    "申請商地址": "基隆市安樂區樂利三街309號1樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1419502300  福元化學製藥股份有限公司",
         "製造廠廠址": "新北市瑞芳區大寮路９５號之１",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049050000 磺胺藥Antibacterial, sulfa drugs",
     "藥理治療分類": "",
@@ -54,12 +53,24 @@
     ],
     "仿單外盒": [
         {
+            "title": "LT-T136 010120-104-12-14(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01010120&Seq=003&Type=9"
+        },
+        {
             "title": "衛署藥製字第 010120 廣速治標仿單 (3)-104-11-02.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01010120&Seq=002&Type=9"
         },
         {
-            "title": "LT-T136 010120-104-09-21.pdf",
+            "title": "LT-T136 010120-104-09-21(廠商自行上傳).pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01010120&Seq=001&Type=9"
+        },
+        {
+            "title": "LA-T136 010120-104-12-14(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01010120&Seq=001&Type=8"
+        },
+        {
+            "title": "LA-T136 010120-104-09-21(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01010120&Seq=002&Type=8"
         }
     ]
 }

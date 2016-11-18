@@ -1,7 +1,7 @@
 {
     "code": "01004514",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01004514",
-    "time": "2015-08-22 19:23:43",
+    "time": "2016-11-18 09:28:08",
     "許可證字號": "衛署藥製字第004514號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,21 +16,20 @@
     "英文品名": "DUOCIDE TABLETS",
     "適應症": "由革蘭氏陽性菌及陰性菌所引起之呼吸道、胃腸道、尿道感染症",
     "劑型": "110錠劑",
-    "包裝": "瓶裝 盒裝",
+    "包裝": "60、100、500、1000粒瓶裝 100粒盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "SULFAMETHOXAZOLE, TRIMETHOPRIM",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "SULFAMETHOXAZOLE,TRIMETHOPRIM"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0510620200  生達化學製藥股份有限公司",
-    "申請商地址": "台南市新營區土庫里土庫6之20號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0510620300  生達化學製藥股份有限公司",
-        "製造廠廠址": "台南市新營區土庫里土庫６－２０號",
+        "製造廠廠址": "台南市新營區土庫里土庫６之２０號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049050000 磺胺藥Antibacterial, sulfa drugs",
     "藥理治療分類": "",
@@ -64,11 +63,19 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "Duocide Tab-104-11-25(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004514&Seq=017&Type=10"
+        },
+        {
             "title": "圖片",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004514&Seq=016&Type=10"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "Duocide 雙克 LT-104-11-25(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004514&Seq=006&Type=9"
+        },
         {
             "title": "010045140005.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004514&Seq=005&Type=9"
@@ -88,6 +95,10 @@
         {
             "title": "010045140001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004514&Seq=001&Type=9"
+        },
+        {
+            "title": "2621301_S0205Duocide1000LB-轉-104-11-25(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004514&Seq=001&Type=8"
         }
     ]
 }

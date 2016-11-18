@@ -1,7 +1,7 @@
 {
     "code": "01016688",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01016688",
-    "time": "2015-08-22 21:23:34",
+    "time": "2016-11-18 10:55:19",
     "許可證字號": "衛署藥製字第016688號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,26 +12,24 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00101668801",
-    "中文品名": "鎮安敏顆粒",
-    "英文品名": "CHLORTICO GRANULES \"S.C.\"",
+    "中文品名": "&quot;世紀&quot; 鎮安敏顆粒",
+    "英文品名": "CHLORTICO GRANULES &quot;S.C.&quot;",
     "適應症": "緩解過敏性鼻炎、枯草熱所引起之相關症狀。(流鼻水、打噴嚏、眼睛及喉部搔癢)及過敏所引起之搔癢、皮膚癢疹。",
     "劑型": "150內服顆粒劑",
     "包裝": "瓶裝附量器",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "07須經醫師指示使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "CHLORPHENIRAMINE MALEATE, BIOTIN, NIACINAMIDE (NICOTINAMIDE), RIBOFLAVIN (VIT B2), PYRIDOXINE HCL, PANTOTHENATE CALCIUM, GLYCYRRHIZINIC ACID (EQ TO GLYCYRRHETINIC ACID GLYCOSIDE)(EQ TO GLYCYRRHIZIC ACID )",
-    "限制項目": [
-        "01國產",
-        "1G不得製造"
+    "主成分略述": [
+        "CHLORPHENIRAMINEMALEATE,BIOTIN,NIACINAMIDE(NICOTINAMIDE),RIBOFLAVIN(VITB2),PYRIDOXINEHCL,PANTOTHENATECALCIUM,GLYCYRRHIZINICACID(EQTOGLYCYRRHETINICACIDGLYCOSIDE)(EQTOGLYCYRRHIZICACID)"
     ],
+    "限制項目": "01國　產 1G不得製造",
     "申請商名稱": "0507502200  世紀化學製藥股份有限公司",
-    "申請商地址": "新北市瑞芳區瑞芳工業區頂坪路１１５號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0507502300  世紀化學製藥股份有限公司",
         "製造廠廠址": "新北市瑞芳區瑞芳工業區頂坪路１１５號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049099101 抗過敏抗組織胺用藥Drugs for antihypersensitivity and antihistamine",
     "藥理治療分類": "",
@@ -40,7 +38,7 @@
             "成分類別": "主成分",
             "成分代碼": "0400000810",
             "成分名稱": "CHLORPHENIRAMINE MALEATE",
-            "含量描述": "10",
+            "含量描述": "",
             "含量": "10.0000000000",
             "單位": "MG"
         },
@@ -48,7 +46,7 @@
             "成分類別": "主成分",
             "成分代碼": "8810000100",
             "成分名稱": "BIOTIN",
-            "含量描述": "0.5",
+            "含量描述": "",
             "含量": "0.5000000000",
             "單位": "MG"
         },
@@ -56,7 +54,7 @@
             "成分類別": "主成分",
             "成分代碼": "8810000300",
             "成分名稱": "NIACINAMIDE (NICOTINAMIDE)",
-            "含量描述": "20",
+            "含量描述": "",
             "含量": "20.0000000000",
             "單位": "MG"
         },
@@ -64,7 +62,7 @@
             "成分類別": "主成分",
             "成分代碼": "8810200400",
             "成分名稱": "RIBOFLAVIN (VIT B2)",
-            "含量描述": "10",
+            "含量描述": "",
             "含量": "10.0000000000",
             "單位": "MG"
         },
@@ -72,7 +70,7 @@
             "成分類別": "主成分",
             "成分代碼": "8810600300",
             "成分名稱": "PYRIDOXINE HCL",
-            "含量描述": "10",
+            "含量描述": "",
             "含量": "10.0000000000",
             "單位": "MG"
         },
@@ -80,7 +78,7 @@
             "成分類別": "主成分",
             "成分代碼": "8812300200",
             "成分名稱": "PANTOTHENATE CALCIUM",
-            "含量描述": "40",
+            "含量描述": "",
             "含量": "40.0000000000",
             "單位": "MG"
         },
@@ -88,7 +86,7 @@
             "成分類別": "主成分",
             "成分代碼": "9200004600",
             "成分名稱": "GLYCYRRHIZINIC ACID (EQ TO GLYCYRRHETINIC ACID GLYCOSIDE)(EQ TO GLYCYRRHIZIC ACID )",
-            "含量描述": "25",
+            "含量描述": "",
             "含量": "25.0000000000",
             "單位": "MG"
         }

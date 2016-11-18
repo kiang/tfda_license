@@ -1,7 +1,7 @@
 {
     "code": "01003318",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01003318",
-    "time": "2015-08-24 00:28:46",
+    "time": "2016-11-18 09:19:57",
     "許可證字號": "衛署藥製字第003318號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,24 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00100331809",
-    "中文品名": "\"生達\"胃明朗膜衣錠3.84公絲",
+    "中文品名": "&quot;生達&quot;胃明朗膜衣錠3.84公絲",
     "英文品名": "PROMERAN F.C. TABLETS 3.84mg",
     "適應症": "預防嘔吐、逆流性消化性食道炎、糖尿病引起之胃腸蠕動異常",
     "劑型": "116膜衣錠",
     "包裝": "6-1000錠瓶裝 6-1000錠鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "METOCLOPRAMIDE ( HCL H2O)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "METOCLOPRAMIDE(HCLH2O)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0510620200  生達化學製藥股份有限公司",
-    "申請商地址": "台南市新營區土庫里土庫6之20號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0510620700  生達化學製藥股份有限公司二廠",
         "製造廠廠址": "台南市新營區開元路１５４號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
@@ -39,7 +38,7 @@
             "成分類別": "主成分",
             "成分代碼": "5622009730",
             "成分名稱": "METOCLOPRAMIDE ( HCL H2O)",
-            "含量描述": "",
+            "含量描述": "(equ. to 3.84mg of metoclopramide base)",
             "含量": "4.5400000000",
             "單位": "MG"
         }
@@ -56,11 +55,19 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "Promeran Tab-104-12-06(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003318&Seq=013&Type=10"
+        },
+        {
             "title": "圖片",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003318&Seq=012&Type=10"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "2211620_S0407 PROMERAN 胃明朗 LT -104-12-06(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003318&Seq=006&Type=9"
+        },
         {
             "title": "010033180001-20130206-102-05-21.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003318&Seq=005&Type=9"
@@ -80,6 +87,14 @@
         {
             "title": "010033180001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003318&Seq=001&Type=9"
+        },
+        {
+            "title": "胃明朗PTP-1-104-12-06(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003318&Seq=002&Type=8"
+        },
+        {
+            "title": "2621620 S0402 Promeran 胃明朗 1000錠 瓶 -LB-1-104-12-06(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003318&Seq=001&Type=8"
         }
     ]
 }

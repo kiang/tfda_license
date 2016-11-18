@@ -1,7 +1,7 @@
 {
     "code": "01012002",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01012002",
-    "time": "2016-01-29 04:12:13",
+    "time": "2016-11-18 10:16:14",
     "許可證字號": "衛署藥製字第012002號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,24 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00101200209",
-    "中文品名": "\"生達\"衛爾喜凍晶注射劑",
+    "中文品名": "&quot;生達&quot;衛爾喜凍晶注射劑",
     "英文品名": "LYO-BC LYO-INJECTION",
     "適應症": "維生素乙及維生素丙缺乏症、營養補給、因胃腸疾患必須禁食而引起之維生素缺乏、因懷孕、授乳、骨折、療傷而需要激增維生素、體力衰弱、病後康復、神經炎",
     "劑型": "243凍晶注射劑",
     "包裝": "1,5,10,100小瓶盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "NIACINAMIDE (NICOTINAMIDE), THIAMINE HYDROCHLORIDE, RIBOFLAVIN (VIT B2), PYRIDOXINE HCL, CYANOCOBALAMIN (VIT B12), PANTOTHENATE CALCIUM, INOSITOL (MESO-INOSITOL), PARA-AMINOBENZOIC ACID (VIT H1), ASCORBIC ACID (VIT C)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "NIACINAMIDE(NICOTINAMIDE),THIAMINEHYDROCHLORIDE,RIBOFLAVIN(VITB2),PYRIDOXINEHCL,CYANOCOBALAMIN(VITB12),PANTOTHENATECALCIUM,INOSITOL(MESO-INOSITOL),PARA-AMINOBENZOICACID(VITH1),ASCORBICACID(VITC)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0510620200  生達化學製藥股份有限公司",
-    "申請商地址": "台南市新營區土庫里土庫6之20號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0510620300  生達化學製藥股份有限公司",
         "製造廠廠址": "台南市新營區土庫里土庫6之20號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -110,12 +109,24 @@
     ],
     "仿單外盒": [
         {
+            "title": "010120020001-104-12-06(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012002&Seq=003&Type=9"
+        },
+        {
             "title": "010120020001-103-03-14.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012002&Seq=002&Type=9"
         },
         {
             "title": "010120020001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012002&Seq=001&Type=9"
+        },
+        {
+            "title": "Lyo-bc LB-104-12-06(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012002&Seq=002&Type=8"
+        },
+        {
+            "title": "Lyo-bc 1A LB-104-12-06(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012002&Seq=001&Type=8"
         }
     ]
 }

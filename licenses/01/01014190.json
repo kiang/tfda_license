@@ -1,7 +1,7 @@
 {
     "code": "01014190",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01014190",
-    "time": "2015-08-22 18:37:38",
+    "time": "2016-11-18 10:34:48",
     "許可證字號": "衛署藥製字第014190號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,24 +13,23 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00101419007",
     "中文品名": "壽安民注射液",
-    "英文品名": "SUAMIN INJECTION \"S.Y.\"",
+    "英文品名": "SUAMIN INJECTION &quot;S.Y.&quot;",
     "適應症": "胃腸疾患而致蛋白質之消化吸收受障礙時之非經口之營養補給用需要蛋白質之補給",
     "劑型": "270注射劑",
     "包裝": "安瓿 小瓶",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "ARGININE HCL L-, HISTIDINE L- HCL 2H2O, L-ISOLEUCINE, L-LEUCINE, LYSINE L- HCL ( EQ TO L-LYSINE HCL), L-METHIONINE, L-PHENYLALANINE, L-THREONINE, L-TRYPTOPHAN, L-VALINE, GLYCINE (EQ TO AMINOACETIC ACID)(EQ TO GLYCOCOLL)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "ARGININEHCLL-,HISTIDINEL-HCLMONOHYDRATE,L-ISOLEUCINE,L-LEUCINE,LYSINEL-HCL(EQTOL-LYSINEHCL),L-METHIONINE,L-PHENYLALANINE,L-THREONINE,L-TRYPTOPHAN,L-VALINE,GLYCINE(EQTOAMINOACETICACID)(EQTOGLYCOCOLL)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1421417200  壽元化學工業股份有限公司",
-    "申請商地址": "嘉義市西區新民路128號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1421417300  壽元化學工業股份有限公司",
         "製造廠廠址": "嘉義市新民路１２８號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -45,8 +44,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "4020100942",
-            "成分名稱": "HISTIDINE L- HCL 2H2O",
+            "成分代碼": "4020100922",
+            "成分名稱": "HISTIDINE L- HCL MONOHYDRATE",
             "含量描述": "1.3",
             "含量": "1.3000000000",
             "單位": "MG"
@@ -125,6 +124,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "速敏(N009769)-104-12-22(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014190&Seq=002&Type=9"
+        },
         {
             "title": "壽安民(A014190)-103-01-10.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014190&Seq=001&Type=9"

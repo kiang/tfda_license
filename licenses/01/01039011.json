@@ -1,7 +1,7 @@
 {
     "code": "01039011",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01039011",
-    "time": "2015-08-23 02:35:24",
+    "time": "2016-11-18 13:58:03",
     "許可證字號": "衛署藥製字第039011號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,24 +13,23 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00103901105",
     "中文品名": "“瑪科隆”普利新軟膏",
-    "英文品名": "PLEXIN OINTMENT \"MACRO\"",
+    "英文品名": "PLEXIN OINTMENT &quot;MACRO&quot;",
     "適應症": "急救、預防及減緩皮膚刀傷、刮傷、燙傷之感染",
     "劑型": "360軟膏劑",
-    "包裝": "軟管裝 塑膠容器裝",
+    "包裝": "100公克以下軟管裝 100公克以下塑膠罐裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17指示用藥",
-    "管制藥品分類級別": "",
-    "主成分略述": "BACITRACIN (ZINC), POLYMYXIN B (SULFATE), NEOMYCIN (SULFATE)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "BACITRACIN(ZINC),POLYMYXINB(SULFATE),NEOMYCIN(SULFATE)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1437009100  瑪科隆股份有限公司",
-    "申請商地址": "台中市西區忠明南路３０３號２４樓之２",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0502918200  永勝藥品工業股份有限公司",
         "製造廠廠址": "嘉義縣民雄鄉興南村頭橋工業區工業三路６之３號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30042000916 人用醫藥製劑，含有其他抗生素者Medicaments, containing other antibiotics, for human use",
     "藥理治療分類": "",
@@ -58,6 +57,20 @@
             "含量描述": "(POTENCY)3.5",
             "含量": "",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "Plexin普利新軟膏20151218-104-12-18(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039011&Seq=001&Type=9"
+        },
+        {
+            "title": "PLEXIN 25G_BOX-104-12-11(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039011&Seq=002&Type=8"
+        },
+        {
+            "title": "PLEXIN 10G_BOX-104-12-11(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039011&Seq=001&Type=8"
         }
     ]
 }

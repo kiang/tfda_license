@@ -1,7 +1,7 @@
 {
     "code": "01011570",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01011570",
-    "time": "2015-08-22 19:33:15",
+    "time": "2016-11-18 10:13:25",
     "許可證字號": "衛署藥製字第011570號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "革蘭氏陽性、陰性菌、立克次氏體及巨型濾過性病毒感染症",
     "劑型": "270注射劑",
     "包裝": "1、3公撮小瓶裝 2、10公撮 10、50、100小瓶裝 20公撮 10、20、50、100小瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "GENTAMICIN (AS SULFATE)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "GENTAMICIN(ASSULFATE)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1304820200  瑞士藥廠股份有限公司",
-    "申請商地址": "台南市新市區中山路182號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "6105200026  瑞士藥廠股份有限公司新市廠",
         "製造廠廠址": "台南市新市區中山路182號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30042000113 人用醫藥製劑，含胺基配醣體類抗生素者（含鏈黴素或其衍生物；其鹽類者除外）Medicaments, containing aminoglycosides (excluding streptomycins or their derivatives; salts thereof), for human use",
     "藥理治療分類": "",
@@ -44,10 +43,42 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "無色或微黃",
+        "特殊氣味": "",
+        "刻痕": "0",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "S43-VIAL20ML-104-09-29(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01011570&Seq=002&Type=10"
+        },
+        {
+            "title": "S43-VIAL10ML-104-09-29(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01011570&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
+        {
+            "title": "S43,S70-仿單-104-12-31(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01011570&Seq=002&Type=9"
+        },
         {
             "title": "010115700001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01011570&Seq=001&Type=9"
+        },
+        {
+            "title": "S43-外盒20ML-104-09-29(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01011570&Seq=002&Type=8"
+        },
+        {
+            "title": "S43-外盒10ML-104-09-29(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01011570&Seq=001&Type=8"
         }
     ]
 }

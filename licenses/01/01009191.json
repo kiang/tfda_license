@@ -1,7 +1,7 @@
 {
     "code": "01009191",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01009191",
-    "time": "2016-01-29 04:11:54",
+    "time": "2016-11-18 09:57:57",
     "許可證字號": "衛署藥製字第009191號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,24 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00100919102",
-    "中文品名": "\"生達\"滋達敏注射液",
+    "中文品名": "&quot;生達&quot;滋達敏注射液",
     "英文品名": "STAMIN INJECTION",
     "適應症": "由於胃腸疾患、致使蛋白質之消化或吸收發生障礙之時、肝機能低下所引起蛋白質利用障礙、甲狀腺機能亢進及高熱性疾患引起之蛋白質需要擴大時、手術前後營養補給",
     "劑型": "270注射劑",
     "包裝": "20公撮5,10,50安瓿裝，100公撮2安瓿瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "ARGININE HCL L-, HISTIDINE L- HCL MONOHYDRATE, L-ISOLEUCINE, L-LEUCINE, LYSINE L- HCL 2H2O, L-METHIONINE, L-PHENYLALANINE, L-THREONINE, L-TRYPTOPHAN, L-VALINE, GLYCINE (EQ TO AMINOACETIC ACID)(EQ TO GLYCOCOLL)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "ARGININEHCLL-,HISTIDINEL-HCLMONOHYDRATE,L-ISOLEUCINE,L-LEUCINE,LYSINEL-HCL2H2O,L-METHIONINE,L-PHENYLALANINE,L-THREONINE,L-TRYPTOPHAN,L-VALINE,GLYCINE(EQTOAMINOACETICACID)(EQTOGLYCOCOLL)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0510620200  生達化學製藥股份有限公司",
-    "申請商地址": "台南市新營區土庫里土庫6之20號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0510620300  生達化學製藥股份有限公司",
         "製造廠廠址": "台南市新營區土庫里土庫6之20號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -126,12 +125,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "010091910001-104-12-09(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01009191&Seq=003&Type=9"
+        },
+        {
             "title": "010091910001-103-02-11.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01009191&Seq=002&Type=9"
         },
         {
             "title": "010091910001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01009191&Seq=001&Type=9"
+        },
+        {
+            "title": "Stamin inj LB-104-12-09(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01009191&Seq=001&Type=8"
         }
     ]
 }

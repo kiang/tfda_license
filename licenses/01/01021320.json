@@ -1,7 +1,7 @@
 {
     "code": "01021320",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01021320",
-    "time": "2015-08-22 20:30:11",
+    "time": "2016-11-18 11:42:53",
     "許可證字號": "衛署藥製字第021320號",
     "註銷狀態": "已註銷",
     "註銷日期": "77\/12\/31",
@@ -13,24 +13,23 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102132001",
     "中文品名": "益舒肌液",
-    "英文品名": "EESUEAGE TINCTURE \"C.A.\"",
+    "英文品名": "EESUEAGE TINCTURE &quot;C.A.&quot;",
     "適應症": "肩膀酸痛、肌肉痛、腰痛、打傷、扭傷、神經痛、風濕痛、凍傷",
     "劑型": "379酊劑",
     "包裝": "瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "07須經醫師指示使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "CHLORPHENIRAMINE MALEATE, CAMPHOR DL-, MENTHOL L-, METHYL SALICYLATE, TOCOPHEROL ACETATE, GLYCYRRHIZINIC ACID (EQ TO GLYCYRRHETINIC ACID GLYCOSIDE)(EQ TO GLYCYRRHIZIC ACID )",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "CHLORPHENIRAMINEMALEATE,DL-CAMPHOR,L-MENTHOL,METHYLSALICYLATE,TOCOPHEROLACETATE,GLYCYRRHIZINICACID(EQTOGLYCYRRHETINICACIDGLYCOSIDE)(EQTOGLYCYRRHIZICACID)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0814912200  長安化學工業股份有限公司",
-    "申請商地址": "彰化縣福興鄉福興工業區福工路１９號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0814912300  長安化學工業股份有限公司",
         "製造廠廠址": "彰化縣福興鄉福興工業區福工路１９號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -46,7 +45,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "8408000103",
-            "成分名稱": "CAMPHOR DL-",
+            "成分名稱": "DL-CAMPHOR",
             "含量描述": "80",
             "含量": "80.0000000000",
             "單位": "MG"
@@ -54,7 +53,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "8408000302",
-            "成分名稱": "MENTHOL L-",
+            "成分名稱": "L-MENTHOL",
             "含量描述": "70",
             "含量": "70.0000000000",
             "單位": "MG"

@@ -1,7 +1,7 @@
 {
     "code": "01020080",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01020080",
-    "time": "2015-08-22 20:08:57",
+    "time": "2016-11-18 11:30:35",
     "許可證字號": "衛署藥製字第020080號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,24 +13,23 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102008002",
     "中文品名": "美而康注射液",
-    "英文品名": "BIOCON INJECTION \"GENTLE\"",
+    "英文品名": "BIOCON INJECTION &quot;GENTLE&quot;",
     "適應症": "急慢性濕疹、皮膚炎、蕁麻疹、口唇炎、口角糜爛、口內炎、皮膚搔癢、小兒濕疹、脂漏性濕疹、落屑性皮膚炎、過敏性皮膚炎",
     "劑型": "270注射劑",
     "包裝": "安瓿",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "CHLORPHENIRAMINE MALEATE, DIISOPROPYLAMINE DICHLOROACETATE, BIOTIN, NIACINAMIDE (NICOTINAMIDE), RIBOFLAVIN(5'-PHOSPHATE SODIUM), PYRIDOXINE HCL, SODIUM GLUCONATE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "CHLORPHENIRAMINEMALEATE,DIISOPROPYLAMINEDICHLOROACETATE,BIOTIN,NIACINAMIDE(NICOTINAMIDE),RIBOFLAVIN(5'-PHOSPHATESODIUM),PYRIDOXINEHCL,SODIUMGLUCONATE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0922116200  政德製藥股份有限公司",
-    "申請商地址": "雲林縣大埤鄉嘉興村豐田路２號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0922116300  政德製藥股份有限公司",
         "製造廠廠址": "雲林縣大埤鄉嘉興村豐田路２號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049099101 抗過敏抗組織胺用藥Drugs for antihypersensitivity and antihistamine",
     "藥理治療分類": "",
@@ -94,12 +93,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "美而康仿單擬稿-1500909增賦形劑-ok151218-104-12-22(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020080&Seq=003&Type=9"
+        },
+        {
             "title": "衛署藥製字第020080號-美而康 注射液-2014-07-14.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020080&Seq=002&Type=9"
         },
         {
             "title": "010200800001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020080&Seq=001&Type=9"
+        },
+        {
+            "title": "美而康注射液-104-12-25(廠商自行上傳).PDF",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020080&Seq=001&Type=8"
         }
     ]
 }

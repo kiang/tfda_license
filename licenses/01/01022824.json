@@ -1,7 +1,7 @@
 {
     "code": "01022824",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01022824",
-    "time": "2016-01-29 04:14:48",
+    "time": "2016-11-18 11:58:57",
     "許可證字號": "衛署藥製字第022824號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,27 +12,24 @@
     "舊證字號": "00000000",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102282405",
-    "中文品名": "\"長安\"妙嬰粉",
-    "英文品名": "MEAEA POWDER\"C.A.\"",
+    "中文品名": "&quot;長安&quot;妙嬰粉",
+    "英文品名": "MEAEA POWDER&quot;C.A.&quot;",
     "適應症": "整腸劑",
     "劑型": "040（粉）",
     "包裝": "０．５公斤以上",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "01製劑原料",
-    "管制藥品分類級別": "",
-    "主成分略述": "CLOSTRIDIUM BUTYRICUM MIYAIRI",
-    "限制項目": [
-        "01國產",
-        "1G不得製造",
-        "1P原料藥未取得PIC\/SGMP核准函不得製造"
+    "主成分略述": [
+        "CLOSTRIDIUMBUTYRICUMMIYAIRI"
     ],
+    "限制項目": "01國　產 1G不得製造 1P原料藥未取得PIC\/S GMP核准函 不得製造",
     "申請商名稱": "0814912200  長安化學工業股份有限公司",
-    "申請商地址": "彰化縣福興鄉福興工業區福工路１９號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0814912300  長安化學工業股份有限公司",
         "製造廠廠址": "彰化縣福興鄉福興工業區福工路１９號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30029090905 人類血液；已調製動物血液供治療、預防疾病或診斷用；毒素、微生物培養體（酵母除外）和類似品Human blood; animal blood prepared for therapeutic, prophylactic or diagnostic uses; toxins, cultures of micro-organisms (excluding yeasts) and similar products",
     "藥理治療分類": "",
@@ -44,6 +41,16 @@
             "含量描述": "",
             "含量": "",
             "單位": ""
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "010228240001-104-12-09(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01022824&Seq=001&Type=9"
+        },
+        {
+            "title": "010228240002-104-12-09(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01022824&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "01024029",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01024029",
-    "time": "2016-01-29 04:15:04",
+    "time": "2016-11-18 12:10:40",
     "許可證字號": "衛署藥製字第024029號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,24 @@
     "舊證字號": "01016399",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102402906",
-    "中文品名": "\"中國化學\" 蒙利安命賜源注射液",
+    "中文品名": "&quot;中國化學&quot; 蒙利安命賜源注射液",
     "英文品名": "MORIAMIN-SN INJECTION",
     "適應症": "不能攝取適當食物之患者之補助治療劑、蛋白質消化吸收障礙及其合成利用障礙、嚴重創傷、火傷、骨折時蛋白質之補給、蛋白質攝取減少之營養失調症",
     "劑型": "270注射劑",
     "包裝": "小瓶",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "L-ALANINE, L-ARGININE, L-ASPARTIC ACID, L-CYSTEINE, GLUTAMIC ACID L-, L-HISTIDINE, L-ISOLEUCINE, L-LEUCINE, LYSINE ACETATE, L-METHIONINE, L-PHENYLALANINE, L-PROLINE, L-SERINE, L-THREONINE, L-TRYPTOPHAN, L-TYROSINE, L-VALINE, GLYCINE (EQ TO AMINOACETIC ACID)(EQ TO GLYCOCOLL)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "L-ALANINE,L-ARGININE,L-ASPARTICACID,L-CYSTEINE,GLUTAMICACIDL-,L-HISTIDINE,L-ISOLEUCINE,L-LEUCINE,LYSINEACETATE,L-METHIONINE,L-PHENYLALANINE,L-PROLINE,L-SERINE,L-THREONINE,L-TRYPTOPHAN,L-TYROSINE,L-VALINE,GLYCINE(EQTOAMINOACETICACID)(EQTOGLYCOCOLL)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0402606200  中國化學製藥股份有限公司新豐工廠",
-    "申請商地址": "新竹縣新豐鄉坑子口１８２之１號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0402602300  中國化學製藥股份有限公司新豐工廠",
         "製造廠廠址": "新竹縣新豐鄉坑子口１８２之１號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -181,6 +180,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "A024029 In-104-11-18(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024029&Seq=011&Type=9"
+        },
         {
             "title": "藥製024029 Moriamin-SN Inj. In-103-05-16.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024029&Seq=010&Type=9"

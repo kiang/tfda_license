@@ -1,7 +1,7 @@
 {
     "code": "01033961",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01033961",
-    "time": "2016-03-25 04:03:56",
+    "time": "2016-11-18 13:07:00",
     "許可證字號": "衛署藥製字第033961號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,24 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00103396100",
-    "中文品名": "\"井田\"益撲炎膜衣錠４００毫克（伊普）",
-    "英文品名": "IPUFEN F.C. TABLETS 400MG \"CHINTENG\"(IBUPROFEN)",
+    "中文品名": "&quot;井田&quot;益撲炎膜衣錠４００毫克（伊普）",
+    "英文品名": "IPUFEN F.C. TABLETS 400MG &quot;CHINTENG&quot;(IBUPROFEN)",
     "適應症": "慢性關節風濕症、關節痛、關節炎、神經痛、神經炎、背腰痛、上氣道炎之消炎、鎮痛。",
     "劑型": "116膜衣錠",
     "包裝": "8-1000錠瓶裝 盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "IBUPROFEN",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "IBUPROFEN"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "6103030017  井田國際醫藥廠股份有限公司",
-    "申請商地址": "台中市大甲區幼獅路32號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "6103030017  井田國際醫藥廠股份有限公司",
         "製造廠廠址": "台中市大甲區幼獅路32號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
@@ -44,7 +43,35 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "鮮橙",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "橢圓形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "034益撲炎-104-12-31(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033961&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
+        {
+            "title": "010339610003鋁箔-104-12-31(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033961&Seq=007&Type=9"
+        },
+        {
+            "title": "010339610002標籤-104-12-31(廠商自行上傳).PDF",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033961&Seq=006&Type=9"
+        },
+        {
+            "title": "010339610001仿單-104-12-31(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033961&Seq=005&Type=9"
+        },
         {
             "title": "010339610004.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033961&Seq=004&Type=9"
@@ -60,6 +87,10 @@
         {
             "title": "010339610001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033961&Seq=001&Type=9"
+        },
+        {
+            "title": "010339610004花盒-104-12-31(廠商自行上傳).PDF",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033961&Seq=001&Type=8"
         }
     ]
 }

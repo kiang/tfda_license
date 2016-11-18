@@ -1,7 +1,7 @@
 {
     "code": "01033537",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01033537",
-    "time": "2015-08-22 23:14:01",
+    "time": "2016-11-18 13:00:34",
     "許可證字號": "衛署藥製字第033537號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,33 +12,32 @@
     "舊證字號": "01027953",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00103353700",
-    "中文品名": "洛恩康膠囊",
-    "英文品名": "PROHEPAM CAPSULES \"SINPHAR\"",
+    "中文品名": "&quot;杏輝&quot;洛恩康膠囊",
+    "英文品名": "PROHEPAM CAPSULES &quot;SINPHAR&quot;",
     "適應症": "營養補充劑",
     "劑型": "130膠囊劑",
     "包裝": "瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "CYSTEINE, CHOLINE BITARTRATE, CYANOCOBALAMIN (VIT B12), INOSITOL (MESO-INOSITOL)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "CYSTEINEHCL(EQTOCYSTEINEHYDROCHLORIDE),CHOLINEBITARTRATE,CYANOCOBALAMIN(VITB12),INOSITOL(MESO-INOSITOL)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0705330200  杏輝藥品工業股份有限公司",
-    "申請商地址": "宜蘭縣冬山鄉中山村中山路８４號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0705330300  杏輝藥品工業股份有限公司",
         "製造廠廠址": "宜蘭縣冬山鄉中山村中山路８４號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049030005 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "4020100500",
-            "成分名稱": "CYSTEINE",
+            "成分代碼": "4020100510",
+            "成分名稱": "CYSTEINE HCL (EQ TO CYSTEINE HYDROCHLORIDE)",
             "含量描述": "20",
             "含量": "20.0000000000",
             "單位": "MG"

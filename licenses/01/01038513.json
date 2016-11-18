@@ -1,7 +1,7 @@
 {
     "code": "01038513",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01038513",
-    "time": "2015-08-23 01:24:02",
+    "time": "2016-11-18 13:52:05",
     "許可證字號": "衛署藥製字第038513號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,24 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00103851301",
-    "中文品名": "喜克徽乳膏１％（希克比羅斯）",
-    "英文品名": "CICLOM CREAM 1% (CICLOPIROX OLAMINE) \"H.S.\"",
+    "中文品名": "&quot;黃氏&quot;喜克徽乳膏１％（希克比羅斯）",
+    "英文品名": "CICLOM CREAM 1% (CICLOPIROX OLAMINE) &quot;H.S.&quot;",
     "適應症": "治療皮膚表淺性黴菌感染，如：足癬(香港腳)、足癬、汗斑。",
     "劑型": "363乳膏劑",
-    "包裝": "管裝 塑膠容器裝",
+    "包裝": "1000公克以下鋁管裝 塑膠瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥",
-    "管制藥品分類級別": "",
-    "主成分略述": "CICLOPIROX OLAMINE (CICLOPIROX ETHANOLAMINE SALT), ISOPROPYL MYRISTATE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "CICLOPIROXOLAMINE(CICLOPIROXETHANOLAMINESALT)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1223216200  黃氏製藥股份有限公司",
-    "申請商地址": "雲林縣斗南鎮小東里大同路４４４巷１１號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1223216300  黃氏製藥股份有限公司",
         "製造廠廠址": "雲林縣斗南鎮小東里大同路４４４巷１１號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30042000211 人用醫藥製劑，含抗黴菌劑類抗生素者Medicaments, containing antifungal antibiotics, for human use",
     "藥理治療分類": "",
@@ -42,17 +41,13 @@
             "含量描述": "10",
             "含量": "10.0000000000",
             "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9600016200",
-            "成分名稱": "ISOPROPYL MYRISTATE",
-            "含量描述": "150",
-            "含量": "150.0000000000",
-            "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "151130喜克黴說明書-104-12-03(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038513&Seq=005&Type=9"
+        },
         {
             "title": "010385130004.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038513&Seq=004&Type=9"
@@ -68,6 +63,10 @@
         {
             "title": "010385130001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038513&Seq=001&Type=9"
+        },
+        {
+            "title": "151130喜克黴內盒-104-12-03(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038513&Seq=001&Type=8"
         }
     ]
 }

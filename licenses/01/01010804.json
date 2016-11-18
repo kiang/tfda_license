@@ -1,7 +1,7 @@
 {
     "code": "01010804",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01010804",
-    "time": "2016-06-24 04:31:26",
+    "time": "2016-11-18 10:07:55",
     "許可證字號": "衛署藥製字第010804號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,24 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00101080409",
-    "中文品名": "\"派頓”癒癢軟膏",
-    "英文品名": "YEE-YOUNG OINTMENT \"PATRON\"",
+    "中文品名": "&quot;派頓”癒癢軟膏",
+    "英文品名": "YEE-YOUNG OINTMENT &quot;PATRON&quot;",
     "適應症": "急救、預防及減緩皮膚刀傷、刮傷、燙傷之感染。治療皮膚表淺性黴菌感染、如足癬（香港腳）、股癬。",
     "劑型": "360軟膏劑",
     "包裝": "5、10、15克管裝 25、500克罐裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
-    "管制藥品分類級別": "",
-    "主成分略述": "SULFADIAZINE, UNDECYLENATE ZINC, METHYL SALICYLATE, SALICYLIC ACID",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "SULFADIAZINE,UNDECYLENATEZINC,METHYLSALICYLATE,SALICYLICACID"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1407422200  臺灣派頓化學製藥股份有限公司",
-    "申請商地址": "高雄市岡山區為隨東路50號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1407422300  臺灣派頓化學製藥股份有限公司",
         "製造廠廠址": "高雄市岡山區為隨東路50號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30042000211 人用醫藥製劑，含抗黴菌劑類抗生素者Medicaments, containing antifungal antibiotics, for human use",
     "藥理治療分類": "",
@@ -70,12 +69,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "010108040001-104-12-17(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01010804&Seq=003&Type=9"
+        },
+        {
             "title": "01010804癒癢軟膏.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01010804&Seq=002&Type=9"
         },
         {
             "title": "010108040001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01010804&Seq=001&Type=9"
+        },
+        {
+            "title": "癒癢軟膏彩盒-104-12-28(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01010804&Seq=001&Type=8"
         }
     ]
 }

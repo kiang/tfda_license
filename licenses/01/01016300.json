@@ -1,7 +1,7 @@
 {
     "code": "01016300",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01016300",
-    "time": "2015-08-22 20:56:13",
+    "time": "2016-11-18 10:49:43",
     "許可證字號": "衛署藥製字第016300號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "急性腎疾患、急性腎不全、中毒性腎疾患、急性藥物中毒、慢性腎疾患之急劇性惡化症",
     "劑型": "373灌洗劑",
     "包裝": "桶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "SODIUM ACETATE, CALCIUM CHLORIDE, MAGNESIUM CHLORIDE, POTASSIUM CHLORIDE, SODIUM CHLORIDE, DEXTROSE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "SODIUMACETATE,CALCIUMCHLORIDE,MAGNESIUMCHLORIDE,POTASSIUMCHLORIDE,SODIUMCHLORIDE,DEXTROSE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1402206200  臺裕化學製藥廠股份有限公司",
-    "申請商地址": "新竹縣竹東鎮員山路１１巷１３弄１號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1402206300  臺裕化學製藥廠股份有限公司",
         "製造廠廠址": "新竹縣竹東鎮員山路11巷13弄1號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30039050001 洗腎用清洗液，不具有劑量或零售包裝式樣者Hemodialysis concentrate, not put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
@@ -82,6 +81,12 @@
             "含量描述": "7",
             "含量": "7.0000000000",
             "單位": "GM"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "016300 人工洗腎液-A-104-12-31(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016300&Seq=001&Type=9"
         }
     ]
 }

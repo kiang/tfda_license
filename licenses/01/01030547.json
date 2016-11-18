@@ -1,7 +1,7 @@
 {
     "code": "01030547",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01030547",
-    "time": "2015-08-22 23:34:18",
+    "time": "2016-11-18 12:20:34",
     "許可證字號": "衛署藥製字第030547號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,24 +13,23 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00103054701",
     "中文品名": "利夫妥注射液",
-    "英文品名": "LEFRUTOSE INJ. \"S.T.\"",
+    "英文品名": "LEFRUTOSE INJ. &quot;S.T.&quot;",
     "適應症": "取代含有葡萄糖或轉化糖液劑之治療及其他非經口的水、電解質之補給",
     "劑型": "270注射劑",
-    "包裝": "100、250、300、500、1000瓶裝 100支以下盒裝",
+    "包裝": "100、250、300、500、1000公撮瓶裝 100支以下盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "MAGNESIUM CHLORIDE HEXAHYDRATE (EQ TO MAGNESIUM CHLORIDE 6H2O), POTASSIUM CHLORIDE, SODIUM CHLORIDE, FRUCTOSE (LAEVULOSE), POTASSIUM PHOSPHATE (POSTASSIUM PHOSPHATE DIBASIC), SODIUM BISULFITE (EQ TO SODIUM HYDROGEN SULFITE), LACTIC ACID, SODIUM HYDROXIDE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "MAGNESIUMCHLORIDEHEXAHYDRATE(EQTOMAGNESIUMCHLORIDE6H2O),POTASSIUMCHLORIDE,SODIUMCHLORIDE,FRUCTOSE(LAEVULOSE),POTASSIUMPHOSPHATE(eqtoPOTASSIUMPHOSPHATEDIBASIC),SODIUMBISULFITE(EQTOSODIUMHYDROGENSULFITE),LACTICACID,SODIUMHYDROXIDE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0908703200  信東生技股份有限公司",
-    "申請商地址": "桃園市桃園區介壽路２２號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0908703300  信東生技股份有限公司",
-        "製造廠廠址": "桃園市桃園區介壽路２２號",
+        "製造廠廠址": "桃園市桃園區豐林里介壽路２２號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -70,7 +69,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "5612001900",
-            "成分名稱": "POTASSIUM PHOSPHATE (POSTASSIUM PHOSPHATE DIBASIC)",
+            "成分名稱": "POTASSIUM PHOSPHATE ( eq to POTASSIUM PHOSPHATE DIBASIC)",
             "含量描述": "0.26127",
             "含量": "0.2613000000",
             "單位": "MG"

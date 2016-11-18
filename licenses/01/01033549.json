@@ -1,7 +1,7 @@
 {
     "code": "01033549",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01033549",
-    "time": "2015-08-22 23:17:05",
+    "time": "2016-11-18 13:00:48",
     "許可證字號": "衛署藥製字第033549號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,24 @@
     "舊證字號": "01000268",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00103354907",
-    "中文品名": "泛美久翁美注射液",
-    "英文品名": "NEO METHION B INJECTION \"T.F.\"",
+    "中文品名": "&quot;大豐&quot;泛美久翁美注射液",
+    "英文品名": "NEO METHION B INJECTION &quot;T.F.&quot;",
     "適應症": "補給營養、增強體力、腳氣、病期恢復期之營養",
     "劑型": "270注射劑",
-    "包裝": "安瓿",
+    "包裝": "20公撮100支以下安瓿",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "GLUCOSE, METHIONINE, NIACINAMIDE (NICOTINAMIDE), THIAMINE (VITAMIN B1), RIBOFLAVIN PHOSPHATE SODIUM, TAURINE (EQ TO 2-AMINOETHANE SULFONIC ACID)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "GLUCOSE,METHIONINE,NIACINAMIDE(NICOTINAMIDE),THIAMINEHYDROCHLORIDE,RIBOFLAVINPHOSPHATESODIUM,TAURINE(EQTO2-AMINOETHANESULFONICACID)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0306811200  大豐製藥股份有限公司",
-    "申請商地址": "彰化市延平里岸頭巷１１號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0306811300  大豐製藥股份有限公司",
         "製造廠廠址": "彰化市延平里岸頭巷１１號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -61,8 +60,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8810100500",
-            "成分名稱": "THIAMINE (VITAMIN B1)",
+            "成分代碼": "8810100900",
+            "成分名稱": "THIAMINE HYDROCHLORIDE",
             "含量描述": "1.5",
             "含量": "1.5000000000",
             "單位": "MG"
@@ -86,6 +85,10 @@
     ],
     "仿單外盒": [
         {
+            "title": "010335490001-104-09-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033549&Seq=005&Type=9"
+        },
+        {
             "title": "010335490001-103-01-22.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033549&Seq=004&Type=9"
         },
@@ -100,6 +103,10 @@
         {
             "title": "010335490001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033549&Seq=001&Type=9"
+        },
+        {
+            "title": "泛美久翁美inj--20mlx50Amp-104-09-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033549&Seq=001&Type=8"
         }
     ]
 }

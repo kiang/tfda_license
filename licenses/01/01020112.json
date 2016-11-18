@@ -1,7 +1,7 @@
 {
     "code": "01020112",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01020112",
-    "time": "2016-05-27 04:54:51",
+    "time": "2016-11-18 11:31:00",
     "許可證字號": "衛署藥製字第020112號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,24 +13,23 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102011202",
     "中文品名": "脫帶淨膜衣錠（咪唑尼達）",
-    "英文品名": "TRICOGYL F.C TABLETS (METRONIDAZOLE) \"ROYAL\"",
+    "英文品名": "TRICOGYL F.C TABLETS (METRONIDAZOLE) &quot;ROYAL&quot;",
     "適應症": "治療陰道滴蟲感染所引起之陰道炎、白帶、阿米巴痢疾、阿米巴肝膿腫及對ＭＥＴＲＯＩＤＡＺＯＬＥ具有感受性之厭氣菌所引起之嚴重感染",
     "劑型": "116膜衣錠",
     "包裝": "6-1000粒塑膠瓶裝 6-1000粒鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "METRONIDAZOLE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "METRONIDAZOLE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0920322200  皇佳化學製藥股份有限公司",
-    "申請商地址": "高雄市烏松區松埔路１巷１號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0920322300  皇佳化學製藥股份有限公司",
         "製造廠廠址": "高雄市烏松區松埔路１巷１號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30042000916 人用醫藥製劑，含有其他抗生素者Medicaments, containing other antibiotics, for human use",
     "藥理治療分類": "",
@@ -44,13 +43,29 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "明黃",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "圓凸形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Tricgyl FCT-104-12-29(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020112&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "脫帶淨仿單10412-105-03-22.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020112&Seq=003&Type=9"
         },
         {
-            "title": "Tricogyl FCT-104-09-14.pdf",
+            "title": "Tricogyl FCT-104-09-14(廠商自行上傳).pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020112&Seq=002&Type=9"
         },
         {
@@ -64,6 +79,10 @@
         {
             "title": "脫帶淨標貼-105-03-22.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020112&Seq=001&Type=8"
+        },
+        {
+            "title": "T脫帶淨-104-12-29(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020112&Seq=003&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "01023114",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01023114",
-    "time": "2015-08-22 21:02:11",
+    "time": "2016-11-18 12:02:20",
     "許可證字號": "衛署藥製字第023114號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,21 +16,20 @@
     "英文品名": "SERACIN INJECTION 6% (GENTAMYCIN SULFATE)",
     "適應症": "革蘭氏陽性、陰性菌、立克次氏體及巨型濾過性病毒感染症",
     "劑型": "270注射劑",
-    "包裝": "安瓿 小瓶",
+    "包裝": "2公撮5、10、50、100安瓿裝 4、10公撮1、10、100小瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "GENTAMICIN (AS SULFATE)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "GENTAMICIN(ASSULFATE)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1304820200  瑞士藥廠股份有限公司",
-    "申請商地址": "台南市新市區中山路182號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "6105200026  瑞士藥廠股份有限公司新市廠",
         "製造廠廠址": "台南市新市區中山路182號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30042000113 人用醫藥製劑，含胺基配醣體類抗生素者（含鏈黴素或其衍生物；其鹽類者除外）Medicaments, containing aminoglycosides (excluding streptomycins or their derivatives; salts thereof), for human use",
     "藥理治療分類": "",
@@ -39,12 +38,16 @@
             "成分類別": "主成分",
             "成分代碼": "0812109310",
             "成分名稱": "GENTAMICIN (AS SULFATE)",
-            "含量描述": "",
+            "含量描述": "(POTENCY)",
             "含量": "60.0000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "S43,S70-仿單-104-12-31(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023114&Seq=005&Type=9"
+        },
         {
             "title": "01023114 號-103-03-25.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023114&Seq=004&Type=9"
@@ -60,6 +63,14 @@
         {
             "title": "010231140001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023114&Seq=001&Type=9"
+        },
+        {
+            "title": "S70-外盒-104-09-28(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023114&Seq=002&Type=8"
+        },
+        {
+            "title": "S70-排裝-104-09-28(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023114&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "01033540",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01033540",
-    "time": "2015-11-27 05:48:05",
+    "time": "2016-11-18 13:00:38",
     "許可證字號": "衛署藥製字第033540號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,24 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00103354002",
-    "中文品名": "\"瑞安\"利速復膠囊２５０毫克（西華定）",
-    "英文品名": "RECEF CAPSULE 250MG (CEPHRADINE)\"PURZER\"",
+    "中文品名": "&quot;瑞安&quot;利速復膠囊２５０毫克（西華定）",
+    "英文品名": "RECEF CAPSULE 250MG (CEPHRADINE)&quot;PURZER&quot;",
     "適應症": "葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症。",
     "劑型": "130膠囊劑",
     "包裝": "瓶裝 盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "CEPHRADINE MONOHYDRATE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "CEPHRADINEMONOHYDRATE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "6201091130  瑞安大藥廠股份有限公司",
-    "申請商地址": "台北市松山區光復南路1號12樓之2",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "6105200026  瑞士藥廠股份有限公司新市廠",
         "製造廠廠址": "台南市新市區中山路182號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30042000319 人用醫藥製劑，含頭孢子菌類抗生素者Medicaments, containing cephalosporins, for human use",
     "藥理治療分類": "",
@@ -56,7 +55,7 @@
     },
     "藥物辨識外觀圖片": [
         {
-            "title": "Recef 250mg_藥品外觀-104-10-01.pdf",
+            "title": "Recef 250mg_藥品外觀-104-10-01(廠商自行上傳).pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033540&Seq=259&Type=10"
         },
         {
@@ -66,6 +65,16 @@
         {
             "title": "圖片",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033540&Seq=257&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "Recef_INS_04_201511-104-11-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033540&Seq=001&Type=9"
+        },
+        {
+            "title": "Recef 250 mg_033540_PC.PL-104-12-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033540&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "01019296",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01019296",
-    "time": "2016-03-25 03:56:51",
+    "time": "2016-11-18 11:22:41",
     "許可證字號": "衛署藥製字第019296號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,24 +13,23 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00101929609",
     "中文品名": "百寧痛注射液",
-    "英文品名": "DEPAINING INJECTION \"TAI YU\"",
+    "英文品名": "DEPAINING INJECTION &quot;TAI YU&quot;",
     "適應症": "症候性神經痛、炎症性疾患時的補助療法",
     "劑型": "270注射劑",
     "包裝": "20毫升，100支以下盒裝玻璃安瓿裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "SODIUM SALICYLATE, CALCIUM BROMIDE, GLUCOSE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "SODIUMSALICYLATE,CALCIUMBROMIDE,GLUCOSE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1402206200  台裕化學製藥廠股份有限公司",
-    "申請商地址": "新竹縣竹東鎮員山路１１巷１３弄１號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1402206300  臺裕化學製藥廠股份有限公司",
         "製造廠廠址": "新竹縣竹東鎮員山路11巷13弄1號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
@@ -60,7 +59,27 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "20ml",
+        "特殊劑型": "",
+        "顏色": "無色至微黃色",
+        "特殊氣味": "無",
+        "刻痕": "2",
+        "形狀": "長圓柱形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "[外觀]019296百寧痛注射液(20毫升)-104-12-31(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019296&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
+        {
+            "title": "019296百寧痛-D-104-12-31(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019296&Seq=003&Type=9"
+        },
         {
             "title": "百寧痛-衛福部版 (3)-103-03-25.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019296&Seq=002&Type=9"
@@ -68,6 +87,10 @@
         {
             "title": "010192960001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019296&Seq=001&Type=9"
+        },
+        {
+            "title": "[外盒]019296百寧痛注射液(20毫升)-104-12-31(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019296&Seq=001&Type=8"
         }
     ]
 }

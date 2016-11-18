@@ -1,7 +1,7 @@
 {
     "code": "01016367",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01016367",
-    "time": "2016-06-24 04:32:01",
+    "time": "2016-11-18 10:50:28",
     "許可證字號": "衛署藥製字第016367號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,25 +13,23 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00101636704",
     "中文品名": "感冒糖衣錠",
-    "英文品名": "COMMO S.C. TABLETS \"N.C.P.\"",
+    "英文品名": "COMMO S.C. TABLETS &quot;N.C.P.&quot;",
     "適應症": "緩解感冒之各種症狀（咽喉痛、發燒、頭痛、關節痛、肌肉痛、流鼻水、鼻塞、打噴嚏、咳嗽）。",
     "劑型": "119糖衣錠",
     "包裝": "100、1000粒瓶裝 100粒盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥",
-    "管制藥品分類級別": "",
-    "主成分略述": "CHLORPHENIRAMINE MALEATE, DL-METHYLEPHEDRINE HCL, ACETAMINOPHEN (EQ TO PARACETAMOL), ETHENZAMIDE (ETHOXYBENZAMIDE), CAFFEINE ANHYDROUS, DEXTROMETHORPHAN HBR",
-    "限制項目": [
-        "01國產",
-        "1G不得製造"
+    "主成分略述": [
+        "CHLORPHENIRAMINEMALEATE,DL-METHYLEPHEDRINEHCL,ACETAMINOPHEN(EQTOPARACETAMOL),ETHENZAMIDE(ETHOXYBENZAMIDE),CAFFEINEANHYDROUS,DEXTROMETHORPHANHBR"
     ],
+    "限制項目": "01國　產 1G不得製造",
     "申請商名稱": "1302820200  新喜國際企業股份有限公司",
-    "申請商地址": "台南市鹽水區孫厝里孫厝寮４之６號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1210702300  順華藥品工業股份有限公司三峽工廠",
         "製造廠廠址": "新北市三峽區二鬮路186號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
@@ -87,8 +85,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "NS-0S 感冒糖衣錠說明書(160613新)-105-09-01(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016367&Seq=004&Type=9"
+        },
+        {
+            "title": "20160701094645618-105-07-01.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016367&Seq=002&Type=9"
+        },
+        {
             "title": "010163670001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016367&Seq=001&Type=9"
+        },
+        {
+            "title": "感冒糖衣錠盒子-104-10-02(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016367&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "01013381",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01013381",
-    "time": "2015-08-22 18:22:41",
+    "time": "2016-11-18 10:27:47",
     "許可證字號": "衛署藥製字第013381號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "風濕性關節炎、急性風濕熱、過敏性病、炎症性眼病、皮膚病、贅生性疾病及阿迪生氏病。",
     "劑型": "110錠劑",
     "包裝": "2-1000錠塑膠瓶裝 鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "CORTISONE ACETATE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "CORTISONEACETATE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "620110Q234  柏理貿易股份有限公司",
-    "申請商地址": "台北市中山區松江路65號4樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1704519300  應元化學製藥股份有限公司",
         "製造廠廠址": "台南市南區新忠路２６號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30043200002 含有腎上腺皮質類固醇荷爾蒙，其衍生物及結構式類似者Containing adrenal corticosteroid hormones, their derivatives and structural analogues",
     "藥理治療分類": "",
@@ -56,11 +55,23 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "柏理-乙酸可體松錠-尺規-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01013381&Seq=061&Type=10"
+        },
+        {
+            "title": "柏理-乙酸可體松錠-PTP-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01013381&Seq=060&Type=10"
+        },
+        {
             "title": "圖片",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01013381&Seq=059&Type=10"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "柏理-乙酸可體松錠-仿單-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01013381&Seq=004&Type=9"
+        },
         {
             "title": "010133810003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01013381&Seq=003&Type=9"
@@ -72,6 +83,14 @@
         {
             "title": "010133810001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01013381&Seq=001&Type=9"
+        },
+        {
+            "title": "柏理-乙酸可體松錠-瓶裝-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01013381&Seq=002&Type=8"
+        },
+        {
+            "title": "柏理-乙酸可體松錠-外盒-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01013381&Seq=001&Type=8"
         }
     ]
 }

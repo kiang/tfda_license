@@ -1,7 +1,7 @@
 {
     "code": "01036963",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01036963",
-    "time": "2015-08-23 00:50:42",
+    "time": "2016-11-18 13:37:59",
     "許可證字號": "衛署藥製字第036963號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,28 +17,27 @@
     "適應症": "皮膚癬、接觸性皮膚炎、異位性皮膚炎、皮膚溢出性皮膚炎、神經性皮膚炎、剝落性皮　膚炎、日曬皮膚炎。",
     "劑型": "363乳膏劑",
     "包裝": "塑膠容器裝 管裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "GENTAMICIN (AS SULFATE), BETAMETHASONE DIPROPIONATE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "GENTAMYCIN(ASSULFATE),BETAMETHASONEDIPROPIONATE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1421417200  壽元化學工業股份有限公司",
-    "申請商地址": "嘉義市西區新民路128號",
     "主製造廠": {
-        "製造廠名稱": "1421417300  壽元化學工業股份有限公司湖內廠",
-        "製造廠廠址": "嘉義市新民路１２８號",
+        "主製造廠": "",
+        "製造廠名稱": "1421417300  壽元化學工業股份有限公司",
+        "製造廠廠址": "嘉義市西區新民路128號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30043200002 含有腎上腺皮質類固醇荷爾蒙，其衍生物及結構式類似者Containing adrenal corticosteroid hormones, their derivatives and structural analogues",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "0812109310",
-            "成分名稱": "GENTAMICIN (AS SULFATE)",
+            "成分代碼": "0812100330",
+            "成分名稱": "GENTAMYCIN (AS SULFATE)",
             "含量描述": "",
             "含量": "1.0000000000",
             "單位": "MG"
@@ -47,14 +46,14 @@
             "成分類別": "主成分",
             "成分代碼": "6804000220",
             "成分名稱": "BETAMETHASONE DIPROPIONATE",
-            "含量描述": "",
+            "含量描述": "(EQ. TO BETAMETHASONE 0.5MG)",
             "含量": "0.6400000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "0812109310",
-            "成分名稱": "GENTAMICIN (AS SULFATE)",
+            "成分代碼": "0812100330",
+            "成分名稱": "GENTAMYCIN (AS SULFATE)",
             "含量描述": "",
             "含量": "1.0000000000",
             "單位": "MG"
@@ -63,14 +62,14 @@
             "成分類別": "主成分",
             "成分代碼": "6804000220",
             "成分名稱": "BETAMETHASONE DIPROPIONATE",
-            "含量描述": "",
+            "含量描述": "(EQ. TO BETAMETHASONE 0.5MG)",
             "含量": "0.6400000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "0812109310",
-            "成分名稱": "GENTAMICIN (AS SULFATE)",
+            "成分代碼": "0812100330",
+            "成分名稱": "GENTAMYCIN (AS SULFATE)",
             "含量描述": "",
             "含量": "1.0000000000",
             "單位": "MG"
@@ -79,12 +78,20 @@
             "成分類別": "主成分",
             "成分代碼": "6804000220",
             "成分名稱": "BETAMETHASONE DIPROPIONATE",
-            "含量描述": "",
+            "含量描述": "(EQ. TO BETAMETHASONE 0.5MG)",
             "含量": "0.6400000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "9420-2-貝膚適乳膏仿單-104-12-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036963&Seq=006&Type=9"
+        },
+        {
+            "title": "9420-貝膚適乳膏仿單-104-12-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036963&Seq=005&Type=9"
+        },
         {
             "title": "貝膚適仿單3-103-08-11.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036963&Seq=004&Type=9"
@@ -100,6 +107,14 @@
         {
             "title": "貝膚適乳膏仿單___20111111.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036963&Seq=001&Type=9"
+        },
+        {
+            "title": "9420 Bencogen box-1-104-12-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036963&Seq=010&Type=8"
+        },
+        {
+            "title": "9420 Bencogen Box-104-12-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036963&Seq=009&Type=8"
         },
         {
             "title": "貝膚適標籤3-103-08-11.pdf",

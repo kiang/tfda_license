@@ -1,7 +1,7 @@
 {
     "code": "01019423",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01019423",
-    "time": "2015-08-22 19:56:13",
+    "time": "2016-11-18 11:23:49",
     "許可證字號": "衛署藥製字第019423號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,41 +12,40 @@
     "舊證字號": "00000000",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00101942303",
-    "中文品名": "金碘藥水（普威隆碘）",
-    "英文品名": "SINDINE SOLUTION (POVIDONE-IODINE) \"SINPHAR\"",
+    "中文品名": "&quot;杏輝&quot;金碘藥水（普威隆碘）",
+    "英文品名": "SINDINE SOLUTION (POVIDONE-IODINE) &quot;SINPHAR&quot;",
     "適應症": "傷口消毒。",
-    "劑型": "370外用液劑",
+    "劑型": "18A溶液劑",
     "包裝": "瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "07須經醫師指示使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "IODINE (POVIDONE)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "POVIDONE-IODINE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0705330200  杏輝藥品工業股份有限公司",
-    "申請商地址": "宜蘭縣冬山鄉中山村中山路８４號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0705330300  杏輝藥品工業股份有限公司",
         "製造廠廠址": "宜蘭縣冬山鄉中山村中山路８４號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "8404693400",
-            "成分名稱": "IODINE (POVIDONE)",
-            "含量描述": "(100MG) 10",
-            "含量": "",
+            "成分代碼": "8404603400",
+            "成分名稱": "POVIDONE-IODINE",
+            "含量描述": "(as 10mg of available iodine)",
+            "含量": "100.0000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
-            "title": "5701942300001-104-08-17.pdf",
+            "title": "5701942300001-104-08-17(廠商自行上傳).pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019423&Seq=005&Type=9"
         },
         {
@@ -64,6 +63,30 @@
         {
             "title": "010194230001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019423&Seq=001&Type=9"
+        },
+        {
+            "title": "金碘藥水(3800ml／桶)-外盒包裝-104-10-12(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019423&Seq=006&Type=8"
+        },
+        {
+            "title": "金碘藥水(500ml／瓶)-外盒包裝-104-10-12(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019423&Seq=005&Type=8"
+        },
+        {
+            "title": "金碘藥水(200ml／瓶)-外盒包裝-104-10-12(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019423&Seq=004&Type=8"
+        },
+        {
+            "title": "金碘藥水(150ml／瓶)-外盒包裝-104-10-12(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019423&Seq=003&Type=8"
+        },
+        {
+            "title": "金碘藥水(120ml／瓶)-外盒包裝-104-10-12(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019423&Seq=002&Type=8"
+        },
+        {
+            "title": "金碘藥水(30ml／瓶)-外盒包裝-104-09-22(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019423&Seq=001&Type=8"
         }
     ]
 }

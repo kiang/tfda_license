@@ -1,7 +1,7 @@
 {
     "code": "01021604",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01021604",
-    "time": "2015-12-25 04:04:58",
+    "time": "2016-11-18 11:46:37",
     "許可證字號": "衛署藥製字第021604號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,26 +12,24 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102160402",
-    "中文品名": "\"長安\" 億補口服液",
+    "中文品名": "&quot;長安&quot; 億補口服液",
     "英文品名": "IPOU ORAL LIQUID",
     "適應症": "消除疲勞、增強體力、營養補給、維護肝臟正常功能",
     "劑型": "170內服液劑",
     "包裝": "100公撮瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "07須經醫師指示使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "ASPARTATE MAGNESIUM L-, ASPARTATE POTASSIUM L- (eq to POTASSIUM L-ASPARTATE), THIAMINE HYDROCHLORIDE, RIBOFLAVIN PHOSPHATE SODIUM, PYRIDOXINE HCL, ASCORBIC ACID (VIT C)",
-    "限制項目": [
-        "01國產",
-        "1G不得製造"
+    "主成分略述": [
+        "ASPARTATEMAGNESIUML-,ASPARTATEPOTASSIUML-(eqtoPOTASSIUML-ASPARTATE),THIAMINEHYDROCHLORIDE,RIBOFLAVINPHOSPHATESODIUM,PYRIDOXINEHCL,ASCORBICACID(VITC)"
     ],
+    "限制項目": "01國　產 1G不得製造",
     "申請商名稱": "0814912200  長安化學工業股份有限公司",
-    "申請商地址": "彰化縣福興鄉福興工業區福工路１９號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0814912300  長安化學工業股份有限公司",
         "製造廠廠址": "彰化縣福興鄉福興工業區福工路１９號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049030005 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -83,6 +81,16 @@
             "含量描述": "200",
             "含量": "200.0000000000",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "010216040001-104-12-18(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021604&Seq=001&Type=9"
+        },
+        {
+            "title": "010216040002-104-12-18(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021604&Seq=001&Type=8"
         }
     ]
 }

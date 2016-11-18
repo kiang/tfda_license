@@ -1,7 +1,7 @@
 {
     "code": "01036579",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01036579",
-    "time": "2015-08-23 00:18:24",
+    "time": "2016-11-18 13:33:43",
     "許可證字號": "衛署藥製字第036579號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,24 +13,23 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00103657905",
     "中文品名": "血液透析液３號",
-    "英文品名": "HEMODIALYSIS CONCENTRATE NO.3 \"S.T.\"",
+    "英文品名": "HEMODIALYSIS CONCENTRATE NO.3 &quot;S.T.&quot;",
     "適應症": "配合人工腎臟機用、以清洗病人血中尿毒。",
     "劑型": "272透析用液劑",
-    "包裝": "瓶裝",
+    "包裝": "4公升、10公升塑膠瓶裝 100支以下盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "SODIUM ACETATE TRIHYDRATE (EQ TO SODIUM ACETATE 3H2O ), CALCIUM CHLORIDE DIHYDRATE, MAGNESIUM CHLORIDE HEXAHYDRATE (EQ TO MAGNESIUM CHLORIDE 6H2O), POTASSIUM CHLORIDE, SODIUM CHLORIDE, DEXTROSE MONOHYDRATE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "SODIUMACETATETRIHYDRATE(EQTOSODIUMACETATE3H2O),CALCIUMCHLORIDEDIHYDRATE,MAGNESIUMCHLORIDEHEXAHYDRATE(EQTOMAGNESIUMCHLORIDE6H2O),POTASSIUMCHLORIDE,SODIUMCHLORIDE,DEXTROSEMONOHYDRATE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0908703200  信東生技股份有限公司",
-    "申請商地址": "桃園市桃園區介壽路２２號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0908703300  信東生技股份有限公司",
         "製造廠廠址": "桃園市豐林里介壽路２２號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049040003 洗腎用清洗液，具有劑量或零售包裝式樣者Hemodialysis concentrate, put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
@@ -82,6 +81,12 @@
             "含量描述": "40.48",
             "含量": "40.4800000000",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "Hemo No.3(Lit)-104-12-29(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036579&Seq=001&Type=9"
         }
     ]
 }

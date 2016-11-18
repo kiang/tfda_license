@@ -1,7 +1,7 @@
 {
     "code": "01035913",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01035913",
-    "time": "2015-08-22 23:20:48",
+    "time": "2016-11-18 13:25:59",
     "許可證字號": "衛署藥製字第035913號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,24 +13,23 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00103591302",
     "中文品名": "安立欣錠５００公絲（\/利啶酸）",
-    "英文品名": "ANLICIDE TABLETS 500MG \"ASTAR\" (NALIDIXIC ACID)",
+    "英文品名": "ANLICIDE TABLETS 500MG &quot;ASTAR&quot; (NALIDIXIC ACID)",
     "適應症": "革蘭氏陰性菌所引起之下列感染症：細菌性痢疾、急性、慢性腸炎、　　　　急慢性尿道感染症（腎盂、尿管炎、膀胱炎、尿道炎）膽道感染（　　　　　膽囊炎、膽管炎）。",
     "劑型": "110錠劑",
-    "包裝": "瓶裝 鋁箔裝",
+    "包裝": "8-1000錠塑膠瓶裝、鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "NALIDIXIC ACID",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "NALIDIXICACID"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0603006200  安星製藥股份有限公司",
-    "申請商地址": "新竹縣新豐鄉鳳坑村坑子口６７３號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0603006300  安星製藥股份有限公司",
         "製造廠廠址": "新竹縣新豐鄉鳳坑村坑子口６７３號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30042000916 人用醫藥製劑，含有其他抗生素者Medicaments, containing other antibiotics, for human use",
     "藥理治療分類": "",
@@ -56,8 +55,30 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "外觀-104-10-09(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035913&Seq=299&Type=10"
+        },
+        {
             "title": "圖片",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035913&Seq=298&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "安立欣錠-104-10-09(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035913&Seq=001&Type=9"
+        },
+        {
+            "title": "紙盒-104-10-09(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035913&Seq=003&Type=8"
+        },
+        {
+            "title": "鋁箔-104-10-09(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035913&Seq=002&Type=8"
+        },
+        {
+            "title": "標籤-104-10-09(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035913&Seq=001&Type=8"
         }
     ]
 }

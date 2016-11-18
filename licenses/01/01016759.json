@@ -1,7 +1,7 @@
 {
     "code": "01016759",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01016759",
-    "time": "2015-08-22 21:33:46",
+    "time": "2016-11-18 10:56:08",
     "許可證字號": "衛署藥製字第016759號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,26 +12,24 @@
     "舊證字號": "01011915",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00101675908",
-    "中文品名": "\"美\"安濕風寧膠囊",
+    "中文品名": "&quot;美&quot;安濕風寧膠囊",
     "英文品名": "ANSIHONIN CAPSULES",
     "適應症": "感冒諸症狀（鼻塞、打噴嚏、頭痛、發熱、發熱、咽喉痛、流鼻水）之緩解",
     "劑型": "130膠囊劑",
     "包裝": "瓶裝 罐裝 盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "07須經醫師指示使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "CHLORPHENIRAMINE MALEATE, ETHENZAMIDE (ETHOXYBENZAMIDE), CAFFEINE ANHYDROUS, HYDROXYBUTYRIC ACID BETA- P-PHENETIDIDE (BUCETIN), ALUMINUM SILICATE",
-    "限制項目": [
-        "09委託製造",
-        "1G不得製造"
+    "主成分略述": [
+        "CHLORPHENIRAMINEMALEATE,ETHENZAMIDE(ETHOXYBENZAMIDE),CAFFEINEANHYDROUS,HYDROXYBUTYRICACIDBETA-P-PHENETIDIDE(BUCETIN),ALUMINUMSILICATE"
     ],
+    "限制項目": "09委託製造 1G不得製造",
     "申請商名稱": "0814912200  長安化學工業股份有限公司",
-    "申請商地址": "彰化縣福興鄉萬壽村福工路１９號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0814912300  長安化學工業股份有限公司",
         "製造廠廠址": "彰化縣福興鄉萬壽村福工路１９號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
@@ -75,6 +73,28 @@
             "含量描述": "(SYN.) 30",
             "含量": "",
             "單位": "MG"
+        }
+    ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "21m\/m",
+        "特殊劑型": "",
+        "顏色": "紫\/咖啡",
+        "特殊氣味": "",
+        "刻痕": "2",
+        "形狀": "長圓柱形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "010167590001-104-12-26(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016759&Seq=001&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "010167590001-104-12-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016759&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "01032217",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01032217",
-    "time": "2015-09-25 04:17:46",
+    "time": "2016-11-18 12:41:08",
     "許可證字號": "衛署藥製字第032217號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,42 +12,53 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00103221703",
-    "中文品名": "欣欣乳膏０．５公絲（貝皮質醇）",
-    "英文品名": "SHIN-SHIN CREAM 0.5MG (BETAMETHASONE) \"SWISS\"",
+    "中文品名": "&quot;瑞士&quot;欣欣乳膏０．５公絲（貝皮質醇）",
+    "英文品名": "SHIN-SHIN CREAM &quot;SWISS&quot; 0.5MG (BETAMETHASONE)",
     "適應症": "接觸性皮膚炎、異位性皮膚炎、神經性皮膚炎、剝落性皮膚炎、日曬皮膚炎、皮脂溢出性皮炎",
     "劑型": "363乳膏劑",
     "包裝": "1-1000公克塑膠罐裝 鋁管裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "BETAMETHASONE (AS DIPROPIONATE)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "BETAMETHASONEDIPROPIONATE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1304820200  瑞士藥廠股份有限公司",
-    "申請商地址": "台南市新市區中山路182號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "6105200026  瑞士藥廠股份有限公司新市廠",
         "製造廠廠址": "台南市新市區中山路182號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30043200002 含有腎上腺皮質類固醇荷爾蒙，其衍生物及結構式類似者Containing adrenal corticosteroid hormones, their derivatives and structural analogues",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "6804009220",
-            "成分名稱": "BETAMETHASONE (AS DIPROPIONATE)",
-            "含量描述": "(0.643MG) 0.500",
-            "含量": "",
+            "成分代碼": "6804000220",
+            "成分名稱": "BETAMETHASONE DIPROPIONATE",
+            "含量描述": "0.643",
+            "含量": "0.6430000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
+            "title": "S77-仿單-104-10-05(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032217&Seq=002&Type=9"
+        },
+        {
             "title": "010322170001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032217&Seq=001&Type=9"
+        },
+        {
+            "title": "S77-罐裝450G-104-10-05(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032217&Seq=002&Type=8"
+        },
+        {
+            "title": "S77-外盒450G-104-10-05(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032217&Seq=001&Type=8"
         }
     ]
 }

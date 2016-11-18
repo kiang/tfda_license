@@ -1,7 +1,7 @@
 {
     "code": "01015675",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01015675",
-    "time": "2016-06-24 04:31:59",
+    "time": "2016-11-18 10:46:06",
     "許可證字號": "衛署藥製字第015675號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,21 +17,19 @@
     "適應症": "消除疲勞、增強體力、營養補給。",
     "劑型": "119糖衣錠",
     "包裝": "100、300、500粒瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "07須經醫師指示使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "METHIONINE DL-, CHOLINE BITARTRATE, PANTHENOL, VITAMIN F (LINOLEIC,LINOLENIC AND ARACHIDONIC ACIDS), BIOTIN, NIACINAMIDE (NICOTINAMIDE), THIAMINE (VITAMIN B1), RIBOFLAVIN (VIT B2), VITAMIN B6 HCL FROM YEAST CONC., CYANOCOBALAMIN (VIT B12)",
-    "限制項目": [
-        "01國產",
-        "1G不得製造"
+    "主成分略述": [
+        "METHIONINEDL-,CHOLINEBITARTRATE,PANTHENOL,VITAMINF(LINOLEIC,LINOLENICANDARACHIDONICACIDS),BIOTIN,NIACINAMIDE(NICOTINAMIDE),THIAMINE(VITAMINB1),RIBOFLAVIN(VITB2),VITAMINB6HCLFROMYEASTCONC.,CYANOCOBALAMIN(VITB12)"
     ],
+    "限制項目": "01國　產 1G不得製造",
     "申請商名稱": "1302820200  新喜國際企業股份有限公司",
-    "申請商地址": "台南市鹽水區孫厝里孫厝寮４之６號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1210702300  順華藥品工業股份有限公司三峽工廠",
         "製造廠廠址": "新北市三峽區二鬮路186號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049030005 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -118,6 +116,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "NS-09增爾能糖衣錠說明書(160614新)-105-09-01(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01015675&Seq=002&Type=9"
+        },
         {
             "title": "010156750001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01015675&Seq=001&Type=9"

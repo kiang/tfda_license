@@ -1,7 +1,7 @@
 {
     "code": "01035696",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01035696",
-    "time": "2015-08-22 23:33:19",
+    "time": "2016-11-18 13:24:37",
     "許可證字號": "衛署藥製字第035696號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,24 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00103569604",
-    "中文品名": "膚麗凝膠７．５公絲\/公克（咪唑尼達）",
-    "英文品名": "FREE GEL 7.5MG\/GM (METRONIDAZOLE) \"SWISS\"",
-    "適應症": "因酒渣鼻引起發炎性丘疹、膿？及紅腫。",
+    "中文品名": "&quot;瑞士&quot;膚麗凝膠７.５公絲\/公克（咪唑尼達）",
+    "英文品名": "FREE GEL 7.5MG\/GM  &quot;SWISS&quot;(METRONIDAZOLE)",
+    "適應症": "因酒渣鼻引起發炎性丘疹、膿疱及紅腫。",
     "劑型": "393外用凝膠劑",
-    "包裝": "管裝",
+    "包裝": "1-1000公克鋁管、塑膠管裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "METRONIDAZOLE, WATER PURIFIED ( EQ TO AQUEOUS PURIFIED OR PURIFIED WATER )",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "METRONIDAZOLE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1304820200  瑞士藥廠股份有限公司",
-    "申請商地址": "台南市新市區中山路182號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "6105200026  瑞士藥廠股份有限公司新市廠",
         "製造廠廠址": "台南市新市區中山路182號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30042000916 人用醫藥製劑，含有其他抗生素者Medicaments, containing other antibiotics, for human use",
     "藥理治療分類": "",
@@ -42,17 +41,13 @@
             "含量描述": "7.5",
             "含量": "7.5000000000",
             "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9604001100",
-            "成分名稱": "WATER PURIFIED ( EQ TO AQUEOUS PURIFIED OR PURIFIED WATER )",
-            "含量描述": "899.9",
-            "含量": "899.9000000000",
-            "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "F21-依1041404689公告變更DOH-105-03-29(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035696&Seq=004&Type=9"
+        },
         {
             "title": "010356960002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035696&Seq=003&Type=9"
@@ -64,6 +59,10 @@
         {
             "title": "010356960001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035696&Seq=001&Type=9"
+        },
+        {
+            "title": "F21-外盒-104-09-25(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035696&Seq=001&Type=8"
         }
     ]
 }

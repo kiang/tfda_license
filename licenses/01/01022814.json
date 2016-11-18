@@ -1,7 +1,7 @@
 {
     "code": "01022814",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01022814",
-    "time": "2015-12-25 04:05:08",
+    "time": "2016-11-18 11:58:49",
     "許可證字號": "衛署藥製字第022814號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,24 +13,23 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102281402",
     "中文品名": "“大豐”見達黴素注射液40毫克\/毫升",
-    "英文品名": "GENTAMYCIN SULFATE INJECTION 40mg\/ml \"T.F.\"",
+    "英文品名": "GENTAMYCIN SULFATE INJECTION 40mg\/ml &quot;T.F.&quot;",
     "適應症": "革蘭氏陽性、陰性菌、立克次氏體及巨型濾過性病毒感染症",
     "劑型": "270注射劑",
     "包裝": "10、20毫升玻璃小瓶裝，100支以下盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "GENTAMICIN (AS SULFATE), SODIUM BISULFITE (EQ TO SODIUM HYDROGEN SULFITE)",
-    "限制項目": [
-        "09委託製造"
+    "主成分略述": [
+        "GENTAMICIN(ASSULFATE)"
     ],
+    "限制項目": "09委託製造",
     "申請商名稱": "0306811200  大豐製藥股份有限公司",
-    "申請商地址": "彰化市延平里岸頭巷１１號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0306811300  大豐製藥股份有限公司",
         "製造廠廠址": "彰化市延平里岸頭巷１１號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30042000113 人用醫藥製劑，含胺基配醣體類抗生素者（含鏈黴素或其衍生物；其鹽類者除外）Medicaments, containing aminoglycosides (excluding streptomycins or their derivatives; salts thereof), for human use",
     "藥理治療分類": "",
@@ -39,22 +38,14 @@
             "成分類別": "主成分",
             "成分代碼": "0812109310",
             "成分名稱": "GENTAMICIN (AS SULFATE)",
-            "含量描述": "40",
+            "含量描述": "",
             "含量": "40.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "6400000600",
-            "成分名稱": "SODIUM BISULFITE (EQ TO SODIUM HYDROGEN SULFITE)",
-            "含量描述": "3.2",
-            "含量": "3.2000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
-            "title": "見達黴素(2標、說)-104-09-24.pdf",
+            "title": "見達黴素(2標、說)-104-09-24(廠商自行上傳).pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01022814&Seq=004&Type=9"
         },
         {
@@ -68,6 +59,10 @@
         {
             "title": "010228140001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01022814&Seq=001&Type=9"
+        },
+        {
+            "title": "見達黴素inj--10mlx50V-104-09-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01022814&Seq=003&Type=8"
         },
         {
             "title": "010228140003-2014-07-18.pdf",

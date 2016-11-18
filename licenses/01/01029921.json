@@ -1,7 +1,7 @@
 {
     "code": "01029921",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01029921",
-    "time": "2015-08-22 23:53:15",
+    "time": "2016-11-18 12:17:37",
     "許可證字號": "衛署藥製字第029921號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,24 +13,23 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102992102",
     "中文品名": "活力能糖衣錠",
-    "英文品名": "HOLIMIN S.C. TABLETS \"HS\"",
+    "英文品名": "HOLIMIN S.C. TABLETS &quot;HS&quot;",
     "適應症": "多發性神經炎、腳氣病",
     "劑型": "119糖衣錠",
     "包裝": "瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥",
-    "管制藥品分類級別": "",
-    "主成分略述": "PROSULTIAMINE (THIAMINE PROPYL DISULFIDE), RIBOFLAVIN (VIT B2)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "PROSULTIAMINE(THIAMINEPROPYLDISULFIDE),RIBOFLAVIN(VITB2)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1223216200  黃氏製藥股份有限公司",
-    "申請商地址": "雲林縣斗南鎮小東里大同路４４４巷１１號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1223216300  黃氏製藥股份有限公司",
         "製造廠廠址": "雲林縣斗南鎮小東里大同路４４４巷１１號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30045000009 含有維他命或第２９３６節產品之其他醫藥製劑Other medicaments containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
@@ -54,8 +53,16 @@
     ],
     "仿單外盒": [
         {
+            "title": "T-13.151030活力能糖衣錠(說明書)-104-11-05(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029921&Seq=002&Type=9"
+        },
+        {
             "title": "010299210001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029921&Seq=001&Type=9"
+        },
+        {
+            "title": "T-13.150504活力能120粒(內盒)-104-11-05(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029921&Seq=001&Type=8"
         }
     ]
 }

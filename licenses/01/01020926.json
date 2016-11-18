@@ -1,7 +1,7 @@
 {
     "code": "01020926",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01020926",
-    "time": "2016-03-25 03:57:28",
+    "time": "2016-11-18 11:39:16",
     "許可證字號": "衛署藥製字第020926號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,24 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102092603",
-    "中文品名": "\"信隆\"扶得康軟膏（氟欣諾隆）",
-    "英文品名": "FUTOCAN CREAM (FLUO CINOLONE)\"SHINLON\"",
+    "中文品名": "&quot;信隆&quot;扶得康軟膏（氟欣諾隆）",
+    "英文品名": "FUTOCAN CREAM (FLUO CINOLONE)&quot;SHINLON&quot;",
     "適應症": "急、慢性濕疹、乳幼兒濕疹、接觸性皮膚炎、神經性皮膚炎、皮膚搔癢症、蕁麻疹、藥物疹、乾癬、水泡、蟲咬傷",
     "劑型": "363乳膏劑",
     "包裝": "軟管裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "FLUOCINOLONE ACETONIDE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "FLUOCINOLONEACETONIDE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0909920200  信隆藥品工業股份有限公司",
-    "申請商地址": "台南市仁德區中正路三段２６９號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0909920300  信隆藥品工業股份有限公司",
         "製造廠廠址": "台南市仁德區中正路三段２６９號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30043200002 含有腎上腺皮質類固醇荷爾蒙，其衍生物及結構式類似者Containing adrenal corticosteroid hormones, their derivatives and structural analogues",
     "藥理治療分類": "",
@@ -46,8 +45,16 @@
     ],
     "仿單外盒": [
         {
+            "title": "20150423扶得康軟膏-104-12-18(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020926&Seq=002&Type=9"
+        },
+        {
             "title": "010209260001.DOC",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020926&Seq=001&Type=9"
+        },
+        {
+            "title": "扶得康成品-104-12-18(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020926&Seq=001&Type=8"
         }
     ]
 }
