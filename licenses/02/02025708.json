@@ -1,7 +1,7 @@
 {
     "code": "02025708",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025708",
-    "time": "2015-08-23 12:14:06",
+    "time": "2016-11-18 20:44:18",
     "許可證字號": "衛署藥輸字第025708號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "無法經口或經腸道營養補給或營養補給不充分，而必須經由中央靜脈補給營養時的水分、電解質、熱量、氨基酸及維生素之補給。",
     "劑型": "270注射劑",
     "包裝": "1000mL、1500mL、2000mL塑膠軟袋裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "POTASSIUM ACETATE, Calcium chloride hydrate, SODIUM CHLORIDE, GLUCOSE, L-ALANINE, L-ARGININE, L-ASPARTIC ACID, L- GLUTAMIC ACID, L-HISTIDINE, L-ISOLEUCINE, L-LEUCINE, L-LYSINE ACETATE, L-METHIONINE, L-PHENYLALANINE, L-PROLINE, L-SERINE, L-THREONINE, L-TRYPTOPHAN, L-TYROSINE, L-VALINE, GLYCINE (EQ TO AMINOACETIC ACID)(EQ TO GLYCOCOLL), ACETYLCYSTEINE, Magnesium sulfate hydrate, POTASSIUM PHOSPHATE (POSTASSIUM PHOSPHATE DIBASIC), SODIUM BISULFITE (EQ TO SODIUM HYDROGEN SULFITE), PANTHENOL, MACROGOL 400, VITAMIN A OIL, BIOTIN, NICOTINAMIDE, Thiamine chloride hydrochloride, RIBOFLAVIN PHOSPHATE SODIUM, PYRIDOXINE HYDROCHLORIDE, CYANOCOBALAMIN (VIT B12), FOLIC ACID, ASCORBIC ACID, CHOLECALCIFEROL ( EQ TO VIT D3) ( EQ TO VITAMIN D3), TOCOPHEROL ACETATE, Zinc sulfate hydrate, Phytonadione, POLYSORBATE 20, Polysorbate 80, SORBITOL D-",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "POTASSIUMACETATE,SODIUMCITRATEHYDROUS,Calciumchloridehydrate,SODIUMCHLORIDE,GLUCOSE,L-ALANINE,L-ARGININE,L-ASPARTICACID,L-GLUTAMICACID,L-HISTIDINE,L-ISOLEUCINE,L-LEUCINE,L-LYSINEACETATE,L-METHIONINE,L-PHENYLALANINE,L-PROLINE,L-SERINE,L-THREONINE,L-TRYPTOPHAN,L-TYROSINE,L-VALINE,GLYCINE(EQTOAMINOACETICACID)(EQTOGLYCOCOLL),ACETYLCYSTEINE,Magnesiumsulfatehydrate,POTASSIUMPHOSPHATE(eqtoPOTASSIUMPHOSPHATEDIBASIC),PANTHENOL,VITAMINAOIL,BIOTIN,NICOTINAMIDE,Thiaminechloridehydrochloride,RIBOFLAVINPHOSPHATESODIUM,PYRIDOXINEHYDROCHLORIDE,CYANOCOBALAMIN(VITB12),FOLICACID,ASCORBICACID,CHOLECALCIFEROL(EQTOVITD3)(EQTOVITAMIND3),TOCOPHEROLACETATE,Zincsulfatehydrate,Phytonadione"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1403301100  台灣大塚製藥股份有限公司",
-    "申請商地址": "台北市中山區復興北路378號11樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F260246100  OTSUKA PHARMACEUTICAL FACTORY, INC., KUSHIRO FACTORY",
         "製造廠廠址": "1-13, ASAHI, ONBETSU-CHO, KUSHIRO, HOKKAIDO, JAPAN",
         "製造廠公司地址": "115 KUGUHARA,TATEIWA, MUYA-CHO, NARUTO, TOKUSHIMA, JAPAN",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -41,6 +40,14 @@
             "成分名稱": "POTASSIUM ACETATE",
             "含量描述": "",
             "含量": "2.1633000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "4008000870",
+            "成分名稱": "SODIUM CITRATE HYDROUS",
+            "含量描述": "",
+            "含量": "1.2000000000",
             "單位": "MG"
         },
         {
@@ -189,14 +196,6 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "6400000600",
-            "成分名稱": "SODIUM BISULFITE (EQ TO SODIUM HYDROGEN SULFITE)",
-            "含量描述": "",
-            "含量": "50.0000000000",
-            "單位": "ug"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "8810000330",
             "成分名稱": "NICOTINAMIDE",
             "含量描述": "",
@@ -210,14 +209,6 @@
             "含量描述": "",
             "含量": "0.6667000000",
             "單位": "ug"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "8424121060",
-            "成分名稱": "MACROGOL 400",
-            "含量描述": "",
-            "含量": "10.0000000000",
-            "單位": "MG"
         },
         {
             "成分類別": "主成分",
@@ -277,30 +268,6 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9600023200",
-            "成分名稱": "POLYSORBATE 20",
-            "含量描述": "",
-            "含量": "1.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9600023582",
-            "成分名稱": "Polysorbate 80",
-            "含量描述": "",
-            "含量": "5.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9600029601",
-            "成分名稱": "SORBITOL D-",
-            "含量描述": "",
-            "含量": "20.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "4008000100",
             "成分名稱": "POTASSIUM ACETATE",
             "含量描述": "",
@@ -342,7 +309,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "5612001900",
-            "成分名稱": "POTASSIUM PHOSPHATE (POSTASSIUM PHOSPHATE DIBASIC)",
+            "成分名稱": "POTASSIUM PHOSPHATE ( eq to POTASSIUM PHOSPHATE DIBASIC)",
             "含量描述": "",
             "含量": "1.2644000000",
             "單位": "MG"
@@ -400,6 +367,10 @@
         {
             "title": "Neoparen_Chinese PI-102-05-31.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025708&Seq=001&Type=9"
+        },
+        {
+            "title": "新派瑞恩12%-1500ml-104-12-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025708&Seq=011&Type=8"
         },
         {
             "title": "Neoparen No.1_1500mL_2-2014-07-09.jpg",

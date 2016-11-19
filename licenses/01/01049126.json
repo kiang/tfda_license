@@ -1,7 +1,7 @@
 {
     "code": "01049126",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01049126",
-    "time": "2015-08-23 03:51:09",
+    "time": "2016-11-18 15:23:13",
     "許可證字號": "衛署藥製字第049126號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,21 +16,20 @@
     "英文品名": "Acetamol Injection 1g“Standard”",
     "適應症": "在無法使用口服投藥方式時，用於疼痛或發燒之症狀治療。",
     "劑型": "240乾粉注射劑",
-    "包裝": "1gm小瓶附安瓿裝溶劑",
+    "包裝": "1gm\/小瓶(vial)加1安瓿(amp.)溶劑即小瓶附安瓿裝溶劑",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "PROPACETAMOL HYDROCHLORIDE, SODIUM CITRATE (SODIUM CITRATE TRIBASIC)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "PROPACETAMOLHYDROCHLORIDE,SODIUMCITRATE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0510620300  生達化學製藥股份有限公司",
-    "申請商地址": "台南市新營區土庫里６－２０號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0402602300  中國化學製藥股份有限公司新豐工廠",
         "製造廠廠址": "新竹縣新豐鄉坑子口１８２之１號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
@@ -39,20 +38,24 @@
             "成分類別": "主成分",
             "成分代碼": "2808002010",
             "成分名稱": "PROPACETAMOL HYDROCHLORIDE",
-            "含量描述": "(0.5 gm Paracetamol)",
+            "含量描述": "1G eq to 0.5 G Paracetamol",
             "含量": "1.0000000000",
             "單位": "GM"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "4008000800",
-            "成分名稱": "SODIUM CITRATE (SODIUM CITRATE TRIBASIC)",
+            "成分代碼": "4008008810",
+            "成分名稱": "SODIUM CITRATE",
             "含量描述": "",
             "含量": "20.0000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "2213860 S0309 Acetamol 舒疼消熱 LT-104-11-20(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049126&Seq=004&Type=9"
+        },
         {
             "title": "010491260001-103-02-15.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049126&Seq=003&Type=9"
@@ -64,6 +67,18 @@
         {
             "title": "010491260001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049126&Seq=001&Type=9"
+        },
+        {
+            "title": "2623863 S0309 Acetamol 舒疼消熱5mlLB溶劑(水)-104-11-20(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049126&Seq=006&Type=8"
+        },
+        {
+            "title": "2623862 S0309 Acetamol 舒疼消熱10V加10AX10盒LB-104-11-20(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049126&Seq=005&Type=8"
+        },
+        {
+            "title": "2623861 S0309 Acetamol 舒疼消熱1G Vial LB-104-11-20(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049126&Seq=004&Type=8"
         },
         {
             "title": "010491260003.jpg",

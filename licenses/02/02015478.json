@@ -1,7 +1,7 @@
 {
     "code": "02015478",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02015478",
-    "time": "2016-04-29 04:49:02",
+    "time": "2016-11-18 18:58:25",
     "許可證字號": "衛署藥輸字第015478號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "高血鈣危象、骨骼的帕哲特氏症(僅適合對替代療法無效或不適合這類療法的病人，如腎功能嚴重受損者)。",
     "劑型": "270注射劑",
     "包裝": "1毫升安瓿 100支以下盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "CALCITONIN SALMON SYNTHETIC",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "CALCITONINSALMONSYNTHETIC"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1422701100  台灣諾華股份有限公司",
-    "申請商地址": "台北市中正區仁愛路二段99號11、12、13樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F430099000  NOVARTIS PHARMA STEIN AG",
         "製造廠廠址": "SCHAFFHAUSERSTRASSE CH-4332 STEIN SWITZERLAND",
         "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30043900005 醫藥製劑，含有其他內分泌素者Medicaments, containing other hormones",
     "藥理治療分類": "",
@@ -54,6 +53,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "Miacalcic_TWI-010814_C-104-10-05(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015478&Seq=026&Type=9"
+        },
         {
             "title": "Miacalcic_TWI-010814_C (中文仿單)-104-01-21.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015478&Seq=025&Type=9"
@@ -153,6 +156,14 @@
         {
             "title": "020154780001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015478&Seq=001&Type=9"
+        },
+        {
+            "title": "Miacalcic100-1-104-10-05(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015478&Seq=002&Type=8"
+        },
+        {
+            "title": "Miacalcic100-2-104-10-05(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015478&Seq=001&Type=8"
         }
     ]
 }

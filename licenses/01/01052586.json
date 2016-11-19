@@ -1,7 +1,7 @@
 {
     "code": "01052586",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01052586",
-    "time": "2016-03-25 04:15:16",
+    "time": "2016-11-18 15:42:24",
     "許可證字號": "衛署藥製字第052586號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "感冒諸症狀 (流鼻水、鼻塞、打噴嚏、咳嗽、喀痰、發熱、頭痛) 之緩解。",
     "劑型": "130膠囊劑",
     "包裝": "6~1000粒塑膠瓶裝 6~1000粒鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
-    "管制藥品分類級別": "",
-    "主成分略述": "CHLORPHENIRAMINE MALEATE, DL-METHYLEPHEDRINE HCL, ACETAMINOPHEN (EQ TO PARACETAMOL), CAFFEINE ANHYDROUS, DEXTROMETHORPHAN HBR, POTASSIUM GUAIACOLSULFONATE, VITAMIN B1 (THIAMINE HCL), RIBOFLAVIN (VIT B2)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "CHLORPHENIRAMINEMALEATE,DL-METHYLEPHEDRINEHCL,ACETAMINOPHEN(EQTOPARACETAMOL),CAFFEINEANHYDROUS,DEXTROMETHORPHANHBR,POTASSIUMGUAIACOLSULFONATE,VITAMINB1(THIAMINEHCL),RIBOFLAVIN(VITB2)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1703620200  龍杏生技製藥股份有限公司",
-    "申請商地址": "台南市佳里區嘉福里１１５之１號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1703620300  龍杏生技製藥股份有限公司",
         "製造廠廠址": "台南市佳里區嘉福里１１５之１號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -102,8 +101,16 @@
     ],
     "仿單外盒": [
         {
+            "title": "說明書--1040915-104-11-05(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01052586&Seq=002&Type=9"
+        },
+        {
             "title": "維生素綜合感冒膠囊-104-06-15.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01052586&Seq=001&Type=9"
+        },
+        {
+            "title": "維生素感冒膠囊外盒--1040924_BMP-1_JPG-104-11-06(廠商自行上傳).PDF",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01052586&Seq=001&Type=8"
         }
     ]
 }

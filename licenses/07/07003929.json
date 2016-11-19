@@ -1,6 +1,7 @@
 {
     "code": "07003929",
-    "time": "2015-06-23 03:49:33",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07003929",
+    "time": "2016-11-19 02:27:40",
     "許可證字號": "衛署粧製字第003929號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,20 +17,19 @@
     "用途": "染髮用。",
     "劑型": "992霜劑",
     "包裝": "500ML以下鋁管裝",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "RESORCINOL (RESORCIN), CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL), AMINOPHENOL META- (EQ TO M-AMINOPHENOL), P-AMINOPHENOL, P-PHENYLENEDIAMINE, 1-PHENYL-3-METHYL-5-PYRAZOLONE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "RESORCINOL(RESORCIN),CRESOLO-P-AMINO(EQTO5-AMINO-O-CRESOL)(EQTOP-AMINO-O-CRESOL),AMINOPHENOLMETA-(EQTOM-AMINOPHENOL),P-AMINOPHENOL,P-PHENYLENEDIAMINE,1-PHENYL-3-METHYL-5-PYRAZOLONE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0829422200  昇宏國際企業股份有限公司",
-    "申請商地址": "高雄市大樹區竹寮里竹寮路１７０號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0829422500  昇宏國際企業股份有限公司",
         "製造廠廠址": "高雄市大樹區竹寮里竹寮路１７０號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -85,8 +85,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 070039290002.jpg 070039290001.jpg",
+            "title": "070039290002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003929&Seq=002&Type=9"
+        },
+        {
+            "title": "070039290001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003929&Seq=001&Type=9"
         }
     ]
 }

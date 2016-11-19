@@ -1,7 +1,7 @@
 {
     "code": "01042017",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01042017",
-    "time": "2016-05-27 05:04:53",
+    "time": "2016-11-18 14:26:15",
     "許可證字號": "衛署藥製字第042017號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,24 +13,23 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00104201701",
     "中文品名": "諾咳複方膠囊",
-    "英文品名": "NONCOUGH CAPSULES \"S.T.\"",
+    "英文品名": "NONCOUGH CAPSULES &quot;S.T.&quot;",
     "適應症": "鎮咳、袪痰。",
     "劑型": "130膠囊劑",
     "包裝": "6-1000鋁箔盒裝 6-1000塑膠瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "LYSOZYME HYDROCHLORIDE, DEXTROMETHORPHAN HBR, POTASSIUM CRESOLSULFONATE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "LYSOZYMEHYDROCHLORIDE,DEXTROMETHORPHANHBR,POTASSIUMCRESOLSULFONATE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0908703200  信東生技股份有限公司",
-    "申請商地址": "桃園市桃園區介壽路２２號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "6132020070  榮民製藥股份有限公司",
         "製造廠廠址": "桃園市中壢區中山東路３段４４７號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
@@ -72,6 +71,10 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "Noncough Capsules 042017-104-12-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042017&Seq=373&Type=10"
+        },
+        {
             "title": "圖片",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042017&Seq=372&Type=10"
         },
@@ -82,12 +85,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "40419221 Noncough Capsules (Lit)(印刷版次3)-104-12-16(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042017&Seq=003&Type=9"
+        },
+        {
             "title": "010420170002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042017&Seq=002&Type=9"
         },
         {
             "title": "010420170001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042017&Seq=001&Type=9"
+        },
+        {
+            "title": "40409221 Noncough Capsules (L-1000粒)(印刷版次2)-104-12-16(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042017&Seq=001&Type=8"
         }
     ]
 }

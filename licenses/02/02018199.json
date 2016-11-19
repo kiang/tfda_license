@@ -1,7 +1,7 @@
 {
     "code": "02018199",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02018199",
-    "time": "2015-08-23 10:11:05",
+    "time": "2016-11-18 19:27:15",
     "許可證字號": "衛署藥輸字第018199號",
     "註銷狀態": "已註銷",
     "註銷日期": "103\/04\/28",
@@ -13,24 +13,23 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00201819900",
     "中文品名": "安命諾補樂注射液１０％",
-    "英文品名": "AMINOPLASMAL-10% SE \"B. BRAUN\"",
+    "英文品名": "AMINOPLASMAL-10% SE &quot;B. BRAUN&quot;",
     "適應症": "不能攝取適當食物之患者之補助治療劑、蛋白質之消化吸收機能或合成利用障礙、嚴重創傷火傷骨折時蛋白質之補給、蛋白質攝取減少之營養失調症",
     "劑型": "270注射劑",
     "包裝": "瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "POTASSIUM ACETATE, SODIUM ACETATE TRIHYDRATE (EQ TO SODIUM ACETATE 3H2O ), MAGNESIUM ACETATE TETRAHYDRATE, L-ALANINE, L-ARGININE, L-ASPARTIC ACID, ASPARAGINE L- MONOHYDRATE (EQ TO ASPARAGINE H2O L- ), L-CYSTEINE HCL MONOHYDRATE, GLUTAMIC ACID L-, L-HISTIDINE, L-ISOLEUCINE, L-LEUCINE, LYSINE L- HCL ( EQ TO L-LYSINE HCL), L-METHIONINE, ORNITHINE L- HCL, L-PHENYLALANINE, L-PROLINE, L-SERINE, L-THREONINE, L-TRYPTOPHAN, L-TYROSINE, N-ACETYL TYROSINE L-, L-VALINE, GLYCINE (EQ TO AMINOACETIC ACID)(EQ TO GLYCOCOLL), SORBITOL",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "POTASSIUMACETATE,SODIUMACETATETRIHYDRATE(EQTOSODIUMACETATE3H2O),MAGNESIUMACETATETETRAHYDRATE,L-ALANINE,L-ARGININE,L-ASPARTICACID,ASPARAGINEL-MONOHYDRATE(EQTOASPARAGINEH2OL-),L-CYSTEINEHCLMONOHYDRATE,GLUTAMICACIDL-,L-HISTIDINE,L-ISOLEUCINE,L-LEUCINE,LYSINEL-HCL(EQTOL-LYSINEHCL),L-METHIONINE,L-ORNITHINEHCL,L-PHENYLALANINE,L-PROLINE,L-SERINE,L-THREONINE,L-TRYPTOPHAN,L-TYROSINE,N-ACETYLTYROSINEL-,L-VALINE,GLYCINE(EQTOAMINOACETICACID)(EQTOGLYCOCOLL),SORBITOL"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1426402100  臺灣柏朗股份有限公司",
-    "申請商地址": "台北市松山區健康路152號9樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F470012000  B.BRAUN MED. PHARM. WERKE MELSUNGEN AG",
         "製造廠廠址": "CARL-BRAUN-STRASSE 1, D-34212 MELSUNGEN GERMANY",
         "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -150,7 +149,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "4020101612",
-            "成分名稱": "ORNITHINE L- HCL",
+            "成分名稱": "L-ORNITHINE HCL",
             "含量描述": "3.20",
             "含量": "3.2000000000",
             "單位": "GM"

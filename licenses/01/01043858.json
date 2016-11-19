@@ -1,7 +1,7 @@
 {
     "code": "01043858",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01043858",
-    "time": "2015-08-24 00:56:29",
+    "time": "2016-11-18 14:41:39",
     "許可證字號": "衛署藥製字第043858號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,33 +12,49 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00104385800",
-    "中文品名": "待爾康錠８０公絲〝政德〞",
-    "英文品名": "DIACRON TABLETS 80MG \"GENTLE\"",
+    "中文品名": "&quot;政德&quot; 待爾康錠８０公絲",
+    "英文品名": "DIACRON TABLETS 80MG &quot;GENTLE&quot;",
     "適應症": "糖尿病。",
     "劑型": "110錠劑",
     "包裝": "塑膠瓶裝 鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "GLICLAZIDE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0922116200  政德製藥股份有限公司",
-    "申請商地址": "雲林縣大埤鄉嘉興村豐田路２號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0922116300  政德製藥股份有限公司",
         "製造廠廠址": "雲林縣大埤鄉嘉興村豐田路２號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "6820600400",
+            "成分名稱": "GLICLAZIDE",
+            "含量描述": "",
+            "含量": "80.0000000000",
+            "單位": "MG"
+        }
+    ],
     "仿單外盒": [
+        {
+            "title": "仿單_待爾康錠80公絲-104-11-16(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043858&Seq=002&Type=9"
+        },
         {
             "title": "010438580001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043858&Seq=001&Type=9"
+        },
+        {
+            "title": "待爾康錠-104-12-31(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043858&Seq=001&Type=8"
         }
     ]
 }

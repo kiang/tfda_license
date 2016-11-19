@@ -1,7 +1,7 @@
 {
     "code": "01041022",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01041022",
-    "time": "2016-06-24 04:41:17",
+    "time": "2016-11-18 14:15:34",
     "許可證字號": "衛署藥製字第041022號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,24 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00104102202",
-    "中文品名": "\"羅得\"腸寧膠囊２００公絲(尼福歐洒噻)",
-    "英文品名": "CHUNLIN CAPSULES \"ROOT\" (NIFUROXAZIDE)",
+    "中文品名": "&quot;羅得&quot;腸寧膠囊２００公絲(尼福歐洒噻)",
+    "英文品名": "CHUNLIN CAPSULES &quot;ROOT&quot; (NIFUROXAZIDE)",
     "適應症": "急慢性瀉痢、大腸炎及結腸炎。",
     "劑型": "130膠囊劑",
     "包裝": "6-1000粒塑膠瓶裝 6-1000粒鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "NIFUROXAZIDE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "NIFUROXAZIDE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1901510200  羅得化學製藥股份有限公司",
-    "申請商地址": "台中市大甲區東西七路一段65號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1901510300  羅得化學製藥股份有限公司",
         "製造廠廠址": "台中市大甲區東西七路一段65號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30042000916 人用醫藥製劑，含有其他抗生素者Medicaments, containing other antibiotics, for human use",
     "藥理治療分類": "",
@@ -46,8 +45,24 @@
     ],
     "仿單外盒": [
         {
+            "title": "PC-43 腸寧 說明書 new-105-04-14(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041022&Seq=002&Type=9"
+        },
+        {
             "title": "010410220001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041022&Seq=001&Type=9"
+        },
+        {
+            "title": "PC-43 腸寧 鋁箔 NEW-104-10-16(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041022&Seq=003&Type=8"
+        },
+        {
+            "title": "PC-43 腸寧 標籤-104-09-25(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041022&Seq=002&Type=8"
+        },
+        {
+            "title": "PC-43 腸寧 外盒-104-09-25(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041022&Seq=001&Type=8"
         }
     ]
 }

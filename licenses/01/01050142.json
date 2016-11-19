@@ -1,7 +1,7 @@
 {
     "code": "01050142",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01050142",
-    "time": "2015-08-23 03:21:20",
+    "time": "2016-11-18 15:35:54",
     "許可證字號": "衛署藥製字第050142號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "圓盤狀及全身性紅斑性狼瘡、慢性多形日光疹、慢性風濕性關節炎、鎌狀瘧原蟲和間日瘧原蟲引起之瘧疾。",
     "劑型": "116膜衣錠",
     "包裝": "2~1,000錠塑膠瓶裝 2~1,000錠鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "HYDROXYCHLOROQUINE SULFATE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "HYDROXYCHLOROQUINESULFATE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "6132010010  信東生技股份有限公司",
-    "申請商地址": "桃園市桃園區介壽路22號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "6132010010  信東生技股份有限公司",
         "製造廠廠址": "桃園市桃園區介壽路22號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30042000916 人用醫藥製劑，含有其他抗生素者Medicaments, containing other antibiotics, for human use",
     "藥理治療分類": "",
@@ -42,6 +41,24 @@
             "含量描述": "",
             "含量": "200.0000000000",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "54080890 Hydroquine Film Coated Tablets 200mg (Lit)-(印刷版次3)-104-12-17(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050142&Seq=001&Type=9"
+        },
+        {
+            "title": "55031070 Alu. foil, Hydroquine Film Coated Tablets 200mg-(規格版次01)-104-12-17(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050142&Seq=003&Type=8"
+        },
+        {
+            "title": "54081030 Hydroquine Film Coated Tablets 200mg(L-10錠x100)-(印刷版次1)-104-12-17(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050142&Seq=002&Type=8"
+        },
+        {
+            "title": "54080900 Hydroquine Film Coated Tablets 200mg (Box-10錠x6)-(規格版次01)-104-12-17(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050142&Seq=001&Type=8"
         }
     ]
 }

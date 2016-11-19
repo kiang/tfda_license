@@ -1,7 +1,7 @@
 {
     "code": "02023489",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023489",
-    "time": "2015-08-23 12:13:19",
+    "time": "2016-11-18 20:22:08",
     "許可證字號": "衛署藥輸字第023489號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,23 +14,22 @@
     "通關簽審文件編號": "DHA00202348900",
     "中文品名": "日舒錠６００公絲",
     "英文品名": "ZITROMAX AVIUM 600",
-    "適應症": "可以單獨使用或／和RIFABUTIN併用，預防在愛滋病毒(HIV)感染患者中普遍出現的禽結核分枝桿菌複合感染(NYCOBACTERIUM AVIUM COMPLEX;MAC INFECTION)之伺機性感染。",
+    "適應症": "可以單獨使用或／和RIFABUTIN併用，預防在愛滋病毒(HIV)感染患者中普遍出現的禽結核分枝桿菌複合感染(MYCOBACTERIUM AVIUM COMPLEX;MAC INFECTION)之伺機性感染。",
     "劑型": "110錠劑",
     "包裝": "2-1000錠鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "AZITHROMYCIN DIHYDRATE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "AZITHROMYCINDIHYDRATE"
     ],
+    "限制項目": "02輸　入 1Q不得輸入",
     "申請商名稱": "1504401100  輝瑞大藥廠股份有限公司",
-    "申請商地址": "新北市淡水區中正東路二段１７７號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F250204000  HAUPT PHARMA LATINA S.R.L",
         "製造廠廠址": "S.S. 156KM. 47,600 04100 BORGO SAN MICHELE (LATINA) ITALY",
         "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30042000612 人用醫藥製劑，含巨環類抗生素者Medicaments, containing macrolides, for human use",
     "藥理治療分類": "",
@@ -42,6 +41,16 @@
             "含量描述": "",
             "含量": "628.9300000000",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "Zitromax Avium MA no. 023489_仿單核定本-104-09-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023489&Seq=001&Type=9"
+        },
+        {
+            "title": "Zitromax Avium MA no. 023489_外盒核定本-104-09-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023489&Seq=001&Type=8"
         }
     ]
 }

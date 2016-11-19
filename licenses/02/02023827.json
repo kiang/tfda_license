@@ -1,7 +1,7 @@
 {
     "code": "02023827",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023827",
-    "time": "2015-08-24 01:31:39",
+    "time": "2016-11-18 20:25:24",
     "許可證字號": "衛署藥輸字第023827號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,24 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00202382707",
-    "中文品名": "\"狄士曼\" 鹽酸沙利苯塞井",
+    "中文品名": "鹽酸沙利苯塞井&quot;狄士曼&quot;",
     "英文品名": "THIORIDAZINE HYDROCHLORIDE",
     "適應症": "抗精神病藥物。",
     "劑型": "040（粉）",
     "包裝": "０．５公斤以上",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "01製劑原料",
-    "管制藥品分類級別": "",
-    "主成分略述": "THIORIDAZINE HCL",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "THIORIDAZINEHCL"
     ],
+    "限制項目": "02輸　入 1Q不得輸入",
     "申請商名稱": "0801701100  東信化學藥品有限公司",
-    "申請商地址": "台北市吉林路４５號６樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F200116000  DISHMAN PHARMACEUTICALS AND CHEMICALS LIMITED",
         "製造廠廠址": "SURVEY NO.47, PAIKI SUBPLOT NO.1, VILLAGE-LODARIYAL, TALUKA-SANAND, DIST, AHMEDABAD, INDIA",
         "製造廠公司地址": "",
-        "製造廠國別": "INDIA",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "29343000001 結構式中含有二苯？？環（不論是否氫化）之化合物，未經進一步稠合者Compounds containing a phenothiazine ring-system (whether or not hydrogenated), not further fused",
     "藥理治療分類": "",
@@ -39,8 +38,8 @@
             "成分類別": "主成分",
             "成分代碼": "2816901210",
             "成分名稱": "THIORIDAZINE HCL",
-            "含量描述": "(99.0-101.0)",
-            "含量": "",
+            "含量描述": "Thioridazine hydrochloride contains not less than 99.0% and not more than 101.0% of C21H26N2S2˙HCl, calculated with reference to the dried substance.",
+            "含量": "0.0000000000",
             "單位": "%"
         }
     ]

@@ -1,7 +1,7 @@
 {
     "code": "01039940",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01039940",
-    "time": "2016-02-26 04:52:35",
+    "time": "2016-11-18 14:04:58",
     "許可證字號": "衛署藥製字第039940號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,24 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00103994009",
-    "中文品名": "\"生達\" 賜妥靜脈注射劑（西華耑隆）",
-    "英文品名": "CEFT-S FOR I.V INJECTION \"STANDARD\" (CEFTRIAXONE)",
+    "中文品名": "&quot;生達&quot; 賜妥靜脈注射劑（西華耑隆）",
+    "英文品名": "CEFT-S FOR I.V INJECTION &quot;STANDARD&quot; (CEFTRIAXONE)",
     "適應症": "葡萄球菌、鏈球菌、肺炎球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症",
     "劑型": "240乾粉注射劑",
     "包裝": "0.25、0.5、1公克小瓶裝 100支以下盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "CEFTRIAXONE (DISODIUM 3.5H2O)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "CEFTRIAXONE(DISODIUM3.5H2O)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0510620200  生達化學製藥股份有限公司",
-    "申請商地址": "台南市新營區土庫里土庫6之20號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0510620300  生達化學製藥股份有限公司",
         "製造廠廠址": "台南市新營區土庫里土庫6之20號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30042000319 人用醫藥製劑，含頭孢子菌類抗生素者Medicaments, containing cephalosporins, for human use",
     "藥理治療分類": "",
@@ -62,8 +61,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "2213660_S0207-Cef 賜妥-LT-2013.07-104-11-26(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039940&Seq=002&Type=9"
+        },
+        {
             "title": "01-039940-103-03-25.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039940&Seq=001&Type=9"
+        },
+        {
+            "title": "2623662_S0201-Ceft-S-賜妥-1gmlx10V-LB-2013.01.09-104-11-26(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039940&Seq=002&Type=8"
+        },
+        {
+            "title": "2623412_ S0001Ceft-S500mg LB-104-11-26(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039940&Seq=001&Type=8"
         }
     ]
 }

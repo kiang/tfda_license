@@ -1,7 +1,7 @@
 {
     "code": "02025103",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025103",
-    "time": "2015-08-24 01:38:20",
+    "time": "2016-11-18 20:38:50",
     "許可證字號": "衛署藥輸字第025103號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "治療敏感性皮膚和細菌或黴菌所引起之皮膚病感染症。",
     "劑型": "363乳膏劑",
     "包裝": "100 公克以下鋁管裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "GENTAMICIN SULFATE, BETAMETHASONE DIPROPIONATE, CLOTRIMAZOLE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "GENTAMICINSULFATE,BETAMETHASONEDIPROPIONATE,CLOTRIMAZOLE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1206701100  富彰行貿易有限公司",
-    "申請商地址": "台北市民生東路一段42號5樓之1",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F270091000  GREEN CROSS CORPORATION",
         "製造廠廠址": "26, MUGEUK-RO 65 BEON-GIL , GEUMWANG-EUP,EUMSEONG-GUN, CHUNGCHEONGBUK-DO, KOREA",
         "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30043200002 含有腎上腺皮質類固醇荷爾蒙，其衍生物及結構式類似者Containing adrenal corticosteroid hormones, their derivatives and structural analogues",
     "藥理治療分類": "",
@@ -58,6 +57,16 @@
             "含量描述": "",
             "含量": "10.0000000000",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "Tamicort Cream衛生署核定版-104-10-01(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025103&Seq=001&Type=9"
+        },
+        {
+            "title": "Tamicort-104-10-01(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025103&Seq=001&Type=8"
         }
     ]
 }

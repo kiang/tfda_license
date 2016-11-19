@@ -1,7 +1,7 @@
 {
     "code": "02017867",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02017867",
-    "time": "2015-08-23 09:56:55",
+    "time": "2016-11-18 19:23:45",
     "許可證字號": "衛署藥輸字第017867號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "腹膜透析",
     "劑型": "272透析用液劑",
     "包裝": "瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "SODIUM LACTATE SOLUTION, CALCIUM CHLORIDE DIHYDRATE, MAGNESIUM CHLORIDE HEXAHYDRATE (EQ TO MAGNESIUM CHLORIDE 6H2O), SODIUM CHLORIDE, DEXTROSE (MONOHYDRATE), CALCIUM ION, CHLORIDE ION, MAGNESIUM ION, SODIUM ION, LACTIC ACID, HYDROCHLORIC ACID",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "SODIUMLACTATESOLUTION,CALCIUMCHLORIDEDIHYDRATE,MAGNESIUMCHLORIDEHEXAHYDRATE(EQTOMAGNESIUMCHLORIDE6H2O),SODIUMCHLORIDE,DEXTROSE(MONOHYDRATE)"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1436301100  台灣費森尤斯醫藥股份有限公司",
-    "申請商地址": "台北市內湖區瑞湖街58號7樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F470244000  FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH",
         "製造廠廠址": "FRANKFURTER STR. 6-8 66606 ST. WENDEL GERMANYD-61346 BAD HOMBURG GERMANY",
         "製造廠公司地址": "D-61346 BAD HOMBURG GERMANY",
-        "製造廠國別": "GERMANY",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049040003 洗腎用清洗液，具有劑量或零售包裝式樣者Hemodialysis concentrate, put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
@@ -72,56 +71,24 @@
             "成分代碼": "4020009570",
             "成分名稱": "DEXTROSE (MONOHYDRATE)",
             "含量描述": "(15.00G) 16.50",
-            "含量": "",
+            "含量": "0.0000000000",
             "單位": "GM"
-        },
+        }
+    ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "透明液體",
+        "特殊氣味": "",
+        "刻痕": "0",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
         {
-            "成分類別": "主成分",
-            "成分代碼": "4026000410",
-            "成分名稱": "CALCIUM ION",
-            "含量描述": "1.75",
-            "含量": "1.7500000000",
-            "單位": "MEQ\/L"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "4026000510",
-            "成分名稱": "CHLORIDE ION",
-            "含量描述": "103.5",
-            "含量": "103.5000000000",
-            "單位": "MEQ\/L"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "4026001110",
-            "成分名稱": "MAGNESIUM ION",
-            "含量描述": "0.5",
-            "含量": "0.5000000000",
-            "單位": "MEQ\/L"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "4026001710",
-            "成分名稱": "SODIUM ION",
-            "含量描述": "134.0",
-            "含量": "134.0000000000",
-            "單位": "MEQ\/L"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200005300",
-            "成分名稱": "LACTIC ACID",
-            "含量描述": "35.0",
-            "含量": "35.0000000000",
-            "單位": "MEQ\/L"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9600014900",
-            "成分名稱": "HYDROCHLORIC ACID",
-            "含量描述": "(25%) 0-0.05",
-            "含量": "",
-            "單位": "ML"
+            "title": "CAPD 2 外觀-104-09-18(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017867&Seq=001&Type=10"
         }
     ],
     "仿單外盒": [
@@ -132,6 +99,10 @@
         {
             "title": "020178670001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017867&Seq=001&Type=9"
+        },
+        {
+            "title": "CAPD 2 外盒-104-09-18(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017867&Seq=003&Type=8"
         },
         {
             "title": "020178670002___20130402.pdf",

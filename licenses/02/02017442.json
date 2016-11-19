@@ -1,7 +1,7 @@
 {
     "code": "02017442",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02017442",
-    "time": "2015-08-23 08:52:54",
+    "time": "2016-11-18 19:19:14",
     "許可證字號": "衛署藥輸字第017442號",
     "註銷狀態": "已註銷",
     "註銷日期": "95\/05\/23",
@@ -17,20 +17,19 @@
     "適應症": "手術前後之營養補給、低蛋白血症、消化道潰瘍、營養障礙之補給",
     "劑型": "270注射劑",
     "包裝": "瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "POTASSIUM ACETATE ANHYDROUS, CALCIUM ACETATE HEMIHYDRATE, MAGNESIUM ACETATE TETRAHYDRATE, L-ALANINE, L-ARGININE, L-ASPARTIC ACID, L-CYSTEINE, GLUTAMIC ACID L-, L-HISTIDINE, L-ISOLEUCINE, L-LEUCINE, LYSINE L-, L-METHIONINE, ORNITHINE L- HCL, L-PHENYLALANINE, L-PROLINE, L-SERINE, L-THREONINE, L-TRYPTOPHAN, L-TYROSINE, L-VALINE, GLYCINE (EQ TO AMINOACETIC ACID)(EQ TO GLYCOCOLL), POTASSIUM PHOSPHATE MONOBASIC ANHYDROUS, SODIUM HYDROSULFITE (SODIUM DITHIONITE), NIACINAMIDE (NICOTINAMIDE), PYRIDOXINE HCL, ASCORBIC ACID (VIT C), SORBITOL",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "POTASSIUMACETATEANHYDROUS,CALCIUMACETATEHEMIHYDRATE,MAGNESIUMACETATETETRAHYDRATE,L-ALANINE,L-ARGININE,L-ASPARTICACID,L-CYSTEINE,GLUTAMICACIDL-,L-HISTIDINE,L-ISOLEUCINE,L-LEUCINE,LYSINEL-,L-METHIONINE,L-ORNITHINEHCL,L-PHENYLALANINE,L-PROLINE,L-SERINE,L-THREONINE,L-TRYPTOPHAN,L-TYROSINE,L-VALINE,GLYCINE(EQTOAMINOACETICACID)(EQTOGLYCOCOLL),POTASSIUMPHOSPHATEMONOBASICANHYDROUS,SODIUMHYDROSULFITE(SODIUMDITHIONITE),NIACINAMIDE(NICOTINAMIDE),PYRIDOXINEHCL,ASCORBICACID(VITC),SORBITOL"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1424601100  臺灣安萬特藥品股份有限公司",
-    "申請商地址": "台北巿松山區復興北路337號12、13、14樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F150038000  LABORATORIES CLINTEC NUTRITION CLINIQUE",
         "製造廠廠址": "LAB. EGIC 45 AMILLY, B.P. 172, 45203 MONTARGIS",
         "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -142,7 +141,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "4020101612",
-            "成分名稱": "ORNITHINE L- HCL",
+            "成分名稱": "L-ORNITHINE HCL",
             "含量描述": "2.380",
             "含量": "2.3800000000",
             "單位": "MG"

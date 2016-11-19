@@ -1,7 +1,7 @@
 {
     "code": "02008907",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02008907",
-    "time": "2015-08-23 06:37:15",
+    "time": "2016-11-18 17:45:42",
     "許可證字號": "衛署藥輸字第008907號",
     "註銷狀態": "已註銷",
     "註銷日期": "89\/10\/21",
@@ -17,20 +17,19 @@
     "適應症": "皮膚炎症、皮膚過敏、因細菌或黴菌感染所引起之皮膚病症、濕疹、泡疹",
     "劑型": "360軟膏劑",
     "包裝": "軟管裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "07須經醫師指示使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "DIPHENYLPYRALINE HCL, IODOCHLORHYDROXYQUIN, VITAMIN A ACETATE, CHOLECALCIFEROL CHOLESTERINE, TOCOPHEROL ACETATE ALPHA (EQ TO VIT E ACETATE) (EQ TO VITAMIN E ACETATE), CHLORCARVACROL",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "DIPHENYLPYRALINEHCL,IODOCHLORHYDROXYQUIN,VITAMINAACETATE,CHOLECALCIFEROLCHOLESTERINE,TOCOPHEROLACETATEALPHA(EQTOVITEACETATE)(EQTOVITAMINEACETATE),CHLOROCARVACROL"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1104401100  康台貿易有限公司",
-    "申請商地址": "台北巿仁愛路二段３４號６Ｆ之１",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F230004000  HADENSA LTD. (IRELAND)",
         "製造廠廠址": "INDUSTRIAL ESTATE WATERFORD",
         "製造廠公司地址": "",
-        "製造廠國別": "IRELAND",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -78,7 +77,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9200011200",
-            "成分名稱": "CHLORCARVACROL",
+            "成分名稱": "CHLOROCARVACROL",
             "含量描述": "0.30",
             "含量": "0.3000000000",
             "單位": "MG"

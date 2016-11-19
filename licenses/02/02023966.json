@@ -1,7 +1,7 @@
 {
     "code": "02023966",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023966",
-    "time": "2015-08-23 11:53:27",
+    "time": "2016-11-18 20:26:47",
     "許可證字號": "衛署藥輸字第023966號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "維生素B1、B6、B12缺乏症、維生素E缺乏症。",
     "劑型": "116膜衣錠",
     "包裝": "2-1000錠玻璃瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥",
-    "管制藥品分類級別": "",
-    "主成分略述": "ORYZANOL GAMMA-, THIAMINE DISULFIDE, PYRIDOXINE HCL, HYDROXOCOBALAMIN ACETATE, TOCOPHEROL CALCIUM SUCCINATE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "ORYZANOLGAMMA-,THIAMINEDISULFIDE,PYRIDOXINEHCL,HYDROXOCOBALAMINACETATE,TOCOPHEROLCALCIUMSUCCINATE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1508901100  德佑藥品有限公司",
-    "申請商地址": "台北市松山區敦化南路一段3號2樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F260529000  SHISEIDO PHARMACEUTICAL INC.",
         "製造廠廠址": "220-1 CHINARA OAZA GOSE-CITY NARA JAPAN",
         "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30045000009 含有維他命或第２９３６節產品之其他醫藥製劑Other medicaments containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
@@ -74,6 +73,12 @@
             "含量描述": "",
             "含量": "34.5300000000",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "德佑_百養力糖衣錠_1050415-105-05-03(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023966&Seq=001&Type=9"
         }
     ]
 }

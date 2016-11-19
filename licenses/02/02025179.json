@@ -1,7 +1,7 @@
 {
     "code": "02025179",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025179",
-    "time": "2015-08-23 13:09:23",
+    "time": "2016-11-18 20:39:32",
     "許可證字號": "衛署藥輸字第025179號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,38 +17,37 @@
     "適應症": "經口攝取不足、輕度的低蛋白血症、輕度的營養障礙、手術前後等狀態時的氨基酸、電解質、維生素B1及水分之營養補給。",
     "劑型": "270注射劑",
     "包裝": "500、1000毫升塑膠軟袋裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "Sodium L-Lactate Solution, SODIUM CITRATE (HYDROUS), Calcium chloride hydrate, POTASSIUM CHLORIDE, GLUCOSE, L-ALANINE, L-ARGININE, L-ASPARTIC ACID, L- GLUTAMIC ACID, L-HISTIDINE, L-ISOLEUCINE, L-LEUCINE, LYSINE L- HCL ( EQ TO L-LYSINE HCL), L-METHIONINE, L-PHENYLALANINE, L-PROLINE, L-SERINE, L-THREONINE, L-TRYPTOPHAN, L-TYROSINE, L-VALINE, GLYCINE (EQ TO AMINOACETIC ACID)(EQ TO GLYCOCOLL), ACETYLCYSTEINE, POTASSIUM PHOSPHATE (POSTASSIUM PHOSPHATE DIBASIC), DIBASIC SODIUM PHOSPHATE HYDRATE, Thiamine chloride hydrochloride, Zinc sulfate hydrate",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "SODIUMCITRATEHYDROUS,SodiumL-LactateSolution,Calciumchloridehydrate,POTASSIUMCHLORIDE,GLUCOSE,L-ALANINE,L-ARGININE,L-ASPARTICACID,L-GLUTAMICACID,L-HISTIDINE,L-ISOLEUCINE,L-LEUCINE,LYSINEL-HCL(EQTOL-LYSINEHCL),L-METHIONINE,L-PHENYLALANINE,L-PROLINE,L-SERINE,L-THREONINE,L-TRYPTOPHAN,L-TYROSINE,L-VALINE,GLYCINE(EQTOAMINOACETICACID)(EQTOGLYCOCOLL),ACETYLCYSTEINE,Magnesiumsulfatehydrate,POTASSIUMPHOSPHATE(eqtoPOTASSIUMPHOSPHATEDIBASIC),DIBASICSODIUMPHOSPHATEHYDRATE,Thiaminechloridehydrochloride,Zincsulfatehydrate"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1403301100  台灣大塚製藥股份有限公司",
-    "申請商地址": "台北市中山區復興北路378號11樓",
     "主製造廠": {
-        "製造廠名稱": "F260246200  OTSUKA PHARMACEUTICAL FACTORY INC.",
+        "主製造廠": "",
+        "製造廠名稱": "F260246200  OTSUKA PHARMACEUTICAL FACTORY INC. Matsushige Factory",
         "製造廠廠址": "139-1 TOYOHISA KAITAKU, TOYOHISA, MATSUSHIGE-CHO, ITANO-GUN, TOKUSHIMA, JAPAN",
         "製造廠公司地址": "115 KUGUHARA, TATEIWA, MUYA-CHO, NARUTO, TOKUSHIMA, JAPAN",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "4008000983",
-            "成分名稱": "Sodium L-Lactate Solution",
-            "含量描述": "(=SODIUM LACTATE 7.633)",
-            "含量": "10.6000000000",
+            "成分代碼": "4008000870",
+            "成分名稱": "SODIUM CITRATE HYDROUS",
+            "含量描述": "",
+            "含量": "1.9000000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "4008008870",
-            "成分名稱": "SODIUM CITRATE (HYDROUS)",
-            "含量描述": "",
-            "含量": "1.9000000000",
+            "成分代碼": "4008000983",
+            "成分名稱": "Sodium L-Lactate Solution",
+            "含量描述": "(=SODIUM LACTATE 7.633)",
+            "含量": "10.6000000000",
             "單位": "MG"
         },
         {
@@ -198,7 +197,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "5612001900",
-            "成分名稱": "POTASSIUM PHOSPHATE (POSTASSIUM PHOSPHATE DIBASIC)",
+            "成分名稱": "POTASSIUM PHOSPHATE ( eq to POTASSIUM PHOSPHATE DIBASIC)",
             "含量描述": "",
             "含量": "3.3400000000",
             "單位": "MG"
@@ -237,6 +236,14 @@
         },
         {
             "成分類別": "主成分",
+            "成分代碼": "5612001520",
+            "成分名稱": "Magnesium sulfate hydrate",
+            "含量描述": "",
+            "含量": "0.8800000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
             "成分代碼": "8810101030",
             "成分名稱": "Thiamine chloride hydrochloride",
             "含量描述": "",
@@ -260,6 +267,10 @@
         {
             "title": "Bfluid injection_Chinese PI_2010_Approval___20100602.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025179&Seq=001&Type=9"
+        },
+        {
+            "title": "BF-1000ml-104-12-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025179&Seq=010&Type=8"
         },
         {
             "title": "照片_Bfluid injection 500mL___20100602.pdf",

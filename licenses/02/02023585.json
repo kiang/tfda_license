@@ -1,7 +1,7 @@
 {
     "code": "02023585",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023585",
-    "time": "2016-03-25 04:20:34",
+    "time": "2016-11-18 20:23:01",
     "許可證字號": "衛署藥輸字第023585號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "用於B細胞慢性淋巴性白血病(CLL)病患的起始治療及歷經至少一種標準內容的烷化基藥劑(ALKYLATING AGENT)的治療方法治療都無效，或治療後雖有效但隨後疾病又繼續惡化的病人。以本品做為第一線治療，只適用於重度病患即評估為RAI III\/IV 階段(BINET C 級)或RAI I\/II (BINET A\/B 級)但併有疾病相關症候的病人。用於治療已使用過任一化學治療無效或復發之低惡性度B細胞非何杰金氏淋巴瘤（Indolent B-Cell non-Hodgkin’s lymphoma）之第二線療法。",
     "劑型": "116膜衣錠",
     "包裝": "2-1000顆鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "FLUDARABINE PHOSPHATE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "FLUDARABINEPHOSPHATE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1424601100  賽諾菲股份有限公司",
-    "申請商地址": "台北市信義區松仁路3號7樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F470169000  BAYER PHARMA AG",
         "製造廠廠址": "(一)POSTAL ADDRESS：D-13342 BERLIN, GERMANY (二)STREET ADDRESS：MUELLERSTRASSE 178 D-13353 BERLIN, GERMANY",
         "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049071005 抗癌藥Anti-cancer preparations",
     "藥理治療分類": "",
@@ -70,6 +69,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "Fludara tablet_leaflet-104-09-04(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023585&Seq=021&Type=9"
+        },
         {
             "title": "Fludara Tab E labeling_CCDS v26_20140311-103-07-31.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023585&Seq=020&Type=9"
@@ -149,6 +152,10 @@
         {
             "title": "020235850001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023585&Seq=001&Type=9"
+        },
+        {
+            "title": "Fludara tablet_box-104-09-04(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023585&Seq=001&Type=8"
         }
     ]
 }

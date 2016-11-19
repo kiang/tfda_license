@@ -1,7 +1,7 @@
 {
     "code": "05000610",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05000610",
-    "time": "2015-08-22 04:49:17",
+    "time": "2016-11-18 21:00:09",
     "許可證字號": "衛署醫器製字第000610號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,29 +13,29 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00500061009",
     "中文品名": "易舒透白金雙氧消毒液",
-    "英文品名": "\"S.T.\" ISOTONIC PT H O",
+    "英文品名": "&quot;S.T.&quot; ISOTONIC PT H2O2",
     "效能": "隱形眼鏡之消毒",
     "醫器規格": "１００ＭＬ以下，１２０ＭＬ，２４０ＭＬ，３６０ＭＬ，４８０ＭＬ，５００ＭＬ瓶裝",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "1799其他隱形眼鏡",
     "醫器次類別一": "",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "SODIUM NITRATE, SODIUM CHLORIDE, HYDROGEN PEROXIDE, SODIUM PHOSPHATE DIBASIC (eq to DISOD. HYDROGEN PHOSPHATE) (eq to DISODIUM PHOSPHATE), SODIUM PHOSPHATE MONOBASIC (MONOHYDRATE), SODIUM STANNATE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "SODIUMNITRATE,SODIUMCHLORIDE,HYDROGENPEROXIDE(30%),SODIUMPHOSPHATEDIBASIC(eqtoDISOD.HYDROGENPHOSPHATE)(eqtoDISODIUMPHOSPHATE),SODIUMPHOSPHATEMONOBASIC(MONOHYDRATE),SODIUMSTANNATE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0908703200  信東生技股份有限公司",
-    "申請商地址": "桃園市桃園區介壽路２２號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0908703300  信東生技股份有限公司",
         "製造廠廠址": "桃園市桃園區介壽路２２號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -52,16 +52,16 @@
             "成分類別": "主成分",
             "成分代碼": "4012002100",
             "成分名稱": "SODIUM CHLORIDE",
-            "含量描述": "7.4",
+            "含量描述": "",
             "含量": "7.4000000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "5204900500",
-            "成分名稱": "HYDROGEN PEROXIDE",
-            "含量描述": "(30%) 100",
-            "含量": "",
+            "成分代碼": "5204900582",
+            "成分名稱": "HYDROGEN PEROXIDE (30%)",
+            "含量描述": "100",
+            "含量": "0.0000000000",
             "單位": "MG"
         },
         {

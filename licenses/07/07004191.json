@@ -1,6 +1,7 @@
 {
     "code": "07004191",
-    "time": "2015-06-23 02:39:52",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07004191",
+    "time": "2016-11-19 02:30:07",
     "許可證字號": "衛署粧製字第004191號",
     "註銷狀態": "已註銷",
     "註銷日期": "101\/10\/25",
@@ -16,20 +17,19 @@
     "用途": "保濕、防曬隔離紫外線、修飾膚色。",
     "劑型": "903乳液劑",
     "包裝": "500公克以下瓶裝 附外盒裝",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0714防晒化粧用品",
-    "": "",
-    "主成分略述": "OCTYL METHOXYCINNAMATE (PARSOL KCX), TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "OCTYLMETHOXYCINNAMATE(PARSOLKCX),TITANIUMDIOXIDE(EQTOTITANIUMOXIDE)"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1236910200  裕昌生物科技股份有限公司",
-    "申請商地址": "台中市梧棲區草湳里自立路１２６號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1236910500  裕昌生物科技股份有限公司",
         "製造廠廠址": "台中市梧棲區草湳里自立路１２６號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -53,12 +53,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 070041910001.jpg",
+            "title": "070041910001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004191&Seq=001&Type=9"
         },
         {
-            "title": "外盒 070041910002.jpg 070041910001.jpg",
+            "title": "070041910002.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004191&Seq=002&Type=8"
+        },
+        {
+            "title": "070041910001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004191&Seq=001&Type=8"
         }
     ]
 }

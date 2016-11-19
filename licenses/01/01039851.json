@@ -1,7 +1,7 @@
 {
     "code": "01039851",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01039851",
-    "time": "2016-05-27 05:03:23",
+    "time": "2016-11-18 14:04:20",
     "許可證字號": "衛署藥製字第039851號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,24 +13,23 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00103985100",
     "中文品名": "肌鬆膠囊",
-    "英文品名": "CYMA CAPSULE \"CHINTENG\"",
+    "英文品名": "CYMA CAPSULE &quot;CHINTENG&quot;",
     "適應症": "關節痛、肌肉痛、顏面神經痙攣、神經痛、關節周圍炎、捻挫打撲及其他肌肉之痙攣、強直及疼痛諸症",
     "劑型": "130膠囊劑",
     "包裝": "瓶裝 鋁箔裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "CHLORZOXAZONE, ACETAMINOPHEN (EQ TO PARACETAMOL), CAFFEINE ANHYDROUS, THIAMINE DISULFIDE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "CHLORZOXAZONE,ACETAMINOPHEN(EQTOPARACETAMOL),CAFFEINEANHYDROUS,THIAMINEDISULFIDE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "6103030017  井田國際醫藥廠股份有限公司",
-    "申請商地址": "台中市大甲區幼獅路32號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "6103030017  井田國際醫藥廠股份有限公司",
         "製造廠廠址": "台中市大甲區幼獅路32號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
@@ -80,11 +79,27 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "020肌鬆-104-12-18(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039851&Seq=349&Type=10"
+        },
+        {
             "title": "圖片",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039851&Seq=348&Type=10"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "010398510003鋁箔-104-12-18(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039851&Seq=006&Type=9"
+        },
+        {
+            "title": "010398510002標籤-104-12-18(廠商自行上傳).PDF",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039851&Seq=005&Type=9"
+        },
+        {
+            "title": "010398510001仿單-104-12-18(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039851&Seq=004&Type=9"
+        },
         {
             "title": "010398510001-104-06-12.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039851&Seq=003&Type=9"
@@ -96,6 +111,10 @@
         {
             "title": "010398510001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039851&Seq=001&Type=9"
+        },
+        {
+            "title": "010398510004花盒-104-12-18(廠商自行上傳).PDF",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039851&Seq=001&Type=8"
         }
     ]
 }

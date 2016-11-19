@@ -1,7 +1,7 @@
 {
     "code": "03005666",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=03005666",
-    "time": "2015-08-23 13:44:56",
+    "time": "2016-11-18 20:50:57",
     "許可證字號": "衛署成製字第005666號",
     "註銷狀態": "已註銷",
     "註銷日期": "102\/10\/03",
@@ -13,24 +13,23 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00300566606",
     "中文品名": "大維貼痠痛藥布",
-    "英文品名": "SUANTON PASTER \"T.W.\"",
+    "英文品名": "SUANTON PASTER &quot;T.W.&quot;",
     "適應症": "肌肉痛、關節痛、神經痛、肩痛",
     "劑型": "325藥膠布",
     "包裝": "盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "03成藥",
-    "管制藥品分類級別": "",
-    "主成分略述": "CLOVE OIL, THYMOL, CAMPHOR DL-, MENTHOL L-, METHYL SALICYLATE, EUCALYPTUS OIL (OLEUM EUCALYPTI), OLIVE OIL, PEPPERMINT OIL (OLEUM MENTH PIP), ROSE OIL",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "CLOVEOIL,THYMOL,DL-CAMPHOR,L-MENTHOL,METHYLSALICYLATE,EUCALYPTUSOIL(OLEUMEUCALYPTI),OLIVEOIL,PEPPERMINTOIL(OLEUMMENTHPIP),ROSEOIL"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0308620200  大維藥品股份有限公司",
-    "申請商地址": "台南市永康區鹽洲村洲工街１７５巷１號１樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0308620300  大維化學製藥股份有限公司",
         "製造廠廠址": "台南市永康區鹽洲村洲工街１７５巷１號１樓",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30051090909 其他粘敷料和其他具有粘層之物品Other adhesive dressings and other articles having an adhesive layer",
     "藥理治療分類": "",
@@ -54,7 +53,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "8408000103",
-            "成分名稱": "CAMPHOR DL-",
+            "成分名稱": "DL-CAMPHOR",
             "含量描述": "10",
             "含量": "10.0000000000",
             "單位": "MG"
@@ -62,7 +61,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "8408000302",
-            "成分名稱": "MENTHOL L-",
+            "成分名稱": "L-MENTHOL",
             "含量描述": "10",
             "含量": "10.0000000000",
             "單位": "MG"

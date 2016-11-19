@@ -1,7 +1,7 @@
 {
     "code": "02020940",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02020940",
-    "time": "2015-08-23 11:18:21",
+    "time": "2016-11-18 19:56:27",
     "許可證字號": "衛署藥輸字第020940號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "不能攝取適當食物之患者之補助治療劑、蛋白質之消化吸收機能及合成利用障礙、嚴重創傷火傷骨折時蛋白質之補給、蛋白質攝取減少之營養失調症。",
     "劑型": "270注射劑",
     "包裝": "袋裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "SODIUM ACETATE TRIHYDRATE (EQ TO SODIUM ACETATE 3H2O ), CALCIUM CHLORIDE DIHYDRATE, MAGNESIUM ACETATE TETRAHYDRATE, SODIUM CHLORIDE, GLUCOSE (MONOHYDRATE), ALANINE, ARGININE MONOGLUTAMATE L-, ASPARTIC ACID, GLUTAMIC ACID, HISTIDINE HCL MONOHYDRATE, ISOLEUCINE, LEUCINE, LYSINE HCL, METHIONINE, PHENYLALANINE, PROLINE, SERINE, THREONINE, TRYPTOPHAN, VALINE, GLYCINE (EQ TO AMINOACETIC ACID)(EQ TO GLYCOCOLL), HYDROXIDE (MAGNESIUM), POTASSIUM DIHYDROGEN PHOSPHATE, SODIUM HYDROXIDE, WATER FOR INJECTION",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "SODIUMACETATETRIHYDRATE(EQTOSODIUMACETATE3H2O),CALCIUMCHLORIDEDIHYDRATE,MAGNESIUMACETATETETRAHYDRATE,SODIUMCHLORIDE,GLUCOSE(MONOHYDRATE),ALANINE,ARGININEMONOGLUTAMATEL-,ASPARTICACID,GLUTAMICACID,HISTIDINEHCLMONOHYDRATE,ISOLEUCINE,LEUCINE,LYSINEHCL,METHIONINE,PHENYLALANINE,PROLINE,SERINE,THREONINE,TRYPTOPHAN,VALINE,GLYCINE(EQTOAMINOACETICACID)(EQTOGLYCOCOLL),POTASSIUMDIHYDROGENPHOSPHATE,POTASSIUMHYDROXIDE,SODIUMHYDROXIDE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1426402100  臺灣柏朗股份有限公司",
-    "申請商地址": "台北市松山區健康路152號9樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F430095100  B. BRAUN MEDICAL AG",
         "製造廠廠址": "ROUTE DE SORGE 9 CH-1023 CRISSIER SWITZERLAND",
-        "製造廠公司地址": "SEESATZ, 6204 SEMPACH, SWITZERLAND",
-        "製造廠國別": "SWITZERLAND",
-        "製程": ""
+        "製造廠公司地址": "SEESATZ, CH-6204 SEMPACH, SWITZERLAND",
+        "": ""
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -205,18 +204,18 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "5604082500",
-            "成分名稱": "HYDROXIDE (MAGNESIUM)",
-            "含量描述": "POTASIOM 0.52",
-            "含量": "",
-            "單位": "GM"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "5612001920",
             "成分名稱": "POTASSIUM DIHYDROGEN PHOSPHATE",
             "含量描述": "0.78",
             "含量": "0.7800000000",
+            "單位": "GM"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9600024100",
+            "成分名稱": "POTASSIUM HYDROXIDE",
+            "含量描述": "",
+            "含量": "0.5200000000",
             "單位": "GM"
         },
         {
@@ -226,17 +225,13 @@
             "含量描述": "0.50",
             "含量": "0.5000000000",
             "單位": "GM"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9604000900",
-            "成分名稱": "WATER FOR INJECTION",
-            "含量描述": "TO MAKE 1000",
-            "含量": "",
-            "單位": "GM"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "Leaflet_NP73065_1110 Nutriflex peri-104-10-28(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020940&Seq=005&Type=9"
+        },
         {
             "title": "020209400004.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020940&Seq=004&Type=9"

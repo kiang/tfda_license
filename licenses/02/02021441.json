@@ -1,7 +1,7 @@
 {
     "code": "02021441",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021441",
-    "time": "2015-08-24 01:32:01",
+    "time": "2016-11-18 20:01:41",
     "許可證字號": "衛署藥輸字第021441號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,21 +17,19 @@
     "適應症": "腸道檢查、手術前淨腸。",
     "劑型": "148粉劑",
     "包裝": "4小袋盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE), POTASSIUM CHLORIDE, SODIUM CHLORIDE, POLYETHYLENE GLYCOL 3350, SODIUM SULFITE ANHYDROUS",
-    "限制項目": [
-        "02輸入",
-        "52依本署七七公告於國內進行臨床試驗且核定為新藥"
+    "主成分略述": [
+        "SODIUMBICARBONATE(EQTOSODIUMHYDROGENCARBONATE),POTASSIUMCHLORIDE,SODIUMCHLORIDE,SODIUMSULFATEANHYDROUS(EQTOSODIUMSULPHATEANHYDROUS),POLYETHYLENEGLYCOL3350"
     ],
+    "限制項目": "02輸　入 52依本署七七公告於國內進行臨床試驗且核定為新藥",
     "申請商名稱": "1407301100  臺灣美強股份有限公司",
-    "申請商地址": "台北市中山區南京東路二段66號4樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F2300300  HELSINN BIREX PHARMACEUTICALS LTD.",
         "製造廠廠址": "DAMASTOWN MULHUDDART, DUBLIN 15, IRELAND",
         "製造廠公司地址": "",
-        "製造廠國別": "IRELAND",
-        "製程": "製造及許可證持有者"
+        "": ""
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
@@ -62,25 +60,33 @@
         },
         {
             "成分類別": "主成分",
+            "成分代碼": "4012002252",
+            "成分名稱": "SODIUM SULFATE ANHYDROUS (EQ TO SODIUM SULPHATE ANHYDROUS)",
+            "含量描述": "",
+            "含量": "5.6850000000",
+            "單位": "GM"
+        },
+        {
+            "成分類別": "主成分",
             "成分代碼": "8424122900",
             "成分名稱": "POLYETHYLENE GLYCOL 3350",
             "含量描述": "",
             "含量": "59.0000000000",
             "單位": "GM"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9600028850",
-            "成分名稱": "SODIUM SULFITE ANHYDROUS",
-            "含量描述": "",
-            "含量": "5.6850000000",
-            "單位": "GM"
         }
     ],
     "仿單外盒": [
         {
+            "title": "Klean-Prep_中文仿單_2015V04-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021441&Seq=002&Type=9"
+        },
+        {
             "title": "Klean-Prep_中文仿單_2013V03 -103-03-17.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021441&Seq=001&Type=9"
+        },
+        {
+            "title": "Klean-prep_刻見清_外盒-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021441&Seq=001&Type=8"
         }
     ]
 }

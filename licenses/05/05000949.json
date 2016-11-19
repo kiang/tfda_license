@@ -1,7 +1,7 @@
 {
     "code": "05000949",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05000949",
-    "time": "2015-08-22 06:09:37",
+    "time": "2016-11-18 21:04:45",
     "許可證字號": "衛署醫器製字第000949號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,24 +18,24 @@
     "醫器規格": "100ML以下,120ML,240ML,480ML,500ML瓶裝",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "M眼科用裝置",
     "醫器次類別一": "",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "POTASSIUM SORBATE, SODIUM CHLORIDE, EDETATE DISODIUM (EQ TO DISODIUM EDETATE)( EQ TO E.D.T.A. DISODIUM) (EQ TO EDTA -2NA), WATER FOR INJECTION ADD TO, TRITON X-100, POVIDONE K-30",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "POTASSIUMSORBATE,SODIUMCHLORIDE,EDETATEDISODIUM(EQTODISODIUMEDETATE)(EQTOE.D.T.A.DISODIUM)(EQTOEDTA-2NA),POVIDONEK-90(EQTOPOLYVINYLPYRROLIDONEK90)(POVIDONEK90),WATERFORINJECTIONADDTO,TRITONX-100"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "6132010010  信東生技股份有限公司",
-    "申請商地址": "桃園市桃園區介壽路22號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "6132010010  信東生技股份有限公司",
         "製造廠廠址": "桃園市桃園區介壽路22號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -66,6 +66,14 @@
         },
         {
             "成分類別": "主成分",
+            "成分代碼": "9600024531",
+            "成分名稱": "POVIDONE K-90 ( EQ TO POLYVINYLPYRROLIDONE K90) (POVIDONE K90 )",
+            "含量描述": "",
+            "含量": "1.3000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
             "成分代碼": "9604000910",
             "成分名稱": "WATER FOR INJECTION ADD TO",
             "含量描述": "(MAKE)",
@@ -78,14 +86,6 @@
             "成分名稱": "TRITON X-100",
             "含量描述": "",
             "含量": "5.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "Z102100733",
-            "成分名稱": "POVIDONE K-30",
-            "含量描述": "",
-            "含量": "1.3000000000",
             "單位": "MG"
         }
     ],

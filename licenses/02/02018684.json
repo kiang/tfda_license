@@ -1,7 +1,7 @@
 {
     "code": "02018684",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02018684",
-    "time": "2015-08-23 11:06:57",
+    "time": "2016-11-18 19:32:13",
     "許可證字號": "衛署藥輸字第018684號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "廣效的局部抗黴菌感染",
     "劑型": "304外用噴液劑",
     "包裝": "75公克罐裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "07須經醫師指示使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "CLOTRIMAZOLE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "CLOTRIMAZOLE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1206801100  富富企業股份有限公司",
-    "申請商地址": "台北市民生東路一段42號五樓之1",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F100003000  REMEDICA LTD. MANUFACTURERS OF PHARMACEUTICALS",
         "製造廠廠址": "AHARNON STREET,LIMASSOL INDUSTRIAL ESTATE, 3056, LIMASSOL, CYPRUS",
         "製造廠公司地址": "",
-        "製造廠國別": "CYPRUS",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30042000211 人用醫藥製劑，含抗黴菌劑類抗生素者Medicaments, containing antifungal antibiotics, for human use",
     "藥理治療分類": "",
@@ -42,6 +41,16 @@
             "含量描述": "(BP)",
             "含量": "250.0000000000",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "Mycoril spray-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02018684&Seq=002&Type=9"
+        },
+        {
+            "title": "Mycoril-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02018684&Seq=002&Type=8"
         }
     ]
 }

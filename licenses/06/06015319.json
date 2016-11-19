@@ -1,7 +1,7 @@
 {
     "code": "06015319",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06015319",
-    "time": "2016-03-25 04:29:20",
+    "time": "2016-11-19 00:14:59",
     "許可證字號": "衛署醫器輸字第015319號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,26 +18,36 @@
     "醫器規格": "LKON1: 100 tests, LONZ, LONCM.",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "A臨床化學及臨床毒理學",
     "醫器次類別一": "A1050鹼性磷酸?或同功異構?試驗系統",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        ""
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "6203282380  西門子醫療設備股份有限公司",
-    "申請商地址": "台北市南港區園區街3號2樓之2",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "M130837000  SIEMENS HEALTHCARE DIAGNOSTICS PRODUCTS LIMITED",
         "製造廠廠址": "GLYN RHONWY LLANBERIS, CAERNARFON GWYNEDD LL55 4EL UNITED KINGDOM",
         "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "38220090902 其他診斷或實驗用有底襯之試劑及診斷或實驗用之配製試劑，不論是否有底襯，不包括第３００２節或第３００６節所列者Other diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading 30.02 or 30.06",
     "藥理治療分類": "",
-    "ingredients": []
+    "ingredients": [],
+    "仿單外盒": [
+        {
+            "title": "015319 scan-105-03-28(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06015319&Seq=002&Type=9"
+        },
+        {
+            "title": "015319 scan-105-03-28(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06015319&Seq=001&Type=9"
+        }
+    ]
 }

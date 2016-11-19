@@ -1,7 +1,7 @@
 {
     "code": "02008337",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02008337",
-    "time": "2015-08-23 06:29:47",
+    "time": "2016-11-18 17:39:34",
     "許可證字號": "衛署藥輸字第008337號",
     "註銷狀態": "已註銷",
     "註銷日期": "89\/10\/21",
@@ -13,24 +13,23 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00200833703",
     "中文品名": "欣滴佳眼藥水",
-    "英文品名": "SHIN EYE DROPS \"TEIKA\"",
+    "英文品名": "SHIN EYE DROPS &quot;TEIKA&quot;",
     "適應症": "眼睛疲勞、結膜炎、結膜充血、眼瞼緣炎、角膜炎、淚囊炎",
     "劑型": "472點眼液劑",
     "包裝": "滴瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "NEOSTIGMINE METHYLSULFATE, NAPHAZOLINE HCL, BENZALKONIUM CHLORIDE, MENTHOL L-, TAURINE (EQ TO 2-AMINOETHANE SULFONIC ACID), ZINC SULFATE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "NEOSTIGMINEMETHYLSULFATE,NAPHAZOLINEHCL,BENZALKONIUMCHLORIDE,L-MENTHOL,TAURINE(EQTO2-AMINOETHANESULFONICACID),ZINCSULFATE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1100521100  祥谷商業股份有限公司",
-    "申請商地址": "高雄巿三民區大興街１２２號３樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F260341000  TEIKA PHARMACEUTICAL CO.,LTD.",
         "製造廠廠址": "3-27,ARAKAWA 1-CHOME,TOYAMA,930-0982,JAPANHINODE 1, URAYASU-SHI, CHIBA 279",
         "製造廠公司地址": "HINODE 1, URAYASU-SHI, CHIBA 279",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -62,7 +61,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "8408000302",
-            "成分名稱": "MENTHOL L-",
+            "成分名稱": "L-MENTHOL",
             "含量描述": "0.03",
             "含量": "0.0300000000",
             "單位": "MG"

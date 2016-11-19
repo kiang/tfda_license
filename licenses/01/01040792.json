@@ -1,7 +1,7 @@
 {
     "code": "01040792",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01040792",
-    "time": "2015-08-23 00:16:33",
+    "time": "2016-11-18 14:13:40",
     "許可證字號": "衛署藥製字第040792號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,39 +16,38 @@
     "英文品名": "LYSIMIN INJECTION",
     "適應症": "乳幼兒、小兒之發育促進，營養補給，病中回復期虛弱體質之營養補給，妊產授乳婦營養補給",
     "劑型": "270注射劑",
-    "包裝": "5,20ml安瓿",
+    "包裝": "5、20公撮安瓿、100支以下裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "HISTIDINE L- HCL (EQ TO L-HISTIDINE HYDROCHLORIDE), LYSINE L- HCL ( EQ TO L-LYSINE HCL), METHIONINE DL-, THIAMINE HYDROCHLORIDE, RIBOFLAVIN (VIT B2), PYRIDOXINE HCL",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "L-HISTIDINEHYDROCHLORIDEMONOHYDRATE,L-LYSINEMONOHYDROCHLORIDE,METHIONINEDL-,THIAMINEHYDROCHLORIDE,RIBOFLAVIN(VITB2),PYRIDOXINEHCL"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "6231147074  東洲化學製藥廠股份有限公司",
-    "申請商地址": "新北市蘆洲區中山二路195巷12號1-2樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1405802300  杏林新生製藥股份有限公司",
         "製造廠廠址": "桃園市龍潭區三和村店湖一路２３７號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "4020100912",
-            "成分名稱": "HISTIDINE L- HCL (EQ TO L-HISTIDINE HYDROCHLORIDE)",
+            "成分代碼": "4020100924",
+            "成分名稱": "L-HISTIDINE HYDROCHLORIDE MONOHYDRATE",
             "含量描述": "",
-            "含量": "20.0000000000",
+            "含量": "4.0000000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "4020101312",
-            "成分名稱": "LYSINE L- HCL ( EQ TO L-LYSINE HCL)",
+            "成分代碼": "4020101314",
+            "成分名稱": "L-LYSINE MONOHYDROCHLORIDE",
             "含量描述": "",
-            "含量": "100.0000000000",
+            "含量": "20.0000000000",
             "單位": "MG"
         },
         {
@@ -56,7 +55,7 @@
             "成分代碼": "4020101503",
             "成分名稱": "METHIONINE DL-",
             "含量描述": "",
-            "含量": "50.0000000000",
+            "含量": "10.0000000000",
             "單位": "MG"
         },
         {
@@ -64,7 +63,7 @@
             "成分代碼": "8810100900",
             "成分名稱": "THIAMINE HYDROCHLORIDE",
             "含量描述": "",
-            "含量": "5.0000000000",
+            "含量": "1.0000000000",
             "單位": "MG"
         },
         {
@@ -72,7 +71,7 @@
             "成分代碼": "8810200400",
             "成分名稱": "RIBOFLAVIN (VIT B2)",
             "含量描述": "",
-            "含量": "0.5000000000",
+            "含量": "0.1000000000",
             "單位": "MG"
         },
         {
@@ -80,11 +79,15 @@
             "成分代碼": "8810600300",
             "成分名稱": "PYRIDOXINE HCL",
             "含量描述": "",
-            "含量": "0.5000000000",
+            "含量": "0.1000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "010407920001-仿單利持命-104-12-28(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040792&Seq=003&Type=9"
+        },
         {
             "title": "010407920001-103-02-11.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040792&Seq=002&Type=9"
@@ -92,6 +95,10 @@
         {
             "title": "010407920001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040792&Seq=001&Type=9"
+        },
+        {
+            "title": "010407920004-外盒利持命-104-12-28(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040792&Seq=001&Type=8"
         }
     ]
 }

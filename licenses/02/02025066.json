@@ -1,7 +1,7 @@
 {
     "code": "02025066",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025066",
-    "time": "2015-08-23 12:37:14",
+    "time": "2016-11-18 20:38:30",
     "許可證字號": "衛署藥輸字第025066號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,24 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00202506608",
-    "中文品名": "伏霸&reg;注射劑 0.25公克",
-    "英文品名": "Finibax&reg; for Injection 0.25g",
+    "中文品名": "伏霸&amp;reg;注射劑 0.25公克",
+    "英文品名": "Finibax&amp;reg; for Injection 0.25g",
     "適應症": "對Doripenem Hydrate具感受性之菌種的複雜性泌尿道感染(包括腎盂腎炎)及複雜性腹腔內感染",
     "劑型": "240乾粉注射劑",
     "包裝": "10毫升小瓶裝 100支以下盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "DORIPENEM HYDRATE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "DORIPENEMHYDRATE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1410301200  台灣塩野義製藥股份有限公司",
-    "申請商地址": "台北市中山區南京東路二段２號４樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F260507000  SHIONOGI &amp; CO. LTD. KANEGASAKI PLANT",
         "製造廠廠址": "7, MORIYAMA, NISHINE, KANEGASAKI-CHO, ISAWA-GUN, IWATE 029-4503, JAPAN",
         "製造廠公司地址": "1-8,DOSHOMACHI 3-CHOME,CHUO-KO,OSAKA 541-0045,JAPAN",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -46,8 +45,16 @@
     ],
     "仿單外盒": [
         {
+            "title": "Finibax package insert 第2版(Lot0024起)-104-09-22(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025066&Seq=002&Type=9"
+        },
+        {
             "title": "Finibax Package insert (第二次補件送審版)-2014-08-05.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025066&Seq=001&Type=9"
+        },
+        {
+            "title": "FBX box(add L cm)-104-09-22(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025066&Seq=001&Type=8"
         }
     ]
 }

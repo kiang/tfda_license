@@ -1,7 +1,7 @@
 {
     "code": "01040612",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01040612",
-    "time": "2015-08-23 00:58:16",
+    "time": "2016-11-18 14:11:51",
     "許可證字號": "衛署藥製字第040612號",
     "註銷狀態": "已註銷",
     "註銷日期": "87\/08\/11",
@@ -13,24 +13,23 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00104061205",
     "中文品名": "海鷗胃得健散",
-    "英文品名": "SEA GULL WEDGEN POWDER  \"CENTER\"",
+    "英文品名": "SEA GULL WEDGEN POWDER  &quot;CENTER&quot;",
     "適應症": "胃酸過多、消化不良、腸內異常醱酵、腹部膨滿、下痢",
     "劑型": "140散劑",
     "包裝": "瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17指示用藥",
-    "管制藥品分類級別": "",
-    "主成分略述": "SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE), CINNAMON (CINNAMON CORTEX ) (CINNAMON BARK), COPTIS RHIZOMA, BORNEOL, GENTIANA SCABRAE RADIX, PIPERIS NIGRI FRUCTUS, MENTHOL L-, GLYCYRRHIZA RADIX, GAMBIR, FLOS CARYOPHYLLI, HYDRANGEAE DULCIS FOLIUM",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "SODIUMBICARBONATE(EQTOSODIUMHYDROGENCARBONATE),CINNAMON(CINNAMONCORTEX)(CINNAMONBARK),COPTISRHIZOMA,BORNEOL,GENTIANASCABRAERADIX,PIPERISNIGRIFRUCTUS,L-MENTHOL,GLYCYRRHIZARADIX,GAMBIR,FLOSCARYOPHYLLI,HYDRANGEAEDULCISFOLIUM"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1013806200  晟德大藥廠股份有限公司",
-    "申請商地址": "新竹縣湖口鄉鳳凰村實踐路２號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1013806300  晟德大藥廠股份有限公司新竹廠",
         "製造廠廠址": "新竹縣湖口鄉鳳凰村實踐路２號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -86,7 +85,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "8408000302",
-            "成分名稱": "MENTHOL L-",
+            "成分名稱": "L-MENTHOL",
             "含量描述": "12",
             "含量": "12.0000000000",
             "單位": "MG"

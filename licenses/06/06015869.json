@@ -1,7 +1,7 @@
 {
     "code": "06015869",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06015869",
-    "time": "2016-01-29 04:41:13",
+    "time": "2016-11-19 00:21:18",
     "許可證字號": "衛署醫器輸字第015869號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,26 +18,32 @@
     "醫器規格": "EI2650-9601M: 96TS\/KT",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "C免疫學及微生物學裝置",
     "醫器次類別一": "C3900水痘帶狀皰疹病毒血清試劑",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        ""
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "6201026188  協克企業有限公司",
-    "申請商地址": "台北市大安區復興南路2段157號5樓之3",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "M470197000  EUROIMMUN MEDIZINISCHE LABORDIAGNOSTIKA AG",
         "製造廠廠址": "EUROIMMUN AG D-23560 LUEBECK SEEKAMP 31 GERMANY",
         "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "38220090902 其他診斷或實驗用有底襯之試劑及診斷或實驗用之配製試劑，不論是否有底襯，不包括第３００２節或第３００６節所列者Other diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading 30.02 or 30.06",
     "藥理治療分類": "",
-    "ingredients": []
+    "ingredients": [],
+    "仿單外盒": [
+        {
+            "title": "06015869-2006-01-12.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06015869&Seq=001&Type=9"
+        }
+    ]
 }

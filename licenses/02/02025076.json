@@ -1,7 +1,7 @@
 {
     "code": "02025076",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025076",
-    "time": "2015-08-24 13:01:44",
+    "time": "2016-11-18 20:38:35",
     "許可證字號": "衛署藥輸字第025076號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,21 +17,19 @@
     "適應症": "適用於具有EGFR-TK突變之局部侵犯性或轉移性之非小細胞肺癌(NSCLC)病患之第一線治療。適用於先前已接受過化學治療後，但仍局部惡化或轉移之肺腺癌病患之第二線用藥。適用於已接受4個週期含platinum-based第一線化學療法且尚未惡化的局部晚期或轉移性肺腺癌的維持療法。",
     "劑型": "116膜衣錠",
     "包裝": "12-1000 錠鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "ERLOTINIB HYDROCHLORIDE",
-    "限制項目": [
-        "02輸入",
-        "62完成溶離率試驗"
+    "主成分略述": [
+        "ERLOTINIBHYDROCHLORIDE"
     ],
+    "限制項目": "02輸　入 62完成溶離率試驗",
     "申請商名稱": "1901701100  羅氏大藥廠股份有限公司",
-    "申請商地址": "台北市松山區民生東路三段１３４號９樓",
     "主製造廠": {
-        "製造廠名稱": "F250342000  ROCHE SPA",
-        "製造廠廠址": "VIA MORELLI 2 SEGRATE 20090,ITALIA",
+        "主製造廠": "",
+        "製造廠名稱": "F250463000  ROCHE S.P.A.",
+        "製造廠廠址": "VIA MORELLI 2, IT-20090 SEGRATE (MILANO), ITALY",
         "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049071005 抗癌藥Anti-cancer preparations",
     "藥理治療分類": "",
@@ -63,6 +61,10 @@
     ],
     "仿單外盒": [
         {
+            "title": "Tarceva ex Segrate_0615-TAR-01-104-09-03(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025076&Seq=008&Type=9"
+        },
+        {
             "title": "020250760001-103-03-20.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025076&Seq=007&Type=9"
         },
@@ -89,6 +91,10 @@
         {
             "title": "020250760001___20120403.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025076&Seq=001&Type=9"
+        },
+        {
+            "title": "Tarceva 25mg_Segrate_FE_CTN_10129389-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025076&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "02025150",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025150",
-    "time": "2015-11-27 05:12:56",
+    "time": "2016-11-18 20:39:18",
     "許可證字號": "衛署藥輸字第025150號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "靜脈營養輸注，適用於無法由口腔進食或經腸道獲取足夠營養，或禁止由口腔及腸道進食之成年患者。",
     "劑型": "270注射劑",
     "包裝": "1206毫升、1448毫升、1904毫升BIOFINE塑膠軟袋裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "SODIUM ACETATE TRIHYDRATE (EQ TO SODIUM ACETATE 3H2O ), SODIUM ACETATE (TRIHYDRATE), CALCIUM CHLORIDE DIHYDRATE, POTASSIUM CHLORIDE, CALCIUM CHLORIDE (DIHYDRATE), GLUCOSE, SOYBEAN OIL ( EQ TO SOYA BEAN OIL), FISH-OIL RICH IN OMEGA-3 ACIDS, GLUCOSE (MONOHYDRATE), ALANINE, ARGININE, HISTIDINE, ISOLEUCINE, LEUCINE, LYSINE, METHIONINE, PHENYLALANINE, PROLINE, SERINE, THREONINE, TRYPTOPHAN, TYROSINE, VALINE, GLYCINE (EQ TO AMINOACETIC ACID)(EQ TO GLYCOCOLL), LYSINE (ACETATE), MAGNESIUM SULFATE ANHYDROUS, MAGNESIUM SULFATE HEPTAHYDRATE, TRIGLYCERIDES MEDIUM CHAIN, TAURINE (EQ TO AMINOETHYL SULFONIC ACID ), SODIUM GLYCEROPHOSPHATE, ZINC SULFATE 7H2O, ZINC SULFATE ANHYDROUS, OLIVE OIL",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "SODIUMACETATETRIHYDRATE(EQTOSODIUMACETATE3H2O),SODIUMACETATE(TRIHYDRATE),CALCIUMCHLORIDEDIHYDRATE,POTASSIUMCHLORIDE,CALCIUMCHLORIDE(DIHYDRATE),GLUCOSE,SOYBEANOIL(EQTOSOYABEANOIL),FISH-OILRICHINOMEGA-3ACIDS,GLUCOSE(MONOHYDRATE),ALANINE,ARGININE,HISTIDINE,ISOLEUCINE,LEUCINE,LYSINE,METHIONINE,PHENYLALANINE,PROLINE,SERINE,THREONINE,TRYPTOPHAN,TYROSINE,VALINE,GLYCINE(EQTOAMINOACETICACID)(EQTOGLYCOCOLL),LYSINE(ACETATE),MAGNESIUMSULFATEANHYDROUS,MAGNESIUMSULFATEHEPTAHYDRATE,TRIGLYCERIDESMEDIUMCHAIN,TAURINE(EQTOAMINOETHYLSULFONICACID),SODIUMGLYCEROPHOSPHATE,ZINCSULFATE7H2O,ZINCSULFATEANHYDROUS,OLIVEOIL"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "6201179728  台灣費森尤斯卡比股份有限公司",
-    "申請商地址": "台北市大安區仁愛路三段30號5樓32號5樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F420026100  FRESENIUS KABI AB",
         "製造廠廠址": "RAPSGATAN 7, S-751 74 UPPSALA, SWEDEN",
         "製造廠公司地址": "",
-        "製造廠國別": "SWEDEN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -90,6 +89,14 @@
             "成分名稱": "SODIUM ACETATE (TRIHYDRATE)",
             "含量描述": "(5.62)",
             "含量": "3.4000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "4012001800",
+            "成分名稱": "POTASSIUM CHLORIDE",
+            "含量描述": "",
+            "含量": "4.4800000000",
             "單位": "MG"
         },
         {
@@ -481,6 +488,10 @@
         {
             "title": "SmofKabiven PI中文仿單一___20100603.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025150&Seq=001&Type=9"
+        },
+        {
+            "title": "文件77-104-09-21(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025150&Seq=003&Type=8"
         },
         {
             "title": "外盒英文貼標___20100603.pdf",

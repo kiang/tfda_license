@@ -1,7 +1,7 @@
 {
     "code": "01050156",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01050156",
-    "time": "2015-08-23 03:25:15",
+    "time": "2016-11-18 15:36:04",
     "許可證字號": "衛署藥製字第050156號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "配合洗腎機及人工腎臟用以清洗腎臟病病人之血中尿毒。",
     "劑型": "272透析用液劑",
     "包裝": "10公升以下塑膠瓶裝 200公升塑膠瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "SODIUM ACETATE TRIHYDRATE (EQ TO SODIUM ACETATE 3H2O ), SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE), CALCIUM CHLORIDE DIHYDRATE, MAGNESIUM CHLORIDE HEXAHYDRATE (EQ TO MAGNESIUM CHLORIDE 6H2O), POTASSIUM CHLORIDE, SODIUM CHLORIDE, DEXTROSE, DEXTROSE MONOHYDRATE, ACETATE, CALCIUM, CHLORIDE, MAGNESIUM, POTASSIUM, SODIUM, BICARBONATE, CITRATE, CITRIC ACID MONOHYDRATE, WATER PURIFIED ( EQ TO AQUEOUS PURIFIED OR PURIFIED WATER )",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "SODIUMACETATETRIHYDRATE(EQTOSODIUMACETATE3H2O),SODIUMBICARBONATE(EQTOSODIUMHYDROGENCARBONATE),CALCIUMCHLORIDEDIHYDRATE,MAGNESIUMCHLORIDEHEXAHYDRATE(EQTOMAGNESIUMCHLORIDE6H2O),POTASSIUMCHLORIDE,SODIUMCHLORIDE,DEXTROSEMONOHYDRATE,CITRICACIDMONOHYDRATE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0827401100  佳醫健康事業股份有限公司",
-    "申請商地址": "新北市中和區中正路880號17樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1802006300  濟生化學製藥廠股份有限公司",
         "製造廠廠址": "新竹縣湖口鄉新竹工業區實踐路３號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30039050001 洗腎用清洗液，不具有劑量或零售包裝式樣者Hemodialysis concentrate, not put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
@@ -93,14 +92,6 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9604001100",
-            "成分名稱": "WATER PURIFIED ( EQ TO AQUEOUS PURIFIED OR PURIFIED WATER )",
-            "含量描述": "add to",
-            "含量": "1.0000000000",
-            "單位": "L (LITER)"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "4008000700",
             "成分名稱": "SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE)",
             "含量描述": "",
@@ -114,81 +105,13 @@
             "含量描述": "",
             "含量": "23.5300000000",
             "單位": "GM"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "4020000500",
-            "成分名稱": "DEXTROSE",
-            "含量描述": "",
-            "含量": "200.0000000000",
-            "單位": "MG\/DL (=MG\/100ML)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "4026000100",
-            "成分名稱": "ACETATE",
-            "含量描述": "",
-            "含量": "0.3000000000",
-            "單位": "MEQ\/L"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "4026000400",
-            "成分名稱": "CALCIUM",
-            "含量描述": "",
-            "含量": "2.5000000000",
-            "單位": "MEQ\/L"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "4026000500",
-            "成分名稱": "CHLORIDE",
-            "含量描述": "",
-            "含量": "105.5000000000",
-            "單位": "MEQ\/L"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "4026001100",
-            "成分名稱": "MAGNESIUM",
-            "含量描述": "",
-            "含量": "1.0000000000",
-            "單位": "MEQ\/L"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "4026001500",
-            "成分名稱": "POTASSIUM",
-            "含量描述": "",
-            "含量": "2.0000000000",
-            "單位": "MEQ\/L"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "4026001700",
-            "成分名稱": "SODIUM",
-            "含量描述": "",
-            "含量": "139.3000000000",
-            "單位": "MEQ\/L"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "4026002300",
-            "成分名稱": "BICARBONATE",
-            "含量描述": "add to",
-            "含量": "39.0000000000",
-            "單位": "MEQ\/L"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "4026003000",
-            "成分名稱": "CITRATE",
-            "含量描述": "",
-            "含量": "2.4000000000",
-            "單位": "MEQ\/L"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "衛署藥製字第050156號(ART-1003)water-104-11-13(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050156&Seq=003&Type=9"
+        },
         {
             "title": "雅特重碳酸鹽液B-1000___20120524.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050156&Seq=002&Type=9"

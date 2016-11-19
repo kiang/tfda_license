@@ -1,7 +1,7 @@
 {
     "code": "02018709",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02018709",
-    "time": "2015-08-23 11:34:59",
+    "time": "2016-11-18 19:32:29",
     "許可證字號": "衛署藥輸字第018709號",
     "註銷狀態": "已註銷",
     "註銷日期": "86\/03\/22",
@@ -17,20 +17,19 @@
     "適應症": "肩膀酸痛、腰痛、關節痛、筋肉痛、筋肉疲勞、跌打損傷。",
     "劑型": "320貼片劑",
     "包裝": "盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "07須經醫師指示使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "DIPHENHYDRAMINE, MONOGLYCOL SALICYLATE, CAMPHOR DL-, METHYL SALICYLATE, MENTHA OIL",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "DIPHENHYDRAMINE,MONOGLYCOLSALICYLATE,DL-CAMPHOR,METHYLSALICYLATE,MENTHAOIL"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1503301100  樂胤企業股份有限公司",
-    "申請商地址": "高雄巿三民區懷安街１２９號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F260344000  TEIKOKU PHARMACEUTICE CO. LTD.",
         "製造廠廠址": "567 SANBONMATSU OUCHIMACHI OKAWA-GUN KAGAWA-KEN",
         "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -54,7 +53,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "8408000103",
-            "成分名稱": "CAMPHOR DL-",
+            "成分名稱": "DL-CAMPHOR",
             "含量描述": "0.01",
             "含量": "0.0100000000",
             "單位": "GM"

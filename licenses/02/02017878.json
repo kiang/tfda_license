@@ -1,7 +1,7 @@
 {
     "code": "02017878",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02017878",
-    "time": "2015-08-23 09:59:13",
+    "time": "2016-11-18 19:23:52",
     "許可證字號": "衛署藥輸字第017878號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "搔癢、切傷、擦傷、凍傷、蟲咬、燙傷",
     "劑型": "360軟膏劑",
     "包裝": "罐裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "07須經醫師指示使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "CAMPHOR DL-, MENTHOL L-, METHYL SALICYLATE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "DL-CAMPHOR,L-MENTHOL,METHYLSALICYLATE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "620110O025  臺聯藥物有限公司",
-    "申請商地址": "台北市中山區南京西路一號6樓601室",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F260446000  KINKI IYAKUHIN SEIZO CO., LTD.",
         "製造廠廠址": "714 SHIMIZUDANI TAKATORI-CHO TAKAICHI-GUN NARA-KEN JAPAN",
         "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
@@ -38,7 +37,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "8408000103",
-            "成分名稱": "CAMPHOR DL-",
+            "成分名稱": "DL-CAMPHOR",
             "含量描述": "",
             "含量": "0.0500000000",
             "單位": "GM"
@@ -46,7 +45,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "8408000302",
-            "成分名稱": "MENTHOL L-",
+            "成分名稱": "L-MENTHOL",
             "含量描述": "",
             "含量": "0.0200000000",
             "單位": "GM"
@@ -62,12 +61,24 @@
     ],
     "仿單外盒": [
         {
+            "title": "中文仿單--NINSU MENTAM(修)-105-01-04(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017878&Seq=003&Type=9"
+        },
+        {
             "title": "NINSU MENTAM-2013-102-06-10.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017878&Seq=002&Type=9"
         },
         {
             "title": "020178780001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017878&Seq=001&Type=9"
+        },
+        {
+            "title": "ニンス　メンタム　75gケース（輸出用） -104-12-22(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017878&Seq=002&Type=8"
+        },
+        {
+            "title": "ninsu_mentamu_12g-104-12-22(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017878&Seq=001&Type=8"
         }
     ]
 }

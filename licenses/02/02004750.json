@@ -1,7 +1,7 @@
 {
     "code": "02004750",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02004750",
-    "time": "2015-08-23 05:15:13",
+    "time": "2016-11-18 16:59:55",
     "許可證字號": "衛署藥輸字第004750號",
     "註銷狀態": "已註銷",
     "註銷日期": "77\/09\/05",
@@ -17,20 +17,19 @@
     "適應症": "肝炎、肝實質病變",
     "劑型": "270注射劑",
     "包裝": "瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "ARGININE HCL, METHIONINE, GLYCINE (EQ TO AMINOACETIC ACID)(EQ TO GLYCOCOLL), ACETATE ION, CHLORIDE ION, PHOSPHATE ION, POTASSIUM ION, SODIUM ION, SULFONATE ION, CHOLINE CHLORIDE, THIOCTIC ACID L-, CITIOLONE, NIACINAMIDE (NICOTINAMIDE), THIAMINE HYDROCHLORIDE, RIBOFLAVIN PHOSPHATE SODIUM, PYRIDOXINE HCL, OROTIC ACID (VIT B13), MALIC ACID L-, MALATE L-ION, SORBITOL",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "ARGININEHCL,METHIONINE,GLYCINE(EQTOAMINOACETICACID)(EQTOGLYCOCOLL),ACETATEION,CHLORIDEION,PHOSPHATEION,POTASSIUMION,SODIUMION,SULFONATEION,CHOLINECHLORIDE,L-THIOCTICACID,CITIOLONE,NIACINAMIDE(NICOTINAMIDE),THIAMINEHYDROCHLORIDE,RIBOFLAVINPHOSPHATESODIUM,PYRIDOXINEHCL,OROTICACID(VITB13),MALICACIDL-,MALATEL-ION,SORBITOL"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "0910501100  俊昇有限公司",
-    "申請商地址": "台北巿羅斯福路二段４１號１０Ｆ之４",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F470115000  KABI PHARMACIA GMBH",
         "製造廠廠址": "DR. -WANDINGER-STR.1, D-94447 PLATTLING GERMANY.HOFMANNSTR. 26, D-91052 ERLANGEN GERMANY",
         "製造廠公司地址": "HOFMANNSTR. 26, D-91052 ERLANGEN GERMANY",
-        "製造廠國別": "GERMANY",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -118,7 +117,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "5656900702",
-            "成分名稱": "THIOCTIC ACID L-",
+            "成分名稱": "L-THIOCTIC ACID",
             "含量描述": "0.01",
             "含量": "0.0100000000",
             "單位": "MG"

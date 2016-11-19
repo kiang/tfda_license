@@ -1,7 +1,7 @@
 {
     "code": "01042282",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01042282",
-    "time": "2016-01-29 04:21:29",
+    "time": "2016-11-18 14:29:04",
     "許可證字號": "衛署藥製字第042282號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,24 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00104228207",
-    "中文品名": "孢妥靜脈乾粉注射劑（西他利汀）〝生達〞",
-    "英文品名": "CETAZINE POWDER FOR IV INJECTION (CEFTAZIDIME) \"STANDARD\"",
-    "適應症": "ＣＥＦＴＡＺＩＤＩＭＥ是殺菌性頭孢子菌抗生素、對多種乙內醯胺　有抵抗力、並對廣範圍的革蘭氏陽性及陰性的細菌有效。",
+    "中文品名": "&quot;生達&quot;孢妥靜脈乾粉注射劑（西他利汀）",
+    "英文品名": "CETAZINE POWDER FOR IV INJECTION &quot;STANDARD&quot;(CEFTAZIDIME)",
+    "適應症": "ＣＥＦＴＡＺＩＤＩＭＥ是殺菌性頭孢子菌抗生素，對多種乙內醯胺有抵抗力，並對廣範圍的革蘭氏陽性及陰性的細菌有效。",
     "劑型": "240乾粉注射劑",
-    "包裝": "盒裝 小瓶",
+    "包裝": "100支以下盒裝 500公絲.1公克.2公克小瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "CEFTAZIDIME",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "CEFTAZIDIME"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0510620200  生達化學製藥股份有限公司",
-    "申請商地址": "台南市新營區土庫里土庫6之20號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0510620300  生達化學製藥股份有限公司",
         "製造廠廠址": "台南市新營區土庫里土庫6之20號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30042000319 人用醫藥製劑，含頭孢子菌類抗生素者Medicaments, containing cephalosporins, for human use",
     "藥理治療分類": "",
@@ -39,15 +38,59 @@
             "成分類別": "主成分",
             "成分代碼": "0812302300",
             "成分名稱": "CEFTAZIDIME",
-            "含量描述": "500",
+            "含量描述": "(AS PENTAHYDRATE)(POTENCY)",
             "含量": "500.0000000000",
             "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812302300",
+            "成分名稱": "CEFTAZIDIME",
+            "含量描述": "(AS PENTAHYDRATE)(POTENCY)",
+            "含量": "1.0000000000",
+            "單位": "GM"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812302300",
+            "成分名稱": "CEFTAZIDIME",
+            "含量描述": "(AS PENTAHYDRATE)(POTENCY)",
+            "含量": "2.0000000000",
+            "單位": "GM"
         }
     ],
     "仿單外盒": [
         {
+            "title": "2213770_S0212-Cetazine 孢妥 LT-104-11-27(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042282&Seq=002&Type=9"
+        },
+        {
             "title": "010422820001-103-03-05.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042282&Seq=001&Type=9"
+        },
+        {
+            "title": "Cetazine Powder 2gx10v LB-104-11-27(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042282&Seq=006&Type=8"
+        },
+        {
+            "title": "Cetazine Powder 2g 1v Box-104-11-27(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042282&Seq=005&Type=8"
+        },
+        {
+            "title": "Cetazine Powder 1gx10v LB-104-11-27(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042282&Seq=004&Type=8"
+        },
+        {
+            "title": "Cetazine Powder 1g 1v box-104-11-27(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042282&Seq=003&Type=8"
+        },
+        {
+            "title": "Cetazine Powder 0.5x10V LB-104-11-27(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042282&Seq=002&Type=8"
+        },
+        {
+            "title": "Cetazine Powder 0.5g 1v box-104-11-27(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042282&Seq=001&Type=8"
         }
     ]
 }

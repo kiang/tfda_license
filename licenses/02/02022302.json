@@ -1,7 +1,7 @@
 {
     "code": "02022302",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022302",
-    "time": "2015-08-23 11:41:29",
+    "time": "2016-11-18 20:10:35",
     "許可證字號": "衛署藥輸字第022302號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,45 +12,26 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00202230205",
-    "中文品名": "必倍西林鈉（無菌）〝銳明〞",
+    "中文品名": "〝銳明〞必倍西林鈉（無菌）",
     "英文品名": "PIPERACILLIN SODIUM STERILE",
     "適應症": "抗生素。",
     "劑型": "040（粉）",
     "包裝": "０．５公斤以上",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "01製劑原料",
-    "管制藥品分類級別": "",
-    "主成分略述": "PIPERACILLIN SODIUM",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        ""
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "0801701100  東信化學藥品有限公司",
-    "申請商地址": "台北市吉林路４５號６樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F250297000  FRESENIUS KABI ANTI-INFECTIVES S.R.L.",
         "製造廠廠址": "TACCONA DI MUGGIO (MB), VIA A. BOITO 13, ITALY",
         "製造廠公司地址": "PIAZZA MAESTRI DEL LAVORO, 7-20063 CERNUSCO SUL NAVIGLIO (MILANO), ITALY",
-        "製造廠國別": "ITALY",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "29411090105 人用青黴素及具有青黴素酸結構之衍生物；其鹽類Penicillins and their derivatives with a penicillanic acid structure; other salts thereof, for human use",
     "藥理治療分類": "",
-    "次製造廠": [
-        {
-            "製造廠名稱": "F250443000  FRESENIUS KABI ANTI-INFECTIVES S.R.L",
-            "製造廠廠址": "PIAZZA MAESTRI DEL LAVORO, 7-20063 CERNUSCO SUL NAVIGLIO (MILANO), ITALY",
-            "製造廠公司地址": "",
-            "製造廠國別": "ITALY",
-            "製程": ""
-        }
-    ],
-    "ingredients": [
-        {
-            "成分類別": "主成分",
-            "成分代碼": "0812601910",
-            "成分名稱": "PIPERACILLIN SODIUM",
-            "含量描述": "863-1007",
-            "含量": "",
-            "單位": "MCG"
-        }
-    ]
+    "ingredients": []
 }

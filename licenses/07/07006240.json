@@ -1,7 +1,7 @@
 {
     "code": "07006240",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07006240",
-    "time": "2015-08-22 00:07:15",
+    "time": "2016-11-19 02:50:40",
     "許可證字號": "衛署粧製字第006240號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "用途": "染髮。",
     "劑型": "944乳劑",
     "包裝": "500 毫升以下瓶裝附外盒 500 毫升以下袋裝",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "HYDROGEN PEROXIDE, m-Aminophenol, 4-AMINO-2-HYDROXYTOLUENE, TOLUENE-2,5-DIAMINE SULFATE, 4,5-diamino-1-(2-hydroxyethyl) Pyrazole Sulfate",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "HYDROGENPEROXIDE,m-Aminophenol,4-AMINO-2-HYDROXYTOLUENE,TOLUENE-2,5-DIAMINESULFATE,4,5-diamino-1-(2-hydroxyethyl)PyrazoleSulfate"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "6236182117  沛美生醫科技股份有限公司",
-    "申請商地址": "台中市霧峰區吉峰村吉峰路112號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "5836181022  沛美生醫科技股份有限公司霧峰廠",
         "製造廠廠址": "台中市霧峰區吉峰里吉峰路112號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -74,6 +73,12 @@
             "含量描述": "",
             "含量": "6.0000000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "07006240-105-08-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006240&Seq=001&Type=8"
         }
     ]
 }

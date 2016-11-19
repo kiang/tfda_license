@@ -1,7 +1,7 @@
 {
     "code": "01R00017",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01R00017",
-    "time": "2015-09-25 04:29:15",
+    "time": "2016-11-18 16:03:16",
     "許可證字號": "衛署藥製字第R00017號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "腎功能造影診斷。",
     "劑型": "243凍晶注射劑",
     "包裝": "盒裝 小瓶",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "BETIATIDE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "BETIATIDE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0613004200  行政院原子能委員會核能研究所",
-    "申請商地址": "桃園市龍潭區三號信箱",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0613004300  行政院原子能委員會核能研究所",
         "製造廠廠址": "桃園市龍潭區佳安村文化路１０００號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30063000002 Ｘ光檢驗用不透光製劑；專供病人用之診斷用試藥Opacifying preparations for X-ray examinations; diagnostic reagents designed to be administered to the patient",
     "藥理治療分類": "",
@@ -42,6 +41,24 @@
             "含量描述": "1",
             "含量": "1.0000000000",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "5.MAG-3仿單-104-10-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01R00017&Seq=001&Type=9"
+        },
+        {
+            "title": "5.MAG3盒標-104-10-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01R00017&Seq=003&Type=8"
+        },
+        {
+            "title": "5.MAG-3瓶標-104-10-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01R00017&Seq=002&Type=8"
+        },
+        {
+            "title": "5.MAG-3外盒-104-10-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01R00017&Seq=001&Type=8"
         }
     ]
 }

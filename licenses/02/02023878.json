@@ -1,7 +1,7 @@
 {
     "code": "02023878",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023878",
-    "time": "2015-08-24 01:37:57",
+    "time": "2016-11-18 20:25:57",
     "許可證字號": "衛署藥輸字第023878號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,21 +17,19 @@
     "適應症": "手術前後之營養補給、低蛋白血症、消化道潰瘍、營養障礙之補給。",
     "劑型": "270注射劑",
     "包裝": "500公撮、1000公撮軟袋",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "Sodium L-Lactate Solution, SODIUM CHLORIDE, GLUCOSE, L-ALANINE, L-ARGININE, L-ASPARTIC ACID, L-CYSTEINE, GLUTAMIC ACID L-, L-HISTIDINE, L-ISOLEUCINE, L-LEUCINE, LYSINE L- HCL ( EQ TO L-LYSINE HCL), L-METHIONINE, L-PHENYLALANINE, L-PROLINE, L-SERINE, L-THREONINE, L-TRYPTOPHAN, L-TYROSINE, L-VALINE, GLYCINE (EQ TO AMINOACETIC ACID)(EQ TO GLYCOCOLL), Magnesium sulfate hydrate, POTASSIUM PHOSPHATE (POSTASSIUM PHOSPHATE DIBASIC), CALCIUM GLUCONATE MONOHYDRATE, CITRIC ACID HYDRATE, Zinc sulfate hydrate",
-    "限制項目": [
-        "02輸入",
-        "54依本署89、12、12衛署藥字第0890035812號公告事項九得免除國內進行臨床試驗之特殊醫療需要之新藥"
+    "主成分略述": [
+        "SodiumL-LactateSolution,SODIUMCHLORIDE,GLUCOSE,L-ALANINE,L-ARGININE,L-ASPARTICACID,L-CYSTEINE,L-GLUTAMICACID,L-HISTIDINE,L-ISOLEUCINE,L-LEUCINE,LYSINEL-HCL(EQTOL-LYSINEHCL),L-METHIONINE,L-PHENYLALANINE,L-PROLINE,L-SERINE,L-THREONINE,L-TRYPTOPHAN,L-TYROSINE,L-VALINE,GLYCINE(EQTOAMINOACETICACID)(EQTOGLYCOCOLL),Magnesiumsulfatehydrate,POTASSIUMPHOSPHATE(eqtoPOTASSIUMPHOSPHATEDIBASIC),CalciumGluconateHydrate,Zincsulfatehydrate"
     ],
+    "限制項目": "02輸　入 54依本署89、12、12衛署藥字第0890035812號公告事項九得免除國內進行臨床試驗之特殊醫療需要之新藥",
     "申請商名稱": "1403301100  台灣大塚製藥股份有限公司",
-    "申請商地址": "台北市中山區復興北路378號11樓",
     "主製造廠": {
-        "製造廠名稱": "F260246200  OTSUKA PHARMACEUTICAL FACTORY INC.",
+        "主製造廠": "",
+        "製造廠名稱": "F260246200  OTSUKA PHARMACEUTICAL FACTORY INC. Matsuinge Factory",
         "製造廠廠址": "139-1,TOYOHISA KAITAKU, TOYOHISA, MATSUSHIGE-CHO, ITANO-GUN, TOKUSHIMA, JAPAN",
         "製造廠公司地址": "115 KUGUHARA, TATEIWA, MUYA-CHO, NARUTO, TOKUSHIMA, JAPAN",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -70,8 +68,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "4020100702",
-            "成分名稱": "GLUTAMIC ACID L-",
+            "成分代碼": "4020100703",
+            "成分名稱": "L- GLUTAMIC ACID",
             "含量描述": "",
             "含量": "1.0000000000",
             "單位": "MG"
@@ -183,7 +181,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "5612001900",
-            "成分名稱": "POTASSIUM PHOSPHATE (POSTASSIUM PHOSPHATE DIBASIC)",
+            "成分名稱": "POTASSIUM PHOSPHATE ( eq to POTASSIUM PHOSPHATE DIBASIC)",
             "含量描述": "",
             "含量": "3.0530000000",
             "單位": "MG"
@@ -223,26 +221,18 @@
         {
             "成分類別": "主成分",
             "成分代碼": "5612001900",
-            "成分名稱": "POTASSIUM PHOSPHATE (POSTASSIUM PHOSPHATE DIBASIC)",
+            "成分名稱": "POTASSIUM PHOSPHATE ( eq to POTASSIUM PHOSPHATE DIBASIC)",
             "含量描述": "",
             "含量": "1.1800000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "6824000150",
-            "成分名稱": "CALCIUM GLUCONATE MONOHYDRATE",
+            "成分代碼": "6824000130",
+            "成分名稱": "Calcium Gluconate Hydrate",
             "含量描述": "",
             "含量": "1.6000000000",
             "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200001762",
-            "成分名稱": "CITRIC ACID HYDRATE",
-            "含量描述": "",
-            "含量": "",
-            "單位": "Q.S."
         },
         {
             "成分類別": "主成分",
@@ -265,6 +255,10 @@
         {
             "title": "氨基富液標籤圖檔___20121026.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023878&Seq=001&Type=9"
+        },
+        {
+            "title": "AMF-1000ml-104-12-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023878&Seq=001&Type=8"
         }
     ]
 }

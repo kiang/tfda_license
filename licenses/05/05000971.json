@@ -1,7 +1,7 @@
 {
     "code": "05000971",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05000971",
-    "time": "2015-08-22 06:11:12",
+    "time": "2016-11-18 21:04:58",
     "許可證字號": "衛署醫器製字第000971號",
     "註銷狀態": "已註銷",
     "註銷日期": "97\/01\/09",
@@ -12,30 +12,30 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00500097102",
-    "中文品名": "\"南光\" 臟器保存液",
+    "中文品名": "&quot;南光&quot; 臟器保存液",
     "英文品名": "Kyoto Solution",
     "效能": "作為細胞外的臟器移植、指肢切斷、生體組織移植的洗淨、保存。",
     "醫器規格": "500公撮膠塞型塑膠瓶裝、開栓型塑膠瓶裝，100支以下盒裝",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "H胃腸病學-泌尿學科用裝置",
     "醫器次類別一": "",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "POTASSIUM PHOSPHATE (POSTASSIUM PHOSPHATE DIBASIC), POTASSIUM PHOSPHATE MONOBASIC(EQ TO POTASSIUM BIPHOSPHATE)(EQ TO POTASSIUM DIHYDROGEN PHOSPHATE), SODIUM GLUCONATE, STARCH HYDROXYETHLATED, WATER FOR INJECTION, TREHALOSE DIHYDRATE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "POTASSIUMPHOSPHATE(eqtoPOTASSIUMPHOSPHATEDIBASIC),POTASSIUMPHOSPHATEMONOBASIC(EQTOPOTASSIUMBIPHOSPHATE)(EQTOPOTASSIUMDIHYDROGENPHOSPHATE),SODIUMGLUCONATE,STARCHHYDROXYETHLATED,WATERFORINJECTION,TREHALOSEDIHYDRATE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0903620200  南光化學製藥股份有限公司",
-    "申請商地址": "台南縣新化鎮全興里中山路１００１號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0903620300  南光化學製藥股份有限公司新化廠",
         "製造廠廠址": "台南縣新化鎮全興里中山路１００１號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -43,7 +43,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "5612001900",
-            "成分名稱": "POTASSIUM PHOSPHATE (POSTASSIUM PHOSPHATE DIBASIC)",
+            "成分名稱": "POTASSIUM PHOSPHATE ( eq to POTASSIUM PHOSPHATE DIBASIC)",
             "含量描述": "",
             "含量": "3.2220000000",
             "單位": "MG"

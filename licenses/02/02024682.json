@@ -1,7 +1,7 @@
 {
     "code": "02024682",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024682",
-    "time": "2015-08-23 11:58:47",
+    "time": "2016-11-18 20:34:52",
     "許可證字號": "衛署藥輸字第024682號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "暫時緩解局部疼痛。",
     "劑型": "325藥膠布",
     "包裝": "6.5cmx4.2cm\/片塑膠袋紙盒裝 9.8cmx8.1cm\/片塑膠袋紙盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
-    "管制藥品分類級別": "",
-    "主成分略述": "CAMPHOR DL-, MENTHOL L-, METHYL SALICYLATE, TOCOPHEROL ACETATE, GLYCYRRHETIC ACID (EQ TO GLYCYRRHETINIC ACID)",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "DL-CAMPHOR,L-MENTHOL,METHYLSALICYLATE,TOCOPHEROLACETATE,GLYCYRRHETICACID(EQTOGLYCYRRHETINICACID)"
     ],
+    "限制項目": "02輸　入 1Q不得輸入",
     "申請商名稱": "0302001100  大法貿易有限公司",
-    "申請商地址": "台北市大安區忠孝東路四段107號8樓之1",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F260314000  TOKUHON CORPORATION",
         "製造廠廠址": "1010, AZA YAMAZAKI, MIYASHIRO-MACHI, MINAMISAITAMA-GUN, SAITAMA 345-0824 JAPAN",
         "製造廠公司地址": "3-26-3, Takada, Toshima-KU, Tokyo 171-0033 Japan",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -38,7 +37,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "8408000103",
-            "成分名稱": "CAMPHOR DL-",
+            "成分名稱": "DL-CAMPHOR",
             "含量描述": "",
             "含量": "5.6000000000",
             "單位": "MG"
@@ -46,7 +45,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "8408000302",
-            "成分名稱": "MENTHOL L-",
+            "成分名稱": "L-MENTHOL",
             "含量描述": "",
             "含量": "32.9000000000",
             "單位": "MG"

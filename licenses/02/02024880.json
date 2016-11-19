@@ -1,7 +1,7 @@
 {
     "code": "02024880",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024880",
-    "time": "2015-08-23 12:04:53",
+    "time": "2016-11-18 20:36:44",
     "許可證字號": "衛署藥輸字第024880號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "鈣質補給。",
     "劑型": "110錠劑",
     "包裝": "8~1000錠塑膠瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
-    "管制藥品分類級別": "",
-    "主成分略述": "CALCIUM CARBONATE PRECIPITATE (EQ TO PRECIPITATED CALCIUM CARBONATE)",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "CALCIUMCARBONATEPRECIPITATE(EQTOPRECIPITATEDCALCIUMCARBONATE)"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1508901100  德佑藥品有限公司",
-    "申請商地址": "台北市松山區敦化南路一段3號2樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F260539000  ZENKOKU YAKUHIN KOGYO CO., LTD.",
         "製造廠廠址": "1-2 2-CHOME IMAI-CHO KASHIHARA-CITY NARA-PREF 634-0812 JAPAN.",
         "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -42,6 +41,12 @@
             "含量描述": "",
             "含量": "312.5000000000",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "德佑_日方優力鈣錠_1050415-105-04-27(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024880&Seq=001&Type=9"
         }
     ]
 }

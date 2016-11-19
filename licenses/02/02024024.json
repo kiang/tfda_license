@@ -1,7 +1,7 @@
 {
     "code": "02024024",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024024",
-    "time": "2015-09-25 04:31:48",
+    "time": "2016-11-18 20:27:24",
     "許可證字號": "衛署藥輸字第024024號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,24 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00202402400",
-    "中文品名": "護胃藥錠",
+    "中文品名": "護胃樂錠",
     "英文品名": "GUROMAK TABLET",
     "適應症": "緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多，食慾不振、胃腹部膨脹感、消化不良。",
     "劑型": "110錠劑",
     "包裝": "24-1000錠鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥",
-    "管制藥品分類級別": "",
-    "主成分略述": "SCOPOLIA EXTRACT POWDER, POWDERED OYSTER SHELL, BIODIASTASE 2000, SYNTHETIC HYDROTALCITE, CINNAMON BARK POWDER ( EQ TO POWDERED CINNAMON BARK ), FENNEL POWDER (FOENICULI POWDER), LIPASE AP6, POWDERED CORYDALIS TUBER, POWDERED AMOMUM SEED, POWDERED ALPINIA OFFICINARUM RHIZOME",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "SCOPOLIAEXTRACTPOWDER,POWDEREDOYSTERSHELL,BIODIASTASE2000,SYNTHETICHYDROTALCITE,CINNAMONBARKPOWDER(EQTOPOWDEREDCINNAMONBARK),FENNELPOWDER(FOENICULIPOWDER),LIPASEAP6,GLYCYRRHIZAPOWDER,POWDEREDCORYDALISTUBER,POWDEREDAMOMUMSEED,POWDEREDALPINIAOFFICINARUMRHIZOME"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1703501100  優德貿易有限公司",
-    "申請商地址": "台北市松山區八德路三段12巷51弄24號1樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F260137100  UNITECH MEDICAL CO., LTD.",
         "製造廠廠址": "323-1 KURUMAKI TAKATORI-CHO, TAKAICHI-GUN NARA JAPAN",
         "製造廠公司地址": "9-23 Higasikouzu-cho Tennoji-ku Osaka-city Osaka Japan",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30044099004 其他醫藥製劑，含有生物鹼或其衍生物，但未含內分泌素，第２９３７節之其他產品或抗生素者Other medicaments, containing alkaloids or derivatives thereof but not containing hormones, other products of heading 29.37 or antibiotics",
     "藥理治療分類": "",
@@ -89,6 +88,14 @@
             "成分名稱": "LIPASE AP6",
             "含量描述": "",
             "含量": "3.3300000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200004402",
+            "成分名稱": "GLYCYRRHIZA POWDER",
+            "含量描述": "",
+            "含量": "16.6700000000",
             "單位": "MG"
         },
         {

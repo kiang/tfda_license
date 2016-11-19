@@ -1,7 +1,7 @@
 {
     "code": "02012059",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02012059",
-    "time": "2015-08-23 07:41:33",
+    "time": "2016-11-18 18:20:16",
     "許可證字號": "衛署藥輸字第012059號",
     "註銷狀態": "已註銷",
     "註銷日期": "89\/10\/16",
@@ -17,20 +17,19 @@
     "適應症": "下痢、嘔吐、體液欠乏、手術前後保持水份",
     "劑型": "270注射劑",
     "包裝": "瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "SODIUM LACTATE SOLUTION, POTASSIUM CHLORIDE, SODIUM CHLORIDE, GLUCOSE, POTASSIUM PHOSPHATE (POSTASSIUM PHOSPHATE DIBASIC), POTASSIUM PHOSPHATE MONOBASIC(EQ TO POTASSIUM BIPHOSPHATE)(EQ TO POTASSIUM DIHYDROGEN PHOSPHATE)",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "SODIUMLACTATESOLUTION,POTASSIUMCHLORIDE,SODIUMCHLORIDE,GLUCOSE,POTASSIUMPHOSPHATE(eqtoPOTASSIUMPHOSPHATEDIBASIC),POTASSIUMPHOSPHATEMONOBASIC(EQTOPOTASSIUMBIPHOSPHATE)(EQTOPOTASSIUMDIHYDROGENPHOSPHATE)"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "0402601100  中國化學製藥股份有限公司",
-    "申請商地址": "台北巿襄陽路２３號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F260200000  ROUSSEL MORISHITA CO,LTD.",
         "製造廠廠址": "1658, OSHINOHARA,YASU-CHO,YASU-GUN,SHIGA,JAPAN.",
         "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -70,7 +69,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "5612001900",
-            "成分名稱": "POTASSIUM PHOSPHATE (POSTASSIUM PHOSPHATE DIBASIC)",
+            "成分名稱": "POTASSIUM PHOSPHATE ( eq to POTASSIUM PHOSPHATE DIBASIC)",
             "含量描述": "0.58",
             "含量": "0.5800000000",
             "單位": "GM"

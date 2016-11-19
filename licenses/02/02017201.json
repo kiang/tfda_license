@@ -1,7 +1,7 @@
 {
     "code": "02017201",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02017201",
-    "time": "2015-08-23 09:48:31",
+    "time": "2016-11-18 19:16:43",
     "許可證字號": "衛署藥輸字第017201號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "局部麻醉",
     "劑型": "270注射劑",
     "包裝": "20毫升小瓶 4毫升安瓿 100支以下盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "BUPIVACAINE HCL (MONOHYDRATE)",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "BUPIVACAINEHCL(MONOHYDRATE)"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1434901100  臺灣阿斯特捷利康股份有限公司",
-    "申請商地址": "台北市大安區敦化南路二段207號21樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F150192500  RECIPHARM MONTS",
         "製造廠廠址": "18 RUE DE MONTBAZON, F-37260 MONTS, FRANCE",
         "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049010009 麻醉劑Anesthetics",
     "藥理治療分類": "",
@@ -48,12 +47,16 @@
             "成分類別": "主成分",
             "成分代碼": "7200008216",
             "成分名稱": "BUPIVACAINE HCL (MONOHYDRATE)",
-            "含量描述": "(5.28MG) 5.00",
-            "含量": "",
+            "含量描述": "(5.28MG)",
+            "含量": "5.0000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "017201 - Marcaine Injection 0.5% 核准仿單 - 中文仿單 - 2014.09-104-08-31(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017201&Seq=016&Type=9"
+        },
         {
             "title": "017201 - Marcaine Injection 0.5% 仿單變更補件 - 英文仿單-103-09-19.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017201&Seq=015&Type=9"
@@ -113,6 +116,10 @@
         {
             "title": "020172010001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017201&Seq=001&Type=9"
+        },
+        {
+            "title": "Marcaine injection 0.5% - 017201 - Carton-104-09-25(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017201&Seq=001&Type=8"
         }
     ]
 }

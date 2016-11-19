@@ -1,7 +1,7 @@
 {
     "code": "03007301",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=03007301",
-    "time": "2016-05-27 05:19:13",
+    "time": "2016-11-18 20:51:15",
     "許可證字號": "衛署成製字第007301號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,24 +13,23 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00300730102",
     "中文品名": "止癢藥膏（外用）",
-    "英文品名": "THIAM OINTMENT \"HS\"",
+    "英文品名": "THIAM OINTMENT &quot;HS&quot;",
     "適應症": "急、慢性濕疹、昆蟲刺傷、皮膚搔癢症、蕁麻疹、夏期癢疹",
     "劑型": "360軟膏劑",
     "包裝": "管裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "03成藥",
-    "管制藥品分類級別": "",
-    "主成分略述": "DIPHENHYDRAMINE SALICYLATE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "DIPHENHYDRAMINESALICYLATE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1223216200  黃氏製藥股份有限公司",
-    "申請商地址": "雲林縣斗南鎮小東里大同路４４４巷１１號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1223216300  黃氏製藥股份有限公司",
         "製造廠廠址": "雲林縣斗南鎮小東里大同路４４４巷１１號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049099101 抗過敏抗組織胺用藥Drugs for antihypersensitivity and antihistamine",
     "藥理治療分類": "",
@@ -50,6 +49,10 @@
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03007301&Seq=002&Type=9"
         },
         {
+            "title": "151130止癢說明書-104-12-03(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03007301&Seq=003&Type=9"
+        },
+        {
             "title": "030073010001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03007301&Seq=001&Type=9"
         },
@@ -64,6 +67,10 @@
         {
             "title": "止癢內盒-105-02-23.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03007301&Seq=001&Type=8"
+        },
+        {
+            "title": "151130止癢內盒-104-12-03(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03007301&Seq=004&Type=8"
         }
     ]
 }

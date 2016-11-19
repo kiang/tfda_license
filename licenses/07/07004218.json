@@ -1,6 +1,7 @@
 {
     "code": "07004218",
-    "time": "2015-06-23 00:46:35",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07004218",
+    "time": "2016-11-19 02:30:22",
     "許可證字號": "衛署粧製字第004218號",
     "註銷狀態": "已註銷",
     "註銷日期": "101\/10\/25",
@@ -16,20 +17,19 @@
     "用途": "清爽不油膩、阻擋紫外線，防止曬傷曬黑，並具潤色效果。",
     "劑型": "992霜劑",
     "包裝": "500GM以下管裝 附外盒裝",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0710其他面霜乳液",
-    "": "",
-    "主成分略述": "OXYBENZONE, OCTYL METHOXYCINNAMATE (PARSOL KCX), TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "OXYBENZONE,OCTYLMETHOXYCINNAMATE(PARSOLKCX),TITANIUMDIOXIDE(EQTOTITANIUMOXIDE)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "6603787101  臺灣菸酒股份有限公司",
-    "申請商地址": "台北市中正區南昌路1段4號1樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "5821061102  科毅研究開發股份有限公司台灣南科廠",
         "製造廠廠址": "台南市安南區顯宮里科技三路６號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -61,12 +61,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 070042180001.jpg",
+            "title": "070042180001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004218&Seq=001&Type=9"
         },
         {
-            "title": "外盒 070042180003.jpg 070042180002.jpg 070042180001.jpg",
+            "title": "070042180003.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004218&Seq=003&Type=8"
+        },
+        {
+            "title": "070042180002.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004218&Seq=002&Type=8"
+        },
+        {
+            "title": "070042180001.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004218&Seq=001&Type=8"
         }
     ]
 }

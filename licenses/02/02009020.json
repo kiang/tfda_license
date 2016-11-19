@@ -1,7 +1,7 @@
 {
     "code": "02009020",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02009020",
-    "time": "2015-08-23 06:52:36",
+    "time": "2016-11-18 17:46:56",
     "許可證字號": "衛署藥輸字第009020號",
     "註銷狀態": "已註銷",
     "註銷日期": "82\/04\/15",
@@ -17,20 +17,19 @@
     "適應症": "缺鐵性貧血",
     "劑型": "174滴劑",
     "包裝": "瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "FERRIC AMMONIUM CITRATE, FERRIC IODATE, VALERIANA OFFICINALIS, DEXTROSE MONOHYDRATE, CALCIUM CARBONATE, POTASSIUM PHOSPHATE (POSTASSIUM PHOSPHATE DIBASIC), SULFUR, THIAMINE HYDROCHLORIDE, COPPER ACETATE, PULSATILLE, SILIOUS EARTH",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "FERRICAMMONIUMCITRATE,FERRICIODATE,VALERIANAOFFICINALIS,DEXTROSEMONOHYDRATE,CALCIUMCARBONATE,POTASSIUMPHOSPHATE(eqtoPOTASSIUMPHOSPHATEDIBASIC),SULFUR,THIAMINEHYDROCHLORIDE,COPPERACETATE,PULSATILLE,SILIOUSEARTH"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1307401100  達星貿易股份有限公司",
-    "申請商地址": "台北巿仁愛路二段３４號６Ｆ之１",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F470118000  JULIUS REDEL CESRA-ARZNEIMITTEL FABRIK GMBH &amp; CO.",
         "製造廠廠址": "7570 BADEN-BADEN P.O. BOX 740",
         "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -78,7 +77,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "5612001900",
-            "成分名稱": "POTASSIUM PHOSPHATE (POSTASSIUM PHOSPHATE DIBASIC)",
+            "成分名稱": "POTASSIUM PHOSPHATE ( eq to POTASSIUM PHOSPHATE DIBASIC)",
             "含量描述": "D11 (1**-9%W\/V)5",
             "含量": "",
             "單位": "MG"

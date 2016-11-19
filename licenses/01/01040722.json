@@ -1,7 +1,7 @@
 {
     "code": "01040722",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01040722",
-    "time": "2015-08-23 01:15:21",
+    "time": "2016-11-18 14:13:09",
     "許可證字號": "衛署藥製字第040722號",
     "註銷狀態": "已註銷",
     "註銷日期": "87\/08\/11",
@@ -13,24 +13,23 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00104072202",
     "中文品名": "海鷗伴胃安錠",
-    "英文品名": "SEA GULL SIMADRINE TABLETS \"CENTER\"",
+    "英文品名": "SEA GULL SIMADRINE TABLETS &quot;CENTER&quot;",
     "適應症": "胃渭瘍、十二指腸瘍、急慢胃腸加答兒、胃酸過多症、胃痛、胃痙攣",
     "劑型": "110錠劑",
     "包裝": "瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "07須經醫師指示使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "SCOPOLIA EXTRACT, SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE), MAGNESIUM ALUMINUM METASILICATE (NEUSILIN), MENTHOL L-, VITAMIN U (METHYLMETHIONINE SULFONIUM CHLORIDE), GLYCYRRHIZA EXTRACT",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "SCOPOLIAEXTRACT,SODIUMBICARBONATE(EQTOSODIUMHYDROGENCARBONATE),MAGNESIUMALUMINUMMETASILICATE(NEUSILIN),L-MENTHOL,VITAMINU(METHYLMETHIONINESULFONIUMCHLORIDE),GLYCYRRHIZAEXTRACT"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1013806200  晟德大藥廠股份有限公司",
-    "申請商地址": "新竹縣湖口鄉鳳凰村實踐路２號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1013806300  晟德大藥廠股份有限公司新竹廠",
         "製造廠廠址": "新竹縣湖口鄉鳳凰村實踐路２號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -62,7 +61,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "8408000302",
-            "成分名稱": "MENTHOL L-",
+            "成分名稱": "L-MENTHOL",
             "含量描述": "4",
             "含量": "4.0000000000",
             "單位": "MG"

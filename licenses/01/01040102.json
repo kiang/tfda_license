@@ -1,7 +1,7 @@
 {
     "code": "01040102",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01040102",
-    "time": "2016-06-24 04:40:12",
+    "time": "2016-11-18 14:06:14",
     "許可證字號": "衛署藥製字第040102號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,26 +12,24 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00104010208",
-    "中文品名": "\"生達\"舒維速保膠囊２５０毫克（賜福力欣）",
-    "英文品名": "SERVISPOR CAPSULES 250MG \"STANDARD\"(CEPHALEXIN)",
+    "中文品名": "&quot;生達&quot;舒維速保膠囊２５０毫克（賜福力欣）",
+    "英文品名": "SERVISPOR CAPSULES 250MG &quot;STANDARD&quot;(CEPHALEXIN)",
     "適應症": "葡萄球菌，鏈球菌，肺炎雙球菌，腦膜炎球菌及其他具有感受性細菌引起之感染症。",
     "劑型": "130膠囊劑",
     "包裝": "8-1000粒塑膠瓶裝 8-1000粒鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "CEPHALEXIN",
-    "限制項目": [
-        "01國產",
-        "1G依藥品審查準則第64條不得製造"
+    "主成分略述": [
+        "CEPHALEXIN"
     ],
+    "限制項目": "01國　產 1G依藥品審查準則第64條 不得製造",
     "申請商名稱": "0510620200  生達化學製藥股份有限公司",
-    "申請商地址": "台南市新營區土庫里土庫6之20號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "6132121125  信東生技股份有限公司觀音廠",
         "製造廠廠址": "桃園市觀音區樹林村國建一路1號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30042000319 人用醫藥製劑，含頭孢子菌類抗生素者Medicaments, containing cephalosporins, for human use",
     "藥理治療分類": "",
@@ -59,6 +57,28 @@
         {
             "title": "圖片",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040102&Seq=348&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "2215320 S0408 Servispor 舒維速保 LT-104-12-09(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040102&Seq=001&Type=9"
+        },
+        {
+            "title": "Servispor Cap 正面-1-104-12-09(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040102&Seq=004&Type=8"
+        },
+        {
+            "title": "Servispor Cap PTP-104-12-09(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040102&Seq=003&Type=8"
+        },
+        {
+            "title": "Servispor Cap LB-104-12-09(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040102&Seq=002&Type=8"
+        },
+        {
+            "title": "Servispor Cap 250mg Box反-1-104-12-09(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040102&Seq=001&Type=8"
         }
     ]
 }

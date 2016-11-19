@@ -1,7 +1,7 @@
 {
     "code": "07005148",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07005148",
-    "time": "2015-08-22 04:19:52",
+    "time": "2016-11-19 02:40:45",
     "許可證字號": "衛署粧製字第005148號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,24 +13,23 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00700514803",
     "中文品名": "美白清透防曬乳",
-    "英文品名": "Whitening  & Sun-Shield",
+    "英文品名": "Whitening  &amp; Sun-Shield",
     "用途": "防曬、美白肌膚。",
     "劑型": "944乳劑",
     "包裝": "500公克以下瓶裝 附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0711防晒乳液",
-    "": "",
-    "主成分略述": "OCTYL METHOXYCINNAMATE, ZINC OXIDE, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "OCTYLMETHOXYCINNAMATE,ZINCOXIDE,DIETHYLAMINOHYDROXYBENZOYLHEXYLBENZOATE,TITANIUMDIOXIDE(EQTOTITANIUMOXIDE)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0939509200  星聯實業股份有限公司",
-    "申請商地址": "台中市西屯區大河街３０號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0939509500  星聯實業股份有限公司西屯廠",
         "製造廠廠址": "台中市西屯區大河街３０號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -66,6 +65,12 @@
             "含量描述": "",
             "含量": "5.2000000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "07005148-2009-07-07.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005148&Seq=001&Type=9"
         }
     ]
 }

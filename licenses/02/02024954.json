@@ -1,7 +1,7 @@
 {
     "code": "02024954",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024954",
-    "time": "2015-10-30 04:40:35",
+    "time": "2016-11-18 20:37:29",
     "許可證字號": "衛署藥輸字第024954號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "緩解痔瘡與肛裂所產生之疼痛、出血、腫脹與搔癢。",
     "劑型": "592栓劑",
     "包裝": "2~1000粒PE鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
-    "管制藥品分類級別": "",
-    "主成分略述": "PREDNISOLONE ACETATE, LIDOCAINE, ALLANTOIN, TOCOPHEROL ACETATE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "PREDNISOLONEACETATE,LIDOCAINE,ALLANTOIN,TOCOPHEROLACETATE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1406701100  台灣武田藥品工業股份有限公司",
-    "申請商地址": "台北市南京東路三段２１７號７Ｆ",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F260009000  AMATO PHARMACEUTICAL PRODUCTS LTD.",
         "製造廠廠址": "20-4, 2-CHOME, OSADANO-CHO, FUKUCHIYAMA-SHI, KYOTO, JAPAN",
         "製造廠公司地址": "995, SASO-CHO, FUKUCHIYAMASHI KYOTO",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -66,6 +65,24 @@
             "含量描述": "",
             "含量": "50.0000000000",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "中文仿單-104-09-10(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024954&Seq=001&Type=9"
+        },
+        {
+            "title": "ALU2-104-09-10(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024954&Seq=003&Type=8"
+        },
+        {
+            "title": "ALU1-104-09-10(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024954&Seq=002&Type=8"
+        },
+        {
+            "title": "OB-104-09-10(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024954&Seq=001&Type=8"
         }
     ]
 }

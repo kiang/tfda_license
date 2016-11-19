@@ -1,7 +1,7 @@
 {
     "code": "02022043",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022043",
-    "time": "2016-01-29 04:27:31",
+    "time": "2016-11-18 20:08:02",
     "許可證字號": "衛署藥輸字第022043號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,31 +16,30 @@
     "英文品名": "PROGRAF CAPSULES 1MG",
     "適應症": "肝、腎移植之第一線用藥或肝、腎移植CYCLOSPORINE無效之第二線用藥，心臟移植之第二線用藥，心臟移植之第一線用藥。",
     "劑型": "130膠囊劑",
-    "包裝": "盒裝",
+    "包裝": "2-1000粒以下盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "TACROLIMUS",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "TACROLIMUS"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "620110R660  台灣安斯泰來製藥股份有限公司",
-    "申請商地址": "台北市中山區民生東路３段１０號５樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F230023000  ASTELLAS IRELAND CO., LTD.",
         "製造廠廠址": "KILLORGLIN CO. KERRY IRELAND",
         "製造廠公司地址": "",
-        "製造廠國別": "IRELAND",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049091001 抗排斥醫藥製劑Immunosuppressive preparations",
     "藥理治療分類": "",
     "次製造廠": [
         {
             "製造廠名稱": "F230046000  ASTELLAS PHARMA CO., LIMITED.",
-            "製造廠廠址": "5 WATERSIDE, CITYWEST BUSINESS CAMPUS, NAAS ROAD,DUBLIN24, IRELAND",
-            "製造廠公司地址": "",
+            "製造廠廠址": "",
+            "製造廠公司地址": "5 WATERSIDE, CITYWEST BUSINESS CAMPUS, NAAS ROAD,DUBLIN24, IRELAND",
             "製造廠國別": "IRELAND",
-            "製程": "總公司"
+            "製程": "製造廠公司"
         },
         {
             "製造廠名稱": "F260064300  Astellas Pharma Tech Co., Ltd. Toyama Technology Center",
@@ -71,6 +70,14 @@
         "標記二": "1mg"
     },
     "藥物辨識外觀圖片": [
+        {
+            "title": "PRG 1mg 正反面鋁箔片(Lot no. 1D4930F)-104-09-25(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022043&Seq=432&Type=10"
+        },
+        {
+            "title": "PRG 1mg Cap-104-09-25(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022043&Seq=433&Type=10"
+        },
         {
             "title": "圖片",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022043&Seq=431&Type=10"
@@ -188,6 +195,10 @@
         {
             "title": "020220430001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022043&Seq=001&Type=9"
+        },
+        {
+            "title": "PRG1-C1103-01_-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022043&Seq=001&Type=8"
         }
     ]
 }

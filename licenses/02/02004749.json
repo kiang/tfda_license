@@ -1,7 +1,7 @@
 {
     "code": "02004749",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02004749",
-    "time": "2015-08-23 05:15:11",
+    "time": "2016-11-18 16:59:54",
     "許可證字號": "衛署藥輸字第004749號",
     "註銷狀態": "已註銷",
     "註銷日期": "76\/04\/08",
@@ -17,20 +17,19 @@
     "適應症": "胃酸過多、胃部膨脹、胃炎、胃潰瘍、胃痛",
     "劑型": "110錠劑",
     "包裝": "瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "07須經醫師指示使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "BERBERINE HCL, SCOPOLIA EXTRACT, MYRISTICA POWDER, HISTIDINE HCL, FUKUTASE, ALUMINUM HYDROXIDE DRIED GEL, FENNEL POWDER (FOENICULI POWDER), MAGNESIUM OXIDE, GALL, CLOVE POWDER, MENTHOL L-, SODIUM LAURYL SULFATE, VITAMIN U (METHYLMETHIONINE SULFONIUM CHLORIDE), GLYCYRRHIZA FULAKUSU",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "BERBERINEHCL,SCOPOLIAEXTRACT,MYRISTICAPOWDER,HISTIDINEHCL,FUKUTASE,ALUMINUMHYDROXIDEDRIEDGEL,FENNELPOWDER(FOENICULIPOWDER),MAGNESIUMOXIDE,GALL,CLOVEPOWDER,L-MENTHOL,SODIUMLAURYLSULFATE,VITAMINU(METHYLMETHIONINESULFONIUMCHLORIDE),GLYCYRRHIZAFULAKUSU"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "0905901100  南輝企業股份有限公司",
-    "申請商地址": "台北巿重慶北路３段１１３巷５５號一樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F260052000  DOJIN YAKUGYO CO. LTD.",
         "製造廠廠址": "44-18 KOBASHICHO, TENOZEKU, OSAKA.",
         "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -118,7 +117,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "8408000302",
-            "成分名稱": "MENTHOL L-",
+            "成分名稱": "L-MENTHOL",
             "含量描述": "0.4",
             "含量": "0.4000000000",
             "單位": "MG"

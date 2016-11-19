@@ -1,7 +1,7 @@
 {
     "code": "02005815",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02005815",
-    "time": "2015-08-23 05:51:00",
+    "time": "2016-11-18 17:13:32",
     "許可證字號": "衛署藥輸字第005815號",
     "註銷狀態": "已註銷",
     "註銷日期": "81\/11\/11",
@@ -17,20 +17,19 @@
     "適應症": "局部麻醉",
     "劑型": "270注射劑",
     "包裝": "管裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "09限由牙醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "NOREPINEPHRINE L-BITARTRATE, PROCAINE HCL, PROPOXYCAINE HCL",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "L-NOREPINEPHRINEBITARTRATE,PROCAINEHCL,PROPOXYCAINEHCL"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "0902101100  美商美國溫莎大藥廠股份有限公司台灣分公司",
-    "申請商地址": "台北巿民生東路三段１５６號８樓之１之２之３",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F340013000  WINTHROP PHARMACEUTICAL DIVISION OF STERLING PRODUCTS INTERNATION INCORPORATED",
         "製造廠廠址": "74E-DE LOS SANTOS, MANDALUYONG METRO MANILA",
         "製造廠公司地址": "",
-        "製造廠國別": "PHILIPPINES",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -38,7 +37,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "1212002012",
-            "成分名稱": "NOREPINEPHRINE L-BITARTRATE",
+            "成分名稱": "L-NOREPINEPHRINE BITARTRATE",
             "含量描述": "0.033",
             "含量": "0.0330000000",
             "單位": "MG"

@@ -1,7 +1,7 @@
 {
     "code": "02022923",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022923",
-    "time": "2015-11-27 05:10:19",
+    "time": "2016-11-18 20:16:39",
     "許可證字號": "衛署藥輸字第022923號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "靜脈營養治療患者之熱量供給。",
     "劑型": "270注射劑",
     "包裝": "100,250,500公撮玻璃瓶裝 各100支以下盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "SOYBEAN OIL ( EQ TO SOYA BEAN OIL), TRIGLYCERIDES MEDIUM CHAIN, EGG PHOSPHATIDES, GLYCERIN (eq to GLYCEROL)",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "SOYBEANOIL(EQTOSOYABEANOIL),TRIGLYCERIDESMEDIUMCHAIN,EGGPHOSPHATIDES"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "6201179728  臺灣費森尤斯卡比股份有限公司",
-    "申請商地址": "台北市大安區仁愛路三段30號5樓32號5樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F030014100  FRESENIUS KABI AUSTRIA GMBH",
         "製造廠廠址": "HAFNERSTRABE 36 A-8055 GRAZ AUSTRIAD-61346 BAD HOMBURG V.D.H. GERMANY",
         "製造廠公司地址": "D-61346 BAD HOMBURG V.D.H. GERMANY",
-        "製造廠國別": "AUSTRIA",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -49,7 +48,7 @@
             "成分代碼": "4020001600",
             "成分名稱": "SOYBEAN OIL ( EQ TO SOYA BEAN OIL)",
             "含量描述": "(BEAN) 50",
-            "含量": "",
+            "含量": "0.0000000000",
             "單位": "MG"
         },
         {
@@ -57,7 +56,7 @@
             "成分代碼": "5640001102",
             "成分名稱": "TRIGLYCERIDES MEDIUM CHAIN",
             "含量描述": "(MCT) 50",
-            "含量": "",
+            "含量": "0.0000000000",
             "單位": "MG"
         },
         {
@@ -67,17 +66,13 @@
             "含量描述": "6",
             "含量": "6.0000000000",
             "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9600013500",
-            "成分名稱": "GLYCERIN (eq to GLYCEROL)",
-            "含量描述": "25",
-            "含量": "25.0000000000",
-            "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "立得能靜脈注射液10%_PI(no1512)-104-12-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022923&Seq=009&Type=9"
+        },
         {
             "title": "10. 020229230001-103-02-21.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022923&Seq=008&Type=9"

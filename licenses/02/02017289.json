@@ -1,7 +1,7 @@
 {
     "code": "02017289",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02017289",
-    "time": "2016-04-29 04:49:05",
+    "time": "2016-11-18 19:17:35",
     "許可證字號": "衛署藥輸字第017289號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,21 +17,19 @@
     "適應症": "顱和脊髓、全身的核磁共振攝影",
     "劑型": "270注射劑",
     "包裝": "30ml,100ml瓶裝 5ml,10ml,15ml,20ml小瓶裝 10ml,15ml,20ml玻璃注射針筒裝 5ml, 10ml, 15ml, 20ml塑膠注射針筒",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "GADOPENTETATE DIMEGLUMINE",
-    "限制項目": [
-        "02輸入",
-        "26監視期滿新藥"
+    "主成分略述": [
+        "GADOPENTETATEDIMEGLUMINE"
     ],
+    "限制項目": "02輸　入 26監視期滿新藥",
     "申請商名稱": "1426201100  臺灣拜耳股份有限公司",
-    "申請商地址": "台北市信義區信義路五段7號台北101大樓之53至54樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F470169000  BAYER  PHARMA AG",
         "製造廠廠址": "MUELLERSTRASSE 178, D-13353 BERLIN,GERMANY。 POSTAL ADDRESS:D-13342 BERLIN,GERMANY",
         "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30063000002 Ｘ光檢驗用不透光製劑；專供病人用之診斷用試藥Opacifying preparations for X-ray examinations; diagnostic reagents designed to be administered to the patient",
     "藥理治療分類": "",
@@ -55,6 +53,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "Magnevist_017289_CCDS09-104-09-23(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017289&Seq=012&Type=9"
+        },
         {
             "title": "Magnevist Chinese CCDS 09 with TFDA wording_Mar2013-102-05-08.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017289&Seq=011&Type=9"
@@ -98,6 +100,10 @@
         {
             "title": "020172890001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017289&Seq=001&Type=9"
+        },
+        {
+            "title": "Magnevist_017289_carton-104-12-29(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017289&Seq=001&Type=8"
         }
     ]
 }

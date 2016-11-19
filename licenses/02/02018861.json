@@ -1,7 +1,7 @@
 {
     "code": "02018861",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02018861",
-    "time": "2015-08-23 10:03:28",
+    "time": "2016-11-18 19:34:03",
     "許可證字號": "衛署藥輸字第018861號",
     "註銷狀態": "已註銷",
     "註銷日期": "100\/11\/03",
@@ -17,20 +17,19 @@
     "適應症": "肌肉酸痛、肩膀酸痛、關節痛、神經痛、撞傷、挫傷。",
     "劑型": "320貼片劑",
     "包裝": "盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "07須經醫師指示使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "DIPHENHYDRAMINE, CAMPHOR DL-, MENTHOL L-, NONYLIC-VANILLYLAMIDE, METHYL SALICYLATE, TOCOPHEROL ACETATE, MENTHA OIL",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "DIPHENHYDRAMINE,DL-CAMPHOR,L-MENTHOL,NONYLIC-VANILLYLAMIDE,METHYLSALICYLATE,TOCOPHEROLACETATE,MENTHAOIL"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1303110100  新萬仁化學製藥股份有限公司",
-    "申請商地址": "台中市豊原區西湳里文賢街１５８號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F260316000  TAI KYO YAKUHIN KOGYO CO. LTD.",
         "製造廠廠址": "2-23 SAKURADAI LENBAKU TOKYO",
         "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30051090909 其他粘敷料和其他具有粘層之物品Other adhesive dressings and other articles having an adhesive layer",
     "藥理治療分類": "",
@@ -46,7 +45,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "8408000103",
-            "成分名稱": "CAMPHOR DL-",
+            "成分名稱": "DL-CAMPHOR",
             "含量描述": "1.800",
             "含量": "1.8000000000",
             "單位": "GM"
@@ -54,7 +53,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "8408000302",
-            "成分名稱": "MENTHOL L-",
+            "成分名稱": "L-MENTHOL",
             "含量描述": "4.500",
             "含量": "4.5000000000",
             "單位": "GM"

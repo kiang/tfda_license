@@ -1,7 +1,7 @@
 {
     "code": "02024874",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024874",
-    "time": "2015-08-23 12:01:12",
+    "time": "2016-11-18 20:36:40",
     "許可證字號": "衛署藥輸字第024874號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "1.併用cisplatin是治療局部晚期或轉移性非小細胞肺癌（顯著鱗狀細胞組織型除外）之第一線化療用藥。2.Alimta單一藥物是局部晚期或轉移性非小細胞肺癌(顯著麟狀細胞組織型除外)病人接受4個週期含鉑藥物的第一線化療後疾病並未惡化之維持療法。3.單一藥物是治療局部晚期或轉移性非小細胞肺癌（顯著鱗狀細胞組織型除外）之第二線治療用藥。4.與cisplatin併用於治療惡性肋膜間質細胞瘤。",
     "劑型": "243凍晶注射劑",
     "包裝": "100毫克小瓶裝 100支以下盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "PEMETREXED DISODIUM HEPTAHYDRATE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "PEMETREXEDDISODIUMHEPTAHYDRATE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1411301100  台灣禮來股份有限公司",
-    "申請商地址": "台北市復興北路３６５號１１樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F460073100  ELI LILLY AND COMPANY",
         "製造廠廠址": "INDIANAPOLIS INDIANA 46285 USA",
         "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -45,6 +44,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "Alimta leaflet-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024874&Seq=008&Type=9"
+        },
         {
             "title": "020248740002-103-04-22.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024874&Seq=007&Type=9"
@@ -72,6 +75,10 @@
         {
             "title": "020248740001___20101014.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024874&Seq=001&Type=9"
+        },
+        {
+            "title": "Alimta 100-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024874&Seq=001&Type=8"
         }
     ]
 }

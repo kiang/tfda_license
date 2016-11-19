@@ -1,7 +1,7 @@
 {
     "code": "02011136",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02011136",
-    "time": "2015-08-23 07:34:49",
+    "time": "2016-11-18 18:10:33",
     "許可證字號": "衛署藥輸字第011136號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,24 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00201113603",
-    "中文品名": "\"味之素\" 左旋組織胺酸粉劑",
-    "英文品名": "L-HISTIDINE \"AJINOMOTO\"",
+    "中文品名": "&quot;味之素&quot; 左旋組織胺酸粉劑",
+    "英文品名": "L-HISTIDINE &quot;AJINOMOTO&quot;",
     "適應症": "胺基酸營養劑",
-    "劑型": "040（粉）",
-    "包裝": "",
+    "劑型": "041粉劑",
+    "包裝": "1,5,10,25,50公斤裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "01製劑原料",
-    "管制藥品分類級別": "",
-    "主成分略述": "L-HISTIDINE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "L-HISTIDINE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "0801701100  東信化學藥品有限公司",
-    "申請商地址": "台北市吉林路４５號６樓",
     "主製造廠": {
-        "製造廠名稱": "F260004000  AJINOMOTO CO. INC.",
+        "主製造廠": "",
+        "製造廠名稱": "F260004000  AJINOMOTO CO., INC.",
         "製造廠廠址": "1-1,SUZUKI-CHO,KAWASAKI-KU,KAWASAKI-SHI,JAPAN",
-        "製造廠公司地址": "15-1,KYOBASHI,1-CHOME,CHUO-KU,TOKYO 104,JAPAN.",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "製造廠公司地址": "15-1,KYOBASHI,1-CHOME,CHUO-KU,TOKYO, JAPAN.",
+        "": ""
     },
     "CCC號列": "29332900005 其他之結構中含有一未稠合之咪唑環（不論是否氫化）之化合物Other compounds containing an unfused imidazole ring (whether or not hydrogened) in the structure",
     "藥理治療分類": "",
@@ -39,8 +38,8 @@
             "成分類別": "主成分",
             "成分代碼": "4020100902",
             "成分名稱": "L-HISTIDINE",
-            "含量描述": "98.5-101.0",
-            "含量": "",
+            "含量描述": "contains not less than 98.5% and not more than 101.0% of C6H9N3O2，calculated on the dried basis.",
+            "含量": "0.0000000000",
             "單位": "%"
         }
     ]

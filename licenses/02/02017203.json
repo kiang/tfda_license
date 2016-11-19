@@ -1,7 +1,7 @@
 {
     "code": "02017203",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02017203",
-    "time": "2015-08-23 09:48:33",
+    "time": "2016-11-18 19:16:44",
     "許可證字號": "衛署藥輸字第017203號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "局部麻醉",
     "劑型": "270注射劑",
     "包裝": "4公撮安瓿 100支以下盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "BUPIVACAINE HCL MONOHYDRATE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "BUPIVACAINEHCLMONOHYDRATE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1434901100  臺灣阿斯特捷利康股份有限公司",
-    "申請商地址": "台北市大安區敦化南路二段207號21樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F150203000  CENEXI",
         "製造廠廠址": "52, RUE MARCEL ET JACQUES GAUCHER 94120 FONTENAY-SOUS-BOIS FRANCES",
         "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049010009 麻醉劑Anesthetics",
     "藥理治療分類": "",
@@ -45,6 +44,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "017203 - Marcaine Spinal 0.5% Heavy 中文仿單 - 2009.12.21-104-08-31(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017203&Seq=007&Type=9"
+        },
         {
             "title": "020172030006.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017203&Seq=006&Type=9"
@@ -68,6 +71,14 @@
         {
             "title": "020172030001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017203&Seq=001&Type=9"
+        },
+        {
+            "title": "Marcaine Spinal 0.5% Heavy - 017203-104-09-25(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017203&Seq=002&Type=8"
+        },
+        {
+            "title": "Marcaine Spinal 0.5% Heavy - 017203 - Carton-104-09-25(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017203&Seq=001&Type=8"
         }
     ]
 }

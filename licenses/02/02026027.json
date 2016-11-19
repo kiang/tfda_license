@@ -1,7 +1,7 @@
 {
     "code": "02026027",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02026027",
-    "time": "2015-08-23 12:51:49",
+    "time": "2016-11-18 20:47:09",
     "許可證字號": "衛署藥輸字第026027號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "解熱，鎮痛(頭痛，牙痛，月經痛，神經痛，咽喉痛，關節痛，肌肉痛)。",
     "劑型": "110錠劑",
     "包裝": "12-1000錠PTP 鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
-    "管制藥品分類級別": "",
-    "主成分略述": "ACETAMINOPHEN (EQ TO PARACETAMOL), ETHENZAMIDE (ETHOXYBENZAMIDE), APRONALIDE ( EQ TO ALLYLISOPROPYLACETYLUREA), ANHYDROUS CAFFEINE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "ACETAMINOPHEN(EQTOPARACETAMOL),ETHENZAMIDE(ETHOXYBENZAMIDE),APRONALIDE(EQTOALLYLISOPROPYLACETYLUREA),ANHYDROUSCAFFEINE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1508901100  德佑藥品有限公司",
-    "申請商地址": "台北市松山區敦化南路一段3號2樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F260529000  SHISEIDO PHARMACEUTICAL INC.",
         "製造廠廠址": "220-1 CHIHARA OAZA GOSE-CITY NARA JAPAN",
         "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -66,6 +65,12 @@
             "含量描述": "",
             "含量": "40.0000000000",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "德佑_日方止痛藥錠_1050415-105-04-27(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02026027&Seq=001&Type=9"
         }
     ]
 }

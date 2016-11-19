@@ -1,7 +1,7 @@
 {
     "code": "01041037",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01041037",
-    "time": "2015-12-25 04:10:23",
+    "time": "2016-11-18 14:15:44",
     "許可證字號": "衛署藥製字第041037號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "用於治療CD4數量低下(",
     "劑型": "270注射劑",
     "包裝": "100支以下盒裝 5\/10公撮小瓶",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "DOXORUBICIN HYDROCHLORIDE(LIPOSOME)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "DOXORUBICINHYDROCHLORIDE(LIPOSOME)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1406801100  臺灣東洋藥品工業股份有限公司",
-    "申請商地址": "台北市南港區園區街3之1號3樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1406804300  臺灣東洋藥品工業股份有限公司中壢廠",
         "製造廠廠址": "桃園市中壢區中華路一段８３８號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049071005 抗癌藥Anti-cancer preparations",
     "藥理治療分類": "",
@@ -46,8 +45,28 @@
     ],
     "仿單外盒": [
         {
+            "title": "010410370001 仿單-104-09-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041037&Seq=002&Type=9"
+        },
+        {
             "title": "Lipo-Dox_20120427_賦形劑變更(送件)___20120516.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041037&Seq=001&Type=9"
+        },
+        {
+            "title": "010410370003 外盒-105-01-29(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041037&Seq=004&Type=8"
+        },
+        {
+            "title": "010410370002 瓶標-105-01-29(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041037&Seq=003&Type=8"
+        },
+        {
+            "title": "010410370003 外盒-104-09-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041037&Seq=002&Type=8"
+        },
+        {
+            "title": "010410370002 瓶標-104-09-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041037&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "02006320",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02006320",
-    "time": "2015-08-23 05:36:00",
+    "time": "2016-11-18 17:18:53",
     "許可證字號": "衛署藥輸字第006320號",
     "註銷狀態": "已註銷",
     "註銷日期": "89\/09\/05",
@@ -17,20 +17,19 @@
     "適應症": "消化不良、胃炎、胃酸過多",
     "劑型": "150內服顆粒劑",
     "包裝": "袋裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "07須經醫師指示使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "SCOPOLIA EXTRACT POWDER, SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE), BIOTAMYLASE, MAGNESIUM ALUMINUM METASILICATE (NEUSILIN), CINNAMON POWDER (CINNAMON CORTEX POWDER), MENTHOL L-, CHLOROPHYLL SODIUM COPPER, GLYCYRRHIZA RADIX POWDER",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "SCOPOLIAEXTRACTPOWDER,SODIUMBICARBONATE(EQTOSODIUMHYDROGENCARBONATE),BIOTAMYLASE,MAGNESIUMALUMINUMMETASILICATE(NEUSILIN),CINNAMONPOWDER(CINNAMONCORTEXPOWDER),L-MENTHOL,CHLOROPHYLLSODIUMCOPPER,GLYCYRRHIZARADIXPOWDER"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1201901100  華永貿易有限公司",
-    "申請商地址": "台北巿博愛路９１號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F260179000  MEIJI PHARMACEUTICAL CO. LTD.",
         "製造廠廠址": "518 NAKAGAWARA, NAMERIKAWA, TOYAMA.",
         "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -78,7 +77,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "8408000302",
-            "成分名稱": "MENTHOL L-",
+            "成分名稱": "L-MENTHOL",
             "含量描述": "5",
             "含量": "5.0000000000",
             "單位": "MG"

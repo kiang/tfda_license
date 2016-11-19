@@ -1,7 +1,7 @@
 {
     "code": "02019990",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019990",
-    "time": "2015-08-23 10:47:14",
+    "time": "2016-11-18 19:46:16",
     "許可證字號": "衛署藥輸字第019990號",
     "註銷狀態": "已註銷",
     "註銷日期": "99\/05\/03",
@@ -17,20 +17,19 @@
     "適應症": "咳嗽、痰多、喉嚨發炎等所引起的嗄聲、喉嚨乾燥",
     "劑型": "150內服顆粒劑",
     "包裝": "1000公克以下罐裝 0.7公克鋁箔袋裝 1000袋以下盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "07須經醫師指示使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "CAFFEINE AND SODIUM BENZOATE, PLATYCODI RADIX, POLYGALA RADIX, BORNEOL, MENTHOL L-, GINSENG RADIX, GLYCYRRHIZA RADIX, GAMBIR, ARMENIACAE SEMEN, SODIUM COPPER CHLORPHYLLIN, AMINOETHYLSULFONIC ACID",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "CAFFEINEANDSODIUMBENZOATE,PLATYCODIRADIX,POLYGALARADIX,BORNEOL,L-MENTHOL,GINSENGRADIX,GLYCYRRHIZARADIX,GAMBIR,ARMENIACAESEMEN,SODIUMCOPPERCHLORPHYLLIN,AMINOETHYLSULFONICACID"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1005909100  海孚藥品食品有限公司",
-    "申請商地址": "台中巿忠明路502之1號4樓之1",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F270029000  SANOFI-SYNTHELABO KOREA CO.,LTD.",
         "製造廠廠址": "778-3, WONSI-DONG, ANSAN-SI KYOUNGKI-DO",
         "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30044099004 其他醫藥製劑，含有生物鹼或其衍生物，但未含內分泌素，第２９３７節之其他產品或抗生素者Other medicaments, containing alkaloids or derivatives thereof but not containing hormones, other products of heading 29.37 or antibiotics",
     "藥理治療分類": "",
@@ -62,7 +61,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "8408000302",
-            "成分名稱": "MENTHOL L-",
+            "成分名稱": "L-MENTHOL",
             "含量描述": "",
             "含量": "7.2000000000",
             "單位": "MG"

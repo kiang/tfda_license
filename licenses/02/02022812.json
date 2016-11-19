@@ -1,7 +1,7 @@
 {
     "code": "02022812",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022812",
-    "time": "2016-04-29 04:49:52",
+    "time": "2016-11-18 20:15:35",
     "許可證字號": "衛署藥輸字第022812號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "預防狹心症之發作。",
     "劑型": "110錠劑",
     "包裝": "4-1000粒鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "ISOSORBIDE 5-MONONITRATE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "ISOSORBIDE5-MONONITRATE"
     ],
+    "限制項目": "02輸　入 1Q不得輸入",
     "申請商名稱": "1235801100  華安藥品股份有限公司",
-    "申請商地址": "台北市復興北路１６４號６樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F470243000  STADA Arzneimittel AG",
         "製造廠廠址": "STADA ST. 2-18 D-61118 BAD VILBEL GERMANY",
         "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
@@ -56,18 +55,30 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "020228120003-藥物實體(2)-104-10-07(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022812&Seq=437&Type=10"
+        },
+        {
+            "title": "020228120003-藥物實體(1)-104-10-07(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022812&Seq=436&Type=10"
+        },
+        {
             "title": "圖片",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022812&Seq=435&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "020228120001-104-08-20.pdf",
+            "title": "020228120001-104-08-20(廠商自行上傳).pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022812&Seq=002&Type=9"
         },
         {
             "title": "020228120001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022812&Seq=001&Type=9"
+        },
+        {
+            "title": "020228120002-Carton-104-09-16(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022812&Seq=001&Type=8"
         }
     ]
 }

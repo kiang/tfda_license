@@ -1,7 +1,7 @@
 {
     "code": "02022232",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022232",
-    "time": "2015-09-25 04:30:26",
+    "time": "2016-11-18 20:09:56",
     "許可證字號": "衛署藥輸字第022232號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "用於治療免疫功能缺乏之巨細胞病毒感染症。",
     "劑型": "243凍晶注射劑",
     "包裝": "每支500毫克玻璃小瓶裝 100支以下盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "GANCICLOVIR, GANCICLOVIR SODIUM",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "GANCICLOVIR,GANCICLOVIRSODIUM"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1901701100  羅氏大藥廠股份有限公司",
-    "申請商地址": "台北市民生東路三段１３４號９樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F430093000  F.HOFFMANN-LA ROCHE LTD.",
         "製造廠廠址": "GRENZACHERSTRASSE 124 CH-4070 BASLE,SWITZERLAND",
         "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30042000916 人用醫藥製劑，含有其他抗生素者Medicaments, containing other antibiotics, for human use",
     "藥理治療分類": "",
@@ -63,6 +62,10 @@
     ],
     "仿單外盒": [
         {
+            "title": "Cymevene_0615-CYM-01-104-09-03(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022232&Seq=009&Type=9"
+        },
+        {
             "title": "Cymevene中文仿單0615-CYM-01-104-07-01.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022232&Seq=008&Type=9"
         },
@@ -93,6 +96,14 @@
         {
             "title": "020222320001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022232&Seq=001&Type=9"
+        },
+        {
+            "title": "Cymevene 500mg_Basel_022232-1-STK-04-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022232&Seq=002&Type=8"
+        },
+        {
+            "title": "Cyvemene 500mg_Basel_CTN-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022232&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "03012755",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=03012755",
-    "time": "2015-08-23 13:53:39",
+    "time": "2016-11-18 20:53:31",
     "許可證字號": "衛署成製字第012755號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,24 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00301275509",
-    "中文品名": "\"安皮露\" 潔露75%酒精液",
-    "英文品名": "\"ONPYLU\" ETHANOL SOLUTION 75%",
+    "中文品名": "&quot;安皮露&quot; 潔露75%酒精液",
+    "英文品名": "&quot;ONPYLU&quot; ETHANOL SOLUTION 75%",
     "適應症": "肌膚及手部清潔、消毒、抗菌。",
     "劑型": "370外用液劑",
     "包裝": "4000毫升以下塑膠瓶裝 20公升塑膠桶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "13乙類成藥",
-    "管制藥品分類級別": "",
-    "主成分略述": "ETHANOL ( EQ TO ETHYL ALCOHOL) (EQ TO ALCOHOL), ROSE PERFUME, Fragrance (Aloe 050)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "ETHANOL(EQTOETHYLALCOHOL)(EQTOALCOHOL)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0602102200  先智生物科技股份有限公司",
-    "申請商地址": "新北市瑞芳區頂坪路瑞芳工業區14號",
     "主製造廠": {
-        "製造廠名稱": "0602102300  先智生物科技股份有限公司",
-        "製造廠廠址": "新北市瑞芳區瑞芳工業區頂坪路１４號",
+        "主製造廠": "",
+        "製造廠名稱": "0602102200  先智生物科技股份有限公司",
+        "製造廠廠址": "新北市瑞芳區頂坪路瑞芳工業區14號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "33049990206 含藥之洗手液Medicated hand cleasing preparations",
     "藥理治療分類": "",
@@ -69,14 +68,6 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9600056500",
-            "成分名稱": "ROSE PERFUME",
-            "含量描述": "",
-            "含量": "0.0030000000",
-            "單位": "ML"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "8436000100",
             "成分名稱": "ETHANOL ( EQ TO ETHYL ALCOHOL) (EQ TO ALCOHOL)",
             "含量描述": "(95%)",
@@ -97,18 +88,38 @@
             "成分名稱": "ETHANOL ( EQ TO ETHYL ALCOHOL) (EQ TO ALCOHOL)",
             "含量描述": "(95%)",
             "含量": "0.7900000000",
-            "單位": "ML"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9600075644",
-            "成分名稱": "Fragrance (Aloe 050)",
-            "含量描述": "",
-            "含量": "0.0030000000",
             "單位": "ML"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "潔露-蘆薈仿單-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03012755&Seq=023&Type=9"
+        },
+        {
+            "title": "潔露-薰衣草仿單-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03012755&Seq=022&Type=9"
+        },
+        {
+            "title": "潔露-嬰兒香仿單-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03012755&Seq=021&Type=9"
+        },
+        {
+            "title": "潔露-橘橙香仿單-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03012755&Seq=020&Type=9"
+        },
+        {
+            "title": "潔露-茶樹仿單-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03012755&Seq=019&Type=9"
+        },
+        {
+            "title": "潔露-玫瑰香仿單-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03012755&Seq=018&Type=9"
+        },
+        {
+            "title": "潔露 仿單-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03012755&Seq=017&Type=9"
+        },
         {
             "title": "teatree2-104-03-20.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03012755&Seq=009&Type=9"
@@ -144,6 +155,66 @@
         {
             "title": "030127550001.doc",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03012755&Seq=001&Type=9"
+        },
+        {
+            "title": "tea tree-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03012755&Seq=037&Type=8"
+        },
+        {
+            "title": "rose-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03012755&Seq=036&Type=8"
+        },
+        {
+            "title": "oragne-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03012755&Seq=035&Type=8"
+        },
+        {
+            "title": "lavenda-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03012755&Seq=034&Type=8"
+        },
+        {
+            "title": "babydoll-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03012755&Seq=033&Type=8"
+        },
+        {
+            "title": "aloe-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03012755&Seq=032&Type=8"
+        },
+        {
+            "title": "潔露500mL-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03012755&Seq=031&Type=8"
+        },
+        {
+            "title": "潔露4L(順鑫)-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03012755&Seq=030&Type=8"
+        },
+        {
+            "title": "潔露20L(景明)-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03012755&Seq=029&Type=8"
+        },
+        {
+            "title": "潔露500mL-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03012755&Seq=028&Type=8"
+        },
+        {
+            "title": "潔露500mL(噴槍)-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03012755&Seq=027&Type=8"
+        },
+        {
+            "title": "潔露20L-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03012755&Seq=026&Type=8"
+        },
+        {
+            "title": "潔露4L-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03012755&Seq=025&Type=8"
+        },
+        {
+            "title": "潔露4L(鳥嘴頭)-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03012755&Seq=024&Type=8"
+        },
+        {
+            "title": "潔露1L-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03012755&Seq=023&Type=8"
         },
         {
             "title": "teatree (2)-104-03-20.jpg",

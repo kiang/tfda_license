@@ -1,7 +1,7 @@
 {
     "code": "01043080",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01043080",
-    "time": "2015-09-25 04:23:43",
+    "time": "2016-11-18 14:35:27",
     "許可證字號": "衛署藥製字第043080號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,22 +16,20 @@
     "英文品名": "LASCAINE TABLETS",
     "適應症": "對下列由脊髓或肌肉痙攣引起的疼痛具有緩解作用：斜頸、肌性風濕痛、肌肉僵硬、頸部酸痛、肌痛、腰痛、椎關節炎、由關節炎、緊張、肌肉痙攣引起的肌肉痛、急性疼痛的抽筋痙攣。",
     "劑型": "110錠劑",
-    "包裝": "罐裝 鋁箔盒裝",
+    "包裝": "4-1000錠罐裝 4-1000錠鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "ACETAMINOPHEN (EQ TO PARACETAMOL), MEPHENOXALONE",
-    "限制項目": [
-        "01國產",
-        "89"
+    "主成分略述": [
+        "ACETAMINOPHEN(EQTOPARACETAMOL),MEPHENOXALONE"
     ],
+    "限制項目": "01國　產 89",
     "申請商名稱": "1437009100  瑪科隆股份有限公司",
-    "申請商地址": "台中市西區忠明南路３０３號２４樓之２",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0502918200  永勝藥品工業股份有限公司",
         "製造廠廠址": "嘉義縣民雄鄉興南村頭橋工業區工業三路６之３號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
@@ -53,10 +51,38 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "蘋果綠\/白",
+        "特殊氣味": "",
+        "刻痕": "Y",
+        "形狀": "",
+        "標記一": "LASCAINE",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "LASCAINE TABLETS_W-104-10-31(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043080&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
+        {
+            "title": "頸肩背錠20150908-104-12-17(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043080&Seq=002&Type=9"
+        },
         {
             "title": "010430800001-104-05-04.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043080&Seq=001&Type=9"
+        },
+        {
+            "title": "LASCAINE TABLETS_500T-104-12-11(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043080&Seq=002&Type=8"
+        },
+        {
+            "title": "LASCAINE TABLETS_10P-104-12-11(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043080&Seq=001&Type=8"
         }
     ]
 }

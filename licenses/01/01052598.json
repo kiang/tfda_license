@@ -1,9 +1,11 @@
 {
     "code": "01052598",
+    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01052598",
+    "time": "2016-11-18 15:42:37",
     "許可證字號": "衛署藥製字第052598號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "105\/11\/10",
+    "註銷理由": "許可證已逾有效期",
     "有效日期": "104\/04\/07",
     "發證日期": "99\/04\/07",
     "許可證種類": "製　劑",
@@ -15,21 +17,19 @@
     "適應症": "治療下列感受性革蘭氏陽性菌引起的複雜性皮膚和皮膚組織感染(CSSSI)。Staphylococcus aureus (包括 methicillin-resistant isolates)、Streptococcus pyogenes、Stretococcus agalactiae、Streptococcus dysgalactiae subsp、equisimilis 與 Enterococcus faecalis (vancomycin-susceptible strains only) Staphylococcus aureus 引起之血液感染(菌血症)包括由具methicillin感受性及抗藥性菌株造成之右側感染性心內膜炎。",
     "劑型": "243凍晶注射劑",
     "包裝": "350毫克玻璃小瓶裝 100支以下盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "DAPTOMYCIN",
-    "限制項目": [
-        "03外銷專用",
-        "25監視中學名藥"
+    "主成分略述": [
+        "DAPTOMYCIN"
     ],
+    "限制項目": "03外銷專用 25監視中學名藥",
     "申請商名稱": "1406801200  臺灣東洋藥品工業股份有限公司",
-    "申請商地址": "台北市南港區園區街3之1號3樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F460364000  OSO BIOPHARMACEUTICALS MANUFACTURING, LLC",
         "製造廠廠址": "4272 BALLOON PARK ROAD NE, ALBUQUERQUE NM 87109, USA",
         "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30042000916 人用醫藥製劑，含有其他抗生素者Medicaments, containing other antibiotics, for human use",
     "藥理治療分類": "",
@@ -61,12 +61,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 010525980002___20100615.jpg 010525980001___20100615.jpg",
+            "title": "010525980002___20100615.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01052598&Seq=002&Type=9"
         },
         {
-            "title": "外盒 010525980003 外箱標籤___20100615.jpg 010525980002 標籤___20100615.jpg 010525980001 外盒___20100615.jpg",
+            "title": "010525980001___20100615.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01052598&Seq=001&Type=9"
+        },
+        {
+            "title": "010525980003 外箱標籤___20100615.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01052598&Seq=003&Type=8"
+        },
+        {
+            "title": "010525980002 標籤___20100615.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01052598&Seq=002&Type=8"
+        },
+        {
+            "title": "010525980001 外盒___20100615.jpg",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01052598&Seq=001&Type=8"
         }
     ]
 }

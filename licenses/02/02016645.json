@@ -1,7 +1,7 @@
 {
     "code": "02016645",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02016645",
-    "time": "2015-08-23 09:13:38",
+    "time": "2016-11-18 19:11:06",
     "許可證字號": "衛署藥輸字第016645號",
     "註銷狀態": "已註銷",
     "註銷日期": "81\/01\/17",
@@ -17,20 +17,19 @@
     "適應症": "不能攝取適當食物之患者之補助治療劑、蛋白質之消化吸收機能及合成利用障礙；嚴重創傷、火傷、骨折時蛋白質之補給、蛋白質攝取減少之營養失調症",
     "劑型": "270注射劑",
     "包裝": "瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "POTASSIUM ACETATE, SODIUM ACETATE TRIHYDRATE (EQ TO SODIUM ACETATE 3H2O ), ISOLEUCINE DL-, L-LEUCINE, METHIONINE DL-, PHENYLALANINE DL-, THREONINE DL-, TRYPTOPHAN DL-, VALINE DL-, GLYCINE (EQ TO AMINOACETIC ACID)(EQ TO GLYCOCOLL), ARGININE L- (HCL), HISTIDINE L- (HCL), LYSINE L- (HCL), POTASSIUM PHOSPHATE (POSTASSIUM PHOSPHATE DIBASIC), NIACINAMIDE (NICOTINAMIDE), THIAMINE (VITAMIN B1), RIBOFLAVIN(PHOSPHATE), PYRIDOXINE(VITAMIN B6), SODIUM PANTOTHENATE, ETHOXAZORUTIN, SORBITOL",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "POTASSIUMACETATE,SODIUMACETATETRIHYDRATE(EQTOSODIUMACETATE3H2O),ISOLEUCINEDL-,L-LEUCINE,METHIONINEDL-,PHENYLALANINEDL-,THREONINEDL-,TRYPTOPHANDL-,VALINEDL-,GLYCINE(EQTOAMINOACETICACID)(EQTOGLYCOCOLL),ARGININEL-(HCL),HISTIDINEL-(HCL),LYSINEL-(HCL),POTASSIUMPHOSPHATE(eqtoPOTASSIUMPHOSPHATEDIBASIC),NIACINAMIDE(NICOTINAMIDE),THIAMINE(VITAMINB1),RIBOFLAVIN(PHOSPHATE),PYRIDOXINE(VITAMINB6),SODIUMPANTOTHENATE,ETHOXAZORUTIN,SORBITOL"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "0920901100  昶勝貿易股份有限公司",
-    "申請商地址": "台北巿仁愛路三段２５號７Ｆ之１",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F150029000  LABORATORIES FRESENIUS FRANCE PHARMA",
         "製造廠廠址": "6, RUE DU REMPART, 27400 LOUVIERS, FRANCE.5, PLACE DU MARIVEL 92316 SEVRES CEDEX, FRANCE",
         "製造廠公司地址": "5, PLACE DU MARIVEL 92316 SEVRES CEDEX, FRANCE",
-        "製造廠國別": "FRANCE",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -142,7 +141,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "5612001900",
-            "成分名稱": "POTASSIUM PHOSPHATE (POSTASSIUM PHOSPHATE DIBASIC)",
+            "成分名稱": "POTASSIUM PHOSPHATE ( eq to POTASSIUM PHOSPHATE DIBASIC)",
             "含量描述": "0.135",
             "含量": "0.1350000000",
             "單位": "GM"

@@ -1,7 +1,7 @@
 {
     "code": "02015469",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02015469",
-    "time": "2016-04-29 04:49:00",
+    "time": "2016-11-18 18:58:20",
     "許可證字號": "衛署藥輸字第015469號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "青春期以前隱睾症、由於腦下垂體分泌不足所引起之生殖腺機能障礙、黃體機能障礙",
     "劑型": "243凍晶注射劑",
     "包裝": "1500IU安瓿裝附等支數1毫升安瓿裝溶劑 100支以下盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "GONADOTROPIN CHORIONIC",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "GONADOTROPINCHORIONIC"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "0929301100  美商默沙東藥廠股份有限公司台灣分公司",
-    "申請商地址": "台北市信義區信義路五段106號12樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F170022000  N.V. ORGANON",
         "製造廠廠址": "KLOOSTERSTRAAT 6 5349 AB OSS,THE NETHERLANDS",
         "製造廠公司地址": "",
-        "製造廠國別": "NETHERLANDS",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30043900005 醫藥製劑，含有其他內分泌素者Medicaments, containing other hormones",
     "藥理治療分類": "",
@@ -42,6 +41,20 @@
             "含量描述": "",
             "含量": "1500.0000000000",
             "單位": "IU (I"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "Pregnyl Injection_IPC_104-9-30-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015469&Seq=001&Type=9"
+        },
+        {
+            "title": "Pregnyl Injection 5000 IU Label-104-08-25(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015469&Seq=002&Type=8"
+        },
+        {
+            "title": "Pregnyl 1500 UI Carton-104-08-25(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015469&Seq=001&Type=8"
         }
     ]
 }

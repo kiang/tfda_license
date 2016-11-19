@@ -1,7 +1,7 @@
 {
     "code": "02012898",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02012898",
-    "time": "2015-08-23 06:50:56",
+    "time": "2016-11-18 18:30:20",
     "許可證字號": "衛署藥輸字第012898號",
     "註銷狀態": "已註銷",
     "註銷日期": "93\/12\/23",
@@ -17,20 +17,19 @@
     "適應症": "妊娠期間皮膚異常乾燥",
     "劑型": "375洗劑",
     "包裝": "瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "07須經醫師指示使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "COTTONSEED OIL, CAMPHOR, MENTHOL DL-, ALCOHOL DENATURED, LECITHIN(LECITHOL), OLEIC ACID, POTASSIUM HYDROXIDE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "COTTONSEEDOIL,CAMPHOR,DL-MENTHOL,ALCOHOLDENATURED,LECITHIN(LECITHOL),OLEICACID,POTASSIUMHYDROXIDE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1300601100  新立貿易股份有限公司",
-    "申請商地址": "台北巿大安區新生南路一段137巷8號2樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F460236000  S.S.S. COMPANY",
         "製造廠廠址": "71 UNIVERSITY AVE. S.W.ATLANTA GA 30302.",
         "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -54,7 +53,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "8408000303",
-            "成分名稱": "MENTHOL DL-",
+            "成分名稱": "DL-MENTHOL",
             "含量描述": "10.0",
             "含量": "10.0000000000",
             "單位": "MG"

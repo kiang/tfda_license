@@ -1,7 +1,7 @@
 {
     "code": "02018491",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02018491",
-    "time": "2015-08-23 11:26:28",
+    "time": "2016-11-18 19:30:10",
     "許可證字號": "衛署藥輸字第018491號",
     "註銷狀態": "已註銷",
     "註銷日期": "83\/05\/27",
@@ -17,20 +17,19 @@
     "適應症": "結膜炎、角膜炎、結膜充血、眼瞼緣炎、淚囊炎",
     "劑型": "472點眼液劑",
     "包裝": "瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "CHLORPHENIRAMINE MALEATE, CHONDROITIN SULFATE SODIUM (EQ TO SODIUM CHONDROITIN SULFATE ), ASPARTATE MAGNESIUM L-, ASPARTATE POTASSIUM L- (eq to POTASSIUM L-ASPARTATE), MENTHOL L-, ALLANTOIN, PANTHENOL, PYRIDOXINE HCL, CYANOCOBALAMIN (VIT B12)",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "CHLORPHENIRAMINEMALEATE,CHONDROITINSULFATESODIUM(EQTOSODIUMCHONDROITINSULFATE),ASPARTATEMAGNESIUML-,ASPARTATEPOTASSIUML-(eqtoPOTASSIUML-ASPARTATE),L-MENTHOL,ALLANTOIN,PANTHENOL,PYRIDOXINEHCL,CYANOCOBALAMIN(VITB12)"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "0616601100  吉宮貿易有限公司",
-    "申請商地址": "台北巿合江街１３０巷１８號３樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F260180000  MEIJI YAKUHIN CO. LTD.",
         "製造廠廠址": "6 SANGO TOYAMACITY,",
         "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -70,7 +69,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "8408000302",
-            "成分名稱": "MENTHOL L-",
+            "成分名稱": "L-MENTHOL",
             "含量描述": "0.0875",
             "含量": "0.0875000000",
             "單位": "MG"

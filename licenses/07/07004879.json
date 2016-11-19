@@ -1,7 +1,7 @@
 {
     "code": "07004879",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07004879",
-    "time": "2015-10-30 04:46:33",
+    "time": "2016-11-19 02:37:01",
     "許可證字號": "衛署粧製字第004879號",
     "註銷狀態": "已註銷",
     "註銷日期": "104\/08\/06",
@@ -17,20 +17,19 @@
     "用途": "防曬。",
     "劑型": "990乳霜劑",
     "包裝": "500ml以下瓶裝 附外盒裝",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0711防晒乳液",
-    "": "",
-    "主成分略述": "OCTYL METHOXYCINNAMATE (PARSOL KCX), BENZOPHENONE-3, TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE), OCTOCRYLENE, METHYLENE BIS-BENZOTRIAZOLYL TETRAMETHYLBUTYLPHENOL",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "OCTYLMETHOXYCINNAMATE(PARSOLKCX),BENZOPHENONE-3,TITANIUMDIOXIDE(EQTOTITANIUMOXIDE),OCTOCRYLENE,METHYLENEBIS-BENZOTRIAZOLYLTETRAMETHYLBUTYLPHENOL"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "6629033016  夏利斯國際有限公司",
-    "申請商地址": "台北市中山區民生東路1段43號9樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "5840041068  美麗徠化粧品美容工業股份有限公司",
         "製造廠廠址": "嘉義縣民雄鄉民雄工業區新生街1之2號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -74,6 +73,12 @@
             "含量描述": "",
             "含量": "2.7500000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "07004879-2008-10-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004879&Seq=001&Type=9"
         }
     ]
 }

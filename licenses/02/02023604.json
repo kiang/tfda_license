@@ -1,7 +1,7 @@
 {
     "code": "02023604",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023604",
-    "time": "2015-08-23 12:51:08",
+    "time": "2016-11-18 20:23:11",
     "許可證字號": "衛署藥輸字第023604號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "末稍血管循管障礙。",
     "劑型": "132軟膠囊劑",
     "包裝": "3-1000粒鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "TOCOPHEROL NICOTINATE, TRIGLYCERIDES OF FATTY ACID MEDIUM CHAIN",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "TOCOPHEROLNICOTINATE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "0318901100  大正貿易有限公司",
-    "申請商地址": "台北市中山區四平街18號2樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F260367000  TOKAI CAPSULE CO. LTD.",
         "製造廠廠址": "168, KUZAWA, FUJI-SHI, SHIZUOKA-KEN",
         "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30045000009 含有維他命或第２９３６節產品之其他醫藥製劑Other medicaments containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
@@ -42,14 +41,40 @@
             "含量描述": "",
             "含量": "200.0000000000",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "妥可脂_仿單加刊賦形劑_TFDA-105-02-25(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023604&Seq=001&Type=9"
         },
         {
-            "成分類別": "主成分",
-            "成分代碼": "9600053330",
-            "成分名稱": "TRIGLYCERIDES OF FATTY ACID MEDIUM CHAIN",
-            "含量描述": "",
-            "含量": "75.0000000000",
-            "單位": "MG"
+            "title": "023604_1000caps_PPT_F-105-01-19(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023604&Seq=007&Type=8"
+        },
+        {
+            "title": "023604_1000caps_PPT_B-105-01-19(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023604&Seq=006&Type=8"
+        },
+        {
+            "title": "023604_1000caps_box5-105-01-19(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023604&Seq=005&Type=8"
+        },
+        {
+            "title": "023604_1000caps_box4-105-01-19(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023604&Seq=004&Type=8"
+        },
+        {
+            "title": "023604_1000caps_box3-105-01-19(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023604&Seq=003&Type=8"
+        },
+        {
+            "title": "023604_1000caps_box2-105-01-19(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023604&Seq=002&Type=8"
+        },
+        {
+            "title": "023604_1000caps_box1-105-01-19(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023604&Seq=001&Type=8"
         }
     ]
 }

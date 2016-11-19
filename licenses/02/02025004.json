@@ -1,7 +1,7 @@
 {
     "code": "02025004",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025004",
-    "time": "2015-08-23 13:02:52",
+    "time": "2016-11-18 20:37:55",
     "許可證字號": "衛署藥輸字第025004號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,21 +17,19 @@
     "適應症": "第2型糖尿病。",
     "劑型": "270注射劑",
     "包裝": "1.2及2.4毫升注射筆裝 100支以下盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "EXENATIDE",
-    "限制項目": [
-        "02輸入",
-        "52依本署七七公告於國內進行臨床試驗且核定為新藥"
+    "主成分略述": [
+        "EXENATIDE"
     ],
+    "限制項目": "02輸　入 52依本署七七公告於國內進行臨床試驗且核定為新藥",
     "申請商名稱": "1434901100  臺灣阿斯特捷利康股份有限公司",
-    "申請商地址": "台北市大安區敦化南路二段207號21樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F460485000  BAXTER PHARMACEUTICALS SOLUTIONS LLC",
         "製造廠廠址": "927 SOUTH CURRY PIKE, BLOOMINGTON, IN 47403, USA.",
         "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -63,6 +61,10 @@
     ],
     "仿單外盒": [
         {
+            "title": "美國降爾糖仿單-Byetta USA leaflet-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025004&Seq=005&Type=9"
+        },
+        {
             "title": "美國降爾糖仿單-Byetta USA leaflet-103-12-23.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025004&Seq=004&Type=9"
         },
@@ -73,6 +75,14 @@
         {
             "title": "美國降爾糖5mcg使用說明-Byetta USA 5mcg User manual-103-12-23.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025004&Seq=002&Type=9"
+        },
+        {
+            "title": "美國降爾糖10mcg外盒-Byetta USA 10mcg Carton-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025004&Seq=002&Type=8"
+        },
+        {
+            "title": "美國降爾糖5mcg外盒-Byetta USA 5mcg Carton-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025004&Seq=001&Type=8"
         }
     ]
 }

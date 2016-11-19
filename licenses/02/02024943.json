@@ -1,7 +1,7 @@
 {
     "code": "02024943",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024943",
-    "time": "2015-11-27 05:12:42",
+    "time": "2016-11-18 20:37:21",
     "許可證字號": "衛署藥輸字第024943號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "螢光造影劑。",
     "劑型": "270注射劑",
     "包裝": "5毫升安瓿 100支以下盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "FLUORESCEIN SODIUM (URANIN)(URANIN YELLOW)",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "FLUORESCEINSODIUM(URANIN)(URANINYELLOW)"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1225201100  裕利股份有限公司",
-    "申請商地址": "台北市松山區南京東路四段126號10樓，10樓之1-3",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F470376000  B. BRAUN MELSUNGEN AG",
         "製造廠廠址": "MISTELWEG 2, D-12357 BERLIN, GERMANY",
         "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -62,12 +61,28 @@
     ],
     "仿單外盒": [
         {
+            "title": "Fluorescein TWI-070911-104-09-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024943&Seq=003&Type=9"
+        },
+        {
             "title": "Fluorescein_EN-102-08-13.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024943&Seq=002&Type=9"
         },
         {
             "title": "Fluorescein _中文-102-08-13.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024943&Seq=001&Type=9"
+        },
+        {
+            "title": "中文標籤(Novartis)-104-09-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024943&Seq=003&Type=8"
+        },
+        {
+            "title": "10 ampoule外盒(Novartis)-104-09-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024943&Seq=002&Type=8"
+        },
+        {
+            "title": "5 ampoule外盒(Novartis)-104-09-24(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024943&Seq=001&Type=8"
         }
     ]
 }
