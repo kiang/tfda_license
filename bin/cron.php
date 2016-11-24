@@ -3,6 +3,8 @@
 $path = dirname(__DIR__);
 $now = date('Y-m-d H:i:s');
 
+exec("/bin/rm -Rf " . __DIR__ . '/cache/reports/data');
+
 exec("/usr/bin/php -q {$path}/reports.php");
 
 exec("cd {$path} && /usr/bin/git pull");
