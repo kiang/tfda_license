@@ -1,7 +1,7 @@
 {
     "code": "10000453",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000453",
-    "time": "2016-09-30 03:41:54",
+    "time": "2016-12-09 03:04:55",
     "許可證字號": "衛署菌疫輸字第000453號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "預防流感。",
     "劑型": "271滅菌懸液注射劑",
     "包裝": "0.25ML注射針筒 \/盒裝 0.5ML注射針筒 \/盒裝 20支或50支盒裝 5ML小瓶裝 10支\/盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "A\/California\/7\/2009 (H1N1)pdm09-like strain (A\/California\/7\/2009,NYMC X-179A), A\/Switzerland\/9715293\/2013 (H3N2)-like strain(A\/South Australia\/55\/2014, IVR-175), B\/Phuket\/3073\/2013",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "A\/California\/7\/2009(H1N1)pdm09-likestrain(A\/California\/7\/2009,NYMCX-179A),A\/HongKong\/4801\/2014(H3N2)-likestrain(A\/HongKong\/4801\/2014,NYMCX-263B),B\/Brisbane\/60\/2008-likestrain(B\/Brisbane\/60\/2008,wildtype)"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1424601100  賽諾菲股份有限公司",
-    "申請商地址": "台北市信義區松仁路3號7樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F150256000  SANOFI PASTEUR S.A.",
         "製造廠廠址": "PARC INDUSTRIEL D'INCARVILLE, BP.101, 27101(OR 27100), VAL DE REUIL CEDEX, FRANCE",
         "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": "原料藥及成品製造廠"
+        "": ""
     },
     "CCC號列": "30022000008 人類醫藥用疫苗Vaccines for human medicine",
     "藥理治療分類": "",
@@ -54,22 +53,34 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8012005750",
-            "成分名稱": "A\/Switzerland\/9715293\/2013 (H3N2)-like strain(A\/South Australia\/55\/2014, IVR-175)",
+            "成分代碼": "8012005780",
+            "成分名稱": "A\/Hong Kong\/4801\/2014 (H3N2)-like strain (A\/Hong Kong\/4801\/2014, NYMC X-263B)",
             "含量描述": "",
             "含量": "15.0000000000",
             "單位": "ug haemagglutinin"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8012006220",
-            "成分名稱": "B\/Phuket\/3073\/2013",
+            "成分代碼": "8012006530",
+            "成分名稱": "B\/Brisbane\/60\/2008-like strain (B\/Brisbane\/60\/2008, wild type)",
             "含量描述": "",
             "含量": "15.0000000000",
             "單位": "ug haemagglutinin"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "Leaflet_巴斯德流感疫苗314 ped_2016 17_Approval_clean_F-105-10-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000453&Seq=072&Type=9"
+        },
+        {
+            "title": "Leaflet_巴斯德流感疫苗314 Adult_2016 17_民眾版_Approval_clean_F-105-10-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000453&Seq=071&Type=9"
+        },
+        {
+            "title": "Leaflet_巴斯德流感疫苗314 Adult_2016 17_Approval_clean_F-105-10-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000453&Seq=070&Type=9"
+        },
         {
             "title": "Leaflet_巴斯德流感疫苗314 Ped_2015 16_approval_Clean_0917-104-12-26(廠商自行上傳).pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000453&Seq=069&Type=9"
@@ -337,6 +348,18 @@
         {
             "title": "020004530001___20110727.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000453&Seq=001&Type=9"
+        },
+        {
+            "title": "Artwork_Vaxigirp_2016 2017_Pediatric-105-10-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000453&Seq=073&Type=8"
+        },
+        {
+            "title": "Artwork_Vaxigirp_2016 2017_adult-105-10-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000453&Seq=072&Type=8"
+        },
+        {
+            "title": "Artwork_Vaxigirp_2016 2017_adult._ 20 PFS boxpdf-105-10-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000453&Seq=071&Type=8"
         },
         {
             "title": "Artwork_Vaxigrip_Pediatric_TFDA_20150917-104-12-26(廠商自行上傳).pdf",

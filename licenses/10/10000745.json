@@ -1,7 +1,7 @@
 {
     "code": "10000745",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000745",
-    "time": "2016-03-25 04:22:40",
+    "time": "2016-12-09 03:04:58",
     "許可證字號": "衛署菌疫輸字第000745號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "適應症": "糖尿病。",
     "劑型": "270注射劑",
     "包裝": "小瓶",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "INSULIN GLARGINE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "INSULINGLARGINE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1424601100  賽諾菲股份有限公司",
-    "申請商地址": "台北市信義區松仁路3號7樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F470108000  SANOFI-AVENTIS DEUTSCHLAND GMBH",
-        "製造廠廠址": "D-65926 FRANKFURT AM MAIN,GERMANY",
+        "製造廠廠址": "Bruningstrasse 50, D-65926 Frankfurt am Main, Germany",
         "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30043100003 醫藥製劑，含有胰島素者Medicaments, containing insulin",
     "藥理治療分類": "",
@@ -54,6 +53,14 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "Lantus 10ml vial_LPI_E_CCDS v18_TFDA comment 2016.10.27 clean-105-10-28.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000745&Seq=041&Type=9"
+        },
+        {
+            "title": "Lantus 10ml vial_LPI_C_CCDS v18_TFDA comment 2016.10.27 clean-105-10-28.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000745&Seq=040&Type=9"
+        },
         {
             "title": "000745-105-01-25.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000745&Seq=039&Type=9"

@@ -1,7 +1,7 @@
 {
     "code": "01001086",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01001086",
-    "time": "2016-11-18 09:09:12",
+    "time": "2016-12-09 03:00:11",
     "許可證字號": "衛署藥製字第001086號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,7 +16,7 @@
     "英文品名": "GLUCOSE INJECTION 10% &quot;Y.F.&quot;",
     "適應症": "營養、利尿、解毒",
     "劑型": "270注射劑",
-    "包裝": "100支以下盒裝 20毫升安瓿 250、500、1000毫升塑膠軟袋裝 500、1000毫升塑膠瓶裝 500、1000毫升玻璃瓶裝 10、20毫升LDPE塑膠安瓿裝 100之以下盒裝100毫升 250毫升 500毫升 1000毫升LDPE塑膠瓶裝",
+    "包裝": "100支以下盒裝 250、500、1000毫升塑膠軟袋裝 100、250、500、1000毫升LDPE塑膠瓶裝 10、20毫升LDPE塑膠安瓿裝",
     "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
     "主成分略述": [
@@ -39,11 +39,15 @@
             "成分代碼": "4020000500",
             "成分名稱": "DEXTROSE",
             "含量描述": "",
-            "含量": "2.0000000000",
-            "單位": "GM"
+            "含量": "100.0000000000",
+            "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "010010860001-105-11-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001086&Seq=004&Type=9"
+        },
         {
             "title": "說明書-104-09-21(廠商自行上傳).pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001086&Seq=003&Type=9"
@@ -55,6 +59,26 @@
         {
             "title": "010010860001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001086&Seq=001&Type=9"
+        },
+        {
+            "title": "010010860006-105-11-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001086&Seq=007&Type=8"
+        },
+        {
+            "title": "010010860005-105-11-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001086&Seq=006&Type=8"
+        },
+        {
+            "title": "010010860003-105-11-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001086&Seq=005&Type=8"
+        },
+        {
+            "title": "010010860004-105-11-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001086&Seq=004&Type=8"
+        },
+        {
+            "title": "010010860002-105-11-22.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001086&Seq=003&Type=8"
         },
         {
             "title": "1000ML軟袋紙箱-104-09-21(廠商自行上傳).pdf",

@@ -1,7 +1,7 @@
 {
     "code": "08018691",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018691",
-    "time": "2015-08-23 20:26:11",
+    "time": "2016-12-09 03:24:47",
     "許可證字號": "衛署粧輸字第018691號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "用途": "染髮。",
     "劑型": "990乳霜劑",
     "包裝": "500公撮以下軟管裝附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "Ammonium Hydroxide (21.5% w\/w ammonia in water), P-METHYLAMINOPHENOL SULFATE, M-AMINOPHENOL SULFATE, P-AMINOPHENOL, 2-METHYLRESORCINOL, 4-AMINO-2-HYDROXYTOLUENE, P-PHENYLENEDIAMINE, 2-AMINO-6-CHLORO-4-NITROPHENOL",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "AmmoniumHydroxide(21.5%w\/wammoniainwater),P-METHYLAMINOPHENOLSULFATE,M-AMINOPHENOLSULFATE,P-AMINOPHENOL,2-METHYLRESORCINOL,4-AMINO-2-HYDROXYTOLUENE,P-PHENYLENEDIAMINE,2-AMINO-6-CHLORO-4-NITROPHENOL"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1217602100  喜徠化粧品股份有限公司",
-    "申請商地址": "台北市大安區復興南路一段237號7樓之1",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C250001000  FRAMESI S.P.A.",
         "製造廠廠址": "STRADA STATALE DEI GIOVI 135 20037 PADERNO DUGNANO (MILANO) ITALY",
         "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -98,6 +97,12 @@
             "含量描述": "",
             "含量": "0.0600000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08018691-105-07-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018691&Seq=001&Type=8"
         }
     ]
 }

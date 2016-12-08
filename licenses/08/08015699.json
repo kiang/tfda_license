@@ -1,11 +1,11 @@
 {
     "code": "08015699",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08015699",
-    "time": "2015-08-23 19:56:24",
+    "time": "2016-12-09 03:15:54",
     "許可證字號": "衛署粧輸字第015699號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "105\/11\/11",
+    "註銷理由": "許可證已逾有效期",
     "有效日期": "103\/01\/14",
     "發證日期": "98\/01\/14",
     "許可證種類": "含藥化粧品",
@@ -13,24 +13,23 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00801569901",
     "中文品名": "活水保濕乳液 SPF10 (適用於油\/混合性肌膚)",
-    "英文品名": "APIVITA aqua vita, 24HOUR MOISTURIZING CREAM FOR OILY\/ COMBINATION SKIN with chaste tree & propolis SPF 10",
+    "英文品名": "APIVITA aqua vita, 24HOUR MOISTURIZING CREAM FOR OILY\/ COMBINATION SKIN with chaste tree &amp; propolis SPF 10",
     "用途": "防曬、保濕。",
     "劑型": "990乳霜劑",
     "包裝": "500公撮以下瓶裝 附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0711防晒乳液",
-    "": "",
-    "主成分略述": "BUTYL METHOXYDIBENZOYLMETHANE, ETHYLHEXYL METHOXYCINNAMATE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "BUTYLMETHOXYDIBENZOYLMETHANE,ETHYLHEXYLMETHOXYCINNAMATE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "620110S863  平珩國際股份有限公司",
-    "申請商地址": "台北市南港區園區街3號2樓之7",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C160007000  GEORGANTAS S.A.",
         "製造廠廠址": "7-9 PAPANDREOU STR., MELISSIA, GREECE",
         "製造廠公司地址": "",
-        "製造廠國別": "GREECE",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -50,6 +49,12 @@
             "含量描述": "(OCTINOXATE)",
             "含量": "5.0000000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08015699-2009-01-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015699&Seq=001&Type=9"
         }
     ]
 }

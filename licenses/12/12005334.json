@@ -1,7 +1,7 @@
 {
     "code": "12005334",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12005334",
-    "time": "2015-08-22 17:43:49",
+    "time": "2016-12-09 03:05:12",
     "許可證字號": "內衛藥製字第005334號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,24 @@
     "舊證字號": "00000000",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY01200533408",
-    "中文品名": "葡萄糖氯化鈉注射液",
-    "英文品名": "INJECTION DEXTROSIET SODII CHLORIDI \"CHI SHENG\"",
+    "中文品名": "&quot;濟生&quot;葡萄糖氯化鈉注射液",
+    "英文品名": "INJECTION DEXTROSIET SODII CHLORIDI &quot;CHI SHENG&quot;",
     "適應症": "營養減退及衰弱、急慢性腹膜炎、虛脫狀態、水份補給",
     "劑型": "270注射劑",
-    "包裝": "安瓿 瓶裝 袋裝",
+    "包裝": "250、500、1000毫升塑膠瓶裝 250、500、1000毫升玻璃瓶裝 250、500、1000毫升塑膠袋裝 20、50、100、250毫升玻璃安瓿裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "SODIUM CHLORIDE, DEXTROSE MONOHYDRATE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "SODIUMCHLORIDE,DEXTROSEMONOHYDRATE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1802006200  濟生化學製藥廠股份有限公司",
-    "申請商地址": "新竹縣湖口鄉新竹工業區實踐路３號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1802006300  濟生化學製藥廠股份有限公司",
         "製造廠廠址": "新竹縣湖口鄉新竹工業區實踐路３號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -54,8 +53,24 @@
     ],
     "仿單外盒": [
         {
+            "title": "葡萄糖氯化鈉注射液 仿單-105-08-30.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005334&Seq=003&Type=9"
+        },
+        {
+            "title": "222 仿單 葡萄糖氯化鈉注射液(INJECTION DEXTROSIET SODII CHLORIDI CHI SHENG)-104-09-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005334&Seq=002&Type=9"
+        },
+        {
             "title": "30-葡萄糖氯化鈉-102-10-22.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005334&Seq=001&Type=9"
+        },
+        {
+            "title": "葡萄糖氯化鈉注射液 標籤-105-08-30.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005334&Seq=002&Type=8"
+        },
+        {
+            "title": "222 標籤 葡萄糖氯化鈉注射液(INJECTION DEXTROSIET SODII CHLORIDI CHI SHENG)-104-09-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005334&Seq=001&Type=8"
         }
     ]
 }

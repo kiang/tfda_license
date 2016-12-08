@@ -1,11 +1,11 @@
 {
     "code": "40000514",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=40000514",
-    "time": "2015-08-23 22:28:43",
+    "time": "2016-12-09 03:16:43",
     "許可證字號": "衛署粧陸輸字第000514號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "105\/11\/11",
+    "註銷理由": "許可證已逾有效期",
     "有效日期": "103\/04\/02",
     "發證日期": "98\/04\/02",
     "許可證種類": "含藥化粧品",
@@ -17,21 +17,19 @@
     "用途": "防曬、修飾肌膚。",
     "劑型": "992霜劑",
     "包裝": "500g以下瓶裝 無外盒裝",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0714防晒化粧用品",
-    "": "",
-    "主成分略述": "TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE), TEREPHTHALYLIDENE DICAMPHOR SULFONIC ACID, ETHYLHEXYL METHOXYCINNAMATE",
-    "限制項目": [
-        "02輸入",
-        "40大陸生產"
+    "主成分略述": [
+        "TITANIUMDIOXIDE(EQTOTITANIUMOXIDE),TEREPHTHALYLIDENEDICAMPHORSULFONICACID,ETHYLHEXYLMETHOXYCINNAMATE"
     ],
+    "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6623991432  臺灣萊雅股份有限公司",
-    "申請商地址": "台北市信義區信義路五段7號22樓23樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C640007000  BEAUTYCOS INTERNATIONAL CO., LTD.",
         "製造廠廠址": "NO.22 ZI TENG STREET JIN JI HU ROAD, SUZHOU 215021 CHINA",
         "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "33049910105 含藥之面霜Medicated face cream",
     "藥理治療分類": "",
@@ -59,6 +57,12 @@
             "含量描述": "",
             "含量": "8.4915000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "40000514-2009-04-02.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000514&Seq=001&Type=9"
         }
     ]
 }

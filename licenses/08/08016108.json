@@ -1,36 +1,35 @@
 {
     "code": "08016108",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016108",
-    "time": "2015-08-23 19:43:03",
+    "time": "2016-12-09 03:16:33",
     "許可證字號": "衛署粧輸字第016108號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "105\/11\/11",
+    "註銷理由": "許可證已逾有效期",
     "有效日期": "103\/05\/07",
     "發證日期": "98\/05\/07",
     "許可證種類": "含藥化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00801610806",
-    "中文品名": "1.伊&#33971;貝寶貝防曬霜 SPF50+ 2.輕紗美顏防曬霜 SPF25",
-    "英文品名": "1.Nautr & Sun High Protection Baby Sun Cream 2.Nautr & Sun Medium Protection Sun Cream",
+    "中文品名": "1.伊&amp;#33971;貝寶貝防曬霜 SPF50+ 2.輕紗美顏防曬霜 SPF25",
+    "英文品名": "1.Nautr &amp; Sun High Protection Baby Sun Cream 2.Nautr &amp; Sun Medium Protection Sun Cream",
     "用途": "防曬。",
     "劑型": "992霜劑",
     "包裝": "500ml以下軟管裝 附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0714防晒化粧用品",
-    "": "",
-    "主成分略述": "ZINC OXIDE, TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "ZINCOXIDE,TITANIUMDIOXIDE(EQTOTITANIUMOXIDE)"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "6680549698  一邑有限公司",
-    "申請商地址": "新北市板橋區永豐街49巷48弄6號1樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C250082000  BEMA COSMETICI DI BEDENDO LUIGIA &amp; C.S.A.S",
         "製造廠廠址": "VIA G. PASCOLI N.34\/36 45100 ROVIGO ITALY",
         "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -66,6 +65,12 @@
             "含量描述": "",
             "含量": "7.0000000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08016108-2009-05-07.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016108&Seq=001&Type=9"
         }
     ]
 }

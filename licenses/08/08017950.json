@@ -1,7 +1,7 @@
 {
     "code": "08017950",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08017950",
-    "time": "2016-10-28 03:53:36",
+    "time": "2016-12-09 03:11:52",
     "許可證字號": "衛署粧輸字第017950號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
     "主成分略述": [
-        "AMMONIAWATER(AMMONIUMHYDROXIDE),HYDROGENPEROXIDE,RESORCINOL(RESORCIN),AMINOPHENOLMETA-(EQTOM-AMINOPHENOL),P-AMINOPHENOL,4-AMINO-2-HYDROXYTOLUENE,P-PHENYLENEDIAMINE"
+        "AMMONIAWATER(AMMONIUMHYDROXIDE),HYDROGENPEROXIDE,RESORCINOL(RESORCIN),P-AMINOPHENOL,m-Aminophenol,4-AMINO-2-HYDROXYTOLUENE,TOLUENE-2,5-DIAMINESULFATE"
     ],
     "限制項目": "02輸　入",
     "申請商名稱": "6628711522  台灣朋友化粧品股份有限公司",
@@ -39,7 +39,7 @@
             "成分代碼": "2820000102",
             "成分名稱": "AMMONIA WATER (AMMONIUM HYDROXIDE)",
             "含量描述": "",
-            "含量": "0.8500000000",
+            "含量": "0.8600000000",
             "單位": "%(W\/W)"
         },
         {
@@ -47,15 +47,7 @@
             "成分代碼": "8428000500",
             "成分名稱": "RESORCINOL (RESORCIN)",
             "含量描述": "",
-            "含量": "0.5300000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200035403",
-            "成分名稱": "AMINOPHENOL META- (EQ TO M-AMINOPHENOL)",
-            "含量描述": "",
-            "含量": "0.1200000000",
+            "含量": "0.5400000000",
             "單位": "%(W\/W)"
         },
         {
@@ -63,7 +55,15 @@
             "成分代碼": "9200035440",
             "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
-            "含量": "0.2500000000",
+            "含量": "0.4500000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200035470",
+            "成分名稱": "m-Aminophenol",
+            "含量描述": "",
+            "含量": "0.1400000000",
             "單位": "%(W\/W)"
         },
         {
@@ -71,15 +71,15 @@
             "成分代碼": "9200039000",
             "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
             "含量描述": "",
-            "含量": "0.0800000000",
+            "含量": "0.1400000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9400003200",
-            "成分名稱": "P-PHENYLENEDIAMINE",
+            "成分代碼": "9900066200",
+            "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
             "含量描述": "",
-            "含量": "0.7900000000",
+            "含量": "2.8000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -93,8 +93,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "08017950___20111220.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08017950&Seq=001&Type=8"
+            "title": "08017950-105-11-30.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08017950&Seq=002&Type=8"
         }
     ]
 }

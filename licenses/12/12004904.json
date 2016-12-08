@@ -1,7 +1,7 @@
 {
     "code": "12004904",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12004904",
-    "time": "2015-08-22 16:25:55",
+    "time": "2016-12-09 03:05:12",
     "許可證字號": "內衛藥製字第004904號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,21 +16,20 @@
     "英文品名": "GLUCO-METHIONIN B INJECTION",
     "適應症": "妊產婦惡阻、營養障礙、維他命之補給、肝臟障礙",
     "劑型": "270注射劑",
-    "包裝": "安瓿",
+    "包裝": "20毫升玻璃安瓿裝 100支以下盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "DEXTROSE MONOHYDRATE, METHIONINE DL-, NIACINAMIDE (NICOTINAMIDE), THIAMINE HYDROCHLORIDE, RIBOFLAVIN PHOSPHATE SODIUM, PYRIDOXINE HCL",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "DEXTROSEMONOHYDRATE,METHIONINEDL-,NIACINAMIDE(NICOTINAMIDE),THIAMINEHYDROCHLORIDE,RIBOFLAVINPHOSPHATESODIUM,PYRIDOXINEHCL"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1802006200  濟生化學製藥廠股份有限公司",
-    "申請商地址": "新竹縣湖口鄉新竹工業區實踐路３號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1802006300  濟生化學製藥廠股份有限公司",
         "製造廠廠址": "新竹縣湖口鄉新竹工業區實踐路３號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -86,8 +85,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "百治好寧維他糖針仿單-105-11-03.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12004904&Seq=003&Type=9"
+        },
+        {
+            "title": "175 仿單 百治好寧維他糖針(GLUCO-METHIONIN B INJECTION)-104-09-14(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12004904&Seq=002&Type=9"
+        },
+        {
             "title": "12004904-2014-02-17.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12004904&Seq=001&Type=9"
+        },
+        {
+            "title": "百治好寧維他糖針標籤-105-11-03.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12004904&Seq=001&Type=8"
         }
     ]
 }

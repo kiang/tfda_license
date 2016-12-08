@@ -1,7 +1,7 @@
 {
     "code": "58021919",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58021919",
-    "time": "2015-08-23 21:58:17",
+    "time": "2016-12-09 03:12:00",
     "許可證字號": "衛部粧輸字第021919號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "用途": "染髮。",
     "劑型": "860膏劑",
     "包裝": "500公克以下管裝附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "AMMONIA WATER (AMMONIUM HYDROXIDE), HYDROGEN PEROXIDE, RESORCINOL (RESORCIN), P-AMINOPHENOL, m-Aminophenol, 4-AMINO-2-HYDROXYTOLUENE, TOLUENE-2,5-DIAMINE SULFATE",
-    "限制項目": [
-        ""
+    "主成分略述": [
+        "AMMONIAWATER(AMMONIUMHYDROXIDE),HYDROGENPEROXIDE,RESORCINOL(RESORCIN),P-AMINOPHENOL,m-Aminophenol,4-AMINO-2-HYDROXYTOLUENE,TOLUENE-2,5-DIAMINESULFATE"
     ],
+    "限制項目": "",
     "申請商名稱": "6623929515  台灣漢高股份有限公司",
-    "申請商地址": "新北市中和區中正路866號10樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C440005000  YAMAHATSU (THAILAND) CO., LTD.",
         "製造廠廠址": "600\/48 MOO 11, SUKHAPHIBAN 8 ROAD, NONGKHAM, SRIRACHA, CHONBURI 20230, THAILAND.",
         "製造廠公司地址": "",
-        "製造廠國別": "THAILAND",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -106,6 +105,12 @@
             "含量描述": "",
             "含量": "1.0000000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "58021919-105-11-29.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58021919&Seq=002&Type=8"
         }
     ]
 }

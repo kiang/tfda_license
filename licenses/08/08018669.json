@@ -1,7 +1,7 @@
 {
     "code": "08018669",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018669",
-    "time": "2015-08-23 21:05:15",
+    "time": "2016-12-09 03:24:38",
     "許可證字號": "衛署粧輸字第018669號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "用途": "染髮。",
     "劑型": "992霜劑",
     "包裝": "500 毫升以下管裝附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "Ammonium Hydroxide (21.5% w\/w ammonia in water), 6-AMINO-M-CRESOL, P-AMINOPHENOL, 4-AMINO-2-HYDROXYTOLUENE, P-PHENYLENEDIAMINE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "AmmoniumHydroxide(21.5%w\/wammoniainwater),6-AMINO-M-CRESOL,P-AMINOPHENOL,4-AMINO-2-HYDROXYTOLUENE,P-PHENYLENEDIAMINE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "0830701100  肯邦國際股份有限公司",
-    "申請商地址": "新北市中和區建八路16號8樓之3",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C460304000  JPMS MANUFACTURING LLC",
         "製造廠廠址": "237 BUTTONWOOD ST. READING, PA 19601, USA",
         "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -154,6 +153,12 @@
             "含量描述": "",
             "含量": "0.2500000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08018669-105-07-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018669&Seq=001&Type=8"
         }
     ]
 }
