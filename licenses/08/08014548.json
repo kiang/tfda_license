@@ -1,7 +1,7 @@
 {
     "code": "08014548",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08014548",
-    "time": "2016-12-16 03:19:44",
+    "time": "2016-12-23 03:20:12",
     "許可證字號": "衛署粧輸字第014548號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "化粧品類別": "0714防晒化粧用品",
     "主成分略述": [
-        "TITANIUMDIOXIDE(EQTOTITANIUMOXIDE),ETHYLHEXYLMETHOXYCINNAMATE"
+        "ETHYLHEXYLMETHOXYCINNAMATE"
     ],
     "限制項目": "02輸　入",
     "申請商名稱": "1409304100  臺灣資生堂股份有限公司",
@@ -36,14 +36,6 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "9602020800",
-            "成分名稱": "TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)",
-            "含量描述": "",
-            "含量": "11.0300000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "9900071200",
             "成分名稱": "ETHYLHEXYL METHOXYCINNAMATE",
             "含量描述": "",
@@ -53,16 +45,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "080145480001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014548&Seq=001&Type=9"
-        },
-        {
-            "title": "080145480002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014548&Seq=002&Type=8"
-        },
-        {
-            "title": "080145480001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014548&Seq=001&Type=8"
+            "title": "08014548-105-12-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014548&Seq=003&Type=8"
         }
     ]
 }
