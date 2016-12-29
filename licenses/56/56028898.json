@@ -1,7 +1,7 @@
 {
     "code": "56028898",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028898",
-    "time": "2016-12-23 03:23:48",
+    "time": "2016-12-30 03:23:09",
     "許可證字號": "衛部醫器輸字第028898號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -39,5 +39,15 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": []
+    "ingredients": [],
+    "仿單外盒": [
+        {
+            "title": "560288980001.pdf-105-12-28.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56028898&Seq=001&Type=9"
+        },
+        {
+            "title": "560288980002.pdf-105-12-28.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56028898&Seq=001&Type=8"
+        }
+    ]
 }
