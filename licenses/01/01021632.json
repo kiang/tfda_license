@@ -1,7 +1,7 @@
 {
     "code": "01021632",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01021632",
-    "time": "2016-11-18 11:47:00",
+    "time": "2017-01-06 03:00:28",
     "許可證字號": "衛署藥製字第021632號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
     "主成分略述": [
-        "POTASSIUMACETATE,SODIUMACETATE,MAGNESIUMCHLORIDE,SODIUMCHLORIDE,DEXTROSEANHYDROUS,POTASSIUMPHOSPHATEMONOBASIC(EQTOPOTASSIUMBIPHOSPHATE)(EQTOPOTASSIUMDIHYDROGENPHOSPHATE)"
+        "POTASSIUMACETATE,SODIUMACETATEANHYDROUS,MAGNESIUMCHLORIDE,SODIUMCHLORIDE,DEXTROSEANHYDROUS,POTASSIUMPHOSPHATEMONOBASIC(EQTOPOTASSIUMBIPHOSPHATE)(EQTOPOTASSIUMDIHYDROGENPHOSPHATE)"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "1403301100  台灣大塚製藥股份有限公司",
@@ -39,48 +39,48 @@
             "成分代碼": "4008000100",
             "成分名稱": "POTASSIUM ACETATE",
             "含量描述": "",
-            "含量": "0.1180000000",
-            "單位": "GM"
+            "含量": "1.1800000000",
+            "單位": "MG"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "4008000600",
-            "成分名稱": "SODIUM ACETATE",
-            "含量描述": "",
-            "含量": "0.0660000000",
-            "單位": "GM"
+            "成分代碼": "4008000650",
+            "成分名稱": "SODIUM ACETATE ANHYDROUS",
+            "含量描述": "(EQ. TO SODIUM ACETATE TRIHYDRATE 1.095 MG)",
+            "含量": "0.6600000000",
+            "單位": "MG"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "4012001500",
             "成分名稱": "MAGNESIUM CHLORIDE",
             "含量描述": "",
-            "含量": "0.0300000000",
-            "單位": "GM"
+            "含量": "0.3000000000",
+            "單位": "MG"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "4012002100",
             "成分名稱": "SODIUM CHLORIDE",
             "含量描述": "",
-            "含量": "0.0970000000",
-            "單位": "GM"
+            "含量": "0.9700000000",
+            "單位": "MG"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "4020000550",
             "成分名稱": "DEXTROSE ANHYDROUS",
             "含量描述": "",
-            "含量": "3.8000000000",
-            "單位": "GM"
+            "含量": "38.0000000000",
+            "單位": "MG"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "5612001910",
             "成分名稱": "POTASSIUM PHOSPHATE MONOBASIC(EQ TO POTASSIUM BIPHOSPHATE)(EQ TO POTASSIUM DIHYDROGEN PHOSPHATE)",
             "含量描述": "",
-            "含量": "0.0820000000",
-            "單位": "GM"
+            "含量": "0.8200000000",
+            "單位": "MG"
         }
     ],
     "仿單外盒": [

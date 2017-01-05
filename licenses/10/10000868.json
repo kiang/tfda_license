@@ -1,7 +1,7 @@
 {
     "code": "10000868",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000868",
-    "time": "2015-09-25 04:35:07",
+    "time": "2017-01-06 03:05:09",
     "許可證字號": "衛署菌疫輸字第000868號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,30 +17,36 @@
     "適應症": "治療慢性腎病所引起的症狀性貧血。Mircera尚未核准於治療因癌症化學療法引起的貧血。",
     "劑型": "270注射劑",
     "包裝": "0.3毫升注射針筒 100支以下盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "METHOXY POLYETHYLENE GLYCOL-EPOETIN BETA",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "METHOXYPOLYETHYLENEGLYCOL-EPOETINBETA"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1901701100  羅氏大藥廠股份有限公司",
-    "申請商地址": "台北市松山區民生東路三段１３４號９樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F470261000  ROCHE DIAGNOSTICS GMBH",
         "製造廠廠址": "SANDHOFER STRASSE 116, D-68305 MANNHEIM, GERMANY",
         "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
         {
+            "製造廠名稱": "6132061151  裕利股份有限公司",
+            "製造廠廠址": "桃園市大園區和平里1鄰開和路91號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠(委託貼標及置入仿單)"
+        },
+        {
             "製造廠名稱": "F470343000  ROCHE DIAGNOSTICS GMBH,GENMANY (PENZBERG SITE)",
             "製造廠廠址": "NONNENWALD 2, D-82377 PENZBERG, GERMANY",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
-            "製程": "許可證持有者"
+            "製程": "主成分(drug substance)製造廠"
         }
     ],
     "ingredients": [
@@ -117,6 +123,14 @@
         {
             "title": "100008680001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000868&Seq=001&Type=9"
+        },
+        {
+            "title": "Mircera 50mcg_外盒貼標_00868-1-LAB-01-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000868&Seq=006&Type=8"
+        },
+        {
+            "title": "Mircera 50mcg_10160452_CTN-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000868&Seq=005&Type=8"
         },
         {
             "title": "10000868c0004.jpg",

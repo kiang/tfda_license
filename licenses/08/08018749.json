@@ -1,7 +1,7 @@
 {
     "code": "08018749",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018749",
-    "time": "2015-08-23 20:47:08",
+    "time": "2017-01-06 03:24:41",
     "許可證字號": "衛署粧輸字第018749號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "用途": "染髮。",
     "劑型": "992霜劑",
     "包裝": "500 ml 以下管裝附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "RESORCINOL (RESORCIN), 1-NAPHTHOL, P-AMINOPHENOL, O-AMINOPHENOL, 4-CHLORORESORCINOL, 2-METHYLRESORCINOL, 4-AMINO-2-HYDROXYTOLUENE, P-PHENYLENEDIAMINE, TOLUENE-2,5-DIAMINE, 1,5-NAPHTHALENEDIOL",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "RESORCINOL(RESORCIN),1-NAPHTHOL,P-AMINOPHENOL,O-AMINOPHENOL,4-CHLORORESORCINOL,2-METHYLRESORCINOL,4-AMINO-2-HYDROXYTOLUENE,P-PHENYLENEDIAMINE,TOLUENE-2,5-DIAMINE,1,5-NAPHTHALENEDIOL"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "6624288572  弘嘉貿易有限公司",
-    "申請商地址": "台中市西屯區潮洋里黎明路2段783號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C250021000  Rolland S.r.l",
         "製造廠廠址": "40057 QUARTO DI GRANAROLO DELL’EMILIA (BO), Via G. Lazzari, 18 Italy.",
         "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -194,6 +193,12 @@
             "含量描述": "",
             "含量": "0.0500000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08018749-105-10-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018749&Seq=001&Type=8"
         }
     ]
 }

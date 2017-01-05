@@ -1,11 +1,11 @@
 {
     "code": "08015696",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08015696",
-    "time": "2015-08-23 19:56:21",
+    "time": "2017-01-06 03:17:19",
     "許可證字號": "衛署粧輸字第015696號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "105\/12\/02",
+    "註銷理由": "許可證已逾有效期",
     "有效日期": "103\/01\/13",
     "發證日期": "98\/01\/13",
     "許可證種類": "含藥化粧品",
@@ -17,20 +17,19 @@
     "用途": "防曬、預防皮膚曬傷及曬黑。",
     "劑型": "944乳劑",
     "包裝": "500ml以下瓶裝 附外盒裝",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0711防晒乳液",
-    "": "",
-    "主成分略述": "BUTYL METHOXYDIBENZOYLMETHANE, PHENYLBENZIMIDAZOLE SULFONIC ACID, TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE), OCTOCRYLENE, ETHYLHEXYL METHOXYCINNAMATE, ETHYLHEXYL SALICYLATE, METHYLENE BIS-BENZOTRIAZOLYL TETRAMETHYLBUTYLPHENOL",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "BUTYLMETHOXYDIBENZOYLMETHANE,PHENYLBENZIMIDAZOLESULFONICACID,TITANIUMDIOXIDE(EQTOTITANIUMOXIDE),OCTOCRYLENE,ETHYLHEXYLMETHOXYCINNAMATE,ETHYLHEXYLSALICYLATE,METHYLENEBIS-BENZOTRIAZOLYLTETRAMETHYLBUTYLPHENOL"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "620110B006  卡登美容化粧品有限公司",
-    "申請商地址": "臺北市中山區南京西路３０號１０樓之３",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C410023000  SKEYNDOR S.L.U.",
         "製造廠廠址": "NAVAS DE TOLOSA, 148, 08223 TERRASSA (BARCELONA), SPAIN",
         "製造廠公司地址": "",
-        "製造廠國別": "SPAIN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -90,6 +89,12 @@
             "含量描述": "",
             "含量": "1.7500000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08015696-2009-01-13.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015696&Seq=001&Type=9"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "02019124",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019124",
-    "time": "2016-11-18 19:36:44",
+    "time": "2017-01-06 03:02:45",
     "許可證字號": "衛署藥輸字第019124號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -33,19 +33,28 @@
     },
     "CCC號列": "30049071005 抗癌藥Anti-cancer preparations",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "1003000210",
+            "成分名稱": "BLEOMYCIN HCL",
+            "含量描述": "(POTENCY)",
+            "含量": "15.0000000000",
+            "單位": "MG"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "BLEOCIN PI (Final version)___20130410.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019124&Seq=001&Type=9"
+            "title": "BLMhv(Taiwan)_PI(D-6-6AH)#KKN00636(_)-105-12-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019124&Seq=002&Type=9"
         },
         {
-            "title": "P1013545___20130410.JPG",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019124&Seq=002&Type=8"
+            "title": "BLMh15v(Taiwan)_1v.Label(C)#KKN00640(161021)-105-12-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019124&Seq=004&Type=8"
         },
         {
-            "title": "P1013519___20130410.JPG",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019124&Seq=001&Type=8"
+            "title": "BLMh15v(Taiwan)_1v.Box(E)#KKN00641(161021)-105-12-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019124&Seq=003&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "40000507",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=40000507",
-    "time": "2015-08-23 22:28:34",
+    "time": "2017-01-06 03:15:31",
     "許可證字號": "衛署粧陸輸字第000507號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,21 +17,19 @@
     "用途": "燙髮。",
     "劑型": "992霜劑",
     "包裝": "500ml以下袋裝",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0111燙髮用劑",
-    "": "",
-    "主成分略述": "AMMONIUM THIOGLYCOLATE",
-    "限制項目": [
-        "02輸入",
-        "40大陸生產"
+    "主成分略述": [
+        "AMMONIUMTHIOGLYCOLATE"
     ],
+    "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "1428601100  台灣萊雅股份有限公司",
-    "申請商地址": "台北市信義區信義路五段7號22樓23樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C640007000  BEAUTYCOS INTERNATIONAL CO., LTD.",
         "製造廠廠址": "NO.22 ZI TENG STREET JIN JI HU ROAD, SUZHOU 215021 CHINA",
         "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "33052000002 燙髮劑Preparations for permanent waving or straightening",
     "藥理治療分類": "",
@@ -43,6 +41,16 @@
             "含量描述": "",
             "含量": "8.1650000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "40000507-2009-03-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000507&Seq=001&Type=9"
+        },
+        {
+            "title": "40000507-105-12-20.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000507&Seq=001&Type=8"
         }
     ]
 }

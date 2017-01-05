@@ -1,7 +1,7 @@
 {
     "code": "12015737",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12015737",
-    "time": "2015-08-23 05:47:55",
+    "time": "2017-01-06 03:05:15",
     "許可證字號": "內衛藥製字第015737號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,24 @@
     "舊證字號": "00000000",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY01201573700",
-    "中文品名": "氯化鈉注射液",
-    "英文品名": "SOLUTIO NATRII CHLORIDI ISOTONICA \"CHI SHENG\"",
+    "中文品名": "&quot;濟生&quot;氯化鈉注射液",
+    "英文品名": "SOLUTIO NATRII CHLORIDI ISOTONICA &quot;CHI SHENG&quot;",
     "適應症": "手術時出血、急慢性腹膜炎之虛脫狀態、胃潰瘍等之急性出血、各種傳染病及中毒、水份不足之補給",
     "劑型": "270注射劑",
     "包裝": "20毫升玻璃安瓿裝 20毫升塑膠安瓿裝 50、100、150、250、350、500、1000、1500、2000、4000毫升塑膠軟袋裝 100、250、350、1000、2000毫升玻璃瓶裝 100、250、350、500、1000、2000毫升塑膠瓶裝 100支以下盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "SODIUM CHLORIDE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "SODIUMCHLORIDE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1802006200  濟生化學製藥廠股份有限公司",
-    "申請商地址": "新竹縣湖口鄉新竹工業區實踐路３號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1802006300  濟生化學製藥廠股份有限公司",
         "製造廠廠址": "新竹縣湖口鄉新竹工業區實踐路３號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -46,8 +45,24 @@
     ],
     "仿單外盒": [
         {
+            "title": "氯化鈉注射液 仿單-105-11-03.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12015737&Seq=004&Type=9"
+        },
+        {
+            "title": "431 仿單 氯化鈉注射液(SOLUTIO NATRII CHLORIDI ISOTONICA CHI SHENG)-104-09-15(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12015737&Seq=003&Type=9"
+        },
+        {
             "title": "12015737-2014-02-17.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12015737&Seq=002&Type=9"
+        },
+        {
+            "title": "氯化鈉注射液 標籤-105-11-03.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12015737&Seq=002&Type=8"
+        },
+        {
+            "title": "431 標籤 氯化鈉注射液(SOLUTIO NATRII CHLORIDI ISOTONICA CHI SHENG)-104-09-15(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12015737&Seq=001&Type=8"
         }
     ]
 }

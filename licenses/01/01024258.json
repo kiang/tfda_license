@@ -1,7 +1,7 @@
 {
     "code": "01024258",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01024258",
-    "time": "2015-08-22 21:25:22",
+    "time": "2017-01-06 03:00:31",
     "許可證字號": "衛署藥製字第024258號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,24 @@
     "舊證字號": "01021627",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102425808",
-    "中文品名": "\"大塚\"台大四號注射液",
+    "中文品名": "&quot;大塚&quot;台大四號注射液",
     "英文品名": "TAITA NO.4 INJECTION",
     "適應症": "低張性下痢時之水份、電解質、養份之補充",
     "劑型": "270注射劑",
     "包裝": "250, 500公撮塑膠瓶裝附或不附輸液管",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "POTASSIUM ACETATE, SODIUM ACETATE, SODIUM CHLORIDE, DEXTROSE ANHYDROUS, POTASSIUM PHOSPHATE MONOBASIC(EQ TO POTASSIUM BIPHOSPHATE)(EQ TO POTASSIUM DIHYDROGEN PHOSPHATE)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "POTASSIUMACETATE,SODIUMACETATEANHYDROUS,SODIUMCHLORIDE,DEXTROSEANHYDROUS,POTASSIUMPHOSPHATEMONOBASIC(EQTOPOTASSIUMBIPHOSPHATE)(EQTOPOTASSIUMDIHYDROGENPHOSPHATE)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1403301100  台灣大塚製藥股份有限公司",
-    "申請商地址": "台北市中山區復興北路378號11樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1403304300  臺灣大塚製藥股份有限公司中壢工廠",
         "製造廠廠址": "中壢市忠福里吉林路１５號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -40,46 +39,54 @@
             "成分代碼": "4008000100",
             "成分名稱": "POTASSIUM ACETATE",
             "含量描述": "",
-            "含量": "0.0790000000",
-            "單位": "GM"
+            "含量": "0.7900000000",
+            "單位": "MG"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "4008000600",
-            "成分名稱": "SODIUM ACETATE",
-            "含量描述": "",
-            "含量": "0.0660000000",
-            "單位": "GM"
+            "成分代碼": "4008000650",
+            "成分名稱": "SODIUM ACETATE ANHYDROUS",
+            "含量描述": "(EQ. TO SODIUM ACETATE TRIHYDRATE 1.095MG)",
+            "含量": "0.6600000000",
+            "單位": "MG"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "4012002100",
             "成分名稱": "SODIUM CHLORIDE",
             "含量描述": "",
-            "含量": "0.5960000000",
-            "單位": "GM"
+            "含量": "5.9600000000",
+            "單位": "MG"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "4020000550",
             "成分名稱": "DEXTROSE ANHYDROUS",
             "含量描述": "",
-            "含量": "0.8000000000",
-            "單位": "GM"
+            "含量": "8.0000000000",
+            "單位": "MG"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "5612001910",
             "成分名稱": "POTASSIUM PHOSPHATE MONOBASIC(EQ TO POTASSIUM BIPHOSPHATE)(EQ TO POTASSIUM DIHYDROGEN PHOSPHATE)",
             "含量描述": "",
-            "含量": "0.1640000000",
-            "單位": "GM"
+            "含量": "1.6400000000",
+            "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
             "title": "台大注射液(1~4號)仿單-103-05-12.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024258&Seq=001&Type=9"
+        },
+        {
+            "title": "PP18-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024258&Seq=002&Type=8"
+        },
+        {
+            "title": "PP18-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024258&Seq=001&Type=8"
         }
     ]
 }

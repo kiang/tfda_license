@@ -1,7 +1,7 @@
 {
     "code": "52026407",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026407",
-    "time": "2015-08-23 13:47:44",
+    "time": "2017-01-06 03:05:34",
     "許可證字號": "衛部藥輸字第026407號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,25 +17,30 @@
     "適應症": "與其他抗反轉錄病毒藥物合併用於治療成人及12歲以上青少年的人類免疫不全病毒(HIV)感染症。",
     "劑型": "116膜衣錠",
     "包裝": "2-1000錠以下塑膠瓶裝(HDPE)",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "Dolutegravir Sodium",
-    "限制項目": [
-        "02輸入",
-        "51免除銜接性臨床試驗"
+    "主成分略述": [
+        "DolutegravirSodium"
     ],
+    "限制項目": "02輸　入 51免除銜接性臨床試驗",
     "申請商名稱": "6201011338  荷商葛蘭素史克藥廠股份有限公司台灣分公司",
-    "申請商地址": "台北市中正區忠孝西路一段66號23-24樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F130044000  GLAXO OPERATIONS UK LIMITED",
         "製造廠廠址": "PRIORY STREET,WARE,HERTFORDSHIRE SG12 0DJ,UNITED KINGDOM.",
         "製造廠公司地址": "-",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
+        {
+            "製造廠名稱": "6132061151  裕利股份有限公司",
+            "製造廠廠址": "桃園市大園區和平里1鄰開和路91號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠(委託貼標及置入仿單)"
+        },
         {
             "製造廠名稱": "F130290000  VIIV HEALTHCARE UK LIMITED",
             "製造廠廠址": "980 GREAT WEST ROAD BRENTFORD MIDDLESEX, TW8 9GS, UNITED KINGDOM",
@@ -61,10 +66,46 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "1cm*1cm 錠劑",
+        "特殊劑型": "",
+        "顏色": "黃色",
+        "特殊氣味": "",
+        "刻痕": "2",
+        "形狀": "圓凸形",
+        "標記一": "SV 572",
+        "標記二": "50"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "520264070004-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026407&Seq=004&Type=10"
+        },
+        {
+            "title": "520264070003-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026407&Seq=003&Type=10"
+        },
+        {
+            "title": "520264070002-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026407&Seq=002&Type=10"
+        },
+        {
+            "title": "520264070001-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026407&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "Tivicay leaflet_Chinese-104-02-17.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026407&Seq=001&Type=9"
+            "title": "020264070001-106-01-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026407&Seq=003&Type=9"
+        },
+        {
+            "title": "Tivicay Film Coated tablets 50mg K485-001-01_62000000003423-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026407&Seq=002&Type=8"
+        },
+        {
+            "title": "Tivicay Film Coated tablets 50mg M485-001-01_62000000003422-104-09-30(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026407&Seq=001&Type=8"
         }
     ]
 }

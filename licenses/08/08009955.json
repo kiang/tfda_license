@@ -1,7 +1,7 @@
 {
     "code": "08009955",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08009955",
-    "time": "2015-08-23 17:43:10",
+    "time": "2017-01-06 03:24:20",
     "許可證字號": "衛署粧輸字第009955號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,24 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00800995504",
-    "中文品名": "新艷陽\/夏 防曬霜  #TRANSLUCENT #OCHRE #BEIGE",
+    "中文品名": "新艷陽\/夏 防曬霜 &lt;SPF36\/PA++&gt; #TRANSLUCENT #OCHRE #BEIGE",
     "英文品名": "SHISEIDO SUN PROTECTION STICK FOUNDATION #TRANSLUCENT #OCHRE #BEIGE",
     "用途": "防曬、美化肌膚。",
     "劑型": "860膏劑",
     "包裝": "500G以下塑膠容器裝 附外紙盒裝",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0708防晒面霜",
-    "": "",
-    "主成分略述": "OCTYL METHOXYCINNAMATE (PARSOL KCX), TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "OCTYLMETHOXYCINNAMATE(PARSOLKCX),TITANIUMDIOXIDE(EQTOTITANIUMOXIDE)"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1409304500  臺灣資生堂股份有限公司",
-    "申請商地址": "中壢市忠福里西園路１４８號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C460010100  SHISEIDO AMERICA INC. U.S.A.",
         "製造廠廠址": "366 PRINCETON HIGHTSTOWN ROAD EAST WINDSOR N.J. 8512 U.S.A.",
         "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "33049910105 含藥之面霜Medicated face cream",
     "藥理治療分類": "",
@@ -82,6 +81,12 @@
             "含量描述": "",
             "含量": "13.7500000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08009955-105-12-27.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08009955&Seq=001&Type=8"
         }
     ]
 }

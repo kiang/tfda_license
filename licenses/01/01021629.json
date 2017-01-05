@@ -1,7 +1,7 @@
 {
     "code": "01021629",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01021629",
-    "time": "2016-11-18 11:46:57",
+    "time": "2017-01-06 03:00:28",
     "許可證字號": "衛署藥製字第021629號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
     "主成分略述": [
-        "POTASSIUMACETATE,SODIUMACETATE,SODIUMCHLORIDE,DEXTROSEANHYDROUS,SODIUMPHOSPHATEMONOBASICMONOHYDRATE(SODIUMDIHYDROGENPHOSPHATEMONOHYDRATE)"
+        "POTASSIUMACETATE,SODIUMACETATEANHYDROUS,SODIUMCHLORIDE,DEXTROSEANHYDROUS,SODIUMPHOSPHATEMONOBASICMONOHYDRATE(SODIUMDIHYDROGENPHOSPHATEMONOHYDRATE)"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "1403301100  台灣大塚製藥股份有限公司",
@@ -39,40 +39,40 @@
             "成分代碼": "4008000100",
             "成分名稱": "POTASSIUM ACETATE",
             "含量描述": "",
-            "含量": "0.1180000000",
-            "單位": "GM"
+            "含量": "1.1800000000",
+            "單位": "MG"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "4008000600",
-            "成分名稱": "SODIUM ACETATE",
-            "含量描述": "",
-            "含量": "0.0660000000",
-            "單位": "GM"
+            "成分代碼": "4008000650",
+            "成分名稱": "SODIUM ACETATE ANHYDROUS",
+            "含量描述": "(EQ. TO SODIUM ACETATE TRIHYDRATE 1.095MG)",
+            "含量": "0.6600000000",
+            "單位": "MG"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "4012002100",
             "成分名稱": "SODIUM CHLORIDE",
             "含量描述": "",
-            "含量": "0.3570000000",
-            "單位": "GM"
+            "含量": "3.5700000000",
+            "單位": "MG"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "4020000550",
             "成分名稱": "DEXTROSE ANHYDROUS",
             "含量描述": "",
-            "含量": "2.0000000000",
-            "單位": "GM"
+            "含量": "20.0000000000",
+            "單位": "MG"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "5612002617",
             "成分名稱": "SODIUM PHOSPHATE MONOBASIC MONOHYDRATE (SODIUM DIHYDROGEN PHOSPHATE MONOHYDRATE)",
-            "含量描述": "(BI)",
-            "含量": "0.0830000000",
-            "單位": "GM"
+            "含量描述": "(BI) (SODIUM BIPHOSPHATE MONOHYDRATE)",
+            "含量": "0.8300000000",
+            "單位": "MG"
         }
     ],
     "仿單外盒": [
