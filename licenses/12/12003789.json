@@ -1,11 +1,11 @@
 {
     "code": "12003789",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12003789",
-    "time": "2016-05-27 07:14:07",
+    "time": "2017-02-10 03:00:47",
     "許可證字號": "內衛藥製字第003789號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "106\/01\/25",
+    "註銷理由": "許可證已逾有效期",
     "有效日期": "105\/03\/09",
     "發證日期": "59\/05\/28",
     "許可證種類": "製　劑",
@@ -17,22 +17,19 @@
     "適應症": "男性發育不全、男子更年期障礙",
     "劑型": "130膠囊劑",
     "包裝": "瓶裝 盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "CHONDROITIN SULFATE, METHIONINE DL-, METHYLTESTOSTERONE, NIACINAMIDE (NICOTINAMIDE), THIAMINE HYDROCHLORIDE, RIBOFLAVIN (VIT B2), PYRIDOXINE HCL, CYANOCOBALAMIN (VIT B12), FOLIC ACID, TOCOPHEROL ACETATE ALPHA (EQ TO VIT E ACETATE) (EQ TO VITAMIN E ACETATE), TAURINE (EQ TO 2-AMINOETHANE SULFONIC ACID)",
-    "限制項目": [
-        "01國產",
-        "09委託製造",
-        "1G不得製造"
+    "主成分略述": [
+        "CHONDROITINSULFATE,METHIONINEDL-,METHYLTESTOSTERONE,NIACINAMIDE(NICOTINAMIDE),THIAMINEHYDROCHLORIDE,RIBOFLAVIN(VITB2),PYRIDOXINEHCL,CYANOCOBALAMIN(VITB12),FOLICACID,TOCOPHEROLACETATEALPHA(EQTOVITEACETATE)(EQTOVITAMINEACETATE),TAURINE(EQTO2-AMINOETHANESULFONICACID)"
     ],
+    "限制項目": "01國　產 09委託製造 1G不得製造",
     "申請商名稱": "1205919200  富大藥品企業股份有限公司",
-    "申請商地址": "台南市開元路５８號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0910819300  威力化學製藥股份有限公司",
         "製造廠廠址": "台南市開元路６０號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049030005 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",

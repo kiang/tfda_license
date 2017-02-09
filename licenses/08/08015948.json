@@ -1,11 +1,11 @@
 {
     "code": "08015948",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08015948",
-    "time": "2015-08-23 19:57:31",
+    "time": "2017-02-10 03:02:55",
     "許可證字號": "衛署粧輸字第015948號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "106\/01\/03",
+    "註銷理由": "許可證已逾有效期",
     "有效日期": "103\/03\/31",
     "發證日期": "98\/03\/31",
     "許可證種類": "含藥化粧品",
@@ -17,20 +17,19 @@
     "用途": "防曬、預防皮膚曬傷及曬黑，保濕滋潤肌膚。",
     "劑型": "992霜劑",
     "包裝": "500ml以下瓶裝附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0714防晒化粧用品",
-    "": "",
-    "主成分略述": "AVOBENZONE ( BUTYL METHOXYDIBENZOYLMETHANE ), TITANIUM DIOXIDE CI 77891, OCTINOXATE (ETHYLHEXYL METHOXYCINNAMATE)",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "AVOBENZONE(BUTYLMETHOXYDIBENZOYLMETHANE),TITANIUMDIOXIDECI77891,OCTINOXATE(ETHYLHEXYLMETHOXYCINNAMATE)"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "6623279358  登琪爾股份有限公司",
-    "申請商地址": "臺北市北投區振興街1號2樓之1",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C460256000  ATLANTIS LABORATORIES, INC.",
         "製造廠廠址": "408 HALL STREET, CONROE, TEXAS 77301, USA",
         "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -58,6 +57,12 @@
             "含量描述": "",
             "含量": "7.5000000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08015948-2009-03-31.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015948&Seq=001&Type=9"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "08018819",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018819",
-    "time": "2015-08-23 20:09:50",
+    "time": "2017-02-10 03:09:05",
     "許可證字號": "衛署粧輸字第018819號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,24 +13,23 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00801881900",
     "中文品名": "肌因蓮華抗老日霜",
-    "英文品名": "DERM iNSTITUTE Age Blocker SPF30 Sunscreen & Moisturizer",
+    "英文品名": "DERM iNSTITUTE Age Blocker SPF30 Sunscreen &amp; Moisturizer",
     "用途": "防曬。",
     "劑型": "992霜劑",
     "包裝": "500 ml以下罐裝 附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0708防晒面霜",
-    "": "",
-    "主成分略述": "OCTYL SALICYLATE, OCTYL METHOXYCINNAMATE, BENZOPHENONE-3",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "OCTYLSALICYLATE,OCTYLMETHOXYCINNAMATE,BENZOPHENONE-3"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "6627331186  必昂國際股份有限公司",
-    "申請商地址": "台北市松山區敦化北路207號13樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C260207000  CLIENTELE INC.",
         "製造廠廠址": "14101 N.W.4TH Street, Sunrise, FL 33325 USA.",
         "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -58,6 +57,12 @@
             "含量描述": "",
             "含量": "3.0000000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08018819-105-07-29.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018819&Seq=001&Type=8"
         }
     ]
 }
