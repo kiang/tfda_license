@@ -1,7 +1,7 @@
 {
     "code": "10000944",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000944",
-    "time": "2016-12-30 03:28:12",
+    "time": "2017-03-10 03:06:25",
     "許可證字號": "衛署菌疫輸字第000944號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -35,11 +35,18 @@
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "1225204000  裕利股份有限公司",
-            "製造廠廠址": "桃園市大園區和平村1鄰舊厝子1之2號",
+            "製造廠名稱": "6132061151  裕利股份有限公司",
+            "製造廠廠址": "桃園市大園區和平里1鄰開和路91號",
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
             "製程": "二級包裝廠(委託貼標及置入仿單)"
+        },
+        {
+            "製造廠名稱": "F050087000  GLAXOSMITHKLINE BIOLOGICALS S.A.",
+            "製造廠廠址": "PARC DE LA NOIRE EPINE, RUE FLEMING 20, B-1300 WAVRE, BELGIUM",
+            "製造廠公司地址": "",
+            "製造廠國別": "BELGIUM",
+            "製程": "原料藥製造廠及包裝廠"
         }
     ],
     "ingredients": [
@@ -82,28 +89,8 @@
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000944&Seq=003&Type=9"
         },
         {
-            "title": "020009440002-103-06-13.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000944&Seq=002&Type=9"
-        },
-        {
-            "title": "020009440001-103-06-13.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000944&Seq=001&Type=9"
-        },
-        {
             "title": "020009440005-103-06-13.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000944&Seq=004&Type=8"
-        },
-        {
-            "title": "020009440004-103-06-13.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000944&Seq=003&Type=8"
-        },
-        {
-            "title": "020009440003-103-06-13.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000944&Seq=002&Type=8"
-        },
-        {
-            "title": "020009440006-103-06-13.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000944&Seq=001&Type=8"
         }
     ]
 }

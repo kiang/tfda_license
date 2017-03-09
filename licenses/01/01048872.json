@@ -1,7 +1,7 @@
 {
     "code": "01048872",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01048872",
-    "time": "2016-11-18 15:20:56",
+    "time": "2017-03-10 03:03:50",
     "許可證字號": "衛署藥製字第048872號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -65,6 +65,22 @@
             "含量描述": "",
             "含量": "25.0000000000",
             "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "7200001000",
+            "成分名稱": "LIDOCAINE",
+            "含量描述": "",
+            "含量": "25.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "7200009200",
+            "成分名稱": "PRILOCAINE",
+            "含量描述": "",
+            "含量": "25.0000000000",
+            "單位": "MG"
         }
     ],
     "仿單外盒": [
@@ -73,28 +89,8 @@
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048872&Seq=003&Type=9"
         },
         {
-            "title": "010488720002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048872&Seq=002&Type=9"
-        },
-        {
-            "title": "010488720001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048872&Seq=001&Type=9"
-        },
-        {
             "title": "CA-ON009 048872-104-09-21(廠商自行上傳).pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048872&Seq=004&Type=8"
-        },
-        {
-            "title": "010488720003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048872&Seq=003&Type=8"
-        },
-        {
-            "title": "010488720002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048872&Seq=002&Type=8"
-        },
-        {
-            "title": "010488720001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048872&Seq=001&Type=8"
         }
     ]
 }

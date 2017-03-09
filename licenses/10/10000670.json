@@ -1,7 +1,7 @@
 {
     "code": "10000670",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000670",
-    "time": "2016-07-29 05:44:22",
+    "time": "2017-03-10 03:06:14",
     "許可證字號": "衛署菌疫輸字第000670號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,23 +17,31 @@
     "適應症": "１．動員造血幹細胞至周邊血中、２．促進造血幹細胞移植時嗜中性白血球數的增加、３．癌症化學療法所引起之嗜中性白血球減少症、４．骨髓發育不良症候群的嗜中性白血球缺乏症、５．先天性、特異性嗜中性白血球缺乏症。",
     "劑型": "270注射劑",
     "包裝": "每盒10安瓿",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "FILGRASTIM",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "FILGRASTIM"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1902001100  台灣協和醱酵麒麟股份有限公司",
-    "申請商地址": "台北市中山區中山北路二段44號14樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F260472000  KYOWA HAKKO KIRIN CO, LTD., TAKASAKI PLANT",
         "製造廠廠址": "100-1, HAGIWARA-MACHI, TAKASAKI-SHI, GUNMA, JAPAN",
         "製造廠公司地址": "1-6-1, OHTEMACHI, CHIYODA-KU, TOKYO, JAPAN",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049020007 血液代用品與血漿代用品及基因重組製劑Substitutes of blood, substitutes of plasma and preparationsof gennetic recombinants",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "F260628000  NIPRO PHARMA CORPORATION ISE PLANT FOR SHIONOGI JAPAN",
+            "製造廠廠址": "647-240, Ureshinotengeji-cho, Matsusaka-shi, Mie 515-2302, Japan",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "成品製造廠"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -46,40 +54,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "[Package Insert] Filgrastim_2014JUN(新仿單_CLS_2015APR進貨)_掃描圖檔(小檔)-104-08-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000670&Seq=008&Type=9"
+            "title": "[Package Insert] Filgrastim_2015JUL_14F(2016APR進貨)_原版-105-12-26(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000670&Seq=009&Type=9"
         },
         {
-            "title": "Chinese PI TW20141006-103-11-25.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000670&Seq=007&Type=9"
-        },
-        {
-            "title": "PI_G TLGT7_2p-3p_TW201409D-103-09-23.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000670&Seq=006&Type=9"
-        },
-        {
-            "title": "PI_G TLGT7_4p-1p_TW201409D(outline)-103-09-23.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000670&Seq=005&Type=9"
-        },
-        {
-            "title": "100006700004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000670&Seq=004&Type=9"
-        },
-        {
-            "title": "100006700003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000670&Seq=003&Type=9"
-        },
-        {
-            "title": "100006700002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000670&Seq=002&Type=9"
-        },
-        {
-            "title": "100006700001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000670&Seq=001&Type=9"
-        },
-        {
-            "title": "[外盒圖檔] Filgrastim M300_2015JUL-104-08-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000670&Seq=001&Type=8"
+            "title": "[外盒圖檔] Filgrastim M300_2016DEC-105-12-26(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000670&Seq=002&Type=8"
         }
     ]
 }

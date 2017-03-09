@@ -1,7 +1,7 @@
 {
     "code": "01032860",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01032860",
-    "time": "2016-11-18 12:50:42",
+    "time": "2017-03-10 03:02:17",
     "許可證字號": "衛署藥製字第032860號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -57,6 +57,30 @@
             "含量描述": "",
             "含量": "0.1000000000",
             "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0400000810",
+            "成分名稱": "CHLORPHENIRAMINE MALEATE",
+            "含量描述": "",
+            "含量": "5.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "1212001910",
+            "成分名稱": "NAPHAZOLINE HCL",
+            "含量描述": "",
+            "含量": "0.5000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8404600310",
+            "成分名稱": "BENZALKONIUM CHLORIDE",
+            "含量描述": "",
+            "含量": "0.1000000000",
+            "單位": "MG"
         }
     ],
     "仿單外盒": [
@@ -65,36 +89,8 @@
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032860&Seq=007&Type=9"
         },
         {
-            "title": "20140729-鼻通仿單外盒-2014-08-05.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032860&Seq=006&Type=9"
-        },
-        {
-            "title": "010328600005.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032860&Seq=005&Type=9"
-        },
-        {
-            "title": "010328600004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032860&Seq=004&Type=9"
-        },
-        {
-            "title": "010328600003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032860&Seq=003&Type=9"
-        },
-        {
-            "title": "010328600002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032860&Seq=002&Type=9"
-        },
-        {
-            "title": "010328600001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032860&Seq=001&Type=9"
-        },
-        {
             "title": "NAZAL30mlTH-C-104-09-11(廠商自行上傳).pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032860&Seq=002&Type=8"
-        },
-        {
-            "title": "NAZAL15mlTH-B-104-09-11(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032860&Seq=001&Type=8"
         }
     ]
 }

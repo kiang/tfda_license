@@ -1,7 +1,7 @@
 {
     "code": "08003645",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08003645",
-    "time": "2016-08-26 04:09:07",
+    "time": "2017-03-10 03:11:36",
     "許可證字號": "衛署粧輸字第003645號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "用途": "染髮",
     "劑型": "984乳膏劑",
     "包裝": "軟管裝 罐裝",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "AMMONIA WATER (AMMONIUM HYDROXIDE), 1-NAPHTHOL, P-AMINOPHENOL, 4-AMINO-2-HYDROXYTOLUENE, TOLUENE-2,5-DIAMINE SULFATE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "AMMONIAWATER(AMMONIUMHYDROXIDE),1-NAPHTHOL,P-AMINOPHENOL,4-AMINO-2-HYDROXYTOLUENE,TOLUENE-2,5-DIAMINESULFATE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1434301100  台灣歌薇股份有限公司",
-    "申請商地址": "台北市中山區建國北路1段90號12樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C470042000  Kao Manufacturing Germany GmbH",
         "製造廠廠址": "Zerninstraβe 12-18, 64297 Darmstadt, Germany",
         "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "33059020003 染髮劑Hair dyes",
     "藥理治療分類": "",
@@ -48,7 +47,7 @@
             "成分代碼": "8436002204",
             "成分名稱": "1-NAPHTHOL",
             "含量描述": "",
-            "含量": "0.1200000000",
+            "含量": "0.0300000000",
             "單位": "%(W\/W)"
         },
         {
@@ -56,7 +55,7 @@
             "成分代碼": "9200035440",
             "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
-            "含量": "0.0200000000",
+            "含量": "0.0300000000",
             "單位": "%(W\/W)"
         },
         {
@@ -64,7 +63,7 @@
             "成分代碼": "9200039000",
             "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
             "含量描述": "",
-            "含量": "0.6000000000",
+            "含量": "0.6400000000",
             "單位": "%(W\/W)"
         },
         {
@@ -82,24 +81,12 @@
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08003645&Seq=001&Type=9"
         },
         {
+            "title": "08003645-106-02-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08003645&Seq=006&Type=8"
+        },
+        {
             "title": "080036450005.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08003645&Seq=005&Type=8"
-        },
-        {
-            "title": "080036450004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08003645&Seq=004&Type=8"
-        },
-        {
-            "title": "080036450003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08003645&Seq=003&Type=8"
-        },
-        {
-            "title": "080036450002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08003645&Seq=002&Type=8"
-        },
-        {
-            "title": "080036450001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08003645&Seq=001&Type=8"
         }
     ]
 }

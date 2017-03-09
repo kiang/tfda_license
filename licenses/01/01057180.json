@@ -1,7 +1,7 @@
 {
     "code": "01057180",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057180",
-    "time": "2016-11-18 15:52:51",
+    "time": "2017-03-10 03:04:14",
     "許可證字號": "衛署藥製字第057180號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,14 +16,14 @@
     "英文品名": "GI Klean Powder",
     "適應症": "腸道檢查、手術前淨腸。",
     "劑型": "041粉劑",
-    "包裝": "4-13包(每包72.0275g)鋁箔袋盒裝",
+    "包裝": "4-13包(每包72g~73g)鋁箔袋盒裝",
     "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
     "主成分略述": [
         "SODIUMBICARBONATE(EQTOSODIUMHYDROGENCARBONATE),POTASSIUMCHLORIDE,SODIUMCHLORIDE,SODIUMSULFATEANHYDROUS(EQTOSODIUMSULPHATEANHYDROUS),POLYETHYLENEGLYCOL3350"
     ],
     "限制項目": "01國　產 24監視期滿學名藥",
-    "申請商名稱": "620117G781  景康生技股份有限公司",
+    "申請商名稱": "6203260517  傑崴生醫科技股份有限公司",
     "主製造廠": {
         "主製造廠": "",
         "製造廠名稱": "1605609300  衛達化學製藥股份有限公司",
@@ -73,32 +73,60 @@
             "含量描述": "",
             "含量": "59.0000000000",
             "單位": "GM"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "4008000700",
+            "成分名稱": "SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE)",
+            "含量描述": "",
+            "含量": "1.6850000000",
+            "單位": "GM"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "4012001800",
+            "成分名稱": "POTASSIUM CHLORIDE",
+            "含量描述": "",
+            "含量": "0.7425000000",
+            "單位": "GM"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "4012002100",
+            "成分名稱": "SODIUM CHLORIDE",
+            "含量描述": "",
+            "含量": "1.4650000000",
+            "單位": "GM"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "4012002252",
+            "成分名稱": "SODIUM SULFATE ANHYDROUS (EQ TO SODIUM SULPHATE ANHYDROUS)",
+            "含量描述": "",
+            "含量": "5.6850000000",
+            "單位": "GM"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8424122900",
+            "成分名稱": "POLYETHYLENE GLYCOL 3350",
+            "含量描述": "",
+            "含量": "59.0000000000",
+            "單位": "GM"
         }
     ],
     "仿單外盒": [
         {
-            "title": "010571800001___20120806.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057180&Seq=002&Type=9"
+            "title": "01-057180-106-02-14.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057180&Seq=004&Type=9"
         },
         {
-            "title": "010571800001___20120420.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057180&Seq=001&Type=9"
+            "title": "05傑崴-腸見淨仿單 新增賦形劑口味-106-01-19.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057180&Seq=003&Type=9"
         },
         {
-            "title": "010571800004___20120806.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057180&Seq=004&Type=8"
-        },
-        {
-            "title": "010571800003___20120806.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057180&Seq=003&Type=8"
-        },
-        {
-            "title": "010571800002___20120806.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057180&Seq=002&Type=8"
-        },
-        {
-            "title": "010571800002___20120420.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057180&Seq=001&Type=8"
+            "title": "01腸見淨水果口味外盒-106-01-19.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057180&Seq=008&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "08016337",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016337",
-    "time": "2015-08-23 19:43:48",
+    "time": "2017-03-10 03:12:03",
     "許可證字號": "衛署粧輸字第016337號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,24 +13,23 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00801633708",
     "中文品名": "極緻露華濃豔彩染髮膏- C60 火焰紅色",
-    "英文品名": "Revlon Professional Revlonissimo Cromatics Creme Color - C60 Fire Red",
+    "英文品名": "Revlon Professional Revlonissimo Cromatics C60",
     "用途": "染頭髮。",
     "劑型": "992霜劑",
     "包裝": "500 ml以下管裝 附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "AMMONIUM HYDROXIDE 25%, BASIC ORANGE 31, BASIC YELLOW 87, BASIC RED 51",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "AMMONIUMHYDROXIDE25%,BASICORANGE31,BASICYELLOW87,BASICRED51"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "6680618580  得普國際股份有限公司",
-    "申請商地址": "台中市北屯區北屯路三六○號三樓",
     "主製造廠": {
-        "製造廠名稱": "C250056000  COLOMER ITALY S.P.A. Unipersonale",
-        "製造廠廠址": "VIA ZACCARELLI 5\/7, 40010 PADULLE DI SALA BOLOGNEESE (BO), ITALY",
+        "主製造廠": "",
+        "製造廠名稱": "C250056000  Beautyge Italy S.p.A. Unipersonale",
+        "製造廠廠址": "VIA ZACCARELLI 5\/7 40010 PADULLE DI SALA BOLOGNEESE, BOLOGNA, ITALY",
         "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -40,7 +39,7 @@
             "成分代碼": "2820000106",
             "成分名稱": "AMMONIUM HYDROXIDE 25%",
             "含量描述": "",
-            "含量": "8.0000000000",
+            "含量": "1.9560000000",
             "單位": "%(W\/W)"
         },
         {
@@ -64,8 +63,14 @@
             "成分代碼": "9602088600",
             "成分名稱": "BASIC RED 51",
             "含量描述": "",
-            "含量": "0.3000000000",
+            "含量": "0.2880000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08016337-2009-06-26.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016337&Seq=001&Type=9"
         }
     ]
 }

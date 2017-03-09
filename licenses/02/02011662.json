@@ -1,7 +1,7 @@
 {
     "code": "02011662",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02011662",
-    "time": "2016-11-18 18:16:02",
+    "time": "2017-03-10 03:04:23",
     "許可證字號": "衛署藥輸字第011662號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "01製劑原料",
     "主成分略述": [
-        "METAMAGNESIUMALUMINOSILICATE"
+        "MAGNESIUMALUMINOMETASILICATE"
     ],
     "限制項目": "02輸　入",
     "申請商名稱": "1700501100  聯宇有限公司",
@@ -36,11 +36,17 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "5604004600",
-            "成分名稱": "METAMAGNESIUM ALUMINO SILICATE",
+            "成分代碼": "5604000512",
+            "成分名稱": "MAGNESIUM ALUMINOMETASILICATE",
             "含量描述": "",
             "含量": "",
             "單位": ""
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "020116620001-106-02-13.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02011662&Seq=001&Type=8"
         }
     ]
 }
