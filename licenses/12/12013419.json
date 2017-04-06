@@ -1,36 +1,35 @@
 {
     "code": "12013419",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12013419",
-    "time": "2015-08-22 17:16:03",
+    "time": "2017-04-07 03:15:56",
     "許可證字號": "內衛藥製字第013419號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/08\/20",
+    "有效日期": "111\/08\/20",
     "發證日期": "59\/10\/28",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "null",
-    "中文品名": "\"應元\" 苯巴比特魯錠",
-    "英文品名": "PHENOBARBITAL TABLETS \"Y.Y.\"",
-    "適應症": "癲間",
+    "中文品名": "&quot;應元&quot; 苯巴比特魯錠",
+    "英文品名": "PHENOBARBITAL TABLETS &quot;Y.Y.&quot;",
+    "適應症": "癲癇",
     "劑型": "110錠劑",
     "包裝": "2-1000錠塑膠瓶裝 2-1000錠PTP 鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "D第四級管制藥品",
-    "主成分略述": "PHENOBARBITAL",
-    "限制項目": [
-        "09委託製造"
+    "主成分略述": [
+        "PHENOBARBITAL"
     ],
+    "限制項目": "09委託製造",
     "申請商名稱": "1704519200  應元化學製藥股份有限公司",
-    "申請商地址": "台南市南區新忠路２６號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1704519300  應元化學製藥股份有限公司",
         "製造廠廠址": "台南市南區新忠路２６號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
@@ -44,30 +43,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "淡紫紅",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "圓扁形",
+        "標記一": "",
+        "標記二": "088"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "S-725苯巴比特魯PTP-照片-104-09-29(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12013419&Seq=002&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "120134190002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12013419&Seq=003&Type=9"
+            "title": "S-725苯巴比特魯錠-仿單-104-09-29(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12013419&Seq=004&Type=9"
         },
         {
-            "title": "120134190001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12013419&Seq=002&Type=9"
-        },
-        {
-            "title": "120134190001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12013419&Seq=001&Type=9"
-        },
-        {
-            "title": "120134190003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12013419&Seq=003&Type=8"
-        },
-        {
-            "title": "120134190002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12013419&Seq=002&Type=8"
-        },
-        {
-            "title": "120134190001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12013419&Seq=001&Type=8"
+            "title": "S-725-1-104-09-29(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12013419&Seq=004&Type=8"
         }
     ]
 }

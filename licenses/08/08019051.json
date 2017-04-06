@@ -1,7 +1,7 @@
 {
     "code": "08019051",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08019051",
-    "time": "2015-08-23 20:48:55",
+    "time": "2017-04-07 03:22:06",
     "許可證字號": "衛署粧輸字第019051號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "用途": "染髮。",
     "劑型": "987軟膏劑",
     "包裝": "500公撮以下管裝附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "RESORCINOL (RESORCIN), M-AMINOPHENOL SULFATE, P-AMINOPHENOL, 2-METHYLRESORCINOL, P-PHENYLENEDIAMINE, 2,4-DIAMINOPHENOXYETHANOL HCL (EQ TO 2,4-DIAMINOPHENOXYETHANOL DIHYDROCHLORIDE), 2-AMINO-4-HYDROXYETHYLAMINOANISOLE SULFATE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "RESORCINOL(RESORCIN),M-AMINOPHENOLSULFATE,P-AMINOPHENOL,2-METHYLRESORCINOL,P-PHENYLENEDIAMINE,2,4-DIAMINOPHENOXYETHANOLHCL(EQTO2,4-DIAMINOPHENOXYETHANOLDIHYDROCHLORIDE),2-AMINO-4-HYDROXYETHYLAMINOANISOLESULFATE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "6616684486  凱蔚國際股份有限公司",
-    "申請商地址": "新北市新店區中正路四維巷2之1號2樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C300004000  COLOMER MEXICO S.A. DE C.V.",
         "製造廠廠址": "INSURGENTES SUR 1190, DEL VALLE, BENITO JUAREZ, DISTRITO, FEDERAL, 3100, MEXICO",
         "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -90,6 +89,12 @@
             "含量描述": "",
             "含量": "0.1674000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08019051-105-08-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019051&Seq=001&Type=8"
         }
     ]
 }

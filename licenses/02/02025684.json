@@ -1,12 +1,12 @@
 {
     "code": "02025684",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025684",
-    "time": "2016-11-18 20:44:05",
+    "time": "2017-04-07 03:15:44",
     "許可證字號": "衛署藥輸字第025684號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/04\/30",
+    "有效日期": "111\/04\/30",
     "發證日期": "101\/04\/30",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -33,6 +33,15 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "1225204000  裕利股份有限公司",
+            "製造廠廠址": "桃園市大園區和平村1鄰舊厝子1之2號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠(委託貼標及置入仿單)"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -45,36 +54,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "PI_TWI-191214-104-09-29(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025684&Seq=003&Type=9"
-        },
-        {
-            "title": "02-025684-0001_PI_TWI-191214-104-03-18.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025684&Seq=002&Type=9"
-        },
-        {
-            "title": "賽樂至山德士200毫克_仿單___20120605.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025684&Seq=001&Type=9"
+            "title": "賽樂治膠囊-TWI-251116 f-106-01-04.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025684&Seq=004&Type=9"
         },
         {
             "title": "FB-104-09-29(廠商自行上傳).pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025684&Seq=005&Type=8"
-        },
-        {
-            "title": "02-025684-0003_FL-104-03-18.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025684&Seq=004&Type=8"
-        },
-        {
-            "title": "02-025684-0002_FB-104-03-18.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025684&Seq=003&Type=8"
-        },
-        {
-            "title": "賽樂治山德士200毫克_鋁箔___20120605.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025684&Seq=002&Type=8"
-        },
-        {
-            "title": "賽樂治山德士200毫克_外盒___20120605.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025684&Seq=001&Type=8"
         }
     ]
 }

@@ -1,11 +1,11 @@
 {
     "code": "10000730",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000730",
-    "time": "2015-08-23 13:35:55",
+    "time": "2017-04-07 03:13:21",
     "許可證字號": "衛署菌疫輸字第000730號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "106\/03\/20",
+    "註銷理由": "自請註銷",
     "有效日期": "106\/09\/20",
     "發證日期": "91\/09\/20",
     "許可證種類": "菌　疫",
@@ -17,23 +17,31 @@
     "適應症": "糖尿病。",
     "劑型": "270注射劑",
     "包裝": "10公撮小瓶",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "INSULIN ASPART",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "INSULINASPART"
     ],
+    "限制項目": "02輸　入 1Q不得輸入",
     "申請商名稱": "1426801100  臺灣諾和諾德藥品股份有限公司",
-    "申請商地址": "台北市敦化南路二段２１６號７樓－１",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F110043000  NOVO NORDISK A\/S",
         "製造廠廠址": "NOVO ALLE, DK 2880 BAGSVAERD, DENMARK",
         "製造廠公司地址": "",
-        "製造廠國別": "DENMARK",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30043100003 醫藥製劑，含有胰島素者Medicaments, containing insulin",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "F110042000  NOVO NORDISK A\/S",
+            "製造廠廠址": "HALLAS ALLE, DK-4400 KALUNDBORG, DENMARK",
+            "製造廠公司地址": "",
+            "製造廠國別": "DENMARK",
+            "製程": "主成分(drug substance)製造廠"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -50,32 +58,8 @@
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000730&Seq=004&Type=9"
         },
         {
-            "title": "100007300003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000730&Seq=003&Type=9"
-        },
-        {
-            "title": "100007300002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000730&Seq=002&Type=9"
-        },
-        {
-            "title": "100007300001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000730&Seq=001&Type=9"
-        },
-        {
-            "title": "100007300004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000730&Seq=004&Type=8"
-        },
-        {
-            "title": "100007300003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000730&Seq=003&Type=8"
-        },
-        {
-            "title": "100007300002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000730&Seq=002&Type=8"
-        },
-        {
-            "title": "100007300001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000730&Seq=001&Type=8"
+            "title": "Novorapid_carton-104-09-25(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000730&Seq=005&Type=8"
         }
     ]
 }

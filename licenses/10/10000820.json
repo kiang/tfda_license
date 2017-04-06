@@ -1,7 +1,7 @@
 {
     "code": "10000820",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000820",
-    "time": "2015-10-23 04:44:01",
+    "time": "2017-04-07 03:04:34",
     "許可證字號": "衛署菌疫輸字第000820號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,23 +17,31 @@
     "適應症": "糖尿病。",
     "劑型": "270注射劑",
     "包裝": "3ml\/FlexPen,5支裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "INSULIN ASPART (INSULIN ASPART: INSULIN ASPART PROTAMINE 30:70)",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "INSULINASPART(INSULINASPART:INSULINASPARTPROTAMINE30:70)"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1426801100  台灣諾和諾德藥品股份有限公司",
-    "申請商地址": "台北市敦化南路二段２１６號７樓－１",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F150324000  Novo Nordisk Production SAS",
-        "製造廠廠址": "45, Avenue d’Orleans, F-28002 Chartres, France",
+        "製造廠廠址": "45, Avenue d’Orleans, F-28000 Chartres, France",
         "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30043100003 醫藥製劑，含有胰島素者Medicaments, containing insulin",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "F110042000  NOVO NORDISK A\/S",
+            "製造廠廠址": "HALLAS ALLE, DK-4400 KALUNDBORG, DENMARK",
+            "製造廠公司地址": "",
+            "製造廠國別": "DENMARK",
+            "製程": "主成分(drug substance)製造廠"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -46,60 +54,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "100008200002-104-06-01.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000820&Seq=006&Type=9"
+            "title": "NovoMix 30 FlexPen CS PI STF2016_clean-106-03-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000820&Seq=007&Type=9"
         },
         {
-            "title": "100008200003___20120615.JPG",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000820&Seq=005&Type=9"
+            "title": "NM30 Flexpen label-106-03-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000820&Seq=012&Type=8"
         },
         {
-            "title": "100008200002___20120615.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000820&Seq=004&Type=9"
-        },
-        {
-            "title": "100008200002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000820&Seq=003&Type=9"
-        },
-        {
-            "title": "100008200001___20120615.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000820&Seq=002&Type=9"
-        },
-        {
-            "title": "100008200001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000820&Seq=001&Type=9"
-        },
-        {
-            "title": "100008200008-104-06-01.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000820&Seq=008&Type=8"
-        },
-        {
-            "title": "100008200007-104-06-01.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000820&Seq=007&Type=8"
-        },
-        {
-            "title": "100008200006-104-06-01.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000820&Seq=006&Type=8"
-        },
-        {
-            "title": "100008200008___20120615.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000820&Seq=005&Type=8"
-        },
-        {
-            "title": "100008200007___20120615.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000820&Seq=004&Type=8"
-        },
-        {
-            "title": "100008200006___20120615.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000820&Seq=003&Type=8"
-        },
-        {
-            "title": "100008200002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000820&Seq=002&Type=8"
-        },
-        {
-            "title": "100008200001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000820&Seq=001&Type=8"
+            "title": "cc-mockup-flexpen-fr-106-03-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000820&Seq=011&Type=8"
         }
     ]
 }

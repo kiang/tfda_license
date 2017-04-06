@@ -1,7 +1,7 @@
 {
     "code": "08011186",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08011186",
-    "time": "2016-08-26 04:12:08",
+    "time": "2017-04-07 03:12:20",
     "許可證字號": "衛署粧輸字第011186號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,24 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00801118601",
-    "中文品名": "歌薇克而濃絲護髮染髮霜6BK(深棕銅色) \/5BG (金褐棕色)",
-    "英文品名": "GOLDWELL COLORANCE ACID COLOR 6BK\/7BG",
+    "中文品名": "歌薇平衡護髮染髮霜5BG (金褐棕色)",
+    "英文品名": "GOLDWELL Colorance 5BG",
     "用途": "染髮。",
     "劑型": "990乳霜劑",
-    "包裝": "500G以下鋁罐裝",
+    "包裝": "500G以下鋁罐裝，無外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "RESORCINOL (RESORCIN), 4-AMINO-M-CRESOL, AMINOPHENOL META- (EQ TO M-AMINOPHENOL), 2-METHYLRESORCINOL, HC YELLOW NO.2, TOLUENE-2,5-DIAMINE SULFATE, 2-AMINO-3-HYDROXYPYRIDINE, 2-AMINO-4-HYDROXYETHYLAMINOANISOLE SULFATE, 1-(BETA-HYDROXYETHYL)-AMINO-2-NITRO-4-AMINOBENZENE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "RESORCINOL(RESORCIN),4-AMINO-M-CRESOL,META-AMINOPHENOL(EQTOM-AMINOPHENOL),m-Aminophenol,2-METHYLRESORCINOL,SODIUMPICRAMATE,HCYELLOWNO.2,HCREDNO.3,TOLUENE-2,5-DIAMINESULFATE,2-AMINO-3-HYDROXYPYRIDINE,2-AMINO-4-HYDROXYETHYLAMINOANISOLESULFATE,1-(BETA-HYDROXYETHYL)-AMINO-2-NITRO-4-AMINOBENZENE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1434301100  台灣歌薇股份有限公司",
-    "申請商地址": "台北市中山區建國北路1段90號12樓",
     "主製造廠": {
-        "製造廠名稱": "C470042000  KPSS GMBH",
-        "製造廠廠址": "PFUNGSTADTER STRASSE 92-100, 64297 DARMSTADT, GERMANY",
+        "主製造廠": "",
+        "製造廠名稱": "C470026000  Kao Manufacturing Germany GmbH",
+        "製造廠廠址": "Zerninstraβe 12-18, 64297 Darmstadt, Germany",
         "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "33059020003 染髮劑Hair dyes",
     "藥理治療分類": "",
@@ -48,23 +47,23 @@
             "成分代碼": "9200002632",
             "成分名稱": "4-AMINO-M-CRESOL",
             "含量描述": "",
-            "含量": "0.2150000000",
+            "含量": "0.1400000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035403",
-            "成分名稱": "AMINOPHENOL META- (EQ TO M-AMINOPHENOL)",
+            "成分代碼": "9200035470",
+            "成分名稱": "m-Aminophenol",
             "含量描述": "",
-            "含量": "0.0500000000",
+            "含量": "0.1100000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200038920",
-            "成分名稱": "2-METHYLRESORCINOL",
+            "成分代碼": "9400003510",
+            "成分名稱": "SODIUM PICRAMATE",
             "含量描述": "",
-            "含量": "0.0300000000",
+            "含量": "0.0850000000",
             "單位": "%(W\/W)"
         },
         {
@@ -72,7 +71,15 @@
             "成分代碼": "9602087540",
             "成分名稱": "HC YELLOW NO.2",
             "含量描述": "",
-            "含量": "0.1400000000",
+            "含量": "0.0950000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9602088320",
+            "成分名稱": "HC RED NO.3",
+            "含量描述": "",
+            "含量": "0.1100000000",
             "單位": "%(W\/W)"
         },
         {
@@ -80,7 +87,7 @@
             "成分代碼": "9900066200",
             "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
             "含量描述": "",
-            "含量": "0.4550000000",
+            "含量": "0.6500000000",
             "單位": "%(W\/W)"
         },
         {
@@ -88,7 +95,7 @@
             "成分代碼": "9900084800",
             "成分名稱": "2-AMINO-3-HYDROXYPYRIDINE",
             "含量描述": "",
-            "含量": "0.3000000000",
+            "含量": "0.2600000000",
             "單位": "%(W\/W)"
         },
         {
@@ -96,15 +103,7 @@
             "成分代碼": "9900091410",
             "成分名稱": "2-AMINO-4-HYDROXYETHYLAMINOANISOLE SULFATE",
             "含量描述": "",
-            "含量": "0.0200000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9900095000",
-            "成分名稱": "1-(BETA-HYDROXYETHYL)-AMINO-2-NITRO-4-AMINOBENZENE",
-            "含量描述": "",
-            "含量": "0.1500000000",
+            "含量": "0.0300000000",
             "單位": "%(W\/W)"
         },
         {
@@ -126,7 +125,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9200035403",
-            "成分名稱": "AMINOPHENOL META- (EQ TO M-AMINOPHENOL)",
+            "成分名稱": "META-AMINOPHENOL (EQ TO M-AMINOPHENOL)",
             "含量描述": "",
             "含量": "0.1050000000",
             "單位": "%(W\/W)"
@@ -188,6 +187,10 @@
         {
             "title": "080111860001.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011186&Seq=001&Type=9"
+        },
+        {
+            "title": "08011186-106-03-03.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011186&Seq=001&Type=8"
         }
     ]
 }

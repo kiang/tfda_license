@@ -1,7 +1,7 @@
 {
     "code": "08019086",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08019086",
-    "time": "2015-08-23 20:38:06",
+    "time": "2017-04-07 03:22:10",
     "許可證字號": "衛署粧輸字第019086號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "用途": "染髮用。",
     "劑型": "984乳膏劑",
     "包裝": "500ml以下鋁管裝 附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "AMMONIA WATER (AMMONIUM HYDROXIDE), RESORCINOL (RESORCIN), M-AMINOPHENOL SULFATE, P-AMINOPHENOL, 2-METHYLRESORCINOL, P-PHENYLENEDIAMINE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "AMMONIAWATER(AMMONIUMHYDROXIDE),RESORCINOL(RESORCIN),M-AMINOPHENOLSULFATE,P-AMINOPHENOL,2-METHYLRESORCINOL,P-PHENYLENEDIAMINE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "6613008188  興美國際有限公司",
-    "申請商地址": "台北市大同區太原路133巷8號1樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C250061000  In Italy Haircolor s.r.l.",
         "製造廠廠址": "Rezzato (BS) – Via Giovanni Agnelli, 5 - Italy",
         "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -130,6 +129,12 @@
             "含量描述": "",
             "含量": "0.1000000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08019086-105-09-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019086&Seq=001&Type=8"
         }
     ]
 }

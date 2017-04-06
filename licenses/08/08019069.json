@@ -1,7 +1,7 @@
 {
     "code": "08019069",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08019069",
-    "time": "2015-08-23 20:37:44",
+    "time": "2017-04-07 03:22:07",
     "許可證字號": "衛署粧輸字第019069號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "用途": "染髮。",
     "劑型": "983膏劑",
     "包裝": "500ml以下軟管裝附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "AMMONIUM HYDROXIDE 28%, RESORCINOL (RESORCIN), M-AMINOPHENOL SULFATE, P-AMINOPHENOL, 2-METHYLRESORCINOL, 2,4-DIAMINOPHENOXYETHANOL HCL (EQ TO 2,4-DIAMINOPHENOXYETHANOL DIHYDROCHLORIDE), TOLUENE-2,5-DIAMINE SULFATE, 2-METHYL-5-HYDROXYETHYLAMINOPHENOL",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "AMMONIUMHYDROXIDE28%,RESORCINOL(RESORCIN),M-AMINOPHENOLSULFATE,P-AMINOPHENOL,2-METHYLRESORCINOL,2,4-DIAMINOPHENOXYETHANOLHCL(EQTO2,4-DIAMINOPHENOXYETHANOLDIHYDROCHLORIDE),TOLUENE-2,5-DIAMINESULFATE,2-METHYL-5-HYDROXYETHYLAMINOPHENOL"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "6627703123  提碁股份有限公司",
-    "申請商地址": "台中市西區大隆路20號4樓之6",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C250109000  BEAUTY &amp; BUSINESS S.P.A.",
         "製造廠廠址": "VIA CISERANO SNC. OSIO SOTTO (BG) 24046, ITALY",
         "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -98,6 +97,12 @@
             "含量描述": "",
             "含量": "0.5060000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08019069-105-08-05.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019069&Seq=001&Type=8"
         }
     ]
 }

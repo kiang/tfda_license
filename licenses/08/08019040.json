@@ -1,7 +1,7 @@
 {
     "code": "08019040",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08019040",
-    "time": "2015-08-23 20:48:42",
+    "time": "2017-04-07 03:22:03",
     "許可證字號": "衛署粧輸字第019040號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,19 @@
     "用途": "染髮。",
     "劑型": "992霜劑",
     "包裝": "500g以下鋁管裝 附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "HYDROGEN PEROXIDE, RESORCINOL (RESORCIN), M-AMINOPHENOL SULFATE, P-AMINOPHENOL, P-PHENYLENEDIAMINE, 2,4-DIAMINOPHENOXYETHANOL HCL (EQ TO 2,4-DIAMINOPHENOXYETHANOL DIHYDROCHLORIDE)",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "HYDROGENPEROXIDE,RESORCINOL(RESORCIN),M-AMINOPHENOLSULFATE,P-AMINOPHENOL,P-PHENYLENEDIAMINE,2,4-DIAMINOPHENOXYETHANOLHCL(EQTO2,4-DIAMINOPHENOXYETHANOLDIHYDROCHLORIDE)"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "620118D857  台灣大昌華嘉股份有限公司",
-    "申請商地址": "台北市內湖區堤頂大道二段407巷20弄1、3、5、7號10樓及22、24、26號10樓及22號10樓之1",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C460065200  Revlon Consumer Products Corporation (“Revlon”)",
         "製造廠廠址": "1501 Williamsboro Street, P. O. Box 6111, Oxford, North Carolina 27565-6111, USA",
         "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -82,6 +81,12 @@
             "含量描述": "",
             "含量": "6.1250000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08019040-105-09-05.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019040&Seq=001&Type=8"
         }
     ]
 }

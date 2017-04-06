@@ -1,7 +1,7 @@
 {
     "code": "01027027",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01027027",
-    "time": "2015-08-22 22:16:13",
+    "time": "2017-04-07 03:01:04",
     "許可證字號": "衛署藥製字第027027號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,21 +17,19 @@
     "適應症": "過敏性鼻炎，枯草熱所引起之相關症狀(鼻塞、流鼻水、打噴嚏、眼睛及喉部搔癢)。",
     "劑型": "130膠囊劑",
     "包裝": "6~21粒鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
-    "管制藥品分類級別": "",
-    "主成分略述": "CARBINOXAMINE MALEATE, PSEUDOEPHEDRINE HCL, CAFFEINE ANHYDROUS, LYSOZYME (CHLORIDE), GLYCYRRHIZINIC ACID (EQ TO GLYCYRRHETINIC ACID GLYCOSIDE)(EQ TO GLYCYRRHIZIC ACID )",
-    "限制項目": [
-        "01國產",
-        "1G不得製造"
+    "主成分略述": [
+        "CARBINOXAMINEMALEATE,PSEUDOEPHEDRINEHCL,CAFFEINEANHYDROUS,LYSOZYME(CHLORIDE),GLYCYRRHIZINICACID(EQTOGLYCYRRHETINICACIDGLYCOSIDE)(EQTOGLYCYRRHIZICACID)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1405522200  臺灣汎生製藥廠股份有限公司",
-    "申請商地址": "高雄市鳥松區坔埔里大同路5-1號及神農路330號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1405522300  臺灣汎生製藥廠股份有限公司",
         "製造廠廠址": "高雄市鳥松區？埔村大同路５號之１",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049099101 抗過敏抗組織胺用藥Drugs for antihypersensitivity and antihistamine",
     "藥理治療分類": "",
@@ -77,18 +75,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "鮮紅\/白色",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "長圓柱形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "利通膠囊外觀-104-12-19(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027027&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "說明書利通膠囊01027027___20121001.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027027&Seq=001&Type=9"
+            "title": "利通膠囊說明書-104-12-19(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027027&Seq=002&Type=9"
         },
         {
-            "title": "2012___20121001.09.21利通膠囊標仿單-2.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027027&Seq=002&Type=8"
-        },
-        {
-            "title": "2012___20121001.09.21利通膠囊標仿單-1.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027027&Seq=001&Type=8"
+            "title": "利通膠囊外盒-104-12-19(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027027&Seq=003&Type=8"
         }
     ]
 }

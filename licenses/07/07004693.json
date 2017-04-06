@@ -1,7 +1,7 @@
 {
     "code": "07004693",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07004693",
-    "time": "2016-11-19 02:35:14",
+    "time": "2017-04-07 03:12:01",
     "許可證字號": "衛署粧製字第004693號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "化粧品類別": "0714防晒化粧用品",
     "主成分略述": [
-        "TRANEXAMICACID,OCTYLMETHOXYCINNAMATE(PARSOLKCX),TITANIUMDIOXIDE(EQTOTITANIUMOXIDE)"
+        "OCTYLMETHOXYCINNAMATE(PARSOLKCX)"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "5840021039  臺鹽實業股份有限公司生技三廠",
@@ -36,26 +36,10 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2012101300",
-            "成分名稱": "TRANEXAMIC ACID",
-            "含量描述": "",
-            "含量": "2.0000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "8480000520",
             "成分名稱": "OCTYL METHOXYCINNAMATE (PARSOL KCX)",
             "含量描述": "",
             "含量": "2.9000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9602020800",
-            "成分名稱": "TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)",
-            "含量描述": "",
-            "含量": "5.2000000000",
             "單位": "%(W\/W)"
         }
     ],
@@ -69,20 +53,12 @@
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004693&Seq=001&Type=9"
         },
         {
+            "title": "07004693-106-03-24.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004693&Seq=005&Type=8"
+        },
+        {
             "title": "070046930004.jpg",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004693&Seq=004&Type=8"
-        },
-        {
-            "title": "070046930003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004693&Seq=003&Type=8"
-        },
-        {
-            "title": "070046930002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004693&Seq=002&Type=8"
-        },
-        {
-            "title": "070046930001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004693&Seq=001&Type=8"
         }
     ]
 }
