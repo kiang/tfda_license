@@ -1,7 +1,7 @@
 {
     "code": "07003495",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07003495",
-    "time": "2017-04-21 03:39:21",
+    "time": "2017-04-28 03:41:06",
     "許可證字號": "衛署粧製字第003495號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
     "主成分略述": [
-        "25%AMMONIASOLUTION(EQTOAMMONIA25%),HCYELLOWNO.4,2-AMINO-6-CHLORO-4-NITROPHENOL"
+        "AMMONIA,HCYELLOWNO.2,2-AMINO-6-CHLORO-4-NITROPHENOL"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "0931104200  美吾華股份有限公司",
@@ -31,23 +31,23 @@
         "製造廠公司地址": "",
         "": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000105",
-            "成分名稱": "25% AMMONIA SOLUTION ( EQ TO AMMONIA 25%)",
+            "成分代碼": "2820000100",
+            "成分名稱": "AMMONIA",
             "含量描述": "",
-            "含量": "10.0000000000",
+            "含量": "2.5000000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9602087512",
-            "成分名稱": "HC YELLOW NO.4",
+            "成分代碼": "9602087540",
+            "成分名稱": "HC YELLOW NO.2",
             "含量描述": "",
-            "含量": "0.0700000000",
+            "含量": "0.1000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -61,16 +61,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "07003495-105-06-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003495&Seq=003&Type=8"
-        },
-        {
-            "title": "07003495___20120515.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003495&Seq=002&Type=8"
-        },
-        {
-            "title": "07003495___20110512.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003495&Seq=001&Type=8"
+            "title": "07003495-106-04-21.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003495&Seq=004&Type=8"
         }
     ]
 }
