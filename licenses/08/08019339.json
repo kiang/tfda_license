@@ -1,12 +1,12 @@
 {
     "code": "08019339",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08019339",
-    "time": "2016-01-29 04:55:36",
+    "time": "2017-05-05 03:28:45",
     "許可證字號": "衛署粧輸字第019339號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/07\/10",
+    "有效日期": "110\/07\/10",
     "發證日期": "101\/07\/10",
     "許可證種類": "含藥化粧品",
     "舊證字號": "",
@@ -17,22 +17,21 @@
     "用途": "防曬。",
     "劑型": "992霜劑",
     "包裝": "500 ml 以下管裝附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0708防晒面霜",
-    "": "",
-    "主成分略述": "BUTYL METHOXYDIBENZOYLMETHANE, OCTOCRYLENE, ETHYLHEXYL SALICYLATE, METHYLENE BIS-BENZOTRIAZOLYL TETRAMETHYLBUTYLPHENOL, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "BUTYLMETHOXYDIBENZOYLMETHANE,OCTOCRYLENE,ETHYLHEXYLSALICYLATE,METHYLENEBIS-BENZOTRIAZOLYLTETRAMETHYLBUTYLPHENOL,BIS-ETHYLHEXYLOXYPHENOLMETHOXYPHENYLTRIAZINE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1230701100  琴妮麗品企業有限公司",
-    "申請商地址": "台北市安和路２段６４號６樓之１",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C150173000  Laboratoires Decleor",
         "製造廠廠址": "11 rue Faubourg Saint Honore, 75008 Paris, France.",
         "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
+        "": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -74,6 +73,12 @@
             "含量描述": "",
             "含量": "2.0000000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08019339-105-09-07.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019339&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "08018299",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018299",
-    "time": "2016-10-28 04:02:54",
+    "time": "2017-05-05 03:22:43",
     "許可證字號": "衛署粧輸字第018299號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,15 +12,15 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00801829900",
-    "中文品名": "防曬修護隔離乳SPF50 PA+++",
-    "英文品名": "Ultra Sun Protection SPF 50 PA+++ Anti-Glycation Primer",
+    "中文品名": "防曬修護隔離乳 SPF45 PA++",
+    "英文品名": "Ultra Sun Protection SPF 45 PA++ Anti-Glycation Primer",
     "用途": "防曬。",
     "劑型": "944乳劑",
     "包裝": "500公撮以下管裝附外盒",
     "標籤、仿單及包裝加註": "",
     "化粧品類別": "0711防晒乳液",
     "主成分略述": [
-        "BUTYLMETHOXYDIBENZOYLMETHANE,ETHYLHEXYLMETHOXYCINNAMATE,ETHYLHEXYLSALICYLATE"
+        "BUTYLMETHOXYDIBENZOYLMETHANE,OCTOCRYLENE,ETHYLHEXYLMETHOXYCINNAMATE,ETHYLHEXYLSALICYLATE"
     ],
     "限制項目": "02輸　入",
     "申請商名稱": "6628991397  美商香緹卡股份有限公司台灣分公司",
@@ -31,7 +31,7 @@
         "製造廠公司地址": "",
         "": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -40,6 +40,14 @@
             "成分名稱": "BUTYL METHOXYDIBENZOYLMETHANE",
             "含量描述": "",
             "含量": "3.0000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900066000",
+            "成分名稱": "OCTOCRYLENE",
+            "含量描述": "",
+            "含量": "2.7500000000",
             "單位": "%(W\/W)"
         },
         {
@@ -60,6 +68,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "08018299-106-04-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018299&Seq=006&Type=8"
+        },
         {
             "title": "08018299-105-03-21.pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018299&Seq=005&Type=8"

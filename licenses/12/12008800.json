@@ -1,7 +1,7 @@
 {
     "code": "12008800",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12008800",
-    "time": "2015-08-22 17:06:22",
+    "time": "2017-05-05 03:06:26",
     "許可證字號": "內衛藥製字第008800號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,24 +13,23 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY01200880000",
     "中文品名": "〝大豐〞力及美壯注射液４毫克\/毫升",
-    "英文品名": "DEXAMESONE INJECTION 4MG\/ML \"T.F.\"",
+    "英文品名": "DEXAMESONE INJECTION 4MG\/ML &quot;T.F.&quot;",
     "適應症": "風濕性關節炎、皮膚炎、紅斑狼瘡、支氣管氣喘、過敏性疾患",
     "劑型": "270注射劑",
-    "包裝": "1公撮、10、50等安瓿 1公撮、100、200安瓿 10公撮、100支以下小瓶",
+    "包裝": "10毫升、100支以下小瓶 1毫升、10、50、100、200毫升等安瓿",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "DEXAMETHASONE SODIUM PHOSPHATE",
-    "限制項目": [
-        "09委託製造"
+    "主成分略述": [
+        "DEXAMETHASONESODIUMPHOSPHATE"
     ],
+    "限制項目": "09委託製造",
     "申請商名稱": "0306811200  大豐製藥股份有限公司",
-    "申請商地址": "彰化市延平里岸頭巷１１號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0306811300  大豐製藥股份有限公司",
         "製造廠廠址": "彰化市延平里岸頭巷１１號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30043200002 含有腎上腺皮質類固醇荷爾蒙，其衍生物及結構式類似者Containing adrenal corticosteroid hormones, their derivatives and structural analogues",
     "藥理治療分類": "",
@@ -39,19 +38,39 @@
             "成分類別": "主成分",
             "成分代碼": "6804000640",
             "成分名稱": "DEXAMETHASONE SODIUM PHOSPHATE",
-            "含量描述": "4",
+            "含量描述": "",
             "含量": "4.0000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
-            "title": "010088000001-103-01-22.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008800&Seq=002&Type=9"
+            "title": "大豐-力及美壯4mg-說明書-106-04-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008800&Seq=005&Type=9"
         },
         {
-            "title": "120088000001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008800&Seq=001&Type=9"
+            "title": "010088000001-104-11-25(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008800&Seq=004&Type=9"
+        },
+        {
+            "title": "自粘標力及美壯4mg-10 Vail-106-04-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008800&Seq=007&Type=8"
+        },
+        {
+            "title": "自粘標力及美壯4mg-1Amp-106-04-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008800&Seq=006&Type=8"
+        },
+        {
+            "title": "力及美壯4mg 10mlx50V 紙標-106-04-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008800&Seq=005&Type=8"
+        },
+        {
+            "title": "力及美壯4mg 1mlx100A紙標-106-04-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008800&Seq=004&Type=8"
+        },
+        {
+            "title": "力及美狀注射液4mg 10x50V-104-12-03(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008800&Seq=003&Type=8"
         }
     ]
 }

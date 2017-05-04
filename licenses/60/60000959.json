@@ -1,7 +1,7 @@
 {
     "code": "60000959",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60000959",
-    "time": "2015-08-22 17:02:31",
+    "time": "2017-05-05 03:07:11",
     "許可證字號": "衛部菌疫輸字第000959號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,32 +12,31 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA06000095909",
-    "中文品名": "\"愛瑞\"人類血清白蛋白20%注射液",
+    "中文品名": "&quot;愛瑞&quot;人類血清白蛋白20%注射液",
     "英文品名": "AlbuRx TM 20",
     "適應症": "低蛋白血症、休克、燒傷。",
     "劑型": "27D注射液劑",
     "包裝": "50ml, 100ml玻璃小瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "HUMAN ALBUMIN",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "HUMANALBUMIN"
     ],
-    "申請商名稱": "0601501100  吉發企業股份有限公司",
-    "申請商地址": "台北市愛國西路９號２Ｆ之９",
+    "限制項目": "02輸　入",
+    "申請商名稱": "620117O278  傑特貝林有限公司",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F430111100  CSL BEHRING AG",
         "製造廠廠址": "WANKDORFSTRASSE 10, 3014 BERN, SWITZERLAND",
         "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
         {
             "製造廠名稱": "F430111000  CSL BEHRING AG",
-            "製造廠廠址": "WANKDORFSTRASSE 10 CH-3000 BERN 22, SWITZERLAND",
+            "製造廠廠址": "WANKDORFSTRASSE 10, 3000 BERN, SWITZERLAND",
             "製造廠公司地址": "",
             "製造廠國別": "SWITZERLAND",
             "製程": "公司"
@@ -55,20 +54,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "100009590001-104-04-21.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000959&Seq=002&Type=9"
+            "title": "100009590001-106-01-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000959&Seq=004&Type=9"
         },
         {
-            "title": "100009590001-103-11-12.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000959&Seq=001&Type=9"
-        },
-        {
-            "title": "100009590002-104-04-21.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000959&Seq=002&Type=8"
-        },
-        {
-            "title": "100009590002-103-11-12.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000959&Seq=001&Type=8"
+            "title": "100009590002-106-01-23.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000959&Seq=004&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "58022520",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58022520",
-    "time": "2015-08-23 22:09:30",
+    "time": "2017-05-05 03:23:13",
     "許可證字號": "衛部粧輸字第022520號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,26 +13,25 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA05802252004",
     "中文品名": "LUCIDO 按壓式染髮霜(自然黑)(第一劑、第二劑)",
-    "英文品名": "LUCIDO HAIR COLOR ONE PUSH TYPE Natural Black",
+    "英文品名": "LUCIDO HAIR COLOR ONE PUSH TYPE Natural Black F",
     "用途": "染髮",
     "劑型": "992霜劑",
     "包裝": "500g以下鋁罐裝 附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "HYDROGEN PEROXIDE, RESORCINOL (RESORCIN), P-AMINOPHENOL, m-Aminophenol, 4-AMINO-2-HYDROXYTOLUENE, P-PHENYLENEDIAMINE, 2,4-DIAMINOPHENOXYETHANOL HCL (EQ TO 2,4-DIAMINOPHENOXYETHANOL DIHYDROCHLORIDE), TOLUENE-2,5-DIAMINE SULFATE",
-    "限制項目": [
-        ""
+    "主成分略述": [
+        "HYDROGENPEROXIDE,RESORCINOL(RESORCIN),P-AMINOPHENOL,m-Aminophenol,4-AMINO-2-HYDROXYTOLUENE,P-PHENYLENEDIAMINE,2,4-DIAMINOPHENOXYETHANOLHCL(EQTO2,4-DIAMINOPHENOXYETHANOLDIHYDROCHLORIDE),TOLUENE-2,5-DIAMINESULFATE"
     ],
+    "限制項目": "",
     "申請商名稱": "1509701100  蔻仕麗股份有限公司",
-    "申請商地址": "台北市中山區民權東路一段76號12樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C260373000  MANDOM CORPORATION FUKUSAKI FACTORY",
         "製造廠廠址": "290-28 TAKAHASHI, FUKUSAKI-CHO, KANZAKI-GUN, HYOGO, JAPAN",
         "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -40,7 +39,7 @@
             "成分代碼": "8428000500",
             "成分名稱": "RESORCINOL (RESORCIN)",
             "含量描述": "",
-            "含量": "0.5700000000",
+            "含量": "0.6500000000",
             "單位": "%(W\/W)"
         },
         {
@@ -48,7 +47,7 @@
             "成分代碼": "9200035440",
             "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
-            "含量": "0.4200000000",
+            "含量": "0.1500000000",
             "單位": "%(W\/W)"
         },
         {
@@ -56,7 +55,7 @@
             "成分代碼": "9200035470",
             "成分名稱": "m-Aminophenol",
             "含量描述": "",
-            "含量": "0.6200000000",
+            "含量": "0.8000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -64,7 +63,7 @@
             "成分代碼": "9200039000",
             "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
             "含量描述": "",
-            "含量": "0.0420000000",
+            "含量": "0.1000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -72,7 +71,7 @@
             "成分代碼": "9400003200",
             "成分名稱": "P-PHENYLENEDIAMINE",
             "含量描述": "",
-            "含量": "1.4000000000",
+            "含量": "0.8000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -80,7 +79,7 @@
             "成分代碼": "9400003810",
             "成分名稱": "2,4-DIAMINOPHENOXYETHANOL HCL (EQ TO 2,4-DIAMINOPHENOXYETHANOL DIHYDROCHLORIDE)",
             "含量描述": "",
-            "含量": "0.2200000000",
+            "含量": "0.2000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -88,7 +87,7 @@
             "成分代碼": "9900066200",
             "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
             "含量描述": "",
-            "含量": "1.5000000000",
+            "含量": "4.0000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -98,6 +97,12 @@
             "含量描述": "",
             "含量": "3.9550000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "58022520-106-04-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58022520&Seq=002&Type=8"
         }
     ]
 }

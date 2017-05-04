@@ -1,12 +1,12 @@
 {
     "code": "08019256",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08019256",
-    "time": "2015-08-23 20:49:10",
+    "time": "2017-05-05 03:28:43",
     "許可證字號": "衛署粧輸字第019256號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/06\/01",
+    "有效日期": "110\/06\/01",
     "發證日期": "101\/06\/01",
     "許可證種類": "含藥化粧品",
     "舊證字號": "",
@@ -17,22 +17,21 @@
     "用途": "染髮。",
     "劑型": "983膏劑",
     "包裝": "500g以下軟管裝附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "STRONG AMMONIA SOLUTION (28%), RESORCINOL (RESORCIN), CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL), P-AMINOPHENOL, P-PHENYLENEDIAMINE, P-NITRO-O-PHENYLENEDIAMINE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "STRONGAMMONIASOLUTION(28%),RESORCINOL(RESORCIN),CRESOLO-P-AMINO(EQTO5-AMINO-O-CRESOL)(EQTOP-AMINO-O-CRESOL),P-AMINOPHENOL,P-PHENYLENEDIAMINE,P-NITRO-O-PHENYLENEDIAMINE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1013602100  哥德式國際股份有限公司",
-    "申請商地址": "台北市信義區忠孝東路5段550號11樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C260377000  MILBON Co., Ltd. Yumegaoka Factory",
         "製造廠廠址": "7-7-5 Yumegaoka, Iga-city, Mie prefecture, Japan",
         "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -226,6 +225,12 @@
             "含量描述": "",
             "含量": "0.0200000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08019256-105-08-08.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019256&Seq=001&Type=8"
         }
     ]
 }

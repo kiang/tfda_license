@@ -1,7 +1,7 @@
 {
     "code": "52026224",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026224",
-    "time": "2016-11-25 03:29:07",
+    "time": "2017-05-05 03:06:58",
     "許可證字號": "衛部藥輸字第026224號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -33,6 +33,15 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "F230102000  Millmount Healthcare Ltd.",
+            "製造廠廠址": "Units 5-7, Navan Enterprise Centre, Trim Road, Navan, Co. Meath, Ireland",
+            "製造廠公司地址": "",
+            "製造廠國別": "IRELAND",
+            "製程": "包裝"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -49,32 +58,8 @@
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026224&Seq=003&Type=9"
         },
         {
-            "title": "520262240002-103-11-04.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026224&Seq=002&Type=9"
-        },
-        {
-            "title": "020262240001-103-02-12.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026224&Seq=001&Type=9"
-        },
-        {
             "title": "Exemestane外盒-104-09-30(廠商自行上傳).pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026224&Seq=005&Type=8"
-        },
-        {
-            "title": "520262240001-103-11-04.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026224&Seq=004&Type=8"
-        },
-        {
-            "title": "020262240004-103-02-12.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026224&Seq=003&Type=8"
-        },
-        {
-            "title": "020262240003-103-02-12.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026224&Seq=002&Type=8"
-        },
-        {
-            "title": "020262240002-103-02-12.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026224&Seq=001&Type=8"
         }
     ]
 }

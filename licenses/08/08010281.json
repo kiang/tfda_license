@@ -1,7 +1,7 @@
 {
     "code": "08010281",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08010281",
-    "time": "2015-08-23 18:18:41",
+    "time": "2017-05-05 03:31:18",
     "許可證字號": "衛署粧輸字第010281號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,22 +17,21 @@
     "用途": "染髮。",
     "劑型": "992霜劑",
     "包裝": "500ML以下管裝 附外紙盒裝",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "AMMONIUM HYDROXIDE 28%, RESORCINOL (RESORCIN), AMINOPHENOL ORTHO-, AMINOPHENOL META- (EQ TO M-AMINOPHENOL), P-PHENYLENEDIAMINE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "AMMONIUMHYDROXIDE28%,RESORCINOL(RESORCIN),ORTHO-AMINOPHENOL,META-AMINOPHENOL(EQTOM-AMINOPHENOL),P-PHENYLENEDIAMINE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "6624288572  貝羅卡國際有限公司",
-    "申請商地址": "台中市西屯區潮洋里黎明路2段783號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C260050000  KINDAI KAGAKU K.K.",
         "製造廠廠址": "1087, KADOSAWABASI, EBINA-CITY, KANAGAWA JAPAN",
         "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "": ""
     },
-    "CCC號列": "33059020003 染髮劑Hair dyes",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -54,7 +53,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9200035402",
-            "成分名稱": "AMINOPHENOL ORTHO-",
+            "成分名稱": "ORTHO-AMINOPHENOL",
             "含量描述": "",
             "含量": "0.0200000000",
             "單位": "%(W\/W)"
@@ -62,7 +61,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9200035403",
-            "成分名稱": "AMINOPHENOL META- (EQ TO M-AMINOPHENOL)",
+            "成分名稱": "META-AMINOPHENOL (EQ TO M-AMINOPHENOL)",
             "含量描述": "",
             "含量": "0.0300000000",
             "單位": "%(W\/W)"

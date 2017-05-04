@@ -1,7 +1,7 @@
 {
     "code": "08019166",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08019166",
-    "time": "2015-08-23 21:07:44",
+    "time": "2017-05-05 03:31:50",
     "許可證字號": "衛署粧輸字第019166號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,22 +17,21 @@
     "用途": "防曬。",
     "劑型": "944乳劑",
     "包裝": "500 公克以下管裝附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0711防晒乳液",
-    "": "",
-    "主成分略述": "BUTYL METHOXYDIBENZOYLMETHANE, OCTOCRYLENE, ETHYLHEXYL SALICYLATE, ETHYLHEXYL TRIAZONE, METHYLENE BIS-BENZOTRIAZOLYL TETRAMETHYLBUTYLPHENOL, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "BUTYLMETHOXYDIBENZOYLMETHANE,OCTOCRYLENE,ETHYLHEXYLSALICYLATE,ETHYLHEXYLTRIAZONE,METHYLENEBIS-BENZOTRIAZOLYLTETRAMETHYLBUTYLPHENOL,BIS-ETHYLHEXYLOXYPHENOLMETHOXYPHENYLTRIAZINE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "6689942721  麗茜國際有限公司",
-    "申請商地址": "台北市信義區崇德街104號7樓",
     "主製造廠": {
-        "製造廠名稱": "C470081000  JEAN D'ARCEL COSMETIQUE GMBH &amp; CO. KG",
+        "主製造廠": "",
+        "製造廠名稱": "C470081000  JEAN D&#39;ARCEL COSMETIQUE GMBH &amp; CO. KG",
         "製造廠廠址": "IM FUCHSECK 10-12, 77694 KEHL, GERMANY",
         "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
+        "": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -82,6 +81,12 @@
             "含量描述": "",
             "含量": "2.0000000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08019166-105-09-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019166&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "08019164",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08019164",
-    "time": "2015-08-23 21:07:42",
+    "time": "2017-05-05 03:31:49",
     "許可證字號": "衛署粧輸字第019164號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,22 +17,21 @@
     "用途": "防曬、預防皮膚曬傷及曬黑，美化肌膚。",
     "劑型": "940粉劑",
     "包裝": "500公克以下盒裝 附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0714防晒化粧用品",
-    "": "",
-    "主成分略述": "BUTYL METHOXYDIBENZOYLMETHANE, ETHYLHEXYL METHOXYCINNAMATE, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "BUTYLMETHOXYDIBENZOYLMETHANE,ETHYLHEXYLMETHOXYCINNAMATE,BIS-ETHYLHEXYLOXYPHENOLMETHOXYPHENYLTRIAZINE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "6653543257  台灣奧碧虹股份有限公司",
-    "申請商地址": "臺北市松山區民生東路3段132號3樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C260194000  ALBION CO., LTD",
         "製造廠廠址": "1-7-10, GINZA, CHUO-KU, TOKYO, 104-0061 JAPAN",
         "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -58,6 +57,12 @@
             "含量描述": "",
             "含量": "0.9900000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08019164-105-09-06.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019164&Seq=001&Type=8"
         }
     ]
 }
