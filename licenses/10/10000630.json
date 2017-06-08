@@ -1,7 +1,7 @@
 {
     "code": "10000630",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000630",
-    "time": "2015-11-27 05:50:40",
+    "time": "2017-06-09 03:04:44",
     "許可證字號": "衛署菌疫輸字第000630號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,24 +17,30 @@
     "適應症": "Ａ型血友病。DDAVP治療無效或禁忌之vWD 病人在實施手術及\/或侵入性治療時使用，但不適合使用於進行重度手術的Type 3病患。",
     "劑型": "243凍晶注射劑",
     "包裝": "100支以下盒裝盒裝 250 IU小瓶裝小瓶 附等支數5公撮小瓶裝注射用水小瓶附溶液",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "ANTIHEMOPHILIC FACTOR HUMAN",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "ANTIHEMOPHILICFACTORHUMAN"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1409720100  臺灣綠十字股份有限公司",
-    "申請商地址": "台北市大同區承德路三段二四四號六樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F460014000  GRIFOLS BIOLOGICALS INC.",
         "製造廠廠址": "5555 VALLEY BOULEVARD, LOS ANGELES, CALIFORNIA 90032",
         "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30021040002 抗血友病製劑Antihemophilia preparations",
     "藥理治療分類": "",
     "次製造廠": [
+        {
+            "製造廠名稱": "F460255000  Grifols Therapeutics Inc.",
+            "製造廠廠址": "8368 US 70 BUS HWY WEST, CLAYTON, NC 27520, U.S.A.",
+            "製造廠公司地址": "RESEARCH TRIANGLE PARK, 79 T.W.ALEXANDER DRIVE, NORTH CAROLINA, 27709, U.S.A.",
+            "製造廠國別": "UNITED STATES",
+            "製程": "中間體製造"
+        },
         {
             "製造廠名稱": "F460635000  GRIFOLS BIOLOGICALS INC.",
             "製造廠廠址": "13111 TEMPLE AVENUE, CITY OF INDUSTRY, CA 91746, USA",
@@ -55,48 +61,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "020006300001-104-05-12.pdf",
+            "title": "020006300001-104-05-12(廠商自行上傳).pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000630&Seq=006&Type=9"
         },
         {
-            "title": "3032973_TW AHF VWD-M2V 250 IU Pkg Insert_Actual___20110908.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000630&Seq=005&Type=9"
-        },
-        {
-            "title": "100006300003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000630&Seq=004&Type=9"
-        },
-        {
-            "title": "100006300002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000630&Seq=003&Type=9"
-        },
-        {
-            "title": "100006300001___20100701.JPG",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000630&Seq=002&Type=9"
-        },
-        {
-            "title": "100006300001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000630&Seq=001&Type=9"
-        },
-        {
-            "title": "020006300002-104-05-12.pdf",
+            "title": "020006300002-104-05-12(廠商自行上傳).pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000630&Seq=005&Type=8"
-        },
-        {
-            "title": "3032972_TW AHF VWD-M2V 250 IU Carton_Actual___20110908.JPG",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000630&Seq=004&Type=8"
-        },
-        {
-            "title": "3032971_TW AHF VWD-M2V 250 IU Vial Label_Actual___20110908.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000630&Seq=003&Type=8"
-        },
-        {
-            "title": "100006300002___20100701.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000630&Seq=002&Type=8"
-        },
-        {
-            "title": "100006300001___20100701.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000630&Seq=001&Type=8"
         }
     ]
 }

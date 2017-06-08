@@ -1,7 +1,7 @@
 {
     "code": "01030919",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01030919",
-    "time": "2016-11-18 12:24:32",
+    "time": "2017-06-09 03:01:21",
     "許可證字號": "衛署藥製字第030919號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
     "主成分略述": [
-        "SULMARIN"
+        "SULINDAC"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "0510620200  生達化學製藥股份有限公司",
@@ -36,8 +36,8 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2012101700",
-            "成分名稱": "SULMARIN",
+            "成分代碼": "2808402900",
+            "成分名稱": "SULINDAC",
             "含量描述": "200",
             "含量": "200.0000000000",
             "單位": "MG"
@@ -45,16 +45,24 @@
     ],
     "仿單外盒": [
         {
+            "title": "0100309190001-106-05-02.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01030919&Seq=002&Type=9"
+        },
+        {
             "title": "2211920 S0409 Sudac 舒達-LT -104-12-09(廠商自行上傳).pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01030919&Seq=001&Type=9"
         },
         {
-            "title": "Sudac Tab PTP-104-12-09(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01030919&Seq=002&Type=8"
+            "title": "0100309190002-106-05-02.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01030919&Seq=004&Type=8"
         },
         {
-            "title": "Sudac Tab 200mg LB-104-12-09(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01030919&Seq=001&Type=8"
+            "title": "0100309190001-106-05-02.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01030919&Seq=003&Type=8"
+        },
+        {
+            "title": "Sudac Tab PTP-104-12-09(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01030919&Seq=002&Type=8"
         }
     ]
 }

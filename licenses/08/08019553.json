@@ -1,7 +1,7 @@
 {
     "code": "08019553",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08019553",
-    "time": "2015-08-23 20:39:58",
+    "time": "2017-06-09 03:11:27",
     "許可證字號": "衛署粧輸字第019553號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,22 +17,21 @@
     "用途": "染髮。",
     "劑型": "992霜劑",
     "包裝": "500 ml以下管裝附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "AMMONIUM HYDROXIDE 25%, m-Aminophenol, 2-AMINO-4-HYDROXYETHYLAMINOANISOLE SULFATE, 1-HYDROXYETHYL-4,5-DIAMINO-PYRAZOLE SULFATE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "AMMONIUMHYDROXIDE25%,m-Aminophenol,2-AMINO-4-HYDROXYETHYLAMINOANISOLESULFATE,1-HYDROXYETHYL-4,5-DIAMINO-PYRAZOLESULFATE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "6624288572  弘嘉貿易有限公司",
-    "申請商地址": "台中市西屯區潮洋里黎明路2段783號",
     "主製造廠": {
-        "製造廠名稱": "C150165000  COIFFANCE PROFESSIONNEL",
-        "製造廠廠址": "Z.I., RUE JEAN LOUIS GULOT 67220 NEUVE EGLISE FRANCE",
+        "主製造廠": "",
+        "製造廠名稱": "M150357000  Coiffance Professionnel",
+        "製造廠廠址": "6 rue de la Gare 67220 VILLE France",
         "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
+        "": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -66,6 +65,12 @@
             "含量描述": "",
             "含量": "1.2000000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08019553-105-08-09.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019553&Seq=001&Type=8"
         }
     ]
 }

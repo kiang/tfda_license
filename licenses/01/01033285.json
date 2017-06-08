@@ -1,7 +1,7 @@
 {
     "code": "01033285",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01033285",
-    "time": "2016-11-18 12:56:48",
+    "time": "2017-06-09 03:01:29",
     "許可證字號": "衛署藥製字第033285號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,11 +14,11 @@
     "通關簽審文件編號": "DHY00103328502",
     "中文品名": "服嗽舒糖漿",
     "英文品名": "FUSOSHU SYRUP &quot;M.T.&quot;",
-    "適應症": "鎮咳、袪痰(咽喉炎、感冒引起之咳嗽、喀痰)。",
+    "適應症": "鎮咳、袪痰(支氣管炎、咽喉炎、感冒引起之咳嗽、袪痰)。",
     "劑型": "184糖漿劑",
-    "包裝": "10~4000毫升塑膠瓶裝 玻璃瓶裝",
+    "包裝": "10~90毫升塑膠瓶裝 玻璃瓶裝",
     "標籤、仿單及包裝加註": "",
-    "藥品類別": "06須由醫師處方使用",
+    "藥品類別": "17醫師藥師藥劑生指示藥品",
     "主成分略述": [
         "CHLORPHENIRAMINEMALEATE,DL-METHYLEPHEDRINEHCL,CODEINEPHOSPHATE,POTASSIUMGUAIACOLSULFONATE,PLATYCODONEXTRACT"
     ],
@@ -77,16 +77,24 @@
     ],
     "仿單外盒": [
         {
+            "title": "033285服嗽舒說明書-106-05-16.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033285&Seq=003&Type=9"
+        },
+        {
             "title": "4049 服嗽舒糖漿-104-12-29(廠商自行上傳).pdf",
             "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033285&Seq=002&Type=9"
         },
         {
-            "title": "內盒-104-09-26(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033285&Seq=002&Type=8"
+            "title": "033285服嗽舒糖漿標籤-106-05-16.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033285&Seq=004&Type=8"
         },
         {
-            "title": "標籤-104-09-26(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033285&Seq=001&Type=8"
+            "title": "033285服嗽舒彩盒-106-05-16.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033285&Seq=003&Type=8"
+        },
+        {
+            "title": "內盒-104-09-26(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033285&Seq=002&Type=8"
         }
     ]
 }

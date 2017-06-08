@@ -1,12 +1,12 @@
 {
     "code": "01034963",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01034963",
-    "time": "2017-04-28 03:42:02",
+    "time": "2017-06-09 03:12:49",
     "許可證字號": "衛署藥製字第034963號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/02\/25",
+    "有效日期": "111\/02\/25",
     "發證日期": "81\/02\/25",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "07須經醫師指示使用",
     "主成分略述": [
-        "METHIONINEDL-,GLYCINE(EQTOAMINOACETICACID)(EQTOGLYCOCOLL),BIOTIN,NIACINAMIDE(NICOTINAMIDE),PYRIDOXINEHCL,PANTOTHENATECALCIUM"
+        "METHIONINEDL-,GLYCINE(EQTOAMINOACETICACID)(EQTOGLYCOCOLL),BIOTIN,NIACINAMIDE(NICOTINAMIDE),PYRIDOXINEHCL,PANTOTHENATECALCIUM,GLYCYRRHIZINATEDIPOTASSIUM(EQTODIPOTASSIUMGLYCYRRHIZINATE)"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "6103030017  井田國際醫藥廠股份有限公司",
@@ -80,6 +80,14 @@
             "成分名稱": "PANTOTHENATE CALCIUM",
             "含量描述": "5",
             "含量": "5.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200004620",
+            "成分名稱": "GLYCYRRHIZINATE DIPOTASSIUM (EQ TO DIPOTASSIUM GLYCYRRHIZINATE)",
+            "含量描述": "26.106",
+            "含量": "26.1060000000",
             "單位": "MG"
         }
     ]

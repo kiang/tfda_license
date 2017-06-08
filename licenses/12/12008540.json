@@ -1,37 +1,35 @@
 {
     "code": "12008540",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12008540",
-    "time": "2015-08-23 13:26:51",
+    "time": "2017-06-09 03:12:14",
     "許可證字號": "內衛藥製字第008540號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "106\/05\/19",
+    "註銷理由": "屆期未申請展延自請註銷0960312748曾辦展延",
     "有效日期": "106\/05\/25",
     "發證日期": "59\/08\/22",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY01200854000",
-    "中文品名": "\"美\"鐵血寧糖衣錠",
+    "中文品名": "&quot;美&quot;鐵血寧糖衣錠",
     "英文品名": "TESERRNIN S.C. TABLETS",
     "適應症": "惡性貧血、妊娠產前產後貧血、貧血、營養補給",
     "劑型": "119糖衣錠",
     "包裝": "瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "FERROUS SULFATE, LIVER DESICCATED POWDER, PROSULTIAMINE (THIAMINE PROPYL DISULFIDE), RIBOFLAVIN (VIT B2), CYANOCOBALAMIN (VIT B12), FOLIC ACID, ASCORBIC ACID (VIT C)",
-    "限制項目": [
-        "09委託製造",
-        "1G不得製造"
+    "主成分略述": [
+        "FERROUSSULFATE,LIVERDESICCATEDPOWDER,PROSULTIAMINE(THIAMINEPROPYLDISULFIDE),RIBOFLAVIN(VITB2),CYANOCOBALAMIN(VITB12),FOLICACID,ASCORBICACID(VITC)"
     ],
+    "限制項目": "09委託製造 1G不得製造",
     "申請商名稱": "0814912200  長安化學工業股份有限公司",
-    "申請商地址": "彰化縣福興鄉萬壽村福工路１９號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0814912300  長安化學工業股份有限公司",
         "製造廠廠址": "彰化縣福興鄉萬壽村福工路１９號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049030005 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -91,6 +89,16 @@
             "含量描述": "20",
             "含量": "20.0000000000",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "03008540 美 鐵血寧糖衣錠-104-11-19(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008540&Seq=001&Type=9"
+        },
+        {
+            "title": "03008540L0001-104-12-01(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008540&Seq=001&Type=8"
         }
     ]
 }

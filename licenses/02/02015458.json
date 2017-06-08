@@ -1,7 +1,7 @@
 {
     "code": "02015458",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02015458",
-    "time": "2016-11-18 18:58:14",
+    "time": "2017-06-09 03:03:17",
     "許可證字號": "衛署藥輸字第015458號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,9 +14,9 @@
     "通關簽審文件編號": "DHA00201545806",
     "中文品名": "保健寧注射劑５０００國際單位",
     "英文品名": "PREGNYL INJECTION 5000I.U.",
-    "適應症": "非組織梗阻之青春期前之隱睪症、由於性腺刺激等減少或缺乏時所引起之不孕症、出血性子宮疾病",
+    "適應症": "非組織梗阻之青春期前之隱睪症、由於性腺刺激等減少或缺乏時所引起之不孕症、黃體機能障礙",
     "劑型": "243凍晶注射劑",
-    "包裝": "5000IU安瓿裝附等支數1毫升安瓿裝溶劑 100支以下盒裝",
+    "包裝": "100支以下盒裝 5000IU小瓶裝附等瓶數瓶裝溶劑",
     "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
     "主成分略述": [
@@ -33,6 +33,15 @@
     },
     "CCC號列": "30043900005 醫藥製劑，含有其他內分泌素者Medicaments, containing other hormones",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "F460378000  Jubilant HollisterStier LLC",
+            "製造廠廠址": "3525 NORTH REGAL STREET SPOKANE, WA 99207, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "溶劑製備"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -45,8 +54,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "Pregnyl 5000_IPC_104-9-30-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015458&Seq=001&Type=9"
+            "title": "020154580002-106-05-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015458&Seq=002&Type=9"
+        },
+        {
+            "title": "020154580004-106-05-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015458&Seq=003&Type=8"
+        },
+        {
+            "title": "020154580003-106-05-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015458&Seq=002&Type=8"
+        },
+        {
+            "title": "020154580001-106-05-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015458&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "01028779",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01028779",
-    "time": "2015-12-25 04:06:10",
+    "time": "2017-06-09 03:01:13",
     "許可證字號": "衛署藥製字第028779號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,24 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102877904",
-    "中文品名": "\"華興\" 美洛苓錠５０毫克（美海得林）",
-    "英文品名": "MEROLIN TABLETS 50MG \"H.S.\" (Mebhydroline)",
+    "中文品名": "&quot;華興&quot; 美洛苓錠５０毫克（美海得林）",
+    "英文品名": "MEROLIN TABLETS 50MG &quot;H.S.&quot; (Mebhydroline)",
     "適應症": "皮膚炎、皮膚搔癢症、蕁麻疹、過敏性鼻炎",
     "劑型": "110錠劑",
     "包裝": "2~1000錠鋁箔盒裝 2~1000錠塑膠瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "Mebhydroline Nadypsylate",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "MebhydrolineNadypsylate"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1203612200  華興化學製藥廠股份有限公司",
-    "申請商地址": "彰化縣田尾鄉饒平村四維巷１２８號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "6137210029  華興化學製藥廠股份有限公司",
         "製造廠廠址": "彰化縣田尾鄉饒平村四維巷１２８號",
         "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "": ""
     },
     "CCC號列": "30049099101 抗過敏抗組織胺用藥Drugs for antihypersensitivity and antihistamine",
     "藥理治療分類": "",
@@ -56,12 +55,30 @@
     },
     "藥物辨識外觀圖片": [
         {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028779&Seq=183&Type=10"
+            "title": "美洛苓 錠-mail-104-11-09(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028779&Seq=184&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "華興美洛苓錠50毫克仿單-106-05-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028779&Seq=003&Type=9"
         },
         {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028779&Seq=182&Type=10"
+            "title": "美洛苓錠50毫克-104-11-28(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028779&Seq=002&Type=9"
+        },
+        {
+            "title": "華興美洛苓錠50毫克外盒-106-05-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028779&Seq=003&Type=8"
+        },
+        {
+            "title": "華興美洛苓錠50毫克鋁箔-106-05-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028779&Seq=002&Type=8"
+        },
+        {
+            "title": "華興美洛苓錠50毫克標籤-106-05-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028779&Seq=001&Type=8"
         }
     ]
 }

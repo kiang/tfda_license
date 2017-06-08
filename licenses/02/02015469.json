@@ -1,7 +1,7 @@
 {
     "code": "02015469",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02015469",
-    "time": "2016-11-18 18:58:20",
+    "time": "2017-06-09 03:03:18",
     "許可證字號": "衛署藥輸字第015469號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,7 +16,7 @@
     "英文品名": "PREGNYL",
     "適應症": "青春期以前隱睾症、由於腦下垂體分泌不足所引起之生殖腺機能障礙、黃體機能障礙",
     "劑型": "243凍晶注射劑",
-    "包裝": "1500IU安瓿裝附等支數1毫升安瓿裝溶劑 100支以下盒裝",
+    "包裝": "100支以下盒裝 1500IU小瓶裝附等瓶數瓶裝溶劑",
     "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
     "主成分略述": [
@@ -33,6 +33,15 @@
     },
     "CCC號列": "30043900005 醫藥製劑，含有其他內分泌素者Medicaments, containing other hormones",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "F460378000  Jubilant HollisterStier LLC",
+            "製造廠廠址": "3525 NORTH REGAL STREET SPOKANE, WA 99207, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "溶劑製備"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -45,16 +54,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "Pregnyl Injection_IPC_104-9-30-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015469&Seq=001&Type=9"
+            "title": "020154690002-106-05-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015469&Seq=002&Type=9"
         },
         {
-            "title": "Pregnyl Injection 5000 IU Label-104-08-25(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015469&Seq=002&Type=8"
+            "title": "020154690003-106-05-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015469&Seq=005&Type=8"
         },
         {
-            "title": "Pregnyl 1500 UI Carton-104-08-25(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015469&Seq=001&Type=8"
+            "title": "020154690001-106-05-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015469&Seq=004&Type=8"
+        },
+        {
+            "title": "020154690004-106-05-18.pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015469&Seq=003&Type=8"
         }
     ]
 }
