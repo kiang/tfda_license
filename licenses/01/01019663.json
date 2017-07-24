@@ -1,7 +1,7 @@
 {
     "code": "01019663",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01019663",
-    "time": "2016-11-18 11:26:09",
+    "time": "2017-07-21 15:46:35",
     "許可證字號": "衛署藥製字第019663號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "07須經醫師指示使用",
     "主成分略述": [
-        "SCOPOLIAEXTRACT,ALUMINUMHYDROXIDEDRIEDGEL,CALCIUMCARBONATE,CHLOROPHYLLSODIUMCOPPER,VITAMINU(METHYLMETHIONINESULFONIUMCHLORIDE),ALUMINUMSILICATE"
+        "SCOPOLIAEXTRACT,ALUMINUMHYDROXIDEDRIEDGEL,CALCIUMCARBONATE,SODIUMCOPPERCHLOROPHYLLIN,VITAMINU(METHYLMETHIONINESULFONIUMCHLORIDE),ALUMINUMSILICATE"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "1111823200  台灣陽生製藥工業股份有限公司",
@@ -55,13 +55,13 @@
             "成分代碼": "5604001200",
             "成分名稱": "CALCIUM CARBONATE",
             "含量描述": "(P.P.T.)50",
-            "含量": "",
+            "含量": "0.0000000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8416000640",
-            "成分名稱": "CHLOROPHYLL SODIUM COPPER",
+            "成分代碼": "8416000642",
+            "成分名稱": "SODIUM COPPER CHLOROPHYLLIN",
             "含量描述": "1",
             "含量": "1.0000000000",
             "單位": "MG"
@@ -79,7 +79,7 @@
             "成分代碼": "9600002000",
             "成分名稱": "ALUMINUM SILICATE",
             "含量描述": "(SYNTHETIC) 100",
-            "含量": "",
+            "含量": "0.0000000000",
             "單位": "MG"
         }
     ]

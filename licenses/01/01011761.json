@@ -1,7 +1,7 @@
 {
     "code": "01011761",
     "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01011761",
-    "time": "2016-11-18 10:14:13",
+    "time": "2017-07-21 13:21:14",
     "許可證字號": "衛署藥製字第011761號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -33,6 +33,15 @@
     },
     "CCC號列": "30059020006 藥用紗布Absorbent gauze",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "6103270084  中國生化科技股份有限公司",
+            "製造廠廠址": "台中市西屯區工業區三十三路10號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "滅菌廠"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -45,28 +54,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "3219010_S0406 Framycin護樂黴素--LT-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01011761&Seq=004&Type=9"
+            "title": "3219010 20170701 Framycin護樂黴素--LT-106-07-05(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01011761&Seq=005&Type=9"
         },
         {
-            "title": "010117610003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01011761&Seq=003&Type=9"
+            "title": "3319012 20170701 護樂黴素(英文版)-106-07-05(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01011761&Seq=004&Type=8"
         },
         {
-            "title": "010117610002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01011761&Seq=002&Type=9"
-        },
-        {
-            "title": "010117610001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01011761&Seq=001&Type=9"
-        },
-        {
-            "title": "3719011_S0106護樂黴素BX-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01011761&Seq=002&Type=8"
-        },
-        {
-            "title": "3319013_S0106護樂黴素(中文版)-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01011761&Seq=001&Type=8"
+            "title": "3319013 20170701 護樂黴素(中文版)-106-07-05(廠商自行上傳).pdf",
+            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01011761&Seq=003&Type=8"
         }
     ]
 }
