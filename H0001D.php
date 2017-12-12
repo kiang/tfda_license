@@ -2,10 +2,23 @@
 
 function getLicense($code, $toCache = true) {
     global $target, $cache;
-    $url = 'http://www.fda.gov.tw/MLMS/H0001D.aspx?Type=Lic&LicId=' . $code;
+    $opts = array(
+        'http' => array(
+            'method' => "GET",
+            'header' => "Referer: https://www.fda.gov.tw/MLMS/H0008.aspx\r\n",
+        ),
+        'ssl' => array(
+            'verify_peer' => false,
+            'verify_peer_name' => false,
+        ),
+    );
+
+    $context = stream_context_create($opts);
+
+    $url = 'https://www.fda.gov.tw/MLMS/H0001D.aspx?Type=Lic&LicId=' . $code;
     $cacheFile = $cache . '/p_' . $code;
     if (!file_exists($cacheFile) || false === $toCache) {
-        file_put_contents($cacheFile, file_get_contents($url));
+        file_put_contents($cacheFile, file_get_contents($url, false, $context));
     }
     $targetFolder = $target . '/' . substr($code, 0, 2);
     if (!file_exists($targetFolder)) {
@@ -146,7 +159,9 @@ function getLicense($code, $toCache = true) {
                     $part1 = explode('</th>', $cols[0]);
                     $data['主製造廠'][trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
                     $part2 = explode('</th>', $cols[1]);
-                    $data['主製造廠'][trim(strip_tags($part2[0]))] = trim(strip_tags($part2[1]));
+                    if(isset($part2[1])) {
+                      $data['主製造廠'][trim(strip_tags($part2[0]))] = trim(strip_tags($part2[1]));
+                    }
                     break;
                 default:
                     if ($linesCount - $lineNo === 1 || $linesCount - $lineNo === 2) {
@@ -207,10 +222,10 @@ function getLicense($code, $toCache = true) {
      * 健保藥價資料 - H0001D8.aspx?LicId=
      * 專利權資料 - H0001D9.aspx?LicId=
      */
-    $url = 'http://www.fda.gov.tw/MLMS/H0001D1.aspx?LicId=' . $code;
+    $url = 'https://www.fda.gov.tw/MLMS/H0001D1.aspx?LicId=' . $code;
     $cacheFile = $cache . '/p1_' . $code;
     if (!file_exists($cacheFile) || false === $toCache) {
-        file_put_contents($cacheFile, file_get_contents($url));
+        file_put_contents($cacheFile, file_get_contents($url, false, $context));
     }
     $p = file_get_contents($cacheFile);
     $p = str_replace('&nbsp;', '', $p);
@@ -241,10 +256,10 @@ function getLicense($code, $toCache = true) {
         }
     }
 
-    $url = 'http://www.fda.gov.tw/MLMS/H0001D2.aspx?LicId=' . $code;
+    $url = 'https://www.fda.gov.tw/MLMS/H0001D2.aspx?LicId=' . $code;
     $cacheFile = $cache . '/p2_' . $code;
     if (!file_exists($cacheFile) || false === $toCache) {
-        file_put_contents($cacheFile, file_get_contents($url));
+        file_put_contents($cacheFile, file_get_contents($url, false, $context));
     }
     $p = file_get_contents($cacheFile);
     if (false === strpos($p, '無藥物辨識資料') && false === strpos($p, '無藥物辨識外觀圖片')) {
@@ -261,7 +276,7 @@ function getLicense($code, $toCache = true) {
                 if (false !== $pos) {
                     while (false !== $pos) {
                         $posEnd = strpos($line, '\'', $pos);
-                        $currentUrl = 'http://www.fda.gov.tw/MLMS/' . substr($line, $pos, $posEnd - $pos);
+                        $currentUrl = 'https://www.fda.gov.tw/MLMS/' . substr($line, $pos, $posEnd - $pos);
                         $pos = strpos($line, '>', $posEnd) + 1;
                         $posEnd = strpos($line, '<', $pos);
                         $title = preg_replace('/\s+/', ' ', trim(strip_tags(substr($line, $pos, $posEnd - $pos))));
@@ -293,10 +308,10 @@ function getLicense($code, $toCache = true) {
         }
     }
 
-    $url = 'http://www.fda.gov.tw/MLMS/H0001D3.aspx?LicId=' . $code;
+    $url = 'https://www.fda.gov.tw/MLMS/H0001D3.aspx?LicId=' . $code;
     $cacheFile = $cache . '/p3_' . $code;
     if (!file_exists($cacheFile) || false === $toCache) {
-        file_put_contents($cacheFile, file_get_contents($url));
+        file_put_contents($cacheFile, file_get_contents($url, false, $context));
     }
     $p = file_get_contents($cacheFile);
     $p = str_replace('&nbsp;', '', $p);
@@ -305,7 +320,7 @@ function getLicense($code, $toCache = true) {
         $data['仿單外盒'] = array();
         while (false !== $pos) {
             $posEnd = strpos($p, '\'', $pos);
-            $currentUrl = 'http://www.fda.gov.tw/MLMS/' . substr($p, $pos, $posEnd - $pos);
+            $currentUrl = 'https://www.fda.gov.tw/MLMS/' . substr($p, $pos, $posEnd - $pos);
             $pos = strpos($p, '>', $posEnd) + 1;
             $posEnd = strpos($p, '<', $pos);
             $title = preg_replace('/\s+/', ' ', trim(strip_tags(substr($p, $pos, $posEnd - $pos))));
