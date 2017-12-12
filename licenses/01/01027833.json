@@ -1,7 +1,7 @@
 {
     "code": "01027833",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01027833",
-    "time": "2015-08-22 22:30:37",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01027833",
+    "time": "2017-12-13 03:22:31",
     "許可證字號": "衛署藥製字第027833號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,22 +16,19 @@
     "英文品名": "BUSECON CAPSULES",
     "適應症": "鐵缺乏性貧血、惡性貧血及因貧血所引起之貧血症狀之改善",
     "劑型": "130膠囊劑",
-    "包裝": "瓶裝",
+    "包裝": "6-1000顆瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "FERROUS FUMARATE, THIAMINE DISULFIDE, PYRIDOXINE HCL, CYANOCOBALAMIN (VIT B12), OROTIC ACID (VIT B13), FOLIC ACID, HESPERIDIN (VIT P)",
-    "限制項目": [
-        "09委託製造",
-        "1G不得製造"
+    "主成分略述": [
+        "FERROUSFUMARATE,THIAMINEDISULFIDE,PYRIDOXINEHCL,CYANOCOBALAMIN(VITB12),OROTICACID(VITB13),FOLICACID,HESPERIDIN(VITP)"
     ],
+    "限制項目": "09委託製造",
     "申請商名稱": "1302820200  新喜國際企業股份有限公司",
-    "申請商地址": "台南市鹽水區孫厝里孫厝寮４之６號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1302820300  新喜國際企業股份有限公司",
         "製造廠廠址": "台南市鹽水區孫厝里孫厝寮４之６號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049030005 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -91,6 +88,12 @@
             "含量描述": "10",
             "含量": "10.0000000000",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "SC-02 佈血康說明書(160830+膠囊殼)-105-08-31(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027833&Seq=001&Type=9"
         }
     ]
 }

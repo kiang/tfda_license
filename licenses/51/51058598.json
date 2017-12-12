@@ -1,7 +1,7 @@
 {
     "code": "51058598",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058598",
-    "time": "2016-06-24 05:06:10",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058598",
+    "time": "2017-12-13 04:00:21",
     "許可證字號": "衛部藥製字第058598號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,18 @@
     "適應症": "緩解過敏性鼻炎、枯草熱所引起之相關症狀（鼻塞、流鼻水、打噴嚏、眼睛及喉部搔癢）。",
     "劑型": "130膠囊劑",
     "包裝": "6-28粒鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
-    "管制藥品分類級別": "",
-    "主成分略述": "CHLORPHENIRAMINE MALEATE, PSEUDOEPHEDRINE HCL, CAFFEINE ANHYDROUS",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "CHLORPHENIRAMINEMALEATE,PSEUDOEPHEDRINEHCL,CAFFEINEANHYDROUS"
     ],
-    "申請商名稱": "6236100491  裕展藥品股份有限公司",
-    "申請商地址": "臺中市西區民權路185號10樓之14",
+    "限制項目": "01國　產",
+    "申請商名稱": "1605609200  衛達化學製藥股份有限公司",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1605609300  衛達化學製藥股份有限公司",
         "製造廠廠址": "台中市南屯區寶山里工業區２３路２１號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -60,22 +58,46 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "1號膠囊",
+        "特殊劑型": "",
+        "顏色": "淺藍色帽白色身",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "5.0_SUNBELOR CAPSULE_膠囊外觀-104-12-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058598&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "1.0_SUNBELOR CAPSULE_仿單_1041208-105-01-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058598&Seq=002&Type=9"
+            "title": "喜鼻樂膠囊_仿單_1061012-106-10-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058598&Seq=004&Type=9"
         },
         {
-            "title": "4. 仿單標籤黏貼表市售核准版_仿單_SUNBELOR CAPSULE_1040324-104-04-08.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058598&Seq=001&Type=9"
+            "title": "1.0_SUNBELOR CAPSULE_仿單_1041208-104-12-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058598&Seq=003&Type=9"
         },
         {
-            "title": "6. 仿單標籤黏貼表市售核准版_外盒_SUNBELOR CAPSULE_1040324-104-04-08.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058598&Seq=002&Type=8"
+            "title": "喜鼻樂膠囊_QR CODE資訊_1061012-106-10-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058598&Seq=006&Type=8"
         },
         {
-            "title": "5. 仿單標籤黏貼表市售核准版_鋁箔_SUNBELOR CAPSULE_1040324-104-04-08.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058598&Seq=001&Type=8"
+            "title": "喜鼻樂膠囊-鋁箔-樣品-1060807-106-10-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058598&Seq=005&Type=8"
+        },
+        {
+            "title": "喜鼻樂膠囊-外盒-1060807-106-10-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058598&Seq=004&Type=8"
+        },
+        {
+            "title": "4.0_SUNBELOR CAPSULE_外盒-104-12-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058598&Seq=003&Type=8"
         }
     ]
 }

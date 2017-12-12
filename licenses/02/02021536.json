@@ -1,20 +1,20 @@
 {
     "code": "02021536",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021536",
-    "time": "2017-02-24 03:14:00",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021536",
+    "time": "2017-12-13 03:58:18",
     "許可證字號": "衛署藥輸字第021536號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/05\/08",
-    "發證日期": "86\/02\/04",
+    "有效日期": "112\/05\/08",
+    "發證日期": "106\/11\/14",
     "許可證種類": "製　劑",
     "舊證字號": "02019921",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00202153602",
     "中文品名": "克憂果膜衣錠20毫克",
     "英文品名": "SEROXAT F.C. TABLETS 20MG",
-    "適應症": "各種類型鬱症及鬱症伴隨焦慮症之症狀治療及預防復發、強迫症之症狀治療、恐慌症之症狀治療及預防復發、社交畏懼症（社交焦慮症）之治療、泛焦慮症之症狀治療及預防復發(GAD)、創傷後壓力症候群之治療(PTSD)。",
+    "適應症": "重鬱症之症狀治療及預防復發、強迫症之症狀治療、恐慌症之症狀治療及預防復發、社交畏懼症（社交焦慮症）之治療、泛焦慮症之症狀治療及預防復發(GAD)、創傷後壓力症候群之治療(PTSD)。",
     "劑型": "116膜衣錠",
     "包裝": "PVC\/Al\/paper blister strip鋁箔盒裝（CHILD-RESISTANT BLISTER PACK）",
     "標籤、仿單及包裝加註": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "F350010000  GLAXOSMITHKLINE PHARMACEUTICALS S.A.",
         "製造廠廠址": "UL. GRUNWALDZKA 189, 60-322 POZNAN, POLAND",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
@@ -43,7 +42,7 @@
         },
         {
             "製造廠名稱": "F130159200  SMITHKLINE BEECHAM PLC.",
-            "製造廠廠址": "980 GREAT WEST ROAD BRENTHORD MIDDLESEX TW8 9GS UNITED KINGDOM.",
+            "製造廠廠址": "980 GREAT WEST ROAD BRENTFORD MIDDLESEX TW8 9GS UNITED KINGDOM.",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED KINGDOM",
             "製程": "許可證持有者"
@@ -60,29 +59,33 @@
         }
     ],
     "藥物辨識詳細資料": {
-        "外觀尺寸": "",
+        "外觀尺寸": "0.6cm*1.2cm 錠劑",
         "特殊劑型": "",
         "顏色": "白色",
         "特殊氣味": "",
-        "刻痕": "",
-        "形狀": "長圓柱形",
-        "標記一": "SEROXAT,20",
+        "刻痕": "有",
+        "形狀": "橢圓形",
+        "標記一": "20",
         "標記二": ""
     },
     "藥物辨識外觀圖片": [
         {
             "title": "020215360005-104-09-25(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021536&Seq=435&Type=10"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021536&Seq=435&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "020215360002-105-05-05.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021536&Seq=028&Type=9"
+            "title": "020215360002-106-10-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021536&Seq=030&Type=9"
+        },
+        {
+            "title": "020215360001-106-10-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021536&Seq=029&Type=9"
         },
         {
             "title": "020215360004-105-05-05.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021536&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021536&Seq=002&Type=8"
         }
     ]
 }

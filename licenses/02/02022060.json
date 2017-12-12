@@ -1,7 +1,7 @@
 {
     "code": "02022060",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022060",
-    "time": "2016-12-30 03:27:18",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022060",
+    "time": "2017-12-13 03:25:07",
     "許可證字號": "衛署藥輸字第022060號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,11 +28,19 @@
         "主製造廠": "",
         "製造廠名稱": "F250178000  Sanofi-Aventis S.p.A.",
         "製造廠廠址": "LOCALITA VALCANELLO, 03012 ANAGNI (FR), ITALY",
-        "製造廠公司地址": "VIALE LUIGI BODIO, 37\/B-20158 MILANO, ITALY",
-        "": ""
+        "製造廠公司地址": "VIALE LUIGI BODIO, 37\/B-20158 MILANO, ITALY"
     },
     "CCC號列": "30042000916 人用醫藥製劑，含有其他抗生素者Medicaments, containing other antibiotics, for human use",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "7770824858  台灣大昌華嘉股份有限公司",
+            "製造廠廠址": "桃園市楊梅區梅獅路二段629號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠(委託貼標及置入仿單)"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -62,51 +70,11 @@
     "仿單外盒": [
         {
             "title": "Rifater tab_leaflet-104-09-04(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022060&Seq=011&Type=9"
-        },
-        {
-            "title": "020220600010___20120525.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022060&Seq=010&Type=9"
-        },
-        {
-            "title": "020220600009___20120525.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022060&Seq=009&Type=9"
-        },
-        {
-            "title": "020220600008___20120525.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022060&Seq=008&Type=9"
-        },
-        {
-            "title": "020220600007___20120525.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022060&Seq=007&Type=9"
-        },
-        {
-            "title": "020220600006___20120525.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022060&Seq=006&Type=9"
-        },
-        {
-            "title": "020220600005___20120525.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022060&Seq=005&Type=9"
-        },
-        {
-            "title": "020220600004___20120525.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022060&Seq=004&Type=9"
-        },
-        {
-            "title": "020220600003___20120525.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022060&Seq=003&Type=9"
-        },
-        {
-            "title": "020220600002___20120525.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022060&Seq=002&Type=9"
-        },
-        {
-            "title": "020220600001___20120525.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022060&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022060&Seq=011&Type=9"
         },
         {
             "title": "Rifater tab_box artwork-104-09-04(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022060&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022060&Seq=001&Type=8"
         }
     ]
 }

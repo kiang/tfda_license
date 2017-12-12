@@ -1,7 +1,7 @@
 {
     "code": "60000984",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60000984",
-    "time": "2017-06-16 03:29:04",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60000984",
+    "time": "2017-12-13 03:27:38",
     "許可證字號": "衛部菌疫輸字第000984號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,8 +12,8 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA06000098408",
-    "中文品名": "薩溫珂 凍晶注射劑100毫克",
-    "英文品名": "Sylvant Powder for Concentrate for Solution for Infusion 100mg",
+    "中文品名": "薩溫珂&#174;凍晶注射劑100毫克",
+    "英文品名": "Sylvant&#174; Powder for Concentrate for Solution for Infusion 100mg",
     "適應症": "適用於治療人類免疫不全病毒(HIV)陰性及人類皰疹病毒-8(HHV-8)陰性的多發性Castleman氏病(Multicentric Castleman's Disease(MCD))患者。",
     "劑型": "243凍晶注射劑",
     "包裝": "玻璃小瓶裝 一百支以下盒裝",
@@ -28,12 +28,18 @@
         "主製造廠": "",
         "製造廠名稱": "F430216000  CILAG AG",
         "製造廠廠址": "HOCHSTRASSE 201, 8200 SCHAFFHAUSEN, SWITZERLAND",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
+        {
+            "製造廠名稱": "6605071926  久裕企業股份有限公司",
+            "製造廠廠址": "桃園市桃園區大林里興邦路43巷2之1號4樓，3樓B區，1樓A區",
+            "製造廠公司地址": "",
+            "製造廠國別": "",
+            "製程": "二級包裝廠(委託貼標及置入仿單)"
+        },
         {
             "製造廠名稱": "F170059000  JANSSEN BIOLOGICS B.V.",
             "製造廠廠址": "EINSTEINWEG 101, 2333 CB LEIDEN, THE NETHERLANDS",
@@ -42,7 +48,7 @@
             "製程": "原料藥製造廠"
         },
         {
-            "製造廠名稱": "F230080000  JANSSEN BIOLOGICS (IRELAND)",
+            "製造廠名稱": "F230080000  JANSSEN SCIENCES IRELAND UC",
             "製造廠廠址": "BARNAHELY, RINGASKIDDY, CO.CORK, IRELAND",
             "製造廠公司地址": "",
             "製造廠國別": "IRELAND",
@@ -61,12 +67,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "2015-12-23 Sylvant 100mg 中文仿單 with TFDA stamp-104-12-23(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000984&Seq=002&Type=9"
+            "title": "打樣版PI_Sylvant_100mg and 400mg_USPI Nov2015_v1701-106-06-21(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000984&Seq=004&Type=9"
         },
         {
-            "title": "2015-12-23 Sylvant 100mg 中文小標籤 with TFDA stamp-104-12-23(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000984&Seq=006&Type=8"
+            "title": "0613-SYLVANT薩溫珂凍晶注射劑 中文仿單v1701-21x38cm-106-06-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000984&Seq=003&Type=9"
+        },
+        {
+            "title": "薩溫珂凍晶注射劑100毫克-標籤-106-11-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000984&Seq=008&Type=8"
+        },
+        {
+            "title": "薩溫珂凍晶注射劑100毫克-外盒-106-11-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000984&Seq=007&Type=8"
         }
     ]
 }

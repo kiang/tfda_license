@@ -1,7 +1,7 @@
 {
     "code": "08016445",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016445",
-    "time": "2015-08-23 19:59:41",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016445",
+    "time": "2017-12-13 03:37:11",
     "許可證字號": "衛署粧輸字第016445號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,30 +17,28 @@
     "用途": "染髮。",
     "劑型": "992霜劑",
     "包裝": "500ml以下管裝 附紙外盒裝",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "AMMONIA, RESORCINOL (RESORCIN), 4-AMINO-M-CRESOL, 6-AMINO-M-CRESOL, 4-AMINO-2-HYDROXYTOLUENE, TOLUENE-2,5-DIAMINE SULFATE, 2-AMINO-6-CHLORO-4-NITROPHENOL",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "25%AMMONIASOLUTION(EQTOAMMONIA25%),RESORCINOL(RESORCIN),4-AMINO-M-CRESOL,4-AMINO-2-HYDROXYTOLUENE,TOLUENE-2,5-DIAMINESULFATE,2-AMINO-6-CHLORO-4-NITROPHENOL"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "6625131887  卓冠髮品股份有限公司",
-    "申請商地址": "台北市內湖區瑞光路513巷22弄5號7樓之6",
     "主製造廠": {
-        "製造廠名稱": "C440022000  PROCTER &amp; GAMBLE MANUFACTURING (THAILAND) LTD.",
-        "製造廠廠址": "112 MOO 5, WELLGROW INDUSTRIAL ESTATE, KM.36, BANGNA-TRAD, BANGSAMARK, BANGPAKONG,CHACHOENGSAO, 24180, THAILAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "THAILAND",
-        "製程": ""
+        "主製造廠": "",
+        "製造廠名稱": "M440106000  HFC Prestige Manufacturing(Thailand)Ltd.",
+        "製造廠廠址": "112\/1 Moo 5,Wellgrow Industrial Estate,KM.36, Bangna-Trad,Bangsamark,Bangpakong,Chachoengsao 24180,Thailand",
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000100",
-            "成分名稱": "AMMONIA",
+            "成分代碼": "2820000105",
+            "成分名稱": "25% AMMONIA SOLUTION ( EQ TO AMMONIA 25%)",
             "含量描述": "",
-            "含量": "1.8830000000",
+            "含量": "3.8700000000",
             "單位": "%(W\/W)"
         },
         {
@@ -48,7 +46,7 @@
             "成分代碼": "8428000500",
             "成分名稱": "RESORCINOL (RESORCIN)",
             "含量描述": "",
-            "含量": "0.2520000000",
+            "含量": "0.2500000000",
             "單位": "%(W\/W)"
         },
         {
@@ -56,15 +54,7 @@
             "成分代碼": "9200002632",
             "成分名稱": "4-AMINO-M-CRESOL",
             "含量描述": "",
-            "含量": "0.2520000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200002690",
-            "成分名稱": "6-AMINO-M-CRESOL",
-            "含量描述": "",
-            "含量": "0.1030000000",
+            "含量": "0.2300000000",
             "單位": "%(W\/W)"
         },
         {
@@ -72,7 +62,7 @@
             "成分代碼": "9200039000",
             "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
             "含量描述": "",
-            "含量": "0.0760000000",
+            "含量": "0.0550000000",
             "單位": "%(W\/W)"
         },
         {
@@ -80,7 +70,7 @@
             "成分代碼": "9900066200",
             "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
             "含量描述": "",
-            "含量": "0.1890000000",
+            "含量": "0.2000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -88,14 +78,18 @@
             "成分代碼": "9900084900",
             "成分名稱": "2-AMINO-6-CHLORO-4-NITROPHENOL",
             "含量描述": "",
-            "含量": "0.1620000000",
+            "含量": "0.1600000000",
             "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
         {
+            "title": "08016445-106-11-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016445&Seq=001&Type=9"
+        },
+        {
             "title": "08016445___20110127.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016445&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016445&Seq=001&Type=8"
         }
     ]
 }

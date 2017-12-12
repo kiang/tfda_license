@@ -1,7 +1,7 @@
 {
     "code": "51058830",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058830",
-    "time": "2016-07-29 05:10:13",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058830",
+    "time": "2017-12-13 03:26:45",
     "許可證字號": "衛部藥製字第058830號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,18 @@
     "適應症": "緩解感冒之各種症狀(流鼻水、鼻塞、打噴嚏、咽喉痛、咳嗽、畏寒、發燒、頭痛、關節痛、肌肉酸痛)。",
     "劑型": "150內服顆粒劑",
     "包裝": "6-100包(每包10公克)鋁箔袋裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
-    "管制藥品分類級別": "",
-    "主成分略述": "CHLORPHENIRAMINE MALEATE, PHENYLEPHRINE HCL, ACETAMINOPHEN MICRONIZED, CAFFEINE ANHYDROUS, DEXTROMETHORPHAN HBR",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "CHLORPHENIRAMINEMALEATE,PHENYLEPHRINEHCL,ACETAMINOPHENMICRONIZED,CAFFEINEANHYDROUS,DEXTROMETHORPHANHBR"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1103401100  健喬信元醫藥生技股份有限公司",
-    "申請商地址": "新竹縣湖口鄉光復北路21巷4號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "6133061486  優良化學製藥股份有限公司",
         "製造廠廠址": "新竹縣湖口鄉中興村光復路10號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -78,20 +76,28 @@
     ],
     "仿單外盒": [
         {
-            "title": "510588300001_revised-105-04-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058830&Seq=002&Type=9"
+            "title": "衛部藥製字第058830號_仿單-106-10-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058830&Seq=004&Type=9"
         },
         {
             "title": "510588300001-104-11-20(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058830&Seq=003&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058830&Seq=003&Type=9"
         },
         {
-            "title": "510588300001-104-10-29.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058830&Seq=001&Type=9"
+            "title": "衛部藥製字第058830號_QR code-106-10-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058830&Seq=004&Type=8"
+        },
+        {
+            "title": "衛部藥製字第058830號_鋁箔-106-10-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058830&Seq=003&Type=8"
+        },
+        {
+            "title": "衛部藥製字第058830號_外盒-106-10-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058830&Seq=002&Type=8"
         },
         {
             "title": "510588300002-104-10-29.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058830&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058830&Seq=001&Type=8"
         }
     ]
 }

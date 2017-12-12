@@ -1,7 +1,7 @@
 {
     "code": "42000513",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000513",
-    "time": "2015-08-22 04:53:24",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000513",
+    "time": "2017-12-13 04:05:52",
     "許可證字號": "衛署醫器陸輸字第000513號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,37 +18,35 @@
     "醫器規格": "BeneView T5、BeneView T8,以下空白",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "E心臟血管用裝置",
     "醫器次類別一": "E2300心臟監視器(包含心動數計和心率警示器)",
     "醫器主類別二": "E心臟血管用裝置",
     "醫器次類別二": "E2700血氧飽和測定儀",
     "醫器主類別三": "E心臟血管用裝置",
-    "醫器次類別三": "E1130非侵入性血壓測量系統",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入",
-        "40大陸生產"
+    "主成分略述": [
+        ""
     ],
+    "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "1234401100  博宣寧股份有限公司",
-    "申請商地址": "台北市內湖區瑞光路358巷30弄8號3樓之1",
     "主製造廠": {
-        "製造廠名稱": "M640203000  SHENZHEN MINDRAY BIO-MEDICAL ELECTRONICS CO., LTD.",
-        "製造廠廠址": "BUILDING 9-13,BAIWANGXIN HIGH-TECH INDUSTRIAL PARK,BAIMANG,XILI TOWN,NANSHAN,SHENZHEN 518108,CHINA",
+        "主製造廠": "",
+        "製造廠名稱": "M641456000  Shenzhen Mindray Bio-Medical Electronics Co., Ltd.",
+        "製造廠廠址": "Mindray Building, Keji 12th Road South, High-tech Industrial Park, Nanshan, Shenzhen 518057, China",
         "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "420005130001___20130503.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000513&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000513&Seq=001&Type=9"
         },
         {
             "title": "420005130002___20130503.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000513&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000513&Seq=001&Type=8"
         }
     ]
 }

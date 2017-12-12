@@ -1,11 +1,11 @@
 {
     "code": "03010321",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=03010321",
-    "time": "2017-04-28 03:42:18",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=03010321",
+    "time": "2017-12-13 03:38:00",
     "許可證字號": "衛署成製字第010321號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "106\/11\/16",
+    "註銷理由": "許可證已逾有效期",
     "有效日期": "106\/02\/07",
     "發證日期": "101\/02\/07",
     "許可證種類": "製　劑",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "1407422300  臺灣派頓化學製藥股份有限公司",
         "製造廠廠址": "高雄市岡山區為隨里為隨東路五十號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
@@ -69,12 +68,24 @@
     ],
     "仿單外盒": [
         {
+            "title": "03010321 仿單-106-06-01.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03010321&Seq=005&Type=9"
+        },
+        {
             "title": "20160125151955548-105-01-25.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03010321&Seq=004&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03010321&Seq=004&Type=9"
+        },
+        {
+            "title": "030103210003 外盒-106-06-01.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03010321&Seq=010&Type=8"
+        },
+        {
+            "title": "030103210002 標籤-106-06-01.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03010321&Seq=009&Type=8"
         },
         {
             "title": "20160125152000372-105-01-25.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03010321&Seq=008&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03010321&Seq=008&Type=8"
         }
     ]
 }

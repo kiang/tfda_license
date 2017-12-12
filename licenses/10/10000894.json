@@ -1,7 +1,7 @@
 {
     "code": "10000894",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000894",
-    "time": "2017-05-26 03:37:10",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000894",
+    "time": "2017-12-13 03:26:15",
     "許可證字號": "衛署菌疫輸字第000894號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,7 +16,7 @@
     "英文品名": "Rabipur PCEC Rabies Vaccines Behring Powder and solvent for solution for injection",
     "適應症": "預防狂犬病。",
     "劑型": "248注射用凍晶粉末",
-    "包裝": "小瓶裝 附注射用水1毫升\/安瓿 拋棄式針筒，100支以下盒裝",
+    "包裝": "拋棄式針筒，100支以下盒裝 附注射用水1毫升\/安瓿 小瓶裝 附注射用水預充填注射針筒裝",
     "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
     "主成分略述": [
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "F470450000  GSK VACCINES GMBH",
         "製造廠廠址": "EMIL-VON-BEHRING STR. 76, 35041 MARBURG, GERMANY",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -47,6 +46,13 @@
             "製造廠公司地址": "",
             "製造廠國別": "ITALY",
             "製程": "Diluent"
+        },
+        {
+            "製造廠名稱": "F470292000  VETTER PHARMA-FERTIGUNG GMBH &amp; CO. KG",
+            "製造廠廠址": "EISENBAHNSTRASSE 2-4, 88085 LANGENARGEN GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "針筒裝注射用水製造"
         }
     ],
     "ingredients": [
@@ -61,12 +67,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "100008940005___20100409.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000894&Seq=005&Type=9"
+            "title": "瑞犬伏狂犬病疫苗-仿單-106-11-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000894&Seq=006&Type=9"
         },
         {
             "title": "100008940001___20100409.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000894&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000894&Seq=001&Type=8"
         }
     ]
 }

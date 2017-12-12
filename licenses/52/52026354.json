@@ -1,7 +1,7 @@
 {
     "code": "52026354",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026354",
-    "time": "2017-05-26 03:37:42",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026354",
+    "time": "2017-12-13 03:27:08",
     "許可證字號": "衛部藥輸字第026354號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,7 +14,7 @@
     "通關簽審文件編號": "DHA05202635401",
     "中文品名": "達珂凍晶注射劑",
     "英文品名": "Dacogen Powder for Concentrate for Solution for Infusion",
-    "適應症": "(1)適用於治療65歲(含)以上且不適合進行標準誘導化學療法之新診斷出患有原發性或續發性急性骨髓性白血病病患[AML，依據世界衛生組織(WHO)分類] 須符合Poor-or intermediate-risk Cytogenetics，且不適合用於Acute Promyelocytic Leukemia (M3 Classification)]。\r\n(2)適用於治療骨髓化生不良症候群(MDS)患者，包括先前曾接受治療及未曾接受治療、所有French-American-British亞型之原發性與續發性MDS(頑固性貧血、環形鐵粒幼細胞的頑固型貧血、頑固性貧血併有過量芽細胞、頑固性貧血併有過量芽細胞轉變型、以及慢性骨髓單核球性白血病)、以及國際預後評分系統分類為中度危險-1、中度危險-2與高危險患者。",
+    "適應症": "(1)\r\nDacogen適用於治療不適合進行標準誘導化學療法之新診斷出患有原發性或續發性急性骨髓性白血病病患(AML，依據世界衛生組織(WHO)分類)。須符合Poor-or intermediate-risk Cytogenetics，且不適合用於Acute Promyelocytic Leukemia (M3 Classification)。\r\n\r\n(2)\r\nDacogen適用於治療骨髓化生不良症候群(MDS)患者，包括先前曾接受治療及未曾接受治療、所有French-American-British亞型之原發性與續發性MDS (頑固性貧血、環形鐵粒幼細胞的頑固性貧血、頑固性貧血併有過量芽細胞、頑固性貧血併有過量芽細胞轉變型、以及慢性骨髓單核球性白血病)、以及國際預後評分系統分類為中度危險-1、中度危險-2與高危險的患者。",
     "劑型": "243凍晶注射劑",
     "包裝": "玻璃小瓶裝 每盒100支以下盒裝",
     "標籤、仿單及包裝加註": "",
@@ -28,12 +28,18 @@
         "主製造廠": "",
         "製造廠名稱": "F250479000  BSP PHARMACEUTICALS S.p.A",
         "製造廠廠址": "VIA APPIA KM 65,561, LATINA SCALO(LT), 04013, ITALY",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
+        {
+            "製造廠名稱": "6605071926  久裕企業股份有限公司",
+            "製造廠廠址": "桃園市桃園區大林里興邦路43巷2之1號4樓，3樓B區，1樓A區",
+            "製造廠公司地址": "",
+            "製造廠國別": "",
+            "製程": "二級包裝廠(委託貼標及置入仿單)"
+        },
         {
             "製造廠名稱": "F050082100  JANSSEN PHARMACEUTICA N.V.",
             "製造廠廠址": "TURNHOUTSEWEG 30, 2340, BEERSE, BELGIUM",
@@ -54,16 +60,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "[打樣版] 中文仿單 PI_Dacogen_EU SmPC Mar2015 (AML and storage) and USPI Feb2014 (MDS)_v1602-106-03-07(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026354&Seq=004&Type=9"
-        },
-        {
-            "title": "Dacogen Powder 達珂凍晶注射劑中文仿單-70x32cm-20160425 Hi-105-05-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026354&Seq=003&Type=9"
+            "title": "1003-Dacogen Powder 達珂凍晶注射劑中文仿單-42x32cm Hi-106-10-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026354&Seq=005&Type=9"
         },
         {
             "title": "Dacogen_英文小標籤-103-11-03.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026354&Seq=003&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026354&Seq=003&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "02024602",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024602",
-    "time": "2017-04-28 03:29:20",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024602",
+    "time": "2017-12-13 03:25:30",
     "許可證字號": "衛署藥輸字第024602號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,12 +28,18 @@
         "主製造廠": "",
         "製造廠名稱": "F470233000  FERRING  GMBH",
         "製造廠廠址": "WITTLAND 11, D-24109 KIEL  GERMANY",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049071005 抗癌藥Anti-cancer preparations",
     "藥理治療分類": "",
     "次製造廠": [
+        {
+            "製造廠名稱": "F390021200  ZUELLIG PHARMA SPECIALTY SOLUTIONS GROUP PTE. LTD.",
+            "製造廠廠址": "15 CHANGI NORTH WAY #01-02, #02-02, #02-10, SINGAPORE 498770",
+            "製造廠公司地址": "",
+            "製造廠國別": "SINGAPORE",
+            "製程": "包裝"
+        },
         {
             "製造廠名稱": "F430116000  FERRING INTERNATIONAL CENTER SA",
             "製造廠廠址": "CHEMIN DE LA VERGOGNAUSAZ 50, CH-1162 SAINT-PREX, SWITZERLAND",
@@ -52,18 +58,42 @@
             "單位": "UG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "透明無色",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "020246020005-104-09-21(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024602&Seq=002&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
+            "title": "弟凱得注射液-106-11-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024602&Seq=006&Type=9"
+        },
+        {
             "title": "Appendix2.3_insert-104-03-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024602&Seq=005&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024602&Seq=005&Type=9"
+        },
+        {
+            "title": "appendix7.1_變更後外盒-106-11-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024602&Seq=007&Type=8"
         },
         {
             "title": "Appendix2.2_label-104-03-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024602&Seq=006&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024602&Seq=006&Type=8"
         },
         {
             "title": "Appendix2.1_carton-104-03-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024602&Seq=005&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024602&Seq=005&Type=8"
         }
     ]
 }

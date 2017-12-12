@@ -1,7 +1,7 @@
 {
     "code": "58022420",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58022420",
-    "time": "2015-08-23 22:26:05",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58022420",
+    "time": "2017-12-13 03:37:34",
     "許可證字號": "衛部粧輸字第022420號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,22 +17,20 @@
     "用途": "防曬。",
     "劑型": "944乳劑",
     "包裝": "500公撮以下瓶裝附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0714防晒化粧用品",
-    "": "",
-    "主成分略述": "BUTYL METHOXYDIBENZOYLMETHANE, OCTOCRYLENE, ETHYLHEXYL TRIAZONE, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
-    "限制項目": [
-        ""
+    "主成分略述": [
+        "BUTYLMETHOXYDIBENZOYLMETHANE,OCTOCRYLENE,ETHYLHEXYLTRIAZONE,BIS-ETHYLHEXYLOXYPHENOLMETHOXYPHENYLTRIAZINE"
     ],
+    "限制項目": "",
     "申請商名稱": "6628419414  香港商希思黎化妝品有限公司台灣分公司",
-    "申請商地址": "台北市信義區信義路5段7號69樓之1",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C150010000  C.F.E.B. SISLEY",
-        "製造廠廠址": "16, AVENUE GEORGE V 75008 PARIS, FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
+        "製造廠廠址": "3, AVENUE DE FRIEDLAND- 75008 PARIS, FRANCE",
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -66,6 +64,12 @@
             "含量描述": "",
             "含量": "3.0000000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "58022420-105-03-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58022420&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "52026568",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026568",
-    "time": "2017-04-28 03:30:34",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026568",
+    "time": "2017-12-13 03:27:17",
     "許可證字號": "衛部藥輸字第026568號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "F470157000  Catalent Germany Eberbach GmbH",
         "製造廠廠址": "GAMMELSBACHER STRASSE 2, 69412 EBERBACH\/BADEN, GERMANY",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -59,14 +58,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "橢圓形",
+        "標記一": "百靈佳殷格翰公司標誌",
+        "標記二": "150"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Ofev 150 mg-5-104-12-21(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026568&Seq=002&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "02026569001-106-04-12.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026568&Seq=002&Type=9"
+            "title": "02026568-106-11-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026568&Seq=001&Type=9"
         },
         {
             "title": "020265680003-104-09-16.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026568&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026568&Seq=002&Type=8"
         }
     ]
 }

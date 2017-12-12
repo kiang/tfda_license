@@ -1,7 +1,7 @@
 {
     "code": "60001025",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60001025",
-    "time": "2017-06-16 03:05:30",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60001025",
+    "time": "2017-12-13 03:27:41",
     "許可證字號": "衛部菌疫輸字第001025號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,7 +14,7 @@
     "通關簽審文件編號": "DHA06000102500",
     "中文品名": "吉舒達注射劑",
     "英文品名": "Keytruda Injection",
-    "適應症": "治療無法切除或轉移性黑色素瘤患者；治療接受含鉑化學治療後疾病惡化且其腫瘤表現PD-L1 (tumor proportion score ≥ 50%)的晚期非小細胞肺癌患者，患者若具有EGFR或ALK腫瘤基因異常者，則須經EGFR或ALK抑制劑治療後出現疾病惡化現象。",
+    "適應症": "1.1 黑色素細胞瘤\r\n治療無法切除或轉移性黑色素瘤患者；\r\n1.2 非小細胞肺癌\r\n用於第一線治療經確效之試驗檢測出腫瘤高度表現PD-L1 (tumor proportion score (TPS) ≥ 50%)的轉移非小細胞肺癌患者，患者不具有EGFR或ALK腫瘤基因異常者。\r\n治療接受含鉑化學治療後疾病惡化且其經確效之試驗檢測出腫瘤高度表現PD-L1 (tumor proportion score ≥ 50%)的晚期非小細胞肺癌患者，患者若具有EGFR或ALK腫瘤基因異常者，則須經EGFR或ALK抑制劑治療後出現疾病惡化現象。\r\n1.3 典型何杰金氏淋巴瘤\r\n治療罹患頑固性或先前至少已接受三種治療仍復發之典型何杰金氏淋巴瘤的患者[參見臨床研究(12.3)]。\r\n此適應症是以腫瘤療效反應率與療效反應持久性為基礎，透過快速審查的程序獲得核准。此適應症的後續審查核准可能要視療效確認試驗中之臨床效益的確認結果與陳述內容而定。\r\n1.4 頭頸部鱗狀細胞癌\r\n治療在使用含鉑化學治療期間或治療後出現疾病惡化的復發或轉移性頭頸部鱗狀細胞癌(HNSCC)的患者[參見臨床研究(12.4)]。\r\n本項適應症係依據腫瘤整體反應率及治療反應持續時間獲得加速核准。適應症的持續核准須要後續確認性試驗(confirmatory trial)證明確實達到臨床效益。",
     "劑型": "270注射劑",
     "包裝": "100mg\/4mL小瓶裝",
     "標籤、仿單及包裝加註": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "F230099000  MSD IRELAND (CARLOW)",
         "製造廠廠址": "DUBLIN RD., CARLOW, COUNTY CARLOW, IRELAND",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -68,20 +67,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "02001025_藥品指引說明_1060510-106-05-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001025&Seq=004&Type=9"
-        },
-        {
-            "title": "02001025_仿單_1060510-106-05-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001025&Seq=003&Type=9"
+            "title": "QRD_Keytruda Liquid_Chi_CCDS092017_clean-106-11-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001025&Seq=011&Type=9"
         },
         {
             "title": "02001025_label_20161013-105-10-20.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001025&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001025&Seq=002&Type=8"
         },
         {
             "title": "02001025_carton_20161013-105-10-20.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001025&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001025&Seq=001&Type=8"
         }
     ]
 }

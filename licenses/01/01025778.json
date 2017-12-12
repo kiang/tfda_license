@@ -1,7 +1,7 @@
 {
     "code": "01025778",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01025778",
-    "time": "2015-08-22 22:02:55",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01025778",
+    "time": "2017-12-13 03:22:19",
     "許可證字號": "衛署藥製字第025778號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,23 @@
     "舊證字號": "00000000",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102577800",
-    "中文品名": "三化錠",
-    "英文品名": "Tri-Zyme Tablets \"S.D.\"",
+    "中文品名": "&quot;世達&quot;三化錠",
+    "英文品名": "Tri-Zyme Tablets &quot;S.D.&quot;",
     "適應症": "幫助消化",
     "劑型": "110錠劑",
     "包裝": "18-1000錠塑膠瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥",
-    "管制藥品分類級別": "",
-    "主成分略述": "NEWLASE, DIASTASE BIO-, LIPASE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "NEWLASE,DIASTASEBIO-,LIPASE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0507809200  世達藥品工業股份有限公司",
-    "申請商地址": "台中市西屯工業區十五路２號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0507809300  世達藥品工業股份有限公司",
         "製造廠廠址": "台中市西屯工業區十五路２號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
@@ -73,17 +71,25 @@
     "藥物辨識外觀圖片": [
         {
             "title": "025778-104-03-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025778&Seq=001&Type=10"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025778&Seq=001&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "010257780002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025778&Seq=002&Type=9"
+            "title": "三化錠仿單-106-11-15.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025778&Seq=004&Type=9"
         },
         {
-            "title": "010257780001.DOC",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025778&Seq=001&Type=9"
+            "title": "T007三化錠-104-12-16(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025778&Seq=003&Type=9"
+        },
+        {
+            "title": "三化錠標籤new-106-11-15.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025778&Seq=002&Type=8"
+        },
+        {
+            "title": "三化錠1000s-105-08-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025778&Seq=001&Type=8"
         }
     ]
 }

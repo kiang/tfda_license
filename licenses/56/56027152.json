@@ -1,7 +1,7 @@
 {
     "code": "56027152",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027152",
-    "time": "2017-01-27 03:34:51",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027152",
+    "time": "2017-12-13 03:34:40",
     "許可證字號": "衛部醫器輸字第027152號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,7 +15,7 @@
     "中文品名": "“義獲嘉偉瓦登特”易美陶瓷塊燒瓷附件",
     "英文品名": "“Ivoclar Vivadent” IPS e.maxCAD Crystallization Accessories",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "詳如中文仿單核定本",
+    "醫器規格": "詳如中文仿單核定本。新增規格：674676，以下空白。",
     "劑型": "",
     "包裝": "",
     "標籤、仿單及包裝加註": "",
@@ -37,17 +37,24 @@
         "製造廠公司地址": "",
         "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "56027152001-106-09-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027152&Seq=002&Type=9"
+        },
+        {
             "title": "560271520001-104-04-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027152&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027152&Seq=001&Type=9"
+        },
+        {
+            "title": "56027152002-106-09-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027152&Seq=002&Type=8"
         },
         {
             "title": "560271520002-104-04-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027152&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027152&Seq=001&Type=8"
         }
     ]
 }

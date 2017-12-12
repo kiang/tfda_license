@@ -1,7 +1,7 @@
 {
     "code": "01034121",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01034121",
-    "time": "2017-02-24 03:11:28",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01034121",
+    "time": "2017-12-13 03:22:54",
     "許可證字號": "衛署藥製字第034121號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥",
     "主成分略述": [
-        "SILYMARIN(EXSICCATEDFRUCTUSCARDUIMARIANUSEXTRACT),NIACINAMIDE(NICOTINAMIDE),THIAMINEHYDROCHLORIDE,RIBOFLAVIN(VITB2),PYRIDOXINEHCL,CYANOCOBALAMIN(VITB12),PANTOTHENATECALCIUM"
+        "SILYMARIN(EXSICCATEDFRUCTUSCARDUIMARIANUSEXTRACT),NIACINAMIDE(NICOTINAMIDE),THIAMINEHYDROCHLORIDE,RIBOFLAVIN(VITB2),PYRIDOXINEHCL,CYANOCOBALAMIN0.1%,PANTOTHENATECALCIUM"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "0413004200  五洲製藥股份有限公司",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "0413004300  五洲製藥股份有限公司",
         "製造廠廠址": "桃園市新屋區赤欄村二鄰１７號之１",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
@@ -38,7 +37,7 @@
             "成分類別": "主成分",
             "成分代碼": "5656991100",
             "成分名稱": "SILYMARIN (EXSICCATED FRUCTUS CARDUI MARIANUS EXTRACT)",
-            "含量描述": "",
+            "含量描述": "(111.0)",
             "含量": "70.0000000000",
             "單位": "MG"
         },
@@ -76,11 +75,11 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8811200300",
-            "成分名稱": "CYANOCOBALAMIN (VIT B12)",
-            "含量描述": "",
+            "成分代碼": "8811200320",
+            "成分名稱": "CYANOCOBALAMIN 0.1%",
+            "含量描述": "(eq to cyanocobalamin 1.2mcg)",
             "含量": "1.2000000000",
-            "單位": "MCG"
+            "單位": "MG"
         },
         {
             "成分類別": "主成分",
@@ -92,29 +91,29 @@
         }
     ],
     "藥物辨識詳細資料": {
-        "外觀尺寸": "",
+        "外觀尺寸": "體蓋咖啡色、印有白色SUZUMARIN字樣，內含黃褐色粉末。",
         "特殊劑型": "",
-        "顏色": "暗紅紫\/暗紅紫",
+        "顏色": "體蓋咖啡色",
         "特殊氣味": "",
         "刻痕": "",
-        "形狀": "長圓柱形",
-        "標記一": "SUZUMARIN",
-        "標記二": "SUZUMARIN"
+        "形狀": "橢圓形",
+        "標記一": "印SUZUMARIN",
+        "標記二": "內含黃褐色粉末"
     },
     "藥物辨識外觀圖片": [
         {
             "title": "斯斯保肝膠囊 cap 01-104-09-22(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034121&Seq=276&Type=10"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034121&Seq=276&Type=10"
         }
     ],
     "仿單外盒": [
         {
             "title": "斯斯保肝膠囊_仿單-105-12-26.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034121&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034121&Seq=002&Type=9"
         },
         {
             "title": "斯斯保肝膠囊_鋁箔-105-12-26.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034121&Seq=005&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034121&Seq=005&Type=8"
         }
     ]
 }

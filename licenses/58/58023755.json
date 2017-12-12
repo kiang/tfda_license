@@ -1,7 +1,7 @@
 {
     "code": "58023755",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58023755",
-    "time": "2017-02-24 03:27:23",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58023755",
+    "time": "2017-12-13 03:37:43",
     "許可證字號": "衛部粧輸字第023755號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "C260274100  NIHON KOLMAR CO., LTD.",
         "製造廠廠址": "379-5, INOO, KAMO-CHO, UNNAN-SHI, SHIMANE, 6991114 JAPAN",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -39,7 +38,7 @@
             "成分代碼": "9200011500",
             "成分名稱": "ZINC OXIDE",
             "含量描述": "",
-            "含量": "7.2800048000",
+            "含量": "8.1900480000",
             "單位": "%(W\/W)"
         },
         {
@@ -63,7 +62,7 @@
             "成分代碼": "9900071200",
             "成分名稱": "ETHYLHEXYL METHOXYCINNAMATE",
             "含量描述": "",
-            "含量": "10.0000000000",
+            "含量": "7.5000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -87,14 +86,18 @@
             "成分代碼": "9900095700",
             "成分名稱": "BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
             "含量描述": "",
-            "含量": "0.5000000000",
+            "含量": "1.0000000000",
             "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
         {
+            "title": "58023755-106-11-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58023755&Seq=001&Type=9"
+        },
+        {
             "title": "58023755-105-12-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58023755&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58023755&Seq=002&Type=8"
         }
     ]
 }

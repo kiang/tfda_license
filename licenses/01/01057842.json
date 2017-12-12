@@ -1,12 +1,12 @@
 {
     "code": "01057842",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057842",
-    "time": "2016-11-18 15:59:16",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057842",
+    "time": "2017-12-13 03:40:22",
     "許可證字號": "衛署藥製字第057842號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/02\/26",
+    "有效日期": "112\/02\/26",
     "發證日期": "102\/02\/26",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -27,9 +27,8 @@
     "主製造廠": {
         "主製造廠": "",
         "製造廠名稱": "0903620300  南光化學製藥股份有限公司",
-        "製造廠廠址": "台南市新化區中山路１００１號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠廠址": "台南市新化區中山路1001號、1001-1號",
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -43,38 +42,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "白色",
+        "特殊氣味": "",
+        "刻痕": "有",
+        "形狀": "橢圓形",
+        "標記一": "NK",
+        "標記二": "547"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "547057842_外觀_201509-104-09-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057842&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "547057842_仿單_033115-02-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057842&Seq=002&Type=9"
+            "title": "美妥欣膜衣錠250毫克仿單-106-01-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057842&Seq=003&Type=9"
         },
         {
-            "title": "010578420001___20130313.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057842&Seq=001&Type=9"
-        },
-        {
-            "title": "547057842_鋁箔片_031313-00-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057842&Seq=006&Type=8"
-        },
-        {
-            "title": "547057842_彩盒(10x50T)_052314-01-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057842&Seq=005&Type=8"
-        },
-        {
-            "title": "547057842_彩盒(10x10T)_111413-01-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057842&Seq=004&Type=8"
-        },
-        {
-            "title": "010578420004___20130313.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057842&Seq=003&Type=8"
-        },
-        {
-            "title": "010578420003___20130313.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057842&Seq=002&Type=8"
-        },
-        {
-            "title": "010578420002___20130313.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057842&Seq=001&Type=8"
+            "title": "美妥欣膜衣錠250毫克外盒-106-01-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057842&Seq=009&Type=8"
         }
     ]
 }

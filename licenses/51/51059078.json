@@ -1,7 +1,7 @@
 {
     "code": "51059078",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51059078",
-    "time": "2016-12-30 03:28:18",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51059078",
+    "time": "2017-12-13 03:26:46",
     "許可證字號": "衛部藥製字第059078號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,11 +28,19 @@
         "主製造廠": "",
         "製造廠名稱": "6105200071  展旺生命科技股份有限公司南科分公司針劑廠",
         "製造廠廠址": "台南市新市區創業路12號4樓、16號4樓",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "6105200160  展旺生命科技股份有限公司南科分公司南科第二廠區",
+            "製造廠廠址": "台南市新市區南科六路1號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "無菌加工"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -46,15 +54,11 @@
     "仿單外盒": [
         {
             "title": "展旺厄他可注射劑 1g-Leaflet-Final-105-07-07.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059078&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059078&Seq=001&Type=9"
         },
         {
             "title": "展旺厄他可注射劑 1g-Label-Final-105-07-07.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059078&Seq=002&Type=8"
-        },
-        {
-            "title": "展旺厄他可注射劑 1g-Box-Final-105-07-07.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059078&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059078&Seq=002&Type=8"
         }
     ]
 }

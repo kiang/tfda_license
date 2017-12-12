@@ -1,7 +1,7 @@
 {
     "code": "02024855",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024855",
-    "time": "2017-02-24 03:14:33",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024855",
+    "time": "2017-12-13 03:59:07",
     "許可證字號": "衛署藥輸字第024855號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "F150075000  LES LABORATOIRES SERVIER INDUSTRIE",
         "製造廠廠址": "905 ROUTE DE SARAN 45520 GIDY-FRANCE",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -52,14 +51,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "直徑 8 mm",
+        "特殊劑型": "",
+        "顏色": "綠色",
+        "特殊氣味": "",
+        "刻痕": "無",
+        "形狀": "圓凸形",
+        "標記一": "公司標誌",
+        "標記二": "心形圖案"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Acertil 10 mg_實體外觀-104-09-03(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024855&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "Acertil 10 mg_仿單-104-09-03(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024855&Seq=001&Type=9"
+            "title": "PIL_Aceril 10 mg_2016.06.21-106-07-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024855&Seq=002&Type=9"
         },
         {
             "title": "Acertil 10 mg_標籤-104-09-03(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024855&Seq=011&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024855&Seq=011&Type=8"
         }
     ]
 }

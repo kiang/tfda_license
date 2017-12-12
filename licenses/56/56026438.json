@@ -1,7 +1,7 @@
 {
     "code": "56026438",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026438",
-    "time": "2015-08-24 13:16:48",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026438",
+    "time": "2017-12-13 04:08:00",
     "許可證字號": "衛部醫器輸字第026438號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,32 +18,35 @@
     "醫器規格": "詳如中文仿單核定本。\r\n增加規格：詳如中文仿單核定本(原103年8月28日核定之仿單標籤核定本予以作廢)。\r\n增加規格：詳如中文仿單核定本(原104年1月3日核定之仿單標籤核定本予以作廢)。",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "P放射學科用裝置",
     "醫器次類別一": "P1570診斷用超音波轉換器",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        ""
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "0613501100  老達利貿易股份有限公司",
-    "申請商地址": "台北市南港區重陽路２２３號５樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "M261059000  TOSHIBA MEDICAL SYSTEMS CORPORATION",
         "製造廠廠址": "1385, SHIMOISHIGAMI, OTAWARA-SHI, TOCHIGI-KEN, JAPAN",
         "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "": ""
     },
-    "CCC號列": "30067000003 膠狀製品，設計用於人獸醫藥品，供作外科手術或體檢時身體局部潤滑劑，或供作身體與醫療器械間之偶合劑Gel preparations designed to be used in human or veterinary medicine as a lubricant for parts of the body for surgical operations or physical examinations or as a coupling agent between the body and medical instruments",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "中文仿單-104-06-05.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026438&Seq=003&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026438&Seq=003&Type=9"
+        },
+        {
+            "title": "560264380002-104-01-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026438&Seq=003&Type=8"
         }
     ]
 }

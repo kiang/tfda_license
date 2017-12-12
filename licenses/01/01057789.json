@@ -1,12 +1,12 @@
 {
     "code": "01057789",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057789",
-    "time": "2016-11-18 15:58:30",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057789",
+    "time": "2017-12-13 04:13:39",
     "許可證字號": "衛署藥製字第057789號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/12\/27",
+    "有效日期": "111\/12\/27",
     "發證日期": "101\/12\/27",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "0306811300  大豐製藥股份有限公司",
         "製造廠廠址": "彰化市延平里岸頭巷１１號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -43,30 +42,46 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "直徑12.5mm",
+        "特殊劑型": "",
+        "顏色": "粉紅色",
+        "特殊氣味": "",
+        "刻痕": "有",
+        "形狀": "圓凸形",
+        "標記一": "TaFong\/101",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "抒安錠-104-12-04(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057789&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "010577890001-104-11-24(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057789&Seq=002&Type=9"
+            "title": "抒安錠說明書-106-07-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057789&Seq=003&Type=9"
         },
         {
-            "title": "057789抒安錠400毫克 仿單說明書___20130422.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057789&Seq=001&Type=9"
+            "title": "010577890001-104-11-24(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057789&Seq=002&Type=9"
+        },
+        {
+            "title": "抒安錠貼標-106-07-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057789&Seq=007&Type=8"
+        },
+        {
+            "title": "抒安錠彩盒-106-07-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057789&Seq=006&Type=8"
+        },
+        {
+            "title": "抒安錠400毫克PTP-106-07-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057789&Seq=005&Type=8"
         },
         {
             "title": "抒安錠1000T-104-11-24(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057789&Seq=004&Type=8"
-        },
-        {
-            "title": "抒安錠10T-104-11-24(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057789&Seq=003&Type=8"
-        },
-        {
-            "title": "057789抒安錠400毫克鋁箔(PTP)___20130422.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057789&Seq=002&Type=8"
-        },
-        {
-            "title": "057789抒安錠400毫克彩盒___20130422.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057789&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057789&Seq=004&Type=8"
         }
     ]
 }

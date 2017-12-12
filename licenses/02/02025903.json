@@ -1,7 +1,7 @@
 {
     "code": "02025903",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025903",
-    "time": "2017-04-28 03:29:41",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025903",
+    "time": "2017-12-13 03:25:52",
     "許可證字號": "衛署藥輸字第025903號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "F470233000  FERRING  GMBH",
         "製造廠廠址": "WITTLAND 11, D-24109 KIEL, FEDERAL REPUBLIC OF GERMANY",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -40,6 +39,13 @@
             "製造廠公司地址": "",
             "製造廠國別": "ARGENTINA",
             "製程": "原料藥製造廠"
+        },
+        {
+            "製造廠名稱": "F390021200  ZUELLIG PHARMA SPECIALTY SOLUTIONS GROUP PTE. LTD.",
+            "製造廠廠址": "15 CHANGI NORTH WAY #01-02, #02-02, #02-10, SINGAPORE 498770",
+            "製造廠公司地址": "",
+            "製造廠國別": "SINGAPORE",
+            "製程": "包裝"
         },
         {
             "製造廠名稱": "F430116000  FERRING INTERNATIONAL CENTER SA",
@@ -61,20 +67,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "020259030003 inert E___20130502.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025903&Seq=002&Type=9"
+            "title": "美諾孕多劑量_中文仿單-106-10-31.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025903&Seq=003&Type=9"
         },
         {
-            "title": "020259030002 insaert___20130502.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025903&Seq=001&Type=9"
+            "title": "衛署藥輸字第025903號-美諾孕多劑量600國際單位-標籤-106-11-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025903&Seq=004&Type=8"
         },
         {
-            "title": "020259030004 label___20130502.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025903&Seq=002&Type=8"
-        },
-        {
-            "title": "020259030001 carton___20130502.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025903&Seq=001&Type=8"
+            "title": "衛署藥輸字第025903號-美諾孕多劑量600國際單位-外盒-106-11-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025903&Seq=003&Type=8"
         }
     ]
 }

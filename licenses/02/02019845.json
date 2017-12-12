@@ -1,7 +1,7 @@
 {
     "code": "02019845",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019845",
-    "time": "2016-11-18 19:44:48",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019845",
+    "time": "2017-12-13 03:24:57",
     "許可證字號": "衛署藥輸字第019845號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,11 +28,19 @@
         "主製造廠": "",
         "製造廠名稱": "F250307000  ACTAVIS ITALY S.P.A.",
         "製造廠廠址": "NERVIANO-VIALE PASTEUR N.10, MILANO,20014 ITALY",
-        "製造廠公司地址": "VIA R. KOCH 1.2, 20152, MILAN, ITALY",
-        "": ""
+        "製造廠公司地址": "VIA R. KOCH 1.2, 20152, MILAN, ITALY"
     },
     "CCC號列": "30049071005 抗癌藥Anti-cancer preparations",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "6605071926  久裕企業股份有限公司",
+            "製造廠廠址": "桃園市桃園區大林里興邦路43巷2之1號4樓，3樓B區，1樓A區",
+            "製造廠公司地址": "",
+            "製造廠國別": "",
+            "製程": "二級包裝廠"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -46,35 +54,11 @@
     "仿單外盒": [
         {
             "title": "020198450003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019845&Seq=003&Type=9"
-        },
-        {
-            "title": "020198450002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019845&Seq=002&Type=9"
-        },
-        {
-            "title": "020198450001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019845&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019845&Seq=003&Type=9"
         },
         {
             "title": "Zavedos 5mg injection_外盒包裝 -104-09-22(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019845&Seq=005&Type=8"
-        },
-        {
-            "title": "020198450004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019845&Seq=004&Type=8"
-        },
-        {
-            "title": "020198450003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019845&Seq=003&Type=8"
-        },
-        {
-            "title": "020198450002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019845&Seq=002&Type=8"
-        },
-        {
-            "title": "020198450001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019845&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019845&Seq=005&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "01027432",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01027432",
-    "time": "2015-08-22 22:50:27",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01027432",
+    "time": "2017-12-13 03:55:31",
     "許可證字號": "衛署藥製字第027432號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,24 +13,22 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102743200",
     "中文品名": "“衛達”達敏錠１．３４毫克（延胡索酸可利汀）",
-    "英文品名": "DARVINE TABLETS 1.34MG (CLEMASTINE FUMARATE) \"WEIDAR\"",
+    "英文品名": "DARVINE TABLETS 1.34MG (CLEMASTINE FUMARATE) &quot;WEIDAR&quot;",
     "適應症": "緩解過敏性鼻炎、枯草熱所引起之相關症狀（流鼻水、打噴嚏、眼睛及喉部搔癢）及過敏所引起之搔癢、皮膚癢疹。",
     "劑型": "110錠劑",
     "包裝": "4-1000錠塑膠瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥",
-    "管制藥品分類級別": "",
-    "主成分略述": "CLEMASTINE FUMARATE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "CLEMASTINEFUMARATE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1605609200  衛達化學製藥股份有限公司",
-    "申請商地址": "台中市工業區２３路２１號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1605609300  衛達化學製藥股份有限公司",
         "製造廠廠址": "台中市工業區２３路２１號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049099101 抗過敏抗組織胺用藥Drugs for antihypersensitivity and antihistamine",
     "藥理治療分類": "",
@@ -44,10 +42,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "直徑\/厚度(6.5mm\/2.8mm)",
+        "特殊劑型": "",
+        "顏色": "白色",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "圓凸形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "4.0_Darvine Tab. 1.34mg_劑型外觀-104-10-27(廠商自行上傳).PDF",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027432&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "010274320001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027432&Seq=001&Type=9"
+            "title": "1.0_Darvine Tab. 1.34mg_仿單-104-11-24(廠商自行上傳).PDF",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027432&Seq=002&Type=9"
+        },
+        {
+            "title": "5.0_Darvine Tab. 1.34mg_塑膠瓶裝_1000'S_4717818006006-104-10-27(廠商自行上傳).PDF",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027432&Seq=002&Type=8"
         }
     ]
 }

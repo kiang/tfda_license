@@ -1,12 +1,12 @@
 {
     "code": "01041993",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01041993",
-    "time": "2016-11-18 14:24:47",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01041993",
+    "time": "2017-12-13 04:12:58",
     "許可證字號": "衛署藥製字第041993號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/03\/07",
+    "有效日期": "112\/03\/07",
     "發證日期": "87\/03\/07",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -28,28 +28,28 @@
         "主製造廠": "",
         "製造廠名稱": "2001304300  寶齡富錦生技股份有限公司平鎮廠",
         "製造廠廠址": "桃園市平鎮區興隆路２６６號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30043900005 醫藥製劑，含有其他內分泌素者Medicaments, containing other hormones",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "6808001300",
+            "成分名稱": "METHYLTESTOSTERONE",
+            "含量描述": "10",
+            "含量": "10.0000000000",
+            "單位": "MG"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "010419930001-105-07-30.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041993&Seq=002&Type=9"
-        },
-        {
-            "title": "#41993-insert-104-12-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041993&Seq=001&Type=9"
-        },
-        {
-            "title": "寶齡-比威鋼口含錠10毫克(甲基睪丸素)-標籤-鋁箔-105-07-30.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041993&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041993&Seq=002&Type=9"
         },
         {
             "title": "寶齡-比威鋼口含錠10毫克(甲基睪丸素)-外盒-105-07-30.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041993&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041993&Seq=002&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "10000747",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000747",
-    "time": "2017-06-16 03:04:29",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000747",
+    "time": "2017-12-13 03:59:57",
     "許可證字號": "衛署菌疫輸字第000747號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -23,16 +23,24 @@
         "HUMANPLASMAPROTEINWITHFACTORVIIIINHIBITORBYPASSINGACTIVITY"
     ],
     "限制項目": "02輸　入",
-    "申請商名稱": "6401026128  百昇特生技醫藥股份有限公司",
+    "申請商名稱": "620117O956  夏爾生技醫藥股份有限公司",
     "主製造廠": {
         "主製造廠": "",
         "製造廠名稱": "F030018000  BAXTER AG",
         "製造廠廠址": "INDUSTRIESTRASSES 67, A-1220 WIEN, AUSTRIA.",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30021040002 抗血友病製劑Antihemophilia preparations",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "F470367000  HAMELN PHARMACEUTICALS GMBH",
+            "製造廠廠址": "LANGES FELD 13, 31789 HAMELN, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "稀釋液"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -46,11 +54,11 @@
     "仿單外盒": [
         {
             "title": "000747-106-04-05.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000747&Seq=012&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000747&Seq=012&Type=9"
         },
         {
             "title": "衛署菌疫輸000747外盒包裝、標籤-105-03-17.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000747&Seq=007&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000747&Seq=007&Type=8"
         }
     ]
 }

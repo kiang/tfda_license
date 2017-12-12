@@ -1,7 +1,7 @@
 {
     "code": "92000521",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000521",
-    "time": "2015-08-22 08:06:48",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000521",
+    "time": "2017-12-13 03:35:59",
     "許可證字號": "衛部醫器陸輸字第000521號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,37 +18,35 @@
     "醫器規格": "VP2000(2ml\/13x75mm), VP3000(3ml\/13x75mm), \r\nVP4000 (4ml\/13x75mm), VP5000(5ml\/13x100mm), VP6000(6ml\/13x100mm), VP7000(7ml\/13x100mm),\r\nVP8000(8ml\/16x100mm), VP9000(9ml\/16x100mm), VP1000(10ml\/16x100mm)\r\n以下空白",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "A臨床化學及臨床毒理學",
     "醫器次類別一": "A1675血液樣本收集設備",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入",
-        "40大陸生產"
+    "主成分略述": [
+        ""
     ],
+    "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "620110X000  日溢健康有限公司",
-    "申請商地址": "台北市萬華區長沙街二段91號7樓之13",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "M641001000  FUZHOU CHANGGENG MEDICAL DEVICES CO., LTD",
         "製造廠廠址": "NO.1 SOUTHERN DISTRICT, THE 2ND PERIOD PROJECT OF MINHOU ECONOMIC &amp; TECHNOLOGICAL DEVELOPMENT ZONE, GANZHE STREET, MINHOU COUNTY, CHINA",
         "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "920005210001-102-11-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000521&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000521&Seq=001&Type=9"
         },
         {
             "title": "920005210002-102-11-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000521&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000521&Seq=001&Type=8"
         }
     ]
 }

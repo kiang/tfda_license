@@ -1,7 +1,7 @@
 {
     "code": "08015577",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08015577",
-    "time": "2015-08-23 19:40:27",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08015577",
+    "time": "2017-12-13 03:50:26",
     "許可證字號": "衛署粧輸字第015577號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,22 +17,20 @@
     "用途": "染髮。",
     "劑型": "990乳霜劑",
     "包裝": "500ml以下鋁管裝 附外盒裝",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "AMMONIUM HYDROXIDE 25% SOLUTION, RESORCINOL (RESORCIN), P-PHENYLENEDIAMINE, N-PHENYL-P-PHENYLENEDIAMINE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "AMMONIUMHYDROXIDE25%SOLUTION,RESORCINOL(RESORCIN),P-PHENYLENEDIAMINE,N-PHENYL-P-PHENYLENEDIAMINE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "0836609100  和路貿易有限公司",
-    "申請商地址": "臺中市豐原區民生里府前街87號3樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C250075000  FANTASY LOOK S.R.L.",
         "製造廠廠址": "REZZATO (BS) VIA T. TASSO 7 ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -66,6 +64,12 @@
             "含量描述": "",
             "含量": "0.1000000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08015577-2008-11-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015577&Seq=001&Type=9"
         }
     ]
 }

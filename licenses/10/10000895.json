@@ -1,7 +1,7 @@
 {
     "code": "10000895",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000895",
-    "time": "2017-06-16 03:04:36",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000895",
+    "time": "2017-12-13 04:00:04",
     "許可證字號": "衛署菌疫輸字第000895號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -23,29 +23,42 @@
         "HUMANNORMALIMMUNOGLOBULIN(IVIG)"
     ],
     "限制項目": "02輸　入",
-    "申請商名稱": "6401026128  百昇特生技醫藥股份有限公司",
+    "申請商名稱": "620117O956  夏爾生技醫藥股份有限公司",
     "主製造廠": {
         "主製造廠": "",
         "製造廠名稱": "F050046000  BAXALTA BELGIUM MANUFACTURING S.A.",
         "製造廠廠址": "BOULEVARD RENE BRANQUART, 80, B-7860, LESSINES, BELGIUM",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30021030004 血液球蛋白及白蛋白Blood globulin and albumin",
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "F030018000  BAXTER AG",
-            "製造廠廠址": "INDUSTRIESTRASSES 67, A-1220 VIENNA, AUSTRIA",
+            "製造廠名稱": "6132051324  泛泰醫療產品股份有限公司",
+            "製造廠廠址": "桃園市蘆竹區海湖里海山東街482號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠"
+        },
+        {
+            "製造廠名稱": "F030018100  BAXTER AG",
+            "製造廠廠址": "INDUSTRIESTRASSE 67, A-1221 WIEN, AUSTRIA",
             "製造廠公司地址": "",
             "製造廠國別": "AUSTRIA",
             "製程": "許可證持有者"
         },
         {
             "製造廠名稱": "F030038000  BAXTER AG",
-            "製造廠廠址": "INDUSTRIESSTRASSE 131, A-1220 VIENNA, AUSTRIA",
-            "製造廠公司地址": "INDUSTRIESSTRASSE 67, A-1220 VIENNA, AUSTRIA",
+            "製造廠廠址": "INDUSTRIESSTRASSE 131, A-1221 VIENNA, AUSTRIA",
+            "製造廠公司地址": "INDUSTRIESSTRASSE 67, A-1221 VIENNA, AUSTRIA",
             "製造廠國別": "AUSTRIA",
+            "製程": "血漿分層(fractionation)"
+        },
+        {
+            "製造廠名稱": "F250525000  Baxter Manufacturing S.p.A",
+            "製造廠廠址": "Via Della chimica 5, 02010 Santa Rufina Cittaducale, Rieti（RI）, Italy",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
             "製程": "血漿分層(fractionation)"
         },
         {
@@ -68,12 +81,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "020008950001-106-07-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000895&Seq=009&Type=9"
+        },
+        {
             "title": "KIOVIG -PI-Ch 20150917-104-09-25(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000895&Seq=008&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000895&Seq=008&Type=9"
+        },
+        {
+            "title": "020008950002-106-07-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000895&Seq=006&Type=8"
         },
         {
             "title": "100008950009___20100527.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000895&Seq=005&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000895&Seq=005&Type=8"
         }
     ]
 }

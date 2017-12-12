@@ -1,11 +1,11 @@
 {
     "code": "42000311",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000311",
-    "time": "2016-11-25 03:34:15",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000311",
+    "time": "2017-12-13 03:38:09",
     "許可證字號": "衛署醫器陸輸字第000311號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "106\/11\/28",
+    "註銷理由": "產地變更",
     "有效日期": "110\/07\/08",
     "發證日期": "100\/07\/08",
     "許可證種類": "醫　器",
@@ -15,7 +15,7 @@
     "中文品名": "“住友” 食道靜脈瘤結紮器",
     "英文品名": "“Sumitomo” Pneumatic EVL Device",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "詳如中文仿單核定本",
+    "醫器規格": "詳如中文仿單核定本。仿單標籤核定本遺失補發：詳如中文仿單核定本(原100.9.15核發之仿單、標籤核定本正本遺失註銷作廢)，以下空白。",
     "劑型": "",
     "包裝": "",
     "標籤、仿單及包裝加註": "",
@@ -37,17 +37,20 @@
         "製造廠公司地址": "",
         "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "420003110001___20110915.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000311&Seq=001&Type=9"
+            "title": "42000311001-106-10-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000311&Seq=002&Type=9"
+        },
+        {
+            "title": "42000311002-106-10-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000311&Seq=002&Type=8"
         },
         {
             "title": "420003110002___20110915.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000311&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000311&Seq=001&Type=8"
         }
     ]
 }

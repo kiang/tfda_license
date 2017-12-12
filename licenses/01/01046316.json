@@ -1,7 +1,7 @@
 {
     "code": "01046316",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01046316",
-    "time": "2017-02-24 03:12:03",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01046316",
+    "time": "2017-12-13 03:24:11",
     "許可證字號": "衛署藥製字第046316號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "1104602300  盈盈生技製藥股份有限公司三峽廠",
         "製造廠廠址": "新北市三峽區紫新路２６巷６號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
@@ -51,14 +50,46 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "淺黃\/淺黃",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "長圓柱形",
+        "標記一": "淺黃色體印001字樣",
+        "標記二": "淺黃色帽印笑臉圖樣"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "乳酸菌_4317-104-12-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046316&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
+            "title": "0100463160001-106-11-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046316&Seq=003&Type=9"
+        },
+        {
             "title": "乳酸菌膠囊加刊賦形劑-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046316&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046316&Seq=002&Type=9"
+        },
+        {
+            "title": "0100463160003-106-11-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046316&Seq=004&Type=8"
+        },
+        {
+            "title": "0100463160002-106-11-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046316&Seq=003&Type=8"
+        },
+        {
+            "title": "0100463160001-106-11-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046316&Seq=002&Type=8"
         },
         {
             "title": "乳酸菌 OP-104-12-25(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046316&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046316&Seq=001&Type=8"
         }
     ]
 }

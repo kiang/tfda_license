@@ -1,7 +1,7 @@
 {
     "code": "01057816",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057816",
-    "time": "2017-06-16 03:26:22",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057816",
+    "time": "2017-12-13 03:57:46",
     "許可證字號": "衛署藥製字第057816號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "1901510300  羅得化學製藥股份有限公司",
         "製造廠廠址": "台中市大甲區頂店里8鄰東西七路1段65號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -43,14 +42,46 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "淡黃色",
+        "特殊氣味": "",
+        "刻痕": "無",
+        "形狀": "圓扁形",
+        "標記一": "R",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "A-CAL TABLETS 500MG_W-104-10-31(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057816&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
+            "title": "01057816003_A-CAL佳立鈣錠仿單-106-10-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057816&Seq=003&Type=9"
+        },
+        {
             "title": "A-Cal佳立鈣錠仿單_1041029-104-12-17(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057816&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057816&Seq=002&Type=9"
+        },
+        {
+            "title": "01057816004_A-Cal佳立鈣錠鋁箔-106-10-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057816&Seq=008&Type=8"
+        },
+        {
+            "title": "01057816001_A-CAL佳立鈣錠外盒-106-10-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057816&Seq=007&Type=8"
+        },
+        {
+            "title": "01057816002_A-CAL佳立鈣錠 2款標貼-106-10-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057816&Seq=006&Type=8"
         },
         {
             "title": "A-CAL TABLETS 500MG_1000T_BT-104-12-11(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057816&Seq=005&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057816&Seq=005&Type=8"
         }
     ]
 }

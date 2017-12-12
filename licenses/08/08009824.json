@@ -1,12 +1,12 @@
 {
     "code": "08009824",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08009824",
-    "time": "2015-08-23 18:04:19",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08009824",
+    "time": "2017-12-13 03:45:38",
     "許可證字號": "衛署粧輸字第009824號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/12\/29",
+    "有效日期": "110\/12\/29",
     "發證日期": "97\/12\/29",
     "許可證種類": "含藥化粧品",
     "舊證字號": "",
@@ -17,22 +17,20 @@
     "用途": "染髮。",
     "劑型": "983膏劑",
     "包裝": "500公克以下軟管裝 附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "AMMONIA WATER (AMMONIUM HYDROXIDE), RESORCINOL (RESORCIN), AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL), AMINOPHENOL META- (EQ TO M-AMINOPHENOL), P-PHENYLENEDIAMINE, N,N-BIS(2-HYDROXYETHYL)-P-PHENYLENEDIAMINE SULFATTE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "AMMONIAWATER(AMMONIUMHYDROXIDE),RESORCINOL(RESORCIN),AMINOPHENOLPARA-(EQTOP-AMINOPHENOL),META-AMINOPHENOL(EQTOM-AMINOPHENOL),P-PHENYLENEDIAMINE,N,N-BIS(2-HYDROXYETHYL)-P-PHENYLENEDIAMINESULFATTE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "6670459654  藍定工商開發有限公司",
-    "申請商地址": "台北市大同區重慶北路三段二二三巷二三弄二號一樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C410016000  ERAYBA COSMETICS S.A.",
         "製造廠廠址": "C\/SERRA DEL MONTSECH 44-46 08950 ESPLUGUES DE LLOBREGAT (BAKELONA) SPAIN",
-        "製造廠公司地址": "",
-        "製造廠國別": "SPAIN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "33059020003 染髮劑Hair dyes",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -62,7 +60,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9200035403",
-            "成分名稱": "AMINOPHENOL META- (EQ TO M-AMINOPHENOL)",
+            "成分名稱": "META-AMINOPHENOL (EQ TO M-AMINOPHENOL)",
             "含量描述": "",
             "含量": "0.1000000000",
             "單位": "%(W\/W)"
@@ -110,7 +108,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9200035403",
-            "成分名稱": "AMINOPHENOL META- (EQ TO M-AMINOPHENOL)",
+            "成分名稱": "META-AMINOPHENOL (EQ TO M-AMINOPHENOL)",
             "含量描述": "",
             "含量": "0.1000000000",
             "單位": "%(W\/W)"
@@ -135,7 +133,7 @@
     "仿單外盒": [
         {
             "title": "08009824-103-09-18.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08009824&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08009824&Seq=001&Type=8"
         }
     ]
 }

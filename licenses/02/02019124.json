@@ -1,7 +1,7 @@
 {
     "code": "02019124",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019124",
-    "time": "2017-02-24 03:13:51",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019124",
+    "time": "2017-12-13 03:58:05",
     "許可證字號": "衛署藥輸字第019124號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,10 +26,9 @@
     "申請商名稱": "1435301100  臺灣日化股份有限公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "F260224100  NIPPON KAYAKU CO.,LTD.",
+        "製造廠名稱": "F260224100  TAKASAKI PLANT, NIPPON KAYAKU CO., LTD.",
         "製造廠廠址": "239, IWAHANAMACHI, TAKASAKI-SHI, GUNMA370-1208 JAPAN",
-        "製造廠公司地址": "1-1, MARUNOUCHI 2-CHOME, CHIYODA-KU, TOKYO 100-0005, JAPAN",
-        "": ""
+        "製造廠公司地址": "1-1, MARUNOUCHI 2-CHOME, CHIYODA-KU, TOKYO 100-0005, JAPAN"
     },
     "CCC號列": "30049071005 抗癌藥Anti-cancer preparations",
     "藥理治療分類": "",
@@ -45,12 +44,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "Bleocin 15mg 上傳仿單-106-06-16(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019124&Seq=003&Type=9"
+        },
+        {
             "title": "BLMhv(Taiwan)_PI(D-6-6AH)#KKN00636(_)-105-12-26.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019124&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019124&Seq=002&Type=9"
+        },
+        {
+            "title": "Bleocin 15mg 上傳外盒-106-06-16(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019124&Seq=005&Type=8"
         },
         {
             "title": "BLMh15v(Taiwan)_1v.Label(C)#KKN00640(161021)-105-12-26.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019124&Seq=004&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019124&Seq=004&Type=8"
         }
     ]
 }

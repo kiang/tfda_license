@@ -1,7 +1,7 @@
 {
     "code": "51058219",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058219",
-    "time": "2015-08-24 13:05:50",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058219",
+    "time": "2017-12-13 03:26:33",
     "許可證字號": "衛部藥製字第058219號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,54 +12,51 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY05105821903",
-    "中文品名": "\"康世德美\"陪伴寧注射液",
-    "英文品名": "Accompany Injection \"Consummate\"",
+    "中文品名": "&quot;康世德美&quot;陪伴寧注射液",
+    "英文品名": "Accompany Injection &quot;Consummate&quot;",
     "適應症": "維護肝臟正常功能、藥物過敏、食物過敏。",
     "劑型": "270注射劑",
     "包裝": "20毫升玻璃安瓿裝 100支以下盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "GLYCYRRHIZINATE MONOAMMONIUM (MGR)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "GLYCYRRHIZINATEMONOAMMONIUM(MGR)"
     ],
+    "限制項目": "01國　產 1R不得製造",
     "申請商名稱": "6221063098  康世德美生物科技有限公司",
-    "申請商地址": "臺南市安南區城西街1段61巷187號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "6133030016  台裕化學製藥廠股份有限公司",
         "製造廠廠址": "新竹縣竹東鎮員山路11巷13弄1號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
+    "ingredients": [],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "26.5*12.8*8.5cm(30入\/盒) 8*13*3.5cm(2入\/盒)",
+        "特殊劑型": "",
+        "顏色": "白橘灰",
+        "特殊氣味": "無",
+        "刻痕": "無",
+        "形狀": "長圓柱形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
         {
-            "成分類別": "主成分",
-            "成分代碼": "9200004650",
-            "成分名稱": "GLYCYRRHIZINATE MONOAMMONIUM (MGR)",
-            "含量描述": "(equivalent to Glycyrrhizinic acid 2mg)",
-            "含量": "2.0400000000",
-            "單位": "MG"
+            "title": "內瓶-104-12-29(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058219&Seq=002&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "康世德美陪伴寧正確版仿單-2014-07-16.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058219&Seq=002&Type=9"
+            "title": "台裕陪伴寧仿單-0729-A4單面-104-12-29(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058219&Seq=004&Type=9"
         },
         {
-            "title": "010582190001-103-05-12.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058219&Seq=001&Type=9"
-        },
-        {
-            "title": "富世德美陪伴寧彩盒103.7.8-2014-07-16.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058219&Seq=002&Type=8"
-        },
-        {
-            "title": "010582190002-103-05-12.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058219&Seq=001&Type=8"
+            "title": "Doc1-104-12-29(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058219&Seq=006&Type=8"
         }
     ]
 }

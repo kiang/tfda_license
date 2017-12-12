@@ -1,7 +1,7 @@
 {
     "code": "01049213",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01049213",
-    "time": "2016-11-18 15:24:19",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01049213",
+    "time": "2017-12-13 03:24:25",
     "許可證字號": "衛署藥製字第049213號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,10 +26,9 @@
     "申請商名稱": "6232019373  昱任藥品有限公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "6141010037  仙台藥品工業股份有限公司",
-        "製造廠廠址": "台南市新營區新工路35號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠名稱": "0806804300  明德製藥股份有限公司",
+        "製造廠廠址": "桃園市楊梅區瑞原里7鄰民富路二段３６０號",
+        "製造廠公司地址": ""
     },
     "CCC號列": "30042000916 人用醫藥製劑，含有其他抗生素者Medicaments, containing other antibiotics, for human use",
     "藥理治療分類": "",
@@ -43,22 +42,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "10g長度約為 9.2 公分 15g 約為10.5公分",
+        "特殊劑型": "",
+        "顏色": "白底粉紅字",
+        "特殊氣味": "無味",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "克柔潔15g-104-12-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049213&Seq=003&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "克柔潔仿單-104-12-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049213&Seq=002&Type=9"
-        },
-        {
-            "title": "010492130001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049213&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049213&Seq=002&Type=9"
         },
         {
             "title": "010492130002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049213&Seq=002&Type=8"
-        },
-        {
-            "title": "010492130001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049213&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049213&Seq=002&Type=8"
         }
     ]
 }

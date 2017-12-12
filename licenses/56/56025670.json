@@ -1,7 +1,7 @@
 {
     "code": "56025670",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025670",
-    "time": "2015-08-22 06:39:58",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025670",
+    "time": "2017-12-13 03:34:02",
     "許可證字號": "衛部醫器輸字第025670號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,36 +18,39 @@
     "醫器規格": "886-42584-05, 886-42500-19, 886-42590-05\r\n以下空白",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "E心臟血管用裝置",
     "醫器次類別一": "E2850血管外血壓換能器",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        ""
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "620102X525  台灣佳事達醫療用品有限公司",
-    "申請商地址": "新北市板橋區民生路一段33號8樓之4",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "M462673000  ICU MEDICAL, INC.",
         "製造廠廠址": "4455 ATHERTON DRIVE, SALT LAKE CITY, UT 84123, U.S.A.",
         "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
+        "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "56025670-106-11-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025670&Seq=002&Type=9"
+        },
+        {
             "title": "560256700001-103-01-16.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025670&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025670&Seq=001&Type=9"
         },
         {
             "title": "560256700002-103-01-16.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025670&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025670&Seq=001&Type=8"
         }
     ]
 }

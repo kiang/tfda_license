@@ -1,12 +1,12 @@
 {
     "code": "02022074",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022074",
-    "time": "2016-11-18 20:08:18",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022074",
+    "time": "2017-12-13 04:13:59",
     "許可證字號": "衛署藥輸字第022074號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/02\/09",
+    "有效日期": "112\/02\/09",
     "發證日期": "87\/02\/09",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -28,11 +28,19 @@
         "主製造廠": "",
         "製造廠名稱": "F070037000  GLAXO SMITH KLINE INC.",
         "製造廠廠址": "7333 MISSISSAUGA ROAD NORTH MISSISSAUGA, ONTARIO CANADA L5N 6L4",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049072004 抗人類免疫缺乏病毒感染用藥Drugs for anti human immunodeficiency virus (HIV) infections",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "6132061151  裕利股份有限公司",
+            "製造廠廠址": "桃園市大園區和平里1鄰開和路91號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠(委託貼標及置入仿單)"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -43,30 +51,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "6cm*16cm瓶裝",
+        "特殊劑型": "",
+        "顏色": "澄清透明至微黃液體",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "3TC OS_1060711-106-07-11(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022074&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "105.3.25_中文仿單-105-04-29.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022074&Seq=003&Type=9"
-        },
-        {
-            "title": "3TC Oral solution L843-302-06_10000000136242-104-09-17(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022074&Seq=004&Type=9"
-        },
-        {
-            "title": "020220740002-103-08-04.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022074&Seq=002&Type=9"
-        },
-        {
-            "title": "020220740001-103-08-04.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022074&Seq=001&Type=9"
+            "title": "020220740001-106-06-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022074&Seq=005&Type=9"
         },
         {
             "title": "3TC oral solution K843-302-01-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022074&Seq=002&Type=8"
-        },
-        {
-            "title": "3TC oral solution M843-302-03-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022074&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022074&Seq=002&Type=8"
         }
     ]
 }

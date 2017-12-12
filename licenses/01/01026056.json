@@ -1,7 +1,7 @@
 {
     "code": "01026056",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01026056",
-    "time": "2016-07-29 04:55:06",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01026056",
+    "time": "2017-12-13 03:22:20",
     "許可證字號": "衛署藥製字第026056號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,18 @@
     "適應症": "退燒、止痛（緩解頭痛、牙痛、咽喉痛、關節痛、神經痛、肌肉酸痛、月經痛）。",
     "劑型": "110錠劑",
     "包裝": "2-1000錠塑膠瓶裝 PTP 鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥",
-    "管制藥品分類級別": "",
-    "主成分略述": "ACETAMINOPHEN (EQ TO PARACETAMOL)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "ACETAMINOPHEN(EQTOPARACETAMOL),TARTRAZINE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0701010200  利達製藥股份有限公司",
-    "申請商地址": "台中市大甲區中山路一段９０６號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0701010300  利達製藥股份有限公司",
         "製造廠廠址": "台中市大甲區中山路一段９０６號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
@@ -41,6 +39,22 @@
             "成分名稱": "ACETAMINOPHEN (EQ TO PARACETAMOL)",
             "含量描述": "500",
             "含量": "500.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2808000100",
+            "成分名稱": "ACETAMINOPHEN (EQ TO PARACETAMOL)",
+            "含量描述": "500",
+            "含量": "500.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9602040804",
+            "成分名稱": "TARTRAZINE",
+            "含量描述": "",
+            "含量": "0.0200000000",
             "單位": "MG"
         }
     ],
@@ -56,26 +70,58 @@
     },
     "藥物辨識外觀圖片": [
         {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026056&Seq=160&Type=10"
+            "title": "利達按痛錠500毫克白色外觀-106-10-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026056&Seq=162&Type=10"
+        },
+        {
+            "title": "利達按痛錠500毫克黃色外觀-106-10-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026056&Seq=161&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "ATT- 按痛錠500毫克-105-05-03.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026056&Seq=002&Type=9"
+            "title": "利達按痛錠500毫克_01026056_仿單-106-11-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026056&Seq=004&Type=9"
         },
         {
             "title": "ATT500-按痛錠500毫克-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026056&Seq=003&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026056&Seq=003&Type=9"
+        },
+        {
+            "title": "利達按痛錠500毫克_01026056_QR code-106-11-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026056&Seq=010&Type=8"
+        },
+        {
+            "title": "利達按痛錠500毫克_01026056_鋁箔-106-11-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026056&Seq=009&Type=8"
+        },
+        {
+            "title": "利達按痛錠500毫克_01026056_1000'S二合一標仿單('黃色)-106-11-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026056&Seq=008&Type=8"
+        },
+        {
+            "title": "利達按痛錠500毫克_01026056_1000'S二合一標仿單(白色)-106-11-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026056&Seq=007&Type=8"
+        },
+        {
+            "title": "利達按痛錠500毫克_01026056_10'Sx100二合一標仿單(黃色)-106-11-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026056&Seq=006&Type=8"
+        },
+        {
+            "title": "利達按痛錠500毫克_01026056_10'Sx100二合一標仿單(白色)-106-11-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026056&Seq=005&Type=8"
+        },
+        {
+            "title": "利達按痛錠500毫克_01026056_10'S外盒(黃色)-106-11-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026056&Seq=004&Type=8"
+        },
+        {
+            "title": "利達按痛錠500毫克_01026056_10'S外盒(白色)-106-11-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026056&Seq=003&Type=8"
         },
         {
             "title": "ATT500 鋁箔-105-05-03.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026056&Seq=002&Type=8"
-        },
-        {
-            "title": "ATT500 貼標-105-05-03.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026056&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026056&Seq=002&Type=8"
         }
     ]
 }

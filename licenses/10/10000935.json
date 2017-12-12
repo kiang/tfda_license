@@ -1,12 +1,12 @@
 {
     "code": "10000935",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000935",
-    "time": "2017-05-26 03:37:12",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000935",
+    "time": "2017-12-13 03:26:17",
     "許可證字號": "衛署菌疫輸字第000935號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/11\/06",
+    "有效日期": "111\/11\/06",
     "發證日期": "101\/11\/06",
     "許可證種類": "菌　疫",
     "舊證字號": "",
@@ -26,10 +26,9 @@
     "申請商名稱": "0901801100  荷商葛蘭素史克藥廠股份有限公司台灣分公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "F460300000  HOSPIRA INC.",
-        "製造廠廠址": "1776 NORTH CENTENNIAL DRIVE, MCPHERSON, KS 67460, UNITED STATES",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠名稱": "F250339000  GLAXOSMITHKLINE MANUFACTURING S.P.A.",
+        "製造廠廠址": "STRADA PROVINCIALE ASOLANA 90, 43056 SAN POLO DI TORRILE, PARMA, ITALY",
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -40,13 +39,6 @@
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
             "製程": "二級包裝廠(委託貼標及置入仿單)"
-        },
-        {
-            "製造廠名稱": "F250339000  GLAXOSMITHKLINE MANUFACTURING S.P.A.",
-            "製造廠廠址": "STRADA PROVINCIALE ASOLANA 90, 43056 SAN POLO DI TORRILE, PARMA, ITALY",
-            "製造廠公司地址": "",
-            "製造廠國別": "ITALY",
-            "製程": "包裝"
         },
         {
             "製造廠名稱": "F460551000  HUMAN GENOME SCIENCES, INC.",
@@ -76,8 +68,28 @@
     ],
     "仿單外盒": [
         {
-            "title": "Benlysta 400mg K939-002-01_10000000129417-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000935&Seq=008&Type=8"
+            "title": "奔麗生凍晶注射劑 400 mg-標籤-106-11-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000935&Seq=014&Type=8"
+        },
+        {
+            "title": "奔麗生凍晶注射劑 120 mg-標籤-106-11-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000935&Seq=013&Type=8"
+        },
+        {
+            "title": "奔麗生凍晶注射劑 400 mg-外盒B-106-11-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000935&Seq=012&Type=8"
+        },
+        {
+            "title": "奔麗生凍晶注射劑 400 mg-外盒A-106-11-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000935&Seq=011&Type=8"
+        },
+        {
+            "title": "奔麗生凍晶注射劑 120 mg-外盒B-106-11-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000935&Seq=010&Type=8"
+        },
+        {
+            "title": "奔麗生凍晶注射劑 120 mg-外盒A-106-11-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000935&Seq=009&Type=8"
         }
     ]
 }

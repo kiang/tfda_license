@@ -1,7 +1,7 @@
 {
     "code": "52026485",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026485",
-    "time": "2015-08-22 16:42:49",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026485",
+    "time": "2017-12-13 03:27:10",
     "許可證字號": "衛部藥輸字第026485號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,21 +17,18 @@
     "適應症": "革蘭氏陽性、陰性及厭氧菌引起之下呼吸道感染(支氣管炎及肺炎)、皮膚及軟組織感染、中耳炎、上呼吸道感染和性傳染病。",
     "劑型": "130膠囊劑",
     "包裝": "2-1000粒鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "AZITHROMYCIN DIHYDRATE",
-    "限制項目": [
-        "02輸入",
-        "24監視期滿學名藥"
+    "主成分略述": [
+        "AZITHROMYCINDIHYDRATE"
     ],
+    "限制項目": "02輸　入 24監視期滿學名藥",
     "申請商名稱": "0940301100  韋淳貿易股份有限公司",
-    "申請商地址": "台北市中山區松江路65號4樓",
     "主製造廠": {
-        "製造廠名稱": "F550002000  STADA-VN JOINT VENTURE CO., LTD",
+        "主製造廠": "",
+        "製造廠名稱": "F550002000  STADA-VN JOINT VENTURE CO., LTD., BINH DUONG BRANCH",
         "製造廠廠址": "NO.40, TU DO AVENUE, VIETNAM-SINGAPORE INDUSTRIAL PARK, THUAN AN, BINH DUONG PROVINCE, VIETNAM",
-        "製造廠公司地址": "",
-        "製造廠國別": "VIET NAM",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -44,28 +41,15 @@
             "製程": "二級包裝廠"
         }
     ],
-    "ingredients": [
-        {
-            "成分類別": "主成分",
-            "成分代碼": "0812500420",
-            "成分名稱": "AZITHROMYCIN DIHYDRATE",
-            "含量描述": "(equivalent to Azithromycin 250mg)",
-            "含量": "262.0000000000",
-            "單位": "MG"
-        }
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "020264850001-104-03-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026485&Seq=001&Type=9"
+            "title": "阿利索仿單20150923-104-09-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026485&Seq=002&Type=9"
         },
         {
-            "title": "52026485-104-03-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026485&Seq=002&Type=8"
-        },
-        {
-            "title": "020264850004-104-03-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026485&Seq=001&Type=8"
+            "title": "阿利索外盒20150725-104-09-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026485&Seq=003&Type=8"
         }
     ]
 }

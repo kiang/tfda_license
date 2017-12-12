@@ -1,7 +1,7 @@
 {
     "code": "56029103",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029103",
-    "time": "2016-12-30 03:23:28",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029103",
+    "time": "2017-12-13 04:08:50",
     "許可證字號": "衛部醫器輸字第029103號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -37,7 +37,20 @@
         "製造廠公司地址": "",
         "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": []
+    "ingredients": [],
+    "仿單外盒": [
+        {
+            "title": "56029103-106-10-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56029103&Seq=002&Type=9"
+        },
+        {
+            "title": "560291030001-106-01-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56029103&Seq=001&Type=9"
+        },
+        {
+            "title": "560291030002-106-01-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56029103&Seq=001&Type=8"
+        }
+    ]
 }

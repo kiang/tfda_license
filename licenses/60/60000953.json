@@ -1,7 +1,7 @@
 {
     "code": "60000953",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60000953",
-    "time": "2017-01-27 03:30:12",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60000953",
+    "time": "2017-12-13 03:27:35",
     "許可證字號": "衛部菌疫輸字第000953號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,15 +28,14 @@
         "主製造廠": "",
         "製造廠名稱": "M260367000  KOFU FACTORY OF TERUMO CORPORATION",
         "製造廠廠址": "1727-1, TSUIJIARAI, SHOWA-CHO, NAKAKOMA-GUN, YAMANASHI, 409-3853, JAPAN",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
         {
             "製造廠名稱": "6101111420  瑪里士實業有限公司",
-            "製造廠廠址": "臺北市內湖區舊宗路二段121巷30號2樓、32號2樓及2樓之1",
+            "製造廠廠址": "臺北市內湖區舊宗路二段121巷30號2樓、32號2樓、2樓之1及36號4樓",
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
             "製程": "次包裝廠"
@@ -62,11 +61,15 @@
     "仿單外盒": [
         {
             "title": "[Package Insert] Nesp VC_2016MAY_V3_Morris(A4掃描小檔)-105-12-26(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000953&Seq=009&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000953&Seq=009&Type=9"
+        },
+        {
+            "title": "[外盒圖檔] Nesp 40_2017MAR-106-03-16(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000953&Seq=011&Type=8"
         },
         {
             "title": "100009530003-105-11-28.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000953&Seq=010&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000953&Seq=010&Type=8"
         }
     ]
 }

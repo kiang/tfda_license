@@ -1,12 +1,12 @@
 {
     "code": "01057809",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057809",
-    "time": "2017-06-16 03:02:54",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057809",
+    "time": "2017-12-13 03:40:14",
     "許可證字號": "衛署藥製字第057809號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/01\/17",
+    "有效日期": "112\/01\/17",
     "發證日期": "102\/01\/17",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "1901510300  羅得化學製藥股份有限公司",
         "製造廠廠址": "台中市大甲區頂店里8鄰東西七路1段65號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -43,30 +42,46 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "淡橘色",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "圓凸形",
+        "標記一": "MAC522 10",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "PF-21_低妥脂膜衣錠10毫克-104-11-12(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057809&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "Rolipostatin 10mg低妥脂仿單_20170428_上傳衛福部-106-04-28(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057809&Seq=017&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057809&Seq=017&Type=9"
         },
         {
             "title": "010578090008-2014-05-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057809&Seq=016&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057809&Seq=016&Type=9"
         },
         {
             "title": "Rolipostatin 10mg低妥脂鋁箔_20170428-106-04-28(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057809&Seq=006&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057809&Seq=006&Type=8"
         },
         {
             "title": "Rolipostatin 10mg低妥脂標貼_20170428-106-04-28(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057809&Seq=005&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057809&Seq=005&Type=8"
         },
         {
             "title": "Rolipostatin 10mg低妥脂外盒_20170428-106-04-28(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057809&Seq=004&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057809&Seq=004&Type=8"
         },
         {
             "title": "010578090011___20130314.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057809&Seq=003&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057809&Seq=003&Type=8"
         }
     ]
 }

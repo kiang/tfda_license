@@ -1,7 +1,7 @@
 {
     "code": "02021676",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021676",
-    "time": "2017-05-26 03:47:54",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021676",
+    "time": "2017-12-13 03:25:01",
     "許可證字號": "衛署藥輸字第021676號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,13 +26,21 @@
     "申請商名稱": "1504401100  輝瑞大藥廠股份有限公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "F020039000  PFIZER AUSTRALIA PTY LIMITED",
-        "製造廠廠址": "38-42 WHARF ROAD, WEST RYDE, NSW 2114, AUSTRALIA",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠名稱": "F150080000  Fareva Amboise",
+        "製造廠廠址": "ZONE INDUSTRIELLE 29,ROUTE DES INDUSTRIES 37530, POCE-SUR-CISSE,FRANCE",
+        "製造廠公司地址": ""
     },
     "CCC號列": "30042000211 人用醫藥製劑，含抗黴菌劑類抗生素者Medicaments, containing antifungal antibiotics, for human use",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "6605071926  久裕企業股份有限公司",
+            "製造廠廠址": "桃園市桃園區大林里興邦路43巷2之1號4樓，3樓B區，1樓A區",
+            "製造廠公司地址": "",
+            "製造廠國別": "",
+            "製程": "二級包裝廠"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -56,17 +64,17 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021676&Seq=431&Type=10"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021676&Seq=431&Type=10"
         }
     ],
     "仿單外盒": [
         {
             "title": "Diflucan-50-150mg-INS-040924_更正賦形劑-104-09-24(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021676&Seq=034&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021676&Seq=034&Type=9"
         },
         {
             "title": "Diflucan Capsule 150mg MAno.021676_外盒包裝-104-09-18(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021676&Seq=003&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021676&Seq=003&Type=8"
         }
     ]
 }

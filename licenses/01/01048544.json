@@ -1,7 +1,7 @@
 {
     "code": "01048544",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01048544",
-    "time": "2017-03-24 03:24:38",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01048544",
+    "time": "2017-12-13 03:24:21",
     "許可證字號": "衛署藥製字第048544號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "0603820300  成大藥品股份有限公司",
         "製造廠廠址": "台南市麻豆區南勢里關帝廟８０號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30042000211 人用醫藥製劑，含抗黴菌劑類抗生素者Medicaments, containing antifungal antibiotics, for human use",
     "藥理治療分類": "",
@@ -43,14 +42,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "白色",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "CA-247成大-療滅適乳膏10毫克-1000g瓶裝(104.09.29)-104-09-29(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048544&Seq=004&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "CA-247成大-療滅適乳膏10毫克(104.12.08)(說)-104-12-18(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048544&Seq=004&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048544&Seq=004&Type=9"
         },
         {
             "title": "CA-247成大-療滅適乳膏10毫克-標籤(104.09.18)-104-09-25(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048544&Seq=005&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048544&Seq=005&Type=8"
         }
     ]
 }

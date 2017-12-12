@@ -1,7 +1,7 @@
 {
     "code": "02025714",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025714",
-    "time": "2017-06-16 03:50:17",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025714",
+    "time": "2017-12-13 03:25:49",
     "許可證字號": "衛署藥輸字第025714號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "F070033000  NOVOCOL PHARMACEUTICAL OF CANADA INC.",
         "製造廠廠址": "25 WOLSELEY COURT CAMBRIDGE, ONTARIO CANADA, N1R 6X3",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -43,14 +42,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "025714-Isocaine product-104-12-29(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025714&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "025714-Isocaine IFU-104-12-29(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025714&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025714&Seq=002&Type=9"
         },
         {
             "title": "025714-Isocaine OUTBOX-104-12-29(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025714&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025714&Seq=002&Type=8"
         }
     ]
 }

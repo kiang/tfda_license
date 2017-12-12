@@ -1,7 +1,7 @@
 {
     "code": "02025117",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025117",
-    "time": "2017-02-24 03:14:39",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025117",
+    "time": "2017-12-13 03:59:11",
     "許可證字號": "衛署藥輸字第025117號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "F260527000  RYUKAKUSAN CO., LTD. CHIBA FACTORY",
         "製造廠廠址": "1460-3, MITODAI, MITOAZA, TAKO-MACHI, KATORI-GUN, CHIBA, 289-2247, JAPAN",
-        "製造廠公司地址": "5-12,2-CHOME HIGASHIKANDA,CHIYODA-KU,TOKYO,JAPAN",
-        "": ""
+        "製造廠公司地址": "5-12,2-CHOME HIGASHIKANDA,CHIYODA-KU,TOKYO,JAPAN"
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -67,14 +66,42 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "025117_85g_正-104-10-06(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025117&Seq=012&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "Ryukakusan_insert_20151222-104-12-24(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025117&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025117&Seq=001&Type=9"
         },
         {
-            "title": "龍角散-105-12-02.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025117&Seq=001&Type=8"
+            "title": "標籤-龍角散罐底18,40,85g-106-10-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025117&Seq=005&Type=8"
+        },
+        {
+            "title": "標籤-龍角散罐身18,40,85g-106-10-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025117&Seq=004&Type=8"
+        },
+        {
+            "title": "標籤-龍角散收縮膜18,40,85g-106-10-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025117&Seq=003&Type=8"
+        },
+        {
+            "title": "外盒-龍角散外盒18,40,85g-106-10-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025117&Seq=002&Type=8"
         }
     ]
 }

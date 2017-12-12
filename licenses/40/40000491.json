@@ -1,12 +1,12 @@
 {
     "code": "40000491",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=40000491",
-    "time": "2015-08-24 13:23:16",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=40000491",
+    "time": "2017-12-13 04:18:46",
     "許可證字號": "衛署粧陸輸字第000491號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/11\/28",
+    "有效日期": "110\/11\/28",
     "發證日期": "97\/11\/28",
     "許可證種類": "含藥化粧品",
     "舊證字號": "",
@@ -17,23 +17,20 @@
     "用途": "防曬、滋潤。",
     "劑型": "992霜劑",
     "包裝": "500g以下瓶裝 附外盒裝",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0714防晒化粧用品",
-    "": "",
-    "主成分略述": "BUTYL METHOXYDIBENZOYLMETHANE, PHENYLBENZIMIDAZOLE SULFONIC ACID, OCTOCRYLENE, ETHYLHEXYL SALICYLATE",
-    "限制項目": [
-        "02輸入",
-        "40大陸生產"
+    "主成分略述": [
+        "BUTYLMETHOXYDIBENZOYLMETHANE,PHENYLBENZIMIDAZOLESULFONICACID,OCTOCRYLENE,ETHYLHEXYLSALICYLATE"
     ],
+    "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "2002601100  寶僑家品股份有限公司",
-    "申請商地址": "台北市信義區信義路五段106號7樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C666400010  PROCTER &amp; GAMBLE (GUANGZHOU) LTD.",
         "製造廠廠址": "1 BIN HE ROAD, GUANGZHOU ECONOMIC &amp; TECHNOLOGICAL DEVELOPMENT DISTRICT, GUANGZHOU, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "33049990108 含藥之乳液、化粧水Medicated lotion, tonic lotion",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -67,6 +64,12 @@
             "含量描述": "",
             "含量": "4.2000000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "40000491-2008-11-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000491&Seq=001&Type=9"
         }
     ]
 }

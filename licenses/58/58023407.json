@@ -1,7 +1,7 @@
 {
     "code": "58023407",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58023407",
-    "time": "2016-03-25 03:52:50",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58023407",
+    "time": "2017-12-13 03:37:39",
     "許可證字號": "衛部粧輸字第023407號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,22 +17,20 @@
     "用途": "防曬。",
     "劑型": "992霜劑",
     "包裝": "500公克以下管裝附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0708防晒面霜",
-    "": "",
-    "主成分略述": "BUTYL METHOXYDIBENZOYLMETHANE, OCTOCRYLENE, ETHYLHEXYL TRIAZONE, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
-    "限制項目": [
-        ""
+    "主成分略述": [
+        "BUTYLMETHOXYDIBENZOYLMETHANE,OCTOCRYLENE,ETHYLHEXYLTRIAZONE,BIS-ETHYLHEXYLOXYPHENOLMETHOXYPHENYLTRIAZINE"
     ],
+    "限制項目": "",
     "申請商名稱": "6628419414  香港商希思黎化妝品有限公司台灣分公司",
-    "申請商地址": "台北市信義區信義路5段7號69樓之1",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C150010000  C.F.E.B. SISLEY",
-        "製造廠廠址": "16, AVENUE GEORGE V 75008 PARIS, FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
+        "製造廠廠址": "3, AVENUE DE FRIEDLAND-75008 PARIS, FRANCE",
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -66,6 +64,12 @@
             "含量描述": "",
             "含量": "3.0000000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "58023407-105-04-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58023407&Seq=001&Type=8"
         }
     ]
 }

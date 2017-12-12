@@ -1,7 +1,7 @@
 {
     "code": "10000939",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000939",
-    "time": "2017-06-16 03:04:42",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000939",
+    "time": "2017-12-13 03:26:18",
     "許可證字號": "衛署菌疫輸字第000939號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
     "主成分略述": [
-        "A\/California\/7\/2009(H1N1)-likevirus,A\/HongKong\/4801\/2014(H3N2)-likestrain(A\/HongKong\/4801\/2014,NYMCX-263B),B\/Phuket\/3073\/2013,B\/BRISBANE\/60\/2008"
+        "A\/Michigan\/45\/2015(H1N1)pdm09-likestrain(A\/Singapore\/GP1908\/2015,IVR-180),A\/HongKong\/4801\/2014(H3N2)-likestrain(A\/HongKong\/4801\/2014,NYMCX-263B),B\/Phuket\/3073\/2013-likestrain(B\/Phuket\/3073\/2013,wildtype),B\/Brisbane\/60\/2008-likestrain(B\/Brisbane\/60\/2008,wildtype)"
     ],
     "限制項目": "",
     "申請商名稱": "0901801100  荷商葛蘭素史克藥廠股份有限公司台灣分公司",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "F470575000  GLAXOSMITHKLINE BIOLOGICALS BRANCH OF SMITHKLINE BEECHAM PHARMA GMBH &amp; CO. KG",
         "製造廠廠址": "ZIRKUSSTR 40, 01069 DRESDEN, GERMANY",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -40,13 +39,27 @@
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
             "製程": "委託包裝廠(貼標)"
+        },
+        {
+            "製造廠名稱": "F050087000  GLAXOSMITHKLINE BIOLOGICALS S.A.",
+            "製造廠廠址": "PARC DE LA NOIRE EPINE, RUE FLEMING 20, B-1300 WAVRE, BELGIUM",
+            "製造廠公司地址": "",
+            "製造廠國別": "BELGIUM",
+            "製程": "填充、包裝"
+        },
+        {
+            "製造廠名稱": "F150350000  GlaxoSmithKline Biologicals",
+            "製造廠廠址": "637 Rue des Aulnois 59230 Saint Amand Les Eaux, France",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": "填充、包裝"
         }
     ],
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "8012002471",
-            "成分名稱": "A\/California\/7\/2009(H1N1)-like virus",
+            "成分代碼": "8012002491",
+            "成分名稱": "A\/Michigan\/45\/2015 (H1N1)pdm09 - like strain (A\/Singapore\/GP1908\/2015, IVR-180)",
             "含量描述": "",
             "含量": "15.0000000000",
             "單位": "ug HA"
@@ -61,45 +74,41 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8012006220",
-            "成分名稱": "B\/Phuket\/3073\/2013",
+            "成分代碼": "8012006210",
+            "成分名稱": "B\/Phuket\/3073\/2013 - like strain (B\/Phuket\/3073\/2013, wild type)",
             "含量描述": "",
             "含量": "15.0000000000",
             "單位": "ug HA"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8012006500",
-            "成分名稱": "B\/BRISBANE\/60\/2008",
+            "成分代碼": "8012006530",
+            "成分名稱": "B\/Brisbane\/60\/2008-like strain (B\/Brisbane\/60\/2008, wild type)",
             "含量描述": "",
             "含量": "15.0000000000",
             "單位": "ug HA"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "無色液體盛放於附有針頭之10cm長預充填注射針筒",
+        "特殊劑型": "",
+        "顏色": "透明無色",
+        "特殊氣味": "無",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "040009390004-104-09-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=004&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "020009390002-105-10-26.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=022&Type=9"
-        },
-        {
-            "title": "020009390001-105-10-26.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=021&Type=9"
-        },
-        {
-            "title": "020009390003-105-10-26.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=012&Type=8"
-        },
-        {
-            "title": "480999 - BOX SYR.FLU.QIV PRTC EXP NH16-105-10-24.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=011&Type=8"
-        },
-        {
-            "title": "480994 - BOX GR.SYR.FLU.QIV PRTC X10+10N EXP NH16-105-10-24.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=010&Type=8"
-        },
-        {
-            "title": "480965 - LAB.SYR.PP FLU.QIV PRTC EXP NH16-105-10-24.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=009&Type=8"
+            "title": "20171002171736733-106-10-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=013&Type=8"
         }
     ]
 }
