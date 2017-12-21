@@ -1,7 +1,7 @@
 {
     "code": "02024750",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024750",
-    "time": "2017-12-15 03:52:06",
+    "time": "2017-12-22 03:38:35",
     "許可證字號": "衛署藥輸字第024750號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -51,8 +51,22 @@
             "單位": "MG"
         }
     ],
-    "藥物辨識詳細資料": [],
-    "藥物辨識外觀圖片": [],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "白色",
+        "特殊氣味": "",
+        "刻痕": "有",
+        "形狀": "圓凸形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "blister-104-09-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024750&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "Luvox_20170603-106-08-10.pdf",
@@ -63,8 +77,8 @@
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024750&Seq=010&Type=9"
         },
         {
-            "title": "carton-104-09-30(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024750&Seq=004&Type=8"
+            "title": "luvox 50mg carton_201601-106-12-16(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024750&Seq=005&Type=8"
         }
     ]
 }
