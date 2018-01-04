@@ -1,7 +1,7 @@
 {
     "code": "02023785",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023785",
-    "time": "2017-04-28 03:29:07",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023785",
+    "time": "2018-01-05 03:05:58",
     "許可證字號": "衛署藥輸字第023785號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,10 +26,9 @@
     "申請商名稱": "1403301100  台灣大塚製藥股份有限公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "F460030300  PATHEON MANUFACTURING SERVICES, LLC.",
-        "製造廠廠址": "5900 Martin Luther King Jr. Highway,Greenville,NC27834,USA",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠名稱": "F470565000  BAXTER ONCOLOGY GMBH",
+        "製造廠廠址": "KANTSTR. 2, 33790 HALLE\/WESTFALEN, GERMANY",
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049071005 抗癌藥Anti-cancer preparations",
     "藥理治療分類": "",
@@ -47,6 +46,13 @@
             "製造廠公司地址": "",
             "製造廠國別": "JAPAN",
             "製程": "許可證持有者"
+        },
+        {
+            "製造廠名稱": "F460887000  SHARP CORPORATION",
+            "製造廠廠址": "7451 KEEBLER WAY , ALLENTOWN , PENNSYLVANIA 18106 , USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "二級包裝廠"
         }
     ],
     "ingredients": [
@@ -59,14 +65,46 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "10毫升玻璃小瓶",
+        "特殊劑型": "",
+        "顏色": "澄清、無色",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "BSF實體-106-08-11(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023785&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "Busulfex injection _Chinese PI_final-106-02-16.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023785&Seq=006&Type=9"
+            "title": "7. Busulfex injection_Chinese PI_20170411-106-12-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023785&Seq=007&Type=9"
         },
         {
-            "title": "補束剋-個裝-104-12-24(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023785&Seq=016&Type=8"
+            "title": "Busulfex injection _Chinese PI_final-106-02-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023785&Seq=006&Type=9"
+        },
+        {
+            "title": "7. Chinese label-106-12-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023785&Seq=020&Type=8"
+        },
+        {
+            "title": "7. label-106-12-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023785&Seq=019&Type=8"
+        },
+        {
+            "title": "7. outer box-106-12-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023785&Seq=018&Type=8"
+        },
+        {
+            "title": "補束剋小盒標籤-106-08-11(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023785&Seq=017&Type=8"
         }
     ]
 }

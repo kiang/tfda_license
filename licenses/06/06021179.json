@@ -1,7 +1,7 @@
 {
     "code": "06021179",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021179",
-    "time": "2016-11-19 01:15:32",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021179",
+    "time": "2018-01-05 03:09:22",
     "許可證字號": "衛署醫器輸字第021179號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,7 +15,7 @@
     "中文品名": "“英特佳”神經外科用頭固定物",
     "英文品名": "“INTEGRA” Mayfield NeuroSurgical Head Holder",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "詳如中文仿單核定本",
+    "醫器規格": "詳如中文仿單核定本。增加規格: 詳如中文仿單核定本，以下空白。",
     "劑型": "",
     "包裝": "",
     "標籤、仿單及包裝加註": "",
@@ -33,21 +33,28 @@
     "主製造廠": {
         "主製造廠": "",
         "製造廠名稱": "M461958000  INTEGRA LIFESCIENCES CORPORATION",
-        "製造廠廠址": "4900 CHARLEMAR DRIVE, CINCINNATI, OHIO 45227-3412, U.S.A.",
+        "製造廠廠址": "4900 CHARLEMAR DR., BUILDING A CINCINNATI, OH USA 45227",
         "製造廠公司地址": "",
         "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "060211790001-106-12-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021179&Seq=002&Type=9"
+        },
+        {
             "title": "060211790001___20100823.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021179&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021179&Seq=001&Type=9"
+        },
+        {
+            "title": "060211790001-106-12-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021179&Seq=002&Type=8"
         },
         {
             "title": "060211790002___20100823.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021179&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021179&Seq=001&Type=8"
         }
     ]
 }

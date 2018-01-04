@@ -1,7 +1,7 @@
 {
     "code": "56028016",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028016",
-    "time": "2016-01-29 04:04:19",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028016",
+    "time": "2018-01-05 03:11:58",
     "許可證字號": "衛部醫器輸字第028016號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,40 +15,46 @@
     "中文品名": "“因特”內視鏡器械及配件",
     "英文品名": "“Intuitive Surgical” Endoscopic Instruments and Accessories",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "428115",
+    "醫器規格": "428115。增加規格: 詳如中文仿單核定本，以下空白。",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "H胃腸病學-泌尿學科用裝置",
     "醫器次類別一": "H1500內視鏡及其附件",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入",
-        "09委託製造"
+    "主成分略述": [
+        ""
     ],
+    "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620102X383  信文達股份有限公司",
-    "申請商地址": "台北市大安區敦化南路2段99號14樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "M300107100  Intuitive Surgical S.de R.L. de C.V.",
         "製造廠廠址": "Circuito Internacional Norte #8, Parque Industrial Nelson Carretera a San Luis, R.C., Km 14, Mexicali Baja California 21397, MEXICO",
         "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": "Manufactured by"
+        "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "560280160001-106-12-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56028016&Seq=002&Type=9"
+        },
+        {
             "title": "560280160002-104-12-24.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56028016&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56028016&Seq=001&Type=9"
+        },
+        {
+            "title": "560280160001-106-12-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56028016&Seq=002&Type=8"
         },
         {
             "title": "560280160001-104-12-24.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56028016&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56028016&Seq=001&Type=8"
         }
     ]
 }

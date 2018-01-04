@@ -1,7 +1,7 @@
 {
     "code": "01043745",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01043745",
-    "time": "2016-11-18 14:40:17",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01043745",
+    "time": "2018-01-05 03:04:11",
     "許可證字號": "衛署藥製字第043745號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -23,13 +23,12 @@
         "EXSICCATEDFRUCTUSCARDUIMARIAEEXTRACT,THIAMINEHYDROCHLORIDE,RIBOFLAVIN(VITB2),PYRIDOXINEHCL,CYANOCOBALAMIN(VITB12),PANTOTHENATECALCIUM"
     ],
     "限制項目": "01國　產",
-    "申請商名稱": "6236100491  裕展藥品股份有限公司",
+    "申請商名稱": "1605609200  衛達化學製藥股份有限公司",
     "主製造廠": {
         "主製造廠": "",
         "製造廠名稱": "1605609300  衛達化學製藥股份有限公司",
         "製造廠廠址": "台中市南屯區寶山里工業區２３路２１號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30045000009 含有維他命或第２９３６節產品之其他醫藥製劑Other medicaments containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
@@ -85,18 +84,32 @@
     ],
     "藥物辨識詳細資料": {
         "外觀尺寸": "",
-        "特殊劑型": "",
-        "顏色": "深紅",
+        "特殊劑型": "膜衣錠",
+        "顏色": "暗紅色",
         "特殊氣味": "",
         "刻痕": "",
-        "形狀": "長圓柱形",
+        "形狀": "橢圓形",
         "標記一": "",
         "標記二": ""
     },
     "藥物辨識外觀圖片": [
         {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043745&Seq=398&Type=10"
+            "title": "CTD 1.6.3 成品外觀圖檔_Silin Film Coating Tablets_1060825-106-12-04.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043745&Seq=399&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "肝炎錠-仿單-106-12-04.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043745&Seq=001&Type=9"
+        },
+        {
+            "title": "肝炎錠-鋁箔-1061115-106-12-04.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043745&Seq=002&Type=8"
+        },
+        {
+            "title": "肝炎錠-外盒-1061115-106-12-04.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043745&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "42000476",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000476",
-    "time": "2015-08-22 05:58:07",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000476",
+    "time": "2018-01-05 03:21:18",
     "許可證字號": "衛署醫器陸輸字第000476號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,37 +18,35 @@
     "醫器規格": "6*3cm, 6*6cm, 12*6cm",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "I一般及整型外科手術裝置",
     "醫器次類別一": "I0004酒精棉片",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入",
-        "40大陸生產"
+    "主成分略述": [
+        ""
     ],
+    "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "620110C067  金蒂股份有限公司",
-    "申請商地址": "台北市大安區辛亥路一段38號3樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "M641119000  SHANGHAI XIANGCHI HEALTH PRODUCTS CO., LTD.",
         "製造廠廠址": "1331 BEIYAN ROAD, CHONGMING COUNTY, SHANGHAI, CHINA",
         "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "420004760001___20130126.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000476&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000476&Seq=001&Type=9"
         },
         {
             "title": "420004760001___20130126.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000476&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000476&Seq=001&Type=8"
         }
     ]
 }

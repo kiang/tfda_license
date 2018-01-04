@@ -1,7 +1,7 @@
 {
     "code": "02015470",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02015470",
-    "time": "2016-11-18 18:58:21",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02015470",
+    "time": "2018-01-05 03:05:36",
     "許可證字號": "衛署藥輸字第015470號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,7 +16,7 @@
     "英文品名": "DECA-DURABOLIN",
     "適應症": "(一)骨骼疏鬆症。\r\n(二)手術後、外傷、熱傷、慢性腎臟疾病引起之體質極度消耗。",
     "劑型": "270注射劑",
-    "包裝": "50mg\/ml小瓶 100小瓶以下盒裝 50mg\/ml安瓿 100安瓿以下盒裝",
+    "包裝": "100安瓿以下盒裝 50mg\/ml安瓿",
     "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
     "主成分略述": [
@@ -26,13 +26,21 @@
     "申請商名稱": "6401022326  安沛國際有限公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "F170022000  N.V. ORGANON",
-        "製造廠廠址": "KLOOSTERSTRAAT 6 5349 AB OSS,THE NETHERLANDS",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠名稱": "F470256000  EVER PHARMA JENA GMBH",
+        "製造廠廠址": "Otto-Schott-Strasse 15, 07745 Jena, Germany",
+        "製造廠公司地址": ""
     },
     "CCC號列": "30043900005 醫藥製劑，含有其他內分泌素者Medicaments, containing other hormones",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "F470471000  Ever Pharma Jena GmbH",
+            "製造廠廠址": "Brusseler Str. 18, 07747 Jena, Germany",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "二級包裝廠"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -46,31 +54,11 @@
     "仿單外盒": [
         {
             "title": "得力保寧注射劑_英文仿單-2014-04-18.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015470&Seq=005&Type=9"
-        },
-        {
-            "title": "得力保寧注射劑_中文仿單-2014-04-18.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015470&Seq=004&Type=9"
-        },
-        {
-            "title": "得力保寧注射劑中文仿單-103-03-05.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015470&Seq=003&Type=9"
-        },
-        {
-            "title": "020154700002___20110817.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015470&Seq=002&Type=9"
-        },
-        {
-            "title": "020154700001___20110817.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015470&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015470&Seq=005&Type=9"
         },
         {
             "title": "020154700004___20110817.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015470&Seq=002&Type=8"
-        },
-        {
-            "title": "020154700003___20110817.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015470&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015470&Seq=002&Type=8"
         }
     ]
 }

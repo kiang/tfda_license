@@ -1,7 +1,7 @@
 {
     "code": "20000002",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=20000002",
-    "time": "2016-11-25 03:49:20",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=20000002",
+    "time": "2018-01-05 03:07:06",
     "許可證字號": "衛署罕藥輸字第000002號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,12 +28,18 @@
         "主製造廠": "",
         "製造廠名稱": "F470272000  HAUPT PHARMA BERLIN GMBH.",
         "製造廠廠址": "MOOSROSENSTRABE 7 D-12347 BERLIN GERMANY",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
     "次製造廠": [
+        {
+            "製造廠名稱": "6101111420  瑪里士實業有限公司",
+            "製造廠廠址": "臺北市內湖區舊宗路二段121巷30號2樓、32號2樓及2樓之1",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠"
+        },
         {
             "製造廠名稱": "F470107000  HEYL CHEMISCH-PHARMAZEUTISCHE FABRIK GMBH &amp; CO., KG",
             "製造廠廠址": "KURFURSTENDAMM 178-179,D-10707 BERLIN,GERMANY",
@@ -55,31 +61,19 @@
     "仿單外盒": [
         {
             "title": "Dimaval capsules 中文仿單-105-07-04(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000002&Seq=003&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000002&Seq=003&Type=9"
         },
         {
-            "title": "20000002001___20121008.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000002&Seq=001&Type=9"
+            "title": "Dimaval Capsules_Carton 3-106-12-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000002&Seq=008&Type=8"
         },
         {
-            "title": "Dimaval Capsules 標籤-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000002&Seq=005&Type=8"
+            "title": "Dimaval Capsules_Carton 2-106-12-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000002&Seq=007&Type=8"
         },
         {
-            "title": "Dimaval Capsules Carton-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000002&Seq=004&Type=8"
-        },
-        {
-            "title": "200000020004___20121008.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000002&Seq=003&Type=8"
-        },
-        {
-            "title": "200000020003___20121008.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000002&Seq=002&Type=8"
-        },
-        {
-            "title": "200000020002___20121008.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000002&Seq=001&Type=8"
+            "title": "Dimaval Capsules_Carton 1 & Chinese Label-106-12-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000002&Seq=006&Type=8"
         }
     ]
 }

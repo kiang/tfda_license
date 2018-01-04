@@ -1,12 +1,12 @@
 {
     "code": "10000941",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000941",
-    "time": "2016-11-25 03:28:42",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000941",
+    "time": "2018-01-05 03:16:47",
     "許可證字號": "衛署菌疫輸字第000941號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/06\/07",
+    "有效日期": "112\/06\/07",
     "發證日期": "102\/06\/07",
     "許可證種類": "菌　疫",
     "舊證字號": "",
@@ -14,7 +14,7 @@
     "通關簽審文件編號": "DHA01000094100",
     "中文品名": "維必施 注射劑",
     "英文品名": "Vectibix solution for infusion",
-    "適應症": "治療RAS基因正常之轉移性大腸直腸癌(mCRC)成人病患：\r\n１、與FOLFOX 併用作為第一線療法。\r\n２、在接受含有Fluoropyrimidine、Oxaliplatin與Irinotecan之化學療法失敗後，作為單一療法使用。",
+    "適應症": "治療RAS基因正常之轉移性大腸直腸癌(mCRC)成人病患：\r\n１、與FOLFOX 或FOLFIRI併用作為第一線療法。\r\n２、在接受含有Fluoropyrimidine、Oxaliplatin與Irinotecan之化學療法失敗後，作為單一療法使用。",
     "劑型": "279注射液",
     "包裝": "5ml小瓶盒裝 100支以下盒裝",
     "標籤、仿單及包裝加註": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "F370034000  AMGEN MANUFACTURING,LIMITED",
         "製造廠廠址": "STATE ROAD 31,KM 24.6 JUNCOS,PUERTO RICO 00777-4060",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -52,34 +51,54 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "2cm*4cm 玻璃小瓶裝",
+        "特殊劑型": "",
+        "顏色": "無色可能內含白色顆粒",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Amgen_Vecibix_7-106-09-13(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000941&Seq=007&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "施必維注射劑-105-9-01-105-09-01.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000941&Seq=003&Type=9"
+            "title": "020009410002-英文仿單-106-07-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000941&Seq=005&Type=9"
         },
         {
-            "title": "Vectibix 100mg L977-001-02_1011843-104-09-15(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000941&Seq=002&Type=9"
+            "title": "020009410001-中文仿單-106-07-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000941&Seq=004&Type=9"
         },
         {
-            "title": "020009410001-104-03-12.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000941&Seq=001&Type=9"
+            "title": "Amgen_Vecibix_6-106-09-13(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000941&Seq=016&Type=8"
         },
         {
-            "title": "Vectibix 100mg K977-001-02_1011844-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000941&Seq=004&Type=8"
+            "title": "Amgen_Vecibix_5-106-09-13(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000941&Seq=015&Type=8"
         },
         {
-            "title": "Vectibix 100mg M977-001-02_1011842-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000941&Seq=003&Type=8"
+            "title": "Amgen_Vecibix_4-106-09-13(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000941&Seq=014&Type=8"
         },
         {
-            "title": "02020009410004-102-07-10.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000941&Seq=002&Type=8"
+            "title": "Amgen_Vecibix_3-106-09-13(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000941&Seq=013&Type=8"
         },
         {
-            "title": "02020009410003-102-07-10.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000941&Seq=001&Type=8"
+            "title": "Amgen_Vecibix_2-106-09-13(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000941&Seq=012&Type=8"
+        },
+        {
+            "title": "Amgen_Vecibix_1-106-09-13(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000941&Seq=011&Type=8"
         }
     ]
 }

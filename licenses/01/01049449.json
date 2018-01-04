@@ -1,12 +1,12 @@
 {
     "code": "01049449",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01049449",
-    "time": "2017-05-26 03:35:30",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01049449",
+    "time": "2018-01-05 03:15:58",
     "許可證字號": "衛署藥製字第049449號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/05\/21",
+    "有效日期": "112\/05\/21",
     "發證日期": "97\/05\/21",
     "許可證種類": "原料藥",
     "舊證字號": "",
@@ -26,22 +26,30 @@
     "申請商名稱": "6135041124  展旺生命科技股份有限公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "6105200160  展旺生命科技股份有限公司南科分公司南科第二廠區",
-        "製造廠廠址": "台南市新市區南科六路1號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠名稱": "6135041124  展旺生命科技股份有限公司",
+        "製造廠廠址": "苗栗縣竹南鎮科中路29號",
+        "製造廠公司地址": ""
     },
     "CCC號列": "29419090518 人用其他β－丙醯胺抗生素（青黴素及其衍生物；其鹽類及頭孢子菌類抗生素除外）Other miscellaneous β-lactam antibiotics (excluding penicillins and their derivatives; salts thereof and cephalosporins), for human use",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "6105200160  展旺生命科技股份有限公司南科分公司南科第二廠區",
+            "製造廠廠址": "台南市新市區南科六路1號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "無菌加工"
+        }
+    ],
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "010494490001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049449&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049449&Seq=001&Type=9"
         },
         {
             "title": "010494490001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049449&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049449&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "01030754",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01030754",
-    "time": "2016-11-18 12:22:31",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01030754",
+    "time": "2018-01-05 03:02:44",
     "許可證字號": "衛署藥製字第030754號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "1704519300  應元化學製藥股份有限公司",
         "製造廠廠址": "台南市南區新忠路２６號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30043200002 含有腎上腺皮質類固醇荷爾蒙，其衍生物及結構式類似者Containing adrenal corticosteroid hormones, their derivatives and structural analogues",
     "藥理治療分類": "",
@@ -49,24 +48,56 @@
             "含量描述": "1",
             "含量": "1.0000000000",
             "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812201410",
+            "成分名稱": "ECONAZOLE NITRATE",
+            "含量描述": "10",
+            "含量": "10.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "6804001610",
+            "成分名稱": "TRIAMCINOLONE ACETONIDE",
+            "含量描述": "1",
+            "含量": "1.0000000000",
+            "單位": "MG"
+        }
+    ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "10g,20g,450g 白色乳膏狀",
+        "特殊劑型": "",
+        "顏色": "白色",
+        "特殊氣味": "淡玫瑰香",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "S-282-104-09-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01030754&Seq=006&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "S-282復皮康乳膏-仿單-104-09-25(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01030754&Seq=002&Type=9"
+            "title": "01030754仿單標籤黏貼表 無香料口味-106-12-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01030754&Seq=003&Type=9"
         },
         {
-            "title": "010307540001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01030754&Seq=001&Type=9"
+            "title": "S-282復皮康乳膏-仿單-104-09-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01030754&Seq=002&Type=9"
+        },
+        {
+            "title": "01030754仿單標籤黏貼表 無香料口味-106-12-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01030754&Seq=005&Type=8"
         },
         {
             "title": "S-282-4-104-09-25(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01030754&Seq=004&Type=8"
-        },
-        {
-            "title": "S-282-1-104-09-25(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01030754&Seq=003&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01030754&Seq=004&Type=8"
         }
     ]
 }

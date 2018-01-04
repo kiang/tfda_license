@@ -1,12 +1,12 @@
 {
     "code": "01057363",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057363",
-    "time": "2017-04-28 03:28:36",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057363",
+    "time": "2018-01-05 03:05:23",
     "許可證字號": "衛署藥製字第057363號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/09\/14",
+    "有效日期": "111\/09\/14",
     "發證日期": "101\/09\/14",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "6105200026  瑞士藥廠股份有限公司新市廠",
         "製造廠廠址": "台南市新市區中山路182號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -43,14 +42,46 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "Blue",
+        "特殊氣味": "",
+        "刻痕": "有",
+        "形狀": "橢圓形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "L26-裸錠-104-10-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057363&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
+            "title": "衛署藥製字第057363號_仿單-106-12-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057363&Seq=003&Type=9"
+        },
+        {
             "title": "L26-仿單-104-10-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057363&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057363&Seq=002&Type=9"
+        },
+        {
+            "title": "衛署藥製字第057363號_鋁箔-106-12-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057363&Seq=008&Type=8"
+        },
+        {
+            "title": "衛署藥製字第057363號_標籤-106-12-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057363&Seq=007&Type=8"
+        },
+        {
+            "title": "衛署藥製字第057363號_外盒-106-12-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057363&Seq=006&Type=8"
         },
         {
             "title": "L26-外盒-104-10-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057363&Seq=005&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057363&Seq=005&Type=8"
         }
     ]
 }

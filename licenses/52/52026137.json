@@ -1,7 +1,7 @@
 {
     "code": "52026137",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026137",
-    "time": "2017-01-27 03:29:49",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026137",
+    "time": "2018-01-05 03:07:30",
     "許可證字號": "衛部藥輸字第026137號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -27,9 +27,8 @@
     "主製造廠": {
         "主製造廠": "",
         "製造廠名稱": "F430094000  NOVARTIS CONSUMER HEALTH SA",
-        "製造廠廠址": "ROUTE DE 1'ETRAZ, 1260 NYON, SWITZERLAND",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠廠址": "ROUTE DE 1&#39;ETRAZ, 1260 NYON, SWITZERLAND",
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -51,14 +50,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "無色至淡色溶液",
+        "特殊氣味": "",
+        "刻痕": "無",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "020261370004-105-01-20(廠商自行上傳).PDF",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026137&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "Otrivin Duo 中文仿單 (CDS2014JUN30)-104-09-22.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026137&Seq=005&Type=9"
+            "title": "衛部藥輸字第026137號-歐治鼻雙效噴鼻液-仿單(仿單變更生效為：107年6月7日)-106-12-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026137&Seq=007&Type=9"
         },
         {
-            "title": "020261370002-103-04-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026137&Seq=004&Type=8"
+            "title": "OTRIVIN DUO Spray外盒瓶標-106-07-31.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026137&Seq=005&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "08006975",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08006975",
-    "time": "2015-08-23 17:30:16",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08006975",
+    "time": "2018-01-05 03:22:21",
     "許可證字號": "衛署粧輸字第006975號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,22 +17,20 @@
     "用途": "染髮。",
     "劑型": "992霜劑",
     "包裝": "500ML以下管裝 附塑膠盒裝",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "AMMONIA WATER (AMMONIUM HYDROXIDE), AMINOPHENOL ORTHO-, P-PHENYLENEDIAMINE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "AMMONIAWATER(AMMONIUMHYDROXIDE),ORTHO-AMINOPHENOL,P-PHENYLENEDIAMINE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1511701100  髮利國際貿易有限公司",
-    "申請商地址": "新北市汐止區福德一路392巷42弄24號1樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C250035100  IN ITALY S.A.S.",
         "製造廠廠址": "BOTTICINO (BS)-VIA MOLINETTO 26-ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "33059020003 染髮劑Hair dyes",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -46,7 +44,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9200035402",
-            "成分名稱": "AMINOPHENOL ORTHO-",
+            "成分名稱": "ORTHO-AMINOPHENOL",
             "含量描述": "",
             "含量": "0.7000000000",
             "單位": "%(W\/W"

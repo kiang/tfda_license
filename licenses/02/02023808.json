@@ -1,7 +1,7 @@
 {
     "code": "02023808",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023808",
-    "time": "2017-01-27 03:28:33",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023808",
+    "time": "2018-01-05 03:05:59",
     "許可證字號": "衛署藥輸字第023808號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,13 +26,21 @@
     "申請商名稱": "1434901100  臺灣阿斯特捷利康股份有限公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "F130053000  ASTRAZENECA UK LIMITED",
-        "製造廠廠址": "SILK ROAD BUSINESS PARK,MACCLESFIELD,CHESHIRE,SK10 2NA, UK",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠名稱": "F260526000  NIPRO PHARMA CORPORATION KAGAMIISHI PLANT",
+        "製造廠廠址": "428, OKANOUCHI, KAGAMIISHI-MACHI, IWASE-GUN, FUKUSHIMA, JAPAN",
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049071005 抗癌藥Anti-cancer preparations",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "F130053000  ASTRAZENECA UK LIMITED",
+            "製造廠廠址": "SILK ROAD BUSINESS PARK,MACCLESFIELD,CHESHIRE,SK10 2NA, UK",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": "分包裝廠"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -44,29 +52,29 @@
         }
     ],
     "藥物辨識詳細資料": {
-        "外觀尺寸": "",
+        "外觀尺寸": "圓形兩面凸出膜衣錠",
         "特殊劑型": "",
-        "顏色": "深紅橙",
+        "顏色": "棕色",
         "特殊氣味": "",
-        "刻痕": "",
-        "形狀": "圓凸形",
-        "標記一": "IRESSA,250",
+        "刻痕": "無",
+        "形狀": "",
+        "標記一": "",
         "標記二": ""
     },
     "藥物辨識外觀圖片": [
         {
             "title": "023808-Iressa 250mg Tab-Tab-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023808&Seq=441&Type=10"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023808&Seq=441&Type=10"
         }
     ],
     "仿單外盒": [
         {
             "title": "023808- IRESSA艾瑞莎膜衣錠250mg 中文仿單-20150414核准-104-09-22(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023808&Seq=044&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023808&Seq=044&Type=9"
         },
         {
             "title": "023808-Iressa 250mg Tab-carton 3-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023808&Seq=003&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023808&Seq=003&Type=8"
         }
     ]
 }

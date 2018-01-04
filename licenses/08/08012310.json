@@ -1,7 +1,7 @@
 {
     "code": "08012310",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08012310",
-    "time": "2015-08-23 18:36:00",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08012310",
+    "time": "2018-01-05 03:13:08",
     "許可證字號": "衛署粧輸字第012310號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,22 +17,20 @@
     "用途": "兼具隔離、防曬保護肌膚、修色效果。",
     "劑型": "944乳劑",
     "包裝": "500公撮以下瓶裝 附外紙盒裝",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0711防晒乳液",
-    "": "",
-    "主成分略述": "OCTYL METHOXYCINNAMATE (PARSOL KCX), ZINC OXIDE, TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE), OCTYLTRIMETHOXYSILANE COATED TITANIUM DIOXIDE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "OCTYLMETHOXYCINNAMATE(PARSOLKCX),ZINCOXIDE,TITANIUMDIOXIDE(EQTOTITANIUMOXIDE),OCTYLTRIMETHOXYSILANECOATEDTITANIUMDIOXIDE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "0828722100  佳麗寶化工股份有限公司",
-    "申請商地址": "高雄市大社區保社村旗楠路一０一號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C260264100  Kao Cosmetic Products Odawara Co., Ltd.",
         "製造廠廠址": "3-28 5-CHOME, KOTOBUKI-CHO, ODAWARA-SHI, KANAGAWA-KEN, 250-0002, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "33049990108 含藥之乳液、化粧水Medicated lotion, tonic lotion",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -49,22 +47,6 @@
             "成分名稱": "ZINC OXIDE",
             "含量描述": "",
             "含量": "4.4500000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9602020800",
-            "成分名稱": "TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)",
-            "含量描述": "",
-            "含量": "1.2000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9602020822",
-            "成分名稱": "OCTYLTRIMETHOXYSILANE COATED TITANIUM DIOXIDE",
-            "含量描述": "",
-            "含量": "5.0000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -127,15 +109,19 @@
     "仿單外盒": [
         {
             "title": "080123100001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08012310&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08012310&Seq=001&Type=9"
+        },
+        {
+            "title": "08012310-106-12-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08012310&Seq=003&Type=8"
         },
         {
             "title": "08012310-104-01-14.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08012310&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08012310&Seq=002&Type=8"
         },
         {
             "title": "08012310-103-07-11.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08012310&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08012310&Seq=001&Type=8"
         }
     ]
 }

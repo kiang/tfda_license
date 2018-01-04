@@ -1,7 +1,7 @@
 {
     "code": "10000380",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000380",
-    "time": "2017-04-28 03:29:45",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000380",
+    "time": "2018-01-05 03:06:28",
     "許可證字號": "衛署菌疫輸字第000380號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,7 +16,7 @@
     "英文品名": "ALBIOMIN 20%",
     "適應症": "低蛋白血症、休克、燒傷",
     "劑型": "270注射劑",
-    "包裝": "10,20公撮安瓿 50,100公撮輸注瓶裝",
+    "包裝": "50,100公撮輸注瓶裝",
     "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
     "主成分略述": [
@@ -28,14 +28,13 @@
         "主製造廠": "",
         "製造廠名稱": "F470020200  Biotest AG",
         "製造廠廠址": "LANDSTEINER STRABE 5, D-63303 DREIEICH, GERMANY",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30021030004 血液球蛋白及白蛋白Blood globulin and albumin",
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "F050070000  C.A.F.(Centrale Afdeling voor Fractionering van het Rode Kruis)CVBA",
+            "製造廠名稱": "F050070000  Plasma Industries Belgium CVBA",
             "製造廠廠址": "DE TYRASLAAN, 109 BE-1120 BRUSSELS, BELGIUM",
             "製造廠公司地址": "",
             "製造廠國別": "BELGIUM",
@@ -59,22 +58,38 @@
             "單位": "GM"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Albiomin 20%-實體外盒(2)-104-09-15(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000380&Seq=003&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "020003800002_English PI_201702-106-02-13.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000380&Seq=014&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000380&Seq=014&Type=9"
         },
         {
             "title": "020003800001_Chinese PI_201702-106-02-13.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000380&Seq=013&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000380&Seq=013&Type=9"
         },
         {
             "title": "020003800004_Carton_201702-106-02-13.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000380&Seq=014&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000380&Seq=014&Type=8"
         },
         {
             "title": "020003800003_Vial Label_201702-106-02-13.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000380&Seq=013&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000380&Seq=013&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "05000996",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05000996",
-    "time": "2016-11-18 21:05:11",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05000996",
+    "time": "2018-01-05 03:07:57",
     "許可證字號": "衛署醫器製字第000996號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -10,12 +10,12 @@
     "發證日期": "92\/04\/23",
     "許可證種類": "醫　器",
     "舊證字號": "",
-    "醫療器材級數": "",
+    "醫療器材級數": "第二等級",
     "通關簽審文件編號": "DHY00500099605",
-    "中文品名": "&quot;太平洋&quot; 壓力延長管",
+    "中文品名": "&quot;太平洋&quot; 高壓延長管",
     "英文品名": "&quot;PAHSCO&quot; PRESSURE TUBE",
     "效能": "",
-    "醫器規格": "詳如中文仿單核定本。I08317,I08320,I08414,I08427,I08428。",
+    "醫器規格": "詳如中文仿單核定本。I08317,I08320,I08414,I08427,I08428。增加規格: 詳如中文仿單核定本，以下空白。",
     "劑型": "",
     "包裝": "",
     "標籤、仿單及包裝加註": "",
@@ -32,22 +32,29 @@
     "申請商名稱": "0414001200  太平洋醫材股份有限公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "6135101054  太平洋醫材股份有限公司",
-        "製造廠廠址": "苗栗縣銅鑼鄉自強路19號",
+        "製造廠名稱": "0414008600  太平洋醫材股份有限公司",
+        "製造廠廠址": "苗栗縣銅鑼鄉自強路１９號",
         "製造廠公司地址": "",
         "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "050009960001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000996&Seq=001&Type=9"
+            "title": "050009960001-106-12-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000996&Seq=002&Type=9"
         },
         {
             "title": "050009960001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000996&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000996&Seq=001&Type=9"
+        },
+        {
+            "title": "050009960001-106-12-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000996&Seq=002&Type=8"
+        },
+        {
+            "title": "050009960001.jpg",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000996&Seq=001&Type=8"
         }
     ]
 }

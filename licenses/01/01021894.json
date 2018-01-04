@@ -1,7 +1,7 @@
 {
     "code": "01021894",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01021894",
-    "time": "2016-11-18 11:50:02",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01021894",
+    "time": "2018-01-05 03:01:44",
     "許可證字號": "衛署藥製字第021894號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,11 +16,11 @@
     "英文品名": "ANTIDIARRHOEALS F.C. TABLETS &quot;T.F.&quot;",
     "適應症": "瀉痢、腸內異常醱酵",
     "劑型": "116膜衣錠",
-    "包裝": "100、500、1000粒瓶裝",
+    "包裝": "6-1000 錠塑膠瓶裝(HDPE)",
     "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
     "主成分略述": [
-        "BERBERINEHCL,BISMUTHSUBGALLATE"
+        "BERBERINEHCL,BISMUTHSUBGALLATE,ETHACRIDINELACTATEMONOHYDRATE(ACRINOL)"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "0306811200  大豐製藥股份有限公司",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "0306811300  大豐製藥股份有限公司",
         "製造廠廠址": "彰化市延平里岸頭巷１１號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
@@ -39,7 +38,7 @@
             "成分代碼": "0804000211",
             "成分名稱": "BERBERINE HCL",
             "含量描述": "(ANHYDROUS) 33.3",
-            "含量": "",
+            "含量": "0.0000000000",
             "單位": "MG"
         },
         {
@@ -49,48 +48,48 @@
             "含量描述": "100",
             "含量": "100.0000000000",
             "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8404000315",
+            "成分名稱": "ETHACRIDINE LACTATE MONOHYDRATE (ACRINOL)",
+            "含量描述": "",
+            "含量": "16.6000000000",
+            "單位": "MG"
         }
     ],
     "藥物辨識詳細資料": {
-        "外觀尺寸": "",
+        "外觀尺寸": "直徑9.4mm",
         "特殊劑型": "",
-        "顏色": "暗紅橙",
+        "顏色": "咖啡色",
         "特殊氣味": "",
-        "刻痕": "",
-        "形狀": "圓扁形",
+        "刻痕": "有",
+        "形狀": "圓凸形",
         "標記一": "",
-        "標記二": "大豐2"
+        "標記二": ""
     },
     "藥物辨識外觀圖片": [
         {
             "title": "止痢-104-11-23(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021894&Seq=106&Type=10"
-        },
-        {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021894&Seq=105&Type=10"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021894&Seq=106&Type=10"
         }
     ],
     "仿單外盒": [
         {
+            "title": "2017.11.22大豐-止痢膜衣錠--說明書-106-12-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021894&Seq=005&Type=9"
+        },
+        {
             "title": "010218940001-104-11-23(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021894&Seq=004&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021894&Seq=004&Type=9"
         },
         {
-            "title": "010218940003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021894&Seq=003&Type=9"
-        },
-        {
-            "title": "010218940002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021894&Seq=002&Type=9"
-        },
-        {
-            "title": "010218940001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021894&Seq=001&Type=9"
+            "title": "2017.12.01大豐-止痢膜衣錠--標籤-106-12-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021894&Seq=002&Type=8"
         },
         {
             "title": "止痢膜衣錠 1000T-104-11-23(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021894&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021894&Seq=001&Type=8"
         }
     ]
 }

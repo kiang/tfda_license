@@ -1,7 +1,7 @@
 {
     "code": "60000987",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60000987",
-    "time": "2016-10-28 03:44:15",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60000987",
+    "time": "2018-01-05 03:07:50",
     "許可證字號": "衛部菌疫輸字第000987號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,10 +26,9 @@
     "申請商名稱": "1101110200  國光生物科技股份有限公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "F470267300  VETTER PHARMA-FERTIGUNG GMBH &amp; CO. KG",
-        "製造廠廠址": "SCHUTZENSTRASSE 87 D-88212 RAVENSBURG GERMANY",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠名稱": "F470267400  VETTER PHARMA-FERTIGUNG GMBH &amp; CO. KG FOR ABBOTT GMBH CO. KG",
+        "製造廠廠址": "SCHUTZENSTRABE 87 AND 99-101 88212 RAVENSBURG, GERMANY",
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -47,6 +46,13 @@
             "製造廠公司地址": "",
             "製造廠國別": "UNITED KINGDOM",
             "製程": "原料藥製造廠"
+        },
+        {
+            "製造廠名稱": "F470559000  VETTER PHARMA-FERTIGUNG GMBH &amp; CO KG",
+            "製造廠廠址": "MOOSWIESEN 2, 88214 RAVENSBURG, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "包裝"
         }
     ],
     "ingredients": [
@@ -62,23 +68,11 @@
     "仿單外盒": [
         {
             "title": "160606-嘉沃JEV中文仿單-105-08-02.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000987&Seq=002&Type=9"
-        },
-        {
-            "title": "151216-嘉沃JEV中文仿單-104-12-22.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000987&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000987&Seq=002&Type=9"
         },
         {
             "title": "160607嘉沃0.5ML日本腦炎疫苗盒-105-08-02.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000987&Seq=003&Type=8"
-        },
-        {
-            "title": "嘉沃0.5ML日本腦炎疫苗_單支外盒-104-12-22.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000987&Seq=002&Type=8"
-        },
-        {
-            "title": "嘉沃0.5ML日本腦炎疫苗 _syringe標籤-104-12-22.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000987&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000987&Seq=003&Type=8"
         }
     ]
 }

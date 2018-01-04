@@ -1,7 +1,7 @@
 {
     "code": "02009313",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02009313",
-    "time": "2016-11-18 17:49:58",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02009313",
+    "time": "2018-01-05 03:05:33",
     "許可證字號": "衛署藥輸字第009313號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
     "主成分略述": [
-        "MEGLUMINE(N-METHYLGLUCAMINE),DIATRIZOICACID"
+        "DIATRIZOICACID"
     ],
     "限制項目": "02輸　入",
     "申請商名稱": "1426201100  臺灣拜耳股份有限公司",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "F410112000  BERLIMED S.A.",
         "製造廠廠址": "C\/FRANCISCO ALONSO, 7 POLIGONO INDUSTRIAL SANTA ROSA 28806 ALCALA DE HENARES (MADRID), SPAIN",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30063000002 Ｘ光檢驗用不透光製劑；專供病人用之診斷用試藥Opacifying preparations for X-ray examinations; diagnostic reagents designed to be administered to the patient",
     "藥理治療分類": "",
@@ -45,14 +44,6 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "0840001900",
-            "成分名稱": "MEGLUMINE (N-METHYLGLUCAMINE)",
-            "含量描述": "* 159.24",
-            "含量": "",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "3668001800",
             "成分名稱": "DIATRIZOIC ACID",
             "含量描述": "* 597.3",
@@ -63,47 +54,11 @@
     "仿單外盒": [
         {
             "title": "Gastrografin_009313_CCDS06_TW02-105-03-18(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02009313&Seq=004&Type=9"
-        },
-        {
-            "title": "02009313_Gastrografin (廠商自行加註賦形劑)-104-06-16.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02009313&Seq=002&Type=9"
-        },
-        {
-            "title": "020093130001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02009313&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02009313&Seq=004&Type=9"
         },
         {
             "title": "Gastrografin_009313_carton3-105-03-18(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02009313&Seq=008&Type=8"
-        },
-        {
-            "title": "Gastrogarfin_009313_carton2-105-03-18(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02009313&Seq=007&Type=8"
-        },
-        {
-            "title": "Gastrografin_009313_carton1-105-03-18(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02009313&Seq=006&Type=8"
-        },
-        {
-            "title": "02009313_Label-103-12-05.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02009313&Seq=005&Type=8"
-        },
-        {
-            "title": "02009313_Carton-103-12-05.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02009313&Seq=004&Type=8"
-        },
-        {
-            "title": "衛署藥輸字第009313號_瓶標-103-02-25.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02009313&Seq=003&Type=8"
-        },
-        {
-            "title": "衛署藥輸字第009313號_外盒-103-02-25.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02009313&Seq=002&Type=8"
-        },
-        {
-            "title": "衛署藥輸字第009313號_中標-103-02-25.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02009313&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02009313&Seq=008&Type=8"
         }
     ]
 }

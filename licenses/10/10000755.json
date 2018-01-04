@@ -1,7 +1,7 @@
 {
     "code": "10000755",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000755",
-    "time": "2017-04-28 03:29:50",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000755",
+    "time": "2018-01-05 03:06:32",
     "許可證字號": "衛署菌疫輸字第000755號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "F260526100  UTSUNOMIYA PLANT OF CHUGAI PHARMA MANUFACTURING CO., LTD.",
         "製造廠廠址": "16-3 KIYOHARAKOUGYOUDANCHI,UTSUNOMIYA-CITY,TOCHIGI,JAPAN",
-        "製造廠公司地址": "5-1 UKIMA 5-CHOME,KITA-KU,TOKYO,JAPAN",
-        "": ""
+        "製造廠公司地址": "5-1 UKIMA 5-CHOME,KITA-KU,TOKYO,JAPAN"
     },
     "CCC號列": "30049071005 抗癌藥Anti-cancer preparations",
     "藥理治療分類": "",
@@ -47,6 +46,13 @@
             "製造廠公司地址": "",
             "製造廠國別": "JAPAN",
             "製程": "bulk"
+        },
+        {
+            "製造廠名稱": "F269444000  Nipro Pharma Corporation Ise Plant",
+            "製造廠廠址": "647-240, Ureshinotengeji-cho, Matsusaka-shi, Mie 515-2302, Japan",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "注射用水製造"
         }
     ],
     "ingredients": [
@@ -61,12 +67,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "100007550001-106-02-17.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000755&Seq=025&Type=9"
-        },
-        {
-            "title": "Granocyte 50 外盒-104-12-24(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000755&Seq=001&Type=8"
+            "title": "1215修-中外仿單 顆球諾得14.0-106-12-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000755&Seq=026&Type=9"
         }
     ]
 }

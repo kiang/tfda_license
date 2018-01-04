@@ -1,7 +1,7 @@
 {
     "code": "01024172",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01024172",
-    "time": "2016-02-26 04:51:49",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01024172",
+    "time": "2018-01-05 03:02:01",
     "許可證字號": "衛署藥製字第024172號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,24 +13,22 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102417201",
     "中文品名": "乾燥氫氧化鋁膠錠〝天良〞",
-    "英文品名": "DRIED ALUMINUM GEL TABLETS \"T.L.B\"",
+    "英文品名": "DRIED ALUMINUM GEL TABLETS &quot;T.L.B&quot;",
     "適應症": "緩解胃部不適或灼熱感，或經診斷為胃及十二指腸潰瘍，胃炎、食道炎，所伴隨之胃酸過多。",
     "劑型": "110錠劑",
     "包裝": "12-1000錠塑膠瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
-    "管制藥品分類級別": "",
-    "主成分略述": "ALUMINUM HYDROXIDE DRIED GEL",
-    "限制項目": [
-        "09委託製造"
+    "主成分略述": [
+        "ALUMINUMHYDROXIDEDRIEDGEL"
     ],
+    "限制項目": "09委託製造 1R不得製造",
     "申請商名稱": "6201176478  天良生物科技企業股份有限公司",
-    "申請商地址": "新北市汐止區大同路一段147號9樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0611904300  合誠化學製藥股份有限公司",
         "製造廠廠址": "桃園市平鎮工業區工業十路１５號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
@@ -57,25 +55,17 @@
     "藥物辨識外觀圖片": [
         {
             "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024172&Seq=137&Type=10"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024172&Seq=137&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "010241720002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024172&Seq=003&Type=9"
+            "title": "1041214-天良乾燥氫氧化鋁膠錠(仿單)-104-12-16(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024172&Seq=004&Type=9"
         },
         {
             "title": "010241720001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024172&Seq=002&Type=9"
-        },
-        {
-            "title": "010241720001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024172&Seq=001&Type=9"
-        },
-        {
-            "title": "010241720001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024172&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024172&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "09000113",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=09000113",
-    "time": "2017-06-16 03:27:53",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=09000113",
+    "time": "2018-01-05 03:06:27",
     "許可證字號": "衛署菌疫製字第000113號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
     "主成分略述": [
-        "A\/California\/7\/2009(H1N1)-likevirus,A\/California\/7\/2009(H1N1)likevirus,A\/HongKong\/4801\/2014(H3N2)likevirus,B\/Brisbane\/60\/2008likevirus"
+        "A\/Singapore\/GP1908\/2015(ReassortantIVR-180)(H1N1),A\/California\/7\/2009(H1N1)-likevirus,A\/HongKong\/4801\/2014(H3N2)likevirus,B\/Brisbane\/60\/2008likevirus"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "1101110200  國光生物科技股份有限公司",
@@ -28,16 +28,15 @@
         "主製造廠": "",
         "製造廠名稱": "1101110300  國光生物科技股份有限公司",
         "製造廠廠址": "台中市潭子區潭興路一段三號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30022000008 人類醫藥用疫苗Vaccines for human medicine",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "8012002479",
-            "成分名稱": "A\/California\/7\/2009 (H1N1) like virus",
+            "成分代碼": "8012002469",
+            "成分名稱": "A\/Singapore\/GP1908\/2015 (ReassortantIVR-180) (H1N1)",
             "含量描述": "",
             "含量": "30.0000000000",
             "單位": "MCG\/ML (=UG\/ML)"
@@ -69,12 +68,32 @@
     ],
     "仿單外盒": [
         {
+            "title": "2017年 AdimFlu-S 仿單(小兒用)(0.25mL)-106-09-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000113&Seq=042&Type=9"
+        },
+        {
+            "title": "2017年 AdimFlu-S 仿單(民眾版)-106-09-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000113&Seq=041&Type=9"
+        },
+        {
+            "title": "2017年 AdimFlu-S 仿單(無汞)(0.5mL)-106-09-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000113&Seq=040&Type=9"
+        },
+        {
             "title": "2016年 AdimFlu-S 仿單(無汞)(0.5mL)-105-08-23.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000113&Seq=039&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000113&Seq=039&Type=9"
+        },
+        {
+            "title": "2017年 AdimFlu-S 外盒(0.25mL)-106-09-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000113&Seq=043&Type=8"
+        },
+        {
+            "title": "2017年 AdimFlu-S 外盒(0.5mL)-106-09-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000113&Seq=042&Type=8"
         },
         {
             "title": "2016年 AdimFlu-S 外盒(0.25mL)-105-08-23.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000113&Seq=041&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000113&Seq=041&Type=8"
         }
     ]
 }

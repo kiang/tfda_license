@@ -1,7 +1,7 @@
 {
     "code": "01025977",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01025977",
-    "time": "2015-08-24 00:38:17",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01025977",
+    "time": "2018-01-05 03:02:11",
     "許可證字號": "衛署藥製字第025977號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,23 @@
     "舊證字號": "00000000",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102597706",
-    "中文品名": "安莫西林顆粒２００公絲\/公克",
-    "英文品名": "AMOXICILLIN GRANULES 200MG\/GM \"YUNG SHIN\"",
+    "中文品名": "&quot;永信&quot;安莫西林顆粒200毫克\/公克",
+    "英文品名": "AMOXICILLIN GRANULES 200MG\/GM &quot;YUNG SHIN&quot;",
     "適應症": "葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症",
     "劑型": "150內服顆粒劑",
-    "包裝": "瓶裝 罐裝",
+    "包裝": "6-1000公克玻璃瓶裝 6-1000公克塑膠罐裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "AMOXYCILLIN (TRIHYDRATE)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "AMOXYCILLIN(TRIHYDRATE)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0502110200  永信藥品工業股份有限公司",
-    "申請商地址": "台中市大甲區頂店里中山路一段1191號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0520910300  永信藥品工業股份有限公司台中幼獅三廠",
         "製造廠廠址": "台中市大甲區工六路２６號，工十路１２之１號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30041010104 人用醫藥製劑，含青黴素類或具有青黴素酸結構之衍生物者Medicaments, containing penicillins or derivatives thereof,with a penicillinic acid structure, for human use",
     "藥理治療分類": "",
@@ -46,24 +44,36 @@
     ],
     "仿單外盒": [
         {
+            "title": "010259770001-106-12-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025977&Seq=007&Type=9"
+        },
+        {
+            "title": "025977-105-03-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025977&Seq=006&Type=9"
+        },
+        {
             "title": "010259770005.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025977&Seq=005&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025977&Seq=005&Type=9"
         },
         {
             "title": "010259770004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025977&Seq=004&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025977&Seq=004&Type=9"
         },
         {
             "title": "010259770003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025977&Seq=003&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025977&Seq=003&Type=9"
         },
         {
             "title": "010259770002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025977&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025977&Seq=002&Type=9"
         },
         {
             "title": "010259770001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025977&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025977&Seq=001&Type=9"
+        },
+        {
+            "title": "010259770002-106-12-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025977&Seq=001&Type=8"
         }
     ]
 }

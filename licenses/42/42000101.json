@@ -1,7 +1,7 @@
 {
     "code": "42000101",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000101",
-    "time": "2016-08-26 04:25:32",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000101",
+    "time": "2018-01-05 03:10:20",
     "許可證字號": "衛署醫器陸輸字第000101號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -10,7 +10,7 @@
     "發證日期": "95\/03\/21",
     "許可證種類": "醫　器",
     "舊證字號": "",
-    "醫療器材級數": "",
+    "醫療器材級數": "第二等級",
     "通關簽審文件編號": "DHA04200010109",
     "中文品名": "貝詩麗電子體溫計",
     "英文品名": "BESTLY DIGITAL CLINICAL THERMOMETER",
@@ -18,42 +18,39 @@
     "醫器規格": "MT1681,T1682,以下空白",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "J一般醫院及個人使用裝置",
     "醫器次類別一": "",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入",
-        "09委託製造",
-        "40大陸生產"
+    "主成分略述": [
+        ""
     ],
+    "限制項目": "02輸　入 09委託製造 40大陸生產",
     "申請商名稱": "6202053803  統康企業有限公司",
-    "申請商地址": "高雄市三民區民祥街36號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "M640108000  ONBO ELECTRONIC (SHENZHEN) CO. LTD",
         "製造廠廠址": "NO.497 TA LANEG NAN ROAD, TA LANEG STREET, BAOAN DISTRICT, SHENZHEN, CHINA",
         "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "": ""
     },
-    "CCC號列": "90251990101 體溫計Fever thermometers",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "420001010002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000101&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000101&Seq=002&Type=9"
         },
         {
             "title": "420001010001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000101&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000101&Seq=001&Type=9"
         },
         {
             "title": "420001010001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000101&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000101&Seq=001&Type=8"
         }
     ]
 }

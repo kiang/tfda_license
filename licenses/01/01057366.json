@@ -1,7 +1,7 @@
 {
     "code": "01057366",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057366",
-    "time": "2017-06-16 03:14:03",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057366",
+    "time": "2018-01-05 03:05:23",
     "許可證字號": "衛署藥製字第057366號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "0705330300  杏輝藥品工業股份有限公司",
         "製造廠廠址": "宜蘭縣冬山鄉中山村中山路８４號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -43,14 +42,38 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "橢圓形錠,Φ=11.3mm",
+        "特殊劑型": "",
+        "顏色": "白色",
+        "特殊氣味": "無",
+        "刻痕": "無",
+        "形狀": "橢圓形",
+        "標記一": "無",
+        "標記二": "無"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "杏節挺錠-藥物外觀-104-09-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057366&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "5705736600001-104-08-13(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057366&Seq=004&Type=9"
+            "title": "衛署藥製字第057366號「杏輝杏節挺錠」鋁箔2-106-12-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057366&Seq=007&Type=8"
+        },
+        {
+            "title": "衛署藥製字第057366號「杏輝杏節挺錠」鋁箔1-106-12-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057366&Seq=006&Type=8"
+        },
+        {
+            "title": "衛署藥製字第057366號「杏輝杏節挺錠」外盒-106-12-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057366&Seq=005&Type=8"
         },
         {
             "title": "杏節挺錠(4`s／片x1片／盒)-外盒包裝-104-10-02(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057366&Seq=004&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057366&Seq=004&Type=8"
         }
     ]
 }
