@@ -1,7 +1,7 @@
 {
     "code": "01037698",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01037698",
-    "time": "2018-02-02 03:03:37",
+    "time": "2018-02-23 03:17:13",
     "許可證字號": "衛署藥製字第037698號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -32,7 +32,32 @@
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5604001200",
+            "成分名稱": "CALCIUM CARBONATE",
+            "含量描述": "280",
+            "含量": "280.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5604002500",
+            "成分名稱": "MAGNESIUM HYDROXIDE",
+            "含量描述": "128",
+            "含量": "128.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5610000600",
+            "成分名稱": "SIMETHICONE (ACTIVE DIMETHICONE)",
+            "含量描述": "20",
+            "含量": "20.0000000000",
+            "單位": "MG"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "酸寧錠-104-12-31(廠商自行上傳).pdf",

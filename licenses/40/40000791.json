@@ -1,12 +1,12 @@
 {
     "code": "40000791",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=40000791",
-    "time": "2015-08-23 22:30:39",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=40000791",
+    "time": "2018-02-23 03:08:31",
     "許可證字號": "衛署粧陸輸字第000791號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/01\/30",
+    "有效日期": "111\/01\/30",
     "發證日期": "102\/01\/30",
     "許可證種類": "含藥化粧品",
     "舊證字號": "",
@@ -17,22 +17,20 @@
     "用途": "染髮。",
     "劑型": "992霜劑",
     "包裝": "500 ml以下管裝附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "AMMONIA WATER (AMMONIUM HYDROXIDE), RESORCINOL (RESORCIN), P-AMINOPHENOL, m-Aminophenol, P-PHENYLENEDIAMINE",
-    "限制項目": [
-        "40大陸生產"
+    "主成分略述": [
+        "AMMONIAWATER(AMMONIUMHYDROXIDE),RESORCINOL(RESORCIN),P-AMINOPHENOL,m-Aminophenol,P-PHENYLENEDIAMINE"
     ],
+    "限制項目": "40大陸生產",
     "申請商名稱": "1428601100  台灣萊雅股份有限公司",
-    "申請商地址": "台北市信義區信義路五段7號22樓23樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C640007000  BEAUTYCOS International Co., Ltd.",
         "製造廠廠址": "No.22, Zi Teng Street, Jin Ji Hu Road, Suzhou 215021, P.R. China",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -79,27 +77,27 @@
     "仿單外盒": [
         {
             "title": "400007910014#6___20130220.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000791&Seq=006&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000791&Seq=006&Type=8"
         },
         {
             "title": "400007910014#5___20130220.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000791&Seq=005&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000791&Seq=005&Type=8"
         },
         {
             "title": "400007910014#4___20130220.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000791&Seq=004&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000791&Seq=004&Type=8"
         },
         {
             "title": "400007910014#2___20130220.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000791&Seq=003&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000791&Seq=003&Type=8"
         },
         {
             "title": "400007910014#1___20130220.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000791&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000791&Seq=002&Type=8"
         },
         {
             "title": "400007900013#3___20130220.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000791&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000791&Seq=001&Type=8"
         }
     ]
 }

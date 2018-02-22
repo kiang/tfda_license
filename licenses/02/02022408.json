@@ -1,11 +1,11 @@
 {
     "code": "02022408",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022408",
-    "time": "2017-01-27 03:28:16",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022408",
+    "time": "2018-02-23 03:00:15",
     "許可證字號": "衛署藥輸字第022408號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "107\/01\/08",
+    "註銷理由": "自請註銷",
     "有效日期": "108\/02\/23",
     "發證日期": "88\/02\/23",
     "許可證種類": "製　劑",
@@ -14,7 +14,7 @@
     "通關簽審文件編號": "DHA00202240808",
     "中文品名": "截瘤達錠１５０毫克",
     "英文品名": "XELODA TABLETS 150MG",
-    "適應症": "Xeloda可治療轉移性大腸（結腸直腸）癌病患。Xeloda可作為第三期結腸癌患者手術後的輔助性療法。Xeloda與Docetaxel併用於治療對Anthracyline化學治療無效之局部晚期或轉移性乳癌病患。Xeloda亦可單獨用於對紫杉醇（Taxane）及Anthracyline化學治療無效，或無法使用Anthracyline治療之局部晚期或轉移性乳癌病患。Xeloda合併Platinum可使用於晚期胃癌之第一線治療。",
+    "適應症": "乳癌：\r\nXeloda與Docetaxel併用於治療對Anthracyline化學治療無效之局部晚期或轉移性乳癌病患。Xeloda亦可單獨用於對紫杉醇（Taxane）及Anthracyline化學治療無效，或無法使用Anthracyline治療之局部晚期或轉移性乳癌病患。\r\n結腸癌或大腸(結腸直腸)癌：\r\nXeloda可作為第三期結腸病患者手術後的輔助性療法。Xeloda可治療轉移性大腸(結腸直腸)癌病患。\r\n胃癌：\r\nXeloda合併Platinum可使用於晚期胃癌之第一線治療。",
     "劑型": "116膜衣錠",
     "包裝": "8-1000粒鋁箔盒裝",
     "標籤、仿單及包裝加註": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "F300019000  PRODUCTOS ROCHE, S.A. DE C.V",
         "製造廠廠址": "VIA ISIDRO FABELA NTE. NO. 1536-B, C.P. 50030 TOLUCA, MEXICO",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049071005 抗癌藥Anti-cancer preparations",
     "藥理治療分類": "",
@@ -79,17 +78,21 @@
     "藥物辨識外觀圖片": [
         {
             "title": "Xeloda 150mg_Tab IMAGES-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022408&Seq=437&Type=10"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022408&Seq=437&Type=10"
         }
     ],
     "仿單外盒": [
         {
+            "title": "Xeloda_CDS 14.0_Redressing site_storage condition_0717-XEL-01(148x840mm)_ format correction _排-106-07-26(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022408&Seq=028&Type=9"
+        },
+        {
             "title": "Xeloda_CDS 14.0_0316-XEL-3B01_0616-XEL-01(148x840mm)_排-105-07-18.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022408&Seq=027&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022408&Seq=027&Type=9"
         },
         {
             "title": "Xeloda 150 mg_024408-1-LAB-01-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022408&Seq=005&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022408&Seq=005&Type=8"
         }
     ]
 }

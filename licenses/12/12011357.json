@@ -1,12 +1,12 @@
 {
     "code": "12011357",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12011357",
-    "time": "2016-06-24 05:03:20",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12011357",
+    "time": "2018-02-23 03:04:06",
     "許可證字號": "內衛藥製字第011357號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/05\/25",
+    "有效日期": "112\/05\/25",
     "發證日期": "59\/10\/09",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -16,38 +16,52 @@
     "英文品名": "DEXARON INJECTION",
     "適應症": "僂麻質斯樣關節炎、僂麻質斯熱、過敏性疾患（支氣管氣喘、急性藥物過敏、結合織炎、關節周圍炎、重症皮膚疾患）",
     "劑型": "270注射劑",
-    "包裝": "2公撮安瓿 2公撮小瓶",
+    "包裝": "2、10、20、100毫升玻璃小瓶裝 100支以下盒裝 1、2毫升玻璃安瓿裝 100支以下盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "DEXAMETHASONE SODIUM PHOSPHATE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "DEXAMETHASONESODIUMPHOSPHATE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1421417200  壽元化學工業股份有限公司",
-    "申請商地址": "嘉義市西區新民路128號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1421417300  壽元化學工業股份有限公司",
         "製造廠廠址": "嘉義市新民路１２８號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30043200002 含有腎上腺皮質類固醇荷爾蒙，其衍生物及結構式類似者Containing adrenal corticosteroid hormones, their derivatives and structural analogues",
+    "CCC號列": "30043200002 其他醫藥製劑，含有腎上腺皮質類固醇荷爾蒙及其衍生物或結構式類似者Other medicaments, containing corticosteroid hormones, their derivatives or structural analogues",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
             "成分代碼": "6804000640",
             "成分名稱": "DEXAMETHASONE SODIUM PHOSPHATE",
-            "含量描述": "4",
+            "含量描述": "",
             "含量": "4.0000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
-            "title": "內衛藥製字第011357號-仿單加刊賦形劑-103-04-23.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12011357&Seq=001&Type=9"
+            "title": "Dexaron inj 4mg 仿單-106-07-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12011357&Seq=003&Type=9"
+        },
+        {
+            "title": "1403-力克樂-104-10-24(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12011357&Seq=002&Type=9"
+        },
+        {
+            "title": "Dexaron inj 4mg 10ml 標籤-106-07-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12011357&Seq=003&Type=8"
+        },
+        {
+            "title": "Dexaron inj 4mg 2ml 標籤-106-07-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12011357&Seq=002&Type=8"
+        },
+        {
+            "title": "1403 Dexaron 1ml Box-104-10-24(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12011357&Seq=001&Type=8"
         }
     ]
 }

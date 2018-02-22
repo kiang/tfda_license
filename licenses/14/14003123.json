@@ -1,12 +1,12 @@
 {
     "code": "14003123",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=14003123",
-    "time": "2015-08-22 16:39:48",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=14003123",
+    "time": "2018-02-23 03:04:20",
     "許可證字號": "內衛成製字第003123號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/05\/25",
+    "有效日期": "112\/05\/25",
     "發證日期": "59\/12\/23",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -14,27 +14,33 @@
     "通關簽審文件編號": "DHY01400312301",
     "中文品名": "龜鹿益壽菁",
     "英文品名": "MIN TONG ISHOUCHING",
-    "適應症": "營養補給。",
-    "劑型": "170內服液劑",
+    "適應症": "營養補給",
+    "劑型": "084液劑",
     "包裝": "瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "03成藥",
-    "管制藥品分類級別": "",
-    "主成分略述": "HART-HORN, YOUNG, GINSENG, HEDYSARUM ESCALENTUM, CNIDIUM, LYCII CHINESE, LIGUSTICUM ACTILOBUM, TOTFRUIT",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "TORTOISESHEEL,HART-HORN,YOUNG,GINSENG,HEDYSARUMESCALENTUM,CNIDIUM,LYCIICHINESE,LIGUSTICUMACTILOBUM"
     ],
-    "申請商名稱": "0806009200  明通化學製藥股份有限公司",
-    "申請商地址": "台中市南區復興路二段120號",
+    "限制項目": "01國　產",
+    "申請商名稱": "0806009300  明通化學製藥股份有限公司第二廠",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0806009300  明通化學製藥股份有限公司第二廠",
         "製造廠廠址": "台中市南屯區文山里工業區２１路１５號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2008003410",
+            "成分名稱": "TORTOISE SHEEL",
+            "含量描述": "3",
+            "含量": "3.0000000000",
+            "單位": "GM"
+        },
         {
             "成分類別": "主成分",
             "成分代碼": "2008003501",
@@ -47,7 +53,7 @@
             "成分類別": "主成分",
             "成分代碼": "9200004000",
             "成分名稱": "GINSENG",
-            "含量描述": "1",
+            "含量描述": "(Genseng)1",
             "含量": "1.0000000000",
             "單位": "GM"
         },
@@ -64,7 +70,7 @@
             "成分代碼": "9200024900",
             "成分名稱": "CNIDIUM",
             "含量描述": "(OFFCINALE) 6",
-            "含量": "",
+            "含量": "0.0000000000",
             "單位": "GM"
         },
         {
@@ -82,20 +88,12 @@
             "含量描述": "6",
             "含量": "6.0000000000",
             "單位": "GM"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9600035600",
-            "成分名稱": "TOTFRUIT",
-            "含量描述": "3",
-            "含量": "3.0000000000",
-            "單位": "GM"
         }
     ],
     "仿單外盒": [
         {
-            "title": "140031230001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14003123&Seq=001&Type=9"
+            "title": "140031230001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14003123&Seq=001&Type=9"
         }
     ]
 }

@@ -1,12 +1,12 @@
 {
     "code": "01021463",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01021463",
-    "time": "2016-11-18 11:45:23",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01021463",
+    "time": "2018-02-23 03:01:27",
     "許可證字號": "衛署藥製字第021463號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/05\/25",
+    "有效日期": "112\/05\/25",
     "發證日期": "69\/05\/20",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "0603006300  安星製藥股份有限公司",
         "製造廠廠址": "新竹縣新豐鄉鳳坑村坑子口６７３號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30044099004 其他醫藥製劑，含有生物鹼或其衍生物，但未含內分泌素，第２９３７節之其他產品或抗生素者Other medicaments, containing alkaloids or derivatives thereof but not containing hormones, other products of heading 29.37 or antibiotics",
+    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -43,18 +42,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "無色澄清藥液",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "外觀圖-104-09-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021463&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "01021463硫酸阿托品注射液說明書-103-02-25.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021463&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021463&Seq=001&Type=9"
         },
         {
             "title": "盒貼標籤-104-09-18(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021463&Seq=002&Type=8"
-        },
-        {
-            "title": "外盒包裝-104-09-18(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021463&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021463&Seq=002&Type=8"
         }
     ]
 }

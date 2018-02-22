@@ -1,7 +1,7 @@
 {
     "code": "08015722",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08015722",
-    "time": "2016-08-26 04:12:47",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08015722",
+    "time": "2018-02-23 03:11:10",
     "許可證字號": "衛署粧輸字第015722號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,22 +17,20 @@
     "用途": "染髮。",
     "劑型": "990乳霜劑",
     "包裝": "500g以下鋁罐裝 及管裝 附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "RESORCINOL (RESORCIN), 1-NAPHTHOL, AMINOPHENOL META- (EQ TO M-AMINOPHENOL), 2-METHYLRESORCINOL, TOLUENE-2,5-DIAMINE SULFATE, 2-AMINO-3-HYDROXYPYRIDINE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "RESORCINOL(RESORCIN),1-NAPHTHOL,META-AMINOPHENOL(EQTOM-AMINOPHENOL),2-METHYLRESORCINOL,TOLUENE-2,5-DIAMINESULFATE,2-AMINO-3-HYDROXYPYRIDINE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1434301100  台灣歌薇股份有限公司",
-    "申請商地址": "台北市中山區建國北路1段90號12樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C470042000  KPSS-KAO PROFESSIONAL SALON SERVICES GMBH",
         "製造廠廠址": "PFUNGSTADTER STRASSE 92-100, 64297 DARMSTADT, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -54,7 +52,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9200035403",
-            "成分名稱": "AMINOPHENOL META- (EQ TO M-AMINOPHENOL)",
+            "成分名稱": "META-AMINOPHENOL (EQ TO M-AMINOPHENOL)",
             "含量描述": "",
             "含量": "0.0360000000",
             "單位": "%(W\/W)"
@@ -87,7 +85,7 @@
     "仿單外盒": [
         {
             "title": "08015722-2009-01-21.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015722&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015722&Seq=001&Type=9"
         }
     ]
 }

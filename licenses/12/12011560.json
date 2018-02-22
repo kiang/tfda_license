@@ -1,12 +1,12 @@
 {
     "code": "12011560",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12011560",
-    "time": "2015-08-22 17:56:59",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12011560",
+    "time": "2018-02-23 03:04:07",
     "許可證字號": "內衛藥製字第011560號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/05\/25",
+    "有效日期": "112\/05\/25",
     "發證日期": "59\/10\/09",
     "許可證種類": "製　劑",
     "舊證字號": "17003788",
@@ -15,24 +15,22 @@
     "中文品名": "寶美泰末",
     "英文品名": "BAVITA POWDER",
     "適應症": "病中病後營養補給、夜盲症、消除疲勞維他命缺乏症",
-    "劑型": "140散劑",
-    "包裝": "瓶裝",
+    "劑型": "041粉劑",
+    "包裝": "25、100、200、300、500等克瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "VITAMIN A, NIACINAMIDE (NICOTINAMIDE), THIAMINE (VITAMIN B1), RIBOFLAVIN (VIT B2), PYRIDOXINE(VITAMIN B6), CYANOCOBALAMIN (VIT B12), FOLIC ACID, PANTOTHENATE CALCIUM, ASCORBIC ACID (VIT C), ERGOCALCIFEROL (VIT D2CALCIFEROL), TOCOPHEROL ALPHA-, VITAMIN K ACTIVITY",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "VITAMINA,NIACINAMIDE(NICOTINAMIDE),THIAMINE(VITAMINB1),RIBOFLAVIN(VITB2),PYRIDOXINE(VITAMINB6),CYANOCOBALAMIN(VITB12),FOLICACID,PANTOTHENATECALCIUM,ASCORBICACID(VITC),ERGOCALCIFEROL(VITD2CALCIFEROL),TOCOPHEROL(EQTOVITE)(EQTOVITAMINE),VITAMINKACTIVITY"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0908703200  信東生技股份有限公司",
-    "申請商地址": "桃園市桃園區介壽路２２號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0908703300  信東生技股份有限公司",
         "製造廠廠址": "桃園市桃園區介壽路２２號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30045000009 含有維他命或第２９３６節產品之其他醫藥製劑Other medicaments containing vitamins or other products of heading 29.36",
+    "CCC號列": "30045000009 其他醫藥製劑，含有維他命或第２９３６節之其他產品Other medicaments, containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -72,7 +70,7 @@
             "成分代碼": "8810600100",
             "成分名稱": "PYRIDOXINE(VITAMIN B6)",
             "含量描述": "(VIT B6) 1",
-            "含量": "",
+            "含量": "0.0000000000",
             "單位": "MG"
         },
         {
@@ -117,8 +115,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8820000110",
-            "成分名稱": "TOCOPHEROL ALPHA-",
+            "成分代碼": "8820000100",
+            "成分名稱": "TOCOPHEROL (EQ TO VIT E) (EQ TO VITAMIN E)",
             "含量描述": "1",
             "含量": "1.0000000000",
             "單位": "MG"

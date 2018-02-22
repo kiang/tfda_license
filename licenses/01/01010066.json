@@ -1,12 +1,12 @@
 {
     "code": "01010066",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01010066",
-    "time": "2017-07-21 13:00:39",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01010066",
+    "time": "2018-02-23 03:00:55",
     "許可證字號": "衛署藥製字第010066號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/06\/04",
+    "有效日期": "112\/06\/04",
     "發證日期": "65\/06\/04",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "1403304300  臺灣大塚製藥股份有限公司中壢工廠",
         "製造廠廠址": "中壢市忠福里吉林路１５號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -43,14 +42,30 @@
             "單位": "GM"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "無色透明塑膠瓶裝",
+        "特殊劑型": "",
+        "顏色": "無色澄明液",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "FS-105-10-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01010066&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "福樂康注射液5%_IP1406-103-12-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01010066&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01010066&Seq=001&Type=9"
         },
         {
             "title": "PP14-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01010066&Seq=003&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01010066&Seq=003&Type=8"
         }
     ]
 }

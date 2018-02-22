@@ -1,12 +1,12 @@
 {
     "code": "01036268",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01036268",
-    "time": "2016-11-18 13:29:35",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01036268",
+    "time": "2018-02-23 03:02:08",
     "許可證字號": "衛署藥製字第036268號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/04\/12",
+    "有效日期": "112\/04\/12",
     "發證日期": "82\/04\/20",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "1110202300  強生化學製藥廠股份有限公司",
         "製造廠廠址": "新北市三重區三和路四段７７號2、3樓、79號1至6樓",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049099101 抗過敏抗組織胺用藥Drugs for antihypersensitivity and antihistamine",
     "藥理治療分類": "",
@@ -43,26 +42,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "小六角形錠劑",
+        "特殊劑型": "",
+        "顏色": "白色",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "六邊形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "E-13 裸錠-104-10-15(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036268&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "E-13說明書(賦形劑)-德惠臨錠2毫克(右旋氯菲安明) Dexferin Tab. 2mg (Dexchlorpheniramine Maleate 2mg)-104-10-15(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036268&Seq=003&Type=9"
-        },
-        {
-            "title": "010362680002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036268&Seq=002&Type=9"
-        },
-        {
-            "title": "010362680001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036268&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036268&Seq=003&Type=9"
         },
         {
             "title": "E-13 瓶裝-104-10-15(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036268&Seq=002&Type=8"
-        },
-        {
-            "title": "010362680001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036268&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036268&Seq=002&Type=8"
         }
     ]
 }

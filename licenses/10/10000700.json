@@ -1,12 +1,12 @@
 {
     "code": "10000700",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000700",
-    "time": "2015-08-24 13:03:21",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000700",
+    "time": "2018-02-23 03:03:46",
     "許可證字號": "衛署菌疫輸字第000700號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/05\/14",
+    "有效日期": "112\/05\/14",
     "發證日期": "90\/12\/14",
     "許可證種類": "菌　疫",
     "舊證字號": "02022178",
@@ -17,24 +17,29 @@
     "適應症": "卡波西氏肉瘤、多毛狀細胞白血球過多病、對活性慢性B型肝炎可能有效、慢性骨髓白血病、皮膚T細胞淋巴瘤、慢性C型肝炎、腎細胞癌、非何杰金氏淋巴瘤、尖頭濕疣。",
     "劑型": "270注射劑",
     "包裝": "1000支以下盒裝 3M IU\/0.5ML注射針筒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "INTERFERON ALPHA- 2A",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "INTERFERONALPHA-2A"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1901701100  羅氏大藥廠股份有限公司",
-    "申請商地址": "台北市民生東路三段１３４號９樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F430257000  F. HOFFMANN-LA ROCHE LTD.",
         "製造廠廠址": "WURMISWEG, CH-4303 KAISERAUGST, SWITZERLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049071005 抗癌藥Anti-cancer preparations",
     "藥理治療分類": "",
     "次製造廠": [
+        {
+            "製造廠名稱": "1225204000  裕利股份有限公司",
+            "製造廠廠址": "桃園市大園區和平里1鄰開和路91號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠(委託貼標及置入仿單)"
+        },
         {
             "製造廠名稱": "F430258000  F. HOFFMANN-LA ROCHE LTD.",
             "製造廠廠址": "GRENZACHERSTRASSE 124, CH-4070 BASEL, SWITZERLAND",
@@ -62,80 +67,16 @@
     ],
     "仿單外盒": [
         {
+            "title": "Roferon A_CDS 7.0_Redressing site_0617-ROF-01(398x210mm)_排-106-08-16(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000700&Seq=018&Type=9"
+        },
+        {
             "title": "Roferon-A_中文仿單_1114-ROF-01-103-11-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000700&Seq=017&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000700&Seq=017&Type=9"
         },
         {
-            "title": "100007000003_Chinese PI_Roferon-A_0714-ROF-01-103-07-17.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000700&Seq=016&Type=9"
-        },
-        {
-            "title": "羅飛龍-A注射劑_衛署菌疫輸字第000700號-102-12-30.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000700&Seq=015&Type=9"
-        },
-        {
-            "title": "100007000012.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000700&Seq=014&Type=9"
-        },
-        {
-            "title": "100007000011.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000700&Seq=013&Type=9"
-        },
-        {
-            "title": "100007000010.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000700&Seq=012&Type=9"
-        },
-        {
-            "title": "100007000009.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000700&Seq=011&Type=9"
-        },
-        {
-            "title": "100007000008.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000700&Seq=010&Type=9"
-        },
-        {
-            "title": "100007000007.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000700&Seq=009&Type=9"
-        },
-        {
-            "title": "100007000006.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000700&Seq=008&Type=9"
-        },
-        {
-            "title": "100007000005.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000700&Seq=007&Type=9"
-        },
-        {
-            "title": "100007000004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000700&Seq=006&Type=9"
-        },
-        {
-            "title": "100007000003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000700&Seq=005&Type=9"
-        },
-        {
-            "title": "100007000002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000700&Seq=004&Type=9"
-        },
-        {
-            "title": "100007000001___20101119.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000700&Seq=003&Type=9"
-        },
-        {
-            "title": "100007000001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000700&Seq=002&Type=9"
-        },
-        {
-            "title": "100007000001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000700&Seq=001&Type=9"
-        },
-        {
-            "title": "100007000001_CTN_Roferon-A 3MIU-103-07-17.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000700&Seq=002&Type=8"
-        },
-        {
-            "title": "100007000002_PFS Label_Roferon-A 3MIU-103-07-17.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000700&Seq=001&Type=8"
+            "title": "Roferon-A 3MIU_000700-1-STK-02-104-09-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000700&Seq=004&Type=8"
         }
     ]
 }

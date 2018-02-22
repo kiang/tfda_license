@@ -1,12 +1,12 @@
 {
     "code": "01057183",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057183",
-    "time": "2016-11-18 15:52:53",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057183",
+    "time": "2018-02-23 03:02:46",
     "許可證字號": "衛署藥製字第057183號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/04\/08",
+    "有效日期": "112\/04\/08",
     "發證日期": "102\/04\/08",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "0603006300  安星製藥股份有限公司",
         "製造廠廠址": "新竹縣新豐鄉鳳坑村坑子口６７３號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -43,22 +42,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "10 × 5 mm",
+        "特殊劑型": "",
+        "顏色": "黃色",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "橢圓形",
+        "標記一": "鋁箔盒裝未生產",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "外觀-104-10-09(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057183&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "咳免錠20毫克-104-10-09(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057183&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057183&Seq=001&Type=9"
         },
         {
             "title": "鋁箔-104-10-09(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057183&Seq=003&Type=8"
-        },
-        {
-            "title": "咳免外包裝-104-10-09(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057183&Seq=002&Type=8"
-        },
-        {
-            "title": "標籤-104-10-09(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057183&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057183&Seq=003&Type=8"
         }
     ]
 }

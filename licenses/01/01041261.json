@@ -1,12 +1,12 @@
 {
     "code": "01041261",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01041261",
-    "time": "2016-11-18 14:17:00",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01041261",
+    "time": "2018-02-23 03:02:16",
     "許可證字號": "衛署藥製字第041261號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/05\/25",
+    "有效日期": "112\/05\/25",
     "發證日期": "86\/05\/14",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥",
     "主成分略述": [
-        "CHLORPHENIRAMINE,OROTICACID(VITB13),GLYCYRRHIZINEEXTRACT"
+        "CHLORPHENIRAMINEMALEATE,OROTICACID(VITB13),GLYCYRRHIZINEEXTRACT"
     ],
     "限制項目": "01國　產 09委託製造",
     "申請商名稱": "6103030026  國嘉製藥工業股份有限公司幼獅三廠",
@@ -28,16 +28,15 @@
         "主製造廠": "",
         "製造廠名稱": "6103030026  國嘉製藥工業股份有限公司幼獅三廠",
         "製造廠廠址": "臺中市大甲區日南里工十路2號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049099101 抗過敏抗組織胺用藥Drugs for antihypersensitivity and antihistamine",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "0400000800",
-            "成分名稱": "CHLORPHENIRAMINE",
+            "成分代碼": "0400000810",
+            "成分名稱": "CHLORPHENIRAMINE MALEATE",
             "含量描述": "5",
             "含量": "5.0000000000",
             "單位": "MG"
@@ -61,8 +60,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "010412610001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041261&Seq=001&Type=9"
+            "title": "010412610001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041261&Seq=001&Type=9"
         }
     ]
 }
