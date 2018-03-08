@@ -1,7 +1,7 @@
 {
     "code": "52026266",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026266",
-    "time": "2017-06-16 03:05:06",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026266",
+    "time": "2018-03-09 03:03:58",
     "許可證字號": "衛部藥輸字第026266號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,7 +14,7 @@
     "通關簽審文件編號": "DHA05202626601",
     "中文品名": "寶貝生陰道釋放系統",
     "英文品名": "PROPESS 10mg Vaginal Delivery System",
-    "適應症": "適用於醫學或產科有需要之妊娠足月(懷孕38週後)時促進子宮頸成熟",
+    "適應症": "適用於妊娠足月(懷孕滿37週)時促進子宮頸成熟。",
     "劑型": "590陰道釋放系統",
     "包裝": "鋁箔包裝",
     "標籤、仿單及包裝加註": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "F130337000  FERRING CONTROLLED THERAPEUTICS LIMITED",
         "製造廠廠址": "1 REDWOOD PLACE, PEEL PARK CAMPUS, EAST KILBRIDE, STRATHCLYDE, G74 5PB, UNITED KINGDOM",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -49,32 +48,23 @@
             "製程": "原料藥製造廠"
         }
     ],
-    "ingredients": [
-        {
-            "成分類別": "主成分",
-            "成分代碼": "7600000400",
-            "成分名稱": "DINOPROSTONE",
-            "含量描述": "",
-            "含量": "10.0000000000",
-            "單位": "MG"
-        }
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "寶貝生 陰道釋放系統(70-I-TW-06.01)-105-07-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026266&Seq=003&Type=9"
+            "title": "寶貝生陰道釋放系統-仿單-106-11-15.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026266&Seq=004&Type=9"
         },
         {
             "title": "70-C-TW-03.01-106-03-23(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026266&Seq=005&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026266&Seq=005&Type=8"
         },
         {
             "title": "寶貝生 陰道釋放系統(71-C-TW-03.01)-105-07-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026266&Seq=004&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026266&Seq=004&Type=8"
         },
         {
             "title": "Blister-103-10-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026266&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026266&Seq=001&Type=8"
         }
     ]
 }

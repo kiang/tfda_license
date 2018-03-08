@@ -1,7 +1,7 @@
 {
     "code": "01025803",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01025803",
-    "time": "2016-05-27 04:57:31",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01025803",
+    "time": "2018-03-09 03:00:44",
     "許可證字號": "衛署藥製字第025803號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,25 +14,23 @@
     "通關簽審文件編號": "DHY00102580302",
     "中文品名": "普寶胎注射液125毫克\/毫升",
     "英文品名": "PROGESTON DEPOT INTRAMUSCULAR 125MG",
-    "適應症": "月經困難、子宮出血、習慣性流產、迫切性流產",
+    "適應症": "無月經、機能性子宮出血、黃體機能不全之不妊症、切迫流產、習慣性流產",
     "劑型": "270注射劑",
     "包裝": "1毫升玻璃安瓿裝,100支以下盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "HYDROXYPROGESTERONE CAPROATE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "HYDROXYPROGESTERONECAPROATE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0100401100  一成藥品股份有限公司",
-    "申請商地址": "新北市汐止區新台五路一段77號20樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0306811300  大豐製藥股份有限公司",
         "製造廠廠址": "彰化市延平里岸頭巷１１號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30043900005 醫藥製劑，含有其他內分泌素者Medicaments, containing other hormones",
+    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -46,16 +44,24 @@
     ],
     "仿單外盒": [
         {
+            "title": "衛署藥製字第025803號_仿單-107-02-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025803&Seq=002&Type=9"
+        },
+        {
             "title": "025803仿單-105-03-21.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025803&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025803&Seq=001&Type=9"
+        },
+        {
+            "title": "衛署藥製字第025803號_標籤-107-02-02.PDF",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025803&Seq=004&Type=8"
+        },
+        {
+            "title": "衛署藥製字第025803號_外盒-107-02-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025803&Seq=003&Type=8"
         },
         {
             "title": "025803外盒包裝 (2)-105-03-21.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025803&Seq=002&Type=8"
-        },
-        {
-            "title": "025803標籤-105-03-21.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025803&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025803&Seq=002&Type=8"
         }
     ]
 }

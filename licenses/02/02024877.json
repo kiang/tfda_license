@@ -1,7 +1,7 @@
 {
     "code": "02024877",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024877",
-    "time": "2016-12-30 03:27:40",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024877",
+    "time": "2018-03-09 03:02:58",
     "許可證字號": "衛署藥輸字第024877號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,15 +28,14 @@
         "主製造廠": "",
         "製造廠名稱": "F130044000  GLAXO OPERATIONS UK LIMITED",
         "製造廠廠址": "HARMIRE ROAD, BARNARD CASTLE, DURHAM DL12 8DT, UK",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "1225204000  裕利股份有限公司",
-            "製造廠廠址": "桃園市大園區和平村1鄰舊厝子1之2號",
+            "製造廠名稱": "6132061151  裕利股份有限公司",
+            "製造廠廠址": "桃園市大園區和平里1鄰開和路91號",
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
             "製程": "二級包裝廠(委託貼標及置入仿單)"
@@ -52,30 +51,34 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "5cm x 10.5cm",
+        "特殊劑型": "",
+        "顏色": "灰白色容器,藍色塵蓋",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Avamys_201708-106-08-24(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024877&Seq=005&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "艾敏釋鼻用噴液懸浮劑-105-10-18.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024877&Seq=005&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024877&Seq=005&Type=9"
         },
         {
-            "title": "艾敏釋鼻用噴液懸浮劑-105-10-18.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024877&Seq=004&Type=9"
+            "title": "10000000142181-106-08-24(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024877&Seq=007&Type=8"
         },
         {
-            "title": "艾敏釋鼻用噴液懸浮劑-105-10-18.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024877&Seq=003&Type=9"
-        },
-        {
-            "title": "020248770001-104-12-16.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024877&Seq=001&Type=9"
-        },
-        {
-            "title": "Avamys L906-002-02(Agile)-104-09-03(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024877&Seq=002&Type=9"
-        },
-        {
-            "title": "10000000138008-105-08-29(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024877&Seq=005&Type=8"
+            "title": "Avamys NS M906-002-03-106-08-24(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024877&Seq=006&Type=8"
         }
     ]
 }

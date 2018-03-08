@@ -1,6 +1,7 @@
 {
     "code": "08011921",
-    "time": "2015-07-05 00:50:46",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08011921",
+    "time": "2018-03-09 03:23:15",
     "許可證字號": "衛署粧輸字第011921號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,30 +17,111 @@
     "用途": "染髮第一劑。",
     "劑型": "984乳膏劑",
     "包裝": "500公克以下軟管裝",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "STRONG AMMONIA SOLUTION, P-NITRO-O-PHENYLENEDIAMINE, N-PHENYL-P-PHENYLENEDIAMINE, 2,4-DIAMINOPHENOXYETHANOL HCL (EQ TO 2,4-DIAMINOPHENOXYETHANOL DIHYDROCHLORIDE), TOLUENE-2,5-DIAMINE HYDROCHLORIDE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "STRONGAMMONIASOLUTION,P-NITRO-O-PHENYLENEDIAMINE,N-PHENYL-P-PHENYLENEDIAMINE,2,4-DIAMINOPHENOXYETHANOLHCL(EQTO2,4-DIAMINOPHENOXYETHANOLDIHYDROCHLORIDE),TOLUENE-2,5-DIAMINEHYDROCHLORIDE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "6612376011  富克斯國際股份有限公司",
-    "申請商地址": "台北市大同區長安西路84號2樓之1",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C260023000  REAL CHEMICAL CO., LTD.",
         "製造廠廠址": "22-3 KITAOTSUKA 3 CHOME TOHIMA-KU, TOKYO JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "33059020003 染髮劑Hair dyes",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2820000104",
+            "成分名稱": "STRONG AMMONIA SOLUTION",
+            "含量描述": "",
+            "含量": "7.5000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9400003260",
+            "成分名稱": "P-NITRO-O-PHENYLENEDIAMINE",
+            "含量描述": "",
+            "含量": "0.1000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9400003280",
+            "成分名稱": "N-PHENYL-P-PHENYLENEDIAMINE",
+            "含量描述": "",
+            "含量": "0.1400000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9400003810",
+            "成分名稱": "2,4-DIAMINOPHENOXYETHANOL HCL (EQ TO 2,4-DIAMINOPHENOXYETHANOL DIHYDROCHLORIDE)",
+            "含量描述": "",
+            "含量": "0.1100000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9400004010",
+            "成分名稱": "TOLUENE-2,5-DIAMINE HYDROCHLORIDE",
+            "含量描述": "",
+            "含量": "0.0900000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2820000104",
+            "成分名稱": "STRONG AMMONIA SOLUTION",
+            "含量描述": "",
+            "含量": "9.0000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9400003260",
+            "成分名稱": "P-NITRO-O-PHENYLENEDIAMINE",
+            "含量描述": "",
+            "含量": "0.0800000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9400003280",
+            "成分名稱": "N-PHENYL-P-PHENYLENEDIAMINE",
+            "含量描述": "",
+            "含量": "0.1000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9400003810",
+            "成分名稱": "2,4-DIAMINOPHENOXYETHANOL HCL (EQ TO 2,4-DIAMINOPHENOXYETHANOL DIHYDROCHLORIDE)",
+            "含量描述": "",
+            "含量": "0.0900000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9400004010",
+            "成分名稱": "TOLUENE-2,5-DIAMINE HYDROCHLORIDE",
+            "含量描述": "",
+            "含量": "0.0600000000",
+            "單位": "%(W\/W)"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "080119210002.jpg",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011921&Seq=002&Type=9"
+        },
+        {
+            "title": "080119210001.jpg",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011921&Seq=001&Type=9"
+        }
     ]
 }

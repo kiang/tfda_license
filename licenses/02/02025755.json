@@ -1,12 +1,12 @@
 {
     "code": "02025755",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025755",
-    "time": "2017-01-27 03:29:10",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025755",
+    "time": "2018-03-09 03:03:10",
     "許可證字號": "衛署藥輸字第025755號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/11\/19",
+    "有效日期": "111\/11\/19",
     "發證日期": "101\/11\/19",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "F260328200  TAKEDA PHARMACEUTICAL COMPANY, LTD. (OSAKA PLANT)",
         "製造廠廠址": "17-85 JUSOHONMACHI 2-CHOME, YODOGAWA-KU, OSAKA 532-8686, JAPAN",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -66,14 +65,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "直徑7.6mm",
+        "特殊劑型": "",
+        "顏色": "白色至接近白色",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "圓扁形",
+        "標記一": "ASL",
+        "標記二": "80"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "blistering-102-06-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025755&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "Edarbi-仿單_20140321-104-09-29(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025755&Seq=004&Type=9"
+            "title": "13 中文仿單_EU_Edarbi 40mg+80mg tablet 2016Nov-A3_20180126 TFDA-107-02-01.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025755&Seq=005&Type=9"
         },
         {
             "title": "edarbi80bs(TW)鋁箔落板2-104-09-29(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025755&Seq=004&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025755&Seq=004&Type=8"
         }
     ]
 }

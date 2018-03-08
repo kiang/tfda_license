@@ -1,7 +1,7 @@
 {
     "code": "92000693",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000693",
-    "time": "2015-10-30 04:37:20",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000693",
+    "time": "2018-03-09 03:11:52",
     "許可證字號": "衛部醫器陸輸字第000693號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,38 +18,35 @@
     "醫器規格": "110022、110022F",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "J一般醫院及個人使用裝置",
     "醫器次類別一": "J5570皮下單腔針",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入",
-        "09委託製造",
-        "40大陸生產"
+    "主成分略述": [
+        ""
     ],
+    "限制項目": "02輸　入 09委託製造 40大陸生產",
     "申請商名稱": "6231058670  台灣廣翼國際有限公司",
-    "申請商地址": "新北市新店區華興街19號2樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "M641135300  Shanghai Kindly Enterprise Development Group Co., Ltd.",
         "製造廠廠址": "No. 658 Gaochao Road, Jiading, Shanghai 201803 China",
         "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
+        "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "920006930001-104-09-03.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000693&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000693&Seq=001&Type=9"
         },
         {
             "title": "920006930002-104-09-03.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000693&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000693&Seq=001&Type=8"
         }
     ]
 }

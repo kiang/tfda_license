@@ -1,7 +1,7 @@
 {
     "code": "02025302",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025302",
-    "time": "2017-06-16 03:04:03",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025302",
+    "time": "2018-03-09 03:03:05",
     "許可證字號": "衛署藥輸字第025302號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -23,16 +23,24 @@
         "LACTULOSE"
     ],
     "限制項目": "02輸　入",
-    "申請商名稱": "0932301100  美商亞培股份有限公司台灣分公司",
+    "申請商名稱": "1225201100  裕利股份有限公司",
     "主製造廠": {
         "主製造廠": "",
         "製造廠名稱": "F170058000  ABBOTT BIOLOGICALS B.V.",
         "製造廠廠址": "VEERWEG 12, 8121 AA OLST, THE NETHERLANDS",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "1225204000  裕利股份有限公司",
+            "製造廠廠址": "桃園市大園區和平里1鄰開和路91號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠(委託貼標及置入仿單)"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -43,18 +51,42 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Bottle photo-104-09-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025302&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "亞培杜化液 仿單修正版-106-04-25.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025302&Seq=011&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025302&Seq=011&Type=9"
         },
         {
             "title": "Duphalac-INS-060331-106-04-25.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025302&Seq=010&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025302&Seq=010&Type=9"
+        },
+        {
+            "title": "201707281354-106-07-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025302&Seq=006&Type=8"
         },
         {
             "title": "Duphalac 外盒資訊-Rx-104-12-30.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025302&Seq=005&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025302&Seq=005&Type=8"
+        },
+        {
+            "title": "Duphalac 標籤-Rx-104-12-30.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025302&Seq=004&Type=8"
         }
     ]
 }

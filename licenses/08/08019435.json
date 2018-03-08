@@ -1,12 +1,12 @@
 {
     "code": "08019435",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08019435",
-    "time": "2016-08-26 04:13:43",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08019435",
+    "time": "2018-03-09 03:13:24",
     "許可證字號": "衛署粧輸字第019435號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/07\/27",
+    "有效日期": "110\/07\/27",
     "發證日期": "101\/07\/27",
     "許可證種類": "含藥化粧品",
     "舊證字號": "",
@@ -17,22 +17,20 @@
     "用途": "防曬修飾膚色。",
     "劑型": "903乳液劑",
     "包裝": "500公克以下瓶裝附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0711防晒乳液",
-    "": "",
-    "主成分略述": "ETHYLHEXYL METHOXYCINNAMATE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "ETHYLHEXYLMETHOXYCINNAMATE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1435821100  台灣鐘紡化粧品股份有限公司",
-    "申請商地址": "高雄市新興區五福二路166號10樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C260264100  Kao Cosmetic Products Odawara Co., Ltd.",
         "製造廠廠址": "3-28 5-Chome, Kotobuki-Cho, Odawara-Shi, Kanagawa-Ken, 250-0002, Japan",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -46,20 +44,32 @@
     ],
     "仿單外盒": [
         {
+            "title": "08019435-106-08-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019435&Seq=001&Type=9"
+        },
+        {
+            "title": "08019435-107-02-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019435&Seq=006&Type=8"
+        },
+        {
+            "title": "90001203-107-02-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019435&Seq=005&Type=8"
+        },
+        {
             "title": "08019435-105-06-08.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019435&Seq=004&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019435&Seq=004&Type=8"
         },
         {
             "title": "鐘紡 媚點 08019435 新增包裝-104-04-02.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019435&Seq=003&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019435&Seq=003&Type=8"
         },
         {
             "title": "08019435-103-11-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019435&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019435&Seq=002&Type=8"
         },
         {
             "title": "08019435___20120824.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019435&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019435&Seq=001&Type=8"
         }
     ]
 }

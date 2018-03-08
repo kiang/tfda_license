@@ -1,7 +1,7 @@
 {
     "code": "02023202",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023202",
-    "time": "2017-06-16 03:03:27",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023202",
+    "time": "2018-03-09 03:02:37",
     "許可證字號": "衛署藥輸字第023202號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,15 +28,14 @@
         "主製造廠": "",
         "製造廠名稱": "F150183000  GLAXO WELLCOME PRODUCTION",
         "製造廠廠址": "23 RUE LAVOISIER, ZONE INDUSTRIELLE NO.2, 27000 EVREUX, FRANCE",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30043200002 含有腎上腺皮質類固醇荷爾蒙，其衍生物及結構式類似者Containing adrenal corticosteroid hormones, their derivatives and structural analogues",
+    "CCC號列": "30043200002 其他醫藥製劑，含有腎上腺皮質類固醇荷爾蒙及其衍生物或結構式類似者Other medicaments, containing corticosteroid hormones, their derivatives or structural analogues",
     "藥理治療分類": "",
     "次製造廠": [
         {
             "製造廠名稱": "1225204000  裕利股份有限公司",
-            "製造廠廠址": "桃園市大園區和平村1鄰舊厝子1之2號",
+            "製造廠廠址": "桃園市大園區和平里1鄰開和路91號",
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
             "製程": "二級包裝廠(委託貼標及置入仿單)"
@@ -60,14 +59,30 @@
             "單位": "MCG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "直徑約8.5cm, 高約3cm",
+        "特殊劑型": "",
+        "顏色": "雙紫色碟型容器",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "圓凸形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "020232020003-104-09-30(廠商自行上傳).PDF",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023202&Seq=003&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "020232020001-106-05-05.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023202&Seq=010&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023202&Seq=010&Type=9"
         },
         {
             "title": "Seretide 100 Accu_10000000128089-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023202&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023202&Seq=002&Type=8"
         }
     ]
 }

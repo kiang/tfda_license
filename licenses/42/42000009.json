@@ -1,7 +1,7 @@
 {
     "code": "42000009",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000009",
-    "time": "2015-10-30 04:55:11",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000009",
+    "time": "2018-03-09 03:08:22",
     "許可證字號": "衛署醫器陸輸字第000009號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -10,7 +10,7 @@
     "發證日期": "94\/02\/23",
     "許可證種類": "醫　器",
     "舊證字號": "",
-    "醫療器材級數": "",
+    "醫療器材級數": "第二等級",
     "通關簽審文件編號": "DHA04200000908",
     "中文品名": "3M 外科開刀巾",
     "英文品名": "3M STERI-DRAPE",
@@ -18,46 +18,35 @@
     "醫器規格": "1035,1037,1040,1050,1051,2035,2037,2045,2050,2051。2040。",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "I一般及整型外科手術裝置",
     "醫器次類別一": "",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入",
-        "09委託製造",
-        "40大陸生產"
+    "主成分略述": [
+        ""
     ],
-    "申請商名稱": "1407001100  臺灣明尼蘇達礦業製造股份有限公司",
-    "申請商地址": "台北市仁愛路三段１３６號１３Ｆ",
+    "限制項目": "02輸　入 09委託製造 40大陸生產",
+    "申請商名稱": "1407004200  台灣明尼蘇達礦業製造股份有限公司",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "M640006000  SUZHOU AVON TEXTILE CO., LTD.",
         "製造廠廠址": "YUANHE TOWN, XIANGCHENG REGION, 215133 SUZHOU, JIANGSU PROVINCE, CHINA",
         "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
+        "": ""
     },
-    "CCC號列": "30059090001 其他屬第３００５節之貨品Others articles of heading 30.05",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "420000090004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000009&Seq=004&Type=9"
+            "title": "420000090001-107-02-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000009&Seq=005&Type=9"
         },
         {
-            "title": "420000090003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000009&Seq=003&Type=9"
-        },
-        {
-            "title": "420000090002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000009&Seq=002&Type=9"
-        },
-        {
-            "title": "420000090001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000009&Seq=001&Type=9"
+            "title": "420000090001-107-02-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000009&Seq=001&Type=8"
         }
     ]
 }

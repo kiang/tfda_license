@@ -1,7 +1,7 @@
 {
     "code": "10000901",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000901",
-    "time": "2017-05-26 03:37:11",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000901",
+    "time": "2018-03-09 03:03:25",
     "許可證字號": "衛署菌疫輸字第000901號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
     "主成分略述": [
-        "A\/California\/7\/2009(H1N1)pdm09-likestrain(A\/California\/7\/2009,NYMCX-181),A\/HongKong\/4801\/2014(H3N2)-likestrain(A\/HongKong\/4801\/2014,NYMCX-263B),B\/Brisbane\/60\/2008-likestrain(B\/Brisbane\/60\/2008,wildtype)"
+        "A\/Michigan\/45\/2015(H1N1)pdm09-likestrain(A\/Singapore\/GP1908\/2015,IVR-180),A\/HongKong\/4801\/2014(H3N2)-likestrain(A\/HongKong\/4801\/2014,NYMCX-263B),B\/Brisbane\/60\/2008-likestrain(B\/Brisbane\/60\/2008,wildtype)"
     ],
     "限制項目": "02輸　入",
     "申請商名稱": "6201125122  台灣東洋藥品工業股份有限公司",
@@ -28,15 +28,14 @@
         "主製造廠": "",
         "製造廠名稱": "F250429000  GlaxoSmithKline Vaccines S.r.l.",
         "製造廠廠址": "BELLARIA ROSIA 53018 SOVICILLE (SIENA), ITLAY",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30022000008 人類醫藥用疫苗Vaccines for human medicine",
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "1225204000  裕利股份有限公司",
-            "製造廠廠址": "桃園市大園區和平村1鄰舊厝子1之2號",
+            "製造廠名稱": "6132061151  裕利股份有限公司",
+            "製造廠廠址": "桃園市大園區和平里1鄰開和路91號",
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
             "製程": "貼標廠"
@@ -59,8 +58,8 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "8012002478",
-            "成分名稱": "A\/California\/7\/2009 (H1N1)pdm09-like strain (A\/California\/7\/2009, NYMC X-181)",
+            "成分代碼": "8012002491",
+            "成分名稱": "A\/Michigan\/45\/2015 (H1N1)pdm09 - like strain (A\/Singapore\/GP1908\/2015, IVR-180)",
             "含量描述": "",
             "含量": "15.0000000000",
             "單位": "ug haemagglutinin"
@@ -84,12 +83,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "安爾保流感疫苗-TWI-200916-回一校-105-09-22.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000901&Seq=010&Type=9"
+            "title": "03.Agrippal PIL Chinese 2017 2018_完稿-20170828-增加版本號&CDC核准-106-09-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000901&Seq=011&Type=9"
         },
         {
-            "title": "Agrippal S1 中文標籤 2016 09 20-105-09-22.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000901&Seq=002&Type=8"
+            "title": "07.485820 LABEL AGRIPPAL NH PFS GB-F-106-09-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000901&Seq=005&Type=8"
+        },
+        {
+            "title": "05.485542 BOX AGRIPPAL NH 10PFSX1DS GB-F 11.13.24 am-106-09-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000901&Seq=004&Type=8"
+        },
+        {
+            "title": "04.Agrippal S1 中文標籤 2017 2018_完稿-20170828-增加版本號-106-09-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000901&Seq=003&Type=8"
         }
     ]
 }

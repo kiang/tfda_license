@@ -1,7 +1,7 @@
 {
     "code": "02020827",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02020827",
-    "time": "2017-04-28 03:28:50",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02020827",
+    "time": "2018-03-09 03:02:19",
     "許可證字號": "衛署藥輸字第020827號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,17 +28,16 @@
         "主製造廠": "",
         "製造廠名稱": "F470233000  FERRING  GMBH",
         "製造廠廠址": "WITTLANG 11, D-24109 KIEL FEDERAL REPUBLIC OF GERMANY",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049071005 抗癌藥Anti-cancer preparations",
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "F430116000  FERRING INTERNATIONAL CENTER SA",
-            "製造廠廠址": "CHEMIN DE LA VERGOGNAUSAZ 50, CH-1162 SAINT-PREX, SWITZERLAND",
+            "製造廠名稱": "F390021200  ZUELLIG PHARMA SPECIALTY SOLUTIONS GROUP PTE. LTD.",
+            "製造廠廠址": "15 CHANGI NORTH WAY #01-02, #02-02, #02-10, SINGAPORE 498770",
             "製造廠公司地址": "",
-            "製造廠國別": "SWITZERLAND",
+            "製造廠國別": "SINGAPORE",
             "製程": "包裝"
         }
     ],
@@ -52,14 +51,26 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "白色至淡黃色顆粒",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "020208270010-104-10-02(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020827&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "020208270001 DECAPEPTYL CR-2014-01-06.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020827&Seq=004&Type=9"
-        },
-        {
-            "title": "020208270009-104-09-21(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020827&Seq=009&Type=8"
+            "title": "Decapeptyl CR_final version_0904-106-09-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020827&Seq=005&Type=9"
         }
     ]
 }

@@ -1,12 +1,12 @@
 {
     "code": "42000490",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000490",
-    "time": "2016-08-26 04:02:13",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000490",
+    "time": "2018-03-09 03:19:15",
     "許可證字號": "衛署醫器陸輸字第000490號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/07\/11",
+    "有效日期": "112\/07\/11",
     "發證日期": "102\/07\/11",
     "許可證種類": "醫　器",
     "舊證字號": "",
@@ -18,45 +18,43 @@
     "醫器規格": "HL568\r\n以下空白\r\n增加規格：HL568HD、HL568HS。",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "A臨床化學及臨床毒理學",
     "醫器次類別一": "A1345葡萄糖試驗系統",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入",
-        "40大陸生產"
+    "主成分略述": [
+        ""
     ],
+    "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6231047293  合世生醫科技股份有限公司",
-    "申請商地址": "新北市中和區建一路186號9樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "M640572100  LIVING SCIENCE CO., LTD",
         "製造廠廠址": "NO.1428 XIANG JIANG ROAD, SUZHOU NEW DISTRICT SUZHOU CITY 215129, CHINA",
         "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "420004900003-105-06-08.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000490&Seq=002&Type=9"
+            "title": "42000490-107.01.04-107-01-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000490&Seq=003&Type=9"
         },
         {
             "title": "420004900001-102-08-02.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000490&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000490&Seq=001&Type=9"
         },
         {
-            "title": "420004900003-105-06-08.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000490&Seq=002&Type=8"
+            "title": "42000490-107.01.04-107-01-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000490&Seq=003&Type=8"
         },
         {
             "title": "420004900002-102-08-02.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000490&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000490&Seq=001&Type=8"
         }
     ]
 }

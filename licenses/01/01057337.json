@@ -1,7 +1,7 @@
 {
     "code": "01057337",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057337",
-    "time": "2017-05-26 03:47:51",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057337",
+    "time": "2018-03-09 03:02:05",
     "許可證字號": "衛署藥製字第057337號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,11 +28,19 @@
         "主製造廠": "",
         "製造廠名稱": "6132021282  安成國際藥業股份有限公司中壢廠",
         "製造廠廠址": "桃園市中壢區復興里自強四路3之1號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "6132021488  安成國際藥業股份有限公司中壢二廠",
+            "製造廠廠址": "桃園市中壢區忠福里東園路17號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -45,12 +53,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "201512_BPP_仿單_上傳版-104-12-15(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057337&Seq=004&Type=9"
+            "title": "20180110安與仿單_更新-107-03-06(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057337&Seq=006&Type=9"
         },
         {
-            "title": "201509_BPP_300_PTP_上傳版-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057337&Seq=006&Type=8"
+            "title": "20180117瓶貼300MG_8.8x4cm_更新-107-03-06(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057337&Seq=008&Type=8"
+        },
+        {
+            "title": "20180105安與彩盒300mg_更新-107-03-06(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057337&Seq=007&Type=8"
         }
     ]
 }

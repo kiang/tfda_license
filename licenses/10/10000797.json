@@ -1,7 +1,7 @@
 {
     "code": "10000797",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000797",
-    "time": "2017-06-16 03:04:33",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000797",
+    "time": "2018-03-09 03:03:25",
     "許可證字號": "衛署菌疫輸字第000797號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,12 +28,18 @@
         "主製造廠": "",
         "製造廠名稱": "F050018000  GLAXOSMITHKLINE BIOLOGICALS S.A.",
         "製造廠廠址": "89 RUE DE L&#39;INSTITUT 1330 RIXENSART, BELGIUM",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30022000008 人類醫藥用疫苗Vaccines for human medicine",
     "藥理治療分類": "",
     "次製造廠": [
+        {
+            "製造廠名稱": "6132061151  裕利股份有限公司",
+            "製造廠廠址": "桃園市大園區和平里1鄰開和路91號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠"
+        },
         {
             "製造廠名稱": "F050087000  GLAXOSMITHKLINE BIOLOGICALS S.A.",
             "製造廠廠址": "PARC DE LA NOIRE EPINE, RUE FLEMING 20, B-1300 WAVRE, BELGIUM",
@@ -138,14 +144,30 @@
             "單位": "UG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "混濁白色懸浮液盛放於附有針頭10cm的預注射針筒及裝有粉末的5公分高玻璃小瓶",
+        "特殊劑型": "",
+        "顏色": "混濁白色懸浮液",
+        "特殊氣味": "無",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "040007970005-105-02-17(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000797&Seq=005&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "020007970001-105-09-14.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000797&Seq=022&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000797&Seq=022&Type=9"
         },
         {
             "title": "020007970004-105-09-14.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000797&Seq=010&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000797&Seq=010&Type=8"
         }
     ]
 }

@@ -1,57 +1,67 @@
 {
     "code": "01027718",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01027718",
-    "time": "2015-12-25 04:06:00",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01027718",
+    "time": "2018-03-09 03:16:11",
     "許可證字號": "衛署藥製字第027718號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/07\/18",
+    "有效日期": "112\/07\/18",
     "發證日期": "73\/07\/18",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102771805",
-    "中文品名": "臨得隆注射液４公絲\/公撮（貝皮質醇）",
+    "中文品名": "臨得隆注射液4毫克\/毫升（貝皮質醇）",
     "英文品名": "RINDERON INJECTION 4MG\/ML (BETAMETHASONE)",
     "適應症": "外科休克類似休克狀態、腦浮腫、副腎腫瘍摘除、關節風濕症、急性副腎不全、支氣管氣喘、風濕熱、結核性胸膜炎、結核性髓膜炎、腦脊髓炎、濕疹、天？瘡類、圓形脫毛症、過敏性結膜炎、鞏膜炎、虹彩炎、虹彩毛樣體炎、過敏性鼻炎、複合性副鼻腔炎。",
     "劑型": "270注射劑",
-    "包裝": "安瓿",
+    "包裝": "0.5\/1毫升,100支以下安瓿",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "BETAMETHASONE DISODIUM PHOSPHATE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "BETAMETHASONESODIUMPHOSPHATE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1410301200  台灣塩野義製藥股份有限公司",
-    "申請商地址": "台北市南京東路二段２號４樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0402602300  中國化學製藥股份有限公司新豐工廠",
         "製造廠廠址": "新竹縣新豐鄉坑子口１８２之１號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30043200002 含有腎上腺皮質類固醇荷爾蒙，其衍生物及結構式類似者Containing adrenal corticosteroid hormones, their derivatives and structural analogues",
+    "CCC號列": "30043200002 其他醫藥製劑，含有腎上腺皮質類固醇荷爾蒙及其衍生物或結構式類似者Other medicaments, containing corticosteroid hormones, their derivatives or structural analogues",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "6804000230",
-            "成分名稱": "BETAMETHASONE DISODIUM PHOSPHATE",
-            "含量描述": "(5.3MG) 4",
-            "含量": "",
+            "成分代碼": "6804000231",
+            "成分名稱": "BETAMETHASONE SODIUM PHOSPHATE",
+            "含量描述": "(eq. to betamethasone 4mg)",
+            "含量": "5.3000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
-            "title": "01027718-102-12-24.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027718&Seq=001&Type=9"
+            "title": "RD-INJ仿單擬稿-106-06-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027718&Seq=003&Type=9"
         },
         {
-            "title": "RD-INJ Box-104-09-22.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027718&Seq=001&Type=8"
+            "title": "Rinderon-INJ package insert D版(103年5月中旬開始)-104-09-22(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027718&Seq=002&Type=9"
+        },
+        {
+            "title": "Rinderon 標籤-106-06-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027718&Seq=003&Type=8"
+        },
+        {
+            "title": "Rinderon 外盒-106-06-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027718&Seq=002&Type=8"
+        },
+        {
+            "title": "RD-INJ Box-104-09-22(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027718&Seq=001&Type=8"
         }
     ]
 }

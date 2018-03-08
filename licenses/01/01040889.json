@@ -1,7 +1,7 @@
 {
     "code": "01040889",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01040889",
-    "time": "2017-02-24 03:30:23",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01040889",
+    "time": "2018-03-09 03:01:12",
     "許可證字號": "衛署藥製字第040889號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "6103030026  國嘉製藥工業股份有限公司幼獅三廠",
         "製造廠廠址": "臺中市大甲區日南里工十路2號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -43,14 +42,46 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "直徑6.5mm 厚3.1mm",
+        "特殊劑型": "",
+        "顏色": "白色",
+        "特殊氣味": "",
+        "刻痕": "有",
+        "形狀": "圓扁形",
+        "標記一": "一面印有中線",
+        "標記二": "一面印有梅花K形狀"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "PT-58 痛嘉音錠5mg-104-09-24(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040889&Seq=002&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
+            "title": "痛嘉音錠5mg--107-02-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040889&Seq=005&Type=9"
+        },
+        {
             "title": "PT-58(加) 痛嘉音錠5mg-1.1版-105-03-28(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040889&Seq=004&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040889&Seq=004&Type=9"
+        },
+        {
+            "title": "鋁箔－痛嘉音錠-107-02-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040889&Seq=006&Type=8"
+        },
+        {
+            "title": "標籤－痛嘉音錠5mg-107-02-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040889&Seq=005&Type=8"
+        },
+        {
+            "title": "花盒－痛嘉音錠5mg-107-02-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040889&Seq=004&Type=8"
         },
         {
             "title": "PT-58 痛嘉音5-瓶-104-12-07(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040889&Seq=003&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040889&Seq=003&Type=8"
         }
     ]
 }

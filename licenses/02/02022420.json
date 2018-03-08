@@ -1,7 +1,7 @@
 {
     "code": "02022420",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022420",
-    "time": "2017-06-16 03:26:47",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022420",
+    "time": "2018-03-09 03:02:31",
     "許可證字號": "衛署藥輸字第022420號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -23,17 +23,23 @@
         "CLARITHROMYCIN"
     ],
     "限制項目": "02輸　入",
-    "申請商名稱": "0932301100  美商亞培股份有限公司台灣分公司",
+    "申請商名稱": "1225201100  裕利股份有限公司",
     "主製造廠": {
         "主製造廠": "",
         "製造廠名稱": "F250347000  ABBVIE S.R.L.",
         "製造廠廠址": "S.R. 148 PONTINA KM 52,SNC-CAMPOVERDE DI APRILIA (LT) 04011 ITALY",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30042000612 人用醫藥製劑，含巨環類抗生素者Medicaments, containing macrolides, for human use",
     "藥理治療分類": "",
     "次製造廠": [
+        {
+            "製造廠名稱": "6132061151  裕利股份有限公司",
+            "製造廠廠址": "桃園市大園區和平里1鄰開和路91號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠"
+        },
         {
             "製造廠名稱": "F130313000  Abbott Laboratories Ltd.",
             "製造廠廠址": "Abbott House,Vanwall Business Park,Vanwall Road,Maidenhead SL6 4XE,United Kingdom",
@@ -55,7 +61,7 @@
     "藥物辨識詳細資料": {
         "外觀尺寸": "",
         "特殊劑型": "",
-        "顏色": "淡黃",
+        "顏色": "淡黃色",
         "特殊氣味": "",
         "刻痕": "",
         "形狀": "橢圓形",
@@ -64,18 +70,30 @@
     },
     "藥物辨識外觀圖片": [
         {
-            "title": "Klaricid 500mg photo-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022420&Seq=002&Type=10"
+            "title": "Klaricid 500mg tab photo-106-12-16(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022420&Seq=003&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "Klaricid 500mg tab_中文仿單_201603-105-06-22.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022420&Seq=023&Type=9"
+            "title": "Klaricid-INS_201710-106-12-16(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022420&Seq=026&Type=9"
+        },
+        {
+            "title": "500mg膜衣錠(修正)-106-08-01.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022420&Seq=025&Type=9"
+        },
+        {
+            "title": "Klaricid 500mg tab_TFDA final_201706-106-07-31.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022420&Seq=024&Type=9"
+        },
+        {
+            "title": "Klaricid 500mg carton_201610-106-12-16(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022420&Seq=005&Type=8"
         },
         {
             "title": "Klaricid(Abbvie Italy)-Foil-P-050808-105-09-26.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022420&Seq=004&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022420&Seq=004&Type=8"
         }
     ]
 }

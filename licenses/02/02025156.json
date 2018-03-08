@@ -1,7 +1,7 @@
 {
     "code": "02025156",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025156",
-    "time": "2016-11-18 20:39:21",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025156",
+    "time": "2018-03-09 03:03:03",
     "許可證字號": "衛署藥輸字第025156號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,11 +28,19 @@
         "主製造廠": "",
         "製造廠名稱": "C150123000  LABORATOIRES GALDERMA",
         "製造廠廠址": "ZONE INDUSTRIELLE-MONTDESIR 74540 ALBY SUR CHERAN FRANCE",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "7770824858  台灣大昌華嘉股份有限公司",
+            "製造廠廠址": "桃園市楊梅區梅獅路二段629號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠(委託貼標及置入仿單)"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -53,56 +61,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "EPIDUO 中文仿單-20160525-105-05-30.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025156&Seq=006&Type=9"
-        },
-        {
             "title": "Epiduo_new pump package-中文仿單-105-03-11(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025156&Seq=007&Type=9"
-        },
-        {
-            "title": "仿單-104-05-06.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025156&Seq=005&Type=9"
-        },
-        {
-            "title": "EPIDUO CH PI_02 Jul 2014 (排版)-2014-07-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025156&Seq=004&Type=9"
-        },
-        {
-            "title": "EPIDUO Proposed EN PI_31May2013 (排版)-102-06-06.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025156&Seq=003&Type=9"
-        },
-        {
-            "title": "EPIDUO Proposed CH PI_31May2013 (排版)-102-06-06.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025156&Seq=002&Type=9"
-        },
-        {
-            "title": "EPIDUO Gel 中文仿單完稿___20100617.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025156&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025156&Seq=007&Type=9"
         },
         {
             "title": "全頁相片-4839-105-03-11(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025156&Seq=006&Type=8"
-        },
-        {
-            "title": "標籤外盒-104-05-06.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025156&Seq=005&Type=8"
-        },
-        {
-            "title": "原核准包裝外盒-104-05-06.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025156&Seq=004&Type=8"
-        },
-        {
-            "title": "EPIDUO Gel 中文標籤完稿___20100617.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025156&Seq=003&Type=8"
-        },
-        {
-            "title": "012010_Tube_Epiduo 15g_Approb HKG___20100617.PDF",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025156&Seq=002&Type=8"
-        },
-        {
-            "title": "012010_Etui_Epiduo 15g_Approb HKG___20100617.PDF",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025156&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025156&Seq=006&Type=8"
         }
     ]
 }

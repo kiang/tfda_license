@@ -1,7 +1,7 @@
 {
     "code": "08011917",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08011917",
-    "time": "2015-08-23 18:23:54",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08011917",
+    "time": "2018-03-09 03:23:13",
     "許可證字號": "衛署粧輸字第011917號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,22 +17,20 @@
     "用途": "染髮第一劑。",
     "劑型": "984乳膏劑",
     "包裝": "500公克以下軟管裝",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "STRONG AMMONIA SOLUTION, RESORCINOL (RESORCIN), AMINOPHENOL ORTHO-, P-PHENYLENEDIAMINE, TOLUENE-2,5-DIAMINE HYDROCHLORIDE, P-NITRO-M-PHENYLENEDIAMINE SULFATE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "STRONGAMMONIASOLUTION,RESORCINOL(RESORCIN),ORTHO-AMINOPHENOL,P-PHENYLENEDIAMINE,TOLUENE-2,5-DIAMINEHYDROCHLORIDE,P-NITRO-M-PHENYLENEDIAMINESULFATE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "6612376011  富克斯國際股份有限公司",
-    "申請商地址": "台北市大同區長安西路84號2樓之1",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C260023000  REAL CHEMICAL CO., LTD.",
         "製造廠廠址": "22-3 KITAOTSUKA 3 CHOME TOHIMA-KU, TOKYO JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "33059020003 染髮劑Hair dyes",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -54,7 +52,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9200035402",
-            "成分名稱": "AMINOPHENOL ORTHO-",
+            "成分名稱": "ORTHO-AMINOPHENOL",
             "含量描述": "",
             "含量": "0.1000000000",
             "單位": "%(W\/W)"
@@ -102,7 +100,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9200035402",
-            "成分名稱": "AMINOPHENOL ORTHO-",
+            "成分名稱": "ORTHO-AMINOPHENOL",
             "含量描述": "",
             "含量": "0.1000000000",
             "單位": "%(W\/W)"
@@ -150,7 +148,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9200035402",
-            "成分名稱": "AMINOPHENOL ORTHO-",
+            "成分名稱": "ORTHO-AMINOPHENOL",
             "含量描述": "",
             "含量": "0.1000000000",
             "單位": "%(W\/W)"
@@ -183,15 +181,15 @@
     "仿單外盒": [
         {
             "title": "080119170003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011917&Seq=003&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011917&Seq=003&Type=9"
         },
         {
             "title": "080119170002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011917&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011917&Seq=002&Type=9"
         },
         {
             "title": "080119170001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011917&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011917&Seq=001&Type=9"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "52026494",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026494",
-    "time": "2015-09-25 04:38:36",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026494",
+    "time": "2018-03-09 03:04:06",
     "許可證字號": "衛部藥輸字第026494號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,23 +17,30 @@
     "適應症": "尋常性痤瘡。",
     "劑型": "393外用凝膠劑",
     "包裝": "1000毫升以下塑膠軟管裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "ADAPALENE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "ADAPALENE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "0941001100  香港商高德美有限公司台灣分公司",
-    "申請商地址": "台北市大同區承德路一段17號9樓之4、17號9樓之5、17號9樓之6",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F060021000  GALDERMA BRASIL LTDA.",
         "製造廠廠址": "RODOVIA JORNALISTA FRANCISCO AGUIRRE PROENCA, CAMPINAS-MONTE MOR-KM 09 S\/N, CONDOMINIO TECHTOWN-CHACARA ASSAY, HORTOLANDIA-SAO PAULO, CEP:13186-904, BRASIL",
-        "製造廠公司地址": "",
-        "製造廠國別": "BRAZIL",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "7770824858  台灣大昌華嘉股份有限公司",
+            "製造廠廠址": "桃園市楊梅區梅獅路二段629號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠(委託貼標及置入仿單)"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -47,11 +54,11 @@
     "仿單外盒": [
         {
             "title": "1040318--痘膚潤凝膠0.3%仿單--104-03-18.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026494&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026494&Seq=001&Type=9"
         },
         {
             "title": "標籤外盒-104-03-18.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026494&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026494&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "52026550",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026550",
-    "time": "2016-11-25 03:29:20",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026550",
+    "time": "2018-03-09 03:04:06",
     "許可證字號": "衛部藥輸字第026550號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,11 +28,19 @@
         "主製造廠": "",
         "製造廠名稱": "F150143100  LABORATOIRES GALDERMA.",
         "製造廠廠址": "ZONE INDUSTRIELLE-MONTDESIR 74540 ALBY SUR CHERAN FRANCE",
-        "製造廠公司地址": "TOUR EUROPLAZA-LA DEFENSE 4,20 AVENUE ANDRE PROTHIN 92927 LA DEFENSE CEDEX FRANCE",
-        "": ""
+        "製造廠公司地址": "TOUR EUROPLAZA-LA DEFENSE 4,20 AVENUE ANDRE PROTHIN 92927 LA DEFENSE CEDEX FRANCE"
     },
     "CCC號列": "",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "7770824858  台灣大昌華嘉股份有限公司",
+            "製造廠廠址": "桃園市楊梅區梅獅路二段629號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠(委託貼標及置入仿單)"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -46,27 +54,11 @@
     "仿單外盒": [
         {
             "title": "MIRVASO Chinese leaflet_Aug 19_2016-105-09-01.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026550&Seq=004&Type=9"
-        },
-        {
-            "title": "MIRVASO Chinese leaflet_Mar.1_2016-105-04-06.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026550&Seq=002&Type=9"
-        },
-        {
-            "title": "敏立紓凝膠_中文仿單-105-03-11(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026550&Seq=003&Type=9"
-        },
-        {
-            "title": "敏立紓凝膠_Oct 15_2015-104-10-16.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026550&Seq=001&Type=9"
-        },
-        {
-            "title": "外盒標籤-105-04-06.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026550&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026550&Seq=004&Type=9"
         },
         {
             "title": "敏立紓凝膠_外盒-105-03-11(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026550&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026550&Seq=002&Type=8"
         }
     ]
 }

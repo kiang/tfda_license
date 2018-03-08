@@ -1,7 +1,7 @@
 {
     "code": "51058754",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058754",
-    "time": "2016-07-29 05:10:08",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058754",
+    "time": "2018-03-09 03:03:51",
     "許可證字號": "衛部藥製字第058754號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,18 @@
     "適應症": "緩解感冒之各種症狀(鼻塞、流鼻水、打噴嚏、咳嗽、喀痰)。",
     "劑型": "130膠囊劑",
     "包裝": "6-1000粒塑膠瓶裝 6-1000粒鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
-    "管制藥品分類級別": "",
-    "主成分略述": "CARBINOXAMINE MALEATE, DL-METHYLEPHEDRINE HCL, DEXTROMETHORPHAN HBR, NOSCAPINE, POTASSIUM GUAIACOLSULFONATE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "CARBINOXAMINEMALEATE,DL-METHYLEPHEDRINEHCL,DEXTROMETHORPHANHBR,NOSCAPINE,POTASSIUMGUAIACOLSULFONATE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "6242016893  松裕實業股份有限公司",
-    "申請商地址": "高雄市燕巢區新生路81號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0900822300  美西製藥有限公司",
         "製造廠廠址": "高雄市仁武區仁武里工業一路９號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -78,24 +76,24 @@
     ],
     "仿單外盒": [
         {
+            "title": "百咳寧仿單1061226-107-02-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058754&Seq=002&Type=9"
+        },
+        {
             "title": "010587540001-104-09-03.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058754&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058754&Seq=001&Type=9"
+        },
+        {
+            "title": "51058754標籤外盒-107-02-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058754&Seq=006&Type=8"
+        },
+        {
+            "title": "百咳寧鋁箔-107-02-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058754&Seq=005&Type=8"
         },
         {
             "title": "010587540005-104-09-03.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058754&Seq=004&Type=8"
-        },
-        {
-            "title": "010587540004-104-09-03.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058754&Seq=003&Type=8"
-        },
-        {
-            "title": "010587540003-104-09-03.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058754&Seq=002&Type=8"
-        },
-        {
-            "title": "010587540002-104-09-03.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058754&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058754&Seq=004&Type=8"
         }
     ]
 }
