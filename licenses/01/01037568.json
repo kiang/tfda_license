@@ -1,7 +1,7 @@
 {
     "code": "01037568",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01037568",
-    "time": "2016-11-18 13:43:38",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01037568",
+    "time": "2018-04-13 03:02:04",
     "許可證字號": "衛署藥製字第037568號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "6141010064  生達化學製藥股份有限公司二廠",
         "製造廠廠址": "台南市新營區開元路154號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049099316 醫藥製劑，含有三唑他（三唑侖）者Medicaments, containing Triazolam",
     "藥理治療分類": "",
@@ -45,16 +44,24 @@
     ],
     "仿單外盒": [
         {
+            "title": "0100375680001-107-03-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01037568&Seq=002&Type=9"
+        },
+        {
             "title": "S0410 Hallimon 酣蝶夢 LT -104-12-05(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01037568&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01037568&Seq=001&Type=9"
+        },
+        {
+            "title": "0100375680002-107-03-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01037568&Seq=004&Type=8"
+        },
+        {
+            "title": "0100375680001-107-03-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01037568&Seq=003&Type=8"
         },
         {
             "title": "Hallimon PTP-104-12-05(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01037568&Seq=002&Type=8"
-        },
-        {
-            "title": "Hallimon LB-104-12-05(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01037568&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01037568&Seq=002&Type=8"
         }
     ]
 }

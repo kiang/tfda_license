@@ -1,7 +1,7 @@
 {
     "code": "06020842",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06020842",
-    "time": "2016-11-19 01:11:32",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06020842",
+    "time": "2018-04-13 03:09:03",
     "許可證字號": "衛署醫器輸字第020842號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,7 +15,7 @@
     "中文品名": "和光總膽紅素",
     "英文品名": "Wako Total Bilirubin",
     "效能": "利用試管比色試驗，體外定量檢測血清或血漿中的總膽紅素。",
-    "醫器規格": "#411-23191, #413-23391, #417-23291, #419-23491, #418-66201, #414-66301, #463-32201",
+    "醫器規格": "#411-23191, #413-23391, #417-23291, #419-23491, #418-66201, #414-66301, #463-32201\r\n新增規格：#469-32203。",
     "劑型": "",
     "包裝": "",
     "標籤、仿單及包裝加註": "",
@@ -37,17 +37,24 @@
         "製造廠公司地址": "1-2, DOSHOMACHI 3-CHOME, CHUO-KU, OSAKA 540-8605, JAPAN",
         "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "1076005070-020842(1070315核發)-107-04-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06020842&Seq=002&Type=9"
+        },
+        {
             "title": "06020842001___20100421.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06020842&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06020842&Seq=001&Type=9"
+        },
+        {
+            "title": "1076005070-020842(1070315核發)-107-04-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06020842&Seq=002&Type=8"
         },
         {
             "title": "06020842002___20100421.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06020842&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06020842&Seq=001&Type=8"
         }
     ]
 }

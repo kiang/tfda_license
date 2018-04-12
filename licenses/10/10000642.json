@@ -1,7 +1,7 @@
 {
     "code": "10000642",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000642",
-    "time": "2017-06-16 03:27:59",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000642",
+    "time": "2018-04-13 03:04:56",
     "許可證字號": "衛署菌疫輸字第000642號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,14 +28,13 @@
         "主製造廠": "",
         "製造廠名稱": "F460055000  BAYER HEALTHCARE LLC",
         "製造廠廠址": "800 DWIGHT WAY, BERKELEY, CA 94710 USA",
-        "製造廠公司地址": "511 BENEDICT AVENUE, TARRYTOWN, NY 10591, U.S.A.",
-        "": ""
+        "製造廠公司地址": "511 BENEDICT AVENUE, TARRYTOWN, NY 10591, U.S.A."
     },
-    "CCC號列": "30021040002 抗血友病製劑Antihemophilia preparations",
+    "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "F470366000  BAYER PHARMA AG",
+            "製造廠名稱": "F470366000  BAYER AG",
             "製造廠廠址": "MUELLERSTRASSE 178, D-13353 BERLIN, GERMANY",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
@@ -54,12 +53,28 @@
     ],
     "仿單外盒": [
         {
-            "title": "02000642_Vial Adapter_TW12-105-09-23.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000642&Seq=058&Type=9"
+            "title": "KG-FS_USPI052016_Vial Adapter_TW14-107-03-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000642&Seq=063&Type=9"
+        },
+        {
+            "title": "科基血凝素第八因子注射劑-注射組使用說明Nipro SafeTouch-106-07-31.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000642&Seq=062&Type=9"
+        },
+        {
+            "title": "科基血凝素第八因子注射劑-注射組使用說明BD Safety-Lok-106-07-31.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000642&Seq=061&Type=9"
+        },
+        {
+            "title": "科基血凝素第八因子注射劑-Vial Adapter-106-07-31.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000642&Seq=060&Type=9"
+        },
+        {
+            "title": "科基血凝素第八因子注射劑-Bio-Set-106-07-31.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000642&Seq=059&Type=9"
         },
         {
             "title": "Kogenate FS 500IU_000642_carton4-105-01-06(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000642&Seq=021&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000642&Seq=021&Type=8"
         }
     ]
 }

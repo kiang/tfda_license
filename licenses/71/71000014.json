@@ -1,7 +1,7 @@
 {
     "code": "71000014",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=71000014",
-    "time": "2016-05-27 05:24:28",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=71000014",
+    "time": "2018-04-13 03:06:34",
     "許可證字號": "衛部罕藥製字第000014號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,22 +17,18 @@
     "適應症": "缺乏CARBAMYLPHOSPHATE SYNTHETASE(CPS)，ORNITHINE TRANSCARBAMYLASE (OTC)或ARGININOSUCCINIC ACID SYNTHETASE (AS) 之先天性尿素循環障礙。",
     "劑型": "110錠劑",
     "包裝": "40-1000錠塑膠瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "SODIUM PHENYLBUTYRATE",
-    "限制項目": [
-        "01國產",
-        "1EPhaseIVStudy",
-        "61完成BE試驗"
+    "主成分略述": [
+        "SODIUMPHENYLBUTYRATE"
     ],
+    "限制項目": "01國　產 1EPhase IV Study 61完成BE試驗",
     "申請商名稱": "620111B655  旭能醫藥生技股份有限公司",
-    "申請商地址": "新北市汐止區新台五路一段97號13樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "6133061413  歐帕生技醫藥股份有限公司",
         "製造廠廠址": "新竹縣湖口鄉光復路1號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -46,18 +42,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "白色",
+        "特殊氣味": "",
+        "刻痕": "無",
+        "形狀": "橢圓形",
+        "標記一": "S500",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Phenylbuty裸錠-105-10-26(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=71000014&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "710000140001 -104-12-16.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=71000014&Seq=001&Type=9"
+            "title": "仿單-104-12-16-105-10-26(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=71000014&Seq=002&Type=9"
         },
         {
-            "title": "710000140002-104-12-16.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=71000014&Seq=002&Type=8"
-        },
-        {
-            "title": "710000140001-104-12-16.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=71000014&Seq=001&Type=8"
+            "title": "外盒與標籤-104-12-16-105-10-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=71000014&Seq=003&Type=8"
         }
     ]
 }

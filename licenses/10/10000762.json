@@ -1,11 +1,11 @@
 {
     "code": "10000762",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000762",
-    "time": "2015-08-22 18:07:11",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000762",
+    "time": "2018-04-13 03:23:58",
     "許可證字號": "衛署菌疫輸字第000762號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "104\/10\/08",
+    "註銷理由": "自請註銷",
     "有效日期": "107\/03\/25",
     "發證日期": "92\/03\/25",
     "許可證種類": "菌　疫",
@@ -17,20 +17,18 @@
     "適應症": "預防傷寒。",
     "劑型": "270注射劑",
     "包裝": "單劑量0.5公撮預充填型注射器附針頭",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "VI POLYSACCHARIDE OF SALMONELLA TYPHI",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "VIPOLYSACCHARIDEOFSALMONELLATYPHI"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "0901801100  荷商葛蘭素史克藥廠股份有限公司台灣分公司",
-    "申請商地址": "台北市中正區忠孝西路一段66號23-24樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F050018000  GLAXOSMITHKLINE BIOLOGICALS S.A.",
-        "製造廠廠址": "89 RUE DE I'INSTITUT 1330 RIXENSART-BELGIUM",
-        "製造廠公司地址": "",
-        "製造廠國別": "BELGIUM",
-        "製程": ""
+        "製造廠廠址": "89 RUE DE L&#39;INSTITUT 1330 RIXENSART, BELGIUM",
+        "製造廠公司地址": ""
     },
     "CCC號列": "30022000008 人類醫藥用疫苗Vaccines for human medicine",
     "藥理治療分類": "",
@@ -47,23 +45,7 @@
     "仿單外盒": [
         {
             "title": "020007620001-102-05-14.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000762&Seq=005&Type=9"
-        },
-        {
-            "title": "020007620002-102-05-14.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000762&Seq=004&Type=9"
-        },
-        {
-            "title": "衛署菌疫輸字第100007620002___20110301.tif",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000762&Seq=003&Type=9"
-        },
-        {
-            "title": "衛署菌疫輸字第100007620001___20110301.tif",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000762&Seq=002&Type=9"
-        },
-        {
-            "title": "100007620001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000762&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000762&Seq=005&Type=9"
         }
     ]
 }

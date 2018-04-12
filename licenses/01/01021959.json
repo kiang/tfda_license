@@ -1,12 +1,12 @@
 {
     "code": "01021959",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01021959",
-    "time": "2017-06-16 03:00:46",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01021959",
+    "time": "2018-04-13 03:15:46",
     "許可證字號": "衛署藥製字第021959號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/05\/25",
+    "有效日期": "112\/05\/25",
     "發證日期": "69\/08\/14",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "1402206300  臺裕化學製藥廠股份有限公司",
         "製造廠廠址": "新竹縣竹東鎮員山路11巷13弄1號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30043200002 含有腎上腺皮質類固醇荷爾蒙，其衍生物及結構式類似者Containing adrenal corticosteroid hormones, their derivatives and structural analogues",
+    "CCC號列": "30043200002 其他醫藥製劑，含有腎上腺皮質類固醇荷爾蒙及其衍生物或結構式類似者Other medicaments, containing corticosteroid hormones, their derivatives or structural analogues",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -43,22 +42,38 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "1ml",
+        "特殊劑型": "",
+        "顏色": "無色",
+        "特殊氣味": "無",
+        "刻痕": "無",
+        "形狀": "長圓柱形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "[外觀]021959倍達邁松注射液(貝他每松)(1毫升)-104-12-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021959&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "倍達邁松注射液-衛署藥製字第021959號-仿單-106-05-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021959&Seq=005&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021959&Seq=005&Type=9"
         },
         {
             "title": "021959倍達邁松-E-20161117-105-12-05(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021959&Seq=004&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021959&Seq=004&Type=9"
         },
         {
             "title": "倍達邁松注射液-衛署藥製字第021959號-標籤-106-05-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021959&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021959&Seq=002&Type=8"
         },
         {
             "title": "[外盒]021959倍達邁松注射液(貝他每松)(1毫升)-104-12-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021959&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021959&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "01044448",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01044448",
-    "time": "2017-02-24 03:11:58",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01044448",
+    "time": "2018-04-13 03:02:39",
     "許可證字號": "衛署藥製字第044448號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "1303110300  新萬仁化學製藥股份有限公司",
         "製造廠廠址": "豐原市文賢街１５８號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049099101 抗過敏抗組織胺用藥Drugs for antihypersensitivity and antihistamine",
     "藥理治療分類": "",
@@ -60,29 +59,37 @@
         }
     ],
     "藥物辨識詳細資料": {
-        "外觀尺寸": "",
+        "外觀尺寸": "160mg\/cap",
         "特殊劑型": "",
-        "顏色": "鮮橙紅\/白色",
+        "顏色": "咖紅帽白身之3號膠囊",
         "特殊氣味": "",
         "刻痕": "",
-        "形狀": "長圓柱形",
-        "標記一": ",W03",
+        "形狀": "",
+        "標記一": "",
         "標記二": ""
     },
     "藥物辨識外觀圖片": [
         {
             "title": "鼻炎 PTP-104-09-25(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044448&Seq=408&Type=10"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044448&Seq=408&Type=10"
         }
     ],
     "仿單外盒": [
         {
+            "title": "衛格鼻炎仿單_1070327_PDF-107-03-28(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044448&Seq=008&Type=9"
+        },
+        {
             "title": "衛格鼻炎膠曩_衛署藥製字第044448號_仿單第2頁-105-12-28.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044448&Seq=006&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044448&Seq=006&Type=9"
+        },
+        {
+            "title": "衛格鼻炎膠囊內盒PDF_1070326-107-03-28(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044448&Seq=005&Type=8"
         },
         {
             "title": "衛格鼻炎膠曩_衛署藥製字第044448號-外盒-105-12-28.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044448&Seq=004&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044448&Seq=004&Type=8"
         }
     ]
 }

@@ -1,12 +1,12 @@
 {
     "code": "07004975",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07004975",
-    "time": "2016-11-19 02:39:06",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07004975",
+    "time": "2018-04-13 03:21:05",
     "許可證字號": "衛署粧製字第004975號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/03\/23",
+    "有效日期": "111\/03\/23",
     "發證日期": "98\/03\/23",
     "許可證種類": "含藥化粧品",
     "舊證字號": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
     "主成分略述": [
-        "AMMONIAWATER(AMMONIUMHYDROXIDE),HYDROGENPEROXIDE,RESORCINOL(RESORCIN),AMINOPHENOLPARA-(EQTOP-AMINOPHENOL),AMINOPHENOLORTHO-,AMINOPHENOLMETA-(EQTOM-AMINOPHENOL),P-METHYLAMINOPHENOLSULFATE,2-METHYLRESORCINOL,4-AMINO-2-HYDROXYTOLUENE,TOLUENE-2,5-DIAMINESULFATE,2-METHYL-5-HYDROXYETHYLAMINOPHENOL"
+        "AMMONIAWATER(AMMONIUMHYDROXIDE),HYDROGENPEROXIDE,RESORCINOL(RESORCIN),AMINOPHENOLPARA-(EQTOP-AMINOPHENOL),ORTHO-AMINOPHENOL,META-AMINOPHENOL(EQTOM-AMINOPHENOL),P-METHYLAMINOPHENOLSULFATE,2-METHYLRESORCINOL,4-AMINO-2-HYDROXYTOLUENE,TOLUENE-2,5-DIAMINESULFATE,2-METHYL-5-HYDROXYETHYLAMINOPHENOL"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "6240041941  耐斯企業股份有限公司",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "5840041077  耐斯企業股份有限公司民雄二廠",
         "製造廠廠址": "嘉義縣民雄鄉北斗村中興一街7號、中山路21號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -61,7 +60,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9200035402",
-            "成分名稱": "AMINOPHENOL ORTHO-",
+            "成分名稱": "ORTHO-AMINOPHENOL",
             "含量描述": "",
             "含量": "0.0400000000",
             "單位": "%(W\/W)"
@@ -69,7 +68,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9200035403",
-            "成分名稱": "AMINOPHENOL META- (EQ TO M-AMINOPHENOL)",
+            "成分名稱": "META-AMINOPHENOL (EQ TO M-AMINOPHENOL)",
             "含量描述": "",
             "含量": "0.2000000000",
             "單位": "%(W\/W)"
@@ -126,11 +125,11 @@
     "仿單外盒": [
         {
             "title": "許004975___20130114.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004975&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004975&Seq=001&Type=9"
         },
         {
             "title": "07004975___20120425.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004975&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004975&Seq=001&Type=8"
         }
     ]
 }

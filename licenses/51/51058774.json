@@ -1,7 +1,7 @@
 {
     "code": "51058774",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058774",
-    "time": "2015-08-23 13:42:56",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058774",
+    "time": "2018-04-13 03:05:36",
     "許可證字號": "衛部藥製字第058774號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,23 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY05105877405",
-    "中文品名": "\"派頓\"愛樂淨潔淨液0.5%",
-    "英文品名": "AIPISCRUB Solution 0.5% \"PATRON\"",
+    "中文品名": "&quot;派頓&quot;愛樂淨潔淨液0.5%",
+    "英文品名": "AIPISCRUB Solution 0.5% &quot;PATRON&quot;",
     "適應症": "一般外用消毒劑，可當作初步傷口處理。",
     "劑型": "370外用液劑",
     "包裝": "4000毫升以下塑膠瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
-    "管制藥品分類級別": "",
-    "主成分略述": "20% CHLORHEXIDINE GLUCONATE SOLUTION",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "20%CHLORHEXIDINEGLUCONATESOLUTION"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1407422200  臺灣派頓化學製藥股份有限公司",
-    "申請商地址": "高雄市岡山區為隨東路50號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1407422300  臺灣派頓化學製藥股份有限公司",
         "製造廠廠址": "高雄市岡山區為隨里為隨東路五十號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -42,20 +40,44 @@
             "含量描述": "(eq. to Chlorhexidine gluconate 5mg)",
             "含量": "0.0250000000",
             "單位": "ML"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5204900234",
+            "成分名稱": "20% CHLORHEXIDINE GLUCONATE SOLUTION",
+            "含量描述": "(eq. to Chlorhexidine gluconate 5mg)",
+            "含量": "0.0250000000",
+            "單位": "ML"
         }
     ],
     "仿單外盒": [
         {
-            "title": "[領證版]0.5%-仿單-104-07-02.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058774&Seq=001&Type=9"
+            "title": "51058774愛樂淨0.5%彩盒仿單-無色-107-03-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058774&Seq=004&Type=9"
         },
         {
-            "title": "[領證版]0.5%-標籤-104-07-02.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058774&Seq=002&Type=8"
+            "title": "51058774愛樂淨0.5%彩盒仿單-紅色-107-03-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058774&Seq=003&Type=9"
         },
         {
-            "title": "[領證版]0.5%-紙盒-104-07-02.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058774&Seq=001&Type=8"
+            "title": "510587740001-104-12-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058774&Seq=002&Type=9"
+        },
+        {
+            "title": "51058774愛樂淨0.5%標籤-107-03-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058774&Seq=006&Type=8"
+        },
+        {
+            "title": "51058774愛樂淨0.5%彩盒-塑膠瓶-無色-107-03-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058774&Seq=005&Type=8"
+        },
+        {
+            "title": "51058774愛樂淨0.5%彩盒-塑膠瓶-紅色-107-03-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058774&Seq=004&Type=8"
+        },
+        {
+            "title": "5105877740003-104-12-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058774&Seq=003&Type=8"
         }
     ]
 }

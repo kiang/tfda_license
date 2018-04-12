@@ -1,7 +1,7 @@
 {
     "code": "01038870",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01038870",
-    "time": "2016-11-25 03:24:54",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01038870",
+    "time": "2018-04-13 03:02:11",
     "許可證字號": "衛署藥製字第038870號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "6103030026  國嘉製藥工業股份有限公司幼獅三廠",
         "製造廠廠址": "臺中市大甲區日南里工十路2號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30042000211 人用醫藥製劑，含抗黴菌劑類抗生素者Medicaments, containing antifungal antibiotics, for human use",
     "藥理治療分類": "",
@@ -43,18 +42,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "白色軟膏狀",
+        "特殊氣味": "具花香味",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "POA-04 可妥那乳膏-104-09-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038870&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "POA-04(加) 可妥那乳膏-1.2版-104-12-22(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038870&Seq=002&Type=9"
-        },
-        {
-            "title": "010388700001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038870&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038870&Seq=002&Type=9"
         },
         {
             "title": "POA-04 可妥那15G-104-12-01(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038870&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038870&Seq=001&Type=8"
         }
     ]
 }

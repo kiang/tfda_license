@@ -1,7 +1,7 @@
 {
     "code": "56029029",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029029",
-    "time": "2016-12-30 03:23:22",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029029",
+    "time": "2018-04-13 03:11:57",
     "許可證字號": "衛部醫器輸字第029029號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,7 +15,7 @@
     "中文品名": "“百特”血液透析機",
     "英文品名": "“Baxter” Dialysis Machine",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "AK98",
+    "醫器規格": "AK98。增加規格：詳如中文仿單核定本，以下空白。",
     "劑型": "",
     "包裝": "",
     "標籤、仿單及包裝加註": "",
@@ -37,17 +37,24 @@
         "製造廠公司地址": "",
         "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "560290290001-107-03-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56029029&Seq=002&Type=9"
+        },
+        {
             "title": "560290290002-105-11-24.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56029029&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56029029&Seq=001&Type=9"
+        },
+        {
+            "title": "560290290001-107-03-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56029029&Seq=002&Type=8"
         },
         {
             "title": "560290290001-105-11-24.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56029029&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56029029&Seq=001&Type=8"
         }
     ]
 }

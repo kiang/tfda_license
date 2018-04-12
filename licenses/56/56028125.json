@@ -1,7 +1,7 @@
 {
     "code": "56028125",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028125",
-    "time": "2016-01-29 04:04:46",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028125",
+    "time": "2018-04-13 03:11:44",
     "許可證字號": "衛部醫器輸字第028125號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,30 +15,38 @@
     "中文品名": "“東芝”診斷超音波系統",
     "英文品名": "“Toshiba” Diagnostic Ultrasound System",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "APLIO 300 MODEL TUS-A300, APLIO 400 MODEL TUS-A400, APLIO 500 MODEL TUS-A500\r\n以下空白",
+    "醫器規格": "APLIO 300 MODEL TUS-A300, APLIO 400 MODEL TUS-A400, APLIO 500 MODEL TUS-A500\r\n以下空白\r\n增加規格：詳如中文仿單核定本（原105年1月7日仿單標籤核定本收回作廢）。",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "P放射學科用裝置",
     "醫器次類別一": "P1550超音波脈動都卜勒式影像系統",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入",
-        "09委託製造"
+    "主成分略述": [
+        ""
     ],
+    "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "0613501100  老達利貿易股份有限公司",
-    "申請商地址": "台北市南港區重陽路２２３號５樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "M290159000  Toshiba Medical Systems Manufacturing Asia DSN. BHD",
         "製造廠廠址": "Plot 111-A, Hala Kampung Jawa 2 Bayan Lepas Industrial Estate 11900 Penang, Malaysia",
         "製造廠公司地址": "",
-        "製造廠國別": "MALAYSIA",
-        "製程": "Manufactured by"
+        "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": []
+    "ingredients": [],
+    "仿單外盒": [
+        {
+            "title": "560281250001-107-03-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56028125&Seq=002&Type=9"
+        },
+        {
+            "title": "560281250001-107-03-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56028125&Seq=002&Type=8"
+        }
+    ]
 }

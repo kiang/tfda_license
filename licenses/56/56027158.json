@@ -1,7 +1,7 @@
 {
     "code": "56027158",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027158",
-    "time": "2015-08-23 23:55:34",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027158",
+    "time": "2018-04-13 03:11:31",
     "許可證字號": "衛部醫器輸字第027158號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,40 +15,46 @@
     "中文品名": "“歐姆可”第二代戴蒙透明矯正托架",
     "英文品名": "“Ormco” Damon Clear 2 Bracket System",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "詳如中文仿單核定本",
+    "醫器規格": "詳如中文仿單核定本。增加規格：詳如中文仿單核定本，以下空白。",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "F牙科裝置",
     "醫器次類別一": "F5470牙科矯正塑膠托架",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入",
-        "09委託製造"
+    "主成分略述": [
+        ""
     ],
+    "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6201015158  湧傑企業股份有限公司",
-    "申請商地址": "台北市松山區敦化南路一段2號5樓之1",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "M300048000  SDS DE MEXICO, S. DE R.L. DE C.V.",
         "製造廠廠址": "CIRCUITO SUR NO. 31 PARQUE INDUSTRIAL NELSON MEXICALI, B.C. C.P., 21395 MEXICO",
         "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": "Manufactured by"
+        "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "560271580001-107-03-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027158&Seq=002&Type=9"
+        },
+        {
             "title": "560271580001-104-04-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027158&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027158&Seq=001&Type=9"
+        },
+        {
+            "title": "560271580001-107-03-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027158&Seq=002&Type=8"
         },
         {
             "title": "560271580002-104-04-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027158&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027158&Seq=001&Type=8"
         }
     ]
 }

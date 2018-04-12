@@ -1,7 +1,7 @@
 {
     "code": "08016648",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016648",
-    "time": "2015-08-23 19:36:14",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016648",
+    "time": "2018-04-13 03:13:20",
     "許可證字號": "衛署粧輸字第016648號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,27 +12,25 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00801664802",
-    "中文品名": "425 香氛止汗粉霜",
+    "中文品名": "瑪琍嘉蘭425號香氛止汗粉霜",
     "英文品名": "MARIA GALLAND DEODORANT CREME CARESSE\/ SOFT AND GENTLE CREAM DEODORANT",
     "用途": "止汗制臭。",
     "劑型": "992霜劑",
     "包裝": "500ml以下瓶裝 無外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0507止汗劑",
-    "": "",
-    "主成分略述": "ALUMINUM CHLOROHYDRATE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "ALUMINUMCHLOROHYDRATE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "6628688249  佶冠事業有限公司",
-    "申請商地址": "台北市內湖區瑞光路513巷22弄5號7樓之3",
     "主製造廠": {
-        "製造廠名稱": "C150089000  MARIA GALLAND",
-        "製造廠廠址": "22 RUE SAINT GILLES 75003 PARIS, FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
+        "主製造廠": "",
+        "製造廠名稱": "C430034000  INTERCOSMETICA NEUCHATEL SA",
+        "製造廠廠址": "ROUTE DES GOUTTES-D&#39;OR 30, SWITZERLAND",
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -42,6 +40,12 @@
             "含量描述": "(ANHYDROUS)",
             "含量": "12.0000000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08016648-107-03-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016648&Seq=001&Type=8"
         }
     ]
 }

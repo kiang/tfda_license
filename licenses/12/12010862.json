@@ -1,7 +1,7 @@
 {
     "code": "12010862",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12010862",
-    "time": "2015-11-27 05:16:03",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12010862",
+    "time": "2018-04-13 03:05:20",
     "許可證字號": "內衛藥製字第010862號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,27 +12,25 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY01201086201",
-    "中文品名": "\"華盛頓\" 次碳酸鉍錠０．３２４克",
-    "英文品名": "BISMUTH SUBCARBONATE TABLETS \"WASHINGTON\"",
+    "中文品名": "&quot;華盛頓&quot; 次碳酸鉍錠０．３２４克",
+    "英文品名": "BISMUTH SUBCARBONATE TABLETS &quot;WASHINGTON&quot;",
     "適應症": "腹瀉",
     "劑型": "110錠劑",
     "包裝": "100,500,1000粒瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "BISMUTH SUBCARBONATE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "BISMUTHSUBCARBONATE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1202801200  華盛頓製藥廠股份有限公司",
-    "申請商地址": "高雄市仁武區仁武里工業二路12號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1202822300  華盛頓製藥廠股份有限公司",
         "製造廠廠址": "高雄市仁武區仁武里工業二路12號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -45,19 +43,29 @@
         }
     ],
     "藥物辨識詳細資料": {
-        "外觀尺寸": "",
+        "外觀尺寸": "直徑:8.7mm~9.3mm;厚度:2.7mm~3.3mm",
         "特殊劑型": "",
-        "顏色": "白色",
-        "特殊氣味": "",
-        "刻痕": "",
+        "顏色": "乳白色",
+        "特殊氣味": "無",
+        "刻痕": "有",
         "形狀": "圓扁形",
-        "標記一": "WP",
+        "標記一": "單面印有WP字樣",
         "標記二": ""
     },
     "藥物辨識外觀圖片": [
         {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12010862&Seq=456&Type=10"
+            "title": "華盛頓牌次碳酸鉍錠-104-12-16(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12010862&Seq=457&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "次碳酸鉍錠-104-12-07(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12010862&Seq=001&Type=9"
+        },
+        {
+            "title": "華盛頓牌次碳酸鉍錠0.324克 1000tab-104-12-15(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12010862&Seq=001&Type=8"
         }
     ]
 }

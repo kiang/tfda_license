@@ -1,12 +1,12 @@
 {
     "code": "02025708",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025708",
-    "time": "2017-04-28 03:29:38",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025708",
+    "time": "2018-04-13 03:18:14",
     "許可證字號": "衛署藥輸字第025708號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/03\/18",
+    "有效日期": "112\/03\/18",
     "發證日期": "102\/03\/18",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "F260246100  OTSUKA PHARMACEUTICAL FACTORY, INC., KUSHIRO FACTORY",
         "製造廠廠址": "1-13, ASAHI, ONBETSU-CHO, KUSHIRO, HOKKAIDO, JAPAN",
-        "製造廠公司地址": "115 KUGUHARA,TATEIWA, MUYA-CHO, NARUTO, TOKUSHIMA, JAPAN",
-        "": ""
+        "製造廠公司地址": "115 KUGUHARA,TATEIWA, MUYA-CHO, NARUTO, TOKUSHIMA, JAPAN"
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -364,34 +363,58 @@
             "單位": "ug"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "無色澄明液",
+        "特殊劑型": "",
+        "顏色": "塑膠軟袋裝",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Neoparen No.1_1500mL-106-02-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025708&Seq=017&Type=10"
+        },
+        {
+            "title": "Neoparen No.1_1000mL-106-02-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025708&Seq=016&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
+            "title": "17-0321-新派瑞恩_II1602-106-07-31(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025708&Seq=007&Type=9"
+        },
+        {
             "title": "9. Neoparen_Chinese PI_A3_加註賦形劑-104-01-08.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025708&Seq=004&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025708&Seq=004&Type=9"
         },
         {
             "title": "Neoparen No.1_1500mL_back side-106-02-22.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025708&Seq=025&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025708&Seq=025&Type=8"
         },
         {
             "title": "Neoparen No.1_1500mL_front side-106-02-22.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025708&Seq=024&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025708&Seq=024&Type=8"
         },
         {
             "title": "Neoparen No.1_1000mL_back side-106-02-22.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025708&Seq=023&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025708&Seq=023&Type=8"
         },
         {
             "title": "Neoparen No.1_1000mL_front side-106-02-22.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025708&Seq=022&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025708&Seq=022&Type=8"
         },
         {
             "title": "Neoparen No.1_1500mL_label-106-02-22.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025708&Seq=021&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025708&Seq=021&Type=8"
         },
         {
             "title": "Neoparen No.1_1000mL_label-106-02-22.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025708&Seq=020&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025708&Seq=020&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "12004516",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12004516",
-    "time": "2015-08-23 13:45:16",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12004516",
+    "time": "2018-04-13 03:05:13",
     "許可證字號": "內衛藥製字第004516號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,28 +12,25 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "null",
-    "中文品名": "\"福元\" 使入眠錠５毫克",
-    "英文品名": "SLEEP TABLETS 5MG \"F.Y.\"",
+    "中文品名": "&quot;福元&quot; 使入眠錠５毫克",
+    "英文品名": "SLEEP TABLETS 5MG &quot;F.Y.&quot;",
     "適應症": "失眠",
     "劑型": "110錠劑",
     "包裝": "2~1000錠塑膠瓶裝 2~1000錠PTP 鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "D第四級管制藥品",
-    "主成分略述": "NITRAZEPAM",
-    "限制項目": [
-        "01國產",
-        "34第四級管制藥品"
+    "主成分略述": [
+        "NITRAZEPAM"
     ],
+    "限制項目": "01國　產 34第四級管制藥品",
     "申請商名稱": "1419531200  福元化學製藥股份有限公司",
-    "申請商地址": "新北市瑞芳區大寮路95-1號1樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1419502300  福元化學製藥股份有限公司",
         "製造廠廠址": "新北市瑞芳區大寮路９５號之１",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -57,18 +54,30 @@
     },
     "藥物辨識外觀圖片": [
         {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12004516&Seq=443&Type=10"
+            "title": "004516-104-09-15(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12004516&Seq=444&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "LT-T059 004516-104-08-06.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12004516&Seq=002&Type=9"
+            "title": "內衛藥製字第004516號使入眠仿單-107-03-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12004516&Seq=003&Type=9"
         },
         {
-            "title": "內衛藥製字第004516號(福元)___20110428.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12004516&Seq=001&Type=9"
+            "title": "LT-T059 004516-104-08-06(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12004516&Seq=002&Type=9"
+        },
+        {
+            "title": "內衛藥製字第004516號使入眠標籤-107-03-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12004516&Seq=003&Type=8"
+        },
+        {
+            "title": "內衛藥製字第004516號使入眠5毫克PTP-107-03-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12004516&Seq=002&Type=8"
+        },
+        {
+            "title": "LA-T059 004516-104-09-15(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12004516&Seq=001&Type=8"
         }
     ]
 }

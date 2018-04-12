@@ -1,7 +1,7 @@
 {
     "code": "52027034",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52027034",
-    "time": "2017-03-24 03:20:12",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52027034",
+    "time": "2018-04-13 03:06:11",
     "許可證字號": "衛部藥輸字第027034號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,11 +28,19 @@
         "主製造廠": "",
         "製造廠名稱": "F130044400  GLAXO OPERATIONS UK LIMITED",
         "製造廠廠址": "PRIORY STREET, WARE, HERTFORDSHIRE, SG12 0DJ, UNITED KINGDOM.",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "CCC號列": "30043900906 其他醫藥製劑，含有荷爾蒙或第２９３７節之其他產品Other medicaments, containing hormones or other products of heading 29.37",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "1225204000  裕利股份有限公司",
+            "製造廠廠址": "桃園市大園區和平里1鄰開和路91號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠(委託貼標及置入仿單)"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -53,20 +61,28 @@
     ],
     "仿單外盒": [
         {
+            "title": "020270340001-107-01-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027034&Seq=003&Type=9"
+        },
+        {
+            "title": "Relvar 92 184 Agile_10000000141847-106-08-28(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027034&Seq=002&Type=9"
+        },
+        {
             "title": "020270340001-106-02-21.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027034&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027034&Seq=001&Type=9"
         },
         {
             "title": "020270340004-106-02-21.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027034&Seq=003&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027034&Seq=003&Type=8"
         },
         {
             "title": "020270340003-106-02-21.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027034&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027034&Seq=002&Type=8"
         },
         {
             "title": "020270340002-106-02-21.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027034&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027034&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "71000015",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=71000015",
-    "time": "2016-05-27 05:24:30",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=71000015",
+    "time": "2018-04-13 03:06:34",
     "許可證字號": "衛部罕藥製字第000015號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,23 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY07100001500",
-    "中文品名": "\"旭能\"優加力注射劑1公克\/5毫升",
-    "英文品名": "L-Carnit \"Shiner\" Injection 1g\/5ml",
+    "中文品名": "&quot;旭能&quot;優加力注射劑1公克\/5毫升",
+    "英文品名": "L-Carnit &quot;Shiner&quot; Injection 1g\/5ml",
     "適應症": "用於先天遺傳性代謝異常的續發性Carnitine缺乏病患之急性慢性治療。",
     "劑型": "270注射劑",
     "包裝": "5毫升安瓿 100支以下盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "LEVOCARNITINE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "LEVOCARNITINE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "620111B655  旭能醫藥生技股份有限公司",
-    "申請商地址": "新北市汐止區新台五路一段97號13樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "6133061495  聯亞藥業股份有限公司新竹廠",
         "製造廠廠址": "新竹縣湖口鄉中興村光復北路45號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -44,22 +42,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "透明液體",
+        "特殊氣味": "",
+        "刻痕": "無",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "000015 L-Carnit Shiner Injection 1G - UBIP Label 20150317-104-09-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=71000015&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "L4454-11_p.02_Ocarnit_150323-104-03-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=71000015&Seq=002&Type=9"
+            "title": "000015 L-Carnit Shiner Injection 1G - UBIP Insert 20150323-104-09-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=71000015&Seq=003&Type=9"
         },
         {
-            "title": "L4454-11_p.01_Ocarnit_150323-104-03-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=71000015&Seq=001&Type=9"
-        },
-        {
-            "title": "M4454-11_Ocarnit_150323-104-03-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=71000015&Seq=002&Type=8"
-        },
-        {
-            "title": "K4454-11_Ocarnit_150317-104-03-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=71000015&Seq=001&Type=8"
+            "title": "000015 L-Carnit Shiner Injection 1G - UBIP Box 20150323-104-09-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=71000015&Seq=003&Type=8"
         }
     ]
 }

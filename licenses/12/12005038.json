@@ -1,7 +1,7 @@
 {
     "code": "12005038",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12005038",
-    "time": "2016-03-25 04:23:07",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12005038",
+    "time": "2018-04-13 03:05:14",
     "許可證字號": "內衛藥製字第005038號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,28 +12,25 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "null",
-    "中文品名": "\"強生\" 大益神膠囊",
-    "英文品名": "DIPOXIDO CAPSULES \"JOHNSON\"",
+    "中文品名": "&quot;強生&quot; 大益神膠囊",
+    "英文品名": "DIPOXIDO CAPSULES &quot;JOHNSON&quot;",
     "適應症": "焦慮狀態、急性酒精戒斷症候群",
     "劑型": "130膠囊劑",
     "包裝": "4-1000粒塑膠瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "D第四級管制藥品",
-    "主成分略述": "CHLORDIAZEPOXIDE HCL",
-    "限制項目": [
-        "01國產",
-        "34第四級管制藥品"
+    "主成分略述": [
+        "CHLORDIAZEPOXIDEHCL"
     ],
+    "限制項目": "01國　產 34第四級管制藥品",
     "申請商名稱": "1110202200  強生化學製藥廠股份有限公司",
-    "申請商地址": "新北市三重區三和路四段77號2、3樓、79號1至6樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1110202300  強生化學製藥廠股份有限公司",
         "製造廠廠址": "新北市三重區三和路四段７７號2、3樓、79號1至6樓",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -46,25 +43,37 @@
         }
     ],
     "藥物辨識詳細資料": {
-        "外觀尺寸": "",
+        "外觀尺寸": "膠囊劑No.4",
         "特殊劑型": "",
-        "顏色": "黑色\/明綠",
+        "顏色": "黑色~綠色",
         "特殊氣味": "",
         "刻痕": "",
-        "形狀": "長圓柱形",
+        "形狀": "",
         "標記一": "",
         "標記二": ""
     },
     "藥物辨識外觀圖片": [
         {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005038&Seq=445&Type=10"
+            "title": "G-08 裸錠-104-09-24(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005038&Seq=446&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "120050380001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005038&Seq=001&Type=9"
+            "title": "G-8說明書-大益神膠囊 Dipoxido(Chlordiazepoxide HCl 10mg)-2018.01.24-107-03-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005038&Seq=003&Type=9"
+        },
+        {
+            "title": "G-08說明書(賦形劑)-大益神膠囊 DIPOXIDO Cap.(Chlordiazepoxide HCl...10mg)-104-09-24(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005038&Seq=002&Type=9"
+        },
+        {
+            "title": "G-8標籤-大益神膠囊 Dipoxido(Chlordiazepoxide HCl 10mg)-2018.01.24-107-03-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005038&Seq=002&Type=8"
+        },
+        {
+            "title": "G-08 瓶裝-104-09-24(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005038&Seq=001&Type=8"
         }
     ]
 }

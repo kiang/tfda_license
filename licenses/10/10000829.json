@@ -1,7 +1,7 @@
 {
     "code": "10000829",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000829",
-    "time": "2017-06-16 03:04:34",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000829",
+    "time": "2018-04-13 03:05:03",
     "許可證字號": "衛署菌疫輸字第000829號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,7 +14,7 @@
     "通關簽審文件編號": "DHA01000082903",
     "中文品名": "補施追安痺威疫苗",
     "英文品名": "boostrixTM polio",
-    "適應症": "boostrixTM polio 適用於四歲以上者的追加疫苗接種，用以預防白喉、破傷風、百日咳及小兒麻痺。boostrixTM polio並非供基礎免疫接種之用。",
+    "適應症": "Boostrix Polio適用於三歲(含)以上者的追加疫苗接種，用以預防白喉、破傷風、百日咳及小兒麻痺。\r\nBoostrix Polio並非供未滿三歲之兒童基礎免疫接種之用。",
     "劑型": "275懸浮注射劑",
     "包裝": "單劑量0.5ml預充填型注射器附針頭 單劑量0.5ml小瓶",
     "標籤、仿單及包裝加註": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "F050018000  GLAXOSMITHKLINE BIOLOGICALS S.A.",
         "製造廠廠址": "89 RUE DE L&#39;INSTITUT 1330 RIXENSART-BELGIUM",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30022000008 人類醫藥用疫苗Vaccines for human medicine",
     "藥理治療分類": "",
@@ -129,18 +128,38 @@
             "單位": "UG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "混濁注射懸浮液(0.5毫升)，盛放在預充填針筒或小瓶中",
+        "特殊劑型": "",
+        "顏色": "白色混濁懸浮液",
+        "特殊氣味": "無",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "040008290004-105-02-19(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000829&Seq=004&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
+            "title": "Boostrix Polio_475276_market-107-03-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000829&Seq=017&Type=9"
+        },
+        {
             "title": "020008290001-106-03-24.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000829&Seq=014&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000829&Seq=014&Type=9"
         },
         {
             "title": "Boostrix Polio L137-003-04_475276-104-08-27(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000829&Seq=013&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000829&Seq=013&Type=9"
         },
         {
             "title": "Boostrix Polio SL137-003-04-105-02-19(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000829&Seq=007&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000829&Seq=007&Type=8"
         }
     ]
 }

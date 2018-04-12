@@ -1,12 +1,12 @@
 {
     "code": "01057944",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057944",
-    "time": "2016-11-18 16:01:08",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057944",
+    "time": "2018-04-13 03:17:42",
     "許可證字號": "衛署藥製字第057944號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/05\/27",
+    "有效日期": "112\/05\/27",
     "發證日期": "102\/05\/27",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "0505720300  正和製藥股份有限公司新營廠",
         "製造廠廠址": "台南市新營區嘉芳里新工路２３號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -43,38 +42,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "9.5mm",
+        "特殊劑型": "",
+        "顏色": "白色",
+        "特殊氣味": "",
+        "刻痕": "有",
+        "形狀": "圓凸形",
+        "標記一": "HY",
+        "標記二": "60"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "010579440004-外觀-104-09-24(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057944&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "010579440001-仿單賦形劑-104-12-18(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057944&Seq=003&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057944&Seq=003&Type=9"
         },
         {
-            "title": "010579440001-102-07-02.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057944&Seq=001&Type=9"
-        },
-        {
-            "title": "010579440002-標籤1000TG-105-04-29(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057944&Seq=006&Type=8"
-        },
-        {
-            "title": "010579440003-鋁箔-104-09-24(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057944&Seq=005&Type=8"
-        },
-        {
-            "title": "010579440002-標籤600TG-104-09-24(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057944&Seq=004&Type=8"
-        },
-        {
-            "title": "010579440004-102-07-02.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057944&Seq=003&Type=8"
-        },
-        {
-            "title": "010579440003-102-07-02.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057944&Seq=002&Type=8"
-        },
-        {
-            "title": "010579440002-102-07-02.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057944&Seq=001&Type=8"
+            "title": "010579440002-1000TG106.02.07-106-02-07(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057944&Seq=007&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "52026751",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026751",
-    "time": "2016-11-25 03:29:28",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026751",
+    "time": "2018-04-13 03:06:01",
     "許可證字號": "衛部藥輸字第026751號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "F070049000  PHARMASCIENCE INC.",
         "製造廠廠址": "6111 ROYALMOUNT AVENUE SUITE 100 MONTREAL, QUEBEC CANADA H4P 2T4",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -52,18 +51,46 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "黃色",
+        "特殊氣味": "",
+        "刻痕": "無",
+        "形狀": "橢圓形",
+        "標記一": "M18",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "每思凝18mg裸錠-106-03-06(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026751&Seq=002&Type=10"
+        },
+        {
+            "title": "52026751-105-04-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026751&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
+            "title": "S-AW-001101.00-20161110123027-Ryan-pms-Methylphenidate ER 18mg and 36mg Tablets - PMS Insert 20160607-106-03-06(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026751&Seq=002&Type=9"
+        },
+        {
             "title": "pms-Methylphenidate ER Tablets - PMS Insert 20160307-105-04-28.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026751&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026751&Seq=001&Type=9"
+        },
+        {
+            "title": "S-AW-001104.00-20161110123657-Ryan-pms-Methylphenidate ER 18mg Tablets - PMS Box 20161110-106-03-06(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026751&Seq=004&Type=8"
+        },
+        {
+            "title": "S-AW-001103.00-20161110123425-Ryan-pms-Methylphenidate ER 18mg Tablets - PMS lable 20160516-106-03-06(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026751&Seq=003&Type=8"
         },
         {
             "title": "Methylphenidate 18 lable Final-105-04-28.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026751&Seq=002&Type=8"
-        },
-        {
-            "title": "Methylphenidate 18 Box Final-105-04-28.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026751&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026751&Seq=002&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "08015875",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08015875",
-    "time": "2015-08-23 19:32:13",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08015875",
+    "time": "2018-04-13 03:26:19",
     "許可證字號": "衛署粧輸字第015875號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,22 +17,20 @@
     "用途": "防曬。",
     "劑型": "940粉劑",
     "包裝": "500公克以下盒裝 附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0602粉餅",
-    "": "",
-    "主成分略述": "TITANIUM DIOXIDE CI 77891, ETHYLHEXYL METHOXYCINNAMATE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "TITANIUMDIOXIDECI77891,ETHYLHEXYLMETHOXYCINNAMATE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1428601100  台灣萊雅股份有限公司",
-    "申請商地址": "台北市信義區信義路五段7號22樓23樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C290011000  INTERCOS ASIA PACIFIC SDN. BHD.",
         "製造廠廠址": "NO.27, JALAN TSB1, TAMAN INDUSTRI SUNGAI BULOH, 47000 SUNGAI BULOH SELANGOR, MALAYSIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "MALAYSIA",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -82,6 +80,12 @@
             "含量描述": "",
             "含量": "2.9990000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08015875-2009-03-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015875&Seq=001&Type=9"
         }
     ]
 }

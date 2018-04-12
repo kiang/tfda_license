@@ -1,7 +1,7 @@
 {
     "code": "20000018",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=20000018",
-    "time": "2015-09-25 04:37:21",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=20000018",
+    "time": "2018-04-13 03:05:24",
     "許可證字號": "衛署罕藥輸字第000018號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,21 +16,19 @@
     "英文品名": "Flolan injection 1.5mg",
     "適應症": "原發性肺動脈高血壓。",
     "劑型": "243凍晶注射劑",
-    "包裝": "玻璃小瓶裝 附50毫升玻璃瓶裝溶劑及過濾器 100支以下盒裝",
+    "包裝": "100支以下盒裝 附50毫升塑膠瓶裝 玻璃小瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "EPOPROSTENOL SODIUM",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "EPOPROSTENOLSODIUM"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "6201011338  荷商葛蘭素史克藥廠股份有限公司台灣分公司",
-    "申請商地址": "台北市中正區忠孝西路一段66號23-24樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F250339000  GLAXOSMITHKLINE MANUFACTURING S.P.A.",
         "製造廠廠址": "STRADA PROVINCIALE ASOLANA,90, 43056 SAN POLO DI TORRILE PARMA, ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -46,32 +44,24 @@
     ],
     "仿單外盒": [
         {
+            "title": "仿單核定本-107-03-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000018&Seq=008&Type=9"
+        },
+        {
             "title": "020000180001-104-07-24.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000018&Seq=007&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000018&Seq=007&Type=9"
         },
         {
-            "title": "020000180004___20110706.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000018&Seq=006&Type=9"
+            "title": "1.5mg標籤核定本_2-107-03-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000018&Seq=003&Type=8"
         },
         {
-            "title": "020000180003___20110706.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000018&Seq=005&Type=9"
+            "title": "1.5mg標籤核定本_1-107-03-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000018&Seq=002&Type=8"
         },
         {
-            "title": "020000180002___20130208.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000018&Seq=004&Type=9"
-        },
-        {
-            "title": "020000180002___20110706.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000018&Seq=003&Type=9"
-        },
-        {
-            "title": "020000180001___20130208.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000018&Seq=002&Type=9"
-        },
-        {
-            "title": "020000180001___20110706.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000018&Seq=001&Type=9"
+            "title": "1.5mg外盒標籤核定本-107-03-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000018&Seq=001&Type=8"
         }
     ]
 }

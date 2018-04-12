@@ -1,7 +1,7 @@
 {
     "code": "01024006",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01024006",
-    "time": "2016-11-18 12:10:28",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01024006",
+    "time": "2018-04-13 03:01:10",
     "許可證字號": "衛署藥製字第024006號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "0908703300  信東生技股份有限公司",
         "製造廠廠址": "桃園市桃園區介壽路２２號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -83,22 +82,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "無色至淡黃色透明溶液",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "TPN No.8-A inj. 024006-105-01-11(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024006&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "54200090 TBC No.8A Injection(Lit)-章裕(印刷版次5)-104-10-02(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024006&Seq=002&Type=9"
-        },
-        {
-            "title": "18 TBC No.8-A Injection(衛署藥製字第024006號)-20140411再修改-103-06-11.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024006&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024006&Seq=002&Type=9"
         },
         {
             "title": "54200180 TBC No. 8A Injection(L-500mlx20，KT，外箱)-昱和(印刷版次2)-104-10-02(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024006&Seq=002&Type=8"
-        },
-        {
-            "title": "54200010 TBC No. 8A Injection(L-400／500ml)-蘭國(印刷版次7)-104-10-02(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024006&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024006&Seq=002&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "20000017",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=20000017",
-    "time": "2015-09-25 04:37:19",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=20000017",
+    "time": "2018-04-13 03:05:23",
     "許可證字號": "衛署罕藥輸字第000017號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,24 +16,31 @@
     "英文品名": "Flolan injection 0.5mg",
     "適應症": "原發性肺動脈高血壓。",
     "劑型": "243凍晶注射劑",
-    "包裝": "玻璃小瓶裝 附50毫升玻璃瓶裝溶劑及過濾器 100支以下盒裝",
+    "包裝": "100支以下盒裝 附50毫升塑膠小瓶裝 玻璃小瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "EPOPROSTENOL SODIUM",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "EPOPROSTENOLSODIUM"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "6201011338  荷商葛蘭素史克藥廠股份有限公司台灣分公司",
-    "申請商地址": "台北市中正區忠孝西路一段66號23-24樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F250339000  GLAXOSMITHKLINE MANUFACTURING S.P.A.",
         "製造廠廠址": "STRADA PROVINCIALE ASOLANA,90 SAN POLO DI TORRILE 43056 PARMA, ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "6132061151  裕利股份有限公司",
+            "製造廠廠址": "桃園市大園區和平里1鄰開和路91號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠(委託貼標及置入仿單)"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -44,34 +51,46 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "粉末狀",
+        "特殊劑型": "",
+        "顏色": "白至灰白色",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "200000170004-105-01-26(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000017&Seq=004&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "020000170001-104-07-24.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000017&Seq=007&Type=9"
+            "title": "仿單核定本-107-03-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000017&Seq=010&Type=9"
         },
         {
-            "title": "020000170004___20110712.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000017&Seq=006&Type=9"
+            "title": "Flolan 0.5mg injection L863-307-04_10000000136200-105-09-01(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000017&Seq=009&Type=9"
         },
         {
-            "title": "020000170003___20110712.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000017&Seq=005&Type=9"
+            "title": "500micro_標籤核定本_2-107-03-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000017&Seq=008&Type=8"
         },
         {
-            "title": "020000170002___20130208.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000017&Seq=004&Type=9"
+            "title": "500micro_標籤核定本_1-107-03-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000017&Seq=007&Type=8"
         },
         {
-            "title": "020000170002___20110712.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000017&Seq=003&Type=9"
+            "title": "500micro_外盒核定本-107-03-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000017&Seq=006&Type=8"
         },
         {
-            "title": "020000170001___20130208.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000017&Seq=002&Type=9"
-        },
-        {
-            "title": "020000170001___20110712.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000017&Seq=001&Type=9"
+            "title": "Flolan 0.5mg injection M863-307-02_10000000136231-105-09-01(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000017&Seq=005&Type=8"
         }
     ]
 }

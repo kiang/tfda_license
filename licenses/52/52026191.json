@@ -1,7 +1,7 @@
 {
     "code": "52026191",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026191",
-    "time": "2015-08-23 05:36:45",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026191",
+    "time": "2018-04-13 03:05:51",
     "許可證字號": "衛部藥輸字第026191號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,18 @@
     "適應症": "搔癢、昆蟲咬傷、蕁麻疹、過敏性皮膚炎、各種皮膚搔癢症",
     "劑型": "370外用液劑",
     "包裝": "100毫升以下塑膠瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
-    "管制藥品分類級別": "",
-    "主成分略述": "DIPHENHYDRAMINE HCL, Prednisolone Valerate Acetate, CAMPHOR DL-, MENTHOL L-, Isopropylmethylphenol",
-    "限制項目": [
-        ""
+    "主成分略述": [
+        "DIPHENHYDRAMINEHCL,PrednisoloneValerateAcetate,DL-CAMPHOR,L-MENTHOL,Isopropylmethylphenol"
     ],
+    "限制項目": "",
     "申請商名稱": "1508901100  德佑藥品有限公司",
-    "申請商地址": "台北市松山區敦化南路一段3號2樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F264114100  YUKINOMOTO HONTEN CO., LTD.",
         "製造廠廠址": "182, 183, 184 OTANI-CHO KASHIHARA CITY NARA JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -54,7 +52,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "8408000103",
-            "成分名稱": "CAMPHOR DL-",
+            "成分名稱": "DL-CAMPHOR",
             "含量描述": "",
             "含量": "10.0000000000",
             "單位": "MG"
@@ -62,7 +60,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "8408000302",
-            "成分名稱": "MENTHOL L-",
+            "成分名稱": "L-MENTHOL",
             "含量描述": "",
             "含量": "35.0000000000",
             "單位": "MG"
@@ -78,24 +76,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "冠保鎮癢消炎液_衛部藥輸字第026191號_中文仿單-103-01-08.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026191&Seq=001&Type=9"
+            "title": "衛部藥輸字第026191號-冠保鎮癢消炎液_仿單-107-03-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026191&Seq=002&Type=9"
         },
         {
-            "title": "冠保鎮癢消炎液_衛部藥輸字第026191號_產品背面-103-01-08.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026191&Seq=004&Type=8"
-        },
-        {
-            "title": "冠保鎮癢消炎液_衛部藥輸字第026191號_產品正面-103-01-08.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026191&Seq=003&Type=8"
-        },
-        {
-            "title": "冠保鎮癢消炎液_衛部藥輸字第026191號_中文標籤-103-01-08.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026191&Seq=002&Type=8"
-        },
-        {
-            "title": "冠保鎮癢消炎液_衛部藥輸字第026191號-103-01-08.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026191&Seq=001&Type=8"
+            "title": "衛部藥輸字第026191號-冠保鎮癢消炎液_外盒-107-03-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026191&Seq=005&Type=8"
         }
     ]
 }

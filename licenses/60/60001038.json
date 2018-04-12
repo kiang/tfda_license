@@ -1,7 +1,7 @@
 {
     "code": "60001038",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60001038",
-    "time": "2017-03-24 03:20:14",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60001038",
+    "time": "2018-04-13 03:06:29",
     "許可證字號": "衛部菌疫輸字第001038號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "M150940000  Sanofi Winthrop Industrie",
         "製造廠廠址": "1051 BOULEVARD INDUSTRIEL, 76580 LE TRAIT, FRANCE",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "CCC號列": "30021500005 免疫產品，具有劑量或零售包裝式樣者Immunological products, put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
     "次製造廠": [
         {
@@ -40,6 +39,13 @@
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
             "製程": "二級包裝廠(委託貼標及置入仿單)"
+        },
+        {
+            "製造廠名稱": "F230035000  GENZYME IRELAND LIMITED",
+            "製造廠廠址": "IDA INDUSTRIAL PARK, OLD KILMEADEN ROAD, WATERFORD, IRELAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "IRELAND",
+            "製程": "二級包裝廠"
         },
         {
             "製造廠名稱": "F460332000  REGENERON PHARMACEUTICALS INC.",
@@ -69,35 +75,35 @@
     "仿單外盒": [
         {
             "title": "Praluent 150mg pen中文使用手冊-106-02-17.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001038&Seq=003&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001038&Seq=003&Type=9"
         },
         {
             "title": "Praluent 150mg syringe中文使用手冊-106-02-17.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001038&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001038&Seq=002&Type=9"
         },
         {
             "title": "Praluent 150mg 中文仿單-106-02-17.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001038&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001038&Seq=001&Type=9"
         },
         {
             "title": "pen 外盒 一隻裝 150mg-106-02-17.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001038&Seq=005&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001038&Seq=005&Type=8"
         },
         {
             "title": "pen 標籤 150mg-106-02-17.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001038&Seq=004&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001038&Seq=004&Type=8"
         },
         {
             "title": "syringe 外盒 一隻裝 150mg-106-02-17.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001038&Seq=003&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001038&Seq=003&Type=8"
         },
         {
             "title": "syringe 標籤 150mg-106-02-17.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001038&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001038&Seq=002&Type=8"
         },
         {
             "title": "中文標籤-106-02-17.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001038&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001038&Seq=001&Type=8"
         }
     ]
 }

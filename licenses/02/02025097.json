@@ -1,7 +1,7 @@
 {
     "code": "02025097",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025097",
-    "time": "2016-11-18 20:38:46",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025097",
+    "time": "2018-04-13 03:04:35",
     "許可證字號": "衛署藥輸字第025097號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,11 +28,19 @@
         "主製造廠": "",
         "製造廠名稱": "F260383100  KYORIN RIMEDIO CO. LTD. INAMI FACTORY",
         "製造廠廠址": "885, INAMI, NANTO-CITY, TOYAMA, JAPAN",
-        "製造廠公司地址": "287-1, SHIMOCHO, MOROE-CHO, KANAZAWA CITY, JAPAN",
-        "": ""
+        "製造廠公司地址": "287-1, SHIMOCHO, MOROE-CHO, KANAZAWA CITY, JAPAN"
     },
     "CCC號列": "",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "F260984000  Fuji Seal, Inc. Tsukuba Factory",
+            "製造廠廠址": "36-2 Kasumino-sato, Ami-machi, Inashiki-gun, Ibaraki, Japan",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "二級包裝廠"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -70,15 +78,11 @@
     "仿單外盒": [
         {
             "title": "視安_025097_104.12.30-104-12-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025097&Seq=002&Type=9"
-        },
-        {
-            "title": "衛署藥輸字第025097號-103-02-13.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025097&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025097&Seq=002&Type=9"
         },
         {
             "title": "025097_box-104-11-11(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025097&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025097&Seq=001&Type=8"
         }
     ]
 }

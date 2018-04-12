@@ -1,7 +1,7 @@
 {
     "code": "52026686",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026686",
-    "time": "2017-01-27 03:30:07",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026686",
+    "time": "2018-04-13 03:06:00",
     "許可證字號": "衛部藥輸字第026686號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,10 +26,9 @@
     "申請商名稱": "1406701200  台灣武田藥品工業股份有限公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "F260328200  TAKEDA PHARMACEUTICAL COMPANY, LTD. (OSAKA PLANT)",
-        "製造廠廠址": "17-85 JUSOHONMACHI 2-CHOME, YODOGAWA-KU OSAKA, JAPAN",
-        "製造廠公司地址": "1-1 DOCHOMACHI 4-CHOME, CHUO-KU, OSAKA , JAPAN",
-        "": ""
+        "製造廠名稱": "F470026200  Takeda GmbH, Production site Oranienburg",
+        "製造廠廠址": "Lehnitzstrasse 70-98, 16515 Oranienburg, Germany",
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -39,14 +38,7 @@
             "製造廠廠址": "新竹縣湖口鄉光復路1號",
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
-            "製程": "包裝"
-        },
-        {
-            "製造廠名稱": "M462592000  Packaging Coordinators, LLC",
-            "製造廠廠址": "2200 LAKE SHORE DRIVE WOODSTOCK, IL 60098 U.S.A.",
-            "製造廠公司地址": "",
-            "製造廠國別": "UNITED STATES",
-            "製程": "分裝"
+            "製程": "分包裝廠"
         }
     ],
     "ingredients": [
@@ -69,12 +61,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "NESINA MET-PI-201508-Chinese-TFDA approved 20160303-105-03-29.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026686&Seq=001&Type=9"
+            "title": "鋁箔_Nesina Met 12,5mg+500mg blister 7T TW_180307_Ap-107-03-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026686&Seq=004&Type=8"
         },
         {
-            "title": "Nesina Met 12.5mg+500mg_7Tx4 Carton_20140302-105-03-29.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026686&Seq=002&Type=8"
+            "title": "外盒_Nesina Met 12,5mg+500mg Carton 28T TW_180307_Ap-107-03-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026686&Seq=003&Type=8"
         }
     ]
 }

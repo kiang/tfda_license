@@ -1,12 +1,12 @@
 {
     "code": "01045619",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01045619",
-    "time": "2016-11-18 14:54:34",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01045619",
+    "time": "2018-04-13 03:17:23",
     "許可證字號": "衛署藥製字第045619號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/06\/30",
+    "有效日期": "112\/06\/30",
     "發證日期": "92\/06\/30",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥",
     "主成分略述": [
-        "BROMODIPHENHYDRAMINEHCL,HYDROCORTISONEACETATE,DIBUCAINEHCL"
+        "DIPHENHYDRAMINEHCL,HYDROCORTISONEACETATE,DIBUCAINEHCL"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "0406914200  元宙化學製藥股份有限公司",
@@ -28,16 +28,15 @@
         "主製造廠": "",
         "製造廠名稱": "0406914300  元宙化學製藥股份有限公司",
         "製造廠廠址": "南投縣南投市南崗工業區南崗三路２７２號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049099101 抗過敏抗組織胺用藥Drugs for antihypersensitivity and antihistamine",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "0400000410",
-            "成分名稱": "BROMODIPHENHYDRAMINE HCL",
+            "成分代碼": "0400001610",
+            "成分名稱": "DIPHENHYDRAMINE HCL",
             "含量描述": "",
             "含量": "10.0000000000",
             "單位": "MG"
@@ -62,15 +61,11 @@
     "仿單外盒": [
         {
             "title": "1515 宜膚爽(說明書)-104-12-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045619&Seq=002&Type=9"
-        },
-        {
-            "title": "010456190001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045619&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045619&Seq=002&Type=9"
         },
         {
             "title": "1515宜膚爽-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045619&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045619&Seq=001&Type=8"
         }
     ]
 }

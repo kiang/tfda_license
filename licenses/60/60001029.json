@@ -1,7 +1,7 @@
 {
     "code": "60001029",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60001029",
-    "time": "2017-06-16 03:29:09",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60001029",
+    "time": "2018-04-13 03:06:27",
     "許可證字號": "衛部菌疫輸字第001029號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,30 +16,29 @@
     "英文品名": "Eloctate Powder for Injection 1000IU",
     "適應症": "「治療與預防A 型血友病患者(先天性第八凝血因子缺乏)的出血。」\r\n說明:ELOCTATE不適用於治療溫韋伯氏病(von Willebrand disease)",
     "劑型": "243凍晶注射劑",
-    "包裝": "玻璃小瓶裝 3ml稀釋液預充填注射器",
+    "包裝": "3ml稀釋液預充填注射器 玻璃小瓶裝 附輔助注射組",
     "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
     "主成分略述": [
         "AntihemophilicFactor(Recombinant),FcFusionProtein"
     ],
-    "限制項目": "02輸　入 51免除銜接性臨床試驗",
+    "限制項目": "02輸　入 1Q不得輸入 51免除銜接性臨床試驗",
     "申請商名稱": "620101S739  台灣優時比貿易有限公司",
     "主製造廠": {
         "主製造廠": "",
         "製造廠名稱": "F470559000  VETTER PHARMA-FERTIGUNG GMBH &amp; CO. KG",
         "製造廠廠址": "MOOSWIESEN 2, 88214 RAVENSBURG, GERMANY",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "CCC號列": "30021200400 抗血友病製劑Antihemophilia preparations",
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "F110047100  BIOGEN DENMARK MANUFACTURING APS",
-            "製造廠廠址": "BIOGEN ALLE 1, DK-3400 HILLEROD, DENMARK",
+            "製造廠名稱": "F460887000  SHARP CORPORATION",
+            "製造廠廠址": "7451 KEEBLER WAY , ALLENTOWN , PENNSYLVANIA 18106 , USA",
             "製造廠公司地址": "",
-            "製造廠國別": "DENMARK",
-            "製程": "包裝"
+            "製造廠國別": "UNITED STATES",
+            "製程": "二級包裝廠"
         },
         {
             "製造廠名稱": "F461032000  BIOGEN INC.",
@@ -47,6 +46,13 @@
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
             "製程": "主成分(drug substance)製造廠"
+        },
+        {
+            "製造廠名稱": "F461102000  Bioverativ Therapeutics Inc.",
+            "製造廠廠址": "225 Second Avenue, Waltham, MA 02451,U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "許可證持有者"
         },
         {
             "製造廠名稱": "F470292000  VETTER PHARMA-FERTIGUNG GMBH &amp; CO. KG",
@@ -69,11 +75,19 @@
     "仿單外盒": [
         {
             "title": "Eloctate 中文仿單-105-11-10.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001029&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001029&Seq=001&Type=9"
+        },
+        {
+            "title": "60001029_注射組外盒-106-10-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001029&Seq=003&Type=8"
         },
         {
             "title": "1000 標籤-105-11-10.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001029&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001029&Seq=002&Type=8"
+        },
+        {
+            "title": "1000 外盒-105-11-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001029&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "12002511",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12002511",
-    "time": "2015-08-23 13:43:39",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12002511",
+    "time": "2018-04-13 03:24:00",
     "許可證字號": "內衛藥製字第002511號",
     "註銷狀態": "已註銷",
     "註銷日期": "103\/03\/24",
@@ -17,22 +17,20 @@
     "適應症": "男子更年期障礙、月經不順、子宮出血",
     "劑型": "270注射劑",
     "包裝": "安瓿",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "GONADOTROPIN CHORIONIC",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "GONADOTROPINCHORIONIC"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0402606200  中國化學製藥股份有限公司新豐工廠",
-    "申請商地址": "新竹縣新豐鄉坑子口１８２之１號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0402602300  中國化學製藥股份有限公司新豐工廠",
         "製造廠廠址": "新竹縣新豐鄉坑子口１８２之１號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30043900005 醫藥製劑，含有其他內分泌素者Medicaments, containing other hormones",
+    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -46,16 +44,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "120025110001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002511&Seq=002&Type=9"
-        },
-        {
-            "title": "0200251100001___20120301.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002511&Seq=001&Type=9"
+            "title": "120025110001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002511&Seq=002&Type=9"
         },
         {
             "title": "0200251100002___20120301.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002511&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002511&Seq=001&Type=8"
         }
     ]
 }

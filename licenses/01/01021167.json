@@ -1,7 +1,7 @@
 {
     "code": "01021167",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01021167",
-    "time": "2016-11-18 11:41:10",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01021167",
+    "time": "2018-04-13 03:00:57",
     "許可證字號": "衛署藥製字第021167號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,7 +13,7 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102116703",
     "中文品名": "胃速達康錠",
-    "英文品名": "OXETACAIN TABLETS &quot;P.J.&quot;",
+    "英文品名": "Oxetacain Tablets",
     "適應症": "胃炎、腸炎、食道炎所伴隨之胃痛、胃酸過多、胃部不適或灼熱感。",
     "劑型": "110錠劑",
     "包裝": "12-1000錠塑膠瓶裝",
@@ -22,16 +22,15 @@
     "主成分略述": [
         "ALUMINUMHYDROXIDEDRIEDGEL,MAGNESIUMHYDROXIDE,OXETHAZAINE"
     ],
-    "限制項目": "01國　產 1G不得製造",
-    "申請商名稱": "620102Q928  北進國際有限公司",
+    "限制項目": "01國　產",
+    "申請商名稱": "6236032649  天下生物科技股份有限公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "1302820300  新喜國際企業股份有限公司",
-        "製造廠廠址": "台南市鹽水區孫厝里孫厝寮４之６號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠名稱": "6103030017  井田國際醫藥廠股份有限公司",
+        "製造廠廠址": "台中市大甲區幼獅路32號",
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -59,18 +58,42 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "11.5m\/m",
+        "特殊劑型": "",
+        "顏色": "黃色",
+        "特殊氣味": "",
+        "刻痕": "有",
+        "形狀": "圓凸形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "010211670003外觀圖檔-107-03-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021167&Seq=003&Type=10"
+        },
+        {
+            "title": "胃速達康錠-104-12-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021167&Seq=002&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
+            "title": "010211670001仿單-107-03-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021167&Seq=002&Type=9"
+        },
+        {
             "title": "仿單-胃速達康錠-104-12-18(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021167&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021167&Seq=001&Type=9"
+        },
+        {
+            "title": "010211670002標籤-107-03-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021167&Seq=003&Type=8"
         },
         {
             "title": "胃速達康錠1000T瓶裝-104-12-28(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021167&Seq=002&Type=8"
-        },
-        {
-            "title": "瓶貼-胃速達康錠-104-12-18(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021167&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021167&Seq=002&Type=8"
         }
     ]
 }

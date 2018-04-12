@@ -1,7 +1,7 @@
 {
     "code": "60001045",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60001045",
-    "time": "2017-06-16 03:20:41",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60001045",
+    "time": "2018-04-13 03:06:32",
     "許可證字號": "衛部菌疫輸字第001045號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,14 +28,20 @@
         "主製造廠": "",
         "製造廠名稱": "F460055000  BAYER HEALTHCARE LLC",
         "製造廠廠址": "800 DWIGHT WAY, BERKELEY, CA 94710 USA",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "F470366000  BAYER PHARMA AG",
+            "製造廠名稱": "F470292000  VETTER PHARMA-FERTIGUNG GMBH &amp; CO. KG",
+            "製造廠廠址": "EISENBAHNSTRASSE 2-4, 88085 LANGENARGEN GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        },
+        {
+            "製造廠名稱": "F470366000  BAYER AG",
             "製造廠廠址": "MUELLERSTRASSE 178, D-13353 BERLIN, GERMANY",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
@@ -54,20 +60,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "Kovaltry_仿單(TW01)_20170519-106-05-22.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001045&Seq=001&Type=9"
+            "title": "Kovaltry_仿單(TW02)-107-03-29.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001045&Seq=002&Type=9"
         },
         {
-            "title": "注射用水標籤5ml_20170519-106-05-22.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001045&Seq=003&Type=8"
+            "title": "Kovaltry 2000IU_注射用水標籤-107-03-29.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001045&Seq=005&Type=8"
+        },
+        {
+            "title": "Kovaltry 2000IU_外盒-107-03-29.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001045&Seq=004&Type=8"
         },
         {
             "title": "Kovaltry 2000IU_藥瓶標籤_20170519-106-05-22.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001045&Seq=002&Type=8"
-        },
-        {
-            "title": "Kovaltry 2000IU_外盒_20170519-106-05-22.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001045&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001045&Seq=002&Type=8"
         }
     ]
 }
