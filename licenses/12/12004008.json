@@ -1,38 +1,36 @@
 {
     "code": "12004008",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12004008",
-    "time": "2015-08-22 16:50:31",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12004008",
+    "time": "2018-05-11 03:27:56",
     "許可證字號": "內衛藥製字第004008號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/05\/25",
+    "有效日期": "112\/05\/25",
     "發證日期": "59\/06\/03",
     "許可證種類": "製　劑",
     "舊證字號": "00000000",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY01200400803",
     "中文品名": "“永豐”芐基青黴素鉀注射劑",
-    "英文品名": "BUFFERED PENICILLIN G POTASSIUM FOR INJECTION \"Y.F.\"",
+    "英文品名": "BUFFERED PENICILLIN G POTASSIUM FOR INJECTION &quot;Y.F.&quot;",
     "適應症": "葡萄球菌、溶血性鏈鎖狀球菌、肺炎雙球菌等感染症、慢性肺化膿症、腦脊髓膜炎感染症",
     "劑型": "240乾粉注射劑",
     "包裝": "100萬單位、500萬單位、1000萬單位、2000萬單位小瓶 100支以下盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "PENICILLIN G POTASSIUM (BENZYLPENICILLIN POTASSIUM )",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "PENICILLINGPOTASSIUM(BENZYLPENICILLINPOTASSIUM)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0504301200  永豐化學工業股份有限公司",
-    "申請商地址": "新北市新莊區新樹路２９２號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0504302300  永豐化學工業股份有限公司新莊工廠",
         "製造廠廠址": "新北市新莊區新樹路２９２號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30041010104 人用醫藥製劑，含青黴素類或具有青黴素酸結構之衍生物者Medicaments, containing penicillins or derivatives thereof,with a penicillinic acid structure, for human use",
+    "CCC號列": "30041010104 人用醫藥製劑，含青黴素類或具有青黴素酸結構之衍生物者Medicaments, containing penicillins or derivatives thereof,with a penicillanic acid structure, for human use",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -66,6 +64,12 @@
             "含量描述": "",
             "含量": "20000000.0000000000",
             "單位": "U (UNIT)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "說明書-104-12-29(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12004008&Seq=001&Type=9"
         }
     ]
 }

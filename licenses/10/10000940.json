@@ -1,36 +1,34 @@
 {
     "code": "10000940",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000940",
-    "time": "2015-08-24 13:04:12",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000940",
+    "time": "2018-05-11 03:27:44",
     "許可證字號": "衛署菌疫輸字第000940號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/05\/02",
+    "有效日期": "112\/05\/02",
     "發證日期": "102\/05\/02",
     "許可證種類": "菌　疫",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA01000094008",
-    "中文品名": "容可曼針筒裝注射劑10000國際單位\"德國維特廠\"",
-    "英文品名": "Recormon solution for injection in pre-filled syringe 10000 IU \"Vetter, Germany\"",
+    "中文品名": "容可曼針筒裝注射劑10000國際單位",
+    "英文品名": "Recormon solution for injection in pre-filled syringe 10000 IU",
     "適應症": "治療慢性腎衰竭且伴隨症狀性貧血病人。治療與癌症化學治療有關的症狀性貧血。治療正在接受抗腫瘤治療之多發性骨髓瘤(multiple myeloma)、低度非何杰金氏淋巴瘤(low grade non-Hodgkin's lymphoma)或慢性淋巴性白血病(chronic lymphocytic leukemia)成人患者的症狀性貧血。",
     "劑型": "270注射劑",
     "包裝": "0.6ml針筒裝 100支以下盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "EPOETIN BETA",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "EPOETINBETA"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1901701100  羅氏大藥廠股份有限公司",
-    "申請商地址": "台北市松山區民生東路三段１３４號９樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F470267100  VETTER PHARMA-FERTIGUNG GMBH &amp; CO. KG",
         "製造廠廠址": "SCHUTZENSTRASSE 87 AND 99\/101, 88212 RAVENSBURG, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -70,12 +68,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "20140822R2efile100009400001-103-08-26.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000940&Seq=002&Type=9"
+            "title": "仿單-106-07-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000940&Seq=004&Type=9"
         },
         {
-            "title": "容可曼針筒裝注射劑10000國際單位德國維特廠_衛署菌疫輸字第000940號-102-12-30.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000940&Seq=001&Type=9"
+            "title": "標籤_Vetter-106-07-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000940&Seq=005&Type=8"
+        },
+        {
+            "title": "標籤_MH-106-07-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000940&Seq=004&Type=8"
+        },
+        {
+            "title": "外盒_Vetter-106-07-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000940&Seq=003&Type=8"
+        },
+        {
+            "title": "外盒_MH-106-07-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000940&Seq=002&Type=8"
         }
     ]
 }

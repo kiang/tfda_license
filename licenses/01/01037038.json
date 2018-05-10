@@ -1,7 +1,7 @@
 {
     "code": "01037038",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01037038",
-    "time": "2016-11-18 13:38:28",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01037038",
+    "time": "2018-05-11 03:02:09",
     "許可證字號": "衛署藥製字第037038號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,7 +18,7 @@
     "劑型": "393外用凝膠劑",
     "包裝": "1000公克以下鋁管裝",
     "標籤、仿單及包裝加註": "",
-    "藥品類別": "07須經醫師指示使用",
+    "藥品類別": "17醫師藥師藥劑生指示藥品",
     "主成分略述": [
         "RETINOICACID(EQTOTRETINOIN)(EQTOVITAMINAACID)"
     ],
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "2001304300  寶齡富錦生技股份有限公司平鎮廠",
         "製造廠廠址": "桃園市平鎮區興隆路２６６號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30045000009 含有維他命或第２９３６節產品之其他醫藥製劑Other medicaments containing vitamins or other products of heading 29.36",
+    "CCC號列": "30045000009 其他醫藥製劑，含有維他命或第２９３６節之其他產品Other medicaments, containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -45,8 +44,16 @@
     ],
     "仿單外盒": [
         {
+            "title": "010370380001-107-04-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01037038&Seq=002&Type=9"
+        },
+        {
             "title": "#37038-insert-104-12-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01037038&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01037038&Seq=001&Type=9"
+        },
+        {
+            "title": "010370380001-107-04-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01037038&Seq=001&Type=8"
         }
     ]
 }

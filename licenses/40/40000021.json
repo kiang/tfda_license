@@ -1,7 +1,7 @@
 {
     "code": "40000021",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=40000021",
-    "time": "2017-02-24 03:27:08",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=40000021",
+    "time": "2018-05-11 03:20:56",
     "許可證字號": "衛署粧陸輸字第000021號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "化粧品類別": "0711防晒乳液",
     "主成分略述": [
-        "ZINCOXIDE,DIETHYLAMINOHYDROXYBENZOYLHEXYLBENZOATE,ETHYLHEXYLMETHOXYCINNAMATE"
+        "POLYSILICONE-15,ZINCOXIDE,DIETHYLAMINOHYDROXYBENZOYLHEXYLBENZOATE,ETHYLHEXYLMETHOXYCINNAMATE,ETHYLHEXYLSALICYLATE,ETHYLHEXYLTRIAZONE,BIS-ETHYLHEXYLOXYPHENOLMETHOXYPHENYLTRIAZINE"
     ],
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "1428901100  台灣曼秀雷敦股份有限公司",
@@ -28,18 +28,25 @@
         "主製造廠": "",
         "製造廠名稱": "C666400040  MENTHOLATUM (CHINA) PHARMACEUTICALS CO., LTD.",
         "製造廠廠址": "THE SECOND INDUSTRIAL ESTATES SANXIANG, ZHONGSHAN, GUANGDONG, CHINA.",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "33049990108 含藥之乳液、化粧水Medicated lotion, tonic lotion",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8424126630",
+            "成分名稱": "POLYSILICONE-15",
+            "含量描述": "",
+            "含量": "0.1000000000",
+            "單位": "%(W\/W)"
+        },
         {
             "成分類別": "主成分",
             "成分代碼": "9200011500",
             "成分名稱": "ZINC OXIDE",
             "含量描述": "",
-            "含量": "9.7000000000",
+            "含量": "3.8800000000",
             "單位": "%(W\/W)"
         },
         {
@@ -47,7 +54,7 @@
             "成分代碼": "9600203500",
             "成分名稱": "DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE",
             "含量描述": "",
-            "含量": "0.4000000000",
+            "含量": "1.0000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -55,18 +62,54 @@
             "成分代碼": "9900071200",
             "成分名稱": "ETHYLHEXYL METHOXYCINNAMATE",
             "含量描述": "",
-            "含量": "8.0000000000",
+            "含量": "8.5000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900085500",
+            "成分名稱": "ETHYLHEXYL SALICYLATE",
+            "含量描述": "",
+            "含量": "3.0000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900090400",
+            "成分名稱": "ETHYLHEXYL TRIAZONE",
+            "含量描述": "",
+            "含量": "0.5000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900095700",
+            "成分名稱": "BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
+            "含量描述": "",
+            "含量": "0.2000000000",
             "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
         {
+            "title": "40000021-107-04-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000021&Seq=003&Type=9"
+        },
+        {
             "title": "400000210002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000021&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000021&Seq=002&Type=9"
+        },
+        {
+            "title": "400000210001.jpg",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000021&Seq=001&Type=9"
         },
         {
             "title": "40000021-106-01-16.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000021&Seq=007&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000021&Seq=007&Type=8"
+        },
+        {
+            "title": "40000021-105-12-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000021&Seq=006&Type=8"
         }
     ]
 }

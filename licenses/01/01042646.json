@@ -1,7 +1,7 @@
 {
     "code": "01042646",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01042646",
-    "time": "2016-11-18 14:31:27",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01042646",
+    "time": "2018-05-11 03:02:27",
     "許可證字號": "衛署藥製字第042646號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,8 +12,8 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "null",
-    "中文品名": "&quot;信東&quot; 艾斯樂錠２公絲（伊塔諾浪）",
-    "英文品名": "ESZO TABLETS 2MG (ESTAZOLAM)&quot;S.T.&quot;",
+    "中文品名": "&quot;信東&quot; 艾斯樂錠2毫克（伊塔諾浪）",
+    "英文品名": "ESZO TABLETS 2MG (ESTAZOLAM)",
     "適應症": "失眠。",
     "劑型": "110錠劑",
     "包裝": "2-1000 錠塑膠瓶裝 鋁箔盒裝",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "0908703300  信東生技股份有限公司",
         "製造廠廠址": "桃園市桃園區介壽路２２號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049099352 醫藥製劑，含有舒樂安定（伊疊唑侖）者Medicaments, containing Estazolam",
     "藥理治療分類": "",
@@ -44,11 +43,11 @@
         }
     ],
     "藥物辨識詳細資料": {
-        "外觀尺寸": "",
+        "外觀尺寸": "裸錠",
         "特殊劑型": "",
         "顏色": "白色",
         "特殊氣味": "",
-        "刻痕": "",
+        "刻痕": "有",
         "形狀": "圓扁形",
         "標記一": "ST",
         "標記二": ""
@@ -56,41 +55,53 @@
     "藥物辨識外觀圖片": [
         {
             "title": "Eszo Tablets 2mg 042646-104-12-24(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042646&Seq=387&Type=10"
-        },
-        {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042646&Seq=386&Type=10"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042646&Seq=387&Type=10"
         }
     ],
     "仿單外盒": [
         {
+            "title": "010426460001-107-04-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042646&Seq=008&Type=9"
+        },
+        {
+            "title": "54050320 Eszo Tablets 2mg(L／Lit-100錠)-(印刷版次5)-106-03-15(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042646&Seq=007&Type=9"
+        },
+        {
+            "title": "54050270 Eszo Tablets 2mg (Lit)-(印刷版次11)-106-03-15(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042646&Seq=006&Type=9"
+        },
+        {
             "title": "042646仿單-105-08-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042646&Seq=003&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042646&Seq=003&Type=9"
         },
         {
-            "title": "54050320 Eszo Tablets 2mg(L／Lit-100錠)-民巨(印刷版次4)-104-12-25(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042646&Seq=002&Type=9"
+            "title": "010426460004-107-04-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042646&Seq=015&Type=8"
         },
         {
-            "title": "54050270 Eszo Tablets 2mg (Lit)-(印刷版次10)-104-12-25(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042646&Seq=001&Type=9"
+            "title": "010426460003-107-04-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042646&Seq=014&Type=8"
         },
         {
-            "title": "55030340 Alu. Foil, Eszo Tab. 2mg, 174mm-(規格版次02)-104-12-25(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042646&Seq=004&Type=8"
+            "title": "010426460002-107-04-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042646&Seq=013&Type=8"
         },
         {
-            "title": "54050440 Eszo Tablets 2mg(L-100錠x10)-(印刷版次1)-104-12-25(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042646&Seq=003&Type=8"
+            "title": "55030340 Alu. Foil，Eszo Tablets 2mg(10錠PTP)-(規格版次03)-106-03-15(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042646&Seq=012&Type=8"
         },
         {
-            "title": "54050320 Eszo Tablets 2mg(L／Lit-100錠)-民巨(印刷版次4)-104-12-25(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042646&Seq=002&Type=8"
+            "title": "54050440 Eszo Tablets 2mg(L-100錠x10)-(印刷版次2)-106-03-15(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042646&Seq=011&Type=8"
         },
         {
-            "title": "54050280 Eszo Tab. 2mg (box-10'x10)-(印刷版次7)-104-12-25(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042646&Seq=001&Type=8"
+            "title": "54050320 Eszo Tablets 2mg(L／Lit-100錠)-(印刷版次5)-106-03-15(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042646&Seq=010&Type=8"
+        },
+        {
+            "title": "54050280 Eszo Tablets 2mg(Box-10錠x10)-(印刷版次8)-106-03-15(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042646&Seq=009&Type=8"
         }
     ]
 }

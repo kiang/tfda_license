@@ -1,7 +1,7 @@
 {
     "code": "02022089",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022089",
-    "time": "2017-05-26 03:36:22",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022089",
+    "time": "2018-05-11 03:04:04",
     "許可證字號": "衛署藥輸字第022089號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "F470242000  LTS LOHMANN THERAPIE-SYSTEME AG",
         "製造廠廠址": "LOHMANNSTR 2,D-56626 ANDERNACH,GERMANY",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30044099004 其他醫藥製劑，含有生物鹼或其衍生物，但未含內分泌素，第２９３７節之其他產品或抗生素者Other medicaments, containing alkaloids or derivatives thereof but not containing hormones, other products of heading 29.37 or antibiotics",
+    "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
         {
@@ -52,14 +51,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "49-53 mm",
+        "特殊劑型": "",
+        "顏色": "膚色",
+        "特殊氣味": "",
+        "刻痕": "無",
+        "形狀": "圓扁形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "衛署藥輸字第022089號_藥物外觀_20171027-106-11-01(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022089&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "貼片 (2) nicotinell 022088-89-90-105-01-18(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022089&Seq=016&Type=9"
+            "title": "衛署藥輸字第022089-90號 Nicotinell patch_TTS 10-20-3_仿單171030-106-11-01(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022089&Seq=017&Type=9"
         },
         {
-            "title": "020220890002-104-09-23(廠商自行上傳).PDF",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022089&Seq=004&Type=8"
+            "title": "衛署藥輸字第022089號 Nicotinell patch_TTS 20_carton 7 TWC050616 -28 TWC070616+foli 938497Z_171031-106-11-01(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022089&Seq=005&Type=8"
         }
     ]
 }

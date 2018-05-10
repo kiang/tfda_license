@@ -1,44 +1,42 @@
 {
     "code": "12007522",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12007522",
-    "time": "2015-08-22 16:51:44",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12007522",
+    "time": "2018-05-11 03:28:00",
     "許可證字號": "內衛藥製字第007522號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/05\/25",
+    "有效日期": "112\/05\/25",
     "發證日期": "59\/08\/10",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY01200752206",
-    "中文品名": "肝胃能散",
-    "英文品名": "COUWEITON POWDER \"MIN TONG\"",
+    "中文品名": "&quot;明通&quot;肝胃能散",
+    "英文品名": "COUWEITON POWDER &quot;MIN TONG&quot;",
     "適應症": "急、慢性胃腸炎、消化不良、胃痛、胃酸過多",
     "劑型": "140散劑",
     "包裝": "盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "07須經醫師指示使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "SCOPOLIA EXTRACT POWDER, SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE), ALUMINUM HYDROXIDE GEL, CALCIUM CARBONATE, BILE EXTRACT, OX, DEHYDROCHOLIC ACID, MENTHOL, TAURINE (EQ TO 2-AMINOETHANE SULFONIC ACID), GLYCYRRHIZA EXTRACT",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "SCOPOLIAEXTRACT,SODIUMBICARBONATE(EQTOSODIUMHYDROGENCARBONATE),ALUMINUMHYDROXIDEGEL,CALCIUMCARBONATE,BILEEXTRACT,OX,DEHYDROCHOLICACID,MENTHOL,TAURINE(EQTO2-AMINOETHANESULFONICACID),GLYCYRRHIZAEXTRACT"
     ],
-    "申請商名稱": "0806009200  明通化學製藥股份有限公司",
-    "申請商地址": "台中市南區復興路二段120號",
+    "限制項目": "01國　產",
+    "申請商名稱": "0806009300  明通化學製藥股份有限公司第二廠",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0806009300  明通化學製藥股份有限公司第二廠",
         "製造廠廠址": "台中市南屯區文山里工業區２１路１５號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "1208004503",
-            "成分名稱": "SCOPOLIA EXTRACT POWDER",
+            "成分代碼": "1208004502",
+            "成分名稱": "SCOPOLIA EXTRACT",
             "含量描述": "80",
             "含量": "80.0000000000",
             "單位": "MG"
@@ -56,7 +54,7 @@
             "成分代碼": "5604000201",
             "成分名稱": "ALUMINUM HYDROXIDE GEL",
             "含量描述": "(SIC) 250",
-            "含量": "",
+            "含量": "0.0000000000",
             "單位": "MG"
         },
         {
@@ -104,7 +102,7 @@
             "成分代碼": "9200004401",
             "成分名稱": "GLYCYRRHIZA EXTRACT",
             "含量描述": "POWDER",
-            "含量": "",
+            "含量": "0.0000000000",
             "單位": "Q.S."
         }
     ]

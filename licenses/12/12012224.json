@@ -1,7 +1,7 @@
 {
     "code": "12012224",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12012224",
-    "time": "2015-08-23 14:10:44",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12012224",
+    "time": "2018-05-11 03:33:29",
     "許可證字號": "內衛藥製字第012224號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,27 +13,24 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY01201222405",
     "中文品名": "治傷膚軟膏外用",
-    "英文品名": "ZUSANHU OINTMENT \"TAI KON\"",
+    "英文品名": "ZUSANHU OINTMENT &quot;TAI KON&quot;",
     "適應症": "急救、預防及減緩皮膚刀傷、刮傷、燙傷之感染、暫時緩解皮膚搔癢、緩解皮膚刺激及尿布疹。",
     "劑型": "360軟膏劑",
     "包裝": "管裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥",
-    "管制藥品分類級別": "",
-    "主成分略述": "DIPHENHYDRAMINE HCL, SULFADIAZINE",
-    "限制項目": [
-        "01國產",
-        "09委託製造"
+    "主成分略述": [
+        "DIPHENHYDRAMINEHCL,SULFADIAZINE"
     ],
+    "限制項目": "01國　產 09委託製造",
     "申請商名稱": "1400812200  臺光製藥股份有限公司",
-    "申請商地址": "彰化縣北斗鎮中山路二段３４１號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0900822300  美西製藥有限公司",
         "製造廠廠址": "高雄市仁武區仁武里工業一路９號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -51,6 +48,12 @@
             "含量描述": "5",
             "含量": "5.0000000000",
             "單位": "GM"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "治傷膚軟膏仿單-104-12-29(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12012224&Seq=001&Type=9"
         }
     ]
 }

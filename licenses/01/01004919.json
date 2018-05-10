@@ -1,7 +1,7 @@
 {
     "code": "01004919",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01004919",
-    "time": "2017-07-21 12:10:53",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01004919",
+    "time": "2018-05-11 03:00:25",
     "許可證字號": "衛署藥製字第004919號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "0705330300  杏輝藥品工業股份有限公司",
         "製造廠廠址": "宜蘭縣冬山鄉中山村中山路８４號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049050000 磺胺藥Antibacterial, sulfa drugs",
     "藥理治療分類": "",
@@ -54,27 +53,31 @@
     "藥物辨識詳細資料": {
         "外觀尺寸": "",
         "特殊劑型": "",
-        "顏色": "白色",
+        "顏色": "白色錠劑",
         "特殊氣味": "",
-        "刻痕": "",
+        "刻痕": "有",
         "形狀": "圓扁形",
-        "標記一": "SHIONOGI,780",
+        "標記一": "",
         "標記二": ""
     },
     "藥物辨識外觀圖片": [
         {
             "title": "BK-tab-104-09-17(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004919&Seq=020&Type=10"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004919&Seq=020&Type=10"
         }
     ],
     "仿單外盒": [
         {
+            "title": "1066068567衛署藥製字第004919號撲菌特錠-107-04-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004919&Seq=007&Type=9"
+        },
+        {
             "title": "BK package insert-104-09-17(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004919&Seq=006&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004919&Seq=006&Type=9"
         },
         {
             "title": "BK box-104-09-17(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004919&Seq=004&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004919&Seq=004&Type=8"
         }
     ]
 }

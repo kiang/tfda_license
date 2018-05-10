@@ -1,7 +1,7 @@
 {
     "code": "01026359",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01026359",
-    "time": "2015-08-24 12:41:08",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01026359",
+    "time": "2018-05-11 03:32:15",
     "許可證字號": "衛署藥製字第026359號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,27 +13,24 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102635901",
     "中文品名": "膚佳朗乳膏",
-    "英文品名": "FUGALON CREAM \"T.K.\"",
+    "英文品名": "FUGALON CREAM &quot;T.K.&quot;",
     "適應症": "髮癬菌、皮癬菌、酵母菌、黴菌、革蘭氏陽性菌及念珠菌感染所引起之皮膚病、指甲癬（灰指甲）濕疹、汗斑、丘疹、牛皮癬、體癬、頭癬、股癬、鬚癬、尿布疹、擦疹、足癬（香港腳）",
     "劑型": "363乳膏劑",
     "包裝": "瓶裝 管裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "ECONAZOLE NITRATE, TRIAMCINOLONE ACETONIDE",
-    "限制項目": [
-        "01國產",
-        "09委託製造"
+    "主成分略述": [
+        "ECONAZOLENITRATE,TRIAMCINOLONEACETONIDE"
     ],
+    "限制項目": "01國　產 09委託製造",
     "申請商名稱": "1400812200  臺光製藥股份有限公司",
-    "申請商地址": "彰化縣北斗鎮中山路二段３４１號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0900822300  美西製藥有限公司",
         "製造廠廠址": "高雄市仁武區仁武里工業一路９號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30043200002 含有腎上腺皮質類固醇荷爾蒙，其衍生物及結構式類似者Containing adrenal corticosteroid hormones, their derivatives and structural analogues",
+    "CCC號列": "30043200002 其他醫藥製劑，含有腎上腺皮質類固醇荷爾蒙及其衍生物或結構式類似者Other medicaments, containing corticosteroid hormones, their derivatives or structural analogues",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -51,6 +48,12 @@
             "含量描述": "1",
             "含量": "1.0000000000",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "膚佳朗仿單-104-12-29(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026359&Seq=001&Type=9"
         }
     ]
 }

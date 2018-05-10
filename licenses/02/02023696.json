@@ -1,12 +1,12 @@
 {
     "code": "02023696",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023696",
-    "time": "2016-11-18 20:24:03",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023696",
+    "time": "2018-05-11 03:27:15",
     "許可證字號": "衛署藥輸字第023696號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/04\/11",
+    "有效日期": "112\/04\/11",
     "發證日期": "92\/04\/11",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥",
     "主成分略述": [
-        "PYRIDOXINEHCL,TOCOPHEROLACETATEALPHADL-,VITAMINE(MIXEDTOCOPHEROLS)"
+        "BENFOTIAMIN(BENZOYLTHIAMINEMONOPHOSPHATE)(BIOTAMIN),PYRIDOXINEHCL,CYANOCOBALAMIN(VITB12),TOCOPHEROLACETATEALPHADL-,VITAMINE(MIXEDTOCOPHEROLS)"
     ],
     "限制項目": "02輸　入",
     "申請商名稱": "0711101100  佐藤製藥股份有限公司",
@@ -28,18 +28,33 @@
         "主製造廠": "",
         "製造廠名稱": "F260524000  SATO PHARMACEUTICAL CO., LTD. HACHIOJI FACTORY",
         "製造廠廠址": "1468 HAZAMA-CHO HACHIOHJI TOKYO JAPAN",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": "1-5-27 Motoakasaka, Minatoku, Tokyo, Japan."
     },
-    "CCC號列": "30045000009 含有維他命或第２９３６節產品之其他醫藥製劑Other medicaments containing vitamins or other products of heading 29.36",
+    "CCC號列": "30045000009 其他醫藥製劑，含有維他命或第２９３６節之其他產品Other medicaments, containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
     "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8810101700",
+            "成分名稱": "BENFOTIAMIN (BENZOYLTHIAMINE MONOPHOSPHATE)(BIOTAMIN)",
+            "含量描述": "",
+            "含量": "33.3330000000",
+            "單位": "MG"
+        },
         {
             "成分類別": "主成分",
             "成分代碼": "8810600300",
             "成分名稱": "PYRIDOXINE HCL",
             "含量描述": "",
             "含量": "33.3330000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8811200300",
+            "成分名稱": "CYANOCOBALAMIN (VIT B12)",
+            "含量描述": "",
+            "含量": "0.5000000000",
             "單位": "MG"
         },
         {
@@ -61,12 +76,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "023696-快維康仿單-1060810生效-106-05-31.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023696&Seq=002&Type=9"
+        },
+        {
             "title": "快維康糖衣錠_仿單-104-10-15(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023696&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023696&Seq=001&Type=9"
+        },
+        {
+            "title": "023696-快維康100T外盒-1060810生效-106-05-31.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023696&Seq=002&Type=8"
         },
         {
             "title": "快維康糖衣錠-104-12-29(廠商自行上傳).PDF",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023696&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023696&Seq=001&Type=8"
         }
     ]
 }

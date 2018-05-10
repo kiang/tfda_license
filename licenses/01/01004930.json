@@ -1,12 +1,12 @@
 {
     "code": "01004930",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01004930",
-    "time": "2017-07-21 12:11:05",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01004930",
+    "time": "2018-05-11 03:22:44",
     "許可證字號": "衛署藥製字第004930號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/05\/25",
+    "有效日期": "112\/05\/25",
     "發證日期": "63\/09\/23",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "07須經醫師指示使用",
     "主成分略述": [
-        "DIPHENHYDRAMINEHCL,CAMPHOR,L-MENTHOL,CHOLESTEROL,METHYLSALICYLATE,CAPSICUMTINCTURE"
+        "DIPHENHYDRAMINEHCL,CAMPHOR,L-MENTHOL,CHOLESTEROL,METHYLSALICYLATE,CAPSICUMTINCTURE,EUCALYPTUSOIL(OLEUMEUCALYPTI)"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "0806804200  明德製藥股份有限公司",
@@ -28,65 +28,72 @@
         "主製造廠": "",
         "製造廠名稱": "0806804300  明德製藥股份有限公司",
         "製造廠廠址": "桃園市楊梅區瑞原里7鄰民富路二段３６０號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
             "成分代碼": "0400001610",
             "成分名稱": "DIPHENHYDRAMINE HCL",
-            "含量描述": "",
-            "含量": "0.0050000000",
-            "單位": "GM"
+            "含量描述": "5",
+            "含量": "5.0000000000",
+            "單位": "MG"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "8408000100",
             "成分名稱": "CAMPHOR",
-            "含量描述": "",
-            "含量": "0.0750000000",
-            "單位": "GM"
+            "含量描述": "75",
+            "含量": "75.0000000000",
+            "單位": "MG"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "8408000302",
             "成分名稱": "L-MENTHOL",
-            "含量描述": "",
-            "含量": "0.1500000000",
-            "單位": "GM"
+            "含量描述": "150",
+            "含量": "150.0000000000",
+            "單位": "MG"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "8424400100",
             "成分名稱": "CHOLESTEROL",
-            "含量描述": "",
-            "含量": "0.0050000000",
-            "單位": "GM"
+            "含量描述": "5",
+            "含量": "5.0000000000",
+            "單位": "MG"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "8424400200",
             "成分名稱": "METHYL SALICYLATE",
-            "含量描述": "",
-            "含量": "0.1500000000",
-            "單位": "GM"
+            "含量描述": "150",
+            "含量": "150.0000000000",
+            "單位": "MG"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "9200018080",
             "成分名稱": "CAPSICUM TINCTURE",
-            "含量描述": "",
-            "含量": "0.0200000000",
-            "單位": "GM"
+            "含量描述": "20",
+            "含量": "20.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9600012200",
+            "成分名稱": "EUCALYPTUS OIL (OLEUM EUCALYPTI)",
+            "含量描述": "10",
+            "含量": "10.0000000000",
+            "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
             "title": "01004930仿單-102-05-30.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004930&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01004930&Seq=001&Type=9"
         }
     ]
 }

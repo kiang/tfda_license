@@ -1,7 +1,7 @@
 {
     "code": "02016846",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02016846",
-    "time": "2017-06-16 03:26:34",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02016846",
+    "time": "2018-05-11 03:03:49",
     "許可證字號": "衛署藥輸字第016846號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,12 +26,11 @@
     "申請商名稱": "620117F846  秉新藥業股份有限公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "F260505100  TOWA PHARMACEUTICAL CO.,LTD (OSAKA 2ND FACTORY)",
-        "製造廠廠址": "3-8,MATSUO-CHO, KADOMA CITY, OSAKA, JAPAN",
-        "製造廠公司地址": "2-11 SHINBASHI-CHO,KADOMA CITY,OSAKA,JAPAN",
-        "": ""
+        "製造廠名稱": "F260505100  TOWA PHARMACEUTICAL CO.,LTD. OSAKA plant",
+        "製造廠廠址": "3-8,MATSUO-CHO, KADOMA CITY, OSAKA prefecture, JAPAN",
+        "製造廠公司地址": "2-11 SHINBASHI-CHO,KADOMA CITY,OSAKA,JAPAN"
     },
-    "CCC號列": "30045000009 含有維他命或第２９３６節產品之其他醫藥製劑Other medicaments containing vitamins or other products of heading 29.36",
+    "CCC號列": "30045000009 其他醫藥製劑，含有維他命或第２９３６節之其他產品Other medicaments, containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -44,29 +43,37 @@
         }
     ],
     "藥物辨識詳細資料": {
-        "外觀尺寸": "",
+        "外觀尺寸": "圓凸型",
         "特殊劑型": "",
         "顏色": "白色",
         "特殊氣味": "",
         "刻痕": "",
-        "形狀": "圓凸形",
-        "標記一": "Tw,307",
+        "形狀": "",
+        "標記一": "",
         "標記二": ""
     },
     "藥物辨識外觀圖片": [
         {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02016846&Seq=422&Type=10"
+            "title": "02016846.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02016846&Seq=422&Type=10"
         }
     ],
     "仿單外盒": [
         {
             "title": "衛署藥輸字第016846號-106-04-24.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02016846&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02016846&Seq=002&Type=9"
         },
         {
             "title": "02016846鋁箔-105-06-16.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02016846&Seq=003&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02016846&Seq=003&Type=8"
+        },
+        {
+            "title": "02016846PTP片-105-06-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02016846&Seq=002&Type=8"
+        },
+        {
+            "title": "02016846外盒-105-06-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02016846&Seq=001&Type=8"
         }
     ]
 }

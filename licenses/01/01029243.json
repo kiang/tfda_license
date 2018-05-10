@@ -1,38 +1,36 @@
 {
     "code": "01029243",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01029243",
-    "time": "2015-08-22 22:55:46",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01029243",
+    "time": "2018-05-11 03:24:44",
     "許可證字號": "衛署藥製字第029243號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/05\/25",
+    "有效日期": "112\/05\/25",
     "發證日期": "75\/10\/20",
     "許可證種類": "製　劑",
     "舊證字號": "03004757",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102924307",
-    "中文品名": "治痛散",
-    "英文品名": "CHYR TONG SAN \"MIN TONG\"",
+    "中文品名": "&quot;明通&quot;治痛散",
+    "英文品名": "CHYR TONG SAN &quot;MIN TONG&quot;",
     "適應症": "退燒、止痛（緩解頭痛、牙痛、咽喉痛、關節痛、神經痛、肌肉酸痛、月經痛）",
     "劑型": "140散劑",
     "包裝": "盒裝",
-    "藥品類別": "07須經醫師指示使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "ACETAMINOPHEN (EQ TO PARACETAMOL), ALUMINUM BIS(ACETYLSALICYLATE)(ALUMINUM ACETYLSALICYLA, CAFFEINE ANHYDROUS",
-    "限制項目": [
-        "01國產"
+    "標籤、仿單及包裝加註": "",
+    "藥品類別": "17醫師藥師藥劑生指示藥品",
+    "主成分略述": [
+        "ACETAMINOPHEN(EQTOPARACETAMOL),ASPIRINALUMINUM,CAFFEINEANHYDROUS"
     ],
-    "申請商名稱": "0806009200  明通化學製藥股份有限公司",
-    "申請商地址": "台中市南區復興路二段120號",
+    "限制項目": "01國　產",
+    "申請商名稱": "0806009300  明通化學製藥股份有限公司第二廠",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0806009300  明通化學製藥股份有限公司第二廠",
         "製造廠廠址": "台中市南屯區文山里工業區２１路１５號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -45,8 +43,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "2808600200",
-            "成分名稱": "ALUMINUM BIS(ACETYLSALICYLATE)(ALUMINUM ACETYLSALICYLA",
+            "成分代碼": "2808600320",
+            "成分名稱": "ASPIRIN ALUMINUM",
             "含量描述": "333",
             "含量": "333.0000000000",
             "單位": "MG"
@@ -60,10 +58,12 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": [],
+    "藥物辨識外觀圖片": [],
     "仿單外盒": [
         {
-            "title": "治痛散仿單___20111209.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029243&Seq=001&Type=9"
+            "title": "P03明通治痛散029243號-104-08-31.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029243&Seq=002&Type=9"
         }
     ]
 }

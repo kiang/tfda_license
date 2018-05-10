@@ -1,7 +1,7 @@
 {
     "code": "02017400",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02017400",
-    "time": "2017-06-16 03:03:04",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02017400",
+    "time": "2018-05-11 03:03:50",
     "許可證字號": "衛署藥輸字第017400號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -23,25 +23,15 @@
         "PREDNISOLONEACETATE"
     ],
     "限制項目": "02輸　入",
-    "申請商名稱": "1304601100  瑞士商愛爾康大藥廠股份有限公司台灣分公司",
+    "申請商名稱": "0924601100  台灣諾華股份有限公司",
     "主製造廠": {
         "主製造廠": "",
         "製造廠名稱": "F460011100  ALCON RESEARCH LTD.",
         "製造廠廠址": "6201, SOUTH FREEWAY, FORT WORTH, TEXAS 76134, U.S.A.",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30043200002 含有腎上腺皮質類固醇荷爾蒙，其衍生物及結構式類似者Containing adrenal corticosteroid hormones, their derivatives and structural analogues",
+    "CCC號列": "30043200002 其他醫藥製劑，含有腎上腺皮質類固醇荷爾蒙及其衍生物或結構式類似者Other medicaments, containing corticosteroid hormones, their derivatives or structural analogues",
     "藥理治療分類": "",
-    "次製造廠": [
-        {
-            "製造廠名稱": "F460011000  ALCON LABORATORIES, INC.",
-            "製造廠廠址": "6201 SOUTH FREEWAY, FORT WORTH, TEXAS 76134",
-            "製造廠公司地址": "",
-            "製造廠國別": "UNITED STATES",
-            "製程": "許可證持有者"
-        }
-    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -54,12 +44,24 @@
     ],
     "仿單外盒": [
         {
+            "title": "9015048_TW_p2_LFT_X-4-106-12-28(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017400&Seq=005&Type=9"
+        },
+        {
             "title": "020174000002-106-05-22.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017400&Seq=004&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017400&Seq=004&Type=9"
+        },
+        {
+            "title": "ECONOPRED_H14531_TW_p1_LBL_X-4 for upload-107-02-02(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017400&Seq=005&Type=8"
+        },
+        {
+            "title": "ECONOPRED_9013498_TW_p2_FB_X-4 for upload-107-02-02(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017400&Seq=004&Type=8"
         },
         {
             "title": "020174000001-106-05-22.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017400&Seq=003&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017400&Seq=003&Type=8"
         }
     ]
 }

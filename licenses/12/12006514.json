@@ -1,12 +1,12 @@
 {
     "code": "12006514",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12006514",
-    "time": "2015-08-22 18:04:14",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12006514",
+    "time": "2018-05-11 03:27:58",
     "許可證字號": "內衛藥製字第006514號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/05\/25",
+    "有效日期": "112\/05\/25",
     "發證日期": "59\/07\/25",
     "許可證種類": "製　劑",
     "舊證字號": "17004088",
@@ -16,21 +16,19 @@
     "英文品名": "DEXTROSE IN SALINE INJECTION",
     "適應症": "鈉、氯離子電解質之補充、脫水症之治療、體內葡萄糖熱源之補給等",
     "劑型": "270注射劑",
-    "包裝": "安瓿 瓶裝 袋裝",
+    "包裝": "20、100等公撮安瓿裝 250、500、1000等公撮瓶裝 500、1000公撮塑膠瓶裝 20、100、250、300、500、1000公撮塑膠軟袋裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "SODIUM CHLORIDE, GLUCOSE MONOHYDRATE, WATER FOR INJECTION",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "SODIUMCHLORIDE,GLUCOSEMONOHYDRATE,WATERFORINJECTION"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0908703200  信東生技股份有限公司",
-    "申請商地址": "桃園市桃園區介壽路２２號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0908703300  信東生技股份有限公司",
         "製造廠廠址": "桃園市桃園區介壽路２２號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -60,22 +58,30 @@
             "單位": "ML"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "透明澄清溶液",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Dextrose in Saline Inj. 006514-104-12-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12006514&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "01 Dextrose in Saline Injection(內衛藥製字第006514號)-20140506再修改 (2)-2014-05-16.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12006514&Seq=003&Type=9"
+            "title": "54040030 Dextrose 0.45% Saline (Lit)-煜祥(印刷版次5)-104-09-15(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12006514&Seq=004&Type=9"
         },
         {
-            "title": "120065140002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12006514&Seq=002&Type=9"
-        },
-        {
-            "title": "120065140001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12006514&Seq=001&Type=9"
-        },
-        {
-            "title": "Dextrose in Saline Injection 標籤-2014-05-16.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12006514&Seq=001&Type=8"
+            "title": "54040090 D／S 2.5%／0.45% (L-500ml,KT,外箱)-昱和(規格板次03)-104-09-15(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12006514&Seq=005&Type=8"
         }
     ]
 }

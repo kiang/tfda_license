@@ -1,7 +1,7 @@
 {
     "code": "40000304",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=40000304",
-    "time": "2015-08-23 22:27:39",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=40000304",
+    "time": "2018-05-11 03:20:57",
     "許可證字號": "衛署粧陸輸字第000304號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,25 +15,22 @@
     "中文品名": "曼秀雷敦ACNES藥用抗痘凝膠",
     "英文品名": "MENTHOLATUM ACNES MEDICATED SEALING JELL",
     "用途": "調理肌膚，預防青春痘。",
-    "劑型": "944乳劑",
+    "劑型": "915凝膠劑",
     "包裝": "500公克以下管裝 附外盒裝",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0715凝膠",
-    "": "",
-    "主成分略述": "SALICYLIC ACID, SULFUR",
-    "限制項目": [
-        "02輸入",
-        "40大陸生產"
+    "主成分略述": [
+        "SALICYLICACID,SULFUR"
     ],
+    "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "1428901100  台灣曼秀雷敦股份有限公司",
-    "申請商地址": "台北市內湖區基湖路10巷57號6樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C666400040  THE MENTHOLATUM (CHINA) PHARMACEUTICALS CO., LTD.",
         "製造廠廠址": "THE SECOND INDUSTRIAL ESTATES SANXIANG, ZHONGSHAN, GUANGDONG, CHINA.",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "33049910105 含藥之面霜Medicated face cream",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -41,7 +38,7 @@
             "成分代碼": "8428000700",
             "成分名稱": "SALICYLIC ACID",
             "含量描述": "",
-            "含量": "0.2000000000",
+            "含量": "0.4520000000",
             "單位": "%(W\/W)"
         },
         {
@@ -55,32 +52,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "400003040002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000304&Seq=002&Type=9"
-        },
-        {
-            "title": "400003040001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000304&Seq=001&Type=9"
-        },
-        {
-            "title": "40000304-103-03-14.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000304&Seq=007&Type=8"
-        },
-        {
-            "title": "400003040003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000304&Seq=004&Type=8"
-        },
-        {
-            "title": "400003040002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000304&Seq=003&Type=8"
-        },
-        {
-            "title": "400003040001___20111114.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000304&Seq=002&Type=8"
-        },
-        {
-            "title": "400003040001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000304&Seq=001&Type=8"
+            "title": "40000304-107-04-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000304&Seq=008&Type=8"
         }
     ]
 }

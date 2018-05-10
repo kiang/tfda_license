@@ -1,7 +1,7 @@
 {
     "code": "56027414",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027414",
-    "time": "2015-08-24 12:27:54",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027414",
+    "time": "2018-05-11 03:17:55",
     "許可證字號": "衛部醫器輸字第027414號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,39 +15,46 @@
     "中文品名": "“尖端”腦波描記系統",
     "英文品名": "“Advanced Brain Monitoring” Electroencephalograph System",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "X10、X24",
+    "醫器規格": "X10、X24 。增加規格：詳如中文仿單核定本，以下空白。規格變更：詳如中文仿單核定本(原104.7.02核准之仿單標籤核定本正本予以回收作廢)，以下空白。",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "K神經學科用裝置",
     "醫器次類別一": "K1400腦波描記器",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        ""
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "6201107811  嘉杏股份有限公司",
-    "申請商地址": "台北市中山區松江路42號4樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "M464353000  Advanced Brian Monitoring, Inc.",
         "製造廠廠址": "2237 Faraday Avenue Suite 100, Carlsbad CA 92008 USA",
         "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
+        "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "560274140002-104-07-02.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027414&Seq=001&Type=9"
+            "title": "560274140001-107-04-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027414&Seq=003&Type=9"
         },
         {
-            "title": "560274140001-104-07-02.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027414&Seq=001&Type=8"
+            "title": "560274140001-107-04-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027414&Seq=002&Type=9"
+        },
+        {
+            "title": "560274140001-107-04-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027414&Seq=003&Type=8"
+        },
+        {
+            "title": "560274140001-107-04-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027414&Seq=002&Type=8"
         }
     ]
 }

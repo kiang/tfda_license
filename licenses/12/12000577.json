@@ -1,36 +1,34 @@
 {
     "code": "12000577",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12000577",
-    "time": "2015-08-23 13:02:27",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12000577",
+    "time": "2018-05-11 03:27:44",
     "許可證字號": "內衛藥製字第000577號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/05\/25",
+    "有效日期": "112\/05\/25",
     "發證日期": "59\/02\/02",
     "許可證種類": "製　劑",
     "舊證字號": "00000000",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY01200057709",
-    "中文品名": "\"信東\" 乳酸林格爾注射液",
-    "英文品名": "LACTATED RINGER'S INJECTION \"SINTONG\"",
+    "中文品名": "&quot;信東&quot; 乳酸林格爾注射液",
+    "英文品名": "LACTATED RINGER&#39;S INJECTION &quot;SINTONG&quot;",
     "適應症": "火傷、手術、外傷失血過多、血漿之代用品等",
     "劑型": "270注射劑",
     "包裝": "20,100,250,300,500,1000ml塑膠軟袋裝 500,1000ml塑膠瓶裝 250,500,1000ml玻璃瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "SODIUM LACTATE SOLUTION, CALCIUM CHLORIDE DIHYDRATE, POTASSIUM CHLORIDE, SODIUM CHLORIDE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "SODIUMLACTATESOLUTION,CALCIUMCHLORIDEDIHYDRATE,POTASSIUMCHLORIDE,SODIUMCHLORIDE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0908703200  信東生技股份有限公司",
-    "申請商地址": "桃園市桃園區介壽路２２號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0908703300  信東生技股份有限公司",
-        "製造廠廠址": "桃園市桃園區介壽路２２號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠廠址": "桃園市桃園區豐林里介壽路２２號",
+        "製造廠公司地址": ""
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -68,18 +66,34 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "無色或幾乎無色的澄清溶液",
+        "特殊劑型": "",
+        "顏色": "無色或幾乎無色",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Lactated Ringer's Inj. 000577-105-01-08(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000577&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
+            "title": "54120030 Lactated Ringer's Injection(Lit)-(印刷版次5)-107-02-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000577&Seq=004&Type=9"
+        },
+        {
             "title": "Lactated Ringer's Injection (內衛藥製字第000577號)-2014-04-01.PDF",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000577&Seq=003&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000577&Seq=003&Type=9"
         },
         {
-            "title": "120005770002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000577&Seq=002&Type=9"
-        },
-        {
-            "title": "120005770001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000577&Seq=001&Type=9"
+            "title": "54120010 Lactated Ringer's Injection(L-500，PP，KT)-昱和(印刷版次7)-104-09-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000577&Seq=001&Type=8"
         }
     ]
 }

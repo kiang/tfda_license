@@ -1,38 +1,34 @@
 {
     "code": "51058034",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058034",
-    "time": "2016-01-29 04:32:29",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058034",
+    "time": "2018-05-11 03:28:39",
     "許可證字號": "衛部藥製字第058034號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/07\/31",
+    "有效日期": "112\/07\/31",
     "發證日期": "102\/07\/31",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY05105803404",
-    "中文品名": "\"五洲\"巴森錠0.25毫克",
+    "中文品名": "&quot;五洲&quot;巴森錠0.25毫克",
     "英文品名": "PEXO Tablets 0.25mg",
     "適應症": "治療自發性巴金森氏症的徵候及症狀。治療原發性腿部躁動症(Primary Restless Legs Syndrome)的症狀。",
     "劑型": "110錠劑",
     "包裝": "2-1000錠ALU-ALU鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "PRAMIPEXOLE ( PRAMIPEXOLE DIHYDROCHLORIDE MONOHYDRATE)",
-    "限制項目": [
-        "01國產",
-        "24監視期滿學名藥",
-        "61完成BE試驗"
+    "主成分略述": [
+        "PRAMIPEXOLE(PRAMIPEXOLEDIHYDROCHLORIDEMONOHYDRATE)"
     ],
+    "限制項目": "01國　產 24監視期滿學名藥 61完成BE試驗",
     "申請商名稱": "0413004200  五洲製藥股份有限公司",
-    "申請商地址": "桃園市新屋區赤欄里17之1號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0413004300  五洲製藥股份有限公司",
         "製造廠廠址": "桃園市新屋區赤欄村二鄰１７號之１",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -46,22 +42,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "白色橢圓形壓製錠，一面分半切線，一面刻UC24字樣。",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "pexo tab 01-104-11-24(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058034&Seq=002&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "010580340002-102-09-17.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058034&Seq=002&Type=9"
+            "title": "1011008巴森錠 仿單-104-12-02(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058034&Seq=003&Type=9"
         },
         {
-            "title": "010580340001-102-09-17.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058034&Seq=001&Type=9"
-        },
-        {
-            "title": "010580340004-102-09-17.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058034&Seq=002&Type=8"
-        },
-        {
-            "title": "010580340003-102-09-17.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058034&Seq=001&Type=8"
+            "title": "五洲 巴森錠140錠裝_box-104-11-24(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058034&Seq=003&Type=8"
         }
     ]
 }

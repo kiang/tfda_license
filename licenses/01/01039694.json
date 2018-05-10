@@ -1,7 +1,7 @@
 {
     "code": "01039694",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01039694",
-    "time": "2017-04-28 03:27:18",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01039694",
+    "time": "2018-05-11 03:02:17",
     "許可證字號": "衛署藥製字第039694號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "1409905300  輝瑞生技股份有限公司新竹廠",
         "製造廠廠址": "新竹縣新豐鄉中崙村中崙２９０之１號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30041010104 人用醫藥製劑，含青黴素類或具有青黴素酸結構之衍生物者Medicaments, containing penicillins or derivatives thereof,with a penicillinic acid structure, for human use",
+    "CCC號列": "30041010104 人用醫藥製劑，含青黴素類或具有青黴素酸結構之衍生物者Medicaments, containing penicillins or derivatives thereof,with a penicillanic acid structure, for human use",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -83,18 +82,42 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "為白色至微黃色之滅菌凍晶粉末",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Tazocin Lyo-Injection 達梭黴素 MA 039694實體-104-09-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039694&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
+            "title": "02 039694 0001-107-04-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039694&Seq=022&Type=9"
+        },
+        {
+            "title": "02 039694 0001-106-06-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039694&Seq=021&Type=9"
+        },
+        {
             "title": "02 039694 0001-106-02-17.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039694&Seq=020&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039694&Seq=020&Type=9"
         },
         {
             "title": "020396940001-105-09-07.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039694&Seq=019&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039694&Seq=019&Type=9"
         },
         {
             "title": "4.5 瓶子外觀1040910-104-10-02(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039694&Seq=009&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039694&Seq=009&Type=8"
         }
     ]
 }

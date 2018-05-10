@@ -1,7 +1,7 @@
 {
     "code": "02013518",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02013518",
-    "time": "2017-04-28 03:28:43",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02013518",
+    "time": "2018-05-11 03:03:40",
     "許可證字號": "衛署藥輸字第013518號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "F260387000  TSUMURA &amp; CO.",
         "製造廠廠址": "392-1, KAEDA, TSUIJI, FUJIEDA-SHI, SHIZUODA, JAPAN",
-        "製造廠公司地址": "2-17-11,Akasaka, Minato-Ku,Tokyo,107-8521, Japan",
-        "": ""
+        "製造廠公司地址": "2-17-11,Akasaka, Minato-Ku,Tokyo,107-8521, Japan"
     },
-    "CCC號列": "30044099004 其他醫藥製劑，含有生物鹼或其衍生物，但未含內分泌素，第２９３７節之其他產品或抗生素者Other medicaments, containing alkaloids or derivatives thereof but not containing hormones, other products of heading 29.37 or antibiotics",
+    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -163,14 +162,30 @@
             "單位": "GM"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "90mm*70mm",
+        "特殊劑型": "",
+        "顏色": "白色藥煎袋",
+        "特殊氣味": "中藥香味",
+        "刻痕": "無",
+        "形狀": "長方形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "照片-中將湯-104-12-24(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02013518&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "中將湯中文仿單-106-02-20.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02013518&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02013518&Seq=002&Type=9"
         },
         {
             "title": "中將湯外盒24包-106-02-20.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02013518&Seq=003&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02013518&Seq=003&Type=8"
         }
     ]
 }

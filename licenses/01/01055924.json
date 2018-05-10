@@ -1,7 +1,7 @@
 {
     "code": "01055924",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01055924",
-    "time": "2016-11-18 15:47:32",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01055924",
+    "time": "2018-05-11 03:03:25",
     "許可證字號": "衛署藥製字第055924號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "1704519300  應元化學製藥股份有限公司",
         "製造廠廠址": "台南市新忠路26號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -43,34 +42,38 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "7mm",
+        "特殊劑型": "",
+        "顏色": "白色",
+        "特殊氣味": "",
+        "刻痕": "有",
+        "形狀": "圓扁形",
+        "標記一": "YP703",
+        "標記二": "十字剝半線"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "可那平 裸錠 PTP-104-09-29(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055924&Seq=002&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "S-703可那平錠2毫克-仿單-104-09-29(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055924&Seq=002&Type=9"
+            "title": "055924仿單-107-04-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055924&Seq=003&Type=9"
         },
         {
-            "title": "可那平錠仿單___20110419.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055924&Seq=001&Type=9"
+            "title": "S-703可那平錠2毫克-仿單-104-09-29(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055924&Seq=002&Type=9"
+        },
+        {
+            "title": "055924標籤-107-04-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055924&Seq=006&Type=8"
         },
         {
             "title": "S-703-1-104-09-29(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055924&Seq=005&Type=8"
-        },
-        {
-            "title": "可那平 全外觀-104-09-29(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055924&Seq=004&Type=8"
-        },
-        {
-            "title": "可那平錠標籤___20110419.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055924&Seq=003&Type=8"
-        },
-        {
-            "title": "可那平錠外盒___20110419.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055924&Seq=002&Type=8"
-        },
-        {
-            "title": "可那平錠PTP___20110419.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055924&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055924&Seq=005&Type=8"
         }
     ]
 }

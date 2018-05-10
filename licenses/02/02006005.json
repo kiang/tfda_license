@@ -1,12 +1,12 @@
 {
     "code": "02006005",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02006005",
-    "time": "2017-02-24 03:13:38",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02006005",
+    "time": "2018-05-11 03:03:37",
     "許可證字號": "衛署藥輸字第006005號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/10\/17",
+    "有效日期": "112\/10\/17",
     "發證日期": "105\/12\/20",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -28,29 +28,37 @@
         "主製造廠": "",
         "製造廠名稱": "F260270200  SANTEN PHARMACEUTICAL CO., LTD. SHIGA PLANT",
         "製造廠廠址": "348-3, AZA-SUWA, OAZA-SHIDE, TAGACHO INUKAMIGUN, SHIGA, JAPAN",
-        "製造廠公司地址": "9-19 SHIMOSHINJO 3-CHOME, HIGASHIYODOGAWA-KU, OSAKA, JAPAN",
-        "": ""
+        "製造廠公司地址": "9-19 SHIMOSHINJO 3-CHOME, HIGASHIYODOGAWA-KU, OSAKA, JAPAN"
     },
-    "CCC號列": "30043200002 含有腎上腺皮質類固醇荷爾蒙，其衍生物及結構式類似者Containing adrenal corticosteroid hormones, their derivatives and structural analogues",
+    "CCC號列": "30043200002 其他醫藥製劑，含有腎上腺皮質類固醇荷爾蒙及其衍生物或結構式類似者Other medicaments, containing corticosteroid hormones, their derivatives or structural analogues",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "F260270000  SANTEN PHARMACEUTICAL CO. LTD.(NOTO PLANT)",
+            "製造廠廠址": "2-14, SHIKINAMI, HODATSUSHIMIZU-CHO,HAKUI-GUN, ISHIKAWA , JAPAN",
+            "製造廠公司地址": "3-9-19, SHIMOSHINJO HIGASHIYODOGAWA-KU OSAKA JAPAN",
+            "製造廠國別": "JAPAN",
+            "製程": "二級包裝廠"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
             "成分代碼": "8406001200",
             "成分名稱": "FLUOROMETHOLONE",
             "含量描述": "",
-            "含量": "0.0200000000",
-            "單位": "GM"
+            "含量": "0.2000000000",
+            "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
-            "title": "TW Flumetholon 0.02 PI (03)-102-11-13.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02006005&Seq=007&Type=9"
+            "title": "020060050001-106-06-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02006005&Seq=008&Type=9"
         },
         {
-            "title": "020060050003-105-12-20.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02006005&Seq=007&Type=8"
+            "title": "020060050002-106-06-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02006005&Seq=008&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "08020243",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08020243",
-    "time": "2015-08-23 21:02:13",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08020243",
+    "time": "2018-05-11 03:20:48",
     "許可證字號": "衛署粧輸字第020243號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,61 +17,26 @@
     "用途": "防曬。",
     "劑型": "944乳劑",
     "包裝": "500ml以下瓶裝附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0711防晒乳液",
-    "": "",
-    "主成分略述": "HOMOMETHYL SALICYLATE (HOMOSALATE), BENZOPHENONE-3, BUTYL METHOXYDIBENZOYLMETHANE, ETHYLHEXYL SALICYLATE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "HOMOMETHYLSALICYLATE(HOMOSALATE),BENZOPHENONE-3,BUTYLMETHOXYDIBENZOYLMETHANE,ETHYLHEXYLSALICYLATE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "6628181869  瑞政股份有限公司",
-    "申請商地址": "台北市中正區杭州南路1段15之1號5樓",
     "主製造廠": {
-        "製造廠名稱": "C460219000  DERMALOGICA, INC.",
+        "主製造廠": "",
+        "製造廠名稱": "C460219000  DERMALOGICA, LLC",
         "製造廠廠址": "1535, BEACHEY PLACE CARSON CA 90746 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
-    "ingredients": [
-        {
-            "成分類別": "主成分",
-            "成分代碼": "8424400210",
-            "成分名稱": "HOMOMETHYL SALICYLATE (HOMOSALATE)",
-            "含量描述": "",
-            "含量": "8.0000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9600003820",
-            "成分名稱": "BENZOPHENONE-3",
-            "含量描述": "",
-            "含量": "5.0000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9600046110",
-            "成分名稱": "BUTYL METHOXYDIBENZOYLMETHANE",
-            "含量描述": "",
-            "含量": "3.0000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9900085500",
-            "成分名稱": "ETHYLHEXYL SALICYLATE",
-            "含量描述": "",
-            "含量": "4.0000000000",
-            "單位": "%(W\/W)"
-        }
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
             "title": "08020243-102-07-05.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08020243&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08020243&Seq=001&Type=8"
         }
     ]
 }
