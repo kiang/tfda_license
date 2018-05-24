@@ -1,7 +1,7 @@
 {
     "code": "41000582",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=41000582",
-    "time": "2015-08-24 00:24:19",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=41000582",
+    "time": "2018-05-25 03:25:02",
     "許可證字號": "衛署藥陸輸字第000582號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,33 +17,26 @@
     "適應症": "抗黴菌劑。",
     "劑型": "040（粉）",
     "包裝": "0.5公斤以上裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "01製劑原料",
-    "管制藥品分類級別": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入",
-        "40大陸生產"
+    "主成分略述": [
+        ""
     ],
+    "限制項目": "02輸　入 1Q不得輸入 40大陸生產",
     "申請商名稱": "1429401100  漢旭股份有限公司",
-    "申請商地址": "台北市內湖區內湖路一段324號7樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F640179000  JIANGSU NHWA PHARMACEUTICAL CO., LTD.",
         "製造廠廠址": "NO.289, NORTH ZHONGSHAN ROAD, XUZHOU 221007, JIANGSU, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "410005820001-102-06-05.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=41000582&Seq=002&Type=8"
-        },
-        {
-            "title": "410005820002-102-06-05.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=41000582&Seq=001&Type=8"
+            "title": "410005820001-102-06-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=41000582&Seq=002&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "06011524",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06011524",
-    "time": "2018-05-11 03:08:04",
+    "time": "2018-05-25 03:06:03",
     "許可證字號": "衛署醫器輸字第011524號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,5 +38,23 @@
         "": ""
     },
     "藥理治療分類": "",
-    "ingredients": []
+    "ingredients": [],
+    "仿單外盒": [
+        {
+            "title": "060115240002-104-05-29.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011524&Seq=005&Type=9"
+        },
+        {
+            "title": "060115240001-104-05-29.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011524&Seq=004&Type=9"
+        },
+        {
+            "title": "060115240002-104-05-29.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011524&Seq=002&Type=8"
+        },
+        {
+            "title": "060115240001-104-05-29.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011524&Seq=001&Type=8"
+        }
+    ]
 }
