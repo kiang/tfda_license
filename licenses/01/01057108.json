@@ -1,7 +1,7 @@
 {
     "code": "01057108",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057108",
-    "time": "2017-01-27 03:40:16",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057108",
+    "time": "2018-06-08 03:04:26",
     "許可證字號": "衛署藥製字第057108號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,7 +16,7 @@
     "英文品名": "Okbeauty Capsules 120mg",
     "適應症": "成人：配合低卡洛里飲食，適合肥胖病患的治療，包括有與肥胖相關危險因子之病患。青少年：對於肥胖青少年，只有當6個月以上療程的治療方法(包括適合病患年齡的均衡飲食及矯正病患行為的運動計畫)失敗時才可使用orlistat治療。",
     "劑型": "130膠囊劑",
-    "包裝": "2-1000粒PTP 鋁箔盒裝 (暫定有效期限18個月)PE塑膠瓶裝",
+    "包裝": "2-1000粒PE塑膠瓶裝 2-1000粒PTP 鋁箔盒裝",
     "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
     "主成分略述": [
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "0903620300  南光化學製藥股份有限公司",
         "製造廠廠址": "台南市新化區中山路1001號、1001之1號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -41,16 +40,64 @@
             "含量描述": "",
             "含量": "120.0000000000",
             "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "1212004500",
+            "成分名稱": "ORLISTAT",
+            "含量描述": "",
+            "含量": "120.0000000000",
+            "單位": "MG"
+        }
+    ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "藍色蓋-藍色體",
+        "特殊氣味": "",
+        "刻痕": "無",
+        "形狀": "長圓柱形",
+        "標記一": "N.K.P.,506",
+        "標記二": "N.K.P.,506"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "506057108_外觀_201511-104-11-04(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057108&Seq=001&Type=10"
         }
     ],
     "仿單外盒": [
         {
+            "title": "眉多芬油切膠囊120毫克_仿單_121417-04-107-05-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057108&Seq=004&Type=9"
+        },
+        {
+            "title": "010571080001-105-07-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057108&Seq=003&Type=9"
+        },
+        {
             "title": "506057108_仿單_072215-03-104-09-25(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057108&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057108&Seq=002&Type=9"
+        },
+        {
+            "title": "010571080001___20120321.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057108&Seq=001&Type=9"
+        },
+        {
+            "title": "眉多芬油切膠囊120毫克_鋁箔片_043015-01.pdf-107-05-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057108&Seq=012&Type=8"
+        },
+        {
+            "title": "眉多芬油切膠囊120毫克_彩盒_043015-01-107-05-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057108&Seq=011&Type=8"
+        },
+        {
+            "title": "眉多芬油切膠囊120毫克_自黏標_072215-01-107-05-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057108&Seq=010&Type=8"
         },
         {
             "title": "01057108鋁箔-105-07-18.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057108&Seq=009&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057108&Seq=009&Type=8"
         }
     ]
 }

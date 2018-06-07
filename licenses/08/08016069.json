@@ -1,7 +1,7 @@
 {
     "code": "08016069",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016069",
-    "time": "2015-08-23 19:42:19",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016069",
+    "time": "2018-06-08 03:51:53",
     "許可證字號": "衛署粧輸字第016069號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,22 +17,20 @@
     "用途": "染髮。",
     "劑型": "990乳霜劑",
     "包裝": "500ml以下鋁管裝 附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "1-NAPHTHOL, CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL), P-AMINOPHENOL, P-PHENYLENEDIAMINE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "1-NAPHTHOL,CRESOLO-P-AMINO(EQTO5-AMINO-O-CRESOL)(EQTOP-AMINO-O-CRESOL),P-AMINOPHENOL,P-PHENYLENEDIAMINE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1511701100  髮利國際貿易有限公司",
-    "申請商地址": "新北市汐止區福德一路392巷42弄24號1樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C250083000  COVER LINE S.R.L.",
         "製造廠廠址": "BOTTICINO(BS) VIA MOLINETTO, 26 ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -66,6 +64,12 @@
             "含量描述": "",
             "含量": "0.9200000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08016069-2009-05-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016069&Seq=001&Type=9"
         }
     ]
 }

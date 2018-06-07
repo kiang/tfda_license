@@ -1,7 +1,7 @@
 {
     "code": "01028482",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01028482",
-    "time": "2015-08-22 22:44:46",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01028482",
+    "time": "2018-06-08 03:01:53",
     "許可證字號": "衛署藥製字第028482號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,27 +12,25 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102848207",
-    "中文品名": "維你益糖衣錠",
-    "英文品名": "VILIABES S.C. TABALETS \"JOHNSON\"",
+    "中文品名": "&quot;強生&quot;維你益糖衣錠",
+    "英文品名": "VILIABES S.C. TABALETS &quot;JOHNSON&quot;",
     "適應症": "習慣性早產、流產、末梢血行障礙、乾眼症、夜盲症、皮脂漏性皮膚炎及其他維他命Ａ、Ｅ、Ｂ６缺乏症",
     "劑型": "119糖衣錠",
     "包裝": "瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "VITAMIN A, PYRIDOXINE HCL, TOCOPHEROL ACETATE ALPHA (EQ TO VIT E ACETATE) (EQ TO VITAMIN E ACETATE)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "VITAMINA,PYRIDOXINEHCL,TOCOPHEROLACETATEALPHA(EQTOVITEACETATE)(EQTOVITAMINEACETATE)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1110202200  強生化學製藥廠股份有限公司",
-    "申請商地址": "新北市三重區三和路四段77號2、3樓、79號1至6樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1110202300  強生化學製藥廠股份有限公司",
         "製造廠廠址": "新北市三重區三和路四段７７號2、3樓、79號1至6樓",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30045000009 含有維他命或第２９３６節產品之其他醫藥製劑Other medicaments containing vitamins or other products of heading 29.36",
+    "CCC號列": "30045000009 其他醫藥製劑，含有維他命或第２９３６節之其他產品Other medicaments, containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -60,10 +58,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "圓形糖衣錠",
+        "特殊劑型": "",
+        "顏色": "淺粉紅色",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "圓凸形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "O-37 裸錠-104-09-08(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028482&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "010284820001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028482&Seq=001&Type=9"
+            "title": "O-37說明書(賦形劑)-維你益糖衣錠 Viliabes S.C. Tab. (Vitamin E Acetate, Vitamin A, Vitamin B6)-104-10-12(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028482&Seq=002&Type=9"
+        },
+        {
+            "title": "O-37 瓶裝-104-09-08(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028482&Seq=001&Type=8"
         }
     ]
 }

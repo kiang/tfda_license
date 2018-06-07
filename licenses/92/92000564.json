@@ -1,7 +1,7 @@
 {
     "code": "92000564",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000564",
-    "time": "2015-08-22 16:06:26",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000564",
+    "time": "2018-06-08 03:20:13",
     "許可證字號": "衛部醫器陸輸字第000564號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,40 +15,46 @@
     "中文品名": "“百合”血液迴路",
     "英文品名": "“BAIHE” disposable Blood Lines",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "詳如中文仿單核定本",
+    "醫器規格": "詳如中文仿單核定本。註銷規格:FB-A004V01、FB-A004V02、\r\nFB-A004V03、FB-A004V04、FB-A004V05；FB-A005V01、\r\nFB-A005V02、FB-A005V03、FB-A005V04、FB-A005V05，以下空白。",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "H胃腸病學-泌尿學科用裝置",
     "醫器次類別一": "H5540血液通路裝置及其附件",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入",
-        "40大陸生產"
+    "主成分略述": [
+        ""
     ],
+    "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6217088032  互瑞生技股份有限公司",
-    "申請商地址": "台中市北屯區四平路51巷7號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "M641145000  GUANGDONG BAIHE MEDICAL TECHNOLOGY CO., LTD.",
-        "製造廠廠址": "3~4F BUILDING 2, BUILDING 3, 3~6F BUILDING 4, NO.89, TAOYUAN EAST ROAD, NANHAI, GUANGDONG, CHINA",
+        "製造廠廠址": "No.89, Taoyuan East Road, Nanhai, Foshan, Guangdong, Province, China",
         "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "920005640001(107.5.11)-107-05-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000564&Seq=002&Type=9"
+        },
+        {
             "title": "560005640001-102-09-16.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000564&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000564&Seq=001&Type=9"
+        },
+        {
+            "title": "920005640001(107.5.11)-107-05-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000564&Seq=002&Type=8"
         },
         {
             "title": "560005640002-102-09-16.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000564&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000564&Seq=001&Type=8"
         }
     ]
 }

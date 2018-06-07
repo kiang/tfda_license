@@ -1,38 +1,36 @@
 {
     "code": "12011607",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12011607",
-    "time": "2015-08-22 16:34:33",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12011607",
+    "time": "2018-06-08 03:32:39",
     "許可證字號": "內衛藥製字第011607號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/05\/25",
+    "有效日期": "112\/05\/25",
     "發證日期": "59\/10\/09",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY01201160703",
-    "中文品名": "\"信東\"去氫羥化腎上腺皮質素錠５毫克",
-    "英文品名": "Prednisolone Tablets \"TBC\"",
-    "適應症": "急性風濕熱、風濕性肌炎、風濕性關節炎、骨關節炎、支氣管氣喘、過敏性鼻炎、藥物過敏、輸血反應、枯草熱、蕁麻疹、散播性紅斑狼瘡、過敏性皮炎、天？瘡、滑液囊炎",
+    "中文品名": "&quot;信東&quot;去氫羥化腎上腺皮質素錠５毫克",
+    "英文品名": "Prednisolone Tablets &quot;TBC&quot;",
+    "適應症": "急性風濕熱、風濕性肌炎、風濕性關節炎、骨關節炎、支氣管氣喘、過敏性鼻炎、藥物過敏、輸血反應、枯草熱、蕁麻疹、散播性紅斑狼瘡、過敏性皮炎、天疱瘡、滑液囊炎",
     "劑型": "110錠劑",
     "包裝": "8-1000錠塑膠瓶裝 8-1000錠鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "PREDNISOLONE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "PREDNISOLONE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0908703200  信東生技股份有限公司",
-    "申請商地址": "桃園市桃園區介壽路２２號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0603006200  安星製藥股份有限公司",
         "製造廠廠址": "新竹縣新豐鄉鳳坑村坑子口６７３號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30043200002 含有腎上腺皮質類固醇荷爾蒙，其衍生物及結構式類似者Containing adrenal corticosteroid hormones, their derivatives and structural analogues",
+    "CCC號列": "30043200002 其他醫藥製劑，含有腎上腺皮質類固醇荷爾蒙及其衍生物或結構式類似者Other medicaments, containing corticosteroid hormones, their derivatives or structural analogues",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -44,18 +42,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "裸錠",
+        "特殊劑型": "",
+        "顏色": "粉紅色",
+        "特殊氣味": "",
+        "刻痕": "有",
+        "形狀": "圓凸形",
+        "標記一": "ST 401",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Prednisolone Tablets 5mg 011607-104-12-24(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12011607&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "120116070001___20100521.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12011607&Seq=001&Type=9"
+            "title": "Prednisolone Tablets 5mg (Lit)-煜祥(備稿單20150916)-104-10-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12011607&Seq=002&Type=9"
         },
         {
-            "title": "120116070003___20100521.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12011607&Seq=002&Type=8"
-        },
-        {
-            "title": "120116070002___20100521.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12011607&Seq=001&Type=8"
+            "title": "Prednisolone Tablets 5mg (L-1000錠)-龍璟(備稿單20150916)-104-10-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12011607&Seq=003&Type=8"
         }
     ]
 }

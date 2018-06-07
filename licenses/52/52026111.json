@@ -1,7 +1,7 @@
 {
     "code": "52026111",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026111",
-    "time": "2015-08-23 13:44:42",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026111",
+    "time": "2018-06-08 03:08:01",
     "許可證字號": "衛部藥輸字第026111號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,18 @@
     "適應症": "腸炎、下痢。",
     "劑型": "192丸劑",
     "包裝": "18-1000粒玻璃瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
-    "管制藥品分類級別": "",
-    "主成分略述": "SCOPOLIA EXTRACT, CREOSOTE, PHELLODENDRON BARK POWDER (EQ TO POWDERED PHELLODENDRON BARK), GERANIUM HERBA POWDER, CITRUS UNSHIU PEEL, GLYCYRRHIZA POWDER",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "SCOPOLIAEXTRACT,WOODCREOSOTE,PHELLODENDRONBARKPOWDER(EQTOPOWDEREDPHELLODENDRONBARK),GERANIUMHERBAPOWDER,CITRUSUNSHIUPEEL,GLYCYRRHIZAPOWDER"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1508901100  德佑藥品有限公司",
-    "申請商地址": "台北市松山區敦化南路一段3號2樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F260160000  KYOKUTO CO., LTD.",
         "製造廠廠址": "NO.8-10,USHIZIMA SHINMACHI,TOYAMA-SHI,JAPAN.",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -45,8 +43,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "4800000900",
-            "成分名稱": "CREOSOTE",
+            "成分代碼": "4800000910",
+            "成分名稱": "WOOD CREOSOTE",
             "含量描述": "",
             "含量": "33.3300000000",
             "單位": "MG"
@@ -86,16 +84,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "德佑正露丸_衛部藥輸字第026111號_中文仿單-104-02-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026111&Seq=001&Type=9"
+            "title": "衛部藥輸字第026111號_德佑正露丸_仿單-107-05-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026111&Seq=003&Type=9"
         },
         {
-            "title": "52026111-104-02-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026111&Seq=002&Type=8"
+            "title": "衛部藥輸字第026111號_德佑正露丸_瓶標-107-05-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026111&Seq=004&Type=8"
         },
         {
-            "title": "德佑正露丸_衛部藥輸字第026111號_中文標籤-104-02-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026111&Seq=001&Type=8"
+            "title": "衛部藥輸字第026111號_德佑正露丸_外盒-107-05-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026111&Seq=003&Type=8"
         }
     ]
 }

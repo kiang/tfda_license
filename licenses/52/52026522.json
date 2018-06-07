@@ -1,7 +1,7 @@
 {
     "code": "52026522",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026522",
-    "time": "2016-09-30 03:42:51",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026522",
+    "time": "2018-06-08 03:08:09",
     "許可證字號": "衛部藥輸字第026522號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,22 +17,18 @@
     "適應症": "短效麻醉性止痛劑及麻醉誘導劑。",
     "劑型": "270注射劑",
     "包裝": "2毫升安瓿 100支以下盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "B第二級管制藥品",
-    "主成分略述": "ALFENTANIL HCL",
-    "限制項目": [
-        "02輸入",
-        "24監視期滿學名藥",
-        "32第二級管制藥品"
+    "主成分略述": [
+        "ALFENTANILHCL"
     ],
+    "限制項目": "02輸　入 24監視期滿學名藥 32第二級管制藥品",
     "申請商名稱": "6201180767  衛生福利部食品藥物管理署管制藥品製藥工廠",
-    "申請商地址": "台北市南港區忠孝東路六段467號地下一層",
     "主製造廠": {
-        "製造廠名稱": "F470367000  HAMELN PHARMACEUTICALS GMBH",
+        "主製造廠": "",
+        "製造廠名稱": "F470367000  SIEGFRIED HAMELN GMBH",
         "製造廠廠址": "LANGES FELD 13, 31789 HAMELN, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -58,19 +54,11 @@
     "仿單外盒": [
         {
             "title": "020265220002_中仿2015年9月版_已校對-104-09-16.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026522&Seq=002&Type=9"
-        },
-        {
-            "title": "020265220002_中仿-104-07-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026522&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026522&Seq=002&Type=9"
         },
         {
             "title": "020265220005_英盒-104-07-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026522&Seq=002&Type=8"
-        },
-        {
-            "title": "020265220004_中標-104-07-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026522&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026522&Seq=002&Type=8"
         }
     ]
 }

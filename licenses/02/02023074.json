@@ -1,7 +1,7 @@
 {
     "code": "02023074",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023074",
-    "time": "2017-06-16 03:03:26",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023074",
+    "time": "2018-06-08 03:05:16",
     "許可證字號": "衛署藥輸字第023074號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,20 +28,10 @@
         "主製造廠": "",
         "製造廠名稱": "F470021000  BOEHRINGER INGELHEIM PHARMA GMBH &amp; CO. KG. FOR BOEHRINGER INGELHEIM INTERNATIONAL GMBH",
         "製造廠廠址": "BINGER STRASSE 173, 55216 INGELHEIM AM RHEIN GERMANY",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
-    "次製造廠": [
-        {
-            "製造廠名稱": "1225204000  裕利股份有限公司",
-            "製造廠廠址": "桃園市大園區和平里1鄰開和路91號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
-            "製程": "貼標廠"
-        }
-    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -55,11 +45,15 @@
     "仿單外盒": [
         {
             "title": "020230740001-104-12-10.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023074&Seq=006&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023074&Seq=006&Type=9"
         },
         {
-            "title": "020230740003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023074&Seq=003&Type=8"
+            "title": "023074-107-04-30.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023074&Seq=004&Type=8"
+        },
+        {
+            "title": "020230740003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023074&Seq=003&Type=8"
         }
     ]
 }

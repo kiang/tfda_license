@@ -1,7 +1,7 @@
 {
     "code": "02017196",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02017196",
-    "time": "2016-11-18 19:16:38",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02017196",
+    "time": "2018-06-08 03:04:46",
     "許可證字號": "衛署藥輸字第017196號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -22,17 +22,25 @@
     "主成分略述": [
         "MECOBALAMIN"
     ],
-    "限制項目": "02輸　入",
+    "限制項目": "02輸　入 1Q不得輸入",
     "申請商名稱": "0100401100  一成藥品股份有限公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "F260464000  NISSIN PHARM. CO., LTD.",
-        "製造廠廠址": "2-3-1,SHOUGEHIGASHI, TENDO-CITY,YAMAGATA-PREF.,JAPAN",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠名稱": "F269455000  NISSIN PHARMACEUTICAL Co.,LTD., Araya Plant",
+        "製造廠廠址": "1000-12,Araya Aza Dohnomae, Tendo-City,Yamagata,994-0054,Japan",
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30045000009 含有維他命或第２９３６節產品之其他醫藥製劑Other medicaments containing vitamins or other products of heading 29.36",
+    "CCC號列": "30045000009 其他醫藥製劑，含有維他命或第２９３６節之其他產品Other medicaments, containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "6133081095  吉地喜股份有限公司",
+            "製造廠廠址": "新竹縣新豐鄉新豐村紅毛23之5號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -55,18 +63,14 @@
     },
     "藥物辨識外觀圖片": [
         {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017196&Seq=422&Type=10"
+            "title": "02017196.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017196&Seq=422&Type=10"
         }
     ],
     "仿單外盒": [
         {
             "title": "衛署藥輸字第017196號 美刻保 膠囊-104-10-14(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017196&Seq=002&Type=9"
-        },
-        {
-            "title": "美刻保膠囊仿單-103-02-07.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017196&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017196&Seq=002&Type=9"
         }
     ]
 }

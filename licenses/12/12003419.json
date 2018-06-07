@@ -1,7 +1,7 @@
 {
     "code": "12003419",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12003419",
-    "time": "2015-08-22 16:32:14",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12003419",
+    "time": "2018-06-08 03:47:49",
     "許可證字號": "內衛藥製字第003419號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,23 +17,20 @@
     "適應症": "創傷及火傷感染、氣性壞疽及其他放射線菌、炭疽、白喉（血清併用）、鏈球菌感染症、葡萄球菌感染症、肺炎雙球菌、淋菌感染症、髓膜炎菌感染症、流行性感冒性肺炎及髓膜炎、亞急性心內膜炎、細菌性痢疾及小兒痢疾、大腸菌、變形菌所引起之尿道感染症、手術時感染",
     "劑型": "130膠囊劑",
     "包裝": "盒裝 瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "AMPICILLIN (TRIHYDRATE)",
-    "限制項目": [
-        "01國產",
-        "1G不得製造"
+    "主成分略述": [
+        "AMPICILLIN(TRIHYDRATE)"
     ],
+    "限制項目": "01國　產 1G不得製造",
     "申請商名稱": "0402609200  中國化學製藥股份有限公司台中工廠",
-    "申請商地址": "台中市西屯區工業區１５路１０號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0402609300  中國化學製藥股份有限公司台中工廠",
         "製造廠廠址": "台中市西屯區工業區１５路１０號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30041010104 人用醫藥製劑，含青黴素類或具有青黴素酸結構之衍生物者Medicaments, containing penicillins or derivatives thereof,with a penicillinic acid structure, for human use",
+    "CCC號列": "30041010104 人用醫藥製劑，含青黴素類或具有青黴素酸結構之衍生物者Medicaments, containing penicillins or derivatives thereof,with a penicillanic acid structure, for human use",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -47,24 +44,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "120034190005.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12003419&Seq=005&Type=9"
-        },
-        {
-            "title": "120034190004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12003419&Seq=004&Type=9"
-        },
-        {
-            "title": "120034190003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12003419&Seq=003&Type=9"
-        },
-        {
-            "title": "120034190002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12003419&Seq=002&Type=9"
-        },
-        {
-            "title": "120034190001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12003419&Seq=001&Type=9"
+            "title": "120034190005.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12003419&Seq=005&Type=9"
         }
     ]
 }

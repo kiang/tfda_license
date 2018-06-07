@@ -1,7 +1,7 @@
 {
     "code": "12008039",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12008039",
-    "time": "2016-07-29 05:08:56",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12008039",
+    "time": "2018-06-08 03:48:26",
     "許可證字號": "內衛藥製字第008039號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,18 @@
     "適應症": "過敏性疾患（氣喘、蕁麻疹、皮膚搔癢症、濕疹、鼻炎、Ｘ線醉）",
     "劑型": "270注射劑",
     "包裝": "1毫升\/安瓿 100支以下盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "DIPHENHYDRAMINE HCL",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "DIPHENHYDRAMINEHCL"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0603006200  安星製藥股份有限公司",
-    "申請商地址": "新竹縣新豐鄉鳳坑村坑子口６７３號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0603006300  安星製藥股份有限公司",
         "製造廠廠址": "新竹縣新豐鄉鳳坑村坑子口６７３號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049099101 抗過敏抗組織胺用藥Drugs for antihypersensitivity and antihistamine",
     "藥理治療分類": "",
@@ -44,34 +42,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "無色澄清藥液",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "外觀圖-104-09-19(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008039&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "30027鹽酸二苯胺明注射液說明書-103-02-25.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008039&Seq=003&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008039&Seq=003&Type=9"
         },
         {
-            "title": "鹽酸二苯胺明注射液PDF-102-09-02.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008039&Seq=002&Type=9"
-        },
-        {
-            "title": "鹽酸二苯胺明標仿___20130205.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008039&Seq=001&Type=9"
-        },
-        {
-            "title": "盒貼標籤-104-09-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008039&Seq=004&Type=8"
-        },
-        {
-            "title": "外盒包裝-104-09-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008039&Seq=003&Type=8"
-        },
-        {
-            "title": "鹽酸二苯胺明注射液PDF-102-09-02.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008039&Seq=002&Type=8"
-        },
-        {
-            "title": "鹽酸二苯胺明標仿___20130205.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008039&Seq=001&Type=8"
+            "title": "盒貼標籤-104-09-19(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008039&Seq=004&Type=8"
         }
     ]
 }

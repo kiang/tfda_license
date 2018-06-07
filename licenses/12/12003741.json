@@ -1,7 +1,7 @@
 {
     "code": "12003741",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12003741",
-    "time": "2015-08-23 07:52:06",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12003741",
+    "time": "2018-06-08 03:47:55",
     "許可證字號": "內衛藥製字第003741號",
     "註銷狀態": "已註銷",
     "註銷日期": "102\/08\/02",
@@ -17,21 +17,18 @@
     "適應症": "酸中毒",
     "劑型": "270注射劑",
     "包裝": "20毫升玻璃安瓿裝 20毫升塑膠安瓿裝 50、100毫升小瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE)",
-    "限制項目": [
-        "01國產",
-        "1G依藥品審查準則第64條不得製造"
+    "主成分略述": [
+        "SODIUMBICARBONATE(EQTOSODIUMHYDROGENCARBONATE)"
     ],
+    "限制項目": "01國　產 1G依藥品審查準則第64條 不得製造",
     "申請商名稱": "0504301200  永豐化學工業股份有限公司",
-    "申請商地址": "新北市新莊區新樹路２９２號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0504302300  永豐化學工業股份有限公司新莊工廠",
         "製造廠廠址": "新北市新莊區新樹路２９２號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -48,15 +45,11 @@
     "仿單外盒": [
         {
             "title": "010037410002___20130315.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12003741&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12003741&Seq=001&Type=9"
         },
         {
             "title": "010037410003___20130315.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12003741&Seq=002&Type=8"
-        },
-        {
-            "title": "010037410001___20130315.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12003741&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12003741&Seq=002&Type=8"
         }
     ]
 }

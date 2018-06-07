@@ -1,7 +1,7 @@
 {
     "code": "02025149",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025149",
-    "time": "2016-11-18 20:39:16",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025149",
+    "time": "2018-06-08 03:06:05",
     "許可證字號": "衛署藥輸字第025149號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,12 +28,18 @@
         "主製造廠": "",
         "製造廠名稱": "F140009100  ORION CORPORATION",
         "製造廠廠址": "ORIONINTIE 1 FIN-02200 ESPOO FINLAND",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
+        {
+            "製造廠名稱": "F140031000  Orion Corporation",
+            "製造廠廠址": "Joensuunkatu 7, Salo 24100, Finland",
+            "製造廠公司地址": "",
+            "製造廠國別": "FINLAND",
+            "製程": "包裝"
+        },
         {
             "製造廠名稱": "F430088500  NOVARTIS PHARMA AG",
             "製造廠廠址": "LICHTSTRASSE 35, 4056 BASEL, SWITZERLAND",
@@ -70,24 +76,16 @@
     ],
     "仿單外盒": [
         {
+            "title": "始立膜衣錠(75-125)-TWI-140518-107-05-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025149&Seq=007&Type=9"
+        },
+        {
             "title": "始立膜衣錠英文仿單-TWI-010813-102-11-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025149&Seq=006&Type=9"
-        },
-        {
-            "title": "始立膜衣錠中文仿單(75-125)-TWI-010813-102-11-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025149&Seq=005&Type=9"
-        },
-        {
-            "title": "始立膜衣錠英文仿單(75-125)___20130328.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025149&Seq=002&Type=9"
-        },
-        {
-            "title": "始立膜衣錠中文仿單(75-125)-TWI-280612___20130328.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025149&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025149&Seq=006&Type=9"
         },
         {
             "title": "Stalevo FCT 75-18.75-200mg_package-105-01-14(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025149&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025149&Seq=001&Type=8"
         }
     ]
 }

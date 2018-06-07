@@ -1,7 +1,7 @@
 {
     "code": "01029512",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01029512",
-    "time": "2015-08-22 23:42:53",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01029512",
+    "time": "2018-06-08 03:01:58",
     "許可證字號": "衛署藥製字第029512號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,23 @@
     "舊證字號": "01024720",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102951208",
-    "中文品名": "\"大豐\"治鼻敏錠",
-    "英文品名": "PONDEC TABLETS \"T.F.\"",
+    "中文品名": "&quot;大豐&quot;治鼻敏錠",
+    "英文品名": "PONDEC TABLETS &quot;T.F.&quot;",
     "適應症": "緩解過敏性鼻炎、枯草熱所引起之相關症狀（流鼻水、鼻塞、打噴嚏、眼睛及喉部搔癢）。",
     "劑型": "110錠劑",
     "包裝": "6-28粒鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥",
-    "管制藥品分類級別": "",
-    "主成分略述": "CARBINOXAMINE MALEATE, PSEUDOEPHEDRINE HCL",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "CARBINOXAMINEMALEATE,PSEUDOEPHEDRINEHCL"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0306811200  大豐製藥股份有限公司",
-    "申請商地址": "彰化市延平里岸頭巷１１號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0306811300  大豐製藥股份有限公司",
         "製造廠廠址": "彰化市延平里岸頭巷１１號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049099101 抗過敏抗組織胺用藥Drugs for antihypersensitivity and antihistamine",
     "藥理治療分類": "",
@@ -52,26 +50,46 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "直徑6.8mm",
+        "特殊劑型": "",
+        "顏色": "白色",
+        "特殊氣味": "",
+        "刻痕": "有",
+        "形狀": "圓扁形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "治鼻敏錠-104-11-24(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029512&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "010295120005.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029512&Seq=005&Type=9"
+            "title": "大豐治鼻敏錠-說明書-107-05-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029512&Seq=007&Type=9"
         },
         {
-            "title": "010295120004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029512&Seq=004&Type=9"
+            "title": "治鼻敏錠說明書-104-11-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029512&Seq=006&Type=9"
         },
         {
-            "title": "010295120003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029512&Seq=003&Type=9"
+            "title": "大豐治鼻敏錠-鋁箔-107-05-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029512&Seq=004&Type=8"
         },
         {
-            "title": "010295120002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029512&Seq=002&Type=9"
+            "title": "大豐治鼻敏錠-標籤-107-05-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029512&Seq=003&Type=8"
         },
         {
-            "title": "010295120001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029512&Seq=001&Type=9"
+            "title": "大豐治鼻敏錠-彩盒-107-05-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029512&Seq=002&Type=8"
+        },
+        {
+            "title": "治鼻敏錠20粒-104-11-24(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029512&Seq=001&Type=8"
         }
     ]
 }

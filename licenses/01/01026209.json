@@ -1,7 +1,7 @@
 {
     "code": "01026209",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01026209",
-    "time": "2016-01-29 04:15:32",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01026209",
+    "time": "2018-06-08 03:44:47",
     "許可證字號": "衛署藥製字第026209號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,28 +12,25 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102620905",
-    "中文品名": "\"易陽\" 安胃膜錠2毫克（古阿若連）",
-    "英文品名": "AZUMOL TABLETS 2MG (GUAIAZULENE) \"EAYUNG\"",
+    "中文品名": "&quot;易陽&quot; 安胃膜錠2毫克（古阿若連）",
+    "英文品名": "AZUMOL TABLETS 2MG (GUAIAZULENE) &quot;EAYUNG&quot;",
     "適應症": "急慢性胃炎、消化性黏膜炎症、含嗽時治療、口腔內黏膜之炎症",
     "劑型": "110錠劑",
     "包裝": "100、500、1000粒瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "AZULENE WATER SOLUBLE",
-    "限制項目": [
-        "01國產",
-        "1G依藥品審查準則第64條不得製造"
+    "主成分略述": [
+        "AZULENEWATERSOLUBLE"
     ],
+    "限制項目": "01國　產 1G依藥品審查準則第64條 不得製造",
     "申請商名稱": "6202080659  易陽實業有限公司",
-    "申請商地址": "高雄市前鎮區崗山北街341巷3號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1302820400  新喜國際企業股份有限公司",
         "製造廠廠址": "台南市鹽水區孫厝里孫厝寮４之６號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -57,8 +54,14 @@
     },
     "藥物辨識外觀圖片": [
         {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026209&Seq=160&Type=10"
+            "title": "01026209.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026209&Seq=160&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "安胃膜錠仿單-104-12-16(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026209&Seq=001&Type=9"
         }
     ]
 }

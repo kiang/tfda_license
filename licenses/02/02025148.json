@@ -1,7 +1,7 @@
 {
     "code": "02025148",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025148",
-    "time": "2016-11-18 20:39:14",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025148",
+    "time": "2018-06-08 03:06:04",
     "許可證字號": "衛署藥輸字第025148號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,12 +28,18 @@
         "主製造廠": "",
         "製造廠名稱": "F140009100  ORION CORPORATION",
         "製造廠廠址": "ORIONINTIE 1 FIN-02200 ESPOO FINLAND",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "次製造廠": [
+        {
+            "製造廠名稱": "F140031000  Orion Corporation",
+            "製造廠廠址": "Joensuunkatu 7, Salo 24100, Finland",
+            "製造廠公司地址": "",
+            "製造廠國別": "FINLAND",
+            "製程": "包裝"
+        },
         {
             "製造廠名稱": "F430088500  NOVARTIS PHARMA AG",
             "製造廠廠址": "LICHTSTRASSE 35, 4056 BASEL, SWITZERLAND",
@@ -70,24 +76,16 @@
     ],
     "仿單外盒": [
         {
+            "title": "始立膜衣錠(75-125)-TWI-140518-107-05-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025148&Seq=007&Type=9"
+        },
+        {
             "title": "始立膜衣錠英文仿單-TWI-010813-102-11-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025148&Seq=006&Type=9"
-        },
-        {
-            "title": "始立膜衣錠中文仿單(75-125)-TWI-010813-102-11-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025148&Seq=005&Type=9"
-        },
-        {
-            "title": "始立膜衣錠英文仿單(75-125)___20130328.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025148&Seq=002&Type=9"
-        },
-        {
-            "title": "始立膜衣錠中文仿單(75-125)-TWI-280612___20130328.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025148&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025148&Seq=006&Type=9"
         },
         {
             "title": "Stalevo FCT 125-31.25-200mg_package-105-01-14(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025148&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025148&Seq=001&Type=8"
         }
     ]
 }

@@ -1,38 +1,36 @@
 {
     "code": "01025196",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01025196",
-    "time": "2015-09-25 04:14:54",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01025196",
+    "time": "2018-06-08 03:29:43",
     "許可證字號": "衛署藥製字第025196號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/05\/25",
+    "有效日期": "112\/05\/25",
     "發證日期": "71\/04\/06",
     "許可證種類": "製　劑",
     "舊證字號": "00000000",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102519604",
     "中文品名": "易治胃錠",
-    "英文品名": "EASYGO TABLETS \"S.T.\"",
+    "英文品名": "EASYGO TABLETS &quot;S.T.&quot;",
     "適應症": "急慢性胃炎、食道炎、過敏性大腸症及消化性潰瘍等伴有的胃痛、腹痛、噁心、嘔吐及胃不快感",
     "劑型": "110錠劑",
     "包裝": "瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "OXETHAZAINE, ALUMINUM SILICATE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "OXETHAZAINE,ALUMINUMSILICATE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0507809200  世達藥品工業股份有限公司",
-    "申請商地址": "台中市西屯工業區十五路２號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0507809300  世達藥品工業股份有限公司",
         "製造廠廠址": "台中市西屯工業區十五路２號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -53,25 +51,29 @@
         }
     ],
     "藥物辨識詳細資料": {
-        "外觀尺寸": "",
+        "外觀尺寸": "圓形錠片",
         "特殊劑型": "",
         "顏色": "白色",
         "特殊氣味": "",
         "刻痕": "",
-        "形狀": "圓扁形",
-        "標記一": "Str",
-        "標記二": ""
+        "形狀": "",
+        "標記一": "T22",
+        "標記二": "SD"
     },
     "藥物辨識外觀圖片": [
         {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025196&Seq=149&Type=10"
+            "title": "T022-105-08-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025196&Seq=150&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "010251960001.DOC",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025196&Seq=001&Type=9"
+            "title": "易治胃錠仿單-107-01-04(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025196&Seq=004&Type=9"
+        },
+        {
+            "title": "易治胃錠標籤-107-01-04(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025196&Seq=003&Type=8"
         }
     ]
 }

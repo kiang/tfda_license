@@ -1,7 +1,7 @@
 {
     "code": "01011928",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01011928",
-    "time": "2017-07-21 13:23:43",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01011928",
+    "time": "2018-06-08 03:00:49",
     "許可證字號": "衛署藥製字第011928號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
     "主成分略述": [
-        "CHLORPHENIRAMINEMALEATE,BIOTIN,NIACINAMIDE(NICOTINAMIDE),RIBOFLAVIN(VITB2),PYRIDOXINE(VITAMINB6),PANTOTHENATECALCIUM,GLYCYRRHIZINICACID(EQTOGLYCYRRHETINICACIDGLYCOSIDE)(EQTOGLYCYRRHIZICACID)"
+        "CHLORPHENIRAMINEMALEATE,BIOTIN,NIACINAMIDE(NICOTINAMIDE),RIBOFLAVIN(VITB2),PYRIDOXINEHCL,PANTOTHENATECALCIUM,GLYCYRRHIZINICACID(EQTOGLYCYRRHETINICACIDGLYCOSIDE)(EQTOGLYCYRRHIZICACID)"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "6103030017  井田國際醫藥廠股份有限公司",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "6103030017  井田國際醫藥廠股份有限公司",
         "製造廠廠址": "台中市大甲區幼獅路32號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049099101 抗過敏抗組織胺用藥Drugs for antihypersensitivity and antihistamine",
     "藥理治療分類": "",
@@ -68,10 +67,10 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8810600100",
-            "成分名稱": "PYRIDOXINE(VITAMIN B6)",
-            "含量描述": "(VIT. B6)5",
-            "含量": "",
+            "成分代碼": "8810600300",
+            "成分名稱": "PYRIDOXINE HCL",
+            "含量描述": "(VIT. B6)",
+            "含量": "5.0000000000",
             "單位": "MG"
         },
         {
@@ -104,17 +103,17 @@
     "藥物辨識外觀圖片": [
         {
             "title": "133百敏寧-104-12-29(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01011928&Seq=001&Type=10"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01011928&Seq=001&Type=10"
         }
     ],
     "仿單外盒": [
         {
             "title": "010119280001仿單-106-01-06.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01011928&Seq=008&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01011928&Seq=008&Type=9"
         },
         {
             "title": "010119280004鋁箔-106-01-06.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01011928&Seq=007&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01011928&Seq=007&Type=8"
         }
     ]
 }

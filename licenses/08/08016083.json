@@ -1,7 +1,7 @@
 {
     "code": "08016083",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016083",
-    "time": "2015-08-23 19:42:35",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016083",
+    "time": "2018-06-08 03:52:00",
     "許可證字號": "衛署粧輸字第016083號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,22 +17,20 @@
     "用途": "防曬、預防皮膚曬傷及曬黑，保持滋潤肌膚。",
     "劑型": "992霜劑",
     "包裝": "500ml以下管裝 附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0714防晒化粧用品",
-    "": "",
-    "主成分略述": "METHYL ANTHRANILATE (NEROLIC OIL ARTIFICIAL), OCTINOXATE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "METHYLANTHRANILATE(NEROLICOILARTIFICIAL),OCTINOXATE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1323001100  豐納實業股份有限公司",
-    "申請商地址": "台北市南京東路二段８號１０樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C460256000  ATLANTIS LABORATORIES, INC.",
         "製造廠廠址": "408 HALL STREET, CONROE, TEXAS 77301, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -50,6 +48,12 @@
             "含量描述": "",
             "含量": "7.5000000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08016083-2009-05-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016083&Seq=001&Type=9"
         }
     ]
 }

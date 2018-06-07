@@ -1,7 +1,7 @@
 {
     "code": "01006574",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01006574",
-    "time": "2017-07-21 12:28:55",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01006574",
+    "time": "2018-06-08 03:39:11",
     "許可證字號": "衛署藥製字第006574號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "0505720300  正和製藥股份有限公司新營廠",
         "製造廠廠址": "台南市新營區嘉芳里新工路２３號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049030005 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -75,18 +74,34 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "橘黃色蓋橘黃色體",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "長圓柱形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "010065740005-外觀-105-06-15(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01006574&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "01006574旺力寧膠囊仿單-105-07-29.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01006574&Seq=004&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01006574&Seq=004&Type=9"
         },
         {
             "title": "010065740002-1000T 106.02.10-106-02-10(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01006574&Seq=007&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01006574&Seq=007&Type=8"
         },
         {
             "title": "01006574旺力寧膠囊鋁箔-105-07-29.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01006574&Seq=006&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01006574&Seq=006&Type=8"
         }
     ]
 }

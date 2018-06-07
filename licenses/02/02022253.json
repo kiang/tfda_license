@@ -1,7 +1,7 @@
 {
     "code": "02022253",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022253",
-    "time": "2016-11-18 20:10:08",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022253",
+    "time": "2018-06-08 03:05:12",
     "許可證字號": "衛署藥輸字第022253號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,28 +20,19 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
     "主成分略述": [
-        "SILICICACIDLIGHTANHYDROUS,NIACINAMIDE(NICOTINAMIDE),BENFOTIAMIN(BENZOYLTHIAMINEMONOPHOSPHATE)(BIOTAMIN),PYRIDOXINEHCL,CYANOCOBALAMIN(VITB12),TOCOPHEROLACETATEALPHAD-"
+        "ORYZANOLGAMMA-,NIACINAMIDE(NICOTINAMIDE),BENFOTIAMIN(BENZOYLTHIAMINEMONOPHOSPHATE)(BIOTAMIN),PYRIDOXINEHCL,CYANOCOBALAMIN(VITB12),TOCOPHEROLACETATEALPHAD-"
     ],
-    "限制項目": "02輸　入 1Q不得輸入",
+    "限制項目": "02輸　入",
     "申請商名稱": "0403601100  中榮貿易股份有限公司",
     "主製造廠": {
         "主製造廠": "",
         "製造廠名稱": "F260146000  KOKANDO CO. LTD.",
         "製造廠廠址": "NO 9-1, UMEZAWACHO, 2-CHOME TOYAMA CITY,JAPAN.",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30045000009 含有維他命或第２９３６節產品之其他醫藥製劑Other medicaments containing vitamins or other products of heading 29.36",
+    "CCC號列": "30045000009 其他醫藥製劑，含有維他命或第２９３６節之其他產品Other medicaments, containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
     "ingredients": [
-        {
-            "成分類別": "主成分",
-            "成分代碼": "8424122522",
-            "成分名稱": "SILICIC ACID LIGHT ANHYDROUS",
-            "含量描述": "(NABITOL A 50% POWDER)",
-            "含量": "8.3330000000",
-            "單位": "MG"
-        },
         {
             "成分類別": "主成分",
             "成分代碼": "8810000300",
@@ -76,10 +67,10 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8424122522",
-            "成分名稱": "SILICIC ACID LIGHT ANHYDROUS",
-            "含量描述": "(NABITOL A 50% POWDER)",
-            "含量": "8.3330000000",
+            "成分代碼": "2820002103",
+            "成分名稱": "ORYZANOL GAMMA-",
+            "含量描述": "",
+            "含量": "1.6670000000",
             "單位": "MG"
         },
         {
@@ -102,15 +93,11 @@
     "仿單外盒": [
         {
             "title": "022253-104-12-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022253&Seq=002&Type=9"
-        },
-        {
-            "title": "衛署藥輸字第022253號-102-05-24.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022253&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022253&Seq=002&Type=9"
         },
         {
             "title": "022253_BOX-104-10-07(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022253&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022253&Seq=001&Type=8"
         }
     ]
 }

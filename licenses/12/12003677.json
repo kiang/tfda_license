@@ -1,46 +1,43 @@
 {
     "code": "12003677",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12003677",
-    "time": "2015-08-23 07:44:30",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12003677",
+    "time": "2018-06-08 03:23:41",
     "許可證字號": "內衛藥製字第003677號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "107\/05\/29",
+    "註銷理由": "自請註銷",
     "有效日期": "107\/05\/27",
     "發證日期": "59\/05\/27",
     "許可證種類": "製　劑",
     "舊證字號": "00000000",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY01200367702",
-    "中文品名": "\"台灣氰胺\"立可通新黴素眼用軟膏",
-    "英文品名": "LEDERCORT EYE OINTMENT WITH NEOMYCIN \"LEDERLE",
+    "中文品名": "&quot;台灣氰胺&quot;立可通新黴素眼用軟膏",
+    "英文品名": "LEDERCORT EYE OINTMENT WITH NEOMYCIN &quot;LEDERLE",
     "適應症": "過敏性角膜炎、結膜炎",
-    "劑型": "360軟膏劑",
+    "劑型": "465眼用軟膏劑",
     "包裝": "軟管裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "NEOMYCIN (SULFATE), TRIAMCINOLONE ACETONIDE",
-    "限制項目": [
-        "01國產",
-        "1G依100年4月22日署授食字第1001100626號函所切結不得製造"
+    "主成分略述": [
+        "NEOMYCIN(SULFATE),TRIAMCINOLONEACETONIDE"
     ],
+    "限制項目": "01國　產 1G依100年4月22日署授食字第1001100626號函所切結不得製造",
     "申請商名稱": "6231105405  輝瑞生技股份有限公司",
-    "申請商地址": "新北市淡水區中正東路二段177號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1409905300  輝瑞生技股份有限公司新竹廠",
         "製造廠廠址": "新竹縣新豐鄉中崙村中崙２９０之１號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
             "成分代碼": "0812109530",
             "成分名稱": "NEOMYCIN (SULFATE)",
-            "含量描述": "3.5",
+            "含量描述": "",
             "含量": "3.5000000000",
             "單位": "MG"
         },
@@ -48,7 +45,7 @@
             "成分類別": "主成分",
             "成分代碼": "6804001610",
             "成分名稱": "TRIAMCINOLONE ACETONIDE",
-            "含量描述": "2.1",
+            "含量描述": "",
             "含量": "2.1000000000",
             "單位": "MG"
         }
@@ -56,11 +53,7 @@
     "仿單外盒": [
         {
             "title": "003677-103-01-07.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12003677&Seq=002&Type=9"
-        },
-        {
-            "title": "120036770001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12003677&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12003677&Seq=002&Type=9"
         }
     ]
 }

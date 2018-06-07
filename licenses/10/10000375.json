@@ -1,7 +1,7 @@
 {
     "code": "10000375",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000375",
-    "time": "2017-06-16 03:04:20",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000375",
+    "time": "2018-06-08 03:06:49",
     "許可證字號": "衛署菌疫輸字第000375號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -23,15 +23,14 @@
         "ALBUMINHUMANSERUM"
     ],
     "限制項目": "02輸　入",
-    "申請商名稱": "1409720100  臺灣綠十字股份有限公司",
+    "申請商名稱": "1409720100  台灣綠十字股份有限公司",
     "主製造廠": {
         "主製造廠": "",
         "製造廠名稱": "F460014000  GRIFOLS BIOLOGICALS INC.",
         "製造廠廠址": "5555 VALLEY BOULEVARD, LOS ANGELES, CALIFORNIA 90032",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30021030004 血液球蛋白及白蛋白Blood globulin and albumin",
+    "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
         {
@@ -59,14 +58,30 @@
             "單位": "GM"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Albutein 25% 外觀照片-104-09-08(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000375&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "100003750009.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000375&Seq=010&Type=9"
+            "title": "Albutein25- 衛署菌疫輸字第000375號-107-03-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000375&Seq=011&Type=9"
         },
         {
-            "title": "100003750011.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000375&Seq=011&Type=8"
+            "title": "100003750011.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000375&Seq=011&Type=8"
         }
     ]
 }

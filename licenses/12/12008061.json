@@ -1,7 +1,7 @@
 {
     "code": "12008061",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12008061",
-    "time": "2015-09-25 04:36:46",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12008061",
+    "time": "2018-06-08 03:48:26",
     "許可證字號": "內衛藥製字第008061號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,27 +12,25 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY01200806101",
-    "中文品名": "\"信東\"鹽酸麻黃素注射液",
+    "中文品名": "&quot;信東&quot;鹽酸麻黃素注射液",
     "英文品名": "EPHEDRINE HYDROCHLORIDE INJECTION",
     "適應症": "支氣管性氣喘、血管運動神經性鼻炎、過敏性鼻炎、脊椎麻醉導致之急性低血壓",
     "劑型": "270注射劑",
-    "包裝": "1毫升，100支以下盒裝玻璃安瓿裝",
+    "包裝": "1毫升玻璃安瓿裝，100支以下盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "EPHEDRINE HCL (EQ TO EPHEDRINE HYDROCHLORIDE)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "EPHEDRINEHCL(EQTOEPHEDRINEHYDROCHLORIDE)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0908703200  信東生技股份有限公司",
-    "申請商地址": "桃園市桃園區介壽路２２號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0908703300  信東生技股份有限公司",
         "製造廠廠址": "桃園市桃園區介壽路２２號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30044099004 其他醫藥製劑，含有生物鹼或其衍生物，但未含內分泌素，第２９３７節之其他產品或抗生素者Other medicaments, containing alkaloids or derivatives thereof but not containing hormones, other products of heading 29.37 or antibiotics",
+    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -44,18 +42,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "透明澄清溶液",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Ephedrine HCl Inj. 008061-104-12-28(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008061&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "信東鹽酸麻黃素注射液仿單-104-07-31.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008061&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008061&Seq=002&Type=9"
         },
         {
-            "title": "12008061仿單-104-03-04.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008061&Seq=001&Type=9"
-        },
-        {
-            "title": "12008061標籤-104-03-03.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008061&Seq=001&Type=8"
+            "title": "54050030 Ephedrine HCl Injection (L-1ml，⊙)-昱和(印刷版次8)-104-09-16(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008061&Seq=003&Type=8"
         }
     ]
 }

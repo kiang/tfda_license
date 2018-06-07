@@ -1,7 +1,7 @@
 {
     "code": "02023713",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023713",
-    "time": "2016-11-18 20:24:13",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023713",
+    "time": "2018-06-08 03:47:09",
     "許可證字號": "衛署藥輸字第023713號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -22,16 +22,15 @@
     "主成分略述": [
         "CREOSOTE,PHELLODENDRONBARKEXTRACT,GERANIUMHERBAPOWDER"
     ],
-    "限制項目": "02輸　入",
+    "限制項目": "02輸　入 1Q不得輸入",
     "申請商名稱": "0203209100  人生製藥股份有限公司",
     "主製造廠": {
         "主製造廠": "",
         "製造廠名稱": "F260525000  WATANABE PHARMACEUTICAL INDUSTRIAL CO., LTD. JOJO PLANT",
         "製造廠廠址": "1-7, KITABANBA MIZUHASHI-CHO TOYAMA-CITY TOYAMA-KEN JAPAN",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30044099004 其他醫藥製劑，含有生物鹼或其衍生物，但未含內分泌素，第２９３７節之其他產品或抗生素者Other medicaments, containing alkaloids or derivatives thereof but not containing hormones, other products of heading 29.37 or antibiotics",
+    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -57,6 +56,12 @@
             "含量描述": "",
             "含量": "26.2500000000",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "衛署藥輸字第023713號-仿單-107-03-28(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023713&Seq=001&Type=9"
         }
     ]
 }

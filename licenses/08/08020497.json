@@ -1,12 +1,12 @@
 {
     "code": "08020497",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08020497",
-    "time": "2015-08-23 21:03:27",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08020497",
+    "time": "2018-06-08 03:37:44",
     "許可證字號": "衛署粧輸字第020497號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/05\/24",
+    "有效日期": "111\/05\/27",
     "發證日期": "102\/05\/24",
     "許可證種類": "含藥化粧品",
     "舊證字號": "",
@@ -17,22 +17,20 @@
     "用途": "染髮。",
     "劑型": "992霜劑",
     "包裝": "500 公撮以下管裝附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "RESORCINOL (RESORCIN), 1-NAPHTHOL, m-Aminophenol, 2-METHYLRESORCINOL, TOLUENE-2,5-DIAMINE SULFATE",
-    "限制項目": [
-        ""
+    "主成分略述": [
+        "RESORCINOL(RESORCIN),1-NAPHTHOL,m-Aminophenol,2-METHYLRESORCINOL,TOLUENE-2,5-DIAMINESULFATE"
     ],
+    "限制項目": "",
     "申請商名稱": "6625131887  卓冠髮品股份有限公司",
-    "申請商地址": "台北市內湖區瑞光路513巷22弄5號7樓之6",
     "主製造廠": {
-        "製造廠名稱": "C440022000  PROCTER &amp; GAMBLE MANUFACTURING (THAILAND) LTD.",
-        "製造廠廠址": "112 MOO 5, WELLGROW INDUSTRIAL ESTATE, KM.36, BANGNA-TRAD, BANGSAMARK, BANGPAKONG,CHACHOENGSAO, 24180, THAILAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "THAILAND",
-        "製程": ""
+        "主製造廠": "",
+        "製造廠名稱": "M440106000  HFC Prestige Manufacturing(Thailand)Ltd.",
+        "製造廠廠址": "112\/1 Moo 5,Wellgrow Industrial Estate,KM.36, Bangna-Trad,Bangsamark,Bangpakong,Chachoengsao 24180,Thailand",
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -78,8 +76,12 @@
     ],
     "仿單外盒": [
         {
+            "title": "08020497-106-06-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08020497&Seq=002&Type=8"
+        },
+        {
             "title": "08020497-102-07-26.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08020497&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08020497&Seq=001&Type=8"
         }
     ]
 }
