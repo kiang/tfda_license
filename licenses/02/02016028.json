@@ -1,7 +1,7 @@
 {
     "code": "02016028",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02016028",
-    "time": "2018-06-08 03:04:44",
+    "time": "2018-06-22 03:06:15",
     "許可證字號": "衛署藥輸字第016028號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,11 +34,25 @@
     "藥理治療分類": "",
     "次製造廠": [
         {
+            "製造廠名稱": "F250326000  MIPHARM S.P.A.",
+            "製造廠廠址": "VIA B. QUARANTA 12-20141 MILANO ITALYVIA B. QUARANTA 12-20141 MILANO ITALY",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": "分包裝廠"
+        },
+        {
             "製造廠名稱": "F430088500  NOVARTIS PHARMA. AG",
             "製造廠廠址": "LICHTSTRASSE 35, 4056 BASEL, SWITZERLAND",
             "製造廠公司地址": "",
             "製造廠國別": "SWITZERLAND",
             "製程": "許可證持有者"
+        },
+        {
+            "製造廠名稱": "F641389000  ZHEIJANG RAYBOW PHARMACEUTICAL CO. LTD",
+            "製造廠廠址": "NO.18, NANYANGSAN ROAD, LINHAI, TAIZHOU, ZHEJIANG PROVINCE, 317016, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "原料藥製造廠"
         }
     ],
     "ingredients": [
@@ -57,8 +71,12 @@
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02016028&Seq=036&Type=9"
         },
         {
-            "title": "Tegretol CR 200mg-104-09-11(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02016028&Seq=001&Type=8"
+            "title": "癲通_鋁箔-107-06-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02016028&Seq=003&Type=8"
+        },
+        {
+            "title": "癲通_外盒-107-06-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02016028&Seq=002&Type=8"
         }
     ]
 }

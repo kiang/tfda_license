@@ -1,7 +1,7 @@
 {
     "code": "10000377",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000377",
-    "time": "2018-06-08 03:06:50",
+    "time": "2018-06-22 03:08:41",
     "許可證字號": "衛署菌疫輸字第000377號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -41,6 +41,13 @@
             "製程": "FRACTION V"
         },
         {
+            "製造廠名稱": "F460255000  Grifols Therapeutics Inc.",
+            "製造廠廠址": "8368 US 70 BUS HWY WEST, CLAYTON, NC 27520, U.S.A.",
+            "製造廠公司地址": "RESEARCH TRIANGLE PARK, 79 T.W.ALEXANDER DRIVE, NORTH CAROLINA, 27709, U.S.A.",
+            "製造廠國別": "UNITED STATES",
+            "製程": "FRACTION V"
+        },
+        {
             "製造廠名稱": "F460635000  GRIFOLS BIOLOGICALS INC.",
             "製造廠廠址": "13111 TEMPLE AVENUE, CITY OF INDUSTRY, CA 91746, USA",
             "製造廠公司地址": "",
@@ -48,16 +55,7 @@
             "製程": "Packaging and Labeling"
         }
     ],
-    "ingredients": [
-        {
-            "成分類別": "主成分",
-            "成分代碼": "8004000211",
-            "成分名稱": "ALBUMIN HUMAN SERUM",
-            "含量描述": "",
-            "含量": "0.0500000000",
-            "單位": "GM"
-        }
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
             "title": "100003770011.pdf",
