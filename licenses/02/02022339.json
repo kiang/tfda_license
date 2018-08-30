@@ -1,7 +1,7 @@
 {
     "code": "02022339",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022339",
-    "time": "2018-02-23 03:19:32",
+    "time": "2018-08-31 03:56:04",
     "許可證字號": "衛署藥輸字第022339號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥",
     "主成分略述": [
-        "CREOSOTE,PHELLODENDRONBARKDRIEDEXTRACT,GERANIUMHERBAPOWDER"
+        "JPWoodCreosote,PHELLODENDRONBARKDRIEDEXTRACT,JPPowderedGeraniumHerb"
     ],
     "限制項目": "02輸　入",
     "申請商名稱": "6401100852  日商大幸股份有限公司台灣分公司",
@@ -44,8 +44,8 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "4800000900",
-            "成分名稱": "CREOSOTE",
+            "成分代碼": "4800000920",
+            "成分名稱": "JP Wood Creosote",
             "含量描述": "",
             "含量": "22.5000000000",
             "單位": "MG"
@@ -60,8 +60,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8412000512",
-            "成分名稱": "GERANIUM HERBA POWDER",
+            "成分代碼": "8412000513",
+            "成分名稱": "JP Powdered Geranium Herb",
             "含量描述": "",
             "含量": "25.0000000000",
             "單位": "MG"

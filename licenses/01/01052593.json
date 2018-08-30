@@ -1,7 +1,7 @@
 {
     "code": "01052593",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01052593",
-    "time": "2017-06-16 03:26:03",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01052593",
+    "time": "2018-08-31 03:04:44",
     "許可證字號": "衛署藥製字第052593號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "6105200026  瑞士藥廠股份有限公司新市廠",
         "製造廠廠址": "台南市新市區中山路182號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -43,14 +42,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "淡紅色",
+        "特殊氣味": "",
+        "刻痕": "有",
+        "形狀": "圓凸形",
+        "標記一": "KV",
+        "標記二": "UNI"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Kovan F.C. Tablets 80mg_W-104-09-26(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01052593&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "0105259300001-105-03-25.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01052593&Seq=004&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01052593&Seq=004&Type=9"
         },
         {
             "title": "Kovan F.C. Tablets 80mg_PTP-104-12-17(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01052593&Seq=010&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01052593&Seq=010&Type=8"
         }
     ]
 }

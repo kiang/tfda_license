@@ -1,12 +1,12 @@
 {
     "code": "02024927",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024927",
-    "time": "2016-11-18 20:37:08",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024927",
+    "time": "2018-08-31 03:07:12",
     "許可證字號": "衛署藥輸字第024927號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/12\/01",
+    "有效日期": "112\/12\/01",
     "發證日期": "97\/12\/01",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -28,12 +28,18 @@
         "主製造廠": "",
         "製造廠名稱": "F470247000  PFIZER MANUFACTURING DEUTSCHLAND GMBH",
         "製造廠廠址": "BETRIEBSSTATTE FREIBURG, MOOSWALDALLEE 1, 79090 FREIBURG, GERMANY",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
+        {
+            "製造廠名稱": "6132061151  裕利股份有限公司",
+            "製造廠廠址": "桃園市大園區和平里1鄰開和路91號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠(委託貼標及置入仿單)"
+        },
         {
             "製造廠名稱": "F130290000  VIIV HEALTHCARE UK LIMITED",
             "製造廠廠址": "980 GREAT WEST ROAD BRENTFORD MIDDLESEX, TW8 9GS, UNITED KINGDOM",
@@ -52,18 +58,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "1.6cm*0.9cm",
+        "特殊劑型": "",
+        "顏色": "藍色",
+        "特殊氣味": "",
+        "刻痕": "無",
+        "形狀": "橢圓形",
+        "標記一": "刻有MVC 150",
+        "標記二": "無"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "020249270005-104-09-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024927&Seq=005&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "Celsentri FC tablets L472-001-04_PAA074253-105-09-26(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024927&Seq=002&Type=9"
+            "title": "02024927_Celsentri FC tablets150-107-06-05(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024927&Seq=003&Type=9"
         },
         {
-            "title": "Celsentri tablets 150mg foil 157105-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024927&Seq=002&Type=8"
-        },
-        {
-            "title": "Celsentri tablets 150mg M472-002-01-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024927&Seq=001&Type=8"
+            "title": "02024927_Celsentri FC tablets150_C-107-06-05(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024927&Seq=003&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "02025099",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025099",
-    "time": "2017-06-16 03:27:21",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025099",
+    "time": "2018-08-31 03:56:45",
     "許可證字號": "衛署藥輸字第025099號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,15 +28,14 @@
         "主製造廠": "",
         "製造廠名稱": "F470256100  Bayer Weimar GmbH und Co. KG",
         "製造廠廠址": "DOEBEREINER STR.20 D-99427 WEIMAR GERMANY",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30043900005 醫藥製劑，含有其他內分泌素者Medicaments, containing other hormones",
+    "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "F470169000  BAYER PHARMA AG",
-            "製造廠廠址": "(一)POSTAL ADDRESS：D-13342 BERLIN, GERMANY (二)STREET ADDRESS：MUELLERSTRASSE 178 D-13353 BERLIN, GERMANY",
+            "製造廠名稱": "F479045000  BAYER AG",
+            "製造廠廠址": "(一)POSTAL ADDRESS：D-13342 BERLIN, GERMANY (二)STREET ADDRESS：MUELLERSTRASSE 178 13353 BERLIN GERMANY",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
             "製程": "包裝"
@@ -62,12 +61,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "德國拜耳欣無妊糖衣錠-106-04-21.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025099&Seq=009&Type=9"
+            "title": "Microgynon_Insert_CCDS14 TW06-107-08-08(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025099&Seq=011&Type=9"
         },
         {
-            "title": "MICROGYNON_025099_carton-105-03-18(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025099&Seq=002&Type=8"
+            "title": "德國拜耳欣無妊糖衣錠-中文仿單-106-09-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025099&Seq=010&Type=9"
+        },
+        {
+            "title": "Microgynon_Carton-107-08-08(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025099&Seq=003&Type=8"
         }
     ]
 }

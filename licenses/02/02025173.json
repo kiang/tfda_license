@@ -1,7 +1,7 @@
 {
     "code": "02025173",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025173",
-    "time": "2017-05-26 03:36:52",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025173",
+    "time": "2018-08-31 03:56:48",
     "許可證字號": "衛署藥輸字第025173號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,11 +28,19 @@
         "主製造廠": "",
         "製造廠名稱": "F470372000  B. BRAUN MELSUNGEN AG",
         "製造廠廠址": "CARL-BRAUN-STRABE 1, 34212 MELSUNGEN, GERMANY",
-        "製造廠公司地址": "34209 MELSUNGEN. GERMANY",
-        "": ""
+        "製造廠公司地址": "34209 MELSUNGEN. GERMANY"
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "7770824858  台灣大昌華嘉股份有限公司",
+            "製造廠廠址": "桃園市楊梅區梅獅路二段629號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠(委託貼標及置入仿單)"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -182,11 +190,11 @@
     "仿單外盒": [
         {
             "title": "Leaflet_12609166_1110 Aminoplasmal Neo 10_-104-10-28(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025173&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025173&Seq=002&Type=9"
         },
         {
             "title": "BB-3540170外箱-正-104-10-28(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025173&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025173&Seq=002&Type=8"
         }
     ]
 }

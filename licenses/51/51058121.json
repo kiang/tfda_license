@@ -1,38 +1,34 @@
 {
     "code": "51058121",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058121",
-    "time": "2015-08-23 14:01:04",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058121",
+    "time": "2018-08-31 03:57:47",
     "許可證字號": "衛部藥製字第058121號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/11\/08",
+    "有效日期": "112\/11\/08",
     "發證日期": "102\/11\/08",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY05105812102",
-    "中文品名": "\"信東\"革理蔓錠4毫克",
+    "中文品名": "&quot;信東&quot;革理蔓錠4毫克",
     "英文品名": "Glimaryl Tablets 4mg (Glimepiride)",
     "適應症": "非胰島素依賴型(第2型)糖尿病。",
     "劑型": "110錠劑",
     "包裝": "2-1000錠塑膠瓶裝(HDPE) 2-1000錠鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "GLIMEPIRIDE",
-    "限制項目": [
-        "01國產",
-        "24監視期滿學名藥",
-        "62完成溶離率試驗"
+    "主成分略述": [
+        "GLIMEPIRIDE"
     ],
+    "限制項目": "01國　產 24監視期滿學名藥 62完成溶離率試驗",
     "申請商名稱": "0908703200  信東生技股份有限公司",
-    "申請商地址": "桃園市桃園區介壽路２２號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "6132020070  榮民製藥股份有限公司",
         "製造廠廠址": "桃園市中壢區中山東路３段４４７號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -46,22 +42,46 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "裸錠",
+        "特殊劑型": "",
+        "顏色": "橘色",
+        "特殊氣味": "",
+        "刻痕": "有",
+        "形狀": "橢圓形",
+        "標記一": "ST",
+        "標記二": "392"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Glimaryl Tab 4mg 058121-105-01-14(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058121&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "510581210001-102-12-30.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058121&Seq=001&Type=9"
+            "title": "510581210001-107-06-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058121&Seq=003&Type=9"
         },
         {
-            "title": "510581210004-102-12-30.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058121&Seq=003&Type=8"
+            "title": "40419020 Glimaryl Tablets 4mg (Lit)(印刷版次1)-104-11-04(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058121&Seq=002&Type=9"
         },
         {
-            "title": "510581210003-102-12-30.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058121&Seq=002&Type=8"
+            "title": "510581210004-107-06-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058121&Seq=009&Type=8"
         },
         {
-            "title": "510581210002-102-12-30.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058121&Seq=001&Type=8"
+            "title": "510581210003-107-06-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058121&Seq=008&Type=8"
+        },
+        {
+            "title": "510581210002-107-06-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058121&Seq=007&Type=8"
+        },
+        {
+            "title": "40449020 Glimaryl Tablets 4mg (L-Carton)(印刷版次1)-104-11-04(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058121&Seq=006&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "01055544",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01055544",
-    "time": "2017-02-24 03:13:26",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01055544",
+    "time": "2018-08-31 03:55:12",
     "許可證字號": "衛署藥製字第055544號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "6133061413  歐帕生技醫藥股份有限公司",
         "製造廠廠址": "新竹縣湖口鄉光復路1號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -43,14 +42,46 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "黃色",
+        "特殊氣味": "",
+        "刻痕": "有",
+        "形狀": "圓凸形",
+        "標記一": "AX059及15",
+        "標記二": "十字刻痕"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "立安達 15-104-12-07(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055544&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
+            "title": "1070601 aripiprazole 10, 15, 20-共用仿單-107-06-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055544&Seq=005&Type=9"
+        },
+        {
             "title": "aripiprazole 10 15 20-共用仿單-105-12-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055544&Seq=004&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055544&Seq=004&Type=9"
+        },
+        {
+            "title": "鋁箔-107-06-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055544&Seq=011&Type=8"
+        },
+        {
+            "title": "瓶貼-107-06-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055544&Seq=010&Type=8"
+        },
+        {
+            "title": "外盒-107-06-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055544&Seq=009&Type=8"
         },
         {
             "title": "01055544-105-12-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055544&Seq=008&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055544&Seq=008&Type=8"
         }
     ]
 }

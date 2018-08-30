@@ -1,11 +1,11 @@
 {
     "code": "06012930",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06012930",
-    "time": "2017-01-27 03:31:02",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06012930",
+    "time": "2018-08-31 04:11:35",
     "許可證字號": "衛署醫器輸字第012930號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "107\/06\/25",
+    "註銷理由": "許可證已逾有效期",
     "有效日期": "104\/11\/08",
     "發證日期": "94\/11\/08",
     "許可證種類": "醫　器",
@@ -37,17 +37,28 @@
         "製造廠公司地址": "",
         "": ""
     },
-    "CCC號列": "90251990101 體溫計Fever thermometers",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060129300004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012930&Seq=004&Type=9"
+            "title": "060129300004.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012930&Seq=004&Type=9"
         },
         {
-            "title": "060129300001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012930&Seq=001&Type=8"
+            "title": "060129300003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012930&Seq=003&Type=9"
+        },
+        {
+            "title": "060129300002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012930&Seq=002&Type=9"
+        },
+        {
+            "title": "060129300001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012930&Seq=001&Type=9"
+        },
+        {
+            "title": "060129300001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012930&Seq=001&Type=8"
         }
     ]
 }

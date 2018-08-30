@@ -1,26 +1,26 @@
 {
     "code": "08011763",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08011763",
-    "time": "2017-04-28 03:35:57",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08011763",
+    "time": "2018-08-31 04:08:41",
     "許可證字號": "衛署粧輸字第011763號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/12\/10",
+    "有效日期": "110\/12\/10",
     "發證日期": "93\/12\/10",
     "許可證種類": "含藥化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00801176300",
     "中文品名": "瀅白三效嫩膚乳 SPF15 PA++",
-    "英文品名": "NU SKIN TRI-PHASIC WHITE DAY MILK LOTION",
+    "英文品名": "TRI-PHASIC WHITE DAY MILK LOTION",
     "用途": "防曬及滋潤修護肌膚。",
     "劑型": "944乳劑",
     "包裝": "500公撮以下瓶裝 、附外紙盒裝",
     "標籤、仿單及包裝加註": "",
     "化粧品類別": "0710其他面霜乳液",
     "主成分略述": [
-        "OCTYLMETHOXYCINNAMATE,BUTYLMETHOXYDIBENZOYLMETHANE,ETHYLHEXYLSALICYLATE"
+        "HOMOMETHYLSALICYLATE(HOMOSALATE),BUTYLMETHOXYDIBENZOYLMETHANE,OCTOCRYLENE,ETHYLHEXYLMETHOXYCINNAMATE,ETHYLHEXYLSALICYLATE"
     ],
     "限制項目": "02輸　入",
     "申請商名稱": "0935201100  美商如新華茂股份有限公司台灣分公司",
@@ -28,18 +28,17 @@
         "主製造廠": "",
         "製造廠名稱": "C460102000  COSMETIC LABORATORIES OF AMERICA",
         "製造廠廠址": "20245 SUNBURST STREET CHARTSWORTH CALIFORNIA 91311 U.S.A.",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "8480000560",
-            "成分名稱": "OCTYL METHOXYCINNAMATE",
+            "成分代碼": "8424400210",
+            "成分名稱": "HOMOMETHYL SALICYLATE (HOMOSALATE)",
             "含量描述": "",
-            "含量": "7.4000000000",
+            "含量": "5.0000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -47,7 +46,23 @@
             "成分代碼": "9600046110",
             "成分名稱": "BUTYL METHOXYDIBENZOYLMETHANE",
             "含量描述": "",
-            "含量": "2.4000000000",
+            "含量": "3.0000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900066000",
+            "成分名稱": "OCTOCRYLENE",
+            "含量描述": "",
+            "含量": "2.7900000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900071200",
+            "成分名稱": "ETHYLHEXYL METHOXYCINNAMATE",
+            "含量描述": "",
+            "含量": "2.0000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -55,30 +70,34 @@
             "成分代碼": "9900085500",
             "成分名稱": "ETHYLHEXYL SALICYLATE",
             "含量描述": "",
-            "含量": "3.0000000000",
+            "含量": "4.0000000000",
             "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
         {
-            "title": "080117630003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011763&Seq=003&Type=9"
+            "title": "080117630003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011763&Seq=003&Type=9"
         },
         {
-            "title": "080117630002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011763&Seq=002&Type=9"
+            "title": "080117630002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011763&Seq=002&Type=9"
         },
         {
-            "title": "080117630001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011763&Seq=001&Type=9"
+            "title": "080117630001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011763&Seq=001&Type=9"
+        },
+        {
+            "title": "08011763-107-06-29.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011763&Seq=006&Type=8"
         },
         {
             "title": "011763仿單-105-01-22.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011763&Seq=005&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011763&Seq=005&Type=8"
         },
         {
             "title": "08011763-104-12-07.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011763&Seq=004&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011763&Seq=004&Type=8"
         }
     ]
 }

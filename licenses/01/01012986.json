@@ -1,7 +1,7 @@
 {
     "code": "01012986",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01012986",
-    "time": "2017-07-21 13:37:50",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01012986",
+    "time": "2018-08-31 03:01:01",
     "許可證字號": "衛署藥製字第012986號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,7 +16,7 @@
     "英文品名": "DEXT-SALINE INJECTION 5:0.3 &quot;OTSUKA&quot;",
     "適應症": "手術及其它疾患之水份、電解質及營養補給",
     "劑型": "270注射劑",
-    "包裝": "250,500公撮塑膠瓶裝附或不附輸液管",
+    "包裝": "250、500毫升塑膠瓶裝 250、500、1000毫升PP軟袋裝",
     "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
     "主成分略述": [
@@ -26,10 +26,9 @@
     "申請商名稱": "1403301100  台灣大塚製藥股份有限公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "1403304300  臺灣大塚製藥股份有限公司中壢工廠",
-        "製造廠廠址": "中壢市忠福里吉林路１５號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠名稱": "1403304300  台灣大塚製藥股份有限公司中壢工廠",
+        "製造廠廠址": "桃園市中壢區吉林路１５號",
+        "製造廠公司地址": ""
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -38,17 +37,17 @@
             "成分類別": "主成分",
             "成分代碼": "4012002100",
             "成分名稱": "SODIUM CHLORIDE",
-            "含量描述": "0.30",
-            "含量": "0.3000000000",
-            "單位": "GM"
+            "含量描述": "",
+            "含量": "3.0000000000",
+            "單位": "MG"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "4020000500",
             "成分名稱": "DEXTROSE",
-            "含量描述": "5.00",
-            "含量": "5.0000000000",
-            "單位": "GM"
+            "含量描述": "",
+            "含量": "50.0000000000",
+            "單位": "MG"
         }
     ],
     "藥物辨識詳細資料": {
@@ -56,7 +55,7 @@
         "特殊劑型": "",
         "顏色": "無色澄明液",
         "特殊氣味": "",
-        "刻痕": "0",
+        "刻痕": "",
         "形狀": "",
         "標記一": "",
         "標記二": ""
@@ -64,17 +63,29 @@
     "藥物辨識外觀圖片": [
         {
             "title": "5 0.3大塚滴沙林注射液-105-01-08(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012986&Seq=001&Type=10"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012986&Seq=001&Type=10"
         }
     ],
     "仿單外盒": [
         {
+            "title": "Dext-Saline injection 5 0.3-仿單-20180627修-107-07-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012986&Seq=002&Type=9"
+        },
+        {
             "title": "滴沙林注射液5.0.3仿單-103-02-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012986&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012986&Seq=001&Type=9"
+        },
+        {
+            "title": "Dext-Saline injection 5 0.3 500mL-標籤-20180712.jpg-107-07-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012986&Seq=006&Type=8"
+        },
+        {
+            "title": "Dext-Saline injection 5 0.3 250ml-軟袋印刷-20180712-107-07-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012986&Seq=005&Type=8"
         },
         {
             "title": "滴沙林 5：0.3-104-12-16(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012986&Seq=004&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012986&Seq=004&Type=8"
         }
     ]
 }

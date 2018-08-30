@@ -1,7 +1,7 @@
 {
     "code": "01032292",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01032292",
-    "time": "2016-11-18 12:42:29",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01032292",
+    "time": "2018-08-31 03:02:24",
     "許可證字號": "衛署藥製字第032292號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,14 +26,21 @@
     "申請商名稱": "1405522200  臺灣汎生製藥廠股份有限公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "1704519300  應元化學製藥股份有限公司",
-        "製造廠廠址": "台南市南區新忠路２６號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠名稱": "1405522200  臺灣汎生製藥廠股份有限公司",
+        "製造廠廠址": "高雄市鳥松區坔埔里大同路5-1號及神農路330號",
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30045000009 含有維他命或第２９３６節產品之其他醫藥製劑Other medicaments containing vitamins or other products of heading 29.36",
+    "CCC號列": "30045000009 其他醫藥製劑，含有維他命或第２９３６節之其他產品Other medicaments, containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
     "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8811200500",
+            "成分名稱": "MECOBALAMIN",
+            "含量描述": "500.00",
+            "含量": "500.0000000000",
+            "單位": "MCG"
+        },
         {
             "成分類別": "主成分",
             "成分代碼": "8811200500",
@@ -56,61 +63,29 @@
     "藥物辨識外觀圖片": [
         {
             "title": "汎敏補膠囊外觀-104-11-24(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032292&Seq=239&Type=10"
-        },
-        {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032292&Seq=238&Type=10"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032292&Seq=239&Type=10"
         }
     ],
     "仿單外盒": [
         {
+            "title": "20180605-汎敏補膠囊說明書-107-06-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032292&Seq=007&Type=9"
+        },
+        {
             "title": "20151123.-汎敏補膠囊說明書-賦型劑-104-11-24(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032292&Seq=006&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032292&Seq=006&Type=9"
         },
         {
-            "title": "20130626--汎敏補膠囊標仿單-3-102-07-17.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032292&Seq=005&Type=9"
+            "title": "20180612-汎敏膠囊外盒-107-06-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032292&Seq=008&Type=8"
         },
         {
-            "title": "010322920004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032292&Seq=004&Type=9"
-        },
-        {
-            "title": "010322920003.JPG",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032292&Seq=003&Type=9"
-        },
-        {
-            "title": "010322920002.JPG",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032292&Seq=002&Type=9"
-        },
-        {
-            "title": "010322920001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032292&Seq=001&Type=9"
+            "title": "20180612-汎敏補膠囊標籤-107-06-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032292&Seq=007&Type=8"
         },
         {
             "title": "汎敏補膠囊罐裝-104-11-24(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032292&Seq=006&Type=8"
-        },
-        {
-            "title": "20130626--汎敏補膠囊標仿單-4-102-07-17.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032292&Seq=005&Type=8"
-        },
-        {
-            "title": "20130626--汎敏補膠囊標仿單-2-102-07-17.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032292&Seq=004&Type=8"
-        },
-        {
-            "title": "20130626--汎敏補膠囊標仿單-1-102-07-17.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032292&Seq=003&Type=8"
-        },
-        {
-            "title": "010322920002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032292&Seq=002&Type=8"
-        },
-        {
-            "title": "010322920001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032292&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032292&Seq=006&Type=8"
         }
     ]
 }

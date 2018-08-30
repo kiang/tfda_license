@@ -1,7 +1,7 @@
 {
     "code": "08016213",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016213",
-    "time": "2015-08-23 21:21:31",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016213",
+    "time": "2018-08-31 04:35:52",
     "許可證字號": "衛署粧輸字第016213號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,22 +17,20 @@
     "用途": "燙髮。",
     "劑型": "944乳劑",
     "包裝": "500ML以下袋裝 無盒裝",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0111燙髮用劑",
-    "": "",
-    "主成分略述": "HYDROGEN PEROXIDE (35%), CETOSTEARYL ALCOHOL (ALCOHOL CETYLS STEARYLICUS), MONOETHANOLAMINE THIOGLYCOLATE SOLUTION (50% AS THIOGLYCOLIC ACID), AMMONIUM THIOGLYCOLATE SOLUTION (50% AS THIOGLYCOLIC ACID)",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "HYDROGENPEROXIDE(35%),CETOSTEARYLALCOHOL(ALCOHOLCETYLSSTEARYLICUS),MONOETHANOLAMINETHIOGLYCOLATESOLUTION(50%ASTHIOGLYCOLICACID),AMMONIUMTHIOGLYCOLATESOLUTION(50%ASTHIOGLYCOLICACID)"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1013602100  哥德式國際股份有限公司",
-    "申請商地址": "台北市信義區忠孝東路5段550號11樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C260018100  MILBON CO., LTD.",
         "製造廠廠址": "2-3-35, ZENGENJI-CHO, MIYAKOJIMA-KU, OSAKA, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -130,6 +128,12 @@
             "含量描述": "",
             "含量": "2.0000000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08016213-2009-06-01.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016213&Seq=001&Type=9"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "56025926",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025926",
-    "time": "2015-08-22 05:40:12",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025926",
+    "time": "2018-08-31 03:25:49",
     "許可證字號": "衛部醫器輸字第025926號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,40 +14,39 @@
     "通關簽審文件編號": "DHA05602592605",
     "中文品名": "羅氏免疫分析心臟標記品管液組第二代",
     "英文品名": "Elecsys PreciControl Cardiac II",
-    "效能": "本產品是使用在Elecsys和cobas e免疫分析儀上，以供Elecsys CK-MB、CK-MB STAT、Digitoxin、Digoxin、Myoglobin、Myoglobin STAT、proBNP II、proBNP II STAT免疫分析法的品質管控之用。",
-    "醫器規格": "04917049。",
+    "效能": "效能變更：本產品是使用在Elecsys和cobas e免疫分析儀上，以供特定的Elecsys免疫分析法的品質管控之用。",
+    "醫器規格": "04917049。規格(成分)、標籤及仿單變更為：詳如中文仿單核定本（原103年4月15日仿單標籤核定本正本收回作廢）。",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "A臨床化學及臨床毒理學",
     "醫器次類別一": "A1660品管材料(分析與非分析)",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        ""
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1903101100  台灣羅氏醫療診斷設備股份有限公司",
-    "申請商地址": "台北市中山區民權東路3段2號10樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "M470838100  ROCHE DIAGNOSTICS GMBH",
         "製造廠廠址": "SANDHOFER STR. 116, 68305 MANNHEIM, GERMANY",
         "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
+        "": ""
     },
-    "CCC號列": "38220050009 檢定參照物Certified reference materials",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "560259260001-103-06-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025926&Seq=001&Type=9"
+            "title": "560259260001-107-06-08(仿單)-107-07-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025926&Seq=002&Type=9"
         },
         {
-            "title": "560259260002-103-06-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025926&Seq=001&Type=8"
+            "title": "560259260002-107-06-08(外盒)-107-07-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025926&Seq=002&Type=8"
         }
     ]
 }

@@ -1,12 +1,12 @@
 {
     "code": "02023604",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023604",
-    "time": "2018-06-22 03:07:09",
+    "time": "2018-08-31 03:06:30",
     "許可證字號": "衛署藥輸字第023604號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/12\/09",
+    "有效日期": "111\/12\/09",
     "發證日期": "91\/12\/09",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -32,6 +32,15 @@
     },
     "CCC號列": "30045000009 其他醫藥製劑，含有維他命或第２９３６節之其他產品Other medicaments, containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "1405802300  杏林新生製藥股份有限公司",
+            "製造廠廠址": "桃園市龍潭區三和里店湖一路２３７號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -60,12 +69,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "妥可脂_仿單加刊賦形劑_TFDA-105-02-25(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023604&Seq=001&Type=9"
+            "title": "妥克脂軟膠囊-仿單-107-07-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023604&Seq=002&Type=9"
         },
         {
-            "title": "023604_1000caps_PPT_F-105-01-19(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023604&Seq=007&Type=8"
+            "title": "妥克脂軟膠囊-外盒鋁箔-107-07-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023604&Seq=008&Type=8"
         }
     ]
 }

@@ -1,12 +1,12 @@
 {
     "code": "52026166",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026166",
-    "time": "2016-07-29 05:10:28",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026166",
+    "time": "2018-08-31 03:58:16",
     "許可證字號": "衛部藥輸字第026166號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/10\/07",
+    "有效日期": "112\/10\/07",
     "發證日期": "102\/10\/07",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -17,20 +17,18 @@
     "適應症": "適用於配合飲食和運動，以改善下列第二型糖尿病患者的血糖控制：已在接受sitagliptin和metformin合併治療者，或僅使用於sitagliptin或metformin但控制不佳者。",
     "劑型": "160緩釋膜衣錠",
     "包裝": "4-1000錠塑膠瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "METFORMIN HCL (EQ TO METFORMIN HYDROCHLORIDE), SITAGLIPTIN PHOSPHATE(AS MONOHYDRATE PHOSPHATE SALT)",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "METFORMINHCL(EQTOMETFORMINHYDROCHLORIDE),SITAGLIPTINPHOSPHATE(ASMONOHYDRATEPHOSPHATESALT)"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "0929301100  美商默沙東藥廠股份有限公司台灣分公司",
-    "申請商地址": "台北市信義區信義路五段106號12樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F370005200  MSD International GmbH (Puerto Rico Branch) LLC",
         "製造廠廠址": "PRIDCO INDUSTRIAL PARK, STATE ROAD #183, LAS PIEDRAS, PUERTO RICO 00771",
-        "製造廠公司地址": "",
-        "製造廠國別": "PUERTO RICO",
-        "製程": "含藥層造粒工程"
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -41,13 +39,6 @@
             "製造廠公司地址": "",
             "製造廠國別": "NETHERLANDS",
             "製程": "分包裝廠"
-        },
-        {
-            "製造廠名稱": "F460122000  MERCK SHARP &amp; DOHME Corp.",
-            "製造廠廠址": "770 SUMNEYTOWN PIKE, WEST POINT, PA 19486, U.S.A.",
-            "製造廠公司地址": "",
-            "製造廠國別": "UNITED STATES",
-            "製程": "含藥層造粒工程"
         }
     ],
     "ingredients": [
@@ -70,16 +61,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "0202616600001_20140715-2014-07-21.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026166&Seq=003&Type=9"
-        },
-        {
-            "title": "0202616600002-102-12-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026166&Seq=002&Type=9"
-        },
-        {
-            "title": "0202616600001-102-12-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026166&Seq=001&Type=9"
+            "title": "02026166_JANUMET XR_仿單_20180817-107-08-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026166&Seq=005&Type=9"
         }
     ]
 }

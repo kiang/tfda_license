@@ -1,7 +1,7 @@
 {
     "code": "52026456",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026456",
-    "time": "2016-01-29 04:33:12",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026456",
+    "time": "2018-08-31 03:08:53",
     "許可證字號": "衛部藥輸字第026456號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,18 @@
     "適應症": "衛生素B1，B6，B12，葉酸及維生素E缺乏症",
     "劑型": "110錠劑",
     "包裝": "6-1000粒玻璃瓶裝 6-1000粒鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "FURSULTIAMINE HYDROCHLORIDE, MECOBALAMIN, TOCOPHEROL ACETATE ALPHA D-",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "FURSULTIAMINEHYDROCHLORIDE,PYRIDOXINEHYDROCHLORIDE,MECOBALAMIN,FOLICACID,TOCOPHEROLACETATEALPHAD-"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1508901100  德佑藥品有限公司",
-    "申請商地址": "台北市松山區敦化南路一段3號2樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F260529000  SHISEIDO PHARMACEUTICAL INC.",
         "製造廠廠址": "220-1 CHIHARA OAZA GOSE-CITY NARA JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -45,11 +43,27 @@
         },
         {
             "成分類別": "主成分",
+            "成分代碼": "8810600330",
+            "成分名稱": "PYRIDOXINE HYDROCHLORIDE",
+            "含量描述": "",
+            "含量": "33.3400000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
             "成分代碼": "8811200500",
             "成分名稱": "MECOBALAMIN",
             "含量描述": "",
             "含量": "500.0000000000",
             "單位": "ug"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8811600100",
+            "成分名稱": "FOLIC ACID",
+            "含量描述": "",
+            "含量": "1.6700000000",
+            "單位": "MG"
         },
         {
             "成分類別": "主成分",
@@ -63,19 +77,11 @@
     "仿單外盒": [
         {
             "title": "日方循利命錠_衛部藥輸字第026456號_中文仿單-104-04-01.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026456&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026456&Seq=001&Type=9"
         },
         {
             "title": "日方循利命錠_衛部藥輸字第026456號_外包裝2-104-04-01.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026456&Seq=003&Type=8"
-        },
-        {
-            "title": "日方循利命錠_衛部藥輸字第026456號_瓶標-104-04-01.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026456&Seq=002&Type=8"
-        },
-        {
-            "title": "日方循利命錠_衛部藥輸字第026456號_外包裝1-104-04-01.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026456&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026456&Seq=003&Type=8"
         }
     ]
 }

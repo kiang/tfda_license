@@ -1,7 +1,7 @@
 {
     "code": "02007216",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02007216",
-    "time": "2018-06-22 04:33:51",
+    "time": "2018-08-31 03:05:26",
     "許可證字號": "衛署藥輸字第007216號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,11 +34,25 @@
     "藥理治療分類": "",
     "次製造廠": [
         {
+            "製造廠名稱": "F260058100  KYOWA PHARMA CHEMICAL CO. LTD",
+            "製造廠廠址": "530 CHOKEIJI TAKAOKA TOYAMA 933-8511 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "原料藥製造、充填、包裝"
+        },
+        {
             "製造廠名稱": "F260775000  WAKAMOTO PHARMACEUTICAL CO. LTD.",
             "製造廠廠址": "2-2-2,NIHONBASHI HONCHO, CHUO-KU, TOKYO, JAPAN",
             "製造廠公司地址": "",
             "製造廠國別": "JAPAN",
             "製程": "許可證持有者"
+        },
+        {
+            "製造廠名稱": "F270151200  BASF COMPANY LTD, GUNSAN SITE",
+            "製造廠廠址": "57, OEHANG 4-GIL, GUNSAN-SI, JEOLLABUK-DO, REPUBLIC OF KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": "原料藥製造廠"
         }
     ],
     "ingredients": [

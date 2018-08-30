@@ -1,19 +1,19 @@
 {
     "code": "08020480",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08020480",
-    "time": "2018-06-22 04:07:11",
+    "time": "2018-08-31 04:32:01",
     "許可證字號": "衛署粧輸字第020480號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/05\/21",
+    "有效日期": "111\/05\/21",
     "發證日期": "102\/05\/21",
     "許可證種類": "含藥化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00802048002",
-    "中文品名": "富麗絲染髮系列 摩卡棕色第1、2劑",
-    "英文品名": "FRESH LIGHT HAIR COLOR MELTY MOCHA 、FRESH LIGHT DEVELOPER M",
+    "中文品名": "富麗絲染髮系列 摩卡棕色第1、2劑。\r\n富麗絲染髮系列 薄荷灰 第1劑、第2劑。",
+    "英文品名": "FRESH LIGHT HAIR COLOR MELTY MOCHA 、FRESH LIGHT DEVELOPER M。\r\nFresh Light Milky Color Mint Ash。",
     "用途": "染髮。",
     "劑型": "982膏劑＋液劑",
     "包裝": "500公克以下管裝附外盒",
@@ -27,7 +27,7 @@
     "主製造廠": {
         "主製造廠": "",
         "製造廠名稱": "C440005000  YAMAHATSU (THAILAND) CO., LTD.",
-        "製造廠廠址": "600\/48 MOO 11, SUKHAPHIBAN 8 ROAD, NONGKHAM, SRIRACHA, CHONBURI 20230, THAILAND.",
+        "製造廠廠址": "600\/48 Moo 11, Sukaphiban 8 Rd., Nongkham, Sriracha, Chonburi 20230, Thailand.",
         "製造廠公司地址": ""
     },
     "": "",
@@ -80,9 +80,53 @@
             "含量描述": "",
             "含量": "16.6000000000",
             "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2820000102",
+            "成分名稱": "AMMONIA WATER (AMMONIUM HYDROXIDE)",
+            "含量描述": "",
+            "含量": "4.3225680000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8428000500",
+            "成分名稱": "RESORCINOL (RESORCIN)",
+            "含量描述": "",
+            "含量": "0.5000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200035440",
+            "成分名稱": "P-AMINOPHENOL",
+            "含量描述": "",
+            "含量": "0.0300000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9400003810",
+            "成分名稱": "2,4-DIAMINOPHENOXYETHANOL HCL (EQ TO 2,4-DIAMINOPHENOXYETHANOL DIHYDROCHLORIDE)",
+            "含量描述": "",
+            "含量": "0.0600000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900066200",
+            "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
+            "含量描述": "",
+            "含量": "0.9600000000",
+            "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "08020480-107-08-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08020480&Seq=002&Type=8"
+        },
         {
             "title": "08020480-102-07-29.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08020480&Seq=001&Type=8"

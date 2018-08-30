@@ -1,12 +1,12 @@
 {
     "code": "01042657",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01042657",
-    "time": "2017-01-27 03:26:58",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01042657",
+    "time": "2018-08-31 03:03:31",
     "許可證字號": "衛署藥製字第042657號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/11\/11",
+    "有效日期": "112\/11\/11",
     "發證日期": "87\/11\/11",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "1110202300  強生化學製藥廠股份有限公司",
         "製造廠廠址": "新北市三重區三和路四段７７號2、3樓、79號1至6樓",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049099343 醫藥製劑，含有氟地西泮（氟二氮平）者Medicaments, containing Fludiazepam",
     "藥理治療分類": "",
@@ -43,14 +42,38 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "白色",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "圓扁形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Pinfan裸錠-104-10-02(廠商自行上傳).PDF",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042657&Seq=002&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
+            "title": "Pinfan平煩錠仿單-107-07-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042657&Seq=003&Type=9"
+        },
+        {
             "title": "Pinfan仿單-104-10-02(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042657&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042657&Seq=002&Type=9"
+        },
+        {
+            "title": "Pinfan平煩錠彩盒擬稿-107-07-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042657&Seq=004&Type=8"
         },
         {
             "title": "Pinfan外盒立-2-104-10-02(廠商自行上傳).PDF",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042657&Seq=003&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042657&Seq=003&Type=8"
         }
     ]
 }

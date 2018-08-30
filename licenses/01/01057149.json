@@ -1,7 +1,7 @@
 {
     "code": "01057149",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057149",
-    "time": "2017-04-28 03:39:07",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057149",
+    "time": "2018-08-31 03:55:17",
     "許可證字號": "衛署藥製字第057149號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "0705330300  杏輝藥品工業股份有限公司",
         "製造廠廠址": "宜蘭縣冬山鄉中山村中山路８４號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -91,14 +90,42 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "橢圓錠,Φ=17mm",
+        "特殊劑型": "",
+        "顏色": "黃橙色、灰白色",
+        "特殊氣味": "無",
+        "刻痕": "有",
+        "形狀": "橢圓形",
+        "標記一": "壓印Sinphar",
+        "標記二": "無"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "清風日夜感冒膜衣錠(夜錠)-藥物外觀-104-09-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057149&Seq=002&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
+            "title": "杏輝清風日夜感冒膜衣錠仿單-107-06-01.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057149&Seq=007&Type=9"
+        },
+        {
             "title": "杏輝清風日夜感冒膜衣錠01057149仿單-105-09-12.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057149&Seq=006&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057149&Seq=006&Type=9"
+        },
+        {
+            "title": "杏輝清風日夜感冒膜衣錠外盒-107-06-01.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057149&Seq=008&Type=8"
+        },
+        {
+            "title": "杏輝清風日夜感冒膜衣錠鋁箔-107-06-01.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057149&Seq=007&Type=8"
         },
         {
             "title": "杏輝清風日夜感冒膜衣錠01057149外盒鋁箔-105-09-12.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057149&Seq=006&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057149&Seq=006&Type=8"
         }
     ]
 }

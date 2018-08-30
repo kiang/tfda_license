@@ -1,7 +1,7 @@
 {
     "code": "06022332",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022332",
-    "time": "2016-11-19 01:25:52",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022332",
+    "time": "2018-08-31 04:01:59",
     "許可證字號": "衛署醫器輸字第022332號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,7 +15,7 @@
     "中文品名": "“百勝”超音波影像診斷設備",
     "英文品名": "“ESAOTE” Diagnostic Ultrasound Imaging Equipment",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "MyLabOne, MyLabSat以下空白。仿單變更及規格變更，核定事項詳如中文仿單核定本(原100年8月5日核准之中文仿單核定本予以收作廢)。",
+    "醫器規格": "MyLabOne, MyLabSat以下空白。仿單變更及規格變更，核定事項詳如中文仿單核定本(原100年8月5日核准之中文仿單核定本予以收作廢)。\r\n註銷規格:MyLabSat",
     "劑型": "",
     "包裝": "",
     "標籤、仿單及包裝加註": "",
@@ -32,18 +32,21 @@
     "申請商名稱": "623102C241  華鋒科技股份有限公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "M170060000  ESAOTE EUROPE B.V.",
-        "製造廠廠址": "PHILIPSWEG 1, 6227AJ, MAASTRICHT, THE NETHERLANDS",
+        "製造廠名稱": "M250339000  Esaote S.p.A.",
+        "製造廠廠址": "Via degli Olmi 11, 50019 Sesto Fiorentino (FI), Italy",
         "製造廠公司地址": "",
         "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "中文仿單-104-12-10.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022332&Seq=002&Type=9"
+            "title": "060223320001-107-06-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022332&Seq=003&Type=9"
+        },
+        {
+            "title": "060223320002-107-06-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022332&Seq=002&Type=8"
         }
     ]
 }

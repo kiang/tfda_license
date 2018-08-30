@@ -1,7 +1,7 @@
 {
     "code": "08017453",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08017453",
-    "time": "2017-05-26 03:44:50",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08017453",
+    "time": "2018-08-31 04:08:42",
     "許可證字號": "衛署粧輸字第017453號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,8 +12,8 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00801745302",
-    "中文品名": "“渥克”波妃特牙齒美白劑",
-    "英文品名": "VOCO Perfect Bleach 17%",
+    "中文品名": "“渥克”波妃特牙齒美白劑\r\n“渥克”波妃特牙齒美白劑 10%",
+    "英文品名": "VOCO Perfect Bleach \r\nVOCO Perfect Bleach 10%",
     "用途": "美白牙齒。",
     "劑型": "915凝膠劑",
     "包裝": "500ml以下針筒裝 附外盒",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "M470833000  VOCO GMBH",
         "製造廠廠址": "ANTON-FLETTNER-STR. 1-3, 27472 CUXHAVEN GERMANY",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "": "",
     "藥理治療分類": "",
@@ -39,18 +38,26 @@
             "成分代碼": "9200098200",
             "成分名稱": "CARBAMIDE PEROXIDE",
             "含量描述": "",
-            "含量": "17.0000000000",
+            "含量": "16.0000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200098200",
+            "成分名稱": "CARBAMIDE PEROXIDE",
+            "含量描述": "",
+            "含量": "10.0000000000",
             "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
         {
-            "title": "080174530001___20101021.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08017453&Seq=001&Type=9"
+            "title": "08017453-107-07-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08017453&Seq=002&Type=9"
         },
         {
-            "title": "080174530002___20101021.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08017453&Seq=001&Type=8"
+            "title": "08017453-107-07-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08017453&Seq=001&Type=8"
         }
     ]
 }

@@ -1,13 +1,13 @@
 {
     "code": "02019089",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019089",
-    "time": "2016-11-18 19:36:24",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019089",
+    "time": "2018-08-31 03:33:09",
     "許可證字號": "衛署藥輸字第019089號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
-    "有效日期": "106\/02\/20",
-    "發證日期": "81\/02\/20",
+    "註銷狀態": "已註銷",
+    "註銷日期": "107\/07\/13",
+    "註銷理由": "自請註銷",
+    "有效日期": "111\/02\/20",
+    "發證日期": "105\/10\/26",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
@@ -28,15 +28,14 @@
         "主製造廠": "",
         "製造廠名稱": "F410106000  NOVARTIS FARMACEUTICA S.A.",
         "製造廠廠址": "RONDA SANTA MARIA,158,08210 BARBERA DEL VALLES BARCELONA,SPAIN",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "1225204000  裕利股份有限公司",
-            "製造廠廠址": "桃園市大園區和平村1鄰舊厝子1之2號",
+            "製造廠名稱": "6132061151  裕利股份有限公司",
+            "製造廠廠址": "桃園市大園區和平里1鄰開和路91號",
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
             "製程": "二級包裝廠"
@@ -71,14 +70,26 @@
     },
     "藥物辨識外觀圖片": [
         {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019089&Seq=424&Type=10"
+            "title": "cibacen 5 tab-106-07-04(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019089&Seq=425&Type=10"
+        },
+        {
+            "title": "02019089.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019089&Seq=424&Type=10"
         }
     ],
     "仿單外盒": [
         {
+            "title": "Cibacen-TWI-280617-106-06-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019089&Seq=033&Type=9"
+        },
+        {
             "title": "Cibacen_TWI-150316_C (中文仿單)-105-06-24.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019089&Seq=032&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019089&Seq=032&Type=9"
+        },
+        {
+            "title": "cibacen 5 FB-106-07-04(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019089&Seq=001&Type=8"
         }
     ]
 }

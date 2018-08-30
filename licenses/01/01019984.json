@@ -1,7 +1,7 @@
 {
     "code": "01019984",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01019984",
-    "time": "2017-07-21 15:52:42",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01019984",
+    "time": "2018-08-31 03:53:07",
     "許可證字號": "衛署藥製字第019984號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,7 +12,7 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00101998404",
-    "中文品名": "&quot;正和&quot;血保脈膠囊（可巴麥）",
+    "中文品名": "&quot;正和&quot; 血保脈膠囊",
     "英文品名": "COBAMAMIDE CAPSULES &quot;C.H.&quot;",
     "適應症": "惡性貧血、出血性貧血、具有神經合併症之惡性貧血、巨紅血球性貧血、巨胚紅血球性貧血、維他命Ｂ１２缺乏症",
     "劑型": "130膠囊劑",
@@ -28,17 +28,24 @@
         "主製造廠": "",
         "製造廠名稱": "0505720300  正和製藥股份有限公司新營廠",
         "製造廠廠址": "台南市新營區嘉芳里新工路２３號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30045000009 含有維他命或第２９３６節產品之其他醫藥製劑Other medicaments containing vitamins or other products of heading 29.36",
+    "CCC號列": "30045000009 其他醫藥製劑，含有維他命或第２９３６節之其他產品Other medicaments, containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
             "成分代碼": "8811200200",
             "成分名稱": "COBAMAMIDE",
-            "含量描述": "500",
+            "含量描述": "",
+            "含量": "500.0000000000",
+            "單位": "MCG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8811200200",
+            "成分名稱": "COBAMAMIDE",
+            "含量描述": "",
             "含量": "500.0000000000",
             "單位": "MCG"
         }
@@ -46,7 +53,7 @@
     "藥物辨識詳細資料": {
         "外觀尺寸": "",
         "特殊劑型": "",
-        "顏色": "鮮紅\/鮮紅",
+        "顏色": "紅色蓋紅色體",
         "特殊氣味": "",
         "刻痕": "",
         "形狀": "長圓柱形",
@@ -56,17 +63,33 @@
     "藥物辨識外觀圖片": [
         {
             "title": "010199840003-外觀-104-12-28(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019984&Seq=095&Type=10"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019984&Seq=095&Type=10"
         }
     ],
     "仿單外盒": [
         {
+            "title": "正和血保脈膠囊仿單-107-06-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019984&Seq=004&Type=9"
+        },
+        {
             "title": "010199840001-仿單-104-09-29(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019984&Seq=003&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019984&Seq=003&Type=9"
+        },
+        {
+            "title": "正和血保脈膠囊外盒-107-06-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019984&Seq=009&Type=8"
+        },
+        {
+            "title": "正和血保脈膠囊鋁箔-107-06-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019984&Seq=008&Type=8"
+        },
+        {
+            "title": "正和血保脈膠囊標籤-107-06-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019984&Seq=007&Type=8"
         },
         {
             "title": "010199840004-鋁箔-105-11-14(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019984&Seq=006&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019984&Seq=006&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "01035153",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01035153",
-    "time": "2017-06-16 03:01:27",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01035153",
+    "time": "2018-08-31 03:02:36",
     "許可證字號": "衛署藥製字第035153號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,7 +18,7 @@
     "劑型": "110錠劑",
     "包裝": "2-1000粒瓶裝 盒裝",
     "標籤、仿單及包裝加註": "",
-    "藥品類別": "06須由醫師處方使用",
+    "藥品類別": "17醫師藥師藥劑生指示藥品",
     "主成分略述": [
         "CHLORPHENIRAMINEMALEATE,MECLIZINEHCL(EQTOMECLIZINEHYDROCHLORIDE),CAFFEINEANHYDROUS,PYRIDOXINEHCL"
     ],
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "1302820300  新喜國際企業股份有限公司",
         "製造廠廠址": "台南市鹽水區孫厝里孫厝寮４之６號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -69,16 +68,32 @@
     ],
     "仿單外盒": [
         {
+            "title": "JT07 新喜旅樂錠說明書20180627-107-07-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035153&Seq=004&Type=9"
+        },
+        {
             "title": "JT-07旅樂錠仿單-新版20170516上傳核准-106-05-16(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035153&Seq=003&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035153&Seq=003&Type=9"
         },
         {
             "title": "JT-07旅樂錠仿單20160909(送審中)-105-09-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035153&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035153&Seq=002&Type=9"
+        },
+        {
+            "title": "旅樂鋁箔掃描檔-107-07-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035153&Seq=006&Type=8"
+        },
+        {
+            "title": "旅樂標籤20171201-107-07-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035153&Seq=005&Type=8"
+        },
+        {
+            "title": "“新喜” 旅樂外盒-107-07-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035153&Seq=004&Type=8"
         },
         {
             "title": "旅樂標籤160506-105-09-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035153&Seq=003&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035153&Seq=003&Type=8"
         }
     ]
 }

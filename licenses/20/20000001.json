@@ -1,7 +1,7 @@
 {
     "code": "20000001",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=20000001",
-    "time": "2016-10-28 03:59:01",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=20000001",
+    "time": "2018-08-31 03:08:22",
     "許可證字號": "衛署罕藥輸字第000001號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,11 +28,19 @@
         "主製造廠": "",
         "製造廠名稱": "F150027000  BIOCODEX",
         "製造廠廠址": "1 AVENUE BLAISE PASCAL, 60000 BEAUVAIS, FRANCE",
-        "製造廠公司地址": "7 avenue gallieni 94250 gentilly france",
-        "": ""
+        "製造廠公司地址": "7 avenue gallieni 94250 gentilly france"
     },
     "CCC號列": "30049071005 抗癌藥Anti-cancer preparations",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "6201123351  科懋生物科技股份有限公司",
+            "製造廠廠址": "新北市汐止區大同路一段120、122、126號6樓",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -46,11 +54,11 @@
     "仿單外盒": [
         {
             "title": "Stimol 中文仿單-105-07-04(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000001&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000001&Seq=001&Type=9"
         },
         {
             "title": "Stimol 標籤-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000001&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000001&Seq=001&Type=8"
         }
     ]
 }

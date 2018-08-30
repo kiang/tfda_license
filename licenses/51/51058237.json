@@ -1,7 +1,7 @@
 {
     "code": "51058237",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058237",
-    "time": "2015-08-23 13:32:57",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058237",
+    "time": "2018-08-31 03:08:28",
     "許可證字號": "衛部藥製字第058237號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,18 @@
     "適應症": "預防鈣質與維生素D缺乏症，如骨質疏鬆症",
     "劑型": "112咀嚼錠",
     "包裝": "4~200錠鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
-    "管制藥品分類級別": "",
-    "主成分略述": "CALCIUM PHOSPHATE TRIBASIC (CALCIUM PHOSPHATE), Dry Vitamin D3 Type 100 CWS",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "CALCIUMPHOSPHATETRIBASIC(CALCIUMPHOSPHATE),DryVitaminD3Type100CWS"
     ],
-    "申請商名稱": "620110F255  台灣東洋藥品工業股份有限公司台北分公司",
-    "申請商地址": "台北市南港區園區街3之1號3樓之1",
+    "限制項目": "01國　產",
+    "申請商名稱": "6201125122  台灣東洋藥品工業股份有限公司",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "6133030016  台裕化學製藥廠股份有限公司",
         "製造廠廠址": "新竹縣竹東鎮員山路11巷13弄1號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -60,26 +58,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "粉紅色",
+        "特殊氣味": "",
+        "刻痕": "有",
+        "形狀": "橢圓形",
+        "標記一": "剝半線",
+        "標記二": "CA+D"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Biocal plus 裸錠 + 鋁箔正反-104-09-09(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058237&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "衛部058237標外仿鋁-104-03-06.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058237&Seq=002&Type=9"
+            "title": "Biocal plus 仿單-104-09-09(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058237&Seq=003&Type=9"
         },
         {
-            "title": "滋骨加強咀嚼錠-仿單 -103-05-06.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058237&Seq=001&Type=9"
-        },
-        {
-            "title": "衛部058237標外仿鋁-104-03-06.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058237&Seq=003&Type=8"
-        },
-        {
-            "title": "滋骨加強咀嚼錠-鋁箔包裝-103-05-06.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058237&Seq=002&Type=8"
-        },
-        {
-            "title": "滋骨加強咀嚼錠-外盒-103-05-06.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058237&Seq=001&Type=8"
+            "title": "Biocal plus 外觀及外盒-106-03-20(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058237&Seq=006&Type=8"
         }
     ]
 }

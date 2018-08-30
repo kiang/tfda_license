@@ -1,16 +1,16 @@
 {
     "code": "42000018",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000018",
-    "time": "2015-08-24 14:02:57",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000018",
+    "time": "2018-08-31 04:13:17",
     "許可證字號": "衛署醫器陸輸字第000018號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "107\/06\/25",
+    "註銷理由": "許可證已逾有效期",
     "有效日期": "104\/06\/07",
     "發證日期": "94\/06\/07",
     "許可證種類": "醫　器",
     "舊證字號": "",
-    "醫療器材級數": "",
+    "醫療器材級數": "第二等級",
     "通關簽審文件編號": "DHA04200001809",
     "中文品名": "齊能隱形眼鏡護理液",
     "英文品名": "Totalcare 1 Contact Lens Solution",
@@ -18,27 +18,25 @@
     "醫器規格": "15ML、60ML、120ML、240、350ML、360ML,以下空白。",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "M眼科用裝置",
     "醫器次類別一": "",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "TYLOXAPOL (SUPERINONE), POLYHEXAMETHYLEN BIGUANIDE",
-    "限制項目": [
-        "02輸入",
-        "40大陸生產"
+    "主成分略述": [
+        "TYLOXAPOL(SUPERINONE),POLYHEXAMETHYLENBIGUANIDE"
     ],
+    "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6231046876  香港商眼力健亞洲有限公司台灣分公司",
-    "申請商地址": "台北市中山區民生東路三段51號10樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "M640004000  AMO (HANGZHOU), CO., LTD.",
         "製造廠廠址": "4TH AVENUE, HANGZHOU ECONOMIC AND TECHNOLOGICAL ZONE, HANGZHOU, ZHEJIANG, 310018, CHINA",
         "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "": ""
     },
-    "CCC號列": "33079020001 隱形眼鏡清洗液Cleaning solution for contact lens",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -60,16 +58,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "420000180001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000018&Seq=001&Type=9"
+            "title": "420000180001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000018&Seq=001&Type=9"
         },
         {
-            "title": "420000180002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000018&Seq=002&Type=8"
+            "title": "420000180002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000018&Seq=002&Type=8"
         },
         {
-            "title": "420000180001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000018&Seq=001&Type=8"
+            "title": "420000180001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000018&Seq=001&Type=8"
         }
     ]
 }

@@ -1,12 +1,12 @@
 {
     "code": "01016508",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01016508",
-    "time": "2017-07-21 14:43:40",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01016508",
+    "time": "2018-08-31 04:21:48",
     "許可證字號": "衛署藥製字第016508號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/05\/25",
+    "有效日期": "112\/05\/25",
     "發證日期": "68\/01\/26",
     "許可證種類": "製　劑",
     "舊證字號": "00000000",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "0306811300  大豐製藥股份有限公司",
         "製造廠廠址": "彰化市延平里岸頭巷１１號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -48,7 +47,7 @@
         "特殊劑型": "裸錠",
         "顏色": "淡橘色",
         "特殊氣味": "",
-        "刻痕": "2",
+        "刻痕": "無",
         "形狀": "圓扁形",
         "標記一": "",
         "標記二": ""
@@ -56,17 +55,25 @@
     "藥物辨識外觀圖片": [
         {
             "title": "北進淨痰錠-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016508&Seq=075&Type=10"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016508&Seq=075&Type=10"
         }
     ],
     "仿單外盒": [
         {
+            "title": "016508淨痰錠-說明書-107-01-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016508&Seq=005&Type=9"
+        },
+        {
             "title": "2017.05.03綠野-淨痰錠說明書-領證(送審版)-106-05-08(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016508&Seq=004&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016508&Seq=004&Type=9"
+        },
+        {
+            "title": "016508淨痰錠-自粘標-107-01-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016508&Seq=003&Type=8"
         },
         {
             "title": "北進淨痰錠-正面-側面-105-09-26(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016508&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016508&Seq=002&Type=8"
         }
     ]
 }

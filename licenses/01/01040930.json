@@ -1,7 +1,7 @@
 {
     "code": "01040930",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01040930",
-    "time": "2017-04-28 03:38:47",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01040930",
+    "time": "2018-08-31 03:54:15",
     "許可證字號": "衛署藥製字第040930號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "0202114300  十全實業股份有限公司",
         "製造廠廠址": "南投縣南投市南崗工業區仁和路２７號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30044099004 其他醫藥製劑，含有生物鹼或其衍生物，但未含內分泌素，第２９３７節之其他產品或抗生素者Other medicaments, containing alkaloids or derivatives thereof but not containing hormones, other products of heading 29.37 or antibiotics",
+    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -55,18 +54,26 @@
     },
     "藥物辨識外觀圖片": [
         {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040930&Seq=355&Type=10"
+            "title": "01040930.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040930&Seq=355&Type=10"
         }
     ],
     "仿單外盒": [
         {
+            "title": "010409300001-107-05-31.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040930&Seq=005&Type=9"
+        },
+        {
             "title": "咳寧-仿單(2015-1) -104-11-27(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040930&Seq=004&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040930&Seq=004&Type=9"
+        },
+        {
+            "title": "010409300002-107-05-31.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040930&Seq=003&Type=8"
         },
         {
             "title": "咳寧-標籤(2015-1)-104-12-29(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040930&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040930&Seq=002&Type=8"
         }
     ]
 }

@@ -1,12 +1,12 @@
 {
     "code": "08016432",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016432",
-    "time": "2015-08-23 19:59:26",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016432",
+    "time": "2018-08-31 03:43:54",
     "許可證字號": "衛署粧輸字第016432號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/08\/14",
+    "有效日期": "111\/08\/14",
     "發證日期": "98\/08\/14",
     "許可證種類": "含藥化粧品",
     "舊證字號": "",
@@ -17,22 +17,20 @@
     "用途": "染髮。",
     "劑型": "944乳劑",
     "包裝": "500 毫升以下瓶裝 附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "1-NAPHTHOL, AMINOPHENOL META- (EQ TO M-AMINOPHENOL), P-AMINOPHENOL, O-AMINOPHENOL, 4-CHLORORESORCINOL, 2-METHYLRESORCINOL, 4-AMINO-2-HYDROXYTOLUENE, P-PHENYLENEDIAMINE, N-PHENYL-P-PHENYLENEDIAMINE, TOLUENE-2,5-DIAMINE, 1,5-NAPHTHALENEDIOL, 2-AMINO-4-HYDROXYETHYLAMINOANISOLE SULFATE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "1-NAPHTHOL,META-AMINOPHENOL(EQTOM-AMINOPHENOL),P-AMINOPHENOL,O-AMINOPHENOL,4-CHLORORESORCINOL,2-METHYLRESORCINOL,4-AMINO-2-HYDROXYTOLUENE,P-PHENYLENEDIAMINE,N-PHENYL-P-PHENYLENEDIAMINE,TOLUENE-2,5-DIAMINE,1,5-NAPHTHALENEDIOL,2-AMINO-4-HYDROXYETHYLAMINOANISOLESULFATE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "6624445257  福敏兄弟國際有限公司",
-    "申請商地址": "桃園市桃園區吉昌街124巷10號6樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C250032000  HBS S.R.L.",
         "製造廠廠址": "VIA PADRE ANTONIO CASAMASSA 87 00119 OSTIA ANTICA ROMA ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -46,7 +44,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9200035403",
-            "成分名稱": "AMINOPHENOL META- (EQ TO M-AMINOPHENOL)",
+            "成分名稱": "META-AMINOPHENOL (EQ TO M-AMINOPHENOL)",
             "含量描述": "",
             "含量": "0.2000000000",
             "單位": "%(W\/W)"
@@ -142,7 +140,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9200035403",
-            "成分名稱": "AMINOPHENOL META- (EQ TO M-AMINOPHENOL)",
+            "成分名稱": "META-AMINOPHENOL (EQ TO M-AMINOPHENOL)",
             "含量描述": "",
             "含量": "0.2000000000",
             "單位": "%(W\/W)"
@@ -238,7 +236,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9200035403",
-            "成分名稱": "AMINOPHENOL META- (EQ TO M-AMINOPHENOL)",
+            "成分名稱": "META-AMINOPHENOL (EQ TO M-AMINOPHENOL)",
             "含量描述": "",
             "含量": "0.2000000000",
             "單位": "%(W\/W)"
@@ -322,6 +320,12 @@
             "含量描述": "",
             "含量": "",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08016432-105-08-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016432&Seq=001&Type=8"
         }
     ]
 }

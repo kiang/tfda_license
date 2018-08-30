@@ -1,7 +1,7 @@
 {
     "code": "01046071",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01046071",
-    "time": "2016-11-18 14:57:51",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01046071",
+    "time": "2018-08-31 03:54:47",
     "許可證字號": "衛署藥製字第046071號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "0806804300  明德製藥股份有限公司",
         "製造廠廠址": "桃園市楊梅區瑞原里7鄰民富路二段３６０號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30042000211 人用醫藥製劑，含抗黴菌劑類抗生素者Medicaments, containing antifungal antibiotics, for human use",
     "藥理治療分類": "",
@@ -41,24 +40,48 @@
             "含量描述": "",
             "含量": "10.0000000000",
             "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "3632000108",
+            "成分名稱": "TERBINAFINE HYDROCHLORIDE",
+            "含量描述": "",
+            "含量": "10.0000000000",
+            "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
+            "title": "三友-膚博氏足癬乳膏-仿單-玫瑰香味-107-06-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046071&Seq=005&Type=9"
+        },
+        {
+            "title": "三友-膚博氏足癬乳膏-仿單-伯莉香味-107-06-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046071&Seq=004&Type=9"
+        },
+        {
             "title": "三友-膚博氏足癬乳膏-鋁管-送審用-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046071&Seq=003&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046071&Seq=003&Type=9"
         },
         {
             "title": "三友-膚博氏足癬乳膏-標籤-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046071&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046071&Seq=002&Type=9"
         },
         {
             "title": "三友-膚博氏足癬乳膏-仿單-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046071&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046071&Seq=001&Type=9"
+        },
+        {
+            "title": "三友-膚博氏足癬乳膏-玫瑰香味-107-06-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046071&Seq=003&Type=8"
+        },
+        {
+            "title": "三友-膚博氏足癬乳膏-伯莉香味-107-06-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046071&Seq=002&Type=8"
         },
         {
             "title": "三友-膚博氏足癬乳膏BOX-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046071&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046071&Seq=001&Type=8"
         }
     ]
 }

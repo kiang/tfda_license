@@ -1,12 +1,12 @@
 {
     "code": "08016578",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016578",
-    "time": "2015-08-23 19:44:55",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016578",
+    "time": "2018-08-31 03:44:02",
     "許可證字號": "衛署粧輸字第016578號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/10\/08",
+    "有效日期": "111\/10\/08",
     "發證日期": "98\/10\/08",
     "許可證種類": "含藥化粧品",
     "舊證字號": "",
@@ -17,22 +17,20 @@
     "用途": "染髮。",
     "劑型": "940粉劑",
     "包裝": "500 公克以下鋁箔袋裝 附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "RESORCINOL (RESORCIN), AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL), P-PHENYLENEDIAMINE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "RESORCINOL(RESORCIN),AMINOPHENOLPARA-(EQTOP-AMINOPHENOL),P-PHENYLENEDIAMINE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "6301010057  千滋企業有限公司",
-    "申請商地址": "台北市松山區敦化北路155巷103號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C200012000  HENNA INDUSTRIES PVT. LTD.",
         "製造廠廠址": "PLOT NO.45, SECTOR 27A, FARIDABAD 121003, HARYANA, INDIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "INDIA",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -58,6 +56,12 @@
             "含量描述": "",
             "含量": "3.0000000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08016578-2009-10-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016578&Seq=001&Type=9"
         }
     ]
 }

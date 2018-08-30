@@ -1,7 +1,7 @@
 {
     "code": "56025898",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025898",
-    "time": "2016-03-25 04:44:05",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025898",
+    "time": "2018-08-31 03:25:42",
     "許可證字號": "衛部醫器輸字第025898號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,36 +18,35 @@
     "醫器規格": "233191。",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "A臨床化學及臨床毒理學",
     "醫器次類別一": "A1150校正品",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        ""
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1401804200  台富製藥股份有限公司",
-    "申請商地址": "桃園市大園區和平西路一段391號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "M260420300  FUJIREBIO INC., HACHIOJI FACILITY",
         "製造廠廠址": "51 KOMIYA-CHO, HACHIOJI-SHI, TOKYO 192-0031, JAPAN",
         "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "": ""
     },
-    "CCC號列": "38220050009 檢定參照物Certified reference materials",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "560258980001-103-05-23.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025898&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025898&Seq=001&Type=9"
         },
         {
             "title": "560258980002-103-05-23.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025898&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025898&Seq=001&Type=8"
         }
     ]
 }

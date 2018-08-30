@@ -1,7 +1,7 @@
 {
     "code": "40000091",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=40000091",
-    "time": "2017-02-24 03:27:08",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=40000091",
+    "time": "2018-08-31 03:31:58",
     "許可證字號": "衛署粧陸輸字第000091號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "C666400040  THE MENTHOLATUM (CHINA) PHARMACEUTICALS CO., LTD.",
         "製造廠廠址": "THE SECOND INDUSTRIAL ESTATES SANXIANG, ZHONGSHAN, GUANGDONG, CHINA.",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "33049990108 含藥之乳液、化粧水Medicated lotion, tonic lotion",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -78,11 +77,19 @@
     "仿單外盒": [
         {
             "title": "40000720 製造廠 包裝變更___20120727.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000091&Seq=003&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000091&Seq=003&Type=9"
+        },
+        {
+            "title": "400000910002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000091&Seq=002&Type=9"
+        },
+        {
+            "title": "400000910001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000091&Seq=001&Type=9"
         },
         {
             "title": "40000091-106-01-26.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000091&Seq=008&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000091&Seq=008&Type=8"
         }
     ]
 }

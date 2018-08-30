@@ -1,11 +1,11 @@
 {
     "code": "12009812",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12009812",
-    "time": "2015-08-23 05:30:29",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12009812",
+    "time": "2018-08-31 03:33:19",
     "許可證字號": "內衛藥製字第009812號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "107\/07\/25",
+    "註銷理由": "自請註銷",
     "有效日期": "108\/12\/31",
     "發證日期": "59\/09\/15",
     "許可證種類": "製　劑",
@@ -17,23 +17,20 @@
     "適應症": "緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多。",
     "劑型": "183懸液劑",
     "包裝": "60~4000毫升塑膠瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
-    "管制藥品分類級別": "",
-    "主成分略述": "ALUMINUM HYDROXIDE GEL, MAGNESIUM TRISILICATE",
-    "限制項目": [
-        "01國產",
-        "1G不得製造"
+    "主成分略述": [
+        "ALUMINUMHYDROXIDEGEL,MAGNESIUMTRISILICATE"
     ],
+    "限制項目": "01國　產 1G不得製造",
     "申請商名稱": "6231121847  明華化學製藥廠股份有限公司",
-    "申請商地址": "新北市瑞芳區頂坪路138號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "2001304300  寶齡富錦生技股份有限公司平鎮廠",
         "製造廠廠址": "桃園市平鎮區興隆路２６６號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -55,32 +52,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "120098120001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12009812&Seq=003&Type=9"
+            "title": "120098120001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12009812&Seq=003&Type=9"
         },
         {
-            "title": "020098120003___20110630.JPG",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12009812&Seq=002&Type=9"
-        },
-        {
-            "title": "020098120003___20110126.JPG",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12009812&Seq=001&Type=9"
-        },
-        {
-            "title": "020098120002___20110630.JPG",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12009812&Seq=004&Type=8"
-        },
-        {
-            "title": "020098120002___20110126.JPG",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12009812&Seq=003&Type=8"
-        },
-        {
-            "title": "020098120001___20110630.JPG",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12009812&Seq=002&Type=8"
-        },
-        {
-            "title": "020098120001___20110126.JPG",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12009812&Seq=001&Type=8"
+            "title": "020098120002___20110630.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12009812&Seq=004&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "01038860",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01038860",
-    "time": "2016-11-18 13:56:42",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01038860",
+    "time": "2018-08-31 03:03:03",
     "許可證字號": "衛署藥製字第038860號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -22,16 +22,15 @@
     "主成分略述": [
         "ALUMINUMHYDROXIDEDRIEDGEL,MAGNESIUMCARBONATE,OXETHAZAINE"
     ],
-    "限制項目": "01國　產",
+    "限制項目": "01國　產 1R不得製造",
     "申請商名稱": "1223216200  黃氏製藥股份有限公司",
     "主製造廠": {
         "主製造廠": "",
         "製造廠名稱": "1223216300  黃氏製藥股份有限公司",
         "製造廠廠址": "雲林縣斗南鎮小東里大同路４４４巷１１號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -71,26 +70,34 @@
     },
     "藥物辨識外觀圖片": [
         {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038860&Seq=341&Type=10"
+            "title": "01038860.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038860&Seq=341&Type=10"
         }
     ],
     "仿單外盒": [
         {
+            "title": "黃氏佳胃捷錠仿單-107-07-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038860&Seq=004&Type=9"
+        },
+        {
             "title": "T-45.150728佳胃捷(說明書)-104-11-13(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038860&Seq=003&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038860&Seq=003&Type=9"
         },
         {
-            "title": "010388600002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038860&Seq=002&Type=9"
+            "title": "黃氏佳胃捷錠外盒-107-07-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038860&Seq=004&Type=8"
         },
         {
-            "title": "010388600001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038860&Seq=001&Type=9"
+            "title": "黃氏佳胃捷錠鋁箔-107-07-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038860&Seq=003&Type=8"
+        },
+        {
+            "title": "黃氏佳胃捷錠標籤-107-07-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038860&Seq=002&Type=8"
         },
         {
             "title": "T-45.150728佳胃捷(內盒)-104-11-13(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038860&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038860&Seq=001&Type=8"
         }
     ]
 }

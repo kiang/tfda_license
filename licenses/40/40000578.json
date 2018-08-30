@@ -1,12 +1,12 @@
 {
     "code": "40000578",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=40000578",
-    "time": "2015-08-23 22:22:06",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=40000578",
+    "time": "2018-08-31 03:44:26",
     "許可證字號": "衛署粧陸輸字第000578號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/08\/26",
+    "有效日期": "111\/08\/26",
     "發證日期": "98\/08\/26",
     "許可證種類": "含藥化粧品",
     "舊證字號": "",
@@ -17,23 +17,20 @@
     "用途": "染髮第一劑。",
     "劑型": "984乳膏劑",
     "包裝": "500 ml 以下管裝 附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "AMMONIUM HYDROXIDE 25%, RESORCINOL (RESORCIN), P-AMINOPHENOL, TOLUENE-2,5-DIAMINE SULFATE, 2-AMINO-6-CHLORO-4-NITROPHENOL",
-    "限制項目": [
-        "02輸入",
-        "40大陸生產"
+    "主成分略述": [
+        "AMMONIUMHYDROXIDE25%,RESORCINOL(RESORCIN),P-AMINOPHENOL,TOLUENE-2,5-DIAMINESULFATE,2-AMINO-6-CHLORO-4-NITROPHENOL"
     ],
+    "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6627847418  東憶生化科技股份有限公司",
-    "申請商地址": "苗栗縣銅鑼鄉銅鑼村中正路35之1號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C640023000  GUANGZHOU COLORNOW COSMETIC CO., LTD.",
         "製造廠廠址": "NO.8 QIXINGGANG INDUSTRIAL ZONE, LUOGANG VILLAGE, XINSHI TOWN, BAIYUN DISTRICT, GUANGZHOU CITY, GUANGDONG PROVINCE, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -75,6 +72,12 @@
             "含量描述": "",
             "含量": "0.2500000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "40000578-2009-08-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000578&Seq=001&Type=9"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "01056784",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01056784",
-    "time": "2017-06-16 03:26:14",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01056784",
+    "time": "2018-08-31 03:04:57",
     "許可證字號": "衛署藥製字第056784號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "0502918300  永勝藥品工業股份有限公司",
         "製造廠廠址": "嘉義縣民雄鄉興南村頭橋工業區工業三路６之３號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -43,14 +42,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "白色",
+        "特殊氣味": "",
+        "刻痕": "有",
+        "形狀": "橢圓形",
+        "標記一": "MAC",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "CALWELL CHEWABLE TABLETS_W-104-10-31(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056784&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "Calwell佳益鈣咀嚼錠仿單20151201-104-12-17(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056784&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056784&Seq=002&Type=9"
         },
         {
             "title": "CALWELL CHEWABLE TABLETS_PTP-104-12-17(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056784&Seq=006&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056784&Seq=006&Type=8"
         }
     ]
 }

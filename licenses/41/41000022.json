@@ -1,12 +1,12 @@
 {
     "code": "41000022",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=41000022",
-    "time": "2015-08-24 00:18:02",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=41000022",
+    "time": "2018-08-31 03:39:20",
     "許可證字號": "衛署藥陸輸字第000022號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/10\/20",
+    "有效日期": "112\/10\/20",
     "發證日期": "92\/10\/20",
     "許可證種類": "原料藥",
     "舊證字號": "",
@@ -17,20 +17,18 @@
     "適應症": "抗菌藥。",
     "劑型": "040（粉）",
     "包裝": "０．５公斤以上",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "01製劑原料",
-    "管制藥品分類級別": "",
-    "主成分略述": "NORFLOXACIN (BACCIDAL)",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "NORFLOXACIN(BACCIDAL)"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "0923501100  春安貿易有限公司",
-    "申請商地址": "台北市承德路２段１２號６Ｆ之１",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F640011000  ZHEJIANG NEO-DANKONG PHARMACEUTICAL CO., LTD.",
         "製造廠廠址": "NO.259 BINHAI ROAD YANTON, JIAOJIANG DISTRICT, TAIZHOU CITY, ZHEJIANG CHINA.",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "29419090910 人用其他抗生素Other antibiotics, for human use",
     "藥理治療分類": "",
@@ -46,8 +44,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "410000220001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=41000022&Seq=001&Type=9"
+            "title": "410000220001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=41000022&Seq=001&Type=9"
         }
     ]
 }

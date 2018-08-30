@@ -1,7 +1,7 @@
 {
     "code": "02025553",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025553",
-    "time": "2017-06-16 03:50:13",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025553",
+    "time": "2018-08-31 03:57:03",
     "許可證字號": "衛署藥輸字第025553號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,12 +28,18 @@
         "主製造廠": "",
         "製造廠名稱": "F470372000  B. BRAUN MELSUNGEN AG",
         "製造廠廠址": "CARL-BRAUN-STRASSE 1, 34212 MELSUNGEN, GERMANY",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
+        {
+            "製造廠名稱": "7770824858  台灣大昌華嘉股份有限公司",
+            "製造廠廠址": "桃園市楊梅區梅獅路二段629號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠(委託貼標及置入仿單)"
+        },
         {
             "製造廠名稱": "F470340000  B. BRAUN MELSUNGEN AG",
             "製造廠廠址": "D-34209 MELSUNGEN, GERMANY",
@@ -271,11 +277,11 @@
     "仿單外盒": [
         {
             "title": "20160812093650791-105-08-12.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025553&Seq=003&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025553&Seq=003&Type=9"
         },
         {
             "title": "0202225530001___20120206.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025553&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025553&Seq=001&Type=8"
         }
     ]
 }

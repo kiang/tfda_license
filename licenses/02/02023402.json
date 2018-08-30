@@ -1,12 +1,12 @@
 {
     "code": "02023402",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023402",
-    "time": "2017-05-26 03:52:13",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023402",
+    "time": "2018-08-31 04:26:33",
     "許可證字號": "衛署藥輸字第023402號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/03\/26",
+    "有效日期": "111\/03\/26",
     "發證日期": "91\/03\/26",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -22,16 +22,15 @@
     "主成分略述": [
         "CREOSOTE,PHELLODENDRONEXTRACT,GERANIUMHERBAPOWDER"
     ],
-    "限制項目": "02輸　入",
+    "限制項目": "02輸　入 1Q不得輸入",
     "申請商名稱": "0201709200  人生製藥股份有限公司",
     "主製造廠": {
         "主製造廠": "",
         "製造廠名稱": "F260525000  WATANABE PHARMACEUTICAL INDUSTRIAL CO., LTD.",
         "製造廠廠址": "1-7, KITABANBA MIZUHASHI-CHO TOYAMA-CITY TOYAMA-KEN JAPAN",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30044099004 其他醫藥製劑，含有生物鹼或其衍生物，但未含內分泌素，第２９３７節之其他產品或抗生素者Other medicaments, containing alkaloids or derivatives thereof but not containing hormones, other products of heading 29.37 or antibiotics",
+    "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
         {
@@ -66,6 +65,12 @@
             "含量描述": "",
             "含量": "25.0000000000",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "衛署藥輸字第023402號-仿單-106-6-22-106-06-22(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023402&Seq=001&Type=9"
         }
     ]
 }

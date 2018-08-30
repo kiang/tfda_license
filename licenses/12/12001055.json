@@ -1,7 +1,7 @@
 {
     "code": "12001055",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12001055",
-    "time": "2018-06-22 03:59:45",
+    "time": "2018-08-31 03:57:32",
     "許可證字號": "內衛藥製字第001055號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,11 +16,11 @@
     "英文品名": "ERWAICHALO GRANULES",
     "適應症": "胃潰瘍、十二指腸潰瘍、胃酸過多、胃痛、胃痙攣、急、慢性胃炎。",
     "劑型": "150內服顆粒劑",
-    "包裝": "6-500包,每包2公克鋁箔袋盒裝 1000公克以下瓶裝",
+    "包裝": "12~1000公克塑膠瓶裝 6-500包,每包2公克鋁箔袋盒裝",
     "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
     "主成分略述": [
-        "SCOPOLIAEEXTRACT(POWDER),BISMUTHSUBNITRATE(BISMUTHNITRATEBASIC),MAGNESIUMOXIDE,CERIUMOXALATE,BENZOCAINE(ETHYLAMINOBENZOATE),MENTHOL,ALUMINUMSILICATE"
+        "SCOPOLIAEEXTRACT(POWDER),SODIUMBICARBONATE(EQTOSODIUMHYDROGENCARBONATE),BISMUTHSUBNITRATE(BISMUTHNITRATEBASIC),MAGNESIUMOXIDE,CERIUMOXALATE,BENZOCAINE(ETHYLAMINOBENZOATE),MENTHOL,ALUMINUMSILICATE"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "0402211200  中美兄弟製藥股份有限公司",
@@ -39,6 +39,14 @@
             "成分名稱": "SCOPOLIAE EXTRACT (POWDER)",
             "含量描述": "",
             "含量": "120.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "4008000700",
+            "成分名稱": "SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE)",
+            "含量描述": "",
+            "含量": "210.0000000000",
             "單位": "MG"
         },
         {
@@ -92,8 +100,32 @@
     ],
     "仿單外盒": [
         {
+            "title": "中美爾胃佳樂顆粒12001055-說明書-107-06-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12001055&Seq=003&Type=9"
+        },
+        {
             "title": "0175-爾胃佳樂-說-104-12-24(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12001055&Seq=002&Type=9"
+        },
+        {
+            "title": "中美爾胃佳樂顆粒12001055-外盒-107-06-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12001055&Seq=008&Type=8"
+        },
+        {
+            "title": "中美爾胃佳樂顆粒12001055-標籤-107-06-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12001055&Seq=007&Type=8"
+        },
+        {
+            "title": "中美爾胃佳樂顆粒12001055-量匙-107-06-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12001055&Seq=006&Type=8"
+        },
+        {
+            "title": "中美爾胃佳樂顆粒12001055-內袋-107-06-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12001055&Seq=005&Type=8"
+        },
+        {
+            "title": "中美爾胃佳樂顆粒12001055-QRcode-107-06-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12001055&Seq=004&Type=8"
         },
         {
             "title": "0175-爾胃佳樂-袋-104-12-24(廠商自行上傳).pdf",

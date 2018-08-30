@@ -1,12 +1,12 @@
 {
     "code": "01038544",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01038544",
-    "time": "2017-04-28 03:27:10",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01038544",
+    "time": "2018-08-31 04:24:36",
     "許可證字號": "衛署藥製字第038544號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/08\/04",
+    "有效日期": "112\/08\/04",
     "發證日期": "84\/02\/06",
     "許可證種類": "製　劑",
     "舊證字號": "01025996",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "1304820200  瑞士藥廠股份有限公司新市廠",
         "製造廠廠址": "台南市新市區中山路182號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30042000319 人用醫藥製劑，含頭孢子菌類抗生素者Medicaments, containing cephalosporins, for human use",
     "藥理治療分類": "",
@@ -67,14 +66,38 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "白色或微黃色",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "C58-瓶裝-104-09-22(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038544&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "衛署藥製字第038544號-103-05-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038544&Seq=003&Type=9"
+            "title": "C58 仿單改儲存條件 038544-106-09-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038544&Seq=004&Type=9"
         },
         {
-            "title": "C58-外盒-104-09-22(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038544&Seq=001&Type=8"
+            "title": "衛署藥製字第038544號-103-05-15.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038544&Seq=003&Type=9"
+        },
+        {
+            "title": "C58速得寧貼標038544-107-07-23-107-07-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038544&Seq=005&Type=8"
+        },
+        {
+            "title": "C58速得寧外盒-10V上光盒038544-107-07-23-107-07-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038544&Seq=004&Type=8"
         }
     ]
 }

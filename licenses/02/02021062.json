@@ -1,7 +1,7 @@
 {
     "code": "02021062",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021062",
-    "time": "2016-11-18 19:57:40",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021062",
+    "time": "2018-08-31 03:55:50",
     "許可證字號": "衛署藥輸字第021062號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,11 +28,19 @@
         "主製造廠": "",
         "製造廠名稱": "F470082000  BAYER PHARMA AG",
         "製造廠廠址": "D-51368 LEVERKUSEN GERMANY",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30042000916 人用醫藥製劑，含有其他抗生素者Medicaments, containing other antibiotics, for human use",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "F470391100  Bayer AG",
+            "製造廠廠址": "Friedrich-Ebert-Str. 217-333, 42117 Wuppertal, Germany",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "原料藥製造廠"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -45,28 +53,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "Ciproxin 250,500_017692,021062_CCDS16_TW07-104-09-23(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021062&Seq=005&Type=9"
-        },
-        {
-            "title": "速博新膜衣錠英文仿單___20121204.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021062&Seq=004&Type=9"
-        },
-        {
-            "title": "速博新膜衣錠中文仿單___20121204.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021062&Seq=003&Type=9"
-        },
-        {
-            "title": "速博新膜衣錠500mg___20111111.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021062&Seq=002&Type=9"
-        },
-        {
-            "title": "Ciproxin Tab 250___20110705.500.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021062&Seq=001&Type=9"
+            "title": "02021062_TW08-106-01-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021062&Seq=006&Type=9"
         },
         {
             "title": "Ciproxin 500mg_021062_box-104-12-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021062&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021062&Seq=001&Type=8"
         }
     ]
 }

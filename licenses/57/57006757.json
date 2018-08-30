@@ -1,7 +1,7 @@
 {
     "code": "57006757",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=57006757",
-    "time": "2016-02-26 04:48:12",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=57006757",
+    "time": "2018-08-31 04:08:48",
     "許可證字號": "衛部粧製字第006757號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,23 +16,21 @@
     "英文品名": "Hair Color Cream",
     "用途": "染髮。",
     "劑型": "984乳膏劑",
-    "包裝": "500g以下管裝附外盒",
+    "包裝": "500g以下管裝附外盒 500g以下袋裝，附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "Ammonia solution (25%), RESORCINOL (RESORCIN), 2,6-DIAMINOPYRIDINE, P-AMINOPHENOL, m-Aminophenol, P-PHENYLENEDIAMINE",
-    "限制項目": [
-        ""
+    "主成分略述": [
+        "Ammoniasolution(25%),RESORCINOL(RESORCIN),P-AMINOPHENOL,m-Aminophenol,P-PHENYLENEDIAMINE,2,4-DIAMINOPHENOXYETHANOLHYDROCHLORIDE"
     ],
+    "限制項目": "",
     "申請商名稱": "6616814208  千媚生技有限公司",
-    "申請商地址": "高雄市大寮區大寮路373巷116號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "6616814208  千媚生技有限公司",
         "製造廠廠址": "高雄市大寮區大寮路373巷116號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -40,7 +38,7 @@
             "成分代碼": "2820000119",
             "成分名稱": "Ammonia solution (25%)",
             "含量描述": "",
-            "含量": "3.7400000000",
+            "含量": "3.8000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -49,14 +47,6 @@
             "成分名稱": "RESORCINOL (RESORCIN)",
             "含量描述": "",
             "含量": "0.2000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200007430",
-            "成分名稱": "2,6-DIAMINOPYRIDINE",
-            "含量描述": "",
-            "含量": "0.0200000000",
             "單位": "%(W\/W)"
         },
         {
@@ -82,20 +72,32 @@
             "含量描述": "",
             "含量": "0.8000000000",
             "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900092100",
+            "成分名稱": "2,4-DIAMINOPHENOXYETHANOL HYDROCHLORIDE",
+            "含量描述": "",
+            "含量": "0.0120000000",
+            "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
         {
             "title": "57006757-103-08-05.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=57006757&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=57006757&Seq=001&Type=9"
+        },
+        {
+            "title": "57006757-107-06-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=57006757&Seq=003&Type=8"
         },
         {
             "title": "57006757-104-12-14.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=57006757&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=57006757&Seq=002&Type=8"
         },
         {
             "title": "57006757-103-08-05.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=57006757&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=57006757&Seq=001&Type=8"
         }
     ]
 }

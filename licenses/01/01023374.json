@@ -1,12 +1,12 @@
 {
     "code": "01023374",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01023374",
-    "time": "2016-11-18 12:04:31",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01023374",
+    "time": "2018-08-31 03:01:51",
     "許可證字號": "衛署藥製字第023374號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/05\/25",
+    "有效日期": "112\/05\/25",
     "發證日期": "70\/05\/15",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "1402206300  臺裕化學製藥廠股份有限公司",
         "製造廠廠址": "新竹縣竹東鎮員山路11巷13弄1號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -43,30 +42,34 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "2ml",
+        "特殊劑型": "",
+        "顏色": "無色或微黃色",
+        "特殊氣味": "無",
+        "刻痕": "無",
+        "形狀": "長圓柱形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "[外觀]023374治潰平注射液(100毫克)-104-12-31(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023374&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
+            "title": "台裕治潰平注射液100毫克毫升仿單-107-07-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023374&Seq=005&Type=9"
+        },
+        {
             "title": "023374-治潰平100毫克-C.-105-03-29(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023374&Seq=004&Type=9"
-        },
-        {
-            "title": "01023374_仿單-104-03-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023374&Seq=003&Type=9"
-        },
-        {
-            "title": "治潰平100公絲注射液-103-06-05.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023374&Seq=002&Type=9"
-        },
-        {
-            "title": "010233740001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023374&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023374&Seq=004&Type=9"
         },
         {
             "title": "[外盒]023374治潰平注射液(100毫克)-104-12-31(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023374&Seq=002&Type=8"
-        },
-        {
-            "title": "治潰平_53x122mm 2015-03-03-104-03-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023374&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023374&Seq=002&Type=8"
         }
     ]
 }

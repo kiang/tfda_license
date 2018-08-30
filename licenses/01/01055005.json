@@ -1,7 +1,7 @@
 {
     "code": "01055005",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01055005",
-    "time": "2017-06-16 03:26:04",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01055005",
+    "time": "2018-08-31 03:04:45",
     "許可證字號": "衛署藥製字第055005號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "1901510300  羅得化學製藥股份有限公司",
         "製造廠廠址": "台中市大甲區東西七路一段65號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -43,14 +42,46 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "紫色",
+        "特殊氣味": "",
+        "刻痕": "無",
+        "形狀": "圓凸形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Prewell Sustained-Release Tablets 150mg_W-104-10-31(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055005&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
+            "title": "Prewell復維樂仿單_20170724(送衛福部)-106-09-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055005&Seq=004&Type=9"
+        },
+        {
             "title": "Prewell復維樂仿單_20151209-104-12-17(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055005&Seq=003&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055005&Seq=003&Type=9"
+        },
+        {
+            "title": "20170522_復維樂30T外盒-106-09-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055005&Seq=009&Type=8"
+        },
+        {
+            "title": "20170518_復維樂_標貼-106-09-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055005&Seq=008&Type=8"
+        },
+        {
+            "title": "20170522_復維樂鋁箔-106-09-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055005&Seq=007&Type=8"
         },
         {
             "title": "Prewell Sustained-Release Tablets 150mg_PTP-104-12-17(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055005&Seq=006&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055005&Seq=006&Type=8"
         }
     ]
 }

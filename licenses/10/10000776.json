@@ -1,12 +1,12 @@
 {
     "code": "10000776",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000776",
-    "time": "2017-05-26 03:37:07",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000776",
+    "time": "2018-08-31 03:38:49",
     "許可證字號": "衛署菌疫輸字第000776號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/11\/10",
+    "有效日期": "112\/11\/10",
     "發證日期": "92\/11\/10",
     "許可證種類": "菌　疫",
     "舊證字號": "",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "F470267200  VETTER PHARMA-FERTIGUNG GMBH &amp; CO. KG",
         "製造廠廠址": "SCHUTZENSTRASSE 87 AND 99-101, 88212 RAVENSBURG, GERMANY",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "次製造廠": [
         {
@@ -91,40 +90,31 @@
             "製程": "BATCH RELEASE"
         }
     ],
-    "ingredients": [
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200094700",
-            "成分名稱": "ADALIMUMAB",
-            "含量描述": "",
-            "含量": "40.0000000000",
-            "單位": "MG"
-        }
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
             "title": "Humira 40mg0.8ml_PFS_病患須知(中)_排版final-106-03-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000776&Seq=007&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000776&Seq=007&Type=9"
         },
         {
             "title": "Humira 40mg0.8ml_Pen_病患須知(中)_排版final-106-03-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000776&Seq=006&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000776&Seq=006&Type=9"
         },
         {
             "title": "Humira 40mg0.8ml_PFS Vial_中文仿單_排版final-106-03-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000776&Seq=005&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000776&Seq=005&Type=9"
         },
         {
             "title": "附件5 20010981 TW_d1_1_361909-106-03-17.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000776&Seq=005&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000776&Seq=005&Type=8"
         },
         {
             "title": "附件5 20011021 TW_d2_2_367898-106-03-06.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000776&Seq=004&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000776&Seq=004&Type=8"
         },
         {
             "title": "附件5 20011000 TW_d2_2_365233-106-03-06.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000776&Seq=003&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000776&Seq=003&Type=8"
         }
     ]
 }

@@ -1,12 +1,12 @@
 {
     "code": "01042536",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01042536",
-    "time": "2016-11-25 03:25:25",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01042536",
+    "time": "2018-08-31 03:37:05",
     "許可證字號": "衛署藥製字第042536號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/08\/21",
+    "有效日期": "112\/08\/21",
     "發證日期": "87\/08\/21",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "1409106300  健喬信元醫藥生技股份有限公司健喬廠",
         "製造廠廠址": "新竹縣湖口鄉中興村工業一路６號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30043900005 醫藥製劑，含有其他內分泌素者Medicaments, containing other hormones",
+    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -65,30 +64,6 @@
             "含量描述": "1",
             "含量": "1.0000000000",
             "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "6816500100",
-            "成分名稱": "ESTRADIOL",
-            "含量描述": "2",
-            "含量": "2.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "6816500100",
-            "成分名稱": "ESTRADIOL",
-            "含量描述": "",
-            "含量": "2.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "6816500100",
-            "成分名稱": "ESTRADIOL",
-            "含量描述": "2",
-            "含量": "2.0000000000",
-            "單位": "MG"
         }
     ],
     "藥物辨識詳細資料": {
@@ -103,46 +78,14 @@
     },
     "藥物辨識外觀圖片": [
         {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042536&Seq=384&Type=10"
-        },
-        {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042536&Seq=383&Type=10"
-        },
-        {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042536&Seq=382&Type=10"
-        },
-        {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042536&Seq=381&Type=10"
+            "title": "01042536.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042536&Seq=384&Type=10"
         }
     ],
     "仿單外盒": [
         {
             "title": "010425360001-104-11-26(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042536&Seq=006&Type=9"
-        },
-        {
-            "title": "010425360004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042536&Seq=005&Type=9"
-        },
-        {
-            "title": "010425360003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042536&Seq=004&Type=9"
-        },
-        {
-            "title": "010425360002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042536&Seq=003&Type=9"
-        },
-        {
-            "title": "010425360001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042536&Seq=002&Type=9"
-        },
-        {
-            "title": "010425360001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042536&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042536&Seq=006&Type=9"
         }
     ]
 }

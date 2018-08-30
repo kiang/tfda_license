@@ -1,7 +1,7 @@
 {
     "code": "42000008",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000008",
-    "time": "2015-08-22 04:41:51",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000008",
+    "time": "2018-08-31 03:19:08",
     "許可證字號": "衛署醫器陸輸字第000008號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -10,35 +10,33 @@
     "發證日期": "94\/03\/01",
     "許可證種類": "醫　器",
     "舊證字號": "",
-    "醫療器材級數": "",
+    "醫療器材級數": "第二等級",
     "通關簽審文件編號": "DHA04200000806",
     "中文品名": "愛視潔雙氧清潔消毒液",
     "英文品名": "OXYSEPT 1 STEP DISINFECTING SOLUTION",
     "效能": "清潔、消毒。變更效能：詳如中文仿單核定本。",
-    "醫器規格": "60ml, 120ml, 240ml, 360ml, 以下空白。",
+    "醫器規格": "60ml, 120ml, 240ml, 360ml, 以下空白。仿單變更為:詳如中文仿單核定本(原106年8月24日仿單標籤核定本正本予以收回作廢)。",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "M眼科用裝置",
     "醫器次類別一": "",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "HYDROGEN PEROXIDE",
-    "限制項目": [
-        "02輸入",
-        "40大陸生產"
+    "主成分略述": [
+        "HYDROGENPEROXIDE"
     ],
+    "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6231046876  香港商眼力健亞洲有限公司台灣分公司",
-    "申請商地址": "台北市中山區民生東路三段51號10樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "M640004000  AMO (HANGZHOU), CO., LTD.",
         "製造廠廠址": "200, 4th Avenue, Hangzhou Economic &amp; Technological Development Zone, Hangzhou, Zhejiang, 310018, China.",
         "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "": ""
     },
-    "CCC號列": "33079020001 隱形眼鏡清洗液Cleaning solution for contact lens",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -52,40 +50,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "42000008___20101027.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000008&Seq=006&Type=9"
+            "title": "420000080001-107-07-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000008&Seq=008&Type=9"
         },
         {
-            "title": "420000080003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000008&Seq=005&Type=9"
-        },
-        {
-            "title": "420000080002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000008&Seq=004&Type=9"
-        },
-        {
-            "title": "420000080001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000008&Seq=003&Type=9"
-        },
-        {
-            "title": "42000008-20110113___20110615.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000008&Seq=002&Type=9"
-        },
-        {
-            "title": "1010067494-000008___20130127.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000008&Seq=001&Type=9"
-        },
-        {
-            "title": "420000080003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000008&Seq=003&Type=8"
-        },
-        {
-            "title": "420000080002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000008&Seq=002&Type=8"
-        },
-        {
-            "title": "420000080001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000008&Seq=001&Type=8"
+            "title": "420000080002-107-07-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000008&Seq=005&Type=8"
         }
     ]
 }

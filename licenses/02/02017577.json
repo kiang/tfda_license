@@ -1,7 +1,7 @@
 {
     "code": "02017577",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02017577",
-    "time": "2018-06-22 03:06:20",
+    "time": "2018-08-31 03:05:50",
     "許可證字號": "衛署藥輸字第017577號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,8 +26,8 @@
     "申請商名稱": "1901701100  羅氏大藥廠股份有限公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "F300019000  PRODUCTOS ROCHE, S.A. DE C.V",
-        "製造廠廠址": "VIA ISIDRO FABELA NTE. NO. 1536-B, C.P. 50030 TOLUCA, MEXICO",
+        "製造廠名稱": "F410128000  ROCHE FARMA S.A.",
+        "製造廠廠址": "C\/SEVERO OCHOA 13, POLIGONO IND. DE LEGANE&#39;S, E-28914 LEGANE&#39;S,SPAIN",
         "製造廠公司地址": ""
     },
     "CCC號列": "30049099389 醫藥製劑，含有咪達唑他（咪氟唑侖）者Medicaments, containing Midazolam",
@@ -39,13 +39,6 @@
             "製造廠公司地址": "",
             "製造廠國別": "SWITZERLAND",
             "製程": "許可證持有者"
-        },
-        {
-            "製造廠名稱": "F430208000  F.HOFFMANN-LA ROCHE LTD.",
-            "製造廠廠址": "WURMISWEG, CH-4303 KAISERAUGST, SWITZERLAND",
-            "製造廠公司地址": "",
-            "製造廠國別": "SWITZERLAND",
-            "製程": "包裝"
         }
     ],
     "ingredients": [
@@ -60,12 +53,16 @@
     ],
     "仿單外盒": [
         {
+            "title": "導美睡錠(148x594)-0618-DOR-01-107-07-20(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017577&Seq=013&Type=9"
+        },
+        {
             "title": "導美睡錠(148x594)-0418-DOR-01_轉文字外框-107-04-25.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017577&Seq=012&Type=9"
         },
         {
-            "title": "Dormicum_FCT 7.5mg_CTN-104-09-30(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017577&Seq=005&Type=8"
+            "title": "Dormicum_FCT 7 5mg_CTN_Leganes_new barcode-107-07-20(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017577&Seq=006&Type=8"
         }
     ]
 }

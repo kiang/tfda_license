@@ -1,7 +1,7 @@
 {
     "code": "51059073",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51059073",
-    "time": "2017-09-08 03:06:06",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51059073",
+    "time": "2018-08-31 03:57:55",
     "許可證字號": "衛部藥製字第059073號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "0413004300  五洲製藥股份有限公司",
         "製造廠廠址": "桃園市新屋區赤欄里17之1號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -43,14 +42,38 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "黃色圓形錠，一面刻PH字樣，另一面刻15字樣 厚度: 約2.31±0.23 mm",
+        "特殊劑型": "",
+        "顏色": "黃色",
+        "特殊氣味": "",
+        "刻痕": "無",
+        "形狀": "圓凸形",
+        "標記一": "PH",
+        "標記二": "15"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "樂安神口溶錠10毫克-藥錠外觀-105-07-19(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059073&Seq=002&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
+            "title": "樂安神口溶錠10毫克-仿單文字檔-107-06-26(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059073&Seq=004&Type=9"
+        },
+        {
+            "title": "1-附件一-樂安神口溶錠10mg-仿單印刷檔-107-06-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059073&Seq=003&Type=9"
+        },
+        {
             "title": "樂安神口溶錠10毫克-仿單-105-07-19(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059073&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059073&Seq=002&Type=9"
         },
         {
             "title": "樂安神口溶錠10毫克-外盒-105-07-19(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059073&Seq=004&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059073&Seq=004&Type=8"
         }
     ]
 }
