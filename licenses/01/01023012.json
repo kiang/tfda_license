@@ -1,7 +1,7 @@
 {
     "code": "01023012",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01023012",
-    "time": "2016-11-18 12:01:27",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01023012",
+    "time": "2018-10-12 03:30:56",
     "許可證字號": "衛署藥製字第023012號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,12 +28,43 @@
         "主製造廠": "",
         "製造廠名稱": "1103310300  健康化學製藥股份有限公司",
         "製造廠廠址": "台中市大甲區幼獅工業區幼四路１２號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30043200002 含有腎上腺皮質類固醇荷爾蒙，其衍生物及結構式類似者Containing adrenal corticosteroid hormones, their derivatives and structural analogues",
+    "CCC號列": "30043200002 其他醫藥製劑，含有腎上腺皮質類固醇荷爾蒙及其衍生物或結構式類似者Other medicaments, containing corticosteroid hormones, their derivatives or structural analogues",
     "藥理治療分類": "",
     "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0804000900",
+            "成分名稱": "IODOCHLORHYDROXYQUIN",
+            "含量描述": "10.0",
+            "含量": "10.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812109310",
+            "成分名稱": "GENTAMICIN (AS SULFATE)",
+            "含量描述": "1.0",
+            "含量": "1.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "6804009251",
+            "成分名稱": "BETAMETHASONE (17-VALERATE)",
+            "含量描述": "0.5",
+            "含量": "0.5000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8404801300",
+            "成分名稱": "TOLNAFTATE",
+            "含量描述": "10.0",
+            "含量": "10.0000000000",
+            "單位": "MG"
+        },
         {
             "成分類別": "主成分",
             "成分代碼": "0804000900",
@@ -69,44 +100,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "010230120001-105-07-04.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023012&Seq=006&Type=9"
-        },
-        {
             "title": "010230120001-104-12-23(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023012&Seq=007&Type=9"
-        },
-        {
-            "title": "010230120004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023012&Seq=005&Type=9"
-        },
-        {
-            "title": "010230120003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023012&Seq=004&Type=9"
-        },
-        {
-            "title": "010230120002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023012&Seq=003&Type=9"
-        },
-        {
-            "title": "010230120001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023012&Seq=002&Type=9"
-        },
-        {
-            "title": "010230120001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023012&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023012&Seq=007&Type=9"
         },
         {
             "title": "010230120002-105-07-04.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023012&Seq=003&Type=8"
-        },
-        {
-            "title": "010230120002(標籤)-105-07-04.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023012&Seq=002&Type=8"
-        },
-        {
-            "title": "010230120001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023012&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023012&Seq=003&Type=8"
         }
     ]
 }

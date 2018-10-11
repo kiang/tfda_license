@@ -1,12 +1,12 @@
 {
     "code": "02022332",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022332",
-    "time": "2017-02-24 03:14:04",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022332",
+    "time": "2018-10-12 03:55:14",
     "許可證字號": "衛署藥輸字第022332號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/11\/10",
+    "有效日期": "112\/11\/10",
     "發證日期": "87\/11\/10",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "F150299000  DELPHARM HUNINGUE SAS",
         "製造廠廠址": "26 RUE DE LA CHAPELLE, 68330 HUNUNGUE, FRANCE",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30042000211 人用醫藥製劑，含抗黴菌劑類抗生素者Medicaments, containing antifungal antibiotics, for human use",
     "藥理治療分類": "",
@@ -43,7 +42,7 @@
         },
         {
             "製造廠名稱": "F430094000  NOVARTIS CONSUMER HEALTH SA",
-            "製造廠廠址": "ROUTE DE 1'ETRAZ, 1260 NYON, SWITZERLAND",
+            "製造廠廠址": "ROUTE DE 1&#39;ETRAZ, 1260 NYON, SWITZERLAND",
             "製造廠公司地址": "",
             "製造廠國別": "SWITZERLAND",
             "製程": "許可證持有者"
@@ -59,14 +58,46 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "透明溶液",
+        "特殊氣味": "無",
+        "刻痕": "無",
+        "形狀": "",
+        "標記一": "無",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "衛署藥輸字第022332號 Lamisil Spray_藥物外觀_20170828-106-08-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022332&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "020223320002-105-12-20.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022332&Seq=018&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022332&Seq=018&Type=9"
+        },
+        {
+            "title": "衛署藥輸字第022332號 Lamisil Spray_15ml(SP15-TWC011216_TW_936426)+30ml(SP30-TWC011216_TW_936430)_TWC010617carton-106-08-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022332&Seq=012&Type=8"
+        },
+        {
+            "title": "020223320001-106-08-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022332&Seq=011&Type=8"
+        },
+        {
+            "title": "020223320001-105-12-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022332&Seq=010&Type=8"
         },
         {
             "title": "療黴舒噴劑30ml-105-01-18(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022332&Seq=009&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022332&Seq=009&Type=8"
+        },
+        {
+            "title": "療黴舒噴劑15m-104-09-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022332&Seq=008&Type=8"
         }
     ]
 }

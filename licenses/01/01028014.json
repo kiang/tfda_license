@@ -1,7 +1,7 @@
 {
     "code": "01028014",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01028014",
-    "time": "2015-08-22 22:38:51",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01028014",
+    "time": "2018-10-12 03:01:31",
     "許可證字號": "衛署藥製字第028014號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,23 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102801400",
-    "中文品名": "必沛樂膠囊２００公絲（匹培咪迪）",
-    "英文品名": "PIPERA CAPSULES 200MG (PIPEMIDIC ACID) \"WEIDAR\"",
+    "中文品名": "&quot;衛達&quot;必沛樂膠囊２００公絲（匹培咪迪）",
+    "英文品名": "PIPERA CAPSULES 200MG &quot;WEIDAR&quot; (PIPEMIDIC ACID)",
     "適應症": "由綠膿菌、大腸菌、變形桿菌、克雷白氏桿菌、腸內桿菌、枸櫞桿菌、赤痢菌、腸炎弧菌所引起之腎盂腎炎、腎盂炎、膀胱炎、尿道炎、前立腺炎、中耳炎、細菌性赤痢、腸炎、副鼻腔炎",
     "劑型": "130膠囊劑",
-    "包裝": "瓶裝 盒裝",
+    "包裝": "4-1000粒塑膠瓶裝 4-1000粒盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "PIPEMIDIC ACID (TRIHYDRATE)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "PIPEMIDICACID(TRIHYDRATE)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1605609200  衛達化學製藥股份有限公司",
-    "申請商地址": "台中市工業區２３路２１號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1605609300  衛達化學製藥股份有限公司",
         "製造廠廠址": "台中市工業區２３路２１號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30042000916 人用醫藥製劑，含有其他抗生素者Medicaments, containing other antibiotics, for human use",
     "藥理治療分類": "",
@@ -39,35 +37,43 @@
             "成分類別": "主成分",
             "成分代碼": "0812091150",
             "成分名稱": "PIPEMIDIC ACID (TRIHYDRATE)",
-            "含量描述": "(235.6MG) 200",
-            "含量": "",
+            "含量描述": "eq to pipemidic acid 200mg",
+            "含量": "235.6000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812091150",
+            "成分名稱": "PIPEMIDIC ACID (TRIHYDRATE)",
+            "含量描述": "eq to pipemidic acid 200mg",
+            "含量": "235.6000000000",
             "單位": "MG"
         }
     ],
     "藥物辨識詳細資料": {
-        "外觀尺寸": "",
+        "外觀尺寸": "# 2 膠囊",
         "特殊劑型": "",
-        "顏色": "灰藍\/白色",
+        "顏色": "不透明藍灰色\/白色",
         "特殊氣味": "",
-        "刻痕": "",
-        "形狀": "長圓柱形",
+        "刻痕": "無",
+        "形狀": "",
         "標記一": "WEIDAR",
-        "標記二": "PA0330"
+        "標記二": "PA 0330"
     },
     "藥物辨識外觀圖片": [
         {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028014&Seq=176&Type=10"
+            "title": "4.0_Pipera Cap.200mg._劑型外觀-104-11-11(廠商自行上傳).PDF",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028014&Seq=177&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "010280140002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028014&Seq=002&Type=9"
+            "title": "1.0_Pipera Cap.200mg._仿單-104-12-25(廠商自行上傳).PDF",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028014&Seq=003&Type=9"
         },
         {
-            "title": "010280140001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028014&Seq=001&Type=9"
+            "title": "5.0_Pipera Cap.200mg._塑膠瓶裝_1000'S_4717818033002-104-11-11(廠商自行上傳).PDF",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028014&Seq=002&Type=8"
         }
     ]
 }

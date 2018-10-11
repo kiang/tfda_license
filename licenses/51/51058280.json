@@ -1,7 +1,7 @@
 {
     "code": "51058280",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058280",
-    "time": "2016-07-29 05:09:50",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058280",
+    "time": "2018-10-12 03:38:48",
     "許可證字號": "衛部藥製字第058280號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,20 +17,18 @@
     "適應症": "糖尿病。",
     "劑型": "116膜衣錠",
     "包裝": "6-1000粒塑膠瓶裝 6-1000粒鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "METFORMIN HCL (EQ TO METFORMIN HYDROCHLORIDE)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "METFORMINHCL(EQTOMETFORMINHYDROCHLORIDE)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "622103B014  新瑞生物科技股份有限公司",
-    "申請商地址": "台南市新市區中山路182號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "6105200026  瑞士藥廠股份有限公司新市廠",
         "製造廠廠址": "台南市新市區中山路182號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -44,42 +42,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "白色",
+        "特殊氣味": "",
+        "刻痕": "有",
+        "形狀": "圓扁形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "NM06-裸錠-104-09-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058280&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "040582800001-104-04-08.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058280&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058280&Seq=002&Type=9"
         },
         {
-            "title": "美獲平膜衣錠500毫克-衛部藥製字第058280號-103-07-01.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058280&Seq=001&Type=9"
-        },
-        {
-            "title": "NM06-罐裝1000S-104-09-25(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058280&Seq=007&Type=8"
-        },
-        {
-            "title": "NM06-盒裝1000S-104-09-25(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058280&Seq=006&Type=8"
-        },
-        {
-            "title": "NM06-PTP-104-09-25(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058280&Seq=005&Type=8"
-        },
-        {
-            "title": "衛部 058280 標籤外盒鋁箔-104-04-08.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058280&Seq=004&Type=8"
-        },
-        {
-            "title": "010582800006-103-07-01.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058280&Seq=003&Type=8"
-        },
-        {
-            "title": "010582800005-103-07-01.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058280&Seq=002&Type=8"
-        },
-        {
-            "title": "010582800004-103-07-01.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058280&Seq=001&Type=8"
+            "title": "NM06-美獲平058280上光盒107-07-05-107-07-09(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058280&Seq=009&Type=8"
         }
     ]
 }

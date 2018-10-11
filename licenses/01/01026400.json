@@ -1,12 +1,12 @@
 {
     "code": "01026400",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01026400",
-    "time": "2017-06-16 03:23:24",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01026400",
+    "time": "2018-10-12 03:52:30",
     "許可證字號": "衛署藥製字第026400號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/10\/22",
+    "有效日期": "112\/10\/22",
     "發證日期": "71\/10\/22",
     "許可證種類": "製　劑",
     "舊證字號": "00000000",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "0908703300  信東生技股份有限公司",
         "製造廠廠址": "桃園市桃園區介壽路２２號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -67,14 +66,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "無色至淡黃色透明溶液",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "TBC No.2 Inj. 026400-105-01-11(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026400&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "010264000001-103-09-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026400&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026400&Seq=002&Type=9"
         },
         {
             "title": "54200120 TBC No.2 Injection (L-500，PP，KT)-昱和(印刷版次6)-104-09-16(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026400&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026400&Seq=002&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "01043264",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01043264",
-    "time": "2016-11-25 03:25:31",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01043264",
+    "time": "2018-10-12 03:34:20",
     "許可證字號": "衛署藥製字第043264號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "0603820300  成大藥品股份有限公司",
         "製造廠廠址": "台南市麻豆區南勢里關帝廟８０號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -97,32 +96,112 @@
             "含量描述": "",
             "含量": "4.0000000000",
             "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0400000810",
+            "成分名稱": "CHLORPHENIRAMINE MALEATE",
+            "含量描述": "",
+            "含量": "2.5000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "1212001813",
+            "成分名稱": "DL-METHYLEPHEDRINE HCL",
+            "含量描述": "",
+            "含量": "10.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2808000100",
+            "成分名稱": "ACETAMINOPHEN (EQ TO PARACETAMOL)",
+            "含量描述": "",
+            "含量": "300.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2820000450",
+            "成分名稱": "CAFFEINE ANHYDROUS",
+            "含量描述": "",
+            "含量": "30.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "4800001010",
+            "成分名稱": "DEXTROMETHORPHAN HBR",
+            "含量描述": "",
+            "含量": "15.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "4800002800",
+            "成分名稱": "POTASSIUM GUAIACOLSULFONATE",
+            "含量描述": "",
+            "含量": "60.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8810100900",
+            "成分名稱": "THIAMINE HYDROCHLORIDE",
+            "含量描述": "",
+            "含量": "8.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8810200400",
+            "成分名稱": "RIBOFLAVIN (VIT B2)",
+            "含量描述": "",
+            "含量": "4.0000000000",
+            "單位": "MG"
+        }
+    ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "0號膠囊20.9mm~21.7mm",
+        "特殊劑型": "",
+        "顏色": "帽水藍色 身白色",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "長圓柱形",
+        "標記一": "微黃色粉末",
+        "標記二": "加印辨識碼CTA237"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "CA-237成大-感冒膠囊-1000粒瓶裝(104.09.24)-104-09-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043264&Seq=003&Type=10"
         }
     ],
     "仿單外盒": [
         {
+            "title": "成大-感冒膠囊-仿單-107-01-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043264&Seq=006&Type=9"
+        },
+        {
             "title": "CA-237成大-感冒膠囊(104.12.29)(說)-104-12-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043264&Seq=005&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043264&Seq=005&Type=9"
         },
         {
-            "title": "CA-237成大-感冒膠囊-仿單(104.03.30)-104-04-13.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043264&Seq=003&Type=9"
+            "title": "CA-237成大-感冒膠囊-花盒-107-09-26(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043264&Seq=005&Type=8"
         },
         {
-            "title": "010432640002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043264&Seq=002&Type=9"
+            "title": "成大-感冒膠囊-標籤-107-01-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043264&Seq=004&Type=8"
         },
         {
-            "title": "010432640001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043264&Seq=001&Type=9"
+            "title": "成大-感冒膠囊-花盒-107-01-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043264&Seq=003&Type=8"
         },
         {
             "title": "CA-237成大-感冒膠囊-標籤(104.093.18)-104-09-25(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043264&Seq=002&Type=8"
-        },
-        {
-            "title": "CA-237成大-感冒膠囊-花盒(104.09.18)-104-09-19(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043264&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043264&Seq=002&Type=8"
         }
     ]
 }

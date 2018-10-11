@@ -1,7 +1,7 @@
 {
     "code": "08007511",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08007511",
-    "time": "2015-08-23 17:27:03",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08007511",
+    "time": "2018-10-12 04:03:42",
     "許可證字號": "衛署粧輸字第007511號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,22 +17,20 @@
     "用途": "染髮。",
     "劑型": "983膏劑",
     "包裝": "500ml以下鋁箔軟管",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0102髮表染色劑",
-    "": "",
-    "主成分略述": "AMMONIA WATER (AMMONIUM HYDROXIDE), 1-NAPHTHOL, 4-AMINO-2-HYDROXYTOLUENE, P-PHENYLENEDIAMINE, 1,5-NAPHTHALENEDIOL",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "AMMONIAWATER(AMMONIUMHYDROXIDE),1-NAPHTHOL,4-AMINO-2-HYDROXYTOLUENE,P-PHENYLENEDIAMINE,1,5-NAPHTHALENEDIOL"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1708601100  賽佛兒化粧品有限公司",
-    "申請商地址": "台北市中正區羅斯福路二段１２６號１０樓之１",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C250039000  VITALFARCO S.R.L.",
         "製造廠廠址": "VIA PIZZETTI 13-20090 TREZZANO S\/N MILANO-ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "33059020003 染髮劑Hair dyes",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -78,8 +76,12 @@
     ],
     "仿單外盒": [
         {
+            "title": "08007511-2011-02-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08007511&Seq=001&Type=9"
+        },
+        {
             "title": "08007511___20110406.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08007511&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08007511&Seq=001&Type=8"
         }
     ]
 }

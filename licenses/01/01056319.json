@@ -1,7 +1,7 @@
 {
     "code": "01056319",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01056319",
-    "time": "2016-11-18 15:48:52",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01056319",
+    "time": "2018-10-12 03:35:46",
     "許可證字號": "衛署藥製字第056319號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -27,9 +27,8 @@
     "主製造廠": {
         "主製造廠": "",
         "製造廠名稱": "0306811300  大豐製藥股份有限公司",
-        "製造廠廠址": "彰化市延平里岸頭巷１１號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠廠址": "彰化縣彰化市延平里岸頭巷11號",
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -43,50 +42,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "直徑9.69mm",
+        "特殊劑型": "",
+        "顏色": "白色",
+        "特殊氣味": "",
+        "刻痕": "無",
+        "形狀": "橢圓形",
+        "標記一": "10",
+        "標記二": "TF"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "安利脂膜衣錠 10mg-104-11-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056319&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "010563190001-2-104-11-23(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056319&Seq=006&Type=9"
-        },
-        {
-            "title": "010563190001-1-104-11-23(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056319&Seq=005&Type=9"
-        },
-        {
-            "title": "010523010001-2,010563190001-2,010559560001-2-103-01-24.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056319&Seq=004&Type=9"
-        },
-        {
-            "title": "010523010001-1, 010563190001-1,010559560001-1-103-01-24.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056319&Seq=003&Type=9"
-        },
-        {
-            "title": "010563190002___20110706.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056319&Seq=002&Type=9"
-        },
-        {
-            "title": "010563190001___20110706.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056319&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056319&Seq=006&Type=9"
         },
         {
             "title": "安利脂膜衣錠10mg 100T-104-11-23(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056319&Seq=005&Type=8"
-        },
-        {
-            "title": "安利脂膜衣錠10mg 10Tx50-104-11-23(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056319&Seq=004&Type=8"
-        },
-        {
-            "title": "010563190005___20110706.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056319&Seq=003&Type=8"
-        },
-        {
-            "title": "010563190004___20110706.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056319&Seq=002&Type=8"
-        },
-        {
-            "title": "010563190003___20110706.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056319&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056319&Seq=005&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "02023987",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023987",
-    "time": "2017-01-27 03:28:37",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023987",
+    "time": "2018-10-12 03:03:25",
     "許可證字號": "衛署藥輸字第023987號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,14 +26,20 @@
     "申請商名稱": "0924601100  台灣諾華股份有限公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "F430088000  NOVARTIS PHARMA STEIN AG",
-        "製造廠廠址": "SCHAFFHAUSERSTRASSE CH-4332 STEIN, SWITZERLAND",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠名稱": "F030014100  FRESENIUS KABI AUSTRIA GMBH",
+        "製造廠廠址": "HAFNERSTRASSE 36 ,8055 GRAZ AUSTRIA.",
+        "製造廠公司地址": "D-61346 BAD HOMBURG V.D.H. GERMANY"
     },
     "CCC號列": "30049071005 抗癌藥Anti-cancer preparations",
     "藥理治療分類": "",
     "次製造廠": [
+        {
+            "製造廠名稱": "F430088000  NOVARTIS PHARMA STEIN AG",
+            "製造廠廠址": "SCHAFFHAUSERSTRASSE CH-4332 STEIN, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": "二級包裝廠"
+        },
         {
             "製造廠名稱": "F430088500  NOVARTIS PHARMA AG",
             "製造廠廠址": "Lichtstrasse 35,4056 BASLE, SWITZERLAND",
@@ -54,12 +60,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "Zometa concentrate 4mg, 5ml_TWI-121016_C-105-11-08.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023987&Seq=028&Type=9"
+            "title": "Zometa concentrate 4mg, 5ml_TWI-180918_C-107-09-20(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023987&Seq=029&Type=9"
         },
         {
-            "title": "Zometa Concentrate for solution for infusions 4m,5ml-104-12-25(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023987&Seq=002&Type=8"
+            "title": "Zometa concentrate 4mg, 5ml_TWI-121016_C-105-11-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023987&Seq=028&Type=9"
+        },
+        {
+            "title": "Zometa concentrate 4mg, 5ml_TWL-180918-107-09-20(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023987&Seq=003&Type=8"
         }
     ]
 }

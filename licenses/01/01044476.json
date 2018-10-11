@@ -1,7 +1,7 @@
 {
     "code": "01044476",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01044476",
-    "time": "2017-06-16 03:24:53",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01044476",
+    "time": "2018-10-12 03:34:38",
     "許可證字號": "衛署藥製字第044476號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "0901314300  美時化學製藥股份有限公司南投廠",
         "製造廠廠址": "南投縣南投市新興里成功一路３０號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30043900005 醫藥製劑，含有其他內分泌素者Medicaments, containing other hormones",
+    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -63,18 +62,26 @@
     },
     "藥物辨識外觀圖片": [
         {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044476&Seq=407&Type=10"
+            "title": "01044476.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044476&Seq=407&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "美時保諾錠200毫克-仿單-20150601-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044476&Seq=003&Type=9"
+            "title": "01-2. MEAPA02-保諾婦女墮胎須知說明書_20180312-107-08-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044476&Seq=005&Type=9"
         },
         {
-            "title": "010444760003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044476&Seq=003&Type=8"
+            "title": "01-1. 20180312_Apano_PIL followed TFDA request-Clean-107-08-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044476&Seq=004&Type=9"
+        },
+        {
+            "title": "美時保諾錠200毫克-仿單-20150601-104-09-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044476&Seq=003&Type=9"
+        },
+        {
+            "title": "010444760003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044476&Seq=003&Type=8"
         }
     ]
 }

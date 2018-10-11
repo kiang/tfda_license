@@ -1,7 +1,7 @@
 {
     "code": "01040515",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01040515",
-    "time": "2016-11-18 14:11:04",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01040515",
+    "time": "2018-10-12 03:33:59",
     "許可證字號": "衛署藥製字第040515號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -23,13 +23,12 @@
         "GLYCOLSALICYLATE,L-MENTHOL,NONYLIC-VANILLYLAMIDE"
     ],
     "限制項目": "01國　產",
-    "申請商名稱": "1111020200  得生製藥股份有限公司",
+    "申請商名稱": "6141311164  得生製藥股份有限公司二廠",
     "主製造廠": {
         "主製造廠": "",
         "製造廠名稱": "6141311164  得生製藥股份有限公司二廠",
         "製造廠廠址": "台南市永康區王行里環工路42號之1號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30051090909 其他粘敷料和其他具有粘層之物品Other adhesive dressings and other articles having an adhesive layer",
     "藥理治療分類": "",
@@ -59,22 +58,38 @@
             "單位": "GM"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "7CMx14CM; 7CMx10CM",
+        "特殊劑型": "",
+        "顏色": "白色",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "040515-外觀 (4.2g)-104-09-24(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040515&Seq=002&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "010116440002-104-12-29(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040515&Seq=004&Type=9"
+            "title": "曼秀雷敦熱力鎮痛藥膠布01040515_小鋁箔袋-107-08-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040515&Seq=008&Type=9"
         },
         {
-            "title": "010116440001-104-12-29(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040515&Seq=003&Type=9"
+            "title": "曼秀雷敦熱力鎮痛藥膠布01040515_大鋁箔袋-107-08-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040515&Seq=007&Type=9"
         },
         {
-            "title": "010405150002-104-09-24(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040515&Seq=002&Type=9"
+            "title": "010405150002-106-05-22(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040515&Seq=006&Type=9"
         },
         {
-            "title": "010405150001-104-09-24(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040515&Seq=001&Type=9"
+            "title": "010405150001-106-05-22(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040515&Seq=005&Type=9"
         }
     ]
 }

@@ -1,12 +1,12 @@
 {
     "code": "02021777",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021777",
-    "time": "2017-01-27 03:27:58",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021777",
+    "time": "2018-10-12 03:36:30",
     "許可證字號": "衛署藥輸字第021777號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/06\/24",
+    "有效日期": "111\/06\/24",
     "發證日期": "86\/06\/24",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "F250034000  Corden Pharma Latina S.p.A.",
         "製造廠廠址": "VIA DEL MURILLO KM 2800 04010 SERMONETA (LATINA) ITALY",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30042000319 人用醫藥製劑，含頭孢子菌類抗生素者Medicaments, containing cephalosporins, for human use",
     "藥理治療分類": "",
@@ -43,14 +42,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "長*寬*高 75 X 54 X 31 mm",
+        "特殊劑型": "",
+        "顏色": "白色至接近淡黃色",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "BMST Maxipime 500mg Spec-08-104-09-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021777&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "1 Cefepime clean CCDS 12Feb2016 (Chinese)_Revised per draft approval_20161022-105-11-10.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021777&Seq=016&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021777&Seq=016&Type=9"
         },
         {
             "title": "Maxipime label-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021777&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021777&Seq=002&Type=8"
         }
     ]
 }

@@ -1,12 +1,12 @@
 {
     "code": "02023878",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023878",
-    "time": "2016-11-18 20:25:57",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023878",
+    "time": "2018-10-12 03:55:20",
     "許可證字號": "衛署藥輸字第023878號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/12\/03",
+    "有效日期": "112\/12\/03",
     "發證日期": "92\/12\/03",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "F260246200  OTSUKA PHARMACEUTICAL FACTORY INC. Matsuinge Factory",
         "製造廠廠址": "139-1,TOYOHISA KAITAKU, TOYOHISA, MATSUSHIGE-CHO, ITANO-GUN, TOKUSHIMA, JAPAN",
-        "製造廠公司地址": "115 KUGUHARA, TATEIWA, MUYA-CHO, NARUTO, TOKUSHIMA, JAPAN",
-        "": ""
+        "製造廠公司地址": "115 KUGUHARA, TATEIWA, MUYA-CHO, NARUTO, TOKUSHIMA, JAPAN"
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -243,22 +242,34 @@
             "單位": "MCG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "塑膠軟袋裝",
+        "特殊劑型": "",
+        "顏色": "無色澄明液",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "AMF-標籤-104-12-24(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023878&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
+            "title": "氨基富液_II1303-106-07-17(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023878&Seq=004&Type=9"
+        },
+        {
             "title": "Aminofluid_C PI__ EI1303-103-04-03.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023878&Seq=003&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023878&Seq=003&Type=9"
         },
         {
-            "title": "Aminofluid_C PI__ 20131216定稿版-102-12-25.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023878&Seq=002&Type=9"
-        },
-        {
-            "title": "氨基富液標籤圖檔___20121026.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023878&Seq=001&Type=9"
-        },
-        {
-            "title": "AMF-1000ml-104-12-24(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023878&Seq=001&Type=8"
+            "title": "AMF-標籤-106-07-17(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023878&Seq=002&Type=8"
         }
     ]
 }

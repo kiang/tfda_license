@@ -1,7 +1,7 @@
 {
     "code": "10000453",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000453",
-    "time": "2017-06-16 03:04:21",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000453",
+    "time": "2018-10-12 03:03:48",
     "許可證字號": "衛署菌疫輸字第000453號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,16 +20,15 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
     "主成分略述": [
-        "A\/California\/7\/2009(H1N1)pdm09-likestrain(A\/California\/7\/2009,NYMCX-179A),A\/HongKong\/4801\/2014(H3N2)-likestrain(A\/HongKong\/4801\/2014,NYMCX-263B),B\/Brisbane\/60\/2008-likestrain(B\/Brisbane\/60\/2008,wildtype)"
+        "A\/Singapore\/INFIMH-16-0019\/2016(H3N2)-likevirus(A\/Singapore\/INFIMH-16-0019\/2016,ReassortantIVR-186),A\/Michigan\/45\/2015(H1N1)pdm09-likestrain(A\/Michigan\/45\/2015,NYMCX-275),B\/Colorado\/06\/2017-likevirus(B\/Maryland\/15\/2016,ReassortantNYMCBX-69A)"
     ],
     "限制項目": "02輸　入",
     "申請商名稱": "1424601100  賽諾菲股份有限公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "F150256000  SANOFI PASTEUR S.A.",
+        "製造廠名稱": "F150256000  SANOFI PASTEUR",
         "製造廠廠址": "PARC INDUSTRIEL D&#39;INCARVILLE, BP.101, 27101(OR 27100), VAL DE REUIL CEDEX, FRANCE",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30022000008 人類醫藥用疫苗Vaccines for human medicine",
     "藥理治療分類": "",
@@ -45,24 +44,24 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "8012002477",
-            "成分名稱": "A\/California\/7\/2009 (H1N1)pdm09-like strain (A\/California\/7\/2009,NYMC X-179A)",
+            "成分代碼": "8012002468",
+            "成分名稱": "A\/Singapore\/INFIMH-16-0019\/2016 (H3N2)-like virus (A\/Singapore\/INFIMH-16-0019\/2016 , Reassortant IVR-186)",
             "含量描述": "",
             "含量": "15.0000000000",
             "單位": "ug haemagglutinin"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8012005780",
-            "成分名稱": "A\/Hong Kong\/4801\/2014 (H3N2)-like strain (A\/Hong Kong\/4801\/2014, NYMC X-263B)",
+            "成分代碼": "8012002490",
+            "成分名稱": "A\/Michigan\/45\/2015 (H1N1) pdm09 - like strain (A\/Michigan\/45\/2015, NYMC X-275)",
             "含量描述": "",
             "含量": "15.0000000000",
             "單位": "ug haemagglutinin"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8012006530",
-            "成分名稱": "B\/Brisbane\/60\/2008-like strain (B\/Brisbane\/60\/2008, wild type)",
+            "成分代碼": "8012006800",
+            "成分名稱": "B\/Colorado\/06\/2017-like virus (B\/Maryland\/15\/2016, Reassortant NYMC BX-69A)",
             "含量描述": "",
             "含量": "15.0000000000",
             "單位": "ug haemagglutinin"
@@ -70,12 +69,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "Leaflet_巴斯德流感疫苗314 ped_2016 17_Approval_clean_F-105-10-24.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000453&Seq=072&Type=9"
+            "title": "107.9.25 仿單--成人版+3歲以下兒童版+民眾版-107-09-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000453&Seq=074&Type=9"
         },
         {
-            "title": "Artwork_Vaxigirp_2016 2017_Pediatric-105-10-24.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000453&Seq=073&Type=8"
+            "title": "標籤-成人+兒童+中文-107-09-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000453&Seq=075&Type=8"
+        },
+        {
+            "title": "外盒 -成人+兒童-107-09-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000453&Seq=074&Type=8"
         }
     ]
 }

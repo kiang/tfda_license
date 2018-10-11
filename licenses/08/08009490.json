@@ -1,7 +1,7 @@
 {
     "code": "08009490",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08009490",
-    "time": "2016-11-25 03:37:24",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08009490",
+    "time": "2018-10-12 03:49:00",
     "許可證字號": "衛署粧輸字第009490號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,42 +20,41 @@
     "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
     "主成分略述": [
-        "AMINOPHENOLORTHO-,4-CHLORORESORCINOL,4-AMINO-2-HYDROXYTOLUENE,P-PHENYLENEDIAMINE,N-PHENYL-P-PHENYLENEDIAMINE,HCRED3"
+        "RESORCINOL(RESORCIN),P-METHYLAMINOPHENOLSULFATE,P-AMINOPHENOL,P-PHENYLENEDIAMINE,2-AMINO-3-HYDROXYPYRIDINE"
     ],
     "限制項目": "02輸　入",
     "申請商名稱": "0937217100  美宙企業有限公司",
     "主製造廠": {
         "主製造廠": "",
         "製造廠名稱": "C250047000  TECNA ITALIA SRL",
-        "製造廠廠址": "VIA CASALE SANTARELL, 49A\/51, 00040 ROMA, ITALY",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠廠址": "Via Ardeatina 2479, 00134 Santa Palomba-Pomezia Rome Italy",
+        "製造廠公司地址": ""
     },
-    "CCC號列": "33059020003 染髮劑Hair dyes",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035402",
-            "成分名稱": "AMINOPHENOL ORTHO-",
+            "成分代碼": "8428000500",
+            "成分名稱": "RESORCINOL (RESORCIN)",
             "含量描述": "",
-            "含量": "0.3000000000",
+            "含量": "0.0900000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200038910",
-            "成分名稱": "4-CHLORORESORCINOL",
-            "含量描述": "",
-            "含量": "0.5000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200039000",
-            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "成分代碼": "9200035411",
+            "成分名稱": "P-METHYLAMINOPHENOL SULFATE",
             "含量描述": "",
             "含量": "0.2000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200035440",
+            "成分名稱": "P-AMINOPHENOL",
+            "含量描述": "",
+            "含量": "0.5000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -63,21 +62,13 @@
             "成分代碼": "9400003200",
             "成分名稱": "P-PHENYLENEDIAMINE",
             "含量描述": "",
-            "含量": "0.5000000000",
+            "含量": "1.0000000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9400003280",
-            "成分名稱": "N-PHENYL-P-PHENYLENEDIAMINE",
-            "含量描述": "",
-            "含量": "0.2000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9602088300",
-            "成分名稱": "HC RED 3",
+            "成分代碼": "9900084800",
+            "成分名稱": "2-AMINO-3-HYDROXYPYRIDINE",
             "含量描述": "",
             "含量": "0.1000000000",
             "單位": "%(W\/W)"
@@ -86,7 +77,7 @@
     "仿單外盒": [
         {
             "title": "08009490-105-09-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08009490&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08009490&Seq=001&Type=8"
         }
     ]
 }

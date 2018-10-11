@@ -1,7 +1,7 @@
 {
     "code": "02024951",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024951",
-    "time": "2018-04-27 03:37:52",
+    "time": "2018-10-12 03:37:14",
     "許可證字號": "衛署藥輸字第024951號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -32,11 +32,28 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2808801510",
+            "成分名稱": "BUPRENORPHINE HYDROCHLORIDE",
+            "含量描述": "",
+            "含量": "2.1600000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2810000120",
+            "成分名稱": "NALOXONE HCL DIHYDRATE",
+            "含量描述": "",
+            "含量": "0.6100000000",
+            "單位": "MG"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "Proposed Suboxone PI (第二階段)-107-01-04.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024951&Seq=003&Type=9"
+            "title": "TR1342522-E-TRIND305923-2018-08-07-06-53-26-824-107-08-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024951&Seq=004&Type=9"
         },
         {
             "title": "Suboxone Tab_2mgCarton Artwork-104-09-09(廠商自行上傳).pdf",

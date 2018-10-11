@@ -1,7 +1,7 @@
 {
     "code": "42000232",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000232",
-    "time": "2015-08-22 05:28:23",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000232",
+    "time": "2018-10-12 03:09:05",
     "許可證字號": "衛署醫器陸輸字第000232號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,58 +13,56 @@
     "醫療器材級數": "第二等級",
     "通關簽審文件編號": "DHA04200023201",
     "中文品名": "合世電子血壓計",
-    "英文品名": "H&L Electronic Sphygmomanometer",
+    "英文品名": "H&amp;L Electronic Sphygmomanometer",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "HL888UT, HL888FA, HL888JA, HL888AH, HL 888BH。HL888GF，HL888IS，HL888UA，HL888CA。增加規格：HL888LA。",
+    "醫器規格": "HL888UT, HL888FA, HL888JA, HL888AH, HL 888BH。HL888GF，HL888IS，HL888UA，HL888CA。增加規格：HL888LA。\r\n註銷規格：HL888FA、HL888JA、HL888AH、HL888BH、HL888GF及HL888UA。",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "E心臟血管用裝置",
     "醫器次類別一": "E1130非侵入性血壓測量系統",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入",
-        "40大陸生產"
+    "主成分略述": [
+        ""
     ],
+    "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6231047293  合世生醫科技股份有限公司",
-    "申請商地址": "新北市中和區建一路186號9樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "M640572000  LIVING SCIENCE CO., LTD",
         "製造廠廠址": "NO.1428 XIANG JIANG ROAD SUZHOU NEW DISTRICT JIANGSU PROVINCE, CHINA",
         "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "420002320001-103-06-06.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000232&Seq=003&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000232&Seq=003&Type=9"
         },
         {
             "title": "42000232002___20120924.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000232&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000232&Seq=002&Type=9"
         },
         {
             "title": "42000232001___20120924.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000232&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000232&Seq=001&Type=9"
         },
         {
             "title": "420002320001-103-06-06.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000232&Seq=003&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000232&Seq=003&Type=8"
         },
         {
             "title": "42000232002___20120924.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000232&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000232&Seq=002&Type=8"
         },
         {
             "title": "42000232001___20120924.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000232&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000232&Seq=001&Type=8"
         }
     ]
 }

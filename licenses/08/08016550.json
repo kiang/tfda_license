@@ -1,7 +1,7 @@
 {
     "code": "08016550",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016550",
-    "time": "2015-08-24 13:20:24",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016550",
+    "time": "2018-10-12 03:26:41",
     "許可證字號": "衛署粧輸字第016550號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,22 +17,20 @@
     "用途": "防曬。",
     "劑型": "992霜劑",
     "包裝": "500公撮以下瓶裝 附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0708防晒面霜",
-    "": "",
-    "主成分略述": "TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE), ETHYLHEXYL METHOXYCINNAMATE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "TITANIUMDIOXIDE(EQTOTITANIUMOXIDE),ETHYLHEXYLMETHOXYCINNAMATE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "0930501100  美商雅詩蘭黛股份有限公司台灣分公司",
-    "申請商地址": "台北市信義區松高路9號19樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C050017000  BOBBI BROWN DIVISION OF ESTEE LAUDER N.V. (ELNV)",
         "製造廠廠址": "OEVEL-WESTERLO, NIJVERHEIDSSTRAAT 15, BELGIUM",
-        "製造廠公司地址": "",
-        "製造廠國別": "BELGIUM",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -114,6 +112,12 @@
             "含量描述": "",
             "含量": "7.4940000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08016550-2009-09-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016550&Seq=001&Type=9"
         }
     ]
 }

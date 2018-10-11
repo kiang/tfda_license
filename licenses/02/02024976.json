@@ -1,7 +1,7 @@
 {
     "code": "02024976",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024976",
-    "time": "2016-11-18 20:37:39",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024976",
+    "time": "2018-10-12 03:37:15",
     "許可證字號": "衛署藥輸字第024976號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,11 +28,19 @@
         "主製造廠": "",
         "製造廠名稱": "F200308000  SANDOZ PRIVATE LIMITED",
         "製造廠廠址": "PLOT NO. 8-A\/2 &amp; 8-B, TTC INDUSTRIAL AREA, KALWE BLOCK, VILLAGE-DIGHE, NAVI MUMBAI 400 708, INDIA",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "1225204000  裕利股份有限公司",
+            "製造廠廠址": "桃園市大園區和平里1鄰開和路91號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠(委託貼標及置入仿單)"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -43,34 +51,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Tablet-104-09-29(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024976&Seq=002&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "PI_TWI-170914-104-09-29(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024976&Seq=002&Type=9"
-        },
-        {
-            "title": "莫憂寧30mg&45mg仿單-104-06-01.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024976&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024976&Seq=002&Type=9"
         },
         {
             "title": "FB-104-09-29(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024976&Seq=005&Type=8"
-        },
-        {
-            "title": "莫憂寧30mg鋁箔-104-06-18.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024976&Seq=004&Type=8"
-        },
-        {
-            "title": "莫憂寧30mg外盒-104-06-18.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024976&Seq=003&Type=8"
-        },
-        {
-            "title": "莫憂寧30mg鋁箔-104-06-01.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024976&Seq=002&Type=8"
-        },
-        {
-            "title": "莫憂寧30mg外盒-104-06-01.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024976&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024976&Seq=005&Type=8"
         }
     ]
 }

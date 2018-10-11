@@ -1,7 +1,7 @@
 {
     "code": "52026206",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026206",
-    "time": "2017-12-29 03:30:59",
+    "time": "2018-10-12 03:39:30",
     "許可證字號": "衛部藥輸字第026206號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -32,6 +32,22 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "F200024000  SUN PHARMACEUTICAL INDUSTRIES LIMITED",
+            "製造廠廠址": "A-7\/A-8, M.I.D.C.,INDUSTRIAL AREA, AHMEDNAGAR-414 111,INDIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "INDIA",
+            "製程": "主成分(drug substance)製造廠"
+        },
+        {
+            "製造廠名稱": "F640087000  ZHEJIANG HISUN PHARMACEUTICAL CO., LTD.",
+            "製造廠廠址": "56 Binhai Road, Jiaojiang District, Taizhou City, Zhejiang, China",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "主成分(drug substance)製造廠"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -44,12 +60,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "Letrozole_PIL-104-09-30(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026206&Seq=003&Type=9"
+            "title": "PIL-ArtworkProof_CompID_12271_Round_2-107-05-15(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026206&Seq=004&Type=9"
         },
         {
-            "title": "Letrozole_Box1-104-09-30(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026206&Seq=004&Type=8"
+            "title": "Foil-ArtworkApprovals_CompID_52_reg_5-107-05-15(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026206&Seq=006&Type=8"
+        },
+        {
+            "title": "Carton-ArtworkProof_CompID_12270_Round_2-Signed-107-05-15(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026206&Seq=005&Type=8"
         }
     ]
 }

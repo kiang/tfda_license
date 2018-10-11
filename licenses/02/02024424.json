@@ -1,7 +1,7 @@
 {
     "code": "02024424",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024424",
-    "time": "2017-05-26 03:36:42",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024424",
+    "time": "2018-10-12 03:03:28",
     "許可證字號": "衛署藥輸字第024424號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "F470233000  FERRING  GMBH",
         "製造廠廠址": "WITTLAND 11, D-24109 KIEL  GERMANY",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30043900005 醫藥製劑，含有其他內分泌素者Medicaments, containing other hormones",
+    "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
         {
@@ -59,22 +58,38 @@
             "單位": ""
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "粉劑：白色至類白",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "020244240009-104-09-21(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024424&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "020244240001-106-02-10.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024424&Seq=006&Type=9"
+            "title": "MENOP75 (10's)-I-TW-01.01 (CN)-107-08-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024424&Seq=007&Type=9"
         },
         {
             "title": "020244240001-106-02-10.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024424&Seq=011&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024424&Seq=011&Type=8"
         },
         {
             "title": "020244240002-106-02-10.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024424&Seq=010&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024424&Seq=010&Type=8"
         },
         {
             "title": "020244240001-106-02-10.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024424&Seq=009&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024424&Seq=009&Type=8"
         }
     ]
 }

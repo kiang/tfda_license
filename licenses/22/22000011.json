@@ -1,7 +1,7 @@
 {
     "code": "22000011",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=22000011",
-    "time": "2017-01-27 03:29:38",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=22000011",
+    "time": "2018-10-12 03:38:41",
     "許可證字號": "罕菌疫輸字第000011號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,19 +28,11 @@
         "主製造廠": "",
         "製造廠名稱": "F460772000  SHIRE HUMAN GENETIC THERAPIES, Inc.",
         "製造廠廠址": "205 ALEWIFE BROOK PARKWAY, CAMBRIDGE, MA 02138, USA",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
-        {
-            "製造廠名稱": "F460348100  GENZYME CORPORATION",
-            "製造廠廠址": "500 KENDALL ST., CAMBRIDGE, MASSACHUSETTS, 02142, USA",
-            "製造廠公司地址": "",
-            "製造廠國別": "UNITED STATES",
-            "製程": "許可證持有者"
-        },
         {
             "製造廠名稱": "F460788000  Genzyme Corporation",
             "製造廠廠址": "11 Forbes Road, Northborough, MA 01532, USA",
@@ -76,12 +68,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "移黏寶酶靜脈輸液Elaprase (Idursulfase) Injection中文仿單-104-10-07.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=22000011&Seq=004&Type=9"
+            "title": "Elaprase_Leaflet_USPI201306 Vetter_647792-107-02-08(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=22000011&Seq=006&Type=9"
         },
         {
-            "title": "Elaprase - Carton-104-09-23(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=22000011&Seq=002&Type=8"
+            "title": "移黏寶酶靜脈輸液Elaprase (Idursulfase) Injection中文仿單-104-10-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=22000011&Seq=004&Type=9"
+        },
+        {
+            "title": "Elaprase_Box_Vetter_647790-107-02-08(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=22000011&Seq=004&Type=8"
         }
     ]
 }

@@ -1,12 +1,12 @@
 {
     "code": "01042620",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01042620",
-    "time": "2016-11-25 03:25:26",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01042620",
+    "time": "2018-10-12 03:53:56",
     "許可證字號": "衛署藥製字第042620號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/10\/20",
+    "有效日期": "112\/10\/20",
     "發證日期": "88\/01\/12",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "0603820300  成大藥品股份有限公司",
         "製造廠廠址": "台南市麻豆區南勢里關帝廟８０號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -51,30 +50,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "17.5*7.5mm",
+        "特殊劑型": "",
+        "顏色": "白色",
+        "特殊氣味": "",
+        "刻痕": "有",
+        "形狀": "長方形",
+        "標記一": "中間有一橫線",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "CA-235成大-普痛寧加強錠-1000粒瓶裝(104.09.24)-104-09-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042620&Seq=003&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "CA-235成大-普痛寧加強錠(104.12.08)(說)-104-12-18(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042620&Seq=005&Type=9"
-        },
-        {
-            "title": "CA-235成大-普痛寧加強錠-仿單(104.03.30)-104-04-13.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042620&Seq=003&Type=9"
-        },
-        {
-            "title": "010426200002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042620&Seq=002&Type=9"
-        },
-        {
-            "title": "010426200001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042620&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042620&Seq=005&Type=9"
         },
         {
             "title": "CA-235成大-普痛寧加強錠-標籤(104.09.18)-104-09-25(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042620&Seq=002&Type=8"
-        },
-        {
-            "title": "CA-235成大-普通寧加強錠(10T)-花盒(104.09.18)-104-09-19(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042620&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042620&Seq=002&Type=8"
         }
     ]
 }

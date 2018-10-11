@@ -1,7 +1,7 @@
 {
     "code": "56029212",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029212",
-    "time": "2017-01-27 03:24:29",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029212",
+    "time": "2018-10-12 03:46:52",
     "許可證字號": "衛部醫器輸字第029212號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,13 +15,13 @@
     "中文品名": "“多尼爾”體外震波碎石機",
     "英文品名": "“Dornier” Extracorporeal shock wave Lithotripter",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "Dornier Compact Delta II, Dornier Gemini",
+    "醫器規格": "Dornier Compact Delta II, Dornier Gemini。新增規格:Dornier Delta III。",
     "劑型": "",
     "包裝": "",
     "標籤、仿單及包裝加註": "",
     "": "",
     "醫器主類別一": "H胃腸病學-泌尿學科用裝置",
-    "醫器次類別一": "H5980胃腸管及其附件",
+    "醫器次類別一": "H5990體外震波碎石器",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
@@ -37,17 +37,24 @@
         "製造廠公司地址": "",
         "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "560292120001-107-08-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56029212&Seq=002&Type=9"
+        },
+        {
             "title": "060292120001-105-12-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56029212&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56029212&Seq=001&Type=9"
+        },
+        {
+            "title": "560292120001-107-08-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56029212&Seq=002&Type=8"
         },
         {
             "title": "060292120002-105-12-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56029212&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56029212&Seq=001&Type=8"
         }
     ]
 }

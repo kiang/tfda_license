@@ -1,7 +1,7 @@
 {
     "code": "07005138",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07005138",
-    "time": "2018-08-31 04:35:31",
+    "time": "2018-10-12 03:14:03",
     "許可證字號": "衛署粧製字第005138號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "化粧品類別": "0714防晒化粧用品",
     "主成分略述": [
-        "ZINCOXIDE,TITANIUMDIOXIDE(EQTOTITANIUMOXIDE)"
+        "ZINCOXIDE"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "0834001100  妮傲絲翠股份有限公司",
@@ -40,20 +40,16 @@
             "含量描述": "",
             "含量": "10.0000000000",
             "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9602020800",
-            "成分名稱": "TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)",
-            "含量描述": "",
-            "含量": "5.5000000000",
-            "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
         {
             "title": "07005138-2009-06-19.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005138&Seq=001&Type=9"
+        },
+        {
+            "title": "07005138-107-09-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005138&Seq=001&Type=8"
         }
     ]
 }

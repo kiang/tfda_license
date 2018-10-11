@@ -1,7 +1,7 @@
 {
     "code": "51058107",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058107",
-    "time": "2018-08-31 03:39:29",
+    "time": "2018-10-12 03:04:11",
     "許可證字號": "衛部藥製字第058107號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
     "主成分略述": [
-        "CARBOCYSTEINE(S-CARBOXYMETHYLCYSTEINE)"
+        "CARBOCYSTEINE(S-CARBOXYMETHYLCYSTEINE),ETHANOL(EQTOETHYLALCOHOL)(EQTOALCOHOL)"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "0406914200  元宙化學製藥股份有限公司",
@@ -40,9 +40,41 @@
             "含量描述": "",
             "含量": "125.0000000000",
             "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8436000100",
+            "成分名稱": "ETHANOL ( EQ TO ETHYL ALCOHOL) (EQ TO ALCOHOL)",
+            "含量描述": "q.s(不存在最終成品)",
+            "含量": "",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "4800000600",
+            "成分名稱": "CARBOCYSTEINE (S-CARBOXYMETHYL CYSTEINE)",
+            "含量描述": "",
+            "含量": "125.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8436000100",
+            "成分名稱": "ETHANOL ( EQ TO ETHYL ALCOHOL) (EQ TO ALCOHOL)",
+            "含量描述": "q.s(不存在最終成品)",
+            "含量": "",
+            "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "樂清痰說明書-橘子-107-09-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058107&Seq=005&Type=9"
+        },
+        {
+            "title": "樂清痰說明書-草莓-107-09-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058107&Seq=004&Type=9"
+        },
         {
             "title": "樂清痰說明書-106-12-27.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058107&Seq=003&Type=9"
@@ -54,6 +86,42 @@
         {
             "title": "樂清痰顆粒-說明書-103-03-26.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058107&Seq=001&Type=9"
+        },
+        {
+            "title": "樂清痰鋁箔袋-橘子-107-09-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058107&Seq=018&Type=8"
+        },
+        {
+            "title": "樂清痰鋁箔袋-草莓-107-09-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058107&Seq=017&Type=8"
+        },
+        {
+            "title": "樂清痰標籤-橘子-107-09-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058107&Seq=016&Type=8"
+        },
+        {
+            "title": "樂清痰標籤-草莓-107-09-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058107&Seq=015&Type=8"
+        },
+        {
+            "title": "樂清痰外盒6B-橘子-107-09-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058107&Seq=014&Type=8"
+        },
+        {
+            "title": "樂清痰外盒(大)-橘子-107-09-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058107&Seq=013&Type=8"
+        },
+        {
+            "title": "樂清痰外盒(大)-草莓-107-09-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058107&Seq=012&Type=8"
+        },
+        {
+            "title": "樂清痰(立國)外盒6B-草莓-107-09-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058107&Seq=011&Type=8"
+        },
+        {
+            "title": "樂清痰(民崧)外盒6B-草莓-107-09-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058107&Seq=010&Type=8"
         },
         {
             "title": "樂清痰鋁箔袋-106-12-27.pdf",

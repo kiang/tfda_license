@@ -1,7 +1,7 @@
 {
     "code": "51058410",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058410",
-    "time": "2016-11-25 03:28:59",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058410",
+    "time": "2018-10-12 03:04:18",
     "許可證字號": "衛部藥製字第058410號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "6103030026  國嘉製藥工業股份有限公司幼獅三廠",
         "製造廠廠址": "臺中市大甲區日南里工十路2號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -43,26 +42,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "直徑6.5mm 厚3.4mm",
+        "特殊劑型": "",
+        "顏色": "白色",
+        "特殊氣味": "",
+        "刻痕": "有",
+        "形狀": "圓扁形",
+        "標記一": "一面有中線印有K及J",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "PT-115 利托糖錠30mg-104-09-24(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058410&Seq=002&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "PT-115(加) 利托糖錠30mg-1.0版(雙面)-104-09-15(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058410&Seq=002&Type=9"
-        },
-        {
-            "title": "國嘉-利托糖30.仿單-103-12-15.docx",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058410&Seq=001&Type=9"
+            "title": "PT-115(加) 利托糖錠30mg-1.2版(雙面)-106-06-07(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058410&Seq=004&Type=9"
         },
         {
             "title": "PT-115 利托糖-瓶-104-11-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058410&Seq=003&Type=8"
-        },
-        {
-            "title": "1031117-國嘉-利托糖錠30毫克(Lituotang)PTP-02-103-12-15.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058410&Seq=002&Type=8"
-        },
-        {
-            "title": "(6).利托糖標籤-103-12-15.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058410&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058410&Seq=003&Type=8"
         }
     ]
 }

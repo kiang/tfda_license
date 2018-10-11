@@ -1,12 +1,12 @@
 {
     "code": "02022014",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022014",
-    "time": "2016-11-18 20:07:44",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022014",
+    "time": "2018-10-12 03:36:31",
     "許可證字號": "衛署藥輸字第022014號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/12\/19",
+    "有效日期": "111\/12\/19",
     "發證日期": "86\/12\/19",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -28,12 +28,18 @@
         "主製造廠": "",
         "製造廠名稱": "F070037000  GLAXO SMITH KLINE INC.",
         "製造廠廠址": "7333 MISSISSAUGA ROAD NORTH MISSISSAUGA, ONTARIO CANADA L5N 6L4",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049072004 抗人類免疫缺乏病毒感染用藥Drugs for anti human immunodeficiency virus (HIV) infections",
     "藥理治療分類": "",
     "次製造廠": [
+        {
+            "製造廠名稱": "6132061151  裕利股份有限公司",
+            "製造廠廠址": "桃園市大園區和平里1鄰開和路91號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠(委託貼標及置入仿單)"
+        },
         {
             "製造廠名稱": "F070087000  ViiV Healthcare ULC",
             "製造廠廠址": "8455 Route Transcanadienne Montreal, Quebec, Canada H4S 1Z1",
@@ -52,50 +58,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "6cm*16.3cm瓶",
+        "特殊劑型": "",
+        "顏色": "澄清淡黃到淡粉色溶液",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "020220140003-104-09-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022014&Seq=003&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "Retrovir Syrup L842-303-05_P8425-104-09-15(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022014&Seq=007&Type=9"
+            "title": "020220140001-107-08-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022014&Seq=010&Type=9"
         },
         {
-            "title": "0202201400002-103-01-28.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022014&Seq=006&Type=9"
-        },
-        {
-            "title": "0202201400001-103-01-28.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022014&Seq=005&Type=9"
-        },
-        {
-            "title": "020220140003___20121029.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022014&Seq=004&Type=9"
-        },
-        {
-            "title": "020220140002___20121029.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022014&Seq=003&Type=9"
-        },
-        {
-            "title": "020220140001___20121029.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022014&Seq=002&Type=9"
-        },
-        {
-            "title": "020220140001___20100729.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022014&Seq=001&Type=9"
-        },
-        {
-            "title": "Retrovir Syrup K842-303-01-104-09-25(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022014&Seq=004&Type=8"
-        },
-        {
-            "title": "Retrovir Syrup M842-303-03-104-09-25(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022014&Seq=003&Type=8"
-        },
-        {
-            "title": "020220140002___20100729.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022014&Seq=002&Type=8"
-        },
-        {
-            "title": "020220140001___20100729.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022014&Seq=001&Type=8"
+            "title": "02022014_Retrovir Syrup_C-107-06-05(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022014&Seq=005&Type=8"
         }
     ]
 }

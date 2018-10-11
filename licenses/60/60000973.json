@@ -1,7 +1,7 @@
 {
     "code": "60000973",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60000973",
-    "time": "2016-10-28 03:44:14",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60000973",
+    "time": "2018-10-12 03:40:00",
     "許可證字號": "衛部菌疫輸字第000973號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,7 +14,7 @@
     "通關簽審文件編號": "DHA06000097303",
     "中文品名": "癌即瓦注射劑",
     "英文品名": "Gazyva solution for infusion",
-    "適應症": "1.\t慢性淋巴球性白血病:\r\n與chlorambucil併用，適用於先前未曾接受過治療，且具有合併症(comorbidities)而不適合接受含fludarabine治療的CD20陽性慢性淋巴球性白血病(CLL)患者。\r\n2.\t濾泡性淋巴瘤:\r\n與bendamustine併用並續以GAZYVA單藥維持治療，適用於先前曾接受含rituximab治療無效或復發的濾泡性淋巴瘤(FL)患者。",
+    "適應症": "1.\t慢性淋巴球性白血病\r\n與chlorambucil 併用，適用於先前未曾接受過治療，且具有合併症(comorbidities)而不適合接受含fludarabine治療的CD20陽性慢性淋巴球性白血病(CLL)患者。\r\n\r\n2.\t濾泡性淋巴瘤\r\n與化療藥物併用作為誘導治療，並續以Gazyva單藥維持治療，適用於先前未曾接受過治療的濾泡性淋巴瘤(FL)患者。\r\n與bendamustine併用並續以Gazyva單藥維持治療，適用於先前曾接受含rituximab治療無效或復發的濾泡性淋巴瘤(FL)患者。",
     "劑型": "27D注射液劑",
     "包裝": "玻璃小瓶裝 100支以下盒裝",
     "標籤、仿單及包裝加註": "",
@@ -28,12 +28,18 @@
         "主製造廠": "",
         "製造廠名稱": "F470261000  ROCHE DIAGNOSTICS GMBH",
         "製造廠廠址": "SANDHOFER STRASSE 116, 68305 MANNHEIM, GERMANY",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
+        {
+            "製造廠名稱": "1225204000  裕利股份有限公司",
+            "製造廠廠址": "桃園市大園區和平里1鄰開和路91號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠(委託貼標及置入仿單)"
+        },
         {
             "製造廠名稱": "F430257000  F. HOFFMANN-LA ROCHE LTD.",
             "製造廠廠址": "WURMISWEG, CH-4303 KAISERAUGST, SWITZERLAND",
@@ -61,24 +67,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "GAZYVA Chinese PI 2016-105-08-16.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000973&Seq=002&Type=9"
-        },
-        {
-            "title": "Gazyva仿單-104-05-28.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000973&Seq=001&Type=9"
+            "title": "000973中文仿單-107-08-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000973&Seq=004&Type=9"
         },
         {
             "title": "Gazyva針劑標籤-104-05-28.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000973&Seq=003&Type=8"
-        },
-        {
-            "title": "Gazyva外盒-104-05-28.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000973&Seq=002&Type=8"
-        },
-        {
-            "title": "Gazyva中文標籤-104-05-28.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000973&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000973&Seq=003&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "02020882",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02020882",
-    "time": "2017-05-26 03:36:13",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02020882",
+    "time": "2018-10-12 03:36:23",
     "許可證字號": "衛署藥輸字第020882號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "F470157200  Catalent Germany Eberbach GmbH",
         "製造廠廠址": "GAMMELSBACHER STRASSE 2-POSTFACH 1243 69412 EBERBACH (BADEN) GERMANY",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049071005 抗癌藥Anti-cancer preparations",
     "藥理治療分類": "",
@@ -52,14 +51,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "不透明粉紅色",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "橢圓形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "BMST Vepesid 50mg Spec-03-104-07-31(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020882&Seq=002&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "3.1 AUPI 17-Feb-2015_Chinese_20170214_TFDA approve-106-03-08.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020882&Seq=008&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020882&Seq=008&Type=9"
         },
         {
             "title": "020208820001_滅必治軟膠囊50毫克_標簽-105-07-25.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020882&Seq=006&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020882&Seq=006&Type=8"
         }
     ]
 }

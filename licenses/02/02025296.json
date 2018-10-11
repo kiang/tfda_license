@@ -1,7 +1,7 @@
 {
     "code": "02025296",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025296",
-    "time": "2017-06-16 03:27:25",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025296",
+    "time": "2018-10-12 03:37:24",
     "許可證字號": "衛署藥輸字第025296號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "F260537000  OTSUKA PHARMACEUTICAL CO., LTD. TOKUSHIMA ITANO FACTORY",
         "製造廠廠址": "13 MINAMI, SHISHITOKI, MATSUTANI ITANO-CHO, ITANO-GUN, TOKUSHIMA, 779-0195, JAPAN",
-        "製造廠公司地址": "2-9, KANDA TSUKASAMACHI, CHIYODA-KU, TOKYO,  JAPAN",
-        "": ""
+        "製造廠公司地址": "2-9, KANDA TSUKASAMACHI, CHIYODA-KU, TOKYO,  JAPAN"
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "次製造廠": [
         {
@@ -52,18 +51,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "三角形、微凸錠劑",
+        "特殊劑型": "",
+        "顏色": "藍色",
+        "特殊氣味": "",
+        "刻痕": "無",
+        "形狀": "",
+        "標記一": "OTSUKA 及 15",
+        "標記二": "無"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "伸舒康-尺-104-09-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025296&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "Samsca 15mg PI-106-04-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025296&Seq=006&Type=9"
+            "title": "SAMSCA_Chinese PI_final-107-09-04.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025296&Seq=001&Type=9"
         },
         {
-            "title": "SAMSCA_Chinese PI_final_20140508-103-05-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025296&Seq=005&Type=9"
-        },
-        {
-            "title": "伸舒康15mg -個裝-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025296&Seq=004&Type=8"
+            "title": "S15鋁箔-106-08-10(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025296&Seq=005&Type=8"
         }
     ]
 }

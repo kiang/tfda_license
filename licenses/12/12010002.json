@@ -1,7 +1,7 @@
 {
     "code": "12010002",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12010002",
-    "time": "2015-08-22 17:51:19",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12010002",
+    "time": "2018-10-12 03:38:23",
     "許可證字號": "內衛藥製字第010002號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,26 +13,24 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY01201000203",
     "中文品名": "〝大豐〞維他命丙注射液",
-    "英文品名": "VITACIN INJECTION \"T.F\"",
+    "英文品名": "VITACIN INJECTION &quot;T.F&quot;",
     "適應症": "壞血病、齒齦出血、維他命Ｃ缺乏症",
     "劑型": "270注射劑",
     "包裝": "安瓿 瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "ASCORBIC ACID (VIT C)",
-    "限制項目": [
-        "09委託製造"
+    "主成分略述": [
+        "ASCORBICACID(VITC)"
     ],
+    "限制項目": "09委託製造",
     "申請商名稱": "0306811200  大豐製藥股份有限公司",
-    "申請商地址": "彰化市延平里岸頭巷１１號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0306811300  大豐製藥股份有限公司",
-        "製造廠廠址": "彰化市延平里岸頭巷１１號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠廠址": "彰化縣彰化市延平里岸頭巷11號",
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30045000009 含有維他命或第２９３６節產品之其他醫藥製劑Other medicaments containing vitamins or other products of heading 29.36",
+    "CCC號列": "30045000009 其他醫藥製劑，含有維他命或第２９３６節之其他產品Other medicaments, containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -46,20 +44,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "010100020001-2014-03-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12010002&Seq=002&Type=9"
+            "title": "010100020001-104-09-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12010002&Seq=003&Type=9"
         },
         {
-            "title": "120100020001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12010002&Seq=001&Type=9"
-        },
-        {
-            "title": "010100020003-2014-03-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12010002&Seq=002&Type=8"
-        },
-        {
-            "title": "010100020002-2014-03-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12010002&Seq=001&Type=8"
+            "title": "維命丙注 2x100A-104-11-20(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12010002&Seq=003&Type=8"
         }
     ]
 }

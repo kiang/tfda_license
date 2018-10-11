@@ -1,7 +1,7 @@
 {
     "code": "07005189",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07005189",
-    "time": "2016-11-19 02:41:07",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07005189",
+    "time": "2018-10-12 04:03:35",
     "許可證字號": "衛署粧製字第005189號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
     "主成分略述": [
-        "HYDROGENPEROXIDE,RESORCINOL(RESORCIN),AMINOPHENOLMETA-(EQTOM-AMINOPHENOL),P-PHENYLENEDIAMINE"
+        "HYDROGENPEROXIDE,RESORCINOL(RESORCIN),META-AMINOPHENOL(EQTOM-AMINOPHENOL),P-PHENYLENEDIAMINE"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "5836100548  林之林科技股份有限公司",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "5836100548  林之林科技股份有限公司",
         "製造廠廠址": "台中市大雅區二和村雅潭路296之13號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -45,7 +44,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9200035403",
-            "成分名稱": "AMINOPHENOL META- (EQ TO M-AMINOPHENOL)",
+            "成分名稱": "META-AMINOPHENOL (EQ TO M-AMINOPHENOL)",
             "含量描述": "",
             "含量": "0.3500000000",
             "單位": "%(W\/W)"
@@ -77,7 +76,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9200035403",
-            "成分名稱": "AMINOPHENOL META- (EQ TO M-AMINOPHENOL)",
+            "成分名稱": "META-AMINOPHENOL (EQ TO M-AMINOPHENOL)",
             "含量描述": "",
             "含量": "0.2100000000",
             "單位": "%(W\/W)"
@@ -109,7 +108,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9200035403",
-            "成分名稱": "AMINOPHENOL META- (EQ TO M-AMINOPHENOL)",
+            "成分名稱": "META-AMINOPHENOL (EQ TO M-AMINOPHENOL)",
             "含量描述": "",
             "含量": "0.2500000000",
             "單位": "%(W\/W)"
@@ -134,7 +133,11 @@
     "仿單外盒": [
         {
             "title": "07005189-2010-03-29.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005189&Seq=009&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005189&Seq=009&Type=9"
+        },
+        {
+            "title": "070051890002-107-06-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005189&Seq=003&Type=8"
         }
     ]
 }

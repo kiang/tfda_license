@@ -1,7 +1,7 @@
 {
     "code": "52R00004",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52R00004",
-    "time": "2015-10-30 04:36:06",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52R00004",
+    "time": "2018-10-12 03:04:53",
     "許可證字號": "衛部藥輸字第R00004號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,21 +17,18 @@
     "適應症": "甲狀腺攝影、輸尿管逆流攝影、血池攝影",
     "劑型": "270注射劑",
     "包裝": "150~8000mCi鉛筒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "MOLYBDATE (CONTAINING MO-99)",
-    "限制項目": [
-        "02輸入",
-        "15輸入須附同意書（每批輸入應附原子能委員會核准輸入證明書）"
+    "主成分略述": [
+        "MOLYBDATE(CONTAININGMO-99)"
     ],
+    "限制項目": "02輸　入 15輸入須附同意書（每批輸入應附原子能委員會核准輸入證明書）",
     "申請商名稱": "6131061700  士宣生技股份有限公司",
-    "申請商地址": "新北市新莊區後港一路141號1樓及143號1樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F240044000  SOREQ NUCLEAR RESEARCH CENTER",
         "製造廠廠址": "YAVINE 81800, ISRAEL",
-        "製造廠公司地址": "",
-        "製造廠國別": "ISRAEL",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -47,16 +44,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "Tc-99m 中文仿單-104-09-03.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52R00004&Seq=001&Type=9"
+            "title": "Tc-99m 中文仿單-105-01-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52R00004&Seq=002&Type=9"
         },
         {
-            "title": "外盒標籤-104-09-03.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52R00004&Seq=002&Type=8"
-        },
-        {
-            "title": "外盒-104-09-03.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52R00004&Seq=001&Type=8"
+            "title": "外盒-105-01-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52R00004&Seq=003&Type=8"
         }
     ]
 }

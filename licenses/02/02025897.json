@@ -1,7 +1,7 @@
 {
     "code": "02025897",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025897",
-    "time": "2018-02-23 03:20:11",
+    "time": "2018-10-12 03:03:43",
     "許可證字號": "衛署藥輸字第025897號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,7 +16,7 @@
     "英文品名": "Irbesartan Sandoz 300mg Film Coated Tablets",
     "適應症": "本態性高血壓。治療併有高血壓及第二型糖尿病患者的高血壓及糖尿病性腎病變。",
     "劑型": "116膜衣錠",
-    "包裝": "2-1000粒AL-AL鋁箔盒裝 2-1000粒AL\/PVC-PVDC 鋁箔盒裝 2-1000粒塑膠瓶裝(HDPE)",
+    "包裝": "2-1000粒AL-AL鋁箔盒裝",
     "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
     "主成分略述": [
@@ -32,6 +32,15 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "F530005000  LEK PHARMACEUTICALS D.D. PACKAGING CENTER LENDAVA",
+            "製造廠廠址": "TRIMLINI 2D, SI-9220 LENDAVA, SLOVENIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "SLOVENIA",
+            "製程": "包裝"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -44,12 +53,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "爾本沙丁山德士膜衣錠300毫克-仿單-106-12-04.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025897&Seq=003&Type=9"
+            "title": "Irbesartan FCT_PI_TWI-190718-107-09-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025897&Seq=004&Type=9"
         },
         {
-            "title": "Irbesartan 300mg_FB-106-01-18(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025897&Seq=004&Type=8"
+            "title": "Irbesartan FCT 300mg_FL-107-09-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025897&Seq=006&Type=8"
+        },
+        {
+            "title": "Irbesartan FCT 300mg_FB-107-09-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025897&Seq=005&Type=8"
         }
     ]
 }

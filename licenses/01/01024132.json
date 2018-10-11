@@ -1,38 +1,36 @@
 {
     "code": "01024132",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01024132",
-    "time": "2016-02-26 04:31:30",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01024132",
+    "time": "2018-10-12 03:17:15",
     "許可證字號": "衛署藥製字第024132號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/08\/28",
+    "有效日期": "112\/08\/28",
     "發證日期": "70\/08\/28",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102413202",
-    "中文品名": "\"中國化學\" 安蒙西林膠囊500毫克",
+    "中文品名": "&quot;中國化學&quot; 安蒙西林膠囊500毫克",
     "英文品名": "AMOXICILLIN CAPSULES 500MG",
     "適應症": "葡萄球菌、鏈球菌、肺球雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症",
     "劑型": "130膠囊劑",
     "包裝": "100,200,500,1000粒盒裝 100,200,500,1000粒瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "AMOXYCILLIN (TRIHYDRATE)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "AMOXYCILLIN(TRIHYDRATE)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0402609200  中國化學製藥股份有限公司台中工廠",
-    "申請商地址": "台中市西屯區工業區１５路１０號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0402609300  中國化學製藥股份有限公司台中工廠",
         "製造廠廠址": "台中市西屯區工業區１５路１０號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30041010104 人用醫藥製劑，含青黴素類或具有青黴素酸結構之衍生物者Medicaments, containing penicillins or derivatives thereof,with a penicillinic acid structure, for human use",
+    "CCC號列": "30041010104 人用醫藥製劑，含青黴素類或具有青黴素酸結構之衍生物者Medicaments, containing penicillins or derivatives thereof,with a penicillanic acid structure, for human use",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -56,8 +54,14 @@
     },
     "藥物辨識外觀圖片": [
         {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024132&Seq=137&Type=10"
+            "title": "01024132.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024132&Seq=137&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "A024132 In-104-09-24(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01024132&Seq=001&Type=9"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "92000706",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000706",
-    "time": "2015-12-18 06:10:25",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000706",
+    "time": "2018-10-12 03:47:20",
     "許可證字號": "衛部醫器陸輸字第000706號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,37 +18,35 @@
     "醫器規格": "WATO EX-55, WATO EX-65\r\n以下空白",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "D麻醉學科用裝置",
     "醫器次類別一": "D5160麻醉或止痛氣體供應機",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入",
-        "40大陸生產"
+    "主成分略述": [
+        ""
     ],
+    "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "1234401100  博宣寧股份有限公司",
-    "申請商地址": "台北市內湖區瑞光路358巷30弄8號3樓之1",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "M640813000  SHENZHEN MINDRAY BIO-MEDICAL ELECTRONICS CO., LTD.",
-        "製造廠廠址": "BUILDING 9-13, BAIWANGXIN HIGH-TECH INDUSTRIAL PARK, BAIMANG, XILI TOWN, NANSHAN, SHENZHEN 518108, CHINA",
+        "製造廠廠址": "Mindray Building, Keji 12th Road South, Hi-tech Industrial Park, Nanshan, Shenzhen 518057, China",
         "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "920007060001-104-11-16.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000706&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000706&Seq=001&Type=9"
         },
         {
             "title": "920007060002-104-11-16.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000706&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000706&Seq=001&Type=8"
         }
     ]
 }

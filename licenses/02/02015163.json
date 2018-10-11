@@ -1,11 +1,11 @@
 {
     "code": "02015163",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02015163",
-    "time": "2016-11-18 18:55:11",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02015163",
+    "time": "2018-10-12 03:15:36",
     "許可證字號": "衛署藥輸字第015163號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "107\/09\/12",
+    "註銷理由": "公司歇業",
     "有效日期": "108\/06\/10",
     "發證日期": "75\/06\/13",
     "許可證種類": "製　劑",
@@ -22,16 +22,15 @@
     "主成分略述": [
         "NAPHAZOLINEHCL,CHONDROITINSULFATESODIUM(EQTOSODIUMCHONDROITINSULFATE),TAURINE(EQTO2-AMINOETHANESULFONICACID),ZINCSULFATE"
     ],
-    "限制項目": "02輸　入",
+    "限制項目": "02輸　入 1Q不得輸入",
     "申請商名稱": "2400301100  鑫鑫股份有限公司",
     "主製造廠": {
         "主製造廠": "",
         "製造廠名稱": "F260499000  NITTO MEDIC CO., LTD.",
         "製造廠廠址": "1-14-1 YASUUCHI, YATSUOMACHI, TOYAMASHI, TOYAMA  JAPAN",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "次製造廠": [
         {
@@ -47,7 +46,7 @@
             "成分類別": "主成分",
             "成分代碼": "1212001910",
             "成分名稱": "NAPHAZOLINE HCL",
-            "含量描述": "0.03",
+            "含量描述": "",
             "含量": "0.0300000000",
             "單位": "MG"
         },
@@ -55,7 +54,7 @@
             "成分類別": "主成分",
             "成分代碼": "2406000310",
             "成分名稱": "CHONDROITIN SULFATE SODIUM (EQ TO SODIUM CHONDROITIN SULFATE )",
-            "含量描述": "1.50",
+            "含量描述": "",
             "含量": "1.5000000000",
             "單位": "MG"
         },
@@ -63,7 +62,7 @@
             "成分類別": "主成分",
             "成分代碼": "9200000900",
             "成分名稱": "TAURINE (EQ TO 2-AMINOETHANE SULFONIC ACID)",
-            "含量描述": "1.00",
+            "含量描述": "",
             "含量": "1.0000000000",
             "單位": "MG"
         },
@@ -71,7 +70,7 @@
             "成分類別": "主成分",
             "成分代碼": "9200010600",
             "成分名稱": "ZINC SULFATE",
-            "含量描述": "1.00",
+            "含量描述": "",
             "含量": "1.0000000000",
             "單位": "MG"
         }
@@ -79,19 +78,11 @@
     "仿單外盒": [
         {
             "title": "衛署藥輸字第015163號_安明眼藥水仿單1-105-02-26(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015163&Seq=002&Type=9"
-        },
-        {
-            "title": "安明眼藥水仿單-103-04-22.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015163&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015163&Seq=002&Type=9"
         },
         {
             "title": "衛署藥輸字第015163號_安明眼藥水標籤-104-11-03(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015163&Seq=002&Type=8"
-        },
-        {
-            "title": "衛署藥輸字第015163號_安明眼藥水外盒-104-10-19(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015163&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015163&Seq=002&Type=8"
         }
     ]
 }

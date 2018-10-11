@@ -1,7 +1,7 @@
 {
     "code": "08012061",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08012061",
-    "time": "2018-05-25 03:55:32",
+    "time": "2018-10-12 03:49:05",
     "許可證字號": "衛署粧輸字第012061號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,14 +20,14 @@
     "標籤、仿單及包裝加註": "",
     "化粧品類別": "0711防晒乳液",
     "主成分略述": [
-        "BUTYLMETHOXYDIBENZOYLMETHANE,PHENYLBENZIMIDAZOLESULFONICACID,TITANIUMDIOXIDE(EQTOTITANIUMOXIDE),ETHYLHEXYLMETHOXYCINNAMATE"
+        "BUTYLMETHOXYDIBENZOYLMETHANE,PHENYLBENZIMIDAZOLESULFONICACID,ETHYLHEXYLMETHOXYCINNAMATE"
     ],
     "限制項目": "02輸　入",
     "申請商名稱": "1436001100  榮懋興業有限公司",
     "主製造廠": {
         "主製造廠": "",
         "製造廠名稱": "C150082100  COSMETIC RESEARCH GROUP",
-        "製造廠廠址": "LES ALGORITHMES, BAT. A, 2000 ROUTE DES LUCIOLES, B.P. 29 06901 SOPHIA ANTIPOLIS, FRANCE",
+        "製造廠廠址": "1241, 1&#232;re Avence, 06510 Carros, France",
         "製造廠公司地址": ""
     },
     "": "",
@@ -51,14 +51,6 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9602020800",
-            "成分名稱": "TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)",
-            "含量描述": "",
-            "含量": "2.8000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "9900071200",
             "成分名稱": "ETHYLHEXYL METHOXYCINNAMATE",
             "含量描述": "",
@@ -68,8 +60,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "080120610001.jpg",
+            "title": "080120610001.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08012061&Seq=001&Type=9"
+        },
+        {
+            "title": "08012061-107-08-29.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08012061&Seq=001&Type=8"
         }
     ]
 }

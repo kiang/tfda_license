@@ -1,12 +1,12 @@
 {
     "code": "01045350",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01045350",
-    "time": "2017-02-24 03:12:01",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01045350",
+    "time": "2018-10-12 03:34:43",
     "許可證字號": "衛署藥製字第045350號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/06\/30",
+    "有效日期": "112\/01\/24",
     "發證日期": "92\/01\/24",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -26,12 +26,11 @@
     "申請商名稱": "6217038952  大裕生技興業有限公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "0402211300  中美兄弟製藥股份有限公司",
-        "製造廠廠址": "彰化市東芳里彰鹿路１０６號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠名稱": "6103060042  大裕生技製藥股份有限公司",
+        "製造廠廠址": "臺中市梧棲區經一路49號",
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -115,14 +114,38 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "人參香味",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "045350-薄荷-友露安外觀-104-09-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045350&Seq=002&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
+            "title": "010453500001-107-07-11(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045350&Seq=014&Type=9"
+        },
+        {
             "title": "大裕三支雨傘標友露安液清涼薄荷01045350仿單-105-12-02.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045350&Seq=010&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045350&Seq=010&Type=9"
+        },
+        {
+            "title": "010453500002-107-06-28(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045350&Seq=025&Type=8"
         },
         {
             "title": "大裕三支雨傘標友露安液原味01045350標籤-105-12-02.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045350&Seq=018&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045350&Seq=018&Type=8"
         }
     ]
 }

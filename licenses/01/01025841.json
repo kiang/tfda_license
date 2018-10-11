@@ -1,7 +1,7 @@
 {
     "code": "01025841",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01025841",
-    "time": "2015-08-22 22:14:03",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01025841",
+    "time": "2018-10-12 03:31:12",
     "許可證字號": "衛署藥製字第025841號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,27 +12,25 @@
     "舊證字號": "00000000",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102584107",
-    "中文品名": "\"大豐\"治偏頭痛膜衣錠",
-    "英文品名": "ANTIMIGRAINE FILM COATED TABLETS \"T.F.\"",
+    "中文品名": "&quot;大豐&quot;治偏頭痛膜衣錠",
+    "英文品名": "ANTIMIGRAINE FILM COATED TABLETS &quot;T.F.&quot;",
     "適應症": "血管性頭痛如偏頭痛、組織胺性頭痛",
     "劑型": "116膜衣錠",
-    "包裝": "瓶裝 盒裝",
+    "包裝": "6-1000 粒瓶裝 盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "ERGOTAMINE TARTRATE, CAFFEINE ANHYDROUS",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "ERGOTAMINETARTRATE,CAFFEINEANHYDROUS"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0306811200  大豐製藥股份有限公司",
-    "申請商地址": "彰化市延平里岸頭巷１１號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0306811300  大豐製藥股份有限公司",
-        "製造廠廠址": "彰化市延平里岸頭巷１１號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠廠址": "彰化縣彰化市延平里岸頭巷11號",
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30044099004 其他醫藥製劑，含有生物鹼或其衍生物，但未含內分泌素，第２９３７節之其他產品或抗生素者Other medicaments, containing alkaloids or derivatives thereof but not containing hormones, other products of heading 29.37 or antibiotics",
+    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -52,18 +50,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "直徑8.0mm",
+        "特殊劑型": "",
+        "顏色": "淡黃色",
+        "特殊氣味": "",
+        "刻痕": "無",
+        "形狀": "圓凸形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "治偏頭痛錠-104-11-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025841&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "010258410003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025841&Seq=003&Type=9"
+            "title": "2015.08.12聯誠-治偏頭痛膜衣錠說明書-104-11-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025841&Seq=004&Type=9"
         },
         {
-            "title": "010258410002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025841&Seq=002&Type=9"
-        },
-        {
-            "title": "010258410001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025841&Seq=001&Type=9"
+            "title": "治偏頭痛膜衣錠 10Tx50-104-11-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025841&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "01029457",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01029457",
-    "time": "2015-08-22 23:35:17",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01029457",
+    "time": "2018-10-12 03:32:11",
     "許可證字號": "衛署藥製字第029457號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,23 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102945700",
-    "中文品名": "\"台灣大塚\"補樂益二號注射液",
-    "英文品名": "PAREN-AID NO. 2 INJECTION \"OTSUKA\"",
+    "中文品名": "&quot;台灣大塚&quot;補樂益二號注射液",
+    "英文品名": "PAREN-AID NO. 2 INJECTION &quot;OTSUKA&quot;",
     "適應症": "手術前後及未能進食病人之水份、電解質、熱能補充及磷質補充",
     "劑型": "270注射劑",
-    "包裝": "250,400,800~2000公撮塑膠瓶裝 250,400公撮瓶裝附輸注器",
+    "包裝": "250、400毫升塑膠瓶裝 250、400、500、800毫升PP軟袋裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "POTASSIUM ACETATE, SODIUM CHLORIDE, GLUCOSE, ELECTROLYTE, ACETATE, MAGNESIUM ION, PHOSPHATE, POTASSIUM ION, SODIUM ION, SULFONATE ION, MAGNESIUM SULFATE, POTASSIUM PHOSPHATE MONOBASIC(EQ TO POTASSIUM BIPHOSPHATE)(EQ TO POTASSIUM DIHYDROGEN PHOSPHATE), CHLORINE ION",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "POTASSIUMACETATE,SODIUMCHLORIDE,GLUCOSE,MAGNESIUMSULFATEHEPTAHYDRATE,POTASSIUMPHOSPHATEMONOBASIC(EQTOPOTASSIUMBIPHOSPHATE)(EQTOPOTASSIUMDIHYDROGENPHOSPHATE)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1403301100  台灣大塚製藥股份有限公司",
-    "申請商地址": "台北市中山區復興北路378號11樓",
     "主製造廠": {
-        "製造廠名稱": "1403304300  臺灣大塚製藥股份有限公司中壢工廠",
-        "製造廠廠址": "中壢市忠福里吉林路１５號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "主製造廠": "",
+        "製造廠名稱": "1403304300  台灣大塚製藥股份有限公司中壢工廠",
+        "製造廠廠址": "桃園市中壢區吉林路15號",
+        "製造廠公司地址": ""
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -61,72 +59,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "4020000700",
-            "成分名稱": "GLUCOSE",
-            "含量描述": "",
-            "含量": "250.0000000000",
-            "單位": "G\/L"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "4026000000",
-            "成分名稱": "ELECTROLYTE",
-            "含量描述": "",
-            "含量": "",
-            "單位": ""
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "4026000100",
-            "成分名稱": "ACETATE",
-            "含量描述": "",
-            "含量": "17.5000000000",
-            "單位": "MEQ\/L"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "4026001110",
-            "成分名稱": "MAGNESIUM ION",
-            "含量描述": "",
-            "含量": "8.0000000000",
-            "單位": "MEQ\/L"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "4026001400",
-            "成分名稱": "PHOSPHATE",
-            "含量描述": "",
-            "含量": "12.5000000000",
-            "單位": "M.MOL"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "4026001510",
-            "成分名稱": "POTASSIUM ION",
-            "含量描述": "",
-            "含量": "30.0000000000",
-            "單位": "MEQ\/L"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "4026001710",
-            "成分名稱": "SODIUM ION",
-            "含量描述": "",
-            "含量": "30.4000000000",
-            "單位": "MEQ\/L"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "4026002210",
-            "成分名稱": "SULFONATE ION",
-            "含量描述": "",
-            "含量": "8.0000000000",
-            "單位": "MEQ\/L"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "5612001500",
-            "成分名稱": "MAGNESIUM SULFATE",
+            "成分代碼": "5612001582",
+            "成分名稱": "MAGNESIUM SULFATE HEPTAHYDRATE",
             "含量描述": "",
             "含量": "0.9860000000",
             "單位": "MG"
@@ -138,20 +72,44 @@
             "含量描述": "",
             "含量": "1.7010000000",
             "單位": "MG"
-        },
+        }
+    ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "無色透明塑膠瓶裝",
+        "特殊劑型": "",
+        "顏色": "無色～淡黃色澄明液",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
         {
-            "成分類別": "主成分",
-            "成分代碼": "9400000510",
-            "成分名稱": "CHLORINE ION",
-            "含量描述": "",
-            "含量": "30.4000000000",
-            "單位": "MEQ\/L"
+            "title": "P2-106-02-09(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029457&Seq=001&Type=10"
         }
     ],
     "仿單外盒": [
         {
+            "title": "補樂益系列仿單20180528-107-08-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029457&Seq=002&Type=9"
+        },
+        {
             "title": "補樂益注射液-103-05-12.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029457&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029457&Seq=001&Type=9"
+        },
+        {
+            "title": "補樂益2號400ml_標籤(LP2108)-107-08-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029457&Seq=004&Type=8"
+        },
+        {
+            "title": "補樂益2號-250ml-軟袋印刷-107-08-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029457&Seq=003&Type=8"
+        },
+        {
+            "title": "PP21-104-09-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029457&Seq=002&Type=8"
         }
     ]
 }

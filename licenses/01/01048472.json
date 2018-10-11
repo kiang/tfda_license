@@ -1,7 +1,7 @@
 {
     "code": "01048472",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01048472",
-    "time": "2016-11-18 15:16:44",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01048472",
+    "time": "2018-10-12 03:35:19",
     "許可證字號": "衛署藥製字第048472號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "6105200026  瑞士藥廠股份有限公司新市廠",
         "製造廠廠址": "台南市新市區中山路182號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049099325 醫藥製劑，含有氟硝西泮者Medicaments, containing Flunitrazepam",
     "藥理治療分類": "",
@@ -43,38 +42,54 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "白色",
+        "特殊氣味": "",
+        "刻痕": "有",
+        "形狀": "圓扁形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "NF03-裸錠-104-10-05(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048472&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
+            "title": "NF03-服爾眠錠2毫克 仿單-107-03-22(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048472&Seq=006&Type=9"
+        },
+        {
+            "title": "服爾眠錠2毫克01048472_仿單-107-01-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048472&Seq=005&Type=9"
+        },
+        {
             "title": "NF03-仿單(加刊賦形劑)-104-12-29(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048472&Seq=004&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048472&Seq=004&Type=9"
         },
         {
-            "title": "NF03-仿單-104-09-25(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048472&Seq=003&Type=9"
+            "title": "服爾眠錠2毫克01048472_外盒-107-01-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048472&Seq=010&Type=8"
         },
         {
-            "title": "010484720002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048472&Seq=002&Type=9"
+            "title": "服爾眠錠2毫克01048472_標籤-107-01-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048472&Seq=009&Type=8"
         },
         {
-            "title": "010484720001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048472&Seq=001&Type=9"
+            "title": "服爾眠錠2毫克01048472_鋁箔-107-01-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048472&Seq=008&Type=8"
         },
         {
-            "title": "NF03-罐裝-104-10-05(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048472&Seq=004&Type=8"
+            "title": "NF03-服爾眠錠2毫克-PTP-106-06-19(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048472&Seq=007&Type=8"
         },
         {
-            "title": "010484720003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048472&Seq=003&Type=8"
-        },
-        {
-            "title": "010484720002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048472&Seq=002&Type=8"
-        },
-        {
-            "title": "010484720001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048472&Seq=001&Type=8"
+            "title": "NF03-服爾眠錠2毫克-1000'S盒(2)-106-06-19(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048472&Seq=006&Type=8"
         }
     ]
 }

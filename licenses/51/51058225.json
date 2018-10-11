@@ -1,7 +1,7 @@
 {
     "code": "51058225",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058225",
-    "time": "2015-08-23 13:32:46",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058225",
+    "time": "2018-10-12 03:04:15",
     "許可證字號": "衛部藥製字第058225號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,22 +16,19 @@
     "英文品名": "Zolebonic concentrate for solution for infusion 4mg\/5ml",
     "適應症": "與標準癌症治療併用，適用於多發性骨髓瘤及固體腫瘤併有骨骼轉移之病人。用於攝護腺癌病人之骨骼轉移時，應至少接受過一種荷爾蒙治療而仍持續惡化者。治療惡性腫瘤之高血鈣併發症(HCM)。",
     "劑型": "270注射劑",
-    "包裝": "5毫升塑膠小瓶裝",
+    "包裝": "5毫升塑膠小瓶裝 100支以下盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "ZOLEDRONIC ACID MONOHYDRATE",
-    "限制項目": [
-        "01國產",
-        "24監視期滿學名藥"
+    "主成分略述": [
+        "ZOLEDRONICACIDMONOHYDRATE"
     ],
+    "限制項目": "01國　產 24監視期滿學名藥",
     "申請商名稱": "0908703200  信東生技股份有限公司",
-    "申請商地址": "桃園市桃園區介壽路２２號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0908703300  信東生技股份有限公司",
         "製造廠廠址": "桃園市桃園區介壽路２２號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -47,16 +44,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "抑骨弛濃縮注射液4毫克5毫升_仿單-107-08-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058225&Seq=002&Type=9"
+        },
+        {
             "title": "510582250001-103-06-17.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058225&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058225&Seq=001&Type=9"
+        },
+        {
+            "title": "Zolebonic concentrate for solution for infusion(衛部藥製字第058225號)-標材核定本-107-02-13(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058225&Seq=003&Type=8"
         },
         {
             "title": "510582250003-103-06-17.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058225&Seq=002&Type=8"
-        },
-        {
-            "title": "510582250002-103-06-17.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058225&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058225&Seq=002&Type=8"
         }
     ]
 }

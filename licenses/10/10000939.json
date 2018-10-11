@@ -1,7 +1,7 @@
 {
     "code": "10000939",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000939",
-    "time": "2018-05-25 03:47:42",
+    "time": "2018-10-12 03:03:58",
     "許可證字號": "衛署菌疫輸字第000939號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
     "主成分略述": [
-        "A\/Michigan\/45\/2015(H1N1)pdm09-likestrain(A\/Singapore\/GP1908\/2015,IVR-180),A\/HongKong\/4801\/2014(H3N2)-likestrain(A\/HongKong\/4801\/2014,NYMCX-263B),B\/Phuket\/3073\/2013-likestrain(B\/Phuket\/3073\/2013,wildtype),B\/Brisbane\/60\/2008-likestrain(B\/Brisbane\/60\/2008,wildtype)"
+        "A\/Singapore\/INFIMH-16-0019\/2016(H3N2)-likestrain(A\/Singapore\/INFIMH-16-0019\/2016,NIB-104),A\/Michigan\/45\/2015(H1N1)pdm09-likestrain(A\/Singapore\/GP1908\/2015,IVR-180),B\/Phuket\/3073\/2013-likestrain(B\/Phuket\/3073\/2013,wildtype),B\/Colorado\/6\/2017-likestrain(B\/Maryland\/15\/2016,NYMCBX-69A)"
     ],
     "限制項目": "",
     "申請商名稱": "0901801100  荷商葛蘭素史克藥廠股份有限公司台灣分公司",
@@ -58,16 +58,16 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "8012002491",
-            "成分名稱": "A\/Michigan\/45\/2015 (H1N1)pdm09 - like strain (A\/Singapore\/GP1908\/2015, IVR-180)",
+            "成分代碼": "8012002472",
+            "成分名稱": "A\/Singapore\/INFIMH-16-0019\/2016(H3N2)- like strain(A\/Singapore\/INFIMH-16-0019\/2016, NIB-104)",
             "含量描述": "",
             "含量": "15.0000000000",
             "單位": "ug HA"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8012005780",
-            "成分名稱": "A\/Hong Kong\/4801\/2014 (H3N2)-like strain (A\/Hong Kong\/4801\/2014, NYMC X-263B)",
+            "成分代碼": "8012002491",
+            "成分名稱": "A\/Michigan\/45\/2015 (H1N1)pdm09 - like strain (A\/Singapore\/GP1908\/2015, IVR-180)",
             "含量描述": "",
             "含量": "15.0000000000",
             "單位": "ug HA"
@@ -82,8 +82,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8012006530",
-            "成分名稱": "B\/Brisbane\/60\/2008-like strain (B\/Brisbane\/60\/2008, wild type)",
+            "成分代碼": "8012006810",
+            "成分名稱": "B\/Colorado\/6\/2017- like strain (B\/Maryland\/15\/2016, NYMC BX-69A)",
             "含量描述": "",
             "含量": "15.0000000000",
             "單位": "ug HA"
@@ -107,20 +107,36 @@
     ],
     "仿單外盒": [
         {
-            "title": "伏適流_20180223-107-03-27(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=025&Type=9"
+            "title": "020009390004_Fluarix Tetra_民眾版仿單2018-19%28NH%29-107-09-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=028&Type=9"
         },
         {
-            "title": "20171002171803985-106-10-02.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=024&Type=9"
+            "title": "020009390005_FluarixTetra_中文仿單%28GDS03IPI09%29_2018-19%28NH%29-107-09-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=027&Type=9"
         },
         {
-            "title": "20171002171702465-106-10-02.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=023&Type=9"
+            "title": "020009390003_英文標籤-107-09-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=019&Type=8"
         },
         {
-            "title": "20171002171736733-106-10-02.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=013&Type=8"
+            "title": "020009390001_Fluarix Tetra_中文標籤-107-09-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=018&Type=8"
+        },
+        {
+            "title": "020009390002_Fluarix Tetra_外盒%28PFSx1%29-107-09-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=017&Type=8"
+        },
+        {
+            "title": "020009390004_Sticker_SL127-008-T01-107-06-05(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=016&Type=8"
+        },
+        {
+            "title": "020009390002_Label_489435-107-06-05(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=015&Type=8"
+        },
+        {
+            "title": "020009390001_Carton_489440-107-06-05(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=014&Type=8"
         }
     ]
 }

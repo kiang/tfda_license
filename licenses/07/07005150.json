@@ -1,12 +1,12 @@
 {
     "code": "07005150",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07005150",
-    "time": "2018-08-31 03:48:25",
+    "time": "2018-10-12 03:14:03",
     "許可證字號": "衛署粧製字第005150號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/07\/08",
+    "有效日期": "111\/07\/08",
     "發證日期": "98\/07\/08",
     "許可證種類": "含藥化粧品",
     "舊證字號": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "化粧品類別": "0711防晒乳液",
     "主成分略述": [
-        "OCTYLMETHOXYCINNAMATE,BUTYLMETHOXYDIBENZOYLMETHANE,TITANIUMDIOXIDE(EQTOTITANIUMOXIDE)"
+        "OCTYLMETHOXYCINNAMATE,BUTYLMETHOXYDIBENZOYLMETHANE"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "6680026256  紐西蘭商惠康生物科技有限公司",
@@ -48,20 +48,16 @@
             "含量描述": "",
             "含量": "2.0000000000",
             "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9602020800",
-            "成分名稱": "TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)",
-            "含量描述": "",
-            "含量": "4.5000000000",
-            "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
         {
             "title": "07005150-2009-07-08.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005150&Seq=001&Type=9"
+        },
+        {
+            "title": "07005150-107-09-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005150&Seq=001&Type=8"
         }
     ]
 }

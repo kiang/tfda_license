@@ -1,7 +1,7 @@
 {
     "code": "08016466",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016466",
-    "time": "2015-08-23 20:00:05",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016466",
+    "time": "2018-10-12 04:04:04",
     "許可證字號": "衛署粧輸字第016466號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,27 +12,25 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00801646606",
-    "中文品名": "水潤感冷燙液-輕．超直H(1&2劑)",
+    "中文品名": "水潤感冷燙液-輕．超直H(1&amp;2劑)",
     "英文品名": "Ppt do Straight Hard [H] (waving lotion, Neutralizer)",
     "用途": "燙頭髮。",
     "劑型": "970液劑",
     "包裝": "500公撮以下袋裝 無外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0111燙髮用劑",
-    "": "",
-    "主成分略述": "HYDROGEN PEROXIDE (35%), ETHANOLAMINE THIOGLYCOLATE, AMMONIUM THIOGLYCOLATE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "HYDROGENPEROXIDE(35%),ETHANOLAMINETHIOGLYCOLATE,AMMONIUMTHIOGLYCOLATE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "6619035011  快樂麗康股份有限公司",
-    "申請商地址": "台北市南港區八德路4段768巷1弄20號5樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C260280000  REAL CHEMICAL CO., LTD. (REAL KAWAGOE)",
         "製造廠廠址": "SAITAMAKEN KAWAGOE SHI YOSHINO DAI 2-8-27, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -58,6 +56,12 @@
             "含量描述": "",
             "含量": "5.2000000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08016466-105-08-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016466&Seq=001&Type=8"
         }
     ]
 }

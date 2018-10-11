@@ -1,7 +1,7 @@
 {
     "code": "55005727",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=55005727",
-    "time": "2017-06-16 03:20:46",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=55005727",
+    "time": "2018-10-12 03:10:40",
     "許可證字號": "衛部醫器製字第005727號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,7 +15,7 @@
     "中文品名": "“寶德”超音波骨刀與電動骨鋸\/鑽主機",
     "英文品名": "“CW MEDICAL INC” Ultrasonic and Motor surgery unit",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "101-ATSET01ABS",
+    "醫器規格": "101-ATSET01ABS。增加規格：BS-1。",
     "劑型": "",
     "包裝": "",
     "標籤、仿單及包裝加註": "",
@@ -41,12 +41,20 @@
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "550057270001-107-09-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55005727&Seq=002&Type=9"
+        },
+        {
             "title": "550057270002-106-05-23.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55005727&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55005727&Seq=001&Type=9"
+        },
+        {
+            "title": "550057270001-107-09-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55005727&Seq=002&Type=8"
         },
         {
             "title": "550057270001-106-05-23.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55005727&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55005727&Seq=001&Type=8"
         }
     ]
 }

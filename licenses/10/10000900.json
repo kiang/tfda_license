@@ -1,7 +1,7 @@
 {
     "code": "10000900",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000900",
-    "time": "2017-06-16 03:04:37",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000900",
+    "time": "2018-10-12 03:03:57",
     "許可證字號": "衛署菌疫輸字第000900號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "F250058000  ELI LILLY ITALIA S.P.A.",
         "製造廠廠址": "VIA A.GRAMSCI 731-733 50019 SESTO FIORENTINO",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30043100003 醫藥製劑，含有胰島素者Medicaments, containing insulin",
+    "CCC號列": "30043100003 其他醫藥製劑，含有胰島素者Other medicaments, containing insulin",
     "藥理治療分類": "",
     "次製造廠": [
         {
@@ -69,12 +68,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "Humalog KwikPen UM s-105-12-29.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000900&Seq=006&Type=9"
+            "title": "02000900-IFU-107-09-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000900&Seq=012&Type=9"
+        },
+        {
+            "title": "02000900-insert-107-09-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000900&Seq=011&Type=9"
+        },
+        {
+            "title": "02000900-label-107-09-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000900&Seq=009&Type=8"
+        },
+        {
+            "title": "02000900-carton-107-09-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000900&Seq=008&Type=8"
         },
         {
             "title": "Humalog KwikPen 100U- carton 2-105-12-29.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000900&Seq=007&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000900&Seq=007&Type=8"
         }
     ]
 }

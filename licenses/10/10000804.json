@@ -1,11 +1,11 @@
 {
     "code": "10000804",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000804",
-    "time": "2016-03-25 04:22:44",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000804",
+    "time": "2018-10-12 03:50:51",
     "許可證字號": "衛署菌疫輸字第000804號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "107\/08\/21",
+    "註銷理由": "自請註銷",
     "有效日期": "109\/05\/06",
     "發證日期": "94\/05\/06",
     "許可證種類": "菌　疫",
@@ -17,22 +17,20 @@
     "適應症": "糖尿病。",
     "劑型": "270注射劑",
     "包裝": "10公撮小瓶",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "INSULIN GLULISINE (HOE 901)",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "INSULINGLULISINE(HOE901)"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1424601100  賽諾菲股份有限公司",
-    "申請商地址": "台北市信義區松仁路3號7樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "M471077000  SANOFI-AVENTIS DEUTSCHLAND GMBH",
         "製造廠廠址": "INDUSTRIEPARK HOECHST D-65926 FRANKFURT AM MAIN GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": "原料藥及成品製造廠"
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30043100003 醫藥製劑，含有胰島素者Medicaments, containing insulin",
+    "CCC號列": "30043100003 其他醫藥製劑，含有胰島素者Other medicaments, containing insulin",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -47,27 +45,7 @@
     "仿單外盒": [
         {
             "title": "Aprida vial_E_CCDS v8_approved-103-01-16.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000804&Seq=006&Type=9"
-        },
-        {
-            "title": "Aprida vial_C_CCDS v8_approved-103-01-16.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000804&Seq=005&Type=9"
-        },
-        {
-            "title": "Aprida vial_E_CCDS v8_approved-2014-01-10.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000804&Seq=004&Type=9"
-        },
-        {
-            "title": "Aprida vial_C_CCDS v8_approved-2014-01-10.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000804&Seq=003&Type=9"
-        },
-        {
-            "title": "100008040002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000804&Seq=002&Type=9"
-        },
-        {
-            "title": "100008040001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000804&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000804&Seq=006&Type=9"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "02025539",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025539",
-    "time": "2017-06-16 03:04:05",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025539",
+    "time": "2018-10-12 03:03:42",
     "許可證字號": "衛署藥輸字第025539號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,7 +14,7 @@
     "通關簽審文件編號": "DHA00202553902",
     "中文品名": "&quot;亞培&quot;得胎隆膜衣錠10毫克",
     "英文品名": "Duphaston film-coated tablet 10mg",
-    "適應症": "原發性及續發性閉經、經期疾患、痛經、行經延遲及先兆性和習慣性流產。",
+    "適應症": "原發性及續發性閉經，經期疾患、痛經、行經延遲及先兆性和習慣性流產。\r\n人工生殖治療時之黃體期補充。",
     "劑型": "116膜衣錠",
     "包裝": "2-1000錠鋁箔盒裝",
     "標籤、仿單及包裝加註": "",
@@ -28,11 +28,19 @@
         "主製造廠": "",
         "製造廠名稱": "F170058000  ABBOTT BIOLOGICALS B.V.",
         "製造廠廠址": "VEERWEG 12, 8121 AA OLST, THE NETHERLANDS",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "1225204000  裕利股份有限公司",
+            "製造廠廠址": "桃園市大園區和平里1鄰開和路91號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠(委託貼標及置入仿單)"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -46,27 +54,31 @@
     "藥物辨識詳細資料": {
         "外觀尺寸": "",
         "特殊劑型": "",
-        "顏色": "",
+        "顏色": "白色",
         "特殊氣味": "",
-        "刻痕": "",
-        "形狀": "",
-        "標記一": "",
+        "刻痕": "有",
+        "形狀": "圓扁形",
+        "標記一": "155",
         "標記二": ""
     },
     "藥物辨識外觀圖片": [
         {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025539&Seq=345&Type=10"
+            "title": "Duphaston 10mg tab photo-106-12-16(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025539&Seq=346&Type=10"
+        },
+        {
+            "title": "DO20111104095609.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025539&Seq=345&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "Duphaston-INS-060331-106-04-25.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025539&Seq=007&Type=9"
+            "title": "03_Duphaston 10mg_IVF_中文仿單_20180830- A3-107-09-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025539&Seq=009&Type=9"
         },
         {
-            "title": "carton photo-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025539&Seq=008&Type=8"
+            "title": "Duphaston 10mg carton_201603-106-12-16(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025539&Seq=009&Type=8"
         }
     ]
 }
