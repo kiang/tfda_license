@@ -1,7 +1,7 @@
 {
     "code": "08018699",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018699",
-    "time": "2017-01-27 03:43:01",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018699",
+    "time": "2018-11-30 03:15:39",
     "許可證字號": "衛署粧輸字第018699號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,26 +12,25 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00801869900",
-    "中文品名": "完美遮陽防曬霜SPF50 PA+++",
-    "英文品名": "BEBECO PERFECT SUN SCREEN SPF50 PA+++",
+    "中文品名": "完美遮陽防曬霜SPF50+ PA+++",
+    "英文品名": "BEBECO PERFECT SUN SCREEN SPF50+ PA+++",
     "用途": "防曬、修飾膚色。",
     "劑型": "992霜劑",
     "包裝": "500公撮以下管裝附外盒",
     "標籤、仿單及包裝加註": "",
     "化粧品類別": "0708防晒面霜",
     "主成分略述": [
-        "ZINCOXIDE,ETHYLHEXYLMETHOXYCINNAMATE,ETHYLHEXYLSALICYLATE"
+        "ZINCOXIDE,ETHYLHEXYLMETHOXYCINNAMATE,ETHYLHEXYLSALICYLATE,BIS-ETHYLHEXYLOXYPHENOLMETHOXYPHENYLTRIAZINE"
     ],
     "限制項目": "02輸　入",
     "申請商名稱": "6653386377  名淇國際事業有限公司",
     "主製造廠": {
         "主製造廠": "",
         "製造廠名稱": "C270032100  KOLMAR KOREA CO., LTD.",
-        "製造廠廠址": "170-7, Sojong-Ri, Chonui-Myun, Yongi-Gun, Chungcheongnam-Do, KOREA",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠廠址": "12-11, Deokgogae-gil, Jeonui-myeon, Sejong-si, Korea。",
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -39,7 +38,7 @@
             "成分代碼": "9200011500",
             "成分名稱": "ZINC OXIDE",
             "含量描述": "",
-            "含量": "4.8000000000",
+            "含量": "5.0000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -47,7 +46,7 @@
             "成分代碼": "9900071200",
             "成分名稱": "ETHYLHEXYL METHOXYCINNAMATE",
             "含量描述": "",
-            "含量": "7.5000000000",
+            "含量": "6.8000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -55,14 +54,26 @@
             "成分代碼": "9900085500",
             "成分名稱": "ETHYLHEXYL SALICYLATE",
             "含量描述": "",
-            "含量": "5.0000000000",
+            "含量": "4.5000000000",
             "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900095700",
+            "成分名稱": "BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
+            "含量描述": "",
+            "含量": "0.5000000000",
+            "單位": ""
         }
     ],
     "仿單外盒": [
         {
+            "title": "08018699-107-10-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018699&Seq=002&Type=8"
+        },
+        {
             "title": "08018699-105-07-04.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018699&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018699&Seq=001&Type=8"
         }
     ]
 }

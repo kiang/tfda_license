@@ -1,7 +1,7 @@
 {
     "code": "01034904",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01034904",
-    "time": "2016-11-18 13:17:23",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01034904",
+    "time": "2018-11-30 03:01:41",
     "許可證字號": "衛署藥製字第034904號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "1119206300  健亞生物科技股份有限公司",
         "製造廠廠址": "新竹縣湖口鄉新竹工業區工業一路１號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30042000211 人用醫藥製劑，含抗黴菌劑類抗生素者Medicaments, containing antifungal antibiotics, for human use",
     "藥理治療分類": "",
@@ -45,24 +44,28 @@
     ],
     "仿單外盒": [
         {
+            "title": "滅菌靈-IT145C2仿單-106-05-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034904&Seq=003&Type=9"
+        },
+        {
             "title": "01034904-105-05-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034904&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034904&Seq=001&Type=9"
         },
         {
             "title": "IT145A2 Mycostatin OS-104-11-17(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034904&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034904&Seq=002&Type=9"
+        },
+        {
+            "title": "滅菌靈-LB15502標籤-106-05-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034904&Seq=005&Type=8"
+        },
+        {
+            "title": "滅菌靈-CN24302外盒-106-05-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034904&Seq=004&Type=8"
         },
         {
             "title": "滅菌靈懸液用粉劑10萬單位毫升(耐絲菌素)-標籤-105-05-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034904&Seq=003&Type=8"
-        },
-        {
-            "title": "滅菌靈懸液用粉劑10萬單位毫升(耐絲菌素)-外盒-105-05-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034904&Seq=002&Type=8"
-        },
-        {
-            "title": "CN24302 Mycostatin OS-104-09-14(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034904&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034904&Seq=003&Type=8"
         }
     ]
 }

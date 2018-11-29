@@ -1,7 +1,7 @@
 {
     "code": "01026636",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01026636",
-    "time": "2015-08-22 22:02:17",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01026636",
+    "time": "2018-11-30 03:01:16",
     "許可證字號": "衛署藥製字第026636號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,27 +12,25 @@
     "舊證字號": "00000000",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102663601",
-    "中文品名": "悠力素乳膏",
-    "英文品名": "ULEX CREAM \"SINPHAR\"",
+    "中文品名": "&quot;杏輝&quot;悠力素乳膏",
+    "英文品名": "ULEX CREAM &quot;SINPHAR&quot;",
     "適應症": "濕疹、皮膚炎群（包括進行性指掌角皮症、單純性苔癬、放射線皮膚炎、日光皮膚炎、皮膚搔癢症、凍傷、乾癬、寄生性蟲體感染症（疥瘡）及昆蟲刺傷）",
     "劑型": "363乳膏劑",
-    "包裝": "瓶裝 管裝",
-    "藥品類別": "07須經醫師指示使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "HYDROCORTISONE, CROTAMITON",
-    "限制項目": [
-        "01國產"
+    "包裝": "1000公克以下塑膠瓶裝 鋁管裝",
+    "標籤、仿單及包裝加註": "",
+    "藥品類別": "17醫師藥師藥劑生指示藥品",
+    "主成分略述": [
+        "HYDROCORTISONE,CROTAMITON"
     ],
-    "申請商名稱": "0705330200  杏輝藥品工業股份有限公司",
-    "申請商地址": "宜蘭縣冬山鄉中山村中山路８４號",
+    "限制項目": "01國　產",
+    "申請商名稱": "M460719000  BIOSENSE WEBSTER INC.",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0705330300  杏輝藥品工業股份有限公司",
         "製造廠廠址": "宜蘭縣冬山鄉中山村中山路８４號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30043200002 含有腎上腺皮質類固醇荷爾蒙，其衍生物及結構式類似者Containing adrenal corticosteroid hormones, their derivatives and structural analogues",
+    "CCC號列": "30043200002 其他醫藥製劑，含有腎上腺皮質類固醇荷爾蒙及其衍生物或結構式類似者Other medicaments, containing corticosteroid hormones, their derivatives or structural analogues",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -52,14 +50,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "白色乳膏",
+        "特殊劑型": "",
+        "顏色": "白色",
+        "特殊氣味": "無",
+        "刻痕": "無",
+        "形狀": "",
+        "標記一": "無",
+        "標記二": "無"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "悠力素乳膏(450gm)-藥物外觀-104-11-04(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026636&Seq=002&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "5702663600001-104-08-18.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026636&Seq=002&Type=9"
+            "title": "5702663600001-104-08-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026636&Seq=002&Type=9"
         },
         {
-            "title": "010266360001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026636&Seq=001&Type=9"
+            "title": "悠力素乳膏(450gm／罐)-外盒包裝-104-10-14(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026636&Seq=002&Type=8"
         }
     ]
 }

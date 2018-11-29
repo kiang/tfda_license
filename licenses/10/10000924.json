@@ -1,7 +1,7 @@
 {
     "code": "10000924",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000924",
-    "time": "2017-04-28 03:39:23",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000924",
+    "time": "2018-11-30 03:05:22",
     "許可證字號": "衛署菌疫輸字第000924號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,7 +14,7 @@
     "通關簽審文件編號": "DHA01000092400",
     "中文品名": "癌骨瓦 注射液",
     "英文品名": "XGEVA",
-    "適應症": "1.1 實質腫瘤骨轉移\r\nXGEVA適用於實體腫瘤已有骨轉移之成人病患，預防發生骨骼相關事件。\r\n使用限制\r\nXGEVA並不適用於預防多發性骨髓瘤患者發生骨骼相關事件[參見臨床試驗(13.1)]。\r\n1.2 骨巨細胞瘤\r\nXGEVA適用於治療其骨巨細胞瘤無法以手術切除或手術切除可能導致重症\r\n(severe morbidity)的成人和骨骼發育成熟之青少年患者。",
+    "適應症": "1.1\t多發性骨髓瘤及實質腫瘤骨轉移\r\nXGEVA適用於實體腫瘤已有骨轉移及多發性骨髓瘤之成人病患，預防發生骨骼相關事件。\r\n1.2骨巨細胞瘤XGEVA適用於治療其骨巨細胞瘤無法以手術切除或手術切除可能導致重症(severe morbidity)的成人和骨骼發育成熟之青少年患者。\r\n1.3\t惡性高血鈣症XGEVA適用於治療雙磷酸鹽類藥物難治之頑固型惡性高血鈣症。",
     "劑型": "279注射液",
     "包裝": "單劑量1.7mL小瓶裝 1~100瓶盒裝",
     "標籤、仿單及包裝加註": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "F370034000  AMGEN MANUFACTURING,LIMITED",
         "製造廠廠址": "STATE ROAD 31, KILOMETER 24.6, JUNCOS, PUERTO RICO 00777",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -52,38 +51,62 @@
             "單位": "MG"
         }
     ],
-    "仿單外盒": [
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "35x16mm 無色透明玻璃小瓶",
+        "特殊劑型": "",
+        "顏色": "無色至微黃",
+        "特殊氣味": "無",
+        "刻痕": "無",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
         {
-            "title": "060009240002-105-11-07.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000924&Seq=012&Type=9"
+            "title": "Xgeva_20170405_Minsheng Add 新包_Vial 3-106-04-11(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000924&Seq=009&Type=10"
         },
         {
-            "title": "060009240001-105-11-07.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000924&Seq=011&Type=9"
+            "title": "Xgeva_20170405_Minsheng Add 新包_Vial 2-106-04-11(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000924&Seq=008&Type=10"
+        },
+        {
+            "title": "Xgeva_20170405_Minsheng Add 新包_Vial 1-106-04-11(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000924&Seq=007&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "020009240002-英文仿單-1071123-107-11-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000924&Seq=017&Type=9"
+        },
+        {
+            "title": "020009240001-中文仿單-1071123-107-11-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000924&Seq=016&Type=9"
         },
         {
             "title": "Xgeva_20170405_Minsheng Add 新包_側面2-106-04-11(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000924&Seq=017&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000924&Seq=017&Type=8"
         },
         {
             "title": "Xgeva_20170405_Minsheng Add 新包_側面1-106-04-11(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000924&Seq=016&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000924&Seq=016&Type=8"
         },
         {
             "title": "Xgeva_20170405_Minsheng Add 新包_正面2-106-04-11(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000924&Seq=015&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000924&Seq=015&Type=8"
         },
         {
             "title": "Xgeva_20170405_Minsheng Add 新包_正面1-106-04-11(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000924&Seq=014&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000924&Seq=014&Type=8"
         },
         {
             "title": "Xgeva_20170405_Minsheng Add 新包_下面-106-04-11(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000924&Seq=013&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000924&Seq=013&Type=8"
         },
         {
             "title": "Xgeva_20170405_Minsheng Add 新包_上面-106-04-11(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000924&Seq=012&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000924&Seq=012&Type=8"
         }
     ]
 }

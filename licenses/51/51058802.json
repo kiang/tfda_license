@@ -1,7 +1,7 @@
 {
     "code": "51058802",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058802",
-    "time": "2016-06-24 05:06:16",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058802",
+    "time": "2018-11-30 03:05:52",
     "許可證字號": "衛部藥製字第058802號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,25 +14,21 @@
     "通關簽審文件編號": "DHY05105880200",
     "中文品名": "清憂定膠囊30毫克",
     "英文品名": "Cymta Capsule 30mg",
-    "適應症": "重鬱症、糖尿病週邊神經痛、纖維肌痛。",
+    "適應症": "重鬱症、廣泛性焦慮症、糖尿病週邊神經痛、纖維肌痛。",
     "劑型": "130膠囊劑",
     "包裝": "4-1000粒PTP加乾燥劑\/鋁箔袋盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "DULOXETINE HYDROCHLORIDE",
-    "限制項目": [
-        "01國產",
-        "24監視期滿學名藥",
-        "61完成BE試驗"
+    "主成分略述": [
+        "DULOXETINEHYDROCHLORIDE"
     ],
+    "限制項目": "01國　產 24監視期滿學名藥 61完成BE試驗",
     "申請商名稱": "0510620700  生達化學製藥股份有限公司二廠",
-    "申請商地址": "台南市新營區開元路１５４號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0510620700  生達化學製藥股份有限公司二廠",
         "製造廠廠址": "台南市新營區開元路１５４號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -48,20 +44,28 @@
     ],
     "仿單外盒": [
         {
-            "title": "010588020001-20150806-104-08-21.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058802&Seq=001&Type=9"
+            "title": "510588020001_20180830-107-10-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058802&Seq=003&Type=9"
         },
         {
-            "title": "010588020003-20150806-104-08-21.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058802&Seq=003&Type=8"
+            "title": "S0410 Cymta 清憂定30mg LT 未販售1113-104-11-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058802&Seq=002&Type=9"
         },
         {
-            "title": "010588020002-20150806-104-08-21.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058802&Seq=002&Type=8"
+            "title": "510588020003_20180830-107-10-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058802&Seq=009&Type=8"
         },
         {
-            "title": "010588020001-20150806-104-08-21.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058802&Seq=001&Type=8"
+            "title": "510588020002_20181011-107-10-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058802&Seq=008&Type=8"
+        },
+        {
+            "title": "510588020001_20180830-107-10-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058802&Seq=007&Type=8"
+        },
+        {
+            "title": "PTP-稿件-104-11-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058802&Seq=006&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "01051718",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01051718",
-    "time": "2016-12-30 03:25:46",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01051718",
+    "time": "2018-11-30 03:03:02",
     "許可證字號": "衛署藥製字第051718號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "1119206300  健亞生物科技股份有限公司",
         "製造廠廠址": "新竹縣湖口鄉新竹工業區工業一路1號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -38,27 +37,35 @@
             "成分類別": "主成分",
             "成分代碼": "9200036810",
             "成分名稱": "DONEPEZIL HYDROCHLORIDE",
-            "含量描述": "",
+            "含量描述": "(MONOHYDRATE)",
             "含量": "10.0000000000",
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "黃色圓形膜衣錠",
+        "特殊劑型": "",
+        "顏色": "黃色",
+        "特殊氣味": "",
+        "刻痕": "有",
+        "形狀": "圓凸形",
+        "標記一": "FR",
+        "標記二": "10"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "裸錠片裝_Nepes 10mg-104-09-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01051718&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "仿單_Nepes 10mg_A3版-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01051718&Seq=002&Type=9"
+            "title": "仿單_Nepes 10mg-106-01-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01051718&Seq=003&Type=9"
         },
         {
-            "title": "2.Nepes F.C. Tablets 10mg-103-02-10.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01051718&Seq=001&Type=9"
-        },
-        {
-            "title": "標籤_Nepes 10mg-104-10-01(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01051718&Seq=002&Type=8"
-        },
-        {
-            "title": "外盒_Nepes 10mg-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01051718&Seq=001&Type=8"
+            "title": "鋁箔_Nepes 10mg-106-01-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01051718&Seq=005&Type=8"
         }
     ]
 }

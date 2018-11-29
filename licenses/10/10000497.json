@@ -1,7 +1,7 @@
 {
     "code": "10000497",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000497",
-    "time": "2018-07-20 03:52:58",
+    "time": "2018-11-30 03:05:09",
     "許可證字號": "衛署菌疫輸字第000497號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,17 +16,17 @@
     "英文品名": "ALPHANINE SD COAGULATION FACTOR IX(HUMAN)",
     "適應症": "預防及治療乙型血友病及缺乏第九凝血因子。",
     "劑型": "243凍晶注射劑",
-    "包裝": "500 IU\/Vial小瓶",
+    "包裝": "配製藥液轉移器: 20\/20 Mix2Vial，口徑尺寸(20 mm X 20 mm)盒裝附注入器 500 IU\/Vial小瓶 注射用水鋁蓋: Flip-off model護蓋",
     "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
     "主成分略述": [
         "FACTORIX"
     ],
     "限制項目": "02輸　入",
-    "申請商名稱": "1409720100  台灣綠十字股份有限公司",
+    "申請商名稱": "M460719000  BIOSENSE WEBSTER INC.",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "F460014000  GRIFOLS BIOLOGICALS INC.",
+        "製造廠名稱": "F460014000  Grifols Biologicals LLC",
         "製造廠廠址": "5555 VALLEY BOULEVARD, LOS ANGELES, CALIFORNIA 90032",
         "製造廠公司地址": ""
     },
@@ -34,7 +34,14 @@
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "F460635000  GRIFOLS BIOLOGICALS INC.",
+            "製造廠名稱": "F410028100  LABORATORIOS GRIFOLS, S.A.",
+            "製造廠廠址": "POLIGONO INDUSTRIAL AUTOPISTA, PASSEIG FLUVIAL, 24, 08150 PARETS DEL VALLES, BARCELONA, SPAIN",
+            "製造廠公司地址": "",
+            "製造廠國別": "SPAIN",
+            "製程": "注射用水製造"
+        },
+        {
+            "製造廠名稱": "F460635000  GRIFOLS BIOLOGICALS LLC",
             "製造廠廠址": "13111 TEMPLE AVENUE, CITY OF INDUSTRY, CA 91746, USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
@@ -53,12 +60,32 @@
     ],
     "仿單外盒": [
         {
-            "title": "100004970001-105-06-01.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000497&Seq=007&Type=9"
+            "title": "AlphaNine Leaflet-107-10-29.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000497&Seq=011&Type=9"
         },
         {
-            "title": "100004970002-105-06-01.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000497&Seq=003&Type=8"
+            "title": "AlphaNine Vial Label-107-10-29.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000497&Seq=010&Type=9"
+        },
+        {
+            "title": "AlphaNine Diluent Label-107-10-29.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000497&Seq=009&Type=9"
+        },
+        {
+            "title": "AlphaNine Box-107-10-29.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000497&Seq=008&Type=9"
+        },
+        {
+            "title": "AlphaNine Vial Label-107-10-29.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000497&Seq=006&Type=8"
+        },
+        {
+            "title": "AlphaNine Diluent Label-107-10-29.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000497&Seq=005&Type=8"
+        },
+        {
+            "title": "AlphaNine Box-107-10-29.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000497&Seq=004&Type=8"
         }
     ]
 }

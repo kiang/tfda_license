@@ -1,7 +1,7 @@
 {
     "code": "02022363",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022363",
-    "time": "2016-11-18 20:11:12",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022363",
+    "time": "2018-11-30 03:03:38",
     "許可證字號": "衛署藥輸字第022363號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -23,15 +23,14 @@
         "D-ALPHA-TOCOPHER0L(MIXTOCOPHEROLSTYPE)"
     ],
     "限制項目": "02輸　入",
-    "申請商名稱": "0407901100  衛采製藥股份有限公司",
+    "申請商名稱": "M460719000  BIOSENSE WEBSTER INC.",
     "主製造廠": {
         "主製造廠": "",
         "製造廠名稱": "F260528000  SHIBAKAWA PLANT OF FUJI CAPSULE CO., LTD.",
         "製造廠廠址": "789, KAMIYUNO, FUJINOMIYA-SHI, SHIZUOKA-KEN, JAPAN",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30045000009 含有維他命或第２９３６節產品之其他醫藥製劑Other medicaments containing vitamins or other products of heading 29.36",
+    "CCC號列": "30045000009 其他醫藥製劑，含有維他命或第２９３６節之其他產品Other medicaments, containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
     "次製造廠": [
         {
@@ -42,11 +41,11 @@
             "製程": "委託包裝廠(貼標)"
         },
         {
-            "製造廠名稱": "F260826000  BUSHU PHARMACEUTICALS LTD. MISATO FACTORY",
-            "製造廠廠址": "950 HIROKI OHAZA MISATO-MACHI KODAMA-GUN SAITAMA-KEN, JAPAN",
+            "製造廠名稱": "F260993000  KOKANDO Co., Ltd. Kureha plant",
+            "製造廠廠址": "1602-1 Ikeda, Toyama City, Toyama, Japan",
             "製造廠公司地址": "",
             "製造廠國別": "JAPAN",
-            "製程": ""
+            "製程": "分包裝廠"
         }
     ],
     "ingredients": [
@@ -61,24 +60,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "juvelux_cap_SU35367-3_03-104-08-07(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022363&Seq=005&Type=9"
+            "title": "ELX-S Chinese PI-107-10-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022363&Seq=006&Type=9"
         },
         {
-            "title": "020223630004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022363&Seq=004&Type=9"
+            "title": "ELX-S Chinese bottle label_final-107-10-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022363&Seq=004&Type=8"
         },
         {
-            "title": "020223630003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022363&Seq=003&Type=9"
+            "title": "ELX-S Chinese bottle label-107-10-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022363&Seq=003&Type=8"
         },
         {
-            "title": "020223630002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022363&Seq=002&Type=9"
-        },
-        {
-            "title": "020223630001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022363&Seq=001&Type=9"
+            "title": "ELX-S Carton box-107-10-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022363&Seq=002&Type=8"
         }
     ]
 }

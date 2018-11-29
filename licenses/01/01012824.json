@@ -1,7 +1,7 @@
 {
     "code": "01012824",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01012824",
-    "time": "2017-07-21 13:35:20",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01012824",
+    "time": "2018-11-30 03:00:35",
     "許可證字號": "衛署藥製字第012824號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,20 +16,19 @@
     "英文品名": "LOW MOLECULAR DEXTRAN DEXTROSE INJECTION &quot;OTSUKA&quot;",
     "適應症": "出血時之血漿增量劑",
     "劑型": "270注射劑",
-    "包裝": "250,500公撮塑膠瓶裝附或不附輸液管",
+    "包裝": "250、500mLPP軟袋裝 塑膠瓶裝",
     "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
     "主成分略述": [
         "DEXTRAN40,DEXTROSE"
     ],
     "限制項目": "01國　產",
-    "申請商名稱": "1403301100  台灣大塚製藥股份有限公司",
+    "申請商名稱": "M460719000  BIOSENSE WEBSTER INC.",
     "主製造廠": {
         "主製造廠": "",
         "製造廠名稱": "1403304300  臺灣大塚製藥股份有限公司中壢工廠",
-        "製造廠廠址": "中壢市忠福里吉林路１５號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠廠址": "桃園市中壢區吉林路１５號",
+        "製造廠公司地址": ""
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -38,27 +37,55 @@
             "成分類別": "主成分",
             "成分代碼": "4012000700",
             "成分名稱": "DEXTRAN 40",
-            "含量描述": "10",
-            "含量": "10.0000000000",
-            "單位": "GM"
+            "含量描述": "",
+            "含量": "100.0000000000",
+            "單位": "MG"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "4020000500",
             "成分名稱": "DEXTROSE",
-            "含量描述": "5",
-            "含量": "5.0000000000",
-            "單位": "GM"
+            "含量描述": "",
+            "含量": "50.0000000000",
+            "單位": "MG"
+        }
+    ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "無色透明塑膠瓶裝",
+        "特殊劑型": "",
+        "顏色": "無色～淡黃色澄明液",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "LDD-105-10-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012824&Seq=001&Type=10"
         }
     ],
     "仿單外盒": [
         {
+            "title": "012824LDD仿單20181001-107-10-01.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012824&Seq=002&Type=9"
+        },
+        {
             "title": "大塚低分子血賜多朗滴注射液-103-02-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012824&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012824&Seq=001&Type=9"
+        },
+        {
+            "title": "012824標籤-107-10-01.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012824&Seq=004&Type=8"
+        },
+        {
+            "title": "附件12-LDD-250ml軟袋印刷-0702-107-10-01.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012824&Seq=003&Type=8"
         },
         {
             "title": "PP25-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012824&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01012824&Seq=002&Type=8"
         }
     ]
 }

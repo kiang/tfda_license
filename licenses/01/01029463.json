@@ -1,7 +1,7 @@
 {
     "code": "01029463",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01029463",
-    "time": "2015-08-22 23:37:59",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01029463",
+    "time": "2018-11-30 03:01:22",
     "許可證字號": "衛署藥製字第029463號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,27 +12,25 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102946308",
-    "中文品名": "\"中美\"潔芙樂乳膏",
-    "英文品名": "Jie Fu Le Cream \"C.M.\"",
+    "中文品名": "&quot;中美&quot;潔芙樂乳膏",
+    "英文品名": "Jie Fu Le Cream &quot;C.M.&quot;",
     "適應症": "皮膚因真菌群或念珠菌種所引起之皮膚感染症",
     "劑型": "363乳膏劑",
     "包裝": "管裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "07須經醫師指示使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "MICONAZOLE NITRATE, HYDROCORTISONE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "MICONAZOLENITRATE,HYDROCORTISONE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "620111A934  興中美生技有限公司",
-    "申請商地址": "臺北市內湖區基湖路35巷6號5樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0402211300  中美兄弟製藥股份有限公司",
         "製造廠廠址": "彰化市東芳里彰鹿路１０６號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30043200002 含有腎上腺皮質類固醇荷爾蒙，其衍生物及結構式類似者Containing adrenal corticosteroid hormones, their derivatives and structural analogues",
+    "CCC號列": "30043200002 其他醫藥製劑，含有腎上腺皮質類固醇荷爾蒙及其衍生物或結構式類似者Other medicaments, containing corticosteroid hormones, their derivatives or structural analogues",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -50,6 +48,32 @@
             "含量描述": "10",
             "含量": "10.0000000000",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "潔芙樂乳膏-說明書-107-09-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029463&Seq=002&Type=9"
+        },
+        {
+            "title": "0139-潔芙樂-仿單-104-11-19(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029463&Seq=001&Type=9"
+        },
+        {
+            "title": "潔芙樂乳膏-標籤-107-09-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029463&Seq=004&Type=8"
+        },
+        {
+            "title": "潔芙樂乳膏-軟管-107-09-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029463&Seq=003&Type=8"
+        },
+        {
+            "title": "潔芙樂乳膏-外盒-107-09-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029463&Seq=002&Type=8"
+        },
+        {
+            "title": "0139-潔芙樂-20g盒-104-12-24(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029463&Seq=001&Type=8"
         }
     ]
 }

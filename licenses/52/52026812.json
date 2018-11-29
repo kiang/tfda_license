@@ -1,7 +1,7 @@
 {
     "code": "52026812",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026812",
-    "time": "2016-06-24 04:23:03",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026812",
+    "time": "2018-11-30 03:06:31",
     "許可證字號": "衛部藥輸字第026812號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,28 +17,30 @@
     "適應症": "糖尿病治療藥",
     "劑型": "040（粉）",
     "包裝": "0.5公斤以上裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "01製劑原料",
-    "管制藥品分類級別": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        ""
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "620118D197  台灣荃新股份有限公司",
-    "申請商地址": "台北市中正區羅斯福路二段11號3樓",
     "主製造廠": {
-        "製造廠名稱": "F200312000  MSN PHARMACHEM PVT. LTD.",
-        "製造廠廠址": "PLOT NO.212\/A, B, C, D APIICL, PHASE-II, PASHAMYLARAM, MEDAK (DIST) PIN: 502 307,    ANDHARAPRADESH, INDIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "INDIA",
-        "製程": ""
+        "主製造廠": "",
+        "製造廠名稱": "F200312300  MSN PHARMACHEM PVT. LTD.",
+        "製造廠廠址": "Plot NO.212\/A, B, C, D, Phase-II, IDA Pashamylaram, Pashamylaram(Village), Patancheru (Mandal) Sangareddy District-502 307, Telangana State, India",
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "CCC號列": "29335990900 其他之結構中含嘧啶環（不論是否氫化）或六氫???環之化合物Other compounds containing a pyrimidine ring (whether or not hydrogenated) or piperazine ring in the structure",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "026812標籤-20181019-107-10-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026812&Seq=002&Type=8"
+        },
+        {
             "title": "201605241549-105-05-24.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026812&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026812&Seq=001&Type=8"
         }
     ]
 }

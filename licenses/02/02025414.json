@@ -1,7 +1,7 @@
 {
     "code": "02025414",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025414",
-    "time": "2016-11-18 20:41:44",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025414",
+    "time": "2018-11-30 03:04:38",
     "許可證字號": "衛署藥輸字第025414號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,13 +26,21 @@
     "申請商名稱": "6201010653  安強藥業股份有限公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "F200135000  CLARIS INJECTABLES LIMITED",
+        "製造廠名稱": "F200135100  Baxter Pharmaceuticals India Private Limited",
         "製造廠廠址": "CHACHARWADI-VASANA, AHMEDABAD-382 213, INDIA",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "6101111420  瑪里士實業有限公司",
+            "製造廠廠址": "臺北市內湖區舊宗路二段121巷30號2樓、32號2樓、2樓之1及36號4樓",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -43,54 +51,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "液體裝於玻璃安瓿",
+        "特殊劑型": "",
+        "顏色": "褐色",
+        "特殊氣味": "無",
+        "刻痕": "無",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "025414喜鐵福-104-02-25-105-01-05(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025414&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "喜鐵福中文仿單-104-02-25.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025414&Seq=005&Type=9"
-        },
-        {
-            "title": "喜鐵福仿單20131230-103-01-08.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025414&Seq=004&Type=9"
-        },
-        {
-            "title": "喜鐵福仿單20131230-103-01-06.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025414&Seq=003&Type=9"
-        },
-        {
-            "title": "喜鐵福中文仿單_2___20110614.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025414&Seq=002&Type=9"
-        },
-        {
-            "title": "喜鐵福中文仿單_1___20110614.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025414&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025414&Seq=005&Type=9"
         },
         {
             "title": "025414喜鐵福-104-02-25-105-01-05(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025414&Seq=007&Type=8"
-        },
-        {
-            "title": "025414喜鐵福-104-02-25.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025414&Seq=006&Type=8"
-        },
-        {
-            "title": "喜鐵福外觀圖2___20110614.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025414&Seq=005&Type=8"
-        },
-        {
-            "title": "喜鐵福外觀圖1___20110614.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025414&Seq=004&Type=8"
-        },
-        {
-            "title": "喜鐵福外盒圖___20110614.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025414&Seq=003&Type=8"
-        },
-        {
-            "title": "喜鐵福外文標籤___20110614.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025414&Seq=002&Type=8"
-        },
-        {
-            "title": "喜鐵福中文標籤___20110614.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025414&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025414&Seq=007&Type=8"
         }
     ]
 }

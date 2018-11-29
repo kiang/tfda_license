@@ -1,37 +1,34 @@
 {
     "code": "01026356",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01026356",
-    "time": "2015-08-22 22:26:50",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01026356",
+    "time": "2018-11-30 03:26:05",
     "許可證字號": "衛署藥製字第026356號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "107\/11\/07",
+    "註銷理由": "自請註銷",
     "有效日期": "107\/10\/16",
     "發證日期": "71\/10\/16",
     "許可證種類": "製　劑",
     "舊證字號": "00000000",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102635605",
-    "中文品名": "\"溫士頓\"溫釋黴素膠囊500毫克(西華杜西)",
-    "英文品名": "WINCEF CAPSULES 500MG (CEFADROXIL) \"WINSTON\"",
+    "中文品名": "&quot;溫士頓&quot;溫釋黴素膠囊500毫克(西華杜西)",
+    "英文品名": "WINCEF CAPSULES 500MG (CEFADROXIL) &quot;WINSTON&quot;",
     "適應症": "葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症",
     "劑型": "130膠囊劑",
     "包裝": "4-1000粒鋁箔盒裝 4-1000粒塑膠瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "CEFADROXIL (MONOHYDRATE)",
-    "限制項目": [
-        "01國產",
-        "1G不得製造"
+    "主成分略述": [
+        "CEFADROXIL(MONOHYDRATE)"
     ],
+    "限制項目": "01國　產 1G不得製造",
     "申請商名稱": "1217820200  溫士頓醫藥股份有限公司",
-    "申請商地址": "台南市永康區鹽洲里仁愛街１１７號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1217820300  溫士頓醫藥股份有限公司",
         "製造廠廠址": "台南市永康區鹽洲里仁愛街１１７號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30042000319 人用醫藥製劑，含頭孢子菌類抗生素者Medicaments, containing cephalosporins, for human use",
     "藥理治療分類": "",
@@ -57,26 +54,18 @@
     },
     "藥物辨識外觀圖片": [
         {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026356&Seq=161&Type=10"
+            "title": "01026356.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026356&Seq=161&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "010263560001-102-06-26.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026356&Seq=001&Type=9"
+            "title": "010263560001-102-06-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026356&Seq=001&Type=9"
         },
         {
-            "title": "010263560003-102-06-26.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026356&Seq=003&Type=8"
-        },
-        {
-            "title": "010263560002-102-06-26.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026356&Seq=002&Type=8"
-        },
-        {
-            "title": "010263560001-102-06-26.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026356&Seq=001&Type=8"
+            "title": "010263560003-102-06-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026356&Seq=003&Type=8"
         }
     ]
 }

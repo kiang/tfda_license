@@ -1,7 +1,7 @@
 {
     "code": "60000965",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60000965",
-    "time": "2017-06-16 03:29:01",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60000965",
+    "time": "2018-11-30 03:07:00",
     "許可證字號": "衛部菌疫輸字第000965號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,11 +28,19 @@
         "主製造廠": "",
         "製造廠名稱": "F430111100  CSL BEHRING AG",
         "製造廠廠址": "WANKDORFSTRASSE 10, 3014 BERN, SWITZERLAND",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "F438062000  CSL BEHRING AG",
+            "製造廠廠址": "UNTERMATTWEG 8, CH-3027 BERN, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": "包裝"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -45,12 +53,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "Privigen 105.10.05仿單-105-10-05.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000965&Seq=004&Type=9"
+            "title": "貝靈 瑞利勁人體免疫球蛋白靜脈注射液10%(2017-08)-106-09-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000965&Seq=005&Type=9"
+        },
+        {
+            "title": "Privigen-106-09-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000965&Seq=004&Type=8"
         },
         {
             "title": "Privigen 外盒標簽-105-10-05.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000965&Seq=003&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000965&Seq=003&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "02022794",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022794",
-    "time": "2016-11-18 20:15:25",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022794",
+    "time": "2018-11-30 03:03:43",
     "許可證字號": "衛署藥輸字第022794號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -23,15 +23,14 @@
         "NICOTINAMIDE,BISBENTIAMINE(THIAMINEO-BENZOYLDISULFIDE),PYRIDOXINEHCL,CYANOCOBALAMIN(VITB12),TOCOPHEROLCALCIUMSUCCINATE"
     ],
     "限制項目": "02輸　入",
-    "申請商名稱": "0804701100  佳洋藥品股份有限公司",
+    "申請商名稱": "M460719000  BIOSENSE WEBSTER INC.",
     "主製造廠": {
         "主製造廠": "",
         "製造廠名稱": "F260255000  SSP Co., Ltd., Narita Plant",
         "製造廠廠址": "1143, NANPEIDAI, NARITA, CHIBA, JAPAN",
-        "製造廠公司地址": "12-4, 2-CHOME, HAMACHO, NIHONBASHI, CHUO-KU, TOKYO, JAPAN",
-        "": ""
+        "製造廠公司地址": "3-20-2, Nishi Shinjuku, Shinjuku-ku, Tokyo 163-1488, Japan"
     },
-    "CCC號列": "30045000009 含有維他命或第２９３６節產品之其他醫藥製劑Other medicaments containing vitamins or other products of heading 29.36",
+    "CCC號列": "30045000009 其他醫藥製劑，含有維他命或第２９３６節之其他產品Other medicaments, containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -75,34 +74,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "無",
+        "形狀": "圓凸形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "tablet of Esfight Gold DX-106-06-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022794&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "leaflet 2015-104-08-13(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022794&Seq=003&Type=9"
+            "title": "愛斯飛特 糖衣錠-107-10-04.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022794&Seq=004&Type=9"
         },
         {
-            "title": "20150703082848754-104-07-03.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022794&Seq=002&Type=9"
-        },
-        {
-            "title": "020227940001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022794&Seq=001&Type=9"
-        },
-        {
-            "title": "瓶標與中文標-104-10-12(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022794&Seq=004&Type=8"
-        },
-        {
-            "title": "box 2015-104-10-12(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022794&Seq=003&Type=8"
-        },
-        {
-            "title": "20150703外盒-104-07-03.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022794&Seq=002&Type=8"
-        },
-        {
-            "title": "20150703玻璃瓶 & 標籤 -104-07-03.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022794&Seq=001&Type=8"
+            "title": "愛斯飛特 糖衣錠-107-10-04.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022794&Seq=005&Type=8"
         }
     ]
 }
