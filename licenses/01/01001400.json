@@ -1,7 +1,7 @@
 {
     "code": "01001400",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01001400",
-    "time": "2017-07-21 11:13:15",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01001400",
+    "time": "2018-12-07 03:00:27",
     "許可證字號": "衛署藥製字第001400號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,8 +12,8 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00100140000",
-    "中文品名": "&quot;東洲&quot;普樂非林錠",
-    "英文品名": "PROPHYLLIN TABLETS",
+    "中文品名": "&quot;大豐&quot;普樂非林錠",
+    "英文品名": "PROPHYLLIN TABLETS&quot;T.F.&quot;",
     "適應症": "氣喘及支氣管痙攣",
     "劑型": "110錠劑",
     "包裝": "100,500,1000粒瓶裝",
@@ -22,16 +22,15 @@
     "主成分略述": [
         "DYPHYLLINE"
     ],
-    "限制項目": "01國　產 09委託製造",
-    "申請商名稱": "6231147074  東洲化學製藥廠股份有限公司",
+    "限制項目": "01國　產",
+    "申請商名稱": "0306811200  大豐製藥股份有限公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "0201504300  人人化學製藥股份有限公司中壢廠",
-        "製造廠廠址": "中壢市中壢工業區南園二路３號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠名稱": "0306811300  大豐製藥股份有限公司",
+        "製造廠廠址": "彰化縣彰化市延平里岸頭巷11號",
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30044099004 其他醫藥製劑，含有生物鹼或其衍生物，但未含內分泌素，第２９３７節之其他產品或抗生素者Other medicaments, containing alkaloids or derivatives thereof but not containing hormones, other products of heading 29.37 or antibiotics",
+    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -55,18 +54,34 @@
     },
     "藥物辨識外觀圖片": [
         {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001400&Seq=007&Type=10"
+            "title": "普樂非林錠-外觀-107-11-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001400&Seq=008&Type=10"
+        },
+        {
+            "title": "01001400.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001400&Seq=007&Type=10"
         }
     ],
     "仿單外盒": [
         {
+            "title": "普樂非林錠-說明書-107-11-01.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001400&Seq=002&Type=9"
+        },
+        {
             "title": "010014000001仿單-普樂非林錠( 賦)-104-12-31(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001400&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001400&Seq=001&Type=9"
+        },
+        {
+            "title": "普樂非林錠-貼標-107-11-01.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001400&Seq=003&Type=8"
+        },
+        {
+            "title": "普樂非林錠-外觀-107-11-01.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001400&Seq=002&Type=8"
         },
         {
             "title": "0010014000002標籤-普樂非林錠-104-12-31(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001400&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001400&Seq=001&Type=8"
         }
     ]
 }
