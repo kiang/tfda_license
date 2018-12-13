@@ -1,7 +1,7 @@
 {
     "code": "01017383",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01017383",
-    "time": "2018-06-22 04:30:19",
+    "time": "2018-12-14 03:01:07",
     "許可證字號": "衛署藥製字第017383號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,11 +16,11 @@
     "英文品名": "ANTICOLD CAPSULES &quot;CHINTENG&quot;",
     "適應症": "緩解感冒之各種症狀（鼻塞、流鼻水、打噴嚏、咳嗽、咽喉痛、發燒、頭痛、關節痛、肌肉痛）",
     "劑型": "130膠囊劑",
-    "包裝": "6-1000粒瓶裝 6-1000粒罐裝 6-1000粒鋁箔盒裝",
+    "包裝": "6-1000粒塑膠瓶裝 6-1000粒PTP 鋁箔盒裝",
     "標籤、仿單及包裝加註": "",
-    "藥品類別": "07須經醫師指示使用",
+    "藥品類別": "17醫師藥師藥劑生指示藥品",
     "主成分略述": [
-        "CHLORPHENIRAMINEMALEATE,DL-METHYLEPHEDRINEHCL,ETHENZAMIDE(ETHOXYBENZAMIDE),CAFFEINEANHYDROUS,HYDROXYBUTYRICACIDBETA-P-PHENETIDIDE(BUCETIN),NOSCAPINE"
+        "CHLORPHENIRAMINEMALEATE,DL-METHYLEPHEDRINEHCL,ETHENZAMIDE(ETHOXYBENZAMIDE),CAFFEINEANHYDROUS,NOSCAPINE"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "6103030017  井田國際醫藥廠股份有限公司",
@@ -67,14 +67,6 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "4040000412",
-            "成分名稱": "HYDROXYBUTYRIC ACID BETA- P-PHENETIDIDE (BUCETIN)",
-            "含量描述": "",
-            "含量": "160.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "4800002400",
             "成分名稱": "NOSCAPINE",
             "含量描述": "",
@@ -84,8 +76,24 @@
     ],
     "仿單外盒": [
         {
+            "title": "010173830001仿單-107-11-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01017383&Seq=005&Type=9"
+        },
+        {
             "title": "010173830004.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01017383&Seq=004&Type=9"
+        },
+        {
+            "title": "010173830003花盒-107-11-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01017383&Seq=003&Type=8"
+        },
+        {
+            "title": "010173830002標籤-107-11-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01017383&Seq=002&Type=8"
+        },
+        {
+            "title": "010173830004鋁箔-107-11-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01017383&Seq=001&Type=8"
         }
     ]
 }

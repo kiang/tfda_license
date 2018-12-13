@@ -1,7 +1,7 @@
 {
     "code": "08016638",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016638",
-    "time": "2015-08-23 19:36:02",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016638",
+    "time": "2018-12-14 03:36:39",
     "許可證字號": "衛署粧輸字第016638號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,22 +17,20 @@
     "用途": "防曬保濕，隔離紫外線。",
     "劑型": "992霜劑",
     "包裝": "500ml以下瓶裝 附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0708防晒面霜",
-    "": "",
-    "主成分略述": "BUTYL METHOXYDIBENZOYLMETHANE, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, OCTOCRYLENE, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "BUTYLMETHOXYDIBENZOYLMETHANE,DIETHYLAMINOHYDROXYBENZOYLHEXYLBENZOATE,OCTOCRYLENE,BIS-ETHYLHEXYLOXYPHENOLMETHOXYPHENYLTRIAZINE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "0713521100  利百美興業股份有限公司",
-    "申請商地址": "高雄市三民區九如二路366號11樓之1",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C430045000  SERVICOS AG",
         "製造廠廠址": "ALTE LYSS-STRASSE 12 CH-3270 AARBERG SWITZERLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -66,6 +64,12 @@
             "含量描述": "",
             "含量": "0.4000000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08016638-2009-11-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016638&Seq=001&Type=9"
         }
     ]
 }

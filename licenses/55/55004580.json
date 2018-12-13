@@ -1,7 +1,7 @@
 {
     "code": "55004580",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=55004580",
-    "time": "2017-02-24 03:24:43",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=55004580",
+    "time": "2018-12-14 03:17:55",
     "許可證字號": "衛部醫器製字第004580號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,7 +15,7 @@
     "中文品名": "“眾里”陽壓呼吸器",
     "英文品名": "“Acare” CPAP system",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "CPA-100, CPA-200\r\n以下空白。\r\n規格變更：CPA100。",
+    "醫器規格": "CPA-100, CPA-200\r\n以下空白。\r\n規格變更：CPA100。\r\n增加規格：CPA-300、CPA-500、CPA-600。",
     "劑型": "",
     "包裝": "",
     "標籤、仿單及包裝加註": "",
@@ -37,17 +37,28 @@
         "製造廠公司地址": "",
         "": ""
     },
-    "CCC號列": "90192030001 人工呼吸器Artifical respiration apparatus",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "中文仿單-105-12-12.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55004580&Seq=003&Type=9"
+            "title": "550045800003-107-11-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55004580&Seq=004&Type=9"
         },
         {
-            "title": "550045800002-103-06-10.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55004580&Seq=001&Type=8"
+            "title": "中文仿單-105-12-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55004580&Seq=003&Type=9"
+        },
+        {
+            "title": "550045800001-103-06-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55004580&Seq=001&Type=9"
+        },
+        {
+            "title": "550045800003-107-11-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55004580&Seq=002&Type=8"
+        },
+        {
+            "title": "550045800002-103-06-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55004580&Seq=001&Type=8"
         }
     ]
 }

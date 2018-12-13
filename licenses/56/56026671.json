@@ -1,7 +1,7 @@
 {
     "code": "56026671",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026671",
-    "time": "2016-10-28 03:50:03",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026671",
+    "time": "2018-12-14 03:20:08",
     "許可證字號": "衛部醫器輸字第026671號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,7 +15,7 @@
     "中文品名": "“愛爾康”威力揚影像導引系統及其附件",
     "英文品名": "“Alcon” Verion Image Guided System and Accessories",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "詳如中文仿單核定本",
+    "醫器規格": "詳如中文仿單核定本。\r\n增加規格：VERION Reference Unit 3.1(型號：8065998268)、VERION Digital Marker L 3.1(型號：8065998269)、VERION Digital Marker M 3.1(型號： 8065998270)、VERION Digital Marker M for VlynK(型號：8065998281)。",
     "劑型": "",
     "包裝": "",
     "標籤、仿單及包裝加註": "",
@@ -32,22 +32,25 @@
     "申請商名稱": "1304601100  瑞士商愛爾康大藥廠股份有限公司台灣分公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "M471147000  Alcon GPS-WaveLight GmbH",
+        "製造廠名稱": "M471147000  WaveLight GmbH",
         "製造廠廠址": "Rheinstr. 8 D-14513 Teltow Germany",
         "製造廠公司地址": "",
         "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "010266710001-103-12-01.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026671&Seq=001&Type=9"
+            "title": "中文仿單-107-11-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026671&Seq=002&Type=9"
         },
         {
             "title": "010266710001-103-12-01.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026671&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026671&Seq=001&Type=9"
+        },
+        {
+            "title": "010266710001-103-12-01.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026671&Seq=001&Type=8"
         }
     ]
 }

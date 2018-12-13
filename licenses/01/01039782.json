@@ -1,7 +1,7 @@
 {
     "code": "01039782",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01039782",
-    "time": "2017-04-28 03:27:18",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01039782",
+    "time": "2018-12-14 03:02:44",
     "許可證字號": "衛署藥製字第039782號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
     "主成分略述": [
-        "CEFTRIAXONE(DISODIUM3.5H2O),LIDOCAINEINJECTION1%"
+        "CEFTRIAXONE(DISODIUM3.5H2O)"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "1304820200  瑞士藥廠股份有限公司",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "1304820200  瑞士藥廠股份有限公司新市廠",
         "製造廠廠址": "台南市新市區中山路182號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30042000319 人用醫藥製劑，含頭孢子菌類抗生素者Medicaments, containing cephalosporins, for human use",
     "藥理治療分類": "",
@@ -38,7 +37,7 @@
             "成分類別": "主成分",
             "成分代碼": "0812693015",
             "成分名稱": "CEFTRIAXONE (DISODIUM 3.5H2O)",
-            "含量描述": "(POTENCY)",
+            "含量描述": "(298.3 MG) POTENCY",
             "含量": "250.0000000000",
             "單位": "MG"
         },
@@ -46,7 +45,7 @@
             "成分類別": "主成分",
             "成分代碼": "0812693015",
             "成分名稱": "CEFTRIAXONE (DISODIUM 3.5H2O)",
-            "含量描述": "(potency)",
+            "含量描述": "(598.5 MG) POTENCY",
             "含量": "500.0000000000",
             "單位": "MG"
         },
@@ -54,43 +53,63 @@
             "成分類別": "主成分",
             "成分代碼": "0812693015",
             "成分名稱": "CEFTRIAXONE (DISODIUM 3.5H2O)",
-            "含量描述": "(potency)",
+            "含量描述": "(1193 MG) POTENCY",
             "含量": "1000.0000000000",
             "單位": "MG"
-        },
+        }
+    ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "白色至淡黃白色",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
         {
-            "成分類別": "主成分",
-            "成分代碼": "7200001002",
-            "成分名稱": "LIDOCAINE INJECTION 1%",
-            "含量描述": "",
-            "含量": "2.0000000000",
-            "單位": "ML"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "7200001002",
-            "成分名稱": "LIDOCAINE INJECTION 1%",
-            "含量描述": "",
-            "含量": "2.0000000000",
-            "單位": "ML"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "7200001002",
-            "成分名稱": "LIDOCAINE INJECTION 1%",
-            "含量描述": "",
-            "含量": "3.5000000000",
-            "單位": "ML"
+            "title": "T25-vial-104-09-28(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039782&Seq=001&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "T25-得力伏肌肉注射劑-仿單-105-12-09(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039782&Seq=003&Type=9"
+            "title": "得力伏肌肉注射劑-仿單-107-11-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039782&Seq=006&Type=9"
+        },
+        {
+            "title": "T25得力伏肌肉039782仿單1070914-107-09-14(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039782&Seq=005&Type=9"
+        },
+        {
+            "title": "得力伏肌肉注射劑1000mg標籤-107-11-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039782&Seq=007&Type=8"
+        },
+        {
+            "title": "得力伏肌肉注射劑500mg 標籤-107-11-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039782&Seq=006&Type=8"
+        },
+        {
+            "title": "得力伏肌肉注射劑250mg標籤-107-11-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039782&Seq=005&Type=8"
+        },
+        {
+            "title": "得力伏肌肉注射劑1000mg上光盒-107-11-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039782&Seq=004&Type=8"
+        },
+        {
+            "title": "得力伏肌肉注射劑500mg上光盒-107-11-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039782&Seq=003&Type=8"
+        },
+        {
+            "title": "得力伏肌肉注射劑250mg上光盒-107-11-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039782&Seq=002&Type=8"
         },
         {
             "title": "T25-外盒-104-09-28(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039782&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039782&Seq=001&Type=8"
         }
     ]
 }

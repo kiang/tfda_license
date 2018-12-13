@@ -1,7 +1,7 @@
 {
     "code": "07006231",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07006231",
-    "time": "2017-06-16 03:52:22",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07006231",
+    "time": "2018-12-14 03:24:41",
     "許可證字號": "衛署粧製字第006231號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
     "主成分略述": [
-        "AMMONIASOLUTION(28%),HYDROGENPEROXIDE(35%),RESORCINOL(RESORCIN),CRESOLO-P-AMINO(EQTO5-AMINO-O-CRESOL)(EQTOP-AMINO-O-CRESOL),P-AMINOPHENOL,2-METHYLRESORCINOL,TOLUENE-2,5-DIAMINESULFATE,1-HYDROXYETHYL-4,5-DIAMINE-PYRAZOLESULFATE"
+        "AMMONIASOLUTION(28%),HYDROGENPEROXIDE(35%),RESORCINOL(RESORCIN),CRESOLO-P-AMINO(EQTO5-AMINO-O-CRESOL)(EQTOP-AMINO-O-CRESOL),4-AMINO-M-CRESOL,P-AMINOPHENOL,2-METHYLRESORCINOL,TOLUENE-2,5-DIAMINESULFATE,1-HYDROXYETHYL-4,5-DIAMINE-PYRAZOLESULFATE"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "0300102200  大川實業有限公司",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "0300102200  大川實業有限公司",
         "製造廠廠址": "新北市新莊區復興路３段６１號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "": "",
     "藥理治療分類": "",
@@ -47,7 +46,7 @@
             "成分代碼": "8428000500",
             "成分名稱": "RESORCINOL (RESORCIN)",
             "含量描述": "",
-            "含量": "0.7260000000",
+            "含量": "0.7310000000",
             "單位": "%(W\/W)"
         },
         {
@@ -55,7 +54,15 @@
             "成分代碼": "9200002612",
             "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
             "含量描述": "",
-            "含量": "0.1620000000",
+            "含量": "0.1560000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200002632",
+            "成分名稱": "4-AMINO-M-CRESOL",
+            "含量描述": "",
+            "含量": "0.1410000000",
             "單位": "%(W\/W)"
         },
         {
@@ -63,7 +70,7 @@
             "成分代碼": "9200035440",
             "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
-            "含量": "1.0250000000",
+            "含量": "0.9000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -79,7 +86,7 @@
             "成分代碼": "9900066200",
             "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
             "含量描述": "",
-            "含量": "0.8060000000",
+            "含量": "0.8200000000",
             "單位": "%(W\/W)"
         },
         {
@@ -101,8 +108,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "07006231___20120723.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006231&Seq=001&Type=8"
+            "title": "07006231-107-11-15.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006231&Seq=002&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "56027596",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027596",
-    "time": "2017-06-16 03:10:10",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027596",
+    "time": "2018-12-14 03:20:31",
     "許可證字號": "衛部醫器輸字第027596號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,7 +15,7 @@
     "中文品名": "“火山”薇娜塔壓力偵測導線",
     "英文品名": "“Volcano” Verrata Pressure Guide Wire",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "10185, 10185J, 10300, 10300J\r\n以下空白",
+    "醫器規格": "10185, 10185J, 10300, 10300J\r\n以下空白。\r\n增加規格：10185P, 10185JP, 10300P, 10300JP。",
     "劑型": "",
     "包裝": "",
     "標籤、仿單及包裝加註": "",
@@ -32,7 +32,7 @@
     "申請商名稱": "0416401100  六霖企業有限公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "M090017000  Volcarica S.R.L.",
+        "製造廠名稱": "M090017000  Volcano Corporation by Volcarica S.R.L.",
         "製造廠廠址": "Coyol Free Zone and Business Park, Building B37 Coyol, Costa Rica",
         "製造廠公司地址": "",
         "": ""
@@ -41,12 +41,16 @@
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "中文仿單-107-01-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027596&Seq=002&Type=9"
+        },
+        {
             "title": "560275960001-104-09-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027596&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027596&Seq=001&Type=9"
         },
         {
             "title": "560275960002-104-09-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027596&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027596&Seq=001&Type=8"
         }
     ]
 }

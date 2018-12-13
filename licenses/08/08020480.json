@@ -1,7 +1,7 @@
 {
     "code": "08020480",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08020480",
-    "time": "2018-10-12 03:49:16",
+    "time": "2018-12-14 03:24:48",
     "許可證字號": "衛署粧輸字第020480號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,8 +12,8 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00802048002",
-    "中文品名": "富麗絲染髮系列 摩卡棕色第1、2劑。\r\n富麗絲染髮系列 薄荷灰 第1劑、第2劑。",
-    "英文品名": "FRESH LIGHT HAIR COLOR MELTY MOCHA 、FRESH LIGHT DEVELOPER M。\r\nFresh Light Milky Color Mint Ash。",
+    "中文品名": "富麗絲染髮系列 摩卡棕色第1、2劑。\r\n富麗絲染髮系列 薄荷灰 第1劑、第2劑。\r\n富麗絲染髮系列 銀河灰綠第1、2劑。",
+    "英文品名": "FRESH LIGHT HAIR COLOR MELTY MOCHA 、FRESH LIGHT DEVELOPER M。\r\nFresh Light Milky Color Mint Ash。\r\nFRESH LIGHT MILKY COLOR GREEN ASH；FRESH LIGHT DEVELOPER M。",
     "用途": "染髮。",
     "劑型": "982膏劑＋液劑",
     "包裝": "500公克以下管裝附外盒",
@@ -120,9 +120,53 @@
             "含量描述": "",
             "含量": "0.9600000000",
             "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2820000102",
+            "成分名稱": "AMMONIA WATER (AMMONIUM HYDROXIDE)",
+            "含量描述": "",
+            "含量": "4.3225680000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8428000500",
+            "成分名稱": "RESORCINOL (RESORCIN)",
+            "含量描述": "",
+            "含量": "0.5000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200035440",
+            "成分名稱": "P-AMINOPHENOL",
+            "含量描述": "",
+            "含量": "0.0300000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9400003810",
+            "成分名稱": "2,4-DIAMINOPHENOXYETHANOL HCL (EQ TO 2,4-DIAMINOPHENOXYETHANOL DIHYDROCHLORIDE)",
+            "含量描述": "",
+            "含量": "0.1000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900066200",
+            "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
+            "含量描述": "",
+            "含量": "1.0000000000",
+            "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "08020480-107-11-15.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08020480&Seq=003&Type=8"
+        },
         {
             "title": "08020480-107-08-22.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08020480&Seq=002&Type=8"

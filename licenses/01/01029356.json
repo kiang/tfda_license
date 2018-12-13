@@ -1,12 +1,12 @@
 {
     "code": "01029356",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01029356",
-    "time": "2015-09-25 04:16:42",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01029356",
+    "time": "2018-12-14 03:27:18",
     "許可證字號": "衛署藥製字第029356號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/01\/08",
+    "有效日期": "113\/01\/08",
     "發證日期": "76\/01\/08",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -17,22 +17,20 @@
     "適應症": "梅尼艾氏症候群所引起之眩暈、聽力障礙",
     "劑型": "110錠劑",
     "包裝": "6-1000粒PTP包裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "BETAHISTINE MESYLATE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "BETAHISTINEMESYLATE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0407901100  衛采製藥股份有限公司",
-    "申請商地址": "台北市長安東路一段十八號九樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "6105140025  保瑞藥業股份有限公司",
         "製造廠廠址": "台南市官田區二鎮里工業西路54號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -56,42 +54,18 @@
     },
     "藥物辨識外觀圖片": [
         {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029356&Seq=188&Type=10"
+            "title": "MRS 12 Tab Photo-104-09-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029356&Seq=189&Type=10"
         }
     ],
     "仿單外盒": [
         {
             "title": "MRS PI_F013031007-校對140x237-104-07-02.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029356&Seq=008&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029356&Seq=008&Type=9"
         },
         {
-            "title": "010293560007.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029356&Seq=007&Type=9"
-        },
-        {
-            "title": "010293560006.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029356&Seq=006&Type=9"
-        },
-        {
-            "title": "010293560005.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029356&Seq=005&Type=9"
-        },
-        {
-            "title": "010293560004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029356&Seq=004&Type=9"
-        },
-        {
-            "title": "010293560003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029356&Seq=003&Type=9"
-        },
-        {
-            "title": "010293560002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029356&Seq=002&Type=9"
-        },
-        {
-            "title": "010293560001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029356&Seq=001&Type=9"
+            "title": "Merislon 12mg_packaging materials-106-06-20(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029356&Seq=003&Type=8"
         }
     ]
 }

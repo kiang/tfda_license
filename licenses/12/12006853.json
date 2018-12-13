@@ -1,12 +1,12 @@
 {
     "code": "12006853",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12006853",
-    "time": "2016-03-25 04:51:58",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12006853",
+    "time": "2018-12-14 03:29:36",
     "許可證字號": "內衛藥製字第006853號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/12\/31",
+    "有效日期": "112\/12\/31",
     "發證日期": "59\/07\/28",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -17,24 +17,20 @@
     "適應症": "焦慮狀態、急性酒精戒斷症候群",
     "劑型": "119糖衣錠",
     "包裝": "瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "D第四級管制藥品",
-    "主成分略述": "CHLORDIAZEPOXIDE",
-    "限制項目": [
-        "01國產",
-        "1G不得製造",
-        "34第四級管制藥品"
+    "主成分略述": [
+        "CHLORDIAZEPOXIDE"
     ],
+    "限制項目": "01國　產 1G不得製造 34第四級管制藥品",
     "申請商名稱": "6231147074  東洲化學製藥廠股份有限公司",
-    "申請商地址": "新北市蘆洲區中山二路195巷12號1-2樓",
     "主製造廠": {
-        "製造廠名稱": "0801902300  東洲化學製藥廠股份有限公司",
-        "製造廠廠址": "新北市蘆洲區中山二路１９５巷１２號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "主製造廠": "",
+        "製造廠名稱": "0804410300  明大化學製藥股份有限公司",
+        "製造廠廠址": "台中市外埔區水美村水美路５２號",
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -44,6 +40,16 @@
             "含量描述": "",
             "含量": "10.0000000000",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "120068530001仿單-安平糖衣(賦)-104-12-31(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12006853&Seq=001&Type=9"
+        },
+        {
+            "title": "120068530002標籤-安平糖衣(賦)-104-12-31(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12006853&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "02021840",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021840",
-    "time": "2017-04-28 03:39:16",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021840",
+    "time": "2018-12-14 03:04:53",
     "許可證字號": "衛署藥輸字第021840號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "F470296000  FARMACEUTICI FORMENTI S.P.A",
         "製造廠廠址": "VIA DI VITTORIO, 2, 21040 ORIGGIO (VA) ITALY",
-        "製造廠公司地址": "Via Vittor Pisani16 20124, Milano Italy",
-        "": ""
+        "製造廠公司地址": "Via Vittor Pisani16 20124, Milano Italy"
     },
     "CCC號列": "30049099414 醫藥製劑，含有特拉嗎竇者Medicaments, containing Tramadol",
     "藥理治療分類": "",
@@ -56,26 +55,30 @@
         "外觀尺寸": "",
         "特殊劑型": "",
         "顏色": "白色",
-        "特殊氣味": "",
-        "刻痕": "",
-        "形狀": "圓扁形",
-        "標記一": "T1",
-        "標記二": "禾利行5"
+        "特殊氣味": "無",
+        "刻痕": "無",
+        "形狀": "圓凸形",
+        "標記一": "製造廠logo",
+        "標記二": "T1"
     },
     "藥物辨識外觀圖片": [
         {
             "title": "02021840-Tramal Retard 100mg-藥物實體照片-104-09-23(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021840&Seq=432&Type=10"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021840&Seq=432&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "020218400001-104-08-20(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021840&Seq=002&Type=9"
+            "title": "克能達舒敏長效錠劑-中文仿單-107-11-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021840&Seq=005&Type=9"
         },
         {
-            "title": "020218400003-blister-104-09-23(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021840&Seq=003&Type=8"
+            "title": "020218400002-Tramal Tabs-carton-107-01-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021840&Seq=005&Type=8"
+        },
+        {
+            "title": "020218400002-Tramal Tabs-Blister-107-01-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021840&Seq=004&Type=8"
         }
     ]
 }

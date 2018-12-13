@@ -1,12 +1,12 @@
 {
     "code": "02025878",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025878",
-    "time": "2017-02-24 03:15:02",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025878",
+    "time": "2018-12-14 03:05:43",
     "許可證字號": "衛署藥輸字第025878號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/12\/18",
+    "有效日期": "111\/12\/18",
     "發證日期": "101\/12\/18",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "F020046100  GlaxoSmithKline Consumer Healthcare Australia Pty Ltd.",
         "製造廠廠址": "82 HUGHES AVENUE, ERMINGTON NSW 2115, AUSTRALIA",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -59,14 +58,34 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "17.7mm x 7.1mm",
+        "特殊劑型": "",
+        "顏色": "淺藍",
+        "特殊氣味": "無",
+        "刻痕": "有",
+        "形狀": "長圓柱形",
+        "標記一": "橢圓形內有太陽符號",
+        "標記二": "無"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "020258780005-105-01-13(廠商自行上傳).PDF",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025878&Seq=003&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "普拿疼伏冒止咳錠_仿單20161226-105-12-28.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025878&Seq=004&Type=9"
+            "title": "Panadol Cough & Cold caplets_Leaflet 20180920-107-11-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025878&Seq=007&Type=9"
+        },
+        {
+            "title": "衛署藥輸字第025878號 普拿疼伏冒止咳錠(12s)_C3118P_carton_171031-106-11-01(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025878&Seq=008&Type=8"
         },
         {
             "title": "普拿疼伏冒止咳錠_外盒20161226-105-12-28.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025878&Seq=006&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025878&Seq=006&Type=8"
         }
     ]
 }

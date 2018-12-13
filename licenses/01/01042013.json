@@ -1,12 +1,12 @@
 {
     "code": "01042013",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01042013",
-    "time": "2016-11-18 14:26:13",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01042013",
+    "time": "2018-12-14 03:03:04",
     "許可證字號": "衛署藥製字第042013號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/10\/28",
+    "有效日期": "111\/10\/28",
     "發證日期": "87\/03\/17",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "0505720300  正和製藥股份有限公司新營廠",
         "製造廠廠址": "台南市新營區嘉芳里新工路２３號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "33051000102 含藥洗髮劑及潤絲劑（去頭皮屑，止頭皮癢用）Medicated shampoos and rinse (for antidandruff, antiitching)",
     "藥理治療分類": "",
@@ -43,30 +42,42 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "玫瑰紅色液體",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "010420130004-外觀-104-09-29(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042013&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "010420130001-仿單賦形劑-104-12-22(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042013&Seq=003&Type=9"
+            "title": "萌髮康力諾1%抗屑洗髮精(衛署藥製042013號)_仿單-107-10-31.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042013&Seq=004&Type=9"
         },
         {
-            "title": "010420130001-102-07-10.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042013&Seq=001&Type=9"
+            "title": "010420130001-仿單賦形劑-104-12-22(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042013&Seq=003&Type=9"
+        },
+        {
+            "title": "萌髮康力諾1%抗屑洗髮精(衛署藥製042013號)_外盒-107-10-31.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042013&Seq=006&Type=8"
+        },
+        {
+            "title": "萌髮康力諾1%抗屑洗髮精(衛署藥製042013號)_標籤-107-10-31.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042013&Seq=005&Type=8"
         },
         {
             "title": "010420130003-標籤-104-09-29(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042013&Seq=004&Type=8"
-        },
-        {
-            "title": "010420130002-外盒120ml-104-09-29(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042013&Seq=003&Type=8"
-        },
-        {
-            "title": "010420130003-102-07-10.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042013&Seq=002&Type=8"
-        },
-        {
-            "title": "010420130002-102-07-10.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042013&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042013&Seq=004&Type=8"
         }
     ]
 }

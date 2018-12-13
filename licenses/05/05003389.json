@@ -1,7 +1,7 @@
 {
     "code": "05003389",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05003389",
-    "time": "2016-12-30 03:36:35",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05003389",
+    "time": "2018-12-14 03:09:02",
     "許可證字號": "衛署醫器製字第003389號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,7 +15,7 @@
     "中文品名": "傑恩美德醫用輔助襪",
     "英文品名": "JIANIMED MEDICAL SUPPORT STOCKING",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "詳如中文仿單核定本",
+    "醫器規格": "詳如中文仿單核定本\r\n新增規格：詳如中文仿單核定本（原100年9月7日仿單標籤核定本收回作廢）。",
     "劑型": "",
     "包裝": "",
     "標籤、仿單及包裝加註": "",
@@ -37,17 +37,24 @@
         "製造廠公司地址": "",
         "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "050033890002___20120102.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003389&Seq=001&Type=9"
+            "title": "050033890002-107-11-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003389&Seq=003&Type=9"
         },
         {
-            "title": "050033890001___20120102.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003389&Seq=001&Type=8"
+            "title": "050033890001-107-11-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003389&Seq=002&Type=9"
+        },
+        {
+            "title": "050033890002-107-11-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003389&Seq=003&Type=8"
+        },
+        {
+            "title": "050033890001-107-11-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003389&Seq=002&Type=8"
         }
     ]
 }

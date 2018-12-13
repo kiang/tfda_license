@@ -1,7 +1,7 @@
 {
     "code": "02023218",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023218",
-    "time": "2016-11-25 03:27:13",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023218",
+    "time": "2018-12-14 03:04:58",
     "許可證字號": "衛署藥輸字第023218號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,7 +16,7 @@
     "英文品名": "CLINIMIX N17G35E SOLUTION FOR INFUSION &quot;BAXTER&quot;",
     "適應症": "用於非經腸道營養，當腸無法吸收或吸收不良，經判斷為不可經腸道營養時使用。",
     "劑型": "270注射劑",
-    "包裝": "2000(1000mlX2)1000(500X2)1500(750X2)軟袋裝",
+    "包裝": "2000(1000mlX2)1000(500X2)1500(750X2)軟袋裝 軟袋設計及管口材質軟袋裝",
     "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
     "主成分略述": [
@@ -26,13 +26,21 @@
     "申請商名稱": "0617501100  百特醫療產品股份有限公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "F130179000  BAXTER HEALTHCARE LTD.",
-        "製造廠廠址": "CAXTON WAY THETFORD NORFOLK UNITED KINGDOM IP24 3SE",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠名稱": "M050829000  Baxter S.A.",
+        "製造廠廠址": "Boulevard Ren&#233; Branquart 80, 7860 Lessines,Belgium",
+        "製造廠公司地址": ""
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "6132051324  泛泰醫療產品股份有限公司",
+            "製造廠廠址": "桃園市蘆竹區海湖里海山東街482號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -47,7 +55,7 @@
             "成分代碼": "4012000350",
             "成分名稱": "CALCIUM CHLORIDE DIHYDRATE",
             "含量描述": "",
-            "含量": "0.6620000000",
+            "含量": "0.6600000000",
             "單位": "GM"
         },
         {
@@ -203,26 +211,46 @@
             "單位": "GM"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "約46.5x25cm",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "6668A-104-09-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023218&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "Clinimix N17G35E-PI 20140618-104-09-23(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023218&Seq=004&Type=9"
+            "title": "020232180002-105-05-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023218&Seq=005&Type=9"
+        },
+        {
+            "title": "020232180001-1-105-05-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023218&Seq=004&Type=9"
         },
         {
             "title": "020232180001-103-06-23.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023218&Seq=003&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023218&Seq=003&Type=9"
         },
         {
             "title": "020232180001-103-02-21.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023218&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023218&Seq=002&Type=9"
         },
         {
             "title": "020232180001-103-02-14.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023218&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023218&Seq=001&Type=9"
         },
         {
             "title": "Clinimix N17G35E-Label 20021213-104-09-23(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023218&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023218&Seq=001&Type=8"
         }
     ]
 }
