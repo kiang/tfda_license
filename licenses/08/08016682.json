@@ -1,7 +1,7 @@
 {
     "code": "08016682",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016682",
-    "time": "2015-08-23 20:27:09",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016682",
+    "time": "2019-01-11 03:28:35",
     "許可證字號": "衛署粧輸字第016682號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,22 +17,20 @@
     "用途": "防曬、抑制黑色素形成及防止色素斑的形成、美白肌膚。",
     "劑型": "992霜劑",
     "包裝": "500ml以下罐裝 附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0711防晒乳液",
-    "": "",
-    "主成分略述": "TRANEXAMIC ACID, BUTYL METHOXYDIBENZOYLMETHANE, PHENYLBENZIMIDAZOLE SULFONIC ACID, ETHYLHEXYL METHOXYCINNAMATE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "TRANEXAMICACID,BUTYLMETHOXYDIBENZOYLMETHANE,PHENYLBENZIMIDAZOLESULFONICACID,ETHYLHEXYLMETHOXYCINNAMATE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1409304100  臺灣資生堂股份有限公司",
-    "申請商地址": "桃園市中壢區西園路１４８號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C260279000  SHISEIDO CO., LTD. KAMAKURA FACTORY",
         "製造廠廠址": "1-2-3, IWASE, KAMAKURA-CITY, KANAGAWA, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -66,6 +64,12 @@
             "含量描述": "",
             "含量": "4.9960000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08016682-2009-12-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016682&Seq=001&Type=9"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "02025053",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025053",
-    "time": "2017-06-16 03:03:53",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025053",
+    "time": "2019-01-11 03:03:41",
     "許可證字號": "衛署藥輸字第025053號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -23,13 +23,12 @@
         "IXABEPILONE"
     ],
     "限制項目": "02輸　入 58依本署891212衛署藥字第0890035812號公告經本署認定得免除國內銜接性試驗且經本署核定之新藥",
-    "申請商名稱": "6401100487  台灣艾威群股份有限公司",
+    "申請商名稱": "0901301200  美時化學製藥股份有限公司",
     "主製造廠": {
         "主製造廠": "",
         "製造廠名稱": "F470008500  BAXTER ONCOLOGY GMBH",
         "製造廠廠址": "KANTSTR. 2, 33790 HALLE\/WESTFALEN, GERMANY",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -60,14 +59,38 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "長*寬*高 : 65 X 55 X 70 mm",
+        "特殊劑型": "",
+        "顏色": "白色至灰白色",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Ixempra Inj 15mg Spec-04-104-09-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025053&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "Ixempra仿單(無框)_0823-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025053&Seq=005&Type=9"
+            "title": "PIL-106-08-28(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025053&Seq=006&Type=9"
         },
         {
-            "title": "Ixempra 45mg Carton-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025053&Seq=002&Type=8"
+            "title": "Carton-106-08-28(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025053&Seq=005&Type=8"
+        },
+        {
+            "title": "15mg Label-106-08-28(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025053&Seq=004&Type=8"
+        },
+        {
+            "title": "8ml Label-106-08-28(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025053&Seq=003&Type=8"
         }
     ]
 }

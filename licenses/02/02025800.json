@@ -1,7 +1,7 @@
 {
     "code": "02025800",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025800",
-    "time": "2017-05-26 03:48:16",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025800",
+    "time": "2019-01-11 03:04:13",
     "許可證字號": "衛署藥輸字第025800號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "F470233000  FERRING  GMBH",
         "製造廠廠址": "WITTLAND 11, D-24109 KIEL  GERMANY",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -40,6 +39,13 @@
             "製造廠公司地址": "",
             "製造廠國別": "FRANCE",
             "製程": "原料藥製造廠"
+        },
+        {
+            "製造廠名稱": "F390021200  ZUELLIG PHARMA SPECIALTY SOLUTIONS GROUP PTE. LTD.",
+            "製造廠廠址": "15 CHANGI NORTH WAY #01-02, #02-02, #02-10, SINGAPORE 498770",
+            "製造廠公司地址": "",
+            "製造廠國別": "SINGAPORE",
+            "製程": "二級包裝廠"
         },
         {
             "製造廠名稱": "F430116000  FERRING INTERNATIONAL CENTER SA",
@@ -61,16 +67,28 @@
     ],
     "仿單外盒": [
         {
+            "title": "巧特欣注射劑_仿單_for Zuellig-107-12-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025800&Seq=004&Type=9"
+        },
+        {
             "title": "巧特欣注射劑_仿單-106-01-13.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025800&Seq=003&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025800&Seq=003&Type=9"
         },
         {
-            "title": "巧特欣注射劑_標籤-106-01-13.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025800&Seq=006&Type=8"
+            "title": "巧特欣注射劑_標籤_for Zuellig-107-12-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025800&Seq=010&Type=8"
         },
         {
-            "title": "巧特欣注射劑_外盒-106-01-13.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025800&Seq=005&Type=8"
+            "title": "巧特欣注射劑_仿單_for Zuellig-107-12-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025800&Seq=009&Type=8"
+        },
+        {
+            "title": "Duratocin RTS-107-12-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025800&Seq=008&Type=8"
+        },
+        {
+            "title": "30-C-TW-06.01-107-12-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025800&Seq=007&Type=8"
         }
     ]
 }

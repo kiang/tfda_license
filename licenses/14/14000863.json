@@ -1,12 +1,12 @@
 {
     "code": "14000863",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=14000863",
-    "time": "2015-08-22 17:33:06",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=14000863",
+    "time": "2019-01-11 03:20:26",
     "許可證字號": "內衛成製字第000863號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/05\/25",
+    "有效日期": "113\/05\/25",
     "發證日期": "59\/09\/02",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -17,22 +17,20 @@
     "適應症": "消化不良、腹部膨滿、胃酸過多、胃痛、健胃固腸。",
     "劑型": "140散劑",
     "包裝": "盒裝 罐裝附量器",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "03成藥",
-    "管制藥品分類級別": "",
-    "主成分略述": "SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE), MAGNESIUM CARBONATE, CINNAMON (CINNAMON CORTEX ) (CINNAMON BARK), RHEUM, GENTIAN (GENTIANAE RADIX), CLOVE, MENTHOL, GLYCYRRHIZA (LIQUORICE)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "SODIUMBICARBONATE(EQTOSODIUMHYDROGENCARBONATE),MAGNESIUMCARBONATE,CINNAMON(CINNAMONCORTEX)(CINNAMONBARK),RHEUM,GENTIAN(GENTIANAERADIX),CLOVE,MENTHOL,GLYCYRRHIZA(LIQUORICE)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1303110200  新萬仁化學製藥股份有限公司",
-    "申請商地址": "台中市豐原區文賢街１５８號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1303110300  新萬仁化學製藥股份有限公司",
         "製造廠廠址": "豐原市文賢街１５８號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -98,6 +96,36 @@
             "含量描述": "10",
             "含量": "10.0000000000",
             "單位": "GM"
+        }
+    ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "95g",
+        "特殊劑型": "",
+        "顏色": "土黃色",
+        "特殊氣味": "薄荷之清涼感",
+        "刻痕": "無",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "胃散 粉末-104-09-22(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14000863&Seq=001&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "0301金十字胃腸藥仿單-107-03-01(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14000863&Seq=010&Type=9"
+        },
+        {
+            "title": "金十字胃腸14000863仿單-106-01-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14000863&Seq=005&Type=9"
+        },
+        {
+            "title": "金十字胃腸藥14000863鐵罐-106-01-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14000863&Seq=006&Type=8"
         }
     ]
 }

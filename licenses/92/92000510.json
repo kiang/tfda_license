@@ -1,7 +1,7 @@
 {
     "code": "92000510",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000510",
-    "time": "2015-08-22 08:06:47",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000510",
+    "time": "2019-01-11 03:27:24",
     "許可證字號": "衛部醫器陸輸字第000510號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,37 +18,35 @@
     "醫器規格": "詳如中文仿單核定本",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "J一般醫院及個人使用裝置",
     "醫器次類別一": "J5860活塞式注射筒",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入",
-        "40大陸生產"
+    "主成分略述": [
+        ""
     ],
+    "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "0827401100  佳醫健康事業股份有限公司",
-    "申請商地址": "新北市中和區中正路880號17樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "M641260000  SHANTOU WEALY MEDICAL INSTRUMENT CO., LTD.",
         "製造廠廠址": "NORTH JINHUAN ROAD (NEAR OF QISHAN MID-SCHOOL) SHANTOU 515064 GUANGDONG, CHINA",
         "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "": ""
     },
-    "CCC號列": "90183100005 注射筒，不論附有針與否Syringes, with or without needles",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "920005100001-103-02-12.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000510&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000510&Seq=001&Type=9"
         },
         {
             "title": "920005100002-103-02-12.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000510&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000510&Seq=001&Type=8"
         }
     ]
 }

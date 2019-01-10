@@ -1,11 +1,11 @@
 {
     "code": "52026255",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026255",
-    "time": "2015-08-23 12:45:55",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026255",
+    "time": "2019-01-11 03:16:20",
     "許可證字號": "衛部藥輸字第026255號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "107\/12\/03",
+    "註銷理由": "自請註銷",
     "有效日期": "108\/02\/19",
     "發證日期": "103\/02\/19",
     "許可證種類": "製　劑",
@@ -17,21 +17,18 @@
     "適應症": "EVOFLO適用於可逆性呼吸道阻塞疾病(ROAD)之常規治療，包括適合使用支氣管擴張劑及皮質類固醇組合療法之患有氣喘的兒童與成人。這可能包括：正在使用長效乙型作用劑(β-AGONIST)及吸入型皮質類固醇之有效維持劑量的患者。正在接受吸入型皮質類固醇療法，而仍有症狀之患者。接受支氣管擴張劑之常規治療，而需要吸入型皮質類固醇之患者。EVOFLO適用於嚴重慢性阻塞性肺部疾病(FEV1  50%預期值，\r\nFEV1\/FVC  70%)之維持治療，包括慢性支氣管炎和肺氣腫。",
     "劑型": "103口腔吸入劑",
     "包裝": "60、120劑量金屬罐裝附吸入器",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "SALMETEROL XINAFOATE MICRONIZED, FLUTICASONE PROPIONATE MICRONIZED",
-    "限制項目": [
-        "02輸入",
-        "24監視期滿學名藥"
+    "主成分略述": [
+        "SALMETEROLXINAFOATEMICRONIZED,FLUTICASONEPROPIONATEMICRONIZED"
     ],
+    "限制項目": "02輸　入 1Q不得輸入 24監視期滿學名藥",
     "申請商名稱": "0901801100  荷商葛蘭素史克藥廠股份有限公司台灣分公司",
-    "申請商地址": "台北市中正區忠孝西路一段66號23-24樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F150183000  GLAXO WELLCOME PRODUCTION",
         "製造廠廠址": "23 RUE LAVOISIER, ZONE INDUSTRIELLE NO.2, 27000 EVREUX, FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -56,15 +53,11 @@
     "仿單外盒": [
         {
             "title": "020262550002-103-03-28.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026255&Seq=002&Type=9"
-        },
-        {
-            "title": "020262550001 -103-03-28.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026255&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026255&Seq=002&Type=9"
         },
         {
             "title": "020262550003-103-03-28.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026255&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026255&Seq=001&Type=8"
         }
     ]
 }

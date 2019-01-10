@@ -1,12 +1,12 @@
 {
     "code": "10000845",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000845",
-    "time": "2016-09-30 03:42:01",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000845",
+    "time": "2019-01-11 03:04:37",
     "許可證字號": "衛署菌疫輸字第000845號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/07\/30",
+    "有效日期": "111\/07\/30",
     "發證日期": "96\/07\/30",
     "許可證種類": "菌　疫",
     "舊證字號": "",
@@ -17,30 +17,28 @@
     "適應症": "腦下垂體之生長激素分泌不足所導致之生長干擾；TURNER'S sydrome 所導致之生長干擾；Prader-Willi syndrome 所導致之生長干擾；慢性腎臟功能不足所導致之生長干擾；成人生長激素嚴重缺乏之補充療法；低出生體重兒Small for Gestational Age(SGA) 逾四歲者之生長障礙。",
     "劑型": "243凍晶注射劑",
     "包裝": "1支、5支雙內腔卡匣裝 1支、5支預先充填注射筆",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "SOMATROPIN (BIOSYNTHETIC HUMAN GROWTH HORMONE)",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "SOMATROPIN(BIOSYNTHETICHUMANGROWTHHORMONE)"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1504401100  輝瑞大藥廠股份有限公司",
-    "申請商地址": "新北市淡水區中正東路二段１７７號",
     "主製造廠": {
-        "製造廠名稱": "F470292000  VETTER PHARMA-FERTIGUNG GMBH &amp; CO. KG",
-        "製造廠廠址": "EISENBAHNSTRASSE 2-4, 88085 LANGENARGEN GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
+        "主製造廠": "",
+        "製造廠名稱": "F050011000  PFIZER MANUFACTURING BELGIUM NV",
+        "製造廠廠址": "RIJKSWEG 12, 2870, PUURS, BELGIUM",
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30043900005 醫藥製劑，含有其他內分泌素者Medicaments, containing other hormones",
+    "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "F050011000  PFIZER MANUFACTURING BELGIUM NV",
-            "製造廠廠址": "RIJKSWEG 12, 2870, PUURS, BELGIUM",
+            "製造廠名稱": "6605071926  久裕企業股份有限公司",
+            "製造廠廠址": "桃園市桃園區大林里興邦路43巷2之1號4樓，3樓B區，1樓A區",
             "製造廠公司地址": "",
-            "製造廠國別": "BELGIUM",
-            "製程": "包裝"
+            "製造廠國別": "",
+            "製程": "二級包裝廠(委託貼標及置入仿單)"
         },
         {
             "製造廠名稱": "F420040000  PFIZER HEALTH AB",
@@ -70,8 +68,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "Genotropin GoQuick 12 mg外盒-104-09-20(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000845&Seq=001&Type=8"
+            "title": "Genotropin增若托平注射劑12毫克 中文仿單-40.8x52cm-20181126 Hi-107-12-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000845&Seq=002&Type=9"
+        },
+        {
+            "title": "Geno 12mg_GoQuick_Carton_060616-106-07-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000845&Seq=004&Type=8"
+        },
+        {
+            "title": "2-2. CTN_Genotropin 12mg_GoQuick_060623_Vetter-106-07-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000845&Seq=003&Type=8"
+        },
+        {
+            "title": "2-1. Label_Genotropin 12mg_GoQuick_8Q4760_Vetter-106-07-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000845&Seq=002&Type=8"
         }
     ]
 }

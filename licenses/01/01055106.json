@@ -1,7 +1,7 @@
 {
     "code": "01055106",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01055106",
-    "time": "2016-11-18 15:44:27",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01055106",
+    "time": "2019-01-11 03:02:38",
     "許可證字號": "衛署藥製字第055106號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "0402211300  中美兄弟製藥股份有限公司",
         "製造廠廠址": "彰化市彰鹿路106號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -41,64 +40,92 @@
             "含量描述": "",
             "含量": "55.7400000000",
             "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812203810",
+            "成分名稱": "AMOROLFINE HYDROCHLORIDE",
+            "含量描述": "",
+            "含量": "55.7400000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812203810",
+            "成分名稱": "AMOROLFINE HYDROCHLORIDE",
+            "含量描述": "",
+            "含量": "55.7400000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812203810",
+            "成分名稱": "AMOROLFINE HYDROCHLORIDE",
+            "含量描述": "",
+            "含量": "55.7400000000",
+            "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
+            "title": "01055106_利甲康-可可-仿單-106-07-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055106&Seq=008&Type=9"
+        },
+        {
+            "title": "01055106_利甲康-花香-仿單-106-07-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055106&Seq=007&Type=9"
+        },
+        {
+            "title": "01055106_利甲康-香水-仿單-106-07-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055106&Seq=006&Type=9"
+        },
+        {
+            "title": "01055106_利甲康-原味-仿單-106-07-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055106&Seq=005&Type=9"
+        },
+        {
             "title": "0137--利甲康-說明書-104-12-17(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055106&Seq=004&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055106&Seq=004&Type=9"
         },
         {
-            "title": "利甲康-說-2014-01-23.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055106&Seq=003&Type=9"
+            "title": "利甲康3.5ml-107-05-24(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055106&Seq=020&Type=8"
         },
         {
-            "title": "利甲康仿單-20120627___20120731.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055106&Seq=002&Type=9"
+            "title": "利甲康-可可-標籤-106-07-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055106&Seq=018&Type=8"
         },
         {
-            "title": "010551060001___20110104.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055106&Seq=001&Type=9"
+            "title": "利甲康-可可-紙盒-106-07-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055106&Seq=017&Type=8"
+        },
+        {
+            "title": "利甲康-花香-標籤-106-07-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055106&Seq=016&Type=8"
+        },
+        {
+            "title": "利甲康-花香-紙盒-106-07-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055106&Seq=015&Type=8"
+        },
+        {
+            "title": "利甲康-香水-標籤-106-07-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055106&Seq=014&Type=8"
+        },
+        {
+            "title": "利甲康-香水-紙盒-106-07-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055106&Seq=013&Type=8"
+        },
+        {
+            "title": "利甲康-原味-標籤-106-07-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055106&Seq=012&Type=8"
+        },
+        {
+            "title": "利甲康-原味-紙盒-106-07-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055106&Seq=011&Type=8"
         },
         {
             "title": "0137-利甲康-盒-7.5ml-104-12-24(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055106&Seq=010&Type=8"
-        },
-        {
-            "title": "0137-利甲康-盒-3.5ml-104-12-24(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055106&Seq=009&Type=8"
-        },
-        {
-            "title": "利甲康-盒-2014-01-23.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055106&Seq=008&Type=8"
-        },
-        {
-            "title": "利甲康-標-3.5ml-2014-01-23.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055106&Seq=007&Type=8"
-        },
-        {
-            "title": "利甲康標籤包材-20120627___20120731.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055106&Seq=006&Type=8"
-        },
-        {
-            "title": "利甲康外盒-2-20120627___20120731.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055106&Seq=005&Type=8"
-        },
-        {
-            "title": "利甲康外盒-1-20120627___20120731.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055106&Seq=004&Type=8"
-        },
-        {
-            "title": "010551060004___20110104.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055106&Seq=003&Type=8"
-        },
-        {
-            "title": "010551060003___20110104.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055106&Seq=002&Type=8"
-        },
-        {
-            "title": "010551060002___20110104.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055106&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055106&Seq=010&Type=8"
         }
     ]
 }

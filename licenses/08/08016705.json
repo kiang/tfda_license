@@ -1,12 +1,12 @@
 {
     "code": "08016705",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016705",
-    "time": "2015-08-23 21:16:35",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016705",
+    "time": "2019-01-11 03:23:28",
     "許可證字號": "衛署粧輸字第016705號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/12\/15",
+    "有效日期": "111\/12\/15",
     "發證日期": "98\/12\/15",
     "許可證種類": "含藥化粧品",
     "舊證字號": "",
@@ -17,22 +17,20 @@
     "用途": "染髮用。",
     "劑型": "984乳膏劑",
     "包裝": "500 ml以下鋁管裝",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "AMMONIA WATER (AMMONIUM HYDROXIDE), P-AMINOPHENOL, 4-AMINO-2-HYDROXYTOLUENE, P-PHENYLENEDIAMINE, 1-NAPHTOL",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "AMMONIAWATER(AMMONIUMHYDROXIDE),P-AMINOPHENOL,4-AMINO-2-HYDROXYTOLUENE,P-PHENYLENEDIAMINE,1-NAPHTOL"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1007402100  凌宇化工股份有限公司",
-    "申請商地址": "新北市土城區大同街19號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C250086000  GM KOSMETIK S.R.L.",
         "製造廠廠址": "VIA ALDO MORO 13, 25124-BRESCIA, ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -78,16 +76,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "中文說明.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016705&Seq=001&Type=9"
+            "title": "中文說明.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016705&Seq=001&Type=9"
         },
         {
-            "title": "產品.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016705&Seq=002&Type=8"
+            "title": "產品.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016705&Seq=002&Type=8"
         },
         {
-            "title": "外盒.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016705&Seq=001&Type=8"
+            "title": "外盒.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016705&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "02023336",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023336",
-    "time": "2016-11-18 20:20:40",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023336",
+    "time": "2019-01-11 03:03:18",
     "許可證字號": "衛署藥輸字第023336號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,11 +28,19 @@
         "主製造廠": "",
         "製造廠名稱": "F150183000  GLAXO WELLCOME PRODUCTION",
         "製造廠廠址": "23 RUE LAVOISIER ZONE INDUSTRIELLE NO.2 27000 EVREUX LA MADELEINE, FRANCE",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30042000916 人用醫藥製劑，含有其他抗生素者Medicaments, containing other antibiotics, for human use",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "6132061151  裕利股份有限公司",
+            "製造廠廠址": "桃園市大園區和平里1鄰開和路91號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠(委託貼標及置入仿單)"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -43,82 +51,34 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "5.7cm*8.8cm吸入器",
+        "特殊劑型": "",
+        "顏色": "白至灰白色粉末",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "020233360003-104-09-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023336&Seq=003&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "020233360013___20100512.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023336&Seq=017&Type=9"
+            "title": "020233360001pdf-107-12-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023336&Seq=019&Type=9"
         },
         {
-            "title": "020233360012___20100512.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023336&Seq=016&Type=9"
+            "title": "02023336_Relenza Rotadisks France 標籤-107-06-05(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023336&Seq=004&Type=8"
         },
         {
-            "title": "020233360011___20100512.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023336&Seq=015&Type=9"
-        },
-        {
-            "title": "020233360010___20100512.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023336&Seq=014&Type=9"
-        },
-        {
-            "title": "020233360009.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023336&Seq=013&Type=9"
-        },
-        {
-            "title": "020233360008.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023336&Seq=012&Type=9"
-        },
-        {
-            "title": "020233360007.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023336&Seq=011&Type=9"
-        },
-        {
-            "title": "020233360006.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023336&Seq=010&Type=9"
-        },
-        {
-            "title": "020233360005.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023336&Seq=009&Type=9"
-        },
-        {
-            "title": "020233360004___20110615.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023336&Seq=008&Type=9"
-        },
-        {
-            "title": "020233360004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023336&Seq=007&Type=9"
-        },
-        {
-            "title": "020233360003___20110615.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023336&Seq=006&Type=9"
-        },
-        {
-            "title": "020233360003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023336&Seq=005&Type=9"
-        },
-        {
-            "title": "020233360002___20110615.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023336&Seq=004&Type=9"
-        },
-        {
-            "title": "020233360002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023336&Seq=003&Type=9"
-        },
-        {
-            "title": "020233360001___20110615.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023336&Seq=002&Type=9"
-        },
-        {
-            "title": "020233360001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023336&Seq=001&Type=9"
-        },
-        {
-            "title": "Relenza 法國10000000071353-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023336&Seq=002&Type=8"
-        },
-        {
-            "title": "Relenza 法國M854-001-02-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023336&Seq=001&Type=8"
+            "title": "02023336_Relenza Rotadisks France 外盒-107-06-05(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023336&Seq=003&Type=8"
         }
     ]
 }

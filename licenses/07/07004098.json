@@ -1,7 +1,7 @@
 {
     "code": "07004098",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07004098",
-    "time": "2016-11-19 02:29:13",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07004098",
+    "time": "2019-01-11 03:28:21",
     "許可證字號": "衛署粧製字第004098號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
     "主成分略述": [
-        "AMMONIASOLUTION,RESORCINOL(RESORCIN),AMINOPHENOLORTHO-,AMINOPHENOLMETA-(EQTOM-AMINOPHENOL),P-AMINOPHENOL,TOLUENE-2,5-DIAMINESULFATE,4-NITRO-M-PHENYLENEDIAMINESULFATE,2,6-PYRIDINEDIAMINE"
+        "AMMONIASOLUTION,RESORCINOL(RESORCIN),ORTHO-AMINOPHENOL,META-AMINOPHENOL(EQTOM-AMINOPHENOL),P-AMINOPHENOL,TOLUENE-2,5-DIAMINESULFATE,4-NITRO-M-PHENYLENEDIAMINESULFATE,2,6-PYRIDINEDIAMINE"
     ],
     "限制項目": "02輸　入",
     "申請商名稱": "0830001200  佳芙蘭化學有限公司",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "0830004500  佳芙蘭化學有限公司",
         "製造廠廠址": "桃園市大園區橫峰村湳子９５號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -53,7 +52,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9200035402",
-            "成分名稱": "AMINOPHENOL ORTHO-",
+            "成分名稱": "ORTHO-AMINOPHENOL",
             "含量描述": "",
             "含量": "0.1350000000",
             "單位": "%(W\/W)"
@@ -61,7 +60,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9200035403",
-            "成分名稱": "AMINOPHENOL META- (EQ TO M-AMINOPHENOL)",
+            "成分名稱": "META-AMINOPHENOL (EQ TO M-AMINOPHENOL)",
             "含量描述": "",
             "含量": "0.0050000000",
             "單位": "%(W\/W)"
@@ -101,24 +100,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "070040980002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004098&Seq=002&Type=9"
+            "title": "070040980002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004098&Seq=002&Type=9"
         },
         {
-            "title": "070040980001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004098&Seq=001&Type=9"
+            "title": "070040980001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004098&Seq=001&Type=9"
         },
         {
-            "title": "070040980003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004098&Seq=003&Type=8"
+            "title": "070040980003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004098&Seq=003&Type=8"
         },
         {
-            "title": "070040980002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004098&Seq=002&Type=8"
+            "title": "070040980002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004098&Seq=002&Type=8"
         },
         {
-            "title": "070040980001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004098&Seq=001&Type=8"
+            "title": "070040980001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004098&Seq=001&Type=8"
         }
     ]
 }

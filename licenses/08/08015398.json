@@ -1,7 +1,7 @@
 {
     "code": "08015398",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08015398",
-    "time": "2015-08-23 19:29:59",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08015398",
+    "time": "2019-01-11 03:28:32",
     "許可證字號": "衛署粧輸字第015398號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,32 +17,22 @@
     "用途": "防曬、預防皮膚曬傷及曬黑，保濕滋養肌膚。",
     "劑型": "992霜劑",
     "包裝": "500g以下管裝 附外盒裝",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0714防晒化粧用品",
-    "": "",
-    "主成分略述": "TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE), ETHYLHEXYL METHOXYCINNAMATE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "ETHYLHEXYLMETHOXYCINNAMATE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "6627756161  台灣碧雅詩國際販賣股份有限公司",
-    "申請商地址": "台北市中山區復興北路５８號７樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C260031100  ELSOL PRODUCTS CORP.",
         "製造廠廠址": "8 TANYOU KAKEGAWA CITY SHIZUOKA PREFECTURE 436-0082 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9602020800",
-            "成分名稱": "TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)",
-            "含量描述": "",
-            "含量": "6.8582050000",
-            "單位": "%(W\/W)"
-        },
         {
             "成分類別": "主成分",
             "成分代碼": "9900071200",
@@ -54,24 +44,28 @@
     ],
     "仿單外盒": [
         {
-            "title": "080153980001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015398&Seq=001&Type=9"
+            "title": "080153980001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015398&Seq=001&Type=9"
         },
         {
-            "title": "08015398c0004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015398&Seq=004&Type=8"
+            "title": "08015398-108-01-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015398&Seq=005&Type=8"
         },
         {
-            "title": "08015398c0003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015398&Seq=003&Type=8"
+            "title": "08015398c0004.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015398&Seq=004&Type=8"
         },
         {
-            "title": "08015398c0002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015398&Seq=002&Type=8"
+            "title": "08015398c0003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015398&Seq=003&Type=8"
         },
         {
-            "title": "08015398c0001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015398&Seq=001&Type=8"
+            "title": "08015398c0002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015398&Seq=002&Type=8"
+        },
+        {
+            "title": "08015398c0001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015398&Seq=001&Type=8"
         }
     ]
 }

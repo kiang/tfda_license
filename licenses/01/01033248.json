@@ -1,7 +1,7 @@
 {
     "code": "01033248",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01033248",
-    "time": "2016-11-18 12:56:06",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01033248",
+    "time": "2019-01-11 03:25:15",
     "許可證字號": "衛署藥製字第033248號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,7 +12,7 @@
     "舊證字號": "01022156",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00103324806",
-    "中文品名": "美麗乳膏",
+    "中文品名": "&quot;明大&quot;美麗乳膏",
     "英文品名": "MEI-LI CREAM &quot;M.T.&quot;",
     "適應症": "一般皮膚乾燥症、皮膚角化症、皮膚炎、濕疹、尋常性痤瘡、外傷及燙傷之促進肉芽新生",
     "劑型": "363乳膏劑",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "07須經醫師指示使用",
     "主成分略述": [
-        "VITAMINA,CALCIFEROLINOIL,TOCOPHEROLACETATEALPHADL-"
+        "VITAMINA,ERGOCALCIFEROL(VITD2CALCIFEROL),TOCOPHEROLACETATEALPHADL-"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "0804410200  明大化學製藥股份有限公司",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "0804410300  明大化學製藥股份有限公司",
         "製造廠廠址": "台中市外埔區水美村水美路５２號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30045000009 含有維他命或第２９３６節產品之其他醫藥製劑Other medicaments containing vitamins or other products of heading 29.36",
+    "CCC號列": "30045000009 其他醫藥製劑，含有維他命或第２９３６節之其他產品Other medicaments, containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -39,14 +38,14 @@
             "成分代碼": "8804000100",
             "成分名稱": "VITAMIN A",
             "含量描述": "(0.6MG) 2000",
-            "含量": "",
+            "含量": "0.0000000000",
             "單位": "IU (I"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8818000700",
-            "成分名稱": "CALCIFEROL IN OIL",
-            "含量描述": "12.5",
+            "成分代碼": "8818000200",
+            "成分名稱": "ERGOCALCIFEROL (VIT D2CALCIFEROL)",
+            "含量描述": "eq to CALCIFEROL",
             "含量": "12.5000000000",
             "單位": "MCG"
         },
@@ -62,15 +61,11 @@
     "仿單外盒": [
         {
             "title": "4066 美麗軟膏-104-12-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033248&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033248&Seq=002&Type=9"
         },
         {
             "title": "內盒-104-09-26(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033248&Seq=002&Type=8"
-        },
-        {
-            "title": "標籤-104-09-26(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033248&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033248&Seq=002&Type=8"
         }
     ]
 }
