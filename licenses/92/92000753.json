@@ -1,7 +1,7 @@
 {
     "code": "92000753",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000753",
-    "time": "2016-08-26 04:07:44",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000753",
+    "time": "2019-02-08 03:21:42",
     "許可證字號": "衛部醫器陸輸字第000753號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,40 +15,46 @@
     "中文品名": "“星辰”電子體溫計",
     "英文品名": "“CITIZEN” Digital Thermometer",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "CTEB503L",
+    "醫器規格": "CTEB503L\r\n增加規格：CT422。",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "J一般醫院及個人使用裝置",
     "醫器次類別一": "J2910臨床電子體溫計",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入",
-        "09委託製造"
+    "主成分略述": [
+        ""
     ],
+    "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "0711201100  杏昌生技股份有限公司",
-    "申請商地址": "台北市松山區敦化北路201之1號6樓",
     "主製造廠": {
-        "製造廠名稱": "M644128100  Citizen Systems (Jiangmen) Co., Ltd.",
-        "製造廠廠址": "Building C, 339 Jin Xing Road, Jiang Hai District, Jiangmen, Guangdong, 529040, China",
+        "主製造廠": "",
+        "製造廠名稱": "M644128000  Citizen Systems (Jiangmen) Co., Ltd.",
+        "製造廠廠址": "Building 6, 399 Jin Xing Road, Jiang Hai District, Jiangmen, Guangdong, 529040, China",
         "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
+        "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "920007530003-108-01-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000753&Seq=002&Type=9"
+        },
+        {
             "title": "920007530001-105-05-05.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000753&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000753&Seq=001&Type=9"
+        },
+        {
+            "title": "920007530003-108-01-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000753&Seq=002&Type=8"
         },
         {
             "title": "920007530002-105-05-05.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000753&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000753&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "02024443",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024443",
-    "time": "2017-04-28 03:29:14",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024443",
+    "time": "2019-02-08 03:07:04",
     "許可證字號": "衛署藥輸字第024443號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "F250408100  WYETH LEDERLE S.R.L.",
         "製造廠廠址": "VIA FRANCO GORGONE, ZONA INDUSTRIALE, 95100 CATANIA (CT), ITALY",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30042000710 人用醫藥製劑，含四環素或其衍生物者Medicaments, containing tetracyclines or their derivatives, for human use",
     "藥理治療分類": "",
@@ -52,14 +51,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "桔色結塊的凍晶粉末",
+        "特殊劑型": "",
+        "顏色": "桔色",
+        "特殊氣味": "無",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Tygacil老虎黴素 MA no.024443實體 -104-09-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024443&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "02 024443 0001-106-02-03.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024443&Seq=021&Type=9"
+            "title": "TYGACIL-INS-071207-108-01-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024443&Seq=022&Type=9"
         },
         {
             "title": "Tygacil老虎黴素 MA no.024443外盒包裝-104-09-18(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024443&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024443&Seq=001&Type=8"
         }
     ]
 }

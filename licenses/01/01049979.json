@@ -1,12 +1,12 @@
 {
     "code": "01049979",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01049979",
-    "time": "2016-11-18 15:33:28",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01049979",
+    "time": "2019-02-08 03:31:15",
     "許可證字號": "衛署藥製字第049979號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/02\/17",
+    "有效日期": "113\/02\/17",
     "發證日期": "98\/02\/17",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "0701010300  利達製藥股份有限公司",
         "製造廠廠址": "台中市大甲區中山路一段９０６號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049010009 麻醉劑Anesthetics",
+    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -43,26 +42,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Lidocaine 4% 30ml 裸瓶-新-104-09-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049979&Seq=002&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "Lidocaine 4% 仿單 利達-104-09-18(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049979&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049979&Seq=001&Type=9"
         },
         {
             "title": "Lidocaine 4% 30ml 盒-側邊-新-104-09-18(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049979&Seq=004&Type=8"
-        },
-        {
-            "title": "Lidocaine 4% 30ml 盒-正反-新-104-09-18(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049979&Seq=003&Type=8"
-        },
-        {
-            "title": "Lidocaine 4% 30ml 盒-側邊-新-104-09-18(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049979&Seq=002&Type=8"
-        },
-        {
-            "title": "Lidocaine 4% 30ml 盒-正反-新-104-09-18(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049979&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049979&Seq=004&Type=8"
         }
     ]
 }

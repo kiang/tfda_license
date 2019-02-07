@@ -1,7 +1,7 @@
 {
     "code": "06023240",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023240",
-    "time": "2016-11-25 03:50:36",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023240",
+    "time": "2019-02-08 03:14:27",
     "許可證字號": "衛署醫器輸字第023240號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,8 +14,8 @@
     "通關簽審文件編號": "DHA00602324007",
     "中文品名": "“艾柏”雙極止血百克鉗",
     "英文品名": "“ERBE” Bipolar BiClamp",
-    "效能": "詳如中文仿單核定本",
-    "醫器規格": "20195-213, 20195-222, 20195-200, 20195-280,102.1.17新增規格:20195-221以下空白。",
+    "效能": "詳如中文仿單核定本。效能變更：詳如中文仿單核定本。",
+    "醫器規格": "20195-213, 20195-222, 20195-200, 20195-280,102.1.17新增規格:20195-221以下空白。新增規格:20195-202、20195-203、20195-299以下空白。增加規格：詳如中文仿單核定本。",
     "劑型": "",
     "包裝": "",
     "標籤、仿單及包裝加註": "",
@@ -37,25 +37,32 @@
         "製造廠公司地址": "",
         "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "060232400001-108-01-04.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023240&Seq=004&Type=9"
+        },
+        {
             "title": "201310071711-102-10-07.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023240&Seq=003&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023240&Seq=003&Type=9"
         },
         {
             "title": "06023240___20130117.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023240&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023240&Seq=002&Type=9"
         },
         {
             "title": "060232400001___20120314.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023240&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023240&Seq=001&Type=9"
+        },
+        {
+            "title": "060232400001-108-01-04.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023240&Seq=002&Type=8"
         },
         {
             "title": "060232400002___20120314.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023240&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023240&Seq=001&Type=8"
         }
     ]
 }

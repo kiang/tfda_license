@@ -1,38 +1,36 @@
 {
     "code": "01029544",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01029544",
-    "time": "2016-03-25 04:01:07",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01029544",
+    "time": "2019-02-08 03:29:45",
     "許可證字號": "衛署藥製字第029544號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "107\/12\/31",
+    "有效日期": "112\/12\/31",
     "發證日期": "80\/01\/24",
     "許可證種類": "製　劑",
     "舊證字號": "01029544",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102954408",
     "中文品名": "伏力炎膠囊（福納密）",
-    "英文品名": "FLUFENAMIC ACID CAPSULES \"M.T.\"",
+    "英文品名": "FLUFENAMIC ACID CAPSULES &quot;M.T.&quot;",
     "適應症": "關節痛、肌肉痛、風濕痛、腰背痛、粘液囊炎之消炎、鎮痛",
     "劑型": "130膠囊劑",
     "包裝": "瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "FLUFENAMIC ACID",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "FLUFENAMICACID"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0804410200  明大化學製藥股份有限公司",
-    "申請商地址": "台中市外埔區水美村水美路５２號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0804410300  明大化學製藥股份有限公司",
         "製造廠廠址": "台中市外埔區水美村水美路５２號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -42,6 +40,44 @@
             "含量描述": "200",
             "含量": "200.0000000000",
             "單位": "MG"
+        }
+    ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "頭綠色 身淺綠色",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "MT 114",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "外觀-104-09-29(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029544&Seq=001&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "伏力炎膠囊(福納密)01029544仿單-106-01-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029544&Seq=003&Type=9"
+        },
+        {
+            "title": "4114 伏力炎膠囊-104-12-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029544&Seq=001&Type=9"
+        },
+        {
+            "title": "說明書-104-09-29(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029544&Seq=002&Type=9"
+        },
+        {
+            "title": "伏力炎膠囊(福納密)01029544標籤-106-01-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029544&Seq=002&Type=8"
+        },
+        {
+            "title": "標籤-104-09-29(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029544&Seq=001&Type=8"
         }
     ]
 }

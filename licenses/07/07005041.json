@@ -1,7 +1,7 @@
 {
     "code": "07005041",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07005041",
-    "time": "2018-04-27 03:52:00",
+    "time": "2019-02-08 03:24:12",
     "許可證字號": "衛署粧製字第005041號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
     "主成分略述": [
-        "AMMONIASOLUTION(28%),P-AMINOPHENOL,O-AMINOPHENOL,2-AMINO-3-HYDROXYPYRIDINE"
+        "AMMONIASOLUTION(28%),P-METHYLAMINOPHENOLSULFATE,P-AMINOPHENOL,2-AMINO-3-HYDROXYPYRIDINE"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "0300102200  大川實業有限公司",
@@ -43,18 +43,18 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035440",
-            "成分名稱": "P-AMINOPHENOL",
+            "成分代碼": "9200035411",
+            "成分名稱": "P-METHYLAMINOPHENOL SULFATE",
             "含量描述": "",
-            "含量": "0.0400000000",
+            "含量": "0.1230000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035460",
-            "成分名稱": "O-AMINOPHENOL",
+            "成分代碼": "9200035440",
+            "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
-            "含量": "0.0780000000",
+            "含量": "0.1000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -62,14 +62,14 @@
             "成分代碼": "9900084800",
             "成分名稱": "2-AMINO-3-HYDROXYPYRIDINE",
             "含量描述": "",
-            "含量": "0.1200000000",
+            "含量": "0.1810000000",
             "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
         {
-            "title": "07005041-2009-04-23.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005041&Seq=001&Type=9"
+            "title": "07005041-108-01-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005041&Seq=001&Type=8"
         }
     ]
 }

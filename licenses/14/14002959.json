@@ -1,39 +1,36 @@
 {
     "code": "14002959",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=14002959",
-    "time": "2015-08-23 06:43:27",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=14002959",
+    "time": "2019-02-08 03:25:27",
     "許可證字號": "內衛成製字第002959號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "108\/01\/10",
+    "註銷理由": "自請註銷",
     "有效日期": "108\/05\/25",
     "發證日期": "59\/12\/21",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY01400295900",
-    "中文品名": "戰功丸",
-    "英文品名": "CHEN KONG WAN \"HENG AN\"",
+    "中文品名": "&quot;恆安&quot;戰功丸",
+    "英文品名": "&quot;HENG AN&quot; CHEN KONG WAN",
     "適應症": "消化不良、嘔吐、下痢、脹氣",
     "劑型": "192丸劑",
     "包裝": "24-500粒玻璃瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "03成藥",
-    "管制藥品分類級別": "",
-    "主成分略述": "CREOSOTE",
-    "限制項目": [
-        "01國產",
-        "1G不得製造"
+    "主成分略述": [
+        "CREOSOTE,CINNAMONPOWDER(CINNAMONCORTEXPOWDER),GENTIANPOWDER,CLOVEPOWDER,GLYCYRRHIZAPOWDER"
     ],
+    "限制項目": "01國　產 1G不得製造",
     "申請商名稱": "0906209200  恆安製藥工業股份有限公司",
-    "申請商地址": "台中市西屯區台中工業區一路１０１號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0906209300  恆安製藥工業股份有限公司",
         "製造廠廠址": "台中市西屯區台中工業區一路１０１號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -43,6 +40,38 @@
             "含量描述": "0.25",
             "含量": "0.2500000000",
             "單位": "ML"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5610000103",
+            "成分名稱": "CINNAMON POWDER (CINNAMON CORTEX POWDER)",
+            "含量描述": "500",
+            "含量": "500.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5616000802",
+            "成分名稱": "GENTIAN POWDER",
+            "含量描述": "100",
+            "含量": "100.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "7200000301",
+            "成分名稱": "CLOVE POWDER",
+            "含量描述": "100",
+            "含量": "100.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200004402",
+            "成分名稱": "GLYCYRRHIZA POWDER",
+            "含量描述": "300",
+            "含量": "300.0000000000",
+            "單位": "MG"
         }
     ]
 }

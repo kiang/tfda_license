@@ -1,7 +1,7 @@
 {
     "code": "07004321",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07004321",
-    "time": "2016-11-19 02:31:36",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07004321",
+    "time": "2019-02-08 03:24:11",
     "許可證字號": "衛署粧製字第004321號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "1105209500  盛香堂股份有限公司",
         "製造廠廠址": "台中市南區樹德里建國南路一段112號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -61,28 +60,32 @@
     ],
     "仿單外盒": [
         {
-            "title": "070043210001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004321&Seq=001&Type=9"
+            "title": "070043210001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004321&Seq=001&Type=9"
+        },
+        {
+            "title": "07004321-108-01-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004321&Seq=006&Type=8"
         },
         {
             "title": "070043210001-104-01-14.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004321&Seq=005&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004321&Seq=005&Type=8"
         },
         {
-            "title": "070043210004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004321&Seq=004&Type=8"
+            "title": "070043210004.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004321&Seq=004&Type=8"
         },
         {
-            "title": "070043210003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004321&Seq=003&Type=8"
+            "title": "070043210003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004321&Seq=003&Type=8"
         },
         {
-            "title": "070043210002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004321&Seq=002&Type=8"
+            "title": "070043210002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004321&Seq=002&Type=8"
         },
         {
-            "title": "070043210001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004321&Seq=001&Type=8"
+            "title": "070043210001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004321&Seq=001&Type=8"
         }
     ]
 }

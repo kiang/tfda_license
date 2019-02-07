@@ -1,7 +1,7 @@
 {
     "code": "07005730",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07005730",
-    "time": "2016-11-19 02:46:00",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07005730",
+    "time": "2019-02-08 03:24:16",
     "許可證字號": "衛署粧製字第005730號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,15 +12,15 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00700573008",
-    "中文品名": "雪芙蘭 守護美肌防曬潤色隔離乳 (紫色)SPF 35 ★★★★",
-    "英文品名": "Cellina Perfect Flash UV Protective Lotion (Purple) SPF 35 ★★★★",
-    "用途": "防曬、隔離、潤飾肌膚。",
-    "劑型": "944乳劑",
-    "包裝": "500g以下瓶裝附外盒",
+    "中文品名": "雪芙蘭超水感高效防曬噴霧(防水型) SPF50+PA++++",
+    "英文品名": "Sunscreen Spray SPF50+ PA++++",
+    "用途": "防曬。",
+    "劑型": "902噴霧劑",
+    "包裝": "300g以下瓶裝附吊卡",
     "標籤、仿單及包裝加註": "",
     "化粧品類別": "0711防晒乳液",
     "主成分略述": [
-        "OCTYLMETHOXYCINNAMATE,DIETHYLAMINOHYDROXYBENZOYLHEXYLBENZOATE,OCTOCRYLENE"
+        "OCTYLSALICYLATE,OCTYLMETHOXYCINNAMATE,DIETHYLAMINOHYDROXYBENZOYLHEXYLBENZOATE"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "1105209200  盛香堂股份有限公司",
@@ -28,12 +28,19 @@
         "主製造廠": "",
         "製造廠名稱": "1105209200  盛香堂股份有限公司",
         "製造廠廠址": "台中市南區樹德里建國南路一段112號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8424400211",
+            "成分名稱": "OCTYL SALICYLATE",
+            "含量描述": "",
+            "含量": "4.0000000000",
+            "單位": "%(W\/W)"
+        },
         {
             "成分類別": "主成分",
             "成分代碼": "8480000560",
@@ -47,42 +54,18 @@
             "成分代碼": "9600203500",
             "成分名稱": "DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE",
             "含量描述": "",
-            "含量": "6.5000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9900066000",
-            "成分名稱": "OCTOCRYLENE",
-            "含量描述": "",
-            "含量": "3.0000000000",
+            "含量": "6.0000000000",
             "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
         {
-            "title": "07005730___20130117.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005730&Seq=006&Type=8"
+            "title": "07005730-107-01-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005730&Seq=001&Type=9"
         },
         {
-            "title": "070057300004___20110713.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005730&Seq=005&Type=8"
-        },
-        {
-            "title": "070057300003___20110713.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005730&Seq=004&Type=8"
-        },
-        {
-            "title": "070057300002___20110713.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005730&Seq=003&Type=8"
-        },
-        {
-            "title": "070057300002 (2)___20110713.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005730&Seq=002&Type=8"
-        },
-        {
-            "title": "07005730-1___20130117.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005730&Seq=001&Type=8"
+            "title": "07005730-108-01-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005730&Seq=007&Type=8"
         }
     ]
 }

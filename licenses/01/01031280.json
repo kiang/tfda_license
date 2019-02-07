@@ -1,12 +1,12 @@
 {
     "code": "01031280",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01031280",
-    "time": "2016-11-18 12:30:24",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01031280",
+    "time": "2019-02-08 03:30:00",
     "許可證字號": "衛署藥製字第031280號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/03\/02",
+    "有效日期": "113\/03\/02",
     "發證日期": "78\/03\/02",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "1409106300  健喬信元醫藥生技股份有限公司健喬廠",
         "製造廠廠址": "新竹縣湖口鄉中興村工業區工業一路６號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30043900005 醫藥製劑，含有其他內分泌素者Medicaments, containing other hormones",
+    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -56,25 +55,29 @@
     "藥物辨識外觀圖片": [
         {
             "title": "02 Danol Cap 200 mg _外觀變更後-105-03-14.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031280&Seq=222&Type=10"
-        },
-        {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031280&Seq=221&Type=10"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031280&Seq=222&Type=10"
         }
     ],
     "仿單外盒": [
         {
+            "title": "達爾諾膠囊200毫克仿單-106-07-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031280&Seq=004&Type=9"
+        },
+        {
             "title": "010312800001-104-11-19(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031280&Seq=003&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031280&Seq=003&Type=9"
         },
         {
-            "title": "010312800001(Danol仿單加刊賦形劑)-104-07-22(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031280&Seq=002&Type=9"
+            "title": "010312800003-106-10-16(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031280&Seq=003&Type=8"
         },
         {
-            "title": "CTD 1.6 衛署藥製字第031280號_Danol Capsules 200mg仿單標籤鋁箔-103-11-03.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031280&Seq=001&Type=9"
+            "title": "達爾諾膠囊200毫克鋁箔-106-07-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031280&Seq=002&Type=8"
+        },
+        {
+            "title": "達爾諾膠囊200毫克標籤-106-07-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031280&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "74000001",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=74000001",
-    "time": "2016-07-29 05:23:33",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=74000001",
+    "time": "2019-02-08 03:21:38",
     "許可證字號": "衛部罕醫器輸字第000001號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,36 +18,35 @@
     "醫器規格": "詳如中文仿單核定本",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "N骨科用裝置",
     "醫器次類別一": "N3020骨髓內固定桿",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        ""
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1223701100  裕強生技股份有限公司",
-    "申請商地址": "台北市內湖區民權東路六段１０９號３樓之１",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "M070842200  PEGA MEDICAL INC.",
         "製造廠廠址": "1111 AUTOROUTE CHOMEDEY, LAVAL, QUEBEC, H7W 5J8, CANADA",
         "製造廠公司地址": "",
-        "製造廠國別": "CANADA",
-        "製程": ""
+        "": ""
     },
-    "CCC號列": "90213960009 人工骨頭、骨球、骨板、骨釘、螺絲、骨水泥Hip prosthesis, plates, nails, bone screws, bone cement",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "740000010002-103-06-23.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=74000001&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=74000001&Seq=001&Type=9"
         },
         {
             "title": "740000010001-103-06-23.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=74000001&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=74000001&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "02022712",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022712",
-    "time": "2016-11-18 20:14:38",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022712",
+    "time": "2019-02-08 03:06:34",
     "許可證字號": "衛署藥輸字第022712號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,7 +14,7 @@
     "通關簽審文件編號": "DHA00202271201",
     "中文品名": "艾黴素注射液",
     "英文品名": "ADRIAMYCIN INJ. 2MG\/ML",
-    "適應症": "急慢性白血球過多症、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肝癌。",
+    "適應症": "急慢性白血球過多症、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肺癌。",
     "劑型": "270注射劑",
     "包裝": "5ML,10ML,25ML塑膠小瓶 100支以下盒裝",
     "標籤、仿單及包裝加註": "",
@@ -28,11 +28,19 @@
         "主製造廠": "",
         "製造廠名稱": "F020034000  PFIZER (PERTH) PTY LIMITED",
         "製造廠廠址": "15 BRODIE HALL DRIVE TECHNOLOGY PARK, BENTLEY WESTERN AUSTRALIA 6102",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049071005 抗癌藥Anti-cancer preparations",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "6605071926  久裕企業股份有限公司",
+            "製造廠廠址": "桃園市桃園區大林里興邦路43巷2之1號4樓，3樓B區，1樓A區",
+            "製造廠公司地址": "",
+            "製造廠國別": "",
+            "製程": "二級包裝廠(委託貼標及置入仿單)"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -45,60 +53,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "020227120001-105-04-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022712&Seq=007&Type=9"
+            "title": "Adriamycin LLD Australia 20140610-3-107-10-08(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022712&Seq=009&Type=9"
         },
         {
-            "title": "Adriamycin 藥輸022712-103-02-21.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022712&Seq=006&Type=9"
-        },
-        {
-            "title": "020227120004___20120815.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022712&Seq=005&Type=9"
-        },
-        {
-            "title": "020227120003___20120815.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022712&Seq=004&Type=9"
-        },
-        {
-            "title": "020227120002___20120815.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022712&Seq=003&Type=9"
-        },
-        {
-            "title": "020227120001___20120815.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022712&Seq=002&Type=9"
-        },
-        {
-            "title": "020227120001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022712&Seq=001&Type=9"
-        },
-        {
-            "title": "Adriamycin 50mg-LAB-050421-105-04-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022712&Seq=006&Type=8"
-        },
-        {
-            "title": "Adriamycin 50mg-CTN-050421-105-04-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022712&Seq=005&Type=8"
-        },
-        {
-            "title": "Adriamycin 20mg-LAB-050421-105-04-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022712&Seq=004&Type=8"
-        },
-        {
-            "title": "Adriamycin 20mg-CTN-050421-105-04-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022712&Seq=003&Type=8"
-        },
-        {
-            "title": "Adriamycin 10mg-LAB-050421-105-04-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022712&Seq=002&Type=8"
-        },
-        {
-            "title": "Adriamycin 10mg-CTN-050421-105-04-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022712&Seq=001&Type=8"
-        },
-        {
-            "title": "Adriamycin Inj 2mgml_仿單外盒標籤核定本-104-09-22(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022712&Seq=007&Type=8"
+            "title": "Adriamycin 2mgml (021712) for TFDA-108-01-02(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022712&Seq=009&Type=8"
         }
     ]
 }

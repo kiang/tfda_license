@@ -1,12 +1,12 @@
 {
     "code": "14000386",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=14000386",
-    "time": "2016-11-25 03:28:50",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=14000386",
+    "time": "2019-02-08 03:32:45",
     "許可證字號": "內衛成製字第000386號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/05\/25",
+    "有效日期": "113\/05\/25",
     "發證日期": "59\/04\/13",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -16,7 +16,7 @@
     "英文品名": "CHENG KONG PILL",
     "適應症": "消化不良、健胃整腸、腹痛腹瀉",
     "劑型": "192丸劑",
-    "包裝": "瓶裝",
+    "包裝": "12-500粒玻璃瓶裝瓶裝",
     "標籤、仿單及包裝加註": "",
     "藥品類別": "03成藥",
     "主成分略述": [
@@ -28,17 +28,16 @@
         "主製造廠": "",
         "製造廠名稱": "0806009300  明通化學製藥股份有限公司第二廠",
         "製造廠廠址": "台中市南屯區文山里工業區２１路１５號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
             "成分代碼": "5640001500",
             "成分名稱": "PHELLODENDRON",
-            "含量描述": "30",
+            "含量描述": "powder",
             "含量": "30.0000000000",
             "單位": "MG"
         },
@@ -46,35 +45,31 @@
             "成分類別": "主成分",
             "成分代碼": "9200004400",
             "成分名稱": "GLYCYRRHIZA (LIQUORICE)",
-            "含量描述": "30",
+            "含量描述": "powder",
             "含量": "30.0000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
+            "title": "建功丸仿單20171204-107-01-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14000386&Seq=004&Type=9"
+        },
+        {
             "title": "建功丸-仿單-104-10-07(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14000386&Seq=003&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14000386&Seq=003&Type=9"
         },
         {
-            "title": "140003860001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14000386&Seq=002&Type=9"
+            "title": "建功丸標籤-20170110-107-01-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14000386&Seq=005&Type=8"
         },
         {
-            "title": "140003860001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14000386&Seq=001&Type=9"
+            "title": "建功丸外盒-20171204-107-01-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14000386&Seq=004&Type=8"
         },
         {
             "title": "建功丸-外盒(100粒瓶裝)-104-10-07(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14000386&Seq=003&Type=8"
-        },
-        {
-            "title": "140003860002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14000386&Seq=002&Type=8"
-        },
-        {
-            "title": "140003860001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14000386&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14000386&Seq=003&Type=8"
         }
     ]
 }

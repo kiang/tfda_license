@@ -1,7 +1,7 @@
 {
     "code": "01038351",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01038351",
-    "time": "2016-11-18 13:50:32",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01038351",
+    "time": "2019-02-08 03:03:42",
     "許可證字號": "衛署藥製字第038351號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "1901510300  羅得化學製藥股份有限公司",
         "製造廠廠址": "台中市大甲區東西七路一段65號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "33051000102 含藥洗髮劑及潤絲劑（去頭皮屑，止頭皮癢用）Medicated shampoos and rinse (for antidandruff, antiitching)",
     "藥理治療分類": "",
@@ -38,43 +37,51 @@
             "成分類別": "主成分",
             "成分代碼": "0812200700",
             "成分名稱": "KETOCONAZOLE",
-            "含量描述": "20",
+            "含量描述": "",
+            "含量": "20.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812200700",
+            "成分名稱": "KETOCONAZOLE",
+            "含量描述": "",
             "含量": "20.0000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
+            "title": "010383510001仿單-108-01-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038351&Seq=006&Type=9"
+        },
+        {
             "title": "PO-11 可麗兒 說明書new-104-11-18(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038351&Seq=005&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038351&Seq=005&Type=9"
         },
         {
-            "title": "PO-11 可麗兒 說明書-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038351&Seq=004&Type=9"
+            "title": "010383510006外盒(苿莉花)-108-01-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038351&Seq=008&Type=8"
         },
         {
-            "title": "010383510003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038351&Seq=003&Type=9"
+            "title": "010383510005標籤(苿莉花)-108-01-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038351&Seq=007&Type=8"
         },
         {
-            "title": "010383510002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038351&Seq=002&Type=9"
+            "title": "010383510004外盒-108-01-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038351&Seq=006&Type=8"
         },
         {
-            "title": "010383510001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038351&Seq=001&Type=9"
+            "title": "010383510003標籤-108-01-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038351&Seq=005&Type=8"
+        },
+        {
+            "title": "010383510002標籤(瓶)-108-01-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038351&Seq=004&Type=8"
         },
         {
             "title": "PO-11 可麗兒 200mL外盒 new-104-12-03(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038351&Seq=003&Type=8"
-        },
-        {
-            "title": "PO-11 可麗兒標籤-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038351&Seq=002&Type=8"
-        },
-        {
-            "title": "PO-11 可麗兒 200mL標貼-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038351&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038351&Seq=003&Type=8"
         }
     ]
 }

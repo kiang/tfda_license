@@ -1,12 +1,12 @@
 {
     "code": "12006511",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12006511",
-    "time": "2015-08-22 18:04:11",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12006511",
+    "time": "2019-02-08 03:32:33",
     "許可證字號": "內衛藥製字第006511號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/05\/25",
+    "有效日期": "113\/05\/25",
     "發證日期": "59\/07\/25",
     "許可證種類": "製　劑",
     "舊證字號": "17006523",
@@ -17,23 +17,20 @@
     "適應症": "更年期障礙",
     "劑型": "270注射劑",
     "包裝": "小瓶",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "TESTOSTERONE CYPIONATE ( CYCLOPENTYLPROPIONATE), ESTRADIOL-17-CYCLOPENTYL PROPIONATE",
-    "限制項目": [
-        "01國產",
-        "1G不得製造"
+    "主成分略述": [
+        "TESTOSTERONECYPIONATE(CYCLOPENTYLPROPIONATE),ESTRADIOL-17-CYCLOPENTYLPROPIONATE"
     ],
+    "限制項目": "01國　產 1G不得製造",
     "申請商名稱": "0908703200  信東生技股份有限公司",
-    "申請商地址": "桃園市桃園區介壽路２２號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0306811300  大豐製藥股份有限公司",
         "製造廠廠址": "彰化市延平里岸頭巷１１號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30043900005 醫藥製劑，含有其他內分泌素者Medicaments, containing other hormones",
+    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -55,8 +52,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "120065110001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12006511&Seq=001&Type=9"
+            "title": "Depot Hormon-MF Injection(Lit)-104-12-21(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12006511&Seq=002&Type=9"
         }
     ]
 }

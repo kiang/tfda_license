@@ -1,7 +1,7 @@
 {
     "code": "56027393",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027393",
-    "time": "2017-02-24 03:25:34",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027393",
+    "time": "2019-02-08 03:19:30",
     "許可證字號": "衛部醫器輸字第027393號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,7 +15,7 @@
     "中文品名": "“亞曼吉爾巴赫”諾利德牙科瓷塊",
     "英文品名": "“Amann Girrbach” Ceramill Zolid Blanks",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "詳如中文仿單核定本",
+    "醫器規格": "詳如中文仿單核定本。新增規格：詳如中文仿單核定本。",
     "劑型": "",
     "包裝": "",
     "標籤、仿單及包裝加註": "",
@@ -37,17 +37,24 @@
         "製造廠公司地址": "",
         "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "560273930001-108-01-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027393&Seq=002&Type=9"
+        },
+        {
             "title": "560273930001-104-06-10.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027393&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027393&Seq=001&Type=9"
+        },
+        {
+            "title": "560273930001-108-01-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027393&Seq=002&Type=8"
         },
         {
             "title": "560273930002-104-06-10.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027393&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027393&Seq=001&Type=8"
         }
     ]
 }

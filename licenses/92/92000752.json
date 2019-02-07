@@ -1,7 +1,7 @@
 {
     "code": "92000752",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000752",
-    "time": "2016-05-27 04:40:22",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000752",
+    "time": "2019-02-08 03:21:41",
     "許可證字號": "衛部醫器陸輸字第000752號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,38 +18,35 @@
     "醫器規格": "詳如中文仿單核定本",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "F牙科裝置",
     "醫器次類別一": "F6070聚合用紫外線活化器",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入",
-        "09委託製造",
-        "40大陸生產"
+    "主成分略述": [
+        ""
     ],
+    "限制項目": "02輸　入 09委託製造 40大陸生產",
     "申請商名稱": "6201015158  湧傑企業股份有限公司",
-    "申請商地址": "台北市松山區敦化南路一段2號5樓之1",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "M644156000  Plexus (Xiamen) Co. Ltd.",
         "製造廠廠址": "No 6, Xiangxing 2 Road, Modern Logistics Park, (Free Trade Zone) Xiamen, Fujian, 361006 CHINA",
         "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
+        "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "920007520002-105-04-25.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000752&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000752&Seq=001&Type=9"
         },
         {
             "title": "920007520001-105-04-25.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000752&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000752&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "01031600",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01031600",
-    "time": "2016-11-18 12:34:13",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01031600",
+    "time": "2019-02-08 03:02:20",
     "許可證字號": "衛署藥製字第031600號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,9 +16,9 @@
     "英文品名": "EJAJEN ANTISEPTIC LIQUID &quot;R.T.&quot;",
     "適應症": "一般外用消毒劑，可當作初步傷口處理。",
     "劑型": "370外用液劑",
-    "包裝": "4000公撮以下瓶裝",
+    "包裝": "4000毫升以下塑膠瓶裝",
     "標籤、仿單及包裝加註": "",
-    "藥品類別": "07須經醫師指示使用",
+    "藥品類別": "17醫師藥師藥劑生指示藥品",
     "主成分略述": [
         "CHLORHEXIDINEGLUCONATE,CETRIMIDE"
     ],
@@ -28,12 +28,27 @@
         "主製造廠": "",
         "製造廠名稱": "1901510300  羅得化學製藥股份有限公司",
         "製造廠廠址": "台中市大甲區東西七路一段65號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5204900231",
+            "成分名稱": "CHLORHEXIDINE GLUCONATE",
+            "含量描述": "(SOL'N 20%)",
+            "含量": "0.0150000000",
+            "單位": "ML"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8404601080",
+            "成分名稱": "CETRIMIDE",
+            "含量描述": "",
+            "含量": "30.0000000000",
+            "單位": "MG"
+        },
         {
             "成分類別": "主成分",
             "成分代碼": "5204900231",
@@ -53,52 +68,56 @@
     ],
     "仿單外盒": [
         {
-            "title": "PA-01 益雅潔 說明書new-105-01-12(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031600&Seq=006&Type=9"
+            "title": "羅得益雅潔消毒液仿單-108-01-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031600&Seq=009&Type=9"
         },
         {
-            "title": "PA-01 益雅潔 說明書-104-09-24(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031600&Seq=005&Type=9"
+            "title": "羅得益雅潔消毒液仿單-108-01-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031600&Seq=008&Type=9"
         },
         {
-            "title": "A031600 EJAJEN 102 仿單-102-12-16.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031600&Seq=004&Type=9"
+            "title": "010316000001-106-07-21(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031600&Seq=007&Type=9"
         },
         {
-            "title": "010316000003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031600&Seq=003&Type=9"
+            "title": "羅得益雅潔消毒液標籤(原味4000ml)-108-01-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031600&Seq=012&Type=8"
         },
         {
-            "title": "010316000002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031600&Seq=002&Type=9"
+            "title": "羅得益雅潔消毒液標籤(薄荷500ml、原味500ml、原味400ml)-108-01-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031600&Seq=011&Type=8"
         },
         {
-            "title": "010316000001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031600&Seq=001&Type=9"
+            "title": "羅得益雅潔消毒液外盒(原味500ml)-108-01-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031600&Seq=015&Type=8"
+        },
+        {
+            "title": "羅得益雅潔消毒液外盒(原味400ml)-108-01-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031600&Seq=014&Type=8"
+        },
+        {
+            "title": "羅得益雅潔消毒液外盒(薄荷500ml)-108-01-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031600&Seq=013&Type=8"
+        },
+        {
+            "title": "羅得益雅潔消毒液外盒(薄荷500ml)-108-01-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031600&Seq=010&Type=8"
+        },
+        {
+            "title": "羅得益雅潔消毒液外盒(原味500ml)-108-01-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031600&Seq=009&Type=8"
+        },
+        {
+            "title": "羅得益雅潔消毒液外盒(原味400ml)-108-01-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031600&Seq=008&Type=8"
+        },
+        {
+            "title": "羅得益雅潔消毒液標籤-108-01-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031600&Seq=007&Type=8"
         },
         {
             "title": "VC-30(量杯) 104 0717-益雅潔-104-09-24(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031600&Seq=006&Type=8"
-        },
-        {
-            "title": "PB-400、PK-400 益雅潔 104 0623-104-09-24(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031600&Seq=005&Type=8"
-        },
-        {
-            "title": "PA-01 益雅潔 500ml標貼-104-09-24(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031600&Seq=004&Type=8"
-        },
-        {
-            "title": "PA-01 益雅潔 400ml標貼-104-09-24(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031600&Seq=003&Type=8"
-        },
-        {
-            "title": "PA-01 益雅潔 500ml盒-104-09-24(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031600&Seq=002&Type=8"
-        },
-        {
-            "title": "PA-01 益雅潔 400ml盒-104-09-24(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031600&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031600&Seq=006&Type=8"
         }
     ]
 }

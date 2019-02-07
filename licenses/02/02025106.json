@@ -1,7 +1,7 @@
 {
     "code": "02025106",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025106",
-    "time": "2017-05-26 03:36:50",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025106",
+    "time": "2019-02-08 03:07:20",
     "許可證字號": "衛署藥輸字第025106號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "F070068000  VALEANT PHARMACEUTICALS INTERNATIONAL INC.",
         "製造廠廠址": "100 LIFESCIENCES PARKWAY STEINBACH, MANITOBA, CANADA R5G 1Z7",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -59,18 +58,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "0.8cm*0.8cm 錠劑",
+        "特殊劑型": "",
+        "顏色": "乳白色",
+        "特殊氣味": "",
+        "刻痕": "無",
+        "形狀": "圓凸形",
+        "標記一": "GS 5FV",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "020251060004-104-09-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025106&Seq=004&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "020251060002-106-03-21.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025106&Seq=016&Type=9"
+            "title": "02025106_Wellbutrin XL 150mg L-107-06-05(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025106&Seq=018&Type=9"
         },
         {
-            "title": "020251060001-106-03-21.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025106&Seq=015&Type=9"
-        },
-        {
-            "title": "Wellbutrin XL 150mg_K884-001-04-105-09-26(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025106&Seq=006&Type=8"
+            "title": "02025106_Wellbutrin XL 150mg_MK-107-06-05(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025106&Seq=010&Type=8"
         }
     ]
 }

@@ -1,12 +1,12 @@
 {
     "code": "10000877",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000877",
-    "time": "2017-04-28 03:29:54",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000877",
+    "time": "2019-02-08 03:32:17",
     "許可證字號": "衛署菌疫輸字第000877號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/03\/11",
+    "有效日期": "113\/03\/11",
     "發證日期": "98\/03\/11",
     "許可證種類": "菌　疫",
     "舊證字號": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "F470076000  MERCK KGaA",
         "製造廠廠址": "FRANKFURTER STRASSE 250, D-64293 DARMSTADT, GERMANY",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -54,20 +53,28 @@
     ],
     "仿單外盒": [
         {
+            "title": "PIL ERBITUX 5 MG-ML (0.5%) (1x20ml) - TW-107-09-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000877&Seq=011&Type=9"
+        },
+        {
             "title": "PIL Erbitux-106-02-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000877&Seq=010&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000877&Seq=010&Type=9"
+        },
+        {
+            "title": "FBO ERBITUX 5 MG-ML (0.5%) (1x20ml) - TW-107-09-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000877&Seq=007&Type=8"
         },
         {
             "title": "LAB Erbitux-106-02-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000877&Seq=006&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000877&Seq=006&Type=8"
         },
         {
             "title": "FBO Erbitux Merck-106-02-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000877&Seq=005&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000877&Seq=005&Type=8"
         },
         {
             "title": "FBO Erbitux BI-106-02-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000877&Seq=004&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000877&Seq=004&Type=8"
         }
     ]
 }
