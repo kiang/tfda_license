@@ -1,7 +1,7 @@
 {
     "code": "92000575",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000575",
-    "time": "2015-08-22 08:15:28",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000575",
+    "time": "2019-03-08 03:32:45",
     "許可證字號": "衛部醫器陸輸字第000575號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,37 +18,35 @@
     "醫器規格": "G1B, G1B Plus\r\n以下空白",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "E心臟血管用裝置",
     "醫器次類別一": "E2700血氧飽和測定儀",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入",
-        "40大陸生產"
+    "主成分略述": [
+        ""
     ],
+    "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "1505401100  實密科技股份有限公司",
-    "申請商地址": "台北市信義區忠孝東路五段1之3號10樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "M641282000  General Meditech, Inc",
         "製造廠廠址": "South office 4\/F, Kezhi 1st Rd, West, Science Park, Nanshan, Shenzhen, Guangdong, China",
         "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "": ""
     },
-    "CCC號列": "90181990002 其他電氣診斷器具Other electro-diagnostic apparatus",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "920005750001-103-04-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000575&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000575&Seq=001&Type=9"
         },
         {
             "title": "920005750002-103-04-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000575&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000575&Seq=001&Type=8"
         }
     ]
 }

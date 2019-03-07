@@ -1,7 +1,7 @@
 {
     "code": "07005043",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07005043",
-    "time": "2016-11-19 02:39:45",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07005043",
+    "time": "2019-03-08 03:20:37",
     "許可證字號": "衛署粧製字第005043號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
     "主成分略述": [
-        "AMMONIASOLUTION(28%),1-NAPHTHOL,2,6-DIAMINOPYRIDINE,HCYELLOWNO.4,N,N-BIS(2-HYDROXYETHYL)-P-PHENYLENEDIAMINESULFATE"
+        "AMMONIASOLUTION(28%),1-NAPHTHOL,2,6-DIAMINOPYRIDINE,HCYELLOWNO.2,N,N-BIS(2-HYDROXYETHYL)-P-PHENYLENEDIAMINESULFATE"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "0300102200  大川實業有限公司",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "0300102500  大川實業有限公司",
         "製造廠廠址": "新北市新莊區復興路三段61號、63號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -39,7 +38,7 @@
             "成分代碼": "2820000109",
             "成分名稱": "AMMONIA SOLUTION (28%)",
             "含量描述": "",
-            "含量": "3.0000000000",
+            "含量": "1.0000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -60,10 +59,10 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9602087512",
-            "成分名稱": "HC YELLOW NO.4",
+            "成分代碼": "9602087540",
+            "成分名稱": "HC YELLOW NO.2",
             "含量描述": "",
-            "含量": "1.0600000000",
+            "含量": "0.2500000000",
             "單位": "%(W\/W)"
         },
         {
@@ -77,8 +76,12 @@
     ],
     "仿單外盒": [
         {
+            "title": "07005043-108-02-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005043&Seq=002&Type=8"
+        },
+        {
             "title": "070050430001-103-06-12.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005043&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005043&Seq=001&Type=8"
         }
     ]
 }

@@ -1,12 +1,12 @@
 {
     "code": "01050182",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01050182",
-    "time": "2016-11-18 15:36:29",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01050182",
+    "time": "2019-03-08 03:24:52",
     "許可證字號": "衛署藥製字第050182號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/05\/25",
+    "有效日期": "113\/05\/25",
     "發證日期": "98\/06\/17",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "1110202300  強生化學製藥廠股份有限公司",
         "製造廠廠址": "新北市三重區三和路四段７７號2、3樓、79號1至6樓",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -43,18 +42,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "圓形錠劑 6 m\/m",
+        "特殊劑型": "",
+        "顏色": "淺綠色",
+        "特殊氣味": "",
+        "刻痕": "有",
+        "形狀": "圓凸形",
+        "標記一": "上I 下16",
+        "標記二": "JCP"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "I-16 裸錠-104-10-01(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050182&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "I-16說明書(賦形劑)-甲硫嗎唑錠5毫克 Methimazole Tab. 5mg (Methimazole)-104-10-01(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050182&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050182&Seq=001&Type=9"
         },
         {
             "title": "I-16 盒裝-104-10-01(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050182&Seq=002&Type=8"
-        },
-        {
-            "title": "I-16 瓶裝-104-10-01(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050182&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01050182&Seq=002&Type=8"
         }
     ]
 }

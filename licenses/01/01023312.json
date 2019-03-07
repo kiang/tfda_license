@@ -1,12 +1,12 @@
 {
     "code": "01023312",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01023312",
-    "time": "2017-05-26 03:33:44",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01023312",
+    "time": "2019-03-08 03:23:39",
     "許可證字號": "衛署藥製字第023312號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/05\/08",
+    "有效日期": "113\/05\/08",
     "發證日期": "70\/05\/08",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -20,16 +20,15 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
     "主成分略述": [
-        "MAGNESIUMACETATETETRAHYDRATE,XYLITOL,L-ALANINE,L-ARGININE,GLUTAMICACIDL-,L-HISTIDINE,L-ISOLEUCINE,L-LEUCINE,LYSINEL-,L-METHIONINE,L-PHENYLALANINE,L-PROLINE,L-THREONINE,L-TRYPTOPHAN,L-VALINE,GLYCINE(EQTOAMINOACETICACID)(EQTOGLYCOCOLL),NIACINAMIDE(NICOTINAMIDE),RIBOFLAVINPHOSPHATESODIUM,PYRIDOXINEHCL,INOSITOL(MESO-INOSITOL),ASCORBICACID(VITC),MALICACID,POTASSIUMHYDROXIDE,SODIUMHYDROXIDE,SORBITOL"
+        "MAGNESIUMACETATETETRAHYDRATE,XYLITOL,L-ALANINE,L-ARGININE,GLUTAMICACIDL-,L-HISTIDINE,L-ISOLEUCINE,L-LEUCINE,LYSINEL-HCL(EQTOL-LYSINEHCL),L-METHIONINE,L-PHENYLALANINE,L-PROLINE,L-THREONINE,L-TRYPTOPHAN,L-VALINE,GLYCINE(EQTOAMINOACETICACID)(EQTOGLYCOCOLL),NIACINAMIDE(NICOTINAMIDE),RIBOFLAVINPHOSPHATESODIUM,PYRIDOXINEHCL,INOSITOL(MESO-INOSITOL),ASCORBICACID(VITC),MALICACID,POTASSIUMHYDROXIDE,SODIUMHYDROXIDE,SORBITOL"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "0903620200  南光化學製藥股份有限公司",
     "主製造廠": {
         "主製造廠": "",
         "製造廠名稱": "0903620300  南光化學製藥股份有限公司",
-        "製造廠廠址": "台南市新化區全興里中山路１００１號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠廠址": "台南市新化區全興里中山路1001號、1001-1號",
+        "製造廠公司地址": ""
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -100,10 +99,10 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "4020101302",
-            "成分名稱": "LYSINE L-",
-            "含量描述": "",
-            "含量": "1.0000000000",
+            "成分代碼": "4020101312",
+            "成分名稱": "LYSINE L- HCL ( EQ TO L-LYSINE HCL)",
+            "含量描述": "(eq. to Lysine 1.00mg)",
+            "含量": "1.2500000000",
             "單位": "MG"
         },
         {
@@ -237,12 +236,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "安命活源注射液_仿單-107-01-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023312&Seq=006&Type=9"
+        },
+        {
             "title": "014023312_仿單_101713-01-104-09-10(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023312&Seq=005&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023312&Seq=005&Type=9"
+        },
+        {
+            "title": "安命活源注射液_標籤-107-01-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023312&Seq=009&Type=8"
         },
         {
             "title": "014023312_外箱(250mlx40袋單孔新)_082415-01-104-09-10(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023312&Seq=008&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01023312&Seq=008&Type=8"
         }
     ]
 }

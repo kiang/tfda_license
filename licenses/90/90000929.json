@@ -1,12 +1,12 @@
 {
     "code": "90000929",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=90000929",
-    "time": "2016-07-29 05:27:40",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=90000929",
+    "time": "2019-03-08 03:28:38",
     "許可證字號": "衛部粧陸輸字第000929號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/04\/28",
+    "有效日期": "112\/04\/28",
     "發證日期": "103\/04\/28",
     "許可證種類": "含藥化粧品",
     "舊證字號": "",
@@ -17,22 +17,20 @@
     "用途": "染髮。",
     "劑型": "992霜劑",
     "包裝": "500g以下管裝附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "AMMONIA WATER (AMMONIUM HYDROXIDE), HYDROGEN PEROXIDE, RESORCINOL (RESORCIN), P-AMINOPHENOL, m-Aminophenol, 4-AMINO-2-HYDROXYTOLUENE, P-PHENYLENEDIAMINE, 2,4-DIAMINOPHENOXYETHANOL HCL (EQ TO 2,4-DIAMINOPHENOXYETHANOL DIHYDROCHLORIDE), HYDROXYPROPYL BIS(N-HYDROXYETHYL-P-PHENYLENEDIAMINE) HCL",
-    "限制項目": [
-        ""
+    "主成分略述": [
+        "AMMONIAWATER(AMMONIUMHYDROXIDE),HYDROGENPEROXIDE,RESORCINOL(RESORCIN),P-AMINOPHENOL,m-Aminophenol,4-AMINO-2-HYDROXYTOLUENE,P-PHENYLENEDIAMINE,2,4-DIAMINOPHENOXYETHANOLHCL(EQTO2,4-DIAMINOPHENOXYETHANOLDIHYDROCHLORIDE),HYDROXYPROPYLBIS(N-HYDROXYETHYL-P-PHENYLENEDIAMINE)HCL"
     ],
+    "限制項目": "",
     "申請商名稱": "1428601100  台灣萊雅股份有限公司",
-    "申請商地址": "台北市信義區信義路五段7號22樓23樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C640007000  BEAUTYCOS INTERNATIONAL CO., LTD.",
         "製造廠廠址": "NO.22 ZI TENG STREET JIN JI HU ROAD, SUZHOU 215021 CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -111,19 +109,23 @@
     "仿單外盒": [
         {
             "title": "90000928-36-103-08-08.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=90000929&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=90000929&Seq=001&Type=9"
+        },
+        {
+            "title": "90000929-106-06-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=90000929&Seq=004&Type=8"
         },
         {
             "title": "90000929-105-05-16.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=90000929&Seq=003&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=90000929&Seq=003&Type=8"
         },
         {
             "title": "90000929-104-10-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=90000929&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=90000929&Seq=002&Type=8"
         },
         {
             "title": "90000929-103-08-08.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=90000929&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=90000929&Seq=001&Type=8"
         }
     ]
 }

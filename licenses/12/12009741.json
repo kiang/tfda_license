@@ -1,38 +1,36 @@
 {
     "code": "12009741",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12009741",
-    "time": "2015-08-22 17:46:56",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12009741",
+    "time": "2019-03-08 03:25:28",
     "許可證字號": "內衛藥製字第009741號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/05\/25",
+    "有效日期": "113\/05\/25",
     "發證日期": "59\/09\/12",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY01200974102",
-    "中文品名": "新俾爾寧F100",
-    "英文品名": "NEO-BILNIN F 100 INJECTION \"ASTAR\"",
+    "中文品名": "&quot;安星&quot;新俾爾寧F100注射液",
+    "英文品名": "NEO-BILNIN F 100 INJECTION &quot;ASTAR&quot;",
     "適應症": "腳氣、多發性神經炎、其他維他命Ｂ１缺乏症",
     "劑型": "270注射劑",
-    "包裝": "安瓿",
+    "包裝": "20公撮10,50安瓿 10公撮5,10安瓿",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "DEXTROSE, THIAMINE DISULFIDE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "DEXTROSE,THIAMINEDISULFIDE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0603006200  安星製藥股份有限公司",
-    "申請商地址": "新竹縣新豐鄉鳳坑村坑子口６７３號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0603006300  安星製藥股份有限公司",
         "製造廠廠址": "新竹縣新豐鄉鳳坑村坑子口６７３號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30045000009 含有維他命或第２９３６節產品之其他醫藥製劑Other medicaments containing vitamins or other products of heading 29.36",
+    "CCC號列": "30045000009 其他醫藥製劑，含有維他命或第２９３６節之其他產品Other medicaments, containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -52,10 +50,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "無色至微黃色澄清藥液",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "外觀圖-104-09-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12009741&Seq=002&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "30048新俾爾寧F100注射液說明書-2014-02-17.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12009741&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12009741&Seq=001&Type=9"
+        },
+        {
+            "title": "盒貼標籤-104-09-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12009741&Seq=004&Type=8"
         }
     ]
 }

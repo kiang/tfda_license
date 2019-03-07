@@ -1,12 +1,12 @@
 {
     "code": "01026926",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01026926",
-    "time": "2016-04-29 04:44:55",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01026926",
+    "time": "2019-03-08 03:23:59",
     "許可證字號": "衛署藥製字第026926號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/03\/04",
+    "有效日期": "113\/03\/04",
     "發證日期": "72\/03\/04",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -17,22 +17,20 @@
     "適應症": "減少呼吸道黏膜分泌的粘稠性、蓄意或偶發之Acetaminophen中毒之解毒劑。",
     "劑型": "270注射劑",
     "包裝": "安瓿",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "ACETYLCYSTEINE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "ACETYLCYSTEINE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0402606200  中國化學製藥股份有限公司新豐工廠",
-    "申請商地址": "新竹縣新豐鄉坑子口１８２之１號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0402602300  中國化學製藥股份有限公司新豐工廠",
         "製造廠廠址": "新竹縣新豐鄉坑子口１８２之１號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -46,20 +44,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "0102692600001-2014-03-17.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026926&Seq=003&Type=9"
-        },
-        {
-            "title": "010269260002.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026926&Seq=002&Type=9"
-        },
-        {
-            "title": "010269260001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026926&Seq=001&Type=9"
+            "title": "A026926 In-104-11-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026926&Seq=004&Type=9"
         },
         {
             "title": "0102692600002-2014-03-17.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026926&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026926&Seq=001&Type=8"
         }
     ]
 }

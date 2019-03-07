@@ -1,7 +1,7 @@
 {
     "code": "56026950",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026950",
-    "time": "2015-09-25 05:02:27",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026950",
+    "time": "2019-03-08 03:15:50",
     "許可證字號": "衛部醫器輸字第026950號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,43 +18,39 @@
     "醫器規格": "詳如中文仿單核定本。增加規格：MOR-1515-1-I、MOR-1515-6-I。",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "L婦產科用裝置",
     "醫器次類別一": "L1720婦產科用腹腔鏡及其附件",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入",
-        "09委託製造"
+    "主成分略述": [
+        ""
     ],
+    "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "1226021100  惠眾股份有限公司",
-    "申請商地址": "高雄市新興區中正三路2號19樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "M350029000  LiNA Medical Polska sp.z.o.o.",
         "製造廠廠址": "UL Rolna 8A, Sady 62-080 Tarnowo Podgorne, Poland",
         "製造廠公司地址": "",
-        "製造廠國別": "POLAND",
-        "製程": "Manufactured by"
+        "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
             "title": "中文仿單-104-07-20.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026950&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026950&Seq=002&Type=9"
         },
         {
             "title": "560269500001-104-02-12.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026950&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026950&Seq=001&Type=9"
         },
         {
             "title": "560269500002-104-02-12.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026950&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026950&Seq=001&Type=8"
         }
     ]
 }

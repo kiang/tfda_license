@@ -1,12 +1,12 @@
 {
     "code": "07006332",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07006332",
-    "time": "2016-11-19 02:52:27",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07006332",
+    "time": "2019-03-08 03:20:58",
     "許可證字號": "衛署粧製字第006332號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/10\/25",
+    "有效日期": "110\/10\/25",
     "發證日期": "101\/10\/25",
     "許可證種類": "含藥化粧品",
     "舊證字號": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
     "主成分略述": [
-        "HYDROGENPEROXIDE(35%),RESORCINOL(RESORCIN),CRESOLO-P-AMINO(EQTO5-AMINO-O-CRESOL)(EQTOP-AMINO-O-CRESOL),2,6-DIAMINOPYRIDINE,P-AMINOPHENOL,m-Aminophenol,TOLUENE-2,5-DIAMINEHYDROCHLORIDE,2,4-DIAMINOPHENOLHYDROCHLORIDE,2,4-DIAMINOPHENOXYETHANOLHYDROCHLORIDE"
+        "HYDROGENPEROXIDE(35%),P-AMINOPHENOL,m-Aminophenol,TOLUENE-2,5-DIAMINEHYDROCHLORIDE,2-AMINO-3-HYDROXYPYRIDINE,2,4-DIAMINOPHENOXYETHANOLHYDROCHLORIDE,TETRAAMINOPYRIMIDINESULFATE"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "1508521200  瑩澤化工有限公司",
@@ -28,42 +28,17 @@
         "主製造廠": "",
         "製造廠名稱": "1508521200  瑩澤化工有限公司",
         "製造廠廠址": "高雄市小港區小港路６５號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
-        {
-            "成分類別": "主成分",
-            "成分代碼": "8428000500",
-            "成分名稱": "RESORCINOL (RESORCIN)",
-            "含量描述": "",
-            "含量": "0.5000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
-            "含量描述": "",
-            "含量": "0.3000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200007430",
-            "成分名稱": "2,6-DIAMINOPYRIDINE",
-            "含量描述": "",
-            "含量": "0.5000000000",
-            "單位": "%(W\/W)"
-        },
         {
             "成分類別": "主成分",
             "成分代碼": "9200035440",
             "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
-            "含量": "0.8000000000",
+            "含量": "0.2730000000",
             "單位": "%(W\/W)"
         },
         {
@@ -71,7 +46,7 @@
             "成分代碼": "9200035470",
             "成分名稱": "m-Aminophenol",
             "含量描述": "",
-            "含量": "1.0000000000",
+            "含量": "0.5000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -84,19 +59,27 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9900066430",
-            "成分名稱": "2,4-DIAMINOPHENOL HYDROCHLORIDE",
+            "成分代碼": "9900084800",
+            "成分名稱": "2-AMINO-3-HYDROXYPYRIDINE",
             "含量描述": "",
-            "含量": "0.3000000000",
-            "單位": "%(W\/W)"
+            "含量": "0.5000000000",
+            "單位": ""
         },
         {
             "成分類別": "主成分",
             "成分代碼": "9900092100",
             "成分名稱": "2,4-DIAMINOPHENOXYETHANOL HYDROCHLORIDE",
             "含量描述": "",
-            "含量": "0.5000000000",
+            "含量": "0.7000000000",
             "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9901027400",
+            "成分名稱": "TETRAAMINOPYRIMIDINE SULFATE",
+            "含量描述": "",
+            "含量": "0.2631000000",
+            "單位": ""
         },
         {
             "成分類別": "主成分",
@@ -109,8 +92,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "07006332___20121116.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006332&Seq=001&Type=8"
+            "title": "07006332-108-02-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006332&Seq=002&Type=8"
         }
     ]
 }

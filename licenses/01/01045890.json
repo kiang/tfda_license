@@ -1,7 +1,7 @@
 {
     "code": "01045890",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01045890",
-    "time": "2018-08-31 03:37:26",
+    "time": "2019-03-08 03:02:32",
     "許可證字號": "衛署藥製字第045890號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,7 +14,7 @@
     "通關簽審文件編號": "DHY00104589006",
     "中文品名": "&quot;羅得&quot; 安黴舒乳膏",
     "英文品名": "A.M.S. CREAM &quot;ROOT&quot;",
-    "適應症": "治療皮膚表淺性黴菌感染，如足癬(香港腳)、股癬、汗斑。",
+    "適應症": "治療皮膚表淺性黴菌感染，如足癬(香港腳)、體癬、股癬、汗斑。",
     "劑型": "363乳膏劑",
     "包裝": "1000公克以下塑膠瓶裝 鋁軟管裝",
     "標籤、仿單及包裝加註": "",
@@ -40,12 +40,56 @@
             "含量描述": "",
             "含量": "10.0000000000",
             "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "3632000108",
+            "成分名稱": "TERBINAFINE HYDROCHLORIDE",
+            "含量描述": "",
+            "含量": "10.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "3632000108",
+            "成分名稱": "TERBINAFINE HYDROCHLORIDE",
+            "含量描述": "",
+            "含量": "10.0000000000",
+            "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
+            "title": "010458900001仿單-108-02-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045890&Seq=002&Type=9"
+        },
+        {
             "title": "PO-16 安黴舒說明書 new-104-11-19(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045890&Seq=001&Type=9"
+        },
+        {
+            "title": "010458900007鋁管-108-02-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045890&Seq=018&Type=8"
+        },
+        {
+            "title": "010458900006外盒(薰衣草)-108-02-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045890&Seq=017&Type=8"
+        },
+        {
+            "title": "010458900005外盒(薄荷)-108-02-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045890&Seq=016&Type=8"
+        },
+        {
+            "title": "010458900004外盒(凱信)-108-02-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045890&Seq=015&Type=8"
+        },
+        {
+            "title": "010458900003外盒-108-02-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045890&Seq=014&Type=8"
+        },
+        {
+            "title": "010458900002標籤-108-02-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045890&Seq=013&Type=8"
         },
         {
             "title": "PO-16 安黴舒28gTub-凱信-106-11-09(廠商自行上傳).pdf",

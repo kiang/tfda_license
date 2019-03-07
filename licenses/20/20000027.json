@@ -1,7 +1,7 @@
 {
     "code": "20000027",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=20000027",
-    "time": "2015-08-22 21:44:14",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=20000027",
+    "time": "2019-03-08 03:06:37",
     "許可證字號": "衛署罕藥輸字第000027號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,31 +17,27 @@
     "適應症": "治療亨汀頓舞蹈症之舞蹈症狀。",
     "劑型": "110錠劑",
     "包裝": "2-1000錠PE塑膠瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "Tetrabenazine",
-    "限制項目": [
-        "02輸入",
-        "1D須執行風險管理計畫",
-        "1EPhaseIVStudy"
+    "主成分略述": [
+        "Tetrabenazine"
     ],
+    "限制項目": "02輸　入 1D須執行風險管理計畫 1EPhase IV Study",
     "申請商名稱": "620102W395  吉泰藥品股份有限公司",
-    "申請商地址": "台北市大安區敦化南路2段128號15樓之6",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F150041100  RECIPHARM FONTAINE SAS",
         "製造廠廠址": "RUE DES PRES POTETS 21121 FONTAINE LES DIJON FRANCE",
-        "製造廠公司地址": "28, BOULEVARD CLEMENCEAU, 21000 DIJON, FRANCE",
-        "製造廠國別": "FRANCE",
-        "製程": ""
+        "製造廠公司地址": "28, BOULEVARD CLEMENCEAU, 21000 DIJON, FRANCE"
     },
     "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "F880001000  VALEANT INTERNATIONAL BERMUDA",
-            "製造廠廠址": "C\/O CODAN SERVICES LIMITED, CLARENDON HOUSE, 2 CHURCH STREET, HAMILTON HM11, BERMUDA",
+            "製造廠名稱": "F230115000  Valeant Pharmaceuticals Ireland Limited",
+            "製造廠廠址": "3013 Lake Drive, Citywest Business Campus, Dublin 24, Ireland",
             "製造廠公司地址": "",
-            "製造廠國別": "BERMUDA",
+            "製造廠國別": "IRELAND",
             "製程": "許可證持有者"
         }
     ],
@@ -57,12 +53,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "020000270002-102-05-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000027&Seq=002&Type=9"
+            "title": "Agrylin PI_仿單-修改賦形劑-20150421-104-08-26(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000027&Seq=003&Type=9"
         },
         {
-            "title": "020000270001-102-05-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000027&Seq=001&Type=9"
+            "title": "12.5MG 瓶標-原廠提供104.12.23-104-12-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000027&Seq=001&Type=8"
         }
     ]
 }

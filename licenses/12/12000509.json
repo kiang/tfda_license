@@ -1,12 +1,12 @@
 {
     "code": "12000509",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12000509",
-    "time": "2016-02-26 04:39:32",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12000509",
+    "time": "2019-03-08 03:25:20",
     "許可證字號": "內衛藥製字第000509號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/06\/30",
+    "有效日期": "113\/06\/30",
     "發證日期": "58\/05\/02",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -17,22 +17,20 @@
     "適應症": "胃潰瘍、十二指腸潰瘍、胃炎、十二指腸炎、賁門痙攣、食道痙攣、膽囊炎、膽管炎、膽結石、尿路結石、膀胱痙攣、排尿困難及頻尿、分娩時子宮下部弛緩之遲延、切迫流產、痙攣性月經困難等痙攣性疼痛及炎症性疼痛",
     "劑型": "130膠囊劑",
     "包裝": "6-1000錠瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "BUTYLSCOPOLAMINE BROMIDE (EQ TO HYOSCINE-N-BUTYLBROMIDE)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "BUTYLSCOPOLAMINEBROMIDE(EQTOHYOSCINE-N-BUTYLBROMIDE)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0502110200  永信藥品工業股份有限公司",
-    "申請商地址": "台中市大甲區頂店里中山路一段1191號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0502110300  永信藥品工業股份有限公司台中幼獅廠",
         "製造廠廠址": "台中市大甲區日南里工九路２７號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30044099004 其他醫藥製劑，含有生物鹼或其衍生物，但未含內分泌素，第２９３７節之其他產品或抗生素者Other medicaments, containing alkaloids or derivatives thereof but not containing hormones, other products of heading 29.37 or antibiotics",
+    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -56,18 +54,14 @@
     },
     "藥物辨識外觀圖片": [
         {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000509&Seq=439&Type=10"
+            "title": "12000509.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000509&Seq=439&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "120005090002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000509&Seq=002&Type=9"
-        },
-        {
-            "title": "120005090001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000509&Seq=001&Type=9"
+            "title": "120005090001-104-12-02(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000509&Seq=003&Type=9"
         }
     ]
 }

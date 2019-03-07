@@ -1,12 +1,12 @@
 {
     "code": "01002657",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01002657",
-    "time": "2017-07-21 11:29:51",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01002657",
+    "time": "2019-03-08 03:22:32",
     "許可證字號": "衛署藥製字第002657號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/05\/25",
+    "有效日期": "113\/05\/25",
     "發證日期": "67\/04\/02",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "0603006300  安星製藥股份有限公司",
         "製造廠廠址": "新竹縣新豐鄉鳳坑村坑子口６７３號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30043900005 醫藥製劑，含有其他內分泌素者Medicaments, containing other hormones",
+    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -43,14 +42,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "微黃色油質澄清藥液",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "小瓶停產故沒申請條碼",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "外觀圖10ml-104-10-13(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01002657&Seq=002&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "安星-黃體素注射液2.5%說明書-1050809 (1)-105-08-12(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01002657&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01002657&Seq=002&Type=9"
         },
         {
             "title": "外盒包裝10ml-104-10-13(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01002657&Seq=004&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01002657&Seq=004&Type=8"
         }
     ]
 }

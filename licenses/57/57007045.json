@@ -1,7 +1,7 @@
 {
     "code": "57007045",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=57007045",
-    "time": "2015-08-23 21:45:27",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=57007045",
+    "time": "2019-03-08 03:21:24",
     "許可證字號": "衛部粧製字第007045號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,22 +17,20 @@
     "用途": "染髮",
     "劑型": "992霜劑",
     "包裝": "500gm以下管裝附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "AMMONIA WATER (25%), 4-AMINO-M-CRESOL, 5-AMINO-6-CHLORO-O-CRESOL, P-AMINOPHENOL SULFATE, 4-AMINO-2-HYDROXYTOLUENE, P-PHENYLENEDIAMINE, 1-HYDROXYETHYL 4,5-DIAMINO PYRAZOLE SULFATE",
-    "限制項目": [
-        ""
+    "主成分略述": [
+        "AMMONIAWATER(25%),4-AMINO-M-CRESOL,5-AMINO-6-CHLORO-O-CRESOL,P-AMINOPHENOL,4-AMINO-2-HYDROXYTOLUENE,P-PHENYLENEDIAMINE,1-HYDROXYETHYL4,5-DIAMINOPYRAZOLESULFATE"
     ],
+    "限制項目": "",
     "申請商名稱": "5831111271  台大化妝品有限公司",
-    "申請商地址": "新北市汐止區福德一路430巷29號3樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "5831111271  台大化妝品有限公司",
         "製造廠廠址": "新北市汐止區福德一路430巷29號3樓",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -40,7 +38,7 @@
             "成分代碼": "2820000114",
             "成分名稱": "AMMONIA WATER (25%)",
             "含量描述": "",
-            "含量": "5.0000000000",
+            "含量": "0.5000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -61,8 +59,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035410",
-            "成分名稱": "P-AMINOPHENOL SULFATE",
+            "成分代碼": "9200035440",
+            "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
             "含量": "0.2500000000",
             "單位": "%(W\/W)"
@@ -88,14 +86,8 @@
             "成分代碼": "9900097210",
             "成分名稱": "1-HYDROXYETHYL 4,5-DIAMINO PYRAZOLE SULFATE",
             "含量描述": "",
-            "含量": "0.0500000000",
+            "含量": "0.0300000000",
             "單位": "%(W\/W)"
-        }
-    ],
-    "仿單外盒": [
-        {
-            "title": "57007045-104-06-12.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=57007045&Seq=001&Type=8"
         }
     ]
 }
