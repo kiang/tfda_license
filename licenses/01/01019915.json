@@ -1,12 +1,12 @@
 {
     "code": "01019915",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01019915",
-    "time": "2017-07-21 15:51:12",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01019915",
+    "time": "2019-04-05 03:35:15",
     "許可證字號": "衛署藥製字第019915號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/05\/25",
+    "有效日期": "113\/05\/25",
     "發證日期": "68\/12\/21",
     "許可證種類": "製　劑",
     "舊證字號": "00000000",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "0705330300  杏輝藥品工業股份有限公司",
         "製造廠廠址": "宜蘭縣冬山鄉中山村中山路８４號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30043200002 含有腎上腺皮質類固醇荷爾蒙，其衍生物及結構式類似者Containing adrenal corticosteroid hormones, their derivatives and structural analogues",
+    "CCC號列": "30043200002 其他醫藥製劑，含有腎上腺皮質類固醇荷爾蒙及其衍生物或結構式類似者Other medicaments, containing corticosteroid hormones, their derivatives or structural analogues",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -51,14 +50,34 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "澄清無色溶液",
+        "特殊劑型": "",
+        "顏色": "無色",
+        "特殊氣味": "無",
+        "刻痕": "無",
+        "形狀": "",
+        "標記一": "無",
+        "標記二": "無"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "滴朗眼液(5ml)-藥物外觀-104-09-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019915&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "010199150004.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019915&Seq=007&Type=9"
+            "title": "019915-滴朗眼液-仿單-108-02-21(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019915&Seq=008&Type=9"
+        },
+        {
+            "title": "010199150004.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019915&Seq=007&Type=9"
         },
         {
             "title": "滴朗眼液(5ml／盒)-外盒包裝-104-10-14(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019915&Seq=006&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019915&Seq=006&Type=8"
         }
     ]
 }

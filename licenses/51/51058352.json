@@ -1,7 +1,7 @@
 {
     "code": "51058352",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058352",
-    "time": "2015-08-22 16:53:38",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058352",
+    "time": "2019-04-05 03:07:22",
     "許可證字號": "衛部藥製字第058352號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,23 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY05105835205",
-    "中文品名": "\"應元\"舒視B12眼藥水0.02%",
-    "英文品名": "Soothe B12 eye drops 0.02% \"Y.Y.\"",
+    "中文品名": "&quot;應元&quot;舒視B12眼藥水0.02%",
+    "英文品名": "Soothe B12 eye drops 0.02% &quot;Y.Y.&quot;",
     "適應症": "眼睛疲勞。",
     "劑型": "472點眼液劑",
     "包裝": "100毫升以下塑膠瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
-    "管制藥品分類級別": "",
-    "主成分略述": "CYANOCOBALAMIN (VIT B12)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "CYANOCOBALAMIN(VITB12)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1704519200  應元化學製藥股份有限公司",
-    "申請商地址": "台南市南區新忠路２６號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1704519300  應元化學製藥股份有限公司",
         "製造廠廠址": "台南市南區新忠路２６號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -44,14 +42,50 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "5ML",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "S-513舒視B12眼藥水0.02%-標籤-104-09-29(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058352&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "舒視B12眼藥水0.02%-仿單-103-09-11.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058352&Seq=001&Type=9"
+            "title": "S-513舒視B12眼藥水0.02%-OTC版-仿單-108-03-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058352&Seq=002&Type=9"
         },
         {
-            "title": "舒視B12眼藥水0.02%-標籤-103-09-11.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058352&Seq=001&Type=8"
+            "title": "舒視B12眼藥水0.02%-仿單-103-09-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058352&Seq=001&Type=9"
+        },
+        {
+            "title": "S-513舒視B12眼藥水0.02%-外盒-108-03-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058352&Seq=006&Type=8"
+        },
+        {
+            "title": "S-513舒視B12眼藥水0.02%-10ml-標籤-108-03-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058352&Seq=005&Type=8"
+        },
+        {
+            "title": "S-513舒視B12眼藥水0.02%-5ml標籤-108-03-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058352&Seq=004&Type=8"
+        },
+        {
+            "title": "S-513舒視B12眼藥水0.02%-5mlx100支標籤-108-03-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058352&Seq=003&Type=8"
+        },
+        {
+            "title": "S-513舒視B12眼藥水0.02%-標籤-104-09-29(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058352&Seq=002&Type=8"
         }
     ]
 }

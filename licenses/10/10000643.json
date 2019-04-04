@@ -1,7 +1,7 @@
 {
     "code": "10000643",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000643",
-    "time": "2017-06-16 03:28:00",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000643",
+    "time": "2019-04-05 03:06:30",
     "許可證字號": "衛署菌疫輸字第000643號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,11 +28,19 @@
         "主製造廠": "",
         "製造廠名稱": "F470241000  CSL BEHRING GMBH",
         "製造廠廠址": "EMIL-VON-BEHRING STRASSE 76,35041 MARBURG GERMANY",
-        "製造廠公司地址": "P.O. BOX 1230 D-35002 MARBURG, GERMANY",
-        "": ""
+        "製造廠公司地址": "P.O. BOX 1230 D-35002 MARBURG, GERMANY"
     },
-    "CCC號列": "30021030004 血液球蛋白及白蛋白Blood globulin and albumin",
+    "CCC號列": "",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "6131041824  吉發企業股份有限公司中和廠",
+            "製造廠廠址": "新北市中和區橋和路116號6樓、6樓之1、6樓之2及6樓之3",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -46,11 +54,11 @@
     "仿單外盒": [
         {
             "title": "Hepatitis_B_Immunglobulin_CS_201412-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000643&Seq=013&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000643&Seq=013&Type=9"
         },
         {
             "title": "中文貼紙--貝靈B 肝 000643-104-09-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000643&Seq=038&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000643&Seq=038&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "52026514",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026514",
-    "time": "2015-12-25 04:19:00",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026514",
+    "time": "2019-04-05 03:07:57",
     "許可證字號": "衛部藥輸字第026514號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,34 +16,22 @@
     "英文品名": "pms-PREGABALIN CAPSULES 75MG",
     "適應症": "帶狀疱疹後神經痛。成人局部癲癇的輔助治療。纖維肌痛(fibromyalgia)。糖尿病周邊神經病變引起的神經性疼痛。脊髓損傷所引起的神經性疼痛。",
     "劑型": "130膠囊劑",
-    "包裝": "2-1000粒PE塑膠瓶裝",
+    "包裝": "2-1000粒鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "PREGABALIN",
-    "限制項目": [
-        "02輸入",
-        "24監視期滿學名藥"
+    "主成分略述": [
+        "PREGABALIN"
     ],
+    "限制項目": "02輸　入 24監視期滿學名藥",
     "申請商名稱": "620118H524  曜盟醫藥生技股份有限公司",
-    "申請商地址": "臺北市中正區愛國西路9號6樓之5",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F070049000  PHARMASCIENCE INC.",
         "製造廠廠址": "6111 ROYALMOUNT AVENUE SUITE 100 MONTREAL, QUEBEC CANADA H4P 2T4",
-        "製造廠公司地址": "",
-        "製造廠國別": "CANADA",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
-    "次製造廠": [
-        {
-            "製造廠名稱": "F070097000  PENDOPHARM, DIVISION OF PHARMASCIENCE INC.",
-            "製造廠廠址": "8580 ESPLANADE AVE., MONTREAL, QUEBEC, CANADA, H2P 2R8",
-            "製造廠公司地址": "",
-            "製造廠國別": "CANADA",
-            "製程": "包裝"
-        }
-    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -54,34 +42,34 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "1.5cm",
+        "特殊劑型": "",
+        "顏色": "紅白",
+        "特殊氣味": "無",
+        "刻痕": "無",
+        "形狀": "橢圓形",
+        "標記一": "PGB 75",
+        "標記二": "無"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Pregabalin 75mg Cap piture-104-12-22(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026514&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "普 佳寧仿單1050810-104-08-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026514&Seq=002&Type=9"
+            "title": "普 佳寧仿單10802132-108-03-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026514&Seq=003&Type=9"
         },
         {
-            "title": "75mg 標貼150508-104-08-24.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026514&Seq=006&Type=8"
+            "title": "Pregabalin75mg鋁箔外盒-108-03-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026514&Seq=012&Type=8"
         },
         {
-            "title": "Pregabalin 75mg鋁箔-104-08-24.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026514&Seq=005&Type=8"
-        },
-        {
-            "title": "Pregabalin75mg鋁箔外盒-104-08-24.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026514&Seq=004&Type=8"
-        },
-        {
-            "title": "普佳寧膠囊 75毫克外盒150508-104-08-24.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026514&Seq=003&Type=8"
-        },
-        {
-            "title": "75mg 標貼15041301-104-05-12.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026514&Seq=002&Type=8"
-        },
-        {
-            "title": "普佳寧膠囊 75毫克外盒150411.ai-104-05-12.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026514&Seq=001&Type=8"
+            "title": "Pregabalin 75mg鋁箔-108-03-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026514&Seq=011&Type=8"
         }
     ]
 }

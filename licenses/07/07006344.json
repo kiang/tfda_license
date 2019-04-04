@@ -1,7 +1,7 @@
 {
     "code": "07006344",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07006344",
-    "time": "2018-10-12 03:48:55",
+    "time": "2019-04-05 03:29:13",
     "許可證字號": "衛署粧製字第006344號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
     "主成分略述": [
-        "HYDROGENPEROXIDE(35%),CRESOLO-P-AMINO(EQTO5-AMINO-O-CRESOL)(EQTOP-AMINO-O-CRESOL),P-AMINOPHENOL,m-Aminophenol,TOLUENE-2,5-DIAMINEHYDROCHLORIDE"
+        "HYDROGENPEROXIDE(35%),P-AMINOPHENOL,m-Aminophenol,4-AMINO-2-HYDROXYTOLUENE,TOLUENE-2,5-DIAMINEHYDROCHLORIDE"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "6628896128  東安生技實業股份有限公司",
@@ -35,14 +35,6 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
-            "含量描述": "",
-            "含量": "0.2000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "9200035440",
             "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
@@ -55,6 +47,14 @@
             "成分名稱": "m-Aminophenol",
             "含量描述": "",
             "含量": "0.8000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "0.2000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -76,84 +76,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "07006344-106-01-03.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006344&Seq=020&Type=8"
+            "title": "07006344外銷專用-108-03-15.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006344&Seq=022&Type=8"
         },
         {
-            "title": "07006344-105-04-12.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006344&Seq=019&Type=8"
-        },
-        {
-            "title": "07006344-104-01-09.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006344&Seq=018&Type=8"
-        },
-        {
-            "title": "07006344-103-10-30.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006344&Seq=017&Type=8"
-        },
-        {
-            "title": "07006344-10-103-02-26.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006344&Seq=016&Type=8"
-        },
-        {
-            "title": "07006344-9-103-02-26.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006344&Seq=015&Type=8"
-        },
-        {
-            "title": "07006344-8-103-02-26.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006344&Seq=014&Type=8"
-        },
-        {
-            "title": "07006344-7-103-02-26.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006344&Seq=013&Type=8"
-        },
-        {
-            "title": "07006344-6-103-02-26.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006344&Seq=012&Type=8"
-        },
-        {
-            "title": "07006344-5-103-02-26.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006344&Seq=011&Type=8"
-        },
-        {
-            "title": "07006344-4-103-02-26.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006344&Seq=010&Type=8"
-        },
-        {
-            "title": "07006344-3-103-02-26.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006344&Seq=009&Type=8"
-        },
-        {
-            "title": "07006344-2-103-02-26.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006344&Seq=008&Type=8"
-        },
-        {
-            "title": "07006344-1-103-02-26.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006344&Seq=007&Type=8"
-        },
-        {
-            "title": "07006344_1-102-08-29.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006344&Seq=006&Type=8"
-        },
-        {
-            "title": "07006344-4-102-05-09.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006344&Seq=005&Type=8"
-        },
-        {
-            "title": "07006344-3-102-05-09.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006344&Seq=004&Type=8"
-        },
-        {
-            "title": "07006344-2-102-05-09.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006344&Seq=003&Type=8"
-        },
-        {
-            "title": "07006344-102-05-09.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006344&Seq=002&Type=8"
-        },
-        {
-            "title": "07006344___20121126.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006344&Seq=001&Type=8"
+            "title": "07006344-108-03-15.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006344&Seq=021&Type=8"
         }
     ]
 }

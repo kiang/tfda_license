@@ -1,38 +1,36 @@
 {
     "code": "12002131",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12002131",
-    "time": "2015-08-22 17:17:59",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12002131",
+    "time": "2019-04-05 03:39:38",
     "許可證字號": "內衛藥製字第002131號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/05\/25",
+    "有效日期": "113\/05\/25",
     "發證日期": "59\/02\/21",
     "許可證種類": "製　劑",
     "舊證字號": "00000000",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY01200213105",
     "中文品名": "抗血液凝固枸櫞酸鹽葡萄糖液Ｃ",
-    "英文品名": "ACD SOLUTION-C \"SINTONG\"",
+    "英文品名": "ACD SOLUTION-C &quot;SINTONG&quot;",
     "適應症": "血液保存",
     "劑型": "270注射劑",
     "包裝": "70\/500  35\/250公撮玻璃瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "SODIUM CITRATE (SODIUM CITRATE TRIBASIC), DEXTROSE, CITRIC ACID",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "SODIUMCITRATE(SODIUMCITRATETRIBASIC),DEXTROSE,CITRICACID"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0908703200  信東生技股份有限公司",
-    "申請商地址": "桃園市桃園區介壽路２２號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0908703300  信東生技股份有限公司",
         "製造廠廠址": "桃園市桃園區介壽路２２號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -60,14 +58,34 @@
             "單位": "GM"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "透明澄清溶液",
+        "特殊氣味": "無",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "ACD solution-C-104-09-21(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002131&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "內衛藥製字第002131號仿單1030805-103-08-05.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002131&Seq=001&Type=9"
+            "title": "54010170 A.C.D. Solution-C-lit-(印刷版次5)-107-05-01(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002131&Seq=003&Type=9"
         },
         {
-            "title": "內衛藥製字第002131號標籤1030805-103-08-05.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002131&Seq=001&Type=8"
+            "title": "54010490 A.C.D. Solution-C (L-70mlx20，KT，外箱)-(印刷版次4)-107-05-01(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002131&Seq=005&Type=8"
+        },
+        {
+            "title": "54010160 A.C.D. Solution-C (L-70ml)-(印刷版次9)-107-05-01(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002131&Seq=004&Type=8"
         }
     ]
 }

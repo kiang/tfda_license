@@ -1,38 +1,36 @@
 {
     "code": "12001808",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12001808",
-    "time": "2015-08-22 18:09:16",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12001808",
+    "time": "2019-04-05 03:39:37",
     "許可證字號": "內衛藥製字第001808號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/05\/25",
+    "有效日期": "113\/05\/25",
     "發證日期": "59\/02\/02",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY01200180807",
-    "中文品名": "\"強生\"次碳酸鉍錠324毫克",
-    "英文品名": "BISMUTH SUBCARBONATE TABLETS 324MG \"JOHNSON\"",
+    "中文品名": "&quot;強生&quot;次碳酸鉍錠324毫克",
+    "英文品名": "BISMUTH SUBCARBONATE TABLETS 324MG &quot;JOHNSON&quot;",
     "適應症": "腹瀉、腸炎、痢疾、潰瘍性結腸炎",
     "劑型": "110錠劑",
     "包裝": "瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "BISMUTH SUBCARBONATE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "BISMUTHSUBCARBONATE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1110202200  強生化學製藥廠股份有限公司",
-    "申請商地址": "新北市三重區三和路四段77號2、3樓、79號1至6樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1110202300  強生化學製藥廠股份有限公司",
         "製造廠廠址": "新北市三重區三和路四段７７號2、3樓、79號1至6樓",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -44,10 +42,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "圓形錠劑9.5m\/m",
+        "特殊劑型": "",
+        "顏色": "白色",
+        "特殊氣味": "",
+        "刻痕": "有",
+        "形狀": "圓凸形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "K-15 裸錠-104-11-04(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12001808&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "120018080001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12001808&Seq=001&Type=9"
+            "title": "K-15說明書(賦形劑)-次碳酸鉍錠 (Bismuth Subcarbonate 324mg)-104-10-21(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12001808&Seq=002&Type=9"
+        },
+        {
+            "title": "K-15 瓶裝-104-11-12(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12001808&Seq=001&Type=8"
         }
     ]
 }

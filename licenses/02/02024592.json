@@ -1,7 +1,7 @@
 {
     "code": "02024592",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024592",
-    "time": "2019-03-29 03:05:14",
+    "time": "2019-04-05 03:55:22",
     "許可證字號": "衛署藥輸字第024592號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -66,10 +66,34 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "淡紅色",
+        "特殊氣味": "",
+        "刻痕": "有",
+        "形狀": "橢圓形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Blopress 16 mg Plus 外觀-108-03-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024592&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
+        {
+            "title": "PI_BlpressPlus 16mg+12.5mg_TW_9137221 rev5-108-03-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024592&Seq=004&Type=9"
+        },
         {
             "title": "03_中文仿單_Blopress Plus 16mg+12.5mg Leaflet rev1-105-04-21.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024592&Seq=003&Type=9"
+        },
+        {
+            "title": "Blopress 16mg PLUS 外盒-108-03-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024592&Seq=006&Type=8"
         }
     ]
 }

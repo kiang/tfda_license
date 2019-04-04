@@ -1,7 +1,7 @@
 {
     "code": "08006452",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08006452",
-    "time": "2017-05-26 03:50:51",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08006452",
+    "time": "2019-04-05 03:29:16",
     "許可證字號": "衛署粧輸字第006452號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,56 +13,71 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00800645202",
     "中文品名": "萊肯增豔護髮染膏　７\/４５亮橙紅色",
-    "英文品名": "LAKME GLOSS COLOR RINSE: 7\/45 MEDIUM COPPERY AUBURN BLONDE",
+    "英文品名": "Gloss 7\/45 Mahogany Copper Medium Blonde",
     "用途": "染髮。",
     "劑型": "992霜劑",
     "包裝": "管裝 紙盒裝",
     "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
     "主成分略述": [
-        "AMINOPHENOLPARA-(EQTOP-AMINOPHENOL)"
+        "P-AMINOPHENOL,4-AMINO-2-HYDROXYTOLUENE,TOLUENE-2,5-DIAMINESULFATE,1-HYDROXYETHYL4,5-DIAMINOPYRAZOLESULFATE"
     ],
     "限制項目": "02輸　入",
     "申請商名稱": "1120601100  得洋國際股份有限公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "C260193000  LAKME COSMETICS S.L.",
-        "製造廠廠址": "NARCIS MONTURIOL, 37, 08960 BARCELONA, SPAIN",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠名稱": "C260193000  Lakme Cosmetics S.L.U",
+        "製造廠廠址": "Narcis Monturiol 27, 08960 Sant Just Desvern,Barcelona Spain",
+        "製造廠公司地址": ""
     },
     "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035401",
-            "成分名稱": "AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL)",
-            "含量描述": "1.41",
-            "含量": "1.4100000000",
+            "成分代碼": "9200035440",
+            "成分名稱": "P-AMINOPHENOL",
+            "含量描述": "",
+            "含量": "0.7800000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "1.0000000000",
             "單位": "%(W\/W"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900066200",
+            "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
+            "含量描述": "",
+            "含量": "0.0970000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900097210",
+            "成分名稱": "1-HYDROXYETHYL 4,5-DIAMINO PYRAZOLE SULFATE",
+            "含量描述": "",
+            "含量": "0.6900000000",
+            "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
         {
-            "title": "080064520002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08006452&Seq=002&Type=9"
+            "title": "080064520002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08006452&Seq=002&Type=9"
         },
         {
-            "title": "080064520001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08006452&Seq=001&Type=9"
+            "title": "080064520001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08006452&Seq=001&Type=9"
         },
         {
-            "title": "080064520003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08006452&Seq=003&Type=8"
-        },
-        {
-            "title": "080064520002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08006452&Seq=002&Type=8"
-        },
-        {
-            "title": "080064520001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08006452&Seq=001&Type=8"
+            "title": "08006452-108-03-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08006452&Seq=004&Type=8"
         }
     ]
 }

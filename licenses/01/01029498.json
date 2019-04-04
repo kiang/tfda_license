@@ -1,7 +1,7 @@
 {
     "code": "01029498",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01029498",
-    "time": "2015-08-22 23:41:34",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01029498",
+    "time": "2019-04-05 03:44:11",
     "許可證字號": "衛署藥製字第029498號",
     "註銷狀態": "已註銷",
     "註銷日期": "104\/01\/01",
@@ -13,24 +13,22 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102949801",
     "中文品名": "使立潔錠（克多可那挫）",
-    "英文品名": "CLEAR TABLETS 200MG \"MEIDER\" (KETOCONAZOLE)",
+    "英文品名": "CLEAR TABLETS 200MG &quot;MEIDER&quot; (KETOCONAZOLE)",
     "適應症": "髮癬（ＴＩＮＥＡ　ＣＡＰＩＴＩＳ）、汗斑",
     "劑型": "110錠劑",
     "包裝": "瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "KETOCONAZOLE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "KETOCONAZOLE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0806804200  明德製藥股份有限公司",
-    "申請商地址": "桃園市楊梅區瑞原里7鄰民富路二段３６０號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0806804300  明德製藥股份有限公司",
         "製造廠廠址": "桃園市楊梅區瑞原里7鄰民富路二段３６０號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30042000211 人用醫藥製劑，含抗黴菌劑類抗生素者Medicaments, containing antifungal antibiotics, for human use",
     "藥理治療分類": "",
@@ -56,22 +54,14 @@
     },
     "藥物辨識外觀圖片": [
         {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029498&Seq=191&Type=10"
+            "title": "01029498.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029498&Seq=191&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "010294980003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029498&Seq=003&Type=9"
-        },
-        {
-            "title": "010294980002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029498&Seq=002&Type=9"
-        },
-        {
-            "title": "010294980001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029498&Seq=001&Type=9"
+            "title": "010294980003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029498&Seq=003&Type=9"
         }
     ]
 }

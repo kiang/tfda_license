@@ -1,7 +1,7 @@
 {
     "code": "05003241",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05003241",
-    "time": "2016-11-18 21:26:19",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05003241",
+    "time": "2019-04-05 03:09:45",
     "許可證字號": "衛署醫器製字第003241號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,7 +15,7 @@
     "中文品名": "“雃博”連續陽壓呼吸器面罩",
     "英文品名": "“APEX”Continuous Positive Airway Pressure Mask",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "WiZARD 210、WiZARD 220以下空白。增加規格：WiZARD 230。增加規格：詳如中文仿單核定本。",
+    "醫器規格": "WiZARD 210、WiZARD 220以下空白。增加規格：WiZARD 230。增加規格：詳如中文仿單核定本。\r\n增加規格：WiZARD 310、WiZARD 320。",
     "劑型": "",
     "包裝": "",
     "標籤、仿單及包裝加註": "",
@@ -37,37 +37,44 @@
         "製造廠公司地址": "",
         "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "050032410006-108-03-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003241&Seq=006&Type=9"
+        },
+        {
             "title": "仿單-102-08-08.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003241&Seq=005&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003241&Seq=005&Type=9"
         },
         {
-            "title": "050032410004___20110903.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003241&Seq=004&Type=9"
+            "title": "050032410004___20110903.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003241&Seq=004&Type=9"
         },
         {
-            "title": "050032410003___20110903.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003241&Seq=003&Type=9"
+            "title": "050032410003___20110903.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003241&Seq=003&Type=9"
         },
         {
-            "title": "050032410002___20110903.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003241&Seq=002&Type=9"
+            "title": "050032410002___20110903.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003241&Seq=002&Type=9"
         },
         {
-            "title": "050032410001___20110903.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003241&Seq=001&Type=9"
+            "title": "050032410001___20110903.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003241&Seq=001&Type=9"
+        },
+        {
+            "title": "050032410006-108-03-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003241&Seq=003&Type=8"
         },
         {
             "title": "彩圖-102-08-08.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003241&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003241&Seq=002&Type=8"
         },
         {
             "title": "050032410005___20110903.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003241&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003241&Seq=001&Type=8"
         }
     ]
 }

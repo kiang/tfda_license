@@ -1,36 +1,34 @@
 {
     "code": "01027246",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01027246",
-    "time": "2015-08-22 22:17:24",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01027246",
+    "time": "2019-04-05 03:36:26",
     "許可證字號": "衛署藥製字第027246號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/07\/19",
+    "有效日期": "113\/07\/19",
     "發證日期": "72\/07\/19",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102724603",
     "中文品名": "哈特曼輸必妥注射液",
-    "英文品名": "HARTMANN-SORBITOL INJECTION \"S.T.\"",
+    "英文品名": "HARTMANN-SORBITOL INJECTION &quot;S.T.&quot;",
     "適應症": "作為循環血液量和組織間液減少時之細胞外液、補充劑代謝性酸中毒的治療及能量的補給",
     "劑型": "270注射劑",
     "包裝": "250、500、1000ml，100支以下玻璃瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "SODIUM LACTATE SOLUTION, CALCIUM CHLORIDE DIHYDRATE, POTASSIUM CHLORIDE, SODIUM CHLORIDE, SORBITOL D-",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "SODIUMLACTATESOLUTION,CALCIUMCHLORIDEDIHYDRATE,POTASSIUMCHLORIDE,SODIUMCHLORIDE,SORBITOLD-"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "0908703200  信東生技股份有限公司",
-    "申請商地址": "桃園市桃園區介壽路２２號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0908703300  信東生技股份有限公司",
         "製造廠廠址": "桃園市桃園區介壽路２２號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -76,10 +74,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "無色或幾乎無色的澄清",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Hartmann Sorbitol Inj. 027246-104-12-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027246&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "10 Hartmann-Sorbitol Injection(衛署藥製字第027246號)-20140402再修改-2014-04-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027246&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027246&Seq=001&Type=9"
+        },
+        {
+            "title": "54080470 H-Sorbitol (L-500ml,KT,外箱)-昱和(印刷版次3)-104-09-16(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027246&Seq=002&Type=8"
         }
     ]
 }

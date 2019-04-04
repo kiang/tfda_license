@@ -1,7 +1,7 @@
 {
     "code": "12011784",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12011784",
-    "time": "2015-08-23 05:50:38",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12011784",
+    "time": "2019-04-05 03:07:00",
     "許可證字號": "內衛藥製字第011784號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,27 +13,24 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY01201178402",
     "中文品名": "〝人人〞氰鈷胺明注射液1000MCG",
-    "英文品名": "CYANOCOBALAMIN INJECTION 1000MCG \"GCPC\"",
+    "英文品名": "CYANOCOBALAMIN INJECTION 1000MCG &quot;GCPC&quot;",
     "適應症": "惡性貧血症、小兒巨大紅芽性貧血、大球性貧血性",
     "劑型": "270注射劑",
-    "包裝": "小瓶 安瓿",
+    "包裝": "10公撮小瓶 1公撮10安瓿",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "CYANOCOBALAMIN (VIT B12)",
-    "限制項目": [
-        "09委託製造",
-        "1G不得製造"
+    "主成分略述": [
+        "CYANOCOBALAMIN(VITB12)"
     ],
+    "限制項目": "09委託製造 1G不得製造",
     "申請商名稱": "0201504200  人人化學製藥股份有限公司",
-    "申請商地址": "桃園市中壢區中壢工業區南園二路３號",
     "主製造廠": {
-        "製造廠名稱": "0801902300  東洲化學製藥廠股份有限公司",
-        "製造廠廠址": "新北市蘆洲區中山二路１９５巷１２號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "主製造廠": "",
+        "製造廠名稱": "0603006300  安星製藥股份有限公司",
+        "製造廠廠址": "新竹縣新豐鄉鳳坑村坑子口６７３號",
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30045000009 含有維他命或第２９３６節產品之其他醫藥製劑Other medicaments containing vitamins or other products of heading 29.36",
+    "CCC號列": "30045000009 其他醫藥製劑，含有維他命或第２９３６節之其他產品Other medicaments, containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -48,19 +45,11 @@
     "仿單外盒": [
         {
             "title": "010117840001-2014-03-31.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12011784&Seq=002&Type=9"
-        },
-        {
-            "title": "120117840001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12011784&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12011784&Seq=002&Type=9"
         },
         {
             "title": "010117840003-2014-03-31.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12011784&Seq=002&Type=8"
-        },
-        {
-            "title": "010117840002-2014-03-31.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12011784&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12011784&Seq=002&Type=8"
         }
     ]
 }

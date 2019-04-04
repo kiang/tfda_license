@@ -1,7 +1,7 @@
 {
     "code": "52026272",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026272",
-    "time": "2015-08-22 17:28:11",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026272",
+    "time": "2019-04-05 03:44:55",
     "許可證字號": "衛部藥輸字第026272號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,22 +17,18 @@
     "適應症": "治療及預防停經後的骨質疏鬆症。",
     "劑型": "116膜衣錠",
     "包裝": "1-1000錠鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "RISEDRONATE SODIUM",
-    "限制項目": [
-        "02輸入",
-        "24監視期滿學名藥",
-        "61完成BE試驗"
+    "主成分略述": [
+        "RISEDRONATESODIUM"
     ],
+    "限制項目": "02輸　入 24監視期滿學名藥 61完成BE試驗",
     "申請商名稱": "6231144082  立和生醫股份有限公司",
-    "申請商地址": "台北市中山區中山北路二段93巷19號9樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F160036000  PHARMATHEN S.A.",
         "製造廠廠址": "6, DERVENAKION STR., 153 51 PALLINI ATTIKIS, GREECE",
-        "製造廠公司地址": "",
-        "製造廠國別": "GREECE",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -46,18 +42,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "錠劑圓形白色無刻痕",
+        "特殊劑型": "",
+        "顏色": "錠劑圓形白色無刻痕",
+        "特殊氣味": "無味",
+        "刻痕": "無",
+        "形狀": "圓凸形",
+        "標記一": "無",
+        "標記二": "無"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Walkin圖檔(鋁箔.錠劑)-104-10-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026272&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "鋁箔Risedronate 35mg tw_blister-104-05-08.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026272&Seq=003&Type=8"
+            "title": "Walkin仿單1040511-104-10-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026272&Seq=001&Type=9"
         },
         {
-            "title": "020262720010-103-10-15.jpeg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026272&Seq=002&Type=8"
-        },
-        {
-            "title": "020262720009-103-10-15.jpeg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026272&Seq=001&Type=8"
+            "title": "Walkin圖檔(外盒)-104-10-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026272&Seq=004&Type=8"
         }
     ]
 }

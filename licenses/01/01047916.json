@@ -1,7 +1,7 @@
 {
     "code": "01047916",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01047916",
-    "time": "2016-11-18 15:10:04",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01047916",
+    "time": "2019-04-05 03:03:27",
     "許可證字號": "衛署藥製字第047916號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "1605609300  衛達化學製藥股份有限公司",
         "製造廠廠址": "台中市南屯區文山里工業區２３路２１號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -43,46 +42,42 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "裸錠直徑\/厚度(7.0mm\/3.55mm)",
+        "特殊劑型": "",
+        "顏色": "棕色",
+        "特殊氣味": "",
+        "刻痕": "無",
+        "形狀": "圓凸形",
+        "標記一": "WD",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "4.0_Suros F.C.Tab._劑型外觀-104-10-26(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047916&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "1.0_Suros F.C.Tab._仿單-104-11-30(廠商自行上傳).PDF",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047916&Seq=002&Type=9"
+            "title": "1080212_瀉樂_說明書_藍字-108-03-04.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047916&Seq=003&Type=9"
         },
         {
-            "title": "010479160001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047916&Seq=001&Type=9"
+            "title": "1.0_Suros F.C.Tab._仿單-104-11-30(廠商自行上傳).PDF",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047916&Seq=002&Type=9"
+        },
+        {
+            "title": "1080221_瀉樂_紙盒-108-03-04.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047916&Seq=010&Type=8"
+        },
+        {
+            "title": "1080128_瀉樂_瓶貼-108-03-04.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047916&Seq=009&Type=8"
         },
         {
             "title": "5.1_Suros F.C.Tab._鋁箔盒裝_10'SX3_4717818096137-104-10-26(廠商自行上傳).PDF",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047916&Seq=008&Type=8"
-        },
-        {
-            "title": "5.0_Suros F.C.Tab._塑膠瓶裝裝_1000'S_4717818096106-104-10-26(廠商自行上傳).PDF",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047916&Seq=007&Type=8"
-        },
-        {
-            "title": "3.1_Suros F.C.Tab._鋁箔_HK-104-10-26(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047916&Seq=006&Type=8"
-        },
-        {
-            "title": "3.0_Suros F.C.Tab._鋁箔-104-10-26(廠商自行上傳).PDF",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047916&Seq=005&Type=8"
-        },
-        {
-            "title": "2.1_Suros F.C.Tab._標籤_香港外銷專用-104-10-26(廠商自行上傳).PDF",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047916&Seq=004&Type=8"
-        },
-        {
-            "title": "2.0_Suros F.C.Tab._標籤-104-10-26(廠商自行上傳).PDF",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047916&Seq=003&Type=8"
-        },
-        {
-            "title": "010479160002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047916&Seq=002&Type=8"
-        },
-        {
-            "title": "010479160001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047916&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047916&Seq=008&Type=8"
         }
     ]
 }

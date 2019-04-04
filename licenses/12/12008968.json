@@ -1,7 +1,7 @@
 {
     "code": "12008968",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12008968",
-    "time": "2015-08-22 17:09:21",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12008968",
+    "time": "2019-04-05 03:06:54",
     "許可證字號": "內衛藥製字第008968號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,24 +16,21 @@
     "英文品名": "DEXARON PHOSPHATE INJECTION 1MG\/ML",
     "適應症": "腎上腺皮質機能不全、風濕性關節疾病",
     "劑型": "270注射劑",
-    "包裝": "小瓶 安瓿",
+    "包裝": "2公撮3小瓶.5.10等公撮小瓶 1公撮10安瓿",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "DEXAMETHASONE PHOSPHATE (21-BETA)",
-    "限制項目": [
-        "09委託製造",
-        "1G不得製造"
+    "主成分略述": [
+        "DEXAMETHASONEPHOSPHATE(21-BETA)"
     ],
+    "限制項目": "09委託製造 1G不得製造",
     "申請商名稱": "0201504200  人人化學製藥股份有限公司",
-    "申請商地址": "桃園市中壢區中壢工業區南園二路３號",
     "主製造廠": {
-        "製造廠名稱": "0801902300  東洲化學製藥廠股份有限公司",
-        "製造廠廠址": "新北市蘆洲區中山二路１９５巷１２號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "主製造廠": "",
+        "製造廠名稱": "0603006300  安星製藥股份有限公司",
+        "製造廠廠址": "新竹縣新豐鄉鳳坑村坑子口６７３號",
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30043200002 含有腎上腺皮質類固醇荷爾蒙，其衍生物及結構式類似者Containing adrenal corticosteroid hormones, their derivatives and structural analogues",
+    "CCC號列": "30043200002 其他醫藥製劑，含有腎上腺皮質類固醇荷爾蒙及其衍生物或結構式類似者Other medicaments, containing corticosteroid hormones, their derivatives or structural analogues",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -48,11 +45,11 @@
     "仿單外盒": [
         {
             "title": "120089680003-2014-04-21.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008968&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008968&Seq=002&Type=9"
         },
         {
-            "title": "特塞隆磷酸鹽注射液標籤-2014-04-29.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008968&Seq=001&Type=8"
+            "title": "特塞隆磷酸鹽注射液標籤-2014-04-29.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008968&Seq=001&Type=8"
         }
     ]
 }

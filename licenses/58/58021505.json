@@ -1,40 +1,46 @@
 {
     "code": "58021505",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58021505",
-    "time": "2015-09-25 05:06:41",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58021505",
+    "time": "2019-04-05 03:43:47",
     "許可證字號": "衛部粧輸字第021505號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/04\/28",
+    "有效日期": "112\/04\/28",
     "發證日期": "103\/04\/28",
     "許可證種類": "含藥化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA05802150503",
     "中文品名": "GATSBY無敵顯色染髮霜(闇夜亞灰) (第1、2劑)",
-    "英文品名": "GATSBY NATURAL BLEACH&COLOR Shade Wolf",
+    "英文品名": "GATSBY Shade Wolf SW",
     "用途": "染髮。",
     "劑型": "993霜劑＋液劑",
     "包裝": "500g以下管裝 500ml以下瓶裝附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "HYDROGEN PEROXIDE, P-PHENYLENEDIAMINE, 2,4-DIAMINOPHENOXYETHANOL HCL (EQ TO 2,4-DIAMINOPHENOXYETHANOL DIHYDROCHLORIDE)",
-    "限制項目": [
-        ""
+    "主成分略述": [
+        "AmmoniumHydroxide,HYDROGENPEROXIDE,P-PHENYLENEDIAMINE,2,4-DIAMINOPHENOXYETHANOLHCL(EQTO2,4-DIAMINOPHENOXYETHANOLDIHYDROCHLORIDE)"
     ],
+    "限制項目": "",
     "申請商名稱": "1509701100  蔻仕麗股份有限公司",
-    "申請商地址": "台北市中山區民權東路一段76號12樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C260373000  MANDOM CORPORATION FUKUSAKI FACTORY",
         "製造廠廠址": "290-28 TAKAHASHI, FUKUSAKI-CHO, KANZAKI-GUN, HYOGO, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2820000161",
+            "成分名稱": "Ammonium Hydroxide",
+            "含量描述": "",
+            "含量": "1.9600000000",
+            "單位": "%(W\/W)"
+        },
         {
             "成分類別": "主成分",
             "成分代碼": "9400003200",
@@ -63,15 +69,19 @@
     "仿單外盒": [
         {
             "title": "58021505-103-08-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58021505&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58021505&Seq=001&Type=9"
+        },
+        {
+            "title": "58021505-106-07-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58021505&Seq=003&Type=8"
         },
         {
             "title": "58021505-104-07-30.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58021505&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58021505&Seq=002&Type=8"
         },
         {
             "title": "58021505-103-08-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58021505&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58021505&Seq=001&Type=8"
         }
     ]
 }

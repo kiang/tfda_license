@@ -1,12 +1,12 @@
 {
     "code": "02024737",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024737",
-    "time": "2016-11-18 20:35:23",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024737",
+    "time": "2019-04-05 03:05:34",
     "許可證字號": "衛署藥輸字第024737號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/11\/02",
+    "有效日期": "111\/11\/02",
     "發證日期": "96\/11\/02",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -28,12 +28,18 @@
         "主製造廠": "",
         "製造廠名稱": "C460187000  ACCUPAC, INC.",
         "製造廠廠址": "1501 INDUSTRIAL BLVD., MAINLAND, PA 19451-0200, U.S.A.",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
+        {
+            "製造廠名稱": "6132051379  昱昇藥業有限公司桃園廠",
+            "製造廠廠址": "桃園市蘆竹區南山路一段436號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "貼標廠"
+        },
         {
             "製造廠名稱": "F462352000  3M HEALTH CARE",
             "製造廠廠址": "ST. PAUL, MN55144-1000, U.S.A",
@@ -55,47 +61,11 @@
     "仿單外盒": [
         {
             "title": "020247370001-102-07-12.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024737&Seq=007&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024737&Seq=007&Type=9"
         },
         {
-            "title": "衛署藥輸字第024737 仿單標籤核定稿___20120810.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024737&Seq=006&Type=9"
-        },
-        {
-            "title": "衛署藥輸字第024737 仿單標籤核定稿___20120810.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024737&Seq=005&Type=9"
-        },
-        {
-            "title": "020247370004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024737&Seq=004&Type=9"
-        },
-        {
-            "title": "020247370003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024737&Seq=003&Type=9"
-        },
-        {
-            "title": "020247370002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024737&Seq=002&Type=9"
-        },
-        {
-            "title": "020247370001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024737&Seq=001&Type=9"
-        },
-        {
-            "title": "020247370004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024737&Seq=004&Type=8"
-        },
-        {
-            "title": "020247370003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024737&Seq=003&Type=8"
-        },
-        {
-            "title": "020247370002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024737&Seq=002&Type=8"
-        },
-        {
-            "title": "020247370001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024737&Seq=001&Type=8"
+            "title": "020247370004.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024737&Seq=004&Type=8"
         }
     ]
 }

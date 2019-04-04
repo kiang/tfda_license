@@ -1,7 +1,7 @@
 {
     "code": "10000820",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000820",
-    "time": "2017-05-26 03:37:09",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000820",
+    "time": "2019-04-05 03:06:37",
     "許可證字號": "衛署菌疫輸字第000820號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,10 +28,9 @@
         "主製造廠": "",
         "製造廠名稱": "F150324000  Novo Nordisk Production SAS",
         "製造廠廠址": "45, Avenue d’Orleans, F-28000 Chartres, France",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30043100003 醫藥製劑，含有胰島素者Medicaments, containing insulin",
+    "CCC號列": "30043100003 其他醫藥製劑，含有胰島素者Other medicaments, containing insulin",
     "藥理治療分類": "",
     "次製造廠": [
         {
@@ -54,16 +53,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "NovoMix 30 FlexPen CS PI STF2016_clean-106-03-23.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000820&Seq=007&Type=9"
+            "title": "NovoMix 30 FlexPen 108-3-20仿單-108-03-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000820&Seq=008&Type=9"
+        },
+        {
+            "title": "NovoMix 30 FlexPen STF2016 Carton-108-03-28(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000820&Seq=013&Type=8"
         },
         {
             "title": "NM30 Flexpen label-106-03-23.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000820&Seq=012&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000820&Seq=012&Type=8"
         },
         {
             "title": "cc-mockup-flexpen-fr-106-03-23.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000820&Seq=011&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000820&Seq=011&Type=8"
         }
     ]
 }

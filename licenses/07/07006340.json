@@ -1,7 +1,7 @@
 {
     "code": "07006340",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07006340",
-    "time": "2018-10-12 03:48:53",
+    "time": "2019-04-05 03:29:12",
     "許可證字號": "衛署粧製字第006340號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,14 +13,14 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "",
     "中文品名": "夢17泡泡染髮乳、夢17泡沫染髮乳、快速染髮乳、輕鬆染髮乳、獨染風騷泡泡染髮乳、美髮時空染髮乳、玩美染髮乳、泡泡染髮乳 (榛果黑) 第一劑、第二劑。夢17泡泡染髮乳、夢17泡沫染髮乳、快速染髮乳、輕鬆染髮乳、獨染風騷泡泡染髮乳、美髮時空染髮乳、玩美染髮乳、泡泡染髮乳 (自然黑) 第一劑、第二劑",
-    "英文品名": "Morn17 Bubble Hair Color-Black、Moon 17 Bubble Hair Color-Black、Bubble Hair Color-Black、Moon 17 3D Conditioning Color-Black、3D Conditioning Color-Black、Moon 17 Herb Shampoo type Hair Color-Black、Mong 17 Herb Shampoo Type Hair Color-Black、POOMPUKSA HAIR DYEING SHAMPOO BLACK COLOR",
+    "英文品名": "",
     "用途": "染髮。",
     "劑型": "99D液劑+乳液劑",
     "包裝": "500ml 以下鋁箔袋裝 500ml 以下瓶裝附外盒",
     "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
     "主成分略述": [
-        "HYDROGENPEROXIDE(35%),RESORCINOL(RESORCIN),CRESOLO-P-AMINO(EQTO5-AMINO-O-CRESOL)(EQTOP-AMINO-O-CRESOL),2,6-DIAMINOPYRIDINE,P-AMINOPHENOL,m-Aminophenol,TOLUENE-2,5-DIAMINEHYDROCHLORIDE,2,4-DIAMINOPHENOLHYDROCHLORIDE,2,4-DIAMINOPHENOXYETHANOLHYDROCHLORIDE"
+        "HYDROGENPEROXIDE(35%),RESORCINOL(RESORCIN),CRESOLO-P-AMINO(EQTO5-AMINO-O-CRESOL)(EQTOP-AMINO-O-CRESOL),2,6-DIAMINOPYRIDINE,P-AMINOPHENOL,m-Aminophenol,2-METHYLRESORCINOL,4-AMINO-2-HYDROXYTOLUENE,2,4-DIAMINOPHENOXYETHANOLHCL(EQTO2,4-DIAMINOPHENOXYETHANOLDIHYDROCHLORIDE),TOLUENE-2,5-DIAMINEHYDROCHLORIDE,TOLUENE-2,5-DIAMINESULFATE,2,4-DIAMINOPHENOLHYDROCHLORIDE,Hydroxyethyl-3,4-methylenedioxyanilineHCl,2,4-DIAMINOPHENOXYETHANOLHYDROCHLORIDE"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "6628896128  東安生技實業股份有限公司",
@@ -43,22 +43,6 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
-            "含量描述": "",
-            "含量": "0.3000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200007430",
-            "成分名稱": "2,6-DIAMINOPYRIDINE",
-            "含量描述": "",
-            "含量": "0.5000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "9200035440",
             "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
@@ -75,26 +59,42 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9400004010",
-            "成分名稱": "TOLUENE-2,5-DIAMINE HYDROCHLORIDE",
+            "成分代碼": "9200038920",
+            "成分名稱": "2-METHYLRESORCINOL",
             "含量描述": "",
-            "含量": "3.0000000000",
+            "含量": "0.7000000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9900066430",
-            "成分名稱": "2,4-DIAMINOPHENOL HYDROCHLORIDE",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
             "含量描述": "",
             "含量": "0.3000000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9900092100",
-            "成分名稱": "2,4-DIAMINOPHENOXYETHANOL HYDROCHLORIDE",
+            "成分代碼": "9400003810",
+            "成分名稱": "2,4-DIAMINOPHENOXYETHANOL HCL (EQ TO 2,4-DIAMINOPHENOXYETHANOL DIHYDROCHLORIDE)",
             "含量描述": "",
             "含量": "0.5000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900066200",
+            "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
+            "含量描述": "",
+            "含量": "3.5000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900085810",
+            "成分名稱": "Hydroxyethyl-3,4-methylenedioxyaniline HCl",
+            "含量描述": "",
+            "含量": "0.7000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -172,36 +172,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "07006340-105-02-02.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006340&Seq=008&Type=8"
+            "title": "07006340-108-03-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006340&Seq=010&Type=8"
         },
         {
-            "title": "07006340-104-01-09.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006340&Seq=007&Type=8"
-        },
-        {
-            "title": "07006340-103-10-30.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006340&Seq=006&Type=8"
-        },
-        {
-            "title": "07006340-4-103-02-26.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006340&Seq=005&Type=8"
-        },
-        {
-            "title": "07006340-3-103-02-26.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006340&Seq=004&Type=8"
-        },
-        {
-            "title": "07006340-2-103-02-26.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006340&Seq=003&Type=8"
-        },
-        {
-            "title": "07006340-1-103-02-26.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006340&Seq=002&Type=8"
-        },
-        {
-            "title": "07006340___20121205.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006340&Seq=001&Type=8"
+            "title": "07-006340-外銷專用-108-03-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006340&Seq=009&Type=8"
         }
     ]
 }

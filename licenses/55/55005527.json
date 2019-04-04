@@ -1,7 +1,7 @@
 {
     "code": "55005527",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=55005527",
-    "time": "2016-11-25 03:21:54",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=55005527",
+    "time": "2019-04-05 03:22:00",
     "許可證字號": "衛部醫器製字第005527號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,7 +15,7 @@
     "中文品名": "“力道”肌肉刺激器",
     "英文品名": "“PowerDot” Muscle Stimulator",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "詳如中文仿單核定本",
+    "醫器規格": "詳如中文仿單核定本\r\n新增規格：PD-01M系列，詳如中文仿單核定本。",
     "劑型": "",
     "包裝": "",
     "標籤、仿單及包裝加註": "",
@@ -37,17 +37,24 @@
         "製造廠公司地址": "",
         "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "550055270001-108-03-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55005527&Seq=002&Type=9"
+        },
+        {
             "title": "550055270001-105-11-05.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55005527&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55005527&Seq=001&Type=9"
+        },
+        {
+            "title": "550055270001-108-03-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55005527&Seq=002&Type=8"
         },
         {
             "title": "550055270002-105-11-05.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55005527&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55005527&Seq=001&Type=8"
         }
     ]
 }

@@ -1,11 +1,11 @@
 {
     "code": "41000520",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=41000520",
-    "time": "2015-08-23 12:50:46",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=41000520",
+    "time": "2019-04-05 03:33:24",
     "許可證字號": "衛署藥陸輸字第000520號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "108\/03\/12",
+    "註銷理由": "屆期未申請展延",
     "有效日期": "106\/06\/27",
     "發證日期": "101\/06\/27",
     "許可證種類": "原料藥",
@@ -17,21 +17,18 @@
     "適應症": "抗滴蟲藥",
     "劑型": "043原料藥結晶性粉末",
     "包裝": "０．５公斤以上",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "01製劑原料",
-    "管制藥品分類級別": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入",
-        "40大陸生產"
+    "主成分略述": [
+        ""
     ],
+    "限制項目": "02輸　入 1Q不得輸入 40大陸生產",
     "申請商名稱": "1209601100  勝達有限公司",
-    "申請商地址": "台北市龍江路２３５號８Ｆ之２",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F640862000  HUBEI HONGYUAN PHARMACEUTICAL CO., LTD.",
         "製造廠廠址": "NO.8 FENGSHAN ROAD, INDUSTRIAL AND ECONOMIC DEVELOPMENT ZONE, LUOTIAN COUNTY, HUANGGANG CITY, HUBEI PROVINCE, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -39,11 +36,11 @@
     "仿單外盒": [
         {
             "title": "陸藥輸字第000520號___20120719.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=41000520&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=41000520&Seq=001&Type=9"
         },
         {
             "title": "甲硝唑衛生署用標籤___20120719.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=41000520&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=41000520&Seq=001&Type=8"
         }
     ]
 }

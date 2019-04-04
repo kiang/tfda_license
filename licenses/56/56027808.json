@@ -1,7 +1,7 @@
 {
     "code": "56027808",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027808",
-    "time": "2016-08-26 04:07:00",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027808",
+    "time": "2019-04-05 03:24:15",
     "許可證字號": "衛部醫器輸字第027808號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,40 +18,39 @@
     "醫器規格": "1496V, 1496VF, 41482V, 41482VF。標籤、仿單變更：詳如中文仿單核定本。",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "J一般醫院及個人使用裝置",
     "醫器次類別一": "J2800滅菌過程指示劑",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        ""
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1407004200  台灣明尼蘇達礦業製造股份有限公司",
-    "申請商地址": "台北市大安區敦化南路二段95號6至11、15、16樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "M461020000  3M COMPANY",
         "製造廠廠址": "500 RT. 202 NORTH, FLEMINGTON, NJ 08822, U.S.A.",
         "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
+        "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "560278080003-105-06-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027808&Seq=003&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027808&Seq=003&Type=9"
         },
         {
             "title": "560278080002-105-06-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027808&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027808&Seq=002&Type=9"
         },
         {
             "title": "560278080001-105-06-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027808&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027808&Seq=002&Type=8"
         }
     ]
 }

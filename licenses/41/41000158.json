@@ -1,11 +1,11 @@
 {
     "code": "41000158",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=41000158",
-    "time": "2015-08-22 19:16:39",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=41000158",
+    "time": "2019-04-05 03:33:02",
     "許可證字號": "衛署藥陸輸字第000158號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "108\/03\/22",
+    "註銷理由": "許可證已逾有效期",
     "有效日期": "104\/05\/16",
     "發證日期": "94\/05\/16",
     "許可證種類": "原料藥",
@@ -17,23 +17,20 @@
     "適應症": "解熱鎮痛劑。",
     "劑型": "040（粉）",
     "包裝": "０．５公斤以上",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "01製劑原料",
-    "管制藥品分類級別": "",
-    "主成分略述": "DIPYRONE (EQ TO SODIUM METAMIZOL)",
-    "限制項目": [
-        "02輸入",
-        "40大陸生產"
+    "主成分略述": [
+        "DIPYRONE(EQTOSODIUMMETAMIZOL)"
     ],
+    "限制項目": "02輸　入 1Q不得輸入 40大陸生產",
     "申請商名稱": "0923501100  春安貿易有限公司",
-    "申請商地址": "台北市承德路２段１２號６Ｆ之１",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "F640036000  WUHAN WUYAO PHARMACEUTICAL CO., LTD.",
         "製造廠廠址": "5, GUTIAN ROAD, WUHAN, HUBEI PROVINCE, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "29331900908 其他結構中含有一未融合？唑環（不論是否氫化）之化合物Other compounds containing an unfused pyrazole ring (whether or not hydrogenated) in the structure",
+    "CCC號列": "29331900908 其他結構中含有一未稠合?唑環（不論是否氫化）之化合物Other compounds containing an unfused pyrazole ring (whether or not hydrogenated) in the structure",
     "藥理治療分類": "",
     "ingredients": [
         {

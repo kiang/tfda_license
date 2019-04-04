@@ -1,39 +1,36 @@
 {
     "code": "14003343",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=14003343",
-    "time": "2015-08-22 17:01:03",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=14003343",
+    "time": "2019-04-05 03:40:23",
     "許可證字號": "內衛成製字第003343號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/05\/25",
+    "有效日期": "113\/05\/25",
     "發證日期": "59\/12\/29",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY01400334302",
-    "中文品名": "\"新喜\"鎮咳散",
+    "中文品名": "&quot;新喜&quot;鎮咳散",
     "英文品名": "",
     "適應症": "鎮咳袪痰。",
-    "劑型": "140散劑",
-    "包裝": "盒裝 罐裝 袋裝",
+    "劑型": "041粉劑",
+    "包裝": "0.8公克\/包，6-1250包盒裝 6-1000公克塑膠罐裝 鋁盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "03成藥",
-    "管制藥品分類級別": "",
-    "主成分略述": "CAFFEINE, PULVIS RADIX PLATICODI, PULVIS RADIX POYGALAE, PULVIS RADIX LIQUIRITIAE, PULVIS SEMEN ARMENIACAE",
-    "限制項目": [
-        "01國產",
-        "1G依藥品審查準則第64條不得製造"
+    "主成分略述": [
+        "CAFFEINE,PULVISRADIXPLATICODI,PULVISRADIXPOYGALAE,PULVISRADIXLIQUIRITIAE,PULVISSEMENARMENIACAE"
     ],
+    "限制項目": "01國　產 1G依藥品審查準則第64條 不得製造",
     "申請商名稱": "1302820200  新喜國際企業股份有限公司",
-    "申請商地址": "台南市鹽水區孫厝里孫厝寮４之６號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1302820400  新喜國際企業股份有限公司",
         "製造廠廠址": "台南市鹽水區孫厝里孫厝寮４之６號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -75,6 +72,12 @@
             "含量描述": "",
             "含量": "3.1250000000",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "鎭咳散說明書(160608新)-105-09-01(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14003343&Seq=001&Type=9"
         }
     ]
 }

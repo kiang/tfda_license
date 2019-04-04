@@ -1,7 +1,7 @@
 {
     "code": "06020901",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06020901",
-    "time": "2016-11-19 01:13:04",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06020901",
+    "time": "2019-04-05 03:15:28",
     "許可證字號": "衛署醫器輸字第020901號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,7 +15,7 @@
     "中文品名": "“愛惜康”伯諾華外科縫合線",
     "英文品名": "“Ethicon” PRONOVA Poly (hexafluoropropylene-VDF) suture",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "詳如中文仿單核定本",
+    "醫器規格": "詳如中文仿單核定本。增加規格：詳如中文仿單核定本，以下空白。",
     "劑型": "",
     "包裝": "",
     "標籤、仿單及包裝加註": "",
@@ -37,17 +37,24 @@
         "製造廠公司地址": "",
         "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "060209010001-106-01-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06020901&Seq=002&Type=9"
+        },
+        {
             "title": "060209010001___20100519.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06020901&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06020901&Seq=001&Type=9"
+        },
+        {
+            "title": "060209010001-106-01-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06020901&Seq=002&Type=8"
         },
         {
             "title": "060209010002___20100519.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06020901&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06020901&Seq=001&Type=8"
         }
     ]
 }

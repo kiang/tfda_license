@@ -1,36 +1,34 @@
 {
     "code": "12005223",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12005223",
-    "time": "2016-06-24 05:02:03",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12005223",
+    "time": "2019-04-05 03:39:56",
     "許可證字號": "內衛藥製字第005223號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/05\/25",
+    "有效日期": "113\/05\/25",
     "發證日期": "59\/06\/29",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY01200522302",
     "中文品名": "複方能治敏糖衣錠",
-    "英文品名": "LONTOMIN COMPOUND S.C. TABLETS \"F.Y.\"",
+    "英文品名": "LONTOMIN COMPOUND S.C. TABLETS &quot;F.Y.&quot;",
     "適應症": "緩解過敏性鼻炎、枯草熱所引起之相關症狀（流鼻水、打噴嚏、眼睛及喉部搔癢）及過敏所引起之搔癢、皮膚癢疹",
     "劑型": "119糖衣錠",
     "包裝": "8-1000錠塑膠瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
-    "管制藥品分類級別": "",
-    "主成分略述": "CHLORPHENIRAMINE MALEATE, OROTIC ACID (VIT B13), GLYCYRRHIZATE AMMONIUM SALT (GLYCAMIL)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "CHLORPHENIRAMINEMALEATE,OROTICACID(VITB13),GLYCYRRHIZATEAMMONIUMSALT(GLYCAMIL)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1419531200  福元化學製藥股份有限公司",
-    "申請商地址": "新北市瑞芳區大寮路95-1號1樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1419502300  福元化學製藥股份有限公司",
         "製造廠廠址": "新北市瑞芳區大寮路９５號之１",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049099101 抗過敏抗組織胺用藥Drugs for antihypersensitivity and antihistamine",
     "藥理治療分類": "",
@@ -60,14 +58,30 @@
             "單位": "GM"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "深棕色圓形弧面糖衣錠",
+        "特殊劑型": "",
+        "顏色": "深棕色",
+        "特殊氣味": "無",
+        "刻痕": "無",
+        "形狀": "圓凸形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "005223-106-01-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005223&Seq=002&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "120052230001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005223&Seq=001&Type=9"
+            "title": "【SCT-004】FY-內-005223-複方能治敏-107-12-26(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005223&Seq=003&Type=9"
         },
         {
-            "title": "20160416172545054-105-04-16.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005223&Seq=001&Type=8"
+            "title": "CA-SCT004 005223-106-01-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005223&Seq=003&Type=8"
         }
     ]
 }

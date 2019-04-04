@@ -1,7 +1,7 @@
 {
     "code": "01037287",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01037287",
-    "time": "2019-03-29 03:30:39",
+    "time": "2019-04-05 03:37:24",
     "許可證字號": "衛署藥製字第037287號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
     "主成分略述": [
-        "NEOMYCINSULFATE,DEXAMETHASONE(SODIUMPHOSPHATE)"
+        "NEOMYCINSULFATE,DEXAMETHASONEPHOSPHATE(SODIUM)"
     ],
     "限制項目": "01國　產 1G不得製造",
     "申請商名稱": "0900822200  美西製藥有限公司",
@@ -38,13 +38,13 @@
             "成分代碼": "0812100530",
             "成分名稱": "NEOMYCIN SULFATE",
             "含量描述": "(POTENCY) 3.5",
-            "含量": "",
+            "含量": "0.0000000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "6804009640",
-            "成分名稱": "DEXAMETHASONE (SODIUM PHOSPHATE)",
+            "成分代碼": "6804008640",
+            "成分名稱": "DEXAMETHASONE PHOSPHATE (SODIUM)",
             "含量描述": "1",
             "含量": "1.0000000000",
             "單位": "MG"

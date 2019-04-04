@@ -1,38 +1,36 @@
 {
     "code": "12000288",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12000288",
-    "time": "2015-08-23 13:35:27",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12000288",
+    "time": "2019-04-05 03:39:32",
     "許可證字號": "內衛藥製字第000288號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/05\/25",
+    "有效日期": "113\/05\/25",
     "發證日期": "58\/06\/27",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY01200028802",
-    "中文品名": "\"強生\"維他命乙１　１００毫克片",
-    "英文品名": "VITAMIN B1 100MG TABLETS \"JOHNSON\"",
+    "中文品名": "&quot;強生&quot;維他命乙１　１００毫克片",
+    "英文品名": "VITAMIN B1 100MG TABLETS &quot;JOHNSON&quot;",
     "適應症": "腳氣、神經炎、疲勞、營養不良及因缺乏維他命乙１所引起各疾之預防及治療",
     "劑型": "110錠劑",
     "包裝": "瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥",
-    "管制藥品分類級別": "",
-    "主成分略述": "THIAMINE MONONITRATE",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "THIAMINEMONONITRATE"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1110202200  強生化學製藥廠股份有限公司",
-    "申請商地址": "新北市三重區三和路四段77號2、3樓、79號1至6樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1110202300  強生化學製藥廠股份有限公司",
         "製造廠廠址": "新北市三重區三和路四段７７號2、3樓、79號1至6樓",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30045000009 含有維他命或第２９３６節產品之其他醫藥製劑Other medicaments containing vitamins or other products of heading 29.36",
+    "CCC號列": "30045000009 其他醫藥製劑，含有維他命或第２９３６節之其他產品Other medicaments, containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -45,25 +43,29 @@
         }
     ],
     "藥物辨識詳細資料": {
-        "外觀尺寸": "",
+        "外觀尺寸": "圓形錠劑8m\/m",
         "特殊劑型": "",
         "顏色": "白色",
         "特殊氣味": "",
         "刻痕": "",
-        "形狀": "圓扁形",
+        "形狀": "圓凸形",
         "標記一": "100",
         "標記二": ""
     },
     "藥物辨識外觀圖片": [
         {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000288&Seq=439&Type=10"
+            "title": "O-02 裸錠-104-11-04(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000288&Seq=440&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "120002880001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000288&Seq=001&Type=9"
+            "title": "O-02說明書(賦形劑)-維他命乙1 100毫克 Vitamin B1 (Thiamine Mononitrate 100mg)-104-10-21(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000288&Seq=002&Type=9"
+        },
+        {
+            "title": "O-02 瓶裝-104-11-12(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12000288&Seq=001&Type=8"
         }
     ]
 }

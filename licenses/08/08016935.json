@@ -1,7 +1,7 @@
 {
     "code": "08016935",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016935",
-    "time": "2016-07-29 05:26:08",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016935",
+    "time": "2019-04-05 03:47:22",
     "許可證字號": "衛署粧輸字第016935號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,22 +17,20 @@
     "用途": "防曬、隔離紫外線。",
     "劑型": "903乳液劑",
     "包裝": "500公撮以下盒裝 附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0711防晒乳液",
-    "": "",
-    "主成分略述": "ZINC OXIDE, ETHYLHEXYL METHOXYCINNAMATE",
-    "限制項目": [
-        "02輸入"
+    "主成分略述": [
+        "ZINCOXIDE,ETHYLHEXYLMETHOXYCINNAMATE"
     ],
+    "限制項目": "02輸　入",
     "申請商名稱": "1435821100  台灣鐘紡化粧品股份有限公司",
-    "申請商地址": "高雄市新興區五福二路166號10樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "C260264000  Kao Cosmetic Products Odawara Co., Ltd.",
         "製造廠廠址": "3-28 5-Chome, Kotobuki-Cho, Odawara-Shi, Kanagawa-Ken, 250-0002, Japan",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -54,24 +52,28 @@
     ],
     "仿單外盒": [
         {
+            "title": "08016935-106-06-15.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016935&Seq=006&Type=8"
+        },
+        {
             "title": "08016935-105-05-30.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016935&Seq=005&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016935&Seq=005&Type=8"
         },
         {
             "title": "080169350001-104-02-11.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016935&Seq=004&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016935&Seq=004&Type=8"
         },
         {
             "title": "08016935___20111220.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016935&Seq=003&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016935&Seq=003&Type=8"
         },
         {
-            "title": "080169350002.JPG",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016935&Seq=002&Type=8"
+            "title": "080169350002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016935&Seq=002&Type=8"
         },
         {
-            "title": "080169350001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016935&Seq=001&Type=8"
+            "title": "080169350001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016935&Seq=001&Type=8"
         }
     ]
 }
