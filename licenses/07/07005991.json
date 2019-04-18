@@ -1,7 +1,7 @@
 {
     "code": "07005991",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07005991",
-    "time": "2019-04-12 03:28:19",
+    "time": "2019-04-19 03:27:33",
     "許可證字號": "衛署粧製字第005991號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
     "主成分略述": [
-        "RESORCINOL(RESORCIN),6-AMINO-M-CRESOL,P-PHENYLENEDIAMINE,PHENYLMETHYLPYRAZOLONE"
+        "RESORCINOL(RESORCIN),P-PHENYLENEDIAMINE,PHENYLMETHYLPYRAZOLONE,2,4,5,6-TetraaminopyrimidineSulfate,2,6-Dihydroxy-3,4-dimethylpyridine"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "1230122200  華旭化工廠",
@@ -38,15 +38,7 @@
             "成分代碼": "8428000500",
             "成分名稱": "RESORCINOL (RESORCIN)",
             "含量描述": "",
-            "含量": "0.2000000000",
-            "單位": "%(W\/V)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200002690",
-            "成分名稱": "6-AMINO-M-CRESOL",
-            "含量描述": "",
-            "含量": "0.5000000000",
+            "含量": "0.1400000000",
             "單位": "%(W\/V)"
         },
         {
@@ -54,7 +46,7 @@
             "成分代碼": "9400003200",
             "成分名稱": "P-PHENYLENEDIAMINE",
             "含量描述": "",
-            "含量": "0.4000000000",
+            "含量": "0.2500000000",
             "單位": "%(W\/V)"
         },
         {
@@ -64,12 +56,32 @@
             "含量描述": "",
             "含量": "0.1000000000",
             "單位": "%(W\/V)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9901027410",
+            "成分名稱": "2,4,5,6-Tetraaminopyrimidine Sulfate",
+            "含量描述": "",
+            "含量": "0.7200000000",
+            "單位": "%(W\/V)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9901048100",
+            "成分名稱": "2,6-Dihydroxy-3,4-dimethylpyridine",
+            "含量描述": "",
+            "含量": "0.4800000000",
+            "單位": "%(W\/V)"
         }
     ],
     "仿單外盒": [
         {
             "title": "07005991-2012-07-30.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005991&Seq=001&Type=9"
+        },
+        {
+            "title": "07005991-108-04-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005991&Seq=004&Type=8"
         },
         {
             "title": "07005991-108-03-04.pdf",
