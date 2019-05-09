@@ -1,11 +1,11 @@
 {
     "code": "02021790",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021790",
-    "time": "2016-11-18 20:05:16",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021790",
+    "time": "2019-05-10 03:19:00",
     "許可證字號": "衛署藥輸字第021790號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "108\/04\/02",
+    "註銷理由": "屆期未申請展延",
     "有效日期": "106\/07\/01",
     "發證日期": "86\/07\/01",
     "許可證種類": "製　劑",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "F250381000  NERPHARMA S.R.L.",
         "製造廠廠址": "VIALE PASTEUR 10, NERVIANO, MILANO, 20014, ITALY",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049071005 抗癌藥Anti-cancer preparations",
     "藥理治療分類": "",
@@ -52,38 +51,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "紅色",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "IDARUBICIN",
+        "標記二": "5"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Zavedos 5mg capsules_藥物外觀-104-09-22(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021790&Seq=002&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "020217900003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021790&Seq=003&Type=9"
-        },
-        {
-            "title": "020217900002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021790&Seq=002&Type=9"
-        },
-        {
-            "title": "020217900001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021790&Seq=001&Type=9"
+            "title": "020217900003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021790&Seq=003&Type=9"
         },
         {
             "title": "Zavedos 5mg capsules_外盒包裝-104-09-22(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021790&Seq=005&Type=8"
-        },
-        {
-            "title": "020217900004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021790&Seq=004&Type=8"
-        },
-        {
-            "title": "020217900003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021790&Seq=003&Type=8"
-        },
-        {
-            "title": "020217900002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021790&Seq=002&Type=8"
-        },
-        {
-            "title": "020217900001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021790&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021790&Seq=005&Type=8"
         }
     ]
 }

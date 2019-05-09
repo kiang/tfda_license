@@ -1,7 +1,7 @@
 {
     "code": "01049007",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01049007",
-    "time": "2017-06-16 03:49:44",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01049007",
+    "time": "2019-05-10 03:03:51",
     "許可證字號": "衛署藥製字第049007號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "6141311164  得生製藥股份有限公司二廠",
         "製造廠廠址": "台南市永康區環工路42-1號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30051090909 其他粘敷料和其他具有粘層之物品Other adhesive dressings and other articles having an adhesive layer",
     "藥理治療分類": "",
@@ -99,14 +98,42 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "10cm×14cm",
+        "特殊劑型": "",
+        "顏色": "白色",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "049007-外觀-104-09-24(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049007&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "010490070002-104-12-29(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049007&Seq=007&Type=9"
+            "title": "鋁箔袋標仿擬稿-108-04-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049007&Seq=009&Type=9"
         },
         {
-            "title": "010490070001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049007&Seq=001&Type=8"
+            "title": "2. 附件3. 鋁箔袋標仿擬稿-108-04-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049007&Seq=008&Type=9"
+        },
+        {
+            "title": "010490070002-104-12-29(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049007&Seq=007&Type=9"
+        },
+        {
+            "title": "鋁箔袋標仿擬稿-108-04-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049007&Seq=002&Type=8"
+        },
+        {
+            "title": "010490070001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049007&Seq=001&Type=8"
         }
     ]
 }

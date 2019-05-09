@@ -1,7 +1,7 @@
 {
     "code": "56028864",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028864",
-    "time": "2016-11-25 03:22:05",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028864",
+    "time": "2019-05-10 03:15:23",
     "許可證字號": "衛部醫器輸字第028864號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -32,12 +32,21 @@
     "申請商名稱": "1430002100  鼎昱科技有限公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "M470670000  OCCLUTECH GMBH",
-        "製造廠廠址": "WILDENBRUCHSTRAΒE 15, 07745 JENA, GERMANY",
+        "製造廠名稱": "M471576000  Occlutech GmbH",
+        "製造廠廠址": "Hans-Kn&#246;ll-Stra&#223;e 6, 07745 Jena, Germany",
         "製造廠公司地址": "",
         "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": []
+    "ingredients": [],
+    "仿單外盒": [
+        {
+            "title": "560288640001-105-12-30.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56028864&Seq=001&Type=9"
+        },
+        {
+            "title": "560288640002-105-12-30.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56028864&Seq=001&Type=8"
+        }
+    ]
 }

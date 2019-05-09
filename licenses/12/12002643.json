@@ -1,12 +1,12 @@
 {
     "code": "12002643",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12002643",
-    "time": "2016-03-25 04:23:02",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12002643",
+    "time": "2019-05-10 03:25:56",
     "許可證字號": "內衛藥製字第002643號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/05\/25",
+    "有效日期": "113\/05\/25",
     "發證日期": "59\/04\/09",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -17,23 +17,20 @@
     "適應症": "蕁麻疹、小兒苔癬、濕疹、皮膚炎、癢疹、妊娠噁阻",
     "劑型": "119糖衣錠",
     "包裝": "6-1000粒塑膠瓶裝 鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "CHLORPHENIRAMINE MALEATE, OROTIC ACID (VIT B13), GLYCYRRHIZATE SODIUM",
-    "限制項目": [
-        "01國產",
-        "1G依藥品審查準則第64條不得製造"
+    "主成分略述": [
+        "CHLORPHENIRAMINEMALEATE,OROTICACID(VITB13),GLYCYRRHIZATESODIUM"
     ],
+    "限制項目": "01國　產 1G依藥品審查準則第64條 不得製造",
     "申請商名稱": "0909920200  信隆藥品工業股份有限公司",
-    "申請商地址": "台南市仁德區中正路三段２６９號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0909920300  信隆藥品工業股份有限公司",
         "製造廠廠址": "台南市仁德區中正路三段２６９號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -61,26 +58,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "10.0mm",
+        "特殊劑型": "",
+        "顏色": "黑色",
+        "特殊氣味": "",
+        "刻痕": "無",
+        "形狀": "圓凸形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "膚立舒糖衣錠-外觀-104-12-04(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002643&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "1046014464-仿單-104-03-26.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002643&Seq=004&Type=9"
+            "title": "膚立舒糖衣錠20150302-104-12-04(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002643&Seq=005&Type=9"
         },
         {
-            "title": "120026430003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002643&Seq=003&Type=9"
-        },
-        {
-            "title": "120026430002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002643&Seq=002&Type=9"
-        },
-        {
-            "title": "120026430001.DOC",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002643&Seq=001&Type=9"
-        },
-        {
-            "title": "1046014464-標籤鋁箔-104-03-26.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002643&Seq=001&Type=8"
+            "title": "膚立舒1000+100-104-12-04(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002643&Seq=002&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "51058537",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058537",
-    "time": "2016-08-26 03:49:43",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058537",
+    "time": "2019-05-10 03:06:17",
     "許可證字號": "衛部藥製字第058537號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,22 +17,18 @@
     "適應症": "治療成人和6-18歲的兒童或青少年高血壓、心衰竭(NYHA二到四級)、心肌梗塞後左心室功能異常。",
     "劑型": "116膜衣錠",
     "包裝": "2-1000錠PE塑膠瓶裝 2-1000錠ALU-ALU鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "VALSARTAN",
-    "限制項目": [
-        "01國產",
-        "24監視期滿學名藥",
-        "61完成BE試驗"
+    "主成分略述": [
+        "VALSARTAN"
     ],
+    "限制項目": "01國　產 24監視期滿學名藥 61完成BE試驗",
     "申請商名稱": "6201091130  瑞安大藥廠股份有限公司",
-    "申請商地址": "台北市松山區光復南路1號12樓之2",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1315004300  瑞安大藥廠股份有限公司觀音廠",
         "製造廠廠址": "桃園市觀音區草漯村大同一路26號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -48,28 +44,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "Valen_INS_02_201509-104-11-23(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058537&Seq=002&Type=9"
-        },
-        {
-            "title": "(TAV02)Valen_INS_201501-104-02-03.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058537&Seq=001&Type=9"
+            "title": "Valen_INS_03_201607-105-07-28(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058537&Seq=003&Type=9"
         },
         {
             "title": "Valen_黏貼表盒標_1040127-104-11-23(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058537&Seq=004&Type=8"
-        },
-        {
-            "title": "(TAV02)Valen_PL_201501-104-02-03.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058537&Seq=003&Type=8"
-        },
-        {
-            "title": "(TAV02)Valen_PF_201501-104-02-03.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058537&Seq=002&Type=8"
-        },
-        {
-            "title": "(TAV02)Valen_PC_201501-104-02-03.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058537&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058537&Seq=004&Type=8"
         }
     ]
 }

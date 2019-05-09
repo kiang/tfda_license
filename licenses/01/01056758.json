@@ -1,7 +1,7 @@
 {
     "code": "01056758",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01056758",
-    "time": "2016-11-18 15:50:48",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01056758",
+    "time": "2019-05-10 03:04:12",
     "許可證字號": "衛署藥製字第056758號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "6141311164  得生製藥股份有限公司二廠",
         "製造廠廠址": "台南市永康區王行里環工路42之1號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -43,22 +42,38 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "10cmx14cm",
+        "特殊劑型": "",
+        "顏色": "白色",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "056758-外觀-104-09-29(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056758&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
+            "title": "010567580002-108-04-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056758&Seq=007&Type=9"
+        },
+        {
+            "title": "010567580001-108-04-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056758&Seq=006&Type=9"
+        },
+        {
             "title": "010567580002-104-12-31(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056758&Seq=005&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056758&Seq=005&Type=9"
         },
         {
-            "title": "010567580001-104-12-31(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056758&Seq=004&Type=9"
-        },
-        {
-            "title": "010567580002___20120213.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056758&Seq=001&Type=9"
-        },
-        {
-            "title": "010567580001___20120213.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056758&Seq=001&Type=8"
+            "title": "010567580001___20120213.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056758&Seq=001&Type=8"
         }
     ]
 }

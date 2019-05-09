@@ -1,12 +1,12 @@
 {
     "code": "12002608",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12002608",
-    "time": "2015-08-24 00:18:54",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12002608",
+    "time": "2019-05-10 03:25:54",
     "許可證字號": "內衛藥製字第002608號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/05\/25",
+    "有效日期": "113\/05\/25",
     "發證日期": "59\/04\/08",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -17,20 +17,18 @@
     "適應症": "肝臟疾病（黃疸、膽道炎、膽囊炎、膽囊之膽汁分泌不全）之預防及治療疲勞、食慾不振、宿醉、酒精中毒",
     "劑型": "119糖衣錠",
     "包裝": "4-1000粒塑膠瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "07須經醫師指示使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "METHIONINE DL-, DEHYDROCHOLIC ACID, THIOCTIC ACID AMIDE (THIOCTAMIDE), NIACINAMIDE (NICOTINAMIDE), PROSULTIAMINE (THIAMINE PROPYL DISULFIDE), RIBOFLAVIN (VIT B2), PYRIDOXINE(VITAMIN B6), CYANOCOBALAMIN (VIT B12), OROTIC ACID (VIT B13), FOLIC ACID, PANTOTHENATE CALCIUM, INOSITOL (MESO-INOSITOL), ASCORBIC ACID (VIT C), GLYCYRRHIZINIC ACID (EQ TO GLYCYRRHETINIC ACID GLYCOSIDE)(EQ TO GLYCYRRHIZIC ACID )",
-    "限制項目": [
-        "09委託製造"
+    "主成分略述": [
+        "METHIONINEDL-,DEHYDROCHOLICACID,THIOCTICACIDAMIDE(THIOCTAMIDE),NIACINAMIDE(NICOTINAMIDE),PROSULTIAMINE(THIAMINEPROPYLDISULFIDE),RIBOFLAVIN(VITB2),PYRIDOXINE(VITAMINB6),CYANOCOBALAMIN(VITB12),OROTICACID(VITB13),FOLICACID,PANTOTHENATECALCIUM,INOSITOL(MESO-INOSITOL),ASCORBICACID(VITC),GLYCYRRHIZINICACID(EQTOGLYCYRRHETINICACIDGLYCOSIDE)(EQTOGLYCYRRHIZICACID)"
     ],
+    "限制項目": "09委託製造 1R不得製造",
     "申請商名稱": "6236032649  天下生物科技股份有限公司",
-    "申請商地址": "臺中市大甲區工九路9號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "6103030017  井田國際醫藥廠股份有限公司",
         "製造廠廠址": "台中市大甲區幼獅路32號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049030005 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
@@ -150,16 +148,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "120026080002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002608&Seq=002&Type=9"
+            "title": "120026080002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002608&Seq=002&Type=9"
         },
         {
-            "title": "120026080001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002608&Seq=001&Type=9"
-        },
-        {
-            "title": "120026080001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002608&Seq=001&Type=8"
+            "title": "120026080001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002608&Seq=001&Type=8"
         }
     ]
 }

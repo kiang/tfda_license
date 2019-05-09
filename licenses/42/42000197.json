@@ -1,7 +1,7 @@
 {
     "code": "42000197",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000197",
-    "time": "2015-08-22 05:41:34",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000197",
+    "time": "2019-05-10 03:12:06",
     "許可證字號": "衛署醫器陸輸字第000197號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,40 +15,38 @@
     "中文品名": "優盛電子血壓計",
     "英文品名": "ROSSMAX BLOOD PRESSURE MONITOR",
     "效能": "詳如中文仿單核定本。",
-    "醫器規格": "K150, V701, K400, 以下空白.",
+    "醫器規格": "K150, V701, K400, 以下空白。註銷規格：K150及K400。",
     "劑型": "",
     "包裝": "",
+    "標籤、仿單及包裝加註": "",
+    "": "",
     "醫器主類別一": "E心臟血管用裝置",
     "醫器次類別一": "E1130非侵入性血壓測量系統",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入",
-        "40大陸生產"
+    "主成分略述": [
+        ""
     ],
+    "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6201115073  優盛醫學科技股份有限公司",
-    "申請商地址": "臺北市內湖區港墘路189號12樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "M640119000  ROSSMAX(SHANGHAI) INCORPORATION LTD.",
         "製造廠廠址": "NO. 6018 HUYI ROAD, WAIGANG TOWN, JIADING, SHANGHAI, CHINA",
         "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "": ""
     },
-    "CCC號列": "90189010109 靜脈血壓計Venous blood pressure manometer",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "42000197001___20120924.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000197&Seq=001&Type=9"
+            "title": "420001970001-108-04-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000197&Seq=002&Type=9"
         },
         {
-            "title": "42000197001___20120924.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000197&Seq=001&Type=8"
+            "title": "420001970002-108-04-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000197&Seq=002&Type=8"
         }
     ]
 }

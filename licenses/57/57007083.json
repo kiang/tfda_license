@@ -1,7 +1,7 @@
 {
     "code": "57007083",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=57007083",
-    "time": "2015-08-24 12:33:47",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=57007083",
+    "time": "2019-05-10 03:18:25",
     "許可證字號": "衛部粧製字第007083號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,22 +17,20 @@
     "用途": "染髮。",
     "劑型": "992霜劑",
     "包裝": "500gm以下管裝附外盒",
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "AMMONIA WATER (25%), RESORCINOL (RESORCIN), 2,6-DIAMINOPYRIDINE, O-AMINOPHENOL, 2,4-DIAMINOPHENOXYETHANOL HCL (EQ TO 2,4-DIAMINOPHENOXYETHANOL DIHYDROCHLORIDE), N,N-BIS(2-HYDROXYETHYL)-P-PHENYLENEDIAMINE SULFATE",
-    "限制項目": [
-        ""
+    "主成分略述": [
+        "AMMONIAWATER(25%),RESORCINOL(RESORCIN),P-AMINOPHENOL,4-AMINO-2-HYDROXYTOLUENE,2,4-DIAMINOPHENOXYETHANOLHCL(EQTO2,4-DIAMINOPHENOXYETHANOLDIHYDROCHLORIDE),HCYELLOWNO.2,N,N-BIS(2-HYDROXYETHYL)-P-PHENYLENEDIAMINESULFATE"
     ],
+    "限制項目": "",
     "申請商名稱": "5831111271  台大化妝品有限公司",
-    "申請商地址": "新北市汐止區福德一路430巷29號3樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "5831111271  台大化妝品有限公司",
         "製造廠廠址": "新北市汐止區福德一路430巷29號3樓",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "",
+    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -40,7 +38,7 @@
             "成分代碼": "2820000114",
             "成分名稱": "AMMONIA WATER (25%)",
             "含量描述": "",
-            "含量": "5.0000000000",
+            "含量": "0.5000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -48,23 +46,23 @@
             "成分代碼": "8428000500",
             "成分名稱": "RESORCINOL (RESORCIN)",
             "含量描述": "",
-            "含量": "0.0500000000",
+            "含量": "0.3000000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200007430",
-            "成分名稱": "2,6-DIAMINOPYRIDINE",
+            "成分代碼": "9200035440",
+            "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
-            "含量": "0.0300000000",
+            "含量": "0.0800000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035460",
-            "成分名稱": "O-AMINOPHENOL",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
             "含量描述": "",
-            "含量": "0.2000000000",
+            "含量": "0.0250000000",
             "單位": "%(W\/W)"
         },
         {
@@ -72,7 +70,15 @@
             "成分代碼": "9400003810",
             "成分名稱": "2,4-DIAMINOPHENOXYETHANOL HCL (EQ TO 2,4-DIAMINOPHENOXYETHANOL DIHYDROCHLORIDE)",
             "含量描述": "",
-            "含量": "0.0200000000",
+            "含量": "0.0500000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9602087540",
+            "成分名稱": "HC YELLOW NO.2",
+            "含量描述": "",
+            "含量": "0.0500000000",
             "單位": "%(W\/W)"
         },
         {
@@ -80,8 +86,14 @@
             "成分代碼": "9900094300",
             "成分名稱": "N,N-BIS(2-HYDROXYETHYL)-P-PHENYLENEDIAMINE SULFATE",
             "含量描述": "",
-            "含量": "0.0300000000",
+            "含量": "0.0600000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "57007083-108-04-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=57007083&Seq=002&Type=8"
         }
     ]
 }

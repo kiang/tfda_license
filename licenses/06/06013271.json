@@ -1,7 +1,7 @@
 {
     "code": "06013271",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06013271",
-    "time": "2017-06-16 03:31:00",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06013271",
+    "time": "2019-05-10 03:09:56",
     "許可證字號": "衛署醫器輸字第013271號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,7 +15,7 @@
     "中文品名": "亞培臨床化學鹼性磷酸酶試劑",
     "英文品名": "ABBOTT Clinical Chemistry Alkaline Phosphatase (AlkP)",
     "效能": "定量測試人體血清或血漿中鹼性磷酸&#37238;濃度。",
-    "醫器規格": "#7D55-21:R1:5X21 mL, R2:5X11 mL;#7D55-31:R1 10X84 mL, R2:10X35 mL",
+    "醫器規格": "新增規格：7D55-32、7D55-22。註銷規格：7D55-31、7D55-21。",
     "劑型": "",
     "包裝": "",
     "標籤、仿單及包裝加註": "",
@@ -28,12 +28,12 @@
     "主成分略述": [
         ""
     ],
-    "限制項目": "02輸　入",
+    "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "0932301100  美商亞培股份有限公司台灣分公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "M461106000  ABBOTT LABORATORIES DIAGNOSTICS DIVISION",
-        "製造廠廠址": "100 ABBOTT PARK ROAD, ABBOTT PARK, ILLINOIS 60064, U.S.A.",
+        "製造廠名稱": "M462970000  FISHER DIAGNOSTICS, A DIVISION OF FISHER SCIENTIFIC COMPANY, LLC, A PART OF THERMO FISHER SCIENTIFIC INC.",
+        "製造廠廠址": "8365 VALLEY PIKE, MIDDLETOWN, VA 22645, USA",
         "製造廠公司地址": "",
         "": ""
     },
@@ -41,48 +41,12 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "06013271-2010-11-11.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013271&Seq=008&Type=9"
+            "title": "060132710008-108-04-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013271&Seq=009&Type=9"
         },
         {
-            "title": "060132710007.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013271&Seq=007&Type=9"
-        },
-        {
-            "title": "060132710006.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013271&Seq=006&Type=9"
-        },
-        {
-            "title": "060132710005.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013271&Seq=005&Type=9"
-        },
-        {
-            "title": "060132710004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013271&Seq=004&Type=9"
-        },
-        {
-            "title": "060132710003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013271&Seq=003&Type=9"
-        },
-        {
-            "title": "060132710002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013271&Seq=002&Type=9"
-        },
-        {
-            "title": "060132710001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013271&Seq=001&Type=9"
-        },
-        {
-            "title": "060132710003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013271&Seq=003&Type=8"
-        },
-        {
-            "title": "060132710002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013271&Seq=002&Type=8"
-        },
-        {
-            "title": "060132710001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013271&Seq=001&Type=8"
+            "title": "060132710008-108-04-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013271&Seq=004&Type=8"
         }
     ]
 }

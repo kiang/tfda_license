@@ -1,7 +1,7 @@
 {
     "code": "08019194",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08019194",
-    "time": "2017-05-26 03:51:39",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08019194",
+    "time": "2019-05-10 03:18:16",
     "許可證字號": "衛署粧輸字第019194號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,15 +12,15 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00801919401",
-    "中文品名": "康媚絲 茱莉亞染髮霜–9.3 輕柔駝",
-    "英文品名": "CAN-MAX  Giulia color cream nuance 9.3",
+    "中文品名": "康媚絲 茉莉亞染髮霜-5.66 深紅亮棕",
+    "英文品名": "CAN-MAX Giulia color cream 5.66",
     "用途": "染髮。",
     "劑型": "992霜劑",
     "包裝": "500 毫升以下管裝附外盒",
     "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
     "主成分略述": [
-        "RESORCINOL(RESORCIN),P-AMINOPHENOL,P-PHENYLENEDIAMINE,HCYELLOWNO.2"
+        "RESORCINOL(RESORCIN),1-NAPHTHOL,4-CHLORORESORCINOL,4-AMINO-2-HYDROXYTOLUENE,P-PHENYLENEDIAMINE,2,4-DIAMINOPHENOXYETHANOLHCL(EQTO2,4-DIAMINOPHENOXYETHANOLDIHYDROCHLORIDE),TOLUENE-2,5-DIAMINESULFATE,PHENYLMETHYLPYRAZOLONE,1-HYDROXYETHYL4,5-DIAMINOPYRAZOLESULFATE"
     ],
     "限制項目": "02輸　入",
     "申請商名稱": "6201202768  益來成實業有限公司",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "C250060000  Eley S.r.l",
         "製造廠廠址": "40057 Cadriano Di Granarolo Dell’ Emilia (BO), VIA G. Di Vittorio, 11 Italy",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "": "",
     "藥理治療分類": "",
@@ -39,15 +38,31 @@
             "成分代碼": "8428000500",
             "成分名稱": "RESORCINOL (RESORCIN)",
             "含量描述": "",
-            "含量": "0.5000000000",
-            "單位": "%(W\/W)"
+            "含量": "0.2000000000",
+            "單位": ""
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035440",
-            "成分名稱": "P-AMINOPHENOL",
+            "成分代碼": "8436002204",
+            "成分名稱": "1-NAPHTHOL",
             "含量描述": "",
-            "含量": "0.3000000000",
+            "含量": "0.6000000000",
+            "單位": ""
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200038910",
+            "成分名稱": "4-CHLORORESORCINOL",
+            "含量描述": "",
+            "含量": "0.4000000000",
+            "單位": ""
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "0.9000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -55,26 +70,46 @@
             "成分代碼": "9400003200",
             "成分名稱": "P-PHENYLENEDIAMINE",
             "含量描述": "",
-            "含量": "0.0500000000",
+            "含量": "0.4000000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9602087540",
-            "成分名稱": "HC YELLOW NO.2",
+            "成分代碼": "9400003810",
+            "成分名稱": "2,4-DIAMINOPHENOXYETHANOL HCL (EQ TO 2,4-DIAMINOPHENOXYETHANOL DIHYDROCHLORIDE)",
             "含量描述": "",
-            "含量": "0.2000000000",
+            "含量": "0.3000000000",
+            "單位": ""
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900066200",
+            "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
+            "含量描述": "",
+            "含量": "0.5000000000",
             "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900086000",
+            "成分名稱": "PHENYL METHYL PYRAZOLONE",
+            "含量描述": "",
+            "含量": "0.1000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900097210",
+            "成分名稱": "1-HYDROXYETHYL 4,5-DIAMINO PYRAZOLE SULFATE",
+            "含量描述": "",
+            "含量": "0.6000000000",
+            "單位": ""
         }
     ],
     "仿單外盒": [
         {
-            "title": "08019194___20121001.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019194&Seq=002&Type=8"
-        },
-        {
-            "title": "08019194___20120529.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019194&Seq=001&Type=8"
+            "title": "08019194-108-04-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019194&Seq=003&Type=8"
         }
     ]
 }

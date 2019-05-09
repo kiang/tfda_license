@@ -1,7 +1,7 @@
 {
     "code": "12002659",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12002659",
-    "time": "2016-08-26 04:19:33",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12002659",
+    "time": "2019-05-10 03:32:03",
     "許可證字號": "內衛藥製字第002659號",
     "註銷狀態": "已註銷",
     "註銷日期": "105\/06\/06",
@@ -17,23 +17,20 @@
     "適應症": "急性過敏症（如蕁麻疹）、灼傷重傷的休克風濕性關性關節炎及氣喘症、皮膚炎",
     "劑型": "110錠劑",
     "包裝": "瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "PREDNISOLONE",
-    "限制項目": [
-        "09委託製造",
-        "1G不得製造"
+    "主成分略述": [
+        "PREDNISOLONE"
     ],
+    "限制項目": "09委託製造 1G不得製造",
     "申請商名稱": "1208319200  正統藥品工業股份有限公司",
-    "申請商地址": "台南市青年路１３２巷３５號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "0910819300  威力化學製藥股份有限公司",
         "製造廠廠址": "台南市開元路６０號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30043200002 含有腎上腺皮質類固醇荷爾蒙，其衍生物及結構式類似者Containing adrenal corticosteroid hormones, their derivatives and structural analogues",
+    "CCC號列": "30043200002 其他醫藥製劑，含有腎上腺皮質類固醇荷爾蒙及其衍生物或結構式類似者Other medicaments, containing corticosteroid hormones, their derivatives or structural analogues",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -57,8 +54,8 @@
     },
     "藥物辨識外觀圖片": [
         {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002659&Seq=443&Type=10"
+            "title": "12002659.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12002659&Seq=443&Type=10"
         }
     ]
 }

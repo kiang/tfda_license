@@ -1,12 +1,12 @@
 {
     "code": "01014865",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01014865",
-    "time": "2017-07-21 14:11:56",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01014865",
+    "time": "2019-05-10 03:00:47",
     "許可證字號": "衛署藥製字第014865號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/05\/25",
+    "有效日期": "113\/05\/25",
     "發證日期": "67\/05\/12",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -22,16 +22,15 @@
     "主成分略述": [
         "IBUPROFEN"
     ],
-    "限制項目": "01國　產",
+    "限制項目": "01國　產 09委託製造 1R不得製造",
     "申請商名稱": "620102G062  富邦藥品有限公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "1419502300  福元化學製藥股份有限公司",
-        "製造廠廠址": "新北市瑞芳區大寮路９５號之１",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠名稱": "0406914300  元宙化學製藥股份有限公司",
+        "製造廠廠址": "南投縣南投市南崗工業區南崗三路２７２號",
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -44,29 +43,29 @@
         }
     ],
     "藥物辨識詳細資料": {
-        "外觀尺寸": "",
+        "外觀尺寸": "9.0mm",
         "特殊劑型": "",
-        "顏色": "白色",
-        "特殊氣味": "",
-        "刻痕": "",
-        "形狀": "圓扁形",
-        "標記一": "I",
-        "標記二": ""
+        "顏色": "白色錠",
+        "特殊氣味": "無特殊氣味",
+        "刻痕": "有",
+        "形狀": "圓凸形",
+        "標記一": "上模C.T\/ I-1",
+        "標記二": "下模平面"
     },
     "藥物辨識外觀圖片": [
         {
             "title": "伊不煩外觀-104-11-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014865&Seq=066&Type=10"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014865&Seq=066&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "010148650001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014865&Seq=001&Type=9"
+            "title": "010148650001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014865&Seq=001&Type=9"
         },
         {
             "title": "伊不煩瓶-104-11-30(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014865&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014865&Seq=001&Type=8"
         }
     ]
 }

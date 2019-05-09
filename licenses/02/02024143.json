@@ -1,7 +1,7 @@
 {
     "code": "02024143",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024143",
-    "time": "2016-11-18 20:28:35",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024143",
+    "time": "2019-05-10 03:04:58",
     "許可證字號": "衛署藥輸字第024143號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,12 +28,18 @@
         "主製造廠": "",
         "製造廠名稱": "F460196000  PHARMACIA &amp; UPJOHN COMPANY",
         "製造廠廠址": "7000 PORTAGE ROAD,KALAMAZOO, MI49001,USA",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049010009 麻醉劑Anesthetics",
+    "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
+        {
+            "製造廠名稱": "6605071926  久裕企業股份有限公司",
+            "製造廠廠址": "桃園市桃園區大林里興邦路43巷2之1號4樓，3樓B區，1樓A區",
+            "製造廠公司地址": "",
+            "製造廠國別": "",
+            "製程": "二級包裝廠(委託貼標及置入仿單)"
+        },
         {
             "製造廠名稱": "F050011000  PFIZER MANUFACTURING BELGIUM NV",
             "製造廠廠址": "RIJKSWEG 12, 2870, PUURS, BELGIUM",
@@ -54,20 +60,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "020241430001-104-10-01.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024143&Seq=003&Type=9"
-        },
-        {
-            "title": "Dynastat衛署藥輸024143 -103-04-21.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024143&Seq=002&Type=9"
-        },
-        {
-            "title": "020241430001-102-11-20.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024143&Seq=001&Type=9"
+            "title": "Dynastat得術泰注射劑40毫克 中文仿單-420x310mm-送TFDA-108-04-18.PDF",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024143&Seq=005&Type=9"
         },
         {
             "title": "Dynastat外盒-104-09-15(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024143&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024143&Seq=001&Type=8"
         }
     ]
 }

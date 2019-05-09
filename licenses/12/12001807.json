@@ -1,38 +1,36 @@
 {
     "code": "12001807",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12001807",
-    "time": "2016-03-25 04:22:59",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12001807",
+    "time": "2019-05-10 03:25:49",
     "許可證字號": "內衛藥製字第001807號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/05\/25",
+    "有效日期": "113\/05\/25",
     "發證日期": "59\/02\/02",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY01200180705",
-    "中文品名": "\"強生\"倍樂寧－Ｒ錠",
-    "英文品名": "PELONINE-R TABLETS \"JOHNSON\"",
+    "中文品名": "&quot;強生&quot;倍樂寧－Ｒ錠",
+    "英文品名": "PELONINE-R TABLETS &quot;JOHNSON&quot;",
     "適應症": "風濕性疾患、支氣管氣喘、過敏性疾患、紅斑性狼瘡等",
     "劑型": "110錠劑",
     "包裝": "2-1000錠塑膠瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "PREDNISOLONE, RIBOFLAVIN (VIT B2)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "PREDNISOLONE,RIBOFLAVIN(VITB2)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1110202200  強生化學製藥廠股份有限公司",
-    "申請商地址": "新北市三重區三和路四段77號2、3樓、79號1至6樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1110202300  強生化學製藥廠股份有限公司",
         "製造廠廠址": "新北市三重區三和路四段７７號2、3樓、79號1至6樓",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30043200002 含有腎上腺皮質類固醇荷爾蒙，其衍生物及結構式類似者Containing adrenal corticosteroid hormones, their derivatives and structural analogues",
+    "CCC號列": "30043200002 其他醫藥製劑，含有腎上腺皮質類固醇荷爾蒙及其衍生物或結構式類似者Other medicaments, containing corticosteroid hormones, their derivatives or structural analogues",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -52,18 +50,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "大五角形錠劑",
+        "特殊劑型": "",
+        "顏色": "淺桔黃色",
+        "特殊氣味": "",
+        "刻痕": "有",
+        "形狀": "五邊形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "I-22 裸錠-104-11-04(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12001807&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "I-22說明書-倍樂寧-R錠 PELONINE-R(Prednisolone)-2014.10.17-103-10-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12001807&Seq=002&Type=9"
+            "title": "I-22說明書(賦形劑)-倍樂寧-R錠 (Prednisolone 5mg, Riboflavin 0.1mg)-104-10-21(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12001807&Seq=003&Type=9"
         },
         {
-            "title": "120018070001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12001807&Seq=001&Type=9"
-        },
-        {
-            "title": "I-22標籤-倍樂寧-R錠PELONINE-R(Prednisolone)-2014.10.17-103-10-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12001807&Seq=001&Type=8"
+            "title": "I-22 瓶裝-104-10-21(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12001807&Seq=002&Type=8"
         }
     ]
 }

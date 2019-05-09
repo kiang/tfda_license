@@ -1,7 +1,7 @@
 {
     "code": "57007149",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=57007149",
-    "time": "2017-05-26 03:45:10",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=57007149",
+    "time": "2019-05-10 03:18:28",
     "許可證字號": "衛部粧製字第007149號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
     "主成分略述": [
-        "2,6-DIAMINOPYRIDINE,P-AMINOPHENOL,HCYELLOWNO.2,P-NITRO-M-PHENYLENEDIAMINESULFATE,N,N-BIS(2-HYDROXYETHYL)-P-PHENYLENEDIAMINESULFATE"
+        "2,6-DIAMINOPYRIDINE,P-AMINOPHENOL,HCYELLOWNO.2,2,4-DIAMINOPHENOLHYDROCHLORIDE,N,N-BIS(2-HYDROXYETHYL)-P-PHENYLENEDIAMINESULFATE"
     ],
     "限制項目": "",
     "申請商名稱": "1511701100  髮利國際貿易有限公司",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "6670562643  髮利國際貿易有限公司汐止廠",
         "製造廠廠址": "新北市汐止區福德一路392巷42弄24號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "": "",
     "藥理治療分類": "",
@@ -39,7 +38,7 @@
             "成分代碼": "9200007430",
             "成分名稱": "2,6-DIAMINOPYRIDINE",
             "含量描述": "",
-            "含量": "0.5000000000",
+            "含量": "0.2500000000",
             "單位": "%(W\/W)"
         },
         {
@@ -47,7 +46,7 @@
             "成分代碼": "9200035440",
             "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
-            "含量": "0.2000000000",
+            "含量": "0.1900000000",
             "單位": "%(W\/W)"
         },
         {
@@ -55,15 +54,15 @@
             "成分代碼": "9602087540",
             "成分名稱": "HC YELLOW NO.2",
             "含量描述": "",
-            "含量": "0.3000000000",
+            "含量": "1.0000000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9900070200",
-            "成分名稱": "P-NITRO-M-PHENYLENEDIAMINE SULFATE",
+            "成分代碼": "9900066430",
+            "成分名稱": "2,4-DIAMINOPHENOL HYDROCHLORIDE",
             "含量描述": "",
-            "含量": "0.4000000000",
+            "含量": "0.2000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -71,18 +70,22 @@
             "成分代碼": "9900094300",
             "成分名稱": "N,N-BIS(2-HYDROXYETHYL)-P-PHENYLENEDIAMINE SULFATE",
             "含量描述": "",
-            "含量": "0.6000000000",
+            "含量": "0.4500000000",
             "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
         {
+            "title": "57007149-108-04-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=57007149&Seq=003&Type=8"
+        },
+        {
             "title": "57007149-106-03-29.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=57007149&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=57007149&Seq=002&Type=8"
         },
         {
             "title": "57007149-105-03-21.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=57007149&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=57007149&Seq=001&Type=8"
         }
     ]
 }

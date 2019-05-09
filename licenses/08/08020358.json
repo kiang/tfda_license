@@ -1,7 +1,7 @@
 {
     "code": "08020358",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08020358",
-    "time": "2018-07-20 04:25:54",
+    "time": "2019-05-10 03:18:17",
     "許可證字號": "衛署粧輸字第020358號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,7 +12,7 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00802035805",
-    "中文品名": "草本多元防水型防曬乳SPF50+ PA+++",
+    "中文品名": "草本多元防曬乳SPF50+ PA+++",
     "英文品名": "BELIF UV PROTECTOR MULTI SUNSCREEN (SPF50+, PA+++)",
     "用途": "防曬。",
     "劑型": "992霜劑",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "化粧品類別": "0714防晒化粧用品",
     "主成分略述": [
-        "ZINCOXIDE,PHENYLBENZIMIDAZOLESULFONICACID"
+        "ZINCOXIDE,PHENYLBENZIMIDAZOLESULFONICACID,ETHYLHEXYLMETHOXYCINNAMATE"
     ],
     "限制項目": "02輸　入",
     "申請商名稱": "6624310737  臺灣樂金生活健康股份有限公司",
@@ -38,7 +38,7 @@
             "成分代碼": "9200011500",
             "成分名稱": "ZINC OXIDE",
             "含量描述": "",
-            "含量": "12.8800000000",
+            "含量": "8.9600000000",
             "單位": "%(W\/W)"
         },
         {
@@ -46,18 +46,22 @@
             "成分代碼": "9600092110",
             "成分名稱": "PHENYLBENZIMIDAZOLE SULFONIC ACID",
             "含量描述": "",
-            "含量": "3.7000000000",
+            "含量": "2.7500000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900071200",
+            "成分名稱": "ETHYLHEXYL METHOXYCINNAMATE",
+            "含量描述": "",
+            "含量": "6.0000000000",
             "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
         {
-            "title": "08020358-104-02-06.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08020358&Seq=002&Type=8"
-        },
-        {
-            "title": "08020358-102-07-26.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08020358&Seq=001&Type=8"
+            "title": "08020358-108-04-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08020358&Seq=003&Type=8"
         }
     ]
 }

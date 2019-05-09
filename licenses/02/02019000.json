@@ -1,7 +1,7 @@
 {
     "code": "02019000",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019000",
-    "time": "2017-01-27 03:40:21",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019000",
+    "time": "2019-05-10 03:04:33",
     "許可證字號": "衛署藥輸字第019000號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
     "主成分略述": [
-        "MORPHINESULPHATE"
+        "MORPHINESULFATE"
     ],
     "限制項目": "02輸　入 31第一級管制藥品",
     "申請商名稱": "6201180767  衛生福利部食品藥物管理署管制藥品製藥工廠",
@@ -28,16 +28,15 @@
         "主製造廠": "",
         "製造廠名稱": "F130151000  BARD PHARMACEUTICALS LTD.",
         "製造廠廠址": "CAMBRIDGE SCIENCE PARK, MILTON ROAD, CAMBRIDGE, CAMBRIDGESHIRE, CB4 OGW, UNITED KINGDOM",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30044011009 鴉片類製劑Opium and opium alkaloids preparations",
+    "CCC號列": "30044900129 醫藥製劑，含有嗎啡及其異構物、酯類、醚類及鹽類者Medicaments, containing Morphine , and its isomer, esters, ethers, salts",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2808800620",
-            "成分名稱": "MORPHINE SULPHATE",
+            "成分代碼": "2808800622",
+            "成分名稱": "MORPHINE SULFATE",
             "含量描述": "",
             "含量": "60.0000000000",
             "單位": "MG"
@@ -56,17 +55,21 @@
     "藥物辨識外觀圖片": [
         {
             "title": "衛署藥輸字第019000號硫酸嗎啡長效膜衣錠60毫克-104-09-23.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019000&Seq=425&Type=10"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019000&Seq=425&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "0815-萌蒂-硫酸嗎啡仿單-148x350mm-103-09-01.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019000&Seq=006&Type=9"
+            "title": "硫酸嗎啡長效膜衣錠60毫克中文仿單-108-04-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019000&Seq=007&Type=9"
         },
         {
-            "title": "MST Tablets 60MG CTN 30s TW 5443-5 V1-103-09-01.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019000&Seq=002&Type=8"
+            "title": "硫酸嗎啡長效膜衣錠60毫克 鋁箔-108-04-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019000&Seq=004&Type=8"
+        },
+        {
+            "title": "硫酸嗎啡長效膜衣錠60毫克 外盒-108-04-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019000&Seq=003&Type=8"
         }
     ]
 }

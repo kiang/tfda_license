@@ -1,38 +1,36 @@
 {
     "code": "12001851",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12001851",
-    "time": "2015-08-22 16:49:52",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12001851",
+    "time": "2019-05-10 03:25:51",
     "許可證字號": "內衛藥製字第001851號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/05\/25",
+    "有效日期": "113\/05\/25",
     "發證日期": "59\/02\/09",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY01200185108",
-    "中文品名": "緩炎迅錠",
-    "英文品名": "CHYMOSIN TABLETS \"JOHNSON\"",
+    "中文品名": "&quot;強生&quot;緩炎迅錠",
+    "英文品名": "CHYMOSIN TABLETS &quot;JOHNSON&quot;",
     "適應症": "手術及外傷腫脹之緩解",
     "劑型": "110錠劑",
     "包裝": "6~1000錠塑膠瓶裝 鋁箔盒裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "CHYMOTRYPSIN ALPHA-",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "CHYMOTRYPSINALPHA-"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1110202200  強生化學製藥廠股份有限公司",
-    "申請商地址": "新北市三重區三和路四段77號2、3樓、79號1至6樓",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1110202300  強生化學製藥廠股份有限公司",
         "製造廠廠址": "新北市三重區三和路四段７７號2、3樓、79號1至6樓",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -44,10 +42,30 @@
             "單位": "NF-U"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "圓形錠劑9m∕m",
+        "特殊劑型": "",
+        "顏色": "淺桔黃色",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "圓扁形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "A-07 裸錠-104-08-31(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12001851&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "120018510001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12001851&Seq=001&Type=9"
+            "title": "A-07說明書(賦形劑)-緩炎迅錠 CHYMOSIN Tab. (alpha-Chymotrypsin 5,000 N.F.Ch.U.)-104-08-31(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12001851&Seq=002&Type=9"
+        },
+        {
+            "title": "A-07 瓶裝-104-08-31(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12001851&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "01038135",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01038135",
-    "time": "2017-04-28 03:27:06",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01038135",
+    "time": "2019-05-10 03:02:34",
     "許可證字號": "衛署藥製字第038135號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,9 +12,9 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "null",
-    "中文品名": "&quot;瑞士&quot; 特美痛注射液５０公絲\/公撮（鹽酸妥美度）",
+    "中文品名": "&quot;瑞士&quot; 特美痛注射液５０毫克\/毫升（鹽酸妥美度）",
     "英文品名": "TRAMED INJECTION 50MG\/ML &quot;SWISS&quot; (TRAMADOL HYDROCHLORIDE)",
-    "適應症": "嚴重之急慢性疼痛",
+    "適應症": "中度至嚴重性的急慢性疼痛",
     "劑型": "270注射劑",
     "包裝": "100支以下盒裝",
     "標籤、仿單及包裝加註": "",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "6105200026  瑞士藥廠股份有限公司新市廠",
         "製造廠廠址": "台南市新市區中山路182號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "CCC號列": "30049099414 醫藥製劑，含有特拉嗎竇者Medicaments, containing Tramadol",
     "藥理治療分類": "",
@@ -43,14 +42,46 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "無色透明",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "T23-Amp-104-10-05(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038135&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "20140107_衛署藥製字第038135 號-103-01-07.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038135&Seq=002&Type=9"
+            "title": "瑞士特美痛注射液50公絲(衛署藥製038135號)_仿單-108-03-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038135&Seq=005&Type=9"
         },
         {
-            "title": "T23-特美痛INJ-盒-104-12-15(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038135&Seq=003&Type=8"
+            "title": "T23特美痛038135仿單107-12-27-107-12-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038135&Seq=004&Type=9"
+        },
+        {
+            "title": "20140107_衛署藥製字第038135 號-103-01-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038135&Seq=002&Type=9"
+        },
+        {
+            "title": "瑞士特美痛注射液50公絲(衛署藥製038135號)_外盒-108-03-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038135&Seq=007&Type=8"
+        },
+        {
+            "title": "瑞士特美痛注射液50公絲(衛署藥製038135號)_標籤-108-03-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038135&Seq=006&Type=8"
+        },
+        {
+            "title": "T23特美痛038135上光盒107-12-27-107-12-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038135&Seq=005&Type=8"
         }
     ]
 }

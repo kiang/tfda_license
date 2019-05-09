@@ -1,7 +1,7 @@
 {
     "code": "01018616",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01018616",
-    "time": "2019-02-22 03:59:51",
+    "time": "2019-05-10 03:00:59",
     "許可證字號": "衛署藥製字第018616號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,9 +20,9 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
     "主成分略述": [
-        "CHLORPHENIRAMINEMALEATE,METHYLEPHEDRINEHCL,ETHENZAMIDE,CAFFEINEANHYDROUS,HYDROXYBUTYRICACIDBETA-P-PHENETIDIDE(BUCETIN),NOSCAPINE"
+        "CHLORPHENIRAMINEMALEATE,METHYLEPHEDRINEHCL,ETHENZAMIDE,CAFFEINEANHYDROUS,NOSCAPINE"
     ],
-    "限制項目": "01國　產",
+    "限制項目": "01國　產 1R不得製造",
     "申請商名稱": "1419531200  福元化學製藥股份有限公司",
     "主製造廠": {
         "主製造廠": "",
@@ -67,14 +67,6 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "4040000412",
-            "成分名稱": "HYDROXYBUTYRIC ACID BETA- P-PHENETIDIDE (BUCETIN)",
-            "含量描述": "",
-            "含量": "160.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "4800002400",
             "成分名稱": "NOSCAPINE",
             "含量描述": "",
@@ -84,8 +76,24 @@
     ],
     "仿單外盒": [
         {
+            "title": "衛署藥製字第018616號感冒膠囊仿單-108-04-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018616&Seq=005&Type=9"
+        },
+        {
             "title": "LT-C023 018616-104-12-14(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018616&Seq=004&Type=9"
+        },
+        {
+            "title": "衛署藥製字第018616號感冒膠囊鋁箔-108-04-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018616&Seq=006&Type=8"
+        },
+        {
+            "title": "衛署藥製字第018616號感冒膠囊標籤-108-04-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018616&Seq=005&Type=8"
+        },
+        {
+            "title": "衛署藥製字第018616號感冒膠囊彩盒-108-04-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018616&Seq=004&Type=8"
         },
         {
             "title": "LA-C023 018616-104-12-14(廠商自行上傳).pdf",

@@ -1,12 +1,12 @@
 {
     "code": "56026326",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026326",
-    "time": "2016-11-25 03:35:28",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026326",
+    "time": "2019-05-10 03:14:24",
     "許可證字號": "衛部醫器輸字第026326號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/07\/04",
+    "有效日期": "113\/07\/04",
     "發證日期": "103\/07\/04",
     "許可證種類": "醫　器",
     "舊證字號": "",
@@ -15,7 +15,7 @@
     "中文品名": "“卡瓦”診諾肯齵蛀偵測器",
     "英文品名": "“ KAVO” DIAGNOcam",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "詳如中文仿單核定本",
+    "醫器規格": "詳如中文仿單核定本。\r\n增加規格：詳如中文仿單核定本。",
     "劑型": "",
     "包裝": "",
     "標籤、仿單及包裝加註": "",
@@ -28,26 +28,33 @@
     "主成分略述": [
         ""
     ],
-    "限制項目": "02輸　入",
+    "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620111A578  台灣諾保科股份有限公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "M470236400  Kaltenbach &amp; Voigt GmbH (KaVo)",
-        "製造廠廠址": "Bahnhofstr. 20, 88447 Warthausen, Germany",
+        "製造廠名稱": "M470236000  KALTENBACH &amp; VOIGT GMBH",
+        "製造廠廠址": "Bahnhofstr.20, 88447 Warthausen, Germany",
         "製造廠公司地址": "",
         "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "56026326_1060927-106-09-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026326&Seq=002&Type=9"
+        },
+        {
             "title": "560263260001-103-07-21.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026326&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026326&Seq=001&Type=9"
+        },
+        {
+            "title": "56026326_1060927-106-09-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026326&Seq=002&Type=8"
         },
         {
             "title": "560263260002-103-07-21.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026326&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026326&Seq=001&Type=8"
         }
     ]
 }

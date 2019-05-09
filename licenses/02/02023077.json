@@ -1,7 +1,7 @@
 {
     "code": "02023077",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023077",
-    "time": "2017-06-16 03:03:26",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023077",
+    "time": "2019-05-10 03:04:48",
     "許可證字號": "衛署藥輸字第023077號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,13 +26,21 @@
     "申請商名稱": "1426201100  臺灣拜耳股份有限公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "F150387000  Delpharm Lille SAS",
-        "製造廠廠址": "Parc d&#39;Activit&#233;s Roubaix-Est 22 Rue de Toufflers - CS50070 59452 Lys-lez-Lannoy, France",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠名稱": "F470256100  BAYER WEIMAR GMBH UND CO KG",
+        "製造廠廠址": "DOEBEREINER STRASSE 20, D-99427 WEIMAR, GERMANY",
+        "製造廠公司地址": ""
     },
     "CCC號列": "30066000005 以荷爾蒙、第２９３７節之其他產品或殺精蟲劑為基料之化學避孕製劑Chemical contraceptive preparations based on hormones, on other products of heading 29.37 or on spermicides",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "F479045000  BAYER AG",
+            "製造廠廠址": "MUELLERSTRASSE 178 13353 BERLIN GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "分包裝廠"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -53,16 +61,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "Meliane Chinese CCDS 14-106-05-23.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023077&Seq=015&Type=9"
+            "title": "仿單_Meliane Chinese CCDS14 TW05-108-04-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023077&Seq=016&Type=9"
         },
         {
-            "title": "Meliane_pouch 20170314-106-03-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023077&Seq=008&Type=8"
-        },
-        {
-            "title": "Meliane_Carton 20170314-106-03-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023077&Seq=007&Type=8"
+            "title": "外盒&鋁箔_Meliane-108-04-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023077&Seq=009&Type=8"
         }
     ]
 }

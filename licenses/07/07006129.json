@@ -1,7 +1,7 @@
 {
     "code": "07006129",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07006129",
-    "time": "2017-04-28 03:41:13",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07006129",
+    "time": "2019-05-10 03:18:05",
     "許可證字號": "衛署粧製字第006129號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
     "主成分略述": [
-        "Ammoniasolution(25%),CRESOLO-P-AMINO(EQTO5-AMINO-O-CRESOL)(EQTOP-AMINO-O-CRESOL),M-AMINOPHENOLSULFATE,P-AMINOPHENOL,O-AMINOPHENOL,P-PHENYLENEDIAMINE,4,5-DIAMINO-1-(2HYDROXYETHYL)PIRAZOLESULFATE"
+        "Ammoniasolution(25%),P-AMINOPHENOL,m-Aminophenol,4-AMINO-2-HYDROXYTOLUENE,P-PHENYLENEDIAMINE,1-HYDROXYETHYL4,5-DIAMINOPYRAZOLESULFATE"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "1508521200  瑩澤化工有限公司",
@@ -28,8 +28,7 @@
         "主製造廠": "",
         "製造廠名稱": "1508521200  瑩澤化工有限公司",
         "製造廠廠址": "高雄市小港區小港路６５號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠公司地址": ""
     },
     "": "",
     "藥理治療分類": "",
@@ -44,22 +43,6 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
-            "含量描述": "",
-            "含量": "0.7500000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200035430",
-            "成分名稱": "M-AMINOPHENOL SULFATE",
-            "含量描述": "",
-            "含量": "0.1500000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "9200035440",
             "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
@@ -68,10 +51,18 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035460",
-            "成分名稱": "O-AMINOPHENOL",
+            "成分代碼": "9200035470",
+            "成分名稱": "m-Aminophenol",
             "含量描述": "",
-            "含量": "0.2000000000",
+            "含量": "0.1500000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "0.7500000000",
             "單位": "%(W\/W)"
         },
         {
@@ -84,8 +75,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9901013700",
-            "成分名稱": "4,5-DIAMINO-1-(2 HYDROXYETHYL) PIRAZOLE SULFATE",
+            "成分代碼": "9900097210",
+            "成分名稱": "1-HYDROXYETHYL 4,5-DIAMINO PYRAZOLE SULFATE",
             "含量描述": "",
             "含量": "0.1500000000",
             "單位": "%(W\/W)"
@@ -93,8 +84,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "07006129-105-08-12.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006129&Seq=001&Type=8"
+            "title": "07006129-108-04-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006129&Seq=002&Type=8"
         }
     ]
 }

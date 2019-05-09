@@ -1,38 +1,36 @@
 {
     "code": "12005081",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12005081",
-    "time": "2016-01-29 04:31:03",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12005081",
+    "time": "2019-05-10 03:26:08",
     "許可證字號": "內衛藥製字第005081號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/05\/25",
+    "有效日期": "113\/05\/25",
     "發證日期": "59\/06\/27",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY01200508105",
-    "中文品名": "\"應元\"蓖麻子油",
-    "英文品名": "OLEUM RICINI \"Y.Y.\"",
+    "中文品名": "&quot;應元&quot;蓖麻子油",
+    "英文品名": "OLEUM RICINI &quot;Y.Y.&quot;",
     "適應症": "瀉劑",
     "劑型": "180液劑",
     "包裝": "4000毫升以下塑膠瓶裝",
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "04調劑專用",
-    "管制藥品分類級別": "",
-    "主成分略述": "CASTOR OIL (OLEUM RICIN)(RICINUS OIL)",
-    "限制項目": [
-        "01國產"
+    "主成分略述": [
+        "CASTOROIL(OLEUMRICIN)(RICINUSOIL)"
     ],
+    "限制項目": "01國　產",
     "申請商名稱": "1704519200  應元化學製藥股份有限公司",
-    "申請商地址": "台南市南區新忠路２６號",
     "主製造廠": {
+        "主製造廠": "",
         "製造廠名稱": "1704519300  應元化學製藥股份有限公司",
         "製造廠廠址": "台南市南區新忠路２６號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "製造廠公司地址": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -44,18 +42,30 @@
             "單位": ""
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "450ml",
+        "特殊劑型": "",
+        "顏色": "淺褐色油狀液體",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "castor oil bot-104-09-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005081&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "S-231蓖麻子油-仿單-104-11-30.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005081&Seq=003&Type=9"
+            "title": "S-231 蓖麻子油仿標騎縫章-105-03-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005081&Seq=004&Type=9"
         },
         {
-            "title": "120050810001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005081&Seq=001&Type=9"
-        },
-        {
-            "title": "S-231蓖麻子油-標籤-104-11-30.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005081&Seq=001&Type=8"
+            "title": "castor oil bot-104-09-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12005081&Seq=003&Type=8"
         }
     ]
 }

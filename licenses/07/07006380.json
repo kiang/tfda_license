@@ -1,7 +1,7 @@
 {
     "code": "07006380",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07006380",
-    "time": "2018-06-22 04:09:47",
+    "time": "2019-05-10 03:18:08",
     "許可證字號": "衛署粧製字第006380號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -20,7 +20,7 @@
     "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
     "主成分略述": [
-        "RESORCINOL(RESORCIN),P-AMINOPHENOLSULFATE,O-AMINOPHENOL,4-AMINO-2-HYDROXYTOLUENE"
+        "RESORCINOL(RESORCIN),P-AMINOPHENOL,m-Aminophenol,4-AMINO-2-HYDROXYTOLUENE,P-PHENYLENEDIAMINE,2-AMINO-6-CHLORO-4-NITROPHENOL"
     ],
     "限制項目": "01國　產",
     "申請商名稱": "1511701100  髮利國際貿易有限公司",
@@ -38,23 +38,23 @@
             "成分代碼": "8428000500",
             "成分名稱": "RESORCINOL (RESORCIN)",
             "含量描述": "",
-            "含量": "0.1800000000",
+            "含量": "0.0420000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035410",
-            "成分名稱": "P-AMINOPHENOL SULFATE",
+            "成分代碼": "9200035440",
+            "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
-            "含量": "0.4000000000",
+            "含量": "0.0300000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035460",
-            "成分名稱": "O-AMINOPHENOL",
+            "成分代碼": "9200035470",
+            "成分名稱": "m-Aminophenol",
             "含量描述": "",
-            "含量": "0.2500000000",
+            "含量": "0.0200000000",
             "單位": "%(W\/W)"
         },
         {
@@ -62,22 +62,30 @@
             "成分代碼": "9200039000",
             "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
             "含量描述": "",
-            "含量": "0.1500000000",
+            "含量": "0.0600000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9400003200",
+            "成分名稱": "P-PHENYLENEDIAMINE",
+            "含量描述": "",
+            "含量": "0.0400000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900084900",
+            "成分名稱": "2-AMINO-6-CHLORO-4-NITROPHENOL",
+            "含量描述": "",
+            "含量": "0.1000000000",
             "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
         {
-            "title": "07006380-106-03-28.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006380&Seq=003&Type=8"
-        },
-        {
-            "title": "07006380-104-07-31.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006380&Seq=002&Type=8"
-        },
-        {
-            "title": "07006380___20130109.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006380&Seq=001&Type=8"
+            "title": "07006380-108-04-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006380&Seq=004&Type=8"
         }
     ]
 }
