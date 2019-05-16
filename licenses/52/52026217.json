@@ -1,7 +1,7 @@
 {
     "code": "52026217",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026217",
-    "time": "2019-05-10 04:20:09",
+    "time": "2019-05-17 04:09:50",
     "許可證字號": "衛部藥輸字第026217號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,7 +26,7 @@
     "申請商名稱": "620110R660  台灣安斯泰來製藥股份有限公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "F460472000  AVARA PHARMACEUTICAL TECHNOLOGIES, INC.",
+        "製造廠名稱": "FUS0472000  AVARA PHARMACEUTICAL TECHNOLOGIES, INC.",
         "製造廠廠址": "3300 MARSHALL AVE. NORMAN, OK 73072 USA",
         "製造廠公司地址": ""
     },
@@ -34,18 +34,18 @@
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "F170047000  ASTELLAS PHARMA EUROPE B.V.",
-            "製造廠廠址": "HOGEMAAT 2, 7942 JG MEPPEL, THE NETHERLANDS",
-            "製造廠公司地址": "SYLVIUSWEG 62, 2333 BE LEIDEN, THE NETHERLANDS.",
-            "製造廠國別": "NETHERLANDS",
-            "製程": "包裝"
-        },
-        {
-            "製造廠名稱": "F269414000  ASTELLAS PHARMA TECH CO., LTD. TAKAHAGI TECHNOLOGY CENTER",
+            "製造廠名稱": "FJP9414000  ASTELLAS PHARMA TECH CO., LTD. TAKAHAGI TECHNOLOGY CENTER",
             "製造廠廠址": "160-2, AKAHARNA, TAKAHAGI-SHI, IBARAKI 318-0001, JAPAN",
             "製造廠公司地址": "",
             "製造廠國別": "JAPAN",
             "製程": "原料藥製造廠"
+        },
+        {
+            "製造廠名稱": "FNL0047000  ASTELLAS PHARMA EUROPE B.V.",
+            "製造廠廠址": "HOGEMAAT 2, 7942 JG MEPPEL, THE NETHERLANDS",
+            "製造廠公司地址": "SYLVIUSWEG 62, 2333 BE LEIDEN, THE NETHERLANDS.",
+            "製造廠國別": "NETHERLANDS",
+            "製程": "包裝"
         }
     ],
     "ingredients": [

@@ -1,7 +1,7 @@
 {
     "code": "20000011",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=20000011",
-    "time": "2019-05-10 03:06:06",
+    "time": "2019-05-17 03:05:28",
     "許可證字號": "衛署罕藥輸字第000011號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,7 +26,7 @@
     "申請商名稱": "1426201100  臺灣拜耳股份有限公司",
     "主製造廠": {
         "主製造廠": "",
-        "製造廠名稱": "F410112000  BERLIMED S.A.",
+        "製造廠名稱": "FES0112000  BERLIMED S.A.",
         "製造廠廠址": "C\/FRANCISCO ALONSO, 7 POLIGONO INDUSTRIAL SANTA ROSA 28806 ALCALA DE HENARES (MADRID), SPAIN",
         "製造廠公司地址": ""
     },
@@ -34,18 +34,18 @@
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "F390021200  ZUELLIG PHARMA SPECIALTY SOLUTIONS GROUP PTE. LTD.",
-            "製造廠廠址": "15 CHANGI NORTH WAY #01-02, #02-02, #02-10, SINGAPORE 498770",
-            "製造廠公司地址": "",
-            "製造廠國別": "SINGAPORE",
-            "製程": "二級包裝廠"
-        },
-        {
-            "製造廠名稱": "F470438400  Bayer AG",
+            "製造廠名稱": "FDE0438400  Bayer AG",
             "製造廠廠址": "51368 Leverkusen Germany",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
             "製程": "許可證持有者"
+        },
+        {
+            "製造廠名稱": "FSG0021200  ZUELLIG PHARMA SPECIALTY SOLUTIONS GROUP PTE. LTD.",
+            "製造廠廠址": "15 CHANGI NORTH WAY #01-02, #02-02, #02-10, SINGAPORE 498770",
+            "製造廠公司地址": "",
+            "製造廠國別": "SINGAPORE",
+            "製程": "二級包裝廠"
         }
     ],
     "ingredients": [
