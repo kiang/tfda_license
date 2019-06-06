@@ -1,13 +1,13 @@
 {
     "code": "02025563",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025563",
-    "time": "2019-01-25 03:33:52",
+    "time": "2019-06-07 03:04:58",
     "許可證字號": "衛署藥輸字第025563號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "有效日期": "110\/11\/17",
-    "發證日期": "100\/11\/17",
+    "發證日期": "108\/05\/06",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
@@ -17,18 +17,19 @@
     "適應症": "用於治療免疫功能缺乏之巨細胞病毒感染症。",
     "劑型": "243凍晶注射劑",
     "包裝": "每支500毫克玻璃小瓶裝 100支以下盒裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "05限由醫師使用",
-    "主成分略述": [
-        "GANCICLOVIRSODIUM"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "24監視期滿學名藥",
-    "申請商名稱": "1225201100  裕利股份有限公司",
+    "藥品類別": "05限由醫師使用",
+    "主成分略述": "GANCICLOVIR SODIUM",
     "主製造廠": {
+        "申請商名稱": "1225201100  裕利股份有限公司",
+        "申請商地址": "台北市松山區南京東路四段126號10樓，10樓之1-3",
         "主製造廠": "",
-        "製造廠名稱": "F250479000  BSP PHARMACEUTICALS S.p.A",
-        "製造廠廠址": "VIA APPIA KM 65,561, LATINA SCALO(LT), 04013, ITALY",
-        "製造廠公司地址": ""
+        "製造廠名稱": "FIT0479000  BSP PHARMACEUTICALS S.p.A"
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -41,18 +42,18 @@
             "製程": "貼標廠"
         },
         {
-            "製造廠名稱": "F430093000  F.HOFFMANN-LA ROCHE LTD.",
-            "製造廠廠址": "GRENZACHERSTRASSE 124, CH-4070 BASEL,SWITZERLAND",
-            "製造廠公司地址": "",
-            "製造廠國別": "SWITZERLAND",
-            "製程": "許可證持有者"
-        },
-        {
-            "製造廠名稱": "F430257000  F. HOFFMANN-LA ROCHE LTD.",
+            "製造廠名稱": "FCH0257000  F. HOFFMANN-LA ROCHE LTD.",
             "製造廠廠址": "WURMISWEG, CH-4303 KAISERAUGST, SWITZERLAND",
             "製造廠公司地址": "",
             "製造廠國別": "SWITZERLAND",
             "製程": "二級包裝廠"
+        },
+        {
+            "製造廠名稱": "FDE0605100  CHEPLAPHARM Arzneimittel GmbH",
+            "製造廠廠址": "Ziegelhof 24, 17498 Greifswald, Germany",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "許可證持有者"
         }
     ],
     "ingredients": [
@@ -67,8 +68,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "LEAFLET_LOCAL_CYMEVENE_TW_90001943_10_4-108-03-13(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025563&Seq=009&Type=9"
+        },
+        {
             "title": "PIL-Cymevene-TW-2018_09_27_CP-107-11-08.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025563&Seq=008&Type=9"
+        },
+        {
+            "title": "Sticker-Cymevene 500mg_BSP_for redressing activity_2018_09_27-108-03-13(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025563&Seq=018&Type=8"
+        },
+        {
+            "title": "CARTON_5_CYMEVENE_FE_90001886_10_10210908-108-03-13(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025563&Seq=017&Type=8"
         },
         {
             "title": "02025563Sticker-Cymevene 500mg_BSP_for redressing activity_2018_09_27-107-11-08.pdf",

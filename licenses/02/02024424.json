@@ -1,7 +1,7 @@
 {
     "code": "02024424",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024424",
-    "time": "2018-11-30 03:36:06",
+    "time": "2019-06-07 03:04:25",
     "許可證字號": "衛署藥輸字第024424號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,35 +17,36 @@
     "適應症": "男女不孕症。",
     "劑型": "243凍晶注射劑",
     "包裝": "小瓶附安瓿裝溶劑",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "05限由醫師使用",
-    "主成分略述": [
-        "MENOTROPIN(EQTOHUMANMENOPAUSALGONADOTROPINHMG)"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "1509801100  輝凌藥品股份有限公司",
+    "藥品類別": "05限由醫師使用",
+    "主成分略述": "MENOTROPIN (EQ TO HUMAN MENOPAUSAL GONADOTROPIN HMG)",
     "主製造廠": {
+        "申請商名稱": "1509801100  輝凌藥品股份有限公司",
+        "申請商地址": "台北市中山區松江路111號11樓",
         "主製造廠": "",
-        "製造廠名稱": "F470233000  FERRING  GMBH",
-        "製造廠廠址": "WITTLAND 11, D-24109 KIEL  GERMANY",
-        "製造廠公司地址": ""
+        "製造廠名稱": "FDE0233000  FERRING  GMBH"
     },
     "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "F390021200  ZUELLIG PHARMA SPECIALTY SOLUTIONS GROUP PTE. LTD.",
-            "製造廠廠址": "15 CHANGI NORTH WAY #01-02, #02-02, #02-10, SINGAPORE 498770",
-            "製造廠公司地址": "",
-            "製造廠國別": "SINGAPORE",
-            "製程": "包裝"
-        },
-        {
-            "製造廠名稱": "F470001100  HAUPT PHARMA WULFING  GMBH",
+            "製造廠名稱": "FDE0001100  HAUPT PHARMA WULFING  GMBH",
             "製造廠廠址": "BETHELNER LANDSTRASSE 18, D-31028 GRONAU, GERMANY",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
             "製程": "溶劑製備"
+        },
+        {
+            "製造廠名稱": "FSG0021200  ZUELLIG PHARMA SPECIALTY SOLUTIONS GROUP PTE. LTD.",
+            "製造廠廠址": "15 CHANGI NORTH WAY #01-02, #02-02, #02-10, SINGAPORE 498770",
+            "製造廠公司地址": "",
+            "製造廠國別": "SINGAPORE",
+            "製程": "包裝"
         }
     ],
     "ingredients": [

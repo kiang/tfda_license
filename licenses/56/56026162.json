@@ -1,7 +1,7 @@
 {
     "code": "56026162",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026162",
-    "time": "2015-08-22 07:14:48",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026162",
+    "time": "2019-06-07 03:32:50",
     "許可證字號": "衛部醫器輸字第026162號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,37 +18,34 @@
     "醫器規格": "Is-Care BL01",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "H胃腸病學-泌尿學科用裝置",
-    "醫器次類別一": "H5540血液通路裝置及其附件",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入",
-        "09委託製造"
+    "醫器主類別二": [
+        ""
     ],
-    "申請商名稱": "6131161081  長庚醫學科技股份有限公司林口廠",
-    "申請商地址": "新北市泰山區南林路118號2樓",
+    "醫器主類別三": "",
+    "主成分略述": "",
     "主製造廠": {
-        "製造廠名稱": "M290007000  UG MEDICAL DISPOSABLES SDN BHD.",
-        "製造廠廠址": "PT2147 &amp; PT2150, SRI SENAWANG LIGHT INDUSTRIAL AREA, BT. 4-1\/2, JALAN TAMPIN, 70450 SEREMBAN, NEGERI SEMBILAN DARUL KHUSUS, MALAYSIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "MALAYSIA",
-        "製程": "委託製造者"
+        "申請商名稱": "6131161081  長庚醫學科技股份有限公司林口廠",
+        "申請商地址": "新北市泰山區南林路118號2樓",
+        "主製造廠": "",
+        "製造廠名稱": "MMY0007000  UG MEDICAL DISPOSABLES SDN BHD.",
+        "": ""
     },
-    "CCC號列": "90183200004 管狀金屬針及縫合針Tubular metal needles and needles for sutures",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "560261620001-103-06-06.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026162&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026162&Seq=001&Type=9"
         },
         {
             "title": "560261620002-103-06-06.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026162&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026162&Seq=001&Type=8"
         }
     ]
 }

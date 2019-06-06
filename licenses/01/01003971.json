@@ -1,12 +1,12 @@
 {
     "code": "01003971",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01003971",
-    "time": "2017-07-21 11:53:15",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01003971",
+    "time": "2019-06-07 03:00:28",
     "許可證字號": "衛署藥製字第003971號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/05\/25",
+    "有效日期": "113\/05\/25",
     "發證日期": "63\/02\/06",
     "許可證種類": "製　劑",
     "舊證字號": "12008617",
@@ -16,29 +16,29 @@
     "英文品名": "PEDIATRIC GRIPPETIN GRANULES",
     "適應症": "緩解感冒之各種症狀（鼻塞、流鼻水、打噴嚏、咽喉痛、發燒、頭痛、關節痛、肌肉痛）。",
     "劑型": "150內服顆粒劑",
-    "包裝": "盒裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "07須經醫師指示使用",
-    "主成分略述": [
-        "CHLORPHENIRAMINEMALEATE,DL-METHYLEPHEDRINEHCL,ALUMINUMBIS(ACETYLSALICYLATE)(ALUMINUMACETYLSALICYLA,ETHENZAMIDE(ETHOXYBENZAMIDE),CAFFEINE,HYDROXYBUTYRICACIDBETA-P-PHENETIDIDE(BUCETIN),MAGNESIUMTRISILICATE,THIAMINEMONONITRATE,TAURINE(EQTO2-AMINOETHANESULFONICACID)"
+    "包裝": "每包1公克，100包以下盒裝",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "01國　產",
-    "申請商名稱": "1303110200  新萬仁化學製藥股份有限公司",
+    "藥品類別": "07須經醫師指示使用",
+    "主成分略述": "CHLORPHENIRAMINE MALEATE, DL-METHYLEPHEDRINE HCL, ALUMINUM BIS(ACETYLSALICYLATE)(ALUMINUM ACETYLSALICYLA, ETHENZAMIDE , CAFFEINE, MAGNESIUM TRISILICATE, THIAMINE MONONITRATE, TAURINE (EQ TO 2-AMINOETHANE SULFONIC ACID)",
     "主製造廠": {
+        "申請商名稱": "1303110200  新萬仁化學製藥股份有限公司",
+        "申請商地址": "台中市豐原區文賢街１５８號",
         "主製造廠": "",
-        "製造廠名稱": "1303110300  新萬仁化學製藥股份有限公司",
-        "製造廠廠址": "豐原市文賢街１５８號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠名稱": "1303110300  新萬仁化學製藥股份有限公司"
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
             "成分代碼": "0400000810",
             "成分名稱": "CHLORPHENIRAMINE MALEATE",
-            "含量描述": "0.5",
+            "含量描述": "",
             "含量": "0.5000000000",
             "單位": "MG"
         },
@@ -46,7 +46,7 @@
             "成分類別": "主成分",
             "成分代碼": "1212001813",
             "成分名稱": "DL-METHYLEPHEDRINE HCL",
-            "含量描述": "3",
+            "含量描述": "",
             "含量": "3.0000000000",
             "單位": "MG"
         },
@@ -61,8 +61,8 @@
         {
             "成分類別": "主成分",
             "成分代碼": "2808600900",
-            "成分名稱": "ETHENZAMIDE (ETHOXYBENZAMIDE)",
-            "含量描述": "30",
+            "成分名稱": "ETHENZAMIDE",
+            "含量描述": "",
             "含量": "30.0000000000",
             "單位": "MG"
         },
@@ -70,23 +70,15 @@
             "成分類別": "主成分",
             "成分代碼": "2820000400",
             "成分名稱": "CAFFEINE",
-            "含量描述": "5",
+            "含量描述": "",
             "含量": "5.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "4040000412",
-            "成分名稱": "HYDROXYBUTYRIC ACID BETA- P-PHENETIDIDE (BUCETIN)",
-            "含量描述": "30",
-            "含量": "30.0000000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "5604002700",
             "成分名稱": "MAGNESIUM TRISILICATE",
-            "含量描述": "100",
+            "含量描述": "",
             "含量": "100.0000000000",
             "單位": "MG"
         },
@@ -94,7 +86,7 @@
             "成分類別": "主成分",
             "成分代碼": "8810101001",
             "成分名稱": "THIAMINE MONONITRATE",
-            "含量描述": "2",
+            "含量描述": "",
             "含量": "2.0000000000",
             "單位": "MG"
         },
@@ -102,15 +94,23 @@
             "成分類別": "主成分",
             "成分代碼": "9200000900",
             "成分名稱": "TAURINE (EQ TO 2-AMINOETHANE SULFONIC ACID)",
-            "含量描述": "100",
+            "含量描述": "",
             "含量": "100.0000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
-            "title": "010039710001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003971&Seq=001&Type=9"
+            "title": "小兒傷風克仿單-108-05-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003971&Seq=002&Type=9"
+        },
+        {
+            "title": "010039710001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003971&Seq=001&Type=9"
+        },
+        {
+            "title": "小兒傷風克外盒-108-05-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01003971&Seq=001&Type=8"
         }
     ]
 }

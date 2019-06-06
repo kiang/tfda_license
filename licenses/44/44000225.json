@@ -1,6 +1,7 @@
 {
     "code": "44000225",
-    "time": "2015-07-24 06:37:41",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44000225",
+    "time": "2019-06-07 03:08:59",
     "許可證字號": "衛署醫器輸壹字第000225號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,42 +10,42 @@
     "發證日期": "94\/07\/06",
     "許可證種類": "醫　器",
     "舊證字號": "",
-    "醫療器材級數": "",
+    "醫療器材級數": "第一等級",
     "通關簽審文件編號": "DHA04400022504",
-    "中文品名": "\"康世\" 醫療用X光軟片 (未滅菌)",
-    "英文品名": "\"Carestream\" MEDICAL X-RAY FILM GENERAL PURPOSE GREEN (MXG)(Non-Sterile)",
+    "中文品名": "&quot;康世&quot; 醫療用X光軟片 (未滅菌)",
+    "英文品名": "&quot;Carestream&quot; MEDICAL X-RAY FILM GENERAL PURPOSE GREEN (MXG)(Non-Sterile)",
     "效能": "可在放射診斷過程中記錄影像使用。",
     "醫器規格": "MXG 35×43cm,MXG35×35cm,MXG30×40cm,MXG30×35cm,MXG 24×30cm,MXG 18×24cm,MXG18×43cm,MXG27.9×35.6cm,MXG30.5×38cm,MXG 25.4×30.5cm,MXG 20.3×25.4cm, 以下空白。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "P放射學科用裝置",
-    "醫器次類別一": "",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
+    "醫器主類別二": [
+        ""
+    ],
     "醫器主類別三": "",
-    "醫器次類別三": "",
     "主成分略述": "",
-    "限制項目": [
-        "02輸入"
-    ],
-    "申請商名稱": "6201119731  台灣康世醫療器材股份有限公司",
-    "申請商地址": "台北市中山區中山北路二段129號4樓之1",
     "主製造廠": {
-        "製造廠名稱": "M461088000  CARESTREAM HEALTH, INC.",
-        "製造廠廠址": "2000 HOWARD SMITH AVE. WEST WINDSOR, COLORADO 80551, U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
+        "申請商名稱": "640110C436  費斯科技股份有限公司",
+        "申請商地址": "臺北市中山區民生東路3段57號12樓之3",
+        "主製造廠": "",
+        "製造廠名稱": "MUS1088000  CARESTREAM HEALTH, INC.",
+        "": ""
     },
-    "CCC號列": "37011000004 Ｘ光版及軟片，平面裝、感光性、未曝光者X-ray plates and film, in the flat, sensitised, unexposed",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
-            "title": "仿單 440002250002.jpg 440002250001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=44000225&Seq=002&Type=9"
+            "title": "440002250002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=44000225&Seq=002&Type=9"
+        },
+        {
+            "title": "440002250001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=44000225&Seq=001&Type=9"
         }
     ]
 }

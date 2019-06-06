@@ -1,54 +1,45 @@
 {
     "code": "01029144",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01029144",
-    "time": "2015-08-22 23:19:56",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01029144",
+    "time": "2019-06-07 03:17:05",
     "許可證字號": "衛署藥製字第029144號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/09\/18",
+    "有效日期": "113\/09\/18",
     "發證日期": "75\/09\/01",
     "許可證種類": "製　劑",
     "舊證字號": "01028304",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102914405",
-    "中文品名": "活沛膜衣錠",
-    "英文品名": "ENERSUPPLY F.C. TABLETS \"STANDARD\"",
+    "中文品名": "&quot;生達&quot;活沛膜衣錠",
+    "英文品名": "ENERSUPPLY F.C. TABLETS &quot;STANDARD&quot;",
     "適應症": "營養補給、虛弱體質、發育不良、熱性消耗性疾患之補助治療、妊娠婦之營養補給",
     "劑型": "116膜衣錠",
-    "包裝": "瓶裝 盒裝",
-    "藥品類別": "07須經醫師指示使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "IRON (FERROUS FUMARATE), PYRITHIOXIN HCL, MANGANESE (DIOXIDE), LYSINE L- HCL ( EQ TO L-LYSINE HCL), CALCIUM PHOSPHATE DIBASIC, IODINE (POTASSIUM), MAGNESIUM (OXIDE), POTASSIUM (SULFATE), CHOLINE BITARTRATE, VITAMIN A ACETATE, NIACINAMIDE (NICOTINAMIDE), THIAMINE MONONITRATE, RIBOFLAVIN (VIT B2), CYANOCOBALAMIN (VIT B12), PANTOTHENATE CALCIUM, INOSITOL (MESO-INOSITOL), ASCORBIC ACID (VIT C), ERGOCALCIFEROL (VIT D2CALCIFEROL), TOCOPHEROL ACETATE ALPHA (EQ TO VIT E ACETATE) (EQ TO VITAMIN E ACETATE), ZINC (OXIDE), COPPER (OXIDE)",
-    "限制項目": [
-        "01國產"
+    "包裝": "2-1000粒鋁箔盒裝",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "申請商名稱": "0510620200  生達化學製藥股份有限公司",
-    "申請商地址": "台南市新營區土庫里土庫6之20號",
+    "藥品類別": "07須經醫師指示使用",
+    "主成分略述": "IRON (FERROUS SULFATE), MANGANESE (DIOXIDE), LYSINE L- HCL ( EQ TO L-LYSINE HCL), CALCIUM PHOSPHATE DIBASIC, IODINE (POTASSIUM), MAGNESIUM (OXIDE), POTASSIUM (SULFATE), CHOLINE BITARTRATE, VITAMIN A ACETATE, NIACINAMIDE (NICOTINAMIDE), THIAMINE MONONITRATE, RIBOFLAVIN (VIT B2), PYRIDOXINE HCL, Vitamin B12 (as Cyanocobalamin), Calcium Pantothenate, INOSITOL (MESO-INOSITOL), ASCORBIC ACID, ERGOCALCIFEROL (VIT D2CALCIFEROL), VITAMINE E ACETATE, ZINC (OXIDE), COPPER (OXIDE)",
     "主製造廠": {
-        "製造廠名稱": "0510620300  生達化學製藥股份有限公司",
-        "製造廠廠址": "台南市新營區土庫里土庫６－２０號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "申請商名稱": "0510620200  生達化學製藥股份有限公司",
+        "申請商地址": "台南市新營區土庫里土庫6之20號",
+        "主製造廠": "",
+        "製造廠名稱": "0510620300  生達化學製藥股份有限公司"
     },
     "CCC號列": "30049030005 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2004491100",
-            "成分名稱": "IRON (FERROUS FUMARATE)",
+            "成分代碼": "2004401402",
+            "成分名稱": "IRON (FERROUS SULFATE)",
             "含量描述": "(30.42MG) 10",
-            "含量": "",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "2820002611",
-            "成分名稱": "PYRITHIOXIN HCL",
-            "含量描述": "(VIT B6) 0.5",
-            "含量": "",
+            "含量": "0.0000000000",
             "單位": "MG"
         },
         {
@@ -56,7 +47,7 @@
             "成分代碼": "4012093200",
             "成分名稱": "MANGANESE (DIOXIDE)",
             "含量描述": "(1.58MG) 1",
-            "含量": "",
+            "含量": "0.0000000000",
             "單位": "MG"
         },
         {
@@ -80,7 +71,7 @@
             "成分代碼": "4800092900",
             "成分名稱": "IODINE (POTASSIUM)",
             "含量描述": "(0.13MG) 0.1",
-            "含量": "",
+            "含量": "0.0000000000",
             "單位": "MG"
         },
         {
@@ -88,7 +79,7 @@
             "成分代碼": "5612091300",
             "成分名稱": "MAGNESIUM (OXIDE)",
             "含量描述": "(1.66MG) 1",
-            "含量": "",
+            "含量": "0.0000000000",
             "單位": "MG"
         },
         {
@@ -96,7 +87,7 @@
             "成分代碼": "5612092100",
             "成分名稱": "POTASSIUM (SULFATE)",
             "含量描述": "(11.14MG) 5",
-            "含量": "",
+            "含量": "0.0000000000",
             "單位": "MG"
         },
         {
@@ -141,16 +132,24 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8811200300",
-            "成分名稱": "CYANOCOBALAMIN (VIT B12)",
+            "成分代碼": "8810600300",
+            "成分名稱": "PYRIDOXINE HCL",
+            "含量描述": "(VIT B6) 0.5",
+            "含量": "0.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8811200303",
+            "成分名稱": "Vitamin B12 (as Cyanocobalamin)",
             "含量描述": "(CRYSTAL) 1",
-            "含量": "",
+            "含量": "0.0000000000",
             "單位": "MCG"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8812300200",
-            "成分名稱": "PANTOTHENATE CALCIUM",
+            "成分代碼": "8812300210",
+            "成分名稱": "Calcium Pantothenate",
             "含量描述": "5",
             "含量": "5.0000000000",
             "單位": "MG"
@@ -165,8 +164,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8816000100",
-            "成分名稱": "ASCORBIC ACID (VIT C)",
+            "成分代碼": "8816000102",
+            "成分名稱": "ASCORBIC ACID",
             "含量描述": "50",
             "含量": "50.0000000000",
             "單位": "MG"
@@ -181,8 +180,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8820000210",
-            "成分名稱": "TOCOPHEROL ACETATE ALPHA (EQ TO VIT E ACETATE) (EQ TO VITAMIN E ACETATE)",
+            "成分代碼": "8820000202",
+            "成分名稱": "VITAMINE E ACETATE",
             "含量描述": "10",
             "含量": "10.0000000000",
             "單位": "IU (I"
@@ -192,7 +191,7 @@
             "成分代碼": "9200911500",
             "成分名稱": "ZINC (OXIDE)",
             "含量描述": "(0.62MG) 0.5",
-            "含量": "",
+            "含量": "0.0000000000",
             "單位": "MG"
         },
         {
@@ -200,8 +199,18 @@
             "成分代碼": "9600910800",
             "成分名稱": "COPPER (OXIDE)",
             "含量描述": "(1.25MG) 1",
-            "含量": "",
+            "含量": "0.0000000000",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "Enersupply 活沛 LT-未販售-104-12-05(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029144&Seq=001&Type=9"
+        },
+        {
+            "title": "Enersupply PTP-104-12-05(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01029144&Seq=002&Type=8"
         }
     ]
 }

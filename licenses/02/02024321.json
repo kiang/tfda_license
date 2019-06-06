@@ -1,7 +1,7 @@
 {
     "code": "02024321",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024321",
-    "time": "2018-07-20 03:51:54",
+    "time": "2019-06-07 03:04:22",
     "許可證字號": "衛署藥輸字第024321號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,18 +17,19 @@
     "適應症": "對本劑有感受性之下列病原菌所引起之嚴重感染:葡萄球菌屬、鏈球菌屬(腸球菌除外)、肺炎球菌、peptostreptococcus屬、Branhamella catarrhalis、淋菌、大腸菌、Klebsiella屬、Proteus屬、Influenzae菌、Bacteroides屬。",
     "劑型": "243凍晶注射劑",
     "包裝": "每1公克小瓶 100支裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "05限由醫師使用",
-    "主成分略述": [
-        "FLOMOXEF(SODIUM)"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "1410301100  台灣塩野義製藥股份有限公司",
+    "藥品類別": "05限由醫師使用",
+    "主成分略述": "FLOMOXEF(SODIUM)",
     "主製造廠": {
+        "申請商名稱": "1410301100  台灣塩野義製藥股份有限公司",
+        "申請商地址": "台北市中山區南京東路二段２號４樓",
         "主製造廠": "",
-        "製造廠名稱": "F260507000  SHIONOGI &amp; CO. LTD. KANEGASAKI PLANT",
-        "製造廠廠址": "7, MORIYAMA, NISHINE, KANEGASAKI-CHO, ISAWA-GUN, IWATE 029-4503, JAPAN",
-        "製造廠公司地址": "1-8,DOSHOMACHI 3-CHOME,CHUO-KO,OSAKA 541-0045,JAPAN"
+        "製造廠名稱": "FJP0507100  Shionogi Pharma Co., Ltd. Kanegasaki Plant"
     },
     "CCC號列": "30042000319 人用醫藥製劑，含頭孢子菌類抗生素者Medicaments, containing cephalosporins, for human use",
     "藥理治療分類": "",
@@ -42,14 +43,30 @@
             "單位": "GM"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "白色~淡黃白色之輕質塊粉末，小瓶裝",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "FMN Vial-104-09-22(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024321&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "FMN_5-revised1-20170124-107-04-11(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024321&Seq=003&Type=9"
+            "title": "Flumarin PIv6-108-03-28(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024321&Seq=004&Type=9"
         },
         {
-            "title": "FMN Box-104-09-22(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024321&Seq=002&Type=8"
+            "title": "FMN BOXv1-108-03-28(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024321&Seq=003&Type=8"
         }
     ]
 }

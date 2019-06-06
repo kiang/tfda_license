@@ -1,7 +1,7 @@
 {
     "code": "01027913",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01027913",
-    "time": "2018-10-12 03:31:37",
+    "time": "2019-06-07 03:01:09",
     "許可證字號": "衛署藥製字第027913號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,18 +17,19 @@
     "適應症": "緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多、幫助消化。",
     "劑型": "150內服顆粒劑",
     "包裝": "6-666包(每包1.5公克)鋁箔袋盒裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "17醫師藥師藥劑生指示藥品",
-    "主成分略述": [
-        "SCOPOLIAEXTRACT,SODIUMBICARBONATE(EQTOSODIUMHYDROGENCARBONATE),NEWLASE,MAGNESIUMALUMINUMMETASILICATE(NEUSILIN),CALCIUMCARBONATE,CINNAMONPOWDER(CINNAMONCORTEXPOWDER),GINGERPOWDER,DIASTASEBIO-,CLOVEPOWDER,SWERTIAPOWDER"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "01國　產",
-    "申請商名稱": "1423601100  台灣大正製藥股份有限公司",
+    "藥品類別": "17醫師藥師藥劑生指示藥品",
+    "主成分略述": "SCOPOLIA EXTRACT, SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE), NEWLASE, BIODIASTASE 1000, MAGNESIUM ALUMINUM METASILICATE (NEUSILIN), CALCIUM CARBONATE PRECIPITATE (EQ TO PRECIPITATED CALCIUM CARBONATE), CINNAMON POWDER (CINNAMON CORTEX POWDER), GINGER POWDER, CLOVE POWDER, SWERTIA POWDER",
     "主製造廠": {
+        "申請商名稱": "1423601100  台灣大正製藥股份有限公司",
+        "申請商地址": "台北市大同區長安西路180號4樓之1",
         "主製造廠": "",
-        "製造廠名稱": "6132020070  榮民製藥股份有限公司",
-        "製造廠廠址": "桃園市中壢區中山東路３段４４７號",
-        "製造廠公司地址": ""
+        "製造廠名稱": "6132020070  榮民製藥股份有限公司"
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
@@ -53,8 +54,16 @@
             "成分類別": "主成分",
             "成分代碼": "4400002700",
             "成分名稱": "NEWLASE",
-            "含量描述": "(AMANO)",
+            "含量描述": "",
             "含量": "20.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "4400007130",
+            "成分名稱": "BIODIASTASE 1000",
+            "含量描述": "",
+            "含量": "33.3330000000",
             "單位": "MG"
         },
         {
@@ -67,9 +76,9 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "5604001200",
-            "成分名稱": "CALCIUM CARBONATE",
-            "含量描述": "(PPT)",
+            "成分代碼": "5604001230",
+            "成分名稱": "CALCIUM CARBONATE PRECIPITATE (EQ TO PRECIPITATED CALCIUM CARBONATE)",
+            "含量描述": "",
             "含量": "233.3330000000",
             "單位": "MG"
         },
@@ -87,14 +96,6 @@
             "成分名稱": "GINGER POWDER",
             "含量描述": "",
             "含量": "10.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "5616000780",
-            "成分名稱": "DIASTASE BIO-",
-            "含量描述": "(1000 AMANO-)50",
-            "含量": "33.3330000000",
             "單位": "MG"
         },
         {
@@ -134,6 +135,10 @@
         {
             "title": "大正胃腸藥顆粒仿單-23版--106-07-20.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027913&Seq=007&Type=9"
+        },
+        {
+            "title": "大正胃腸藥顆粒26包外盒-15版-108-03-28(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027913&Seq=008&Type=8"
         },
         {
             "title": "大正胃腸藥顆粒鋁箔-34--106-07-20.pdf",

@@ -1,7 +1,7 @@
 {
     "code": "56026202",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026202",
-    "time": "2015-09-25 05:01:49",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026202",
+    "time": "2019-06-07 03:32:54",
     "許可證字號": "衛部醫器輸字第026202號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,39 +18,34 @@
     "醫器規格": "PRACTIX 360\r\n以下空白",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "P放射學科用裝置",
-    "醫器次類別一": "P1720移動式X光系統",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
+    "醫器主類別二": [
+        ""
+    ],
     "醫器主類別三": "",
-    "醫器次類別三": "",
     "主成分略述": "",
-    "限制項目": [
-        "02輸入",
-        "14輸入須附同意書（每次輸入均須取得原子能委員會之同意書為憑）"
-    ],
-    "申請商名稱": "1426501100  台灣飛利浦股份有限公司",
-    "申請商地址": "台北市南港區園區街3之1號14樓",
     "主製造廠": {
-        "製造廠名稱": "M250260000  TECHNIX S. P. A.",
-        "製造廠廠址": "VIA E. FERMI 45, 24050 GRASSOBBIO (BG), ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
+        "申請商名稱": "1426501100  台灣飛利浦股份有限公司",
+        "申請商地址": "台北市南港區園區街3之1號14樓",
+        "主製造廠": "",
+        "製造廠名稱": "MIT0260000  TECHNIX S. P. A.",
+        "": ""
     },
-    "CCC號列": "90221400000 其他內科、外科或獸醫用Ｘ光射線器具Other apparatus based on the use of X-rays, for medical surgical or veterinary uses",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
             "title": "560262020001-103-07-08.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026202&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026202&Seq=001&Type=9"
         },
         {
             "title": "560262020002-103-07-08.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026202&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026202&Seq=001&Type=8"
         }
     ]
 }

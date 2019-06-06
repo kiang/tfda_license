@@ -1,7 +1,7 @@
 {
     "code": "02026083",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02026083",
-    "time": "2018-08-31 03:38:41",
+    "time": "2019-06-07 03:05:05",
     "許可證字號": "衛署藥輸字第026083號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,21 +17,31 @@
     "適應症": "末梢血行障礙之輔助治療",
     "劑型": "116膜衣錠",
     "包裝": "6-1000錠鋁箔盒裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "17醫師藥師藥劑生指示藥品",
-    "主成分略述": [
-        "GINKGOBILOBAEXTRACT((9.6mgGINKGOFLAVONGLYCOSIDESCALCULATEDASQUERCETIN,KAEMPFEROLANDISORHAMNETIN,2.4mgTERPENLACTONES)"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "0924601100  台灣諾華股份有限公司",
+    "藥品類別": "17醫師藥師藥劑生指示藥品",
+    "主成分略述": "GINKGO BILOBA EXTRACT((9.6mg GINKGO FLAVONGLYCOSIDES CALCULATED AS QUERCETIN,KAEMPFEROL AND ISORHAMNETIN,2.4mg TERPENLACTONES )",
     "主製造廠": {
+        "申請商名稱": "0924601100  台灣諾華股份有限公司",
+        "申請商地址": "台北市中正區仁愛路二段99號11、12、13樓",
         "主製造廠": "",
-        "製造廠名稱": "F470266000  SALUTAS PHARMA GMBH",
-        "製造廠廠址": "OTTO-VON-GUERICKE-ALLEE 1 39179 BARLEBEN GERMANY",
-        "製造廠公司地址": ""
+        "製造廠名稱": "FDE0266000  SALUTAS PHARMA GMBH"
     },
     "CCC號列": "",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "6132061151  裕利股份有限公司",
+            "製造廠廠址": "桃園市大園區和平里1鄰開和路91號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -44,8 +54,16 @@
     ],
     "仿單外盒": [
         {
+            "title": "Coryol FCT 40mg_PI_TWI-170818-108-04-24(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02026083&Seq=006&Type=9"
+        },
+        {
             "title": "Coryol FCT 40mg_PI_TWI-290318-107-04-16.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02026083&Seq=005&Type=9"
+        },
+        {
+            "title": "Coryol FCT 40mg_FB-108-04-24(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02026083&Seq=009&Type=8"
         },
         {
             "title": "Coryol FCT 40mg_FL-107-04-16.pdf",

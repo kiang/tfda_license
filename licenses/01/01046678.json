@@ -1,7 +1,7 @@
 {
     "code": "01046678",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01046678",
-    "time": "2017-05-26 03:35:16",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01046678",
+    "time": "2019-06-07 03:02:24",
     "許可證字號": "衛署藥製字第046678號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,28 +12,36 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00104667800",
-    "中文品名": "&quot;汎生&quot; 安骨利膠囊250公絲",
+    "中文品名": "&quot;汎生&quot; 安骨利膠囊250毫克",
     "英文品名": "ANCOLY CAPSULES 250MG &quot;PANBIOTIC",
     "適應症": "緩解退化性關節炎之疼痛。",
     "劑型": "130膠囊劑",
     "包裝": "8-1000粒塑膠瓶裝 PTP包裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "17醫師藥師藥劑生指示藥品",
-    "主成分略述": [
-        "GLUCOSAMINESULPHATESODIUMCHLORIDE"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "01國　產",
-    "申請商名稱": "1405522200  臺灣汎生製藥廠股份有限公司",
+    "藥品類別": "17醫師藥師藥劑生指示藥品",
+    "主成分略述": "GLUCOSAMINE SULPHATE SODIUM CHLORIDE",
     "主製造廠": {
+        "申請商名稱": "1405522200  臺灣汎生製藥廠股份有限公司",
+        "申請商地址": "高雄市鳥松區坔埔里大同路5-1號及神農路330號",
         "主製造廠": "",
-        "製造廠名稱": "1405522300  臺灣汎生製藥廠股份有限公司",
-        "製造廠廠址": "高雄市鳥松區&amp;#22356;埔村大同路５號之１",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠名稱": "1405522300  臺灣汎生製藥廠股份有限公司"
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9600013330",
+            "成分名稱": "GLUCOSAMINE SULPHATE SODIUM CHLORIDE",
+            "含量描述": "",
+            "含量": "314.0000000000",
+            "單位": "MG"
+        },
         {
             "成分類別": "主成分",
             "成分代碼": "9600013330",
@@ -45,12 +53,24 @@
     ],
     "仿單外盒": [
         {
+            "title": "說明書-安骨利膠囊250毫克-108-05-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046678&Seq=004&Type=9"
+        },
+        {
             "title": "安骨利膠囊說明書-104-12-19(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046678&Seq=003&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046678&Seq=003&Type=9"
+        },
+        {
+            "title": "安骨利膠囊鋁箔-108-05-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046678&Seq=005&Type=8"
+        },
+        {
+            "title": "安骨利膠囊標籤-108-05-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046678&Seq=004&Type=8"
         },
         {
             "title": "安骨利膠囊外罐-104-12-19(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046678&Seq=003&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046678&Seq=003&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "58025196",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58025196",
-    "time": "2018-02-23 03:13:36",
+    "time": "2019-06-07 03:13:33",
     "許可證字號": "衛部粧輸字第025196號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,22 +13,23 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA05802519600",
     "中文品名": "莉婕泡沫染髮劑 冰沙亞麻灰色(第1劑)",
-    "英文品名": "Liese Hair Color L32 (Solution 1)",
+    "英文品名": "Liese Hair Color LAW17(Solution 1)",
     "用途": "染髮",
     "劑型": "970液劑",
     "包裝": "500ml以下瓶裝附外盒",
-    "標籤、仿單及包裝加註": "",
-    "化粧品類別": "0110染髮劑",
-    "主成分略述": [
-        "AMMONIA,RESORCINOL(RESORCIN),m-Aminophenol,4-AMINO-2-HYDROXYTOLUENE,2,4-DIAMINOPHENOXYETHANOLHCL(EQTO2,4-DIAMINOPHENOXYETHANOLDIHYDROCHLORIDE),TOLUENE-2,5-DIAMINE"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "",
-    "申請商名稱": "0827701100  花王（台灣）股份有限公司",
+    "化粧品類別": "0110染髮劑",
+    "主成分略述": "AMMONIA, RESORCINOL (RESORCIN), m-Aminophenol, 4-AMINO-2-HYDROXYTOLUENE, 2,4-DIAMINOPHENOXYETHANOL HCL (EQ TO 2,4-DIAMINOPHENOXYETHANOL DIHYDROCHLORIDE), TOLUENE-2,5-DIAMINE",
     "主製造廠": {
+        "申請商名稱": "0827701100  花王（台灣）股份有限公司",
+        "申請商地址": "新北市新店區北新路三段207號10樓",
         "主製造廠": "",
-        "製造廠名稱": "C260295000  KAO CORPORATION TOYOHASHI PLANT",
-        "製造廠廠址": "4-51 AKEMI-CHO, TOYOHASHI, AICHI PREFECTURE 441-8074 JAPAN",
-        "製造廠公司地址": ""
+        "製造廠名稱": "CJP0295000  KAO CORPORATION TOYOHASHI PLANT"
     },
     "": "",
     "藥理治療分類": "",
@@ -38,7 +39,7 @@
             "成分代碼": "2820000100",
             "成分名稱": "AMMONIA",
             "含量描述": "",
-            "含量": "1.2600000000",
+            "含量": "1.3700000000",
             "單位": "%(W\/W)"
         },
         {
@@ -80,6 +81,12 @@
             "含量描述": "",
             "含量": "0.1400000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "58025196-108-05-30.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58025196&Seq=003&Type=8"
         }
     ]
 }

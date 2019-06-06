@@ -1,12 +1,12 @@
 {
     "code": "02023437",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023437",
-    "time": "2017-06-16 03:18:00",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023437",
+    "time": "2019-06-07 03:04:06",
     "許可證字號": "衛署藥輸字第023437號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/05\/17",
+    "有效日期": "111\/05\/17",
     "發證日期": "91\/05\/17",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -17,27 +17,27 @@
     "適應症": "下痢、胃腸炎。",
     "劑型": "192丸劑",
     "包裝": "18-1000粒玻璃瓶裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "17醫師藥師藥劑生指示藥",
-    "主成分略述": [
-        "CREOSOTE,PHELLODENDRONBARKPOWDER(EQTOPOWDEREDPHELLODENDRONBARK),CITRUSUNSHINPEELPOWDER,SOPHORAREDPOWDER"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "6231026089  嫦娥藥品有限公司",
+    "藥品類別": "17醫師藥師藥劑生指示藥",
+    "主成分略述": "WOOD CREOSOTE, PHELLODENDRON BARK POWDER (EQ TO POWDERED PHELLODENDRON BARK), CITRUS UNSHIN PEEL POWDER, SOPHORA RED POWDER",
     "主製造廠": {
+        "申請商名稱": "6231026089  嫦娥藥品有限公司",
+        "申請商地址": "新北市三重區自強路四段31巷10號",
         "主製造廠": "",
-        "製造廠名稱": "F260160000  KYOKUTO CO., LTD.",
-        "製造廠廠址": "NO.8-10,USHIZIMA SHINMACHI,TOYAMA-SHI,JAPAN.",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠名稱": "FJP0160000  KYOKUTO CO., LTD."
     },
-    "CCC號列": "30044099004 其他醫藥製劑，含有生物鹼或其衍生物，但未含內分泌素，第２９３７節之其他產品或抗生素者Other medicaments, containing alkaloids or derivatives thereof but not containing hormones, other products of heading 29.37 or antibiotics",
+    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "4800000900",
-            "成分名稱": "CREOSOTE",
+            "成分代碼": "4800000910",
+            "成分名稱": "WOOD CREOSOTE",
             "含量描述": "",
             "含量": "33.3330000000",
             "單位": "MG"
@@ -67,14 +67,42 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "直徑約0.8公分",
+        "特殊劑型": "",
+        "顏色": "深褐色",
+        "特殊氣味": "濃郁特殊氣味",
+        "刻痕": "無",
+        "形狀": "圓凸形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "015450_TAB-104-10-07(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023437&Seq=008&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "023437-仿單擬稿_嫦娥極品正露丸-106-04-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023437&Seq=002&Type=9"
+            "title": "極品正露丸說明書-0514-01-108-05-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023437&Seq=003&Type=9"
         },
         {
-            "title": "02023437-box-106-04-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023437&Seq=004&Type=8"
+            "title": "QR Code內容-108-05-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023437&Seq=008&Type=8"
+        },
+        {
+            "title": "S__6086679-108-05-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023437&Seq=007&Type=8"
+        },
+        {
+            "title": "極品正露丸160粒-0328-01-108-05-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023437&Seq=006&Type=8"
+        },
+        {
+            "title": "Kyokuhin-160-01-108-05-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023437&Seq=005&Type=8"
         }
     ]
 }

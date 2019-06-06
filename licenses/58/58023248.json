@@ -1,7 +1,7 @@
 {
     "code": "58023248",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58023248",
-    "time": "2017-06-16 03:11:49",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58023248",
+    "time": "2019-06-07 03:13:19",
     "許可證字號": "衛部粧輸字第023248號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,23 +17,31 @@
     "用途": "染髮",
     "劑型": "860膏劑",
     "包裝": "500公克以下瓶裝附外盒",
-    "標籤、仿單及包裝加註": "",
-    "化粧品類別": "0110染髮劑",
-    "主成分略述": [
-        "HYDROGENPEROXIDE(35%),P-AMINOPHENOL,4-AMINO-2-HYDROXYTOLUENE,P-PHENYLENEDIAMINE"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "",
-    "申請商名稱": "0620801100  百陸達股份有限公司",
+    "化粧品類別": "0110染髮劑",
+    "主成分略述": "HYDROGEN PEROXIDE (35%), RESORCINOL (RESORCIN), P-AMINOPHENOL, 4-AMINO-2-HYDROXYTOLUENE, P-PHENYLENEDIAMINE",
     "主製造廠": {
+        "申請商名稱": "0620801100  百陸達股份有限公司",
+        "申請商地址": "台北市信義區基隆路2段149之17號10樓",
         "主製造廠": "",
-        "製造廠名稱": "C260306000  DARIYA CO.,LTD.INAZAWA FACTORY",
-        "製造廠廠址": "365-11, MAEDA, INAZAWA-CHO, INAZAWA-SHI, AICHI, JAPAN",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠名稱": "CJP0306000  DARIYA CO.,LTD.INAZAWA FACTORY"
     },
     "": "",
     "藥理治療分類": "",
     "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8428000500",
+            "成分名稱": "RESORCINOL (RESORCIN)",
+            "含量描述": "",
+            "含量": "0.1000000000",
+            "單位": "%(W\/W)"
+        },
         {
             "成分類別": "主成分",
             "成分代碼": "9200035440",
@@ -69,16 +77,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "58023248-106-05-24.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58023248&Seq=001&Type=9"
-        },
-        {
-            "title": "58023248-105-07-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58023248&Seq=002&Type=8"
-        },
-        {
-            "title": "58023248-105-04-01.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58023248&Seq=001&Type=8"
+            "title": "58023248-108-05-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58023248&Seq=003&Type=8"
         }
     ]
 }

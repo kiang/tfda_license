@@ -1,7 +1,7 @@
 {
     "code": "56029101",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029101",
-    "time": "2016-12-30 03:23:28",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029101",
+    "time": "2019-06-07 03:11:03",
     "許可證字號": "衛部醫器輸字第029101號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,39 +15,41 @@
     "中文品名": "“康世”數位平板X光偵測器",
     "英文品名": "“CARESTREAM” Digital Radiography Detector",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "DRX Plus 3543 Detector, DRX Plus 3543C Detector\r\n以下空白",
+    "醫器規格": "DRX Plus 3543 Detector, DRX Plus 3543C Detector\r\n以下空白。\r\n增加規格：DRX Plus 4343 Detector、\r\nDRX Plus 4343C Detector。",
     "劑型": "",
     "包裝": "",
-    "標籤、仿單及包裝加註": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "P放射學科用裝置",
-    "醫器次類別一": "P1650透視X光影像增感管",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "6201119731  台灣康世醫療器材股份有限公司",
+    "醫器主類別三": "",
+    "主成分略述": "",
     "主製造廠": {
+        "申請商名稱": "640110C436  費斯科技股份有限公司",
+        "申請商地址": "臺北市中山區民生東路3段57號12樓之3",
         "主製造廠": "",
-        "製造廠名稱": "M464676000  Carestream Health, Inc.",
-        "製造廠廠址": "Smart System Technology and Commercialization (STC) 5450 Campus Drive Canandaigua, New, York, USA",
-        "製造廠公司地址": "",
+        "製造廠名稱": "MUS4676000  Carestream Health, Inc.",
         "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "中文仿單-106-01-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56029101&Seq=002&Type=9"
+        },
+        {
             "title": "560291010001-105-12-29.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56029101&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56029101&Seq=001&Type=9"
         },
         {
             "title": "560291010002-105-12-29.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56029101&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56029101&Seq=001&Type=8"
         }
     ]
 }

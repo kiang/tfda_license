@@ -1,7 +1,7 @@
 {
     "code": "56026196",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026196",
-    "time": "2016-08-26 04:05:54",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026196",
+    "time": "2019-06-07 03:32:53",
     "許可證字號": "衛部醫器輸字第026196號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,36 +18,34 @@
     "醫器規格": "OPMI PENTERO 900。增加規格：新增BLUE 400及YELLOW 560模組（原103年6月11日仿單標籤核定本收回作廢）。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "P放射學科用裝置",
-    "醫器次類別一": "P1600X光血管攝影系統",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入"
+    "醫器主類別二": [
+        ""
     ],
-    "申請商名稱": "6201013305  台灣儀器行股份有限公司",
-    "申請商地址": "臺北市松山區南京東路3段272號9樓",
+    "醫器主類別三": "",
+    "主成分略述": "",
     "主製造廠": {
-        "製造廠名稱": "M471066200  CARL ZEISS MEDITEC AG",
-        "製造廠廠址": "Rudolf-Eber-Strasse 11, 73447 Oberkochen, Germany",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
+        "申請商名稱": "6201013305  台灣儀器行股份有限公司",
+        "申請商地址": "臺北市松山區南京東路3段272號9樓",
+        "主製造廠": "",
+        "製造廠名稱": "MDE1066200  CARL ZEISS MEDITEC AG",
+        "": ""
     },
-    "CCC號列": "90221400000 其他內科、外科或獸醫用Ｘ光射線器具Other apparatus based on the use of X-rays, for medical surgical or veterinary uses",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "560261960001-105-06-24.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026196&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026196&Seq=002&Type=9"
         },
         {
             "title": "560261960001-105-06-24.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026196&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026196&Seq=002&Type=8"
         }
     ]
 }

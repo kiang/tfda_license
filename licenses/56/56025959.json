@@ -1,7 +1,7 @@
 {
     "code": "56025959",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025959",
-    "time": "2016-05-27 06:35:20",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025959",
+    "time": "2019-06-07 03:32:45",
     "許可證字號": "衛部醫器輸字第025959號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,36 +18,34 @@
     "醫器規格": "eTwo",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "I一般及整型外科手術裝置",
-    "醫器次類別一": "I4400切割及止血用電刀及其附件",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入"
+    "醫器主類別二": [
+        ""
     ],
-    "申請商名稱": "620111B468  沃醫學有限公司",
-    "申請商地址": "臺北市內湖區瑞光路298號4樓之1",
+    "醫器主類別三": "",
+    "主成分略述": "",
     "主製造廠": {
-        "製造廠名稱": "M240021100  SYNERON MEDICAL LTD.",
-        "製造廠廠址": "INDUSTRIAL ZONE, TAVOR BUILDING, P.O.B 550 YOKNEAM ILLIT 20692, ISRAEL",
-        "製造廠公司地址": "",
-        "製造廠國別": "ISRAEL",
-        "製程": ""
+        "申請商名稱": "620111B468  沃醫學有限公司",
+        "申請商地址": "臺北市內湖區瑞光路298號4樓之1",
+        "主製造廠": "",
+        "製造廠名稱": "MIL0021100  SYNERON MEDICAL LTD.",
+        "": ""
     },
-    "CCC號列": "90183900007 其他導管、套管及類似品Other catheters, cannulae and the like",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "560259590002-103-07-11.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025959&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025959&Seq=001&Type=9"
         },
         {
             "title": "560259590001-103-07-11.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025959&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025959&Seq=001&Type=8"
         }
     ]
 }
