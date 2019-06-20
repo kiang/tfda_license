@@ -1,7 +1,7 @@
 {
     "code": "02025010",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025010",
-    "time": "2019-06-14 03:37:51",
+    "time": "2019-06-21 04:01:42",
     "許可證字號": "衛署藥輸字第025010號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -33,6 +33,22 @@
     },
     "CCC號列": "",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "FCN0560000  JIANGXI TIANXIN PHARMACEUTICAL CO.,LTD.",
+            "製造廠廠址": "LEANJIANG INDUSTRIAL PARK, LEPING, JIANGXI 333 300, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "原料藥製造廠"
+        },
+        {
+            "製造廠名稱": "FCN0836000  HEBEI YUXING BIO-ENGINEERING CO., LTD.",
+            "製造廠廠址": "XICHENG DISTRICT, NINGJING COUNTY, HEBEI PROVINCE, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "原料藥製造廠"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
