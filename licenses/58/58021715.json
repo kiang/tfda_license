@@ -1,7 +1,7 @@
 {
     "code": "58021715",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58021715",
-    "time": "2019-06-21 03:30:12",
+    "time": "2019-06-28 03:20:39",
     "許可證字號": "衛部粧輸字第021715號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -33,7 +33,28 @@
     },
     "": "",
     "藥理治療分類": "",
-    "ingredients": [],
-    "藥物辨識詳細資料": [],
-    "藥物辨識外觀圖片": []
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5204900500",
+            "成分名稱": "HYDROGEN PEROXIDE",
+            "含量描述": "",
+            "含量": "2.5000000000",
+            "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "58021715-106-07-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58021715&Seq=002&Type=9"
+        },
+        {
+            "title": "58021715-103-10-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58021715&Seq=001&Type=9"
+        },
+        {
+            "title": "58021715-103-10-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58021715&Seq=001&Type=8"
+        }
+    ]
 }
