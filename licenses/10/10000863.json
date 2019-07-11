@@ -1,7 +1,7 @@
 {
     "code": "10000863",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000863",
-    "time": "2019-07-05 03:04:55",
+    "time": "2019-07-12 03:06:06",
     "許可證字號": "衛署菌疫輸字第000863號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -29,7 +29,7 @@
         "申請商名稱": "1901701100  羅氏大藥廠股份有限公司",
         "申請商地址": "台北市松山區民生東路三段１３４號９樓",
         "主製造廠": "",
-        "製造廠名稱": "FDE0261000  ROCHE DIAGNOSTICS GMBH"
+        "製造廠名稱": "FCH0257000  F. HOFFMANN-LA ROCHE LTD."
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -54,12 +54,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "Mircera_CDS 9.0_0419-MIR-01 (498x250mm)-108-05-24.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000863&Seq=017&Type=9"
+            "title": "Label_200 mcg-108-07-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000863&Seq=007&Type=8"
         },
         {
-            "title": "10000863c0004.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000863&Seq=004&Type=8"
+            "title": "folding box_200 mcg-108-07-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000863&Seq=006&Type=8"
+        },
+        {
+            "title": "sticker 200 mcg-108-07-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000863&Seq=005&Type=8"
         }
     ]
 }
