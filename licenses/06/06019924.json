@@ -1,7 +1,7 @@
 {
     "code": "06019924",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019924",
-    "time": "2016-11-19 01:02:50",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019924",
+    "time": "2019-07-26 03:14:50",
     "許可證字號": "衛署醫器輸字第019924號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,36 +18,34 @@
     "醫器規格": "EZ-Dop，以下空白。",
     "劑型": "",
     "包裝": "",
-    "標籤、仿單及包裝加註": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "P放射學科用裝置",
-    "醫器次類別一": "P1550超音波脈動都卜勒式影像系統",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "0622302100  企建科技股份有限公司",
+    "醫器主類別三": "",
+    "主成分略述": "",
     "主製造廠": {
+        "申請商名稱": "0622302100  企建科技股份有限公司",
+        "申請商地址": "台北市中山區新生北路二段41巷14號1樓",
         "主製造廠": "",
-        "製造廠名稱": "M470485000  COMPUMEDICS GERMANY GMBH",
-        "製造廠廠址": "JOSEF-SCHUTTLER-STR. 2 78224 SINGEN GERMANY",
-        "製造廠公司地址": "",
+        "製造廠名稱": "MDE0485000  COMPUMEDICS GERMANY GMBH",
         "": ""
     },
-    "CCC號列": "90181200008 超音波掃瞄器具Ultrasonic scanning apparatus",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "060199240002-103-05-08.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019924&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019924&Seq=001&Type=9"
         },
         {
             "title": "060199240001-103-05-08.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019924&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019924&Seq=001&Type=8"
         }
     ]
 }

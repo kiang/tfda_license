@@ -1,7 +1,7 @@
 {
     "code": "02023253",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023253",
-    "time": "2017-06-16 03:26:52",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023253",
+    "time": "2019-07-26 03:02:15",
     "許可證字號": "衛署藥輸字第023253號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,22 +14,22 @@
     "通關簽審文件編號": "DHA00202325300",
     "中文品名": "克流感膠囊７５毫克",
     "英文品名": "TAMIFLU CAPSULES 75MG",
-    "適應症": "成人和13歲或以上青少年的流行性感冒之預防及治療。",
+    "適應症": "成人和兒童（包含足月新生兒）的流行性感冒之治療。成人和1歲或以上兒童的流行性感冒之預防。",
     "劑型": "130膠囊劑",
     "包裝": "盒裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "06須由醫師處方使用",
-    "主成分略述": [
-        "OSELTAMIVIRPHOSPHATE"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "1901701100  羅氏大藥廠股份有限公司",
+    "藥品類別": "06須由醫師處方使用",
+    "主成分略述": "OSELTAMIVIR PHOSPHATE",
     "主製造廠": {
+        "申請商名稱": "1901701100  羅氏大藥廠股份有限公司",
+        "申請商地址": "台北市民生東路三段１３４號９樓",
         "主製造廠": "",
-        "製造廠名稱": "F430093000  F.HOFFMANN-LA ROCHE LTD.",
-        "製造廠廠址": "GRENZACHERSTRASSE 124, CH-4070 BASEL,SWITZERLAND",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠名稱": "FCH0093000  F.HOFFMANN-LA ROCHE LTD."
     },
     "CCC號列": "30042000916 人用醫藥製劑，含有其他抗生素者Medicaments, containing other antibiotics, for human use",
     "藥理治療分類": "",
@@ -42,7 +42,7 @@
             "製程": "二級包裝廠(委託貼標及置入仿單)"
         },
         {
-            "製造廠名稱": "F430257000  F. HOFFMANN-LA ROCHE LTD.",
+            "製造廠名稱": "FCH0257000  F. HOFFMANN-LA ROCHE LTD.",
             "製造廠廠址": "WURMISWEG, CH-4303 KAISERAUGST, SWITZERLAND",
             "製造廠公司地址": "",
             "製造廠國別": "SWITZERLAND",
@@ -71,18 +71,22 @@
     },
     "藥物辨識外觀圖片": [
         {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023253&Seq=436&Type=10"
+            "title": "02023253.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023253&Seq=436&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "020232530004-102-11-07.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023253&Seq=012&Type=9"
+            "title": "Tamiflu Cap 30,45,75 mg (148x840mm)-0519-TAM-01-108-06-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023253&Seq=015&Type=9"
         },
         {
-            "title": "020232530003-102-11-07.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023253&Seq=003&Type=8"
+            "title": "Tamiflu 75mg ex Basel_023253-1-STK-10-108-03-19(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023253&Seq=004&Type=8"
+        },
+        {
+            "title": "020232530003-102-11-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023253&Seq=003&Type=8"
         }
     ]
 }

@@ -1,12 +1,12 @@
 {
     "code": "02024735",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024735",
-    "time": "2016-11-18 20:35:22",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024735",
+    "time": "2019-07-26 03:02:25",
     "許可證字號": "衛署藥輸字第024735號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/10\/31",
+    "有效日期": "111\/10\/31",
     "發證日期": "96\/10\/31",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -17,22 +17,31 @@
     "適應症": "咽喉炎、口內炎。",
     "劑型": "122口含錠",
     "包裝": "12~1000錠鋁箔盒裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "17醫師藥師藥劑生指示藥品",
-    "主成分略述": [
-        "DEQUALINIUMCHLORIDE"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "6401022326  安沛國際有限公司",
+    "藥品類別": "17醫師藥師藥劑生指示藥品",
+    "主成分略述": "DEQUALINIUM CHLORIDE",
     "主製造廠": {
+        "申請商名稱": "1225201100  裕利股份有限公司",
+        "申請商地址": "台北市松山區南京東路四段126號10樓，10樓之1-3",
         "主製造廠": "",
-        "製造廠名稱": "F290003100  STERLING DRUG (M) SDN.BHD.",
-        "製造廠廠址": "LOT 89, JALAN ENGGANG, AMPANG ULU KELANG INDUSTRIAL ESTATE, 54200 SELANGOR, MALAYSIA",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠名稱": "FMY0003100  STERLING DRUG (M) SDN.BHD."
     },
     "CCC號列": "",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "FSG0047000  iNova Pharmaceuticals (Singapore) Pte. Limited",
+            "製造廠廠址": "10 Eunos Road 8 #08-02, Singapore Post Centre, North Lobby, Singapore, 408600",
+            "製造廠公司地址": "",
+            "製造廠國別": "SINGAPORE",
+            "製程": "許可證持有者"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -45,28 +54,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單-Valda Lozenges new PI-衛署藥輸字第024735號-0822-2016 (final)-105-10-28.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024735&Seq=002&Type=9"
+            "title": "02-024735_仿單-108-06-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024735&Seq=003&Type=9"
         },
         {
-            "title": "020247350001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024735&Seq=001&Type=9"
+            "title": "02-024735_鋁箔-108-06-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024735&Seq=006&Type=8"
         },
         {
-            "title": "024735-鋁箔valda_Blister back-105-10-28.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024735&Seq=004&Type=8"
-        },
-        {
-            "title": "024735-樺達喉片外盒-105-10-28.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024735&Seq=003&Type=8"
-        },
-        {
-            "title": "020247350002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024735&Seq=002&Type=8"
-        },
-        {
-            "title": "020247350001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024735&Seq=001&Type=8"
+            "title": "02-024735_外盒-108-06-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024735&Seq=005&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "01017248",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01017248",
-    "time": "2019-02-22 04:08:00",
+    "time": "2019-07-26 03:00:39",
     "許可證字號": "衛署藥製字第017248號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,23 +12,24 @@
     "舊證字號": "01017248",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00101724801",
-    "中文品名": "得舒痛錠",
+    "中文品名": "&quot;明大&quot;得舒痛錠",
     "英文品名": "MIGUZETO TABLETS &quot;M.T.&quot;",
     "適應症": "解熱、鎮痛（頭痛、月經痛、牙痛、咽喉痛、關節痛、神經痛、筋肉痛）",
     "劑型": "110錠劑",
-    "包裝": "盒裝 瓶裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "06須由醫師處方使用",
-    "主成分略述": [
-        "ACETAMINOPHEN(EQTOPARACETAMOL),ETHENZAMIDE,CAFFEINEHYDRATE,APRONALIDE(EQTOALLYLISOPROPYLACETYLUREA),HYDROXYBUTYRICACIDBETA-P-PHENETIDIDE(BUCETIN)"
+    "包裝": "6-1000錠塑膠瓶裝 鋁箔盒裝",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "01國　產",
-    "申請商名稱": "0804410200  明大化學製藥股份有限公司",
+    "藥品類別": "06須由醫師處方使用",
+    "主成分略述": "ACETAMINOPHEN (EQ TO PARACETAMOL), ETHENZAMIDE , CAFFEINE ANHYDROUS, APRONALIDE ( EQ TO ALLYLISOPROPYLACETYLUREA)",
     "主製造廠": {
+        "申請商名稱": "0804410200  明大化學製藥股份有限公司",
+        "申請商地址": "台中市外埔區水美村水美路５２號",
         "主製造廠": "",
-        "製造廠名稱": "0804410300  明大化學製藥股份有限公司",
-        "製造廠廠址": "台中市外埔區水美村水美路５２號",
-        "製造廠公司地址": ""
+        "製造廠名稱": "0804410300  明大化學製藥股份有限公司"
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
@@ -37,7 +38,7 @@
             "成分類別": "主成分",
             "成分代碼": "2808000100",
             "成分名稱": "ACETAMINOPHEN (EQ TO PARACETAMOL)",
-            "含量描述": "160",
+            "含量描述": "",
             "含量": "160.0000000000",
             "單位": "MG"
         },
@@ -45,15 +46,15 @@
             "成分類別": "主成分",
             "成分代碼": "2808600900",
             "成分名稱": "ETHENZAMIDE",
-            "含量描述": "200",
+            "含量描述": "",
             "含量": "200.0000000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000460",
-            "成分名稱": "CAFFEINE HYDRATE",
-            "含量描述": "50",
+            "成分代碼": "2820000450",
+            "成分名稱": "CAFFEINE ANHYDROUS",
+            "含量描述": "",
             "含量": "50.0000000000",
             "單位": "MG"
         },
@@ -61,23 +62,27 @@
             "成分類別": "主成分",
             "成分代碼": "2824800300",
             "成分名稱": "APRONALIDE ( EQ TO ALLYLISOPROPYLACETYLUREA)",
-            "含量描述": "40",
+            "含量描述": "",
             "含量": "40.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "4040000412",
-            "成分名稱": "HYDROXYBUTYRIC ACID BETA- P-PHENETIDIDE (BUCETIN)",
-            "含量描述": "140",
-            "含量": "140.0000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
+            "title": "017248得舒痛錠說明書-108-06-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01017248&Seq=003&Type=9"
+        },
+        {
             "title": "4043 得舒痛錠-104-12-29(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01017248&Seq=002&Type=9"
+        },
+        {
+            "title": "017248得舒痛錠彩盒-108-06-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01017248&Seq=003&Type=8"
+        },
+        {
+            "title": "017248得舒痛錠標籤-108-06-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01017248&Seq=002&Type=8"
         },
         {
             "title": "標籤-104-09-26(廠商自行上傳).pdf",

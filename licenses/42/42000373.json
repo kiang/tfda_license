@@ -1,7 +1,7 @@
 {
     "code": "42000373",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000373",
-    "time": "2016-12-30 03:31:25",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000373",
+    "time": "2019-07-26 03:05:52",
     "許可證字號": "衛署醫器陸輸字第000373號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,44 +18,42 @@
     "醫器規格": "JXB-178、JXB-179、JXB-180以下空白。註銷規格：JXB-179，以下空白。",
     "劑型": "",
     "包裝": "",
-    "標籤、仿單及包裝加註": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "J一般醫院及個人使用裝置",
-    "醫器次類別一": "J2910臨床電子體溫計",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入 40大陸生產",
-    "申請商名稱": "6231136320  紅豆杉科技股份有限公司",
+    "醫器主類別三": "",
+    "主成分略述": "",
     "主製造廠": {
+        "申請商名稱": "6231136320  紅豆杉科技股份有限公司",
+        "申請商地址": "新北市土城區中央路3段126巷3弄9號1樓",
         "主製造廠": "",
-        "製造廠名稱": "M644265000  Guangzhou Jinxinbao Electronic Co., Ltd",
-        "製造廠廠址": "No.38, Huanzhen Xi Road, Dagang Town, Nansha, Guangzhou, China",
-        "製造廠公司地址": "",
+        "製造廠名稱": "MCN4265000  Guangzhou Jinxinbao Electronic Co., Ltd",
         "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "420003730001-105-10-17.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000373&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000373&Seq=002&Type=9"
         },
         {
             "title": "420003730002___20110921.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000373&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000373&Seq=001&Type=9"
         },
         {
             "title": "420003730001-105-10-17.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000373&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000373&Seq=002&Type=8"
         },
         {
             "title": "420003730001___20110921.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000373&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000373&Seq=001&Type=8"
         }
     ]
 }

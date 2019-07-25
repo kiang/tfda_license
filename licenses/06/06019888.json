@@ -1,7 +1,7 @@
 {
     "code": "06019888",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019888",
-    "time": "2016-11-19 01:02:27",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019888",
+    "time": "2019-07-26 03:14:45",
     "許可證字號": "衛署醫器輸字第019888號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,40 +18,38 @@
     "醫器規格": "詳如中文仿單核定本。註銷規格：SPN-5406、SPN-5407、SPN-5408、 SPN-5409、 SPN-5410，以下空白。",
     "劑型": "",
     "包裝": "",
-    "標籤、仿單及包裝加註": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "N骨科用裝置",
-    "醫器次類別一": "N3060椎體間之脊椎矯正固定物",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "6217053502  盈定科技有限公司",
+    "醫器主類別三": "",
+    "主成分略述": "",
     "主製造廠": {
+        "申請商名稱": "6217053502  盈定科技有限公司",
+        "申請商地址": "台中市北區文心路四段200號5樓之5",
         "主製造廠": "",
-        "製造廠名稱": "M140014000  INION LTD.",
-        "製造廠廠址": "LAAKARINKATU 2, 33520 TAMPERE, FINLAND",
-        "製造廠公司地址": "",
+        "製造廠名稱": "MFI0014000  INION LTD.",
         "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "060198880002-103-08-29.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019888&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019888&Seq=002&Type=9"
         },
         {
             "title": "060198880001-103-05-01.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019888&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019888&Seq=001&Type=9"
         },
         {
             "title": "060198880001-103-08-29.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019888&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019888&Seq=001&Type=8"
         }
     ]
 }

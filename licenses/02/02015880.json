@@ -1,7 +1,7 @@
 {
     "code": "02015880",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02015880",
-    "time": "2016-12-30 03:27:04",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02015880",
+    "time": "2019-07-26 03:14:27",
     "許可證字號": "衛署藥輸字第015880號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,19 +17,19 @@
     "適應症": "對某些類型之乳癌之輔助治療",
     "劑型": "110錠劑",
     "包裝": "4-1000粒瓶裝 4-1000粒盒裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "06須由醫師處方使用",
-    "主成分略述": [
-        "TAMOXIFENCITRATE"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "1407301100  臺灣美強股份有限公司",
+    "藥品類別": "06須由醫師處方使用",
+    "主成分略述": "TAMOXIFEN CITRATE",
     "主製造廠": {
+        "申請商名稱": "1407301100  臺灣美強股份有限公司",
+        "申請商地址": "台北市中山區南京東路二段66號4樓",
         "主製造廠": "",
-        "製造廠名稱": "F140013000  ORION CORPORATION ORION PHARMA, TURKU PLANT",
-        "製造廠廠址": "TENGSTROMINKATU 8-FIR-20360 TURKU FINLANDSF-20101 TURKU, FINLAND",
-        "製造廠公司地址": "ORIONINTIE 1,02200 ESPOO, FINLAND",
-        "": ""
+        "製造廠名稱": "FFI0021000  ORION CORPORATION TURKU PLANT"
     },
     "CCC號列": "30049071005 抗癌藥Anti-cancer preparations",
     "藥理治療分類": "",
@@ -40,6 +40,13 @@
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
             "製程": "二級包裝廠(委託貼標及置入仿單)"
+        },
+        {
+            "製造廠名稱": "FFI0031000  Orion Corporation",
+            "製造廠廠址": "Joensuunkatu 7, Salo 24100, Finland",
+            "製造廠公司地址": "",
+            "製造廠國別": "FINLAND",
+            "製程": "分包裝廠"
         }
     ],
     "ingredients": [
@@ -64,22 +71,22 @@
     },
     "藥物辨識外觀圖片": [
         {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015880&Seq=421&Type=10"
-        },
-        {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015880&Seq=420&Type=10"
+            "title": "02015880a.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015880&Seq=421&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "Tadex中文仿單_2016v2-105-10-19(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015880&Seq=003&Type=9"
+            "title": "Tadex 中文仿單v4-108-07-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015880&Seq=004&Type=9"
         },
         {
-            "title": "Tadex 10mg中文仿單 015880___20110117.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015880&Seq=001&Type=9"
+            "title": "Tadex 外盒 鋁箔-108-07-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015880&Seq=002&Type=8"
+        },
+        {
+            "title": "Tadex 中文標籤v4-108-07-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02015880&Seq=001&Type=8"
         }
     ]
 }

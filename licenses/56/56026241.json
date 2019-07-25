@@ -1,7 +1,7 @@
 {
     "code": "56026241",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026241",
-    "time": "2015-08-22 07:06:42",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026241",
+    "time": "2019-07-26 03:15:15",
     "許可證字號": "衛部醫器輸字第026241號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,36 +18,34 @@
     "醫器規格": "MagnaAmp (MA\/5, MA\/6)\r\n以下空白",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "J一般醫院及個人使用裝置",
-    "醫器次類別一": "J2800滅菌過程指示劑",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入"
+    "醫器主類別二": [
+        ""
     ],
-    "申請商名稱": "6201120663  岑祥股份有限公司",
-    "申請商地址": "臺北市南港區南港路二段99之15號",
+    "醫器主類別三": "",
+    "主成分略述": "",
     "主製造廠": {
-        "製造廠名稱": "M464142000  Mesa Laboratories, Inc.",
-        "製造廠廠址": "10 Evergreen Drive BOZEMAN, MT 59715 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
+        "申請商名稱": "6201120663  岑祥股份有限公司",
+        "申請商地址": "臺北市南港區南港路二段99之15號",
+        "主製造廠": "",
+        "製造廠名稱": "MUS4142000  Mesa Laboratories, Inc.",
+        "": ""
     },
-    "CCC號列": "38220090902 其他診斷或實驗用有底襯之試劑及診斷或實驗用之配製試劑，不論是否有底襯，不包括第３００２節或第３００６節所列者Other diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading 30.02 or 30.06",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "560262410001-103-06-30.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026241&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026241&Seq=001&Type=9"
         },
         {
             "title": "560262410002-103-06-30.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026241&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026241&Seq=001&Type=8"
         }
     ]
 }

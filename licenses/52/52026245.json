@@ -1,7 +1,7 @@
 {
     "code": "52026245",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026245",
-    "time": "2019-02-22 04:04:20",
+    "time": "2019-07-26 03:03:03",
     "許可證字號": "衛部藥輸字第026245號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,18 +17,19 @@
     "適應症": "退燒、止痛(緩解頭痛、牙痛、咽喉痛、關節痛、神經痛、肌肉酸痛、月經痛)。",
     "劑型": "116膜衣錠",
     "包裝": "2-1000錠ALU-PVC鋁箔盒裝, 塑膠瓶裝 2-1000錠鋁箔盒裝(ALU-PET-PVC)",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "17醫師藥師藥劑生指示藥品",
-    "主成分略述": [
-        "ACETAMINOPHEN(EQTOPARACETAMOL),CAFFEINE"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "620118N731  英商葛蘭素史克消費保健用品股份有限公司台灣分公司",
+    "藥品類別": "17醫師藥師藥劑生指示藥品",
+    "主成分略述": "ACETAMINOPHEN (EQ TO PARACETAMOL), CAFFEINE",
     "主製造廠": {
+        "申請商名稱": "620118N731  英商葛蘭素史克消費保健用品股份有限公司台灣分公司",
+        "申請商地址": "臺北市中正區忠孝西路一段66號24樓",
         "主製造廠": "",
-        "製造廠名稱": "F230055000  GLAXOSMITHKLINE DUNGARVAN LIMITED",
-        "製造廠廠址": "KNOCKBRACK, DUNGARVAN, CO. WATERFORD, IRELAND",
-        "製造廠公司地址": ""
+        "製造廠名稱": "FIE0055000  GLAXOSMITHKLINE DUNGARVAN LIMITED"
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -41,11 +42,18 @@
             "製程": "二級包裝廠"
         },
         {
-            "製造廠名稱": "C290008000  STERLING DRUG (MALAYA) SDN. BHD.",
+            "製造廠名稱": "CMY0008000  STERLING DRUG (MALAYA) SDN. BHD.",
             "製造廠廠址": "LOT 89, JALAN ENGGANG, AMPANG\/ULU KELANG INDUSTRIAL ESTATE, 54200 SELANGOR, MALAYSIA",
             "製造廠公司地址": "",
             "製造廠國別": "MALAYSIA",
             "製程": "分包裝廠"
+        },
+        {
+            "製造廠名稱": "FIN1041000  FARMSON PHARMACEUTICAL GUJARAT PVT. LTD.",
+            "製造廠廠址": "14, G.I.D.C. Industrial Estate, Nandesari, Vadodara, Gujarat, 391 340, India",
+            "製造廠公司地址": "",
+            "製造廠國別": "INDIA",
+            "製程": "原料藥製造廠"
         }
     ],
     "ingredients": [

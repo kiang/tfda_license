@@ -1,13 +1,13 @@
 {
     "code": "02020554",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02020554",
-    "time": "2017-06-16 03:03:08",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02020554",
+    "time": "2019-07-26 03:11:58",
     "許可證字號": "衛署藥輸字第020554號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/07\/25",
-    "發證日期": "83\/07\/25",
+    "有效日期": "113\/07\/25",
+    "發證日期": "108\/05\/22",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
@@ -17,21 +17,21 @@
     "適應症": "預防狹心症發作。",
     "劑型": "121持續性藥效錠",
     "包裝": "2-1000粒塑膠瓶裝(HDPE)",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "06須由醫師處方使用",
-    "主成分略述": [
-        "ISOSORBIDE5-MONONITRATE"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "1225201100  裕利股份有限公司",
+    "藥品類別": "06須由醫師處方使用",
+    "主成分略述": "ISOSORBIDE 5-MONONITRATE",
     "主製造廠": {
+        "申請商名稱": "1225201100  裕利股份有限公司",
+        "申請商地址": "台北市松山區南京東路四段126號10樓，10樓之1-3",
         "主製造廠": "",
-        "製造廠名稱": "F420022000  ASTRAZENECA AB",
-        "製造廠廠址": "S-151 85 SODERTALJE  SWEDEN",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠名稱": "FSE0022000  ASTRAZENECA AB"
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -44,29 +44,33 @@
         }
     ],
     "藥物辨識詳細資料": {
-        "外觀尺寸": "",
+        "外觀尺寸": "橢圓形7*13mm",
         "特殊劑型": "",
-        "顏色": "淡黃",
+        "顏色": "黃色",
         "特殊氣味": "",
-        "刻痕": "",
-        "形狀": "橢圓形",
-        "標記一": "A,ID",
+        "刻痕": "有",
+        "形狀": "",
+        "標記一": "",
         "標記二": ""
     },
     "藥物辨識外觀圖片": [
         {
             "title": "Imdur 60mg-tab-104-10-16(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020554&Seq=428&Type=10"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020554&Seq=428&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "020205540011.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020554&Seq=012&Type=9"
+            "title": "PS09165-A01-106-12-07(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020554&Seq=013&Type=9"
         },
         {
-            "title": "PS03155-Imdur carton-104-09-25(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020554&Seq=001&Type=8"
+            "title": "020205540011.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020554&Seq=012&Type=9"
+        },
+        {
+            "title": "PS09168-A01-106-12-07(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020554&Seq=002&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "01038282",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01038282",
-    "time": "2017-01-27 03:26:48",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01038282",
+    "time": "2019-07-26 03:01:10",
     "許可證字號": "衛署藥製字第038282號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,44 +17,52 @@
     "適應症": "一般外用消毒劑、可當作初步傷口處理。",
     "劑型": "370外用液劑",
     "包裝": "4000公撮以下塑膠瓶裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "17醫師藥師藥劑生指示藥",
-    "主成分略述": [
-        "CHLORHEXIDINEGLUCONATE,CETRIMIDE"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "01國　產 09委託製造",
-    "申請商名稱": "6401106952  英屬維京群島商沙威隆國際股份有限公司台灣分公司",
+    "藥品類別": "17醫師藥師藥劑生指示藥",
+    "主成分略述": "20% CHLORHEXIDINE GLUCONATE SOLUTION, CETRIMIDE SOLUTION 40%",
     "主製造廠": {
+        "申請商名稱": "6211012623  永好健康事業有限公司",
+        "申請商地址": "基隆市中正區義一路61號5樓",
         "主製造廠": "",
-        "製造廠名稱": "2001304300  寶齡富錦生技股份有限公司平鎮廠",
-        "製造廠廠址": "桃園市平鎮區興隆路２６６號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠名稱": "2001304300  寶齡富錦生技股份有限公司平鎮廠"
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "5204900231",
-            "成分名稱": "CHLORHEXIDINE GLUCONATE",
-            "含量描述": "0.3",
-            "含量": "0.3000000000",
-            "單位": "%(W\/V"
+            "成分代碼": "5204900234",
+            "成分名稱": "20% CHLORHEXIDINE GLUCONATE SOLUTION",
+            "含量描述": "",
+            "含量": "15.9000000000",
+            "單位": "MG"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8404601080",
-            "成分名稱": "CETRIMIDE",
-            "含量描述": "3",
-            "含量": "3.0000000000",
-            "單位": "%(W\/V"
+            "成分代碼": "8404601085",
+            "成分名稱": "CETRIMIDE SOLUTION 40%",
+            "含量描述": "",
+            "含量": "75.0000000000",
+            "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
-            "title": "010382820002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038282&Seq=002&Type=9"
+            "title": "沙威隆消毒藥水_仿單及外盒-108-06-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038282&Seq=003&Type=9"
+        },
+        {
+            "title": "010382820002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038282&Seq=002&Type=9"
+        },
+        {
+            "title": "沙威隆消毒藥水_仿單及外盒-108-06-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038282&Seq=001&Type=8"
         }
     ]
 }

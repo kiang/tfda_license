@@ -1,7 +1,7 @@
 {
     "code": "52027087",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52027087",
-    "time": "2019-05-24 03:39:41",
+    "time": "2019-07-26 03:03:19",
     "許可證字號": "衛部藥輸字第027087號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,21 +17,31 @@
     "適應症": "治療18歲(含)以上成人，患有對ceftolozane與tazobactam具感受性的致病菌所引起的以下感染症[參見臨床藥理\r\n學:\r\n1.1 複雜性腹內感染，需與metronidazole併用。\r\n1.2 複雜性泌尿道感染，包括腎盂腎炎",
     "劑型": "240乾粉注射劑",
     "包裝": "1.5g玻璃小瓶裝 1-100支盒裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "05限由醫師使用",
-    "主成分略述": [
-        "CeftolozaneSulfate,TAZOBACTAM(ASSODIUM)"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "02輸　入 5F免除銜接性試驗",
-    "申請商名稱": "0929301100  美商默沙東藥廠股份有限公司台灣分公司",
+    "藥品類別": "05限由醫師使用",
+    "主成分略述": "Ceftolozane Sulfate, TAZOBACTAM (AS SODIUM)",
     "主製造廠": {
+        "申請商名稱": "0929301100  美商默沙東藥廠股份有限公司台灣分公司",
+        "申請商地址": "台北市信義區信義路五段106號12樓",
         "主製造廠": "",
-        "製造廠名稱": "FUS0916000  Steri-Pharma, LLC",
-        "製造廠廠址": "429 S. West Street, Syracuse, NY 13202 USA",
-        "製造廠公司地址": ""
+        "製造廠名稱": "FUS0916000  Steri-Pharma, LLC"
     },
     "CCC號列": "",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "FFR0054300  LABORATOIRES MERCK SHARP &amp; DOHME-CHIBRET",
+            "製造廠廠址": "ROUTE DE MARSAT 63203 RIOM, FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": "二級包裝廠"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -52,24 +62,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "20190226_QRD_Zerbaxa_Chi_cIAI _TFDA_clean-108-03-07.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027087&Seq=002&Type=9"
+            "title": "20190605_QRD_Zerbaxa_Chi_cIAI-108-06-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027087&Seq=003&Type=9"
         },
         {
-            "title": "020270870001-106-07-24.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027087&Seq=001&Type=9"
+            "title": "Zerbaxa_Steri carton-108-06-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027087&Seq=006&Type=8"
         },
         {
-            "title": "Zerbaxa carton-108-04-01(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027087&Seq=003&Type=8"
+            "title": "Zerbaxa_Mirabel_Carton-108-06-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027087&Seq=005&Type=8"
         },
         {
-            "title": "020270870001-106-07-24.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027087&Seq=002&Type=8"
-        },
-        {
-            "title": "020270870001-106-07-24.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027087&Seq=001&Type=8"
+            "title": "Zerbaxa Label-108-06-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027087&Seq=004&Type=8"
         }
     ]
 }
