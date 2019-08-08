@@ -1,7 +1,7 @@
 {
     "code": "06017878",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06017878",
-    "time": "2018-04-27 03:40:40",
+    "time": "2019-08-09 03:06:32",
     "許可證字號": "衛署醫器輸字第017878號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,66 +15,37 @@
     "中文品名": "亞培臨床生化整合晶片技術血清校正劑",
     "英文品名": "ABBOTT Clinical Chemistry ICT Serum Calibrator",
     "效能": "用於血清中鈉，鉀和氯分析的校正。",
-    "醫器規格": "#1E46-03",
+    "醫器規格": "#1E46-03\r\n規格變更：刪除適用機型Aeroset System 。",
     "劑型": "",
     "包裝": "",
-    "標籤、仿單及包裝加註": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "A臨床化學及臨床毒理學",
-    "醫器次類別一": "A1150校正品",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "0932301100  美商亞培股份有限公司台灣分公司",
+    "醫器主類別三": "",
+    "主成分略述": "",
     "主製造廠": {
+        "申請商名稱": "0932301100  美商亞培股份有限公司台灣分公司",
+        "申請商地址": "台北市中山區民生東路三段49號5樓、6樓及51號6樓",
         "主製造廠": "",
-        "製造廠名稱": "M462970000  FISHER DIAGNOSTICS, A DIVISION OF FISHER SCIENTIFIC COMPANY, LLC, A PART OF THERMO FISHER SCIENTIFIC INC.",
-        "製造廠廠址": "8365 VALLEY PIKE, MIDDLETOWN, VA 22645, USA",
-        "製造廠公司地址": "",
+        "製造廠名稱": "MUS2970000  FISHER DIAGNOSTICS, A DIVISION OF FISHER SCIENTIFIC COMPANY, LLC, A PART OF THERMO FISHER SCIENTIFIC INC.",
         "": ""
     },
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "06017878-2012-01-13.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017878&Seq=006&Type=9"
+            "title": "060178780006-108-07-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017878&Seq=007&Type=9"
         },
         {
-            "title": "060178780005.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017878&Seq=005&Type=9"
-        },
-        {
-            "title": "060178780004.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017878&Seq=004&Type=9"
-        },
-        {
-            "title": "060178780003.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017878&Seq=003&Type=9"
-        },
-        {
-            "title": "060178780002.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017878&Seq=002&Type=9"
-        },
-        {
-            "title": "060178780001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017878&Seq=001&Type=9"
-        },
-        {
-            "title": "060178780003.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017878&Seq=003&Type=8"
-        },
-        {
-            "title": "060178780002.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017878&Seq=002&Type=8"
-        },
-        {
-            "title": "060178780001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017878&Seq=001&Type=8"
+            "title": "060178780006-108-07-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017878&Seq=004&Type=8"
         }
     ]
 }

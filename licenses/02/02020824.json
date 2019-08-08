@@ -1,41 +1,41 @@
 {
     "code": "02020824",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02020824",
-    "time": "2017-05-26 03:36:12",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02020824",
+    "time": "2019-08-09 03:12:54",
     "許可證字號": "衛署藥輸字第020824號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/10\/17",
-    "發證日期": "84\/02\/21",
+    "有效日期": "113\/10\/17",
+    "發證日期": "108\/07\/11",
     "許可證種類": "製　劑",
     "舊證字號": "02011859",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00202082402",
     "中文品名": "迷你寧注射劑",
     "英文品名": "MINIRIN SOLUTION FOR INJECTION 4MCG\/ML",
-    "適應症": "中樞性尿崩症、本劑可能增加輕度及中度血友病患第八因子濃度",
+    "適應症": "1.\t中樞性尿崩症\r\n2.\t本劑可能增加輕度及中度血友病患第八因子濃度\r\n3.\t藥物導致的血小板功能障礙",
     "劑型": "270注射劑",
-    "包裝": "安瓿 盒裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "05限由醫師使用",
-    "主成分略述": [
-        "DESMOPRESSINACETATETRIHYDRATE"
+    "包裝": "1公撮安瓿裝，100支以下盒裝",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "1509801100  輝凌藥品股份有限公司",
+    "藥品類別": "05限由醫師使用",
+    "主成分略述": "DESMOPRESSIN ACETATE",
     "主製造廠": {
+        "申請商名稱": "1509801100  輝凌藥品股份有限公司",
+        "申請商地址": "台北市中山區松江路111號11樓",
         "主製造廠": "",
-        "製造廠名稱": "F470233000  FERRING  GMBH",
-        "製造廠廠址": "WITTLAND 11, D-24109 KIEL  GERMANY",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠名稱": "FDE0233000  FERRING  GMBH"
     },
-    "CCC號列": "30043900005 醫藥製劑，含有其他內分泌素者Medicaments, containing other hormones",
+    "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "F390021200  ZUELLIG PHARMA SPECIALTY SOLUTIONS GROUP PTE. LTD.",
+            "製造廠名稱": "FSG0021200  ZUELLIG PHARMA SPECIALTY SOLUTIONS GROUP PTE. LTD.",
             "製造廠廠址": "15 CHANGI NORTH WAY #01-02, #02-02, #02-10, SINGAPORE 498770",
             "製造廠公司地址": "",
             "製造廠國別": "SINGAPORE",
@@ -45,29 +45,49 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "6828000215",
-            "成分名稱": "DESMOPRESSIN ACETATE TRIHYDRATE",
+            "成分代碼": "6828000210",
+            "成分名稱": "DESMOPRESSIN ACETATE",
             "含量描述": "4",
             "含量": "4.0000000000",
-            "單位": "MCG"
+            "單位": "ug"
+        }
+    ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "透明無色",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "020208240001-104-09-22(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020824&Seq=001&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "迷你寧注射劑_仿單-106-03-08.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020824&Seq=004&Type=9"
+            "title": "Minirin injection 中文仿單-107-01-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020824&Seq=005&Type=9"
         },
         {
             "title": "迷你寧注射劑_仿單-106-03-08.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020824&Seq=003&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020824&Seq=004&Type=9"
+        },
+        {
+            "title": "迷你寧注射劑_仿單-106-03-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020824&Seq=003&Type=9"
         },
         {
             "title": "迷你寧注射劑-標籤-106-03-08.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020824&Seq=004&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020824&Seq=004&Type=8"
         },
         {
             "title": "迷你寧注射劑-外盒-106-03-08.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020824&Seq=003&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02020824&Seq=003&Type=8"
         }
     ]
 }

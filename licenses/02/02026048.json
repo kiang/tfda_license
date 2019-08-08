@@ -1,7 +1,7 @@
 {
     "code": "02026048",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02026048",
-    "time": "2018-08-31 04:26:49",
+    "time": "2019-08-09 03:04:14",
     "許可證字號": "衛署藥輸字第026048號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,21 +17,31 @@
     "適應症": "高血壓。",
     "劑型": "116膜衣錠",
     "包裝": "2-1000粒AL-AL鋁箔盒裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "06須由醫師處方使用",
-    "主成分略述": [
-        "LOSARTANPOTASSIUM,HYDROCHLOROTHIAZIDE(EQTO3,4-DIHYDROCHLOROTHIAZIDE)"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "02輸　入 24監視期滿學名藥",
-    "申請商名稱": "0924601100  台灣諾華股份有限公司",
+    "藥品類別": "06須由醫師處方使用",
+    "主成分略述": "LOSARTAN POTASSIUM, HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZIDE)",
     "主製造廠": {
+        "申請商名稱": "0924601100  台灣諾華股份有限公司",
+        "申請商地址": "台北市中正區仁愛路二段99號11、12、13樓",
         "主製造廠": "",
-        "製造廠名稱": "F530003000  LEK PHARMACEUTICALS D.D",
-        "製造廠廠址": "VEROVSKOVA 57, SL-1526 LJUBLJANA, SLOVENIA",
-        "製造廠公司地址": ""
+        "製造廠名稱": "FSI0003000  LEK PHARMACEUTICALS D.D"
     },
     "CCC號列": "",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "FSI0005000  LEK PHARMACEUTICALS D.D. PACKAGING CENTER LENDAVA",
+            "製造廠廠址": "TRIMLINI 2D, SI-9220 LENDAVA, SLOVENIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "SLOVENIA",
+            "製程": "分包裝廠"
+        }
+    ],
     "ingredients": [
         {
             "成分類別": "主成分",
@@ -48,6 +58,20 @@
             "含量描述": "",
             "含量": "12.5000000000",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "LOSARTAN COMP FCT_46214093_1_仿單_TW_TWI-270917-107-09-21(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02026048&Seq=001&Type=9"
+        },
+        {
+            "title": "LOSARTAN COMP FCT_46226443_1_外盒_TW-107-09-21(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02026048&Seq=002&Type=8"
+        },
+        {
+            "title": "LOSARTAN COMP FCT_46214864_1_鋁箔_TW-107-09-21(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02026048&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "05003133",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05003133",
-    "time": "2017-05-26 03:38:51",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05003133",
+    "time": "2019-08-09 03:05:56",
     "許可證字號": "衛署醫器製字第003133號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,42 +15,49 @@
     "中文品名": "法舒洛透析用水之淨化系統",
     "英文品名": "Fasflo Water purification system For hemodialysis",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "GMP-800GPD, GMP-6000GPD, GMP-9000GPD, GMP-12000GPD以下空白。規格變更：詳如中文仿單核定本(原99.11.18核准之仿單、標籤核定本予以回收作廢)。",
+    "醫器規格": "GMP-800GPD, GMP-6000GPD, GMP-9000GPD, GMP-12000GPD以下空白。規格變更：詳如中文仿單核定本(原99.11.18核准之仿單、標籤核定本予以回收作廢)。\r\n增加規格：GMP-18000GPD，以下空白。",
     "劑型": "",
     "包裝": "",
-    "標籤、仿單及包裝加註": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "H胃腸病學-泌尿學科用裝置",
-    "醫器次類別一": "H5665透析用水之淨化系統",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "01國　產 09委託製造",
-    "申請商名稱": "0827401100  佳醫健康事業股份有限公司",
+    "醫器主類別三": "",
+    "主成分略述": "",
     "主製造廠": {
+        "申請商名稱": "0827401100  佳醫健康事業股份有限公司",
+        "申請商地址": "新北市中和區中正路880號17樓",
         "主製造廠": "",
         "製造廠名稱": "6137011218  宇廣科技股份有限公司",
-        "製造廠廠址": "彰化縣彰化市彰南路四段414巷23號",
-        "製造廠公司地址": "",
         "": ""
     },
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "050031330001-108-07-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003133&Seq=003&Type=9"
+        },
+        {
             "title": "05003133___20110822.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003133&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003133&Seq=002&Type=9"
         },
         {
             "title": "050031330002___20101207.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003133&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003133&Seq=001&Type=9"
         },
         {
-            "title": "050031330001___20101207.JPG",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003133&Seq=001&Type=8"
+            "title": "050031330002-108-07-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003133&Seq=002&Type=8"
+        },
+        {
+            "title": "050031330001___20101207.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003133&Seq=001&Type=8"
         }
     ]
 }

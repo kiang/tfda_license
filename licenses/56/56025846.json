@@ -1,7 +1,7 @@
 {
     "code": "56025846",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025846",
-    "time": "2019-04-26 04:12:27",
+    "time": "2019-08-09 03:08:17",
     "許可證字號": "衛部醫器輸字第025846號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,39 +14,38 @@
     "通關簽審文件編號": "DHA05602584607",
     "中文品名": "亞培臨床生化天門冬氨酸轉胺酶(活化)檢驗試劑組",
     "英文品名": "ABBOTT Clinical Chemistry Activated Aspartate Aminotransferase",
-    "效能": "本產品係搭配AEROSET system及ARCHITECT c system (c4000, c8000, c16000)使用，定量檢測人類血清或血漿中的天門冬氨酸轉胺酶。",
-    "醫器規格": "8L91-21、8L91-41。",
+    "效能": "本產品係搭配AEROSET system及ARCHITECT c system (c4000, c8000, c16000)使用，定量檢測人類血清或血漿中的天門冬氨酸轉胺酶。效能變更：刪除搭配機型AEROSET system.",
+    "醫器規格": "8L91-21、8L91-41。\r\n中文標籤仿單(新增干擾物質說明)變更：\r\n詳如中文仿單核定本(原103年4月11日中文標籤仿單核定本收回作廢)。",
     "劑型": "",
     "包裝": "",
-    "標籤、仿單及包裝加註": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "A臨床化學及臨床毒理學",
-    "醫器次類別一": "A1100天門冬胺酸轉移?試驗系統",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入 09委託製造",
-    "申請商名稱": "0932301100  美商亞培股份有限公司台灣分公司",
+    "醫器主類別三": "",
+    "主成分略述": "",
     "主製造廠": {
+        "申請商名稱": "0932301100  美商亞培股份有限公司台灣分公司",
+        "申請商地址": "台北市中山區民生東路三段49號5樓、6樓及51號6樓",
         "主製造廠": "",
-        "製造廠名稱": "M462970000  FISHER DIAGNOSTICS, A DIVISION OF FISHER SCIENTIFIC COMPANY, LLC, A PART OF THERMO FISHER SCIENTIFIC INC.",
-        "製造廠廠址": "8365 VALLEY PIKE, MIDDLETOWN, VA 22645, USA",
-        "製造廠公司地址": "",
+        "製造廠名稱": "MUS2970000  FISHER DIAGNOSTICS, A DIVISION OF FISHER SCIENTIFIC COMPANY, LLC, A PART OF THERMO FISHER SCIENTIFIC INC.",
         "": ""
     },
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "560258460001-103-10-14.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025846&Seq=001&Type=9"
+            "title": "560258460002-108-08-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025846&Seq=002&Type=9"
         },
         {
-            "title": "560258460002-103-10-14.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025846&Seq=001&Type=8"
+            "title": "560258460002-108-08-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025846&Seq=002&Type=8"
         }
     ]
 }

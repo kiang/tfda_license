@@ -1,7 +1,7 @@
 {
     "code": "72000021",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=72000021",
-    "time": "2019-03-22 03:46:48",
+    "time": "2019-08-09 03:05:38",
     "許可證字號": "衛部罕菌疫輸字第000021號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,48 +14,49 @@
     "通關簽審文件編號": "DHA07200002102",
     "中文品名": "保優利125微克筆型注射液",
     "英文品名": "Plegridy 125mcg solution for injection",
-    "適應症": "復發型-緩解型多發性硬化症。(近兩年內曾有兩次或兩次以上急性復發的情況)。",
+    "適應症": "治療復發型-緩解型多發性硬化症。",
     "劑型": "27D注射液劑",
     "包裝": "0.5毫升預充式注射筆 100支以下盒裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "05限由醫師使用",
-    "主成分略述": [
-        "peginterferonbeta-1a"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "02輸　入 5F免除銜接性試驗",
-    "申請商名稱": "0407901100  衛采製藥股份有限公司",
+    "藥品類別": "05限由醫師使用",
+    "主成分略述": "peginterferon beta-1a",
     "主製造廠": {
+        "申請商名稱": "0407901100  衛采製藥股份有限公司",
+        "申請商地址": "台北市長安東路一段十八號九樓",
         "主製造廠": "",
-        "製造廠名稱": "F470267600  VETTER PHARMA - FERTIGUNG GMBH &amp; CO. KG",
-        "製造廠廠址": "SCHUTZENSTRABE 87 AND 99-101 88212 RAVENSBURG, GERMANY",
-        "製造廠公司地址": ""
+        "製造廠名稱": "FDE0267600  VETTER PHARMA - FERTIGUNG GMBH &amp; CO. KG"
     },
     "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "F110047100  BIOGEN DENMARK MANUFACTURING APS",
+            "製造廠名稱": "FDK0047100  BIOGEN DENMARK MANUFACTURING APS",
             "製造廠廠址": "BIOGEN ALLE 1, DK-3400 HILLEROD, DENMARK",
             "製造廠公司地址": "",
             "製造廠國別": "DENMARK",
             "製程": "包裝"
         },
         {
-            "製造廠名稱": "F170116000  BIOGEN NETHERLANDS B.V.",
+            "製造廠名稱": "FNL0116000  BIOGEN NETHERLANDS B.V.",
             "製造廠廠址": "PRINS MAURITSLAAN 13, 1171 LP BADHOEVEDORP, THE NETHERLANDS",
             "製造廠公司地址": "",
             "製造廠國別": "NETHERLANDS",
             "製程": "許可證持有者"
         },
         {
-            "製造廠名稱": "F460785000  BIOGEN INC.",
+            "製造廠名稱": "FUS0785000  BIOGEN INC.",
             "製造廠廠址": "5000 DAVIS DRIVE, RESEARCH TRIANGLE PARK, NORTH CAROLINA 27709, USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
             "製程": "原料藥製造廠"
         },
         {
-            "製造廠名稱": "F461032000  BIOGEN INC.",
+            "製造廠名稱": "FUS1032000  BIOGEN INC.",
             "製造廠廠址": "250 BINNEY STREET, CAMBRIDGE, MA 02142, USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
@@ -74,12 +75,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "衛部罕菌疫輸字第000021號_保優利125微克筆型注射液_仿單-107-04-13.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=72000021&Seq=002&Type=9"
+            "title": "中文PIL_TW-PL-ET-18J01_PIL Plegridy-CN_20190627-108-07-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=72000021&Seq=004&Type=9"
         },
         {
-            "title": "衛部罕菌疫輸字第000021號_保優利125微克筆型注射液_標籤、外盒-107-04-13.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=72000021&Seq=002&Type=8"
+            "title": "中文PI_TW-PL-ET-18J01_PI Plegridy-CN-108-07-02.PDF",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=72000021&Seq=003&Type=9"
+        },
+        {
+            "title": "MOCK-UP CARTON_2PK_PLEGRIDY_LIQ_125MCG_PF_PEN_KIT_TWN_P3-108-07-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=72000021&Seq=004&Type=8"
+        },
+        {
+            "title": "MOCK-UP LABEL PEN PLEGRIDY PF_PEN LIQ 125MCG TWN_P1_T-108-07-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=72000021&Seq=003&Type=8"
         }
     ]
 }
