@@ -1,7 +1,7 @@
 {
     "code": "52026391",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026391",
-    "time": "2015-08-23 13:46:05",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026391",
+    "time": "2019-09-06 03:13:43",
     "許可證字號": "衛部藥輸字第026391號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,21 +17,19 @@
     "適應症": "高血壓、治療第II型糖尿病腎病變。",
     "劑型": "116膜衣錠",
     "包裝": "2-1000錠PTP 鋁箔盒裝",
-    "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "LOSARTAN POTASSIUM",
-    "限制項目": [
-        "02輸入",
-        "24監視期滿學名藥"
+    "": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": [
+        ""
     ],
-    "申請商名稱": "620102K944  香港商艾維斯有限公司台灣分公司",
-    "申請商地址": "台北市中正區忠孝東路二段116號10樓",
+    "藥品類別": "06須由醫師處方使用",
+    "主成分略述": "LOSARTAN POTASSIUM",
     "主製造廠": {
-        "製造廠名稱": "F190010100  TEVA PHARMACEUTICAL WORKS PRIVATE LIMITED COMPANY",
-        "製造廠廠址": "PALLAGI UT 13 HUNGARY – 4042 DEBRECEN",
-        "製造廠公司地址": "",
-        "製造廠國別": "HUNGARY",
-        "製程": ""
+        "申請商名稱": "620102K944  香港商艾維斯有限公司台灣分公司",
+        "申請商地址": "台北市中正區忠孝東路二段116號10樓",
+        "主製造廠": "",
+        "製造廠名稱": "FHU0010100  TEVA PHARMACEUTICAL WORKS PRIVATE LIMITED COMPANY"
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -45,18 +43,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "裸錠",
+        "顏色": "白色",
+        "特殊氣味": "",
+        "刻痕": "有",
+        "形狀": "圓凸形",
+        "標記一": "50",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "020263910004-picture-104-10-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026391&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "020263910003-103-10-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026391&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026391&Seq=001&Type=9"
         },
         {
             "title": "020263910002-103-10-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026391&Seq=002&Type=8"
-        },
-        {
-            "title": "020263910001-103-10-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026391&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026391&Seq=002&Type=8"
         }
     ]
 }

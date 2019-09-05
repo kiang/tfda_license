@@ -1,7 +1,7 @@
 {
     "code": "58025835",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58025835",
-    "time": "2018-11-30 03:33:06",
+    "time": "2019-09-06 03:08:54",
     "許可證字號": "衛部粧輸字第025835號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,25 +12,25 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA05802583505",
-    "中文品名": "美芯研 奢華乳液染髮劑 奶茶棕 第1劑、第2劑",
-    "英文品名": "Beautylabo Hair Color MB, Beautylabo Hair Color Developer",
+    "中文品名": "美芯研 時尚妝感染髮劑 薰衣草甜紫 第1劑、第2劑。",
+    "英文品名": "Beautylabo Hair Color 7TL, Beautylabo Hair Color Developer。",
     "用途": "染髮。",
     "劑型": "982膏劑＋液劑",
     "包裝": "500公克以下鋁管裝 500毫升以下瓶裝附外盒",
-    "標籤、仿單及包裝加註": "",
-    "化粧品類別": "",
-    "主成分略述": [
-        "AmmoniumHydroxide,HYDROGENPEROXIDE,RESORCINOL(RESORCIN),P-AMINOPHENOL,TOLUENE-2,5-DIAMINE"
-    ],
-    "限制項目": "",
-    "申請商名稱": "6628711522  台灣朋友化粧品股份有限公司",
-    "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "C260293000  SETO FACTORY OF HOYU CO., LTD.",
-        "製造廠廠址": "106-2, YAMANOTA-CHO, SETO-SHI, AICHI-KEN, JAPAN",
-        "製造廠公司地址": ""
-    },
     "": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": [
+        ""
+    ],
+    "化粧品類別": "",
+    "主成分略述": "Ammonium Hydroxide, HYDROGEN PEROXIDE, RESORCINOL (RESORCIN), m-Aminophenol, 4-AMINO-2-HYDROXYTOLUENE, 2,4-DIAMINOPHENOXYETHANOL HCL, TOLUENE-2,5-DIAMINE",
+    "主製造廠": {
+        "申請商名稱": "6628711522  台灣朋友化粧品股份有限公司",
+        "申請商地址": "台北市中山區民權西路70號4樓之1",
+        "主製造廠": "",
+        "製造廠名稱": "CJP0293000  SETO FACTORY OF HOYU CO., LTD."
+    },
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -38,7 +38,7 @@
             "成分代碼": "2820000161",
             "成分名稱": "Ammonium Hydroxide",
             "含量描述": "",
-            "含量": "4.0300000000",
+            "含量": "4.6100000000",
             "單位": "%(W\/W)"
         },
         {
@@ -51,10 +51,26 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035440",
-            "成分名稱": "P-AMINOPHENOL",
+            "成分代碼": "9200035470",
+            "成分名稱": "m-Aminophenol",
             "含量描述": "",
-            "含量": "0.0500000000",
+            "含量": "0.1000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "0.1600000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9400003830",
+            "成分名稱": "2,4-DIAMINOPHENOXYETHANOL HCL",
+            "含量描述": "",
+            "含量": "0.0600000000",
             "單位": "%(W\/W)"
         },
         {
@@ -62,7 +78,7 @@
             "成分代碼": "9400004300",
             "成分名稱": "TOLUENE-2,5-DIAMINE",
             "含量描述": "",
-            "含量": "0.2120000000",
+            "含量": "0.1325000000",
             "單位": "%(W\/W)"
         },
         {
@@ -76,8 +92,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "58025835-107-10-29.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58025835&Seq=001&Type=8"
+            "title": "58025835-108-08-29.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58025835&Seq=002&Type=8"
         }
     ]
 }

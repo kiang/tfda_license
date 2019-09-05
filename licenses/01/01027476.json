@@ -1,44 +1,43 @@
 {
     "code": "01027476",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01027476",
-    "time": "2015-08-22 22:58:57",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01027476",
+    "time": "2019-09-06 03:09:48",
     "許可證字號": "衛署藥製字第027476號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/11\/17",
+    "有效日期": "113\/11\/17",
     "發證日期": "72\/11\/17",
     "許可證種類": "製　劑",
     "舊證字號": "00000000",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102747607",
-    "中文品名": "保胃錠５００公絲",
+    "中文品名": "&quot;生達&quot;保胃錠５００公絲",
     "英文品名": "SCRAT TABLETS 500MG",
     "適應症": "胃潰瘍及十二指腸潰瘍",
     "劑型": "110錠劑",
-    "包裝": "瓶裝 盒裝",
-    "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "BASIC ALUMINUM SUCROSE SULFATE (SUCRALFATE)",
-    "限制項目": [
-        "01國產"
+    "包裝": "1000粒以下瓶裝 1000粒以下盒裝",
+    "": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": [
+        ""
     ],
-    "申請商名稱": "0510620200  生達化學製藥股份有限公司",
-    "申請商地址": "台南市新營區土庫里土庫6之20號",
+    "藥品類別": "06須由醫師處方使用",
+    "主成分略述": "SUCRALFATE",
     "主製造廠": {
-        "製造廠名稱": "0510620300  生達化學製藥股份有限公司",
-        "製造廠廠址": "台南市新營區土庫里土庫６－２０號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "申請商名稱": "0510620200  生達化學製藥股份有限公司",
+        "申請商地址": "台南市新營區土庫里土庫6之20號",
+        "主製造廠": "",
+        "製造廠名稱": "0510620300  生達化學製藥股份有限公司"
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "5640001900",
-            "成分名稱": "BASIC ALUMINUM SUCROSE SULFATE (SUCRALFATE)",
+            "成分代碼": "5626001300",
+            "成分名稱": "SUCRALFATE",
             "含量描述": "500",
             "含量": "500.0000000000",
             "單位": "MG"
@@ -56,8 +55,18 @@
     },
     "藥物辨識外觀圖片": [
         {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027476&Seq=173&Type=10"
+            "title": "01027476.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027476&Seq=173&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "Scrate 保胃錠-LT-未販售-104-12-09(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027476&Seq=001&Type=9"
+        },
+        {
+            "title": "Scrat Tab PTP-104-12-09(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027476&Seq=005&Type=8"
         }
     ]
 }

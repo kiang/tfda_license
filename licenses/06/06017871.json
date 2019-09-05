@@ -1,7 +1,7 @@
 {
     "code": "06017871",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06017871",
-    "time": "2017-06-16 03:34:06",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06017871",
+    "time": "2019-09-06 03:05:39",
     "許可證字號": "衛署醫器輸字第017871號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,78 +15,36 @@
     "中文品名": "亞培臨床生化膽紅素校正劑",
     "英文品名": "ABBOTT Clinical Chemistry Bilirubin Calibrator",
     "效能": "用於膽紅素分析之校正。",
-    "醫器規格": "#1E66-04CAL 1: 3 x 5 mLCAL 2: 3 x 5 mL",
+    "醫器規格": "#1E66-04CAL 1: 3 x 5 mLCAL 2: 3 x 5 mL。刪除適用機型AEROSET system及ALCYON 300\/300i system.中文標籤仿單(新增警語等)變更：詳如中文仿單核定本(原105年2月26日中文標籤仿單核定本收回作廢)。",
     "劑型": "",
     "包裝": "",
-    "標籤、仿單及包裝加註": "",
     "": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": "",
     "醫器主類別一": "A臨床化學及臨床毒理學",
-    "醫器次類別一": "A1150校正品",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "0932301100  美商亞培股份有限公司台灣分公司",
+    "醫器主類別三": "",
+    "主成分略述": "",
     "主製造廠": {
+        "申請商名稱": "0932301100  美商亞培股份有限公司台灣分公司",
+        "申請商地址": "台北市中山區民生東路三段49號5樓、6樓及51號6樓",
         "主製造廠": "",
-        "製造廠名稱": "M461106000  ABBOTT LABORATORIES DIAGNOSTICS DIVISION",
-        "製造廠廠址": "100 ABBOTT PARK ROAD, ABBOTT PARK, ILLINOIS 60064, U.S.A.",
-        "製造廠公司地址": "",
+        "製造廠名稱": "MUS1211400  MICROGENICS CORPORATION",
         "": ""
     },
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060178710009.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017871&Seq=009&Type=9"
+            "title": "060178710010-108-08-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017871&Seq=011&Type=9"
         },
         {
-            "title": "060178710008.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017871&Seq=008&Type=9"
-        },
-        {
-            "title": "060178710007.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017871&Seq=007&Type=9"
-        },
-        {
-            "title": "060178710006.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017871&Seq=006&Type=9"
-        },
-        {
-            "title": "060178710005.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017871&Seq=005&Type=9"
-        },
-        {
-            "title": "060178710004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017871&Seq=004&Type=9"
-        },
-        {
-            "title": "060178710003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017871&Seq=003&Type=9"
-        },
-        {
-            "title": "060178710002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017871&Seq=002&Type=9"
-        },
-        {
-            "title": "060178710001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017871&Seq=001&Type=9"
-        },
-        {
-            "title": "060178710003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017871&Seq=003&Type=8"
-        },
-        {
-            "title": "060178710002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017871&Seq=002&Type=8"
-        },
-        {
-            "title": "060178710001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017871&Seq=001&Type=8"
+            "title": "060178710010-108-08-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017871&Seq=005&Type=8"
         }
     ]
 }

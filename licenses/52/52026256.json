@@ -1,7 +1,7 @@
 {
     "code": "52026256",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026256",
-    "time": "2018-11-30 03:47:42",
+    "time": "2019-09-06 03:13:38",
     "許可證字號": "衛部藥輸字第026256號",
     "註銷狀態": "已註銷",
     "註銷日期": "107\/09\/10",
@@ -17,35 +17,36 @@
     "適應症": "用於治療成年人中度至重度類風濕關節炎伴隨晨間僵硬症狀者。",
     "劑型": "128緩釋錠",
     "包裝": "10-100錠塑膠瓶裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "06須由醫師處方使用",
-    "主成分略述": [
-        "PREDNISONE"
+    "": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "620117J924  台灣萌蒂藥品有限公司",
+    "藥品類別": "06須由醫師處方使用",
+    "主成分略述": "PREDNISONE",
     "主製造廠": {
+        "申請商名稱": "620117J924  台灣萌蒂藥品有限公司",
+        "申請商地址": "臺北市信義區松仁路32號14樓",
         "主製造廠": "",
-        "製造廠名稱": "F150331000  AENOVA FRANCE SAS",
-        "製造廠廠址": "Z.A. DE CHESNES OUEST 55 RUE DU MONTMURIER, BP 45 38291 ST-QUENTIN-FALLAVIER CEDEX FRANCE",
-        "製造廠公司地址": ""
+        "製造廠名稱": "FFR0331000  AENOVA FRANCE SAS"
     },
     "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "F150277100  SANOFI CHIMIE",
-            "製造廠廠址": "USINE DE PRODUCTION CHIMIQUE 63480 VERTOLAYE FRANCE",
-            "製造廠公司地址": "",
-            "製造廠國別": "FRANCE",
-            "製程": "原料藥製造廠"
-        },
-        {
-            "製造廠名稱": "F470576000  TEMMLER WERKE GMBH",
+            "製造廠名稱": "FDE0576000  TEMMLER WERKE GMBH",
             "製造廠廠址": "WEIHENSTEPHANERSTR. 28,81673 MUNCHEN,GERMANY",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
             "製程": "包裝"
+        },
+        {
+            "製造廠名稱": "FFR0277100  SANOFI CHIMIE",
+            "製造廠廠址": "USINE DE PRODUCTION CHIMIQUE 63480 VERTOLAYE FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": "原料藥製造廠"
         }
     ],
     "ingredients": [

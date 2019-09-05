@@ -1,7 +1,7 @@
 {
     "code": "07005204",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07005204",
-    "time": "2019-07-26 03:18:26",
+    "time": "2019-09-06 03:08:34",
     "許可證字號": "衛署粧製字第005204號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,23 +17,30 @@
     "用途": "防曬、美化膚色。",
     "劑型": "944乳劑",
     "包裝": "500g以下瓶裝 附外盒",
-    "儲存溫度": "",
+    "": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
+    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": [
         ""
     ],
     "化粧品類別": "0711防晒乳液",
-    "主成分略述": "OCTYL METHOXYCINNAMATE (PARSOL KCX), DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)",
+    "主成分略述": "OCTYL METHOXYCINNAMATE (PARSOL KCX), DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE",
     "主製造廠": {
         "申請商名稱": "5836091050  儷妍實業股份有限公司",
         "申請商地址": "台中市潭子區祥和路３５巷１２號",
         "主製造廠": "",
         "製造廠名稱": "5836091050  儷妍實業股份有限公司"
     },
-    "": "",
     "藥理治療分類": "",
     "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "",
+            "成分名稱": "",
+            "含量描述": "",
+            "含量": "6.0000000000",
+            "單位": "%(W\/W)"
+        },
         {
             "成分類別": "主成分",
             "成分代碼": "8480000520",
@@ -49,20 +56,12 @@
             "含量描述": "",
             "含量": "2.5000000000",
             "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9602020800",
-            "成分名稱": "TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)",
-            "含量描述": "",
-            "含量": "6.0000000000",
-            "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
         {
-            "title": "07005204-2009-08-27.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005204&Seq=001&Type=9"
+            "title": "07005204-108-08-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005204&Seq=001&Type=8"
         }
     ]
 }

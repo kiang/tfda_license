@@ -1,7 +1,7 @@
 {
     "code": "10000901",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000901",
-    "time": "2018-11-30 03:36:26",
+    "time": "2019-09-06 03:03:51",
     "許可證字號": "衛署菌疫輸字第000901號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,18 +17,19 @@
     "適應症": "預防流感。",
     "劑型": "275懸浮注射劑",
     "包裝": "0.5毫克針筒裝 100支以下盒裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "06須由醫師處方使用",
-    "主成分略述": [
-        "A\/Michigan\/45\/2015(H1N1)pdm09-likestrain(A\/Singapore\/GP1908\/2015,IVR-180),A\/HongKong\/4801\/2014(H3N2)-likestrain(A\/HongKong\/4801\/2014,NYMCX-263B),B\/Brisbane\/60\/2008-likestrain(B\/Brisbane\/60\/2008,wildtype)"
+    "": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "02輸　入 1Q不得輸入",
-    "申請商名稱": "6201125122  台灣東洋藥品工業股份有限公司",
+    "藥品類別": "06須由醫師處方使用",
+    "主成分略述": "A\/Michigan\/45\/2015 (H1N1)pdm09 - like strain (A\/Singapore\/GP1908\/2015, IVR-180), A\/Hong Kong\/4801\/2014 (H3N2)-like strain (A\/Hong Kong\/4801\/2014, NYMC X-263B), B\/Brisbane\/60\/2008-like strain (B\/Brisbane\/60\/2008, wild type)",
     "主製造廠": {
+        "申請商名稱": "6201125122  台灣東洋藥品工業股份有限公司",
+        "申請商地址": "台北市南港區園區街3之1號3樓",
         "主製造廠": "",
-        "製造廠名稱": "F250429000  GlaxoSmithKline Vaccines S.r.l.",
-        "製造廠廠址": "BELLARIA ROSIA 53018 SOVICILLE (SIENA), ITLAY",
-        "製造廠公司地址": ""
+        "製造廠名稱": "FGB0278000  Seqirus Vaccines Ltd."
     },
     "CCC號列": "30022000008 人類醫藥用疫苗Vaccines for human medicine",
     "藥理治療分類": "",
@@ -41,18 +42,11 @@
             "製程": "貼標廠"
         },
         {
-            "製造廠名稱": "F130278000  Seqirus Vaccines Ltd.",
-            "製造廠廠址": "GASKILL ROAD, SPEKE, LIVERPOOL, MERSEYSIDE, L24 9GR, UNITED KINGDOM",
+            "製造廠名稱": "FBE0068000  CATALENT BELGIUM S.A.",
+            "製造廠廠址": "FONT SAINT LANDRY, 10 1120 BRUSSELS, BELGIUM",
             "製造廠公司地址": "",
-            "製造廠國別": "UNITED KINGDOM",
-            "製程": "bulk"
-        },
-        {
-            "製造廠名稱": "F250417000  GlaxoSmithKline Vaccines S.r.l.",
-            "製造廠廠址": "VIA FIORENTINA, 1 53100 SIENA, ITALY",
-            "製造廠公司地址": "",
-            "製造廠國別": "ITALY",
-            "製程": "bulk"
+            "製造廠國別": "BELGIUM",
+            "製程": "填充、包裝"
         }
     ],
     "ingredients": [

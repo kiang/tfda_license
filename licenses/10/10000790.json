@@ -1,7 +1,7 @@
 {
     "code": "10000790",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000790",
-    "time": "2019-02-22 03:49:25",
+    "time": "2019-09-06 03:03:44",
     "許可證字號": "衛署菌疫輸字第000790號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,41 +17,42 @@
     "適應症": "Herceptin應使用於下列HER2過度表現或HER2基因amplification之早期乳癌、轉移性乳癌患者：1.早期乳癌(EBC)：(1)經外科手術、化學療法(術前或術後)之輔助療法。(2)以doxorubicin與cyclophosphamide治療，再合併pactlitaxel或docetaxel之輔助療法。(3)與docetaxel及carboplatin併用之輔助療法。(4)術前與化學療法併用和術後之輔助療法使用於治療局部晚期(包括炎症)乳癌或腫瘤(直徑>2厘米)。2.轉移性乳癌(MBC)：(1)單獨使用於曾接受過一次(含)以上化學療法之轉移性乳癌；除非患者不適合使用anthracyclin或taxane，否則先前之化學治療應至少包括anthracyclin或taxane。使用於荷爾蒙療法失敗之荷爾蒙受體陽性之患者，除非患者不適用荷爾蒙療法。(2)與pactlitaxel或docetaxel併用於未曾接受過化學療法之轉移性乳癌。(3)與芳香環酶抑制劑併用於荷爾蒙受體陽性之轉移性乳癌。3.轉移性胃癌(MGC)：Herceptin合併capecitabine(或5-fluorouracil)及cisplatin適用於未曾接受過化學治療之HER2過度表現轉移性胃腺癌(或胃食道接合處腺癌)的治療。",
     "劑型": "243凍晶注射劑",
     "包裝": "小瓶 100支以下盒裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "05限由醫師使用",
-    "主成分略述": [
-        "TRASTUZUMAB"
+    "": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "1Q不得輸入",
-    "申請商名稱": "1901701100  羅氏大藥廠股份有限公司",
+    "藥品類別": "05限由醫師使用",
+    "主成分略述": "TRASTUZUMAB",
     "主製造廠": {
+        "申請商名稱": "1901701100  羅氏大藥廠股份有限公司",
+        "申請商地址": "台北市信義區松仁路100號40樓、40樓之1、41樓之1",
         "主製造廠": "",
-        "製造廠名稱": "F460767100  GENENTECH INC.",
-        "製造廠廠址": "4625 NE BROOKWOOD PARKWAY, HILLSBORO OREGON, 97124 USA",
-        "製造廠公司地址": ""
+        "製造廠名稱": "FDE0261000  ROCHE DIAGNOSTICS GMBH"
     },
     "CCC號列": "30049071005 抗癌藥Anti-cancer preparations",
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "F390030000  Roche Singapore Technical Operations Pte.Ltd.",
-            "製造廠廠址": "10 Tuas Bay Link, 637394 Singapore",
-            "製造廠公司地址": "",
-            "製造廠國別": "SINGAPORE",
-            "製程": "原料藥製造廠"
-        },
-        {
-            "製造廠名稱": "F430257000  F. HOFFMANN-LA ROCHE LTD.",
+            "製造廠名稱": "FCH0257000  F. HOFFMANN-LA ROCHE LTD.",
             "製造廠廠址": "WURMISWEG, CH-4303 KAISERAUGST, SWITZERLAND",
             "製造廠公司地址": "",
             "製造廠國別": "SWITZERLAND",
             "製程": "二級包裝廠"
         },
         {
-            "製造廠名稱": "F470343000  ROCHE DIAGNOSTICS GMBH",
+            "製造廠名稱": "FDE0343000  ROCHE DIAGNOSTICS GMBH",
             "製造廠廠址": "NONNENWALD 2, D-82377 PENZBERG, GERMANY",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
+            "製程": "原料藥製造廠"
+        },
+        {
+            "製造廠名稱": "FSG0030000  Roche Singapore Technical Operations Pte.Ltd.",
+            "製造廠廠址": "10 Tuas Bay Link, 637394 Singapore",
+            "製造廠公司地址": "",
+            "製造廠國別": "SINGAPORE",
             "製程": "原料藥製造廠"
         }
     ],
