@@ -1,12 +1,12 @@
 {
     "code": "08013540",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08013540",
-    "time": "2015-12-25 04:55:52",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08013540",
+    "time": "2019-10-04 03:16:00",
     "許可證字號": "衛署粧輸字第013540號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/10\/18",
+    "有效日期": "113\/06\/30",
     "發證日期": "95\/10\/18",
     "許可證種類": "含藥化粧品",
     "舊證字號": "",
@@ -17,22 +17,20 @@
     "用途": "染髮。",
     "劑型": "984乳膏劑",
     "包裝": "500ML以下鋁管裝 附外盒裝",
-    "化粧品類別": "0110染髮劑",
     "": "",
-    "主成分略述": "AMMONIA WATER (AMMONIUM HYDROXIDE), RESORCINOL (RESORCIN), 1-NAPHTHOL, AMINOPHENOL META- (EQ TO M-AMINOPHENOL), P-AMINOPHENOL, P-PHENYLENEDIAMINE, 2-NITRO-P-PHENYLENEDIAMINE, TOLUENE-2,5-DIAMINE SULFATE, N,N-BIS(2-HYDROXYETHYL)-P-PHENYLENEDIAMINE SULFATE",
-    "限制項目": [
-        "02輸入"
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": [
+        ""
     ],
-    "申請商名稱": "0714402100  沈默是金開發企業有限公司",
-    "申請商地址": "新北市五股區四維路86號9樓",
+    "化粧品類別": "0110染髮劑",
+    "主成分略述": "AMMONIA WATER (AMMONIUM HYDROXIDE), RESORCINOL (RESORCIN), 1-NAPHTHOL, META-AMINOPHENOL (EQ TO M-AMINOPHENOL), P-AMINOPHENOL, P-PHENYLENEDIAMINE, 2-NITRO-P-PHENYLENEDIAMINE, TOLUENE-2,5-DIAMINE SULFATE, N,N-BIS(2-HYDROXYETHYL)-P-PHENYLENEDIAMINE SULFATE",
     "主製造廠": {
-        "製造廠名稱": "C410016100  ERAYBA COSMETICS, S.A.",
-        "製造廠廠址": "SERRA DEL MONTSECH, 44-46, 08950 ESPLUGUES DE LLOBREGAT (BARCELONA), SPAIN",
-        "製造廠公司地址": "",
-        "製造廠國別": "SPAIN",
-        "製程": ""
+        "申請商名稱": "0714402100  沈默是金開發企業有限公司",
+        "申請商地址": "新北市五股區四維路86號9樓",
+        "主製造廠": "",
+        "製造廠名稱": "CES0016100  ERAYBA COSMETICS, S.A."
     },
-    "CCC號列": "33059020003 染髮劑Hair dyes",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -62,7 +60,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9200035403",
-            "成分名稱": "AMINOPHENOL META- (EQ TO M-AMINOPHENOL)",
+            "成分名稱": "META-AMINOPHENOL (EQ TO M-AMINOPHENOL)",
             "含量描述": "",
             "含量": "0.0550000000",
             "單位": "%(W\/W)"
@@ -110,24 +108,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "080135400002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013540&Seq=002&Type=9"
+            "title": "080135400002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013540&Seq=002&Type=9"
         },
         {
-            "title": "080135400001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013540&Seq=001&Type=9"
+            "title": "080135400001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013540&Seq=001&Type=9"
         },
         {
-            "title": "080135400003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013540&Seq=003&Type=8"
+            "title": "080135400003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013540&Seq=003&Type=8"
         },
         {
-            "title": "080135400002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013540&Seq=002&Type=8"
+            "title": "080135400002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013540&Seq=002&Type=8"
         },
         {
-            "title": "080135400001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013540&Seq=001&Type=8"
+            "title": "080135400001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013540&Seq=001&Type=8"
         }
     ]
 }

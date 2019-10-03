@@ -1,7 +1,7 @@
 {
     "code": "06011810",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06011810",
-    "time": "2016-11-18 23:38:47",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06011810",
+    "time": "2019-10-04 03:04:28",
     "許可證字號": "衛署醫器輸字第011810號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -10,7 +10,7 @@
     "發證日期": "94\/09\/05",
     "許可證種類": "醫　器",
     "舊證字號": "",
-    "醫療器材級數": "",
+    "醫療器材級數": "第二等級",
     "通關簽審文件編號": "DHA00601181006",
     "中文品名": "&quot;愛爾康&quot; 愛視棉眼用海棉籤",
     "英文品名": "&quot;ALCON&quot; OPHTHALMIC SURGICAL SPONGE",
@@ -18,40 +18,37 @@
     "醫器規格": "詳如中文仿單核定本",
     "劑型": "",
     "包裝": "",
-    "標籤、仿單及包裝加註": "",
     "": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": "",
     "醫器主類別一": "M眼科用裝置",
-    "醫器次類別一": "M4790眼科用海棉",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "1304601100  瑞士商愛爾康大藥廠股份有限公司台灣分公司",
+    "醫器主類別三": "",
+    "主成分略述": "",
     "主製造廠": {
+        "申請商名稱": "1304601100  瑞士商愛爾康大藥廠股份有限公司台灣分公司",
+        "申請商地址": "台北市中正區仁愛路二段99號11樓",
         "主製造廠": "",
-        "製造廠名稱": "M460562000  ALCON RESEARCH, LTD.",
-        "製造廠廠址": "714 COLUMBIA AVENUE, SINKING SPRING, PENNSYLVANIA 19680",
-        "製造廠公司地址": "",
+        "製造廠名稱": "MUS0562000  ALCON RESEARCH, LTD.",
         "": ""
     },
-    "CCC號列": "30059040100 消毒用棉Sterile cotton",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060118100001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011810&Seq=001&Type=9"
+            "title": "060118100001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011810&Seq=001&Type=9"
         },
         {
-            "title": "060118100002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011810&Seq=002&Type=8"
+            "title": "060118100002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011810&Seq=002&Type=8"
         },
         {
-            "title": "060118100001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011810&Seq=001&Type=8"
+            "title": "060118100001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011810&Seq=001&Type=8"
         }
     ]
 }

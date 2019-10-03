@@ -1,7 +1,7 @@
 {
     "code": "10000939",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000939",
-    "time": "2019-05-24 03:38:23",
+    "time": "2019-10-04 03:03:06",
     "許可證字號": "衛署菌疫輸字第000939號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,18 +17,19 @@
     "適應症": "Fluarix Tetra是一種四價流感疫苗，適用於成人及6個月大以上之兒童的主動免疫接種，藉以預防此疫苗所涵蓋之A型與B型流感病毒所引起的流感相關疾病。",
     "劑型": "271滅菌懸液注射劑",
     "包裝": "單劑量0.5ml預充填注射針筒或PRTC(Plastic Rigid Tip Cap)預充填注射針筒附或不附針頭(每盒100支以下)",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "06須由醫師處方使用",
-    "主成分略述": [
-        "A\/Singapore\/INFIMH-16-0019\/2016(H3N2)-likestrain(A\/Singapore\/INFIMH-16-0019\/2016,NIB-104),A\/Michigan\/45\/2015(H1N1)pdm09-likestrain(A\/Singapore\/GP1908\/2015,IVR-180),B\/Phuket\/3073\/2013-likestrain(B\/Phuket\/3073\/2013,wildtype),B\/Colorado\/6\/2017-likestrain(B\/Maryland\/15\/2016,NYMCBX-69A)"
+    "": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "",
-    "申請商名稱": "0901801100  荷商葛蘭素史克藥廠股份有限公司台灣分公司",
+    "藥品類別": "06須由醫師處方使用",
+    "主成分略述": "B\/Phuket\/3073\/2013 - like strain (B\/Phuket\/3073\/2013, wild type), B\/Colorado\/6\/2017- like strain (B\/Maryland\/15\/2016, NYMC BX-69A), A\/Kansas\/14\/2017 (H3N2) - like strain (A\/Kansas\/14\/2017, NYMC X-327), A\/Brisbane\/02\/2018 (H1N1)pdm09 - like strain (A\/Brisbane\/02\/2018, IVR-190)",
     "主製造廠": {
+        "申請商名稱": "0901801100  荷商葛蘭素史克藥廠股份有限公司台灣分公司",
+        "申請商地址": "台北市中正區忠孝西路一段66號23-24樓",
         "主製造廠": "",
-        "製造廠名稱": "FDE0575000  GLAXOSMITHKLINE BIOLOGICALS BRANCH OF SMITHKLINE BEECHAM PHARMA GMBH &amp; CO. KG",
-        "製造廠廠址": "ZIRKUSSTR 40, 01069 DRESDEN, GERMANY",
-        "製造廠公司地址": ""
+        "製造廠名稱": "FDE0575000  GLAXOSMITHKLINE BIOLOGICALS BRANCH OF SMITHKLINE BEECHAM PHARMA GMBH &amp; CO. KG"
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -58,22 +59,6 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "8012002472",
-            "成分名稱": "A\/Singapore\/INFIMH-16-0019\/2016(H3N2)- like strain(A\/Singapore\/INFIMH-16-0019\/2016, NIB-104)",
-            "含量描述": "",
-            "含量": "15.0000000000",
-            "單位": "ug HA"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "8012002491",
-            "成分名稱": "A\/Michigan\/45\/2015 (H1N1)pdm09 - like strain (A\/Singapore\/GP1908\/2015, IVR-180)",
-            "含量描述": "",
-            "含量": "15.0000000000",
-            "單位": "ug HA"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "8012006210",
             "成分名稱": "B\/Phuket\/3073\/2013 - like strain (B\/Phuket\/3073\/2013, wild type)",
             "含量描述": "",
@@ -84,6 +69,22 @@
             "成分類別": "主成分",
             "成分代碼": "8012006810",
             "成分名稱": "B\/Colorado\/6\/2017- like strain (B\/Maryland\/15\/2016, NYMC BX-69A)",
+            "含量描述": "",
+            "含量": "15.0000000000",
+            "單位": "ug HA"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8012017030",
+            "成分名稱": "A\/Kansas\/14\/2017 (H3N2) - like strain (A\/Kansas\/14\/2017, NYMC X-327)",
+            "含量描述": "",
+            "含量": "15.0000000000",
+            "單位": "ug HA"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8012018010",
+            "成分名稱": "A\/Brisbane\/02\/2018 (H1N1)pdm09 - like strain (A\/Brisbane\/02\/2018, IVR-190)",
             "含量描述": "",
             "含量": "15.0000000000",
             "單位": "ug HA"
@@ -107,36 +108,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "020009390004_Fluarix Tetra_民眾版仿單2018-19%28NH%29-107-09-27.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=028&Type=9"
+            "title": "Fluarix tetra_民眾版仿單_[CH]_(依草本)_clean-108-09-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=030&Type=9"
         },
         {
-            "title": "020009390005_FluarixTetra_中文仿單%28GDS03IPI09%29_2018-19%28NH%29-107-09-27.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=027&Type=9"
+            "title": "Fluarix tetra_IPI10_[CH]_(依草本)_clean-108-09-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=029&Type=9"
         },
         {
-            "title": "020009390003_英文標籤-107-09-27.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=019&Type=8"
-        },
-        {
-            "title": "020009390001_Fluarix Tetra_中文標籤-107-09-27.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=018&Type=8"
-        },
-        {
-            "title": "020009390002_Fluarix Tetra_外盒%28PFSx1%29-107-09-27.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=017&Type=8"
-        },
-        {
-            "title": "020009390004_Sticker_SL127-008-T01-107-06-05(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=016&Type=8"
-        },
-        {
-            "title": "020009390002_Label_489435-107-06-05(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=015&Type=8"
-        },
-        {
-            "title": "020009390001_Carton_489440-107-06-05(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=014&Type=8"
+            "title": "Fluarix Tetra外盒標籤2019-108-09-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=020&Type=8"
         }
     ]
 }

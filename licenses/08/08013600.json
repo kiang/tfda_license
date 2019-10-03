@@ -1,12 +1,12 @@
 {
     "code": "08013600",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08013600",
-    "time": "2016-08-26 04:12:30",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08013600",
+    "time": "2019-10-04 03:16:05",
     "許可證字號": "衛署粧輸字第013600號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "108\/11\/13",
+    "有效日期": "113\/06\/30",
     "發證日期": "95\/11\/13",
     "許可證種類": "含藥化粧品",
     "舊證字號": "",
@@ -17,22 +17,20 @@
     "用途": "染髮。",
     "劑型": "990乳霜劑",
     "包裝": "無外盒裝 500ML以下罐裝",
-    "化粧品類別": "0110染髮劑",
     "": "",
-    "主成分略述": "RESORCINOL (RESORCIN), AMINOPHENOL ORTHO-, 4-CHLORORESORCINOL, 2-METHYLRESORCINOL, TOLUENE-2,5-DIAMINE SULFATE",
-    "限制項目": [
-        "02輸入"
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": [
+        ""
     ],
-    "申請商名稱": "1434301100  台灣歌薇股份有限公司",
-    "申請商地址": "台北市中山區建國北路1段90號12樓",
+    "化粧品類別": "0110染髮劑",
+    "主成分略述": "RESORCINOL (RESORCIN), ORTHO-AMINOPHENOL, 4-CHLORORESORCINOL, 2-METHYLRESORCINOL, TOLUENE-2,5-DIAMINE SULFATE",
     "主製造廠": {
-        "製造廠名稱": "C470082100  Kao Germany GmbH",
-        "製造廠廠址": "Kao Manufacturing Germany GmbH, Zerninstraβe 12-18, 64297 Darmstadt, Germany",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
+        "申請商名稱": "1434301100  台灣歌薇股份有限公司",
+        "申請商地址": "台北市中山區建國北路1段90號12樓",
+        "主製造廠": "",
+        "製造廠名稱": "CDE0026000  Kao Manufacturing Germany GmbH"
     },
-    "CCC號列": "33059020003 染髮劑Hair dyes",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -46,7 +44,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9200035402",
-            "成分名稱": "AMINOPHENOL ORTHO-",
+            "成分名稱": "ORTHO-AMINOPHENOL",
             "含量描述": "",
             "含量": "0.0200000000",
             "單位": "%(W\/W)"
@@ -78,12 +76,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "080136000001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013600&Seq=001&Type=9"
+            "title": "080136000001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013600&Seq=001&Type=9"
         },
         {
             "title": "08013600-104-10-28.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013600&Seq=006&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013600&Seq=006&Type=8"
         }
     ]
 }

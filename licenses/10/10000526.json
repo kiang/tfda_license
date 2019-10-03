@@ -1,7 +1,7 @@
 {
     "code": "10000526",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000526",
-    "time": "2019-02-22 04:03:47",
+    "time": "2019-10-04 03:02:59",
     "許可證字號": "衛署菌疫輸字第000526號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,18 +17,19 @@
     "適應症": "用於新的腎臟移植(DE NOVO RENAL TRANSPLANTATION)、預防急性器官排斥現象之發生，而且是伴隨以CYCLOSPORIN的微乳劑型(MICROEMULSION)和皮質固醇為基礎的免疫抑制劑治療方式併用；或與CYCLOSPORIN的微乳劑型(MICROEMULSION)、皮質固醇加入AZATHIOPRINE 或 MYCOPHENOLATE MOFETIL 的三重免疫抑制劑為主的治療方式併用。",
     "劑型": "243凍晶注射劑",
     "包裝": "10公絲,20公絲小瓶 附5ML溶液安瓿",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "05限由醫師使用",
-    "主成分略述": [
-        "BASILIXIMAB"
+    "": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "1422701100  台灣諾華股份有限公司",
+    "藥品類別": "05限由醫師使用",
+    "主成分略述": "BASILIXIMAB",
     "主製造廠": {
+        "申請商名稱": "1422701100  台灣諾華股份有限公司",
+        "申請商地址": "台北市中正區仁愛路二段99號11、12、13樓",
         "主製造廠": "",
-        "製造廠名稱": "F430106000  NOVARTIS PHARMA STEIN AG",
-        "製造廠廠址": "SCHAFFHAUSERSTRASSE, 4332 STEIN, SWITZERLAND.",
-        "製造廠公司地址": "LICHTSTRASSE 35, 4056, BASEL, SWITZERLAND."
+        "製造廠名稱": "FCH0106000  NOVARTIS PHARMA STEIN AG"
     },
     "CCC號列": "30049091001 抗排斥醫藥製劑Immunosuppressive preparations",
     "藥理治療分類": "",
@@ -41,25 +42,25 @@
             "製程": "二級包裝廠"
         },
         {
-            "製造廠名稱": "F030008000  TAKEDA AUSTRIA GMBH",
+            "製造廠名稱": "FAT0008000  TAKEDA AUSTRIA GMBH",
             "製造廠廠址": "ST. PETER-STRASSE 25 A-4020 LINZ, AUSTRIA",
             "製造廠公司地址": "",
             "製造廠國別": "AUSTRIA",
             "製程": "裝溶解液安瓿"
         },
         {
-            "製造廠名稱": "F150220000  NOVARTIS PHARMA S.A.S.",
-            "製造廠廠址": "8, RUE DE L&#39;INDUSTRIE, F-68330 HUNINGUE, FRANCE",
-            "製造廠公司地址": "",
-            "製造廠國別": "FRANCE",
-            "製程": "主成分(drug substance)製造廠"
-        },
-        {
-            "製造廠名稱": "F430088500  NOVARTIS PHARMA　AG",
+            "製造廠名稱": "FCH0088500  NOVARTIS PHARMA　AG",
             "製造廠廠址": "LICHTSTRASSE 35, 4056 BASEL, SWITZERLAND",
             "製造廠公司地址": "",
             "製造廠國別": "SWITZERLAND",
             "製程": "許可證持有者"
+        },
+        {
+            "製造廠名稱": "FFR0220000  NOVARTIS PHARMA S.A.S.",
+            "製造廠廠址": "8, RUE DE L&#39;INDUSTRIE, F-68330 HUNINGUE, FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": "主成分(drug substance)製造廠"
         }
     ],
     "ingredients": [

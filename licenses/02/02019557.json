@@ -1,13 +1,13 @@
 {
     "code": "02019557",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019557",
-    "time": "2016-11-18 19:42:02",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019557",
+    "time": "2019-10-04 03:02:06",
     "許可證字號": "衛署藥輸字第019557號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/10\/19",
-    "發證日期": "81\/10\/19",
+    "有效日期": "111\/10\/19",
+    "發證日期": "106\/07\/12",
     "許可證種類": "製　劑",
     "舊證字號": "02012730",
     "醫療器材級數": "",
@@ -17,25 +17,25 @@
     "適應症": "氣喘及支氣管痙攣",
     "劑型": "110錠劑",
     "包裝": "2-1000粒瓶裝 2-1000粒盒裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "06須由醫師處方使用",
-    "主成分略述": [
-        "THEOPHYLLINE(MONOHYDRATE)"
+    "": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "1414201100  嘉德藥品企業股份有限公司",
+    "藥品類別": "06須由醫師處方使用",
+    "主成分略述": "THEOPHYLLINE (MONOHYDRATE)",
     "主製造廠": {
+        "申請商名稱": "1414201100  嘉德藥品企業股份有限公司",
+        "申請商地址": "台北市中山區民生東路二段176號5樓",
         "主製造廠": "",
-        "製造廠名稱": "F130151000  BARD PHARMACEUTICALS LTD.",
-        "製造廠廠址": "CAMBRIDGE SCIENCE PARK, MILTON ROAD, CAMBRIDGE,CAMBRIDGESHIRE, CB4 0GW UK",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠名稱": "FGB0151000  BARD PHARMACEUTICALS LTD."
     },
-    "CCC號列": "30044099004 其他醫藥製劑，含有生物鹼或其衍生物，但未含內分泌素，第２９３７節之其他產品或抗生素者Other medicaments, containing alkaloids or derivatives thereof but not containing hormones, other products of heading 29.37 or antibiotics",
+    "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "F130168000  NAPP PHARMACEUTICALS LTD.",
+            "製造廠名稱": "FGB0168000  NAPP PHARMACEUTICALS LTD.",
             "製造廠廠址": "CAMBRIDGE SCIENCE PARK MILTON ROAD CAMBRIDGE CB4 0GW U.K.",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED KINGDOM",
@@ -53,37 +53,29 @@
         }
     ],
     "藥物辨識詳細資料": {
-        "外觀尺寸": "",
+        "外觀尺寸": "白色膠囊狀的持續性藥效錠",
         "特殊劑型": "",
         "顏色": "白色",
-        "特殊氣味": "",
-        "刻痕": "",
-        "形狀": "橢圓形",
-        "標記一": "UNPHYLLIN",
-        "標記二": "U400,嘉德1"
+        "特殊氣味": "無",
+        "刻痕": "無",
+        "形狀": "長圓柱形",
+        "標記一": "UNIPHYLLIN",
+        "標記二": "U400 NAPP"
     },
     "藥物辨識外觀圖片": [
         {
             "title": "tablet-104-09-22(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019557&Seq=425&Type=10"
-        },
-        {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019557&Seq=424&Type=10"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019557&Seq=425&Type=10"
         }
     ],
     "仿單外盒": [
         {
             "title": "020195570001-105-01-12.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019557&Seq=002&Type=9"
-        },
-        {
-            "title": "020195570001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019557&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019557&Seq=002&Type=9"
         },
         {
             "title": "2016carton-105-02-18(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019557&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019557&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "06011980",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06011980",
-    "time": "2016-11-25 03:31:39",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06011980",
+    "time": "2019-10-04 03:04:30",
     "許可證字號": "衛署醫器輸字第011980號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -10,7 +10,7 @@
     "發證日期": "94\/09\/19",
     "許可證種類": "醫　器",
     "舊證字號": "",
-    "醫療器材級數": "",
+    "醫療器材級數": "第二等級",
     "通關簽審文件編號": "DHA00601198005",
     "中文品名": "&quot;卡瓦&quot;洗牙手機及其附件",
     "英文品名": "&quot;KAVO&quot; SCALERS AND TIPS",
@@ -18,40 +18,37 @@
     "醫器規格": "PIEZOLUX, SONICFLEX 2003, SONICFLEX LUX 2003L,以下空白。仿單、標籤核定本遺失補發及註銷規格：詳如中文仿單核定本（原94年12月23日核准之仿單、標籤核定本正本遺失註銷作廢）",
     "劑型": "",
     "包裝": "",
-    "標籤、仿單及包裝加註": "",
     "": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": "",
     "醫器主類別一": "F牙科裝置",
-    "醫器次類別一": "",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "620111A578  台灣諾保科股份有限公司",
+    "醫器主類別三": "",
+    "主成分略述": "",
     "主製造廠": {
+        "申請商名稱": "620111A578  台灣諾保科股份有限公司",
+        "申請商地址": "台北市內湖區瑞光路68號5樓",
         "主製造廠": "",
-        "製造廠名稱": "M470236100  KALTENBACH &amp; VOIGT GMBH",
-        "製造廠廠址": "BAHNHOFSTRASSE 20 WARTHAUSEN, GERMANY 88447",
-        "製造廠公司地址": "",
+        "製造廠名稱": "MDE0236100  KALTENBACH &amp; VOIGT GMBH",
         "": ""
     },
-    "CCC號列": "90184910003 牙科用其他儀器及器具Other instruments and appliances, used in dental sciences",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060119800002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011980&Seq=002&Type=9"
+            "title": "060119800002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011980&Seq=002&Type=9"
         },
         {
-            "title": "060119800001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011980&Seq=001&Type=9"
+            "title": "060119800001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011980&Seq=001&Type=9"
         },
         {
-            "title": "060119800001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011980&Seq=001&Type=8"
+            "title": "060119800001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011980&Seq=001&Type=8"
         }
     ]
 }

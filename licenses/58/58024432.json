@@ -1,7 +1,7 @@
 {
     "code": "58024432",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58024432",
-    "time": "2017-04-28 03:24:49",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58024432",
+    "time": "2019-10-04 03:12:38",
     "許可證字號": "衛部粧輸字第024432號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,21 +17,20 @@
     "用途": "防曬",
     "劑型": "944乳劑",
     "包裝": "500 ml以下瓶裝附外盒",
-    "標籤、仿單及包裝加註": "",
-    "化粧品類別": "0711防晒乳液",
-    "主成分略述": [
-        "HOMOMETHYLSALICYLATE(HOMOSALATE),ZINCOXIDE,MenthylAnthranilate,OCTOCRYLENE,OCTINOXATE"
-    ],
-    "限制項目": "",
-    "申請商名稱": "1206501100  博士倫股份有限公司",
-    "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "C460411000  Ei LLC",
-        "製造廠廠址": "2865 N. Cannon Blvd, Kannapolis, NC 28083 USA",
-        "製造廠公司地址": "",
-        "": ""
-    },
     "": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": [
+        ""
+    ],
+    "化粧品類別": "0711防晒乳液",
+    "主成分略述": "HOMOMETHYL SALICYLATE (HOMOSALATE), ZINC OXIDE, Menthyl Anthranilate, OCTOCRYLENE, OCTINOXATE",
+    "主製造廠": {
+        "申請商名稱": "1206501100  博士倫股份有限公司",
+        "申請商地址": "台北市大安區敦化南路2段95號16樓",
+        "主製造廠": "",
+        "製造廠名稱": "CUS0411000  Ei LLC"
+    },
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -73,6 +72,12 @@
             "含量描述": "",
             "含量": "5.0000000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "58024432-106-06-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58024432&Seq=001&Type=8"
         }
     ]
 }
