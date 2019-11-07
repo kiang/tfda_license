@@ -1,7 +1,7 @@
 {
     "code": "07004392",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07004392",
-    "time": "2016-11-19 02:32:24",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07004392",
+    "time": "2019-11-08 03:10:31",
     "許可證字號": "衛署粧製字第004392號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,33 +12,32 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00700439209",
-    "中文品名": "麗麗快速護髮染髮霜 No.3 深棕色",
+    "中文品名": "麗麗快速護髮染髮霜 No.3 深棕色 第一劑、第二劑",
     "英文品名": "LILY SPEEDY HAIR COLOR CREAM No.3",
     "用途": "染髮。",
     "劑型": "905膏劑+乳劑",
     "包裝": "500g以下,第一劑:鋁管裝 500g以下,第二劑:塑膠瓶裝 附外盒裝",
-    "標籤、仿單及包裝加註": "",
-    "化粧品類別": "0110染髮劑",
-    "主成分略述": [
-        "AMMONIAWATER(AMMONIUMHYDROXIDE),HYDROGENPEROXIDE(35%),RESORCINOL(RESORCIN),CRESOLO-P-AMINO(EQTO5-AMINO-O-CRESOL)(EQTOP-AMINO-O-CRESOL),AMINOPHENOLPARA-(EQTOP-AMINOPHENOL),AMINOPHENOLORTHO-,AMINOPHENOLMETA-(EQTOM-AMINOPHENOL),2-METHYLRESORCINOL,P-PHENYLENEDIAMINE"
+    "": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "01國　產",
-    "申請商名稱": "0300102200  大川實業有限公司",
+    "化粧品類別": "0110染髮劑",
+    "主成分略述": "AMMONIA SOLUTION (28%), HYDROGEN PEROXIDE (35%), RESORCINOL (RESORCIN), P-METHYLAMINOPHENOL SULFATE, P-AMINOPHENOL, m-Aminophenol, 2-METHYLRESORCINOL, 4-AMINO-2-HYDROXYTOLUENE, P-PHENYLENEDIAMINE",
     "主製造廠": {
+        "申請商名稱": "0300102200  大川實業有限公司",
+        "申請商地址": "新北市新莊區復興路３段６１號",
         "主製造廠": "",
-        "製造廠名稱": "0300102500  大川實業有限公司",
-        "製造廠廠址": "新北市新莊區復興路三段６１號",
-        "製造廠公司地址": "",
-        "": ""
+        "製造廠名稱": "0300102500  大川實業有限公司"
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000102",
-            "成分名稱": "AMMONIA WATER (AMMONIUM HYDROXIDE)",
-            "含量描述": "(28%)",
+            "成分代碼": "2820000109",
+            "成分名稱": "AMMONIA SOLUTION (28%)",
+            "含量描述": "",
             "含量": "3.0000000000",
             "單位": "%(W\/W)"
         },
@@ -52,32 +51,24 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
+            "成分代碼": "9200035411",
+            "成分名稱": "P-METHYLAMINOPHENOL SULFATE",
             "含量描述": "",
-            "含量": "0.0280000000",
+            "含量": "0.1640000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035401",
-            "成分名稱": "AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL)",
+            "成分代碼": "9200035440",
+            "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
             "含量": "0.1280000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035402",
-            "成分名稱": "AMINOPHENOL ORTHO-",
-            "含量描述": "",
-            "含量": "0.1040000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200035403",
-            "成分名稱": "AMINOPHENOL META- (EQ TO M-AMINOPHENOL)",
+            "成分代碼": "9200035470",
+            "成分名稱": "m-Aminophenol",
             "含量描述": "",
             "含量": "0.0540000000",
             "單位": "%(W\/W)"
@@ -88,6 +79,14 @@
             "成分名稱": "2-METHYLRESORCINOL",
             "含量描述": "",
             "含量": "0.1460000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "0.0280000000",
             "單位": "%(W\/W)"
         },
         {
@@ -109,36 +108,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "070043920004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004392&Seq=004&Type=9"
-        },
-        {
-            "title": "070043920003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004392&Seq=003&Type=9"
-        },
-        {
-            "title": "070043920002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004392&Seq=002&Type=9"
-        },
-        {
-            "title": "070043920001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004392&Seq=001&Type=9"
-        },
-        {
-            "title": "070043920004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004392&Seq=004&Type=8"
-        },
-        {
-            "title": "070043920003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004392&Seq=003&Type=8"
-        },
-        {
-            "title": "070043920002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004392&Seq=002&Type=8"
-        },
-        {
-            "title": "070043920001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004392&Seq=001&Type=8"
+            "title": "07004392-108-10-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004392&Seq=005&Type=8"
         }
     ]
 }

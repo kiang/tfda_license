@@ -1,7 +1,7 @@
 {
     "code": "02025139",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025139",
-    "time": "2016-11-18 20:39:10",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025139",
+    "time": "2019-11-08 03:03:47",
     "許可證字號": "衛署藥輸字第025139號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,21 +17,30 @@
     "適應症": "抗組織胺藥",
     "劑型": "040（粉）",
     "包裝": "０．５公斤以上",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "01製劑原料",
-    "主成分略述": [
+    "": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "0101201100  一龍化學貿易有限公司",
+    "藥品類別": "01製劑原料",
+    "主成分略述": "",
     "主製造廠": {
+        "申請商名稱": "0101201100  一龍化學貿易有限公司",
+        "申請商地址": "台北市大同區長安西路78巷1弄10號2樓",
         "主製造廠": "",
-        "製造廠名稱": "F200087000  VASUDHA PHARMA. CHEM LTD.",
-        "製造廠廠址": "PLOT NO. 79, J.N. PHARMA CITY, PARAWADA, VISAKHAPATNAM DISTRICT-531021, ANDHRA PRADESH STATE, INDIA",
-        "製造廠公司地址": "78\/A,VENGAL RAO NAGAR,HYDERABAD-500038 ANDHRAPRADESH INDIA",
-        "": ""
+        "製造廠名稱": "FIN0087100  VASUDHA PHARMA. CHEM LTD."
     },
-    "CCC號列": "29333990905 其他結構中含有一未稠合之？啶環（不論是否氫化）之化合物Other compounds containing an unfused pyridine ring (whether or not hydrogenated) in the structure",
+    "CCC號列": "29333990905 其他結構中含有一未稠合之?啶環（不論是否氫化）之化合物Other compounds containing an unfused pyridine ring (whether or not hydrogenated) in the structure",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "FIN0794400  VASUDHA PHARMA. CHEM LTD.",
+            "製造廠廠址": "Plot No. 78\/A, Vengalrao Nagar, Hyderabad -500038, Telangana, India",
+            "製造廠公司地址": "",
+            "製造廠國別": "INDIA",
+            "製程": "製造廠公司"
+        }
+    ],
     "ingredients": []
 }

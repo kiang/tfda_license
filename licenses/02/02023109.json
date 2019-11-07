@@ -1,7 +1,7 @@
 {
     "code": "02023109",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023109",
-    "time": "2019-07-26 03:21:29",
+    "time": "2019-11-08 03:03:05",
     "許可證字號": "衛署藥輸字第023109號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,17 +17,17 @@
     "適應症": "單一療法無法控制的高血壓，做為第二線用藥。",
     "劑型": "116膜衣錠",
     "包裝": "2-1000粒鋁箔盒裝",
-    "儲存溫度": "",
+    "": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
+    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": [
         ""
     ],
     "藥品類別": "06須由醫師處方使用",
-    "主成分略述": "VALSARTAN, HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZIDE)",
+    "主成分略述": "VALSARTAN, HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZIDE), ISOPROPYL ALCOHOL (2-PROPANOL), HYPROMELLOSE, TALC, WATER PURIFIED ( EQ TO AQUEOUS PURIFIED OR PURIFIED WATER )",
     "主製造廠": {
         "申請商名稱": "0924601100  台灣諾華股份有限公司",
-        "申請商地址": "台北市中正區仁愛路二段99號11、12、13樓",
+        "申請商地址": "台北市中山區民生東路三段2號8樓",
         "主製造廠": "",
         "製造廠名稱": "FIT0320000  NOVARTIS FARMA S.P.A."
     },
@@ -38,7 +38,7 @@
             "成分類別": "主成分",
             "成分代碼": "2408005100",
             "成分名稱": "VALSARTAN",
-            "含量描述": "80",
+            "含量描述": "",
             "含量": "80.0000000000",
             "單位": "MG"
         },
@@ -46,8 +46,40 @@
             "成分類別": "主成分",
             "成分代碼": "4028100600",
             "成分名稱": "HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZIDE)",
-            "含量描述": "12.5",
+            "含量描述": "",
             "含量": "12.5000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8404602300",
+            "成分名稱": "ISOPROPYL ALCOHOL (2-PROPANOL)",
+            "含量描述": "",
+            "含量": "",
+            "單位": "Q.S."
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9604001100",
+            "成分名稱": "WATER PURIFIED ( EQ TO AQUEOUS PURIFIED OR PURIFIED WATER )",
+            "含量描述": "",
+            "含量": "",
+            "單位": "Q.S."
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9600015505",
+            "成分名稱": "HYPROMELLOSE",
+            "含量描述": "",
+            "含量": "2.4700000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9600031309",
+            "成分名稱": "TALC",
+            "含量描述": "",
+            "含量": "2.0000000000",
             "單位": "MG"
         }
     ],
@@ -69,12 +101,24 @@
     ],
     "仿單外盒": [
         {
+            "title": "Co-Diovan leaflet-108-10-17(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023109&Seq=010&Type=9"
+        },
+        {
             "title": "可得安穩-TWI-220219-108-05-17(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023109&Seq=009&Type=9"
         },
         {
             "title": "可得安穩-TWI-220219_C-108-05-13.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023109&Seq=008&Type=9"
+        },
+        {
+            "title": "Co-Diovan 80-12.5 Foil-108-10-17(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023109&Seq=006&Type=8"
+        },
+        {
+            "title": "Co-Diovan 80-12.5 FB-108-10-17(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023109&Seq=005&Type=8"
         },
         {
             "title": "1216695_TW_TA_p1_FB-108-04-01(廠商自行上傳).pdf",

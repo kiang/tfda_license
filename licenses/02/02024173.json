@@ -1,51 +1,52 @@
 {
     "code": "02024173",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024173",
-    "time": "2018-07-20 03:51:51",
+    "time": "2019-11-08 03:03:24",
     "許可證字號": "衛署藥輸字第024173號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "109\/03\/09",
+    "有效日期": "114\/03\/09",
     "發證日期": "94\/03\/09",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00202417304",
     "中文品名": "始立膜衣錠50\/12.5\/200毫克",
-    "英文品名": "STALEVO FILM-COATED TABLETS 150\/37.5\/200MG",
+    "英文品名": "STALEVO FILM-COATED TABLETS 50\/12.5\/200MG",
     "適應症": "表現藥效終期運動功能波動現象，以左多巴\/多巴脫羧基脢抑制劑無法達到穩定治療效果之巴金森氏症病人。",
     "劑型": "116膜衣錠",
     "包裝": "8-1000顆塑膠瓶裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "06須由醫師處方使用",
-    "主成分略述": [
-        "LEVODOPA,ENTACAPONE,CARBIDOPAMONOHYDRATE"
+    "": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "02輸　入 54依本署89、12、12衛署藥字第0890035812號公告事項九得免除國內進行臨床試驗之特殊醫療需要之新藥",
-    "申請商名稱": "0924601100  台灣諾華股份有限公司",
+    "藥品類別": "06須由醫師處方使用",
+    "主成分略述": "LEVODOPA, ENTACAPONE, CARBIDOPA MONOHYDRATE",
     "主製造廠": {
+        "申請商名稱": "0924601100  台灣諾華股份有限公司",
+        "申請商地址": "台北市中山區民生東路三段2號8樓",
         "主製造廠": "",
-        "製造廠名稱": "F140013500  ORION CORPORATION",
-        "製造廠廠址": "ORIONINITE 1, FIN-02200 ESPOO, FINLAND",
-        "製造廠公司地址": ""
+        "製造廠名稱": "FFI0013500  ORION CORPORATION"
     },
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "F140031000  Orion Corporation",
-            "製造廠廠址": "Joensuunkatu 7, Salo 24100, Finland",
-            "製造廠公司地址": "",
-            "製造廠國別": "FINLAND",
-            "製程": "包裝"
-        },
-        {
-            "製造廠名稱": "F430088200  NOVARTIS PHARMA. AG",
+            "製造廠名稱": "FCH0088200  NOVARTIS PHARMA. AG",
             "製造廠廠址": "LICHTSTRASSE 35 CH-4056 BASLE, SWITZERLAND",
             "製造廠公司地址": "",
             "製造廠國別": "SWITZERLAND",
             "製程": "許可證持有者"
+        },
+        {
+            "製造廠名稱": "FFI0031000  Orion Corporation",
+            "製造廠廠址": "Joensuunkatu 7, Salo 24100, Finland",
+            "製造廠公司地址": "",
+            "製造廠國別": "FINLAND",
+            "製程": "包裝"
         }
     ],
     "ingredients": [
@@ -54,7 +55,7 @@
             "成分代碼": "1208002900",
             "成分名稱": "LEVODOPA",
             "含量描述": "",
-            "含量": "150.0000000000",
+            "含量": "50.0000000000",
             "單位": "MG"
         },
         {
@@ -70,11 +71,15 @@
             "成分代碼": "2408000420",
             "成分名稱": "CARBIDOPA MONOHYDRATE",
             "含量描述": "",
-            "含量": "40.5000000000",
+            "含量": "13.5000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "始立膜衣錠(50-100-150)_TWI-181019-108-10-21(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024173&Seq=033&Type=9"
+        },
         {
             "title": "始立膜衣錠(50-100-150)-TWI-140518-107-05-25(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024173&Seq=032&Type=9"
@@ -82,6 +87,10 @@
         {
             "title": "始立膜衣錠英文仿單-TWI-010813-102-11-20.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024173&Seq=031&Type=9"
+        },
+        {
+            "title": "Stalevo 50,12.5,200 mg-108-04-02(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024173&Seq=001&Type=8"
         }
     ]
 }

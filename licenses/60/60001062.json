@@ -1,7 +1,7 @@
 {
     "code": "60001062",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60001062",
-    "time": "2019-03-22 03:46:45",
+    "time": "2019-11-08 03:06:06",
     "許可證字號": "衛部菌疫輸字第001062號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,18 +17,19 @@
     "適應症": "1.過敏性氣喘附加療法：喜瑞樂為附加療法用於改善已接受高劑量吸入性類固醇製劑及長效乙二型作用劑(Beta 2-agonist)治療下仍有頻繁之日間症狀或夜間覺醒且具有多次重度氣喘惡化紀錄之重度持續過敏性氣喘成人、青少年及兒童(6歲及以上)之氣喘控制。這些氣喘患者必須有經由皮膚測試或體外試驗顯示對長期空氣中過敏原呈陽性且肺功能降低(FEV1",
     "劑型": "27D注射液劑",
     "包裝": "0.5或1.0毫升預充填玻璃注射針筒裝 100支以下盒裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "05限由醫師使用",
-    "主成分略述": [
-        "OMALIZUMAB"
+    "": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "02輸　入 26監視期滿新藥",
-    "申請商名稱": "0924601100  台灣諾華股份有限公司",
+    "藥品類別": "05限由醫師使用",
+    "主成分略述": "OMALIZUMAB",
     "主製造廠": {
+        "申請商名稱": "0924601100  台灣諾華股份有限公司",
+        "申請商地址": "台北市中山區民生東路三段2號8樓",
         "主製造廠": "",
-        "製造廠名稱": "M471120100  Vetter Pharma-Fertigung GmbH &amp; Co. KG",
-        "製造廠廠址": "Eisenbahnstrasse 2-4, 88085 Langenargen, Germany",
-        "製造廠公司地址": ""
+        "製造廠名稱": "MDE1120100  Vetter Pharma-Fertigung GmbH &amp; Co. KG"
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -41,25 +42,25 @@
             "製程": "二級包裝廠(委託貼標及置入仿單)"
         },
         {
-            "製造廠名稱": "F150220000  NOVARTIS PHARMA S.A.S.",
-            "製造廠廠址": "8, RUE DE L&#39;INDUSTRIE, F-68330 HUNINGUE, FRANCE",
-            "製造廠公司地址": "",
-            "製造廠國別": "FRANCE",
-            "製程": "原料藥製造廠"
-        },
-        {
-            "製造廠名稱": "F430088000  NOVARTIS PHARMA STEIN AG",
+            "製造廠名稱": "FCH0088000  NOVARTIS PHARMA STEIN AG",
             "製造廠廠址": "SCHAFFHAUSERSTRASSE CH-4332 STEIN, SWITZERLAND",
             "製造廠公司地址": "CH-4002,BASEL,SWITZERLAND",
             "製造廠國別": "SWITZERLAND",
             "製程": "二級包裝廠"
         },
         {
-            "製造廠名稱": "F470559000  VETTER PHARMA-FERTIGUNG GMBH &amp; CO KG",
+            "製造廠名稱": "FDE0559000  VETTER PHARMA-FERTIGUNG GMBH &amp; CO KG",
             "製造廠廠址": "MOOSWIESEN 2, 88214 RAVENSBURG, GERMANY",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
             "製程": "二級包裝廠"
+        },
+        {
+            "製造廠名稱": "FFR0220000  NOVARTIS PHARMA S.A.S.",
+            "製造廠廠址": "8, RUE DE L&#39;INDUSTRIE, F-68330 HUNINGUE, FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": "原料藥製造廠"
         }
     ],
     "ingredients": [
