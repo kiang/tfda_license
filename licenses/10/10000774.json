@@ -1,7 +1,7 @@
 {
     "code": "10000774",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000774",
-    "time": "2019-11-15 03:04:14",
+    "time": "2019-11-22 03:04:08",
     "許可證字號": "衛署菌疫輸字第000774號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -24,12 +24,12 @@
         ""
     ],
     "藥品類別": "05限由醫師使用",
-    "主成分略述": "HUMAN COAGULATION FACTOR IX",
+    "藥品分類": "血液衍生產品",
     "主製造廠": {
+        "限制項目": "02輸　入",
         "申請商名稱": "1406701100  台灣武田藥品工業股份有限公司",
         "申請商地址": "台北市信義區松高路1號17樓",
-        "主製造廠": "",
-        "製造廠名稱": "FAT0033100  BAXTER AG"
+        "主製造廠": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -59,7 +59,27 @@
             "單位": "I.U."
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Immunine-108-03-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000774&Seq=002&Type=10"
+        }
+    ],
     "仿單外盒": [
+        {
+            "title": "Immunine_PI_20120312CNP04_Takeda LEO, remove Panco_20191025 Takeda_clean_自行上傳版本-108-11-20(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000774&Seq=009&Type=9"
+        },
         {
             "title": "Immunine_PI_20120312CNP01_20140703 TFDA approved-108-03-27(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000774&Seq=008&Type=9"
