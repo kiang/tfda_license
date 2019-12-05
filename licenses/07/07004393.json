@@ -1,7 +1,7 @@
 {
     "code": "07004393",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07004393",
-    "time": "2016-11-19 02:32:25",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07004393",
+    "time": "2019-12-06 03:18:30",
     "許可證字號": "衛署粧製字第004393號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,28 +17,27 @@
     "用途": "染髮。",
     "劑型": "905膏劑+乳劑",
     "包裝": "第一劑：500g以下鋁管裝 第二劑：500g以下塑膠瓶裝 附外盒裝",
-    "標籤、仿單及包裝加註": "",
-    "化粧品類別": "0110染髮劑",
-    "主成分略述": [
-        "AMMONIAWATER(AMMONIUMHYDROXIDE),HYDROGENPEROXIDE(35%),RESORCINOL(RESORCIN),CRESOLO-P-AMINO(EQTO5-AMINO-O-CRESOL)(EQTOP-AMINO-O-CRESOL),AMINOPHENOLPARA-(EQTOP-AMINOPHENOL),AMINOPHENOLORTHO-,P-PHENYLENEDIAMINE,2,4-DIAMINOPHENOXYETHANOLHYDROCHLORIDE"
+    "": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "01國　產",
-    "申請商名稱": "0300102200  大川實業有限公司",
+    "化粧品類別": "0110染髮劑",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "0300102500  大川實業有限公司",
-        "製造廠廠址": "新北市新莊區復興路三段６１號",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "01國　產",
+        "申請商名稱": "0300102200  大川實業有限公司",
+        "申請商地址": "新北市新莊區復興路３段６１號",
+        "主製造廠": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000102",
-            "成分名稱": "AMMONIA WATER (AMMONIUM HYDROXIDE)",
-            "含量描述": "(28%)",
+            "成分代碼": "2820000109",
+            "成分名稱": "AMMONIA SOLUTION (28%)",
+            "含量描述": "",
             "含量": "3.0000000000",
             "單位": "%(W\/W)"
         },
@@ -47,31 +46,23 @@
             "成分代碼": "8428000500",
             "成分名稱": "RESORCINOL (RESORCIN)",
             "含量描述": "",
-            "含量": "0.6200000000",
+            "含量": "0.6090000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
+            "成分代碼": "9200035440",
+            "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
-            "含量": "0.1000000000",
+            "含量": "0.2060000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035401",
-            "成分名稱": "AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL)",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
             "含量描述": "",
-            "含量": "0.1830000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200035402",
-            "成分名稱": "AMINOPHENOL ORTHO-",
-            "含量描述": "",
-            "含量": "0.1320000000",
+            "含量": "0.1130000000",
             "單位": "%(W\/W)"
         },
         {
@@ -79,7 +70,7 @@
             "成分代碼": "9400003200",
             "成分名稱": "P-PHENYLENEDIAMINE",
             "含量描述": "",
-            "含量": "0.4320000000",
+            "含量": "0.5400000000",
             "單位": "%(W\/W)"
         },
         {
@@ -100,9 +91,9 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000102",
-            "成分名稱": "AMMONIA WATER (AMMONIUM HYDROXIDE)",
-            "含量描述": "(28%)",
+            "成分代碼": "2820000109",
+            "成分名稱": "AMMONIA SOLUTION (28%)",
+            "含量描述": "",
             "含量": "3.0000000000",
             "單位": "%(W\/W)"
         },
@@ -111,31 +102,23 @@
             "成分代碼": "8428000500",
             "成分名稱": "RESORCINOL (RESORCIN)",
             "含量描述": "",
-            "含量": "0.7010000000",
+            "含量": "0.6630000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
+            "成分代碼": "9200035440",
+            "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
-            "含量": "0.1150000000",
+            "含量": "0.2880000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035401",
-            "成分名稱": "AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL)",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
             "含量描述": "",
-            "含量": "0.2180000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200035402",
-            "成分名稱": "AMINOPHENOL ORTHO-",
-            "含量描述": "",
-            "含量": "0.1780000000",
+            "含量": "0.1400000000",
             "單位": "%(W\/W)"
         },
         {
@@ -143,7 +126,7 @@
             "成分代碼": "9400003200",
             "成分名稱": "P-PHENYLENEDIAMINE",
             "含量描述": "",
-            "含量": "0.5610000000",
+            "含量": "0.6690000000",
             "單位": "%(W\/W)"
         },
         {
@@ -151,7 +134,7 @@
             "成分代碼": "9900092100",
             "成分名稱": "2,4-DIAMINOPHENOXYETHANOL HYDROCHLORIDE",
             "含量描述": "",
-            "含量": "0.0470000000",
+            "含量": "0.0830000000",
             "單位": "%(W\/W)"
         },
         {
@@ -165,68 +148,40 @@
     ],
     "仿單外盒": [
         {
-            "title": "070043930008.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004393&Seq=008&Type=9"
+            "title": "070043930008.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004393&Seq=008&Type=9"
         },
         {
-            "title": "070043930007.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004393&Seq=007&Type=9"
+            "title": "070043930007.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004393&Seq=007&Type=9"
         },
         {
-            "title": "070043930006.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004393&Seq=006&Type=9"
+            "title": "070043930006.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004393&Seq=006&Type=9"
         },
         {
-            "title": "070043930005.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004393&Seq=005&Type=9"
+            "title": "070043930005.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004393&Seq=005&Type=9"
         },
         {
-            "title": "070043930004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004393&Seq=004&Type=9"
+            "title": "070043930004.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004393&Seq=004&Type=9"
         },
         {
-            "title": "070043930003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004393&Seq=003&Type=9"
+            "title": "070043930003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004393&Seq=003&Type=9"
         },
         {
-            "title": "070043930002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004393&Seq=002&Type=9"
+            "title": "070043930002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004393&Seq=002&Type=9"
         },
         {
-            "title": "070043930001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004393&Seq=001&Type=9"
+            "title": "070043930001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004393&Seq=001&Type=9"
         },
         {
-            "title": "070043930008.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004393&Seq=008&Type=8"
-        },
-        {
-            "title": "070043930007.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004393&Seq=007&Type=8"
-        },
-        {
-            "title": "070043930006.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004393&Seq=006&Type=8"
-        },
-        {
-            "title": "070043930005.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004393&Seq=005&Type=8"
-        },
-        {
-            "title": "070043930004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004393&Seq=004&Type=8"
-        },
-        {
-            "title": "070043930003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004393&Seq=003&Type=8"
-        },
-        {
-            "title": "070043930002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004393&Seq=002&Type=8"
-        },
-        {
-            "title": "070043930001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004393&Seq=001&Type=8"
+            "title": "07004393-108-11-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004393&Seq=009&Type=8"
         }
     ]
 }

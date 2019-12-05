@@ -1,7 +1,7 @@
 {
     "code": "10000895",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000895",
-    "time": "2018-10-12 03:38:07",
+    "time": "2019-12-06 03:08:18",
     "許可證字號": "衛署菌疫輸字第000895號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,18 +17,19 @@
     "適應症": "原發性免疫不全症、原發性血小板缺乏紫斑症。",
     "劑型": "279注射液",
     "包裝": "10ml、25ml、50ml瓶裝 100ml、200ml瓶裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "05限由醫師使用",
-    "主成分略述": [
-        "HUMANNORMALIMMUNOGLOBULIN(IVIG)"
+    "": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "620117O956  夏爾生技醫藥股份有限公司",
+    "藥品類別": "05限由醫師使用",
+    "藥品分類": "血液衍生產品",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "F050046000  BAXALTA BELGIUM MANUFACTURING S.A.",
-        "製造廠廠址": "BOULEVARD RENE BRANQUART, 80, B-7860, LESSINES, BELGIUM",
-        "製造廠公司地址": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "1406701100  台灣武田藥品工業股份有限公司",
+        "申請商地址": "台北市信義區松高路1號17樓",
+        "主製造廠": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -41,28 +42,28 @@
             "製程": "二級包裝廠"
         },
         {
-            "製造廠名稱": "F030018100  BAXTER AG",
+            "製造廠名稱": "FAT0018100  BAXTER AG",
             "製造廠廠址": "INDUSTRIESTRASSE 67, A-1221 WIEN, AUSTRIA",
             "製造廠公司地址": "",
             "製造廠國別": "AUSTRIA",
             "製程": "許可證持有者"
         },
         {
-            "製造廠名稱": "F030038000  BAXTER AG",
+            "製造廠名稱": "FAT0038000  BAXTER AG",
             "製造廠廠址": "INDUSTRIESSTRASSE 131, A-1221 VIENNA, AUSTRIA",
             "製造廠公司地址": "INDUSTRIESSTRASSE 67, A-1221 VIENNA, AUSTRIA",
             "製造廠國別": "AUSTRIA",
             "製程": "血漿分層(fractionation)"
         },
         {
-            "製造廠名稱": "F250525000  Baxter Manufacturing S.p.A",
+            "製造廠名稱": "FIT0525000  Baxter Manufacturing S.p.A",
             "製造廠廠址": "Via Della chimica 5, 02015 Santa Rufina Cittaducale, Rieti（RI）, Italy",
             "製造廠公司地址": "",
             "製造廠國別": "ITALY",
             "製程": "血漿分層(fractionation)"
         },
         {
-            "製造廠名稱": "F460200000  BAXALTA US INC.",
+            "製造廠名稱": "FUS0200000  BAXALTA US INC.",
             "製造廠廠址": "4501 COLORADO BOULEVARD, LOS ANGELES, CALIFORNIA 90039, USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
@@ -79,10 +80,38 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Kiovig-108-03-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000895&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
+        {
+            "title": "KIOVIG_PI_201708CNP02_Takeda LEO_20191122 Takeda_clean-108-12-04(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000895&Seq=013&Type=9"
+        },
+        {
+            "title": "KIOVIG_PI_201708CNP01_20180704 TFDA approved_clean-108-03-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000895&Seq=012&Type=9"
+        },
         {
             "title": "020008950001-107-07-04.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000895&Seq=011&Type=9"
+        },
+        {
+            "title": "Kiovig_carton_10g100ml_LE0740199 V2_20171226 TFDA approved-108-03-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000895&Seq=008&Type=8"
         },
         {
             "title": "020008950002-106-12-26.pdf",

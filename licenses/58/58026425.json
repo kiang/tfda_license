@@ -1,7 +1,7 @@
 {
     "code": "58026425",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58026425",
-    "time": "2019-08-30 03:16:37",
+    "time": "2019-12-06 03:19:19",
     "許可證字號": "衛部粧輸字第026425號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -24,12 +24,12 @@
         ""
     ],
     "化粧品類別": "",
-    "主成分略述": "ZINC OXIDE, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, ETHYLHEXYL METHOXYCINNAMATE, ETHYLHEXYL SALICYLATE, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
+    "藥品分類": "",
     "主製造廠": {
+        "限制項目": "",
         "申請商名稱": "6624310737  臺灣樂金生活健康股份有限公司",
         "申請商地址": "臺北市信義區基隆路1段159號9樓",
-        "主製造廠": "",
-        "製造廠名稱": "CKR0193000  THEFACESHOP CO., LTD."
+        "主製造廠": ""
     },
     "藥理治療分類": "",
     "ingredients": [
@@ -72,6 +72,12 @@
             "含量描述": "",
             "含量": "0.2300000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "58026425-108-11-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58026425&Seq=002&Type=8"
         }
     ]
 }
