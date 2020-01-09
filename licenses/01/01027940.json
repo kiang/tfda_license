@@ -1,12 +1,12 @@
 {
     "code": "01027940",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01027940",
-    "time": "2015-08-22 22:32:24",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01027940",
+    "time": "2020-01-10 03:34:44",
     "許可證字號": "衛署藥製字第027940號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "109\/02\/20",
+    "有效日期": "114\/02\/20",
     "發證日期": "73\/11\/17",
     "許可證種類": "製　劑",
     "舊證字號": "01004045",
@@ -17,29 +17,28 @@
     "適應症": "妊娠引起之噁心、嘔吐、皮膚炎、維他命Ｂ６缺乏症",
     "劑型": "110錠劑",
     "包裝": "2-1000錠茶色玻璃瓶裝 塑膠瓶裝 鋁箔盒裝",
-    "藥品類別": "06須由醫師處方使用",
-    "管制藥品分類級別": "",
-    "主成分略述": "PYRIDOXINE HCL",
-    "限制項目": [
-        "01國產"
+    "": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": [
+        ""
     ],
-    "申請商名稱": "623202D135  榮民製藥股份有限公司",
-    "申請商地址": "桃園市中壢區中山東路３段４４７號",
+    "藥品類別": "06須由醫師處方使用",
+    "藥品分類": "",
     "主製造廠": {
-        "製造廠名稱": "6132020070  榮民製藥股份有限公司",
-        "製造廠廠址": "桃園市中壢區中山東路３段４４７號",
-        "製造廠公司地址": "",
-        "製造廠國別": "TAIWAN",
-        "製程": ""
+        "限制項目": "01國　產",
+        "申請商名稱": "623202D135  榮民製藥股份有限公司",
+        "申請商地址": "桃園市中壢區中山東路３段４４７號",
+        "主製造廠": ""
     },
-    "CCC號列": "30045000009 含有維他命或第２９３６節產品之其他醫藥製劑Other medicaments containing vitamins or other products of heading 29.36",
+    "CCC號列": "30045000009 其他醫藥製劑，含有維他命或第２９３６節之其他產品Other medicaments, containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",
             "成分代碼": "8810600300",
             "成分名稱": "PYRIDOXINE HCL",
-            "含量描述": "50.0",
+            "含量描述": "",
             "含量": "50.0000000000",
             "單位": "MG"
         }
@@ -56,26 +55,18 @@
     },
     "藥物辨識外觀圖片": [
         {
-            "title": "圖片",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027940&Seq=176&Type=10"
+            "title": "01027940.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027940&Seq=176&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "010279400002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027940&Seq=003&Type=9"
+            "title": "衛署藥製字第027940號 Beesix Tablets 50mg_20150915-104-09-15(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027940&Seq=004&Type=9"
         },
         {
-            "title": "010279400001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027940&Seq=002&Type=9"
-        },
-        {
-            "title": "010279400001.doc",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027940&Seq=001&Type=9"
-        },
-        {
-            "title": "010279400001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027940&Seq=001&Type=8"
+            "title": "010279400001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027940&Seq=001&Type=8"
         }
     ]
 }

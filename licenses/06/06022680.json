@@ -1,7 +1,7 @@
 {
     "code": "06022680",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022680",
-    "time": "2017-02-24 03:20:46",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022680",
+    "time": "2020-01-10 03:14:04",
     "許可證字號": "衛署醫器輸字第022680號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,39 +15,40 @@
     "中文品名": "“麥爾”肺功能機",
     "英文品名": "“MIR”Spirobank Spirometer",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "Spirobank II,Spirobank G,以下空白。註銷規格：Spirobank G。規格變更為：詳如中文仿單核定本(原100年9月5日仿單標籤核定本正本收回作廢)。",
+    "醫器規格": "Spirobank II,Spirobank G,以下空白。註銷規格：Spirobank G。規格變更為：詳如中文仿單核定本(原100年9月5日仿單標籤核定本正本收回作廢)。\r\n增加規格，核定事項詳如中文仿單核定本(原105年12月29日核准之中文仿單核定本予以收回作廢)。",
     "劑型": "",
     "包裝": "",
-    "標籤、仿單及包裝加註": "",
     "": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": "",
     "醫器主類別一": "D麻醉學科用裝置",
-    "醫器次類別一": "D1840診斷用肺量計",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "6201117719  品約股份有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
+        "限制項目": "02輸　入",
+        "申請商名稱": "6201117719  品約股份有限公司",
+        "申請商地址": "台北市內湖區民權東路六段13之22號6樓",
         "主製造廠": "",
-        "製造廠名稱": "M250245000  MIR S.r.l Medical International Research",
-        "製造廠廠址": "00155, ROMA, VIA DEL MAGGIOLINO N. 125 ITALY",
-        "製造廠公司地址": "",
         "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "06022680-105-08-25.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022680&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022680&Seq=002&Type=9"
+        },
+        {
+            "title": "060226800001___20111123.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022680&Seq=001&Type=9"
         },
         {
             "title": "060226800002___20111123.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022680&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022680&Seq=001&Type=8"
         }
     ]
 }

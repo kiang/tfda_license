@@ -1,11 +1,11 @@
 {
     "code": "08015305",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08015305",
-    "time": "2015-08-23 19:46:34",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08015305",
+    "time": "2020-01-10 03:32:22",
     "許可證字號": "衛署粧輸字第015305號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "108\/12\/13",
+    "註銷理由": "許可證已逾有效期",
     "有效日期": "106\/08\/15",
     "發證日期": "97\/08\/15",
     "許可證種類": "含藥化粧品",
@@ -17,22 +17,20 @@
     "用途": "染髮。",
     "劑型": "992霜劑",
     "包裝": "500ml以下管裝 附外盒裝",
-    "化粧品類別": "0110染髮劑",
     "": "",
-    "主成分略述": "25% AMMONIA SOLUTION ( EQ TO AMMONIA 25%), RESORCINOL (RESORCIN), AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL), AMINOPHENOL META- (EQ TO M-AMINOPHENOL), 2-METHYLRESORCINOL, P-PHENYLENEDIAMINE, 2-METHYL-5-HYDROXYETHYLAMINOPHENOL, 2-AMINO-6-CHLORO-4-NITROPHENOL",
-    "限制項目": [
-        "02輸入"
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": [
+        ""
     ],
-    "申請商名稱": "6686900493  台灣耐克斯國際有限公司",
-    "申請商地址": "高雄市三民區正氣街79號1樓",
+    "化粧品類別": "0110染髮劑",
+    "藥品分類": "",
     "主製造廠": {
-        "製造廠名稱": "C250007100  BEAUTY &amp; BUSINESS S.R.L.",
-        "製造廠廠址": "VIA CESARE CANTU N 1, 20123 MILANO, ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "6686900493  台灣耐克斯國際有限公司",
+        "申請商地址": "高雄市三民區正氣街79號1樓",
+        "主製造廠": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -62,7 +60,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9200035403",
-            "成分名稱": "AMINOPHENOL META- (EQ TO M-AMINOPHENOL)",
+            "成分名稱": "META-AMINOPHENOL (EQ TO M-AMINOPHENOL)",
             "含量描述": "",
             "含量": "0.0500000000",
             "單位": "%(W\/W)"
@@ -102,20 +100,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "080153050002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015305&Seq=002&Type=9"
+            "title": "080153050002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015305&Seq=002&Type=9"
         },
         {
-            "title": "080153050001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015305&Seq=001&Type=9"
+            "title": "080153050001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015305&Seq=001&Type=9"
         },
         {
-            "title": "08015305c0002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015305&Seq=002&Type=8"
+            "title": "08015305c0002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015305&Seq=002&Type=8"
         },
         {
-            "title": "08015305c0001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015305&Seq=001&Type=8"
+            "title": "08015305c0001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015305&Seq=001&Type=8"
         }
     ]
 }

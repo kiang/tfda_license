@@ -1,7 +1,7 @@
 {
     "code": "22000014",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=22000014",
-    "time": "2019-06-28 03:35:52",
+    "time": "2020-01-10 03:08:48",
     "許可證字號": "罕菌疫輸字第000014號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,22 +14,22 @@
     "通關簽審文件編號": "DHA02200001409",
     "中文品名": "泰吉利濃縮靜脈輸注液 300 毫克",
     "英文品名": "Tysabri concentrate for solution for infusion 300mg",
-    "適應症": "單一藥物治療反覆發作型多發性硬化症,其病患群為下列18歲以上之成人患者:(1)已使用β-interferon治療,但是無法有效控制病情的反覆發作型多發性硬化症病患或(2)病情急速惡化的反覆發作型多發性硬化症患者。",
+    "適應症": "單一藥物治療反覆發作型多發性硬化症，其病患群為下列成人患者：\r\n1) 已使用至少一種改善病程進展的治療 (Disease-modifying therapy, DMT)，但是仍持續惡化的病患，或\r\n2) 病情急速惡化的反覆發作型多發性硬化症患者。",
     "劑型": "270注射劑",
     "包裝": "15毫升小瓶",
-    "儲存溫度": "",
+    "": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
+    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": [
         ""
     ],
     "藥品類別": "05限由醫師使用",
-    "主成分略述": "Natalizumab",
+    "藥品分類": "",
     "主製造廠": {
+        "限制項目": "02輸　入 1D須執行風險管理計畫",
         "申請商名稱": "0407901100  衛采製藥股份有限公司",
         "申請商地址": "台北市長安東路一段十八號九樓",
-        "主製造廠": "",
-        "製造廠名稱": "FDE0559000  VETTER PHARMA-FERTIGUNG GMBH &amp; CO KG"
+        "主製造廠": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -66,18 +66,34 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Tysabri vial with Taiwan label_1-108-03-28(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=22000014&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "41151-05 COM PAT INF INSERT LARGE TYSABRI CONC 300MG TWN_P2_T_1-107-11-02(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=22000014&Seq=006&Type=9"
+            "title": "Att5. 中文PI_Tysabri PI (Chinese)_20191113_Clear-108-11-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=22000014&Seq=008&Type=9"
         },
         {
-            "title": "41151-05 COM PAT INF INSERT LARGE TYSABRI CONC 300MG TWN_P2_T-107-03-05(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=22000014&Seq=005&Type=9"
+            "title": "41154-06 COM CARTON MPL TYSABRI CONC 300MG 1PK TWN_P1_T-108-10-29(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=22000014&Seq=011&Type=8"
         },
         {
-            "title": "中文Tysabri PI TW 2016 EMEA version 20170629-106-06-29.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=22000014&Seq=003&Type=9"
+            "title": "41152-07 COM CARTON APL TYSABRI CONC 300MG 1PK TWN_P1_T-108-10-29(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=22000014&Seq=010&Type=8"
         },
         {
             "title": "41155-04 COM LABEL VIAL TYSABRI CONC 300MG HLR TWN_P1_T-107-03-05(廠商自行上傳).pdf",

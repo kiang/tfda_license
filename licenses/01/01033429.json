@@ -1,7 +1,7 @@
 {
     "code": "01033429",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01033429",
-    "time": "2016-11-18 12:58:31",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01033429",
+    "time": "2020-01-10 03:02:38",
     "許可證字號": "衛署藥製字第033429號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,25 +13,25 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00103342900",
     "中文品名": "必壓生注射液２０單位\/毫升（氨胍戊酸血管加壓素）",
-    "英文品名": "PITRESSIN INJECTION 20 UNITS\/ML (ARGININE VASOPRESSIU)",
+    "英文品名": "PITRESSIN INJECTION 20 UNITS\/ML (ARGININE VASOPRESSIN)",
     "適應症": "食道靜脈曲張出血，尿崩症，手術後腹部膨脹，排除腹部氣影。",
     "劑型": "270注射劑",
     "包裝": "5毫升小瓶 1毫升安瓿 100支以下盒裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "05限由醫師使用",
-    "主成分略述": [
-        "ARGIPRESSIN(8-ARGININEVASOPRESSIN)"
+    "": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "01國　產",
-    "申請商名稱": "1504402200  輝瑞大藥廠股份有限公司",
+    "藥品類別": "05限由醫師使用",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "6133061495  聯亞藥業股份有限公司新竹廠",
-        "製造廠廠址": "新竹縣湖口鄉中興村光復北路45號",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "01國　產",
+        "申請商名稱": "1504402200  輝瑞大藥廠股份有限公司",
+        "申請商地址": "新北市淡水區中正東路二段１７７號",
+        "主製造廠": ""
     },
-    "CCC號列": "30043900005 醫藥製劑，含有其他內分泌素者Medicaments, containing other hormones",
+    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -43,26 +43,30 @@
             "單位": "U (UN"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Pitressin Injection 20unit per ml_20150922-104-09-24(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033429&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "Pitressin LLD CDS 199703-3 (V2)-105-11-08(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033429&Seq=004&Type=9"
-        },
-        {
-            "title": "Pitressin LLD 199703-3-104-09-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033429&Seq=003&Type=9"
-        },
-        {
-            "title": "Pitressin 藥製033429-103-04-21.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033429&Seq=002&Type=9"
-        },
-        {
-            "title": "010334290001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033429&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033429&Seq=004&Type=9"
         },
         {
             "title": "Pitressin Injection 20unit per ml_20160105_AW-105-01-06(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033429&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033429&Seq=001&Type=8"
         }
     ]
 }

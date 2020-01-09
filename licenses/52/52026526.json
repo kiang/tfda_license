@@ -1,7 +1,7 @@
 {
     "code": "52026526",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026526",
-    "time": "2017-06-16 03:05:12",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026526",
+    "time": "2020-01-10 03:10:09",
     "許可證字號": "衛部藥輸字第026526號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,19 +17,19 @@
     "適應症": "對Meropenem具有感受性之細菌引起之感染症。",
     "劑型": "240乾粉注射劑",
     "包裝": "0.5克、1克玻璃小瓶裝 100支以下盒裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "05限由醫師使用",
-    "主成分略述": [
-        "MEROPENEMTRIHYDRATE"
+    "": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "02輸　入 24監視期滿學名藥",
-    "申請商名稱": "6231115367  永立榮生醫股份有限公司",
+    "藥品類別": "05限由醫師使用",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "F250456100  FACTA FARMACEUTICI S.P.A.",
-        "製造廠廠址": "NUCLEO INDUSTRIALE S. ATTO S. NICOL&#210; A TORDINO 64100, TERAMO, ITALY",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入 24監視期滿學名藥",
+        "申請商名稱": "6231115367  永立榮生醫股份有限公司",
+        "申請商地址": "新北市汐止區新台五路1段99號18樓之5",
+        "主製造廠": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -51,30 +51,38 @@
             "單位": "GM"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Meropenem 1000mg_外觀-104-09-15(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026526&Seq=004&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "520265260001-106-05-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026526&Seq=003&Type=9"
+            "title": "仿單(ACS)-108-12-30.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026526&Seq=002&Type=9"
         },
         {
-            "title": "520265260002_label-106-05-10.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026526&Seq=011&Type=8"
+            "title": "標籤-108-12-30.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026526&Seq=014&Type=8"
         },
         {
-            "title": "520265260006_box 1000mg 10-106-05-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026526&Seq=010&Type=8"
+            "title": "外盒-Meropenem_1000mg_A138RCMERO100_20180613-108-12-30.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026526&Seq=013&Type=8"
         },
         {
-            "title": "520265260004_box 500mg 10-106-05-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026526&Seq=009&Type=8"
-        },
-        {
-            "title": "520265260005_box 1000mg 1-106-05-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026526&Seq=008&Type=8"
-        },
-        {
-            "title": "520265260003_box 500mg 1-106-05-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026526&Seq=007&Type=8"
+            "title": "外盒-Meropenem_500mg_A138RCMERO500_20180613-108-12-30.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026526&Seq=012&Type=8"
         }
     ]
 }
