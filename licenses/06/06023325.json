@@ -1,11 +1,11 @@
 {
     "code": "06023325",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023325",
-    "time": "2017-06-16 03:53:49",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023325",
+    "time": "2020-02-07 03:15:38",
     "許可證字號": "衛署醫器輸字第023325號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "108\/12\/20",
+    "註銷理由": "未展延而逾期者",
     "有效日期": "106\/04\/25",
     "發證日期": "101\/04\/25",
     "許可證種類": "醫　器",
@@ -18,43 +18,41 @@
     "醫器規格": "KBD-250CA, KBD-500CA,以下空白",
     "劑型": "",
     "包裝": "",
-    "標籤、仿單及包裝加註": "",
     "": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": "",
     "醫器主類別一": "B血液學及病理學裝置",
-    "醫器次類別一": "B9100血液與血液成分收集與處理之容器",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "620101I202  凱圖國際股份有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
+        "限制項目": "02輸　入",
+        "申請商名稱": "620101I202  凱圖國際股份有限公司",
+        "申請商地址": "台北市松山區南京東路三段275號3樓",
         "主製造廠": "",
-        "製造廠名稱": "M261024000  KAWASUMI LABORATORIES, INC. YAYOI FACTORY",
-        "製造廠廠址": "2051 OSAKAMOTO, YAYOI, SAIKI-SHI, OITA, 876-0101 APAN",
-        "製造廠公司地址": "",
         "": ""
     },
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060233250004___20120620.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023325&Seq=003&Type=9"
+            "title": "060233250004___20120620.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023325&Seq=003&Type=9"
         },
         {
-            "title": "060233250003___20120620.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023325&Seq=002&Type=9"
+            "title": "060233250003___20120620.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023325&Seq=002&Type=9"
         },
         {
-            "title": "060233250002___20120620.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023325&Seq=001&Type=9"
+            "title": "060233250002___20120620.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023325&Seq=001&Type=9"
         },
         {
-            "title": "060233250001___20120620.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023325&Seq=001&Type=8"
+            "title": "060233250001___20120620.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023325&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "09000113",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=09000113",
-    "time": "2019-07-26 03:22:27",
+    "time": "2020-02-07 03:03:55",
     "許可證字號": "衛署菌疫製字第000113號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,19 +17,19 @@
     "適應症": "預防流感。",
     "劑型": "270注射劑",
     "包裝": "0.5公撮(1 Syringe\/盒)注射針筒 0.25公撮、0.5公撮(20 Syringe\/盒)注射針筒 0.5公撮、1公撮、5公撮、20公撮(10瓶\/盒)玻璃瓶裝",
-    "儲存溫度": "",
+    "": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
+    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": [
         ""
     ],
     "藥品類別": "06須由醫師處方使用",
-    "主成分略述": "A\/California\/7\/2009(H1N1)-like virus, B\/Colorado\/06\/2017-like virus (Victoria lineage) (B\/Maryland\/15\/2016 (Reassortant NYMC BX-69A)), A\/Kansas\/14\/2017 (H3N2)-like virus (A\/Kansas\/14\/2017 (Reassortant X-327)), A\/Brisbane\/02\/2018 (H1N1) pdm09-like virus (A\/Brisbane\/02\/2018 (Reassortant IVR-190))",
+    "藥品分類": "疫苗",
     "主製造廠": {
+        "限制項目": "01國　產",
         "申請商名稱": "1101110200  國光生物科技股份有限公司",
         "申請商地址": "台中市潭子區潭興路一段三號",
-        "主製造廠": "",
-        "製造廠名稱": "1101110300  國光生物科技股份有限公司"
+        "主製造廠": ""
     },
     "CCC號列": "30022000008 人類醫藥用疫苗Vaccines for human medicine",
     "藥理治療分類": "",
@@ -67,18 +67,34 @@
             "單位": "MCG\/ML (=UG\/ML)"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "AdimFlu-S_0.5mL-104-09-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000113&Seq=003&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "2018年 AdimFlu-S 仿單(無汞)(0.5mL)_180904 final-107-09-10.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000113&Seq=045&Type=9"
+            "title": "2019年 AdimFlu-S 仿單(無汞)(0.5mL)_190912 -109-01-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000113&Seq=048&Type=9"
         },
         {
-            "title": "2018年 AdimFlu-S 仿單(民眾版)_180904 final-107-09-10.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000113&Seq=044&Type=9"
+            "title": "2019年 AdimFlu-S 仿單(民眾版)_190912 -109-01-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000113&Seq=047&Type=9"
         },
         {
-            "title": "2018年 AdimFlu-S 仿單(小兒用)(0.25mL)_180904 final-107-09-10.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000113&Seq=043&Type=9"
+            "title": "2019年 AdimFlu-S 仿單(小兒用)(0.25mL)_190912-109-01-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000113&Seq=046&Type=9"
         },
         {
             "title": "180321國光-安定伏流感0.25mL 20支裝盒(桃紅色)-校稿_送TFDA-107-09-10.pdf",

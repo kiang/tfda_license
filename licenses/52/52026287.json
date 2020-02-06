@@ -1,7 +1,7 @@
 {
     "code": "52026287",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026287",
-    "time": "2019-09-27 03:19:45",
+    "time": "2020-02-07 03:04:57",
     "許可證字號": "衛部藥輸字第026287號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -24,12 +24,12 @@
         ""
     ],
     "藥品類別": "06須由醫師處方使用",
-    "主成分略述": "Lacosamide",
+    "藥品分類": "",
     "主製造廠": {
+        "限制項目": "02輸　入 1EPhase IV Study",
         "申請商名稱": "620101S739  台灣優時比貿易有限公司",
         "申請商地址": "台北市松山區南京東路三段287號10樓",
-        "主製造廠": "",
-        "製造廠名稱": "FDE0603000  Aesica Pharmaceuticals GmbH"
+        "主製造廠": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -61,12 +61,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "Vimpat_insert (FCT)_中文仿單2018-009-107-09-18.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026287&Seq=005&Type=9"
+            "title": "Vimpat_insert (FCT)_中文仿單_Vimpat mono dose-109-01-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026287&Seq=006&Type=9"
         },
         {
-            "title": "鋁箔_維帕特200毫克膜衣錠_藥輸026287號-103-06-19.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026287&Seq=002&Type=8"
+            "title": "CIA76422E_ALU_VIMPAT_200MG_TAB_MON_TW-109-01-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026287&Seq=004&Type=8"
+        },
+        {
+            "title": "CIA76428D_BOX_VIMPAT_200MG_56TAB_MON_TW_MU2_Winnrev-109-01-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026287&Seq=003&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "06013062",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06013062",
-    "time": "2017-06-16 03:30:49",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06013062",
+    "time": "2020-02-07 03:06:38",
     "許可證字號": "衛署醫器輸字第013062號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,47 +18,45 @@
     "醫器規格": "25 strips\/bottle",
     "劑型": "",
     "包裝": "",
-    "標籤、仿單及包裝加註": "",
     "": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": "",
     "醫器主類別一": "A臨床化學及臨床毒理學用裝置",
-    "醫器次類別一": "",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "6203282380  西門子醫療設備股份有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
+        "限制項目": "02輸　入",
+        "申請商名稱": "6203282380  西門子醫療設備股份有限公司",
+        "申請商地址": "台北市南港區園區街3號2樓之2",
         "主製造廠": "",
-        "製造廠名稱": "M462649000  SIEMENS HEALTHCARE DIAGNOSTICS INC.",
-        "製造廠廠址": "3400 MIDDLEBURY STREET ELKHART, IN 46515, USA",
-        "製造廠公司地址": "",
         "": ""
     },
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060130620002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013062&Seq=002&Type=9"
+            "title": "060130620002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013062&Seq=002&Type=9"
         },
         {
-            "title": "060130620001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013062&Seq=001&Type=9"
+            "title": "060130620001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013062&Seq=001&Type=9"
         },
         {
-            "title": "060130620003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013062&Seq=003&Type=8"
+            "title": "060130620003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013062&Seq=003&Type=8"
         },
         {
-            "title": "060130620002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013062&Seq=002&Type=8"
+            "title": "060130620002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013062&Seq=002&Type=8"
         },
         {
-            "title": "060130620001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013062&Seq=001&Type=8"
+            "title": "060130620001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013062&Seq=001&Type=8"
         }
     ]
 }
