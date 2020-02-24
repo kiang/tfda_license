@@ -163,7 +163,9 @@ function getLicense($code, $toCache = true) {
                     break;
                 case 21:
                     $part1 = explode('</th>', $cols[0]);
-                    $data['主製造廠'][trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
+                    if(isset($part1[1])) {
+                        $data['主製造廠'][trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
+                    }
                     if(isset($cols[1])) {
                         $part2 = explode('</th>', $cols[1]);
                         if(isset($part2[1])) {
