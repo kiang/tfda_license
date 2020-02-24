@@ -1,7 +1,7 @@
 {
     "code": "01038531",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01038531",
-    "time": "2017-05-26 03:45:31",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01038531",
+    "time": "2020-02-25 06:20:38",
     "許可證字號": "衛署藥製字第038531號",
     "註銷狀態": "已註銷",
     "註銷日期": "106\/03\/28",
@@ -17,21 +17,21 @@
     "適應症": "胃潰瘍、十二指腸潰瘍、消化性食道炎、上胃腸道糜爛或潰瘍引起之出血、再發性潰瘍、孔性潰瘍、膽囊纖維變性併發有胰臟功能不全時之補助療法",
     "劑型": "110錠劑",
     "包裝": "塑膠容器裝 鋁箔盒裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "06須由醫師處方使用",
-    "主成分略述": [
-        "CIMETIDINE"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "01國　產 1G不得製造",
-    "申請商名稱": "0603820200  成大藥品股份有限公司",
+    "藥品類別": "06須由醫師處方使用",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "0603820300  成大藥品股份有限公司",
-        "製造廠廠址": "台南市麻豆區南勢里關帝廟８０號",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "01國　產 1G不得製造",
+        "申請商名稱": "0603820200  成大藥品股份有限公司",
+        "申請商地址": "台南市麻豆區南勢里關帝廟８０號",
+        "主製造廠": ""
     },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses,put up in measured doses or in forms or packings for retail sale",
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -59,14 +59,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "7.4*12.3mm",
+        "特殊劑型": "",
+        "顏色": "橘色",
+        "特殊氣味": "",
+        "刻痕": "有",
+        "形狀": "橢圓形",
+        "標記一": "中間有一橫線",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "CA-221成大-喜美胃錠200毫克-1000粒瓶裝(104.09.24)-104-09-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038531&Seq=003&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "CA-221-1成大-喜美胃錠200毫克(添加草莓香料)(104.12.18)(說)-104-12-18(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038531&Seq=008&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038531&Seq=008&Type=9"
         },
         {
             "title": "CA-221成大-喜美胃錠200毫克-標籤(104.09.18)-104-09-25(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038531&Seq=003&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01038531&Seq=003&Type=8"
         }
     ]
 }
