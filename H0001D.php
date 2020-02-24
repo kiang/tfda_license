@@ -30,6 +30,12 @@ function getLicense($code, $toCache = true) {
     }
     $p = file_get_contents($cacheFile);
     $lines = explode('</tr>', $p);
+    foreach($lines AS $k => $v) {
+        if($k > 5) {
+            $posBegin = strpos($v, '<tr');
+            $lines[$k] = substr($v, $posBegin);
+        }
+    }
     $linesCount = count($lines);
     $lineNo = 0;
     $data = array(
@@ -158,17 +164,24 @@ function getLicense($code, $toCache = true) {
                 case 21:
                     $part1 = explode('</th>', $cols[0]);
                     $data['主製造廠'][trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
-                    $part2 = explode('</th>', $cols[1]);
-                    if(isset($part2[1])) {
-                      $data['主製造廠'][trim(strip_tags($part2[0]))] = trim(strip_tags($part2[1]));
+                    if(isset($cols[1])) {
+                        $part2 = explode('</th>', $cols[1]);
+                        if(isset($part2[1])) {
+                          $data['主製造廠'][trim(strip_tags($part2[0]))] = trim(strip_tags($part2[1]));
+                        }    
                     }
                     break;
                 default:
                     if ($linesCount - $lineNo === 1 || $linesCount - $lineNo === 2) {
                         $part1 = explode('</th>', $cols[0]);
-                        $data[trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
+                        if(isset($part1[1])) {
+                            $data[trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
+                        }
                     }
             }
+        }
+        if(isset($data[''])) {
+            unset($data['']);
         }
         $fPos = strpos($p, '<div id="pnlFact2">');
         if (false !== $fPos) {
