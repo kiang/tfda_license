@@ -1,7 +1,7 @@
 {
     "code": "06012711",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06012711",
-    "time": "2017-06-16 03:07:05",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06012711",
+    "time": "2020-02-25 18:30:30",
     "許可證字號": "衛署醫器輸字第012711號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,47 +18,44 @@
     "醫器規格": "D-YSPD,以下空白",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "E心臟血管用裝置",
-    "醫器次類別一": "",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入 09委託製造",
-    "申請商名稱": "1439301100  美敦力醫療產品股份有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "M300096000  Covidien",
-        "製造廠廠址": "19030 Libramiento, Boulevard Insurgentes, 22225 Tijuana, B.C.Mexico",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入 09委託製造",
+        "申請商名稱": "1439301100  美敦力醫療產品股份有限公司",
+        "申請商地址": "台北市松山區敦化南路一段2號2樓",
+        "主製造廠": ""
     },
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060127110004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012711&Seq=004&Type=9"
+            "title": "060127110004.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012711&Seq=004&Type=9"
         },
         {
-            "title": "060127110003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012711&Seq=003&Type=9"
+            "title": "060127110003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012711&Seq=003&Type=9"
         },
         {
-            "title": "060127110002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012711&Seq=002&Type=9"
+            "title": "060127110002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012711&Seq=002&Type=9"
         },
         {
-            "title": "060127110001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012711&Seq=001&Type=9"
+            "title": "060127110001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012711&Seq=001&Type=9"
         },
         {
-            "title": "060127110001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012711&Seq=001&Type=8"
+            "title": "060127110001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012711&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "06014853",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014853",
-    "time": "2016-11-19 00:10:21",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014853",
+    "time": "2020-02-25 18:54:19",
     "許可證字號": "衛署醫器輸字第014853號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -10,7 +10,7 @@
     "發證日期": "94\/11\/21",
     "許可證種類": "醫　器",
     "舊證字號": "",
-    "醫療器材級數": "",
+    "醫療器材級數": "第二等級",
     "通關簽審文件編號": "DHA00601485300",
     "中文品名": "立浮側 分析已知化學品管液 濃度1,2",
     "英文品名": "Lyphochek Assayed Chemistry Control Levels 1,2",
@@ -18,60 +18,56 @@
     "醫器規格": "C-310-5: 12x5 ml; C-315-5: 12x5 ml。313X：2x5 mL。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "A臨床化學及臨床毒理學",
-    "醫器次類別一": "A1660品管材料(分析與非分析)",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "0939801100  美商伯瑞股份有限公司台灣分公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "M461707000  BIO-RAD LABORATORIES",
-        "製造廠廠址": "9500 JERONIMO ROAD, IRVINE, CA 92618, U.S.A.",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "0939801100  美商伯瑞股份有限公司台灣分公司",
+        "申請商地址": "台北市松山區南京東路4段126號14樓",
+        "主製造廠": ""
     },
-    "CCC號列": "38220050009 檢定參照物Certified reference materials",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060148530001___20110608.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014853&Seq=002&Type=9"
+            "title": "060148530001___20110608.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014853&Seq=002&Type=9"
         },
         {
-            "title": "060148530001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014853&Seq=001&Type=9"
+            "title": "060148530001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014853&Seq=001&Type=9"
         },
         {
-            "title": "060148530006___20110608.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014853&Seq=006&Type=8"
+            "title": "060148530006___20110608.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014853&Seq=006&Type=8"
         },
         {
-            "title": "060148530005___20110608.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014853&Seq=005&Type=8"
+            "title": "060148530005___20110608.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014853&Seq=005&Type=8"
         },
         {
-            "title": "060148530004___20110608.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014853&Seq=004&Type=8"
+            "title": "060148530004___20110608.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014853&Seq=004&Type=8"
         },
         {
-            "title": "060148530003___20110608.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014853&Seq=003&Type=8"
+            "title": "060148530003___20110608.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014853&Seq=003&Type=8"
         },
         {
-            "title": "060148530002___20110608.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014853&Seq=002&Type=8"
+            "title": "060148530002___20110608.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014853&Seq=002&Type=8"
         },
         {
-            "title": "060148530001___20110608.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014853&Seq=001&Type=8"
+            "title": "060148530001___20110608.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014853&Seq=001&Type=8"
         }
     ]
 }

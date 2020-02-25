@@ -1,7 +1,7 @@
 {
     "code": "06018102",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06018102",
-    "time": "2017-06-16 03:18:35",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06018102",
+    "time": "2020-02-25 19:30:45",
     "許可證字號": "衛署醫器輸字第018102號",
     "註銷狀態": "已註銷",
     "註銷日期": "104\/12\/14",
@@ -18,55 +18,52 @@
     "醫器規格": "DAB-10E, DAB-40E, DAB-20E, DAB-30E, 以下空白。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "H胃腸病學-泌尿學科用裝置",
-    "醫器次類別一": "H5820血液透析系統及其附件",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "620101D921  台灣日機裝股份有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "M260373000  NIKKISO CO.,LTD.Shizuoka Medical Factory Shizuoka Plant",
-        "製造廠廠址": "498-1,Shizutani,Makinohara-shi,Shizuoka,421-0496,JAPAN",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "620101D921  台灣日機裝股份有限公司",
+        "申請商地址": "台北市松山區南京東路四段75號6樓",
+        "主製造廠": ""
     },
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060181020006.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018102&Seq=006&Type=9"
+            "title": "060181020006.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018102&Seq=006&Type=9"
         },
         {
-            "title": "060181020005.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018102&Seq=005&Type=9"
+            "title": "060181020005.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018102&Seq=005&Type=9"
         },
         {
-            "title": "060181020004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018102&Seq=004&Type=9"
+            "title": "060181020004.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018102&Seq=004&Type=9"
         },
         {
-            "title": "060181020003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018102&Seq=003&Type=9"
+            "title": "060181020003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018102&Seq=003&Type=9"
         },
         {
-            "title": "060181020002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018102&Seq=002&Type=9"
+            "title": "060181020002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018102&Seq=002&Type=9"
         },
         {
-            "title": "060181020001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018102&Seq=001&Type=9"
+            "title": "060181020001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018102&Seq=001&Type=9"
         },
         {
-            "title": "060181020001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018102&Seq=001&Type=8"
+            "title": "060181020001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018102&Seq=001&Type=8"
         }
     ]
 }

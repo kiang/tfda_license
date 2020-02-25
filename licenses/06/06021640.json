@@ -1,7 +1,7 @@
 {
     "code": "06021640",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021640",
-    "time": "2016-11-19 01:19:38",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021640",
+    "time": "2020-02-25 20:11:42",
     "許可證字號": "衛署醫器輸字第021640號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,40 +18,36 @@
     "醫器規格": "AquaB 1000, AquaB 1250, AquaB 1500, AquaB 1750, AquaB 2000以下空白。增加規格：詳如中文仿單核定本，以下空白。註銷規格: AquaB 1000, AquaB 1250, AquaB 1500, AquaB 1750, AquaB 2000。原99.11.29仿單標籤核定本予以回收作廢，以下空白。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "H胃腸病學-泌尿學科用裝置",
-    "醫器次類別一": "H5665透析用水之淨化系統",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入 09委託製造",
-    "申請商名稱": "1436301100  台灣費森尤斯醫藥股份有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "M470960000  VIVONIC GMBH",
-        "製造廠廠址": "KURFURST-EPPSTEIN-RING 4, D-63877 SAILAUF, GERMANY",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入 09委託製造",
+        "申請商名稱": "1436301100  台灣費森尤斯醫藥股份有限公司",
+        "申請商地址": "台北市內湖區瑞湖街58號7樓",
+        "主製造廠": ""
     },
-    "CCC號列": "90189050002 人工腎（透析）裝置Artificial kidney (dialysis) apparatus",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "06021640-103-01-21.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021640&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021640&Seq=002&Type=9"
         },
         {
             "title": "060216400002___20101207.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021640&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021640&Seq=001&Type=9"
         },
         {
             "title": "060216400001___20101207.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021640&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021640&Seq=001&Type=8"
         }
     ]
 }

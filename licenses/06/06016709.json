@@ -1,7 +1,7 @@
 {
     "code": "06016709",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06016709",
-    "time": "2016-11-25 03:49:44",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06016709",
+    "time": "2020-02-25 19:15:16",
     "許可證字號": "衛署醫器輸字第016709號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -10,7 +10,7 @@
     "發證日期": "98\/05\/11",
     "許可證種類": "醫　器",
     "舊證字號": "",
-    "醫療器材級數": "",
+    "醫療器材級數": "第二等級",
     "通關簽審文件編號": "DHAS0601670901",
     "中文品名": "&quot;超威特&quot;口外X光機",
     "英文品名": "&quot;VATECH&quot;EXTRAORAL SOURCE X-RAY SYSTEM",
@@ -18,44 +18,40 @@
     "醫器規格": "VX65，PAX-150C，PAX-300C，PAX-400C， NEO-TOP，PaX-P&P，PaX-500。增加規格：PaX-Primo，以下空白。註銷規格：VX65，PAX-300C，以下空白。仿單、標籤核定本遺失補發：詳如中文仿單核定本(原95.7.7核准之PAX-400C及96.12.3核准之Pax-500仿單、標籤核定本正本予以註銷作廢)。註銷規格：PAX-150C、NEO-TOP、PaX-P&P、PaX-500(原95.7.7及96.12.3核定之仿單標籤核定本予以作廢)。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "F牙科裝置",
-    "醫器次類別一": "",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入 14輸入須附同意書（每次輸入均須取得原子能委員會之同意書為憑）",
-    "申請商名稱": "620117E643  博泰醫療器材股份有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "M270141100  VATECH Co., Ltd.",
-        "製造廠廠址": "13, Samsung 1-ro 2-gil, Hwaseong-si, Gyeonggi-do, 445-170, KOREA",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入 14輸入須附同意書（每次輸入均須取得原子能委員會之同意書為憑）",
+        "申請商名稱": "620117E643  博泰醫療器材股份有限公司",
+        "申請商地址": "台北市內湖區洲子街62號5樓",
+        "主製造廠": ""
     },
-    "CCC號列": "90221300001 其他牙科用Ｘ光射線器具Other apparatus based on the use of X-rays, for dental uses",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "060167090002-105-08-22.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016709&Seq=077&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016709&Seq=077&Type=9"
         },
         {
             "title": "060167090001-105-08-22.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016709&Seq=076&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016709&Seq=076&Type=9"
         },
         {
             "title": "060167090002-105-08-22.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016709&Seq=003&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016709&Seq=003&Type=8"
         },
         {
             "title": "060167090001-105-08-22.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016709&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016709&Seq=002&Type=8"
         }
     ]
 }

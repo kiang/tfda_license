@@ -1,7 +1,7 @@
 {
     "code": "06007660",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06007660",
-    "time": "2017-06-16 03:29:47",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06007660",
+    "time": "2020-02-25 17:27:22",
     "許可證字號": "衛署醫器輸字第007660號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,39 +18,36 @@
     "醫器規格": "詳如仿單標籤核定本。詳如中文仿單標籤核定本。註銷規格：CTPEBS-11.5-5, CTPEBS-11.5-7, CTPEBS-11.5-9, CTPEBS-11.5-12, CTPEBS-11.5-15。詳如中文仿單核定本。註銷規格：詳如中文仿單核定本(原95年7月20日仿單核定本繳回作廢)。註銷規格：OAS-8.5、OAS-10、OAS-11.5、OAST-8.5、OAST-10、OAST-11.5，PLA-1、PLA-1-T及PLA-1-LT，以下空白。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "0399其他人工機能代用器",
-    "醫器次類別一": "",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "1420701100  台灣曲克股份有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "M230841000  Cook Ireland Ltd.",
-        "製造廠廠址": "O’Halloran Road, National Technology Park, Limerick, Ireland",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "1420701100  台灣曲克股份有限公司",
+        "申請商地址": "新北市新店區北新路三段207號11樓及207-1號11樓",
+        "主製造廠": ""
     },
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "06007660-106-04-13.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06007660&Seq=004&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06007660&Seq=004&Type=9"
         },
         {
             "title": "06007660-106-04-13.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06007660&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06007660&Seq=002&Type=8"
         },
         {
-            "title": "060076600001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06007660&Seq=001&Type=8"
+            "title": "060076600001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06007660&Seq=001&Type=8"
         }
     ]
 }

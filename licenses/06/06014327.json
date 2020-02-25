@@ -1,7 +1,7 @@
 {
     "code": "06014327",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014327",
-    "time": "2016-11-19 00:04:39",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014327",
+    "time": "2020-02-25 18:48:30",
     "許可證字號": "衛署醫器輸字第014327號",
     "註銷狀態": "已註銷",
     "註銷日期": "101\/12\/03",
@@ -18,48 +18,44 @@
     "醫器規格": "ATRIA 3000,以下空白",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "E心臟血管用裝置",
-    "醫器次類別一": "",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "0514901100  弘智企業有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "M460959000  CARDIAC SCIENCE CORPORATION",
-        "製造廠廠址": "3303 MONTE VILLA PARKWAY BOTHELL, WA 98021-8906 U.S.A.",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "0514901100  弘智企業有限公司",
+        "申請商地址": "新北市汐止區新台五路一段８１號９樓之７",
+        "主製造廠": ""
     },
-    "CCC號列": "90181100009 心電圖計Electro-cardiographs",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060143270005.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014327&Seq=005&Type=9"
+            "title": "060143270005.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014327&Seq=005&Type=9"
         },
         {
-            "title": "060143270004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014327&Seq=004&Type=9"
+            "title": "060143270004.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014327&Seq=004&Type=9"
         },
         {
-            "title": "060143270003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014327&Seq=003&Type=9"
+            "title": "060143270003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014327&Seq=003&Type=9"
         },
         {
-            "title": "060143270002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014327&Seq=002&Type=9"
+            "title": "060143270002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014327&Seq=002&Type=9"
         },
         {
-            "title": "060143270001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014327&Seq=001&Type=9"
+            "title": "060143270001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014327&Seq=001&Type=9"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "06010965",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010965",
-    "time": "2016-11-18 23:30:10",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010965",
+    "time": "2020-02-25 18:10:36",
     "許可證字號": "衛署醫器輸字第010965號",
     "註銷狀態": "已註銷",
     "註銷日期": "101\/10\/26",
@@ -18,48 +18,44 @@
     "醫器規格": "4340,4341,4342,4343,(雙極),以下空白。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "E心臟血管用裝置",
-    "醫器次類別一": "",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "1220601100  雄群企業有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "M230032000  GUIDANT IRELAND",
-        "製造廠廠址": "CASHEL ROAD, CLONMEL, TIPPERARY, IRELAND",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "1220601100  雄群企業有限公司",
+        "申請商地址": "台北市中山區松江路１３１號５樓",
+        "主製造廠": ""
     },
-    "CCC號列": "90219090009 其他第９０２１節所屬之貨品Other articles of heading 90.21",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060109650005.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010965&Seq=005&Type=9"
+            "title": "060109650005.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010965&Seq=005&Type=9"
         },
         {
-            "title": "060109650004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010965&Seq=004&Type=9"
+            "title": "060109650004.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010965&Seq=004&Type=9"
         },
         {
-            "title": "060109650003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010965&Seq=003&Type=9"
+            "title": "060109650003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010965&Seq=003&Type=9"
         },
         {
-            "title": "060109650002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010965&Seq=002&Type=9"
+            "title": "060109650002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010965&Seq=002&Type=9"
         },
         {
-            "title": "060109650001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010965&Seq=001&Type=9"
+            "title": "060109650001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010965&Seq=001&Type=9"
         }
     ]
 }

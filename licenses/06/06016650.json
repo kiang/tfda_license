@@ -1,7 +1,7 @@
 {
     "code": "06016650",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06016650",
-    "time": "2016-11-19 00:29:22",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06016650",
+    "time": "2020-02-25 19:14:38",
     "許可證字號": "衛署醫器輸字第016650號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -10,7 +10,7 @@
     "發證日期": "95\/06\/07",
     "許可證種類": "醫　器",
     "舊證字號": "",
-    "醫療器材級數": "",
+    "醫療器材級數": "第二等級",
     "通關簽審文件編號": "DHA00601665009",
     "中文品名": "&quot;因提寡&quot;萊可斯氧氣監視器",
     "英文品名": "&quot;INTEGRA&quot;LICOX BRAIN OXYGEN MONITORING SYSTEM",
@@ -18,36 +18,32 @@
     "醫器規格": "PMO.BOX,CC1.P1,VK5.2,IP1,IP2,以下空白。註銷規格：VK5.2，以下空白。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "K神經學科用裝置",
-    "醫器次類別一": "",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "0936801100  美麗康國際有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "M470456000  GMS-Gesellschaft Fur Medizinische Sondentechnik mbH",
-        "製造廠廠址": "DORFSTRAβE 2 D-24247 KIEL-MIKENDORF GERMANY",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "0936801100  美麗康國際有限公司",
+        "申請商地址": "台北市羅斯福路三段２４５號５樓之１",
+        "主製造廠": ""
     },
-    "CCC號列": "90181990002 其他電氣診斷器具Other electro-diagnostic apparatus",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "06016650-105-06-13.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016650&Seq=027&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016650&Seq=027&Type=9"
         },
         {
             "title": "06016650-105-06-13.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016650&Seq=004&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016650&Seq=004&Type=8"
         }
     ]
 }

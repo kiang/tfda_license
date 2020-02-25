@@ -1,7 +1,7 @@
 {
     "code": "06014170",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014170",
-    "time": "2016-11-19 00:02:55",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014170",
+    "time": "2020-02-25 18:46:29",
     "許可證字號": "衛署醫器輸字第014170號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -10,7 +10,7 @@
     "發證日期": "95\/03\/20",
     "許可證種類": "醫　器",
     "舊證字號": "",
-    "醫療器材級數": "",
+    "醫療器材級數": "第二等級",
     "通關簽審文件編號": "DHA00601417001",
     "中文品名": "&quot;理查沃夫&quot; 抽吸幫浦",
     "英文品名": "&quot;RICHARD WOLF&quot; SUCTION PUMP",
@@ -18,48 +18,44 @@
     "醫器規格": "SUCTION PUMP 2207, LAPARO PUMP 2215以下空白．102年6月13日新增規格:詳如中文仿單核定本，以下空白．註銷規格：2207.002及2215.002。仿單、標籤核定本遺失補發：詳如中文仿單核定本（原95年4月3日核准之仿單、標籤核定本正本遺失註銷作廢）。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "I一般及整型外科手術裝置",
-    "醫器次類別一": "",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "6217083804  宇瑞醫療器材有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "M470042100  RICHARD WOLF GMBH",
-        "製造廠廠址": "PFORZHEIMER STRABE 32, D-75438 KNITTLINGEN, GERMANY",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "6217083804  宇瑞醫療器材有限公司",
+        "申請商地址": "台中市南屯區大墩17街23號1樓",
+        "主製造廠": ""
     },
-    "CCC號列": "90189080006 其他第９０１８節所屬之貨品Other articles of heading 90.18",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "06014170-102-07-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014170&Seq=004&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014170&Seq=004&Type=9"
         },
         {
-            "title": "060141700003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014170&Seq=003&Type=9"
+            "title": "060141700003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014170&Seq=003&Type=9"
         },
         {
-            "title": "060141700002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014170&Seq=002&Type=9"
+            "title": "060141700002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014170&Seq=002&Type=9"
         },
         {
-            "title": "060141700001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014170&Seq=001&Type=9"
+            "title": "060141700001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014170&Seq=001&Type=9"
         },
         {
-            "title": "060141700001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014170&Seq=001&Type=8"
+            "title": "060141700001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014170&Seq=001&Type=8"
         }
     ]
 }

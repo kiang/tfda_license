@@ -1,11 +1,11 @@
 {
     "code": "06021092",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021092",
-    "time": "2017-04-28 03:32:16",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021092",
+    "time": "2020-02-25 20:05:25",
     "許可證字號": "衛署醫器輸字第021092號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "107\/05\/28",
+    "註銷理由": "許可證已逾有效期",
     "有效日期": "104\/06\/11",
     "發證日期": "99\/06\/11",
     "許可證種類": "醫　器",
@@ -18,43 +18,40 @@
     "醫器規格": "詳如中文仿單核定本",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "E心臟血管用裝置",
-    "醫器次類別一": "E1290可操控導管控制系統",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "6201118547  台灣聖猷達醫療用品有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "M462701000  HANSEN MEDICAL, INC.",
-        "製造廠廠址": "800 EAST MIDDLEFIELD RD., MOUNTAIN VIEW, CA 94043, USA",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "6201118547  台灣聖猷達醫療用品有限公司",
+        "申請商地址": "台北市內湖區瑞光路407號5樓",
+        "主製造廠": ""
     },
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "060210920004___20100730.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021092&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021092&Seq=001&Type=9"
         },
         {
-            "title": "060210920003___20100730.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021092&Seq=003&Type=8"
+            "title": "060210920003___20100730.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021092&Seq=003&Type=8"
         },
         {
-            "title": "060210920002___20100730.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021092&Seq=002&Type=8"
+            "title": "060210920002___20100730.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021092&Seq=002&Type=8"
         },
         {
-            "title": "060210920001___20100730.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021092&Seq=001&Type=8"
+            "title": "060210920001___20100730.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021092&Seq=001&Type=8"
         }
     ]
 }

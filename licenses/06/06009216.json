@@ -1,11 +1,11 @@
 {
     "code": "06009216",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06009216",
-    "time": "2016-11-18 23:11:55",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06009216",
+    "time": "2020-02-25 17:47:09",
     "許可證字號": "衛署醫器輸字第009216號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "108\/11\/17",
+    "註銷理由": "未展延而逾期者",
     "有效日期": "106\/08\/04",
     "發證日期": "88\/06\/25",
     "許可證種類": "醫　器",
@@ -18,44 +18,40 @@
     "醫器規格": "詳如中文仿單核定本、詳如中文仿單核定本。註銷規格：SP5107M-13（680053）、SP5107M-14（680054）、SP5507M-13（680068）、SP5507M-14（680069）。增加規格：SP4500（680000）、SP4572（680002）、SP5045（680006）。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "0606熱稀釋導管",
-    "醫器次類別一": "",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "620110R580  易邁生技股份有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "M390018000  ARGON CRITICAL CARE SYSTEMS SINGAPORE PTE. LTD.",
-        "製造廠廠址": "198 YISHUN AVE. 7,  SINGAPORE 768926",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "620110R580  易邁生技股份有限公司",
+        "申請商地址": "台北市大安區復興南路二段268號2樓之4",
+        "主製造廠": ""
     },
-    "CCC號列": "90183900007 其他導管、套管及類似品Other catheters, cannulae and the like",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "201306171644-102-06-17.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06009216&Seq=004&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06009216&Seq=004&Type=9"
         },
         {
-            "title": "060092160003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06009216&Seq=003&Type=9"
+            "title": "060092160003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06009216&Seq=003&Type=9"
         },
         {
-            "title": "060092160002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06009216&Seq=002&Type=9"
+            "title": "060092160002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06009216&Seq=002&Type=9"
         },
         {
-            "title": "060092160001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06009216&Seq=001&Type=9"
+            "title": "060092160001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06009216&Seq=001&Type=9"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "06012665",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06012665",
-    "time": "2016-11-18 23:47:04",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06012665",
+    "time": "2020-02-25 18:29:59",
     "許可證字號": "衛署醫器輸字第012665號",
     "註銷狀態": "已註銷",
     "註銷日期": "105\/04\/20",
@@ -10,7 +10,7 @@
     "發證日期": "94\/10\/12",
     "許可證種類": "醫　器",
     "舊證字號": "",
-    "醫療器材級數": "",
+    "醫療器材級數": "第二等級",
     "通關簽審文件編號": "DHA00601266502",
     "中文品名": "&quot;柯特曼&quot; 馬利斯雙極電外科系統",
     "英文品名": "&quot;CODMAN&quot; Malis CMC III Bipolar Electrosurgical System",
@@ -18,60 +18,56 @@
     "醫器規格": "詳如中文仿單核定本\r\n註銷規格:801148、801163、801176、301536、301539、809100、809115,以下空白。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "I一般及整型外科手術裝置",
-    "醫器次類別一": "",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "6401022675  壯生醫療器材股份有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "M460055000  CODMAN &amp; SHURTLEFF,INC.",
-        "製造廠廠址": "325 PARAMOUNT DRIVE, RAYNHAM, MA 02767 USA.",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "6401022675  壯生醫療器材股份有限公司",
+        "申請商地址": "臺北市大安區敦化南路二段319號6樓",
+        "主製造廠": ""
     },
-    "CCC號列": "90189080006 其他第９０１８節所屬之貨品Other articles of heading 90.18",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "06012665-2011-01-14.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012665&Seq=004&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012665&Seq=004&Type=9"
         },
         {
-            "title": "060126650003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012665&Seq=003&Type=9"
+            "title": "060126650003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012665&Seq=003&Type=9"
         },
         {
-            "title": "060126650002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012665&Seq=002&Type=9"
+            "title": "060126650002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012665&Seq=002&Type=9"
         },
         {
-            "title": "060126650001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012665&Seq=001&Type=9"
+            "title": "060126650001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012665&Seq=001&Type=9"
         },
         {
-            "title": "060126650004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012665&Seq=004&Type=8"
+            "title": "060126650004.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012665&Seq=004&Type=8"
         },
         {
-            "title": "060126650003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012665&Seq=003&Type=8"
+            "title": "060126650003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012665&Seq=003&Type=8"
         },
         {
-            "title": "060126650002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012665&Seq=002&Type=8"
+            "title": "060126650002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012665&Seq=002&Type=8"
         },
         {
-            "title": "060126650001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012665&Seq=001&Type=8"
+            "title": "060126650001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012665&Seq=001&Type=8"
         }
     ]
 }

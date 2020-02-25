@@ -1,11 +1,11 @@
 {
     "code": "06014098",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014098",
-    "time": "2016-11-19 00:02:03",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014098",
+    "time": "2020-02-25 18:45:39",
     "許可證字號": "衛署醫器輸字第014098號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "107\/05\/28",
+    "註銷理由": "許可證已逾有效期",
     "有效日期": "105\/03\/09",
     "發證日期": "95\/03\/09",
     "許可證種類": "醫　器",
@@ -18,40 +18,36 @@
     "醫器規格": "VNL-1130,VNL-1530T,VNL-1171K,以下空白",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "G耳鼻喉科用裝置",
-    "醫器次類別一": "",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "6201205652  禾瑞有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "M260701000  HOYA CORPORATION PENTAX MIYAGI FACTORY",
-        "製造廠廠址": "30-2 OKADA, AZA-SHIMOMIYANO, TSUKIDATE, KURIHARA-SHI, MIYAGI 987-2203, JAPAN",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "6201205652  禾瑞有限公司",
+        "申請商地址": "台北市中正區忠孝東路二段26號2樓",
+        "主製造廠": ""
     },
-    "CCC號列": "90189080006 其他第９０１８節所屬之貨品Other articles of heading 90.18",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060140980002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014098&Seq=002&Type=9"
+            "title": "060140980002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014098&Seq=002&Type=9"
         },
         {
-            "title": "060140980001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014098&Seq=001&Type=9"
+            "title": "060140980001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014098&Seq=001&Type=9"
         },
         {
-            "title": "060140980001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014098&Seq=001&Type=8"
+            "title": "060140980001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014098&Seq=001&Type=8"
         }
     ]
 }

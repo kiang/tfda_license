@@ -1,7 +1,7 @@
 {
     "code": "06020889",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06020889",
-    "time": "2016-11-19 01:12:57",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06020889",
+    "time": "2020-02-25 20:03:06",
     "許可證字號": "衛署醫器輸字第020889號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,40 +18,36 @@
     "醫器規格": "NICOM Reliant以下空白。規格變更：詳如中文仿單核定本（原99.5.11核定之中文仿單核定本予以註銷）。以下空白。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "E心臟血管用裝置",
-    "醫器次類別一": "E2770阻抗式體積描記器(阻抗式週邊血流描記器)",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "6231172371  微星儀器有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "M240093000  CHEETAH-MEDICAL (ISRAEL) LTD.",
-        "製造廠廠址": "38, HABARZEL ST.-69710 TEL-AVIV, ISRAEL",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "6231172371  微星儀器有限公司",
+        "申請商地址": "新北市林口區麗園一街6巷9號1樓之1",
+        "主製造廠": ""
     },
-    "CCC號列": "90181990002 其他電氣診斷器具Other electro-diagnostic apparatus",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "06020889001___20130120.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06020889&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06020889&Seq=002&Type=9"
         },
         {
             "title": "060208890001___20100610.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06020889&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06020889&Seq=001&Type=9"
         },
         {
             "title": "060208890002___20100610.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06020889&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06020889&Seq=001&Type=8"
         }
     ]
 }

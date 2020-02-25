@@ -1,7 +1,7 @@
 {
     "code": "06021142",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021142",
-    "time": "2016-11-19 01:15:11",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021142",
+    "time": "2020-02-25 20:06:00",
     "許可證字號": "衛署醫器輸字第021142號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,36 +18,32 @@
     "醫器規格": "ERBE JET2, ERBE ESM2以下空白",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "J一般醫院及個人使用裝置",
-    "醫器次類別一": "J5475噴射灌洗器",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "623104I905  艾柏生技有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "M470193000  ERBE ELEKTROMEDIZIN GMBH",
-        "製造廠廠址": "WALDHORNLESTR.17 D-72072 TU BINGEN GERMANY",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "623104I905  艾柏生技有限公司",
+        "申請商地址": "新北市中和區保健路48巷55號",
+        "主製造廠": ""
     },
-    "CCC號列": "90189080006 其他第９０１８節所屬之貨品Other articles of heading 90.18",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "020211420002___20100812.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021142&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021142&Seq=001&Type=9"
         },
         {
             "title": "020211420001___20100812.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021142&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021142&Seq=001&Type=8"
         }
     ]
 }

@@ -1,11 +1,11 @@
 {
     "code": "06018098",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06018098",
-    "time": "2017-06-16 03:18:34",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06018098",
+    "time": "2020-02-25 19:30:42",
     "許可證字號": "衛署醫器輸字第018098號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "108\/11\/28",
+    "註銷理由": "許可證已逾有效期",
     "有效日期": "106\/05\/24",
     "發證日期": "96\/05\/24",
     "許可證種類": "醫　器",
@@ -18,59 +18,56 @@
     "醫器規格": "WON-COSJET SR，以下空白。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "I一般及整型外科手術裝置",
-    "醫器次類別一": "I4810一般外科、整形外科及皮膚科用雷射儀",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "620110M683  威巨科技股份有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "M270174000  WON TECHNOLOGY CO., LTD.",
-        "製造廠廠址": "538, DAEDEOK TECHNO VALLEY, YONGSAN-DONG, YUSUNG-GU, DAEJEON 305-500 REPUBLIC OF KOREA",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "620110M683  威巨科技股份有限公司",
+        "申請商地址": "台北市內湖區瑞光路478巷18弄30號8樓",
+        "主製造廠": ""
     },
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060180980007.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018098&Seq=007&Type=9"
+            "title": "060180980007.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018098&Seq=007&Type=9"
         },
         {
-            "title": "060180980006.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018098&Seq=006&Type=9"
+            "title": "060180980006.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018098&Seq=006&Type=9"
         },
         {
-            "title": "060180980005.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018098&Seq=005&Type=9"
+            "title": "060180980005.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018098&Seq=005&Type=9"
         },
         {
-            "title": "060180980004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018098&Seq=004&Type=9"
+            "title": "060180980004.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018098&Seq=004&Type=9"
         },
         {
-            "title": "060180980003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018098&Seq=003&Type=9"
+            "title": "060180980003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018098&Seq=003&Type=9"
         },
         {
-            "title": "060180980002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018098&Seq=002&Type=9"
+            "title": "060180980002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018098&Seq=002&Type=9"
         },
         {
-            "title": "060180980001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018098&Seq=001&Type=9"
+            "title": "060180980001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018098&Seq=001&Type=9"
         },
         {
-            "title": "060180980001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018098&Seq=001&Type=8"
+            "title": "060180980001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018098&Seq=001&Type=8"
         }
     ]
 }

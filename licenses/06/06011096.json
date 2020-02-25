@@ -1,7 +1,7 @@
 {
     "code": "06011096",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06011096",
-    "time": "2016-11-18 23:31:34",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06011096",
+    "time": "2020-02-25 18:12:07",
     "許可證字號": "衛署醫器輸字第011096號",
     "註銷狀態": "已註銷",
     "註銷日期": "101\/11\/27",
@@ -18,48 +18,44 @@
     "醫器規格": "詳如中文仿單核定本",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "I一般及整型外科手術裝置",
-    "醫器次類別一": "",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "6201109182  英屬維京群島商吉時洋行股份有限公司台灣分公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "M462360000  VNUS MEDICAL TECHNOLOGIES, INC.",
-        "製造廠廠址": "5799 FONTANOSO WAY SAN JOSE, CA 95138, U.S.A.",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "6201109182  英屬維京群島商吉時洋行股份有限公司台灣分公司",
+        "申請商地址": "台北市中山區南京東路三段２００號８、９樓",
+        "主製造廠": ""
     },
-    "CCC號列": "90183900007 其他導管、套管及類似品Other catheters, cannulae and the like",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060110960005.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011096&Seq=005&Type=9"
+            "title": "060110960005.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011096&Seq=005&Type=9"
         },
         {
-            "title": "060110960004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011096&Seq=004&Type=9"
+            "title": "060110960004.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011096&Seq=004&Type=9"
         },
         {
-            "title": "060110960003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011096&Seq=003&Type=9"
+            "title": "060110960003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011096&Seq=003&Type=9"
         },
         {
-            "title": "060110960002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011096&Seq=002&Type=9"
+            "title": "060110960002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011096&Seq=002&Type=9"
         },
         {
-            "title": "060110960001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011096&Seq=001&Type=9"
+            "title": "060110960001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011096&Seq=001&Type=9"
         }
     ]
 }
