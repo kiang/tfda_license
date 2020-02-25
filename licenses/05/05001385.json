@@ -1,7 +1,7 @@
 {
     "code": "05001385",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05001385",
-    "time": "2016-11-18 21:09:04",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05001385",
+    "time": "2020-02-25 14:17:38",
     "許可證字號": "衛署醫器製字第001385號",
     "註銷狀態": "已註銷",
     "註銷日期": "101\/10\/26",
@@ -18,60 +18,58 @@
     "醫器規格": "HC-200 , HC-201 , HC-202 , HC-202 TR , HC-202T , HC-202R , HC-210 , HC-211 , HC-212 , HC-212 TR , HC-212T , HC-212R , 以下空白",
     "劑型": "",
     "包裝": "",
-    "標籤、仿單及包裝加註": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "O物理醫學科用裝置",
-    "醫器次類別一": "",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "01國　產",
-    "申請商名稱": "6136200547  愛力美科技股份有限公司二廠",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
+        "限制項目": "01國　產",
+        "申請商名稱": "6136200547  愛力美科技股份有限公司二廠",
+        "申請商地址": "台中市大里區工業路77號2樓",
         "主製造廠": "",
-        "製造廠名稱": "6136200547  愛力美科技股份有限公司二廠",
-        "製造廠廠址": "台中市大里區工業路77號2樓",
-        "製造廠公司地址": "",
         "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "050013850008.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001385&Seq=008&Type=9"
+            "title": "050013850008.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001385&Seq=008&Type=9"
         },
         {
-            "title": "050013850007.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001385&Seq=007&Type=9"
+            "title": "050013850007.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001385&Seq=007&Type=9"
         },
         {
-            "title": "050013850006.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001385&Seq=006&Type=9"
+            "title": "050013850006.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001385&Seq=006&Type=9"
         },
         {
-            "title": "050013850005.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001385&Seq=005&Type=9"
+            "title": "050013850005.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001385&Seq=005&Type=9"
         },
         {
-            "title": "050013850004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001385&Seq=004&Type=9"
+            "title": "050013850004.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001385&Seq=004&Type=9"
         },
         {
-            "title": "050013850003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001385&Seq=003&Type=9"
+            "title": "050013850003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001385&Seq=003&Type=9"
         },
         {
-            "title": "050013850002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001385&Seq=002&Type=9"
+            "title": "050013850002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001385&Seq=002&Type=9"
         },
         {
-            "title": "050013850001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001385&Seq=001&Type=9"
+            "title": "050013850001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001385&Seq=001&Type=9"
         }
     ]
 }

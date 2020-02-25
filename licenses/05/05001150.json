@@ -1,11 +1,11 @@
 {
     "code": "05001150",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05001150",
-    "time": "2016-11-18 21:06:47",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05001150",
+    "time": "2020-02-25 14:13:30",
     "許可證字號": "衛署醫器製字第001150號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "107\/08\/13",
+    "註銷理由": "未展延而逾期者",
     "有效日期": "103\/07\/22",
     "發證日期": "93\/07\/22",
     "許可證種類": "醫　器",
@@ -18,60 +18,58 @@
     "醫器規格": "YD-UVC-1511,YD-P-311,YD-P-131UV,YD-P-616UV,YD-P-626UV,YD-P-626MPUV,YD-P-UVPL-5,以下空白。",
     "劑型": "",
     "包裝": "",
-    "標籤、仿單及包裝加註": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "J一般醫院及個人使用裝置",
-    "醫器次類別一": "",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "01國　產",
-    "申請商名稱": "0812801200  亞達企業有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
+        "限制項目": "01國　產",
+        "申請商名稱": "0812801200  亞達企業有限公司",
+        "申請商地址": "台北市南港路三段８０巷３４號２樓",
         "主製造廠": "",
-        "製造廠名稱": "0812801600  亞達企業有限公司台北工廠",
-        "製造廠廠址": "台北市南港路３段８０巷３４號２樓",
-        "製造廠公司地址": "",
         "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "050011500008.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001150&Seq=008&Type=9"
+            "title": "050011500008.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001150&Seq=008&Type=9"
         },
         {
-            "title": "050011500007.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001150&Seq=007&Type=9"
+            "title": "050011500007.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001150&Seq=007&Type=9"
         },
         {
-            "title": "050011500006.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001150&Seq=006&Type=9"
+            "title": "050011500006.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001150&Seq=006&Type=9"
         },
         {
-            "title": "050011500005.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001150&Seq=005&Type=9"
+            "title": "050011500005.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001150&Seq=005&Type=9"
         },
         {
-            "title": "050011500004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001150&Seq=004&Type=9"
+            "title": "050011500004.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001150&Seq=004&Type=9"
         },
         {
-            "title": "050011500003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001150&Seq=003&Type=9"
+            "title": "050011500003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001150&Seq=003&Type=9"
         },
         {
-            "title": "050011500002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001150&Seq=002&Type=9"
+            "title": "050011500002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001150&Seq=002&Type=9"
         },
         {
-            "title": "050011500001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001150&Seq=001&Type=9"
+            "title": "050011500001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001150&Seq=001&Type=9"
         }
     ]
 }

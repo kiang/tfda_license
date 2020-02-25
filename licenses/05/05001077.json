@@ -1,7 +1,7 @@
 {
     "code": "05001077",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05001077",
-    "time": "2016-11-18 21:06:00",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05001077",
+    "time": "2020-02-25 14:12:14",
     "許可證字號": "衛署醫器製字第001077號",
     "註銷狀態": "已註銷",
     "註銷日期": "98\/07\/07",
@@ -18,52 +18,50 @@
     "醫器規格": "16Ga x 20 cm(BCV116-S), 14Ga x 20 cm(BCV1114-S), 7Fr x 20 cm(BCV3107-S)。7Fr x 20 cm(BCV2107-S), 7Fr x 30 cm(BCV2207-S), 8Fr x 20 cm(BCV2108-S), 8Fr x 30 cm(BCV2208-S), 7Fr x 30 cm(BCV3207-S)。",
     "劑型": "",
     "包裝": "",
-    "標籤、仿單及包裝加註": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "E心臟血管用裝置",
-    "醫器次類別一": "",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "01國　產",
-    "申請商名稱": "1303702200  新豐化工股份有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
+        "限制項目": "01國　產",
+        "申請商名稱": "1303702200  新豐化工股份有限公司",
+        "申請商地址": "台北縣淡水鎮淡金路五段118號",
         "主製造廠": "",
-        "製造廠名稱": "1303702600  新豐化工股份有限公司",
-        "製造廠廠址": "台北縣淡水鎮屯山里石頭厝１之４號",
-        "製造廠公司地址": "",
         "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "050010770001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001077&Seq=001&Type=9"
+            "title": "050010770001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001077&Seq=001&Type=9"
         },
         {
-            "title": "050010770005.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001077&Seq=005&Type=8"
+            "title": "050010770005.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001077&Seq=005&Type=8"
         },
         {
-            "title": "050010770004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001077&Seq=004&Type=8"
+            "title": "050010770004.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001077&Seq=004&Type=8"
         },
         {
-            "title": "050010770003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001077&Seq=003&Type=8"
+            "title": "050010770003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001077&Seq=003&Type=8"
         },
         {
-            "title": "050010770002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001077&Seq=002&Type=8"
+            "title": "050010770002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001077&Seq=002&Type=8"
         },
         {
-            "title": "050010770001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001077&Seq=001&Type=8"
+            "title": "050010770001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001077&Seq=001&Type=8"
         }
     ]
 }

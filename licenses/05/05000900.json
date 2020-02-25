@@ -1,7 +1,7 @@
 {
     "code": "05000900",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05000900",
-    "time": "2016-12-30 03:28:31",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05000900",
+    "time": "2020-02-25 14:09:32",
     "許可證字號": "衛署醫器製字第000900號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -10,7 +10,7 @@
     "發證日期": "90\/05\/02",
     "許可證種類": "醫　器",
     "舊證字號": "",
-    "醫療器材級數": "",
+    "醫療器材級數": "第二等級",
     "通關簽審文件編號": "DHY00500090005",
     "中文品名": "Ｔ型延長管",
     "英文品名": "T-SITE CONNECTOR &quot;LILY&quot;",
@@ -18,60 +18,58 @@
     "醫器規格": "CTC-015，CTC-015N。CTC-015S。規格變更：詳如中文仿單核定本(原103年2月25日核定之仿單標籤核定本予以作廢)。",
     "劑型": "",
     "包裝": "",
-    "標籤、仿單及包裝加註": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "J000一般醫院及個人使用裝",
-    "醫器次類別一": "",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "01國　產",
-    "申請商名稱": "0836008200  怡安醫療器材股份有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
+        "限制項目": "01國　產",
+        "申請商名稱": "0836008200  怡安醫療器材股份有限公司",
+        "申請商地址": "苗栗縣竹南鎮新南里７鄰三角店２８－２號",
         "主製造廠": "",
-        "製造廠名稱": "0836008600  怡安醫療器材股份有限公司",
-        "製造廠廠址": "苗栗縣竹南鎮新南里７鄰三角店２８－２號",
-        "製造廠公司地址": "",
         "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "050009000001-105-10-28.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000900&Seq=013&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000900&Seq=013&Type=9"
         },
         {
-            "title": "050009000011.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000900&Seq=011&Type=9"
+            "title": "050009000011.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000900&Seq=011&Type=9"
         },
         {
-            "title": "050009000010.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000900&Seq=010&Type=9"
+            "title": "050009000010.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000900&Seq=010&Type=9"
         },
         {
-            "title": "050009000009.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000900&Seq=009&Type=9"
+            "title": "050009000009.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000900&Seq=009&Type=9"
         },
         {
-            "title": "050009000008.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000900&Seq=008&Type=9"
+            "title": "050009000008.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000900&Seq=008&Type=9"
         },
         {
-            "title": "050009000007.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000900&Seq=007&Type=9"
+            "title": "050009000007.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000900&Seq=007&Type=9"
         },
         {
-            "title": "050009000006.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000900&Seq=006&Type=9"
+            "title": "050009000006.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000900&Seq=006&Type=9"
         },
         {
             "title": "050009000001-105-10-28.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000900&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000900&Seq=002&Type=8"
         }
     ]
 }

@@ -1,11 +1,11 @@
 {
     "code": "05001176",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05001176",
-    "time": "2016-11-18 21:07:02",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05001176",
+    "time": "2020-02-25 14:13:57",
     "許可證字號": "衛署醫器製字第001176號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "108\/10\/23",
+    "註銷理由": "許可證已逾有效期許可證已逾有效期1015054548撤銷註銷公告",
     "有效日期": "97\/12\/27",
     "發證日期": "93\/10\/13",
     "許可證種類": "醫　器",
@@ -18,48 +18,46 @@
     "醫器規格": "96測試\/480測試",
     "劑型": "",
     "包裝": "",
-    "標籤、仿單及包裝加註": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "B血液學及病理學用裝置",
-    "醫器次類別一": "",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "01國　產",
-    "申請商名稱": "0500705200  永進生物科技股份有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
+        "限制項目": "01國　產",
+        "申請商名稱": "0500705200  永進生物科技股份有限公司",
+        "申請商地址": "新竹縣科學工業園區工業東九路30號5樓",
         "主製造廠": "",
-        "製造廠名稱": "0500705300  永進生物科技股份有限公司",
-        "製造廠廠址": "新竹縣科學工業園區工業東九路30號5樓",
-        "製造廠公司地址": "",
         "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "050011760005.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001176&Seq=005&Type=9"
+            "title": "050011760005.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001176&Seq=005&Type=9"
         },
         {
-            "title": "050011760004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001176&Seq=004&Type=9"
+            "title": "050011760004.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001176&Seq=004&Type=9"
         },
         {
-            "title": "050011760003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001176&Seq=003&Type=9"
+            "title": "050011760003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001176&Seq=003&Type=9"
         },
         {
-            "title": "050011760002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001176&Seq=002&Type=9"
+            "title": "050011760002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001176&Seq=002&Type=9"
         },
         {
-            "title": "050011760001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001176&Seq=001&Type=9"
+            "title": "050011760001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001176&Seq=001&Type=9"
         }
     ]
 }

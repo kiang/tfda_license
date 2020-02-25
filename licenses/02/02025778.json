@@ -1,12 +1,12 @@
 {
     "code": "02025778",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025778",
-    "time": "2017-05-26 03:36:58",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025778",
+    "time": "2020-02-25 13:41:32",
     "許可證字號": "衛署藥輸字第025778號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/11\/12",
+    "有效日期": "111\/11\/12",
     "發證日期": "101\/11\/12",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -17,39 +17,39 @@
     "適應症": "一般醫護人員之手部殺菌及外科手術之手部殺菌。",
     "劑型": "370外用液劑",
     "包裝": "4000毫升以下塑膠瓶裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "17醫師藥師藥劑生指示藥品",
-    "主成分略述": [
-        "ETHANOL96%,ALCOHOLABSOLUTE(EQTOALCOHOLDEHYDRATED)(EQTOETHANOLABSOLUTEORABSOLUTEETHANOL),1-PROPANOL"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "",
-    "申請商名稱": "1426402100  台灣柏朗股份有限公司",
+    "藥品類別": "17醫師藥師藥劑生指示藥品",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "M430226000  B. BRAUN MEDICAL AG",
-        "製造廠廠址": "SEESATZ 17, CH-6204 SEMPACH, SWITZERLAND",
-        "製造廠公司地址": "D-34209 MELSUNGEN, GERMANY",
-        "": ""
+        "限制項目": "",
+        "申請商名稱": "1426402100  台灣柏朗股份有限公司",
+        "申請商地址": "台北市松山區健康路152號9樓",
+        "主製造廠": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "F430284000  ALCOSUISSE",
+            "製造廠名稱": "FCH0284000  ALCOSUISSE",
             "製造廠廠址": "CH-6105 SCHACHEN, SWITZERLAND",
             "製造廠公司地址": "",
             "製造廠國別": "SWITZERLAND",
             "製程": ""
         },
         {
-            "製造廠名稱": "F430285000  CHEMISCHE FABRIK SCHWEIZERHALL",
+            "製造廠名稱": "FCH0285000  CHEMISCHE FABRIK SCHWEIZERHALL",
             "製造廠廠址": "ELSASSERSTRASSE 231 CH-4013 BASEL, SWITZERLAND",
             "製造廠公司地址": "",
             "製造廠國別": "SWITZERLAND",
             "製程": ""
         },
         {
-            "製造廠名稱": "F470390000  BASF AG (PRIMARY SUPPLIER)",
+            "製造廠名稱": "FDE0390000  BASF AG (PRIMARY SUPPLIER)",
             "製造廠廠址": "D-67056 LUDWIGSHAFEN, GERMANY",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
@@ -82,14 +82,38 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "BB-19734-104-12-31(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025778&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "IFU-87320 - Softa-Man-104-12-31(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025778&Seq=003&Type=9"
+            "title": "Leaflet_87320_180619_TW_SMN_GIF_A5-108-03-29(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025778&Seq=005&Type=9"
         },
         {
-            "title": "19734 - Softa-Man-104-12-31(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025778&Seq=002&Type=8"
+            "title": "Label & Carton_19872_TW_SMN_1000-108-03-29(廠商自行上傳).PDF",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025778&Seq=005&Type=8"
+        },
+        {
+            "title": "Label & Carton_19734_TW_SMN_500_DP-108-03-29(廠商自行上傳).PDF",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025778&Seq=004&Type=8"
+        },
+        {
+            "title": "Label & Carton_19871_TW_SMN_100-108-03-29(廠商自行上傳).PDF",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025778&Seq=003&Type=8"
         }
     ]
 }

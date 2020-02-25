@@ -1,7 +1,7 @@
 {
     "code": "05000899",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05000899",
-    "time": "2017-02-24 03:15:59",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05000899",
+    "time": "2020-02-25 14:09:31",
     "許可證字號": "衛署醫器製字第000899號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,36 +18,130 @@
     "醫器規格": "詳如中文仿單核定本。詳如中文仿單核定本。CIV-110R, CIV-110RD, CIV-110RY, CIV-135RM, CIV-150E, CIV-110EN, CIV-150EY, CIV-150EYN, CIV-150Rxf, CIV-150Rn, CIV-150Rnf, CIV-150RL, CIV-150RNnf, CIV-150RNn, CIV-150RM, CIV-150RYN, CIV-165AY, CIV-165AY19G, CIV-165RY, CIV-180EMY, CIV-180EY, CIV-180EYN, CIV-180VY, CIV-180R, CIV-180RN, CIV-180RY。CIV-180EYST。增加規格：CIV-165EMY,CIV-165EMYS，以下空白。增加規格：CIV-250F,CIV-250FYS，以下空白。變更規格及仿單：詳如中文仿單核定本（原102年12月20日仿單標籤核定本收回作廢）。",
     "劑型": "",
     "包裝": "",
-    "標籤、仿單及包裝加註": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "J000一般醫院及個人使用裝",
-    "醫器次類別一": "",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "01國　產",
-    "申請商名稱": "0836008200  怡安醫療器材股份有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
+        "限制項目": "01國　產",
+        "申請商名稱": "0836008200  怡安醫療器材股份有限公司",
+        "申請商地址": "苗栗縣竹南鎮新南里７鄰三角店２８－２號",
         "主製造廠": "",
-        "製造廠名稱": "0836008600  怡安醫療器材股份有限公司",
-        "製造廠廠址": "苗栗縣竹南鎮新南里７鄰三角店２８－２號",
-        "製造廠公司地址": "",
         "": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "050008990013-106-01-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000899&Seq=020&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000899&Seq=020&Type=9"
+        },
+        {
+            "title": "050008890001-106-01-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000899&Seq=019&Type=9"
+        },
+        {
+            "title": "05000899-104-11-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000899&Seq=017&Type=9"
+        },
+        {
+            "title": "050008990002-102-12-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000899&Seq=016&Type=9"
+        },
+        {
+            "title": "050008990001-102-12-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000899&Seq=015&Type=9"
+        },
+        {
+            "title": "05000899001-102-07-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000899&Seq=014&Type=9"
+        },
+        {
+            "title": "05000899___20130503.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000899&Seq=013&Type=9"
+        },
+        {
+            "title": "050008990012.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000899&Seq=012&Type=9"
+        },
+        {
+            "title": "050008990011.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000899&Seq=011&Type=9"
+        },
+        {
+            "title": "050008990010.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000899&Seq=010&Type=9"
+        },
+        {
+            "title": "050008990009.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000899&Seq=009&Type=9"
+        },
+        {
+            "title": "050008990008.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000899&Seq=008&Type=9"
+        },
+        {
+            "title": "050008990007.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000899&Seq=007&Type=9"
+        },
+        {
+            "title": "050008990006.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000899&Seq=006&Type=9"
+        },
+        {
+            "title": "050008990005.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000899&Seq=005&Type=9"
+        },
+        {
+            "title": "050008990004.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000899&Seq=004&Type=9"
+        },
+        {
+            "title": "050008990003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000899&Seq=003&Type=9"
+        },
+        {
+            "title": "050008990002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000899&Seq=002&Type=9"
+        },
+        {
+            "title": "050008990001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000899&Seq=001&Type=9"
         },
         {
             "title": "050008990013-106-01-19.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000899&Seq=007&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000899&Seq=007&Type=8"
+        },
+        {
+            "title": "050008890001-106-01-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000899&Seq=006&Type=8"
+        },
+        {
+            "title": "05000899-104-11-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000899&Seq=005&Type=8"
+        },
+        {
+            "title": "05000899001-102-07-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000899&Seq=004&Type=8"
+        },
+        {
+            "title": "050008990003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000899&Seq=003&Type=8"
+        },
+        {
+            "title": "050008990002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000899&Seq=002&Type=8"
+        },
+        {
+            "title": "050008990001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000899&Seq=001&Type=8"
         }
     ]
 }

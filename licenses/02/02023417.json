@@ -1,12 +1,12 @@
 {
     "code": "02023417",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023417",
-    "time": "2017-06-16 03:53:17",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023417",
+    "time": "2020-02-25 13:07:40",
     "許可證字號": "衛署藥輸字第023417號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/04\/24",
+    "有效日期": "111\/04\/24",
     "發證日期": "91\/04\/24",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -14,24 +14,24 @@
     "通關簽審文件編號": "DHA00202341701",
     "中文品名": "保肝福錠",
     "英文品名": "HEPAWELL TABLETS",
-    "適應症": "慢性肝病、肝硬變及脂肪肝之佐藥。",
+    "適應症": "慢性肝病之佐藥。",
     "劑型": "110錠劑",
     "包裝": "6-1000粒塑膠瓶裝 6-1000粒盒裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "06須由醫師處方使用",
-    "主成分略述": [
-        "EXSICCATEDMILKTHISTLEEXTRACT,SILYMARIN(CALCULATEDASSILYBIN)"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "1902701100  鵬瑋國際有限公司",
+    "藥品類別": "17醫師藥師藥劑生指示藥品",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "F130160000  QUEST VITAMINS LTD.",
-        "製造廠廠址": "8 VENTURE WAY ASTON SCIENCE PARK BIRMINGHAM B7 4AP EMGLAND",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入 1Q不得輸入",
+        "申請商名稱": "1902701100  鵬瑋國際有限公司",
+        "申請商地址": "台北市南京東路四段９５號９樓之１",
+        "主製造廠": ""
     },
-    "CCC號列": "29389000004 其他天然或以合成方法再製之？及其鹽類、醚類、酯類及其他衍生物Other glycosides, natural or reproduced by synthesis, and their salts, ethers, esters and other derivatives",
+    "CCC號列": "29389000004 其他天然或以合成方法再製之?及其鹽類、醚類、酯類及其他衍生物Other glycosides, natural or reproduced by synthesis, and their salts, ethers, esters and other derivatives",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -51,14 +51,34 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Hepawell Tablets-104-12-03(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023417&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "HEPAWELL 仿單 完稿-104-12-04(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023417&Seq=004&Type=9"
+            "title": "20170704-保肝福錠Hepawell中文仿單-106-07-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023417&Seq=005&Type=9"
         },
         {
-            "title": "保肝福錠英文標籤-102-08-02.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023417&Seq=005&Type=8"
+            "title": "20170704-保肝福錠Hepawell標籤7pt-106-07-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023417&Seq=007&Type=8"
+        },
+        {
+            "title": "20170704-保肝福錠Hepawell外盒7pt-106-07-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023417&Seq=006&Type=8"
         }
     ]
 }

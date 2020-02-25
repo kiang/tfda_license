@@ -1,13 +1,13 @@
 {
     "code": "02025196",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025196",
-    "time": "2017-06-16 03:27:22",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025196",
+    "time": "2020-02-25 13:33:01",
     "許可證字號": "衛署藥輸字第025196號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "有效日期": "109\/05\/28",
-    "發證日期": "99\/05\/28",
+    "發證日期": "106\/11\/15",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
@@ -17,21 +17,21 @@
     "適應症": "維生素C、L-半胱氨酸鹽及維生素E缺乏症",
     "劑型": "130膠囊劑",
     "包裝": "12-100粒以下盒裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "17醫師藥師藥劑生指示藥品",
-    "主成分略述": [
-        "L-CYSTEINE,ASCORBICACID,D-ALPHA-TOCOPHER0L(MIXTOCOPHEROLSTYPE)"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "1232121200  裕心企業有限公司",
+    "藥品類別": "17醫師藥師藥劑生指示藥品",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "F260528000  SHIBAKAWA PLANT OF FUJI CAPSULE CO., LTD.",
-        "製造廠廠址": "789, SHIBAKAWA-CHO, KAMIYUNO, FUJI-GUN, SHIZUOKA, 419-0301, JAPAN",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "1232121200  裕心企業有限公司",
+        "申請商地址": "高雄市苓雅區青年一路１之３號",
+        "主製造廠": ""
     },
-    "CCC號列": "30045000009 含有維他命或第２９３６節產品之其他醫藥製劑Other medicaments containing vitamins or other products of heading 29.36",
+    "CCC號列": "30045000009 其他醫藥製劑，含有維他命或第２９３６節之其他產品Other medicaments, containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
     "次製造廠": [
         {
@@ -68,14 +68,46 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "長1.3公分 寬0.5公分",
+        "特殊劑型": "",
+        "顏色": "暗紅色",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "橢圓形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "025196_PTT_F-104-10-19(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025196&Seq=004&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
+            "title": "LCE亮皙軟膠囊仿單20170707-106-08-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025196&Seq=006&Type=9"
+        },
+        {
             "title": "麗磐_百優淨軟膠囊 025196-104-12-31(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025196&Seq=005&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025196&Seq=005&Type=9"
+        },
+        {
+            "title": "LCE外盒-107-05-22(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025196&Seq=008&Type=8"
+        },
+        {
+            "title": "LCE亮皙軟膠囊鋁箔20170707-106-08-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025196&Seq=007&Type=8"
+        },
+        {
+            "title": "LCE亮皙軟膠囊彩盒20170707-106-08-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025196&Seq=006&Type=8"
         },
         {
             "title": "025196_BOX-104-10-19(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025196&Seq=005&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025196&Seq=005&Type=8"
         }
     ]
 }
