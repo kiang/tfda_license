@@ -79,7 +79,9 @@ function getLicense($code, $toCache = true) {
                     $part1 = explode('</th>', $cols[0]);
                     $data[trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
                     $part2 = explode('</th>', $cols[1]);
-                    $data[trim(strip_tags($part2[0]))] = trim(strip_tags($part2[1]));
+                    if(isset($part2[1])) {
+                        $data[trim(strip_tags($part2[0]))] = trim(strip_tags($part2[1]));
+                    }
                     break;
                 case 17:
                     $part1 = explode('</th>', $cols[0]);
@@ -97,8 +99,12 @@ function getLicense($code, $toCache = true) {
                 case 24:
                     $part1 = explode('</th>', $cols[0]);
                     $data['主製造廠'][trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
-                    $part2 = explode('</th>', $cols[1]);
-                    $data['主製造廠'][trim(strip_tags($part2[0]))] = trim(strip_tags($part2[1]));
+                    if(isset($cols[1])) {
+                        $part2 = explode('</th>', $cols[1]);
+                        if(isset($part2[1])) {
+                            $data['主製造廠'][trim(strip_tags($part2[0]))] = trim(strip_tags($part2[1]));
+                        }    
+                    }
                     break;
                 default:
                     if ($linesCount - $lineNo === 1 || $linesCount - $lineNo === 2) {
