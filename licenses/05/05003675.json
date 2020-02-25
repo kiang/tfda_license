@@ -1,7 +1,7 @@
 {
     "code": "05003675",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05003675",
-    "time": "2017-05-26 03:48:31",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05003675",
+    "time": "2020-02-25 14:59:40",
     "許可證字號": "衛署醫器製字第003675號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,47 +18,44 @@
     "醫器規格": "AB-101(25片盒裝、30片盒裝、25片x2罐盒裝及50片盒裝)。新增規格：單片鋁箔包10片裝\/盒、單片鋁箔包25片裝\/盒、單片鋁箔包30片裝\/盒、單片鋁箔包50片裝\/盒。以下空白。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "A臨床化學及臨床毒理學",
-    "醫器次類別一": "A1345葡萄糖試驗系統",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "01國　產",
-    "申請商名稱": "6212017944  五鼎生物技術股份有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "6133101074  五鼎生物技術股份有限公司",
-        "製造廠廠址": "新竹科學工業園區新竹市力行五路七號",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "01國　產",
+        "申請商名稱": "6212017944  五鼎生物技術股份有限公司",
+        "申請商地址": "新竹市東區力行五路7號",
+        "主製造廠": ""
     },
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "050036750004-104-08-20.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003675&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003675&Seq=002&Type=9"
         },
         {
             "title": "050036750001___20121012.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003675&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003675&Seq=001&Type=9"
         },
         {
             "title": "050036750005-104-08-20.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003675&Seq=003&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003675&Seq=003&Type=8"
         },
         {
             "title": "050036750003___20121012.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003675&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003675&Seq=002&Type=8"
         },
         {
             "title": "050036750002___20121012.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003675&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003675&Seq=001&Type=8"
         }
     ]
 }

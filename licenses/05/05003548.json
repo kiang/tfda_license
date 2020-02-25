@@ -1,7 +1,7 @@
 {
     "code": "05003548",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05003548",
-    "time": "2017-05-26 03:48:29",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05003548",
+    "time": "2020-02-25 14:57:34",
     "許可證字號": "衛署醫器製字第003548號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,43 +18,40 @@
     "醫器規格": "ST8S31C(F)R,以下空白。增加規格：ST8SA1C(F)A、ST8SA1C(F)S、ST8SB1C(F)A、ST8SB1C(F)S、ST8SC1C(F)A、ST8SC1C(F)S，以下空白。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "J一般醫院及個人使用裝置",
-    "醫器次類別一": "J2910臨床電子體溫計",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "01國　產",
-    "申請商名稱": "6131020138  捷威科技股份有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "6131020138  捷威科技股份有限公司",
-        "製造廠廠址": "新北市三重區光復路一段86、88、88之一號7樓",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "01國　產",
+        "申請商名稱": "6131020138  捷威科技股份有限公司",
+        "申請商地址": "新北市三重區光復路一段86、88、88之1號7樓",
+        "主製造廠": ""
     },
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "201303051553仿單___20130305.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003548&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003548&Seq=002&Type=9"
         },
         {
             "title": "050035480001___20120912.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003548&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003548&Seq=001&Type=9"
         },
         {
             "title": "201303051553標籤___20130305.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003548&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003548&Seq=002&Type=8"
         },
         {
             "title": "050035480002___20120912.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003548&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003548&Seq=001&Type=8"
         }
     ]
 }

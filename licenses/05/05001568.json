@@ -1,16 +1,16 @@
 {
     "code": "05001568",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05001568",
-    "time": "2016-11-18 21:10:48",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05001568",
+    "time": "2020-02-25 14:24:59",
     "許可證字號": "衛署醫器製字第001568號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "107\/05\/28",
+    "註銷理由": "許可證已逾有效期",
     "有效日期": "104\/11\/04",
     "發證日期": "94\/11\/04",
     "許可證種類": "醫　器",
     "舊證字號": "",
-    "醫療器材級數": "",
+    "醫療器材級數": "第二等級",
     "通關簽審文件編號": "DHY00500156802",
     "中文品名": "&quot;三豐&quot;紅外線照暖燈",
     "英文品名": "&quot;TRIDENT&quot; INFRARED WARMINH LIGHT",
@@ -18,48 +18,44 @@
     "醫器規格": "WL-DT,WL-2DT,以下空白",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "O物理醫學科用裝置",
-    "醫器次類別一": "",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "1226202200  明基三豐醫療器材股份有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "1226202600  明基三豐醫療器材股份有限公司",
-        "製造廠廠址": "新北市林口區工二工業區工五路7號、7之1號",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "1226202200  明基三豐醫療器材股份有限公司",
+        "申請商地址": "台北市內湖區洲子街46號7樓",
+        "主製造廠": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "050015680002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001568&Seq=002&Type=9"
+            "title": "050015680002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001568&Seq=002&Type=9"
         },
         {
-            "title": "050015680001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001568&Seq=001&Type=9"
+            "title": "050015680001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001568&Seq=001&Type=9"
         },
         {
-            "title": "050015680003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001568&Seq=003&Type=8"
+            "title": "050015680003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001568&Seq=003&Type=8"
         },
         {
-            "title": "050015680002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001568&Seq=002&Type=8"
+            "title": "050015680002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001568&Seq=002&Type=8"
         },
         {
-            "title": "050015680001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001568&Seq=001&Type=8"
+            "title": "050015680001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001568&Seq=001&Type=8"
         }
     ]
 }

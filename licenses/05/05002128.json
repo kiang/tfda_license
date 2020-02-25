@@ -1,7 +1,7 @@
 {
     "code": "05002128",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05002128",
-    "time": "2017-06-16 03:29:21",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05002128",
+    "time": "2020-02-25 14:34:10",
     "許可證字號": "衛署醫器製字第002128號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,43 +18,40 @@
     "醫器規格": "詳如中文仿單核定本",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "I一般及整型外科手術裝置",
-    "醫器次類別一": "I4370外科用覆蓋巾及其附件",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "",
-    "申請商名稱": "6137200032  寶島衛材有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "6137200032  寶島衛材有限公司",
-        "製造廠廠址": "彰化縣二水鄉大園村員集路二段442號",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "",
+        "申請商名稱": "6137200032  寶島衛材有限公司",
+        "申請商地址": "彰化縣二水鄉大園村員集路二段442號",
+        "主製造廠": ""
     },
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "050021280002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05002128&Seq=002&Type=9"
+            "title": "050021280002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05002128&Seq=002&Type=9"
         },
         {
-            "title": "050021280001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05002128&Seq=001&Type=9"
+            "title": "050021280001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05002128&Seq=001&Type=9"
         },
         {
-            "title": "050021280002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05002128&Seq=002&Type=8"
+            "title": "050021280002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05002128&Seq=002&Type=8"
         },
         {
-            "title": "050021280001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05002128&Seq=001&Type=8"
+            "title": "050021280001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05002128&Seq=001&Type=8"
         }
     ]
 }

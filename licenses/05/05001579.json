@@ -1,7 +1,7 @@
 {
     "code": "05001579",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05001579",
-    "time": "2016-11-18 21:10:55",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05001579",
+    "time": "2020-02-25 14:25:07",
     "許可證字號": "衛署醫器製字第001579號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,44 +18,40 @@
     "醫器規格": "1.R1：4 X 160 ml + R2：4 X 15 ml\/盒2.R1：5 X 80 ml + R2：1 X 50 ml\/盒",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "A臨床化學及臨床毒理學用裝置",
-    "醫器次類別一": "",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "01國　產",
-    "申請商名稱": "6132041079  東耀生物科技有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "6132041079  東耀生物科技有限公司",
-        "製造廠廠址": "桃園市楊梅區金山街126號",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "01國　產",
+        "申請商名稱": "6132041079  東耀生物科技有限公司",
+        "申請商地址": "桃園市楊梅區金山街126號",
+        "主製造廠": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "050015790001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001579&Seq=001&Type=9"
+            "title": "050015790001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001579&Seq=001&Type=9"
         },
         {
-            "title": "050015790003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001579&Seq=003&Type=8"
+            "title": "050015790003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001579&Seq=003&Type=8"
         },
         {
-            "title": "050015790002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001579&Seq=002&Type=8"
+            "title": "050015790002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001579&Seq=002&Type=8"
         },
         {
-            "title": "050015790001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001579&Seq=001&Type=8"
+            "title": "050015790001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001579&Seq=001&Type=8"
         }
     ]
 }

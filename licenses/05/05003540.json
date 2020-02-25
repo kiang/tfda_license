@@ -1,7 +1,7 @@
 {
     "code": "05003540",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05003540",
-    "time": "2017-01-27 03:40:49",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05003540",
+    "time": "2020-02-25 14:57:28",
     "許可證字號": "衛署醫器製字第003540號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,36 +18,64 @@
     "醫器規格": "詳如中文仿單核定本。增加規格：FHG-303BK、FHG-303W、FHG-303G、FHG-303Y、FHG-303O、FHG-303R、FHG-303P、FHG-303B。新增規格：FLG-756BK、FLG-756W、FLG-756G、FLG-756Y、FLG-756BR、FLG-756R、FLG-756P、FLG-756B、FLG-756LP、FLG-756LB、FLG-756LG、FLG-756LY、FLG-756PK、FLG-756GR。增加規格：FLG-341GU、FLG-341SP、FLG-341PM、FLG-341BM。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "E心臟血管用裝置",
-    "醫器次類別一": "E2770阻抗式體積描記器(阻抗式週邊血流描記器)",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "01國　產",
-    "申請商名稱": "6136200556  啟德電子股份有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "6136200556  啟德電子股份有限公司",
-        "製造廠廠址": "臺中市大里區國中路103號",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "01國　產",
+        "申請商名稱": "6136200556  啟德電子股份有限公司",
+        "申請商地址": "臺中市大里區國中路103號",
+        "主製造廠": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "中文仿單-105-08-15.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003540&Seq=005&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003540&Seq=005&Type=9"
         },
         {
             "title": "050035400001-105-01-25.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003540&Seq=005&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003540&Seq=004&Type=9"
+        },
+        {
+            "title": "仿單___20130326.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003540&Seq=003&Type=9"
+        },
+        {
+            "title": "050035400002___20120620.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003540&Seq=002&Type=9"
+        },
+        {
+            "title": "050035400001___20120620.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003540&Seq=001&Type=9"
+        },
+        {
+            "title": "050035400001-105-01-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003540&Seq=005&Type=8"
+        },
+        {
+            "title": "彩圖___20130326.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003540&Seq=004&Type=8"
+        },
+        {
+            "title": "050035400005___20120620.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003540&Seq=003&Type=8"
+        },
+        {
+            "title": "050035400004___20120620.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003540&Seq=002&Type=8"
+        },
+        {
+            "title": "050035400003___20120620.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003540&Seq=001&Type=8"
         }
     ]
 }

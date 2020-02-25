@@ -1,7 +1,7 @@
 {
     "code": "05003344",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05003344",
-    "time": "2017-05-26 03:38:56",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05003344",
+    "time": "2020-02-25 14:54:26",
     "許可證字號": "衛署醫器製字第003344號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,43 +18,40 @@
     "醫器規格": "詳如中文仿單核定本。增加規格：993001-E。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "I一般及整型外科手術裝置",
-    "醫器次類別一": "I4400切割及止血用電刀及其附件",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "01國　產",
-    "申請商名稱": "1222301200  越聖儀器廠股份有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "1222301600  越聖儀器廠股份有限公司",
-        "製造廠廠址": "台北市士林區後港街96號2樓",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "01國　產",
+        "申請商名稱": "1222301200  越聖儀器廠股份有限公司",
+        "申請商地址": "台北市士林區前港街29號2樓",
+        "主製造廠": ""
     },
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "050033440001-106-03-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003344&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003344&Seq=002&Type=9"
         },
         {
             "title": "050033440001___20110906.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003344&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003344&Seq=001&Type=9"
         },
         {
             "title": "050033440001-106-03-27.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003344&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003344&Seq=002&Type=8"
         },
         {
             "title": "050033440002___20110906.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003344&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003344&Seq=001&Type=8"
         }
     ]
 }

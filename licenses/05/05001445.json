@@ -1,7 +1,7 @@
 {
     "code": "05001445",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05001445",
-    "time": "2017-06-16 03:06:06",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05001445",
+    "time": "2020-02-25 14:23:09",
     "許可證字號": "衛署醫器製字第001445號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,51 +18,48 @@
     "醫器規格": "詳如中文仿單核定本。變更規格：4121、4131。增加規格：3056。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "D麻醉學科用裝置",
-    "醫器次類別一": "D1860肺量計之尖峰流量表",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "01國　產",
-    "申請商名稱": "1115802200  崇仁科技事業股份有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "1115802600  崇仁科技事業股份有限公司",
-        "製造廠廠址": "新北市三重區重新路５段６０９巷６號５樓之２",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "01國　產",
+        "申請商名稱": "1115802200  崇仁科技事業股份有限公司",
+        "申請商地址": "宜蘭縣五結鄉成興村利工二路87號",
+        "主製造廠": ""
     },
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "05-001445 仿單 標籤 彩圖-102-12-03.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001445&Seq=006&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001445&Seq=006&Type=9"
         },
         {
-            "title": "050014450005.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001445&Seq=005&Type=9"
+            "title": "050014450005.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001445&Seq=005&Type=9"
         },
         {
-            "title": "050014450004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001445&Seq=004&Type=9"
+            "title": "050014450004.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001445&Seq=004&Type=9"
         },
         {
-            "title": "050014450003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001445&Seq=003&Type=9"
+            "title": "050014450003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001445&Seq=003&Type=9"
         },
         {
-            "title": "050014450002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001445&Seq=002&Type=9"
+            "title": "050014450002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001445&Seq=002&Type=9"
         },
         {
-            "title": "050014450001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001445&Seq=001&Type=9"
+            "title": "050014450001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001445&Seq=001&Type=9"
         }
     ]
 }

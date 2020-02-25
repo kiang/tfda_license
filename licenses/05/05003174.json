@@ -1,7 +1,7 @@
 {
     "code": "05003174",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05003174",
-    "time": "2016-11-18 21:25:41",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05003174",
+    "time": "2020-02-25 14:51:25",
     "許可證字號": "衛署醫器製字第003174號",
     "註銷狀態": "已註銷",
     "註銷日期": "102\/01\/21",
@@ -18,44 +18,40 @@
     "醫器規格": "60ml, 120ml, 250ml, 500ml塑膠瓶裝以下空白",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "M眼科用裝置",
-    "醫器次類別一": "M5928軟式隱形眼鏡保存用產品",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "01國　產",
-    "申請商名稱": "6133030016  台裕化學製藥廠股份有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "6133030016  台裕化學製藥廠股份有限公司",
-        "製造廠廠址": "新竹縣竹東鎮員山路11巷13弄1號",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "01國　產",
+        "申請商名稱": "6133030016  台裕化學製藥廠股份有限公司",
+        "申請商地址": "新竹縣竹東鎮員山路11巷13弄1號",
+        "主製造廠": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "05003174002___20110504.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003174&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003174&Seq=001&Type=9"
         },
         {
             "title": "050031740001___20110504.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003174&Seq=003&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003174&Seq=003&Type=8"
         },
         {
-            "title": "050031740001___20110503.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003174&Seq=002&Type=8"
+            "title": "050031740001___20110503.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003174&Seq=002&Type=8"
         },
         {
-            "title": "050031740001___.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003174&Seq=001&Type=8"
+            "title": "050031740001___.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05003174&Seq=001&Type=8"
         }
     ]
 }
