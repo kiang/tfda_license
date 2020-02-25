@@ -103,7 +103,9 @@ function getLicense($code, $toCache = true) {
                 default:
                     if ($linesCount - $lineNo === 1 || $linesCount - $lineNo === 2) {
                         $part1 = explode('</th>', $cols[0]);
-                        $data[trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
+                        if(isset($part1[1])) {
+                            $data[trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
+                        }
                     }
             }
         }
