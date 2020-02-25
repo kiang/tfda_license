@@ -1,7 +1,7 @@
 {
     "code": "07004507",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07004507",
-    "time": "2016-11-25 03:51:32",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07004507",
+    "time": "2020-02-25 21:30:59",
     "許可證字號": "衛署粧製字第004507號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,26 +12,25 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00700450700",
-    "中文品名": "防護日中凝乳 SPF 30",
-    "英文品名": "Face Shielding Milk SPF 30",
+    "中文品名": "防護日中凝乳 SPF 30\r\n零油感輕透防曬凝乳",
+    "英文品名": "Face Shielding Milk SPF 30\r\nUltra Light Sunscreen Fluid",
     "用途": "保護肌膚防止日曬傷害。",
     "劑型": "944乳劑",
     "包裝": "500公撮以下軟管裝 附外盒裝",
-    "標籤、仿單及包裝加註": "",
-    "化粧品類別": "0711防晒乳液",
-    "主成分略述": [
-        "OCTYLMETHOXYCINNAMATE(PARSOLKCX),BUTYLMETHOXYDIBENZOYLMETHANE,TITANIUMDIOXIDE(EQTOTITANIUMOXIDE),OCTOCRYLENE"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "01國　產",
-    "申請商名稱": "6143021056  聖兒莉國際股份有限公司",
+    "化粧品類別": "0711防晒乳液",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "6143021056  聖兒莉國際股份有限公司",
-        "製造廠廠址": "屏東縣潮州鎮瑞豐路2號",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "01國　產",
+        "申請商名稱": "6143021056  聖兒莉國際股份有限公司",
+        "申請商地址": "屏東縣潮州鎮瑞豐路2號",
+        "主製造廠": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -52,14 +51,6 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9602020800",
-            "成分名稱": "TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)",
-            "含量描述": "",
-            "含量": "3.2000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "9900066000",
             "成分名稱": "OCTOCRYLENE",
             "含量描述": "",
@@ -69,16 +60,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "070045070001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004507&Seq=001&Type=9"
+            "title": "070045070001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004507&Seq=001&Type=9"
         },
         {
-            "title": "070045070002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004507&Seq=002&Type=8"
+            "title": "07004507-106-01-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004507&Seq=003&Type=8"
         },
         {
-            "title": "070045070001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004507&Seq=001&Type=8"
+            "title": "070045070002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004507&Seq=002&Type=8"
+        },
+        {
+            "title": "070045070001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004507&Seq=001&Type=8"
         }
     ]
 }

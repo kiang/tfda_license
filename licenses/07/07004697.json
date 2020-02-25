@@ -1,12 +1,12 @@
 {
     "code": "07004697",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07004697",
-    "time": "2017-05-26 03:54:08",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07004697",
+    "time": "2020-02-25 21:33:14",
     "許可證字號": "衛署粧製字第004697號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/03\/20",
+    "有效日期": "110\/03\/20",
     "發證日期": "97\/03\/20",
     "許可證種類": "含藥化粧品",
     "舊證字號": "",
@@ -16,22 +16,21 @@
     "英文品名": "Sunscreen SPF50",
     "用途": "防曬。",
     "劑型": "944乳劑",
-    "包裝": "500g以下壓克力瓶裝 附外盒裝",
-    "標籤、仿單及包裝加註": "",
-    "化粧品類別": "0711防晒乳液",
-    "主成分略述": [
-        "OCTYLMETHOXYCINNAMATE(PARSOLKCX),ZINCOXIDE,DIETHYLAMINOHYDROXYBENZOYLHEXYLBENZOATE,TITANIUMDIOXIDE(EQTOTITANIUMOXIDE)"
+    "包裝": "附外盒裝 500g以下壓克力瓶裝 500ml以下管裝",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "01國　產",
-    "申請商名稱": "5832050517  美加生技有限公司",
+    "化粧品類別": "0711防晒乳液",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "5832050517  美加生技有限公司",
-        "製造廠廠址": "桃園市蘆竹區長安路二段３９巷１０號",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "01國　產",
+        "申請商名稱": "5832050517  美加生技有限公司",
+        "申請商地址": "桃園市蘆竹區長安路二段３９巷１０號",
+        "主製造廠": ""
     },
-    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -57,40 +56,36 @@
             "含量描述": "",
             "含量": "1.7000000000",
             "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9602020800",
-            "成分名稱": "TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)",
-            "含量描述": "",
-            "含量": "5.0000000000",
-            "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
         {
-            "title": "070046970002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004697&Seq=002&Type=9"
+            "title": "07004697-106-06-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004697&Seq=003&Type=9"
         },
         {
-            "title": "070046970001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004697&Seq=001&Type=9"
+            "title": "070046970002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004697&Seq=002&Type=9"
         },
         {
-            "title": "070046970004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004697&Seq=004&Type=8"
+            "title": "070046970001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004697&Seq=001&Type=9"
         },
         {
-            "title": "070046970003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004697&Seq=003&Type=8"
+            "title": "070046970004.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004697&Seq=004&Type=8"
         },
         {
-            "title": "070046970002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004697&Seq=002&Type=8"
+            "title": "070046970003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004697&Seq=003&Type=8"
         },
         {
-            "title": "070046970001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004697&Seq=001&Type=8"
+            "title": "070046970002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004697&Seq=002&Type=8"
+        },
+        {
+            "title": "070046970001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004697&Seq=001&Type=8"
         }
     ]
 }

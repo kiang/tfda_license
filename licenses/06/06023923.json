@@ -1,7 +1,7 @@
 {
     "code": "06023923",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023923",
-    "time": "2017-05-26 03:41:20",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023923",
+    "time": "2020-02-25 20:36:33",
     "許可證字號": "衛署醫器輸字第023923號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,55 +18,52 @@
     "醫器規格": "6947M,以下空白。增加規格：6935M。規格變更：詳如中文仿單核定本(原101年08月24日核發之標籤仿單核定本予以收回作廢)。增加規格：6946M。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "E心臟血管用裝置",
-    "醫器次類別一": "E3680心血管用永久或暫時性之心律調節器電極",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "1439301100  美敦力醫療產品股份有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "M370012000  Medtronic Puerto Rico Operations Co., Villalba",
-        "製造廠廠址": "ROAD 149 KM.56.3 CALL BOX 6001 VILLALBA PR 00766, USA",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "1439301100  美敦力醫療產品股份有限公司",
+        "申請商地址": "台北市松山區敦化南路一段2號2樓",
+        "主製造廠": ""
     },
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "06-023923 標籤 仿單 彩圖-103-04-09.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023923&Seq=004&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023923&Seq=004&Type=9"
         },
         {
             "title": "仿單-102-12-26.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023923&Seq=003&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023923&Seq=003&Type=9"
         },
         {
             "title": "仿單___20130320.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023923&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023923&Seq=002&Type=9"
         },
         {
             "title": "060239230001___20121004.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023923&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023923&Seq=001&Type=9"
         },
         {
             "title": "彩圖-102-12-26.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023923&Seq=003&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023923&Seq=003&Type=8"
         },
         {
             "title": "彩圖___20130320.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023923&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023923&Seq=002&Type=8"
         },
         {
             "title": "060239230001___20121004.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023923&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023923&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "06022469",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022469",
-    "time": "2016-11-19 01:27:06",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022469",
+    "time": "2020-02-25 20:20:52",
     "許可證字號": "衛署醫器輸字第022469號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,44 +18,40 @@
     "醫器規格": "PACE203H、PACE300、PACE101H以下空白。註銷規格：PACE203H、PACE101H。新增規格：PACE203、PACE101。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "E心臟血管用裝置",
-    "醫器次類別一": "E3600體外式心律器之脈搏產生器",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "1309602100  傳永有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "M470625000  OSYPKA MEDICAL GMBH",
-        "製造廠廠址": "ALBERT-EINSTEIN-STRASSE 3, 12489 BERLIN, GERMANY",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "1309602100  傳永有限公司",
+        "申請商地址": "新北市新莊區五權一路５號８樓之７(804室)",
+        "主製造廠": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "仿單(許可證022469)___20130116.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022469&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022469&Seq=002&Type=9"
         },
         {
             "title": "060224690002___20111006.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022469&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022469&Seq=001&Type=9"
         },
         {
             "title": "彩圖(許可證022469)___20130116.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022469&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022469&Seq=002&Type=8"
         },
         {
-            "title": "060224690001___20111006.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022469&Seq=001&Type=8"
+            "title": "060224690001___20111006.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022469&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "07001815",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07001815",
-    "time": "2017-03-24 03:22:11",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07001815",
+    "time": "2020-02-25 21:04:05",
     "許可證字號": "衛署粧製字第001815號",
     "註銷狀態": "已註銷",
     "註銷日期": "106\/01\/03",
@@ -17,21 +17,20 @@
     "用途": "染髮（黑色）",
     "劑型": "970液劑",
     "包裝": "塑膠容器裝",
-    "標籤、仿單及包裝加註": "",
-    "化粧品類別": "0110染髮劑",
-    "主成分略述": [
-        "HYDROGENPEROXIDE,RESORCINOL(RESORCIN),ORTHO-AMINOPHENOL,P-PHENYLENEDIAMINE"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "01國　產",
-    "申請商名稱": "5841051193  峰智生化科技有限公司",
+    "化粧品類別": "0110染髮劑",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "5841051193  峰智生化科技有限公司",
-        "製造廠廠址": "台南市佳里區區山里仁愛路146巷26弄2號1樓",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "01國　產",
+        "申請商名稱": "5841051193  峰智生化科技有限公司",
+        "申請商地址": "台南市佳里區區山里仁愛路146巷26弄2號1樓",
+        "主製造廠": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -69,12 +68,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "070018150002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07001815&Seq=002&Type=9"
+            "title": "070018150002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07001815&Seq=002&Type=9"
         },
         {
-            "title": "070018150003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07001815&Seq=003&Type=8"
+            "title": "070018150001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07001815&Seq=001&Type=9"
+        },
+        {
+            "title": "070018150003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07001815&Seq=003&Type=8"
+        },
+        {
+            "title": "070018150002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07001815&Seq=002&Type=8"
+        },
+        {
+            "title": "070018150001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07001815&Seq=001&Type=8"
         }
     ]
 }

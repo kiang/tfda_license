@@ -1,7 +1,7 @@
 {
     "code": "06022515",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022515",
-    "time": "2016-11-19 01:27:31",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022515",
+    "time": "2020-02-25 20:21:24",
     "許可證字號": "衛署醫器輸字第022515號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,40 +18,36 @@
     "醫器規格": "10 Tests\/Kit以下空白",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "C免疫學及微生物學裝置",
-    "醫器次類別一": "C5510免疫球蛋白A，G，M，D及E免疫試驗系統",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "6241200211  瑩芳有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "M470209000  R-BIOPHARM AG",
-        "製造廠廠址": "An der neuen Bergstrasse 17, 64297 Darmstadt, Germany",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "6241200211  瑩芳有限公司",
+        "申請商地址": "臺中市西屯區工業區四十路61-1號",
+        "主製造廠": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "06022515002___20120920.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022515&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022515&Seq=001&Type=9"
         },
         {
             "title": "06022515004___20120920.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022515&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022515&Seq=002&Type=8"
         },
         {
-            "title": "06022515001___20120920.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022515&Seq=001&Type=8"
+            "title": "06022515001___20120920.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022515&Seq=001&Type=8"
         }
     ]
 }

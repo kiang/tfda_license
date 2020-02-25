@@ -1,7 +1,7 @@
 {
     "code": "06022727",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022727",
-    "time": "2016-11-19 01:30:25",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022727",
+    "time": "2020-02-25 20:23:43",
     "許可證字號": "衛署醫器輸字第022727號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,48 +18,44 @@
     "醫器規格": "986-8001,以下空白",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "A臨床化學及臨床毒理學",
-    "醫器次類別一": "A1150校正品",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "6201029732  醫全實業股份有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "M260891000  SYSMEX INTERNATIONAL REAGENTS CO., LTD. SEISHIN FACTORY",
-        "製造廠廠址": "4-3-2 TAKATSUKADAI, NISHI-KU, KOBE, HYOGO 651-2271, JAPAN",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "6201029732  醫全實業股份有限公司",
+        "申請商地址": "台北市大安區和平東路二段107巷23之9號2樓",
+        "主製造廠": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060227270001___20120218.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022727&Seq=001&Type=9"
+            "title": "060227270001___20120218.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022727&Seq=001&Type=9"
         },
         {
-            "title": "060227270005___20120218.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022727&Seq=004&Type=8"
+            "title": "060227270005___20120218.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022727&Seq=004&Type=8"
         },
         {
-            "title": "060227270004___20120218.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022727&Seq=003&Type=8"
+            "title": "060227270004___20120218.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022727&Seq=003&Type=8"
         },
         {
-            "title": "060227270003___20120218.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022727&Seq=002&Type=8"
+            "title": "060227270003___20120218.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022727&Seq=002&Type=8"
         },
         {
-            "title": "060227270002___20120218.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022727&Seq=001&Type=8"
+            "title": "060227270002___20120218.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022727&Seq=001&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "06022704",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022704",
-    "time": "2017-06-16 03:36:41",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022704",
+    "time": "2020-02-25 20:23:29",
     "許可證字號": "衛署醫器輸字第022704號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,50 +15,55 @@
     "中文品名": "亞培設計師C型肝炎病毒抗原檢驗試劑組",
     "英文品名": "ABBOTT ARCHITECT HCV Ag",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "6L47-27 ARCHITECT HCV Ag Reagent Kit (100 Tests)、6L47-02 ARCHITECT HCV Ag Calibrators、6L47-11 ARCHITECT HCV Ag Controls,以下空白",
+    "醫器規格": "6L47-27 ARCHITECT HCV Ag Reagent Kit (100 Tests)、6L47-02 ARCHITECT HCV Ag Calibrators、6L47-11 ARCHITECT HCV Ag Controls,以下空白。\r\n新增規格：6L47-29；標籤、仿單變更為：詳如中文仿單核定本。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "B血液學及病理學裝置",
-    "醫器次類別一": "B4020分析特定試劑",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入 09委託製造",
-    "申請商名稱": "0932301100  美商亞培股份有限公司台灣分公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "M260394000  DENKA SEIKEN CO., LTD. KAGAMIDA FACTORY",
-        "製造廠廠址": "1359-1 KAGAMIDA KIGOSHI GOSEN-SHI NIIGATA, JAPAN",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入 09委託製造",
+        "申請商名稱": "0932301100  美商亞培股份有限公司台灣分公司",
+        "申請商地址": "台北市中山區民生東路三段49號5樓、6樓及51號6樓",
+        "主製造廠": ""
     },
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "060227040006-106-07-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022704&Seq=004&Type=9"
+        },
+        {
             "title": "060227040005___20111122.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022704&Seq=003&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022704&Seq=003&Type=9"
         },
         {
             "title": "060227040004___20111122.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022704&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022704&Seq=002&Type=9"
         },
         {
             "title": "060227040003___20111122.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022704&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022704&Seq=001&Type=9"
+        },
+        {
+            "title": "060227040006-106-07-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022704&Seq=003&Type=8"
         },
         {
             "title": "060227040002___20111122.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022704&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022704&Seq=002&Type=8"
         },
         {
             "title": "060227040001___20111122.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022704&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022704&Seq=001&Type=8"
         }
     ]
 }
