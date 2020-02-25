@@ -1,12 +1,12 @@
 {
     "code": "01057748",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057748",
-    "time": "2016-11-18 15:57:42",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057748",
+    "time": "2020-02-25 07:49:12",
     "許可證字號": "衛署藥製字第057748號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/11\/22",
+    "有效日期": "111\/11\/22",
     "發證日期": "101\/11\/22",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -17,35 +17,35 @@
     "適應症": "鉀、氯離子電解質之補充，脫水時水分補充、體內葡萄糖熱能之補給。",
     "劑型": "270注射劑",
     "包裝": "500毫升塑膠瓶裝 500毫升軟袋裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "05限由醫師使用",
-    "主成分略述": [
-        "POTASSIUMCHLORIDE,DEXTROSE"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "",
-    "申請商名稱": "6132010010  信東生技股份有限公司",
+    "藥品類別": "05限由醫師使用",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "6132010010  信東生技股份有限公司",
-        "製造廠廠址": "桃園市桃園區介壽路22號",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "",
+        "申請商名稱": "6132010010  信東生技股份有限公司",
+        "申請商地址": "桃園市桃園區介壽路22號",
+        "主製造廠": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "F410136000  CARGILL",
-            "製造廠廠址": "MARIE CURIE, 6-08760 MARTORELL SPAIN",
-            "製造廠公司地址": "",
-            "製造廠國別": "SPAIN",
-            "製程": "主成分(drug substance)製造廠"
-        },
-        {
-            "製造廠名稱": "F490006000  MACCO ORGANIQUES, S.R.O.",
+            "製造廠名稱": "FCZ0006000  MACCO ORGANIQUES, S.R.O.",
             "製造廠廠址": "ZAHRADNI 46, CZ-792 01 BRUNTAL, CZECH REPUBLIC",
             "製造廠公司地址": "",
             "製造廠國別": "CZECH REPUBLIC",
+            "製程": "主成分(drug substance)製造廠"
+        },
+        {
+            "製造廠名稱": "FES0136000  CARGILL",
+            "製造廠廠址": "MARIE CURIE, 6-08760 MARTORELL SPAIN",
+            "製造廠公司地址": "",
+            "製造廠國別": "SPAIN",
             "製程": "主成分(drug substance)製造廠"
         }
     ],
@@ -67,26 +67,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "透明澄清溶液",
+        "特殊氣味": "無",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "0.298%KCl in 5%Dextrose Inj.-104-09-21(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057748&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "54160970 0.298% KCl in 5% Dextrose Inj.(Lit)-煜祥(印刷版次1)-104-09-23(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057748&Seq=003&Type=9"
-        },
-        {
-            "title": "14 0 298% KCl in 5% Dextrose Injection(衛署藥製字第057748號 G-11787)-103-04-07.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057748&Seq=002&Type=9"
-        },
-        {
-            "title": "010577480001___20130425.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057748&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057748&Seq=003&Type=9"
         },
         {
             "title": "54160960 0.298% KCl in 5% Dextrose Injection(L-500ml，PP)-龍璟(印刷版次2)-104-09-23(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057748&Seq=002&Type=8"
-        },
-        {
-            "title": "010577480002___20130425.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057748&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057748&Seq=002&Type=8"
         }
     ]
 }

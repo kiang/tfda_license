@@ -1,13 +1,13 @@
 {
     "code": "01049001",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01049001",
-    "time": "2017-05-26 03:47:35",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01049001",
+    "time": "2020-02-25 07:25:29",
     "許可證字號": "衛署藥製字第049001號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "有效日期": "111\/08\/30",
-    "發證日期": "96\/08\/30",
+    "發證日期": "102\/04\/30",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
@@ -17,21 +17,21 @@
     "適應症": "對Meropenem具有感受性之細菌引起之感染症。",
     "劑型": "240乾粉注射劑",
     "包裝": "100支以下盒裝 250毫克、500毫克、1公克玻璃小瓶裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "05限由醫師使用",
-    "主成分略述": [
-        "MeropenemTrihydrate(withexcipientsodiumcarbonate)"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "01國　產 09委託製造 24監視期滿學名藥",
-    "申請商名稱": "6221040371  暉達藥品有限公司",
+    "藥品類別": "05限由醫師使用",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "6105200071  展旺生命科技股份有限公司南科分公司針劑廠",
-        "製造廠廠址": "台南市新市區創業路12號4樓、16號4樓、8號4樓及12號5樓",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "01國　產 09委託製造 1R不得製造 24監視期滿學名藥",
+        "申請商名稱": "6221040371  暉達藥品有限公司",
+        "申請商地址": "台南市北區西門路四段19巷38弄3號",
+        "主製造廠": ""
     },
-    "CCC號列": "30042000417 人用醫藥製劑，含其他β－丙醯胺抗生素（含青黴素及其衍生物；其鹽類及頭孢子菌類抗生素除外）Medicaments, containing other miscellaneous β-lactam antibiotics (excluding penicillins and their derivatives; salts thereof and cephalosporins), for human use",
+    "CCC號列": "30042000417 人用醫藥製劑，含其他β－丙醯胺抗生素者（含青黴素及其衍生物；其鹽類及頭孢子菌類抗生素者除外）Medicaments, containing other miscellaneous β-lactam antibiotics (excluding penicillins and their derivatives; salts thereof and cephalosporins), for human use",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -59,14 +59,30 @@
             "單位": "GM"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "A32049001_500mg藥物外觀_201511-104-11-11(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049001&Seq=002&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "A32049001_仿單_101915-00-104-11-11(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049001&Seq=006&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049001&Seq=006&Type=9"
         },
         {
             "title": "A32049001_250+500+1g 標籤及彩盒_101915-00-104-11-11(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049001&Seq=007&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049001&Seq=007&Type=8"
         }
     ]
 }

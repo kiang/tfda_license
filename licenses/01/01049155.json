@@ -1,37 +1,37 @@
 {
     "code": "01049155",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01049155",
-    "time": "2016-11-18 15:23:35",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01049155",
+    "time": "2020-02-25 07:26:49",
     "許可證字號": "衛署藥製字第049155號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/11\/15",
+    "有效日期": "111\/11\/15",
     "發證日期": "96\/11\/15",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00104915509",
-    "中文品名": "美樂平 乾粉注射劑 250mg, 500mg",
+    "中文品名": "美樂平 乾粉注射劑 250mg, 500mg, 1000mg",
     "英文品名": "Mexopem Powder for Injection",
     "適應症": "對Meropenem具有感受性之細菌引起之感染症。",
     "劑型": "240乾粉注射劑",
     "包裝": "250mg, 500mg,1g小瓶裝 100支以下盒裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "05限由醫師使用",
-    "主成分略述": [
-        "MEROPENEMTRIHYDRATE"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "01國　產 24監視期滿學名藥",
-    "申請商名稱": "0922116200  政德製藥股份有限公司",
+    "藥品類別": "05限由醫師使用",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "0922116300  政德製藥股份有限公司",
-        "製造廠廠址": "雲林縣大埤鄉嘉興村豐田路２號",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "01國　產 24監視期滿學名藥",
+        "申請商名稱": "0922116200  政德製藥股份有限公司",
+        "申請商地址": "雲林縣大埤鄉嘉興村豐田路２號",
+        "主製造廠": ""
     },
-    "CCC號列": "30042000417 人用醫藥製劑，含其他β－丙醯胺抗生素（含青黴素及其衍生物；其鹽類及頭孢子菌類抗生素除外）Medicaments, containing other miscellaneous β-lactam antibiotics (excluding penicillins and their derivatives; salts thereof and cephalosporins), for human use",
+    "CCC號列": "30042000417 人用醫藥製劑，含其他β－丙醯胺抗生素者（含青黴素及其衍生物；其鹽類及頭孢子菌類抗生素者除外）Medicaments, containing other miscellaneous β-lactam antibiotics (excluding penicillins and their derivatives; salts thereof and cephalosporins), for human use",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -49,48 +49,72 @@
             "含量描述": "(eq. to Meropenem)(potency)",
             "含量": "500.0000000000",
             "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812010110",
+            "成分名稱": "MEROPENEM TRIHYDRATE",
+            "含量描述": "(eq. to Meropenem)(potency)",
+            "含量": "1000.0000000000",
+            "單位": "MG"
+        }
+    ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "美樂平 500mg vial-104-09-24(廠商自行上傳).PDF",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049155&Seq=001&Type=10"
         }
     ],
     "仿單外盒": [
         {
+            "title": "美樂平仿單最新版250.500.1000mg-106-08-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049155&Seq=006&Type=9"
+        },
+        {
+            "title": "美樂平乾粉注射劑250.500.1000mg01049155_仿單-106-08-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049155&Seq=005&Type=9"
+        },
+        {
             "title": "仿單_Mexopem美樂平乾粉注射劑-104-11-17(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049155&Seq=004&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049155&Seq=004&Type=9"
         },
         {
-            "title": "美樂平乾粉注射劑仿單-103-06-10.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049155&Seq=003&Type=9"
+            "title": "美樂平乾粉注射劑01049155_1000毫克標籤-106-08-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049155&Seq=012&Type=8"
         },
         {
-            "title": "010491550002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049155&Seq=002&Type=9"
+            "title": "美樂平乾粉注射劑01049155_500毫克標籤-106-08-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049155&Seq=011&Type=8"
         },
         {
-            "title": "010491550001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049155&Seq=001&Type=9"
+            "title": "美樂平乾粉注射劑01049155_250毫克標籤-106-08-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049155&Seq=010&Type=8"
+        },
+        {
+            "title": "美樂平乾粉注射劑01049155_1000毫克紙盒-106-08-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049155&Seq=009&Type=8"
+        },
+        {
+            "title": "美樂平乾粉注射劑01049155-500毫克紙盒-106-08-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049155&Seq=008&Type=8"
+        },
+        {
+            "title": "美樂平乾粉注射劑01049155_250毫克紙盒-106-08-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049155&Seq=007&Type=8"
         },
         {
             "title": "美樂平乾粉注射劑中標-104-09-24(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049155&Seq=006&Type=8"
-        },
-        {
-            "title": "美樂平-500mg紙盒-104-09-24(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049155&Seq=005&Type=8"
-        },
-        {
-            "title": "美樂平 500mg外盒-104-09-24(廠商自行上傳).PDF",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049155&Seq=004&Type=8"
-        },
-        {
-            "title": "010491550003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049155&Seq=003&Type=8"
-        },
-        {
-            "title": "010491550002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049155&Seq=002&Type=8"
-        },
-        {
-            "title": "010491550001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049155&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049155&Seq=006&Type=8"
         }
     ]
 }

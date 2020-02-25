@@ -1,7 +1,7 @@
 {
     "code": "01057317",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057317",
-    "time": "2017-05-26 03:47:48",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057317",
+    "time": "2020-02-25 07:47:49",
     "許可證字號": "衛署藥製字第057317號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,32 +17,32 @@
     "適應症": "鈉.鉀.氯離子電解質之補充、脫水時之水分補充、體內葡萄糖、熱能之補給。",
     "劑型": "270注射劑",
     "包裝": "100ml、250ml、500ml、1000ml塑膠瓶裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "05限由醫師使用",
-    "主成分略述": [
-        "POTASSIUMCHLORIDE,SODIUMCHLORIDE,DEXTROSE"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "01國　產",
-    "申請商名稱": "6132010010  信東生技股份有限公司",
+    "藥品類別": "05限由醫師使用",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "6132010010  信東生技股份有限公司",
-        "製造廠廠址": "桃園市桃園區介壽路22號",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "01國　產",
+        "申請商名稱": "6132010010  信東生技股份有限公司",
+        "申請商地址": "桃園市桃園區介壽路22號",
+        "主製造廠": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "F030035000  SALINEN AUSTRIA AG",
+            "製造廠名稱": "FAT0035000  SALINEN AUSTRIA AG",
             "製造廠廠址": "STEINKOGELSTRASSE 30A-4802 EBENSEE",
             "製造廠公司地址": "",
             "製造廠國別": "AUSTRIA",
             "製程": "主成分(drug substance)製造廠"
         },
         {
-            "製造廠名稱": "F490006000  MACCO ORGANIQUES, S.R.O.",
+            "製造廠名稱": "FCZ0006000  MACCO ORGANIQUES, S.R.O.",
             "製造廠廠址": "ZAHRADNI 46, CZ-792 01 BRUNTAL, CZECH REPUBLIC",
             "製造廠公司地址": "",
             "製造廠國別": "CZECH REPUBLIC",
@@ -82,14 +82,30 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "透明澄清溶液",
+        "特殊氣味": "無",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "0.149%KCl in 5% Dextrose and 0.33%Nacl Inj.-104-09-17(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057317&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "54160800 0.149% KCl in5% Dextrose and 0.33% NaCl Inj.(Lit)-煜祥(印刷版次1)-104-09-18(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057317&Seq=004&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057317&Seq=004&Type=9"
         },
         {
             "title": "54160790 0.149% KCl in 5% Dextrose and 0.33% NaCl Injection(L-500ml，PP)-蘭國(印刷版次3)-104-09-18(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057317&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057317&Seq=002&Type=8"
         }
     ]
 }
