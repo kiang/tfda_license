@@ -1,12 +1,12 @@
 {
     "code": "08006736",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08006736",
-    "time": "2015-08-22 02:52:01",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08006736",
+    "time": "2020-02-25 23:04:05",
     "許可證字號": "衛署粧輸字第006736號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/09\/26",
+    "有效日期": "110\/09\/26",
     "發證日期": "89\/09\/26",
     "許可證種類": "含藥化粧品",
     "舊證字號": "",
@@ -17,22 +17,20 @@
     "用途": "染頭髮",
     "劑型": "944乳劑",
     "包裝": "500ml以下軟管裝 附外盒",
-    "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "AMMONIA WATER (AMMONIUM HYDROXIDE), RESORCINOL (RESORCIN), NAPHTHOL 1- (EQ TO ALPHA-NAPHTHOL) (EQ TO 1-NAPHTHOL), 6-AMINO-M-CRESOL, 2,6-DIAMINOPYRIDINE, AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL), P-METHYLAMINOPHENOL SULFATE, P-PHENYLENEDIAMINE",
-    "限制項目": [
-        "02輸入"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "申請商名稱": "1217602100  喜徠化妝品股份有限公司",
-    "申請商地址": "台北市大安區復興南路一段237號7樓之1",
+    "化粧品類別": "0110染髮劑",
+    "藥品分類": "",
     "主製造廠": {
-        "製造廠名稱": "C250001000  FRAMESI S.P.A.",
-        "製造廠廠址": "STRADA STATALE DEI GIOVI 135 20037 PADERNO DUGNANO (MILANO) ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "1217602100  喜徠化妝品股份有限公司",
+        "申請商地址": "台北市大安區復興南路一段237號7樓之1",
+        "主製造廠": ""
     },
-    "CCC號列": "33059020003 染髮劑Hair dyes",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -98,6 +96,12 @@
             "含量描述": "",
             "含量": "0.1500000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08006736-2011-12-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08006736&Seq=001&Type=9"
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "code": "08011691",
-    "time": "2015-06-22 01:21:13",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08011691",
+    "time": "2020-02-25 23:53:23",
     "許可證字號": "衛署粧輸字第011691號",
     "註銷狀態": "已註銷",
     "註銷日期": "104\/04\/08",
@@ -12,26 +13,24 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00801169101",
     "中文品名": "伊采染髮膏白金黃色9-0",
-    "英文品名": "IGORA ROYAL COLORIST'S COLOR CREME 9-0",
+    "英文品名": "IGORA ROYAL COLORIST&#39;S COLOR CREME 9-0",
     "用途": "染髮。",
     "劑型": "984乳膏劑",
     "包裝": "500ML以下管裝 附外紙盒裝",
-    "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "AMMONIUM HYDROXIDE 25%, RESORCINOL (RESORCIN), 4-AMINO-M-CRESOL, AMINOPHENOL META- (EQ TO M-AMINOPHENOL), 4-CHLORORESORCINOL, 2-METHYLRESORCINOL, HYDROXYETHYL-P-PHENYLENEDIAMINE SULFATE, TOLUENE-2,5-DIAMINE SULFATE, 2,7-NAPHTHALENEDIOL",
-    "限制項目": [
-        "02輸入"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "申請商名稱": "6623929515  台灣漢高股份有限公司",
-    "申請商地址": "新北市中和區中正路866號10樓",
+    "化粧品類別": "0110染髮劑",
+    "藥品分類": "",
     "主製造廠": {
-        "製造廠名稱": "C130057000  SCHWARZKOPF &amp; HENKEL PRODUCTION EUROPE GMBH &amp; CO. KG",
-        "製造廠廠址": "40191 DUSSELDORF, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "6623929515  台灣漢高股份有限公司",
+        "申請商地址": "新北市中和區中正路866號10樓",
+        "主製造廠": ""
     },
-    "CCC號列": "33059020003 染髮劑Hair dyes",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -61,7 +60,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9200035403",
-            "成分名稱": "AMINOPHENOL META- (EQ TO M-AMINOPHENOL)",
+            "成分名稱": "META-AMINOPHENOL (EQ TO M-AMINOPHENOL)",
             "含量描述": "",
             "含量": "0.0040000000",
             "單位": "%(W\/W)"
@@ -109,12 +108,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 080116910002.jpg 080116910001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011691&Seq=002&Type=9"
+            "title": "080116910002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011691&Seq=002&Type=9"
         },
         {
-            "title": "外盒 080116910002.jpg 080116910001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011691&Seq=002&Type=8"
+            "title": "080116910001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011691&Seq=001&Type=9"
+        },
+        {
+            "title": "080116910002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011691&Seq=002&Type=8"
+        },
+        {
+            "title": "080116910001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011691&Seq=001&Type=8"
         }
     ]
 }

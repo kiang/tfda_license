@@ -1,7 +1,7 @@
 {
     "code": "08010468",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08010468",
-    "time": "2015-08-23 17:45:06",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08010468",
+    "time": "2020-02-25 23:44:14",
     "許可證字號": "衛署粧輸字第010468號",
     "註銷狀態": "已註銷",
     "註銷日期": "101\/11\/19",
@@ -17,22 +17,20 @@
     "用途": "染髮。",
     "劑型": "982膏劑＋液劑",
     "包裝": "第一劑：500G以下管裝 、第二劑：500ML以下瓶裝 、附外紙盒裝",
-    "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "HYDROGEN PEROXIDE SOLUTION, CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL), AMINOPHENOL ORTHO-, P-PHENYLENEDIAMINE",
-    "限制項目": [
-        "02輸入"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "申請商名稱": "0930401100  美伊娜多股份有限公司",
-    "申請商地址": "台北市南港區八德路4段768巷7號5樓之1",
+    "化粧品類別": "0110染髮劑",
+    "藥品分類": "",
     "主製造廠": {
-        "製造廠名稱": "C260109000  DARIYA CO. LTD.",
-        "製造廠廠址": "3-25 TENDO-CHO KITA-KV NAGOYA-CITY AICHI PREF 462-0034 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "0930401100  美伊娜多股份有限公司",
+        "申請商地址": "台北市南港區八德路4段768巷7號5樓之1",
+        "主製造廠": ""
     },
-    "CCC號列": "33059020003 染髮劑Hair dyes",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -46,7 +44,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9200035402",
-            "成分名稱": "AMINOPHENOL ORTHO-",
+            "成分名稱": "ORTHO-AMINOPHENOL",
             "含量描述": "",
             "含量": "0.5000000000",
             "單位": "%(W\/W)"
@@ -70,24 +68,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "080104680005.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010468&Seq=005&Type=9"
+            "title": "080104680005.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010468&Seq=005&Type=9"
         },
         {
-            "title": "080104680004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010468&Seq=004&Type=9"
+            "title": "080104680004.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010468&Seq=004&Type=9"
         },
         {
-            "title": "080104680003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010468&Seq=003&Type=9"
+            "title": "080104680003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010468&Seq=003&Type=9"
         },
         {
-            "title": "080104680002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010468&Seq=002&Type=9"
+            "title": "080104680002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010468&Seq=002&Type=9"
         },
         {
-            "title": "080104680001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010468&Seq=001&Type=9"
+            "title": "080104680001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010468&Seq=001&Type=9"
         }
     ]
 }

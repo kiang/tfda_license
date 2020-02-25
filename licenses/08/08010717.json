@@ -1,12 +1,12 @@
 {
     "code": "08010717",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08010717",
-    "time": "2016-10-28 03:51:39",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08010717",
+    "time": "2020-02-25 23:46:54",
     "許可證字號": "衛署粧輸字第010717號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "有效日期": "106\/07\/20",
+    "有效日期": "110\/07\/20",
     "發證日期": "93\/07\/20",
     "許可證種類": "含藥化粧品",
     "舊證字號": "",
@@ -17,21 +17,20 @@
     "用途": "染髮。",
     "劑型": "983膏劑",
     "包裝": "500G以下鋁管裝 附外紙盒裝",
-    "標籤、仿單及包裝加註": "",
-    "化粧品類別": "0110染髮劑",
-    "主成分略述": [
-        "AMMONIAWATER(AMMONIUMHYDROXIDE),HYDROGENPEROXIDE,RESORCINOL(RESORCIN),AMINOPHENOLMETA-(EQTOM-AMINOPHENOL),P-AMINOPHENOL,P-PHENYLENEDIAMINE,TOLUENE-2,5-DIAMINESULFATE,2,4-DIAMINOPHENOXYETHANOLHYDROCHLORIDE"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "6628711522  台灣朋友化粧品股份有限公司",
+    "化粧品類別": "0110染髮劑",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "C260293000  SETO FACTORY OF HOYU CO., LTD.",
-        "製造廠廠址": "106-2, YAMANOTA-CHO, SETO-SHI, AICHI-KEN, JAPAN",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "6628711522  台灣朋友化粧品股份有限公司",
+        "申請商地址": "台北市中山區民權西路70號4樓之1",
+        "主製造廠": ""
     },
-    "CCC號列": "33059020003 染髮劑Hair dyes",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -53,7 +52,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9200035403",
-            "成分名稱": "AMINOPHENOL META- (EQ TO M-AMINOPHENOL)",
+            "成分名稱": "META-AMINOPHENOL (EQ TO M-AMINOPHENOL)",
             "含量描述": "",
             "含量": "0.2600000000",
             "單位": "%(W\/W)"
@@ -102,31 +101,35 @@
     "仿單外盒": [
         {
             "title": "08010717___20130401.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010717&Seq=007&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010717&Seq=007&Type=9"
         },
         {
-            "title": "080107170006.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010717&Seq=006&Type=9"
+            "title": "080107170006.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010717&Seq=006&Type=9"
         },
         {
-            "title": "080107170005.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010717&Seq=005&Type=9"
+            "title": "080107170005.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010717&Seq=005&Type=9"
         },
         {
-            "title": "080107170004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010717&Seq=004&Type=9"
+            "title": "080107170004.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010717&Seq=004&Type=9"
         },
         {
-            "title": "080107170003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010717&Seq=003&Type=9"
+            "title": "080107170003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010717&Seq=003&Type=9"
         },
         {
-            "title": "080107170002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010717&Seq=002&Type=9"
+            "title": "080107170002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010717&Seq=002&Type=9"
         },
         {
-            "title": "080107170001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010717&Seq=001&Type=9"
+            "title": "080107170001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010717&Seq=001&Type=9"
+        },
+        {
+            "title": "08010717_2-106-06-29.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08010717&Seq=002&Type=8"
         }
     ]
 }

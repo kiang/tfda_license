@@ -1,11 +1,11 @@
 {
     "code": "08014551",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08014551",
-    "time": "2017-02-24 03:35:54",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08014551",
+    "time": "2020-02-26 00:24:54",
     "許可證字號": "衛署粧輸字第014551號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "107\/08\/14",
+    "註銷理由": "許可證已逾有效期",
     "有效日期": "105\/12\/07",
     "發證日期": "96\/12\/07",
     "許可證種類": "含藥化粧品",
@@ -17,21 +17,20 @@
     "用途": "染髮。",
     "劑型": "992霜劑",
     "包裝": "500毫升以下管裝 附盒裝",
-    "標籤、仿單及包裝加註": "",
-    "化粧品類別": "0110染髮劑",
-    "主成分略述": [
-        "AMMONIUMHYDROXIDE28%,RESORCINOL(RESORCIN),AMINOPHENOLPARA-(EQTOP-AMINOPHENOL),AMINOPHENOLMETA-(EQTOM-AMINOPHENOL),P-PHENYLENEDIAMINE"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "1509701100  蔻仕麗股份有限公司",
+    "化粧品類別": "0110染髮劑",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "C260078000  SHISEI CHEMICAL CO., LTD.",
-        "製造廠廠址": "961-1, SHIMOYASUMASTU, TOKOROZAWA, SAITAMA 359-0024, JAPAN",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "1509701100  蔻仕麗股份有限公司",
+        "申請商地址": "台北市中山區民權東路一段76號12樓",
+        "主製造廠": ""
     },
-    "CCC號列": "33059020003 染髮劑Hair dyes",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -61,7 +60,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9200035403",
-            "成分名稱": "AMINOPHENOL META- (EQ TO M-AMINOPHENOL)",
+            "成分名稱": "META-AMINOPHENOL (EQ TO M-AMINOPHENOL)",
             "含量描述": "",
             "含量": "0.4400000000",
             "單位": "%(W\/W)"
@@ -101,7 +100,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9200035403",
-            "成分名稱": "AMINOPHENOL META- (EQ TO M-AMINOPHENOL)",
+            "成分名稱": "META-AMINOPHENOL (EQ TO M-AMINOPHENOL)",
             "含量描述": "",
             "含量": "0.3000000000",
             "單位": "%(W\/W)"
@@ -141,7 +140,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9200035403",
-            "成分名稱": "AMINOPHENOL META- (EQ TO M-AMINOPHENOL)",
+            "成分名稱": "META-AMINOPHENOL (EQ TO M-AMINOPHENOL)",
             "含量描述": "",
             "含量": "0.0800000000",
             "單位": "%(W\/W)"
@@ -157,12 +156,40 @@
     ],
     "仿單外盒": [
         {
-            "title": "080145510003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014551&Seq=003&Type=9"
+            "title": "080145510003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014551&Seq=003&Type=9"
         },
         {
-            "title": "080145510006.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014551&Seq=006&Type=8"
+            "title": "080145510002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014551&Seq=002&Type=9"
+        },
+        {
+            "title": "080145510001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014551&Seq=001&Type=9"
+        },
+        {
+            "title": "080145510006.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014551&Seq=006&Type=8"
+        },
+        {
+            "title": "080145510005.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014551&Seq=005&Type=8"
+        },
+        {
+            "title": "080145510004.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014551&Seq=004&Type=8"
+        },
+        {
+            "title": "080145510003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014551&Seq=003&Type=8"
+        },
+        {
+            "title": "080145510002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014551&Seq=002&Type=8"
+        },
+        {
+            "title": "080145510001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014551&Seq=001&Type=8"
         }
     ]
 }

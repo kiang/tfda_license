@@ -1,6 +1,7 @@
 {
     "code": "08009384",
-    "time": "2015-06-23 10:57:42",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08009384",
+    "time": "2020-02-25 23:32:39",
     "許可證字號": "衛署粧輸字第009384號",
     "註銷狀態": "已註銷",
     "註銷日期": "98\/12\/18",
@@ -16,22 +17,20 @@
     "用途": "染髮。",
     "劑型": "992霜劑",
     "包裝": "500G以下鋁罐裝 及軟管裝 、附外紙盒裝",
-    "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "RESORCINOL (RESORCIN), AMINOPHENOL META- (EQ TO M-AMINOPHENOL), 2,4-DIAMINOPHENOXYETHANOL HCL (EQ TO 2,4-DIAMINOPHENOXYETHANOL DIHYDROCHLORIDE), TOLUENE-2,5-DIAMINE SULFATE",
-    "限制項目": [
-        "02輸入"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "申請商名稱": "1434301100  臺灣歌薇股份有限公司",
-    "申請商地址": "臺北市中山區松江路２３８號９樓",
+    "化粧品類別": "0110染髮劑",
+    "藥品分類": "",
     "主製造廠": {
-        "製造廠名稱": "C470042000  KPSS-KAO PROFESSIONAL SALON SERVICES GMBH",
-        "製造廠廠址": "PFUNGSTADTER STRASSE 92-100, 64297 DARMSTADT, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "1434301100  臺灣歌薇股份有限公司",
+        "申請商地址": "臺北市中山區松江路２３８號９樓",
+        "主製造廠": ""
     },
-    "CCC號列": "33059020003 染髮劑Hair dyes",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -45,7 +44,7 @@
         {
             "成分類別": "主成分",
             "成分代碼": "9200035403",
-            "成分名稱": "AMINOPHENOL META- (EQ TO M-AMINOPHENOL)",
+            "成分名稱": "META-AMINOPHENOL (EQ TO M-AMINOPHENOL)",
             "含量描述": "",
             "含量": "0.0045000000",
             "單位": "%(W\/W)"
@@ -69,12 +68,36 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單 080093840001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08009384&Seq=001&Type=9"
+            "title": "080093840001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08009384&Seq=001&Type=9"
         },
         {
-            "title": "外盒 080093840007.jpg 080093840006.jpg 080093840005.jpg 080093840004.jpg 080093840003.jpg 080093840002.jpg 080093840001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08009384&Seq=007&Type=8"
+            "title": "080093840007.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08009384&Seq=007&Type=8"
+        },
+        {
+            "title": "080093840006.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08009384&Seq=006&Type=8"
+        },
+        {
+            "title": "080093840005.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08009384&Seq=005&Type=8"
+        },
+        {
+            "title": "080093840004.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08009384&Seq=004&Type=8"
+        },
+        {
+            "title": "080093840003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08009384&Seq=003&Type=8"
+        },
+        {
+            "title": "080093840002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08009384&Seq=002&Type=8"
+        },
+        {
+            "title": "080093840001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08009384&Seq=001&Type=8"
         }
     ]
 }

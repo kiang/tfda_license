@@ -1,6 +1,7 @@
 {
     "code": "08011685",
-    "time": "2015-07-05 00:49:59",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08011685",
+    "time": "2020-02-25 23:53:19",
     "許可證字號": "衛署粧輸字第011685號",
     "註銷狀態": "已註銷",
     "註銷日期": "101\/12\/07",
@@ -12,34 +13,75 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00801168506",
     "中文品名": "伊采超炫染髮膏岩石綠色100-33",
-    "英文品名": "IGORA ROYAL FASHION+ COLORIST'S HIGHLIGHT COLOR 100-33",
+    "英文品名": "IGORA ROYAL FASHION+ COLORIST&#39;S HIGHLIGHT COLOR 100-33",
     "用途": "染髮。",
     "劑型": "984乳膏劑",
     "包裝": "500ML以下管裝 、附外紙盒裝",
-    "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "AMMONIUM HYDROXIDE 25%, 6-METHOXY-2-METHYLAMINO-3-AMINOPYRIDINE HCL, N,N-BIS(2-HYDROXYETHYL)-P-PHENYLENEDIAMINE SULFATE",
-    "限制項目": [
-        "02輸入"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "申請商名稱": "0829101100  欣臨企業股份有限公司",
-    "申請商地址": "台北市南京東路三段７０號４樓",
+    "化粧品類別": "0110染髮劑",
+    "藥品分類": "",
     "主製造廠": {
-        "製造廠名稱": "C130057000  SCHWARZKOPF &amp; HENKEL PRODUCTION EUROPE GMBH &amp; CO. KG",
-        "製造廠廠址": "40191 DUSSELDORF, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "0829101100  欣臨企業股份有限公司",
+        "申請商地址": "台北市南京東路三段７０號４樓",
+        "主製造廠": ""
     },
-    "CCC號列": "33059020003 染髮劑Hair dyes",
     "藥理治療分類": "",
     "ingredients": [
-
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2820000106",
+            "成分名稱": "AMMONIUM HYDROXIDE 25%",
+            "含量描述": "",
+            "含量": "15.0000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900082500",
+            "成分名稱": "6-METHOXY-2-METHYLAMINO-3-AMINOPYRIDINE HCL",
+            "含量描述": "",
+            "含量": "0.5000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900094300",
+            "成分名稱": "N,N-BIS(2-HYDROXYETHYL)-P-PHENYLENEDIAMINE SULFATE",
+            "含量描述": "",
+            "含量": "0.6000000000",
+            "單位": "%(W\/W)"
+        }
     ],
-    "藥物辨識詳細資料": [
-
-    ],
-    "藥物辨識外觀圖片": [
-
+    "仿單外盒": [
+        {
+            "title": "080116850004.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011685&Seq=004&Type=9"
+        },
+        {
+            "title": "080116850003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011685&Seq=003&Type=9"
+        },
+        {
+            "title": "080116850002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011685&Seq=002&Type=9"
+        },
+        {
+            "title": "080116850001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011685&Seq=001&Type=9"
+        },
+        {
+            "title": "080116850002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011685&Seq=002&Type=8"
+        },
+        {
+            "title": "080116850001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011685&Seq=001&Type=8"
+        }
     ]
 }
