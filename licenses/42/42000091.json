@@ -1,7 +1,7 @@
 {
     "code": "42000091",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000091",
-    "time": "2015-08-22 05:52:56",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000091",
+    "time": "2020-02-26 03:21:16",
     "許可證字號": "衛署醫器陸輸字第000091號",
     "註銷狀態": "已註銷",
     "註銷日期": "101\/11\/27",
@@ -18,27 +18,22 @@
     "醫器規格": "詳如中文仿單核定本",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "M眼科用裝置",
-    "醫器次類別一": "",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "POTASSIUM CHLORIDE, SODIUM CHLORIDE, POLOXAMER, SODIUM PHOSPHATE DIBASIC (eq to DISOD. HYDROGEN PHOSPHATE) (eq to DISODIUM PHOSPHATE), SODIUM PHOSPHATE MONOBASIC (EQ TO MONOSODIUM PHOSPHATE)(EQ TO SODIUM DIHYDROGEN PHOSPHATE), EDETATE DISODIUM (EQ TO DISODIUM EDETATE)( EQ TO E.D.T.A. DISODIUM) (EQ TO EDTA -2NA), WATER PURIFIED ( EQ TO AQUEOUS PURIFIED OR PURIFIED WATER ), POLYHEXAMETHYLEN BIGUANIDE",
-    "限制項目": [
-        "02輸入",
-        "40大陸生產"
+    "醫器主類別二": [
+        ""
     ],
-    "申請商名稱": "6231046876  香港商眼力健亞洲有限公司台灣分公司",
-    "申請商地址": "台北市中山區民生東路三段51號10樓",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "製造廠名稱": "M640004000  AMO (HANGZHOU), CO., LTD.",
-        "製造廠廠址": "4TH AVENUE, HANGZHOU ECONOMIC AND TECHNOLOGICAL ZONE, HANGZHOU, ZHEJIANG, 310018, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "限制項目": "02輸　入 40大陸生產",
+        "申請商名稱": "6231046876  香港商眼力健亞洲有限公司台灣分公司",
+        "申請商地址": "台北市中山區民生東路三段51號10樓",
+        "主製造廠": ""
     },
-    "CCC號列": "33079020001 隱形眼鏡清洗液Cleaning solution for contact lens",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -108,16 +103,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "420000910001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000091&Seq=001&Type=9"
+            "title": "420000910001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000091&Seq=001&Type=9"
         },
         {
-            "title": "420000910002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000091&Seq=002&Type=8"
+            "title": "420000910002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000091&Seq=002&Type=8"
         },
         {
-            "title": "420000910001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000091&Seq=001&Type=8"
+            "title": "420000910001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000091&Seq=001&Type=8"
         }
     ]
 }

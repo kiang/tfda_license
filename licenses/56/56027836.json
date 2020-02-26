@@ -1,7 +1,7 @@
 {
     "code": "56027836",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027836",
-    "time": "2017-06-16 03:10:13",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027836",
+    "time": "2020-02-26 07:49:25",
     "許可證字號": "衛部醫器輸字第027836號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,39 +18,36 @@
     "醫器規格": "Olea Sphere v2.3\r\n以下空白。\r\n增加規格：Olea Sphere v3.0。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "P放射學科用裝置",
-    "醫器次類別一": "P2050醫學圖像紀錄傳輸系統",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "0317901100  上鉅實業股份有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "M150343000  Olea Medical S.A",
-        "製造廠廠址": "93 Avenue des Sorbiers-13600 La Ciotat France",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "0317901100  上鉅實業股份有限公司",
+        "申請商地址": "新北市中和區板南路653號2樓",
+        "主製造廠": ""
     },
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "中文仿單-106-05-04.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027836&Seq=002&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027836&Seq=002&Type=9"
         },
         {
             "title": "560278360001-104-12-08.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027836&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027836&Seq=001&Type=9"
         },
         {
             "title": "560278360002-104-12-08.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027836&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027836&Seq=001&Type=8"
         }
     ]
 }

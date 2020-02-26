@@ -1,7 +1,7 @@
 {
     "code": "52027041",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52027041",
-    "time": "2017-02-24 03:09:26",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52027041",
+    "time": "2020-02-26 06:32:28",
     "許可證字號": "衛部藥輸字第027041號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,27 +17,40 @@
     "適應症": "消化性潰瘍",
     "劑型": "040（粉）",
     "包裝": "0.5公斤以上裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "01製劑原料",
-    "主成分略述": [
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
         ""
     ],
-    "限制項目": "",
-    "申請商名稱": "0313101100  川聖貿易股份有限公司",
+    "藥品類別": "01製劑原料",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "F200517000  LEE PHARMA LIMITED",
-        "製造廠廠址": "SY. NO. 10\/G-1, GADDA POTHARAM (VILLAGE), JINNARAM (MANDAL), MEDAK (DISTRICT), ANDHRA PRADESH, 502319, INDIA",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "",
+        "申請商名稱": "0313101100  川聖貿易股份有限公司",
+        "申請商地址": "台北市民生東路五段２８號五樓",
+        "主製造廠": ""
     },
-    "CCC號列": "",
+    "CCC號列": "29333990905 其他結構中含有一未稠合之?啶環（不論是否氫化）之化合物Other compounds containing an unfused pyridine ring (whether or not hydrogenated) in the structure",
     "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "FIN0524100  LEE PHARMA LIMITED",
+            "製造廠廠址": "SURVEY NO. 257&amp;258\/1, DOOR NO: 11-6\/56, C-BLOCK, OPP: IDPL FACTORY, MOOSAPET(VILLAGE), BALANAGAR (POST), HYDERABAD-500 037, TELANGANA STATE, INDIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "INDIA",
+            "製程": "公司"
+        }
+    ],
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "Lansoprazole標籤-107-02-12(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027041&Seq=001&Type=9"
+        },
+        {
             "title": "Lansoprazole_Lee Pharma 川聖領證標籤-106-01-23.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027041&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027041&Seq=001&Type=8"
         }
     ]
 }

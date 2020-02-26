@@ -1,7 +1,7 @@
 {
     "code": "42000078",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000078",
-    "time": "2017-12-29 03:34:54",
+    "time": "2020-02-26 03:21:08",
     "許可證字號": "衛署醫器陸輸字第000078號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,24 +18,21 @@
     "醫器規格": "FR1DM1，FR1DU1。增加規格：FR1DZ1。增加規格：FR1DV1(FR100)以下空白。增加規格：FR1MA1, FR1MF1。註銷規格：FR1DV1(FR100)(原101.2.24核准之仿單、標籤核定本予以回收作廢)，以下空白。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "J一般醫院及個人使用裝置",
-    "醫器次類別一": "",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入 40大陸生產",
-    "申請商名稱": "6201115019  百略醫學科技股份有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "M640108000  ONBO ELECTRONIC (SHENZHEN) CO. LTD",
-        "製造廠廠址": "NO. 497, TALANEG NAN ROAD, TA LANEG STREET, BAOAN DISTRICT, SHENZHEN, CHINA",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入 40大陸生產",
+        "申請商名稱": "6201115019  百略醫學科技股份有限公司",
+        "申請商地址": "台北市內湖區瑞光路431號9樓",
+        "主製造廠": ""
     },
     "藥理治療分類": "",
     "ingredients": [],
@@ -53,19 +50,19 @@
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000078&Seq=006&Type=9"
         },
         {
-            "title": "420000780004.jpg",
+            "title": "420000780004.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000078&Seq=004&Type=9"
         },
         {
-            "title": "420000780003.jpg",
+            "title": "420000780003.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000078&Seq=003&Type=9"
         },
         {
-            "title": "420000780002.jpg",
+            "title": "420000780002.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000078&Seq=002&Type=9"
         },
         {
-            "title": "420000780001.jpg",
+            "title": "420000780001.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000078&Seq=001&Type=9"
         },
         {
@@ -73,11 +70,11 @@
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000078&Seq=003&Type=8"
         },
         {
-            "title": "420000780002.jpg",
+            "title": "420000780002.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000078&Seq=002&Type=8"
         },
         {
-            "title": "420000780001.jpg",
+            "title": "420000780001.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000078&Seq=001&Type=8"
         }
     ]

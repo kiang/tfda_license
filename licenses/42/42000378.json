@@ -1,7 +1,7 @@
 {
     "code": "42000378",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000378",
-    "time": "2016-06-24 05:40:27",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000378",
+    "time": "2020-02-26 03:25:21",
     "許可證字號": "衛署醫器陸輸字第000378號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,45 +18,40 @@
     "醫器規格": "詳如中文仿單核定本。註銷規格：14Gx19mm、14Gx25mm、14Gx30mm、14Gx133mm、14Gx200mm、14Gx305mm、14Gx610mm、16Gx19mm、16Gx25mm、16Gx30mm、16Gx133mm、16Gx200mm、16Gx305mm、16Gx610mm、18Gx19mm、18Gx25mm、18Gx133mm、18Gx200mm、18Gx305mm、18Gx610mm、20Gx19mm、20Gx25mm、20Gx133mm、20Gx200mm、20Gx305mm、20Gx610mm、22Gx30mm、22Gx48mm、22Gx133mm、22Gx200mm、22Gx305mm、22Gx610mm、24Gx25mm、24Gx30mm、24Gx48mm、24Gx133mm、24Gx200mm、24Gx305mm及24Gx610mm，以下空白。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "J一般醫院及個人使用裝置",
-    "醫器次類別一": "J5570皮下單腔針",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入",
-        "40大陸生產"
+    "醫器主類別二": [
+        ""
     ],
-    "申請商名稱": "623111B430  笠民實業有限公司",
-    "申請商地址": "新北市汐止區大同路3段204號8樓",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "製造廠名稱": "M644000000  FujianBestway Medical Polymer Corporation",
-        "製造廠廠址": "NO.138 Guanpu Road Fuzhou Fujian 350008 China",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "限制項目": "02輸　入 40大陸生產",
+        "申請商名稱": "623111B430  笠民實業有限公司",
+        "申請商地址": "新北市汐止區大同路3段204號8樓",
+        "主製造廠": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060003780002___20111104.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000378&Seq=002&Type=9"
+            "title": "060003780002___20111104.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000378&Seq=002&Type=9"
         },
         {
-            "title": "060003780001___20111104.JPG",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000378&Seq=001&Type=9"
+            "title": "060003780001___20111104.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000378&Seq=001&Type=9"
         },
         {
-            "title": "06000378006___20111104.JPG",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000378&Seq=002&Type=8"
+            "title": "06000378006___20111104.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000378&Seq=002&Type=8"
         },
         {
-            "title": "060003780003___20111104.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000378&Seq=001&Type=8"
+            "title": "060003780003___20111104.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000378&Seq=001&Type=8"
         }
     ]
 }

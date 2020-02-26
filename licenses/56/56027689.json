@@ -1,7 +1,7 @@
 {
     "code": "56027689",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027689",
-    "time": "2017-02-24 03:25:38",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027689",
+    "time": "2020-02-26 07:48:01",
     "許可證字號": "衛部醫器輸字第027689號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,36 +18,32 @@
     "醫器規格": "448980：AST-L Enzyme Solution 1, 400mL×2；448997：AST-L Substrate Solution 2, 200mL×2。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "A臨床化學及臨床毒理學",
-    "醫器次類別一": "A1100天門冬胺酸轉移?試驗系統",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "0415601100  元英企業有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "M260945200  SEKISUI MEDICAL CO., LTD TSUKUBA PLANT",
-        "製造廠廠址": "3-1, KOYODAI 3-CHOME RYUGASAKI-SHI, IBARAKI, JAPAN",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "0415601100  元英企業股份有限公司",
+        "申請商地址": "台北市內湖區陽光街365巷37號6樓",
+        "主製造廠": ""
     },
-    "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "560276890001-104-11-05.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027689&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027689&Seq=001&Type=9"
         },
         {
             "title": "560276890002-104-11-05.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027689&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027689&Seq=001&Type=8"
         }
     ]
 }

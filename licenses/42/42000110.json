@@ -1,7 +1,7 @@
 {
     "code": "42000110",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000110",
-    "time": "2015-08-22 05:54:38",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000110",
+    "time": "2020-02-26 03:21:27",
     "許可證字號": "衛署醫器陸輸字第000110號",
     "註銷狀態": "已註銷",
     "註銷日期": "102\/01\/17",
@@ -12,63 +12,58 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA04200011000",
-    "中文品名": "\"京冷\"氣切套管",
-    "英文品名": "\"KYOLING\"TRACHEOSTOMY TUBE",
+    "中文品名": "&quot;京冷&quot;氣切套管",
+    "英文品名": "&quot;KYOLING&quot;TRACHEOSTOMY TUBE",
     "效能": "詳如中文仿單核定本",
     "醫器規格": "詳如中文仿單核定本",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "D麻醉學科用裝置",
-    "醫器次類別一": "",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入",
-        "40大陸生產"
+    "醫器主類別二": [
+        ""
     ],
-    "申請商名稱": "0318001100  大發醫療器材有限公司",
-    "申請商地址": "台北市大同區南京西路１９２號１樓",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "製造廠名稱": "M640214000  HANGZHOU JINLIN MEDICAL APPLIANCES CO., LTD",
-        "製造廠廠址": "M14-3-4 HANGZHOU ECONOMIC AND TECHNOLOGICAL DEVELOPMENT ZONE, HANGZHOU CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "限制項目": "02輸　入 40大陸生產",
+        "申請商名稱": "0318001100  大發醫療器材有限公司",
+        "申請商地址": "台北市大同區南京西路１９２號１樓",
+        "主製造廠": ""
     },
-    "CCC號列": "90183900007 其他導管、套管及類似品Other catheters, cannulae and the like",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "420001100007.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000110&Seq=007&Type=9"
+            "title": "420001100007.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000110&Seq=007&Type=9"
         },
         {
-            "title": "420001100006.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000110&Seq=006&Type=9"
+            "title": "420001100006.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000110&Seq=006&Type=9"
         },
         {
-            "title": "420001100005.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000110&Seq=005&Type=9"
+            "title": "420001100005.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000110&Seq=005&Type=9"
         },
         {
-            "title": "420001100004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000110&Seq=004&Type=9"
+            "title": "420001100004.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000110&Seq=004&Type=9"
         },
         {
-            "title": "420001100003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000110&Seq=003&Type=9"
+            "title": "420001100003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000110&Seq=003&Type=9"
         },
         {
-            "title": "420001100002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000110&Seq=002&Type=9"
+            "title": "420001100002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000110&Seq=002&Type=9"
         },
         {
-            "title": "420001100001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000110&Seq=001&Type=9"
+            "title": "420001100001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000110&Seq=001&Type=9"
         }
     ]
 }

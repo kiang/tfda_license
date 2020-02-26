@@ -1,32 +1,120 @@
 {
     "code": "10000735",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000735",
-    "time": "2020-02-21 03:14:35",
-    "許可證字號": "",
-    "": "",
-    "有效日期": "",
-    "發證日期": "",
-    "許可證種類": "",
+    "time": "2020-02-26 01:40:31",
+    "許可證字號": "衛署菌疫輸字第000735號",
+    "註銷狀態": "",
+    "註銷日期": "",
+    "註銷理由": "",
+    "有效日期": "111\/10\/07",
+    "發證日期": "91\/10\/07",
+    "許可證種類": "菌　疫",
     "舊證字號": "",
     "醫療器材級數": "",
-    "通關簽審文件編號": "",
-    "中文品名": "",
-    "英文品名": "",
-    "劑型": "",
+    "通關簽審文件編號": "DHA01000073507",
+    "中文品名": "昇糖精",
+    "英文品名": "GLUCAGEN 1 MG",
+    "適應症": "治療上的適應症：\r\nGlucaGen是用於使用胰島素治療糖尿病之兒童及成人所致之嚴重低血糖。\r\n診斷上的適應症：\r\n用於成人消化道內視鏡檢及放射線顯影術。\r\n用於評估胰島β－細胞分泌功能。",
+    "劑型": "270注射劑",
+    "包裝": "1小瓶 附1小公撮小瓶附溶液",
+    "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": "",
-    "藥品分類": [
+    "標籤、仿單及包裝加註": [
         ""
     ],
-    "主成分略述": "",
-    "限制項目": "(本產品依藥事法第45條規定列入安全監視，請使用單位配合執行監視項目並提供所得資料予許可證持有商)",
+    "藥品類別": "05限由醫師使用",
+    "藥品分類": "",
     "主製造廠": {
-        "申請商地址": "",
-        "藥理治療分類": "",
-        "": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "1426801100  臺灣諾和諾德藥品股份有限公司",
+        "申請商地址": "台北市敦化南路二段２１６號７樓－１",
+        "主製造廠": ""
     },
-    "ingredients": [],
-    "藥物辨識詳細資料": [],
-    "藥物辨識外觀圖片": []
+    "CCC號列": "",
+    "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "FDK0034100  Novo Nordisk A\/S",
+            "製造廠廠址": "Brogaardsvej 66, DK-2820 Gentofte, Denmark",
+            "製造廠公司地址": "",
+            "製造廠國別": "DENMARK",
+            "製程": "原料藥製造廠"
+        },
+        {
+            "製造廠名稱": "FDK0042000  NOVO NORDISK A\/S",
+            "製造廠廠址": "HALLAS ALLE, DK-4400 KALUNDBORG, DENMARK",
+            "製造廠公司地址": "",
+            "製造廠國別": "DENMARK",
+            "製程": "原料藥製造廠"
+        }
+    ],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "6820000100",
+            "成分名稱": "GLUCAGON",
+            "含量描述": "",
+            "含量": "1.0000000000",
+            "單位": "MG"
+        }
+    ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "GLUCAGEN 1MG-104-09-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000735&Seq=001&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "GlucaGen STF2015 Leaflet (8-9401-10-004-4)-108-03-29(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000735&Seq=004&Type=9"
+        },
+        {
+            "title": "Glucagen CS PI 2015_clean-106-04-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000735&Seq=003&Type=9"
+        },
+        {
+            "title": "100007350002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000735&Seq=002&Type=9"
+        },
+        {
+            "title": "GlucaGen STF2015 Carton (8-9401-10-303-5)-108-03-29(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000735&Seq=010&Type=8"
+        },
+        {
+            "title": "GlucaGen STF2015 Label (powder) (8-9400-00-220-2)-108-03-29(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000735&Seq=009&Type=8"
+        },
+        {
+            "title": "GlucaGen STF2015 Label (solvent) (8-9303-00-205-2)-108-03-29(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000735&Seq=008&Type=8"
+        },
+        {
+            "title": "glucagen-solventlabel-106-04-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000735&Seq=007&Type=8"
+        },
+        {
+            "title": "glucagen-powderlabel-106-04-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000735&Seq=006&Type=8"
+        },
+        {
+            "title": "carton with CS text-106-04-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000735&Seq=005&Type=8"
+        },
+        {
+            "title": "8-9401-10-303-4_v1-11 GlucaGen STF 2013-104-09-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000735&Seq=004&Type=8"
+        }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "42000268",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000268",
-    "time": "2015-09-25 05:09:35",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000268",
+    "time": "2020-02-26 03:24:13",
     "許可證字號": "衛署醫器陸輸字第000268號",
     "註銷狀態": "已註銷",
     "註銷日期": "104\/07\/22",
@@ -18,47 +18,40 @@
     "醫器規格": "詳如中文仿單核定本",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "B血液學及病理學裝置",
-    "醫器次類別一": "B9100血液與血液成分收集與處理之容器",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
+    "醫器主類別二": [
+        ""
+    ],
     "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入",
-        "40大陸生產"
-    ],
-    "申請商名稱": "620101K304  綠博醫技有限公司",
-    "申請商地址": "台北市松山區敦化北路207號12樓",
+    "藥品分類": "",
     "主製造廠": {
-        "製造廠名稱": "M640683000  NANJING SHUANGWEI BIOTECHNOLOGY CO., LTD.",
-        "製造廠廠址": "NO.1, GAOKE 8 ROAD, NEW &amp; HIGH TECHNOLOGY INDUSTRY DEVELOPMENT ZONE, NANJING, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "限制項目": "02輸　入 40大陸生產",
+        "申請商名稱": "620101K304  綠博醫技有限公司",
+        "申請商地址": "台北市松山區敦化北路207號12樓",
+        "主製造廠": ""
     },
-    "CCC號列": "90189080006 其他第９０１８節所屬之貨品Other articles of heading 90.18",
     "藥理治療分類": "",
-    "ingredients": [
-
-    ],
+    "ingredients": [],
     "仿單外盒": [
         {
             "title": "420002680002___20100714.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000268&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000268&Seq=001&Type=9"
         },
         {
-            "title": "420002680007___20100714.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000268&Seq=003&Type=8"
+            "title": "420002680007___20100714.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000268&Seq=003&Type=8"
         },
         {
-            "title": "420002680006___20100714.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000268&Seq=002&Type=8"
+            "title": "420002680006___20100714.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000268&Seq=002&Type=8"
         },
         {
-            "title": "420002680001___20100714.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000268&Seq=001&Type=8"
+            "title": "420002680001___20100714.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000268&Seq=001&Type=8"
         }
     ]
 }

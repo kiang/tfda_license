@@ -1,32 +1,87 @@
 {
     "code": "10000938",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000938",
-    "time": "2020-02-21 03:17:12",
-    "許可證字號": "",
-    "": "",
-    "有效日期": "",
-    "發證日期": "",
-    "許可證種類": "",
+    "time": "2020-02-26 01:42:36",
+    "許可證字號": "衛署菌疫輸字第000938號",
+    "註銷狀態": "",
+    "註銷日期": "",
+    "註銷理由": "",
+    "有效日期": "112\/03\/01",
+    "發證日期": "102\/03\/01",
+    "許可證種類": "菌　疫",
     "舊證字號": "",
     "醫療器材級數": "",
-    "通關簽審文件編號": "",
-    "中文品名": "",
-    "英文品名": "",
-    "劑型": "",
+    "通關簽審文件編號": "DHA01000093808",
+    "中文品名": "采視明注射液(預填針筒)",
+    "英文品名": "Eylea aflibercept (rch) 40 mg\/mL solution for intravitreal injection pre-filled syringe",
+    "適應症": "適用於治療血管新生型(濕性)年齡相關性黃斑部退化病變。\r\n中央視網膜靜脈阻塞(CRVO)續發黃斑部水腫所導致的視力損害。\r\n糖尿病黃斑部水腫(DME)所導致的視力損害。\r\n分支視網膜靜脈阻塞(BRVO)續發黃斑部水腫所導致的視力損害。\r\n治療病理性近視(pathological myopia, PM)續發的脈絡膜血管新生(choroidal neovascularization, CNV)所導致之視力損害。",
+    "劑型": "270注射劑",
+    "包裝": "100支以下盒裝 預填針筒",
+    "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "-->\r\n                    \r\n                        \r\n                            標籤、仿單及包裝加註": "",
-    "藥品分類": [
+    "標籤、仿單及包裝加註": [
         ""
     ],
-    "主成分略述": "",
-    "限制項目": "(本產品依藥事法第45條規定列入安全監視，請使用單位配合執行監視項目並提供所得資料予許可證持有商)",
+    "藥品類別": "05限由醫師使用",
+    "藥品分類": "",
     "主製造廠": {
-        "申請商地址": "",
-        "藥理治療分類": "",
-        "": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "1426201100  台灣拜耳股份有限公司",
+        "申請商地址": "台北市信義區信義路五段7號台北101大樓之53至54樓",
+        "主製造廠": ""
     },
-    "ingredients": [],
-    "藥物辨識詳細資料": [],
-    "藥物辨識外觀圖片": []
+    "CCC號列": "",
+    "藥理治療分類": "",
+    "次製造廠": [
+        {
+            "製造廠名稱": "CDE0046000  GP GRENZACH PRODUKTIONS GMBH",
+            "製造廠廠址": "EMIL-BARELL-STRASSE 7, 79639 GRENZACH-WYHLEN, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "最終成品包裝廠\/滅菌廠"
+        },
+        {
+            "製造廠名稱": "FDE0559000  VETTER PHARMA-FERTIGUNG GMBH &amp; CO. KG",
+            "製造廠廠址": "MOOSWIESEN 2, 88214 RAVENSBURG, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "鋁箔次包裝廠"
+        },
+        {
+            "製造廠名稱": "FUS0332000  REGENERON PHARMACEUTICALS INC",
+            "製造廠廠址": "81 COLUMBIA TURNPIKE, RENSSELAER, NEW YORK 12144, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "原料藥及半成品製造廠"
+        }
+    ],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200044100",
+            "成分名稱": "Aflibercept",
+            "含量描述": "",
+            "含量": "40.0000000000",
+            "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "衛署菌疫輸字第000938號「采視明注射液(預填針筒)」仿單(2)-108-11-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000938&Seq=009&Type=9"
+        },
+        {
+            "title": "Eylea PFS_syringe label-106-11-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000938&Seq=003&Type=8"
+        },
+        {
+            "title": "Eylea PFS_carton-106-11-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000938&Seq=002&Type=8"
+        },
+        {
+            "title": "Eylea PFS_blister-106-11-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000938&Seq=001&Type=8"
+        }
+    ]
 }

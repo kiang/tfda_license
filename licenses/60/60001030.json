@@ -1,7 +1,7 @@
 {
     "code": "60001030",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60001030",
-    "time": "2019-07-26 03:23:30",
+    "time": "2020-02-26 09:59:26",
     "許可證字號": "衛部菌疫輸字第001030號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -24,12 +24,12 @@
         ""
     ],
     "藥品類別": "05限由醫師使用",
-    "主成分略述": "Antihemophilic Factor (Recombinant), Fc Fusion Protein",
+    "藥品分類": "",
     "主製造廠": {
+        "限制項目": "02輸　入 51免除銜接性臨床試驗",
         "申請商名稱": "1424601100  賽諾菲股份有限公司",
         "申請商地址": "台北市信義區松仁路3號7樓",
-        "主製造廠": "",
-        "製造廠名稱": "FDE0559000  VETTER PHARMA-FERTIGUNG GMBH &amp; CO. KG"
+        "主製造廠": ""
     },
     "CCC號列": "30021200400 抗血友病製劑Antihemophilia preparations",
     "藥理治療分類": "",
@@ -49,6 +49,13 @@
             "製程": "稀釋液"
         },
         {
+            "製造廠名稱": "FSE0014000  RECHON LIFE SCIENCE AB",
+            "製造廠廠址": "SOLDATTORPSVAGEN 5, 216 13 LIMHAMN,SWEDEN",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWEDEN",
+            "製程": "二級包裝廠"
+        },
+        {
             "製造廠名稱": "FUS0785100  BIOGEN INC.",
             "製造廠廠址": "5000 DAVIS DRIVE, RESEARCH TRIANGLE PARK, NC 27709-4627, USA",
             "製造廠公司地址": "",
@@ -61,13 +68,6 @@
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
             "製程": "二級包裝廠"
-        },
-        {
-            "製造廠名稱": "FUS1102000  Bioverativ Therapeutics Inc.",
-            "製造廠廠址": "225 Second Avenue, Waltham, MA 02451,U.S.A.",
-            "製造廠公司地址": "",
-            "製造廠國別": "UNITED STATES",
-            "製程": "許可證持有者"
         }
     ],
     "ingredients": [
@@ -88,6 +88,10 @@
         {
             "title": "Eloctate Packaging Insert-Chinese 20180118-107-03-27.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001030&Seq=002&Type=9"
+        },
+        {
+            "title": "艾拉特凍晶注射劑_1500IU_外盒-109-01-30.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001030&Seq=007&Type=8"
         },
         {
             "title": "60-001030_輔助注射組外盒-108-05-03.pdf",

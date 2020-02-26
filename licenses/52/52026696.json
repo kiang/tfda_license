@@ -1,7 +1,7 @@
 {
     "code": "52026696",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026696",
-    "time": "2019-07-26 03:23:07",
+    "time": "2020-02-26 06:29:22",
     "許可證字號": "衛部藥輸字第026696號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,7 +14,7 @@
     "通關簽審文件編號": "null",
     "中文品名": "疼靜 40\/20毫克長效錠",
     "英文品名": "TARGIN 40\/20mg Prolonged-Release tablets",
-    "適應症": "針對(1)需要長期疼痛控制之中重度癌症疼痛病患；(2)需要長期疼痛控制之慢性中重度非癌症病患，且曾經接受過類鴉片藥物而無法有效控制疼痛者。\r\n緩解其因為服用類鴉片藥物之後引起的便秘症狀。",
+    "適應症": "1. 止痛：(1) 需要長期疼痛控制之中重度癌症疼痛病人。(2) 需要長期疼痛控制之慢性中重度非癌症疼痛病人，且曾經接受過類鴉片藥物而無法有效控制疼痛者。\r\n2. 不寧腿症候群：用於多巴胺治療失敗後之第二線重度至極重度之原發性不寧腿症候群 (Restless Legs Syndrome, RLS) 之症狀治療。\r\n3. 本品可緩解其因為服用類鴉片藥物之後引起的便秘症狀。",
     "劑型": "16A長效膜衣錠",
     "包裝": "2-1000顆鋁箔盒裝",
     "儲存溫度": "",
@@ -24,12 +24,12 @@
         ""
     ],
     "藥品類別": "06須由醫師處方使用",
-    "主成分略述": "OXYCODONE HCL, NALOXONE HCL DIHYDRATE",
+    "藥品分類": "",
     "主製造廠": {
+        "限制項目": "02輸　入 32第二級管制藥品",
         "申請商名稱": "6201180767  衛生福利部食品藥物管理署管制藥品製藥工廠",
         "申請商地址": "台北市南港區忠孝東路六段467號地下一層",
-        "主製造廠": "",
-        "製造廠名稱": "FGB0151000  BARD PHARMACEUTICALS LTD."
+        "主製造廠": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -62,12 +62,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "Chinese PI-105-05-05.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026696&Seq=001&Type=9"
+            "title": "2. TARGIN RLS PI_20200114-109-01-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026696&Seq=002&Type=9"
         },
         {
-            "title": "疼靜長效錠40mg label-105-05-05.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026696&Seq=003&Type=8"
+            "title": "Targin_Blister_Foil_FA-109-01-14.PDF",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026696&Seq=005&Type=8"
+        },
+        {
+            "title": "1. TARGIN Carton-109-01-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026696&Seq=004&Type=8"
         }
     ]
 }

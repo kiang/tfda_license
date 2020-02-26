@@ -1,11 +1,11 @@
 {
     "code": "42000144",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000144",
-    "time": "2017-01-27 03:44:03",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000144",
+    "time": "2020-02-26 03:21:49",
     "許可證字號": "衛署醫器陸輸字第000144號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "107\/04\/25",
+    "註銷理由": "許可證已逾有效期",
     "有效日期": "105\/11\/03",
     "發證日期": "95\/11\/03",
     "許可證種類": "醫　器",
@@ -18,36 +18,240 @@
     "醫器規格": "ESSENTA RC,以下空白。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "P放射學科用裝置",
-    "醫器次類別一": "P1660透視X光影像增感管",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入 14輸入須附同意書（每次輸入均須取得原子能委員會之同意書為憑）",
-    "申請商名稱": "1426501100  台灣飛利浦股份有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "M640217000  PHILIPS AND NEUSOFT MEDICAL SYSTEMS CO., LTD.",
-        "製造廠廠址": "NEUSOFT PARK, HUN NAN INDUSTRIAL AREA, SHENYANG, 110179, CHINA",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入 14輸入須附同意書（每次輸入均須取得原子能委員會之同意書為憑）",
+        "申請商名稱": "1426501100  台灣飛利浦股份有限公司",
+        "申請商地址": "台北市南港區園區街3之1號14樓",
+        "主製造廠": ""
     },
-    "CCC號列": "90221400000 其他內科、外科或獸醫用Ｘ光射線器具Other apparatus based on the use of X-rays, for medical surgical or veterinary uses",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "420001440053.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=053&Type=9"
+            "title": "420001440053.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=053&Type=9"
         },
         {
-            "title": "420001440001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=001&Type=8"
+            "title": "420001440052.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=052&Type=9"
+        },
+        {
+            "title": "420001440051.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=051&Type=9"
+        },
+        {
+            "title": "420001440050.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=050&Type=9"
+        },
+        {
+            "title": "420001440049.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=049&Type=9"
+        },
+        {
+            "title": "420001440048.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=048&Type=9"
+        },
+        {
+            "title": "420001440047.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=047&Type=9"
+        },
+        {
+            "title": "420001440046.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=046&Type=9"
+        },
+        {
+            "title": "420001440045.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=045&Type=9"
+        },
+        {
+            "title": "420001440044.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=044&Type=9"
+        },
+        {
+            "title": "420001440043.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=043&Type=9"
+        },
+        {
+            "title": "420001440042.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=042&Type=9"
+        },
+        {
+            "title": "420001440041.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=041&Type=9"
+        },
+        {
+            "title": "420001440040.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=040&Type=9"
+        },
+        {
+            "title": "420001440039.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=039&Type=9"
+        },
+        {
+            "title": "420001440038.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=038&Type=9"
+        },
+        {
+            "title": "420001440037.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=037&Type=9"
+        },
+        {
+            "title": "420001440036.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=036&Type=9"
+        },
+        {
+            "title": "420001440035.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=035&Type=9"
+        },
+        {
+            "title": "420001440034.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=034&Type=9"
+        },
+        {
+            "title": "420001440033.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=033&Type=9"
+        },
+        {
+            "title": "420001440032.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=032&Type=9"
+        },
+        {
+            "title": "420001440031.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=031&Type=9"
+        },
+        {
+            "title": "420001440030.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=030&Type=9"
+        },
+        {
+            "title": "420001440029.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=029&Type=9"
+        },
+        {
+            "title": "420001440028.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=028&Type=9"
+        },
+        {
+            "title": "420001440027.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=027&Type=9"
+        },
+        {
+            "title": "420001440026.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=026&Type=9"
+        },
+        {
+            "title": "420001440025.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=025&Type=9"
+        },
+        {
+            "title": "420001440024.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=024&Type=9"
+        },
+        {
+            "title": "420001440023.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=023&Type=9"
+        },
+        {
+            "title": "420001440022.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=022&Type=9"
+        },
+        {
+            "title": "420001440021.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=021&Type=9"
+        },
+        {
+            "title": "420001440020.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=020&Type=9"
+        },
+        {
+            "title": "420001440019.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=019&Type=9"
+        },
+        {
+            "title": "420001440018.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=018&Type=9"
+        },
+        {
+            "title": "420001440017.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=017&Type=9"
+        },
+        {
+            "title": "420001440016.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=016&Type=9"
+        },
+        {
+            "title": "420001440015.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=015&Type=9"
+        },
+        {
+            "title": "420001440014.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=014&Type=9"
+        },
+        {
+            "title": "420001440013.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=013&Type=9"
+        },
+        {
+            "title": "420001440012.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=012&Type=9"
+        },
+        {
+            "title": "420001440011.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=011&Type=9"
+        },
+        {
+            "title": "420001440010.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=010&Type=9"
+        },
+        {
+            "title": "420001440009.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=009&Type=9"
+        },
+        {
+            "title": "420001440008.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=008&Type=9"
+        },
+        {
+            "title": "420001440007.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=007&Type=9"
+        },
+        {
+            "title": "420001440006.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=006&Type=9"
+        },
+        {
+            "title": "420001440005.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=005&Type=9"
+        },
+        {
+            "title": "420001440004.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=004&Type=9"
+        },
+        {
+            "title": "420001440003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=003&Type=9"
+        },
+        {
+            "title": "420001440002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=002&Type=9"
+        },
+        {
+            "title": "420001440001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=001&Type=9"
+        },
+        {
+            "title": "420001440001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000144&Seq=001&Type=8"
         }
     ]
 }

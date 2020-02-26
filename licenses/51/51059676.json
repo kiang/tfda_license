@@ -1,7 +1,7 @@
 {
     "code": "51059676",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51059676",
-    "time": "2017-06-16 03:20:34",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51059676",
+    "time": "2020-02-26 06:20:41",
     "許可證字號": "衛部藥製字第059676號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,19 +17,19 @@
     "適應症": "製劑用。",
     "劑型": "030硬空膠囊劑",
     "包裝": "100粒以上塑膠袋裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "04調劑專用",
-    "主成分略述": [
-        "GELATIN"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "01國　產",
-    "申請商名稱": "6139011097  定源生技股份有限公司",
+    "藥品類別": "04調劑專用",
+    "藥品分類": "一般學名藥",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "6139011097  定源生技股份有限公司",
-        "製造廠廠址": "雲林縣斗六市長安里科加六路32號",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "01國　產",
+        "申請商名稱": "6139011097  定源生技股份有限公司",
+        "申請商地址": "雲林縣斗六市長安里科加六路32號",
+        "主製造廠": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -43,26 +43,42 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "3號硬空膠囊外觀-106-05-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059676&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "51059676-106-05-26.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059676&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059676&Seq=001&Type=9"
         },
         {
             "title": "外箱設計圖-106-05-26.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059676&Seq=004&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059676&Seq=004&Type=8"
         },
         {
             "title": "PE袋(中42.5x75cm)設計檔 2017.05.19 核本草本-106-05-26.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059676&Seq=003&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059676&Seq=003&Type=8"
         },
         {
             "title": "PE袋(小29.0x51.5cm)設計檔 2017.05.19 核本草本-106-05-26.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059676&Seq=002&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059676&Seq=002&Type=8"
         },
         {
             "title": "PE袋(大 65x90cm)設計檔 2017.05.19核本草本-106-05-26.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059676&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059676&Seq=001&Type=8"
         }
     ]
 }

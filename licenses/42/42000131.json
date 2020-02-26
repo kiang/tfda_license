@@ -1,11 +1,11 @@
 {
     "code": "42000131",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000131",
-    "time": "2016-09-30 04:00:09",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000131",
+    "time": "2020-02-26 03:21:41",
     "許可證字號": "衛署醫器陸輸字第000131號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "107\/04\/25",
+    "註銷理由": "許可證已逾有效期",
     "有效日期": "105\/07\/26",
     "發證日期": "95\/07\/26",
     "許可證種類": "醫　器",
@@ -18,45 +18,40 @@
     "醫器規格": "DT-1TB,DT-2TB,DT-2TBJ,DT-2RB,以下空白。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "J一般醫院及個人使用裝置",
-    "醫器次類別一": "J2910臨床電子體溫計",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入",
-        "40大陸生產"
+    "醫器主類別二": [
+        ""
     ],
-    "申請商名稱": "620110C067  金蒂股份有限公司",
-    "申請商地址": "台北市大安區辛亥路一段38號3樓",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "製造廠名稱": "M640755000  SHANGHAI HUA CHEN MEDICAL INSTRUMENTS CO., LTD.",
-        "製造廠廠址": "2723 TAIHE WEST ROAD, SHANGHAI, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "限制項目": "02輸　入 40大陸生產",
+        "申請商名稱": "620110C067  金蒂股份有限公司",
+        "申請商地址": "台北市大安區辛亥路一段38號3樓",
+        "主製造廠": ""
     },
-    "CCC號列": "90251990101 體溫計Fever thermometers",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "420001310004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000131&Seq=004&Type=9"
+            "title": "420001310004.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000131&Seq=004&Type=9"
         },
         {
-            "title": "420001310003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000131&Seq=003&Type=9"
+            "title": "420001310003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000131&Seq=003&Type=9"
         },
         {
-            "title": "420001310002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000131&Seq=002&Type=9"
+            "title": "420001310002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000131&Seq=002&Type=9"
         },
         {
-            "title": "420001310001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000131&Seq=001&Type=9"
+            "title": "420001310001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000131&Seq=001&Type=9"
         }
     ]
 }

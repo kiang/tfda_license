@@ -1,7 +1,7 @@
 {
     "code": "42000107",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000107",
-    "time": "2016-08-26 04:25:33",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000107",
+    "time": "2020-02-26 03:21:25",
     "許可證字號": "衛署醫器陸輸字第000107號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -10,7 +10,7 @@
     "發證日期": "95\/04\/21",
     "許可證種類": "醫　器",
     "舊證字號": "",
-    "醫療器材級數": "",
+    "醫療器材級數": "第二等級",
     "通關簽審文件編號": "DHA04200010708",
     "中文品名": "&quot;卓和&quot;一次性使用尿袋(滅菌)",
     "英文品名": "&quot;GMTH&quot; Disposable Urine Bag(Sterile)",
@@ -18,40 +18,36 @@
     "醫器規格": "詳如中文仿單核定本。註銷規格：500ml; 管長110-200公分，以下空白。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "H胃腸病學-泌尿學科用裝置",
-    "醫器次類別一": "",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入"
+    "醫器主類別二": [
+        ""
     ],
-    "申請商名稱": "6231118957  卓和企業股份有限公司",
-    "申請商地址": "新北市五股區五權八路32號2樓",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "製造廠名稱": "M649354000  CHANGZHOU ZHONGYOU MEDICAL DEVICE CO., LTD.",
-        "製造廠廠址": "WUGANG, ZHENGLU TOWN, CHANGZHOU 213115 JIANGSU, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "6231118957  卓和企業股份有限公司",
+        "申請商地址": "新北市五股區五權八路32號2樓",
+        "主製造廠": ""
     },
-    "CCC號列": "39269016909 其他塑膠製實驗室、衛生及醫療用之物品Other laboratory, hygienic and pharmaceutical articles, of plastics",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "420001070001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000107&Seq=001&Type=9"
+            "title": "420001070001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000107&Seq=001&Type=9"
         },
         {
-            "title": "420001070002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000107&Seq=002&Type=8"
+            "title": "420001070002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000107&Seq=002&Type=8"
         },
         {
-            "title": "420001070001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000107&Seq=001&Type=8"
+            "title": "420001070001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000107&Seq=001&Type=8"
         }
     ]
 }

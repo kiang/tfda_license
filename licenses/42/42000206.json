@@ -1,7 +1,7 @@
 {
     "code": "42000206",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000206",
-    "time": "2017-03-24 03:22:05",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000206",
+    "time": "2020-02-26 03:22:27",
     "許可證字號": "衛署醫器陸輸字第000206號",
     "註銷狀態": "已註銷",
     "註銷日期": "106\/01\/19",
@@ -18,36 +18,84 @@
     "醫器規格": "Radiopaque cu-375, 以下空白。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "L婦產科用裝置",
-    "醫器次類別一": "L5360子宮內避孕器及放置器",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入 40大陸生產",
-    "申請商名稱": "0929301100  美商默沙東藥廠股份有限公司台灣分公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "M640138000  NANJING ORGANON PHARMACEUTICAL CO., LTD.",
-        "製造廠廠址": "PUKOU HIGH-TECH DEVELOPMENT ZONE, NANJING 210061, CHINA",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入 40大陸生產",
+        "申請商名稱": "0929301100  美商默沙東藥廠股份有限公司台灣分公司",
+        "申請商地址": "台北市信義區信義路五段106號12樓",
+        "主製造廠": ""
     },
-    "CCC號列": "90219090009 其他第９０２１節所屬之貨品Other articles of heading 90.21",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "420002060008.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000206&Seq=008&Type=9"
+            "title": "420002060008.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000206&Seq=008&Type=9"
         },
         {
-            "title": "420002060007.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000206&Seq=007&Type=8"
+            "title": "420002060007.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000206&Seq=007&Type=9"
+        },
+        {
+            "title": "420002060006.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000206&Seq=006&Type=9"
+        },
+        {
+            "title": "420002060005.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000206&Seq=005&Type=9"
+        },
+        {
+            "title": "420002060004.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000206&Seq=004&Type=9"
+        },
+        {
+            "title": "420002060003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000206&Seq=003&Type=9"
+        },
+        {
+            "title": "420002060002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000206&Seq=002&Type=9"
+        },
+        {
+            "title": "420002060001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000206&Seq=001&Type=9"
+        },
+        {
+            "title": "420002060007.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000206&Seq=007&Type=8"
+        },
+        {
+            "title": "420002060006.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000206&Seq=006&Type=8"
+        },
+        {
+            "title": "420002060005.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000206&Seq=005&Type=8"
+        },
+        {
+            "title": "420002060004.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000206&Seq=004&Type=8"
+        },
+        {
+            "title": "420002060003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000206&Seq=003&Type=8"
+        },
+        {
+            "title": "420002060002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000206&Seq=002&Type=8"
+        },
+        {
+            "title": "420002060001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000206&Seq=001&Type=8"
         }
     ]
 }

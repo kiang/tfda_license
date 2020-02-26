@@ -1,7 +1,7 @@
 {
     "code": "52026317",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026317",
-    "time": "2019-06-28 03:48:35",
+    "time": "2020-02-26 06:25:34",
     "許可證字號": "衛部藥輸字第026317號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -24,12 +24,12 @@
         ""
     ],
     "藥品類別": "17醫師藥師藥劑生指示藥品",
-    "主成分略述": "ACETAMINOPHEN (EQ TO PARACETAMOL)",
+    "藥品分類": "",
     "主製造廠": {
+        "限制項目": "02輸　入",
         "申請商名稱": "1120301100  康百佳實業有限公司",
         "申請商地址": "台北市大同區南京西路７６號６樓之３",
-        "主製造廠": "",
-        "製造廠名稱": "FVN0002000  STADA-VN JOINT VENTURE CO., LTD., BINH DUONG BRANCH"
+        "主製造廠": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
@@ -43,10 +43,34 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Paracetamol STADA 500mg 藥物外觀-104-09-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026317&Seq=002&Type=10"
+        }
+    ],
     "仿單外盒": [
+        {
+            "title": "Paracetamol 500 mg中文仿單-108-07-03(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026317&Seq=004&Type=9"
+        },
         {
             "title": "Paracetamol STADA 仿單20170906-106-09-11.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026317&Seq=003&Type=9"
+        },
+        {
+            "title": "Paracetamol STADA 10S 20180419-108-07-03(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026317&Seq=005&Type=8"
         },
         {
             "title": "派抑疼-彩盒、鋁片、錠劑外觀-106-09-11.pdf",

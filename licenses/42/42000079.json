@@ -1,7 +1,7 @@
 {
     "code": "42000079",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000079",
-    "time": "2015-08-22 04:56:12",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000079",
+    "time": "2020-02-26 03:21:08",
     "許可證字號": "衛署醫器陸輸字第000079號",
     "註銷狀態": "已註銷",
     "註銷日期": "103\/04\/03",
@@ -12,51 +12,46 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA04200007903",
-    "中文品名": "\"可威\" 數位血壓計",
-    "英文品名": "\"AND\" BLOOD PRESSURE MONITOR",
+    "中文品名": "&quot;可威&quot; 數位血壓計",
+    "英文品名": "&quot;AND&quot; BLOOD PRESSURE MONITOR",
     "效能": "詳如中文仿單核定本",
     "醫器規格": "UA-704, UA-767, UA-702, UA-787,UA-631,UA-772, UB-401, UB-302以下空白",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "E心臟血管用裝置",
-    "醫器次類別一": "",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入",
-        "40大陸生產"
+    "醫器主類別二": [
+        ""
     ],
-    "申請商名稱": "6231031455  台灣可威有限公司",
-    "申請商地址": "新北市中和區中山路二段296號11樓之7、之8",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "製造廠名稱": "M640207000  A&amp;D ELECTRONICS (SHEN ZHEN) CO., LTD.",
-        "製造廠廠址": "NO.3 INDUSTRIAL ESTATE, JIANGBIAN VILLAGE, SONGGANG TOWN, BAO'AN DISTRICT, SHENZHEN, CITY CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "限制項目": "02輸　入 40大陸生產",
+        "申請商名稱": "6231031455  台灣可威有限公司",
+        "申請商地址": "新北市中和區中山路二段296號11樓之7、之8",
+        "主製造廠": ""
     },
-    "CCC號列": "90189010109 靜脈血壓計Venous blood pressure manometer",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "420000790003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000079&Seq=003&Type=9"
+            "title": "420000790003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000079&Seq=003&Type=9"
         },
         {
-            "title": "420000790002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000079&Seq=002&Type=9"
+            "title": "420000790002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000079&Seq=002&Type=9"
         },
         {
-            "title": "420000790001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000079&Seq=001&Type=9"
+            "title": "420000790001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000079&Seq=001&Type=9"
         },
         {
-            "title": "420000790001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000079&Seq=001&Type=8"
+            "title": "420000790001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000079&Seq=001&Type=8"
         }
     ]
 }

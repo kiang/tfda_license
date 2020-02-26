@@ -1,7 +1,7 @@
 {
     "code": "58026415",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58026415",
-    "time": "2019-07-26 03:18:50",
+    "time": "2020-02-26 09:55:01",
     "許可證字號": "衛部粧輸字第026415號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -24,14 +24,13 @@
         ""
     ],
     "化粧品類別": "",
-    "主成分略述": "ZINC OXIDE, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, ETHYLHEXYL METHOXYCINNAMATE",
+    "藥品分類": "",
     "主製造廠": {
+        "限制項目": "",
         "申請商名稱": "1406604100  台灣奇士美化粧品股份有限公司",
         "申請商地址": "臺北市中山區松江路328號3樓",
-        "主製造廠": "",
-        "製造廠名稱": "CJP0271000  ISEHAN CO., LTD. MITSUKAIDO PLANT"
+        "主製造廠": ""
     },
-    "": "",
     "藥理治療分類": "",
     "ingredients": [
         {
@@ -57,6 +56,12 @@
             "含量描述": "",
             "含量": "5.0000000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "58026415-108-10-30.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58026415&Seq=001&Type=8"
         }
     ]
 }

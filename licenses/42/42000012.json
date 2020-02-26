@@ -1,7 +1,7 @@
 {
     "code": "42000012",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000012",
-    "time": "2015-08-22 04:41:56",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000012",
+    "time": "2020-02-26 03:20:27",
     "許可證字號": "衛署醫器陸輸字第000012號",
     "註銷狀態": "已註銷",
     "註銷日期": "102\/01\/17",
@@ -12,62 +12,58 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA04200001200",
-    "中文品名": "\"西門子\" X光血管診斷系統",
-    "英文品名": "\"SIEMENS\" ANGIOGRAPHY X-RAY DIAGNOSTIC SYSTEM",
+    "中文品名": "&quot;西門子&quot; X光血管診斷系統",
+    "英文品名": "&quot;SIEMENS&quot; ANGIOGRAPHY X-RAY DIAGNOSTIC SYSTEM",
     "效能": "詳如中文仿單核定本",
     "醫器規格": "AXIOM ARTIS U, 以下空白。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "P放射學科用裝置",
-    "醫器次類別一": "",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入"
+    "醫器主類別二": [
+        ""
     ],
-    "申請商名稱": "0406101100  友信行股份有限公司",
-    "申請商地址": "台北市敦化南路二段９７號１４樓",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "製造廠名稱": "M640007000  SIEMENS SHANGHAI  MEDICAL EQUIPMENT LTD.",
-        "製造廠廠址": "278 JIN HU ROAD, PU DONG NEW DISTRICT, 201206 SHANGHAI, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "0406101100  友信行股份有限公司",
+        "申請商地址": "台北市敦化南路二段９７號１４樓",
+        "主製造廠": ""
     },
-    "CCC號列": "90221400000 其他內科、外科或獸醫用Ｘ光射線器具Other apparatus based on the use of X-rays, for medical surgical or veterinary uses",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "420000120007.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000012&Seq=007&Type=9"
+            "title": "420000120007.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000012&Seq=007&Type=9"
         },
         {
-            "title": "420000120006.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000012&Seq=006&Type=9"
+            "title": "420000120006.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000012&Seq=006&Type=9"
         },
         {
-            "title": "420000120005.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000012&Seq=005&Type=9"
+            "title": "420000120005.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000012&Seq=005&Type=9"
         },
         {
-            "title": "420000120004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000012&Seq=004&Type=9"
+            "title": "420000120004.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000012&Seq=004&Type=9"
         },
         {
-            "title": "420000120003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000012&Seq=003&Type=9"
+            "title": "420000120003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000012&Seq=003&Type=9"
         },
         {
-            "title": "420000120002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000012&Seq=002&Type=9"
+            "title": "420000120002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000012&Seq=002&Type=9"
         },
         {
-            "title": "420000120001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000012&Seq=001&Type=9"
+            "title": "420000120001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000012&Seq=001&Type=9"
         }
     ]
 }

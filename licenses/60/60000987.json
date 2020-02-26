@@ -1,7 +1,7 @@
 {
     "code": "60000987",
     "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60000987",
-    "time": "2018-02-23 03:21:40",
+    "time": "2020-02-26 09:58:57",
     "許可證字號": "衛部菌疫輸字第000987號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,42 +17,43 @@
     "適應症": "預防日本腦炎。適用於2個月以上嬰幼兒及成人",
     "劑型": "270注射劑",
     "包裝": "0.5毫升充填於1.25毫升玻璃針筒內 100支以下盒裝",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "06須由醫師處方使用",
-    "主成分略述": [
-        "JapaneseencephalitisvirusstrainSA14-14-2(inactivated)Totalprotein"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "02輸　入 51免除銜接性臨床試驗",
-    "申請商名稱": "1101110200  國光生物科技股份有限公司",
+    "藥品類別": "06須由醫師處方使用",
+    "藥品分類": "疫苗",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "F470267400  VETTER PHARMA-FERTIGUNG GMBH &amp; CO. KG FOR ABBOTT GMBH CO. KG",
-        "製造廠廠址": "SCHUTZENSTRABE 87 AND 99-101 88212 RAVENSBURG, GERMANY",
-        "製造廠公司地址": ""
+        "限制項目": "02輸　入 51免除銜接性臨床試驗",
+        "申請商名稱": "1101110200  國光生物科技股份有限公司",
+        "申請商地址": "台中市潭子區潭興路一段三號",
+        "主製造廠": ""
     },
     "CCC號列": "",
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "F030050000  VALNEVA AUSTRIA GMBH",
+            "製造廠名稱": "FAT0050000  VALNEVA AUSTRIA GMBH",
             "製造廠廠址": "CAMPUS VIENNA BIOCENTER 3, 1030 VIENNA, AUSTRIA",
             "製造廠公司地址": "",
             "製造廠國別": "AUSTRIA",
             "製程": "公司"
         },
         {
-            "製造廠名稱": "F130345000  Valneva Scotland Ltd.",
-            "製造廠廠址": "Oakbank Park Road, Livingston EH53 0TG, Scotland",
-            "製造廠公司地址": "",
-            "製造廠國別": "UNITED KINGDOM",
-            "製程": "原料藥製造廠"
-        },
-        {
-            "製造廠名稱": "F470559000  VETTER PHARMA-FERTIGUNG GMBH &amp; CO KG",
+            "製造廠名稱": "FDE0559000  VETTER PHARMA-FERTIGUNG GMBH &amp; CO KG",
             "製造廠廠址": "MOOSWIESEN 2, 88214 RAVENSBURG, GERMANY",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
             "製程": "包裝"
+        },
+        {
+            "製造廠名稱": "FGB0345000  Valneva Scotland Ltd.",
+            "製造廠廠址": "Oakbank Park Road, Livingston EH53 0TG, Scotland",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": "原料藥製造廠"
         }
     ],
     "ingredients": [

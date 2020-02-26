@@ -1,7 +1,7 @@
 {
     "code": "42000127",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000127",
-    "time": "2016-06-24 05:40:23",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000127",
+    "time": "2020-02-26 03:21:38",
     "許可證字號": "衛署醫器陸輸字第000127號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,42 +18,36 @@
     "醫器規格": "BP3A01-A,以下空白。BP3BB0、BP3AK1-3。註銷規格：BP3A01-A(原95年7月28日核定之仿單標籤核定本予以作廢)。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "E心臟血管用裝置",
-    "醫器次類別一": "E1130非侵入性血壓測量系統",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入",
-        "09委託製造",
-        "40大陸生產"
+    "醫器主類別二": [
+        ""
     ],
-    "申請商名稱": "620110R768  傲勝國際股份有限公司",
-    "申請商地址": "新北市中和區建一路176號11樓",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "製造廠名稱": "M640108000  ONBO ELECTRONIC (SHENZHEN) CO. LTD",
-        "製造廠廠址": "NO.497, TA LANEG NAN ROAD, TA LANEG STREET, BAOAN DISTRUCT,SHENZHEN, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "限制項目": "02輸　入 09委託製造 40大陸生產",
+        "申請商名稱": "620110R768  傲勝國際股份有限公司",
+        "申請商地址": "新北市中和區建一路176號11樓",
+        "主製造廠": ""
     },
-    "CCC號列": "90189010109 靜脈血壓計Venous blood pressure manometer",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "醫器陸輸字第000127___20120718.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000127&Seq=014&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000127&Seq=014&Type=9"
         },
         {
-            "title": "420001270002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000127&Seq=002&Type=8"
+            "title": "420001270002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000127&Seq=002&Type=8"
         },
         {
-            "title": "420001270001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000127&Seq=001&Type=8"
+            "title": "420001270001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000127&Seq=001&Type=8"
         }
     ]
 }

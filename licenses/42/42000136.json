@@ -1,7 +1,7 @@
 {
     "code": "42000136",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000136",
-    "time": "2015-08-22 04:51:34",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000136",
+    "time": "2020-02-26 03:21:44",
     "許可證字號": "衛署醫器陸輸字第000136號",
     "註銷狀態": "已註銷",
     "註銷日期": "101\/11\/08",
@@ -12,55 +12,50 @@
     "舊證字號": "",
     "醫療器材級數": "第二等級",
     "通關簽審文件編號": "DHA04200013602",
-    "中文品名": "\"得康\"機械式血壓計",
-    "英文品名": "\"MARS\"ANEROID SPHYGMOMANOMETER",
+    "中文品名": "&quot;得康&quot;機械式血壓計",
+    "英文品名": "&quot;MARS&quot;ANEROID SPHYGMOMANOMETER",
     "效能": "詳如中文仿單核定本",
     "醫器規格": "MS-117,MS-200,MS-115,以下空白。",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "E心臟血管用裝置",
-    "醫器次類別一": "E1130非侵入性血壓測量系統",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "醫器次類別三": "",
-    "主成分略述": "",
-    "限制項目": [
-        "02輸入",
-        "40大陸生產"
+    "醫器主類別二": [
+        ""
     ],
-    "申請商名稱": "6131020174  得康醫療器材股份有限公司",
-    "申請商地址": "新北市三重區河邊北街238號2樓",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "製造廠名稱": "M640120000  DONGGUAN MARS MEDICAL PRODUCTS CO., LTD.",
-        "製造廠廠址": "JING LIAN INDUSTRIAL DISTRICT. QIAO TOU TOWN DONGGUAN GUAN DONG PROVINCE.",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "限制項目": "02輸　入 40大陸生產",
+        "申請商名稱": "6131020174  得康醫療器材股份有限公司",
+        "申請商地址": "新北市三重區河邊北街238號2樓",
+        "主製造廠": ""
     },
-    "CCC號列": "90189010109 靜脈血壓計Venous blood pressure manometer",
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "420001360005.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000136&Seq=005&Type=9"
+            "title": "420001360005.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000136&Seq=005&Type=9"
         },
         {
-            "title": "420001360004.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000136&Seq=004&Type=9"
+            "title": "420001360004.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000136&Seq=004&Type=9"
         },
         {
-            "title": "420001360003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000136&Seq=003&Type=9"
+            "title": "420001360003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000136&Seq=003&Type=9"
         },
         {
-            "title": "420001360002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000136&Seq=002&Type=9"
+            "title": "420001360002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000136&Seq=002&Type=9"
         },
         {
-            "title": "420001360001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000136&Seq=001&Type=9"
+            "title": "420001360001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000136&Seq=001&Type=9"
         }
     ]
 }

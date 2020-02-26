@@ -1,7 +1,7 @@
 {
     "code": "92000864",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000864",
-    "time": "2017-09-08 03:25:21",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000864",
+    "time": "2020-02-26 10:15:00",
     "許可證字號": "衛部醫器陸輸字第000864號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,35 +18,32 @@
     "醫器規格": "1.普通型(S、M、L)\r\n2.柯林型(S、M、L)\r\n以下空白",
     "劑型": "",
     "包裝": "",
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "": "",
     "醫器主類別一": "L婦產科用裝置",
-    "醫器次類別一": "L4530婦產科專用手動器械",
-    "醫器主類別二": "",
-    "醫器次類別二": "",
-    "醫器主類別三": "",
-    "主成分略述": [
+    "醫器主類別二": [
         ""
     ],
-    "限制項目": "02輸　入 40大陸生產",
-    "申請商名稱": "1011521100  益江企業股份有限公司",
+    "醫器主類別三": "",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "M644345000  Taizhou Kangjian Medical Equipment Co., Ltd.",
-        "製造廠廠址": "The Machine Electricity Zone(Hang Ni Kan) of Yuhuan County, Zhejiang Province 317600, China",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入 40大陸生產",
+        "申請商名稱": "1011521100  益江企業股份有限公司",
+        "申請商地址": "高雄市前鎮區和平二路192號",
+        "主製造廠": ""
     },
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
             "title": "920008640001-106-08-24.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000864&Seq=001&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000864&Seq=001&Type=9"
         },
         {
             "title": "920008640002-106-08-24.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000864&Seq=001&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000864&Seq=001&Type=8"
         }
     ]
 }

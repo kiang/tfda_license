@@ -1,7 +1,7 @@
 {
     "code": "40000363",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=40000363",
-    "time": "2016-08-26 04:28:29",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=40000363",
+    "time": "2020-02-26 03:08:30",
     "許可證字號": "衛署粧陸輸字第000363號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,41 +17,111 @@
     "用途": "染髮。",
     "劑型": "860膏劑",
     "包裝": "500ML下管裝 附外盒裝",
-    "化粧品類別": "0110染髮劑",
-    "": "",
-    "主成分略述": "AMMONIA WATER (AMMONIUM HYDROXIDE), RESORCINOL (RESORCIN), AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL), AMINOPHENOL META- (EQ TO M-AMINOPHENOL), 4-AMINO-2-HYDROXYTOLUENE, 2,4-DIAMINOPHENOXYETHANOL HCL (EQ TO 2,4-DIAMINOPHENOXYETHANOL DIHYDROCHLORIDE), TOLUENE-2,5-DIAMINE, 2-METHYL-5-HYDROXYETHYLAMINOPHENOL, 2-AMINO-3-HYDROXYPYRIDINE",
-    "限制項目": [
-        "02輸入",
-        "40大陸生產"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "申請商名稱": "1428601100  台灣萊雅股份有限公司",
-    "申請商地址": "台北市信義區信義路五段7號22樓23樓",
+    "化粧品類別": "0110染髮劑",
+    "藥品分類": "",
     "主製造廠": {
-        "製造廠名稱": "C640007000  BEAUTYCOS INTERNATIONAL CO., LTD.",
-        "製造廠廠址": "NO.22 ZI TENG STREET JIN JI HU ROAD, SUZHOU 215021 CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
+        "限制項目": "02輸　入 40大陸生產",
+        "申請商名稱": "1428601100  台灣萊雅股份有限公司",
+        "申請商地址": "台北市信義區信義路五段7號22樓23樓",
+        "主製造廠": ""
     },
-    "CCC號列": "33059020003 染髮劑Hair dyes",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2820000102",
+            "成分名稱": "AMMONIA WATER (AMMONIUM HYDROXIDE)",
+            "含量描述": "",
+            "含量": "3.8063000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8428000500",
+            "成分名稱": "RESORCINOL (RESORCIN)",
+            "含量描述": "",
+            "含量": "0.3450000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200035401",
+            "成分名稱": "AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL)",
+            "含量描述": "",
+            "含量": "0.2880000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200035403",
+            "成分名稱": "META-AMINOPHENOL (EQ TO M-AMINOPHENOL)",
+            "含量描述": "",
+            "含量": "0.2300000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "0.0570000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9400003810",
+            "成分名稱": "2,4-DIAMINOPHENOXYETHANOL HCL (EQ TO 2,4-DIAMINOPHENOXYETHANOL DIHYDROCHLORIDE)",
+            "含量描述": "",
+            "含量": "0.0290000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9400004300",
+            "成分名稱": "TOLUENE-2,5-DIAMINE",
+            "含量描述": "",
+            "含量": "0.6343000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900084700",
+            "成分名稱": "2-METHYL-5-HYDROXYETHYLAMINOPHENOL",
+            "含量描述": "",
+            "含量": "0.0460000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900084800",
+            "成分名稱": "2-AMINO-3-HYDROXYPYRIDINE",
+            "含量描述": "",
+            "含量": "0.2300000000",
+            "單位": "%(W\/W)"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "400003630001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000363&Seq=001&Type=9"
+            "title": "400003630001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000363&Seq=001&Type=9"
         },
         {
-            "title": "400003630003.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000363&Seq=003&Type=8"
+            "title": "400003630003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000363&Seq=003&Type=8"
         },
         {
-            "title": "400003630002.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000363&Seq=002&Type=8"
+            "title": "400003630002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000363&Seq=002&Type=8"
         },
         {
-            "title": "400003630001.jpg",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000363&Seq=001&Type=8"
+            "title": "400003630001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=40000363&Seq=001&Type=8"
         }
     ]
 }

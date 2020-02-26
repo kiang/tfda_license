@@ -1,7 +1,7 @@
 {
     "code": "10000728",
-    "url": "http:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000728",
-    "time": "2017-06-16 03:14:29",
+    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000728",
+    "time": "2020-02-26 01:40:27",
     "許可證字號": "衛署菌疫輸字第000728號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,25 +17,25 @@
     "適應症": "糖尿病。",
     "劑型": "270注射劑",
     "包裝": "3ML注射匣 等支裝多次使用注射筆 單次使用注射筆",
-    "標籤、仿單及包裝加註": "",
-    "藥品類別": "05限由醫師使用",
-    "主成分略述": [
-        "INSULINGLARGINE"
+    "儲存溫度": "",
+    "有效期間": "",
+    "指示藥品審查基準": "",
+    "標籤、仿單及包裝加註": [
+        ""
     ],
-    "限制項目": "02輸　入",
-    "申請商名稱": "1424601100  賽諾菲股份有限公司",
+    "藥品類別": "05限由醫師使用",
+    "藥品分類": "",
     "主製造廠": {
-        "主製造廠": "",
-        "製造廠名稱": "F470108000  SANOFI-AVENTIS DEUTSCHLAND GMBH",
-        "製造廠廠址": "Bruningstrasse 50, D-65926 Frankfurt am Main, Germany",
-        "製造廠公司地址": "",
-        "": ""
+        "限制項目": "02輸　入",
+        "申請商名稱": "1424601100  賽諾菲股份有限公司",
+        "申請商地址": "台北市信義區松仁路3號7樓",
+        "主製造廠": ""
     },
-    "CCC號列": "30043100003 醫藥製劑，含有胰島素者Medicaments, containing insulin",
+    "CCC號列": "30043100003 其他醫藥製劑，含有胰島素者Other medicaments, containing insulin",
     "藥理治療分類": "",
     "次製造廠": [
         {
-            "製造廠名稱": "M471077000  SANOFI-AVENTIS DEUTSCHLAND GMBH",
+            "製造廠名稱": "MDE1077000  SANOFI-AVENTIS DEUTSCHLAND GMBH",
             "製造廠廠址": "INDUSTRIEPARK HOECHST D-65926 FRANKFURT AM MAIN GERMANY",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
@@ -52,14 +52,34 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Lantus solostar_box & pen-104-09-03(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000728&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
+            "title": "Lantus Solostar_LPI_C_CCDS v18_TFDA comment 2016.10.27 clean-108-07-08(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000728&Seq=004&Type=9"
+        },
+        {
             "title": "Lantus Solostar_LPI_E_CCDS v18_TFDA comment 2016.10.27 clean-105-10-28.pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000728&Seq=003&Type=9"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000728&Seq=003&Type=9"
         },
         {
             "title": "Lantus solostar_box & pen artwork-104-09-03(廠商自行上傳).pdf",
-            "url": "http:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000728&Seq=007&Type=8"
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000728&Seq=007&Type=8"
         }
     ]
 }
