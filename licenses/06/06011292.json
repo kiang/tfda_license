@@ -6,6 +6,7 @@
     "註銷狀態": "已註銷",
     "註銷日期": "101\/10\/29",
     "註銷理由": "許可證已逾有效期",
+    "製造許可登錄編號": "",
     "有效日期": "99\/05\/06",
     "發證日期": "94\/05\/06",
     "許可證種類": "醫　器",
@@ -23,16 +24,23 @@
     "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
     "醫器主類別一": "M眼科用裝置",
-    "醫器主類別二": [
-        ""
-    ],
+    "醫器次類別一": "",
+    "醫器主類別二": "",
+    "醫器次類別二": "",
     "醫器主類別三": "",
+    "醫器次類別三": "",
     "藥品分類": "",
+    "監視期限": "",
+    "主成分略述": "SODIUM CITRATE DIHYDRATE, SODIUM CHLORIDE, POLOXAMER, EDETATE DISODIUM (EQ TO DISODIUM EDETATE)( EQ TO E.D.T.A. DISODIUM) (EQ TO EDTA -2NA), CITRIC ACID MONOHYDRATE, HYDROXYPROPYLMETHYLCELLULOSE(EQ TO HYPROMELLOSE)(HPMC), WATER PURIFIED ( EQ TO AQUEOUS PURIFIED OR PURIFIED WATER ), POLYMILLINIUM 50%",
+    "限制項目": "02輸　入",
+    "申請商名稱": "1115001100  視光有限公司",
+    "申請商地址": "台北市中正區和平西路二段148號3樓之3",
     "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "1115001100  視光有限公司",
-        "申請商地址": "台北市中正區和平西路二段148號3樓之3",
-        "主製造廠": ""
+        "製造廠名稱": "MSG0017000  RUHLMANN PTE LTD.",
+        "製造廠廠址": "6 HARPER ROAD #03-06 LEONG HUAT BUILDING SINGAPORE 369674",
+        "製造廠公司地址": "",
+        "製造廠國別": "SINGAPORE",
+        "製程": ""
     },
     "藥理治療分類": "",
     "ingredients": [

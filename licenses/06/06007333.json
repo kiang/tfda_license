@@ -6,6 +6,7 @@
     "註銷狀態": "已註銷",
     "註銷日期": "96\/08\/28",
     "註銷理由": "許可證已逾有效期",
+    "製造許可登錄編號": "",
     "有效日期": "92\/11\/24",
     "發證日期": "83\/11\/03",
     "許可證種類": "醫　器",
@@ -23,16 +24,23 @@
     "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
     "醫器主類別一": "1799其他隱形眼鏡",
-    "醫器主類別二": [
-        ""
-    ],
+    "醫器次類別一": "",
+    "醫器主類別二": "",
+    "醫器次類別二": "",
     "醫器主類別三": "",
+    "醫器次類別三": "",
     "藥品分類": "",
+    "監視期限": "",
+    "主成分略述": "SODIUM CHLORIDE, SODIUM BORATE (SODIUM BIBORATESODIUM TETRABORATE, EDETATE DISODIUM (EQ TO DISODIUM EDETATE)( EQ TO E.D.T.A. DISODIUM) (EQ TO EDTA -2NA), BORIC ACID, SODIUM PYRUVATE, WATER PURIFIED ( EQ TO AQUEOUS PURIFIED OR PURIFIED WATER )",
+    "限制項目": "02輸　入",
+    "申請商名稱": "1109801100  視康股份有限公司",
+    "申請商地址": "台北市松山區民生東路三段131號10樓",
     "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "1109801100  視康股份有限公司",
-        "申請商地址": "台北市松山區民生東路三段131號10樓",
-        "主製造廠": ""
+        "製造廠名稱": "MGB0119000  CIBA VISION OPHTHALMICS GMBH",
+        "製造廠廠址": "SCHATZBOGEN 65 D-81829 MUNICH GERMANY.",
+        "製造廠公司地址": "",
+        "製造廠國別": "UNITED KINGDOM",
+        "製程": ""
     },
     "藥理治療分類": "",
     "ingredients": [

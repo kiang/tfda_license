@@ -6,6 +6,7 @@
     "註銷狀態": "已註銷",
     "註銷日期": "102\/01\/21",
     "註銷理由": "許可證已逾有效期",
+    "製造許可登錄編號": "",
     "有效日期": "98\/02\/09",
     "發證日期": "74\/02\/26",
     "許可證種類": "醫　器",
@@ -23,16 +24,23 @@
     "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
     "醫器主類別一": "1703隱形眼鏡消毒藥水",
-    "醫器主類別二": [
-        ""
-    ],
+    "醫器次類別一": "",
+    "醫器主類別二": "",
+    "醫器次類別二": "",
     "醫器主類別三": "",
+    "醫器次類別三": "",
     "藥品分類": "",
+    "監視期限": "",
+    "主成分略述": "POTASSIUM CHLORIDE, TYLOXAPOL (SUPERINONE), SODIUM PHOSPHATE MONOBASIC (EQ TO MONOSODIUM PHOSPHATE)(EQ TO SODIUM DIHYDROGEN PHOSPHATE), EDETATE DISODIUM (EQ TO DISODIUM EDETATE)( EQ TO E.D.T.A. DISODIUM) (EQ TO EDTA -2NA), BORIC ACID, THIMEROSAL (EQ TO SODIUM ETHYLMERCURITHIOSALICYLATE), HYDROXYPROPYLMETHYLCELLULOSE(EQ TO HYPROMELLOSE)(HPMC), POLYVINYL ALCOHOL",
+    "限制項目": "01國　產",
+    "申請商名稱": "0411130200  五福化學製藥廠有限公司",
+    "申請商地址": "宜蘭縣蘇澳鎮龍德工業區德興八路９號",
     "主製造廠": {
-        "限制項目": "01國　產",
-        "申請商名稱": "0411130200  五福化學製藥廠有限公司",
-        "申請商地址": "宜蘭縣蘇澳鎮龍德工業區德興八路９號",
-        "主製造廠": ""
+        "製造廠名稱": "0411130600  五福化學製藥廠有限公司",
+        "製造廠廠址": "宜蘭縣蘇澳鎮龍德工業區德興八路９號",
+        "製造廠公司地址": "",
+        "製造廠國別": "TAIWAN",
+        "製程": ""
     },
     "藥理治療分類": "",
     "ingredients": [

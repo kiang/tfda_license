@@ -6,6 +6,7 @@
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
+    "製造許可登錄編號": "QSD9659",
     "有效日期": "113\/07\/22",
     "發證日期": "93\/07\/22",
     "許可證種類": "醫　器",
@@ -23,16 +24,23 @@
     "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
     "醫器主類別一": "N骨科用裝置",
-    "醫器主類別二": [
-        ""
-    ],
+    "醫器次類別一": "",
+    "醫器主類別二": "",
+    "醫器次類別二": "",
     "醫器主類別三": "",
+    "醫器次類別三": "",
     "藥品分類": "",
+    "監視期限": "",
+    "主成分略述": "SODIUM CHLORIDE, DISODIUM HYDROGEN PHOSPHATE, SODIUM PHOSPHATE MONOBASIC MONOHYDRATE (SODIUM DIHYDROGEN PHOSPHATE MONOHYDRATE), WATER FOR INJECTION, HYLAN POLYMERS ( HYLAN A+ HYLAN B)",
+    "限制項目": "02輸　入",
+    "申請商名稱": "1707201200  賽諾菲股份有限公司",
+    "申請商地址": "台北市信義區松仁路3號7樓",
     "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "1707201200  賽諾菲股份有限公司",
-        "申請商地址": "台北市信義區松仁路3號7樓",
-        "主製造廠": ""
+        "製造廠名稱": "MUS1010000  GENZYME BIOSURGERY, A DIVISION OF GENZYME CORPORATION",
+        "製造廠廠址": "1125 PLEASANTVIEW TERRACE RIDGEFIELD, NJ 07657, U.S.A.",
+        "製造廠公司地址": "",
+        "製造廠國別": "UNITED STATES",
+        "製程": ""
     },
     "藥理治療分類": "",
     "ingredients": [
