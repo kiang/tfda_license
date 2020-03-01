@@ -1,11 +1,11 @@
 <?php
-
+$count = 0;
 function getLicense($code, $toCache = true) {
-    global $target, $cache;
+    global $target, $cache, $count;
     $opts = array(
         'http' => array(
             'method' => "GET",
-            'header' => "Referer: https://www.fda.gov.tw/MLMS/H0008.aspx\r\n",
+            'header' => "Referer: https://info.fda.gov.tw/MLMS/H0008.aspx\r\n",
         ),
         'ssl' => array(
             'verify_peer' => false,
@@ -15,7 +15,7 @@ function getLicense($code, $toCache = true) {
 
     $context = stream_context_create($opts);
 
-    $url = 'https://www.fda.gov.tw/MLMS/H0001D.aspx?Type=Lic&LicId=' . $code;
+    $url = 'https://info.fda.gov.tw/MLMS/H0001D.aspx?Type=Lic&LicId=' . $code;
     $cacheFile = $cache . '/p_' . $code;
     if (!file_exists($cacheFile) || false === $toCache) {
         file_put_contents($cacheFile, file_get_contents($url, false, $context));
@@ -29,269 +29,55 @@ function getLicense($code, $toCache = true) {
         return false;
     }
     $p = file_get_contents($cacheFile);
-    $lines = explode('</tr>', $p);
-    foreach($lines AS $k => $v) {
-        if($k > 5) {
-            $posBegin = strpos($v, '<tr');
-            $lines[$k] = substr($v, $posBegin);
-        }
+
+    //try to get license id
+    $licenseId = '';
+    $pos = strpos($p, '<span id="lblLicName">');
+    if(false !== $pos) {
+        $posEnd = strpos($p, '</span>', $pos);
+        $licenseId = trim(strip_tags(substr($p, $pos, $posEnd - $pos)));
     }
-    $linesCount = count($lines);
-    $lineNo = 0;
+
+    $pos = strpos($p, '<th');
+    $blockKey = false;
+    $blockStack = array();
     $data = array(
         'code' => $code,
         'url' => $url,
         'time' => date('Y-m-d H:i:s', filemtime($cacheFile)),
+        '許可證字號' => $licenseId,
     );
-    if (false !== strpos($p, '含藥化粧品')) {
-        foreach ($lines AS $line) {
-            ++$lineNo;
-            $cols = explode('</td>', $line);
-            switch ($lineNo) {
-                case 2:
-                    $part1 = explode('</caption>', $cols[0]);
-                    $part2 = explode('<span id="lblLicName">', $part1[0]);
-                    $data['許可證字號'] = substr($part2[1], 0, strpos($part2[1], '<'));
-                    $part3 = explode('</th>', $part1[1]);
-                    $data[trim(strip_tags($part3[0]))] = trim(strip_tags($part3[1]));
-                    $part4 = explode('</th>', $cols[1]);
-                    $data[trim(strip_tags($part4[0]))] = trim(strip_tags($part4[1]));
-                    break;
-                case 3:
-                case 4:
-                case 5:
-                case 6:
-                case 7:
-                case 8:
-                case 9:
-                case 10:
-                case 11:
-                case 12:
-                case 13:
-                case 14:
-                case 15:
-                case 16:
-                case 17:
-                case 18:
-                case 19:
-                case 20:                
-                    $part1 = explode('</th>', $cols[0]);
-                    $data[trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
-                    $part2 = explode('</th>', $cols[1]);
-                    if(isset($part2[1])) {
-                        $data[trim(strip_tags($part2[0]))] = trim(strip_tags($part2[1]));
+    while(false !== $pos) {
+        $posEnd = strpos($p, '</th>', $pos);
+        $field = trim(strip_tags(substr($p, $pos, $posEnd - $pos)));
+        $pos = $posEnd;
+        $posEnd = strpos($p, '</td>', $pos);
+        $value = substr($p, $pos, $posEnd - $pos);
+        $valueThPos = strpos($value, '<th');
+        if(false !== $valueThPos) {
+            $blockKey = $field;
+            $valueThPosEnd = strpos($value, '</th>', $valueThPos);
+            $field = trim(strip_tags(substr($value, $valueThPos, $valueThPosEnd - $valueThPos)));
+            $value = trim(strip_tags(substr($value, $valueThPosEnd)));
+            $blockStack[$field] = $value;
+        } else {
+            $value = trim(strip_tags($value));
+            if(false !== $blockKey) {
+                $blockStack[$field] = $value;
+                if($field === '製程') {
+                    if(!isset($data[$blockKey])) {
+                        $data[$blockKey] = array();
                     }
-                    break;
-                
-                case 21:
-                    $data['主製造廠'] = array();
-                    break;
-                case 22:
-                case 23:
-                case 24:
-                case 25:
-                    $part1 = explode('</th>', $cols[0]);
-                    $data['主製造廠'][trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
-                    if(isset($cols[1])) {
-                        $part2 = explode('</th>', $cols[1]);
-                        if(isset($part2[1])) {
-                            $data['主製造廠'][trim(strip_tags($part2[0]))] = trim(strip_tags($part2[1]));
-                        }    
-                    }
-                    break;
-                default:
-                    if ($linesCount - $lineNo === 1 || $linesCount - $lineNo === 2) {
-                        $part1 = explode('</th>', $cols[0]);
-                        if(isset($part1[1])) {
-                            $data[trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
-                        }
-                    }
-            }
-        }
-    } elseif (false !== strpos($p, '醫器規格')) {
-        foreach ($lines AS $line) {
-            ++$lineNo;
-            $cols = explode('</td>', $line);
-            switch ($lineNo) {
-                case 2:
-                    $part1 = explode('</caption>', $cols[0]);
-                    $part2 = explode('<span id="lblLicName">', $part1[0]);
-                    $data['許可證字號'] = substr($part2[1], 0, strpos($part2[1], '<'));
-                    $part3 = explode('</th>', $part1[1]);
-                    $data[trim(strip_tags($part3[0]))] = trim(strip_tags($part3[1]));
-                    $part4 = explode('</th>', $cols[1]);
-                    $data[trim(strip_tags($part4[0]))] = trim(strip_tags($part4[1]));
-                    break;
-                case 3:
-                case 4:
-                case 5:
-                case 6:
-                case 7:
-                case 8:
-                case 9:
-                case 10:
-                case 11:
-                case 12:
-                case 13:
-                case 14:
-                case 15:
-                case 16:
-                case 17:
-                case 18:
-                case 19:
-                case 20:
-                case 21:
-                case 22:
-                case 23:
-                    $part1 = explode('</th>', $cols[0]);
-                    $data[trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
-                    $part2 = explode('</th>', $cols[1]);
-                    if(isset($part2[1])) {
-                        $data[trim(strip_tags($part2[0]))] = trim(strip_tags($part2[1]));
-                    }
-                    break;
-                case 24:
-                    $data['主製造廠'] = array();
-                    break;
-                case 25:
-                case 26:
-                case 27:
-                case 28:
-                    $part1 = explode('</th>', $cols[0]);
-                    $data['主製造廠'][trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
-                    if(isset($cols[1])) {
-                        $part2 = explode('</th>', $cols[1]);
-                        if(isset($part2[1])) {
-                            $data['主製造廠'][trim(strip_tags($part2[0]))] = trim(strip_tags($part2[1]));
-                        }    
-                    }
-                    break;
-                default:
-                    if ($linesCount - $lineNo === 1 || $linesCount - $lineNo === 2) {
-                        $part1 = explode('</th>', $cols[0]);
-                        if(isset($part1[1])) {
-                            $data[trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
-                        }
-                    }
-            }
-        }
-    } else {
-        foreach ($lines AS $line) {
-            ++$lineNo;
-            $cols = explode('</td>', $line);
-            switch ($lineNo) {
-                case 2:
-                    $part1 = explode('</caption>', $cols[0]);
-                    $part2 = explode('<span id="lblLicName">', $part1[0]);
-                    $data['許可證字號'] = substr($part2[1], 0, strpos($part2[1], '<'));
-                    $part3 = explode('</th>', $part1[1]);
-                    $data[trim(strip_tags($part3[0]))] = trim(strip_tags($part3[1]));
-                    $part4 = explode('</th>', $cols[1]);
-                    $data[trim(strip_tags($part4[0]))] = trim(strip_tags($part4[1]));
-                    break;
-                case 3:
-                case 5:
-                case 7:
-                case 8:
-                case 9:
-                case 10:
-                case 13:
-                case 15:
-                case 16:
-                    $part1 = explode('</th>', $cols[0]);
-                    if (isset($part1[1])) {
-                        $data[trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
-                    }
-                    break;
-                case 4:
-                case 6:
-                case 11:
-                case 12:
-                    $part1 = explode('</th>', $cols[0]);
-                    $data[trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
-                    $part2 = explode('</th>', $cols[1]);
-                    if (isset($part2[1])) {
-                        $data[trim(strip_tags($part2[0]))] = trim(strip_tags($part2[1]));
-                    }
-                    break;
-                case 14:
-                    $part1 = explode('</th>', $cols[0]);
-                    $data[trim(strip_tags($part1[0]))] = explode('[|]', str_replace(array(' ', '　'), '', trim(strip_tags(str_replace('<BR>', '[|]', $part1[1])))));
-                    break;
-                case 17:
-                    $data['主製造廠'] = array();
-                    break;
-                case 18:
-                case 19:
-                case 20:
-                    $part1 = explode('</th>', $cols[0]);
-                    if (isset($part1[1])) {
-                        $data['主製造廠'][trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
-                    }
-                    break;
-                case 21:
-                    $part1 = explode('</th>', $cols[0]);
-                    if(isset($part1[1])) {
-                        $data['主製造廠'][trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
-                    }
-                    if(isset($cols[1])) {
-                        $part2 = explode('</th>', $cols[1]);
-                        if(isset($part2[1])) {
-                          $data['主製造廠'][trim(strip_tags($part2[0]))] = trim(strip_tags($part2[1]));
-                        }    
-                    }
-                    break;
-                default:
-                    if ($linesCount - $lineNo === 1 || $linesCount - $lineNo === 2) {
-                        $part1 = explode('</th>', $cols[0]);
-                        if(isset($part1[1])) {
-                            $data[trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
-                        }
-                    }
-            }
-        }
-        if(isset($data[''])) {
-            unset($data['']);
-        }
-        $fPos = strpos($p, '<div id="pnlFact2">');
-        if (false !== $fPos) {
-            $fPart = substr($p, $fPos);
-            $blocks = explode('</table>', $fPart);
-            $blockIndex = -1;
-            foreach ($blocks AS $block) {
-                $lines = explode('</tr>', $block);
-                $linesCount = count($lines);
-                if ($linesCount > 5) {
-                    if ($linesCount === 7) {
-                        array_shift($lines);
-                    }
-                    ++$blockIndex;
-                    if (!isset($data['次製造廠'])) {
-                        $data['次製造廠'] = array();
-                    }
-                    $data['次製造廠'][$blockIndex] = array();
-                    $lineNo = 0;
-                    foreach ($lines AS $line) {
-                        ++$lineNo;
-                        $cols = explode('</td>', $line);
-                        switch ($lineNo) {
-                            case 2:
-                            case 3:
-                            case 4:
-                                $part1 = explode('</th>', $cols[0]);
-                                $data['次製造廠'][$blockIndex][trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
-                                break;
-                            case 5:
-                                $part1 = explode('</th>', $cols[0]);
-                                $data['次製造廠'][$blockIndex][trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
-                                $part2 = explode('</th>', $cols[1]);
-                                $data['次製造廠'][$blockIndex][trim(strip_tags($part2[0]))] = trim(strip_tags($part2[1]));
-                                break;
-                        }
-                    }
+                    $data[$blockKey][] = $blockStack;
+                    $blockKey = false;
+                    $blockStack = array();
                 }
+            } else {
+                $data[$field] = $value;
             }
         }
+        
+        $pos = strpos($p, '<th', $posEnd);
     }
 
     /*
