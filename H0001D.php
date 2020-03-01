@@ -43,7 +43,72 @@ function getLicense($code, $toCache = true) {
         'url' => $url,
         'time' => date('Y-m-d H:i:s', filemtime($cacheFile)),
     );
-    if (false !== strpos($p, '醫器規格')) {
+    if (false !== strpos($p, '含藥化粧品')) {
+        foreach ($lines AS $line) {
+            ++$lineNo;
+            $cols = explode('</td>', $line);
+            switch ($lineNo) {
+                case 2:
+                    $part1 = explode('</caption>', $cols[0]);
+                    $part2 = explode('<span id="lblLicName">', $part1[0]);
+                    $data['許可證字號'] = substr($part2[1], 0, strpos($part2[1], '<'));
+                    $part3 = explode('</th>', $part1[1]);
+                    $data[trim(strip_tags($part3[0]))] = trim(strip_tags($part3[1]));
+                    $part4 = explode('</th>', $cols[1]);
+                    $data[trim(strip_tags($part4[0]))] = trim(strip_tags($part4[1]));
+                    break;
+                case 3:
+                case 4:
+                case 5:
+                case 6:
+                case 7:
+                case 8:
+                case 9:
+                case 10:
+                case 11:
+                case 12:
+                case 13:
+                case 14:
+                case 15:
+                case 16:
+                case 17:
+                case 18:
+                case 19:
+                case 20:                
+                    $part1 = explode('</th>', $cols[0]);
+                    $data[trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
+                    $part2 = explode('</th>', $cols[1]);
+                    if(isset($part2[1])) {
+                        $data[trim(strip_tags($part2[0]))] = trim(strip_tags($part2[1]));
+                    }
+                    break;
+                
+                case 21:
+                    $data['主製造廠'] = array();
+                    break;
+                case 22:
+                case 23:
+                case 24:
+                case 25:
+                    $part1 = explode('</th>', $cols[0]);
+                    $data['主製造廠'][trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
+                    if(isset($cols[1])) {
+                        $part2 = explode('</th>', $cols[1]);
+                        if(isset($part2[1])) {
+                            $data['主製造廠'][trim(strip_tags($part2[0]))] = trim(strip_tags($part2[1]));
+                        }    
+                    }
+                    break;
+                default:
+                    if ($linesCount - $lineNo === 1 || $linesCount - $lineNo === 2) {
+                        $part1 = explode('</th>', $cols[0]);
+                        if(isset($part1[1])) {
+                            $data[trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
+                        }
+                    }
+            }
+        }
+    } elseif (false !== strpos($p, '醫器規格')) {
         foreach ($lines AS $line) {
             ++$lineNo;
             $cols = explode('</td>', $line);
