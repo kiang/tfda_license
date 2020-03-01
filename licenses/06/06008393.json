@@ -1,6 +1,6 @@
 {
     "code": "06008393",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06008393",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06008393",
     "time": "2020-02-25 17:37:03",
     "許可證字號": "衛署醫器輸字第008393號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1403301100  台灣大塚製藥股份有限公司",
     "申請商地址": "台北市中山區復興北路378號11樓",
-    "主製造廠": {
-        "製造廠名稱": "MID0001000  P.T. OTSUKA INDONESIA",
-        "製造廠廠址": "JL. SUMBER WARAS NO.25 LAWANG,MALANG 65216, EAST JAVA,INDONESIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "INDONESIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MID0001000  P.T. OTSUKA INDONESIA",
+            "製造廠廠址": "JL. SUMBER WARAS NO.25 LAWANG,MALANG 65216, EAST JAVA,INDONESIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "INDONESIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

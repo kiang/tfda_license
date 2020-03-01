@@ -1,6 +1,6 @@
 {
     "code": "06010441",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010441",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010441",
     "time": "2020-02-25 18:04:13",
     "許可證字號": "衛署醫器輸字第010441號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620101S882  香港商香港利潔時有限公司臺灣分公司",
     "申請商地址": "台北市大安區仁愛路三段136號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MTH0006000  SSL MANUFACTURING (THAILAND) LTD.",
-        "製造廠廠址": "WELLGROW INDUSTRIAL ESTATE, 100 MOO 5 BANGSAMAK, BANGPAKONG, CHACHOENGSAO 24180, THAILAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "THAILAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MTH0006000  SSL MANUFACTURING (THAILAND) LTD.",
+            "製造廠廠址": "WELLGROW INDUSTRIAL ESTATE, 100 MOO 5 BANGSAMAK, BANGPAKONG, CHACHOENGSAO 24180, THAILAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "THAILAND",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "6133081095  吉地喜股份有限公司",
+            "製造廠廠址": "新竹縣新豐鄉新豐村紅毛23之5號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

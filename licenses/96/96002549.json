@@ -1,6 +1,6 @@
 {
     "code": "96002549",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002549",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002549",
     "time": "2020-02-26 13:01:10",
     "許可證字號": "衛部醫器陸輸壹字第002549號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6203251456  上禾貿易有限公司",
     "申請商地址": "臺中市南區美村南路239號7樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MCN4070000  HUAFENGXIANG OPTICS GLASSES, LTD.",
-        "製造廠廠址": "YUNYANG ROAD, BUREAU OF DANYANG CITY, JIANGSU PROVUNCE, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN4070000  HUAFENGXIANG OPTICS GLASSES, LTD.",
+            "製造廠廠址": "YUNYANG ROAD, BUREAU OF DANYANG CITY, JIANGSU PROVUNCE, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

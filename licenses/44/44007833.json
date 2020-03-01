@@ -1,6 +1,6 @@
 {
     "code": "44007833",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007833",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007833",
     "time": "2020-02-26 05:01:47",
     "許可證字號": "衛署醫器輸壹字第007833號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1226101100  朝悅股份有限公司",
     "申請商地址": "新北市三重區興德路111-3號11樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS2301000  HILL-ROM MANUFACTURING, INC.",
-        "製造廠廠址": "4349 CORPORATE ROAD, CHARLESTON, SC 29405, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2301000  HILL-ROM MANUFACTURING, INC.",
+            "製造廠廠址": "4349 CORPORATE ROAD, CHARLESTON, SC 29405, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

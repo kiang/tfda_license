@@ -1,6 +1,6 @@
 {
     "code": "06010205",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010205",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010205",
     "time": "2020-02-25 18:01:02",
     "許可證字號": "衛署醫器輸字第010205號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1119301100  荷商波士頓科技有限公司臺灣分公司",
     "申請商地址": "台北市南港區忠孝東路六段21號14樓",
-    "主製造廠": {
-        "製造廠名稱": "MMX0077000  BARD REYNOSA S.A. DE C.V.",
-        "製造廠廠址": "BLVD. MONTEBELLO NO. 1, PARQUE INDUSTRIAL COLONIAL, REYNOSA, MEXICO",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0077000  BARD REYNOSA S.A. DE C.V.",
+            "製造廠廠址": "BLVD. MONTEBELLO NO. 1, PARQUE INDUSTRIAL COLONIAL, REYNOSA, MEXICO",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS1756000  BARD ELECTROPHYSIOLOGY A DIVISION OF C.R. BARD, INC.",
+            "製造廠廠址": "55 TECHNOLOGY DRIVE, LOWELL, MA 01851, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

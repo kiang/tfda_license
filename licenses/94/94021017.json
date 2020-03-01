@@ -1,6 +1,6 @@
 {
     "code": "94021017",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94021017",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94021017",
     "time": "2020-02-26 12:49:28",
     "許可證字號": "衛部醫器輸壹字第021017號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "0617501100  百特醫療產品股份有限公司",
     "申請商地址": "臺北市大安區敦化南路2段216號15樓",
-    "主製造廠": {
-        "製造廠名稱": "MIT0272100  GAMBRO DASCO S.p.A.",
-        "製造廠廠址": "VIA MODENESE 66, I-41036 MEDOLLA (MO), ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIT0272100  GAMBRO DASCO S.p.A.",
+            "製造廠廠址": "VIA MODENESE 66, I-41036 MEDOLLA (MO), ITALY",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

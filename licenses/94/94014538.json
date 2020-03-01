@@ -1,6 +1,6 @@
 {
     "code": "94014538",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014538",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014538",
     "time": "2020-02-26 11:28:40",
     "許可證字號": "衛部醫器輸壹字第014538號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1201901100  華永貿易有限公司",
     "申請商地址": "臺北市中正區博愛路９１號",
-    "主製造廠": {
-        "製造廠名稱": "MFR0879000  WAM",
-        "製造廠廠址": "TECH&#39;INDUS B21 645 RUE MAYOR DE MONTRICHER 13854 AIX-EN PROVENCE CEDEX 3 FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR0879000  WAM",
+            "製造廠廠址": "TECH&#39;INDUS B21 645 RUE MAYOR DE MONTRICHER 13854 AIX-EN PROVENCE CEDEX 3 FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

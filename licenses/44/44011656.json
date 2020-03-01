@@ -1,6 +1,6 @@
 {
     "code": "44011656",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011656",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011656",
     "time": "2020-02-26 05:37:07",
     "許可證字號": "衛署醫器輸壹字第011656號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231059462  遠企齒研有限公司",
     "申請商地址": "新北市新店區中興路二段218巷11號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MHK0036000  KTJ (HK) DENTAL LABORATORY LIMITED",
-        "製造廠廠址": "FLAT 19A 27\/F WELL FUNG INDUSTRIAL CENTRE 68 TA CHUEN PING STREET KWAI CHUNG HONG KONG",
-        "製造廠公司地址": "",
-        "製造廠國別": "HONG KONG",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MHK0036000  KTJ (HK) DENTAL LABORATORY LIMITED",
+            "製造廠廠址": "FLAT 19A 27\/F WELL FUNG INDUSTRIAL CENTRE 68 TA CHUEN PING STREET KWAI CHUNG HONG KONG",
+            "製造廠公司地址": "",
+            "製造廠國別": "HONG KONG",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

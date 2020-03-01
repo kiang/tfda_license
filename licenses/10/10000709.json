@@ -1,11 +1,12 @@
 {
     "code": "10000709",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000709",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000709",
     "time": "2020-02-26 01:40:15",
     "許可證字號": "衛署菌疫輸字第000709號",
     "註銷狀態": "已註銷",
     "註銷日期": "108\/05\/01",
     "註銷理由": "自請註銷",
+    "製造許可登錄編號": "",
     "有效日期": "111\/04\/16",
     "發證日期": "91\/04\/16",
     "許可證種類": "菌　疫",
@@ -20,19 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "1901701100  羅氏大藥廠股份有限公司",
-        "申請商地址": "台北市民生東路三段１３４號９樓",
-        "主製造廠": ""
-    },
-    "CCC號列": "30049020007 血液代用品與血漿代用品及基因重組製劑Substitutes of blood, substitutes of plasma and preparations  of gennetic recombinants",
-    "藥理治療分類": "",
+    "監視期限": "",
+    "主成分略述": "EPOETIN BETA",
+    "限制項目": "02輸　入",
+    "申請商名稱": "1901701100  羅氏大藥廠股份有限公司",
+    "申請商地址": "台北市民生東路三段１３４號９樓",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FDE0286000  MADE FOR F. HOFFMANN-LA ROCHE LTD, BASEL, SWITZERLAND BY ROCHE DIAGNOSTICS GMBH, MANNHEIM, GERMANY",
+            "製造廠廠址": "ROCHE DIAGNOSTICS GMBH, SANDHOFER STRASSE 116, D-68305 MANNHEIM, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "次製造廠": [
         {
             "製造廠名稱": "FDE0343000  ROCHE DIAGNOSTICS GMBH",
@@ -42,6 +48,8 @@
             "製程": "原料藥製造廠"
         }
     ],
+    "CCC號列": "30049020007 血液代用品與血漿代用品及基因重組製劑Substitutes of blood, substitutes of plasma and preparations  of gennetic recombinants",
+    "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",

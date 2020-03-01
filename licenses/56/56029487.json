@@ -1,6 +1,6 @@
 {
     "code": "56029487",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029487",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029487",
     "time": "2020-02-26 08:05:51",
     "許可證字號": "衛部醫器輸字第029487號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 14輸入須附同意書（每次輸入均須取得原子能委員會之同意書為憑）",
     "申請商名稱": "6401026968  玓諾科技股份有限公司",
     "申請商地址": "臺北市大安區忠孝東路四段221號10樓(138室)",
-    "主製造廠": {
-        "製造廠名稱": "MKR0837000  HDX WILL CORP.",
-        "製造廠廠址": "#105, 201, 202, 203, 204, 38, Osongsaengmyeong 4-ro, Osong-eup, Heungdeok-gu, Cheongju-si, Chungcheongbuk-do, Korea",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0837000  HDX WILL CORP.",
+            "製造廠廠址": "#105, 201, 202, 203, 204, 38, Osongsaengmyeong 4-ro, Osong-eup, Heungdeok-gu, Cheongju-si, Chungcheongbuk-do, Korea",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

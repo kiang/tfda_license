@@ -1,6 +1,6 @@
 {
     "code": "96003782",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003782",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003782",
     "time": "2020-02-26 13:14:13",
     "許可證字號": "衛部醫器陸輸壹字第003782號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "640110A754  永展醫療器材有限公司",
     "申請商地址": "臺北市中山區南京東路3段201號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1873100  TIANJIN GAPADENT CO., LTD",
-        "製造廠廠址": "NO.24 FENGZE ROAD, (ZHANGJIAWO INDUSTRIAL AREA) AUTOMOTIVE INDUSTRIAL AREA, XIQING DISTRICT, 300380 TIANJIN, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1873100  TIANJIN GAPADENT CO., LTD",
+            "製造廠廠址": "NO.24 FENGZE ROAD, (ZHANGJIAWO INDUSTRIAL AREA) AUTOMOTIVE INDUSTRIAL AREA, XIQING DISTRICT, 300380 TIANJIN, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

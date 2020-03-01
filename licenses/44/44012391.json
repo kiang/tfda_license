@@ -1,6 +1,6 @@
 {
     "code": "44012391",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012391",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012391",
     "time": "2020-02-26 05:44:18",
     "許可證字號": "衛署醫器輸壹字第012391號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201028468  新島貿易有限公司",
     "申請商地址": "台北市大安區信義路四段233號7樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MJP0531000  TASK INC.",
-        "製造廠廠址": "ACT NISHIGAHARA 4F., 2-44-10, NISHIGAHARA, KITA-KU, TOKYO, 114-0024 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0531000  TASK INC.",
+            "製造廠廠址": "ACT NISHIGAHARA 4F., 2-44-10, NISHIGAHARA, KITA-KU, TOKYO, 114-0024 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

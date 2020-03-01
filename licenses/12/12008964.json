@@ -1,11 +1,12 @@
 {
     "code": "12008964",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12008964",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12008964",
     "time": "2020-02-26 02:12:46",
     "許可證字號": "內衛藥製字第008964號",
     "註銷狀態": "已註銷",
     "註銷日期": "88\/05\/17",
     "註銷理由": "自請註銷",
+    "製造許可登錄編號": "",
     "有效日期": "90\/12\/31",
     "發證日期": "59\/08\/27",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "09委託製造",
-        "申請商名稱": "0903001200  美達藥業股份有限公司",
-        "申請商地址": "台北巿大同區天水路６７號",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "LYSINE L- HCL ( EQ TO L-LYSINE HCL), GLUCURONIC ACID, VITAMIN A, NIACINAMIDE (NICOTINAMIDE), THIAMINE (VITAMIN B1), RIBOFLAVIN (VIT B2), PYRIDOXINE(VITAMIN B6), CYANOCOBALAMIN (VIT B12), FOLIC ACID, PANTOTHENATE CALCIUM, ASCORBIC ACID (VIT C), ERGOCALCIFEROL (VIT D2CALCIFEROL), TOCOPHEROL ALPHA-, MENADIONE (VIT K3)",
+    "限制項目": "09委託製造",
+    "申請商名稱": "0903001200  美達藥業股份有限公司",
+    "申請商地址": "台北巿大同區天水路６７號",
+    "主製造廠": [
+        {
+            "製造廠名稱": "1310504300  葡萄王企業股份有限公司藥品製造廠",
+            "製造廠廠址": "中壢巿龍岡路三段６０號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": ""
+        }
+    ],
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [

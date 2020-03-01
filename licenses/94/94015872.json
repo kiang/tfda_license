@@ -1,6 +1,6 @@
 {
     "code": "94015872",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015872",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015872",
     "time": "2020-02-26 11:46:56",
     "許可證字號": "衛部醫器輸壹字第015872號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623101F497  凱爾醫學科技有限公司",
     "申請商地址": "新北市板橋區懷德街235巷1之4號",
-    "主製造廠": {
-        "製造廠名稱": "MKR0573200  SAESHIN PRECISION CO., LTD.",
-        "製造廠廠址": "#52 SAECHEON-RO 1GIL, DASA-EUB, DALSEONG-GUN, DAEGU, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0573200  SAESHIN PRECISION CO., LTD.",
+            "製造廠廠址": "#52 SAECHEON-RO 1GIL, DASA-EUB, DALSEONG-GUN, DAEGU, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

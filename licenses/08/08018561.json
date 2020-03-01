@@ -1,6 +1,6 @@
 {
     "code": "08018561",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018561",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018561",
     "time": "2020-02-26 01:09:17",
     "許可證字號": "衛署粧輸字第018561號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620101C308  綠康國際股份有限公司",
     "申請商地址": "臺北市大安區濟南路三段9號4樓",
-    "主製造廠": {
-        "製造廠名稱": "CAU0048000  TRUEWAY INTERNATIONAL PTY.LTD.",
-        "製造廠廠址": "444 HUME HWY YAGOONA NSW 2199 ,AUSTRALIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "AUSTRALIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CAU0048000  TRUEWAY INTERNATIONAL PTY.LTD.",
+            "製造廠廠址": "444 HUME HWY YAGOONA NSW 2199 ,AUSTRALIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRALIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

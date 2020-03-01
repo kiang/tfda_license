@@ -1,6 +1,6 @@
 {
     "code": "06019965",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019965",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019965",
     "time": "2020-02-25 19:52:45",
     "許可證字號": "衛署醫器輸字第019965號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620109C888  守恆健康事業股份有限公司",
     "申請商地址": "台北市內湖區安美街161號9樓",
-    "主製造廠": {
-        "製造廠名稱": "MFR0256000  EDAP TMS FRANCE",
-        "製造廠廠址": "Parc d&#39;activites la Poudrette Lamartine, 4 rue du Dauphine 69120 Vaulx en Velin, France",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR0256000  EDAP TMS FRANCE",
+            "製造廠廠址": "Parc d&#39;activites la Poudrette Lamartine, 4 rue du Dauphine 69120 Vaulx en Velin, France",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

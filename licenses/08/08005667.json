@@ -1,6 +1,6 @@
 {
     "code": "08005667",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08005667",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08005667",
     "time": "2020-02-25 22:52:26",
     "許可證字號": "衛署粧輸字第005667號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1119801100  國際亞太安露莎股份有限公司",
     "申請商地址": "台北巿忠孝東路四段142號3樓之5",
-    "主製造廠": {
-        "製造廠名稱": "CJP0116000  ARSOA HONSHA CORPORATION",
-        "製造廠廠址": "2961 KOBUCHISAWA-CHO KITAKOMA-GUN YAMANASI 408-8522 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0116000  ARSOA HONSHA CORPORATION",
+            "製造廠廠址": "2961 KOBUCHISAWA-CHO KITAKOMA-GUN YAMANASI 408-8522 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "58024090",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58024090",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58024090",
     "time": "2020-02-26 09:40:09",
     "許可證字號": "衛部粧輸字第024090號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "1432301200  聯合利華股份有限公司",
     "申請商地址": "台北市信義區忠孝東路4段550號3樓",
-    "主製造廠": {
-        "製造廠名稱": "CAU0036000  Unilever Australia Trading Limited",
-        "製造廠廠址": "219 North Rocks Road, North Rocks, NSW 2151, Australia",
-        "製造廠公司地址": "",
-        "製造廠國別": "AUSTRALIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CAU0036000  Unilever Australia Trading Limited",
+            "製造廠廠址": "219 North Rocks Road, North Rocks, NSW 2151, Australia",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRALIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

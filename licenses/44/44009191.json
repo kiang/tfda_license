@@ -1,6 +1,6 @@
 {
     "code": "44009191",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009191",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009191",
     "time": "2020-02-26 05:12:41",
     "許可證字號": "衛署醫器輸壹字第009191號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1604701100  樺瑩企業股份有限公司",
     "申請商地址": "臺北市松山區民生東路5段162號4樓之5",
-    "主製造廠": {
-        "製造廠名稱": "MUS2752000  MSI PRECISION SPECIALTY INSTRUMENTS",
-        "製造廠廠址": "1220 VALLEY FORGE ROAD, PHOENIXVILLE, PENNSYLVANIA, 19460, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2752000  MSI PRECISION SPECIALTY INSTRUMENTS",
+            "製造廠廠址": "1220 VALLEY FORGE ROAD, PHOENIXVILLE, PENNSYLVANIA, 19460, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

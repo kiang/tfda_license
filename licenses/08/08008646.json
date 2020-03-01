@@ -1,6 +1,6 @@
 {
     "code": "08008646",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08008646",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08008646",
     "time": "2020-02-25 23:24:46",
     "許可證字號": "衛署粧輸字第008646號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1706601100  芳姿國際股份有限公司",
     "申請商地址": "台北市中山區復興南路１段３６之９號１３樓",
-    "主製造廠": {
-        "製造廠名稱": "CCO1500930  LABORATOIRES DR. N.G. PAYOT",
-        "製造廠廠址": "10, RUE DE CASTIGLIONE, PARIS, FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CCO1500930  LABORATOIRES DR. N.G. PAYOT",
+            "製造廠廠址": "10, RUE DE CASTIGLIONE, PARIS, FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

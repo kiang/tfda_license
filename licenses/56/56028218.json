@@ -1,6 +1,6 @@
 {
     "code": "56028218",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028218",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028218",
     "time": "2020-02-26 07:53:19",
     "許可證字號": "衛部醫器輸字第028218號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231113425  冠京生技股份有限公司",
     "申請商地址": "新北市汐止區大同路一段239號10樓之6",
-    "主製造廠": {
-        "製造廠名稱": "MIT0313000  C-TECH IMPLANT S.R.L.",
-        "製造廠廠址": "VIA SAN BENEDETTO 1837, 40018 SAN PIETRO IN CASALE BOLOGNA, ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIT0313000  C-TECH IMPLANT S.R.L.",
+            "製造廠廠址": "VIA SAN BENEDETTO 1837, 40018 SAN PIETRO IN CASALE BOLOGNA, ITALY",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

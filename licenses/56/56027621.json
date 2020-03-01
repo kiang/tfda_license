@@ -1,6 +1,6 @@
 {
     "code": "56027621",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027621",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027621",
     "time": "2020-02-26 07:47:27",
     "許可證字號": "衛部醫器輸字第027621號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620115D297  億得克國際有限公司",
     "申請商地址": "台北市大同區南京西路163號2樓之6",
-    "主製造廠": {
-        "製造廠名稱": "MFR0882100  EUROTEKNIKA",
-        "製造廠廠址": "726, Rue Du General De Gaulle, 74700 Sallanches, France",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR0882100  EUROTEKNIKA",
+            "製造廠廠址": "726, Rue Du General De Gaulle, 74700 Sallanches, France",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

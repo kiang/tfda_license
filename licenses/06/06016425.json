@@ -1,6 +1,6 @@
 {
     "code": "06016425",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06016425",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06016425",
     "time": "2020-02-25 19:12:12",
     "許可證字號": "衛署醫器輸字第016425號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102G651  瀚揚有限公司",
     "申請商地址": "台北市內湖區瑞光路188巷48號8樓",
-    "主製造廠": {
-        "製造廠名稱": "MNL0107000  SANQUIN REAGENTS B.V.",
-        "製造廠廠址": "PLESMANLAAN 125, 1066 CX, AMSTERDAM THE NETHERLANDS",
-        "製造廠公司地址": "",
-        "製造廠國別": "NETHERLANDS",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MNL0107000  SANQUIN REAGENTS B.V.",
+            "製造廠廠址": "PLESMANLAAN 125, 1066 CX, AMSTERDAM THE NETHERLANDS",
+            "製造廠公司地址": "",
+            "製造廠國別": "NETHERLANDS",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

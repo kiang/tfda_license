@@ -1,6 +1,6 @@
 {
     "code": "94021058",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94021058",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94021058",
     "time": "2020-02-26 12:49:47",
     "許可證字號": "衛部醫器輸壹字第021058號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231147369  華盛生醫科技股份有限公司",
     "申請商地址": "新北市五股區中興路一段6之1號(1樓)",
-    "主製造廠": {
-        "製造廠名稱": "MUS5471000  CTL MEDICAL CORPORATION",
-        "製造廠廠址": "4550 EXCEL PARKWAY SUITE 300 ADDISON, TX 75001, U. S. A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS5471000  CTL MEDICAL CORPORATION",
+            "製造廠廠址": "4550 EXCEL PARKWAY SUITE 300 ADDISON, TX 75001, U. S. A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "56027037",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027037",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027037",
     "time": "2020-02-26 07:41:21",
     "許可證字號": "衛部醫器輸字第027037號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "1226021100  惠眾股份有限公司",
     "申請商地址": "高雄市苓雅區建民路21號",
-    "主製造廠": {
-        "製造廠名稱": "MPL0029000  LiNA Medical Polska sp.z.o.o.",
-        "製造廠廠址": "UL Rolna 8A, Sady 62-080 Tarnowo Podgorne, Poland",
-        "製造廠公司地址": "",
-        "製造廠國別": "POLAND",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MPL0029000  LiNA Medical Polska sp.z.o.o.",
+            "製造廠廠址": "UL Rolna 8A, Sady 62-080 Tarnowo Podgorne, Poland",
+            "製造廠公司地址": "",
+            "製造廠國別": "POLAND",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MDK0050000  LINA MEDICAL APS",
+            "製造廠廠址": "FORMERVANGEN 5 DK-2600 GLOSTRUP, DENMARK",
+            "製造廠公司地址": "",
+            "製造廠國別": "DENMARK",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

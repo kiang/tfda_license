@@ -1,6 +1,6 @@
 {
     "code": "96003571",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003571",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003571",
     "time": "2020-02-26 13:11:57",
     "許可證字號": "衛部醫器陸輸壹字第003571號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "623105C203  薩摩亞商美律富聆股份有限公司台灣分公司",
     "申請商地址": "新北市新店區北新路3段205號15樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1904000  SONOVA HEARING (SUZHOU) CO. LTD.",
-        "製造廠廠址": "NO. 78 QI MING ROAD, COMPREHENSIVE BONDED ZONE, SUZHOU INDUSTRIAL PARK, JIANGSU PROVINCE, 215126, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1904000  SONOVA HEARING (SUZHOU) CO. LTD.",
+            "製造廠廠址": "NO. 78 QI MING ROAD, COMPREHENSIVE BONDED ZONE, SUZHOU INDUSTRIAL PARK, JIANGSU PROVINCE, 215126, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

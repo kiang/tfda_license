@@ -1,6 +1,6 @@
 {
     "code": "06009714",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06009714",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06009714",
     "time": "2020-02-25 17:53:56",
     "許可證字號": "衛署醫器輸字第009714號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102X525  台灣佳事達醫療用品有限公司",
     "申請商地址": "新北市板橋區民生路一段33號8樓之4",
-    "主製造廠": {
-        "製造廠名稱": "MUS2125000  ICU MEDICAL UTAH, INC.",
-        "製造廠廠址": "4455 ATHERTON DRIVE, SALT LAKE CITY, UT84123, U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2125000  ICU MEDICAL UTAH, INC.",
+            "製造廠廠址": "4455 ATHERTON DRIVE, SALT LAKE CITY, UT84123, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS2187000  HOSPIRA INC.",
+            "製造廠廠址": "275 NORTH FIELD DRIVE, P.O. BOX 5045, LAKE FOREST, IL, 60045-5045, UNITED STATES OF AMERICA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "許可證持有者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

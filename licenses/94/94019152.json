@@ -1,6 +1,6 @@
 {
     "code": "94019152",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019152",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019152",
     "time": "2020-02-26 12:31:20",
     "許可證字號": "衛部醫器輸壹字第019152號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623101Q538  植星程生技有限公司",
     "申請商地址": "新北市板橋區實踐路30號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0724000  DENTAL STUDIO CO., LTD.",
-        "製造廠廠址": "C102 INDEOKWON IT VALLY, 40, IMI-RO, UIWANG-SI, GYEONGGI-DO, KOREA.",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0724000  DENTAL STUDIO CO., LTD.",
+            "製造廠廠址": "C102 INDEOKWON IT VALLY, 40, IMI-RO, UIWANG-SI, GYEONGGI-DO, KOREA.",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

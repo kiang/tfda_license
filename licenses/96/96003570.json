@@ -1,6 +1,6 @@
 {
     "code": "96003570",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003570",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003570",
     "time": "2020-02-26 13:11:56",
     "許可證字號": "衛部醫器陸輸壹字第003570號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6205313655  同利眼鏡實業有限公司",
     "申請商地址": "臺南市永康區崑山里大灣路942巷169弄68號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1906000  WENZHOU QINGQI OPTICAL CO., LTD.",
-        "製造廠廠址": "6 XIAOQU, ZHONGPIAN, JINGJI JISHU KAIFAQU, LONGWAN, WENZHOU, ZHEJIANG, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1906000  WENZHOU QINGQI OPTICAL CO., LTD.",
+            "製造廠廠址": "6 XIAOQU, ZHONGPIAN, JINGJI JISHU KAIFAQU, LONGWAN, WENZHOU, ZHEJIANG, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

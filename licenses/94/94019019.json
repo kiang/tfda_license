@@ -1,6 +1,6 @@
 {
     "code": "94019019",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019019",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019019",
     "time": "2020-02-26 12:29:57",
     "許可證字號": "衛部醫器輸壹字第019019號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620109D974  利長企業股份有限公司",
     "申請商地址": "臺北市大同區承德路一段17號8樓之4",
-    "主製造廠": {
-        "製造廠名稱": "MJP1352000  POJI CO., LTD",
-        "製造廠廠址": "1173 NISHIOKU, YOKAWA-CHO, MIKI-CITY, HYOGO 673-1122 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP1352000  POJI CO., LTD",
+            "製造廠廠址": "1173 NISHIOKU, YOKAWA-CHO, MIKI-CITY, HYOGO 673-1122 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

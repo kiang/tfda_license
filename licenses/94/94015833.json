@@ -1,6 +1,6 @@
 {
     "code": "94015833",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015833",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015833",
     "time": "2020-02-26 11:46:23",
     "許可證字號": "衛部醫器輸壹字第015833號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "0913501100  茂信股份有限公司",
     "申請商地址": "台北市仁愛路三段２９號７Ｆ之２",
-    "主製造廠": {
-        "製造廠名稱": "MIL0820100  OHK MEDICAL DEVICES LTD.",
-        "製造廠廠址": "PAL YAM 16, EKRON 9, HAIFA, ISRAEL",
-        "製造廠公司地址": "",
-        "製造廠國別": "ISRAEL",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIL0820100  OHK MEDICAL DEVICES LTD.",
+            "製造廠廠址": "PAL YAM 16, EKRON 9, HAIFA, ISRAEL",
+            "製造廠公司地址": "",
+            "製造廠國別": "ISRAEL",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

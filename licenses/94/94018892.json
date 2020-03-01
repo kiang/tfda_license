@@ -1,6 +1,6 @@
 {
     "code": "94018892",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018892",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018892",
     "time": "2020-02-26 12:28:34",
     "許可證字號": "衛部醫器輸壹字第018892號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "623102K818  英屬開曼群島商勝邦福樂智股份有限公司台灣分公司",
     "申請商地址": "新北市三重區三寧街5號7樓",
-    "主製造廠": {
-        "製造廠名稱": "MVN0069000  SHENG BANG METAL CO., LTD",
-        "製造廠廠址": "STREET NO.3, SONG MAY INDUSTRIAL ZONE, TRANG BOM DISTRICT, DONG NAI PROVINCE, VIETNAM",
-        "製造廠公司地址": "",
-        "製造廠國別": "VIET NAM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MVN0069000  SHENG BANG METAL CO., LTD",
+            "製造廠廠址": "STREET NO.3, SONG MAY INDUSTRIAL ZONE, TRANG BOM DISTRICT, DONG NAI PROVINCE, VIETNAM",
+            "製造廠公司地址": "",
+            "製造廠國別": "VIET NAM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "06014202",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014202",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014202",
     "time": "2020-02-25 18:46:52",
     "許可證字號": "衛署醫器輸字第014202號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "Z104100168  海金龍企業有限公司",
     "申請商地址": "彰化縣彰化市陽明里陽明街一五○號",
-    "主製造廠": {
-        "製造廠名稱": "MDE0403000  MEDIUM-TECH MEDIZINGERATE GMBH",
-        "製造廠廠址": "GUSTAV-KRONE-STR. 3  14167 BERLIN GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0403000  MEDIUM-TECH MEDIZINGERATE GMBH",
+            "製造廠廠址": "GUSTAV-KRONE-STR. 3  14167 BERLIN GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MDE0404000  REIMERS &amp; JANSSEN GMBH",
+            "製造廠廠址": "MEDIZINTECHNIK FROHNACKER 8 79297 WINDEN GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

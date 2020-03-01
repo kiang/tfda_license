@@ -1,6 +1,6 @@
 {
     "code": "06017491",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06017491",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06017491",
     "time": "2020-02-25 19:24:04",
     "許可證字號": "衛署醫器輸字第017491號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201118547  台灣聖猷達醫療用品有限公司",
     "申請商地址": "台北市內湖區瑞光路407號5樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS0659000  ST.JUDE MEDICAL",
-        "製造廠廠址": "14901 DEVEAU PLACE MINNETONKA,MN55345-2126 USA.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0659000  ST.JUDE MEDICAL",
+            "製造廠廠址": "14901 DEVEAU PLACE MINNETONKA,MN55345-2126 USA.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

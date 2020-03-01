@@ -1,6 +1,6 @@
 {
     "code": "08019976",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08019976",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08019976",
     "time": "2020-02-26 01:24:06",
     "許可證字號": "衛署粧輸字第019976號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1406604100  台灣奇士美化粧品股份有限公司",
     "申請商地址": "臺北市中山區松江路328號3樓",
-    "主製造廠": {
-        "製造廠名稱": "CJP0271000  ISEHAN Co., Ltd. MITSUKAIDO PLANT",
-        "製造廠廠址": "5687-3 SAKATE-CHO,JOSO-SHI IBARAKI-KEN,303-0042,JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0271000  ISEHAN Co., Ltd. MITSUKAIDO PLANT",
+            "製造廠廠址": "5687-3 SAKATE-CHO,JOSO-SHI IBARAKI-KEN,303-0042,JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

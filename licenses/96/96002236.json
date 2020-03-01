@@ -1,6 +1,6 @@
 {
     "code": "96002236",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002236",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002236",
     "time": "2020-02-26 12:57:38",
     "許可證字號": "衛部醫器陸輸壹字第002236號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620117J497  埃默高有限公司",
     "申請商地址": "新北市新店區北新路3段221號10樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1391000  ZHEJIANG MEISEN ELECTRIC CO., LTD.",
-        "製造廠廠址": "NO.3, DAQING ROAD, HI-TECH INDUSTRIAL ZONE, OUHAI AREA, WENZHOU, ZHEJIANG, CHINA P.R. 325006",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1391000  ZHEJIANG MEISEN ELECTRIC CO., LTD.",
+            "製造廠廠址": "NO.3, DAQING ROAD, HI-TECH INDUSTRIAL ZONE, OUHAI AREA, WENZHOU, ZHEJIANG, CHINA P.R. 325006",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS4154000  CARDINAL HEALTH",
+            "製造廠廠址": "1500 WAUKEGAN ROAD, WAUKEGAN, IL 60085, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

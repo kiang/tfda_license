@@ -1,6 +1,6 @@
 {
     "code": "94014387",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014387",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014387",
     "time": "2020-02-26 11:26:40",
     "許可證字號": "衛部醫器輸壹字第014387號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 36GMP",
     "申請商名稱": "1407001100  台灣明尼蘇達礦業製造股份有限公司",
     "申請商地址": "台北市南港區經貿二路198號3樓至8樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS3425000  BENCHMARK ELECTRONICS INC.",
-        "製造廠廠址": "4065 THEURER BLVD. WINONA, MN55987, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS3425000  BENCHMARK ELECTRONICS INC.",
+            "製造廠廠址": "4065 THEURER BLVD. WINONA, MN55987, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS4168000  3M ESPE Dental Products",
+            "製造廠廠址": "2510 Conway Avenue, St. Paul, MN 55144-1000, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

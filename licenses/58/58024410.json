@@ -1,6 +1,6 @@
 {
     "code": "58024410",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58024410",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58024410",
     "time": "2020-02-26 09:42:29",
     "許可證字號": "衛部粧輸字第024410號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6628707490  愛麗姿股份有限公司",
     "申請商地址": "台北市中山區中山北路2段45巷23號3樓之1",
-    "主製造廠": {
-        "製造廠名稱": "CJP1022000  JO Cosmetics Co., Ltd. Tokyo Plant",
-        "製造廠廠址": "1-8-15 Omori Nishi, Ota-ku, Tokyo 143-0015",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP1022000  JO Cosmetics Co., Ltd. Tokyo Plant",
+            "製造廠廠址": "1-8-15 Omori Nishi, Ota-ku, Tokyo 143-0015",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

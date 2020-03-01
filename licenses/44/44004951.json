@@ -1,6 +1,6 @@
 {
     "code": "44004951",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44004951",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44004951",
     "time": "2020-02-26 04:43:23",
     "許可證字號": "衛署醫器輸壹字第004951號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217084132  宏緯醫療儀器有限公司",
     "申請商地址": "臺中市西屯區朝富路213號23樓之11",
-    "主製造廠": {
-        "製造廠名稱": "MPL0001000  ZYWIECKA FABRYKA SPRZETU SZPITALNEGO FAMED S.A",
-        "製造廠廠址": "UL. FABRYCZNA 1, 34-300 ZYWIEC, PLOAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "POLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MPL0001000  ZYWIECKA FABRYKA SPRZETU SZPITALNEGO FAMED S.A",
+            "製造廠廠址": "UL. FABRYCZNA 1, 34-300 ZYWIEC, PLOAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "POLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

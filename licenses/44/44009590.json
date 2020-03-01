@@ -1,6 +1,6 @@
 {
     "code": "44009590",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009590",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009590",
     "time": "2020-02-26 05:16:44",
     "許可證字號": "衛署醫器輸壹字第009590號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201118181  強生義肢股份有限公司",
     "申請商地址": "台北市內湖區內湖路二段333號3樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MUS3119000  OHIO WILLOW WOOD COMPANY",
-        "製造廠廠址": "15441 SCIOTO DARBY ROAD MT. STERLING, OH 43143 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS3119000  OHIO WILLOW WOOD COMPANY",
+            "製造廠廠址": "15441 SCIOTO DARBY ROAD MT. STERLING, OH 43143 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

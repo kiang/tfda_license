@@ -1,6 +1,6 @@
 {
     "code": "44010387",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010387",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010387",
     "time": "2020-02-26 05:24:39",
     "許可證字號": "衛署醫器輸壹字第010387號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620110P308  宜峰國際企業有限公司",
     "申請商地址": "新北市板橋區東門街30之2號6樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MCH0090000  SCHAERER MEDICAL AG",
-        "製造廠廠址": "ERLENAUWEG 17, CH-3110 MUNSINGEN, SWITZERLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCH0090000  SCHAERER MEDICAL AG",
+            "製造廠廠址": "ERLENAUWEG 17, CH-3110 MUNSINGEN, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

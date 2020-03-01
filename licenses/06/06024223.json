@@ -1,6 +1,6 @@
 {
     "code": "06024223",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024223",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024223",
     "time": "2020-02-25 20:39:45",
     "許可證字號": "衛署醫器輸字第024223號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6222027934  宏陽生物科技有限公司",
     "申請商地址": "嘉義市西區保安里八德路225號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS3264000  INTRA-LOCK, INTERNATIONAL, INC.",
-        "製造廠廠址": "6560 W ROGERS CIRC., #24 BOCA RATON, FLORIDA 33487, U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS3264000  INTRA-LOCK, INTERNATIONAL, INC.",
+            "製造廠廠址": "6560 W ROGERS CIRC., #24 BOCA RATON, FLORIDA 33487, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "44011208",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011208",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011208",
     "time": "2020-02-26 05:32:38",
     "許可證字號": "衛署醫器輸壹字第011208號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231049608  成信新貿易股份有限公司",
     "申請商地址": "新北市中和區中山路二段348巷8號9樓",
-    "主製造廠": {
-        "製造廠名稱": "MFR0278100  DIAGNOSTICA STAGO S.A.S.",
-        "製造廠廠址": "3, ALLEE THERESA, 92600 ASNIERES SUR SEINE, FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR0278100  DIAGNOSTICA STAGO S.A.S.",
+            "製造廠廠址": "3, ALLEE THERESA, 92600 ASNIERES SUR SEINE, FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

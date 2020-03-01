@@ -1,6 +1,6 @@
 {
     "code": "06003297",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06003297",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06003297",
     "time": "2020-02-25 16:14:32",
     "許可證字號": "衛署醫器輸字第003297號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1108401100  基昌企業有限公司",
     "申請商地址": "台北巿敦化北路１１２號４樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE0009000  COOPERVISION-DEUTSCHE   CONTACT LINSEN GMBH",
-        "製造廠廠址": "BLUTENSTRASSE 158000 MUNCHEN 40, W. GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0009000  COOPERVISION-DEUTSCHE   CONTACT LINSEN GMBH",
+            "製造廠廠址": "BLUTENSTRASSE 158000 MUNCHEN 40, W. GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

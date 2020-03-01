@@ -1,6 +1,6 @@
 {
     "code": "06018834",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06018834",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06018834",
     "time": "2020-02-25 19:39:59",
     "許可證字號": "衛署醫器輸字第018834號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620101I748  香港商科醫人激光有限公司台灣分公司",
     "申請商地址": "台北市信義區基隆路一段333號(實際營業地址:10樓03室)",
-    "主製造廠": {
-        "製造廠名稱": "MIL0020000  LUMENIS LTD.",
-        "製造廠廠址": "YOKNEAM INDUSTRIAL PARK P.O. BOX 240 YOKNEAM 20692, ISRAEL",
-        "製造廠公司地址": "",
-        "製造廠國別": "ISRAEL",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIL0020000  LUMENIS LTD.",
+            "製造廠廠址": "YOKNEAM INDUSTRIAL PARK P.O. BOX 240 YOKNEAM 20692, ISRAEL",
+            "製造廠公司地址": "",
+            "製造廠國別": "ISRAEL",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

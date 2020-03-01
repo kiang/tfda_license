@@ -1,6 +1,6 @@
 {
     "code": "06005381",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06005381",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06005381",
     "time": "2020-02-25 16:52:28",
     "許可證字號": "衛署醫器輸字第005381號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1008901100  秦安貿易股份有限公司",
     "申請商地址": "台北巿建國北路２段３３號１１樓之５",
-    "主製造廠": {
-        "製造廠名稱": "MUS0549000  FONAR CORPORATION",
-        "製造廠廠址": "110 MARCUS DRIVE, MELVILLE, NEW YORK 11747-4292",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0549000  FONAR CORPORATION",
+            "製造廠廠址": "110 MARCUS DRIVE, MELVILLE, NEW YORK 11747-4292",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "94019800",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019800",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019800",
     "time": "2020-02-26 12:38:14",
     "許可證字號": "衛部醫器輸壹字第019800號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620117G932  麗晶之家有限公司",
     "申請商地址": "台北市信義區虎林街164巷32號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MFR1012100  EVAUX LABORATOIRES SARL",
-        "製造廠廠址": "67 AVENUE DE LA REPUBLIQUE 23110 EVAUX LEX BAINS, FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR1012100  EVAUX LABORATOIRES SARL",
+            "製造廠廠址": "67 AVENUE DE LA REPUBLIQUE 23110 EVAUX LEX BAINS, FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "44008832",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008832",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008832",
     "time": "2020-02-26 05:09:14",
     "許可證字號": "衛署醫器輸壹字第008832號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623104D508  寶貝屋股份有限公司",
     "申請商地址": "新北市中和區建康路172號9樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP0728000  IKEDAMOHANDO CO., LTD",
-        "製造廠廠址": "NO.16, SHEN-TIAN RD., SHANG-SHIH DIST, JHONG-SIN-CHUAN TOWNSHIP, FU-SHAN COUNTY, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0728000  IKEDAMOHANDO CO., LTD",
+            "製造廠廠址": "NO.16, SHEN-TIAN RD., SHANG-SHIH DIST, JHONG-SIN-CHUAN TOWNSHIP, FU-SHAN COUNTY, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

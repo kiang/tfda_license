@@ -1,11 +1,12 @@
 {
     "code": "02019198",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019198",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019198",
     "time": "2020-02-25 12:07:52",
     "許可證字號": "衛署藥輸字第019198號",
     "註銷狀態": "已註銷",
     "註銷日期": "99\/05\/31",
     "註銷理由": "屆期未申請展延",
+    "製造許可登錄編號": "",
     "有效日期": "96\/05\/05",
     "發證日期": "81\/05\/05",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "1403301100  臺灣大塚製藥股份有限公司",
-        "申請商地址": "台北巿中山區復興北路378號11樓",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "PANTHENOL, BIOTIN, NIACINAMIDE (NICOTINAMIDE), THIAMINE(HCL), RIBOFLAVIN(5-PHOSPHATE SODIUM), PYRIDOXINE HCL, CYANOCOBALAMIN (VIT B12), FOLIC ACID, ASCORBIC ACID (VIT C)",
+    "限制項目": "02輸　入",
+    "申請商名稱": "1403301100  臺灣大塚製藥股份有限公司",
+    "申請商地址": "台北巿中山區復興北路378號11樓",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FJP0246000  OTSUKA PHARMACEUTICAL CO., LTD. (TOKUSHIMA PLANT)",
+            "製造廠廠址": "306-2,AZA OTSUBO,OAZA KONIU,WAJIKI-CHO,NAKA-GUN,TOKUSHIMA,771-5209,JAPAN",
+            "製造廠公司地址": "2-9 KANDA TSUKASA-CHO,CHIYODA-KU,TOKYO,JAPAN",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "CCC號列": "30045000009 其他醫藥製劑，含有維他命或第２９３６節之其他產品Other medicaments, containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
     "ingredients": [

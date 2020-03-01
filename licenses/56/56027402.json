@@ -1,6 +1,6 @@
 {
     "code": "56027402",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027402",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027402",
     "time": "2020-02-26 07:45:19",
     "許可證字號": "衛部醫器輸字第027402號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6201157213  冠瑄有限公司",
     "申請商地址": "臺北市士林區明溪街37號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MIL0058100  Given Imaging LTD.",
-        "製造廠廠址": "2 Hacarmel st., New Industrial Park, POB 258, Yoqneam, Ha Zafon, Isreal 20692",
-        "製造廠公司地址": "",
-        "製造廠國別": "ISRAEL",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIL0058100  Given Imaging LTD.",
+            "製造廠廠址": "2 Hacarmel st., New Industrial Park, POB 258, Yoqneam, Ha Zafon, Isreal 20692",
+            "製造廠公司地址": "",
+            "製造廠國別": "ISRAEL",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS4352000  Given Imaging Inc.",
+            "製造廠廠址": "3950 SHACKLEFORD RD. SUITE 500, DULUTH, GA, USA 30096",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

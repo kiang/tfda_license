@@ -1,6 +1,6 @@
 {
     "code": "06008515",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06008515",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06008515",
     "time": "2020-02-25 17:38:31",
     "許可證字號": "衛署醫器輸字第008515號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0512001100  禾利行股份有限公司",
     "申請商地址": "台北市松山區敦化北路311號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MCH0040000  DISETRONIC MEDICAL SYSTEMS AG",
-        "製造廠廠址": "BRUNNMATTSTRASSE 6 CH-3401 BURGDORF",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCH0040000  DISETRONIC MEDICAL SYSTEMS AG",
+            "製造廠廠址": "BRUNNMATTSTRASSE 6 CH-3401 BURGDORF",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

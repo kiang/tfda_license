@@ -1,6 +1,6 @@
 {
     "code": "94021061",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94021061",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94021061",
     "time": "2020-02-26 12:49:49",
     "許可證字號": "衛部醫器輸壹字第021061號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "6401101153  美恩力有限公司",
     "申請商地址": "台北市中山區南京東路一段25號10樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MKR1137000  ORANGE MEDICAL CO., LTD.",
-        "製造廠廠址": "A-310, MICRO-OFFICE BUILDING, 45 GASAN DIGITAL 2-RO, GEUMCHEON-GU, SEOUL, 08588, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR1137000  ORANGE MEDICAL CO., LTD.",
+            "製造廠廠址": "A-310, MICRO-OFFICE BUILDING, 45 GASAN DIGITAL 2-RO, GEUMCHEON-GU, SEOUL, 08588, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

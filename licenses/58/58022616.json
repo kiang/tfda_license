@@ -1,6 +1,6 @@
 {
     "code": "58022616",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58022616",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58022616",
     "time": "2020-02-26 09:24:33",
     "許可證字號": "衛部粧輸字第022616號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "1428601100  台灣萊雅股份有限公司",
     "申請商地址": "台北市信義區信義路五段7號22樓23樓",
-    "主製造廠": {
-        "製造廠名稱": "CMY0011000  INTERCOS ASIA PACIFIC SDN. BHD.",
-        "製造廠廠址": "2A Jalan TSB 1,Taman Industri Sungai Buloh,47000 Selangor Darul Ehsan,Malaysia",
-        "製造廠公司地址": "",
-        "製造廠國別": "MALAYSIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CMY0011000  INTERCOS ASIA PACIFIC SDN. BHD.",
+            "製造廠廠址": "2A Jalan TSB 1,Taman Industri Sungai Buloh,47000 Selangor Darul Ehsan,Malaysia",
+            "製造廠公司地址": "",
+            "製造廠國別": "MALAYSIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

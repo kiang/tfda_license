@@ -1,6 +1,6 @@
 {
     "code": "06018512",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06018512",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06018512",
     "time": "2020-02-25 19:36:27",
     "許可證字號": "衛署醫器輸字第018512號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6401022675  壯生醫療器材股份有限公司",
     "申請商地址": "臺北市中山區民生東路三段2號10樓及11樓",
-    "主製造廠": {
-        "製造廠名稱": "MGB0331100  Johnson &amp; Johnson Medical Limited",
-        "製造廠廠址": "Simpson Parkway, Kirkton Campus, Livingston, EH54 7AT, United Kingdom",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0331100  Johnson &amp; Johnson Medical Limited",
+            "製造廠廠址": "Simpson Parkway, Kirkton Campus, Livingston, EH54 7AT, United Kingdom",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MBE0017100  Johnson &amp; Johnson International, c\/o European Logistics Centre",
+            "製造廠廠址": "Leonardo Da Vincilaan 15, BE-1831 Diegem, Belgium",
+            "製造廠公司地址": "",
+            "製造廠國別": "BELGIUM",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

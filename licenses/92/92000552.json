@@ -1,6 +1,6 @@
 {
     "code": "92000552",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000552",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000552",
     "time": "2020-02-26 10:10:53",
     "許可證字號": "衛部醫器陸輸字第000552號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6202039901  尚璟科技股份有限公司",
     "申請商地址": "臺北市中山區南京東路二段90號5樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN0049200  Beijing Target Medical Technologies, Inc.",
-        "製造廠廠址": "No.60, Shunren Rd, Shunyi District, Beijing, China",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0049200  Beijing Target Medical Technologies, Inc.",
+            "製造廠廠址": "No.60, Shunren Rd, Shunyi District, Beijing, China",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MCN0049100  Beijing Target Medical Technologies, Inc.",
+            "製造廠廠址": "3rd floor, Beikong Building, NO.10, Baifuquan Rd., Changping Zone, Beijing, China",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

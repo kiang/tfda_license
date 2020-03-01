@@ -1,6 +1,6 @@
 {
     "code": "96002927",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002927",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002927",
     "time": "2020-02-26 13:05:26",
     "許可證字號": "衛部醫器陸輸壹字第002927號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "1206501100  博士倫股份有限公司",
     "申請商地址": "台北市大安區敦化南路2段95號16樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN4302000  DANYANG HAOYUAN OPTICAL INSTRUMENT CO., LTD.",
-        "製造廠廠址": "MAIXI CENTRAL PRIMARY SCHOOL, YANLING TOWN, DANYANG, JIANGSU PROVINCE, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN4302000  DANYANG HAOYUAN OPTICAL INSTRUMENT CO., LTD.",
+            "製造廠廠址": "MAIXI CENTRAL PRIMARY SCHOOL, YANLING TOWN, DANYANG, JIANGSU PROVINCE, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

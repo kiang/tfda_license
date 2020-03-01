@@ -1,6 +1,6 @@
 {
     "code": "44003083",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44003083",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44003083",
     "time": "2020-02-26 04:34:17",
     "許可證字號": "衛署醫器輸壹字第003083號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6401022451  新加坡商美納里尼醫藥有限公司台灣分公司",
     "申請商地址": "台北市大安區敦化南路2段65號17樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS2982000  HANSON MEDICAL INC.",
-        "製造廠廠址": "25960 OHIO AVENUE, SUITE 200, KINGSTON, WASHINGTON 98346 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2982000  HANSON MEDICAL INC.",
+            "製造廠廠址": "25960 OHIO AVENUE, SUITE 200, KINGSTON, WASHINGTON 98346 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MSG0101000  A. MENARINI ASIA- PACIFIC HOLDINGS PTE. LTD.",
+            "製造廠廠址": "30 PASIR PANJANG ROAD, #08-32, MAPLETREE BUSINESS CITY, SINGAPORE 117440",
+            "製造廠公司地址": "",
+            "製造廠國別": "SINGAPORE",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

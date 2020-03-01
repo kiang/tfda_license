@@ -1,6 +1,6 @@
 {
     "code": "44007820",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007820",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007820",
     "time": "2020-02-26 05:01:40",
     "許可證字號": "衛署醫器輸壹字第007820號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 14輸入須附同意書（每次輸入均須取得原子能委員會之同意書為憑）",
     "申請商名稱": "1120119100  貫華藥品有限公司",
     "申請商地址": "台南市北區西門路四段５７２巷３號",
-    "主製造廠": {
-        "製造廠名稱": "MIT0074000  I.M.D. INTERNATIONAL MEDICAL DEVICES S.P.A.",
-        "製造廠廠址": "VIA ALDO MORO 5\/11, 24020 SCANZOROSCIATE (BERGAMO), ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIT0074000  I.M.D. INTERNATIONAL MEDICAL DEVICES S.P.A.",
+            "製造廠廠址": "VIA ALDO MORO 5\/11, 24020 SCANZOROSCIATE (BERGAMO), ITALY",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

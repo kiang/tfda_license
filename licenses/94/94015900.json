@@ -1,6 +1,6 @@
 {
     "code": "94015900",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015900",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015900",
     "time": "2020-02-26 11:47:18",
     "許可證字號": "衛部醫器輸壹字第015900號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620118G956  秀鼎股份有限公司",
     "申請商地址": "新北市汐止區康寧街169巷29之1號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MFR0960000  IONYX SA",
-        "製造廠廠址": "34 RUE DE FLEURENNE 33290 BLANQUEFORT FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR0960000  IONYX SA",
+            "製造廠廠址": "34 RUE DE FLEURENNE 33290 BLANQUEFORT FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

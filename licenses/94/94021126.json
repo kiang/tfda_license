@@ -1,6 +1,6 @@
 {
     "code": "94021126",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94021126",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94021126",
     "time": "2020-02-26 12:50:30",
     "許可證字號": "衛部醫器輸壹字第021126號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1119902100  常鈺醫療器材有限公司",
     "申請商地址": "新北市中和區建八路165號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MPK0159000  METAL MAX HEALTH CARE",
-        "製造廠廠址": "PLOT# 254 STREET # 31B MAG TOWN DEFENCE ROAD SIALKOT PAKISTAN.",
-        "製造廠公司地址": "",
-        "製造廠國別": "PAKISTAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MPK0159000  METAL MAX HEALTH CARE",
+            "製造廠廠址": "PLOT# 254 STREET # 31B MAG TOWN DEFENCE ROAD SIALKOT PAKISTAN.",
+            "製造廠公司地址": "",
+            "製造廠國別": "PAKISTAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

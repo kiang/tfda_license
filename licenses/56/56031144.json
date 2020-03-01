@@ -1,6 +1,6 @@
 {
     "code": "56031144",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031144",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031144",
     "time": "2020-02-26 08:20:34",
     "許可證字號": "衛部醫器輸字第031144號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620118J760  醫兆股份有限公司",
     "申請商地址": "台北市中正區杭州南路一段6巷9號",
-    "主製造廠": {
-        "製造廠名稱": "MDE0262100  EKF-DIAGNOSTIC GMBH",
-        "製造廠廠址": "EBENDORFER CHAUSSEE 3, D-39179 BARLEBEN GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0262100  EKF-DIAGNOSTIC GMBH",
+            "製造廠廠址": "EBENDORFER CHAUSSEE 3, D-39179 BARLEBEN GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

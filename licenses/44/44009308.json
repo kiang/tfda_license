@@ -1,6 +1,6 @@
 {
     "code": "44009308",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009308",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009308",
     "time": "2020-02-26 05:13:54",
     "許可證字號": "衛署醫器輸壹字第009308號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231034947  春杏醫療儀器有限公司",
     "申請商地址": "新北市永和區福和路19巷4號",
-    "主製造廠": {
-        "製造廠名稱": "MDE0285000  HERBERT WALDMANN GMBH&amp; CO. KG",
-        "製造廠廠址": "PETER-HENLEIN-STR.5 78056 VILLINGEN-SCHWENNINGEN GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0285000  HERBERT WALDMANN GMBH&amp; CO. KG",
+            "製造廠廠址": "PETER-HENLEIN-STR.5 78056 VILLINGEN-SCHWENNINGEN GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

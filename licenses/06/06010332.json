@@ -1,6 +1,6 @@
 {
     "code": "06010332",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010332",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010332",
     "time": "2020-02-25 18:02:45",
     "許可證字號": "衛署醫器輸字第010332號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6233032432  台傑生化科技股份有限公司",
     "申請商地址": "新竹縣竹東鎮中豐路二段311號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MVN0005000  MEDICAL PLASTIC COMPANY",
-        "製造廠廠址": "LUONG DINH CUA, PHUONG MAI COMMUNE, DONG DA DISTRICT, HA NOI, S.R. OF VIETNAM",
-        "製造廠公司地址": "",
-        "製造廠國別": "VIET NAM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MVN0005000  MEDICAL PLASTIC COMPANY",
+            "製造廠廠址": "LUONG DINH CUA, PHUONG MAI COMMUNE, DONG DA DISTRICT, HA NOI, S.R. OF VIETNAM",
+            "製造廠公司地址": "",
+            "製造廠國別": "VIET NAM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

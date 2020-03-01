@@ -1,6 +1,6 @@
 {
     "code": "08007793",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08007793",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08007793",
     "time": "2020-02-25 23:15:40",
     "許可證字號": "衛署粧輸字第007793號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0615901100  百慕達商麗美容股份有限公司台灣分公司",
     "申請商地址": "台北市南京東路四段161號11樓",
-    "主製造廠": {
-        "製造廠名稱": "CJP0054100  NIHON KOLMAR CO., LTD.",
-        "製造廠廠址": "4-4-1 FUSHIMI-MACHI CHUO-KU OSAKA JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0054100  NIHON KOLMAR CO., LTD.",
+            "製造廠廠址": "4-4-1 FUSHIMI-MACHI CHUO-KU OSAKA JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

@@ -1,6 +1,6 @@
 {
     "code": "44003715",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44003715",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44003715",
     "time": "2020-02-26 04:37:08",
     "許可證字號": "衛署醫器輸壹字第003715號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6237130206  豪品國際實業股份有限公司",
     "申請商地址": "彰化縣員林市南東里員草路855巷148號",
-    "主製造廠": {
-        "製造廠名稱": "MTH0023100  SHUN THAI RUBBER GLOVES INDUSTRY PUBLIC CO., LTD.",
-        "製造廠廠址": "9,14 MOO 4 KACHED SUB-DISTRICT, RAYONG-MUANG DISTRICT 21100, THAILAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "THAILAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MTH0023100  SHUN THAI RUBBER GLOVES INDUSTRY PUBLIC CO., LTD.",
+            "製造廠廠址": "9,14 MOO 4 KACHED SUB-DISTRICT, RAYONG-MUANG DISTRICT 21100, THAILAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "THAILAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

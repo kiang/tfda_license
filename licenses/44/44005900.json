@@ -1,6 +1,6 @@
 {
     "code": "44005900",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44005900",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44005900",
     "time": "2020-02-26 04:48:29",
     "許可證字號": "衛署醫器輸壹字第005900號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217074627  厚康有限公司",
     "申請商地址": "臺中市南屯區惠中里三鄰文心路一段三七八號十七樓之八",
-    "主製造廠": {
-        "製造廠名稱": "MIN0020000  MADHU INSTRUMENTS",
-        "製造廠廠址": "F-90\/3D, OKHLA INDUSTRIAL AREA, PHASE - I, NEW DELHI-110-020, INDIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "INDIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIN0020000  MADHU INSTRUMENTS",
+            "製造廠廠址": "F-90\/3D, OKHLA INDUSTRIAL AREA, PHASE - I, NEW DELHI-110-020, INDIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "INDIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

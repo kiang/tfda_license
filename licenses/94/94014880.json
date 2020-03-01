@@ -1,6 +1,6 @@
 {
     "code": "94014880",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014880",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014880",
     "time": "2020-02-26 11:33:37",
     "許可證字號": "衛部醫器輸壹字第014880號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620109F478  九奇國際開發有限公司",
     "申請商地址": "臺北市大同區南京西路41號11樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP6119000  RAID. INC",
-        "製造廠廠址": "160-0023 7-12-6 NISHISHINNJYUKU SHINJYUKUKU TOKYO, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP6119000  RAID. INC",
+            "製造廠廠址": "160-0023 7-12-6 NISHISHINNJYUKU SHINJYUKUKU TOKYO, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

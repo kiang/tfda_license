@@ -1,6 +1,6 @@
 {
     "code": "06021733",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021733",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021733",
     "time": "2020-02-25 20:12:47",
     "許可證字號": "衛署醫器輸字第021733號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231046330  法博國際貿易有限公司",
     "申請商地址": "臺北市士林區天玉街41號",
-    "主製造廠": {
-        "製造廠名稱": "MES0064000  MOZO GRAU, S.L.",
-        "製造廠廠址": "CALLE\/GUARNICIONEROS, PARC 27B NAVE 12, POLIGONO INDUSTRIAL SAN COSME 2, VILLANUBLA 470160, VALLADOLID, SPAIN",
-        "製造廠公司地址": "",
-        "製造廠國別": "SPAIN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MES0064000  MOZO GRAU, S.L.",
+            "製造廠廠址": "CALLE\/GUARNICIONEROS, PARC 27B NAVE 12, POLIGONO INDUSTRIAL SAN COSME 2, VILLANUBLA 470160, VALLADOLID, SPAIN",
+            "製造廠公司地址": "",
+            "製造廠國別": "SPAIN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

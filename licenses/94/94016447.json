@@ -1,6 +1,6 @@
 {
     "code": "94016447",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016447",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016447",
     "time": "2020-02-26 11:55:44",
     "許可證字號": "衛部醫器輸壹字第016447號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 14輸入須附同意書（每次輸入均須取得原子能委員會之同意書為憑）",
     "申請商名稱": "623102J526  住重電子機械科技股份有限公司",
     "申請商地址": "新北市三重區重新路三段81號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS9419000  VARIAN MEDICAL SYSTEMS",
-        "製造廠廠址": "3235 FORTUNE DRIVE NORTH CHARLESTON SOUTH CAROLINA  29418 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS9419000  VARIAN MEDICAL SYSTEMS",
+            "製造廠廠址": "3235 FORTUNE DRIVE NORTH CHARLESTON SOUTH CAROLINA  29418 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

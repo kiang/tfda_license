@@ -1,6 +1,6 @@
 {
     "code": "56031210",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031210",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031210",
     "time": "2020-02-26 08:21:20",
     "許可證字號": "衛部醫器輸字第031210號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0420201100  巴德股份有限公司",
     "申請商地址": "臺北市信義區忠孝東路4段560號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS0676000  BARD ACCESS SYSTEMS, INC.",
-        "製造廠廠址": "605 North 5600 West, Salt Lake City, Utah 84116, U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0676000  BARD ACCESS SYSTEMS, INC.",
+            "製造廠廠址": "605 North 5600 West, Salt Lake City, Utah 84116, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

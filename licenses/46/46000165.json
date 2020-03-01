@@ -1,6 +1,6 @@
 {
     "code": "46000165",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000165",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000165",
     "time": "2020-02-26 05:57:46",
     "許可證字號": "衛署醫器陸輸壹字第000165號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0403111100  中國衛生材料生產中心股份有限公司",
     "申請商地址": "彰化縣彰化市福田里彰南路六段４２４巷２１號",
-    "主製造廠": {
-        "製造廠名稱": "MCN0009000  DONGGUAN XUFENG MEDICAL SUPPLY CO. LTD.",
-        "製造廠廠址": "JIN YU LING GONG YE YUAN, SANG YUAN JU WEI HUI, DONG CHENG QU, DONG GUAN, GUANG DONG, P.R.C.",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0009000  DONGGUAN XUFENG MEDICAL SUPPLY CO. LTD.",
+            "製造廠廠址": "JIN YU LING GONG YE YUAN, SANG YUAN JU WEI HUI, DONG CHENG QU, DONG GUAN, GUANG DONG, P.R.C.",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

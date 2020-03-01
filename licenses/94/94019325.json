@@ -1,6 +1,6 @@
 {
     "code": "94019325",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019325",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019325",
     "time": "2020-02-26 12:33:11",
     "許可證字號": "衛部醫器輸壹字第019325號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6232087344  辰欣歐美有限公司",
     "申請商地址": "桃園市八德區和義街33號13樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE1503000  NORDDEUTSCHE GUMMISTRUMPFFABRIK GMBH &amp; CO. KG",
-        "製造廠廠址": "MARIENALLEE 74 ID 24937 FLENBURG GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE1503000  NORDDEUTSCHE GUMMISTRUMPFFABRIK GMBH &amp; CO. KG",
+            "製造廠廠址": "MARIENALLEE 74 ID 24937 FLENBURG GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

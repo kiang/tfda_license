@@ -1,6 +1,6 @@
 {
     "code": "06011008",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06011008",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06011008",
     "time": "2020-02-25 18:11:07",
     "許可證字號": "衛署醫器輸字第011008號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0827401100  佳醫健康事業股份有限公司",
     "申請商地址": "新北市中和區中正路880號17樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP0369000  KAWASUMI LABORATORIES INC. MIE FACTORY",
-        "製造廠廠址": "7-1, TAMADA, MIE-MACHI, BUNGO-ONO-SHI, OITA 879-7153, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0369000  KAWASUMI LABORATORIES INC. MIE FACTORY",
+            "製造廠廠址": "7-1, TAMADA, MIE-MACHI, BUNGO-ONO-SHI, OITA 879-7153, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

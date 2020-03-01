@@ -1,6 +1,6 @@
 {
     "code": "08004015",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08004015",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08004015",
     "time": "2020-02-25 22:34:09",
     "許可證字號": "衛署粧輸字第004015號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6628225819  洛特企業有限公司",
     "申請商地址": "台北市松山區復興北路191號9樓",
-    "主製造廠": {
-        "製造廠名稱": "CCH0013000  RAUSCH AG KREUZLINGEN",
-        "製造廠廠址": "BARENSTRASSE 12 CH-8280 KREUZLINGEN SWITZERLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CCH0013000  RAUSCH AG KREUZLINGEN",
+            "製造廠廠址": "BARENSTRASSE 12 CH-8280 KREUZLINGEN SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

@@ -1,6 +1,6 @@
 {
     "code": "94020322",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020322",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020322",
     "time": "2020-02-26 12:43:02",
     "許可證字號": "衛部醫器輸壹字第020322號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620117M434  展磐實業有限公司",
     "申請商地址": "臺北市大安區忠孝東路4段285號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MMY0204000  DURAMEDICAL SDN. BHD.",
-        "製造廠廠址": "NO.36, JALAN MERU INDAH 20, TAMAN PERINDUSTRIAN MERU INDAH, 42200 KAPAR, KLANG, SELANGOR D. E., MALAYSIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "MALAYSIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMY0204000  DURAMEDICAL SDN. BHD.",
+            "製造廠廠址": "NO.36, JALAN MERU INDAH 20, TAMAN PERINDUSTRIAN MERU INDAH, 42200 KAPAR, KLANG, SELANGOR D. E., MALAYSIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "MALAYSIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

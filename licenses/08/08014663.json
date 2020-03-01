@@ -1,6 +1,6 @@
 {
     "code": "08014663",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08014663",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08014663",
     "time": "2020-02-26 00:26:19",
     "許可證字號": "衛署粧輸字第014663號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6221071929  生藝國際有限公司",
     "申請商地址": "臺南市安平區文平路428號",
-    "主製造廠": {
-        "製造廠名稱": "CIT0072000  ISMEG S.R.L.",
-        "製造廠廠址": "CROTONE-ITALY, LOCALITA PASSOVECCHIO-ZONA INDUSTRIALE-CAP 88900",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CIT0072000  ISMEG S.R.L.",
+            "製造廠廠址": "CROTONE-ITALY, LOCALITA PASSOVECCHIO-ZONA INDUSTRIALE-CAP 88900",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

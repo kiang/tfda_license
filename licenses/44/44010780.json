@@ -1,6 +1,6 @@
 {
     "code": "44010780",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010780",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010780",
     "time": "2020-02-26 05:28:30",
     "許可證字號": "衛署醫器輸壹字第010780號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "6201029741  醫信有限公司",
     "申請商地址": "台北市大安區羅斯福路三段193號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MES0023000  BIOSYSTEMS S.A.",
-        "製造廠廠址": "COSTA BRAVA, 30-08030 BARCELONA SPAIN",
-        "製造廠公司地址": "",
-        "製造廠國別": "SPAIN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MES0023000  BIOSYSTEMS S.A.",
+            "製造廠廠址": "COSTA BRAVA, 30-08030 BARCELONA SPAIN",
+            "製造廠公司地址": "",
+            "製造廠國別": "SPAIN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

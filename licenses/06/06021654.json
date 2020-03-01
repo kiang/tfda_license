@@ -1,6 +1,6 @@
 {
     "code": "06021654",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021654",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021654",
     "time": "2020-02-25 20:11:50",
     "許可證字號": "衛署醫器輸字第021654號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1234901100  晶元國際貿易有限公司",
     "申請商地址": "台北市大安區安和路二段69巷6號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS2098000  C&amp;E GP SPECIALIST",
-        "製造廠廠址": "15970 Bernardo Center Drive, San Diego, CA 92127, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2098000  C&amp;E GP SPECIALIST",
+            "製造廠廠址": "15970 Bernardo Center Drive, San Diego, CA 92127, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

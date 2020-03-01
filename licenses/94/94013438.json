@@ -1,6 +1,6 @@
 {
     "code": "94013438",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013438",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013438",
     "time": "2020-02-26 11:12:29",
     "許可證字號": "衛部醫器輸壹字第013438號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0831701100  奇異亞洲醫療設備股份有限公司",
     "申請商地址": "台北市中山區民生東路三段8號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MFR0051100  GE MEDICAL SYSTEMS S.C.S",
-        "製造廠廠址": "283 RUE DE LA MINIERE 78530 BUC FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR0051100  GE MEDICAL SYSTEMS S.C.S",
+            "製造廠廠址": "283 RUE DE LA MINIERE 78530 BUC FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

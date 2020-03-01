@@ -1,6 +1,6 @@
 {
     "code": "44006597",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006597",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006597",
     "time": "2020-02-26 04:52:26",
     "許可證字號": "衛署醫器輸壹字第006597號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6202096120  崧華基因股份有限公司",
     "申請商地址": "高雄市前區區民權二路３８０號１１樓之１",
-    "主製造廠": {
-        "製造廠名稱": "MRU0004000  INSTITUTE OF PRACTICAL PSYCHOPHYSICS LLC",
-        "製造廠廠址": "B. KHMELNITSKOGO STREET 148-35 644001 OMSK RUSSIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "RUSSIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MRU0004000  INSTITUTE OF PRACTICAL PSYCHOPHYSICS LLC",
+            "製造廠廠址": "B. KHMELNITSKOGO STREET 148-35 644001 OMSK RUSSIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "RUSSIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "44005467",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44005467",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44005467",
     "time": "2020-02-26 04:46:07",
     "許可證字號": "衛署醫器輸壹字第005467號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6236201340  基育有限公司",
     "申請商地址": "台中市大里區內新里新和街68號",
-    "主製造廠": {
-        "製造廠名稱": "MDE0142000  BIODYNAMICS INTERNATIONAL (DEUTSCHLAND) GMBH",
-        "製造廠廠址": "WETTERKREUZ 19A 91058 ERLANGEN FREISTAAT BAYERN, GERMANY.",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0142000  BIODYNAMICS INTERNATIONAL (DEUTSCHLAND) GMBH",
+            "製造廠廠址": "WETTERKREUZ 19A 91058 ERLANGEN FREISTAAT BAYERN, GERMANY.",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

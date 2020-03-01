@@ -1,6 +1,6 @@
 {
     "code": "94016786",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016786",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016786",
     "time": "2020-02-26 12:00:27",
     "許可證字號": "衛部醫器輸壹字第016786號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6237101394  合碩生技股份有限公司",
     "申請商地址": "彰化縣伸港鄉溪底村興工路51號",
-    "主製造廠": {
-        "製造廠名稱": "MUS4337000  TEDAN SURGICAL INNOVATIONS, LLC",
-        "製造廠廠址": "12615 WEST AIRPORT BOULEVARD SUITE #200 SUGAR LAND, TX77478,  USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS4337000  TEDAN SURGICAL INNOVATIONS, LLC",
+            "製造廠廠址": "12615 WEST AIRPORT BOULEVARD SUITE #200 SUGAR LAND, TX77478,  USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

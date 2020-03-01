@@ -1,6 +1,6 @@
 {
     "code": "94013656",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013656",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013656",
     "time": "2020-02-26 11:15:51",
     "許可證字號": "衛部醫器輸壹字第013656號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "621706A329  百特醫學科技有限公司",
     "申請商地址": "台中市西區臺灣大道二段536號7樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MIT0123000  SILFRADENT S.R.L.",
-        "製造廠廠址": "VIA G. DI VITTORIO 35\/37 47018 S. SOFIA (FC) ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIT0123000  SILFRADENT S.R.L.",
+            "製造廠廠址": "VIA G. DI VITTORIO 35\/37 47018 S. SOFIA (FC) ITALY",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

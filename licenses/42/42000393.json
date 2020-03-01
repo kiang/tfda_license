@@ -1,6 +1,6 @@
 {
     "code": "42000393",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000393",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000393",
     "time": "2020-02-26 03:25:30",
     "許可證字號": "衛署醫器陸輸字第000393號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "620101K322  盟太國際有限公司",
     "申請商地址": "台北市大同區承德路1段83號10樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN0978000  HANGZHOU SEJOY ELECTRONICS &amp; INSTRUMENTS CO., LTD.",
-        "製造廠廠址": "BUILDING 2, NO. 202, ZHENZHONG ROAD, WEST LAKE ECONOMY &amp; TECHNOLOGY ZONE, HANGZHOU 310030, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0978000  HANGZHOU SEJOY ELECTRONICS &amp; INSTRUMENTS CO., LTD.",
+            "製造廠廠址": "BUILDING 2, NO. 202, ZHENZHONG ROAD, WEST LAKE ECONOMY &amp; TECHNOLOGY ZONE, HANGZHOU 310030, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "620101K322  盟太國際有限公司",
+            "製造廠廠址": "台北市大同區承德路1段83號10樓",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

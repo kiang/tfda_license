@@ -1,6 +1,6 @@
 {
     "code": "06018477",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06018477",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06018477",
     "time": "2020-02-25 19:36:04",
     "許可證字號": "衛署醫器輸字第018477號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "0514901100  弘智企業有限公司",
     "申請商地址": "新北市汐止區新台五路一段８１號９樓之７",
-    "主製造廠": {
-        "製造廠名稱": "MKR0162000  MEDIANA CO., LTD.",
-        "製造廠廠址": "WONJU MEDICAL INDUSTRY PARK, 1650-1 DONGHWA-RI, MUNMAK-EUP, WONJU-SI, GANGWON-DO, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0162000  MEDIANA CO., LTD.",
+            "製造廠廠址": "WONJU MEDICAL INDUSTRY PARK, 1650-1 DONGHWA-RI, MUNMAK-EUP, WONJU-SI, GANGWON-DO, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS1727000  SPACELABS MEDICAL, INC.",
+            "製造廠廠址": "5150 220TH AVE SE, ISSAQUAH, WA 98027-7018, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "許可證持有者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

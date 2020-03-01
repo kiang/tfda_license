@@ -1,6 +1,6 @@
 {
     "code": "44012724",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012724",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012724",
     "time": "2020-02-26 05:47:28",
     "許可證字號": "衛署醫器輸壹字第012724號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231054850  德瑞士國際有限公司",
     "申請商地址": "新北市新店區二十張路129巷7弄6號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS2648000  SMART DENTAL CORP.",
-        "製造廠廠址": "2500 CRESTVIEW DRIVE NEWBERG OREGON 97132 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2648000  SMART DENTAL CORP.",
+            "製造廠廠址": "2500 CRESTVIEW DRIVE NEWBERG OREGON 97132 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

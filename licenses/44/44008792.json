@@ -1,6 +1,6 @@
 {
     "code": "44008792",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008792",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008792",
     "time": "2020-02-26 05:08:51",
     "許可證字號": "衛署醫器輸壹字第008792號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623104D231  頂富豪實業有限公司",
     "申請商地址": "新北市中和區秀朗路三段50巷8弄2號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS2682000  DENTALEZ, INC.",
-        "製造廠廠址": "1816 COLONIAL VILLAGE LANE, LANCASTER, PA17601, U.S.A",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2682000  DENTALEZ, INC.",
+            "製造廠廠址": "1816 COLONIAL VILLAGE LANE, LANCASTER, PA17601, U.S.A",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

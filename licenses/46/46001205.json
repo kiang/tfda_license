@@ -1,6 +1,6 @@
 {
     "code": "46001205",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001205",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001205",
     "time": "2020-02-26 06:04:44",
     "許可證字號": "衛署醫器陸輸壹字第001205號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6202087710  光哲光學貿易行",
     "申請商地址": "高雄市苓雅區光華一路206號15樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MCN0799000  DANYANG HUACHANG OPTICAL LENS CO. LTD",
-        "製造廠廠址": "DANYANG, ECONOMIC DEVELOPMENT ZONE, DANYANG CITY, JIANGSU, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0799000  DANYANG HUACHANG OPTICAL LENS CO. LTD",
+            "製造廠廠址": "DANYANG, ECONOMIC DEVELOPMENT ZONE, DANYANG CITY, JIANGSU, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

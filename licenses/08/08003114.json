@@ -1,6 +1,6 @@
 {
     "code": "08003114",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08003114",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08003114",
     "time": "2020-02-25 22:23:53",
     "許可證字號": "衛署粧輸字第003114號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0712001100  采盟股份有限公司",
     "申請商地址": "台北巿松山區復興北路五十七號三樓之一",
-    "主製造廠": {
-        "製造廠名稱": "CJP0030000  SHU UEMURA COSMETICS INC.",
-        "製造廠廠址": "5-7 MINAMI AOYAMA, MINATO-KU TOKYO 107 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0030000  SHU UEMURA COSMETICS INC.",
+            "製造廠廠址": "5-7 MINAMI AOYAMA, MINATO-KU TOKYO 107 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

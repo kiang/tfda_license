@@ -1,6 +1,6 @@
 {
     "code": "46000020",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000020",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000020",
     "time": "2020-02-26 05:57:08",
     "許可證字號": "衛署醫器陸輸壹字第000020號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6236051939  馨樺有限公司",
     "申請商地址": "台中市沙鹿區中山路420號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN0080000  LISOUND HEARING AID (FUZHOU) CO., LTD.",
-        "製造廠廠址": "15 HONGSHAN HI-TECH-ZONE, FUZHOU, 350002 CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0080000  LISOUND HEARING AID (FUZHOU) CO., LTD.",
+            "製造廠廠址": "15 HONGSHAN HI-TECH-ZONE, FUZHOU, 350002 CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

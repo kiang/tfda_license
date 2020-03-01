@@ -1,6 +1,6 @@
 {
     "code": "06023145",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023145",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023145",
     "time": "2020-02-25 20:28:08",
     "許可證字號": "衛署醫器輸字第023145號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231054412  鎧立有限公司",
     "申請商地址": "新北市新店區中興路二段190號7樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MIT0234000  AL.CHI.MI.A. S.R.L.",
-        "製造廠廠址": "VIALE AUSTRIA 14, 35020 PONTE S. NICOLO (PD), ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIT0234000  AL.CHI.MI.A. S.R.L.",
+            "製造廠廠址": "VIALE AUSTRIA 14, 35020 PONTE S. NICOLO (PD), ITALY",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

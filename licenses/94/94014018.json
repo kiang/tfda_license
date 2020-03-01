@@ -1,6 +1,6 @@
 {
     "code": "94014018",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014018",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014018",
     "time": "2020-02-26 11:21:16",
     "許可證字號": "衛部醫器輸壹字第014018號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1113901100  國華牙材股份有限公司",
     "申請商地址": "新北市中和區中山路2段351號6樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MSM0001100  STEIN SRL",
-        "製造廠廠址": "VIA DEI CERRI 2 47899 SERRAVALLE REPUBLIC OF SAN MARINO",
-        "製造廠公司地址": "",
-        "製造廠國別": "SAN MARINO",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MSM0001100  STEIN SRL",
+            "製造廠廠址": "VIA DEI CERRI 2 47899 SERRAVALLE REPUBLIC OF SAN MARINO",
+            "製造廠公司地址": "",
+            "製造廠國別": "SAN MARINO",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

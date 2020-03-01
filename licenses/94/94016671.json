@@ -1,6 +1,6 @@
 {
     "code": "94016671",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016671",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016671",
     "time": "2020-02-26 11:58:58",
     "許可證字號": "衛部醫器輸壹字第016671號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "620118B693  台灣希森美康股份有限公司",
     "申請商地址": "台北市中正區紹興北街5號7樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP6168000  SYSMEX CORPORATION, I-SQUARE",
-        "製造廠廠址": "262-11 MIZUASHI, NOGUCHICHO, KAKOGAWA, HYOGO 675-0019, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP6168000  SYSMEX CORPORATION, I-SQUARE",
+            "製造廠廠址": "262-11 MIZUASHI, NOGUCHICHO, KAKOGAWA, HYOGO 675-0019, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

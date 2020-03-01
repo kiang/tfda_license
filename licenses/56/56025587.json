@@ -1,6 +1,6 @@
 {
     "code": "56025587",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025587",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025587",
     "time": "2020-02-26 07:25:35",
     "許可證字號": "衛部醫器輸字第025587號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6231049608  成信新貿易股份有限公司",
     "申請商地址": "新北市中和區中山路二段348巷8號9樓",
-    "主製造廠": {
-        "製造廠名稱": "MTH0071000  NIPRO(THAILAND)CORPORATION LIMITED",
-        "製造廠廠址": "10\/2 MOO 8 BANGNOMKO,SENA,PHRA NAKHON SI AYUTTHAYA 13110,THAILAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "THAILAND",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MTH0071000  NIPRO(THAILAND)CORPORATION LIMITED",
+            "製造廠廠址": "10\/2 MOO 8 BANGNOMKO,SENA,PHRA NAKHON SI AYUTTHAYA 13110,THAILAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "THAILAND",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MAU0043000  GREINER BIO-ONE GMBH",
+            "製造廠廠址": "BAD HALLER STRA BE 32, A-4550 KREMSMUNSTER, AUSTRIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRIA",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

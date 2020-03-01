@@ -1,6 +1,6 @@
 {
     "code": "58026662",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58026662",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58026662",
     "time": "2020-02-26 09:57:02",
     "許可證字號": "衛部粧輸字第026662號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6653925190  三友藥妝股份有限公司",
     "申請商地址": "臺北市中山區建國北路2段145號15樓",
-    "主製造廠": {
-        "製造廠名稱": "CJP0433000  Chifure Holdings Corporation",
-        "製造廠廠址": "2-8-59, Yoshinodai, Kawagoe-shi, Saitama, Japan",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0433000  Chifure Holdings Corporation",
+            "製造廠廠址": "2-8-59, Yoshinodai, Kawagoe-shi, Saitama, Japan",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

@@ -1,6 +1,6 @@
 {
     "code": "06003835",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06003835",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06003835",
     "time": "2020-02-25 16:23:37",
     "許可證字號": "衛署醫器輸字第003835號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0905401100  南雄行有限公司",
     "申請商地址": "台北巿新生南路一段９７巷１９號２Ｆ",
-    "主製造廠": {
-        "製造廠名稱": "MUS0357000  NCC DIVISION MALLINCKRODT INC.",
-        "製造廠廠址": "HOOK ROAD ARGYLE, NY 12809 U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0357000  NCC DIVISION MALLINCKRODT INC.",
+            "製造廠廠址": "HOOK ROAD ARGYLE, NY 12809 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

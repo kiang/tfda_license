@@ -1,11 +1,12 @@
 {
     "code": "02021008",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021008",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021008",
     "time": "2020-02-25 12:36:05",
     "許可證字號": "衛署藥輸字第021008號",
     "註銷狀態": "已註銷",
     "註銷日期": "104\/02\/24",
     "註銷理由": "許可證已逾有效期",
+    "製造許可登錄編號": "",
     "有效日期": "102\/12\/22",
     "發證日期": "84\/08\/07",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17指示用藥",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "0604201100  成記藥品有限公司",
-        "申請商地址": "台北市新生南路三段２３之１號５Ｆ",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "LIVER FRACTION II, CALCIUM DIPHOSPHATE (CALCIUM PYROPHOSPHATE), IRON, POTASSIUM IODIDE, MAGNESIUM SULFATE, POTASSIUM SULFATE, BETAINE HCL, PINENE, CUPRIC SULFATE, CHOLINE BITARTRATE, VITAMIN A (ACETATE), BIOTIN, NIACINAMIDE (NICOTINAMIDE), THIAMINE HYDROCHLORIDE, RIBOFLAVIN (VIT B2), PYRIDOXINE HCL, CYANOCOBALAMIN (VIT B12), FOLIC ACID, PANTOTHENATE CALCIUM, INOSITOL (MESO-INOSITOL), PARA-AMINOBENZOIC ACID (VIT H1), ASCORBIC ACID (VIT C), VITAMIN D (ERGOCALCIFEROL), VITAMIN E (MIXED TOCOPHEROLS), BIOFLAVINOIDS (CITRUS FLAVONOID COMPOUNDS), RUTIN, ZINC SULFATE",
+    "限制項目": "02輸　入",
+    "申請商名稱": "0604201100  成記藥品有限公司",
+    "申請商地址": "台北市新生南路三段２３之１號５Ｆ",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FUS0362000  MARLYN NUTRACEUTICALS INC. (DBA NATURDLY VITAMINS)",
+            "製造廠廠址": "4404E ELWOOD STREET PHONEIX, ARIZONA 85040 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "CCC號列": "30045000009 其他醫藥製劑，含有維他命或第２９３６節之其他產品Other medicaments, containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
     "ingredients": [

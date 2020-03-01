@@ -1,6 +1,6 @@
 {
     "code": "94016134",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016134",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016134",
     "time": "2020-02-26 11:51:00",
     "許可證字號": "衛部醫器輸壹字第016134號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623202K714  臻澔有限公司",
     "申請商地址": "桃園市中壢區廈門街188號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP0630100  KIRIBAI KOBAYASHI PHARMACEUTICAL CO., LTD.",
-        "製造廠廠址": "18-9 TECHNO-PARK SANDA, HYOGO PREFECTURE 669-1339 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0630100  KIRIBAI KOBAYASHI PHARMACEUTICAL CO., LTD.",
+            "製造廠廠址": "18-9 TECHNO-PARK SANDA, HYOGO PREFECTURE 669-1339 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

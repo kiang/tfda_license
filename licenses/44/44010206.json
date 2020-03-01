@@ -1,6 +1,6 @@
 {
     "code": "44010206",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010206",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010206",
     "time": "2020-02-26 05:22:49",
     "許可證字號": "衛署醫器輸壹字第010206號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0827601100  尚弋股份有限公司",
     "申請商地址": "台北市北投區大度路3段270巷69號4樓之5",
-    "主製造廠": {
-        "製造廠名稱": "MDE0986000  STEMA MEDIZINTECHNIK GMBH",
-        "製造廠廠址": "H. -E. -BUSSESTR.4 D-78333 STOCKACH GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0986000  STEMA MEDIZINTECHNIK GMBH",
+            "製造廠廠址": "H. -E. -BUSSESTR.4 D-78333 STOCKACH GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

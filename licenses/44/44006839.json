@@ -1,6 +1,6 @@
 {
     "code": "44006839",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006839",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006839",
     "time": "2020-02-26 04:54:26",
     "許可證字號": "衛署醫器輸壹字第006839號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0804701100  佳洋藥品股份有限公司",
     "申請商地址": "台北市復興北路１６８號３樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE0235000  QUEISSER PHARMA GMBH &amp; CO., KG",
-        "製造廠廠址": "SCHLESWIGER STRA BE 74, 24941 FLENSBURG, FEDERAL REPUBLEC OF GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0235000  QUEISSER PHARMA GMBH &amp; CO., KG",
+            "製造廠廠址": "SCHLESWIGER STRA BE 74, 24941 FLENSBURG, FEDERAL REPUBLEC OF GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

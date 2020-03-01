@@ -1,6 +1,6 @@
 {
     "code": "06009842",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06009842",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06009842",
     "time": "2020-02-25 17:55:55",
     "許可證字號": "衛署醫器輸字第009842號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620101U395  台灣泰爾茂醫療產品股份有限公司",
     "申請商地址": "臺北市松山區敦化北路170號7樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP0713000  OLYMPUS TERUMO BIOMATERIALS CORP. MISHIMA FACTORY",
-        "製造廠廠址": "454-1 HIGASHINO, NAGAIZUMI-CHO, SUNTO-GUN, SHIZUOKA 411-0931, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0713000  OLYMPUS TERUMO BIOMATERIALS CORP. MISHIMA FACTORY",
+            "製造廠廠址": "454-1 HIGASHINO, NAGAIZUMI-CHO, SUNTO-GUN, SHIZUOKA 411-0931, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MJP0714000  OLYMPUS TERUMO BIOMATERIALS CROP.",
+            "製造廠廠址": "1-50-1 Sasazuka, Shibuya-ku, Tokyo 151-0073, Japan",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

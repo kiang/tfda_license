@@ -1,6 +1,6 @@
 {
     "code": "06007109",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06007109",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06007109",
     "time": "2020-02-25 17:19:48",
     "許可證字號": "衛署醫器輸字第007109號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0416601100  友華生技醫藥股份有限公司",
     "申請商地址": "台北巿復興南路一段３６８號７樓",
-    "主製造廠": {
-        "製造廠名稱": "FPR0012000  CARDINAL HEALTH MANUFACTURING SERVICES B.V.",
-        "製造廠廠址": "HUMACAO, 00791, PUERTO RICO",
-        "製造廠公司地址": "",
-        "製造廠國別": "PUERTO RICO",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "FPR0012000  CARDINAL HEALTH MANUFACTURING SERVICES B.V.",
+            "製造廠廠址": "HUMACAO, 00791, PUERTO RICO",
+            "製造廠公司地址": "",
+            "製造廠國別": "PUERTO RICO",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

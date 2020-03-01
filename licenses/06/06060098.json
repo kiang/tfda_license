@@ -1,6 +1,6 @@
 {
     "code": "06060098",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06060098",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06060098",
     "time": "2020-02-25 20:49:35",
     "許可證字號": "衛署醫器輸字第060098號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0831701100  奇異亞洲醫療設備股份有限公司",
     "申請商地址": "台北市中山區南京東路３段６８、７０號１１樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE0165000  GE MEDICAL SYSTEMS INFORMATION TECHNOLOGIES GMBH",
-        "製造廠廠址": "MUNZINGER STRASSE 3 D-791 11 FREIBURG GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0165000  GE MEDICAL SYSTEMS INFORMATION TECHNOLOGIES GMBH",
+            "製造廠廠址": "MUNZINGER STRASSE 3 D-791 11 FREIBURG GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

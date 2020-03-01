@@ -1,6 +1,6 @@
 {
     "code": "46001783",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001783",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001783",
     "time": "2020-02-26 06:10:11",
     "許可證字號": "衛署醫器陸輸壹字第001783號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6240042546  振宏眼鏡企業有限公司",
     "申請商地址": "嘉義縣民雄鄉中和村社溝45之1號",
-    "主製造廠": {
-        "製造廠名稱": "MCN1107000  WENGHOU DINGSHENG GLASSES MANUFACTORY",
-        "製造廠廠址": "NO. 3, ALLEY20, ZHONG CHIEN ROAD, TSE HU NORTH VILLAGE, OU HAI DISTRICT, WENZHOU, ZHEJIANG, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1107000  WENGHOU DINGSHENG GLASSES MANUFACTORY",
+            "製造廠廠址": "NO. 3, ALLEY20, ZHONG CHIEN ROAD, TSE HU NORTH VILLAGE, OU HAI DISTRICT, WENZHOU, ZHEJIANG, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

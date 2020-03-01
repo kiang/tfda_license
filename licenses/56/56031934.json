@@ -1,6 +1,6 @@
 {
     "code": "56031934",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031934",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031934",
     "time": "2020-02-26 08:26:35",
     "許可證字號": "衛部醫器輸字第031934號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620110T137  景年國際有限公司",
     "申請商地址": "臺北市中山區建國北路二段85號8樓",
-    "主製造廠": {
-        "製造廠名稱": "MMX0101100  Martech Medical Products",
-        "製造廠廠址": "Calle Mercurio N 46, Parque Industrial Mexicali 1, Mexicali, Baja California, C.P. 21210, Mexico",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0101100  Martech Medical Products",
+            "製造廠廠址": "Calle Mercurio N 46, Parque Industrial Mexicali 1, Mexicali, Baja California, C.P. 21210, Mexico",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS3233100  Medical Components, Inc. (dba Medcomp)",
+            "製造廠廠址": "1499 Delp Drive, Harleysville, PA 19438, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

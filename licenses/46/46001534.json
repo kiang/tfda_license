@@ -1,6 +1,6 @@
 {
     "code": "46001534",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001534",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001534",
     "time": "2020-02-26 06:08:02",
     "許可證字號": "衛署醫器陸輸壹字第001534號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 40大陸生產",
     "申請商名稱": "0907801100  英商壯生和壯生（香港）股份有限公司臺灣分公司",
     "申請商地址": "台北市大安區敦化南路二段319號6樓及16樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1003000  SHANGHAI MULTI-MED UNION CO., LTD.",
-        "製造廠廠址": "1958 ZHONG SHAN ROAD NORTH, SHANGHAI, CHINA 200063",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1003000  SHANGHAI MULTI-MED UNION CO., LTD.",
+            "製造廠廠址": "1958 ZHONG SHAN ROAD NORTH, SHANGHAI, CHINA 200063",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS0055000  CODMAN &amp; SHURTLEFF,INC.",
+            "製造廠廠址": "325 PARAMOUNT DRIVE, RAYNHAM, MA 02767-0350, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

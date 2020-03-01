@@ -1,6 +1,6 @@
 {
     "code": "92000569",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000569",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000569",
     "time": "2020-02-26 10:11:06",
     "許可證字號": "衛部醫器陸輸字第000569號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6207320461  僾彼股份有限公司",
     "申請商地址": "高雄市三民區九如一路148號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1276100  Ningbo Tianyi Medical Appliance Co., Ltd.",
-        "製造廠廠址": "No. 788, Mozhi North Road Tourism Resort, Dongqian Lake Ningbo, China",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1276100  Ningbo Tianyi Medical Appliance Co., Ltd.",
+            "製造廠廠址": "No. 788, Mozhi North Road Tourism Resort, Dongqian Lake Ningbo, China",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

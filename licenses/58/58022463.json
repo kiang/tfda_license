@@ -1,6 +1,6 @@
 {
     "code": "58022463",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58022463",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58022463",
     "time": "2020-02-26 09:22:29",
     "許可證字號": "衛部粧輸字第022463號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "620111E512  欣美生醫股份有限公司",
     "申請商地址": "臺北市內湖區新湖一路85號5樓",
-    "主製造廠": {
-        "製造廠名稱": "CUS0344000  ENVY Medical, Inc.",
-        "製造廠廠址": "31340 Via Colinas, Suite 101, Westlake Village, CA 91362, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CUS0344000  ENVY Medical, Inc.",
+            "製造廠廠址": "31340 Via Colinas, Suite 101, Westlake Village, CA 91362, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

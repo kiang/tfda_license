@@ -1,6 +1,6 @@
 {
     "code": "44002830",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44002830",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44002830",
     "time": "2020-02-26 04:32:58",
     "許可證字號": "衛署醫器輸壹字第002830號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620111H577  台灣泰利福醫療產品有限公司",
     "申請商地址": "臺北市大安區敦化南路2段207號16樓",
-    "主製造廠": {
-        "製造廠名稱": "MMX0009000  HUDSON RESPIRATORY CARE INC., TELEFLEX MEDICAL",
-        "製造廠廠址": "AVE. TRANSFORMACION NO.512, PARQUE INDUSTRIAL FINSA NUEVO LAREDO, MEXICO",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0009000  HUDSON RESPIRATORY CARE INC., TELEFLEX MEDICAL",
+            "製造廠廠址": "AVE. TRANSFORMACION NO.512, PARQUE INDUSTRIAL FINSA NUEVO LAREDO, MEXICO",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

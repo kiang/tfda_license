@@ -1,6 +1,6 @@
 {
     "code": "06004885",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06004885",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06004885",
     "time": "2020-02-25 16:42:30",
     "許可證字號": "衛署醫器輸字第004885號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102S342  新加坡商赫士睿股份有限公司台灣分公司",
     "申請商地址": "新北市淡水區中正東路2段177號",
-    "主製造廠": {
-        "製造廠名稱": "MCR0002000  HOSPIRA COSTA RICA LTD.",
-        "製造廠廠址": "1 km Noreste del Centro Comercial Real Cariari, Zona Franca Global Park, La Aurora de Heredia, Costa Rica。",
-        "製造廠公司地址": "",
-        "製造廠國別": "COSTA RICA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCR0002000  HOSPIRA COSTA RICA LTD.",
+            "製造廠廠址": "1 km Noreste del Centro Comercial Real Cariari, Zona Franca Global Park, La Aurora de Heredia, Costa Rica。",
+            "製造廠公司地址": "",
+            "製造廠國別": "COSTA RICA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

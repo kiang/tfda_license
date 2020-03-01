@@ -1,6 +1,6 @@
 {
     "code": "06016864",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06016864",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06016864",
     "time": "2020-02-25 19:16:55",
     "許可證字號": "衛署醫器輸字第016864號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 14輸入須附同意書（每次輸入均須取得原子能委員會之同意書為憑）",
     "申請商名稱": "1208101100  偉登興業有限公司",
     "申請商地址": "台北市虎林街１０８巷８６號",
-    "主製造廠": {
-        "製造廠名稱": "MDE0236000  KALTENBACH &amp; VOIGT GMBH",
-        "製造廠廠址": "BISMARCKRING 39, D-88400 BIBERACH, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0236000  KALTENBACH &amp; VOIGT GMBH",
+            "製造廠廠址": "BISMARCKRING 39, D-88400 BIBERACH, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

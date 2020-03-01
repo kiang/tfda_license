@@ -1,6 +1,6 @@
 {
     "code": "44011639",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011639",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011639",
     "time": "2020-02-26 05:36:57",
     "許可證字號": "衛署醫器輸壹字第011639號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102Z903  美麗安生化醫學科技股份有限公司",
     "申請商地址": "臺北市大安區忠孝東路4段183號12樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MBE0034000  EUROMI S.A.",
-        "製造廠廠址": "ZI DE LAMBERMONT, 151, RUE DES ORMES, B-4800 VERVIERS, BELGIUM",
-        "製造廠公司地址": "",
-        "製造廠國別": "BELGIUM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MBE0034000  EUROMI S.A.",
+            "製造廠廠址": "ZI DE LAMBERMONT, 151, RUE DES ORMES, B-4800 VERVIERS, BELGIUM",
+            "製造廠公司地址": "",
+            "製造廠國別": "BELGIUM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "06019033",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019033",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019033",
     "time": "2020-02-25 19:42:09",
     "許可證字號": "衛署醫器輸字第019033號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0827101100  尚上儀器股份有限公司",
     "申請商地址": "台北市長安東路二段１６９－６號３樓之２",
-    "主製造廠": {
-        "製造廠名稱": "MUS1691000  SENDX MEDICAL, INC.",
-        "製造廠廠址": "1945 PALOMAR OAKS WAY, CARLSBAD, CA 92011, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS1691000  SENDX MEDICAL, INC.",
+            "製造廠廠址": "1945 PALOMAR OAKS WAY, CARLSBAD, CA 92011, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MDK0031000  RADIOMETER MEDICAL APS",
+            "製造廠廠址": "AKANDEVEJ 21 DK-2700 BRONSHOJ DENMARK",
+            "製造廠公司地址": "",
+            "製造廠國別": "DENMARK",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

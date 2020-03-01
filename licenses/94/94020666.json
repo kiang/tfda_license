@@ -1,6 +1,6 @@
 {
     "code": "94020666",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020666",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020666",
     "time": "2020-02-26 12:46:21",
     "許可證字號": "衛部醫器輸壹字第020666號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6236172353  龐德生技有限公司",
     "申請商地址": "臺中市西屯區臺灣大道4段925號9樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MIT0366100  Diapath S.p.A.",
-        "製造廠廠址": "VIA SAVOLDINI, 71-24057 MARTINENGO (BG) ITALY.",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIT0366100  Diapath S.p.A.",
+            "製造廠廠址": "VIA SAVOLDINI, 71-24057 MARTINENGO (BG) ITALY.",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

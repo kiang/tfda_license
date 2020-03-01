@@ -1,6 +1,6 @@
 {
     "code": "08010089",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08010089",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08010089",
     "time": "2020-02-25 23:40:13",
     "許可證字號": "衛署粧輸字第010089號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6627331593  軟盟國際流行事業有限公司",
     "申請商地址": "新北市三重區重新路五段609巷8號2樓",
-    "主製造廠": {
-        "製造廠名稱": "CCH0002000  LABORATOIRES BIOLOGIQUES ARVAL S.A.",
-        "製造廠廠址": "CASE POSTALE 26 1951 SION SWITZERLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CCH0002000  LABORATOIRES BIOLOGIQUES ARVAL S.A.",
+            "製造廠廠址": "CASE POSTALE 26 1951 SION SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

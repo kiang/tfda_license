@@ -1,6 +1,6 @@
 {
     "code": "58024400",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58024400",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58024400",
     "time": "2020-02-26 09:42:22",
     "許可證字號": "衛部粧輸字第024400號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6222029303  宏宙企業有限公司",
     "申請商地址": "嘉義市西區劉宙里大義街70號1樓",
-    "主製造廠": {
-        "製造廠名稱": "CIT0159000  Pool Service Srl",
-        "製造廠廠址": "Via Siracusa n.8- Cairate(VA) Italy.",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CIT0159000  Pool Service Srl",
+            "製造廠廠址": "Via Siracusa n.8- Cairate(VA) Italy.",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

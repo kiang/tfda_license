@@ -1,6 +1,6 @@
 {
     "code": "94016337",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016337",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016337",
     "time": "2020-02-26 11:53:52",
     "許可證字號": "衛部醫器輸壹字第016337號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "0617201100  安頡儀器有限公司",
     "申請商地址": "台北市中山區民權西路27號5樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MDE1296000  WEBA MEDIZINTECHNIK",
-        "製造廠廠址": "BALGHEIM SCHLOSSACKERWEG 6\/1, 78582 BALGHEIM, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE1296000  WEBA MEDIZINTECHNIK",
+            "製造廠廠址": "BALGHEIM SCHLOSSACKERWEG 6\/1, 78582 BALGHEIM, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS3807000  INTEGRA YORK PA, INC.",
+            "製造廠廠址": "589 DAVIES DRIVE YORK, PA 17402 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

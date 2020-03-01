@@ -1,6 +1,6 @@
 {
     "code": "44001536",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44001536",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44001536",
     "time": "2020-02-26 04:26:40",
     "許可證字號": "衛署醫器輸壹字第001536號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0713318100  宏國醫療儀器有限公司",
     "申請商地址": "嘉義縣六腳鄉蘇厝村９７號",
-    "主製造廠": {
-        "製造廠名稱": "MDE0242000  ROLAND KOHLER MEDIZINTECHNIK GMBH &amp; CO., KG",
-        "製造廠廠址": "DANNINGEN 9, 78579, NEUHAUSEN, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0242000  ROLAND KOHLER MEDIZINTECHNIK GMBH &amp; CO., KG",
+            "製造廠廠址": "DANNINGEN 9, 78579, NEUHAUSEN, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

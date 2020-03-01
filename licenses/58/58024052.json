@@ -1,6 +1,6 @@
 {
     "code": "58024052",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58024052",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58024052",
     "time": "2020-02-26 09:39:51",
     "許可證字號": "衛部粧輸字第024052號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6622613616  銓優國際有限公司",
     "申請商地址": "台北市大同區南京西路163號2樓之35",
-    "主製造廠": {
-        "製造廠名稱": "CFR0213000  VIE COLLECTION",
-        "製造廠廠址": "61, rue du Commandant L’Herminier-35400 SAINT-MALO-France",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CFR0213000  VIE COLLECTION",
+            "製造廠廠址": "61, rue du Commandant L’Herminier-35400 SAINT-MALO-France",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

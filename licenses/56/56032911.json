@@ -1,6 +1,6 @@
 {
     "code": "56032911",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56032911",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56032911",
     "time": "2020-02-26 08:32:34",
     "許可證字號": "衛部醫器輸字第032911號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1234121100  惠興股份有限公司",
     "申請商地址": "高雄市苓雅區建民路21號",
-    "主製造廠": {
-        "製造廠名稱": "MDE1200000  TRACOE medical GmbH",
-        "製造廠廠址": "Reichelsheimer StraBe 1\/3 55268 Nieder-Olm\/Germany",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE1200000  TRACOE medical GmbH",
+            "製造廠廠址": "Reichelsheimer StraBe 1\/3 55268 Nieder-Olm\/Germany",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

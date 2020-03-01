@@ -1,6 +1,6 @@
 {
     "code": "44010458",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010458",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010458",
     "time": "2020-02-26 05:25:19",
     "許可證字號": "衛署醫器輸壹字第010458號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6236172353  龐德生技有限公司",
     "申請商地址": "台中市龍井區東海村藝術南街1巷7號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS2405100  LEICA BIOSYSTEMS RICHMOND INC.",
-        "製造廠廠址": "5205 ROUTE 12, RICHMOND, IL 60071 U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2405100  LEICA BIOSYSTEMS RICHMOND INC.",
+            "製造廠廠址": "5205 ROUTE 12, RICHMOND, IL 60071 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

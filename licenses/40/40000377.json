@@ -1,6 +1,6 @@
 {
     "code": "40000377",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=40000377",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=40000377",
     "time": "2020-02-26 03:08:39",
     "許可證字號": "衛署粧陸輸字第000377號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "1428601100  台灣萊雅股份有限公司",
     "申請商地址": "台北市信義區信義路五段7號22樓23樓",
-    "主製造廠": {
-        "製造廠名稱": "CCN0007000  BEAUTYCOS INTERNATIONAL CO., LTD.",
-        "製造廠廠址": "NO.22 ZI TENG STREET JIN JI HU ROAD, SUZHOU 215021 CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CCN0007000  BEAUTYCOS INTERNATIONAL CO., LTD.",
+            "製造廠廠址": "NO.22 ZI TENG STREET JIN JI HU ROAD, SUZHOU 215021 CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

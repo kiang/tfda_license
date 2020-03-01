@@ -1,6 +1,6 @@
 {
     "code": "08000568",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08000568",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08000568",
     "time": "2020-02-25 21:57:22",
     "許可證字號": "衛署粧輸字第000568號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0813701200  金燕企業有限公司",
     "申請商地址": "台北巿忠孝東路四段２８９號５樓之１",
-    "主製造廠": {
-        "製造廠名稱": "CJP0063000  SWALLOW CO., LTD.",
-        "製造廠廠址": "2-2-40 SHIBUKAWA-CHO HIGASHIOSAKA-CITY OSAKA JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0063000  SWALLOW CO., LTD.",
+            "製造廠廠址": "2-2-40 SHIBUKAWA-CHO HIGASHIOSAKA-CITY OSAKA JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

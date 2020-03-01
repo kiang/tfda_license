@@ -1,6 +1,6 @@
 {
     "code": "56031862",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031862",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031862",
     "time": "2020-02-26 08:25:58",
     "許可證字號": "衛部醫器輸字第031862號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201105353  大裕儀器有限公司",
     "申請商地址": "臺北市中山區中山北路一段92號4樓、4樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MJP0929000  OG Wellness Technologies CO., LTD., OKU FACTORY",
-        "製造廠廠址": "77 MUKOYAMA, OKU-CHO, SETOUCHI CITY, OKAYAMA PREF., 701-4233, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0929000  OG Wellness Technologies CO., LTD., OKU FACTORY",
+            "製造廠廠址": "77 MUKOYAMA, OKU-CHO, SETOUCHI CITY, OKAYAMA PREF., 701-4233, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MJP6266000  OG Wellness Technologies CO., Ltd",
+            "製造廠廠址": "1835-7 Miyoshi, Naka-ku, Okayama City, OKAYAMA Pref., 703-8261, Japan",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

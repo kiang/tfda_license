@@ -1,6 +1,6 @@
 {
     "code": "96003427",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003427",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003427",
     "time": "2020-02-26 13:10:18",
     "許可證字號": "衛部醫器陸輸壹字第003427號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP 40大陸生產",
     "申請商名稱": "620117N164  輔聚企業股份有限公司",
     "申請商地址": "臺北市信義區基隆路1段163號14樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MCN1196000  SHANGHAI SHUNLONG PTE CO., LTD.",
-        "製造廠廠址": "NO.259 JIUGAN ROAD, SIJING TOWN, SONGJIANG DISTRICT, SHANGHAI, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1196000  SHANGHAI SHUNLONG PTE CO., LTD.",
+            "製造廠廠址": "NO.259 JIUGAN ROAD, SIJING TOWN, SONGJIANG DISTRICT, SHANGHAI, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

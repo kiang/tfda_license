@@ -1,6 +1,6 @@
 {
     "code": "56026526",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026526",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026526",
     "time": "2020-02-26 07:35:45",
     "許可證字號": "衛部醫器輸字第026526號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "623106E132  立煬國際有限公司",
     "申請商地址": "新北市新莊區思源路601號6樓(A6室)",
-    "主製造廠": {
-        "製造廠名稱": "MUS2242100  BIOCHECK, INC.",
-        "製造廠廠址": "323 VINTAGE PARK DRIVE, FOSTER CITY, CA 94404 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2242100  BIOCHECK, INC.",
+            "製造廠廠址": "323 VINTAGE PARK DRIVE, FOSTER CITY, CA 94404 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS4191000  CRITICAL CARE DIAGNOSTICS, INC.",
+            "製造廠廠址": "3030 BUNKER HILL STREET, STE 117A SAN DIEGO, CA 92109, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

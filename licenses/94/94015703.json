@@ -1,6 +1,6 @@
 {
     "code": "94015703",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015703",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015703",
     "time": "2020-02-26 11:44:39",
     "許可證字號": "衛部醫器輸壹字第015703號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "1432901100  廣碩股份有限公司",
     "申請商地址": "台北市內湖區基湖路10巷48號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE0613100  ANDROMEDA MEDIZINISCHE SYSTEME GMBH",
-        "製造廠廠址": "WALLBERGSTR. 5, 82024 TAUFKIRCHEN\/POTZHAM, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0613100  ANDROMEDA MEDIZINISCHE SYSTEME GMBH",
+            "製造廠廠址": "WALLBERGSTR. 5, 82024 TAUFKIRCHEN\/POTZHAM, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

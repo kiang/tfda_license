@@ -1,6 +1,6 @@
 {
     "code": "56030820",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030820",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030820",
     "time": "2020-02-26 08:17:34",
     "許可證字號": "衛部醫器輸字第030820號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 1K安全監視\r\n                            \r\n                                (本產品依藥事法第45條規定列入安全監視，請使用單位配合執行監視項目並提供所得資料予許可證持有商)",
     "申請商名稱": "620110S309  稚庭企業股份有限公司",
     "申請商地址": "臺北市大安區敦化南路2段180號8樓",
-    "主製造廠": {
-        "製造廠名稱": "MES0079000  Desarrollo e Investigaci&#243;n M&#233;dica Aragonesa S.L.",
-        "製造廠廠址": "Pol&#237;gono Industrial Mediavega, parcela 2.8, 50300, Calatayud, Zaragoza, Spain",
-        "製造廠公司地址": "",
-        "製造廠國別": "SPAIN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MES0079000  Desarrollo e Investigaci&#243;n M&#233;dica Aragonesa S.L.",
+            "製造廠廠址": "Pol&#237;gono Industrial Mediavega, parcela 2.8, 50300, Calatayud, Zaragoza, Spain",
+            "製造廠公司地址": "",
+            "製造廠國別": "SPAIN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

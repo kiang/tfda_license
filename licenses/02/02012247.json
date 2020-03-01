@@ -1,11 +1,12 @@
 {
     "code": "02012247",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02012247",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02012247",
     "time": "2020-02-25 10:06:05",
     "許可證字號": "衛署藥輸字第012247號",
     "註銷狀態": "已註銷",
     "註銷日期": "90\/10\/17",
     "註銷理由": "醫藥事法第97條定",
+    "製造許可登錄編號": "",
     "有效日期": "93\/02\/15",
     "發證日期": "88\/02\/08",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "0822101100  芳鑫貿易有限公司",
-        "申請商地址": "台北巿南京西路１號６樓６０１室",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "LIVER CONC., LIVER DESICCATED, LIVER FRACTION II, METHIONINE, CHOLINE BITARTRATE, VITAMIN A PALMITATE, BIOTIN, NIACINAMIDE (NICOTINAMIDE), THIAMINE MONONITRATE, RIBOFLAVIN (VIT B2), PYRIDOXINE HCL, VITAMIN B12 (CYANOCOBALAMIN 1%), FOLIC ACID, PANTOTHENATE CALCIUM, INOSITOL (MESO-INOSITOL), VITAMIN C (ROSE HIPS EXTRACT), VITAMIN E (ACETATE), ZINC SULFATE",
+    "限制項目": "02輸　入",
+    "申請商名稱": "0822101100  芳鑫貿易有限公司",
+    "申請商地址": "台北巿南京西路１號６樓６０１室",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FUS0116000  MARLYN CO., INC.",
+            "製造廠廠址": "18261 ENTERPRISE LANE ,BLDG A HUNTINGTA BEACH.CA 92648",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [

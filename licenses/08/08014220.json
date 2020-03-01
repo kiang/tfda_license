@@ -1,6 +1,6 @@
 {
     "code": "08014220",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08014220",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08014220",
     "time": "2020-02-26 00:21:10",
     "許可證字號": "衛署粧輸字第014220號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6627565418  八方行銷股份有限公司",
     "申請商地址": "台北市松山區南京東路４段５２巷３號１樓",
-    "主製造廠": {
-        "製造廠名稱": "CMC0005000  COTY-LANCASTER SAM",
-        "製造廠廠址": "6 AVENUE ALBERT II MC 98000 MONACO",
-        "製造廠公司地址": "",
-        "製造廠國別": "MONACO",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CMC0005000  COTY-LANCASTER SAM",
+            "製造廠廠址": "6 AVENUE ALBERT II MC 98000 MONACO",
+            "製造廠公司地址": "",
+            "製造廠國別": "MONACO",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

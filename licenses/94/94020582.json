@@ -1,6 +1,6 @@
 {
     "code": "94020582",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020582",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020582",
     "time": "2020-02-26 12:45:28",
     "許可證字號": "衛部醫器輸壹字第020582號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620101S417  新加坡商康威特股份有限公司台灣分公司",
     "申請商地址": "臺北市松山區復興北路57號5樓之4",
-    "主製造廠": {
-        "製造廠名稱": "MDE1589000  For Life Produktions- und Vertriebsgessellschaft f&#252;r Heil- und Hilfsmittel mbh",
-        "製造廠廠址": "Wendenscholoβstraβe 142, D-12557 Berlin, Germany",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE1589000  For Life Produktions- und Vertriebsgessellschaft f&#252;r Heil- und Hilfsmittel mbh",
+            "製造廠廠址": "Wendenscholoβstraβe 142, D-12557 Berlin, Germany",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MGB0177200  ConvaTec Limited",
+            "製造廠廠址": "First Avenue, Deeside Industrial Park Deeside, Flintshire, CH52NU, UK",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

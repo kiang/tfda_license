@@ -1,6 +1,6 @@
 {
     "code": "94014150",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014150",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014150",
     "time": "2020-02-26 11:23:12",
     "許可證字號": "衛部醫器輸壹字第014150號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0835901100  長杏股份有限公司",
     "申請商地址": "台北市松山區慶城街54號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS2101000  BIO MED SCIENCES, INC.",
-        "製造廠廠址": "7584 MORRIS COURT SUITE 218 ALLENTOWN, PA 18106, U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2101000  BIO MED SCIENCES, INC.",
+            "製造廠廠址": "7584 MORRIS COURT SUITE 218 ALLENTOWN, PA 18106, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

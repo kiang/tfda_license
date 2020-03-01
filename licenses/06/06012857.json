@@ -1,6 +1,6 @@
 {
     "code": "06012857",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06012857",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06012857",
     "time": "2020-02-25 18:32:08",
     "許可證字號": "衛署醫器輸字第012857號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231054912  大宮國際有限公司",
     "申請商地址": "新北市新店區民權路90巷35號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MTH0105100  Thai Nippon Rubber Industry Public Company Limited",
-        "製造廠廠址": "789\/139, Pinthong Industrial Estate Building, Moo 1, Nongkham, Sriracha, Chonburi 20110 Thailand",
-        "製造廠公司地址": "",
-        "製造廠國別": "THAILAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MTH0105100  Thai Nippon Rubber Industry Public Company Limited",
+            "製造廠廠址": "789\/139, Pinthong Industrial Estate Building, Moo 1, Nongkham, Sriracha, Chonburi 20110 Thailand",
+            "製造廠公司地址": "",
+            "製造廠國別": "THAILAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

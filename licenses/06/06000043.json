@@ -1,6 +1,6 @@
 {
     "code": "06000043",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06000043",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06000043",
     "time": "2020-02-25 15:17:14",
     "許可證字號": "衛署醫器輸字第000043號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1314201100  福德行照相器材圖書儀器貿易股份有限公司",
     "申請商地址": "台北巿重慶南路一段１４７號４Ｆ",
-    "主製造廠": {
-        "製造廠名稱": "MDE0002000  AGFA-GERAERT N.V.",
-        "製造廠廠址": "SEPTESTRAAT 27, B-2510 MORTSEL W. GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0002000  AGFA-GERAERT N.V.",
+            "製造廠廠址": "SEPTESTRAAT 27, B-2510 MORTSEL W. GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

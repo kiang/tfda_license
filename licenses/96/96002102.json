@@ -1,6 +1,6 @@
 {
     "code": "96002102",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002102",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002102",
     "time": "2020-02-26 12:56:03",
     "許可證字號": "衛部醫器陸輸壹字第002102號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 40大陸生產",
     "申請商名稱": "620115D573  御臨生醫科技發展有限公司",
     "申請商地址": "臺北市中山區民權東路二段148號3樓(01室)",
-    "主製造廠": {
-        "製造廠名稱": "MCN1296100  SHANDONG SINORGMED CO., LTD.",
-        "製造廠廠址": "NO. 1188, JINAN ROAD, HEZE DEVELOPMENT AREA, SHANDONG ,CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1296100  SHANDONG SINORGMED CO., LTD.",
+            "製造廠廠址": "NO. 1188, JINAN ROAD, HEZE DEVELOPMENT AREA, SHANDONG ,CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MCN1306000  J-MEDICAL CO., LTD.",
+            "製造廠廠址": "ROOM 1603, NO. 1279, DINGXI ROAD, CHANGNING DISTRICT, SHANGHAI, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

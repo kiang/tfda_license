@@ -1,6 +1,6 @@
 {
     "code": "46001520",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001520",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001520",
     "time": "2020-02-26 06:07:54",
     "許可證字號": "衛署醫器陸輸壹字第001520號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP 40大陸生產",
     "申請商名稱": "2001410200  騰旺股份有限公司",
     "申請商地址": "彰化縣二水鄉員集路一段410號",
-    "主製造廠": {
-        "製造廠名稱": "MCN0655000  JIANGYAN YONGHONG SURGICAL DRESSING CO., LTD.",
-        "製造廠廠址": "YUNXI VILLAGE DALUN TOWN, 225533 JIANGYAN, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0655000  JIANGYAN YONGHONG SURGICAL DRESSING CO., LTD.",
+            "製造廠廠址": "YUNXI VILLAGE DALUN TOWN, 225533 JIANGYAN, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

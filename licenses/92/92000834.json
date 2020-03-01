@@ -1,6 +1,6 @@
 {
     "code": "92000834",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000834",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000834",
     "time": "2020-02-26 10:14:44",
     "許可證字號": "衛部醫器陸輸字第000834號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 14輸入須附同意書（每次輸入均須取得原子能委員會之同意書為憑） 40大陸生產",
     "申請商名稱": "6203282380  西門子醫療設備股份有限公司",
     "申請商地址": "台北市南港區園區街3號2樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MCN0007000  SIEMENS SHANGHAI  MEDICAL EQUIPMENT LTD.",
-        "製造廠廠址": "278 ZHOU ZHU ROAD SHANGHAI,CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0007000  SIEMENS SHANGHAI  MEDICAL EQUIPMENT LTD.",
+            "製造廠廠址": "278 ZHOU ZHU ROAD SHANGHAI,CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MDE1321000  Siemens Healthcare GmbH",
+            "製造廠廠址": "Henkestr. 127, 91052 Erlangen , Germany",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "06006097",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06006097",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06006097",
     "time": "2020-02-25 17:04:19",
     "許可證字號": "衛署醫器輸字第006097號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1426402100  臺灣柏朗股份有限公司",
     "申請商地址": "台北市中山區南京東路三段132號11樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE0005000  B. BRAUN MELSUNGEN AG.",
-        "製造廠廠址": "CARL-BRAUN-STRASSE 1, D-34212 MELSUNGEN GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0005000  B. BRAUN MELSUNGEN AG.",
+            "製造廠廠址": "CARL-BRAUN-STRASSE 1, D-34212 MELSUNGEN GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

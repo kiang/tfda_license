@@ -1,6 +1,6 @@
 {
     "code": "44008287",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008287",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008287",
     "time": "2020-02-26 05:04:50",
     "許可證字號": "衛署醫器輸壹字第008287號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "01國　產",
     "申請商名稱": "620102Q811  弘采介護有限公司",
     "申請商地址": "新北市新店區中正路501之6號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MSE0091000  ROMEDIC AB",
-        "製造廠廠址": "BOX 640, VEDDESTAVAGEN 15, SE-17527, JARFALLA, SWEDEN",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWEDEN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MSE0091000  ROMEDIC AB",
+            "製造廠廠址": "BOX 640, VEDDESTAVAGEN 15, SE-17527, JARFALLA, SWEDEN",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWEDEN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

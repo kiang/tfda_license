@@ -1,6 +1,6 @@
 {
     "code": "44010612",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010612",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010612",
     "time": "2020-02-26 05:26:52",
     "許可證字號": "衛署醫器輸壹字第010612號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6236141090  佳鴻醫療儀器廠有限公司",
     "申請商地址": "台中市大安區西安村南北八路57巷38號",
-    "主製造廠": {
-        "製造廠名稱": "MSG0081000  EAKOH ENTERPRISE",
-        "製造廠廠址": "BLOCK 212, HOUGANG STREET 21, #03-349, SINGAPORE",
-        "製造廠公司地址": "",
-        "製造廠國別": "SINGAPORE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MSG0081000  EAKOH ENTERPRISE",
+            "製造廠廠址": "BLOCK 212, HOUGANG STREET 21, #03-349, SINGAPORE",
+            "製造廠公司地址": "",
+            "製造廠國別": "SINGAPORE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

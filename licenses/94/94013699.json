@@ -1,6 +1,6 @@
 {
     "code": "94013699",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013699",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013699",
     "time": "2020-02-26 11:16:26",
     "許可證字號": "衛部醫器輸壹字第013699號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6608381011  妮新國際股份有限公司",
     "申請商地址": "台北市中山區新生北路二段33巷9號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MCH0221100  REGEN LAB SA",
-        "製造廠廠址": "EN BUDRON B2, CH-1052 LE MONT SUR LAUSANNE SWITZERLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCH0221100  REGEN LAB SA",
+            "製造廠廠址": "EN BUDRON B2, CH-1052 LE MONT SUR LAUSANNE SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "94014297",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014297",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014297",
     "time": "2020-02-26 11:25:25",
     "許可證字號": "衛部醫器輸壹字第014297號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6231145605  集賢生技顧問有限公司",
     "申請商地址": "新北市蘆洲區集賢路224巷39號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MMY0144000  Texchem Pack (Bangi) SDN BHD",
-        "製造廠廠址": "Lot 3, Jalan P\/6, Kawasan Perindustrian Bangi, 43650 Bandar Baru Bangi, Selangor, Malaysia",
-        "製造廠公司地址": "",
-        "製造廠國別": "MALAYSIA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMY0144000  Texchem Pack (Bangi) SDN BHD",
+            "製造廠廠址": "Lot 3, Jalan P\/6, Kawasan Perindustrian Bangi, 43650 Bandar Baru Bangi, Selangor, Malaysia",
+            "製造廠公司地址": "",
+            "製造廠國別": "MALAYSIA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MGB0926000  ADLENS LTD.",
+            "製造廠廠址": "KING CHARLES HOUSE, PARK END STREET, OXFORD, OX1 1JD, UNITED KINGDOM",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

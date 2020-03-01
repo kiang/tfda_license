@@ -1,6 +1,6 @@
 {
     "code": "44013223",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44013223",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44013223",
     "time": "2020-02-26 05:52:29",
     "許可證字號": "衛署醫器輸壹字第013223號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201029161  歐維企業有限公司",
     "申請商地址": "新北市新店區中正路501-6號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MSE0118000  ARJOHUNTLEIGH AB",
-        "製造廠廠址": "BOX 61, VERKSTADSVAGEN 5, SE-241 21 ESLOV, SWEDEN",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWEDEN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MSE0118000  ARJOHUNTLEIGH AB",
+            "製造廠廠址": "BOX 61, VERKSTADSVAGEN 5, SE-241 21 ESLOV, SWEDEN",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWEDEN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

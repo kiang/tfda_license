@@ -1,6 +1,6 @@
 {
     "code": "46001840",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001840",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001840",
     "time": "2020-02-26 06:10:44",
     "許可證字號": "衛署醫器陸輸壹字第001840號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6231059186  志及實業有限公司",
     "申請商地址": "新北市新店區寶橋路152號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1139000  GUANGZHOU RENFU MEDICAL EQUIPMENT CO., LTD",
-        "製造廠廠址": "UNIT 1, NO.2 ZHIYE ROAD, DALONG STREET, PANYU DISTRICT, GUANGZHOU, 511450, MAINLAND CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1139000  GUANGZHOU RENFU MEDICAL EQUIPMENT CO., LTD",
+            "製造廠廠址": "UNIT 1, NO.2 ZHIYE ROAD, DALONG STREET, PANYU DISTRICT, GUANGZHOU, 511450, MAINLAND CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

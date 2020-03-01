@@ -1,6 +1,6 @@
 {
     "code": "06006845",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06006845",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06006845",
     "time": "2020-02-25 17:16:20",
     "許可證字號": "衛署醫器輸字第006845號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0929601100  美商康穗股份有限公司台灣分公司",
     "申請商地址": "台北巿民權東路三段６號１５樓",
-    "主製造廠": {
-        "製造廠名稱": "MAU0021000  DELTA WEST PTY. LTD.",
-        "製造廠廠址": "15 BRODIE HALL DRIVE TECHNOLOGY PARK, BENTLEY WESTERN AUSTRALIA 6102",
-        "製造廠公司地址": "",
-        "製造廠國別": "AUSTRALIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MAU0021000  DELTA WEST PTY. LTD.",
+            "製造廠廠址": "15 BRODIE HALL DRIVE TECHNOLOGY PARK, BENTLEY WESTERN AUSTRALIA 6102",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRALIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

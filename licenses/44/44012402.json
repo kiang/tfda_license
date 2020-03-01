@@ -1,6 +1,6 @@
 {
     "code": "44012402",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012402",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012402",
     "time": "2020-02-26 05:44:25",
     "許可證字號": "衛署醫器輸壹字第012402號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201094275  知實貿易有限公司",
     "申請商地址": "台北市大同區民權西路267號(實際營業地址:1樓)",
-    "主製造廠": {
-        "製造廠名稱": "MGB0224000  PRIMA DENTAL GROUP",
-        "製造廠廠址": "9, MADLEAZE ESTATE, BRISTOL ROAD, GLOUCESTER, GL1 5SG, ENGLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0224000  PRIMA DENTAL GROUP",
+            "製造廠廠址": "9, MADLEAZE ESTATE, BRISTOL ROAD, GLOUCESTER, GL1 5SG, ENGLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

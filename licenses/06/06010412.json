@@ -1,6 +1,6 @@
 {
     "code": "06010412",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010412",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010412",
     "time": "2020-02-25 18:03:51",
     "許可證字號": "衛署醫器輸字第010412號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1316201100  瑞帝股份有限公司",
     "申請商地址": "台北市中山區民生東路二段174號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS0362300  OHMEDA MEDICAL,DIVISION OF DATEX-OHMEDA, INC.",
-        "製造廠廠址": "8880 GORMAN ROAD,LAUREL,MD 20723,U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0362300  OHMEDA MEDICAL,DIVISION OF DATEX-OHMEDA, INC.",
+            "製造廠廠址": "8880 GORMAN ROAD,LAUREL,MD 20723,U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

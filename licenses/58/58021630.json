@@ -1,6 +1,6 @@
 {
     "code": "58021630",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58021630",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58021630",
     "time": "2020-02-26 09:07:05",
     "許可證字號": "衛部粧輸字第021630號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "620102O200  英屬維爾京群島商莎莎國際股份有限公司台北分公司",
     "申請商地址": "台北市大安區忠孝東路四段49巷4弄18號1樓",
-    "主製造廠": {
-        "製造廠名稱": "CUS0207000  DIAMOND WIPES INTERNATIONAL, INC.",
-        "製造廠廠址": "4200 E. MISSION BLVD, ONTARIO. CA 91761, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CUS0207000  DIAMOND WIPES INTERNATIONAL, INC.",
+            "製造廠廠址": "4200 E. MISSION BLVD, ONTARIO. CA 91761, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

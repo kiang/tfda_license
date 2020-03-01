@@ -1,6 +1,6 @@
 {
     "code": "40000134",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=40000134",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=40000134",
     "time": "2020-02-26 03:06:40",
     "許可證字號": "衛署粧陸輸字第000134號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "0621501200  好來化工股份有限公司",
     "申請商地址": "台北市松山區敦化南路1段2號9樓",
-    "主製造廠": {
-        "製造廠名稱": "CCN0008000  COLGATE-PALMOLIVE (GUANGZHOU) CO., LTD.",
-        "製造廠廠址": "338 QING NIAN ROAD, GETDD, GUANGZHOU, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CCN0008000  COLGATE-PALMOLIVE (GUANGZHOU) CO., LTD.",
+            "製造廠廠址": "338 QING NIAN ROAD, GETDD, GUANGZHOU, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

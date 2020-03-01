@@ -1,11 +1,12 @@
 {
     "code": "02011973",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02011973",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02011973",
     "time": "2020-02-25 10:02:06",
     "許可證字號": "衛署藥輸字第011973號",
     "註銷狀態": "已註銷",
     "註銷日期": "91\/01\/14",
     "註銷理由": "依藥事法第九十七條規定",
+    "製造許可登錄編號": "",
     "有效日期": "93\/11\/18",
     "發證日期": "89\/02\/09",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "1603811100  熹樂企業有限公司",
-        "申請商地址": "彰化縣彰化市東芳里彰鹿路１０８號一號",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "MANGANESE (SULFATE), PHOSPHORUS (DICALCIUM PHOSPHATE), CALCIUM (DICALCIUM PHOSPHATE), IRON, IODINE (POTASSIUM), MAGNESIUM (SULFATE), POTASSIUM (SULFATE), CHOLINE BITARTRATE, VITAMIN A PALMITATE, BIOTIN, NIACINAMIDE (NICOTINAMIDE), THIAMINE (VITAMIN B1), RIBOFLAVIN (VIT B2), PYRIDOXINE(VITAMIN B6), CYANOCOBALAMIN (VIT B12), PANTOTHENIC ACID, INOSITOL (MESO-INOSITOL), ASCORBIC ACID (VIT C), VITAMIN D (ERGOCALCIFEROL), TOCOPHEROL (ACETATE ALPHA DL- ), ZINC (ZINC SULFATE)",
+    "限制項目": "02輸　入",
+    "申請商名稱": "1603811100  熹樂企業有限公司",
+    "申請商地址": "彰化縣彰化市東芳里彰鹿路１０８號一號",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FUS0147000  PHARMACHEM CORP.",
+            "製造廠廠址": "12801 WENTWORTH STREET ARLETA, CALIFONIA 91331",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [

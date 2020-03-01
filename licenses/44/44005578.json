@@ -1,6 +1,6 @@
 {
     "code": "44005578",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44005578",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44005578",
     "time": "2020-02-26 04:46:47",
     "許可證字號": "衛署醫器輸壹字第005578號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0908301100  信正儀器有限公司",
     "申請商地址": "桃園市龜山區新路村中和南路195號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MGB0335000  KK TECHNOLOGY LTD.",
-        "製造廠廠址": "SWEETING HOUSE, 151 HIGH ST. HONITON, DEVON EX14 1LJ UK",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0335000  KK TECHNOLOGY LTD.",
+            "製造廠廠址": "SWEETING HOUSE, 151 HIGH ST. HONITON, DEVON EX14 1LJ UK",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

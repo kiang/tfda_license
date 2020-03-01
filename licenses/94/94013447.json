@@ -1,6 +1,6 @@
 {
     "code": "94013447",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013447",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013447",
     "time": "2020-02-26 11:12:38",
     "許可證字號": "衛部醫器輸壹字第013447號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6203280895  龐偉國際實業股份有限公司",
     "申請商地址": "臺中市南屯區大進街490號2樓之4",
-    "主製造廠": {
-        "製造廠名稱": "MIT0270000  QUATTROTI S.R.L.",
-        "製造廠廠址": "VIA MAESTRI DEL LAVORO, 120-21040 CISLAGO (VA), ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIT0270000  QUATTROTI S.R.L.",
+            "製造廠廠址": "VIA MAESTRI DEL LAVORO, 120-21040 CISLAGO (VA), ITALY",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "56029665",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029665",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029665",
     "time": "2020-02-26 08:07:13",
     "許可證字號": "衛部醫器輸字第029665號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "1439301100  美敦力醫療產品股份有限公司",
     "申請商地址": "台北市松山區敦化南路一段2號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MCR0015000  VENTION MEDICAL COSTA RICA",
-        "製造廠廠址": "PARQUE ZONA FRANCA METROPOLITANA EDIFICIO 2C BARREAL DE HEREDIA 40101 COSTA RICA",
-        "製造廠公司地址": "",
-        "製造廠國別": "COSTA RICA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCR0015000  VENTION MEDICAL COSTA RICA",
+            "製造廠廠址": "PARQUE ZONA FRANCA METROPOLITANA EDIFICIO 2C BARREAL DE HEREDIA 40101 COSTA RICA",
+            "製造廠公司地址": "",
+            "製造廠國別": "COSTA RICA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS3159000  MEDTRONIC, INC.",
+            "製造廠廠址": "710 MEDTRONIC PARKWAY NE MINNEAPOLIS, MN55432, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

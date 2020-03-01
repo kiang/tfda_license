@@ -1,6 +1,6 @@
 {
     "code": "08014272",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08014272",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08014272",
     "time": "2020-02-26 00:21:43",
     "許可證字號": "衛署粧輸字第014272號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102Q875  韓商三世保股份有限公司台灣分公司",
     "申請商地址": "台北市大安區敦化南路2段200巷16號7樓",
-    "主製造廠": {
-        "製造廠名稱": "CKR0036000  NOWCOS CO., LTD",
-        "製造廠廠址": "623, SINJUNGRI, JUNYIMYEON, YEONKIKUN, CHUNG CHEONG NAM DO, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CKR0036000  NOWCOS CO., LTD",
+            "製造廠廠址": "623, SINJUNGRI, JUNYIMYEON, YEONKIKUN, CHUNG CHEONG NAM DO, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

@@ -1,6 +1,6 @@
 {
     "code": "06019700",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019700",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019700",
     "time": "2020-02-25 19:49:58",
     "許可證字號": "衛署醫器輸字第019700號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1500201100  德業聚股份有限公司",
     "申請商地址": "台北市內湖區瑞光路４３７號４樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS2983000  ELECTROMED, INC.",
-        "製造廠廠址": "502 SIXTH AVE NW, NEW PRAGUE, MN 56071, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2983000  ELECTROMED, INC.",
+            "製造廠廠址": "502 SIXTH AVE NW, NEW PRAGUE, MN 56071, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

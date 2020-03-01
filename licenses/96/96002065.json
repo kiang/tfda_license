@@ -1,6 +1,6 @@
 {
     "code": "96002065",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002065",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002065",
     "time": "2020-02-26 12:55:36",
     "許可證字號": "衛部醫器陸輸壹字第002065號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP 40大陸生產",
     "申請商名稱": "620111D588  啟鼎生物科技股份有限公司",
     "申請商地址": "臺北市內湖區內湖路一段68號7樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1277000  GUANGDONG HYBRIBIO BIOTECH CO., LTD.",
-        "製造廠廠址": "D5-3-3-4, DEVELOPMENT EXPERIMENTAL ZONE, CHAOZHOU, GUANGDONG, 521000, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1277000  GUANGDONG HYBRIBIO BIOTECH CO., LTD.",
+            "製造廠廠址": "D5-3-3-4, DEVELOPMENT EXPERIMENTAL ZONE, CHAOZHOU, GUANGDONG, 521000, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

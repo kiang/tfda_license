@@ -1,6 +1,6 @@
 {
     "code": "44005350",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44005350",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44005350",
     "time": "2020-02-26 04:45:32",
     "許可證字號": "衛署醫器輸壹字第005350號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231031455  台灣可威有限公司",
     "申請商地址": "新北市中和區中山路二段296號11樓之7、之8",
-    "主製造廠": {
-        "製造廠名稱": "MJP0298000  ITO CO., LTD. NERIMA FACTORY",
-        "製造廠廠址": "3-2 TOYOTAMA-MINAMI, NERIMA-KU, TOKYO, 176-8605 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0298000  ITO CO., LTD. NERIMA FACTORY",
+            "製造廠廠址": "3-2 TOYOTAMA-MINAMI, NERIMA-KU, TOKYO, 176-8605 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

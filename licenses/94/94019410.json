@@ -1,6 +1,6 @@
 {
     "code": "94019410",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019410",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019410",
     "time": "2020-02-26 12:33:29",
     "許可證字號": "衛部醫器輸壹字第019410號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6202097617  承恩醫療器材有限公司",
     "申請商地址": "高雄市前金區光復三街218號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP1016000  SATOU DENTAL MATERIAL CO., LTD.",
-        "製造廠廠址": "1-15-3, HIGASHIUENO, TAITO-KU, TOKYO 110-0015, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP1016000  SATOU DENTAL MATERIAL CO., LTD.",
+            "製造廠廠址": "1-15-3, HIGASHIUENO, TAITO-KU, TOKYO 110-0015, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "08004451",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08004451",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08004451",
     "time": "2020-02-25 22:39:35",
     "許可證字號": "衛署粧輸字第004451號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6696869529  花儷有限公司",
     "申請商地址": "台中市南屯區向心南路905巷21號1樓",
-    "主製造廠": {
-        "製造廠名稱": "CIT0002100  GVF S.R.L.",
-        "製造廠廠址": "LOCALITA VALLOMBROSA-20082 VERNATE MILAN ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CIT0002100  GVF S.R.L.",
+            "製造廠廠址": "LOCALITA VALLOMBROSA-20082 VERNATE MILAN ITALY",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

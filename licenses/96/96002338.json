@@ -1,6 +1,6 @@
 {
     "code": "96002338",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002338",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002338",
     "time": "2020-02-26 12:58:46",
     "許可證字號": "衛部醫器陸輸壹字第002338號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6201113556  創睿企業股份有限公司",
     "申請商地址": "台北市信義區光復南路495號2樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MCN1171100  XIAMEN DAHTON MEDITECH CO., LTD.",
-        "製造廠廠址": "2F, NO.316 SIMING YUAN, TONGAN INDUSTRIAL CLUSTER, XIAMEN CITY PRC",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1171100  XIAMEN DAHTON MEDITECH CO., LTD.",
+            "製造廠廠址": "2F, NO.316 SIMING YUAN, TONGAN INDUSTRIAL CLUSTER, XIAMEN CITY PRC",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

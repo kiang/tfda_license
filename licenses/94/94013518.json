@@ -1,6 +1,6 @@
 {
     "code": "94013518",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013518",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013518",
     "time": "2020-02-26 11:13:45",
     "許可證字號": "衛部醫器輸壹字第013518號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231037288  晶禾國際有限公司",
     "申請商地址": "新北市永和區保生路22巷14號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE1144000  BLUE BELL COSMETIC GMBH",
-        "製造廠廠址": "WOHRMANNSTR. 15 47546 KALKAR (KEHRUM), GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE1144000  BLUE BELL COSMETIC GMBH",
+            "製造廠廠址": "WOHRMANNSTR. 15 47546 KALKAR (KEHRUM), GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

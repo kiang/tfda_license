@@ -1,6 +1,6 @@
 {
     "code": "56029921",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029921",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029921",
     "time": "2020-02-26 08:09:27",
     "許可證字號": "衛部醫器輸字第029921號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6401101591  瑞士商艾伯維藥品有限公司台灣分公司",
     "申請商地址": "台北市中山區民生東路三段49號及51號15樓",
-    "主製造廠": {
-        "製造廠名稱": "MPL0014000  CLINICO MEDICAL SP. Z.O.O. BLONIE K\/WROCLAWIA",
-        "製造廠廠址": "UL. ROBERTA KOCHA 1, 55-330 BLONIE\/MIEKINIA POLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "POLAND",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MPL0014000  CLINICO MEDICAL SP. Z.O.O. BLONIE K\/WROCLAWIA",
+            "製造廠廠址": "UL. ROBERTA KOCHA 1, 55-330 BLONIE\/MIEKINIA POLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "POLAND",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "FDE0598000  AbbVie Deutschland GmbH &amp; CO. KG",
+            "製造廠廠址": "Knollstrasse 67061 Ludwigshafen,Germany",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

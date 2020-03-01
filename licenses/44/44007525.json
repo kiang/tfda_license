@@ -1,6 +1,6 @@
 {
     "code": "44007525",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007525",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007525",
     "time": "2020-02-26 04:59:39",
     "許可證字號": "衛署醫器輸壹字第007525號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1225401100  森昌有限公司",
     "申請商地址": "台北市松山區復興北路369號8樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS2532000  VENOSCOPE, L.L.C.",
-        "製造廠廠址": "1018 HARDING STREET, SUITE 104 LAFAYETTE, LA 70503, U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2532000  VENOSCOPE, L.L.C.",
+            "製造廠廠址": "1018 HARDING STREET, SUITE 104 LAFAYETTE, LA 70503, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

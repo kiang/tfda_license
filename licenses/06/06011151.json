@@ -1,6 +1,6 @@
 {
     "code": "06011151",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06011151",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06011151",
     "time": "2020-02-25 18:12:44",
     "許可證字號": "衛署醫器輸字第011151號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0517701100  世新儀器有限公司",
     "申請商地址": "台北市松江路２２１巷１９號",
-    "主製造廠": {
-        "製造廠名稱": "MJP0188100  CREATE MEDICCO., LTD. HOKKAIDO PLANT",
-        "製造廠廠址": "12-49 OKAYAMA-CHO IWAMIZAWA-SHI, HOKKAIDO 079-0181, JAPAN",
-        "製造廠公司地址": "2-5-25, CHIGASAKIMINAMI TSUZUKI-KU, YOKOHAMA KANAGAWA 224-0037, JAPAN",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0188100  CREATE MEDICCO., LTD. HOKKAIDO PLANT",
+            "製造廠廠址": "12-49 OKAYAMA-CHO IWAMIZAWA-SHI, HOKKAIDO 079-0181, JAPAN",
+            "製造廠公司地址": "2-5-25, CHIGASAKIMINAMI TSUZUKI-KU, YOKOHAMA KANAGAWA 224-0037, JAPAN",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

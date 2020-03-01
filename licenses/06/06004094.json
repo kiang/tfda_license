@@ -1,6 +1,6 @@
 {
     "code": "06004094",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06004094",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06004094",
     "time": "2020-02-25 16:28:05",
     "許可證字號": "衛署醫器輸字第004094號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1301401100  瑞士商必凱國際股份有限公司台灣分公司",
     "申請商地址": "台北巿民權東路６００號１３Ｆ之３，４，５室",
-    "主製造廠": {
-        "製造廠名稱": "MDK0003100  BRUEL &amp; KJAER",
-        "製造廠廠址": "18 NAERUM HOVEDGADE 2850 NAERUM DENMARK",
-        "製造廠公司地址": "",
-        "製造廠國別": "DENMARK",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDK0003100  BRUEL &amp; KJAER",
+            "製造廠廠址": "18 NAERUM HOVEDGADE 2850 NAERUM DENMARK",
+            "製造廠公司地址": "",
+            "製造廠國別": "DENMARK",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "44010077",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010077",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010077",
     "time": "2020-02-26 05:21:34",
     "許可證字號": "衛署醫器輸壹字第010077號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623111C786  科正國際健康事業有限公司",
     "申請商地址": "新北市汐止區大同路二段145號7樓",
-    "主製造廠": {
-        "製造廠名稱": "MBR0021000  Johnson &amp; Johson IND. E Com. LTDA",
-        "製造廠廠址": "PO Box 1684 KM 154 San Jose dos Campos CEP 12237-350ao Paulo Brazil",
-        "製造廠公司地址": "",
-        "製造廠國別": "BRAZIL",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MBR0021000  Johnson &amp; Johson IND. E Com. LTDA",
+            "製造廠廠址": "PO Box 1684 KM 154 San Jose dos Campos CEP 12237-350ao Paulo Brazil",
+            "製造廠公司地址": "",
+            "製造廠國別": "BRAZIL",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "56028600",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028600",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028600",
     "time": "2020-02-26 07:56:58",
     "許可證字號": "衛部醫器輸字第028600號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201118878  冠亞生技股份有限公司",
     "申請商地址": "新北市永和區成功路1段80號20樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0528000  HANS BIOMED CORP.",
-        "製造廠廠址": "64, Yuseong-daero 1628 beon-gil, Yuseong-gu, Daejeon, Koera",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0528000  HANS BIOMED CORP.",
+            "製造廠廠址": "64, Yuseong-daero 1628 beon-gil, Yuseong-gu, Daejeon, Koera",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

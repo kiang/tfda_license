@@ -1,6 +1,6 @@
 {
     "code": "08007715",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08007715",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08007715",
     "time": "2020-02-25 23:14:51",
     "許可證字號": "衛署粧輸字第007715號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1440001100  臺侑企業有限公司",
     "申請商地址": "臺北市信義區林口街134號1樓",
-    "主製造廠": {
-        "製造廠名稱": "CIN0001000  RADICO",
-        "製造廠廠址": "Unti-I：Sector-17 Faridabad-121002 india and unit-II：129 G-6 &amp; 7 Noida Special Economic Zone Noida Dadri Road Phase-II Noida-201305 India",
-        "製造廠公司地址": "",
-        "製造廠國別": "INDIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CIN0001000  RADICO",
+            "製造廠廠址": "Unti-I：Sector-17 Faridabad-121002 india and unit-II：129 G-6 &amp; 7 Noida Special Economic Zone Noida Dadri Road Phase-II Noida-201305 India",
+            "製造廠公司地址": "",
+            "製造廠國別": "INDIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

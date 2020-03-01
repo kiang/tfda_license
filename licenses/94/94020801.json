@@ -1,6 +1,6 @@
 {
     "code": "94020801",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020801",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020801",
     "time": "2020-02-26 12:47:22",
     "許可證字號": "衛部醫器輸壹字第020801號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6207341264  佳翟國際有限公司",
     "申請商地址": "高雄市前金區大同二路133-5號",
-    "主製造廠": {
-        "製造廠名稱": "MKR1117000  CYBERMEDIC CO., LTD",
-        "製造廠廠址": "#203 STANDARD FACTORY, 20-23, YAKCHON RO 8-GIL, LKSAN-SI, JEOLLABUK-DO, 570-979 KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR1117000  CYBERMEDIC CO., LTD",
+            "製造廠廠址": "#203 STANDARD FACTORY, 20-23, YAKCHON RO 8-GIL, LKSAN-SI, JEOLLABUK-DO, 570-979 KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "06003732",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06003732",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06003732",
     "time": "2020-02-25 16:21:55",
     "許可證字號": "衛署醫器輸字第003732號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0710001100  志開企業有限公司",
     "申請商地址": "台北縣新店市寶僑路２３５巷１６弄５號６樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS0104000  FRIGITRONICS OF CONNECTICUT INCORPORATED",
-        "製造廠廠址": "770 RIVER ROAD SHELTON CONN. 06484 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0104000  FRIGITRONICS OF CONNECTICUT INCORPORATED",
+            "製造廠廠址": "770 RIVER ROAD SHELTON CONN. 06484 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

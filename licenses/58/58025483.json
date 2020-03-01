@@ -1,6 +1,6 @@
 {
     "code": "58025483",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58025483",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58025483",
     "time": "2020-02-26 09:48:17",
     "許可證字號": "衛部粧輸字第025483號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "620102O684  曜亞國際股份有限公司",
     "申請商地址": "新北市中和區中正路872號4樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MJP1359000  FAITH CO., LTD.",
-        "製造廠廠址": "FAITH BLDG., 2-7-8 TANIMACHI, CHUO-KU, OSAKA, JAPAN 540-0012",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP1359000  FAITH CO., LTD.",
+            "製造廠廠址": "FAITH BLDG., 2-7-8 TANIMACHI, CHUO-KU, OSAKA, JAPAN 540-0012",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

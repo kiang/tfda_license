@@ -1,6 +1,6 @@
 {
     "code": "06008133",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06008133",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06008133",
     "time": "2020-02-25 17:33:31",
     "許可證字號": "衛署醫器輸字第008133號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1014601100  臺灣泰科醫藥股份有限公司",
     "申請商地址": "台北市內湖區瑞光路407號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS0227000  SHERWOOD MEDICAL COMPANY.",
-        "製造廠廠址": "2010 INTERNATIONAL SPEEDWAY BLVD DELAND,FLORIDA 32724, U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0227000  SHERWOOD MEDICAL COMPANY.",
+            "製造廠廠址": "2010 INTERNATIONAL SPEEDWAY BLVD DELAND,FLORIDA 32724, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "42000415",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000415",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000415",
     "time": "2020-02-26 03:25:44",
     "許可證字號": "衛署醫器陸輸字第000415號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6241315459  光暘有限公司",
     "申請商地址": "臺南市永康區甲頂里中華路893巷5號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN0664000  BLUE CROSS BIO-MEDICAL (BEIJING) CO., LTD",
-        "製造廠廠址": "BEIQIJIA INDUSTRY ZONE, CHANGPING DISTRICT, BEIJING, P.R. CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0664000  BLUE CROSS BIO-MEDICAL (BEIJING) CO., LTD",
+            "製造廠廠址": "BEIQIJIA INDUSTRY ZONE, CHANGPING DISTRICT, BEIJING, P.R. CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "6131110075  卓和企業股份有限公司汐止廠",
+            "製造廠廠址": "新北市汐止區南陽街180巷18號2樓",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "分裝"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

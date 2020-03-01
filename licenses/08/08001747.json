@@ -1,6 +1,6 @@
 {
     "code": "08001747",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08001747",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08001747",
     "time": "2020-02-25 22:09:29",
     "許可證字號": "衛署粧輸字第001747號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1422901100  端強實業股份有限公司",
     "申請商地址": "台北巿富錦街３４２號",
-    "主製造廠": {
-        "製造廠名稱": "CAU0001000  WORD LABORATORIES P\/L",
-        "製造廠廠址": "SUITE 2\/26 LIVERPOOL HELBOURNE VICTORIA ASTRALIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "AUSTRALIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CAU0001000  WORD LABORATORIES P\/L",
+            "製造廠廠址": "SUITE 2\/26 LIVERPOOL HELBOURNE VICTORIA ASTRALIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRALIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

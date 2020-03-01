@@ -1,6 +1,6 @@
 {
     "code": "56027411",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027411",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027411",
     "time": "2020-02-26 07:45:25",
     "許可證字號": "衛部醫器輸字第027411號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620110H937  歐強國際有限公司",
     "申請商地址": "台北市南京東路二段66號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS3572000  OSTEOMED",
-        "製造廠廠址": "3885 ARAPAHO ROAD. ADDISON TX 75001 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS3572000  OSTEOMED",
+            "製造廠廠址": "3885 ARAPAHO ROAD. ADDISON TX 75001 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

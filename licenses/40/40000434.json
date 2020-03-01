@@ -1,6 +1,6 @@
 {
     "code": "40000434",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=40000434",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=40000434",
     "time": "2020-02-26 03:09:15",
     "許可證字號": "衛署粧陸輸字第000434號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6612952073  昱達國際生化科技有限公司",
     "申請商地址": "台北市中山區復興北路514巷65號2樓",
-    "主製造廠": {
-        "製造廠名稱": "CCN0017000  GUANGZHOU YI BEI SHI FINE-QUALITY COSMETICS FACTORY",
-        "製造廠廠址": "NO. 168, XIA-LIANG AVENUE, LONG-GUI TOWN, BAI-YUN DISTRICT, GUANGZHOU CITY, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CCN0017000  GUANGZHOU YI BEI SHI FINE-QUALITY COSMETICS FACTORY",
+            "製造廠廠址": "NO. 168, XIA-LIANG AVENUE, LONG-GUI TOWN, BAI-YUN DISTRICT, GUANGZHOU CITY, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

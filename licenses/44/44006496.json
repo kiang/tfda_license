@@ -1,6 +1,6 @@
 {
     "code": "44006496",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006496",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006496",
     "time": "2020-02-26 04:51:39",
     "許可證字號": "衛署醫器輸壹字第006496號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 36GMP",
     "申請商名稱": "1407001100  台灣明尼蘇達礦業製造股份有限公司",
     "申請商地址": "台北市南港區經貿二路198號3樓至8樓",
-    "主製造廠": {
-        "製造廠名稱": "MGB0836000  ADVANCED MEDICAL SOLUTIONS LTD.",
-        "製造廠廠址": "PREMIER PARK, 33 ROAD ONE, WINSFORD INDUSTRIAL ESTATE, WINSFORD, CHESHIRE, CW7 3RT, UNITED KINGDOM",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0836000  ADVANCED MEDICAL SOLUTIONS LTD.",
+            "製造廠廠址": "PREMIER PARK, 33 ROAD ONE, WINSFORD INDUSTRIAL ESTATE, WINSFORD, CHESHIRE, CW7 3RT, UNITED KINGDOM",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "FUS2352000  3M HEALTH CARE",
+            "製造廠廠址": "2510 CONWAY AVE, ST. PAUL, 55144, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

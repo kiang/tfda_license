@@ -1,6 +1,6 @@
 {
     "code": "44009223",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009223",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009223",
     "time": "2020-02-26 05:13:02",
     "許可證字號": "衛署醫器輸壹字第009223號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231103214  憶生堂生化科技股份有限公司",
     "申請商地址": "新北市淡水區中正東路二段29之5號21樓",
-    "主製造廠": {
-        "製造廠名稱": "MDK0082000  CMS DENTAL APS",
-        "製造廠廠址": "NJALSGADE 21G, DK-2300 COPENHAGEN S, DENMARK",
-        "製造廠公司地址": "",
-        "製造廠國別": "DENMARK",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDK0082000  CMS DENTAL APS",
+            "製造廠廠址": "NJALSGADE 21G, DK-2300 COPENHAGEN S, DENMARK",
+            "製造廠公司地址": "",
+            "製造廠國別": "DENMARK",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

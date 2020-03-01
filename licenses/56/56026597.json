@@ -1,6 +1,6 @@
 {
     "code": "56026597",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026597",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026597",
     "time": "2020-02-26 07:36:32",
     "許可證字號": "衛部醫器輸字第026597號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231104944  博兆股份有限公司",
     "申請商地址": "新北市淡水區中正東路2段29號5樓",
-    "主製造廠": {
-        "製造廠名稱": "MIT0135000  COSMED S.R.L.",
-        "製造廠廠址": "VIA DEI PIANI DI MONTE SAVELLO 37, 00040 PAVONA DI ALBANO(RM) ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIT0135000  COSMED S.R.L.",
+            "製造廠廠址": "VIA DEI PIANI DI MONTE SAVELLO 37, 00040 PAVONA DI ALBANO(RM) ITALY",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "44000617",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44000617",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44000617",
     "time": "2020-02-26 04:21:35",
     "許可證字號": "衛署醫器輸壹字第000617號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620118D857  台灣大昌華嘉股份有限公司",
     "申請商地址": "台北市內湖區堤頂大道二段407巷20弄1、3、5、7號10樓及22、24、26號10樓及22號10樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MUS1167000  BIONOSTICS, INC",
-        "製造廠廠址": "7 JACKSON RD., DEVENS, MA 01434 U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS1167000  BIONOSTICS, INC",
+            "製造廠廠址": "7 JACKSON RD., DEVENS, MA 01434 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MCH0238000  LIFESCAN EUROPE, A DIVISION OF CILAG GMBH INTERNATIONAL",
+            "製造廠廠址": "GUBELSTRASSE 34, 6300 ZUG, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "58025979",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58025979",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58025979",
     "time": "2020-02-26 09:52:00",
     "許可證字號": "衛部粧輸字第025979號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6101111153  膠原科技股份有限公司",
     "申請商地址": "苗栗縣竹南鎮科研路50-1號1樓",
-    "主製造廠": {
-        "製造廠名稱": "CKR0185000  Innogene Anyang Factory Co.,Ltd",
-        "製造廠廠址": "B105, B106, B107, 387, Simin-daero, Dongan-gu, Anyang-si, Gyeonggi-do, Korea",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CKR0185000  Innogene Anyang Factory Co.,Ltd",
+            "製造廠廠址": "B105, B106, B107, 387, Simin-daero, Dongan-gu, Anyang-si, Gyeonggi-do, Korea",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

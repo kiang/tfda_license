@@ -1,6 +1,6 @@
 {
     "code": "94016111",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016111",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016111",
     "time": "2020-02-26 11:50:35",
     "許可證字號": "衛部醫器輸壹字第016111號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "6217034463  德嘉國際有限公司",
     "申請商地址": "臺中市西區自立街21號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MGB0161000  Systagenix Wound Management Limited.",
-        "製造廠廠址": "Gargrave, North Yorkshire, BD23 3RX, United Kingdom",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0161000  Systagenix Wound Management Limited.",
+            "製造廠廠址": "Gargrave, North Yorkshire, BD23 3RX, United Kingdom",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

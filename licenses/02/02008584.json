@@ -1,11 +1,12 @@
 {
     "code": "02008584",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02008584",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02008584",
     "time": "2020-02-25 09:16:01",
     "許可證字號": "衛署藥輸字第008584號",
     "註銷狀態": "已註銷",
     "註銷日期": "91\/07\/09",
     "註銷理由": "醫藥事法第97條定醫藥事法第97條定",
+    "製造許可登錄編號": "",
     "有效日期": "93\/05\/28",
     "發證日期": "70\/05\/28",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "07須經醫師指示使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "0513501100  仙曜有限公司",
-        "申請商地址": "台北巿大安區敦化南路二段六三巷五三弄七號一樓",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "IRON (FERROUS FUMARATE), PARSLEY (HERB), PHOSPHORUS (TRICALCIUM PHOSPHATE), CALCIUM (TRICALCIUM PHOSPHATE), MAGNESIUM (OXIDE), CUPRIC (SULFATE), CHOLINE BITARTRATE, IODINE, VITAMIN A, BIOTIN, NIACIN (NICOTINIC ACID), THIAMINE MONONITRATE, RIBOFLAVIN (VIT B2), PYRIDOXINE HCL, CYANOCOBALAMIN (VIT B12), FOLIC ACID, PANTOTHENIC ACID, PARA-AMINOBENZOIC ACID (VIT H1), ASCORBIC ACID (VIT C), VITAMIN D, VITAMIN E (SUCCINATE ALPHA D-), BIOFLAVINOIDS (CITRUS FLAVONOID COMPOUNDS), LECITHIN(LECITHOL), ZINC SULFATE",
+    "限制項目": "02輸　入",
+    "申請商名稱": "0513501100  仙曜有限公司",
+    "申請商地址": "台北巿大安區敦化南路二段六三巷五三弄七號一樓",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FUS0058000  DA VINCI LAB.",
+            "製造廠廠址": "ONE EXECUTIVE DRIVE. BURLINGTON VERMONT 05401",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [

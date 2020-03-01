@@ -1,6 +1,6 @@
 {
     "code": "94007155",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94007155",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94007155",
     "time": "2020-02-26 11:09:28",
     "許可證字號": "衛部醫器輸壹字第007155號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6401021703  東京眼鏡股份有限公司台北店",
     "申請商地址": "臺北市大安區忠孝東路三段300號(實際營業地址：8樓)",
-    "主製造廠": {
-        "製造廠名稱": "MJP1325000  HAZUKI COMPANY",
-        "製造廠廠址": "37TH FLOOR, ROPPONGI HILLS MORI TOWER 6-10-1, ROPPONGI, MINATO-KU, TOKYO JAPAN 106-6117",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP1325000  HAZUKI COMPANY",
+            "製造廠廠址": "37TH FLOOR, ROPPONGI HILLS MORI TOWER 6-10-1, ROPPONGI, MINATO-KU, TOKYO JAPAN 106-6117",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

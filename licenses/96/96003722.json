@@ -1,6 +1,6 @@
 {
     "code": "96003722",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003722",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003722",
     "time": "2020-02-26 13:13:40",
     "許可證字號": "衛部醫器陸輸壹字第003722號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 40大陸生產",
     "申請商名稱": "6201208653  晴翔國際企業有限公司",
     "申請商地址": "臺北市文山區辛亥路四段260巷3號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1996000  ZHEJIANG ORIENT GENE BIOTECH CO., LTD.",
-        "製造廠廠址": "3787#, EAST YANGGUANG AVENUE, DIPU STREET, ANJI, HUZHOU 313300, ZHEJIANG, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1996000  ZHEJIANG ORIENT GENE BIOTECH CO., LTD.",
+            "製造廠廠址": "3787#, EAST YANGGUANG AVENUE, DIPU STREET, ANJI, HUZHOU 313300, ZHEJIANG, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS3915000  HEALGEN SCIENTIFIC LIMITED LIABILITY COMPANY",
+            "製造廠廠址": "5213, MAPLE STREET, BELLAIRE, TX 77401, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

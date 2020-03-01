@@ -1,6 +1,6 @@
 {
     "code": "94018959",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018959",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018959",
     "time": "2020-02-26 12:29:20",
     "許可證字號": "衛部醫器輸壹字第018959號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1115802200  崇仁科技事業股份有限公司",
     "申請商地址": "宜蘭縣五結鄉成興村利工二路87號",
-    "主製造廠": {
-        "製造廠名稱": "MMY0185000  INMED MFG. SDN. BHD.",
-        "製造廠廠址": "LOT NO PT 2577, JALAN PERUSAHAAN 4, 34600 KAMUNTING, PERAK, MALAYSIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "MALAYSIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMY0185000  INMED MFG. SDN. BHD.",
+            "製造廠廠址": "LOT NO PT 2577, JALAN PERUSAHAAN 4, 34600 KAMUNTING, PERAK, MALAYSIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "MALAYSIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

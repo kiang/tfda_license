@@ -1,6 +1,6 @@
 {
     "code": "94020549",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020549",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020549",
     "time": "2020-02-26 12:45:06",
     "許可證字號": "衛部醫器輸壹字第020549號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201013305  台灣儀器行股份有限公司",
     "申請商地址": "臺北市松山區南京東路3段272號9樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE1078200  AKRUS GMBH &amp; CO KG",
-        "製造廠廠址": "OTTO HAHN STR. 3, 25337 ELMSHORN, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE1078200  AKRUS GMBH &amp; CO KG",
+            "製造廠廠址": "OTTO HAHN STR. 3, 25337 ELMSHORN, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

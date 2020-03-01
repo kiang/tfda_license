@@ -1,6 +1,6 @@
 {
     "code": "08018648",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018648",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018648",
     "time": "2020-02-26 01:10:11",
     "許可證字號": "衛署粧輸字第018648號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6627876074  創新生技有限公司",
     "申請商地址": "新北市中和區中山路2段351號10樓之3",
-    "主製造廠": {
-        "製造廠名稱": "MUS1664000  Swiss-American Products, Inc.",
-        "製造廠廠址": "2055 Luna Road, Suite126, Carrollton, Texas, U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS1664000  Swiss-American Products, Inc.",
+            "製造廠廠址": "2055 Luna Road, Suite126, Carrollton, Texas, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

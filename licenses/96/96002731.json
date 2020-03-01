@@ -1,6 +1,6 @@
 {
     "code": "96002731",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002731",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002731",
     "time": "2020-02-26 13:03:22",
     "許可證字號": "衛部醫器陸輸壹字第002731號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231048076  宏威光學貿易有限公司",
     "申請商地址": "新北市中和區橋和路56號5樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1041400  JIANGSU YOULI OPTICS SPECTACLES CO., LTD.",
-        "製造廠廠址": "#18 BEI YI WEI NAN ROAD, JIANGSU DANYANG ECONOMY DEVELOPMENT ZONE, DANYANG CITY, JIANGSU PROVINCE, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1041400  JIANGSU YOULI OPTICS SPECTACLES CO., LTD.",
+            "製造廠廠址": "#18 BEI YI WEI NAN ROAD, JIANGSU DANYANG ECONOMY DEVELOPMENT ZONE, DANYANG CITY, JIANGSU PROVINCE, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

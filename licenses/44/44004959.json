@@ -1,6 +1,6 @@
 {
     "code": "44004959",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44004959",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44004959",
     "time": "2020-02-26 04:43:26",
     "許可證字號": "衛署醫器輸壹字第004959號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620110J360  豐生儀器有限公司",
     "申請商地址": "台北市大安區新生南路一段103巷51之1號",
-    "主製造廠": {
-        "製造廠名稱": "MUS2170000  PREMIER MEDICAL PRODUCTS COMPANY.",
-        "製造廠廠址": "1710 ROMANO DRIVE, P.O. BOX 4500, PLYMOUTH MEETING, PA 19462, USA.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2170000  PREMIER MEDICAL PRODUCTS COMPANY.",
+            "製造廠廠址": "1710 ROMANO DRIVE, P.O. BOX 4500, PLYMOUTH MEETING, PA 19462, USA.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

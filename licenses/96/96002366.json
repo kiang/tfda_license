@@ -1,6 +1,6 @@
 {
     "code": "96002366",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002366",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002366",
     "time": "2020-02-26 12:59:02",
     "許可證字號": "衛部醫器陸輸壹字第002366號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP 40大陸生產",
     "申請商名稱": "6237130206  豪品國際實業股份有限公司",
     "申請商地址": "彰化縣員林市南東里員草路855巷148號",
-    "主製造廠": {
-        "製造廠名稱": "MCN0926100  PRACTICAL PROTECTIVE PLASTIC MANUFACTORY LTD.",
-        "製造廠廠址": "XINILIAN, ANZHEN TOWN, 214106 WUXI, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0926100  PRACTICAL PROTECTIVE PLASTIC MANUFACTORY LTD.",
+            "製造廠廠址": "XINILIAN, ANZHEN TOWN, 214106 WUXI, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

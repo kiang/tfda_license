@@ -1,6 +1,6 @@
 {
     "code": "06007393",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06007393",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06007393",
     "time": "2020-02-25 17:23:53",
     "許可證字號": "衛署醫器輸字第007393號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0806201100  承德儀器有限公司",
     "申請商地址": "台北巿承德路四段３２７號３樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE0123000  BERCHTOLD GMBH &amp; CO.",
-        "製造廠廠址": "LUDWIGSTALER STR. 25 D-7200 TUTTLINGEN",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0123000  BERCHTOLD GMBH &amp; CO.",
+            "製造廠廠址": "LUDWIGSTALER STR. 25 D-7200 TUTTLINGEN",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

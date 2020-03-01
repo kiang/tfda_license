@@ -1,6 +1,6 @@
 {
     "code": "56026622",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026622",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026622",
     "time": "2020-02-26 07:36:48",
     "許可證字號": "衛部醫器輸字第026622號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1109901100  崧達企業股份有限公司",
     "申請商地址": "台北市大安區敦化南路一段376號12樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MJP1225000  DENKEN-HIGHDENTAL CO., LTD.",
-        "製造廠廠址": "1-20-14, IMAGOME, HIGASHI-OSAKA, OSAKA 578-0903, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP1225000  DENKEN-HIGHDENTAL CO., LTD.",
+            "製造廠廠址": "1-20-14, IMAGOME, HIGASHI-OSAKA, OSAKA 578-0903, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MJP1345000  DENKEN-HIGHDENTAL CO., LTD.",
+            "製造廠廠址": "130 ISHIGOHRI-CHO, OHYAKE, YAMASHINA-KU, KYOTO 607-8187 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

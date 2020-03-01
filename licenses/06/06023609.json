@@ -1,6 +1,6 @@
 {
     "code": "06023609",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023609",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023609",
     "time": "2020-02-25 20:33:08",
     "許可證字號": "衛署醫器輸字第023609號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6401108465  安捷國際實業股份有限公司",
     "申請商地址": "臺北市大同區承德路三段177巷18號",
-    "主製造廠": {
-        "製造廠名稱": "MCH0131000  THOMMEN MEDICAL AG",
-        "製造廠廠址": "Neckarsulmstrasse 28, 2540 Grenchen, Switzerland",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCH0131000  THOMMEN MEDICAL AG",
+            "製造廠廠址": "Neckarsulmstrasse 28, 2540 Grenchen, Switzerland",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

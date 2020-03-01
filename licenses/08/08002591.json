@@ -1,6 +1,6 @@
 {
     "code": "08002591",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08002591",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08002591",
     "time": "2020-02-25 22:18:17",
     "許可證字號": "衛署粧輸字第002591號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1230001100  雅娜蒂股份有限公司",
     "申請商地址": "高雄市苓雅區建國一路１４０巷１１之６號",
-    "主製造廠": {
-        "製造廠名稱": "CJP0086000  INTERNATIONAL TOILETRIES CO., LTD.",
-        "製造廠廠址": "88, HORIYAMASHITA HADANOSHI, KANAGAWA-KEN, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0086000  INTERNATIONAL TOILETRIES CO., LTD.",
+            "製造廠廠址": "88, HORIYAMASHITA HADANOSHI, KANAGAWA-KEN, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

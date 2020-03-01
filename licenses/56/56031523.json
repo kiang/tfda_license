@@ -1,6 +1,6 @@
 {
     "code": "56031523",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031523",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031523",
     "time": "2020-02-26 08:23:23",
     "許可證字號": "衛部醫器輸字第031523號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6233053842  集德醫材管理顧問有限公司",
     "申請商地址": "新竹縣竹北市福德里和平街8號10樓",
-    "主製造廠": {
-        "製造廠名稱": "MMX0169000  KeyTronic Corporation",
-        "製造廠廠址": "Tomas Becket #2220, Parque Ind. Gema Plant 3 Juarez, Chihuahua,C.P.32380 Mexico",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": "受託製造廠"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0169000  KeyTronic Corporation",
+            "製造廠廠址": "Tomas Becket #2220, Parque Ind. Gema Plant 3 Juarez, Chihuahua,C.P.32380 Mexico",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": "受託製造廠"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MCH0205000  KAZ EUROPE S.A.",
+            "製造廠廠址": "PLACE CHAUDERON 18, CH-1003 LAUSANNE, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

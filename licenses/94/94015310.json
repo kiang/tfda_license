@@ -1,6 +1,6 @@
 {
     "code": "94015310",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015310",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015310",
     "time": "2020-02-26 11:39:13",
     "許可證字號": "衛部醫器輸壹字第015310號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231131709  榆生有限公司",
     "申請商地址": "新北市土城區裕民路61巷6號",
-    "主製造廠": {
-        "製造廠名稱": "MEG0003000  PHARMAPLAST S.A.E.",
-        "製造廠廠址": "AMRIA FREE ZONE 23512 ALEXANDRIA EGYPT",
-        "製造廠公司地址": "",
-        "製造廠國別": "EGYPTI",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MEG0003000  PHARMAPLAST S.A.E.",
+            "製造廠廠址": "AMRIA FREE ZONE 23512 ALEXANDRIA EGYPT",
+            "製造廠公司地址": "",
+            "製造廠國別": "EGYPTI",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

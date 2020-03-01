@@ -1,6 +1,6 @@
 {
     "code": "94020021",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020021",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020021",
     "time": "2020-02-26 12:40:31",
     "許可證字號": "衛部醫器輸壹字第020021號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231144386  毓秀堂貿易有限公司",
     "申請商地址": "新北市蘆洲區長安街111巷14號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP1423000  KYOTO TEXTILE INDUSTRY",
-        "製造廠廠址": "43-1 Shimonaranogami, Yawata-shi, Kyoto-fu 614-8128 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP1423000  KYOTO TEXTILE INDUSTRY",
+            "製造廠廠址": "43-1 Shimonaranogami, Yawata-shi, Kyoto-fu 614-8128 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

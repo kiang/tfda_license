@@ -1,6 +1,6 @@
 {
     "code": "94016971",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016971",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016971",
     "time": "2020-02-26 12:02:43",
     "許可證字號": "衛部醫器輸壹字第016971號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1322522100  傳承儀器有限公司",
     "申請商地址": "高雄市鳳山區文湖街７號６樓",
-    "主製造廠": {
-        "製造廠名稱": "MMX0074400  DJ ORTHOPEDICS DE MEXICO, S.A. DE C.V.",
-        "製造廠廠址": "CARRETERA LIBRE TIJUANA TECATE #20230 SUBMETROPOLI EL FLORIDO, TIJUANA, B.C. MEXICO 22244",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0074400  DJ ORTHOPEDICS DE MEXICO, S.A. DE C.V.",
+            "製造廠廠址": "CARRETERA LIBRE TIJUANA TECATE #20230 SUBMETROPOLI EL FLORIDO, TIJUANA, B.C. MEXICO 22244",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

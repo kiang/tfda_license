@@ -1,6 +1,6 @@
 {
     "code": "94021014",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94021014",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94021014",
     "time": "2020-02-26 12:49:26",
     "許可證字號": "衛部醫器輸壹字第021014號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 36GMP",
     "申請商名稱": "620118L899  橋河實業股份有限公司",
     "申請商地址": "臺北市中正區重慶南路1段57號9樓之10",
-    "主製造廠": {
-        "製造廠名稱": "MUS5461000  Hantel Technologies, Inc.",
-        "製造廠廠址": "3496\/3497 Breakwater Ct, Hayward, CA 94545, U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS5461000  Hantel Technologies, Inc.",
+            "製造廠廠址": "3496\/3497 Breakwater Ct, Hayward, CA 94545, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MJP1498000  Japanese Organization for Medical Device Development Inc.",
+            "製造廠廠址": "#601 Nihonbashi Life Science Building, 2-3-11 Nihonbashi-Honcho, Chuo-ku, Tokyo, Japan",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

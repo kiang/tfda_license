@@ -1,6 +1,6 @@
 {
     "code": "96003903",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003903",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003903",
     "time": "2020-02-26 13:15:14",
     "許可證字號": "衛部醫器陸輸壹字第003903號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "623101K465  美商登士柏西諾德股份有限公司台灣分公司",
     "申請商地址": "新北市板橋區三民路1段216號12樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1411000  TIANJIN GOLDEN VENDOR TECHNOLOGY CO., LTD.",
-        "製造廠廠址": "XIJIANGJING, ZHONGBEIZHEN, 300112 XIQING DISTRICT, TIANJIN, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1411000  TIANJIN GOLDEN VENDOR TECHNOLOGY CO., LTD.",
+            "製造廠廠址": "XIJIANGJING, ZHONGBEIZHEN, 300112 XIQING DISTRICT, TIANJIN, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "44008436",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008436",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008436",
     "time": "2020-02-26 05:05:54",
     "許可證字號": "衛署醫器輸壹字第008436號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "6235022372  佾岳股份有限公司",
     "申請商地址": "苗栗縣苑裡鎮玉田里4鄰玉田59-6號",
-    "主製造廠": {
-        "製造廠名稱": "MID0003100  PT. LATEXINDO TOBAPERKASA",
-        "製造廠廠址": "Jl. Binjai Km 11 Mulyorejo-sunggal, 20352, Deli Serdang-Sumatera Utara Indonesia",
-        "製造廠公司地址": "",
-        "製造廠國別": "INDONESIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MID0003100  PT. LATEXINDO TOBAPERKASA",
+            "製造廠廠址": "Jl. Binjai Km 11 Mulyorejo-sunggal, 20352, Deli Serdang-Sumatera Utara Indonesia",
+            "製造廠公司地址": "",
+            "製造廠國別": "INDONESIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

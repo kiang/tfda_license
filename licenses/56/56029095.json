@@ -1,6 +1,6 @@
 {
     "code": "56029095",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029095",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029095",
     "time": "2020-02-26 08:01:58",
     "許可證字號": "衛部醫器輸字第029095號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102K944  香港商艾維斯有限公司台灣分公司",
     "申請商地址": "台北市中正區忠孝東路二段116號10樓",
-    "主製造廠": {
-        "製造廠名稱": "MGB0199000  OWEN MUMFORD LIMITED",
-        "製造廠廠址": "PRIMSDOWN INDUSTRIAL ESTATE, WORCESTER ROAD, CHIPPING NORTON, OXFORDSHIRE, OX7 5XP, UNITED KINGDOM",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0199000  OWEN MUMFORD LIMITED",
+            "製造廠廠址": "PRIMSDOWN INDUSTRIAL ESTATE, WORCESTER ROAD, CHIPPING NORTON, OXFORDSHIRE, OX7 5XP, UNITED KINGDOM",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MGB1024000  Owen Mumford Limited",
+            "製造廠廠址": "Brook Hill, Woodstock, Oxfordshire, OX20B 1TU, United Kingdom",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

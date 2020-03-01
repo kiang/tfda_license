@@ -1,6 +1,6 @@
 {
     "code": "94015191",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015191",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015191",
     "time": "2020-02-26 11:37:27",
     "許可證字號": "衛部醫器輸壹字第015191號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217035906  鋐豪展業有限公司",
     "申請商地址": "台中市南區柳川東路一段18號10樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MKR0647100  META BIOMED CO., LTD.",
-        "製造廠廠址": "270, OSONG SAENGMYEONG 1-RO, OSONG-EUP, HEONGDEOK GU, CHEONGJU-SI, CHUNGBUK, 363-951, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0647100  META BIOMED CO., LTD.",
+            "製造廠廠址": "270, OSONG SAENGMYEONG 1-RO, OSONG-EUP, HEONGDEOK GU, CHEONGJU-SI, CHUNGBUK, 363-951, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

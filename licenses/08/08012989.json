@@ -1,6 +1,6 @@
 {
     "code": "08012989",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08012989",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08012989",
     "time": "2020-02-26 00:07:42",
     "許可證字號": "衛署粧輸字第012989號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6654375980  香港商無添加化粧品股份有限公司",
     "申請商地址": "臺北市信義區松仁路36號12樓",
-    "主製造廠": {
-        "製造廠名稱": "CJP0198000  FANCL CORPORATION",
-        "製造廠廠址": "89-1, YAMASHITA-CHO, NAKA-KU, YOKOHAMA, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0198000  FANCL CORPORATION",
+            "製造廠廠址": "89-1, YAMASHITA-CHO, NAKA-KU, YOKOHAMA, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

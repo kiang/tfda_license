@@ -1,6 +1,6 @@
 {
     "code": "58024041",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58024041",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58024041",
     "time": "2020-02-26 09:39:43",
     "許可證字號": "衛部粧輸字第024041號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6654378868  英屬維京群島商葳怡國際股份有限公司台灣分公司",
     "申請商地址": "台灣台北市松山區敦化南路一段57號7樓之7",
-    "主製造廠": {
-        "製造廠名稱": "MIT0904000  REGI SRL",
-        "製造廠廠址": "Via Enrico Mattei 6-10-14, 26010 Bagnolo Cremasco (CR), Italy",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIT0904000  REGI SRL",
+            "製造廠廠址": "Via Enrico Mattei 6-10-14, 26010 Bagnolo Cremasco (CR), Italy",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

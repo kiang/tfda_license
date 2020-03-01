@@ -1,6 +1,6 @@
 {
     "code": "96003297",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003297",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003297",
     "time": "2020-02-26 13:09:04",
     "許可證字號": "衛部醫器陸輸壹字第003297號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6203293427  松竹精品有限公司",
     "申請商地址": "高雄市三民區寶盛里有光路201號",
-    "主製造廠": {
-        "製造廠名稱": "MCN1689000  ZHENJIANG MIRROR OPTICS CO., LTD.",
-        "製造廠廠址": "JIANGSU PROVINCE DANYANG CITY SITU NEW BRIDGE TOWNSHIP CHINA.",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1689000  ZHENJIANG MIRROR OPTICS CO., LTD.",
+            "製造廠廠址": "JIANGSU PROVINCE DANYANG CITY SITU NEW BRIDGE TOWNSHIP CHINA.",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

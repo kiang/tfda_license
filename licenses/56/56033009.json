@@ -1,6 +1,6 @@
 {
     "code": "56033009",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56033009",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56033009",
     "time": "2020-02-26 08:32:57",
     "許可證字號": "衛部醫器輸字第033009號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6401101279  新加坡商賓得醫療器械有限公司台灣分公司",
     "申請商地址": "臺北市信義區信義路4段415號12樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE1561000  DIGITAL ENDOSCOPY GMBH",
-        "製造廠廠址": "PAUL-LENZ-STRABE 5, 86316 FRIEDBERG, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE1561000  DIGITAL ENDOSCOPY GMBH",
+            "製造廠廠址": "PAUL-LENZ-STRABE 5, 86316 FRIEDBERG, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MJP1486000  HOYA Corporation.",
+            "製造廠廠址": "6-10-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo 160-0023 Japan",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "94016394",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016394",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016394",
     "time": "2020-02-26 11:54:52",
     "許可證字號": "衛部醫器輸壹字第016394號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0937101100  英商史耐輝股份有限公司台灣分公司",
     "申請商地址": "台北市中正區新生南路1段50號9樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MUS4543000  ARTHROCARE CORPORATION",
-        "製造廠廠址": "15285 ALTON PARKWAY, SUITE 200, IRVINE CA 92618, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS4543000  ARTHROCARE CORPORATION",
+            "製造廠廠址": "15285 ALTON PARKWAY, SUITE 200, IRVINE CA 92618, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

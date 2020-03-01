@@ -1,11 +1,12 @@
 {
     "code": "02025295",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025295",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025295",
     "time": "2020-02-25 13:34:28",
     "許可證字號": "衛署藥輸字第025295號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
+    "製造許可登錄編號": "",
     "有效日期": "109\/11\/23",
     "發證日期": "99\/11\/23",
     "許可證種類": "製　劑",
@@ -20,19 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入 58依本署891212衛署藥字第0890035812號公告經本署認定得免除國內銜接性試驗且經本署核定之新藥",
-        "申請商名稱": "1403301100  台灣大塚製藥股份有限公司",
-        "申請商地址": "台北市中山區復興北路378號11樓",
-        "主製造廠": ""
-    },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
-    "藥理治療分類": "",
+    "監視期限": "",
+    "主成分略述": "TOLVAPTAN",
+    "限制項目": "02輸　入 58依本署891212衛署藥字第0890035812號公告經本署認定得免除國內銜接性試驗且經本署核定之新藥",
+    "申請商名稱": "1403301100  台灣大塚製藥股份有限公司",
+    "申請商地址": "台北市中山區復興北路378號11樓",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FJP0537000  OTSUKA PHARMACEUTICAL CO., LTD. TOKUSHIMA ITANO FACTORY",
+            "製造廠廠址": "13 MINAMI, SHISHITOKI, MATSUTANI ITANO-CHO, ITANO-GUN, TOKUSHIMA, 779-0195, JAPAN",
+            "製造廠公司地址": "2-9, KANDA TSUKASAMACHI, CHIYODA-KU, TOKYO,  JAPAN",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "次製造廠": [
         {
             "製造廠名稱": "1403304600  臺灣大塚製藥股份有限公司中壢工廠",
@@ -42,6 +48,8 @@
             "製程": "分裝"
         }
     ],
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
+    "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",

@@ -1,6 +1,6 @@
 {
     "code": "08013905",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08013905",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08013905",
     "time": "2020-02-26 00:17:47",
     "許可證字號": "衛署粧輸字第013905號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620118D857  台灣大昌華嘉股份有限公司",
     "申請商地址": "台北市內湖區堤頂大道二段407巷20弄1、3、5、7號10樓及22、24、26號10樓及22號10樓之1",
-    "主製造廠": {
-        "製造廠名稱": "CUS0193000  REVLON CONSUMER PRODUCTS CORPORATION",
-        "製造廠廠址": "1501 Williamsboro Street, P.O. Box6111 Oxford, North Carolina 27565-6111 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CUS0193000  REVLON CONSUMER PRODUCTS CORPORATION",
+            "製造廠廠址": "1501 Williamsboro Street, P.O. Box6111 Oxford, North Carolina 27565-6111 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

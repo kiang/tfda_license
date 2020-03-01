@@ -1,6 +1,6 @@
 {
     "code": "94018881",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018881",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018881",
     "time": "2020-02-26 12:28:25",
     "許可證字號": "衛部醫器輸壹字第018881號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6203290168  瑞信醫療器材有限公司",
     "申請商地址": "台中市西區華美西街一段175號11樓之5",
-    "主製造廠": {
-        "製造廠名稱": "MDE1030000  JOSEF GANTER FEINMECHANIK INH. R. MULLER GMBH",
-        "製造廠廠址": "NIEDERESCHACHERSTRASSE 24 D-78083 DAUCHINGEM, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE1030000  JOSEF GANTER FEINMECHANIK INH. R. MULLER GMBH",
+            "製造廠廠址": "NIEDERESCHACHERSTRASSE 24 D-78083 DAUCHINGEM, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

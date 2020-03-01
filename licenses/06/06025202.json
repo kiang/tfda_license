@@ -1,6 +1,6 @@
 {
     "code": "06025202",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06025202",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06025202",
     "time": "2020-02-25 20:49:31",
     "許可證字號": "衛署醫器輸字第025202號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231145605  集賢生技顧問有限公司",
     "申請商地址": "新北市蘆洲區集賢路224巷39號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MTR0008000  ALVIMEDICA TIBBI URUNLER SAN. VE DIS. TIC. A.S.",
-        "製造廠廠址": "ISTANBUL TRAKYA SERBEST BOLGESI FERHATPASA MAHALLESI ATATURK BULVARI, MANOLYA SOKAK NO: 7 CATALCA-ISTANBUL-TURKEY",
-        "製造廠公司地址": "",
-        "製造廠國別": "TURKEY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MTR0008000  ALVIMEDICA TIBBI URUNLER SAN. VE DIS. TIC. A.S.",
+            "製造廠廠址": "ISTANBUL TRAKYA SERBEST BOLGESI FERHATPASA MAHALLESI ATATURK BULVARI, MANOLYA SOKAK NO: 7 CATALCA-ISTANBUL-TURKEY",
+            "製造廠公司地址": "",
+            "製造廠國別": "TURKEY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,11 +1,12 @@
 {
     "code": "02025363",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025363",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025363",
     "time": "2020-02-25 13:35:27",
     "許可證字號": "衛署藥輸字第025363號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
+    "製造許可登錄編號": "",
     "有效日期": "110\/02\/22",
     "發證日期": "100\/02\/22",
     "許可證種類": "原料藥",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "01製劑原料",
+    "管制藥品分類級別": "D第四級管制藥品",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "0941901100  恒亞貿易有限公司",
-        "申請商地址": "台北市士林區延平北路六段485號4樓",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "",
+    "限制項目": "02輸　入",
+    "申請商名稱": "0941901100  恒亞貿易有限公司",
+    "申請商地址": "台北市士林區延平北路六段485號4樓",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FIN0075100  CENTAUR PHARMACEUTICALS PVT. LTD.",
+            "製造廠廠址": "Plot No. 75, 76 &amp; 76\/1 Chikhloli, MIDC, Ambernath (W), Dist-Thane 421 501 Maharashtra, India",
+            "製造廠公司地址": "",
+            "製造廠國別": "INDIA",
+            "製程": ""
+        }
+    ],
     "CCC號列": "29339100008 阿普唑他（三氮二氮平）（ＩＮＮ）、卡嗎西泮（卡氮平）（ＩＮＮ）、氯氮?（氯二氮平）（ＩＮＮ）、氯硝西泮（氯硝氮平）（ＩＮＮ）、氯拉?酸（氯氮平酸鹽）（ＩＮＮ）、地洛西泮（地洛氮平）（ＩＮＮ）、安定（二氮平）（ＩＮＮ）、舒樂安定（伊疊唑侖）（ＩＮＮ）、氯氟?己酯（氟氮平酸酯）（ＩＮＮ）、氟地西泮（氟二氮平）（ＩＮＮ）、氟硝西泮（ＩＮＮ）、氟安定（氟路洛）（ＩＮＮ）、哈拉西泮（三氟氮平）（ＩＮＮ）、勞拉西泮（樂耐平）（ＩＮＮ）、氯甲西泮（甲基樂耐平）（ＩＮＮ）、嗎??（咪唑??）（ＩＮＮ）、美達西泮（美達氮平）（ＩＮＮ）、咪達唑他（咪氟唑侖）（ＩＮＮ）硝甲西泮（硝甲氮平）（ＩＮＮ）、硝西泮（耐妥眠）（ＩＮＮ）、去甲西泮（去甲氮平）（ＩＮＮ）、去甲羥安定（去甲羥氮平）（ＩＮＮ）、匹那西泮（丙炔氮平）（ＩＮＮ）、普拉西泮（環丙氮平）（ＩＮＮ）、焦二異丁基酮（焦洛戊酮）（ＩＮＮ）、替馬西泮（甲羥氮平）（ＩＮＮ）、四氫西泮（四氫二氮平）（ＩＮＮ）及三唑他（三唑侖）（ＩＮＮ）；其鹽類Alprazolam (INN), camazepam (INN), chlordiazepoxide (INN), clonazepam (INN), clorazepate, delorazepam (INN), diazepam (INN), estazolam (INN), ethyl loflazepate (INN), fludiazepam (INN), flunitrazepam (INN), flurazepam (INN), halazepam (INN), lorazepam (INN), lormetazepam (INN), mazindol (INN), medazepam (INN), midazolam (INN), nimetazepam (INN), nitrazepam (INN), nordazepam (INN), oxazepam (INN), pinazepam (INN), prazepam (INN), pyrovalerone (INN), temazepam (INN), tetrazepam (INN) and triazolam (INN); salts thereof",
     "藥理治療分類": "",
     "ingredients": [],

@@ -1,6 +1,6 @@
 {
     "code": "56030939",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030939",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030939",
     "time": "2020-02-26 08:18:38",
     "許可證字號": "衛部醫器輸字第030939號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6231173994  高博科技有限公司",
     "申請商地址": "新北市林口區文化二路一段266號16樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MFR1009000  Axe metal",
-        "製造廠廠址": "Pole d’ Actvives de Saint-Desir, 661 Rue de la liberation, 14100 Lisieux, France",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR1009000  Axe metal",
+            "製造廠廠址": "Pole d’ Actvives de Saint-Desir, 661 Rue de la liberation, 14100 Lisieux, France",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MFR1010000  Airinspace S.E",
+            "製造廠廠址": "14 rue Jean Monnet 78990 Elancourt, France",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "46000172",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000172",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000172",
     "time": "2020-02-26 05:57:47",
     "許可證字號": "衛署醫器陸輸壹字第000172號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "1120501100  商登貿易有限公司",
     "申請商地址": "臺中市西區臺灣大道2段186號13樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MCN0161000  HANGZHOU YINYA NEW MATERIALS CO., LTD.",
-        "製造廠廠址": "1-1-402 MINGZHU APARTMENS, NO.486 WEN SAN ROAD, HANGZHOU, CHINA. 310012",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0161000  HANGZHOU YINYA NEW MATERIALS CO., LTD.",
+            "製造廠廠址": "1-1-402 MINGZHU APARTMENS, NO.486 WEN SAN ROAD, HANGZHOU, CHINA. 310012",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "42000009",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000009",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000009",
     "time": "2020-02-26 03:20:25",
     "許可證字號": "衛署醫器陸輸字第000009號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 40大陸生產",
     "申請商名稱": "1407004200  台灣明尼蘇達礦業製造股份有限公司",
     "申請商地址": "台北市南港區經貿二路198號3樓至8樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN0006000  SUZHOU AVON TEXTILE CO., LTD.",
-        "製造廠廠址": "YUANHE TOWN, XIANGCHENG REGION, 215133 SUZHOU, JIANGSU PROVINCE, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0006000  SUZHOU AVON TEXTILE CO., LTD.",
+            "製造廠廠址": "YUANHE TOWN, XIANGCHENG REGION, 215133 SUZHOU, JIANGSU PROVINCE, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MCN0832000  3M Medical Devices and Materials Manufacturing(Shanghai) Co., Ltd.",
+            "製造廠廠址": "35 Xinjun Ring Rd., 201114 Shanghai, China",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

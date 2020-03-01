@@ -1,6 +1,6 @@
 {
     "code": "58021856",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58021856",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58021856",
     "time": "2020-02-26 09:11:10",
     "許可證字號": "衛部粧輸字第021856號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "1507401100  嬌生股份有限公司",
     "申請商地址": "台北市中山區民生東路三段2號10樓及11樓",
-    "主製造廠": {
-        "製造廠名稱": "CCA0036000  KIK CUSTOM PRODUCTS",
-        "製造廠廠址": "13 BETHRIDGE ROAD, ETOBICOKE, ONTARIO, CANADA M9W 1M6",
-        "製造廠公司地址": "",
-        "製造廠國別": "CANADA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CCA0036000  KIK CUSTOM PRODUCTS",
+            "製造廠廠址": "13 BETHRIDGE ROAD, ETOBICOKE, ONTARIO, CANADA M9W 1M6",
+            "製造廠公司地址": "",
+            "製造廠國別": "CANADA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

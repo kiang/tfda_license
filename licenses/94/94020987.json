@@ -1,6 +1,6 @@
 {
     "code": "94020987",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020987",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020987",
     "time": "2020-02-26 12:48:59",
     "許可證字號": "衛部醫器輸壹字第020987號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1604701100  樺瑩企業股份有限公司",
     "申請商地址": "臺北市松山區民生東路5段162號4樓之5",
-    "主製造廠": {
-        "製造廠名稱": "MIT0911100  SBM SISTEMI S.R.L.",
-        "製造廠廠址": "STRADA TORINO 43-10043 ORBASSANO(TO), ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIT0911100  SBM SISTEMI S.R.L.",
+            "製造廠廠址": "STRADA TORINO 43-10043 ORBASSANO(TO), ITALY",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

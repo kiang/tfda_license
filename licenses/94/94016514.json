@@ -1,6 +1,6 @@
 {
     "code": "94016514",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016514",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016514",
     "time": "2020-02-26 11:56:43",
     "許可證字號": "衛部醫器輸壹字第016514號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6235022283  力百嘉生技有限公司",
     "申請商地址": "苗栗縣苑裡鎮舊社里10鄰78號",
-    "主製造廠": {
-        "製造廠名稱": "MFR0960000  IONYX SA",
-        "製造廠廠址": "34 RUE DE FLEURENNE 33290 BLANQUEFORT FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR0960000  IONYX SA",
+            "製造廠廠址": "34 RUE DE FLEURENNE 33290 BLANQUEFORT FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

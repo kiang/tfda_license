@@ -1,6 +1,6 @@
 {
     "code": "56026912",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026912",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026912",
     "time": "2020-02-26 07:39:55",
     "許可證字號": "衛部醫器輸字第026912號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620101I748  香港商科醫人雷射有限公司台灣分公司",
     "申請商地址": "台北市信義區松高路1號7樓之3",
-    "主製造廠": {
-        "製造廠名稱": "MUS2445000  LUMENIS INC.",
-        "製造廠廠址": "1870 South Milestone Drive, Salt Lake City, UT 84104, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2445000  LUMENIS INC.",
+            "製造廠廠址": "1870 South Milestone Drive, Salt Lake City, UT 84104, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "06013903",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06013903",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06013903",
     "time": "2020-02-25 18:43:37",
     "許可證字號": "衛署醫器輸字第013903號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0517701100  世新儀器有限公司",
     "申請商地址": "台北市松江路２２１巷１９號",
-    "主製造廠": {
-        "製造廠名稱": "MUS1864000  PARKER LABORATORATORIES, INC.",
-        "製造廠廠址": "286 ELDRIDGE ROAD, FAIRFIELD, NJ 0004, U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS1864000  PARKER LABORATORATORIES, INC.",
+            "製造廠廠址": "286 ELDRIDGE ROAD, FAIRFIELD, NJ 0004, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

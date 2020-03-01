@@ -1,6 +1,6 @@
 {
     "code": "56025750",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025750",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025750",
     "time": "2020-02-26 07:27:19",
     "許可證字號": "衛部醫器輸字第025750號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6211072218  理工科技工程顧問有限公司",
     "申請商地址": "台北市大安區新生南路一段103巷13號",
-    "主製造廠": {
-        "製造廠名稱": "MFR0911100  TORNIER S.A.S.",
-        "製造廠廠址": "176 Rue Lavoisier, 38330 Montbonnot Saint Martin, France",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR0911100  TORNIER S.A.S.",
+            "製造廠廠址": "176 Rue Lavoisier, 38330 Montbonnot Saint Martin, France",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MFR0911000  TORNIER S.A.S.",
+            "製造廠廠址": "161 Rue Lavoisier, 38330 Montbonnot Saint Martin, France",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

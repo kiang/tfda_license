@@ -1,6 +1,6 @@
 {
     "code": "06010051",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010051",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010051",
     "time": "2020-02-25 17:58:59",
     "許可證字號": "衛署醫器輸字第010051號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0940801100  美商愛德華醫療產品股份有限公司台灣分公司",
     "申請商地址": "台北巿中正區衡陽路51號5樓之七",
-    "主製造廠": {
-        "製造廠名稱": "MTH0003000  INFUS MEDICAL (THAILAND) CO., LTD.",
-        "製造廠廠址": "706 MOO 4 BANGPOO INDUSTRIAL ESTATE EXPORT PROCESSING ZONE PREAKSA A MUANG SAMUTPRAKARN 10280 THAILAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "THAILAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MTH0003000  INFUS MEDICAL (THAILAND) CO., LTD.",
+            "製造廠廠址": "706 MOO 4 BANGPOO INDUSTRIAL ESTATE EXPORT PROCESSING ZONE PREAKSA A MUANG SAMUTPRAKARN 10280 THAILAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "THAILAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

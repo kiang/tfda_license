@@ -1,11 +1,12 @@
 {
     "code": "12005378",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12005378",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12005378",
     "time": "2020-02-26 02:02:15",
     "許可證字號": "內衛藥製字第005378號",
     "註銷狀態": "已註銷",
     "註銷日期": "76\/11\/06",
     "註銷理由": "中文品名變更英文品名變更",
+    "製造許可登錄編號": "",
     "有效日期": "78\/05\/25",
     "發證日期": "59\/07\/01",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "07須經醫師指示使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "01國　產",
-        "申請商名稱": "0400502200  中日藥品股份有限公司",
-        "申請商地址": "台北市信義區逸仙路５０巷１２號７樓之１",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "CALCIUM, COBALT, COPPER, IRON, MAGNESIUM, MANGANESE, POTASSIUM, SODIUM, ZINC, FLUORINE, MOLYBDENUM, IODINE, VITAMIN A, NIACINAMIDE (NICOTINAMIDE), THIAMINE (VITAMIN B1), RIBOFLAVIN (VIT B2), PYRIDOXINE(VITAMIN B6), CYANOCOBALAMIN (VIT B12), PANTOTHENATE CALCIUM, PARA-AMINOBENZOIC ACID (VIT H1), ASCORBIC ACID (VIT C), VITAMIN D, TOCOPHEROL ALPHA-, VITAMIN K ACTIVITY, RUTIN, PHOSPHORUS",
+    "限制項目": "01國　產",
+    "申請商名稱": "0400502200  中日藥品股份有限公司",
+    "申請商地址": "台北市信義區逸仙路５０巷１２號７樓之１",
+    "主製造廠": [
+        {
+            "製造廠名稱": "0400502300  中日製藥股份有限公司",
+            "製造廠廠址": "台北縣瑞芳鎮頂坪路２９號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": ""
+        }
+    ],
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [

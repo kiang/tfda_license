@@ -1,6 +1,6 @@
 {
     "code": "96002621",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002621",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002621",
     "time": "2020-02-26 13:02:03",
     "許可證字號": "衛部醫器陸輸壹字第002621號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6203190583  榛冠鈞國際開發有限公司",
     "申請商地址": "臺中市西屯區福雅路255-15號",
-    "主製造廠": {
-        "製造廠名稱": "MCN4116000  FOSHAN SNYDER MEDICAL EQUIPMENT CO., LTD.",
-        "製造廠廠址": "NO.7 HEGUI RD., LUOCUN TOWN NANHAI AREA FOSHAN CITY, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN4116000  FOSHAN SNYDER MEDICAL EQUIPMENT CO., LTD.",
+            "製造廠廠址": "NO.7 HEGUI RD., LUOCUN TOWN NANHAI AREA FOSHAN CITY, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

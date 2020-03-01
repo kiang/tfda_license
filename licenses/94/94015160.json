@@ -1,6 +1,6 @@
 {
     "code": "94015160",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015160",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015160",
     "time": "2020-02-26 11:37:03",
     "許可證字號": "衛部醫器輸壹字第015160號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623104J322  日華國際有限公司",
     "申請商地址": "新北市中和區自治街52號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP1003100  ALPHAX Co., Ltd",
-        "製造廠廠址": "CYGNUS BL. 4F, 2-1-9 UCHIHIRANOMACHI, CHUO-KU OSAKA-SHI, OSAKA, 540-0037 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP1003100  ALPHAX Co., Ltd",
+            "製造廠廠址": "CYGNUS BL. 4F, 2-1-9 UCHIHIRANOMACHI, CHUO-KU OSAKA-SHI, OSAKA, 540-0037 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "94016209",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016209",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016209",
     "time": "2020-02-26 11:52:11",
     "許可證字號": "衛部醫器輸壹字第016209號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623104I763  果紅企業有限公司",
     "申請商地址": "新北市中和區中山路2段340巷28號(1樓)",
-    "主製造廠": {
-        "製造廠名稱": "MCA0863000  ARTRON LABORATORIES INC.",
-        "製造廠廠址": "3938 NORTH FRASER WAY, BURNABY, BC, V5J 5H6 CANADA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CANADA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCA0863000  ARTRON LABORATORIES INC.",
+            "製造廠廠址": "3938 NORTH FRASER WAY, BURNABY, BC, V5J 5H6 CANADA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CANADA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

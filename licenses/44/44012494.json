@@ -1,6 +1,6 @@
 {
     "code": "44012494",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012494",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012494",
     "time": "2020-02-26 05:45:17",
     "許可證字號": "衛署醫器輸壹字第012494號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201010781  若草事業股份有限公司",
     "申請商地址": "臺北市內湖區行愛路77巷69號7樓",
-    "主製造廠": {
-        "製造廠名稱": "CFR0110100  LABORATORIES GILBERT",
-        "製造廠廠址": "AVENUE DU GENERAL DE GAULLE, 14200 HEROUVILLE SAINT-CLAIR, FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CFR0110100  LABORATORIES GILBERT",
+            "製造廠廠址": "AVENUE DU GENERAL DE GAULLE, 14200 HEROUVILLE SAINT-CLAIR, FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

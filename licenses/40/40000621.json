@@ -1,6 +1,6 @@
 {
     "code": "40000621",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=40000621",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=40000621",
     "time": "2020-02-26 03:11:13",
     "許可證字號": "衛署粧陸輸字第000621號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "40大陸生產",
     "申請商名稱": "1437601100  台灣妮維雅股份有限公司",
     "申請商地址": "台北市內湖區瑞光路258巷31號6樓",
-    "主製造廠": {
-        "製造廠名稱": "CCN0031000  NIVEA (SHANGHAI) CO., LTD.",
-        "製造廠廠址": "NO.1659 BEIYING ROAD, QINGPU DISTRICT, SHANGHAI, PEOPLE’S REPUBLIC OF CHINA 201700",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CCN0031000  NIVEA (SHANGHAI) CO., LTD.",
+            "製造廠廠址": "NO.1659 BEIYING ROAD, QINGPU DISTRICT, SHANGHAI, PEOPLE’S REPUBLIC OF CHINA 201700",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

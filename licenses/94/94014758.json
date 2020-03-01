@@ -1,6 +1,6 @@
 {
     "code": "94014758",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014758",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014758",
     "time": "2020-02-26 11:31:44",
     "許可證字號": "衛部醫器輸壹字第014758號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102Q606  宗聖貿易有限公司",
     "申請商地址": "台北市大安區和平東路2段18巷9之10號",
-    "主製造廠": {
-        "製造廠名稱": "MJP6116000  JM Ortho Corporation",
-        "製造廠廠址": "Ochanomizu Kyoun Bldg. 14F, 2-2 Kanda-Surugadai, Chiyoda-Ku, Tokyo 101-0062, Japan",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP6116000  JM Ortho Corporation",
+            "製造廠廠址": "Ochanomizu Kyoun Bldg. 14F, 2-2 Kanda-Surugadai, Chiyoda-Ku, Tokyo 101-0062, Japan",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

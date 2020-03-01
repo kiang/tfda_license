@@ -1,6 +1,6 @@
 {
     "code": "06022638",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022638",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022638",
     "time": "2020-02-25 20:22:46",
     "許可證字號": "衛署醫器輸字第022638號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102X730  宏煜國際貿易股份有限公司",
     "申請商地址": "臺北市文山區羅斯福路六段469巷19號17樓",
-    "主製造廠": {
-        "製造廠名稱": "MGR0016000  DMP DENTAL INDUSTRY S.A.",
-        "製造廠廠址": "KALYVION AVENUE, MARKOPOULO INDUSTRIAL ZONE, ATTIKI 19003, GREECE",
-        "製造廠公司地址": "",
-        "製造廠國別": "GREECE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGR0016000  DMP DENTAL INDUSTRY S.A.",
+            "製造廠廠址": "KALYVION AVENUE, MARKOPOULO INDUSTRIAL ZONE, ATTIKI 19003, GREECE",
+            "製造廠公司地址": "",
+            "製造廠國別": "GREECE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

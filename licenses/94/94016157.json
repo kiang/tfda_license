@@ -1,6 +1,6 @@
 {
     "code": "94016157",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016157",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016157",
     "time": "2020-02-26 11:51:29",
     "許可證字號": "衛部醫器輸壹字第016157號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6201027023  美商貝克曼庫爾特有限公司台灣分公司",
     "申請商地址": "台北市大安區敦化南路二段216號8樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS4497000  AMERICAN BIOMEDICAL INC.",
-        "製造廠廠址": "11333 E PINE ST. STE 60, TULSA, OK 74116, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS4497000  AMERICAN BIOMEDICAL INC.",
+            "製造廠廠址": "11333 E PINE ST. STE 60, TULSA, OK 74116, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS1066200  BECKMAN COULTER INC.",
+            "製造廠廠址": "250 S. KRAEMER BOULEVARD, BREA, CA 92821, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

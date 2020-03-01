@@ -1,11 +1,12 @@
 {
     "code": "02019479",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019479",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019479",
     "time": "2020-02-25 12:12:05",
     "許可證字號": "衛署藥輸字第019479號",
     "註銷狀態": "已註銷",
     "註銷日期": "88\/03\/11",
     "註銷理由": "有效期間已屆未能補件",
+    "製造許可登錄編號": "",
     "有效日期": "87\/07\/03",
     "發證日期": "81\/09\/11",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "0516301100  弘健國際通商有限公司",
-        "申請商地址": "台北巿四維路５２巷３１號之３．４樓",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "HOMATROPINE METHYLBROMIDE, ALUMINUM HYDROXIDE DRIED GEL, CALCIUM CARBONATE, MAGNESIUM CARBONATE, MAGNESIUM TRISILICATE, BISMUTH SUBCARBONATE",
+    "限制項目": "02輸　入",
+    "申請商名稱": "0516301100  弘健國際通商有限公司",
+    "申請商地址": "台北巿四維路５２巷３１號之３．４樓",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FGB0026000  CONSOLIDATED CHEMICALS LTD.",
+            "製造廠廠址": "THE INDUSTRIAL ESTATE WREXHAM CLWYD LL13 9PS GT, BRITAIN",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [

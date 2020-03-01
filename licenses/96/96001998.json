@@ -1,6 +1,6 @@
 {
     "code": "96001998",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96001998",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96001998",
     "time": "2020-02-26 12:54:51",
     "許可證字號": "衛部醫器陸輸壹字第001998號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP 40大陸生產",
     "申請商名稱": "0403111200  中國衛生材料生產中心股份有限公司",
     "申請商地址": "彰化縣彰化市福田里彰南路六段424巷21號",
-    "主製造廠": {
-        "製造廠名稱": "MCN5418000  XUCHANG ZHENDE SURGICAL DRESSINGS CO.,LTD",
-        "製造廠廠址": "NO.1 JINHUI ROAD INDUSTRY CLUSTER DISTRICT YANLING COUNTY 461200 XUCHANG CITY, HENAN PROVINCE, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN5418000  XUCHANG ZHENDE SURGICAL DRESSINGS CO.,LTD",
+            "製造廠廠址": "NO.1 JINHUI ROAD INDUSTRY CLUSTER DISTRICT YANLING COUNTY 461200 XUCHANG CITY, HENAN PROVINCE, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

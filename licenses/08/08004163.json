@@ -1,6 +1,6 @@
 {
     "code": "08004163",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08004163",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08004163",
     "time": "2020-02-25 22:36:16",
     "許可證字號": "衛署粧輸字第004163號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0317602100  上嵐企業有限公司",
     "申請商地址": "台北縣新店巿寶橋路２３５巷６弄７號",
-    "主製造廠": {
-        "製造廠名稱": "CCH0014000  INTERCOSMETICA SA",
-        "製造廠廠址": "FOR ULTRASUN AG CH-8604 VOKETSWIL SWITZERLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CCH0014000  INTERCOSMETICA SA",
+            "製造廠廠址": "FOR ULTRASUN AG CH-8604 VOKETSWIL SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

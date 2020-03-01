@@ -1,6 +1,6 @@
 {
     "code": "06008274",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06008274",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06008274",
     "time": "2020-02-25 17:35:26",
     "許可證字號": "衛署醫器輸字第008274號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1509431100  德記洋行股份有限公司",
     "申請商地址": "基隆巿七堵區大德路１３１號",
-    "主製造廠": {
-        "製造廠名稱": "MTH0004000  LONDON ROYAL CONSUMER PRODUCTS (THAILAND) LTD. WELLGROW INDUSTIAL",
-        "製造廠廠址": "EATATE 100 MOO 5 BANGNA TRAD KM#36, BANGPAKONG CHACHOENGSAO 24130 THAILAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "THAILAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MTH0004000  LONDON ROYAL CONSUMER PRODUCTS (THAILAND) LTD. WELLGROW INDUSTIAL",
+            "製造廠廠址": "EATATE 100 MOO 5 BANGNA TRAD KM#36, BANGPAKONG CHACHOENGSAO 24130 THAILAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "THAILAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "06006761",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06006761",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06006761",
     "time": "2020-02-25 17:14:56",
     "許可證字號": "衛署醫器輸字第006761號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1005201100  展鴻股份有限公司",
     "申請商地址": "台北巿復興北路１８１號７樓之５",
-    "主製造廠": {
-        "製造廠名稱": "MUS0557100  TRIMEDYNE INC.",
-        "製造廠廠址": "2801 BARRANCA ROAD, IRVINE, CA 92714",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0557100  TRIMEDYNE INC.",
+            "製造廠廠址": "2801 BARRANCA ROAD, IRVINE, CA 92714",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

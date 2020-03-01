@@ -1,6 +1,6 @@
 {
     "code": "56031839",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031839",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031839",
     "time": "2020-02-26 08:25:45",
     "許可證字號": "衛部醫器輸字第031839號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6231046492  科林儀器股份有限公司",
     "申請商地址": "新北市中和區中和路366號12樓之3",
-    "主製造廠": {
-        "製造廠名稱": "MFI0070000  Optomed Oy",
-        "製造廠廠址": "Yrttipellontie 1 FI-90230, Oulu, Finland",
-        "製造廠公司地址": "",
-        "製造廠國別": "FINLAND",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFI0070000  Optomed Oy",
+            "製造廠廠址": "Yrttipellontie 1 FI-90230, Oulu, Finland",
+            "製造廠公司地址": "",
+            "製造廠國別": "FINLAND",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MCH0061000  HAAG-STREIT AG",
+            "製造廠廠址": "GARTENSTADTSTRASSE 10, 3098 KOENIZ, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

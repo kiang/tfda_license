@@ -1,11 +1,12 @@
 {
     "code": "60000968",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60000968",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60000968",
     "time": "2020-02-26 09:58:43",
     "許可證字號": "衛部菌疫輸字第000968號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
+    "製造許可登錄編號": "",
     "有效日期": "110\/09\/23",
     "發證日期": "105\/09\/23",
     "許可證種類": "菌　疫",
@@ -20,19 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
+    "管制藥品分類級別": "",
     "藥品分類": "疫苗",
-    "主製造廠": {
-        "限制項目": "02輸　入 5F免除銜接性試驗",
-        "申請商名稱": "6201011338  荷商葛蘭素史克藥廠股份有限公司台灣分公司",
-        "申請商地址": "臺北市中正區忠孝西路一段66號23、24樓",
-        "主製造廠": ""
-    },
-    "CCC號列": "30022000008 人類醫藥用疫苗Vaccines for human medicine",
-    "藥理治療分類": "",
+    "監視期限": "110\/09\/23",
+    "主成分略述": "Meningococcal group A oligosaccharide Conjugated to Corynebacterium diphtheriae CRM197 protein, Meningococcal group C oligosaccharide Conjugated to Corynebacterium diphtheriae CRM197 protein, Meningococcal group W-135 oligosaccharide Conjugated to Corynebacterium diphtheriae CRM197 protein, Meningococcal group Y oligosaccharide Conjugated to Corynebacterium diphtheriae CRM197 protein",
+    "限制項目": "02輸　入 5F免除銜接性試驗",
+    "申請商名稱": "6201011338  荷商葛蘭素史克藥廠股份有限公司台灣分公司",
+    "申請商地址": "臺北市中正區忠孝西路一段66號23、24樓",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FIT0429000  GlaxoSmithKline Vaccines S.r.l.",
+            "製造廠廠址": "BELLARIA ROSIA 53018 SOVICILLE (SIENA), ITLAY",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": "原料藥製造、調配、充填和組裝"
+        }
+    ],
     "次製造廠": [
         {
             "製造廠名稱": "6132061151  裕利股份有限公司",
@@ -49,6 +55,8 @@
             "製程": "調液、充填和凍晶乾燥作業"
         }
     ],
+    "CCC號列": "30022000008 人類醫藥用疫苗Vaccines for human medicine",
+    "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",

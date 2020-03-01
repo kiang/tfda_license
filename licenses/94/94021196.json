@@ -1,6 +1,6 @@
 {
     "code": "94021196",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94021196",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94021196",
     "time": "2020-02-26 12:50:57",
     "許可證字號": "衛部醫器輸壹字第021196號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623106E758  皇雅生醫科技有限公司",
     "申請商地址": "台北市信義區忠孝東路五段412號8樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE1647000  GEBR. REINFURT GMBH &amp; CO. KG",
-        "製造廠廠址": "NIEDERHOFERSTR. 105, D-97222 RIMPAR, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE1647000  GEBR. REINFURT GMBH &amp; CO. KG",
+            "製造廠廠址": "NIEDERHOFERSTR. 105, D-97222 RIMPAR, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

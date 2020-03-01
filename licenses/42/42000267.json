@@ -1,6 +1,6 @@
 {
     "code": "42000267",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000267",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000267",
     "time": "2020-02-26 03:24:12",
     "許可證字號": "衛署醫器陸輸字第000267號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6231059800  安盛美有限公司",
     "申請商地址": "新北市新店區中華路117巷4弄6號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN0675000  EDAN INSTRUMENTS, INC.",
-        "製造廠廠址": "2\/F, BLOCK A\/B, UNIT 8, XING HUA BUILDING, NANHAI RD, NANSHAN SHENZHEN, 518067 CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0675000  EDAN INSTRUMENTS, INC.",
+            "製造廠廠址": "2\/F, BLOCK A\/B, UNIT 8, XING HUA BUILDING, NANHAI RD, NANSHAN SHENZHEN, 518067 CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

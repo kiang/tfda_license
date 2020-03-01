@@ -1,6 +1,6 @@
 {
     "code": "06023639",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023639",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023639",
     "time": "2020-02-25 20:33:26",
     "許可證字號": "衛署醫器輸字第023639號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620110L462  香港商生物梅里埃有限公司臺灣分公司",
     "申請商地址": "台北市信義區松山路130號8樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS1126000  BIOMERIEUX, INC.",
-        "製造廠廠址": "595 ANGLUM ROAD, HAZELWOOD, MO 63042, U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS1126000  BIOMERIEUX, INC.",
+            "製造廠廠址": "595 ANGLUM ROAD, HAZELWOOD, MO 63042, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

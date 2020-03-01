@@ -1,6 +1,6 @@
 {
     "code": "06005239",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06005239",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06005239",
     "time": "2020-02-25 16:49:53",
     "許可證字號": "衛署醫器輸字第005239號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1219201100  雅臣股份有限公司",
     "申請商地址": "台北巿南京東路四段１３７號８樓",
-    "主製造廠": {
-        "製造廠名稱": "MGB0096000  BRIT CAIR LIMITED",
-        "製造廠廠址": "PROGRESS HOUSE, ALBERT ROAD, ALDERSHOT, HANTS. GULL 1SZ",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0096000  BRIT CAIR LIMITED",
+            "製造廠廠址": "PROGRESS HOUSE, ALBERT ROAD, ALDERSHOT, HANTS. GULL 1SZ",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

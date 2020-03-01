@@ -1,6 +1,6 @@
 {
     "code": "96002786",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002786",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002786",
     "time": "2020-02-26 13:04:00",
     "許可證字號": "衛部醫器陸輸壹字第002786號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6233082450  必翔銀髮事業股份有限公司",
     "申請商地址": "新竹縣新豐鄉新豐村2鄰新和路108號",
-    "主製造廠": {
-        "製造廠名稱": "MCN4209000  JIANGSU INTCO MEDICAL PRODUCTS CO., LTD.",
-        "製造廠廠址": "NO.77 YANDUNSHAN ROAD, DAGANG ZHENJIANG, JIANGSU PROVINCE 212132 CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN4209000  JIANGSU INTCO MEDICAL PRODUCTS CO., LTD.",
+            "製造廠廠址": "NO.77 YANDUNSHAN ROAD, DAGANG ZHENJIANG, JIANGSU PROVINCE 212132 CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,11 +1,12 @@
 {
     "code": "02024377",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024377",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024377",
     "time": "2020-02-25 13:21:23",
     "許可證字號": "衛署藥輸字第024377號",
     "註銷狀態": "已註銷",
     "註銷日期": "103\/01\/24",
     "註銷理由": "未展延而逾期者",
+    "製造許可登錄編號": "",
     "有效日期": "100\/02\/10",
     "發證日期": "95\/02\/10",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "1436301100  台灣費森尤斯醫藥股份有限公司",
-        "申請商地址": "台北市內湖區瑞湖街58號7樓",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "SODIUM LACTATE SOLUTION, CALCIUM CHLORIDE DIHYDRATE, MAGNESIUM CHLORIDE HEXAHYDRATE (EQ TO MAGNESIUM CHLORIDE 6H2O), SODIUM CHLORIDE, GLUCOSE MONOHYDRATE",
+    "限制項目": "02輸　入",
+    "申請商名稱": "1436301100  台灣費森尤斯醫藥股份有限公司",
+    "申請商地址": "台北市內湖區瑞湖街58號7樓",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FTH0008000  THAI NAKORN PATANA CO., LTD.",
+            "製造廠廠址": "94\/7 SOI YIMPARKORB, NGAMWONGWAN ROAD, NONTHABURI 11000, THAILAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "THAILAND",
+            "製程": ""
+        }
+    ],
     "CCC號列": "30049040003 洗腎用清洗液，具有劑量或零售包裝式樣者Hemodialysis concentrate, put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [

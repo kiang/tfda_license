@@ -1,6 +1,6 @@
 {
     "code": "08007433",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08007433",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08007433",
     "time": "2020-02-25 23:11:46",
     "許可證字號": "衛署粧輸字第007433號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1013201100  浩康股份有限公司",
     "申請商地址": "新北市新店區中正路542之2號2樓",
-    "主製造廠": {
-        "製造廠名稱": "CIT0041000  PARISIENNE ITALIA S.R.L.",
-        "製造廠廠址": "VIA DI CORTICELLA 190-190\/2 BOLOGNA-ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CIT0041000  PARISIENNE ITALIA S.R.L.",
+            "製造廠廠址": "VIA DI CORTICELLA 190-190\/2 BOLOGNA-ITALY",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

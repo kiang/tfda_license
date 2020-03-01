@@ -1,6 +1,6 @@
 {
     "code": "94015479",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015479",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015479",
     "time": "2020-02-26 11:41:38",
     "許可證字號": "衛部醫器輸壹字第015479號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620118K203  英美醫療器材有限公司",
     "申請商地址": "新北市板橋區忠孝路283之1號8樓",
-    "主製造廠": {
-        "製造廠名稱": "MFR0947000  APHEX BIOCLEAN FRANCE",
-        "製造廠廠址": "4, AVENUE EDOUARD BRANLY – 13009 MARSEILLE, FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR0947000  APHEX BIOCLEAN FRANCE",
+            "製造廠廠址": "4, AVENUE EDOUARD BRANLY – 13009 MARSEILLE, FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

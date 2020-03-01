@@ -1,6 +1,6 @@
 {
     "code": "42000157",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000157",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000157",
     "time": "2020-02-26 03:21:57",
     "許可證字號": "衛署醫器陸輸字第000157號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 40大陸生產",
     "申請商名稱": "1407001100  臺灣明尼蘇達礦業製造股份有限公司",
     "申請商地址": "台北市南港區經貿二路198號3樓至8樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN0006000  SUZHOU AVON TEXTILE CO., LTD.",
-        "製造廠廠址": "Yuanhe Town, Xiangcheng Region, Suzhou City, Jiangsu Province, China 215133",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0006000  SUZHOU AVON TEXTILE CO., LTD.",
+            "製造廠廠址": "Yuanhe Town, Xiangcheng Region, Suzhou City, Jiangsu Province, China 215133",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "FUS2352000  3M HEALTH CARE",
+            "製造廠廠址": "ST. PAUL, MN55144-1000, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "許可證持有者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

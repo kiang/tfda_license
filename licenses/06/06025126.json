@@ -1,6 +1,6 @@
 {
     "code": "06025126",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06025126",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06025126",
     "time": "2020-02-25 20:48:56",
     "許可證字號": "衛署醫器輸字第025126號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6401022675  壯生醫療器材股份有限公司",
     "申請商地址": "臺北市中山區民生東路三段2號10樓及11樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS5111000  Codman &amp; Shurtleff, Inc. dba DePuy Synthes Products, Inc.",
-        "製造廠廠址": "47709 Fremont Blvd. Fremont CA 94538, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS5111000  Codman &amp; Shurtleff, Inc. dba DePuy Synthes Products, Inc.",
+            "製造廠廠址": "47709 Fremont Blvd. Fremont CA 94538, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MCH0216000  MEDOS INTERNATIONAL SARL",
+            "製造廠廠址": "CHEMIN-BLANC 38, CH-2400 LE LOCLE, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

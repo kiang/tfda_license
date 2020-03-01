@@ -1,6 +1,6 @@
 {
     "code": "94018140",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018140",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018140",
     "time": "2020-02-26 12:22:29",
     "許可證字號": "衛部醫器輸壹字第018140號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6237191389  康威利實業有限公司",
     "申請商地址": "台中市西屯區工業區38路210號4樓之8",
-    "主製造廠": {
-        "製造廠名稱": "MVN0057100  M2 GLOBAL CO., LTD.",
-        "製造廠廠址": "LOT E9 (ZONE B4), D9 ROAD, RACH BAP INDUSTRIAL PARK, AN TAY COMMUNE, BEN CAT TOWN, BINH DUONG PROVINCE, VIETNAM",
-        "製造廠公司地址": "",
-        "製造廠國別": "VIET NAM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MVN0057100  M2 GLOBAL CO., LTD.",
+            "製造廠廠址": "LOT E9 (ZONE B4), D9 ROAD, RACH BAP INDUSTRIAL PARK, AN TAY COMMUNE, BEN CAT TOWN, BINH DUONG PROVINCE, VIETNAM",
+            "製造廠公司地址": "",
+            "製造廠國別": "VIET NAM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

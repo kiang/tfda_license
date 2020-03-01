@@ -1,6 +1,6 @@
 {
     "code": "94021088",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94021088",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94021088",
     "time": "2020-02-26 12:50:08",
     "許可證字號": "衛部醫器輸壹字第021088號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620118F459  台灣醫藥科技股份有限公司",
     "申請商地址": "臺北市中正區忠孝西路一段33號7樓(實際營業地址：A8室)",
-    "主製造廠": {
-        "製造廠名稱": "MPL0019100  ArjoHuntleigh Polska Sp. z o. o.",
-        "製造廠廠址": "ul. Ks. Wawrzyniaka 2 62-052 Komorniki, Poland",
-        "製造廠公司地址": "",
-        "製造廠國別": "POLAND",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MPL0019100  ArjoHuntleigh Polska Sp. z o. o.",
+            "製造廠廠址": "ul. Ks. Wawrzyniaka 2 62-052 Komorniki, Poland",
+            "製造廠公司地址": "",
+            "製造廠國別": "POLAND",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MSE2438100  ArjoHuntleigh AB",
+            "製造廠廠址": "Hans Michelsensgatan 10 21120 Malm&#246;, Sweden",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWEDEN",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,11 +1,12 @@
 {
     "code": "51058201",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058201",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058201",
     "time": "2020-02-26 06:13:31",
     "許可證字號": "衛部藥製字第058201號",
     "註銷狀態": "已註銷",
     "註銷日期": "107\/11\/20",
     "註銷理由": "自請註銷",
+    "製造許可登錄編號": "",
     "有效日期": "108\/02\/12",
     "發證日期": "103\/02\/12",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "",
-        "申請商名稱": "6231105405  輝瑞生技股份有限公司",
-        "申請商地址": "新北市淡水區中正東路二段177號",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "Iron (as Ferrous Fumarate), CALCIUM, COPPER, MAGNESIUM, MANGANESE, ZINC, CHROMIUM, IODINE (POTASSIUM), MOLYBDENUM, VITAMIN A ACETATE, Beta Carotene, BIOTIN, NIACIN (NIACINAMIDE), VITAMIN B1 (MONONITRATE), VITAMIN B2 (RIBOFLAVIN), VITAMIN B6 (HCL), Vitamin B12 (as Cyanocobalamin), FOLIC ACID, PANTOTHENIC ACID, VITAMIN C (ASCORBIC ACID), CHOLECALCIFEROL ( EQ TO VIT D3) ( EQ TO VITAMIN D3), Vitamin E (as dl-α-Tocopheryl Acetate)",
+    "限制項目": "",
+    "申請商名稱": "6231105405  輝瑞生技股份有限公司",
+    "申請商地址": "新北市淡水區中正東路二段177號",
+    "主製造廠": [
+        {
+            "製造廠名稱": "1409905300  輝瑞生技股份有限公司新竹廠",
+            "製造廠廠址": "新竹縣新豐鄉中崙村中崙２９０之１號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": ""
+        }
+    ],
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [

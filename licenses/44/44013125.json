@@ -1,6 +1,6 @@
 {
     "code": "44013125",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44013125",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44013125",
     "time": "2020-02-26 05:51:31",
     "許可證字號": "衛署醫器輸壹字第013125號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "1221705200  普生股份有限公司",
     "申請商地址": "新竹縣寶山鄉新竹科學園區創新一路６號",
-    "主製造廠": {
-        "製造廠名稱": "MIN0130000  ROBONIK (INDIA) PVT. LTD.",
-        "製造廠廠址": "PLOT NO.3&amp;4, MIDC INDUSTRIAL AREA, MORIVALI, NEAR LADHI NAKA, AMBERNATH (WEST), DISTRICT THANE, MAHARASHTRA, 421501, INDIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "INDIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIN0130000  ROBONIK (INDIA) PVT. LTD.",
+            "製造廠廠址": "PLOT NO.3&amp;4, MIDC INDUSTRIAL AREA, MORIVALI, NEAR LADHI NAKA, AMBERNATH (WEST), DISTRICT THANE, MAHARASHTRA, 421501, INDIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "INDIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

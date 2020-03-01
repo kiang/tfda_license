@@ -1,6 +1,6 @@
 {
     "code": "58020738",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58020738",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58020738",
     "time": "2020-02-26 08:52:51",
     "許可證字號": "衛部粧輸字第020738號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "2002501100  蘇美實業有限公司",
     "申請商地址": "新北市中和區中正路880號7樓之六",
-    "主製造廠": {
-        "製造廠名稱": "CTH0005000  YAMAHATSU (THAILAND) CO., LTD.",
-        "製造廠廠址": "600\/48 MOO 11, SUKHAPHIBAN 8 ROAD, NONGKHAM, SRIRACHA, CHONBURI 20230, THAILAND.",
-        "製造廠公司地址": "",
-        "製造廠國別": "THAILAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CTH0005000  YAMAHATSU (THAILAND) CO., LTD.",
+            "製造廠廠址": "600\/48 MOO 11, SUKHAPHIBAN 8 ROAD, NONGKHAM, SRIRACHA, CHONBURI 20230, THAILAND.",
+            "製造廠公司地址": "",
+            "製造廠國別": "THAILAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

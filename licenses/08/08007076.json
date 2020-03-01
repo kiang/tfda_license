@@ -1,6 +1,6 @@
 {
     "code": "08007076",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08007076",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08007076",
     "time": "2020-02-25 23:07:50",
     "許可證字號": "衛署粧輸字第007076號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0940521100  姿雅企業社",
     "申請商地址": "高雄巿新興區南華橫一路１３號３樓之４",
-    "主製造廠": {
-        "製造廠名稱": "CFR0081000  ALBAKAP LABORIATOIRE",
-        "製造廠廠址": "ZI ALBASUD-146 IMPASSE BEAU-DE-ROCHAS-82000 MONTAUBAN-FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CFR0081000  ALBAKAP LABORIATOIRE",
+            "製造廠廠址": "ZI ALBASUD-146 IMPASSE BEAU-DE-ROCHAS-82000 MONTAUBAN-FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

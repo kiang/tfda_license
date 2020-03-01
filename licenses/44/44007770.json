@@ -1,6 +1,6 @@
 {
     "code": "44007770",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007770",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007770",
     "time": "2020-02-26 05:01:18",
     "許可證字號": "衛署醫器輸壹字第007770號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "0601601100  吉富貿易有限公司",
     "申請商地址": "台北市內湖區行愛路77巷69號7樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS4858000  FORMULATED SOLUTIONS, LLC.",
-        "製造廠廠址": "11775 STARKEY ROAD LARGO, FL USA 33773",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS4858000  FORMULATED SOLUTIONS, LLC.",
+            "製造廠廠址": "11775 STARKEY ROAD LARGO, FL USA 33773",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS4859000  ADVANCED BIO-TECHNOLOGIES, INC.",
+            "製造廠廠址": "4830 WEST KENNEDY BLVD SUITE 600 TAMPA, FL USA 33609",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

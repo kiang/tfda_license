@@ -1,6 +1,6 @@
 {
     "code": "56028126",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028126",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028126",
     "time": "2020-02-26 07:52:21",
     "許可證字號": "衛部醫器輸字第028126號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217023246  威爾登國際貿易有限公司",
     "申請商地址": "台中市大雅區大林路195巷6號",
-    "主製造廠": {
-        "製造廠名稱": "MMY0088000  INNOLATEX SDN. BHD.",
-        "製造廠廠址": "LOT594, PERSIARAN RAJA LUMU, PANDAMARAN INDUSTRIAL ESTATE, 42000 PORT KLANG, SELANGOR DARUL EHSAN, MALAYSIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "MALAYSIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMY0088000  INNOLATEX SDN. BHD.",
+            "製造廠廠址": "LOT594, PERSIARAN RAJA LUMU, PANDAMARAN INDUSTRIAL ESTATE, 42000 PORT KLANG, SELANGOR DARUL EHSAN, MALAYSIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "MALAYSIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

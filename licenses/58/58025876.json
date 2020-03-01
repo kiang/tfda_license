@@ -1,6 +1,6 @@
 {
     "code": "58025876",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58025876",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58025876",
     "time": "2020-02-26 09:51:12",
     "許可證字號": "衛部粧輸字第025876號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "0930501100  美商雅詩蘭黛股份有限公司台灣分公司",
     "申請商地址": "台北市信義區松高路9號19樓",
-    "主製造廠": {
-        "製造廠名稱": "CUS0430000  Aveda Corporation",
-        "製造廠廠址": "4000 Pheasant Ridge Drive, Minneapolis, MN 55449-7106, USA.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CUS0430000  Aveda Corporation",
+            "製造廠廠址": "4000 Pheasant Ridge Drive, Minneapolis, MN 55449-7106, USA.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

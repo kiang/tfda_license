@@ -1,6 +1,6 @@
 {
     "code": "94020262",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020262",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020262",
     "time": "2020-02-26 12:42:27",
     "許可證字號": "衛部醫器輸壹字第020262號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201113800  台灣康貝股份有限公司",
     "申請商地址": "台北市內湖區內湖路一段360巷6號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP1442000  TR&amp;K",
-        "製造廠廠址": "2-9NKdai7 Bld. 5F, Yotsuya, Shinjuku Ku, Tokyo To, 160-0004 Japan",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP1442000  TR&amp;K",
+            "製造廠廠址": "2-9NKdai7 Bld. 5F, Yotsuya, Shinjuku Ku, Tokyo To, 160-0004 Japan",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

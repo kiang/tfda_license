@@ -1,6 +1,6 @@
 {
     "code": "44010565",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010565",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010565",
     "time": "2020-02-26 05:26:23",
     "許可證字號": "衛署醫器輸壹字第010565號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "1226021100  惠眾股份有限公司",
     "申請商地址": "高雄市新興區中正三路2號19樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS1902000  CONMED CORPORATION",
-        "製造廠廠址": "525 FRENCH ROAD UTICA, NEW YORK 13502 U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS1902000  CONMED CORPORATION",
+            "製造廠廠址": "525 FRENCH ROAD UTICA, NEW YORK 13502 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

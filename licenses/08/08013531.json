@@ -1,6 +1,6 @@
 {
     "code": "08013531",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08013531",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08013531",
     "time": "2020-02-26 00:13:40",
     "許可證字號": "衛署粧輸字第013531號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0714402100  沈默是金開發企業有限公司",
     "申請商地址": "新北市五股區四維路86號9樓",
-    "主製造廠": {
-        "製造廠名稱": "CES0016100  ERAYBA COSMETICS, S.A.",
-        "製造廠廠址": "SERRA DEL MONTSECH, 44-46, 08950 ESPLUGUES DE LLOBREGAT (BARCELONA), SPAIN",
-        "製造廠公司地址": "",
-        "製造廠國別": "SPAIN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CES0016100  ERAYBA COSMETICS, S.A.",
+            "製造廠廠址": "SERRA DEL MONTSECH, 44-46, 08950 ESPLUGUES DE LLOBREGAT (BARCELONA), SPAIN",
+            "製造廠公司地址": "",
+            "製造廠國別": "SPAIN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

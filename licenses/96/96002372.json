@@ -1,6 +1,6 @@
 {
     "code": "96002372",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002372",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002372",
     "time": "2020-02-26 12:59:06",
     "許可證字號": "衛部醫器陸輸壹字第002372號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6132070098  愷得醫材科技股份有限公司",
     "申請商地址": "桃園市龜山區萬壽路一段492-19號5樓之2、492-20號5樓之1,2",
-    "主製造廠": {
-        "製造廠名稱": "MCN3945000  SHANGHAI WEIXIN PLASTIC TECHNOLOGY CO., LTD",
-        "製造廠廠址": "ROOM 1117, 11 BUILDING NO.500 SHENGXIN SOUTH ROAD JIADING DISTRICT SHANGHAI, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN3945000  SHANGHAI WEIXIN PLASTIC TECHNOLOGY CO., LTD",
+            "製造廠廠址": "ROOM 1117, 11 BUILDING NO.500 SHENGXIN SOUTH ROAD JIADING DISTRICT SHANGHAI, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

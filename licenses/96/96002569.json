@@ -1,6 +1,6 @@
 {
     "code": "96002569",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002569",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002569",
     "time": "2020-02-26 13:01:24",
     "許可證字號": "衛部醫器陸輸壹字第002569號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP 40大陸生產",
     "申請商名稱": "620118L282  觀達股份有限公司",
     "申請商地址": "台北市中正區忠孝東路2段100號8樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MCN1221100  GREAT GLOVE (XINGHUA) CO., LTD.",
-        "製造廠廠址": "SOUTH OF WEI WU ROAD, ECONOMIC DEVELOPMENT DISTRICT, XINGHUA 225700, JIANGSU PROVINCE, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1221100  GREAT GLOVE (XINGHUA) CO., LTD.",
+            "製造廠廠址": "SOUTH OF WEI WU ROAD, ECONOMIC DEVELOPMENT DISTRICT, XINGHUA 225700, JIANGSU PROVINCE, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

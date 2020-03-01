@@ -1,11 +1,12 @@
 {
     "code": "41000281",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=41000281",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=41000281",
     "time": "2020-02-26 03:16:54",
     "許可證字號": "衛署藥陸輸字第000281號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
+    "製造許可登錄編號": "",
     "有效日期": "111\/07\/25",
     "發證日期": "96\/07\/25",
     "許可證種類": "原料藥",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "01製劑原料",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入 40大陸生產",
-        "申請商名稱": "620110H286  宇直泰貿易股份有限公司",
-        "申請商地址": "台北市中山區南京東路二段206號8樓",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "",
+    "限制項目": "02輸　入 40大陸生產",
+    "申請商名稱": "620110H286  宇直泰貿易股份有限公司",
+    "申請商地址": "台北市中山區南京東路二段206號8樓",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FCN0087000  ZHEJIANG HISUN PHARMACEUTICAL CO., LTD.",
+            "製造廠廠址": "56 Binhai Road, Jiaojiang District, Taizhou City, Zhejiang Province, China",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "CCC號列": "29189900900 其他附加有氧官能基之羧酸及其酐、鹵化物、過氧化物及過氧酸；其鹵化、磺化、硝化或亞硝化衍生物Other carboxylic acids with additional oxygen function and their anhydrides, halides, peroxides and peroxyacids; their halogenated,sulphonated, nitrated or nitrosated derivatives",
     "藥理治療分類": "",
     "ingredients": []

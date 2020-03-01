@@ -1,6 +1,6 @@
 {
     "code": "94020607",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020607",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020607",
     "time": "2020-02-26 12:45:45",
     "許可證字號": "衛部醫器輸壹字第020607號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201029732  醫全實業股份有限公司",
     "申請商地址": "台北市大安區和平東路二段107巷23之9號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP1467000  HITACHI CHEMICAL DIAGNOSTICS SYSTEMS CO., LTD.",
-        "製造廠廠址": "600-1, MINAMI-ISHIKI, NAGAIZUMI-CHO, SUNTO-GUN, SHIZUOKA-KEN, 411-0932, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP1467000  HITACHI CHEMICAL DIAGNOSTICS SYSTEMS CO., LTD.",
+            "製造廠廠址": "600-1, MINAMI-ISHIKI, NAGAIZUMI-CHO, SUNTO-GUN, SHIZUOKA-KEN, 411-0932, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

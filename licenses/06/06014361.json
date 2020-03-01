@@ -1,6 +1,6 @@
 {
     "code": "06014361",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014361",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014361",
     "time": "2020-02-25 18:48:53",
     "許可證字號": "衛署醫器輸字第014361號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217064201  永英有限公司",
     "申請商地址": "台中市西屯區工業一路6巷12號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MCH0116000  MEDELA AG",
-        "製造廠廠址": "LATTICHSTRASSE 4, CH-6340 BAAR, SWITZERLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCH0116000  MEDELA AG",
+            "製造廠廠址": "LATTICHSTRASSE 4, CH-6340 BAAR, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

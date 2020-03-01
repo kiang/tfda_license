@@ -1,6 +1,6 @@
 {
     "code": "94019855",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019855",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019855",
     "time": "2020-02-26 12:38:45",
     "許可證字號": "衛部醫器輸壹字第019855號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6240122003  康而富國際行銷有限公司",
     "申請商地址": "嘉義縣水上鄉中庄村中庄392號",
-    "主製造廠": {
-        "製造廠名稱": "MMX0160000  SUNRISE MEDICAL TJ",
-        "製造廠廠址": "PRIVADA MISIONES #110 TIJUANA, B.C. MEXICO 22575",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0160000  SUNRISE MEDICAL TJ",
+            "製造廠廠址": "PRIVADA MISIONES #110 TIJUANA, B.C. MEXICO 22575",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

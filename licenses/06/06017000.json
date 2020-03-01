@@ -1,6 +1,6 @@
 {
     "code": "06017000",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06017000",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06017000",
     "time": "2020-02-25 19:18:21",
     "許可證字號": "衛署醫器輸字第017000號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1507401100  嬌生股份有限公司",
     "申請商地址": "台北市中山區民生東路三段2號10樓及11樓",
-    "主製造廠": {
-        "製造廠名稱": "MIN0061000  Piramal Enterprises Limited",
-        "製造廠廠址": "Plot 67-70, Sector II, Pithampur 454 775, Madhya Pradesh, India",
-        "製造廠公司地址": "",
-        "製造廠國別": "INDIA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIN0061000  Piramal Enterprises Limited",
+            "製造廠廠址": "Plot 67-70, Sector II, Pithampur 454 775, Madhya Pradesh, India",
+            "製造廠公司地址": "",
+            "製造廠國別": "INDIA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS2138100  Johnson &amp; Johnson Surgical Vision, Inc.",
+            "製造廠廠址": "1700 E. St. Andrew Place, Santa Ana, California 92705, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

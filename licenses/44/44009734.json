@@ -1,6 +1,6 @@
 {
     "code": "44009734",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009734",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009734",
     "time": "2020-02-26 05:18:10",
     "許可證字號": "衛署醫器輸壹字第009734號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6202092088  好市多股份有限公司",
     "申請商地址": "高雄市前區區中華五路656號",
-    "主製造廠": {
-        "製造廠名稱": "MSG0021000  SIEMENS MEDICAL INSTRUMENTS PTE LTD.SINGAPORE",
-        "製造廠廠址": "BLOCK 28 AYER RAJAH CRESCENT #06-08 SINGAPORE 139959",
-        "製造廠公司地址": "",
-        "製造廠國別": "SINGAPORE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MSG0021000  SIEMENS MEDICAL INSTRUMENTS PTE LTD.SINGAPORE",
+            "製造廠廠址": "BLOCK 28 AYER RAJAH CRESCENT #06-08 SINGAPORE 139959",
+            "製造廠公司地址": "",
+            "製造廠國別": "SINGAPORE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

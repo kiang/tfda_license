@@ -1,6 +1,6 @@
 {
     "code": "58026273",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58026273",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58026273",
     "time": "2020-02-26 09:54:04",
     "許可證字號": "衛部粧輸字第026273號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6669324736  娜歌川有限公司",
     "申請商地址": "臺北市信義區忠孝東路5段68號29樓",
-    "主製造廠": {
-        "製造廠名稱": "CJP0236100  ESTATE CHEMICAL Co., Ltd.",
-        "製造廠廠址": "7-6-16 Yumegaoka, Iga-City, Mie, 518-0131 Japan",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0236100  ESTATE CHEMICAL Co., Ltd.",
+            "製造廠廠址": "7-6-16 Yumegaoka, Iga-City, Mie, 518-0131 Japan",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

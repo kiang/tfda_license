@@ -1,6 +1,6 @@
 {
     "code": "58023502",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58023502",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58023502",
     "time": "2020-02-26 09:34:40",
     "許可證字號": "衛部粧輸字第023502號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6627927025  荷蘭商伊麗莎白雅頓有限公司台灣分公司",
     "申請商地址": "台北市中山區長春路143號4樓",
-    "主製造廠": {
-        "製造廠名稱": "CMX0006000  Beautyge Mexico S.A. de C.V",
-        "製造廠廠址": "Circuito Balvanera, 3 Col. Fraccionamiento Industrial Balvanera, Corregidora, Queretaro, C.P. 76900, Mexico",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CMX0006000  Beautyge Mexico S.A. de C.V",
+            "製造廠廠址": "Circuito Balvanera, 3 Col. Fraccionamiento Industrial Balvanera, Corregidora, Queretaro, C.P. 76900, Mexico",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

@@ -1,6 +1,6 @@
 {
     "code": "56027544",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027544",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027544",
     "time": "2020-02-26 07:46:46",
     "許可證字號": "衛部醫器輸字第027544號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201111066  東研實業股份有限公司",
     "申請商地址": "臺北市內湖區民權東路六段160號5樓之4",
-    "主製造廠": {
-        "製造廠名稱": "MJP0394100  DENKA SEIKEN CO., LTD. KAGAMIDA FACTORY",
-        "製造廠廠址": "1359-1 KAGAMIDA, KIGOSHI, GOSEN-SHI, NIIGATA, 959-1695 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0394100  DENKA SEIKEN CO., LTD. KAGAMIDA FACTORY",
+            "製造廠廠址": "1359-1 KAGAMIDA, KIGOSHI, GOSEN-SHI, NIIGATA, 959-1695 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

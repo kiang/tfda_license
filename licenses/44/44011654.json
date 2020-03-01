@@ -1,6 +1,6 @@
 {
     "code": "44011654",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011654",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011654",
     "time": "2020-02-26 05:37:06",
     "許可證字號": "衛署醫器輸壹字第011654號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "6201174983  鈦沅股份有限公司",
     "申請商地址": "台北市大安區臥龍街275之1號",
-    "主製造廠": {
-        "製造廠名稱": "MJP0629000  MANI INC.",
-        "製造廠廠址": "8-3 KIYOHARA INDUSTRIAL PARK, UTSUNOMIYA, TOCHIGI, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0629000  MANI INC.",
+            "製造廠廠址": "8-3 KIYOHARA INDUSTRIAL PARK, UTSUNOMIYA, TOCHIGI, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "06023143",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023143",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023143",
     "time": "2020-02-25 20:28:07",
     "許可證字號": "衛署醫器輸字第023143號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0520301200  永勝光學股份有限公司",
     "申請商地址": "台中市大雅區科雅二路8號",
-    "主製造廠": {
-        "製造廠名稱": "MKR0380000  VISION SCIENCE CO. LTD.",
-        "製造廠廠址": "1092-7, BUK SA-RI, JA IN-MYEON, GYEONG SAN-SI, GYEONG SANG BUK-DO, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0380000  VISION SCIENCE CO. LTD.",
+            "製造廠廠址": "1092-7, BUK SA-RI, JA IN-MYEON, GYEONG SAN-SI, GYEONG SANG BUK-DO, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

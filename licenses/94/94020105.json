@@ -1,6 +1,6 @@
 {
     "code": "94020105",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020105",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020105",
     "time": "2020-02-26 12:41:15",
     "許可證字號": "衛部醫器輸壹字第020105號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "620110T851  大昇生物科技股份有限公司",
     "申請商地址": "新北市汐止區福德三路363號12樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0303200  SHINJIN MEDICS INC.",
-        "製造廠廠址": "A302-2, A401-2, A401-3, ILSAN TECHNO TOWN, 138, ILSAN-RO, ILSANDONG-GU, GOYANG-SI, GYEONGGI-DO, 410-722, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0303200  SHINJIN MEDICS INC.",
+            "製造廠廠址": "A302-2, A401-2, A401-3, ILSAN TECHNO TOWN, 138, ILSAN-RO, ILSANDONG-GU, GOYANG-SI, GYEONGGI-DO, 410-722, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

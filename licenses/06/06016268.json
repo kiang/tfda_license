@@ -1,6 +1,6 @@
 {
     "code": "06016268",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06016268",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06016268",
     "time": "2020-02-25 19:10:16",
     "許可證字號": "衛署醫器輸字第016268號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1426201100  臺灣拜耳股份有限公司",
     "申請商地址": "台北市信義區信義路五段7號台北101大樓之53至54樓",
-    "主製造廠": {
-        "製造廠名稱": "MFR0191000  DIAGNOSTICA STAGO",
-        "製造廠廠址": "23-29 RUE CONSTANTIN PECQUEUR, ZAC  &quot;DES CHATAIGNIERS&quot;, 95150 TAVERNY, FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR0191000  DIAGNOSTICA STAGO",
+            "製造廠廠址": "23-29 RUE CONSTANTIN PECQUEUR, ZAC  &quot;DES CHATAIGNIERS&quot;, 95150 TAVERNY, FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MFR0190000  DIAGNOSTICA STAGO",
+            "製造廠廠址": "9, RUE DES FRERES CHAUSSON, BP 226, 92602 ASNIERES CEDEX, FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

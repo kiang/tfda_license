@@ -1,6 +1,6 @@
 {
     "code": "94014606",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014606",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014606",
     "time": "2020-02-26 11:29:32",
     "許可證字號": "衛部醫器輸壹字第014606號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620101F489  燦通有限公司",
     "申請商地址": "台北市松山區南京東路4段51之2號5樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP0602000  MITSUBISHI GAS CHEMICAL COMPANY, INC.",
-        "製造廠廠址": "MITSUBISHI BUILDING, 5-2, MARUNOUCHI 2-CHOME, CHIYODA-KU, TOKYO 100-8324 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0602000  MITSUBISHI GAS CHEMICAL COMPANY, INC.",
+            "製造廠廠址": "MITSUBISHI BUILDING, 5-2, MARUNOUCHI 2-CHOME, CHIYODA-KU, TOKYO 100-8324 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

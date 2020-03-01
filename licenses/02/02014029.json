@@ -1,11 +1,12 @@
 {
     "code": "02014029",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02014029",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02014029",
     "time": "2020-02-25 10:35:31",
     "許可證字號": "衛署藥輸字第014029號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
+    "製造許可登錄編號": "",
     "有效日期": "108\/11\/26",
     "發證日期": "83\/08\/09",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "1504401100  輝瑞大藥廠股份有限公司",
-        "申請商地址": "新北市淡水區中正東路二段１７７號",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "NICERGOLINE",
+    "限制項目": "02輸　入",
+    "申請商名稱": "1504401100  輝瑞大藥廠股份有限公司",
+    "申請商地址": "新北市淡水區中正東路二段１７７號",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FIT0307100  PFIZER ITALIA S.R.L.",
+            "製造廠廠址": "LOCALITA MARINO DEL TRONTO ,63100 ,ASCOLI PICENO ,ITALY",
+            "製造廠公司地址": "VIA R. KOCH 1.2, 20152, MILAN, ITALY",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [

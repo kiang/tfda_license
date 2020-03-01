@@ -1,6 +1,6 @@
 {
     "code": "94017305",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017305",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017305",
     "time": "2020-02-26 12:06:36",
     "許可證字號": "衛部醫器輸壹字第017305號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6203040373  德旺通商有限公司",
     "申請商地址": "台中市清水區建國路116號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MAU0861000  CALLINGTON HAVEN PTY LTD.",
-        "製造廠廠址": "30 SOUTH STREET, RYDALMERE NSW AUSTRALIA 2116",
-        "製造廠公司地址": "",
-        "製造廠國別": "AUSTRALIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MAU0861000  CALLINGTON HAVEN PTY LTD.",
+            "製造廠廠址": "30 SOUTH STREET, RYDALMERE NSW AUSTRALIA 2116",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRALIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

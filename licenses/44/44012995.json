@@ -1,6 +1,6 @@
 {
     "code": "44012995",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012995",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012995",
     "time": "2020-02-26 05:50:11",
     "許可證字號": "衛署醫器輸壹字第012995號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620110R008  換生有限公司",
     "申請商地址": "臺北市中山區吉林路299巷24號",
-    "主製造廠": {
-        "製造廠名稱": "MHK0045000  MEDEX ORTHOPAEDIC &amp; MEDICAL SUPPLIES",
-        "製造廠廠址": "UNIT D, 13\/F, BLOCK 2, TAI PING INDUSTRIAL CENTRE, 55 TING KOK ROAD, TAI PO - N.T., HONG KONG",
-        "製造廠公司地址": "",
-        "製造廠國別": "HONG KONG",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MHK0045000  MEDEX ORTHOPAEDIC &amp; MEDICAL SUPPLIES",
+            "製造廠廠址": "UNIT D, 13\/F, BLOCK 2, TAI PING INDUSTRIAL CENTRE, 55 TING KOK ROAD, TAI PO - N.T., HONG KONG",
+            "製造廠公司地址": "",
+            "製造廠國別": "HONG KONG",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

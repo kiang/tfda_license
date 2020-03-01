@@ -1,6 +1,6 @@
 {
     "code": "44011829",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011829",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011829",
     "time": "2020-02-26 05:38:50",
     "許可證字號": "衛署醫器輸壹字第011829號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "1401804200  台富製藥股份有限公司",
     "申請商地址": "桃園市大園區和平西路一段391號",
-    "主製造廠": {
-        "製造廠名稱": "MJP0944000  OTSUKA ELECTRONICS CO., LTD. SHIGA FACTORY",
-        "製造廠廠址": "1-10 SASAGAOKA, MINAKUCHI-CHO, KOKA-SHI, SHIGA, 528-0061 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0944000  OTSUKA ELECTRONICS CO., LTD. SHIGA FACTORY",
+            "製造廠廠址": "1-10 SASAGAOKA, MINAKUCHI-CHO, KOKA-SHI, SHIGA, 528-0061 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "08009942",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08009942",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08009942",
     "time": "2020-02-25 23:38:40",
     "許可證字號": "衛署粧輸字第009942號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6612871950  台灣芳珂股份有限公司",
     "申請商地址": "台北市中山區中山北路2段44號14樓",
-    "主製造廠": {
-        "製造廠名稱": "CJP0198000  FANCL CORPORATION",
-        "製造廠廠址": "89-1, YAMASHITA-CHO, NAKA-KU, YOKOHAMA, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0198000  FANCL CORPORATION",
+            "製造廠廠址": "89-1, YAMASHITA-CHO, NAKA-KU, YOKOHAMA, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

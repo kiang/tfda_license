@@ -1,6 +1,6 @@
 {
     "code": "06017003",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06017003",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06017003",
     "time": "2020-02-25 19:18:23",
     "許可證字號": "衛署醫器輸字第017003號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1439301100  美敦力醫療產品股份有限公司",
     "申請商地址": "台北市松山區敦化南路一段2號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS0206100  MEDTRONIC NEUROSURGERY",
-        "製造廠廠址": "125-B CREMONA DRIVE GOLETA, CALIFORNIA 93117 US",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0206100  MEDTRONIC NEUROSURGERY",
+            "製造廠廠址": "125-B CREMONA DRIVE GOLETA, CALIFORNIA 93117 US",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

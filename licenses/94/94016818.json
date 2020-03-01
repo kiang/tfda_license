@@ -1,6 +1,6 @@
 {
     "code": "94016818",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016818",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016818",
     "time": "2020-02-26 12:00:50",
     "許可證字號": "衛部醫器輸壹字第016818號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201126067  弼承企業有限公司",
     "申請商地址": "臺北市南港區研究院路二段70巷37弄2號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MBR0037000  SIGAL MEDCO. LTDA.",
-        "製造廠廠址": "RUA MACEIO 878, 09551-050 SAO CAETANO DO SUL, SAO PAULO BRAZIL",
-        "製造廠公司地址": "",
-        "製造廠國別": "BRAZIL",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MBR0037000  SIGAL MEDCO. LTDA.",
+            "製造廠廠址": "RUA MACEIO 878, 09551-050 SAO CAETANO DO SUL, SAO PAULO BRAZIL",
+            "製造廠公司地址": "",
+            "製造廠國別": "BRAZIL",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

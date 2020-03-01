@@ -1,6 +1,6 @@
 {
     "code": "06021044",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021044",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021044",
     "time": "2020-02-25 20:04:51",
     "許可證字號": "衛署醫器輸字第021044號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102P976  禧恩股份有限公司",
     "申請商地址": "台北市大安區仁愛路３段２６號２樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0037000  LUTRONIC CORPORATION",
-        "製造廠廠址": "403-2~4 ILSAN TECHNOTOWN, 1141-1 BAEKSOK-DONG, ILSAN-GU, GOYANG-SI, GYUNGGI-DO,410-722, REPUBLIC OF KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0037000  LUTRONIC CORPORATION",
+            "製造廠廠址": "403-2~4 ILSAN TECHNOTOWN, 1141-1 BAEKSOK-DONG, ILSAN-GU, GOYANG-SI, GYUNGGI-DO,410-722, REPUBLIC OF KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

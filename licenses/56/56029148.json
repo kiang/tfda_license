@@ -1,6 +1,6 @@
 {
     "code": "56029148",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029148",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029148",
     "time": "2020-02-26 08:02:29",
     "許可證字號": "衛部醫器輸字第029148號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1428901100  台灣曼秀雷敦股份有限公司",
     "申請商地址": "台北市內湖區基湖路10巷57號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP6260000  ROHTO Pharmaceutical Co., Ltd. Ueno Plant",
-        "製造廠廠址": "7-3, Yumegaoka, Iga, Mie 518-0131, Japan",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP6260000  ROHTO Pharmaceutical Co., Ltd. Ueno Plant",
+            "製造廠廠址": "7-3, Yumegaoka, Iga, Mie 518-0131, Japan",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MJP6261000  ROHTO Pharmaceutical Co., Ltd.",
+            "製造廠廠址": "1-8-1 Tatsumi-nishi, Ikuno- Ku, Osaka 544-8666, Japan",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "94013554",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013554",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013554",
     "time": "2020-02-26 11:14:25",
     "許可證字號": "衛部醫器輸壹字第013554號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "6401022675  壯生醫療器材股份有限公司",
     "申請商地址": "臺北市中山區民生東路三段2號10樓及11樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS9411000  ETHICON, INC.",
-        "製造廠廠址": "CALLE DURANGO NO. 2751, LOTE BRAVO, CIUDAD JUAREZ, CHIHUAHUA, C.P. 32575, MEXICO",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS9411000  ETHICON, INC.",
+            "製造廠廠址": "CALLE DURANGO NO. 2751, LOTE BRAVO, CIUDAD JUAREZ, CHIHUAHUA, C.P. 32575, MEXICO",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MPR0030000  ETHICON, LLC",
+            "製造廠廠址": "475 C Street Los Frailes Industrial Park, Suite 401, Guaynabo, PR USA 00969",
+            "製造廠公司地址": "",
+            "製造廠國別": "PUERTO RICO",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "44011792",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011792",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011792",
     "time": "2020-02-26 05:38:27",
     "許可證字號": "衛署醫器輸壹字第011792號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6401020984  民旺企業有限公司",
     "申請商地址": "台北市大安區復興南路2段12巷15號",
-    "主製造廠": {
-        "製造廠名稱": "MSG0047000  BEYONICS INTERNATIONAL PTE LTD.",
-        "製造廠廠址": "30, MARSILING INDUSTRIAL ESTATE ROAD 8, SINGAPORE 739193",
-        "製造廠公司地址": "",
-        "製造廠國別": "SINGAPORE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MSG0047000  BEYONICS INTERNATIONAL PTE LTD.",
+            "製造廠廠址": "30, MARSILING INDUSTRIAL ESTATE ROAD 8, SINGAPORE 739193",
+            "製造廠公司地址": "",
+            "製造廠國別": "SINGAPORE",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MDE0944000  INJEX PHARMA GMBH",
+            "製造廠廠址": "BUCKOWER DAMM 114, D-12349 BERLIN, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

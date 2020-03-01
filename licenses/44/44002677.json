@@ -1,6 +1,6 @@
 {
     "code": "44002677",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44002677",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44002677",
     "time": "2020-02-26 04:32:18",
     "許可證字號": "衛署醫器輸壹字第002677號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620109A893  揚智生技股份有限公司",
     "申請商地址": "臺北市大同區長安西路84號5樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MNL0043000  HUMECA B.V.",
-        "製造廠廠址": "HET BI JVANK 251-A, 7544 DB ENSCHEDE, THE NETHERLANDS",
-        "製造廠公司地址": "",
-        "製造廠國別": "NETHERLANDS",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MNL0043000  HUMECA B.V.",
+            "製造廠廠址": "HET BI JVANK 251-A, 7544 DB ENSCHEDE, THE NETHERLANDS",
+            "製造廠公司地址": "",
+            "製造廠國別": "NETHERLANDS",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

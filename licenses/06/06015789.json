@@ -1,6 +1,6 @@
 {
     "code": "06015789",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06015789",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06015789",
     "time": "2020-02-25 19:04:35",
     "許可證字號": "衛署醫器輸字第015789號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0926401100  新加坡商必帝股份有限公司台灣分公司",
     "申請商地址": "台北市信義區忠孝東路四段560號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS1140000  BECTON DICKINSON AND COMPANY",
-        "製造廠廠址": "250 SCHILLING CIRCLE COCKEYSVILLE, MD 21030, U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS1140000  BECTON DICKINSON AND COMPANY",
+            "製造廠廠址": "250 SCHILLING CIRCLE COCKEYSVILLE, MD 21030, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

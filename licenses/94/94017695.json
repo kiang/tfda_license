@@ -1,6 +1,6 @@
 {
     "code": "94017695",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017695",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017695",
     "time": "2020-02-26 12:10:55",
     "許可證字號": "衛部醫器輸壹字第017695號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 36GMP",
     "申請商名稱": "620101H063  依視路寶利徠光學股份有限公司",
     "申請商地址": "台北市松山區光復南路35號8樓",
-    "主製造廠": {
-        "製造廠名稱": "MIL0146000  VISIONIX LTD",
-        "製造廠廠址": "THE TECHNOLOGY PARK, MANHAT, JERUSALEM 96951, ISRAEL",
-        "製造廠公司地址": "",
-        "製造廠國別": "ISRAEL",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIL0146000  VISIONIX LTD",
+            "製造廠廠址": "THE TECHNOLOGY PARK, MANHAT, JERUSALEM 96951, ISRAEL",
+            "製造廠公司地址": "",
+            "製造廠國別": "ISRAEL",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MFR0299200  ESSILOR INTERNATIONAL",
+            "製造廠廠址": "147 RUE DE PARIS 94220 CHARENTON-LE-PONT, FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

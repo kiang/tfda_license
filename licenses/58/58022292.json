@@ -1,6 +1,6 @@
 {
     "code": "58022292",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58022292",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58022292",
     "time": "2020-02-26 09:19:40",
     "許可證字號": "衛部粧輸字第022292號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "620101F907  傳悅國際有限公司",
     "申請商地址": "台北市中山區中山北路二段31號7樓",
-    "主製造廠": {
-        "製造廠名稱": "FUS0228000  BLISTEX INC.",
-        "製造廠廠址": "1800 SWIFT DRIVE, OAK BROOK, IL 60521, U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "FUS0228000  BLISTEX INC.",
+            "製造廠廠址": "1800 SWIFT DRIVE, OAK BROOK, IL 60521, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

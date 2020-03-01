@@ -1,6 +1,6 @@
 {
     "code": "44010201",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010201",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010201",
     "time": "2020-02-26 05:22:46",
     "許可證字號": "衛署醫器輸壹字第010201號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102W313  瑪崴仕實業有限公司",
     "申請商地址": "台北市大安區光復南路420巷1弄9號",
-    "主製造廠": {
-        "製造廠名稱": "MKR0252000  HANIL CARE-SYS CO.",
-        "製造廠廠址": "#217 DAEWOO PRESIA B\/D , 279-50 SEONGSOO-2GA3DONG, SEONGDONG-GU, SEOUL, SOUTH KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0252000  HANIL CARE-SYS CO.",
+            "製造廠廠址": "#217 DAEWOO PRESIA B\/D , 279-50 SEONGSOO-2GA3DONG, SEONGDONG-GU, SEOUL, SOUTH KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

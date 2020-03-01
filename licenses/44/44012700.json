@@ -1,6 +1,6 @@
 {
     "code": "44012700",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012700",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012700",
     "time": "2020-02-26 05:47:17",
     "許可證字號": "衛署醫器輸壹字第012700號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620117E732  英屬蓋曼群島商金百利克拉克股份有限公司台灣分公司",
     "申請商地址": "台北市信義區信義路5段8號8樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0539000  Yuhan-Kimberly Ltd. Korea",
-        "製造廠廠址": "13-16th Floor, Haesung building 942, Daechi 3-dong, Kangnam-ku Seoul 135-725, Korea.",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0539000  Yuhan-Kimberly Ltd. Korea",
+            "製造廠廠址": "13-16th Floor, Haesung building 942, Daechi 3-dong, Kangnam-ku Seoul 135-725, Korea.",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

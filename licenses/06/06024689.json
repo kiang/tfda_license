@@ -1,6 +1,6 @@
 {
     "code": "06024689",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024689",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024689",
     "time": "2020-02-25 20:44:33",
     "許可證字號": "衛署醫器輸字第024689號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 14輸入須附同意書（每次輸入均須取得原子能委員會之同意書為憑）",
     "申請商名稱": "6201123673  西門子股份有限公司",
     "申請商地址": "台北市南港區園區街３號８樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS3560000  SIEMENS HEALTHCARE DIAGNOSTICS INC.",
-        "製造廠廠址": "5736 WEST 96TH STREET LOS ANGELES, CALIFORNIA 90045, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS3560000  SIEMENS HEALTHCARE DIAGNOSTICS INC.",
+            "製造廠廠址": "5736 WEST 96TH STREET LOS ANGELES, CALIFORNIA 90045, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

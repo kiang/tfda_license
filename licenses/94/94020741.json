@@ -1,6 +1,6 @@
 {
     "code": "94020741",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020741",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020741",
     "time": "2020-02-26 12:46:57",
     "許可證字號": "衛部醫器輸壹字第020741號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623104I156  全拓科技有限公司",
     "申請商地址": "新北市中和區中正路716號13樓之3",
-    "主製造廠": {
-        "製造廠名稱": "MFR0422000  CRYO DIFFUSION S.A.S",
-        "製造廠廠址": "49 RUE DE VERDUN 27690 LERY FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR0422000  CRYO DIFFUSION S.A.S",
+            "製造廠廠址": "49 RUE DE VERDUN 27690 LERY FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "06006032",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06006032",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06006032",
     "time": "2020-02-25 17:03:20",
     "許可證字號": "衛署醫器輸字第006032號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1014601100  臺灣泰科醫藥股份有限公司",
     "申請商地址": "台北市內湖區瑞光路407號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0019000  CYANAMID MEDICAL DEVICE CO., INC.",
-        "製造廠廠址": "#59-5 DANGJONG-DONG, KUNPO-SI, KYUNGGI-DO",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0019000  CYANAMID MEDICAL DEVICE CO., INC.",
+            "製造廠廠址": "#59-5 DANGJONG-DONG, KUNPO-SI, KYUNGGI-DO",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

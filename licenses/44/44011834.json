@@ -1,6 +1,6 @@
 {
     "code": "44011834",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011834",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011834",
     "time": "2020-02-26 05:38:53",
     "許可證字號": "衛署醫器輸壹字第011834號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217059228  中訊企業有限公司",
     "申請商地址": "新北市汐止區康寧街169巷31號4樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MKR0483000  SUNG KWANG MEDITECH COMPANY",
-        "製造廠廠址": "UNDER FLOOR, 103-34 EUNG-AM-DONG, EUNPYEONG-GU, SEOUL, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0483000  SUNG KWANG MEDITECH COMPANY",
+            "製造廠廠址": "UNDER FLOOR, 103-34 EUNG-AM-DONG, EUNPYEONG-GU, SEOUL, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

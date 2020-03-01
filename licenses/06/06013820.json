@@ -1,6 +1,6 @@
 {
     "code": "06013820",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06013820",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06013820",
     "time": "2020-02-25 18:42:39",
     "許可證字號": "衛署醫器輸字第013820號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0831701100  奇異亞洲醫療設備股份有限公司",
     "申請商地址": "台北市中山區民生東路三段8號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MMX0063000  GE HEALTHCARE-CRITIKON DE MEXICO S. DE R.L. DE C.V.",
-        "製造廠廠址": "CALLE VALLE DEL CEDRO 1551 JUAREZ, MEXICO, 32575",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0063000  GE HEALTHCARE-CRITIKON DE MEXICO S. DE R.L. DE C.V.",
+            "製造廠廠址": "CALLE VALLE DEL CEDRO 1551 JUAREZ, MEXICO, 32575",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS3564000  GE Medical Systems Information Technologies",
+            "製造廠廠址": "465 Pan American Dr., Suite 11, El Paso, Texas 79907, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

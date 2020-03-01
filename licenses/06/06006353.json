@@ -1,6 +1,6 @@
 {
     "code": "06006353",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06006353",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06006353",
     "time": "2020-02-25 17:08:21",
     "許可證字號": "衛署醫器輸字第006353號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1221901100  惠普科技股份有限公司",
     "申請商地址": "台北巿復興北路３３７號８樓",
-    "主製造廠": {
-        "製造廠名稱": "MDK0023000  MANUFACTURED BY: BRUEL &amp; KJAR INDUSTRI A\/S, NARUM HOVEDGADE",
-        "製造廠廠址": "18 DK-2850 NARUM DENMARK FOR HEWLETT-PACKARD GMBH",
-        "製造廠公司地址": "",
-        "製造廠國別": "DENMARK",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDK0023000  MANUFACTURED BY: BRUEL &amp; KJAR INDUSTRI A\/S, NARUM HOVEDGADE",
+            "製造廠廠址": "18 DK-2850 NARUM DENMARK FOR HEWLETT-PACKARD GMBH",
+            "製造廠公司地址": "",
+            "製造廠國別": "DENMARK",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

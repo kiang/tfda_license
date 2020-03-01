@@ -1,6 +1,6 @@
 {
     "code": "56031372",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031372",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031372",
     "time": "2020-02-26 08:22:30",
     "許可證字號": "衛部醫器輸字第031372號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620111H577  台灣泰利福醫療產品有限公司",
     "申請商地址": "臺北市大安區敦化南路2段207號16樓",
-    "主製造廠": {
-        "製造廠名稱": "MCZ0065000  ARROW INTERNATIONAL CR A.S.",
-        "製造廠廠址": "JAMSKA 2359\/47, 591 01 ZDAR NAD SAZAVOU, CZECH REPUBLIC",
-        "製造廠公司地址": "",
-        "製造廠國別": "CZECH REPUBLIC",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCZ0065000  ARROW INTERNATIONAL CR A.S.",
+            "製造廠廠址": "JAMSKA 2359\/47, 591 01 ZDAR NAD SAZAVOU, CZECH REPUBLIC",
+            "製造廠公司地址": "",
+            "製造廠國別": "CZECH REPUBLIC",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MIE0844000  TELEFLEX MEDICAL",
+            "製造廠廠址": "IDA BUSINESS &amp; TECHNOLOGY PARK, DUBLIN ROAD, ATHLONE, CO. WESTMEATH, IRELAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "IRAN",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

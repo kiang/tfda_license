@@ -1,11 +1,12 @@
 {
     "code": "02022135",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022135",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022135",
     "time": "2020-02-25 12:51:05",
     "許可證字號": "衛署藥輸字第022135號",
     "註銷狀態": "已註銷",
     "註銷日期": "93\/05\/25",
     "註銷理由": "自請註銷",
+    "製造許可登錄編號": "",
     "有效日期": "96\/01\/06",
     "發證日期": "87\/04\/22",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "0305801100  興采股份有限公司",
-        "申請商地址": "台北巿大安區忠孝東路四段169號9樓",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "FERROUS FUMARATE, MAGNESIUM, CALCIUM CARBONATE, VITAMIN A (ACETATE), BIOTIN, NIACINAMIDE ASCORBATE, THIAMINE MONONITRATE, RIBOFLAVIN (VIT B2), VITAMIN B6 (HCL), CYANOCOBALAMIN 0.1%, FOLIC ACID, PANTOTHENIC ACID, ASCORBIC ACID (VIT C), CHOLECALCIFEROL ( EQ TO VIT D3) ( EQ TO VITAMIN D3), VITAMIN E (ACETATE), CUPRIC OXIDE, ZINC OXIDE",
+    "限制項目": "02輸　入",
+    "申請商名稱": "0305801100  興采股份有限公司",
+    "申請商地址": "台北巿大安區忠孝東路四段169號9樓",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FUS0285000  COPLEY PHARMACEUTICAL, INC.",
+            "製造廠廠址": "25 JHON ROOD CANTON MASSACHUSETTS 02021 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [

@@ -1,6 +1,6 @@
 {
     "code": "06018106",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06018106",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06018106",
     "time": "2020-02-25 19:30:47",
     "許可證字號": "衛署醫器輸字第018106號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6201117942  守？股份有限公司",
     "申請商地址": "臺北市內湖區安美街１６３號９樓",
-    "主製造廠": {
-        "製造廠名稱": "MGB0126100  BIOSIL LIMITED",
-        "製造廠廠址": "127 DEERDYKES VIEW, WESTFIELD INDUSTRIAL ESTATE, CUMBERNAULD, GLASGOW, G68 9HN, SCOTLAND U.K.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0126100  BIOSIL LIMITED",
+            "製造廠廠址": "127 DEERDYKES VIEW, WESTFIELD INDUSTRIAL ESTATE, CUMBERNAULD, GLASGOW, G68 9HN, SCOTLAND U.K.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MGB0825000  NAGOR LIMITED",
+            "製造廠廠址": "P.O. BOX 21, GLOBAL HOUSE, ISLE OF MAN BUSINESS PARK, GOOIL ROAD, DOUGLAS, ISLE OF MAN, IM99 1AX, BRITISH ISLES, U.K.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": "許可證持有者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

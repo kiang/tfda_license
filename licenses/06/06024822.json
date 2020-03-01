@@ -1,6 +1,6 @@
 {
     "code": "06024822",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024822",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024822",
     "time": "2020-02-25 20:45:55",
     "許可證字號": "衛署醫器輸字第024822號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620110T404  酷柏光學股份有限公司",
     "申請商地址": "臺北市中山區新生北路一段66號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MGB0257000  CooperVision Lens Care Limited",
-        "製造廠廠址": "Mace Industrial Estate, Mace Lane, Ashford, Kent TN24 8EP, United Kingdom",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0257000  CooperVision Lens Care Limited",
+            "製造廠廠址": "Mace Industrial Estate, Mace Lane, Ashford, Kent TN24 8EP, United Kingdom",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MGB0911000  COOPERVISION MANUFACTURING LTD.",
+            "製造廠廠址": "SOUTHPOINT, HAMBLE, SOUTHAMPTON, SO31 4RF, UNITED KINGDOM",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

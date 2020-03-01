@@ -1,6 +1,6 @@
 {
     "code": "94021219",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94021219",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94021219",
     "time": "2020-02-26 12:51:08",
     "許可證字號": "衛部醫器輸壹字第021219號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6221024564  新加坡商天格科技股份有限公司台灣分公司",
     "申請商地址": "台南市南區新和二路13號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MHK0080000  POLYLITE OPTICAL HONG KONG LTD",
-        "製造廠廠址": "UNIT B, 3\/F., KAI TAK FACTORY BUILDING, 101 KING FUK STREET, SAN PO KONG, KOWLOON, HONG KONG.",
-        "製造廠公司地址": "",
-        "製造廠國別": "HONG KONG",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MHK0080000  POLYLITE OPTICAL HONG KONG LTD",
+            "製造廠廠址": "UNIT B, 3\/F., KAI TAK FACTORY BUILDING, 101 KING FUK STREET, SAN PO KONG, KOWLOON, HONG KONG.",
+            "製造廠公司地址": "",
+            "製造廠國別": "HONG KONG",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

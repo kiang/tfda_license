@@ -1,6 +1,6 @@
 {
     "code": "06023057",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023057",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023057",
     "time": "2020-02-25 20:27:12",
     "許可證字號": "衛署醫器輸字第023057號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201027023  美商貝克曼庫爾特有限公司台灣分公司",
     "申請商地址": "台北市大安區敦化南路二段216號8樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE1228100  Beckman Coulter GmbH",
-        "製造廠廠址": "Emil-von-Behring-Str. 76, Marburg, Hessen Germany D-35041",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE1228100  Beckman Coulter GmbH",
+            "製造廠廠址": "Emil-von-Behring-Str. 76, Marburg, Hessen Germany D-35041",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS3279000  IRIS DIAGNOSTICS, A DIVISION OF IRIS INTERNATIONAL, INC.",
+            "製造廠廠址": "9172 ETON AVENUE CHATSWORTH, CA 91311, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

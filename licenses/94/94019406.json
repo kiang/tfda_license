@@ -1,6 +1,6 @@
 {
     "code": "94019406",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019406",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019406",
     "time": "2020-02-26 12:33:27",
     "許可證字號": "衛部醫器輸壹字第019406號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6237017968  長欣生技股份有限公司",
     "申請商地址": "彰化縣彰化市南瑤里中山路二段2號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MMY0191000  DURAMEDICAL SDN BHD",
-        "製造廠廠址": "NO.36&amp;38, JALAN MERU INDAH 20, TAMAN PERINDUSTRIAN MERU INDAH, 42200 KAPAR, KLANG, SELANGOR DARUL EHSAN, MALAYSIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "MALAYSIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMY0191000  DURAMEDICAL SDN BHD",
+            "製造廠廠址": "NO.36&amp;38, JALAN MERU INDAH 20, TAMAN PERINDUSTRIAN MERU INDAH, 42200 KAPAR, KLANG, SELANGOR DARUL EHSAN, MALAYSIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "MALAYSIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

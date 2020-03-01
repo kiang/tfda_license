@@ -1,6 +1,6 @@
 {
     "code": "44008668",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008668",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008668",
     "time": "2020-02-26 05:07:39",
     "許可證字號": "衛署醫器輸壹字第008668號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6232053955  德來貿易有限公司",
     "申請商地址": "桃園市蘆竹區中正路303號7樓之3",
-    "主製造廠": {
-        "製造廠名稱": "MPH0008000  CARE PRODUCTS INC.",
-        "製造廠廠址": "NO 130, 4TH ST, 10TH AVE, CALOOCAN CITY METRO MANILA, PHILIPPINES",
-        "製造廠公司地址": "",
-        "製造廠國別": "PHILIPPINES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MPH0008000  CARE PRODUCTS INC.",
+            "製造廠廠址": "NO 130, 4TH ST, 10TH AVE, CALOOCAN CITY METRO MANILA, PHILIPPINES",
+            "製造廠公司地址": "",
+            "製造廠國別": "PHILIPPINES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

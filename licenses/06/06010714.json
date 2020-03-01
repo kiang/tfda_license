@@ -1,6 +1,6 @@
 {
     "code": "06010714",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010714",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010714",
     "time": "2020-02-25 18:07:40",
     "許可證字號": "衛署醫器輸字第010714號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6202065009  中信國際企業有限公司",
     "申請商地址": "高雄市三民區永年街11號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MIL0024000  MIS Implants Technologies Ltd.",
-        "製造廠廠址": "P.O. BOX 7, BAR-LEV INDUSTRIAL PARK 20156, ISRAEL",
-        "製造廠公司地址": "",
-        "製造廠國別": "ISRAEL",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIL0024000  MIS Implants Technologies Ltd.",
+            "製造廠廠址": "P.O. BOX 7, BAR-LEV INDUSTRIAL PARK 20156, ISRAEL",
+            "製造廠公司地址": "",
+            "製造廠國別": "ISRAEL",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

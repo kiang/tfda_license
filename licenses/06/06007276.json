@@ -1,6 +1,6 @@
 {
     "code": "06007276",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06007276",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06007276",
     "time": "2020-02-25 17:22:11",
     "許可證字號": "衛署醫器輸字第007276號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1118201100  視霸光學有限公司",
     "申請商地址": "臺北市金山南路２段１４６號３樓",
-    "主製造廠": {
-        "製造廠名稱": "MGB0108000  CANTOR &amp; SILVER LIMITED",
-        "製造廠廠址": "MANOR ROAD, BRACKLEY, NORTHAMPTONSHIRE, NN13 6ED,",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0108000  CANTOR &amp; SILVER LIMITED",
+            "製造廠廠址": "MANOR ROAD, BRACKLEY, NORTHAMPTONSHIRE, NN13 6ED,",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

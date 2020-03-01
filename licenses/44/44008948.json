@@ -1,6 +1,6 @@
 {
     "code": "44008948",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008948",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008948",
     "time": "2020-02-26 05:10:17",
     "許可證字號": "衛署醫器輸壹字第008948號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "623105A094  科舉顧問股份有限公司",
     "申請商地址": "新北市新店區安祥路147巷53號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MIE0091000  COVIDIEN IRELAND LIMITED",
-        "製造廠廠址": "TULLAMORE BUSINESS &amp; TECHNOLOGY PARK, SRAH, TULLAMORE, CO. OFFALY, IRELAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "IRELAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIE0091000  COVIDIEN IRELAND LIMITED",
+            "製造廠廠址": "TULLAMORE BUSINESS &amp; TECHNOLOGY PARK, SRAH, TULLAMORE, CO. OFFALY, IRELAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "IRELAND",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS3197000  COVIDIEN LLC",
+            "製造廠廠址": "15 HAMPSHIRE STREET MANSFIELD, MA 02048 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

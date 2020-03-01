@@ -1,6 +1,6 @@
 {
     "code": "94018956",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018956",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018956",
     "time": "2020-02-26 12:29:18",
     "許可證字號": "衛部醫器輸壹字第018956號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217083500  宏族儀器有限公司",
     "申請商地址": "臺中市北屯區安順北一街5號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MSE0135000  TR EQUIPMENT AB",
-        "製造廠廠址": "RUNDELGATAN 2, 573 35, TRANAS, SWEDEN",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWEDEN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MSE0135000  TR EQUIPMENT AB",
+            "製造廠廠址": "RUNDELGATAN 2, 573 35, TRANAS, SWEDEN",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWEDEN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

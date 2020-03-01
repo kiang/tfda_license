@@ -1,6 +1,6 @@
 {
     "code": "94014707",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014707",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014707",
     "time": "2020-02-26 11:30:57",
     "許可證字號": "衛部醫器輸壹字第014707號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102E755  奇祁科技有限公司",
     "申請商地址": "臺北市大安區敦化南路2段128號7樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MPK0005000  N.D. SURGICAL INDUSTRIES",
-        "製造廠廠址": "43-70 DHATTAL, UGOKI ROAD, P.O. BOX 1507, SIALKOT 51050, PAKISTAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "PAKISTAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MPK0005000  N.D. SURGICAL INDUSTRIES",
+            "製造廠廠址": "43-70 DHATTAL, UGOKI ROAD, P.O. BOX 1507, SIALKOT 51050, PAKISTAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "PAKISTAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

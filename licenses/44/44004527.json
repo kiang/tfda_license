@@ -1,6 +1,6 @@
 {
     "code": "44004527",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44004527",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44004527",
     "time": "2020-02-26 04:41:13",
     "許可證字號": "衛署醫器輸壹字第004527號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620117O616  台灣柯威爾有限公司",
     "申請商地址": "臺北市信義區忠孝東路5段412號6樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MKR0106000  COWELL MEDI CO., LTD.",
-        "製造廠廠址": "48, HAKGAM-DAERO 221 BEON-GIL, SASANG-GU, BUSAN, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0106000  COWELL MEDI CO., LTD.",
+            "製造廠廠址": "48, HAKGAM-DAERO 221 BEON-GIL, SASANG-GU, BUSAN, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

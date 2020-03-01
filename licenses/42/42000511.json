@@ -1,6 +1,6 @@
 {
     "code": "42000511",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000511",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000511",
     "time": "2020-02-26 03:26:45",
     "許可證字號": "衛署醫器陸輸字第000511號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6135041053  晶宇生物科技實業股份有限公司",
     "申請商地址": "苗栗縣竹南鎮科中路31號",
-    "主製造廠": {
-        "製造廠名稱": "MCN1145000  GUANGDONG BAIHE MEDICAL TECHNOLOGY CO., LTD.",
-        "製造廠廠址": "3~4F BUILDING 2, BUILDING 3, 3~6F BUILDING 4, NO.89, TAOYUAN EAST ROAD, NANHAI, GUANGDONG, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1145000  GUANGDONG BAIHE MEDICAL TECHNOLOGY CO., LTD.",
+            "製造廠廠址": "3~4F BUILDING 2, BUILDING 3, 3~6F BUILDING 4, NO.89, TAOYUAN EAST ROAD, NANHAI, GUANGDONG, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

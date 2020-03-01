@@ -1,6 +1,6 @@
 {
     "code": "94017372",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017372",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017372",
     "time": "2020-02-26 12:07:20",
     "許可證字號": "衛部醫器輸壹字第017372號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6202037961  富廣國際有限公司",
     "申請商地址": "高雄市左營區文理街37號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0826000  SEALTECH., LTD",
-        "製造廠廠址": "51-13, MYOBONG-RO 173BEON-GIL, IDONG-MYEON, CHEOIN-GU, YONGIN-SI, GYEONGGI-DO 449-832 KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0826000  SEALTECH., LTD",
+            "製造廠廠址": "51-13, MYOBONG-RO 173BEON-GIL, IDONG-MYEON, CHEOIN-GU, YONGIN-SI, GYEONGGI-DO 449-832 KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

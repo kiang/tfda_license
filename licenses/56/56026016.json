@@ -1,6 +1,6 @@
 {
     "code": "56026016",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026016",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026016",
     "time": "2020-02-26 07:30:17",
     "許可證字號": "衛部醫器輸字第026016號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217059228  中訊企業有限公司",
     "申請商地址": "新北市汐止區康寧街169巷31號4樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MIT0160000  SORIN GROUP ITALIA S.R.L.",
-        "製造廠廠址": "VIA STATALE 12 NORD, 86, 41037 MIRANDOLA (MO), ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIT0160000  SORIN GROUP ITALIA S.R.L.",
+            "製造廠廠址": "VIA STATALE 12 NORD, 86, 41037 MIRANDOLA (MO), ITALY",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

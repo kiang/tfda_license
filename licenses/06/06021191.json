@@ -1,6 +1,6 @@
 {
     "code": "06021191",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021191",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021191",
     "time": "2020-02-25 20:06:33",
     "許可證字號": "衛署醫器輸字第021191號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6201166347  安鼎貿易有限公司",
     "申請商地址": "台北市北投區光明路２００號４樓之１８",
-    "主製造廠": {
-        "製造廠名稱": "MUS4147000  Spacelabs Healthcare Inc.",
-        "製造廠廠址": "35301 SE Center St., Snoqualmie, WA 98065 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS4147000  Spacelabs Healthcare Inc.",
+            "製造廠廠址": "35301 SE Center St., Snoqualmie, WA 98065 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MGB0389000  SPACELABS HEALTHCARE LTD.",
+            "製造廠廠址": "1 HARFORDE COURT, JOHN TATE ROAD HERTFORD, SG13 7NW, UNITED KINGDOM",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

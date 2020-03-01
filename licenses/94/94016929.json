@@ -1,6 +1,6 @@
 {
     "code": "94016929",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016929",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016929",
     "time": "2020-02-26 12:02:15",
     "許可證字號": "衛部醫器輸壹字第016929號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217076265  特瑞國際開發有限公司",
     "申請商地址": "台中市南屯區忠勇路17-60巷61號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0791000  YU GWANG PRECISION",
-        "製造廠廠址": "85, GONGDAN RO 3, BUK-GU, DAEGU, KOREA 41497",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0791000  YU GWANG PRECISION",
+            "製造廠廠址": "85, GONGDAN RO 3, BUK-GU, DAEGU, KOREA 41497",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

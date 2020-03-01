@@ -1,6 +1,6 @@
 {
     "code": "56031651",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031651",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031651",
     "time": "2020-02-26 08:24:30",
     "許可證字號": "衛部醫器輸字第031651號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6401109533  宇康生科股份有限公司",
     "申請商地址": "臺北市士林區中山北路五段520號7樓",
-    "主製造廠": {
-        "製造廠名稱": "FMY0002000  B. BRAUN MEDICAL INDUSTRIES SDN. BHD.",
-        "製造廠廠址": "BAYAN LEPAS FREE INDUSTRIAL ZONE, 11900 BAYAN LEPAS, PENANG, MALAYSIA.",
-        "製造廠公司地址": "",
-        "製造廠國別": "MALAYSIA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "FMY0002000  B. BRAUN MEDICAL INDUSTRIES SDN. BHD.",
+            "製造廠廠址": "BAYAN LEPAS FREE INDUSTRIAL ZONE, 11900 BAYAN LEPAS, PENANG, MALAYSIA.",
+            "製造廠公司地址": "",
+            "製造廠國別": "MALAYSIA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MAT0062000  A.M.I. Agency for Medical Innovations GmbH",
+            "製造廠廠址": "Im Letten 1 6800 Feldkirch Austria",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRIA",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

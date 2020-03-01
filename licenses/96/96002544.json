@@ -1,6 +1,6 @@
 {
     "code": "96002544",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002544",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002544",
     "time": "2020-02-26 13:01:06",
     "許可證字號": "衛部醫器陸輸壹字第002544號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6231076221  音王有限公司",
     "申請商地址": "新北市樹林區保安街2段122號",
-    "主製造廠": {
-        "製造廠名稱": "MCN4066000  JIAGSU PROVINCE JIANG SHUBIN GLASSES PEPPER PLANT",
-        "製造廠廠址": "JIAOJIANG DISTRICT NO.90 BEFORE THE STREETS OF JIANGSU PROVINCE ZHAO VILLAGE CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN4066000  JIAGSU PROVINCE JIANG SHUBIN GLASSES PEPPER PLANT",
+            "製造廠廠址": "JIAOJIANG DISTRICT NO.90 BEFORE THE STREETS OF JIANGSU PROVINCE ZHAO VILLAGE CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "44009138",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009138",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009138",
     "time": "2020-02-26 05:12:09",
     "許可證字號": "衛署醫器輸壹字第009138號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217037240  登崴企業股份有限公司",
     "申請商地址": "臺中市西屯區弘孝路45巷19號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MIN0038000  JJ ORTHODONTICS PVT LTD.",
-        "製造廠廠址": "VII\/202E MUNIPARA, NEAR DREAM WORLD WATER PARK CHALAKUDY-680307 KERALA INDIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "INDIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIN0038000  JJ ORTHODONTICS PVT LTD.",
+            "製造廠廠址": "VII\/202E MUNIPARA, NEAR DREAM WORLD WATER PARK CHALAKUDY-680307 KERALA INDIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "INDIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

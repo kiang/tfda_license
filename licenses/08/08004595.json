@@ -1,6 +1,6 @@
 {
     "code": "08004595",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08004595",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08004595",
     "time": "2020-02-25 22:41:09",
     "許可證字號": "衛署粧輸字第004595號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0935201100  美商如新華茂股份有限公司台灣分公司",
     "申請商地址": "台北巿敦化南路二段９７號１５樓",
-    "主製造廠": {
-        "製造廠名稱": "CUS0102000  COSMETIC LABORATORIES OF AMERICA",
-        "製造廠廠址": "20245 SUNBURST STREET CHARTSWORTH CALIFORNIA 91311 U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CUS0102000  COSMETIC LABORATORIES OF AMERICA",
+            "製造廠廠址": "20245 SUNBURST STREET CHARTSWORTH CALIFORNIA 91311 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

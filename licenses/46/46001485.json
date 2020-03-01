@@ -1,6 +1,6 @@
 {
     "code": "46001485",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001485",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001485",
     "time": "2020-02-26 06:07:34",
     "許可證字號": "衛署醫器陸輸壹字第001485號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6217035951  億代富國際股份有限公司",
     "申請商地址": "台中市西區臺灣大道二段309號18樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MCN0553000  XIAMEN EAN PROTECTING PRODUCTS CO.,LTD",
-        "製造廠廠址": "NO.79-85,ZHENNAN RD 3, SCIENCE AND TECHNOLOGY PARKS,TONG-JI INDUSTRIAL ZONE,TUNG AN AREA, XIAMEN,FUJIAN, 361100,CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0553000  XIAMEN EAN PROTECTING PRODUCTS CO.,LTD",
+            "製造廠廠址": "NO.79-85,ZHENNAN RD 3, SCIENCE AND TECHNOLOGY PARKS,TONG-JI INDUSTRIAL ZONE,TUNG AN AREA, XIAMEN,FUJIAN, 361100,CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

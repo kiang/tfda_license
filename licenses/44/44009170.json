@@ -1,6 +1,6 @@
 {
     "code": "44009170",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009170",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009170",
     "time": "2020-02-26 05:12:28",
     "許可證字號": "衛署醫器輸壹字第009170號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620118H622  敏浩有限公司",
     "申請商地址": "台北市中正區臨沂街13巷13號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0076000  CENTRON TECHNOLOGIES CORPORATION",
-        "製造廠廠址": "319-25 SADANG-4-DONG, DONGJAK-KU, SEOUL, KOREA 156-823",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0076000  CENTRON TECHNOLOGIES CORPORATION",
+            "製造廠廠址": "319-25 SADANG-4-DONG, DONGJAK-KU, SEOUL, KOREA 156-823",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "44000911",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44000911",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44000911",
     "time": "2020-02-26 04:23:28",
     "許可證字號": "衛署醫器輸壹字第000911號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201183106  三東儀器股份有限公司",
     "申請商地址": "台北市中正區紹興北街5號7樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP0423000  TOSOH CORPORATION SCIENTIFIC INSTRUMENTS DIVISION, GELS PRODUCTION",
-        "製造廠廠址": "4560, KAISEI-CHO, SHUNAN, YAMAGUCHI 746-8501, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0423000  TOSOH CORPORATION SCIENTIFIC INSTRUMENTS DIVISION, GELS PRODUCTION",
+            "製造廠廠址": "4560, KAISEI-CHO, SHUNAN, YAMAGUCHI 746-8501, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MJP0422000  TOSOH CORPORATION",
+            "製造廠廠址": "3-8-2 SHIBA, MINATO-KU, TOKYO 105-8623, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

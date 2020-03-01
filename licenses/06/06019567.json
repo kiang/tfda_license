@@ -1,6 +1,6 @@
 {
     "code": "06019567",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019567",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019567",
     "time": "2020-02-25 19:48:32",
     "許可證字號": "衛署醫器輸字第019567號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6202088860  恩斯特生物科技股份有限公司",
     "申請商地址": "高雄市苓雅區自強三路97巷14號",
-    "主製造廠": {
-        "製造廠名稱": "MUS2416000  MIMVISTA CROP.",
-        "製造廠廠址": "25200 CHAGRIN BOULEVARD, STE. 200, CLEVELAND, OHIA 44122, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2416000  MIMVISTA CROP.",
+            "製造廠廠址": "25200 CHAGRIN BOULEVARD, STE. 200, CLEVELAND, OHIA 44122, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

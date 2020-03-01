@@ -1,6 +1,6 @@
 {
     "code": "44009705",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009705",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009705",
     "time": "2020-02-26 05:17:53",
     "許可證字號": "衛署醫器輸壹字第009705號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217036430  康視佳實業股份有限公司",
     "申請商地址": "台中市西區民生北路132號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MSG0070000  OPTICAL SUPPLY OF ASIA (SINGAPORE)",
-        "製造廠廠址": "50 UBI AVENUE 3, #03-11, FRONTIER, SINGAPORE 408866",
-        "製造廠公司地址": "",
-        "製造廠國別": "SINGAPORE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MSG0070000  OPTICAL SUPPLY OF ASIA (SINGAPORE)",
+            "製造廠廠址": "50 UBI AVENUE 3, #03-11, FRONTIER, SINGAPORE 408866",
+            "製造廠公司地址": "",
+            "製造廠國別": "SINGAPORE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "08018614",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018614",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018614",
     "time": "2020-02-26 01:09:50",
     "許可證字號": "衛署粧輸字第018614號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0620801100  百陸達股份有限公司",
     "申請商地址": "台北市信義區基隆路2段149之17號10樓",
-    "主製造廠": {
-        "製造廠名稱": "CJP0306000  DARIYA CO.,LTD.INAZAWA FACTORY",
-        "製造廠廠址": "365-11, MAEDA, INAZAWA-CHO, INAZAWA-SHI, AICHI, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0306000  DARIYA CO.,LTD.INAZAWA FACTORY",
+            "製造廠廠址": "365-11, MAEDA, INAZAWA-CHO, INAZAWA-SHI, AICHI, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

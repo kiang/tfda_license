@@ -1,6 +1,6 @@
 {
     "code": "56030379",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030379",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030379",
     "time": "2020-02-26 08:13:22",
     "許可證字號": "衛部醫器輸字第030379號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620102W557  科達健康生技股份有限公司",
     "申請商地址": "台北市信義區莊敬路392號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MDO0004000  CAREFUSION D.R. 203, LTD.",
-        "製造廠廠址": "ZONA FRANCA LAS AMERICAS, KM 22-E-1, SANTO DOMINGO, DOMINICAN REPUBLIC",
-        "製造廠公司地址": "",
-        "製造廠國別": "DOMINICAN REPUBLIC",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDO0004000  CAREFUSION D.R. 203, LTD.",
+            "製造廠廠址": "ZONA FRANCA LAS AMERICAS, KM 22-E-1, SANTO DOMINGO, DOMINICAN REPUBLIC",
+            "製造廠公司地址": "",
+            "製造廠國別": "DOMINICAN REPUBLIC",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS3218200  CareFusion",
+            "製造廠廠址": "75 North Fairway Drive, Vernon Hills, IL 60061, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

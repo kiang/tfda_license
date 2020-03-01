@@ -1,11 +1,12 @@
 {
     "code": "02010593",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02010593",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02010593",
     "time": "2020-02-25 09:43:04",
     "許可證字號": "衛署藥輸字第010593號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
+    "製造許可登錄編號": "",
     "有效日期": "107\/10\/27",
     "發證日期": "102\/10\/27",
     "許可證種類": "製　劑",
@@ -20,19 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入 1Q不得輸入",
-        "申請商名稱": "0302001100  大法貿易股份有限公司",
-        "申請商地址": "台北市大安區忠孝東路四段107號8樓之1",
-        "主製造廠": ""
-    },
-    "CCC號列": "30042000514 人用醫藥製劑，含氯絲菌素或其衍生物者Medicaments, containing chloramphenicol or its derivatives, for human use",
-    "藥理治療分類": "",
+    "監視期限": "",
+    "主成分略述": "COLISTIN SODIUM METHANESULFONATE (COLISTIMETHATE SOD.), CHLORAMPHENICOL",
+    "限制項目": "02輸　入 1Q不得輸入",
+    "申請商名稱": "0302001100  大法貿易股份有限公司",
+    "申請商地址": "台北市大安區忠孝東路四段107號8樓之1",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FJP0776000  WAKAMOTO PHARMACEUTICAL CO., LTD. SAGAMI OHI FACTORY",
+            "製造廠廠址": "378, KANATE AZA MINAMI, OHI-MACHI ASHIGARAKAMI-GUN, KANAGAWA PREFECTURE, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "次製造廠": [
         {
             "製造廠名稱": "FJP0775000  WAKAMOTO PHARMACEUTICAL CO., LTD.",
@@ -42,6 +48,8 @@
             "製程": "許可證持有者"
         }
     ],
+    "CCC號列": "30042000514 人用醫藥製劑，含氯絲菌素或其衍生物者Medicaments, containing chloramphenicol or its derivatives, for human use",
+    "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",

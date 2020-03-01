@@ -1,6 +1,6 @@
 {
     "code": "46001535",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001535",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001535",
     "time": "2020-02-26 06:08:03",
     "許可證字號": "衛署醫器陸輸壹字第001535號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6231180168  醫樺儀器有限公司",
     "申請商地址": "新北市深坑區北深路3段155巷5號8樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1004000  EVERYWAY MEDICAL INSTRUMENTS CO., LTD.",
-        "製造廠廠址": "RM.2003, XINJI BUILDING, XINXINSHA RD. SHAJING TOWN, SHENZHEN CITY, GUANGDONG, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1004000  EVERYWAY MEDICAL INSTRUMENTS CO., LTD.",
+            "製造廠廠址": "RM.2003, XINJI BUILDING, XINXINSHA RD. SHAJING TOWN, SHENZHEN CITY, GUANGDONG, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

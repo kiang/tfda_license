@@ -1,6 +1,6 @@
 {
     "code": "44012162",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012162",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012162",
     "time": "2020-02-26 05:42:06",
     "許可證字號": "衛署醫器輸壹字第012162號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620110V202  宜揚國際企業有限公司",
     "申請商地址": "新北市板橋區東門街30之2號6樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MDE0705000  RUDOLF MEDICAL GMBH + CO. KG",
-        "製造廠廠址": "ZOLLERSTRABE.1, 78567 FRIDINGEN, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0705000  RUDOLF MEDICAL GMBH + CO. KG",
+            "製造廠廠址": "ZOLLERSTRABE.1, 78567 FRIDINGEN, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

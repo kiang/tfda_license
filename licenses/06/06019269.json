@@ -1,6 +1,6 @@
 {
     "code": "06019269",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019269",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019269",
     "time": "2020-02-25 19:45:19",
     "許可證字號": "衛署醫器輸字第019269號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620101I515  至心儀器有限公司",
     "申請商地址": "台北市大安區光復南路442號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MIT0135000  COSMED S.R.L.",
-        "製造廠廠址": "VIA DEI PIANI DI MONTE SAVELLO 37, 00040 PAVONA DI ALBANO(RM) ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIT0135000  COSMED S.R.L.",
+            "製造廠廠址": "VIA DEI PIANI DI MONTE SAVELLO 37, 00040 PAVONA DI ALBANO(RM) ITALY",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

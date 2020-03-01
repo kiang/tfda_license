@@ -1,6 +1,6 @@
 {
     "code": "94015739",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015739",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015739",
     "time": "2020-02-26 11:45:11",
     "許可證字號": "衛部醫器輸壹字第015739號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "623111D023  華億醫療儀器科技有限公司",
     "申請商地址": "新北市汐止區康寧街169巷31之1號6樓之3及8樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MUS4421000  WCW INC",
-        "製造廠廠址": "450 NATURAL FORM WAY, MANCHESTER CENTER, VT 05255, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS4421000  WCW INC",
+            "製造廠廠址": "450 NATURAL FORM WAY, MANCHESTER CENTER, VT 05255, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MSE2434000  ARJOHUNTLEIGH AB",
+            "製造廠廠址": "HANS MICHELSENSGATAN 10, 211 20 MALMO, SWEDEN",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWEDEN",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

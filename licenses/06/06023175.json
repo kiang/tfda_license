@@ -1,6 +1,6 @@
 {
     "code": "06023175",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023175",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023175",
     "time": "2020-02-25 20:28:27",
     "許可證字號": "衛署醫器輸字第023175號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "0420201100  巴德股份有限公司",
     "申請商地址": "臺北市信義區忠孝東路4段560號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MMX0093000  PRODUCTOS PARA EL CUIDADO DE LA SALUD",
-        "製造廠廠址": "CARRETERA INTERNACIONAL KM 6. 5, TERRAZAS DEL CID, NOGALES, SONORA, MEXICO 84000",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0093000  PRODUCTOS PARA EL CUIDADO DE LA SALUD",
+            "製造廠廠址": "CARRETERA INTERNACIONAL KM 6. 5, TERRAZAS DEL CID, NOGALES, SONORA, MEXICO 84000",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS2302000  MEDIVANCE, INC.",
+            "製造廠廠址": "321 SOUTH TAYLOR AVENUE, SUITE 200, LOUISVILLE, CO 80027, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

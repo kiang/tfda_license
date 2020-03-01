@@ -1,6 +1,6 @@
 {
     "code": "06004976",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06004976",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06004976",
     "time": "2020-02-25 16:44:36",
     "許可證字號": "衛署醫器輸字第004976號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1303501100  祿得企業股份有限公司",
     "申請商地址": "台北巿信義區松德路２０號７Ｆ",
-    "主製造廠": {
-        "製造廠名稱": "MUS0261100  UNITED STATES SURGICAL",
-        "製造廠廠址": "195 MCDERMOTT ROAD, NORTH HAVEN, CONNECTICUT 06473",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0261100  UNITED STATES SURGICAL",
+            "製造廠廠址": "195 MCDERMOTT ROAD, NORTH HAVEN, CONNECTICUT 06473",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

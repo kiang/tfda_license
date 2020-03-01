@@ -1,6 +1,6 @@
 {
     "code": "96004049",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96004049",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96004049",
     "time": "2020-02-26 13:16:45",
     "許可證字號": "衛部醫器陸輸壹字第004049號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP 40大陸生產",
     "申請商名稱": "6211063353  鈦亞科科技股份有限公司",
     "申請商地址": "基隆市安樂區基金一路129巷1-12號",
-    "主製造廠": {
-        "製造廠名稱": "MCN2118100  WUHAN DIASCIE TECHNOLOGY CO., LTD.",
-        "製造廠廠址": "6 BUILDING, HECHANG INDUSTRIAL PARK, JINHE ROAD, DONGXIHU DISTRICT, WUHAN, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN2118100  WUHAN DIASCIE TECHNOLOGY CO., LTD.",
+            "製造廠廠址": "6 BUILDING, HECHANG INDUSTRIAL PARK, JINHE ROAD, DONGXIHU DISTRICT, WUHAN, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

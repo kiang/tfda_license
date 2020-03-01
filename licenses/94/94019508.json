@@ -1,6 +1,6 @@
 {
     "code": "94019508",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019508",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019508",
     "time": "2020-02-26 12:34:58",
     "許可證字號": "衛部醫器輸壹字第019508號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6207330592  德科生物科技有限公司",
     "申請商地址": "高雄市新興區仁愛一街106號7樓",
-    "主製造廠": {
-        "製造廠名稱": "MCH0829000  MEDICONSULT SCHWEIZ GMBH",
-        "製造廠廠址": "BODENACKERSTRASSE 69. 4657 DULLIKEN SWITZERLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCH0829000  MEDICONSULT SCHWEIZ GMBH",
+            "製造廠廠址": "BODENACKERSTRASSE 69. 4657 DULLIKEN SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

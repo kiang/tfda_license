@@ -1,6 +1,6 @@
 {
     "code": "06018500",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06018500",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06018500",
     "time": "2020-02-25 19:36:19",
     "許可證字號": "衛署醫器輸字第018500號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201123191  昇基事業股份有限公司",
     "申請商地址": "台北市南港區忠孝東路五段815號12樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0134000  MEGAGEN IMPLANT CO., LTD.",
-        "製造廠廠址": "472, Hanjanggun-ro, Jain-myeon, Gyeongsan-si, Gyeongsangbuk-do,  Korea",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0134000  MEGAGEN IMPLANT CO., LTD.",
+            "製造廠廠址": "472, Hanjanggun-ro, Jain-myeon, Gyeongsan-si, Gyeongsangbuk-do,  Korea",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

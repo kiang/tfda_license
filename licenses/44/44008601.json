@@ -1,6 +1,6 @@
 {
     "code": "44008601",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008601",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008601",
     "time": "2020-02-26 05:06:59",
     "許可證字號": "衛署醫器輸壹字第008601號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620101I202  凱圖國際股份有限公司",
     "申請商地址": "台北市松山區南京東路三段275號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP0684000  LIVEDO CORPORATION",
-        "製造廠廠址": "OSTU 45-2, HANDA, KANADA-CHO, SHIKOKUCHUO-SHI, EHIME 799-0122 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0684000  LIVEDO CORPORATION",
+            "製造廠廠址": "OSTU 45-2, HANDA, KANADA-CHO, SHIKOKUCHUO-SHI, EHIME 799-0122 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

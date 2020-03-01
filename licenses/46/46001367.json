@@ -1,6 +1,6 @@
 {
     "code": "46001367",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001367",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001367",
     "time": "2020-02-26 06:06:22",
     "許可證字號": "衛署醫器陸輸壹字第001367號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "1225501100  華億醫療儀器科技有限公司",
     "申請商地址": "新北市汐止區康寧街169巷31之1號6樓之3及8樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MCN0894000  XIAMEN HSIN TUNG MEDICAL CO., LTD.",
-        "製造廠廠址": "UNIT A, BUILDING\/FLOOR 3, NO. 579, QUIANPU EAST ROAD, SIMING DISTRICT, XIAMEN, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0894000  XIAMEN HSIN TUNG MEDICAL CO., LTD.",
+            "製造廠廠址": "UNIT A, BUILDING\/FLOOR 3, NO. 579, QUIANPU EAST ROAD, SIMING DISTRICT, XIAMEN, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

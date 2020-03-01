@@ -1,6 +1,6 @@
 {
     "code": "08013921",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08013921",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08013921",
     "time": "2020-02-26 00:17:58",
     "許可證字號": "衛署粧輸字第013921號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620118B700  品韻線上國際股份有限公司",
     "申請商地址": "台北市中正區寧波東街1號5樓",
-    "主製造廠": {
-        "製造廠名稱": "CJP0215000  HABA COSMETICS, INC",
-        "製造廠廠址": "1-78 MITO, TAKO-MACHI, KATORI-GUN, CHIBA 289-2247, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0215000  HABA COSMETICS, INC",
+            "製造廠廠址": "1-78 MITO, TAKO-MACHI, KATORI-GUN, CHIBA 289-2247, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

@@ -1,6 +1,6 @@
 {
     "code": "94016795",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016795",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016795",
     "time": "2020-02-26 12:00:33",
     "許可證字號": "衛部醫器輸壹字第016795號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231118886  太暘生物科技股份有限公司",
     "申請商地址": "新北市汐止區福德三路369號12樓",
-    "主製造廠": {
-        "製造廠名稱": "MLT0006000  THERMO FISHER SCIENTIFIC BALTICS UAB",
-        "製造廠廠址": "V.A. GRAICIUNO 8, LT-02241 VILNIUS, LITHUANIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "LITHUANIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MLT0006000  THERMO FISHER SCIENTIFIC BALTICS UAB",
+            "製造廠廠址": "V.A. GRAICIUNO 8, LT-02241 VILNIUS, LITHUANIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "LITHUANIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

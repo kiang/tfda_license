@@ -1,6 +1,6 @@
 {
     "code": "44004761",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44004761",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44004761",
     "time": "2020-02-26 04:42:28",
     "許可證字號": "衛署醫器輸壹字第004761號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6212017944  五鼎生物技術股份有限公司",
     "申請商地址": "新竹市東區力行五路7號",
-    "主製造廠": {
-        "製造廠名稱": "MUS2139000  POLYMER TECHNOLOGY SYSTEM, INC.",
-        "製造廠廠址": "7736 ZIONSVILLE ROAD, INDIANAPOLIS, IN 46268 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2139000  POLYMER TECHNOLOGY SYSTEM, INC.",
+            "製造廠廠址": "7736 ZIONSVILLE ROAD, INDIANAPOLIS, IN 46268 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

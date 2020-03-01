@@ -1,6 +1,6 @@
 {
     "code": "94017481",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017481",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017481",
     "time": "2020-02-26 12:08:37",
     "許可證字號": "衛部醫器輸壹字第017481號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620118K203  英美醫療器材有限公司",
     "申請商地址": "新北市板橋區忠孝路283之1號8樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS4724000  SEKISUI DIAGNOSTICS, LLC",
-        "製造廠廠址": "6659 TOP GUN STREET, SAN DIEGO, CA 92121 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS4724000  SEKISUI DIAGNOSTICS, LLC",
+            "製造廠廠址": "6659 TOP GUN STREET, SAN DIEGO, CA 92121 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

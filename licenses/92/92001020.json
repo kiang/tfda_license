@@ -1,6 +1,6 @@
 {
     "code": "92001020",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92001020",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92001020",
     "time": "2020-02-26 10:16:24",
     "許可證字號": "衛部醫器陸輸字第001020號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6201208653  晴翔國際企業有限公司",
     "申請商地址": "臺北市文山區辛亥路四段260巷3號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN5009000  Beijing QS Medical Technology Co., Ltd",
-        "製造廠廠址": "Building 5, No. 11 Kechuang 14th Street, Economic Technological Development Area, Beijing, China",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN5009000  Beijing QS Medical Technology Co., Ltd",
+            "製造廠廠址": "Building 5, No. 11 Kechuang 14th Street, Economic Technological Development Area, Beijing, China",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

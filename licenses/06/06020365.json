@@ -1,6 +1,6 @@
 {
     "code": "06020365",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06020365",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06020365",
     "time": "2020-02-25 19:57:03",
     "許可證字號": "衛署醫器輸字第020365號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201123673  西門子股份有限公司",
     "申請商地址": "台北市南港區園區街３號８樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS2572000  SIEMENS HEALTHCARE DIAGNOSTICS INC.",
-        "製造廠廠址": "333 CONEY ST., EAST WALPOLE, MA 92932, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2572000  SIEMENS HEALTHCARE DIAGNOSTICS INC.",
+            "製造廠廠址": "333 CONEY ST., EAST WALPOLE, MA 92932, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS2867000  SIEMENS HEALTHCARE DIAGNOSTICS INC.",
+            "製造廠廠址": "511 BENEDICT AVENUE TARRYTOWN, NY 10591, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

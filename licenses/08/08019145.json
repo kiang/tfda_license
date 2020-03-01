@@ -1,6 +1,6 @@
 {
     "code": "08019145",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08019145",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08019145",
     "time": "2020-02-26 01:15:23",
     "許可證字號": "衛署粧輸字第019145號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6627459599  云登國際貿易有限公司",
     "申請商地址": "台中市西屯區重慶路391之6號1樓",
-    "主製造廠": {
-        "製造廠名稱": "CIT0099000  ROLLAND S.r.l.",
-        "製造廠廠址": "Via G. Lazzri, 18, 40057 Granarolo Dell’ Emilia (Bologna) Loc.Quarto Inferiore- Italy",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CIT0099000  ROLLAND S.r.l.",
+            "製造廠廠址": "Via G. Lazzri, 18, 40057 Granarolo Dell’ Emilia (Bologna) Loc.Quarto Inferiore- Italy",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

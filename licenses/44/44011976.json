@@ -1,6 +1,6 @@
 {
     "code": "44011976",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011976",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011976",
     "time": "2020-02-26 05:40:19",
     "許可證字號": "衛署醫器輸壹字第011976號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "620118K794  凱杰生物科技有限公司",
     "申請商地址": "臺北市中正區羅斯福路2段100號5樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS1058000  QIAGEN GAITHERSBURG, INC.",
-        "製造廠廠址": "1201 CLOPPER ROAD, GAITHERSBURG, MD 20878",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS1058000  QIAGEN GAITHERSBURG, INC.",
+            "製造廠廠址": "1201 CLOPPER ROAD, GAITHERSBURG, MD 20878",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

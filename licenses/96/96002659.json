@@ -1,6 +1,6 @@
 {
     "code": "96002659",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002659",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002659",
     "time": "2020-02-26 13:02:33",
     "許可證字號": "衛部醫器陸輸壹字第002659號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6231110504  圓福興業股份有限公司",
     "申請商地址": "新竹縣芎林鄉華龍村鹿寮坑177-5號",
-    "主製造廠": {
-        "製造廠名稱": "MCN4009000  TAIZHOU YONGHONG SURGICAL DRESSING CO., LTD.",
-        "製造廠廠址": "YUNXI VILLAGE DALUN TOWN JIANGYAN DISTRICT, TAIZHOU CITY, JIANGSU PROVINCE, 225533, P.R. CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN4009000  TAIZHOU YONGHONG SURGICAL DRESSING CO., LTD.",
+            "製造廠廠址": "YUNXI VILLAGE DALUN TOWN JIANGYAN DISTRICT, TAIZHOU CITY, JIANGSU PROVINCE, 225533, P.R. CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

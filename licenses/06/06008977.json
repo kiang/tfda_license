@@ -1,6 +1,6 @@
 {
     "code": "06008977",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06008977",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06008977",
     "time": "2020-02-25 17:44:03",
     "許可證字號": "衛署醫器輸字第008977號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1119301100  荷商波士頓科技有限公司台灣分公司",
     "申請商地址": "台北巿松山區光復北路11巷35號3樓7樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS0698000  TARGET THERAPEUTICS, INC. BOSTON SCIENTIFIC CORPORATION",
-        "製造廠廠址": "47201 LAKEVIEW BOULEVARD, FREMONT, CA 94538 U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0698000  TARGET THERAPEUTICS, INC. BOSTON SCIENTIFIC CORPORATION",
+            "製造廠廠址": "47201 LAKEVIEW BOULEVARD, FREMONT, CA 94538 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

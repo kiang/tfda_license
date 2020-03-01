@@ -1,6 +1,6 @@
 {
     "code": "44003058",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44003058",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44003058",
     "time": "2020-02-26 04:34:09",
     "許可證字號": "衛署醫器輸壹字第003058號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0314801100  大雅儀器有限公司",
     "申請商地址": "台北市復興南路二段１６０巷２號７樓",
-    "主製造廠": {
-        "製造廠名稱": "MFR0820000  SAINT-GOBAIN PERFORMANCE PLASTICS GESSIL",
-        "製造廠廠址": "Z.I. DES CHESNES, 5 RUE DU DAUPHINE BP712 F-38297 SAINT QUENTIN-FALLAVIER CEDEX, FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR0820000  SAINT-GOBAIN PERFORMANCE PLASTICS GESSIL",
+            "製造廠廠址": "Z.I. DES CHESNES, 5 RUE DU DAUPHINE BP712 F-38297 SAINT QUENTIN-FALLAVIER CEDEX, FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

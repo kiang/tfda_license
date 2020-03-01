@@ -1,6 +1,6 @@
 {
     "code": "46000830",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000830",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000830",
     "time": "2020-02-26 06:01:07",
     "許可證字號": "衛署醫器陸輸壹字第000830號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6201159575  添崐實業股份有限公司",
     "申請商地址": "臺北市士林區德行東路239號",
-    "主製造廠": {
-        "製造廠名稱": "MCN0556000  HUBEI HUANFU PLASTIC PRODUCTS CO., LTD",
-        "製造廠廠址": "NO.188, WANFU STREET, CHENHU TOWN, HANCHUAN CITY, HUBEI, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0556000  HUBEI HUANFU PLASTIC PRODUCTS CO., LTD",
+            "製造廠廠址": "NO.188, WANFU STREET, CHENHU TOWN, HANCHUAN CITY, HUBEI, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "08002251",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08002251",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08002251",
     "time": "2020-02-25 22:14:44",
     "許可證字號": "衛署粧輸字第002251號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1425101100  廣易貿易股份有限公司",
     "申請商地址": "台北巿和平東路一段７３號２Ｆ之４",
-    "主製造廠": {
-        "製造廠名稱": "CIL0001000  DEAD SEA LABORATORIES LTD.",
-        "製造廠廠址": "M.P. DEAD SEA 90670 KIBBUTZ MITZPE SHALEM ISRALE",
-        "製造廠公司地址": "",
-        "製造廠國別": "ISRAEL",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CIL0001000  DEAD SEA LABORATORIES LTD.",
+            "製造廠廠址": "M.P. DEAD SEA 90670 KIBBUTZ MITZPE SHALEM ISRALE",
+            "製造廠公司地址": "",
+            "製造廠國別": "ISRAEL",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

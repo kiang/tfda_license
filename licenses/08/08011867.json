@@ -1,6 +1,6 @@
 {
     "code": "08011867",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08011867",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08011867",
     "time": "2020-02-25 23:55:20",
     "許可證字號": "衛署粧輸字第011867號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1435821100  台灣鐘紡化粧品股份有限公司",
     "申請商地址": "高雄市新興區五福二路166號10樓",
-    "主製造廠": {
-        "製造廠名稱": "CJP0176000  KANEBO COSMETICS INC.",
-        "製造廠廠址": "3-20-20, KAIGAN, MINATO-KU, TOKYO, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0176000  KANEBO COSMETICS INC.",
+            "製造廠廠址": "3-20-20, KAIGAN, MINATO-KU, TOKYO, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

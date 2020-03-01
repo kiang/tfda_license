@@ -1,6 +1,6 @@
 {
     "code": "44010529",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010529",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010529",
     "time": "2020-02-26 05:26:02",
     "許可證字號": "衛署醫器輸壹字第010529號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102X114  群融科技股份有限公司",
     "申請商地址": "台北市大安區仁愛路3段18之1號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MIL0112000  EASY GLIDE LTD.",
-        "製造廠廠址": "30 HA ELLA STREET, P.O.B128, KFAR TRUMAN, 73150 ISRAEL",
-        "製造廠公司地址": "",
-        "製造廠國別": "ISRAEL",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIL0112000  EASY GLIDE LTD.",
+            "製造廠廠址": "30 HA ELLA STREET, P.O.B128, KFAR TRUMAN, 73150 ISRAEL",
+            "製造廠公司地址": "",
+            "製造廠國別": "ISRAEL",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

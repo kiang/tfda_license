@@ -1,6 +1,6 @@
 {
     "code": "44012106",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012106",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012106",
     "time": "2020-02-26 05:41:35",
     "許可證字號": "衛署醫器輸壹字第012106號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620110P853  利凌科技股份有限公司",
     "申請商地址": "臺北市中山區復興北路164號7樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MMX0070000  STARKEY LABORATORIES, INC.",
-        "製造廠廠址": "STARKEY DE MEXICO, S. A. DE C. V. CALLE NORTE 7 NUMERO LOTE 2Y 3. ENTRE DIAGONAL LORENZO DE LA GARZA PONIENTE 2. COLONIA CIUDAD INDUSTRIAL. H. MATAMOROS, TAMAULIPAS. CP87499 MEXICO",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0070000  STARKEY LABORATORIES, INC.",
+            "製造廠廠址": "STARKEY DE MEXICO, S. A. DE C. V. CALLE NORTE 7 NUMERO LOTE 2Y 3. ENTRE DIAGONAL LORENZO DE LA GARZA PONIENTE 2. COLONIA CIUDAD INDUSTRIAL. H. MATAMOROS, TAMAULIPAS. CP87499 MEXICO",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

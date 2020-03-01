@@ -1,6 +1,6 @@
 {
     "code": "46000987",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000987",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000987",
     "time": "2020-02-26 06:02:27",
     "許可證字號": "衛署醫器陸輸壹字第000987號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6238012529  馨喜企業股份有限公司",
     "申請商地址": "南投縣集集鎮林尾里林尾路267號",
-    "主製造廠": {
-        "製造廠名稱": "MCN0716000  SHANDONG SINCERE MEDICAL PRODUCTS CO., LTD.",
-        "製造廠廠址": "WEIXU ROAD NO. 168, JING ZHI TOWN, AN QIU CITY, 262119, P.R. CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0716000  SHANDONG SINCERE MEDICAL PRODUCTS CO., LTD.",
+            "製造廠廠址": "WEIXU ROAD NO. 168, JING ZHI TOWN, AN QIU CITY, 262119, P.R. CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

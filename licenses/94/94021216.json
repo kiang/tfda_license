@@ -1,6 +1,6 @@
 {
     "code": "94021216",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94021216",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94021216",
     "time": "2020-02-26 12:51:07",
     "許可證字號": "衛部醫器輸壹字第021216號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620117O465  中實貿易有限公司",
     "申請商地址": "臺北市信義區忠孝東路5段1之7號9樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE1653000  Frimed Medizintechnik GmbH",
-        "製造廠廠址": "Junkersstrasse 1 78532 Tuttlingen, Germany",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE1653000  Frimed Medizintechnik GmbH",
+            "製造廠廠址": "Junkersstrasse 1 78532 Tuttlingen, Germany",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

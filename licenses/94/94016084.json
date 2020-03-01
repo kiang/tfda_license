@@ -1,6 +1,6 @@
 {
     "code": "94016084",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016084",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016084",
     "time": "2020-02-26 11:50:13",
     "許可證字號": "衛部醫器輸壹字第016084號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6401022399  品正生物科技有限公司",
     "申請商地址": "新北市三重區重新路四段97號16樓",
-    "主製造廠": {
-        "製造廠名稱": "MVN0049000  DR COMFORT A DJO, LLC COMPANY",
-        "製造廠廠址": "THON PHU THI XA PHU THI HUYEN GIA HANOI HA NOI THANH PHO VIETNAM 71000",
-        "製造廠公司地址": "",
-        "製造廠國別": "VIET NAM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MVN0049000  DR COMFORT A DJO, LLC COMPANY",
+            "製造廠廠址": "THON PHU THI XA PHU THI HUYEN GIA HANOI HA NOI THANH PHO VIETNAM 71000",
+            "製造廠公司地址": "",
+            "製造廠國別": "VIET NAM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "06009669",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06009669",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06009669",
     "time": "2020-02-25 17:53:08",
     "許可證字號": "衛署醫器輸字第009669號",
     "註銷狀態": "",
@@ -35,13 +35,22 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620118H319  台灣愛德華生命科學股份有限公司",
     "申請商地址": "臺北市中山區民生東路三段2號9樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MUS0011000  EDWARDS LIFESCIENCES LLC",
-        "製造廠廠址": "ONE EDWARDS WAY,IRVINE,CA 92614,USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0011000  EDWARDS LIFESCIENCES LLC",
+            "製造廠廠址": "ONE EDWARDS WAY,IRVINE,CA 92614,USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        },
+        {
+            "製造廠名稱": "MX00000000  MEXICO",
+            "製造廠廠址": "MEXICO",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": "99部分製程"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

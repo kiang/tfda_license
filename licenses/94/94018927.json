@@ -1,6 +1,6 @@
 {
     "code": "94018927",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018927",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018927",
     "time": "2020-02-26 12:28:58",
     "許可證字號": "衛部醫器輸壹字第018927號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623106B659  喜愛國際有限公司",
     "申請商地址": "新北市新莊區中港路310號11樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0965000  eClear International Co., Ltd",
-        "製造廠廠址": "(Gasan-dong) JEI PLATZ 703, 186 Gasan digital 1-ro Geumcheon-gu, SEOUL, Korea 08502",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0965000  eClear International Co., Ltd",
+            "製造廠廠址": "(Gasan-dong) JEI PLATZ 703, 186 Gasan digital 1-ro Geumcheon-gu, SEOUL, Korea 08502",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

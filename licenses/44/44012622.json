@@ -1,6 +1,6 @@
 {
     "code": "44012622",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012622",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012622",
     "time": "2020-02-26 05:46:30",
     "許可證字號": "衛署醫器輸壹字第012622號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623102H586  華堂光學實業有限公司",
     "申請商地址": "新北市三重區光明路72巷9號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE1092000  ESCHENBACH OPTIK GMBH",
-        "製造廠廠址": "SCHOPENHAUERSTR. 10 D-90409 NURNBERG GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE1092000  ESCHENBACH OPTIK GMBH",
+            "製造廠廠址": "SCHOPENHAUERSTR. 10 D-90409 NURNBERG GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

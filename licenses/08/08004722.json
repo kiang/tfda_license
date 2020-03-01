@@ -1,6 +1,6 @@
 {
     "code": "08004722",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08004722",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08004722",
     "time": "2020-02-25 22:42:23",
     "許可證字號": "衛署粧輸字第004722號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0713601100  克緹國際貿易股份有限公司",
     "申請商地址": "台北市信義區忠孝東路五段510號26樓",
-    "主製造廠": {
-        "製造廠名稱": "CNZ0003000  SHIELLING LABORATORIES LTD.",
-        "製造廠廠址": "1 HILL STREET ONEHUNGA AUCKLAND NEW ZEALAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "NEW ZEALAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CNZ0003000  SHIELLING LABORATORIES LTD.",
+            "製造廠廠址": "1 HILL STREET ONEHUNGA AUCKLAND NEW ZEALAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "NEW ZEALAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

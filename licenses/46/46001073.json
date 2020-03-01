@@ -1,6 +1,6 @@
 {
     "code": "46001073",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001073",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001073",
     "time": "2020-02-26 06:03:22",
     "許可證字號": "衛署醫器陸輸壹字第001073號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6231052249  繁葵實業股份有限公司",
     "申請商地址": "新北市新店區寶橋路235巷2號6樓、7樓",
-    "主製造廠": {
-        "製造廠名稱": "MHK0016000  CASUAL AND LEISURE PRODUCTS LTD.",
-        "製造廠廠址": "NO.108,  ZHOUSHI ROAD, SHIYAN TOWN, BAO&#39;AN ZONE, SHENZHON CITY, GUANGONG PROVICE, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "HONG KONG",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MHK0016000  CASUAL AND LEISURE PRODUCTS LTD.",
+            "製造廠廠址": "NO.108,  ZHOUSHI ROAD, SHIYAN TOWN, BAO&#39;AN ZONE, SHENZHON CITY, GUANGONG PROVICE, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "HONG KONG",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

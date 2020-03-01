@@ -1,6 +1,6 @@
 {
     "code": "94019921",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019921",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019921",
     "time": "2020-02-26 12:39:33",
     "許可證字號": "衛部醫器輸壹字第019921號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620101F872  台灣而至股份有限公司",
     "申請商地址": "新北市中和區建一路176號16樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP1419000  Machine Tool Chuo Co., Ltd.",
-        "製造廠廠址": "7-5 Tsuto-otsuka, Nishinomiya, Hyogo, 663-8241, japan",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP1419000  Machine Tool Chuo Co., Ltd.",
+            "製造廠廠址": "7-5 Tsuto-otsuka, Nishinomiya, Hyogo, 663-8241, japan",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MJP6111000  GC CORPORATION",
+            "製造廠廠址": "3-2-14 HONGO, BUNKYO-KU, TOKYO 113-0033 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

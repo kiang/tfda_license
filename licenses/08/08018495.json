@@ -1,6 +1,6 @@
 {
     "code": "08018495",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018495",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018495",
     "time": "2020-02-26 01:08:37",
     "許可證字號": "衛署粧輸字第018495號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6628225819  洛特企業有限公司",
     "申請商地址": "台北市松山區復興北路191號9樓",
-    "主製造廠": {
-        "製造廠名稱": "CES0010000  LABORATORIOS PHERGAL S.A.",
-        "製造廠廠址": "CALLE HIERRO 79 TORREJON DE ARDOZ 28850 MADRID SPAIN",
-        "製造廠公司地址": "",
-        "製造廠國別": "SPAIN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CES0010000  LABORATORIOS PHERGAL S.A.",
+            "製造廠廠址": "CALLE HIERRO 79 TORREJON DE ARDOZ 28850 MADRID SPAIN",
+            "製造廠公司地址": "",
+            "製造廠國別": "SPAIN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

@@ -1,6 +1,6 @@
 {
     "code": "44009235",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009235",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009235",
     "time": "2020-02-26 05:13:09",
     "許可證字號": "衛署醫器輸壹字第009235號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6234091659  香港商麥迪康亞太有限公司台灣分公司",
     "申請商地址": "宜蘭縣五結鄉利工一路2段11號 1樓",
-    "主製造廠": {
-        "製造廠名稱": "MCA0117000  A. R. MEDICOM INC.",
-        "製造廠廠址": "1200 55TH AVENUE, MONTREAL, QUEBEC H8T 3J8 CANADA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CANADA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCA0117000  A. R. MEDICOM INC.",
+            "製造廠廠址": "1200 55TH AVENUE, MONTREAL, QUEBEC H8T 3J8 CANADA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CANADA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

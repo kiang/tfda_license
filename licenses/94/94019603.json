@@ -1,6 +1,6 @@
 {
     "code": "94019603",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019603",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019603",
     "time": "2020-02-26 12:35:54",
     "許可證字號": "衛部醫器輸壹字第019603號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "6231046492  科林儀器股份有限公司",
     "申請商地址": "新北市中和區中和路366號12樓之3",
-    "主製造廠": {
-        "製造廠名稱": "MMX0148200  BEAVER VISITEC INTERNATIONAL",
-        "製造廠廠址": "VALLE DEL CEDRO NO. 1520, PARQUE INDUSTRIAL INTERMEX CIUDAD JUAREZ CHIHUAHUA,  MEXICO CP 32575",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0148200  BEAVER VISITEC INTERNATIONAL",
+            "製造廠廠址": "VALLE DEL CEDRO NO. 1520, PARQUE INDUSTRIAL INTERMEX CIUDAD JUAREZ CHIHUAHUA,  MEXICO CP 32575",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS5358000  Beaver Visitec International, Inc.",
+            "製造廠廠址": "500 Totten Pond Rd-10 CityPoint Waltham, MA 02451 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

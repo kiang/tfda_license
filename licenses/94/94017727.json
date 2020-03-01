@@ -1,6 +1,6 @@
 {
     "code": "94017727",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017727",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017727",
     "time": "2020-02-26 12:11:18",
     "許可證字號": "衛部醫器輸壹字第017727號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6201015158  湧傑企業股份有限公司",
     "申請商地址": "台北市松山區敦化南路一段2號5樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE0230300  HELMUT ZEPF MEDIZINTECHNIK GMBH",
-        "製造廠廠址": "OBERE HAUPSTR. 16-22, D-78606 SEITINGEN- OBERFLACHT, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0230300  HELMUT ZEPF MEDIZINTECHNIK GMBH",
+            "製造廠廠址": "OBERE HAUPSTR. 16-22, D-78606 SEITINGEN- OBERFLACHT, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS4555100  HU-FRIEDY MFG. CO., LLC",
+            "製造廠廠址": "3232 NORTH ROCKWELL ST., CHICAGO, IL 60618, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

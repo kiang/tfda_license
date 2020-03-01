@@ -1,6 +1,6 @@
 {
     "code": "94016050",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016050",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016050",
     "time": "2020-02-26 11:49:39",
     "許可證字號": "衛部醫器輸壹字第016050號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623101N546  予昇國際有限公司",
     "申請商地址": "新北市土城區中央路一段66號 (1樓)",
-    "主製造廠": {
-        "製造廠名稱": "MUS4481000  MARPAC, INC.",
-        "製造廠廠址": "8430 WASHINGTON P1 NE ALBUQUERQUE, NM 87113",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS4481000  MARPAC, INC.",
+            "製造廠廠址": "8430 WASHINGTON P1 NE ALBUQUERQUE, NM 87113",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "94015468",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015468",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015468",
     "time": "2020-02-26 11:41:27",
     "許可證字號": "衛部醫器輸壹字第015468號",
     "註銷狀態": "",
@@ -35,13 +35,22 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "1407001100  台灣明尼蘇達礦業製造股份有限公司",
     "申請商地址": "台北市南港區經貿二路198號3樓至8樓",
-    "主製造廠": {
-        "製造廠名稱": "FGB0167000  3M HEALTH CARE LTD.",
-        "製造廠廠址": "DERBY ROAD LOUGHBORUGH LEICESTERSHIRE U.K. LE11 5SF",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "FGB0167000  3M HEALTH CARE LTD.",
+            "製造廠廠址": "DERBY ROAD LOUGHBORUGH LEICESTERSHIRE U.K. LE11 5SF",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        },
+        {
+            "製造廠名稱": "M469999999  Made (部分製程) in U.S.A.",
+            "製造廠廠址": "",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "99部分製程"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

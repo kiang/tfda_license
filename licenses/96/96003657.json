@@ -1,6 +1,6 @@
 {
     "code": "96003657",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003657",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003657",
     "time": "2020-02-26 13:13:03",
     "許可證字號": "衛部醫器陸輸壹字第003657號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "620110X582  寶億生技股份有限公司",
     "申請商地址": "新北市五股區興珍里中興路一段8號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1960000  Letop Medical Co., Ltd",
-        "製造廠廠址": "D1001, No. 26 Huashan(M) Road, Xinbei District, Changzhou, Jiangsu China",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1960000  Letop Medical Co., Ltd",
+            "製造廠廠址": "D1001, No. 26 Huashan(M) Road, Xinbei District, Changzhou, Jiangsu China",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "620110X582  寶億生技股份有限公司",
+            "製造廠廠址": "新北市五股區興珍里中興路一段8號6樓",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

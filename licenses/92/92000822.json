@@ -1,6 +1,6 @@
 {
     "code": "92000822",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000822",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000822",
     "time": "2020-02-26 10:14:36",
     "許可證字號": "衛部醫器陸輸字第000822號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "623104I905  艾柏生技有限公司",
     "申請商地址": "新北市中和區保健路48巷55號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN4051000  Micro-Tech (Nanjing) Co., Ltd.",
-        "製造廠廠址": "No 10, Gaoke Third Road, Nanjing National High-Tech Industrial Development Zone, China",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN4051000  Micro-Tech (Nanjing) Co., Ltd.",
+            "製造廠廠址": "No 10, Gaoke Third Road, Nanjing National High-Tech Industrial Development Zone, China",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

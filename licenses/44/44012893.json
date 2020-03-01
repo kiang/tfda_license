@@ -1,6 +1,6 @@
 {
     "code": "44012893",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012893",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012893",
     "time": "2020-02-26 05:49:06",
     "許可證字號": "衛署醫器輸壹字第012893號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231113425  冠京生技股份有限公司",
     "申請商地址": "新北市汐止區大同路一段239號10樓之6",
-    "主製造廠": {
-        "製造廠名稱": "MUS2378000  SALVIN DENTAL SPECIALTIES, INC.",
-        "製造廠廠址": "3450 LATROBE DRIVE CHARLOTTE, NC 28211 U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2378000  SALVIN DENTAL SPECIALTIES, INC.",
+            "製造廠廠址": "3450 LATROBE DRIVE CHARLOTTE, NC 28211 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

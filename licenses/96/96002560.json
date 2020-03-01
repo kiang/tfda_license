@@ -1,6 +1,6 @@
 {
     "code": "96002560",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002560",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002560",
     "time": "2020-02-26 13:01:17",
     "許可證字號": "衛部醫器陸輸壹字第002560號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6205311893  展翰企業股份有限公司",
     "申請商地址": "臺南市永康區王行里永科三路99號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN4040000  EASYTEC CORPORATION",
-        "製造廠廠址": "NO. 5 INDUSTRIAL PARK, XIEGANG TOWN. DONGGUAN CITY, GUANGDONG, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN4040000  EASYTEC CORPORATION",
+            "製造廠廠址": "NO. 5 INDUSTRIAL PARK, XIEGANG TOWN. DONGGUAN CITY, GUANGDONG, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

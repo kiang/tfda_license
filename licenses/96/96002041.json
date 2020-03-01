@@ -1,6 +1,6 @@
 {
     "code": "96002041",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002041",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002041",
     "time": "2020-02-26 12:55:20",
     "許可證字號": "衛部醫器陸輸壹字第002041號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6237023911  佑合企業股份有限公司",
     "申請商地址": "彰化縣鹿港鎮海埔里海明街201巷20號",
-    "主製造廠": {
-        "製造廠名稱": "MCN0118100  YANGZHOU SUPER UNION MEDICAL MATERIAL CO., LTD.",
-        "製造廠廠址": "NO. 118, XISHAN SOUTH ROAD, CHENJI TOWN, YIZHENG CITY, JIANGSU PROVINCE, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0118100  YANGZHOU SUPER UNION MEDICAL MATERIAL CO., LTD.",
+            "製造廠廠址": "NO. 118, XISHAN SOUTH ROAD, CHENJI TOWN, YIZHENG CITY, JIANGSU PROVINCE, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "94020114",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020114",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020114",
     "time": "2020-02-26 12:41:20",
     "許可證字號": "衛部醫器輸壹字第020114號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620111A934  興中美生技有限公司",
     "申請商地址": "臺北市內湖區基湖路35巷6號5樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP1112000  KIYOU JOCHUGIKU CO., LTD.",
-        "製造廠廠址": "1135 SHIMOTSU-CHO KAMI, KAINAN, WAKAYAMA, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP1112000  KIYOU JOCHUGIKU CO., LTD.",
+            "製造廠廠址": "1135 SHIMOTSU-CHO KAMI, KAINAN, WAKAYAMA, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

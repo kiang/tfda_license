@@ -1,6 +1,6 @@
 {
     "code": "44006810",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006810",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006810",
     "time": "2020-02-26 04:54:09",
     "許可證字號": "衛署醫器輸壹字第006810號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201187355  澳登堡股份有限公司",
     "申請商地址": "台北市中正區羅斯福路２段７之６號１１樓",
-    "主製造廠": {
-        "製造廠名稱": "MCH0129000  BORER CHEMIE AG",
-        "製造廠廠址": "GEWERBESTR. 13, CH-4528 ZUCHWIL SWITZERLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCH0129000  BORER CHEMIE AG",
+            "製造廠廠址": "GEWERBESTR. 13, CH-4528 ZUCHWIL SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

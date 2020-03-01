@@ -1,6 +1,6 @@
 {
     "code": "44009376",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009376",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009376",
     "time": "2020-02-26 05:14:36",
     "許可證字號": "衛署醫器輸壹字第009376號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1225401100  森昌有限公司",
     "申請商地址": "台北市松山區復興北路369號8樓",
-    "主製造廠": {
-        "製造廠名稱": "MGB0404000  PROACT",
-        "製造廠廠址": "9-13 OAKLEY HAY LODGE GREAT FOLDS ROAD OAKLEY HAY BUSINESS PARK CORBY, NORTHAMAPTOSHIRE, NN18 9AS, UK",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0404000  PROACT",
+            "製造廠廠址": "9-13 OAKLEY HAY LODGE GREAT FOLDS ROAD OAKLEY HAY BUSINESS PARK CORBY, NORTHAMAPTOSHIRE, NN18 9AS, UK",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

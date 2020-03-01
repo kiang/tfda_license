@@ -1,6 +1,6 @@
 {
     "code": "94015542",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015542",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015542",
     "time": "2020-02-26 11:42:25",
     "許可證字號": "衛部醫器輸壹字第015542號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6205311811  柏紅貿易有限公司",
     "申請商地址": "臺南市中西區中正路64號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MHU0025000  DIATRON M.I. ZRT.",
-        "製造廠廠址": "H-1097 BUDAPEST TABLAS UTCA 39. HUNGARY",
-        "製造廠公司地址": "",
-        "製造廠國別": "HUNGARY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MHU0025000  DIATRON M.I. ZRT.",
+            "製造廠廠址": "H-1097 BUDAPEST TABLAS UTCA 39. HUNGARY",
+            "製造廠公司地址": "",
+            "製造廠國別": "HUNGARY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

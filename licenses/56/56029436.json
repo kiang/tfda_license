@@ -1,6 +1,6 @@
 {
     "code": "56029436",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029436",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029436",
     "time": "2020-02-26 08:05:21",
     "許可證字號": "衛部醫器輸字第029436號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 14輸入須附同意書（每次輸入均須取得原子能委員會之同意書為憑）",
     "申請商名稱": "620117J497  埃默高有限公司",
     "申請商地址": "新北市新店區北新路3段221號10樓",
-    "主製造廠": {
-        "製造廠名稱": "MCA0104000  NORDION(CANADA) INC.",
-        "製造廠廠址": "447 MARCH ROAD, OTTAWA, ONTARIO, CANADA K2K 1X8",
-        "製造廠公司地址": "",
-        "製造廠國別": "CANADA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCA0104000  NORDION(CANADA) INC.",
+            "製造廠廠址": "447 MARCH ROAD, OTTAWA, ONTARIO, CANADA K2K 1X8",
+            "製造廠公司地址": "",
+            "製造廠國別": "CANADA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MGB0209000  BIOCOMPATIBLES UK LIMITED",
+            "製造廠廠址": "CHAPMAN HOUSE, FARNHAM BUSINESS PARK, WEYDON LANE, FARNHAM, SURREY, GU9 8QL, UNITED KINGDOM.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

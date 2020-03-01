@@ -1,6 +1,6 @@
 {
     "code": "96002139",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002139",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002139",
     "time": "2020-02-26 12:56:27",
     "許可證字號": "衛部醫器陸輸壹字第002139號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6236081991  新廣業股份有限公司",
     "申請商地址": "台中市神岡區社口里中山路312號",
-    "主製造廠": {
-        "製造廠名稱": "MCN1328000  ZHUHAI USHARE MEDICAL INC.",
-        "製造廠廠址": "445 ANJI ZHONG ROAD, SANZAO TOWN, ZHUHAI, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1328000  ZHUHAI USHARE MEDICAL INC.",
+            "製造廠廠址": "445 ANJI ZHONG ROAD, SANZAO TOWN, ZHUHAI, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

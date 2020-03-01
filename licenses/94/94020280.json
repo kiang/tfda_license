@@ -1,6 +1,6 @@
 {
     "code": "94020280",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020280",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020280",
     "time": "2020-02-26 12:42:39",
     "許可證字號": "衛部醫器輸壹字第020280號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217069215  資生國際有限公司",
     "申請商地址": "台中市西屯區福科路961巷20號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MPK0088300  SHUFA DENTAL CO.",
-        "製造廠廠址": "MUHALLA SHUJA ABAD, ZAFAR WAL ROAD, NEKA PURA. SIALKOT, PAKISTAN.",
-        "製造廠公司地址": "",
-        "製造廠國別": "PAKISTAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MPK0088300  SHUFA DENTAL CO.",
+            "製造廠廠址": "MUHALLA SHUJA ABAD, ZAFAR WAL ROAD, NEKA PURA. SIALKOT, PAKISTAN.",
+            "製造廠公司地址": "",
+            "製造廠國別": "PAKISTAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

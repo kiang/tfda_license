@@ -1,6 +1,6 @@
 {
     "code": "92000803",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000803",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000803",
     "time": "2020-02-26 10:14:20",
     "許可證字號": "衛部醫器陸輸字第000803號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 14輸入須附同意書（每次輸入均須取得原子能委員會之同意書為憑） 40大陸生產",
     "申請商名稱": "6401104261  宜昀有限公司",
     "申請商地址": "臺北市中山區農安街77巷9弄16號",
-    "主製造廠": {
-        "製造廠名稱": "MCN4305000  LargeV Instrument Corp. Ltd.",
-        "製造廠廠址": "A-800B, TongFang Building, QingHuaYuan, Haidian District 10084 Beijing, China",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN4305000  LargeV Instrument Corp. Ltd.",
+            "製造廠廠址": "A-800B, TongFang Building, QingHuaYuan, Haidian District 10084 Beijing, China",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

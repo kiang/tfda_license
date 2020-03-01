@@ -1,6 +1,6 @@
 {
     "code": "58022110",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58022110",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58022110",
     "time": "2020-02-26 09:16:00",
     "許可證字號": "衛部粧輸字第022110號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "1509301100  綠鋒企業有限公司",
     "申請商地址": "台北市士林區德行東路９０巷３３弄８號１樓",
-    "主製造廠": {
-        "製造廠名稱": "CKR0109000  WINNOVA Co., Ltd",
-        "製造廠廠址": "14-6, Gajangsaneopdong-ro, Osan, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CKR0109000  WINNOVA Co., Ltd",
+            "製造廠廠址": "14-6, Gajangsaneopdong-ro, Osan, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

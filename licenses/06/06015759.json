@@ -1,6 +1,6 @@
 {
     "code": "06015759",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06015759",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06015759",
     "time": "2020-02-25 19:04:15",
     "許可證字號": "衛署醫器輸字第015759號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0415601100  元英企業有限公司",
     "申請商地址": "台北市內湖區陽光街365巷37號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP0398000  SEKISUI MEDICAL CO., LTD.",
-        "製造廠廠址": "3-3-1 KOYODAI 3-CHOME, RYUGASAKI CITY, IBARAKI, 301-0852, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0398000  SEKISUI MEDICAL CO., LTD.",
+            "製造廠廠址": "3-3-1 KOYODAI 3-CHOME, RYUGASAKI CITY, IBARAKI, 301-0852, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

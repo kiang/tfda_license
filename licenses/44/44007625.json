@@ -1,6 +1,6 @@
 {
     "code": "44007625",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007625",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007625",
     "time": "2020-02-26 05:00:14",
     "許可證字號": "衛署醫器輸壹字第007625號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217065477  盛聯企業有限公司",
     "申請商地址": "臺中市龍井區中央路三段136巷5號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS2544000  PI  PROFESSIONAL THERAPY PRODUCTS",
-        "製造廠廠址": "215 ROCKY MOUNT ROAD ATHENS, TENNESSEE 37371 U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2544000  PI  PROFESSIONAL THERAPY PRODUCTS",
+            "製造廠廠址": "215 ROCKY MOUNT ROAD ATHENS, TENNESSEE 37371 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

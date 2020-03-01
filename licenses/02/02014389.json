@@ -1,11 +1,12 @@
 {
     "code": "02014389",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02014389",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02014389",
     "time": "2020-02-25 10:42:00",
     "許可證字號": "衛署藥輸字第014389號",
     "註銷狀態": "已註銷",
     "註銷日期": "94\/06\/30",
     "註銷理由": "有效期間已屆未能補件",
+    "製造許可登錄編號": "",
     "有效日期": "93\/10\/03",
     "發證日期": "74\/10\/03",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "07須經醫師指示使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "1206701100  富彰行貿易有限公司",
-        "申請商地址": "台北巿民生東路一段42號5樓之1",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "ASPARTATE MAGNESIUM DL- 4H2O, ASPARTATE POTASSIUM DL- 1\/2H2O, VITAMIN A ACETATE (GRANULATION), NIACINAMIDE (NICOTINAMIDE), THIAMINE HYDROCHLORIDE, RIBOFLAVIN (VIT B2), PYRIDOXINE HCL, CYANOCOBALAMIN (VIT B12), FOLIC ACID, ASCORBIC ACID (VIT C), TOCOPHEROL ACETATE ALPHA (EQ TO VIT E ACETATE) (EQ TO VITAMIN E ACETATE)",
+    "限制項目": "02輸　入",
+    "申請商名稱": "1206701100  富彰行貿易有限公司",
+    "申請商地址": "台北巿民生東路一段42號5樓之1",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FDE0006000  ARTESAN PHARMA GMBH &amp; CO. KG",
+            "製造廠廠址": "D-29439 LUCHOW, WENDLANDSTR. 1, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "CCC號列": "30045000009 其他醫藥製劑，含有維他命或第２９３６節之其他產品Other medicaments, containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
     "ingredients": [

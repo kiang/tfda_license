@@ -1,6 +1,6 @@
 {
     "code": "08019714",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08019714",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08019714",
     "time": "2020-02-26 01:21:20",
     "許可證字號": "衛署粧輸字第019714號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1509701100  蔻仕麗股份有限公司",
     "申請商地址": "台北市中山區民權東路一段76號12樓",
-    "主製造廠": {
-        "製造廠名稱": "CJP0373000  MANDOM CORPORATION FUKUSAKI FACTORY",
-        "製造廠廠址": "290-28 TAKAHASHI, FUKUSAKI-CHO, KANZAKI-GUN, HYOGO, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0373000  MANDOM CORPORATION FUKUSAKI FACTORY",
+            "製造廠廠址": "290-28 TAKAHASHI, FUKUSAKI-CHO, KANZAKI-GUN, HYOGO, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

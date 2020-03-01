@@ -1,6 +1,6 @@
 {
     "code": "92000907",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000907",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000907",
     "time": "2020-02-26 10:15:31",
     "許可證字號": "衛部醫器陸輸字第000907號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6201117808  寶楠生技股份有限公司",
     "申請商地址": "臺北市內湖區瑞光路258巷50號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1707000  Medprin Regenerative Medical Technologies Co., Ltd.",
-        "製造廠廠址": "3\/F, Zone E, 80 Lanyue Road, Science City, New High-Tech Industrial Park, Guangzhou 510663, China",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1707000  Medprin Regenerative Medical Technologies Co., Ltd.",
+            "製造廠廠址": "3\/F, Zone E, 80 Lanyue Road, Science City, New High-Tech Industrial Park, Guangzhou 510663, China",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MDE1453000  Medprin Biotech GmbH",
+            "製造廠廠址": "Gutleutstra&#223;e 163-167, 60327 Frankfurt am Main, Germany",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

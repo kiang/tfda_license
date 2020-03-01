@@ -1,6 +1,6 @@
 {
     "code": "44006165",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006165",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006165",
     "time": "2020-02-26 04:49:48",
     "許可證字號": "衛署醫器輸壹字第006165號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0828401100  居家企業股份有限公司",
     "申請商地址": "新北市新店區中正路四維巷8弄4號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MES0033000  LUGA SUMINISTROS MEDICOS, S.L.",
-        "製造廠廠址": "AVDA. CONSTITUCION, P- 221, POLIG. IND. MONTE BOYAL, 45950 CASARRUBIOS DEL MONTE (TOLEDO), SPAIN",
-        "製造廠公司地址": "",
-        "製造廠國別": "SPAIN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MES0033000  LUGA SUMINISTROS MEDICOS, S.L.",
+            "製造廠廠址": "AVDA. CONSTITUCION, P- 221, POLIG. IND. MONTE BOYAL, 45950 CASARRUBIOS DEL MONTE (TOLEDO), SPAIN",
+            "製造廠公司地址": "",
+            "製造廠國別": "SPAIN",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MES0085000  PRIM, S.A.",
+            "製造廠廠址": "CALLE F, N 15-POL. IND. N 1, 28938- MOSTOLES (MADRID), SPAIN",
+            "製造廠公司地址": "",
+            "製造廠國別": "SPAIN",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

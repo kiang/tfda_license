@@ -1,6 +1,6 @@
 {
     "code": "08011208",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08011208",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08011208",
     "time": "2020-02-25 23:52:10",
     "許可證字號": "衛署粧輸字第011208號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1117701100  台灣威娜化妝品股份有限公司",
     "申請商地址": "新北市深坑區北深路3段155巷5號4樓",
-    "主製造廠": {
-        "製造廠名稱": "CDE0002000  WELLA AG",
-        "製造廠廠址": "BERLINER ALLEE 65, 64274 DARMSTADT GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CDE0002000  WELLA AG",
+            "製造廠廠址": "BERLINER ALLEE 65, 64274 DARMSTADT GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

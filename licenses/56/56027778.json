@@ -1,6 +1,6 @@
 {
     "code": "56027778",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027778",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027778",
     "time": "2020-02-26 07:48:50",
     "許可證字號": "衛部醫器輸字第027778號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623101F120  久億生醫科技股份有限公司",
     "申請商地址": "新北市板橋區文化路一段266號16樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MGB0424100  AMITY LIMITED",
-        "製造廠廠址": "LIBRA HOUSE WEST STREET WORSBROUGH DALE BARNSLEY S70 5PG UK",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0424100  AMITY LIMITED",
+            "製造廠廠址": "LIBRA HOUSE WEST STREET WORSBROUGH DALE BARNSLEY S70 5PG UK",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

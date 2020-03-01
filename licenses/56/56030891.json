@@ -1,6 +1,6 @@
 {
     "code": "56030891",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030891",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030891",
     "time": "2020-02-26 08:18:10",
     "許可證字號": "衛部醫器輸字第030891號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620117E732  英屬蓋曼群島商金百利克拉克股份有限公司台灣分公司",
     "申請商地址": "台北市信義區信義路5段8號8樓",
-    "主製造廠": {
-        "製造廠名稱": "MCZ0072000  Kimberly-Clark, s.r.o.",
-        "製造廠廠址": "Čihadlo 136\/17, 784 01 Litovel, Czech Republic",
-        "製造廠公司地址": "",
-        "製造廠國別": "CZECH REPUBLIC",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCZ0072000  Kimberly-Clark, s.r.o.",
+            "製造廠廠址": "Čihadlo 136\/17, 784 01 Litovel, Czech Republic",
+            "製造廠公司地址": "",
+            "製造廠國別": "CZECH REPUBLIC",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

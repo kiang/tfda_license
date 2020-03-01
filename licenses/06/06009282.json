@@ -1,6 +1,6 @@
 {
     "code": "06009282",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06009282",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06009282",
     "time": "2020-02-25 17:48:03",
     "許可證字號": "衛署醫器輸字第009282號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201118547  台灣雅培醫療器材有限公司",
     "申請商地址": "台北市內湖區瑞光路407號5樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS5379000  St. Jude Medical Puerto Rico LLC",
-        "製造廠廠址": "Lot 20-B St., Caguas 00725 Puerto Rico, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS5379000  St. Jude Medical Puerto Rico LLC",
+            "製造廠廠址": "Lot 20-B St., Caguas 00725 Puerto Rico, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS3071000  ST. JUDE MEDICAL",
+            "製造廠廠址": "177 County Rd. B, East St. Paul, MN 55117 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

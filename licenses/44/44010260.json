@@ -1,6 +1,6 @@
 {
     "code": "44010260",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010260",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010260",
     "time": "2020-02-26 05:23:22",
     "許可證字號": "衛署醫器輸壹字第010260號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6612377021  傑美莉企業有限公司",
     "申請商地址": "新北市蘆洲區民權路142巷1號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP0732000  NEW TAC KASEI CO., LTD.",
-        "製造廠廠址": "4148 KAMITAKANO, TOYONAKA-CHO, MITOYO-SHI, KAGAWA, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0732000  NEW TAC KASEI CO., LTD.",
+            "製造廠廠址": "4148 KAMITAKANO, TOYONAKA-CHO, MITOYO-SHI, KAGAWA, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

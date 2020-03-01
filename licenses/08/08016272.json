@@ -1,6 +1,6 @@
 {
     "code": "08016272",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016272",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016272",
     "time": "2020-02-26 00:44:54",
     "許可證字號": "衛署粧輸字第016272號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6616458453  艾爾柏娜實業股份有限公司",
     "申請商地址": "高雄市三民區博愛一路七０號十一樓",
-    "主製造廠": {
-        "製造廠名稱": "CJP0275000  NAKANO SEIYAKU CO., LTD. KUSATSU FACTORY",
-        "製造廠廠址": "63-1 MINAMIYAMADACHO, KUSATSU, SHIGA, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0275000  NAKANO SEIYAKU CO., LTD. KUSATSU FACTORY",
+            "製造廠廠址": "63-1 MINAMIYAMADACHO, KUSATSU, SHIGA, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

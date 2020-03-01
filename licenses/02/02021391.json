@@ -1,11 +1,12 @@
 {
     "code": "02021391",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021391",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021391",
     "time": "2020-02-25 12:41:25",
     "許可證字號": "衛署藥輸字第021391號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
+    "製造許可登錄編號": "",
     "有效日期": "110\/07\/29",
     "發證日期": "85\/10\/14",
     "許可證種類": "原料藥",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "01製劑原料",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "0313101100  川聖貿易股份有限公司",
-        "申請商地址": "台北市民生東路五段２８號五樓",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "GINKGO BILOBA EXTRACT",
+    "限制項目": "02輸　入",
+    "申請商名稱": "0313101100  川聖貿易股份有限公司",
+    "申請商地址": "台北市民生東路五段２８號五樓",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FCH0228000  LINNEA SA",
+            "製造廠廠址": "VIA CANTONALE, CH-6595 RIAZZINO, SWITZERLAND.",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": ""
+        }
+    ],
     "CCC號列": "30039099905 其他醫藥製劑（不包括第３００２、３００５或３００６節所列者），包含兩種或以上之成分業經混合供治療或預防疾病之用，不具有劑量或零售包裝式樣者Other medicaments (excluding goods of heading 3002, 3005 or 3006) consisting of two or more constituents which have been mixed together for therapeutic or prophylactic uses, not put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [

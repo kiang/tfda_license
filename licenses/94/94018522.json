@@ -1,6 +1,6 @@
 {
     "code": "94018522",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018522",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018522",
     "time": "2020-02-26 12:24:53",
     "許可證字號": "衛部醫器輸壹字第018522號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6203280948  萬能科技有限公司",
     "申請商地址": "臺中市南屯區新德街261號1樓 變更後:臺中市南屯區黎明路一段323巷8號1、2樓",
-    "主製造廠": {
-        "製造廠名稱": "MPL0055000  OPTOPOL TECHNOLOGY SP. ZOO",
-        "製造廠廠址": "UL. ZABIA42 42-400 ZAWIERCIE, POLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "POLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MPL0055000  OPTOPOL TECHNOLOGY SP. ZOO",
+            "製造廠廠址": "UL. ZABIA42 42-400 ZAWIERCIE, POLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "POLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

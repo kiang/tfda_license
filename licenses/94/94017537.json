@@ -1,6 +1,6 @@
 {
     "code": "94017537",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017537",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017537",
     "time": "2020-02-26 12:09:16",
     "許可證字號": "衛部醫器輸壹字第017537號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620101S346  艾迪思醫藥科技有限公司",
     "申請商地址": "高雄市前鎮區民權里一心一路243號6樓之4",
-    "主製造廠": {
-        "製造廠名稱": "MKR0834000  SEE-THROUGH TECH INC.",
-        "製造廠廠址": "A-402,225,WANGSAN-RO, DONGDAEMUN-GU, SEOUL 02490 KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0834000  SEE-THROUGH TECH INC.",
+            "製造廠廠址": "A-402,225,WANGSAN-RO, DONGDAEMUN-GU, SEOUL 02490 KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

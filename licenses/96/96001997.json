@@ -1,6 +1,6 @@
 {
     "code": "96001997",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96001997",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96001997",
     "time": "2020-02-26 12:54:50",
     "許可證字號": "衛部醫器陸輸壹字第001997號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "623105A754  宏進股份有限公司",
     "申請商地址": "新北市新店區明德路35號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1229000  LERADO (ZHONG SHAN) INDUSTRIAL CO., LTD.",
-        "製造廠廠址": "NO. 28., KUI XING ROAD, DONG SHENG TOWN, ZHONG SHAN, GUANG CHINA 528414",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1229000  LERADO (ZHONG SHAN) INDUSTRIAL CO., LTD.",
+            "製造廠廠址": "NO. 28., KUI XING ROAD, DONG SHENG TOWN, ZHONG SHAN, GUANG CHINA 528414",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "44004669",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44004669",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44004669",
     "time": "2020-02-26 04:42:00",
     "許可證字號": "衛署醫器輸壹字第004669號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1433201100  榮仁貿易有限公司",
     "申請商地址": "台北市中山區吉林路２１８巷４號１樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP0443000  KAWAMURA CYCLE CO., LTD",
-        "製造廠廠址": "3-9-1 KAMISHINCHI, NISHI-KU, KOBE, HYOGO JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0443000  KAWAMURA CYCLE CO., LTD",
+            "製造廠廠址": "3-9-1 KAMISHINCHI, NISHI-KU, KOBE, HYOGO JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

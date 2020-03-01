@@ -1,6 +1,6 @@
 {
     "code": "94019426",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019426",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019426",
     "time": "2020-02-26 12:33:41",
     "許可證字號": "衛部醫器輸壹字第019426號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 14輸入須附同意書（每次輸入均須取得原子能委員會之同意書為憑）",
     "申請商名稱": "6231103241  常捷生醫科技股份有限公司",
     "申請商地址": "新北市淡水區中正東路二段27-8號22樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP1384000  TOSHIBA ELECTRON TUBES &amp; DEVICES CO. LTD",
-        "製造廠廠址": "1385 SHIMOISHIGAMI, OTAWARA, TOCHIGI 324-8550, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP1384000  TOSHIBA ELECTRON TUBES &amp; DEVICES CO. LTD",
+            "製造廠廠址": "1385 SHIMOISHIGAMI, OTAWARA, TOCHIGI 324-8550, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

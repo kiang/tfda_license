@@ -1,6 +1,6 @@
 {
     "code": "44007993",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007993",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007993",
     "time": "2020-02-26 05:02:52",
     "許可證字號": "衛署醫器輸壹字第007993號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623105D988  聖誠企業有限公司",
     "申請商地址": "新北市永和區永和路二段57號7樓",
-    "主製造廠": {
-        "製造廠名稱": "MCA0042000  PRO-LAB, INC.",
-        "製造廠廠址": "20 MURAL STREET, UNIT #4, RICHMOND HILL, ONTARIO L4B 1K3 , CANADA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CANADA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCA0042000  PRO-LAB, INC.",
+            "製造廠廠址": "20 MURAL STREET, UNIT #4, RICHMOND HILL, ONTARIO L4B 1K3 , CANADA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CANADA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

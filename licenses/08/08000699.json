@@ -1,6 +1,6 @@
 {
     "code": "08000699",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08000699",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08000699",
     "time": "2020-02-25 21:58:41",
     "許可證字號": "衛署粧輸字第000699號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1902401100  穩鍵貿易有限公司",
     "申請商地址": "台北巿仁愛路四段３００巷２５弄１號１樓",
-    "主製造廠": {
-        "製造廠名稱": "CCA0006000  LEE-ADAMS LABORATORIES\/PHARMASIENCE INC.",
-        "製造廠廠址": "8400 DARNELY MONTERAL, P.Q. CANADA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CANADA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CCA0006000  LEE-ADAMS LABORATORIES\/PHARMASIENCE INC.",
+            "製造廠廠址": "8400 DARNELY MONTERAL, P.Q. CANADA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CANADA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

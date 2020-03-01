@@ -1,6 +1,6 @@
 {
     "code": "06010271",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010271",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010271",
     "time": "2020-02-25 18:01:55",
     "許可證字號": "衛署醫器輸字第010271號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0622902100  守恆股份有限公司",
     "申請商地址": "台北市內湖區安美街１６３號９樓",
-    "主製造廠": {
-        "製造廠名稱": "MGB0126100  MANUFACTURED BY BIOSIL LIMITED FOR NAGOR LIMITED",
-        "製造廠廠址": "127 DEERDYKES VIEW, WESTFIELD INDUSTRIAL ESTATE, CUMBERNAULD, SCOTLAND, G68 9HN,U.K.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0126100  MANUFACTURED BY BIOSIL LIMITED FOR NAGOR LIMITED",
+            "製造廠廠址": "127 DEERDYKES VIEW, WESTFIELD INDUSTRIAL ESTATE, CUMBERNAULD, SCOTLAND, G68 9HN,U.K.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MGB0825000  NAGOR LIMITED",
+            "製造廠廠址": "P.O. BOX 21, GLOBAL HOUSE, ISLE OF MAN BUSINESS PARK, GOOIL ROAD, DOUGLAS, ISLE OF MAN, IM99 1AX, BRITISH ISLES, U.K.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

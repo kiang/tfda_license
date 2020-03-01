@@ -1,6 +1,6 @@
 {
     "code": "06022810",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022810",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022810",
     "time": "2020-02-25 20:24:35",
     "許可證字號": "衛署醫器輸字第022810號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0937001100  美商良衛股份有限公司台灣分公司",
     "申請商地址": "台北市羅斯福路二段１０２號２６樓之１",
-    "主製造廠": {
-        "製造廠名稱": "MUS3877000  Haemonetics Manufacturing, Inc.",
-        "製造廠廠址": "1630 INDUSTRIAL PARK STREET, COVINA, CA 91722, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS3877000  Haemonetics Manufacturing, Inc.",
+            "製造廠廠址": "1630 INDUSTRIAL PARK STREET, COVINA, CA 91722, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

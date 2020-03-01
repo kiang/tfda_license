@@ -1,6 +1,6 @@
 {
     "code": "94018803",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018803",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018803",
     "time": "2020-02-26 12:27:41",
     "許可證字號": "衛部醫器輸壹字第018803號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1309602100  傳永有限公司",
     "申請商地址": "新北市新莊區五權一路５號８樓之７(804室)",
-    "主製造廠": {
-        "製造廠名稱": "MTR0026000  CENTRUM DIS TIC. &amp; ELEKTRONIK SAN. LTD. STI.",
-        "製造廠廠址": "COBANCESME MAH. EREN SOKAK NO:4-6 YENIBOSNA-34196 ISTANBUL TURKEY",
-        "製造廠公司地址": "",
-        "製造廠國別": "TURKEY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MTR0026000  CENTRUM DIS TIC. &amp; ELEKTRONIK SAN. LTD. STI.",
+            "製造廠廠址": "COBANCESME MAH. EREN SOKAK NO:4-6 YENIBOSNA-34196 ISTANBUL TURKEY",
+            "製造廠公司地址": "",
+            "製造廠國別": "TURKEY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

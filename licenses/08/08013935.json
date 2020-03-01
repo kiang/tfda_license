@@ -1,6 +1,6 @@
 {
     "code": "08013935",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08013935",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08013935",
     "time": "2020-02-26 00:18:06",
     "許可證字號": "衛署粧輸字第013935號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6627448762  瑪雪兒國際有限公司",
     "申請商地址": "桃園市龍潭區上林村溝西20巷28號2樓",
-    "主製造廠": {
-        "製造廠名稱": "CCA0033000  COSMART INTERNATIONAL TRADING CO. LTD.",
-        "製造廠廠址": "101-5704 BALSAM ST. VANCOUVER B.C CANADA V6M 2A4",
-        "製造廠公司地址": "",
-        "製造廠國別": "CANADA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CCA0033000  COSMART INTERNATIONAL TRADING CO. LTD.",
+            "製造廠廠址": "101-5704 BALSAM ST. VANCOUVER B.C CANADA V6M 2A4",
+            "製造廠公司地址": "",
+            "製造廠國別": "CANADA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

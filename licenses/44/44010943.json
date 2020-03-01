@@ -1,6 +1,6 @@
 {
     "code": "44010943",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010943",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010943",
     "time": "2020-02-26 05:30:04",
     "許可證字號": "衛署醫器輸壹字第010943號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217076710  東哲日琦醫學股份有限公司",
     "申請商地址": "台北市內湖區康樂街136巷3弄2號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0432000  MEDIKAN CO., LTD.",
-        "製造廠廠址": "KUGUNG BLD 3FL, 577-7 SHINSA-DONG, KANGNAM-KU, SEOUL, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0432000  MEDIKAN CO., LTD.",
+            "製造廠廠址": "KUGUNG BLD 3FL, 577-7 SHINSA-DONG, KANGNAM-KU, SEOUL, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

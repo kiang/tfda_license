@@ -1,6 +1,6 @@
 {
     "code": "46001626",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001626",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001626",
     "time": "2020-02-26 06:08:58",
     "許可證字號": "衛署醫器陸輸壹字第001626號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "623106C889  創健國際有限公司",
     "申請商地址": "新北市新莊區民安路409號1、2、3樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1053000  XIAMEN CHENGLI MEDICAL EQUIPMENT CO., LTD.",
-        "製造廠廠址": "NO.597 GUANNAN ROAD, GUANNAN INDUSTRIAL ZONE, JIMEI DISTRICT, XIAMEN 361022",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1053000  XIAMEN CHENGLI MEDICAL EQUIPMENT CO., LTD.",
+            "製造廠廠址": "NO.597 GUANNAN ROAD, GUANNAN INDUSTRIAL ZONE, JIMEI DISTRICT, XIAMEN 361022",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "06023543",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023543",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023543",
     "time": "2020-02-25 20:32:27",
     "許可證字號": "衛署醫器輸字第023543號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620110Y436  岱員有限公司",
     "申請商地址": "台北市中山區南京西路1之1號10樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE0691000  AK-TEK GMBH",
-        "製造廠廠址": "ROHRENSPRING 16, D-58093 HAGEN, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0691000  AK-TEK GMBH",
+            "製造廠廠址": "ROHRENSPRING 16, D-58093 HAGEN, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MDE0980000  OT medical GmbH",
+            "製造廠廠址": "Konsul-Smidt-StraBe 8b 28217 Bremen,Germany",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "06010265",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010265",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010265",
     "time": "2020-02-25 18:01:50",
     "許可證字號": "衛署醫器輸字第010265號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102E353  凱巨有限公司",
     "申請商地址": "台北市內湖區瑞光路316巷56號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS0960000  SANDHILL SCIENTIFIC, INC.",
-        "製造廠廠址": "9150 COMMERCE CENTER CIRCLE, SUITE 500 HIGHLANDS RANCH, CO 80126 U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0960000  SANDHILL SCIENTIFIC, INC.",
+            "製造廠廠址": "9150 COMMERCE CENTER CIRCLE, SUITE 500 HIGHLANDS RANCH, CO 80126 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

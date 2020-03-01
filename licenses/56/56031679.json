@@ -1,6 +1,6 @@
 {
     "code": "56031679",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031679",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031679",
     "time": "2020-02-26 08:24:52",
     "許可證字號": "衛部醫器輸字第031679號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0713318100  宏國醫療儀器有限公司",
     "申請商地址": "嘉義縣六腳鄉蘇厝村蘇厝寮97號",
-    "主製造廠": {
-        "製造廠名稱": "MUS0923000  COLLAGEN MATRIX, INC.",
-        "製造廠廠址": "15 Thornton Rd, Oakland, NJ, USA 07436",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0923000  COLLAGEN MATRIX, INC.",
+            "製造廠廠址": "15 Thornton Rd, Oakland, NJ, USA 07436",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

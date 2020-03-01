@@ -1,6 +1,6 @@
 {
     "code": "96003284",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003284",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003284",
     "time": "2020-02-26 13:08:55",
     "許可證字號": "衛部醫器陸輸壹字第003284號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "623106G850  立擎實業有限公司",
     "申請商地址": "新北市新莊區中華路二段13號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1674000  ZHUHAI ENCODE MEDICAL ENGINEERING CO., LTD.",
-        "製造廠廠址": "NO.020, HONGHUI 2ND ROAD. HONGQI INDUSTRIAL ZONE, JINWAN DISTRICT, ZHUHAI CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1674000  ZHUHAI ENCODE MEDICAL ENGINEERING CO., LTD.",
+            "製造廠廠址": "NO.020, HONGHUI 2ND ROAD. HONGQI INDUSTRIAL ZONE, JINWAN DISTRICT, ZHUHAI CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

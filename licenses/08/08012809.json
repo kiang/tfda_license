@@ -1,6 +1,6 @@
 {
     "code": "08012809",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08012809",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08012809",
     "time": "2020-02-26 00:05:46",
     "許可證字號": "衛署粧輸字第012809號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1321301100  愛麗美娜化學有限公司",
     "申請商地址": "台北市中正區水源路167號2樓",
-    "主製造廠": {
-        "製造廠名稱": "CJP0014000  ARIMINO COMPANY., LTD.",
-        "製造廠廠址": "1-5-22 SHIMO-OCHIAI SHINJUKU-KU TOKYO JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0014000  ARIMINO COMPANY., LTD.",
+            "製造廠廠址": "1-5-22 SHIMO-OCHIAI SHINJUKU-KU TOKYO JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

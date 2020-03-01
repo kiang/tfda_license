@@ -1,6 +1,6 @@
 {
     "code": "46000585",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000585",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000585",
     "time": "2020-02-26 05:59:50",
     "許可證字號": "衛署醫器陸輸壹字第000585號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6132120093  利衛股份有限公司",
     "申請商地址": "桃園市觀音區草漯村大同二路22號",
-    "主製造廠": {
-        "製造廠名稱": "MCN0085000  ZHUMDIAN HENGDING HEALTH MATERIALS CO., LTD.",
-        "製造廠廠址": "SUIPING COUNTY, QUYANG TOWN, XIGUAN PRINTING FACTORY INSIDE, ZHUMADIAN CITY, HENAN PROVINCE, P.R.C.",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0085000  ZHUMDIAN HENGDING HEALTH MATERIALS CO., LTD.",
+            "製造廠廠址": "SUIPING COUNTY, QUYANG TOWN, XIGUAN PRINTING FACTORY INSIDE, ZHUMADIAN CITY, HENAN PROVINCE, P.R.C.",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

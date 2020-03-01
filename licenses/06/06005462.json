@@ -1,6 +1,6 @@
 {
     "code": "06005462",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06005462",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06005462",
     "time": "2020-02-25 16:53:52",
     "許可證字號": "衛署醫器輸字第005462號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0826901100  宜德醫材股份有限公司",
     "申請商地址": "台北巿中山北路２段１８５號６樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS0508000  FIDELITY MEDICAL, INC.",
-        "製造廠廠址": "306 MAIN STREET MILLBURN, NEW JERSEY 07041",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0508000  FIDELITY MEDICAL, INC.",
+            "製造廠廠址": "306 MAIN STREET MILLBURN, NEW JERSEY 07041",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

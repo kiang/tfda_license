@@ -1,6 +1,6 @@
 {
     "code": "44007251",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007251",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007251",
     "time": "2020-02-26 04:57:36",
     "許可證字號": "衛署醫器輸壹字第007251號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623102D837  永昌儀器有限公司",
     "申請商地址": "新北市三重區仁愛街366巷3號",
-    "主製造廠": {
-        "製造廠名稱": "MPK0045000  LIFE INSTRUMENTS",
-        "製造廠廠址": "31-B-ZAFAR ALI ROAD, SIALKOT-CANTT, PAKISTAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "PAKISTAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MPK0045000  LIFE INSTRUMENTS",
+            "製造廠廠址": "31-B-ZAFAR ALI ROAD, SIALKOT-CANTT, PAKISTAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "PAKISTAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "06014051",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014051",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014051",
     "time": "2020-02-25 18:45:11",
     "許可證字號": "衛署醫器輸字第014051號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6202065054  貝斯特國際貿易有限公司",
     "申請商地址": "高雄市新興區南華路９６號２樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS1171000  ORTHO ORGANIZERS , INC.",
-        "製造廠廠址": "1619 SOUTH RANCHO SANTA FE ROAD, SAN MARCOS, CALIFORNIA 92078, U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS1171000  ORTHO ORGANIZERS , INC.",
+            "製造廠廠址": "1619 SOUTH RANCHO SANTA FE ROAD, SAN MARCOS, CALIFORNIA 92078, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

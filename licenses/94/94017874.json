@@ -1,6 +1,6 @@
 {
     "code": "94017874",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017874",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017874",
     "time": "2020-02-26 12:20:15",
     "許可證字號": "衛部醫器輸壹字第017874號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6140041127  康揚股份有限公司",
     "申請商地址": "嘉義縣民雄鄉豐收村大學路2段2363號",
-    "主製造廠": {
-        "製造廠名稱": "MDE1401000  ATO FORM GMBH",
-        "製造廠廠址": "ZUR LAUTERHECKE 34, D-63877 SAILAUF, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE1401000  ATO FORM GMBH",
+            "製造廠廠址": "ZUR LAUTERHECKE 34, D-63877 SAILAUF, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

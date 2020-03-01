@@ -1,6 +1,6 @@
 {
     "code": "06006470",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06006470",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06006470",
     "time": "2020-02-25 17:10:05",
     "許可證字號": "衛署醫器輸字第006470號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1426001100  臺灣巨旺股份有限公司",
     "申請商地址": "台北巿信義路五段１６號４樓之２",
-    "主製造廠": {
-        "製造廠名稱": "MAU0020000  DAWROSS MEDICAL ENGINEERING AUSTRALIA",
-        "製造廠廠址": "2 VAUTIER STREET, ELWOOD VIC AUSTRALIA 3184",
-        "製造廠公司地址": "",
-        "製造廠國別": "AUSTRALIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MAU0020000  DAWROSS MEDICAL ENGINEERING AUSTRALIA",
+            "製造廠廠址": "2 VAUTIER STREET, ELWOOD VIC AUSTRALIA 3184",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRALIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "94013806",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013806",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013806",
     "time": "2020-02-26 11:17:50",
     "許可證字號": "衛部醫器輸壹字第013806號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6217082192  吉帝藥品股份有限公司",
     "申請商地址": "台中市北屯區綏遠路二段216之5號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS3389000  Biomed Laboratories .LLC",
-        "製造廠廠址": "8181 Eastpoint Blvd,Sutie 500 Dallas Texas 75227 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS3389000  Biomed Laboratories .LLC",
+            "製造廠廠址": "8181 Eastpoint Blvd,Sutie 500 Dallas Texas 75227 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS9103000  MPM MEDICAL INC.",
+            "製造廠廠址": "2301 CROWN COURT IRVING, TEXAS 75038, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

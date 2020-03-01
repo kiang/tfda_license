@@ -1,6 +1,6 @@
 {
     "code": "06024250",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024250",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024250",
     "time": "2020-02-25 20:40:03",
     "許可證字號": "衛署醫器輸字第024250號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6201029161  歐維企業有限公司",
     "申請商地址": "新北市新店區中正路501-6號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MSI0005000  Veplas RTM d.o.o.",
-        "製造廠廠址": "Cesta Simona Blatnika 11, 3320 Velenje, Slovenia",
-        "製造廠公司地址": "",
-        "製造廠國別": "SLOVENIA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MSI0005000  Veplas RTM d.o.o.",
+            "製造廠廠址": "Cesta Simona Blatnika 11, 3320 Velenje, Slovenia",
+            "製造廠公司地址": "",
+            "製造廠國別": "SLOVENIA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MSE2434000  ARJOHUNTLEIGH AB",
+            "製造廠廠址": "HANS MICHELSENSGATAN 10, 211 20 MALMO, SWEDEN",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWEDEN",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

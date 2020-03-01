@@ -1,6 +1,6 @@
 {
     "code": "94018752",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018752",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018752",
     "time": "2020-02-26 12:27:15",
     "許可證字號": "衛部醫器輸壹字第018752號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231046492  科林儀器股份有限公司",
     "申請商地址": "新北市中和區中和路366號12樓之3",
-    "主製造廠": {
-        "製造廠名稱": "MMX0148100  BEAVER VISITEC INTERNATIONAL",
-        "製造廠廠址": "VALLE DEL CEDRO, NO. 1520, PARQUE INDUSTRIAL INTERMEX, CIUDAD JUAREZ, CHIHUAHUA, CP 32575 MEXICO",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0148100  BEAVER VISITEC INTERNATIONAL",
+            "製造廠廠址": "VALLE DEL CEDRO, NO. 1520, PARQUE INDUSTRIAL INTERMEX, CIUDAD JUAREZ, CHIHUAHUA, CP 32575 MEXICO",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

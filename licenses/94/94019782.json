@@ -1,6 +1,6 @@
 {
     "code": "94019782",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019782",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019782",
     "time": "2020-02-26 12:38:02",
     "許可證字號": "衛部醫器輸壹字第019782號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217065146  寰宇先進科技有限公司",
     "申請商地址": "臺中市西屯區市政北二路236號22樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MBE0084000  RSSCAN INTERNATIONAL",
-        "製造廠廠址": "DE WEVEN 7 3583 PAAL BELGIUM",
-        "製造廠公司地址": "",
-        "製造廠國別": "BELGIUM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MBE0084000  RSSCAN INTERNATIONAL",
+            "製造廠廠址": "DE WEVEN 7 3583 PAAL BELGIUM",
+            "製造廠公司地址": "",
+            "製造廠國別": "BELGIUM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

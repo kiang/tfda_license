@@ -1,6 +1,6 @@
 {
     "code": "58020690",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58020690",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58020690",
     "time": "2020-02-26 08:52:05",
     "許可證字號": "衛部粧輸字第020690號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "1414201100  嘉德藥品企業股份有限公司",
     "申請商地址": "台北市中山區民生東路二段176號5樓",
-    "主製造廠": {
-        "製造廠名稱": "CFR0178100  LABORATOIRES Noreva-LED",
-        "製造廠廠址": "66, Avenue des Champs Elysees 75008 Paris, France",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CFR0178100  LABORATOIRES Noreva-LED",
+            "製造廠廠址": "66, Avenue des Champs Elysees 75008 Paris, France",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

@@ -1,6 +1,6 @@
 {
     "code": "92001019",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92001019",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92001019",
     "time": "2020-02-26 10:16:23",
     "許可證字號": "衛部醫器陸輸字第001019號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6201113556  創睿企業股份有限公司",
     "申請商地址": "台北市大安區羅斯福路3段29號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN5004000  SunLife Science (Suzhou) Inc.",
-        "製造廠廠址": "211, B2 Building, 218 Xinghu Str., Suzhou Industrial Park, China",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN5004000  SunLife Science (Suzhou) Inc.",
+            "製造廠廠址": "211, B2 Building, 218 Xinghu Str., Suzhou Industrial Park, China",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

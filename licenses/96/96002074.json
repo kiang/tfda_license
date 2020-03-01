@@ -1,6 +1,6 @@
 {
     "code": "96002074",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002074",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002074",
     "time": "2020-02-26 12:55:42",
     "許可證字號": "衛部醫器陸輸壹字第002074號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 40大陸生產",
     "申請商名稱": "620110X331  玳琳有限公司",
     "申請商地址": "台北市中山區松江路184巷26弄12號",
-    "主製造廠": {
-        "製造廠名稱": "MCN1285000  TIANJIN XINYANG MEDICAL EQUIPMENT CO., LTD.",
-        "製造廠廠址": "ROOM 102, GATE 4 AND FLAT 2, NO. 6 ZHUYUAN ROAD, HUAYUAN INDUSTRIAL AREA, TIANJIN CITY CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1285000  TIANJIN XINYANG MEDICAL EQUIPMENT CO., LTD.",
+            "製造廠廠址": "ROOM 102, GATE 4 AND FLAT 2, NO. 6 ZHUYUAN ROAD, HUAYUAN INDUSTRIAL AREA, TIANJIN CITY CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MCN0142100  TIANJIN GRAND PAPER INDUSTRY CO., LTD.",
+            "製造廠廠址": "HONGGUANG FARM, BEICHEN DISTRICT, TIANJIN CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

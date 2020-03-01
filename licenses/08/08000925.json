@@ -1,6 +1,6 @@
 {
     "code": "08000925",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08000925",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08000925",
     "time": "2020-02-25 22:00:54",
     "許可證字號": "衛署粧輸字第000925號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1229421100  貴永企業有限公司",
     "申請商地址": "高雄巿苓雅區武智街３巷３之２號",
-    "主製造廠": {
-        "製造廠名稱": "CJP0069000  YANAGIYA CO., LTD.",
-        "製造廠廠址": "NO. 1-7-1 CHOME MINAMI KAMONOMIYA ODAWARA-SHI KANAGAWA JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0069000  YANAGIYA CO., LTD.",
+            "製造廠廠址": "NO. 1-7-1 CHOME MINAMI KAMONOMIYA ODAWARA-SHI KANAGAWA JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

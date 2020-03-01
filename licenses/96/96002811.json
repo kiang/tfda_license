@@ -1,6 +1,6 @@
 {
     "code": "96002811",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002811",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002811",
     "time": "2020-02-26 13:04:15",
     "許可證字號": "衛部醫器陸輸壹字第002811號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6401105179  劼磊工作室",
     "申請商地址": "台北市中山區南京東路三段189號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN4229000  WUXI WEMADE HEALTHCARE PRODUCTS CO., LTD.",
-        "製造廠廠址": "NO. 1060, ANTAI 3RD ROAD, HOUQIAO STREET, XISHAN DISTRICT, WUXI CITY, JIANGSU PROVINCE, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN4229000  WUXI WEMADE HEALTHCARE PRODUCTS CO., LTD.",
+            "製造廠廠址": "NO. 1060, ANTAI 3RD ROAD, HOUQIAO STREET, XISHAN DISTRICT, WUXI CITY, JIANGSU PROVINCE, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

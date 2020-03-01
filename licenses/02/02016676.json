@@ -1,11 +1,12 @@
 {
     "code": "02016676",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02016676",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02016676",
     "time": "2020-02-25 11:25:07",
     "許可證字號": "衛署藥輸字第016676號",
     "註銷狀態": "已註銷",
     "註銷日期": "90\/07\/26",
     "註銷理由": "依藥事法第９７條規定",
+    "製造許可登錄編號": "",
     "有效日期": "93\/09\/26",
     "發證日期": "88\/07\/12",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "1103502100  健銘藥品股份有限公司",
-        "申請商地址": "板橋巿四維路２６９巷８２號",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "FERROUS (SULFATE), MANGANESE (GLYCEROPHOSPHATE), IODINE (POTASSIUM), MAGNESIUM (OXIDE), COPPER (SULFATE ANHYDROUS), ZINC (CHLORIDE), VITAMIN A ACETATE, NIACINAMIDE (NICOTINAMIDE), THIAMINE MONONITRATE, RIBOFLAVIN (VIT B2), PYRIDOXINE HCL, CYANOCOBALAMIN (0.1% IN DICALCIUM PHOSPHATE), PANTOTHENATE (CALCIUM), ASCORBATE (SODIUM), ERGOCALCIFEROL (VIT D2CALCIFEROL), TOCOPHEROL (ACETATE ALPHA DL- )",
+    "限制項目": "02輸　入",
+    "申請商名稱": "1103502100  健銘藥品股份有限公司",
+    "申請商地址": "板橋巿四維路２６９巷８２號",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FUS0079000  FORD LAB.",
+            "製造廠廠址": "77 MOONACHIE AVENUE MOONACHIE NEW JERSEY 07074.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [

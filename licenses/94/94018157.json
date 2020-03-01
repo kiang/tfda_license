@@ -1,6 +1,6 @@
 {
     "code": "94018157",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018157",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018157",
     "time": "2020-02-26 12:22:42",
     "許可證字號": "衛部醫器輸壹字第018157號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6205312934  鎮赫有限公司",
     "申請商地址": "臺南市永康區復國二路215巷21號",
-    "主製造廠": {
-        "製造廠名稱": "MCH0252000  PIXMEO SARL",
-        "製造廠廠址": "PIXMEO SARL, 266 RUE DE BERNEX, CH-1233 BERNEX, SWITZERLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCH0252000  PIXMEO SARL",
+            "製造廠廠址": "PIXMEO SARL, 266 RUE DE BERNEX, CH-1233 BERNEX, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

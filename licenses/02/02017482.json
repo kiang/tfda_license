@@ -1,11 +1,12 @@
 {
     "code": "02017482",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02017482",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02017482",
     "time": "2020-02-25 11:38:02",
     "許可證字號": "衛署藥輸字第017482號",
     "註銷狀態": "已註銷",
     "註銷日期": "99\/05\/31",
     "註銷理由": "屆期未申請展延",
+    "製造許可登錄編號": "",
     "有效日期": "89\/01\/12",
     "發證日期": "78\/10\/13",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "1410501100  臺灣葛蘭素威康股份有限公司",
-        "申請商地址": "台北市中正區忠孝西路一段66號23-24樓",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "CEPHALOTHIN (SODIUM)",
+    "限制項目": "02輸　入",
+    "申請商名稱": "1410501100  臺灣葛蘭素威康股份有限公司",
+    "申請商地址": "台北市中正區忠孝西路一段66號23-24樓",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FGB0044000  GLAXO OPERATIONS UK LIMITED",
+            "製造廠廠址": "GREENFORD, MIDDLESEX UB6 OHEGREENFORD,MIDDLESEX,ENGLAND (GLAXO WELLCOME OPERATIONS)",
+            "製造廠公司地址": "GREENFORD,MIDDLESEX,ENGLAND (GLAXO WELLCOME OPERATIONS)",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "CCC號列": "30042000319 人用醫藥製劑，含頭孢子菌類抗生素者Medicaments, containing cephalosporins, for human use",
     "藥理治療分類": "",
     "ingredients": [

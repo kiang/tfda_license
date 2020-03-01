@@ -1,6 +1,6 @@
 {
     "code": "56024610",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56024610",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56024610",
     "time": "2020-02-26 07:21:01",
     "許可證字號": "衛部醫器輸字第024610號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1304601100  瑞士商愛爾康大藥廠股份有限公司台灣分公司",
     "申請商地址": "台北市中正區仁愛路二段99號11樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE0674000  WAVELIGHT GMBH",
-        "製造廠廠址": "INDUSTRIEGEBIET DOLLNITZ 5, D-92690 PRESSATH DEUTSCHLAND, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0674000  WAVELIGHT GMBH",
+            "製造廠廠址": "INDUSTRIEGEBIET DOLLNITZ 5, D-92690 PRESSATH DEUTSCHLAND, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

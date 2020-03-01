@@ -1,6 +1,6 @@
 {
     "code": "08002045",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08002045",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08002045",
     "time": "2020-02-25 22:12:32",
     "許可證字號": "衛署粧輸字第002045號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1318921100  愛華美國際貿易有限公司",
     "申請商地址": "高雄市三多二路１７１號７樓之２",
-    "主製造廠": {
-        "製造廠名稱": "CJP0078000  SHISEI CHEMICAL CO., LTD.",
-        "製造廠廠址": "961-1, SHIMOYASUMASTU TOKOROZAWA-SHISAITAMAJAPAN, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0078000  SHISEI CHEMICAL CO., LTD.",
+            "製造廠廠址": "961-1, SHIMOYASUMASTU TOKOROZAWA-SHISAITAMAJAPAN, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,11 +1,12 @@
 {
     "code": "02025310",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025310",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025310",
     "time": "2020-02-25 13:34:40",
     "許可證字號": "衛署藥輸字第025310號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
+    "製造許可登錄編號": "",
     "有效日期": "109\/12\/14",
     "發證日期": "99\/12\/14",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "0924601100  台灣諾華股份有限公司",
-        "申請商地址": "台北市中山區民生東路三段2號8樓",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "AMOXICILLIN (AS TRIHYDATE), CLAVULANATE (POTASSIUM)",
+    "限制項目": "02輸　入",
+    "申請商名稱": "0924601100  台灣諾華股份有限公司",
+    "申請商地址": "台北市中山區民生東路三段2號8樓",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FSI0002000  LEK PHARMACEUTICALS D.D. PREVALJE SITE",
+            "製造廠廠址": "PERZONALI 47, 2391 PREVALJE, SLOVENIA",
+            "製造廠公司地址": "VEROVSKOVA 57, 1526 LJUBLJANA, SLOVENIA",
+            "製造廠國別": "SLOVENIA",
+            "製程": ""
+        }
+    ],
     "CCC號列": "30041010104 人用醫藥製劑，含青黴素類或具有青黴素酸結構之衍生物者Medicaments, containing penicillins or derivatives thereof,with a penicillanic acid structure, for human use",
     "藥理治療分類": "",
     "ingredients": [

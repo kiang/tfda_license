@@ -1,6 +1,6 @@
 {
     "code": "44006989",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006989",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006989",
     "time": "2020-02-26 04:55:33",
     "許可證字號": "衛署醫器輸壹字第006989號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "6201117611  貝克西弗股份有限公司",
     "申請商地址": "台北市內湖區瑞光路258巷56號3樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MUS2303000  CAPINTEC INC.",
-        "製造廠廠址": "620 ALPHA DR PITTSBURGH, PA 15238-2912, U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2303000  CAPINTEC INC.",
+            "製造廠廠址": "620 ALPHA DR PITTSBURGH, PA 15238-2912, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "58022878",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58022878",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58022878",
     "time": "2020-02-26 09:27:49",
     "許可證字號": "衛部粧輸字第022878號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6653674172  香港商納維康股份有限公司台灣分公司",
     "申請商地址": "臺北市信義區基隆路2段15號7樓",
-    "主製造廠": {
-        "製造廠名稱": "CAU0032000  NATURE&#39;S CARE MANUFACTURE PTY. LTD.",
-        "製造廠廠址": "5 MINNA CLOSE BELROSE NSW 2085 AUSTRALIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "AUSTRALIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CAU0032000  NATURE&#39;S CARE MANUFACTURE PTY. LTD.",
+            "製造廠廠址": "5 MINNA CLOSE BELROSE NSW 2085 AUSTRALIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRALIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

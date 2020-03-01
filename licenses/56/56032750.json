@@ -1,6 +1,6 @@
 {
     "code": "56032750",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56032750",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56032750",
     "time": "2020-02-26 08:31:34",
     "許可證字號": "衛部醫器輸字第032750號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "623111D023  華億醫療儀器科技有限公司",
     "申請商地址": "新北市汐止區康寧街169巷31之1號6樓之3及8樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MMY0194000  Ambu Sdn. Bhd.",
-        "製造廠廠址": "Lot 69B, Lintang Bayan Lepas 6, 11900 Pulau Pinang, Malaysia",
-        "製造廠公司地址": "",
-        "製造廠國別": "MALAYSIA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMY0194000  Ambu Sdn. Bhd.",
+            "製造廠廠址": "Lot 69B, Lintang Bayan Lepas 6, 11900 Pulau Pinang, Malaysia",
+            "製造廠公司地址": "",
+            "製造廠國別": "MALAYSIA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MDK0052100  AMBU A\/S",
+            "製造廠廠址": "BALTORPBAKKEN 13 DK-2750 BALLERUP DENMARK",
+            "製造廠公司地址": "",
+            "製造廠國別": "DENMARK",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

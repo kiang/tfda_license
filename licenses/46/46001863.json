@@ -1,6 +1,6 @@
 {
     "code": "46001863",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001863",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001863",
     "time": "2020-02-26 06:10:58",
     "許可證字號": "衛署醫器陸輸壹字第001863號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6131021313  翔國科技有限公司",
     "申請商地址": "新北市三重區重新路五段639、639之1、639之2號4樓、639之2、639之3號7樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN0654100  BEIJING RUICHENG MEDICAL SUPPLIES CO., LTD.",
-        "製造廠廠址": "FENGXIANG AVENUE, FENGXIANG DEVELOPMENT ZONE, YANGSONG TOWN, HUAIROU DISTRICT, BEIJING, 101400, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0654100  BEIJING RUICHENG MEDICAL SUPPLIES CO., LTD.",
+            "製造廠廠址": "FENGXIANG AVENUE, FENGXIANG DEVELOPMENT ZONE, YANGSONG TOWN, HUAIROU DISTRICT, BEIJING, 101400, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

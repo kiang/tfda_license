@@ -1,6 +1,6 @@
 {
     "code": "96003086",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003086",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003086",
     "time": "2020-02-26 13:07:12",
     "許可證字號": "衛部醫器陸輸壹字第003086號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6231139367  好行福祉車實業有限公司",
     "申請商地址": "新北市板橋區和平路10-1號(1樓)",
-    "主製造廠": {
-        "製造廠名稱": "MCN1547000  CHANGZHOU XINDER-TECH ELECTRONICS CO. LTD",
-        "製造廠廠址": "NO. 1 KELE ROAD, NEW NORTH DISTRICT, CHANGZHOU JIANGSU CHINA 213022",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1547000  CHANGZHOU XINDER-TECH ELECTRONICS CO. LTD",
+            "製造廠廠址": "NO. 1 KELE ROAD, NEW NORTH DISTRICT, CHANGZHOU JIANGSU CHINA 213022",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

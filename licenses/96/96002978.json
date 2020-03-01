@@ -1,6 +1,6 @@
 {
     "code": "96002978",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002978",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002978",
     "time": "2020-02-26 13:06:02",
     "許可證字號": "衛部醫器陸輸壹字第002978號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6401024795  新加坡商歐蒙醫療器材有限公司台灣分公司",
     "申請商地址": "臺北市大安區忠孝東路4段230號11樓(實際營業地址B室)",
-    "主製造廠": {
-        "製造廠名稱": "MCN1467000  EUROIMMUN (HANGZHOU) MEDICAL LABORATORY DIAGNOSTICS CO., LTD",
-        "製造廠廠址": "BUILDING NO. 1, JIN SHENG INDUSTRIAL PARK NO. 611 DONG GUAN ROAD, BIN JIANG DISTRICT, HANGZHOU, ZHEJIANG, 310053, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1467000  EUROIMMUN (HANGZHOU) MEDICAL LABORATORY DIAGNOSTICS CO., LTD",
+            "製造廠廠址": "BUILDING NO. 1, JIN SHENG INDUSTRIAL PARK NO. 611 DONG GUAN ROAD, BIN JIANG DISTRICT, HANGZHOU, ZHEJIANG, 310053, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

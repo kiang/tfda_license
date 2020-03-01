@@ -1,6 +1,6 @@
 {
     "code": "06004649",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06004649",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06004649",
     "time": "2020-02-25 16:38:10",
     "許可證字號": "衛署醫器輸字第004649號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1403204100  臺灣三茂股份有限公司",
     "申請商地址": "臺北巿仁愛路３段１３６號１３樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS0442200  MINNESOTA MINING AND MANUFACTURING COMPANY (3M COMPANY) 3M IRVINE PLANT",
-        "製造廠廠址": "22ND AVENUS S,BRLLKINGS,SD 57006,USA BROOKINGS",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0442200  MINNESOTA MINING AND MANUFACTURING COMPANY (3M COMPANY) 3M IRVINE PLANT",
+            "製造廠廠址": "22ND AVENUS S,BRLLKINGS,SD 57006,USA BROOKINGS",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

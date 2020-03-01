@@ -1,6 +1,6 @@
 {
     "code": "06014723",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014723",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014723",
     "time": "2020-02-25 18:52:57",
     "許可證字號": "衛署醫器輸字第014723號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6203282380  西門子醫療設備股份有限公司",
     "申請商地址": "台北市南港區園區街3號2樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MDE0189000  SIEMENS HEALTHCARE DIAGNOSTICS PRODUCTS GMBH",
-        "製造廠廠址": "EMIL-VON-BEHRING-STR. 76, D-35041 MARBURG, GERMANY",
-        "製造廠公司地址": "P.O. BOX 1149, D-35001 MARBURG, GERMANY",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0189000  SIEMENS HEALTHCARE DIAGNOSTICS PRODUCTS GMBH",
+            "製造廠廠址": "EMIL-VON-BEHRING-STR. 76, D-35041 MARBURG, GERMANY",
+            "製造廠公司地址": "P.O. BOX 1149, D-35001 MARBURG, GERMANY",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

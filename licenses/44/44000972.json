@@ -1,6 +1,6 @@
 {
     "code": "44000972",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44000972",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44000972",
     "time": "2020-02-26 04:23:51",
     "許可證字號": "衛署醫器輸壹字第000972號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1322001100  瑞恩醫療器材有限公司",
     "申請商地址": "台北市士林區承德路四段81號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS1173000  CARDINAL HEALTH",
-        "製造廠廠址": "360 INDUSTRIAL ROAD, UNIT H, SAN CARLOS, CA 94070, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS1173000  CARDINAL HEALTH",
+            "製造廠廠址": "360 INDUSTRIAL ROAD, UNIT H, SAN CARLOS, CA 94070, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

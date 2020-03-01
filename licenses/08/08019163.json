@@ -1,6 +1,6 @@
 {
     "code": "08019163",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08019163",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08019163",
     "time": "2020-02-26 01:15:35",
     "許可證字號": "衛署粧輸字第019163號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231103787  軒亮股份有限公司",
     "申請商地址": "新北市淡水區中正東路2段29-1號21樓",
-    "主製造廠": {
-        "製造廠名稱": "CUS0251000  DISCUS DENTAL, LLC",
-        "製造廠廠址": "8550 HIGUERA STREET, CULVER CITY CA 90232 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CUS0251000  DISCUS DENTAL, LLC",
+            "製造廠廠址": "8550 HIGUERA STREET, CULVER CITY CA 90232 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

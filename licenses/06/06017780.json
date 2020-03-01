@@ -1,6 +1,6 @@
 {
     "code": "06017780",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06017780",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06017780",
     "time": "2020-02-25 19:27:11",
     "許可證字號": "衛署醫器輸字第017780號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0617501100  百特醫療產品股份有限公司",
     "申請商地址": "台北市敦化南路二段２１６號１５樓",
-    "主製造廠": {
-        "製造廠名稱": "MBE0829000  Baxter S.A.",
-        "製造廠廠址": "Boulevard Ren&#233; Branquart 80, 7860 Lessines,Belgium",
-        "製造廠公司地址": "",
-        "製造廠國別": "BELGIUM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MBE0829000  Baxter S.A.",
+            "製造廠廠址": "Boulevard Ren&#233; Branquart 80, 7860 Lessines,Belgium",
+            "製造廠公司地址": "",
+            "製造廠國別": "BELGIUM",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MCH0830000  Baxter Healthcare SA",
+            "製造廠廠址": "Thurgauerstrasse 130, 8152 Glattpark\/Opfikon, Post Address: 8010 Z&#252;rich, Switzerland",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

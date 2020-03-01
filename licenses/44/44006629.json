@@ -1,6 +1,6 @@
 {
     "code": "44006629",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006629",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006629",
     "time": "2020-02-26 04:52:41",
     "許可證字號": "衛署醫器輸壹字第006629號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6240071243  以諾瓦企業有限公司",
     "申請商地址": "嘉義縣六腳鄉蘇厝村蘇厝寮97號",
-    "主製造廠": {
-        "製造廠名稱": "MZA0009000  SOUTHERN IMPLANTS (PTY) LTD.",
-        "製造廠廠址": "ONE ALBERT ROAD, P.O. BOX 602, IRENE, 0062, SOUTH AFRICA",
-        "製造廠公司地址": "",
-        "製造廠國別": "SOUTH AFRICA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MZA0009000  SOUTHERN IMPLANTS (PTY) LTD.",
+            "製造廠廠址": "ONE ALBERT ROAD, P.O. BOX 602, IRENE, 0062, SOUTH AFRICA",
+            "製造廠公司地址": "",
+            "製造廠國別": "SOUTH AFRICA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

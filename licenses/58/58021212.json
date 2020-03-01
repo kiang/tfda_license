@@ -1,6 +1,6 @@
 {
     "code": "58021212",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58021212",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58021212",
     "time": "2020-02-26 09:00:03",
     "許可證字號": "衛部粧輸字第021212號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6217064541  喬領企業有限公司",
     "申請商地址": "台中市西屯區朝馬一街32號1樓",
-    "主製造廠": {
-        "製造廠名稱": "CUS0296000  HAYWARD LABORATORIES, INC.",
-        "製造廠廠址": "ROUTE 447 NORTH, EAST STROUDSBURG,PA,18301, U.S.A",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CUS0296000  HAYWARD LABORATORIES, INC.",
+            "製造廠廠址": "ROUTE 447 NORTH, EAST STROUDSBURG,PA,18301, U.S.A",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

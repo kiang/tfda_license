@@ -1,6 +1,6 @@
 {
     "code": "96002695",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002695",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002695",
     "time": "2020-02-26 13:02:58",
     "許可證字號": "衛部醫器陸輸壹字第002695號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6401105802  台歐企業股份有限公司",
     "申請商地址": "臺北市中山區中山北路2段112號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1321000  JAN MAO (GUANGDONG HUIZHOU) INDUSTRIES CO., LTD",
-        "製造廠廠址": "GONG TING VILLAGE, FIRST INDUSTRIAL DIST LONG XI TOWN, BOLUO COUNTY HUIZHOU CITY GUANGDONG PROVINCE, CHINA 516121",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1321000  JAN MAO (GUANGDONG HUIZHOU) INDUSTRIES CO., LTD",
+            "製造廠廠址": "GONG TING VILLAGE, FIRST INDUSTRIAL DIST LONG XI TOWN, BOLUO COUNTY HUIZHOU CITY GUANGDONG PROVINCE, CHINA 516121",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

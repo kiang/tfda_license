@@ -1,11 +1,12 @@
 {
     "code": "02015946",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02015946",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02015946",
     "time": "2020-02-25 11:10:59",
     "許可證字號": "衛署藥輸字第015946號",
     "註銷狀態": "已註銷",
     "註銷日期": "103\/04\/28",
     "註銷理由": "未展延而逾期者",
+    "製造許可登錄編號": "",
     "有效日期": "98\/10\/24",
     "發證日期": "88\/11\/24",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "0100401100  一成藥品股份有限公司",
-        "申請商地址": "新北市汐止區新台五路一段77號20樓",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "SODIUM LACTATE SOLUTION, CALCIUM CHLORIDE, POTASSIUM CHLORIDE, SODIUM CHLORIDE",
+    "限制項目": "02輸　入",
+    "申請商名稱": "0100401100  一成藥品股份有限公司",
+    "申請商地址": "新北市汐止區新台五路一段77號20樓",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FJP0195000  MOHAN MEDICINE RESEARCH INSTITUE CO.,LTD.",
+            "製造廠廠址": "1091-2, TAJINO-AZA-NAKAUCHIDE, TOMIOKA, 370-2338-16,HON-GO 2-CHOME,BUNKYO-KU,TOKYO 113-0033,JAPAN",
+            "製造廠公司地址": "4-13-5,NISHISUGAMO,TOSHIMA-KU,TOKYO,170-8478,JAPAN.",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "CCC號列": "30049020007 血液代用品與血漿代用品及基因重組製劑Substitutes of blood, substitutes of plasma and preparations  of gennetic recombinants",
     "藥理治療分類": "",
     "ingredients": [

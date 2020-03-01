@@ -1,6 +1,6 @@
 {
     "code": "08004483",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08004483",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08004483",
     "time": "2020-02-25 22:39:56",
     "許可證字號": "衛署粧輸字第004483號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0834501100  奇偉綜合股份有限公司",
     "申請商地址": "台北巿仁愛路四段９９號５樓",
-    "主製造廠": {
-        "製造廠名稱": "CMY0005000  INCHCAPE CONTRACT MANUFACTURING SDN. BHD.",
-        "製造廠廠址": "SEKSYEN 23 KAWASAN PERUSAHAAN SHAH ALAM 40300 SHAH ALAM MALAYSIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "MALAYSIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CMY0005000  INCHCAPE CONTRACT MANUFACTURING SDN. BHD.",
+            "製造廠廠址": "SEKSYEN 23 KAWASAN PERUSAHAAN SHAH ALAM 40300 SHAH ALAM MALAYSIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "MALAYSIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

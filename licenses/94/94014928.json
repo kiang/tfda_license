@@ -1,6 +1,6 @@
 {
     "code": "94014928",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014928",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014928",
     "time": "2020-02-26 11:34:14",
     "許可證字號": "衛部醫器輸壹字第014928號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623101M576  亞維斯醫療器材有限公司",
     "申請商地址": "桃園市桃園區民富二街62號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0678000  ACRODENT CO., LTD.",
-        "製造廠廠址": "(HENUNG-DONG,) 5, JEONHA-RO 85BEON-GIL, GIMHAE-SI, GYEONGSANGNAM-DO, 621120, REPUBLIC OF KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0678000  ACRODENT CO., LTD.",
+            "製造廠廠址": "(HENUNG-DONG,) 5, JEONHA-RO 85BEON-GIL, GIMHAE-SI, GYEONGSANGNAM-DO, 621120, REPUBLIC OF KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "06024172",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024172",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024172",
     "time": "2020-02-25 20:39:11",
     "許可證字號": "衛署醫器輸字第024172號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201109182  英屬維京群島商吉時洋行股份有限公司台灣分公司",
     "申請商地址": "台北市中山區南京東路三段２００號８、９樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS2205000  LEMAITRE VASCULAR, INC.",
-        "製造廠廠址": "63 SECOND AVENUE BURLINGTON, MA 01803, U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2205000  LEMAITRE VASCULAR, INC.",
+            "製造廠廠址": "63 SECOND AVENUE BURLINGTON, MA 01803, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "08020123",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08020123",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08020123",
     "time": "2020-02-26 01:25:38",
     "許可證字號": "衛署粧輸字第020123號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6628487257  優泉國際有限公司",
     "申請商地址": "台北市中山區中山北路二段27巷4號2樓",
-    "主製造廠": {
-        "製造廠名稱": "CJP0236000  ESTATE CHEMICAL CO., LTD. YUMEGAOKA FACTORY",
-        "製造廠廠址": "7-6-16, YUMEGAOKA, IGA-CITY, MIE PF., 518-0131 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0236000  ESTATE CHEMICAL CO., LTD. YUMEGAOKA FACTORY",
+            "製造廠廠址": "7-6-16, YUMEGAOKA, IGA-CITY, MIE PF., 518-0131 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

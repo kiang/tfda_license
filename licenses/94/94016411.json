@@ -1,6 +1,6 @@
 {
     "code": "94016411",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016411",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016411",
     "time": "2020-02-26 11:55:06",
     "許可證字號": "衛部醫器輸壹字第016411號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6242152054  京達醫材科技股份有限公司",
     "申請商地址": "高雄市路竹區路科二路59號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MFR0976000  F.F.D.M. PNEUMAT",
-        "製造廠廠址": "78-80 AVENUE DE LA PROSPECTIVE - 18020 BOURGES CEDEX FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR0976000  F.F.D.M. PNEUMAT",
+            "製造廠廠址": "78-80 AVENUE DE LA PROSPECTIVE - 18020 BOURGES CEDEX FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "44000372",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44000372",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44000372",
     "time": "2020-02-26 04:19:57",
     "許可證字號": "衛署醫器輸壹字第000372號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0403111200  中國衛生材料生產中心股份有限公司",
     "申請商地址": "彰化縣彰化市福田里彰南路六段424巷21號",
-    "主製造廠": {
-        "製造廠名稱": "MKR0047000  T&amp;L CO., LTD",
-        "製造廠廠址": "20-11, BUK-RI, NAMSA-MYUN, YONGIN-CITY, GYONGGI-DO, 449-884 KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0047000  T&amp;L CO., LTD",
+            "製造廠廠址": "20-11, BUK-RI, NAMSA-MYUN, YONGIN-CITY, GYONGGI-DO, 449-884 KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "06014142",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014142",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014142",
     "time": "2020-02-25 18:46:09",
     "許可證字號": "衛署醫器輸字第014142號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231023113  台倢企業有限公司",
     "申請商地址": "新北市三重區光復路一段83巷1號5樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE1516000  Kulzer GmbH",
-        "製造廠廠址": "Philipp-Reis-Str. 8\/13, 61273 Wehrheim, Germany",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE1516000  Kulzer GmbH",
+            "製造廠廠址": "Philipp-Reis-Str. 8\/13, 61273 Wehrheim, Germany",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MDE0263100  Kulzer GmbH",
+            "製造廠廠址": "Leipziger Straβe 2, 63450 Hanau, Germany",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

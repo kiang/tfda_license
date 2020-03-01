@@ -1,6 +1,6 @@
 {
     "code": "58022402",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58022402",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58022402",
     "time": "2020-02-26 09:21:35",
     "許可證字號": "衛部粧輸字第022402號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6623422143  雅筑國際股份有限公司",
     "申請商地址": "新北市土城區中央路四段74號",
-    "主製造廠": {
-        "製造廠名稱": "CFR0199000  STRAND Cosmetic Europe",
-        "製造廠廠址": "124, Route du Charpenay 69210 LENTILLY France",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CFR0199000  STRAND Cosmetic Europe",
+            "製造廠廠址": "124, Route du Charpenay 69210 LENTILLY France",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

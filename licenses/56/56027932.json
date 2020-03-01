@@ -1,6 +1,6 @@
 {
     "code": "56027932",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027932",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027932",
     "time": "2020-02-26 07:50:19",
     "許可證字號": "衛部醫器輸字第027932號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1219319100  華江醫療儀器股份有限公司",
     "申請商地址": "台南市南區彰南里新孝路197、199號",
-    "主製造廠": {
-        "製造廠名稱": "MTH0002100  Nipro (Thailand) Corporation Limited",
-        "製造廠廠址": "10\/2 Moo 8, Bangnomko, Sena, Phra Nakhon Si Ayutthaya 13110, Thailand.",
-        "製造廠公司地址": "",
-        "製造廠國別": "THAILAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MTH0002100  Nipro (Thailand) Corporation Limited",
+            "製造廠廠址": "10\/2 Moo 8, Bangnomko, Sena, Phra Nakhon Si Ayutthaya 13110, Thailand.",
+            "製造廠公司地址": "",
+            "製造廠國別": "THAILAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

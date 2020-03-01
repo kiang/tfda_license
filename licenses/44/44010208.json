@@ -1,6 +1,6 @@
 {
     "code": "44010208",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010208",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010208",
     "time": "2020-02-26 05:22:51",
     "許可證字號": "衛署醫器輸壹字第010208號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217064934  展銳醫療儀器有限公司",
     "申請商地址": "台中市西屯區大墩十九街186號9樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MDE0398000  EWALD BACHER MEDIZINTECHNIK GMBH",
-        "製造廠廠址": "HINTERES OSCHLE 6  78604  RIETHEIM-WEILHEIM GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0398000  EWALD BACHER MEDIZINTECHNIK GMBH",
+            "製造廠廠址": "HINTERES OSCHLE 6  78604  RIETHEIM-WEILHEIM GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

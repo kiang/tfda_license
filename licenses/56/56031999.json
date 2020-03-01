@@ -1,6 +1,6 @@
 {
     "code": "56031999",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031999",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031999",
     "time": "2020-02-26 08:26:46",
     "許可證字號": "衛部醫器輸字第031999號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620115B122  永盛生物科技有限公司",
     "申請商地址": "臺北市士林區文林路765號3樓之10",
-    "主製造廠": {
-        "製造廠名稱": "MGB0462000  Lorne Laboratories Limited",
-        "製造廠廠址": "Unit 1 Cutbush Park industrial Estate, Danehill, Lower Earley, Reading, Berkshire, RG6 4UT",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0462000  Lorne Laboratories Limited",
+            "製造廠廠址": "Unit 1 Cutbush Park industrial Estate, Danehill, Lower Earley, Reading, Berkshire, RG6 4UT",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

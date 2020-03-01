@@ -1,6 +1,6 @@
 {
     "code": "94013336",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013336",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013336",
     "time": "2020-02-26 11:10:58",
     "許可證字號": "衛部醫器輸壹字第013336號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201198643  領航醫材興業有限公司",
     "申請商地址": "台北市萬華區漢中街176號4樓之6",
-    "主製造廠": {
-        "製造廠名稱": "MAT0027000  HELBO PHOTODYNAMIC SYSTEMS GMBH &amp; CO KG",
-        "製造廠廠址": "STADTPLATZ 30, A-4710 GRIESKIRCHEN, AUSTRIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "AUSTRIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MAT0027000  HELBO PHOTODYNAMIC SYSTEMS GMBH &amp; CO KG",
+            "製造廠廠址": "STADTPLATZ 30, A-4710 GRIESKIRCHEN, AUSTRIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

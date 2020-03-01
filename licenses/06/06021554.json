@@ -1,6 +1,6 @@
 {
     "code": "06021554",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021554",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021554",
     "time": "2020-02-25 20:10:43",
     "許可證字號": "衛署醫器輸字第021554號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1119902100  常鈺醫療器材有限公司",
     "申請商地址": "新北市中和區建八路165號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE1052000  TEM INNOVATIONS GMBH",
-        "製造廠廠址": "MARTIN-KOLLAR-STRABE 13-15 D-81829 M&amp;Uuml;NCHEN GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE1052000  TEM INNOVATIONS GMBH",
+            "製造廠廠址": "MARTIN-KOLLAR-STRABE 13-15 D-81829 M&amp;Uuml;NCHEN GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

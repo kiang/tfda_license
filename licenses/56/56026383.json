@@ -1,6 +1,6 @@
 {
     "code": "56026383",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026383",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026383",
     "time": "2020-02-26 07:34:12",
     "許可證字號": "衛部醫器輸字第026383號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620111H577  台灣泰利福醫療產品有限公司",
     "申請商地址": "臺北市大安區敦化南路2段207號16樓",
-    "主製造廠": {
-        "製造廠名稱": "MCZ0061000  Arrow International Cr, a.s.",
-        "製造廠廠址": "Jamsk&#225; 2359\/47, 59101 Zd&#225;r nad s&#225;zavou, Czech Republic",
-        "製造廠公司地址": "",
-        "製造廠國別": "CZECH REPUBLIC",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCZ0061000  Arrow International Cr, a.s.",
+            "製造廠廠址": "Jamsk&#225; 2359\/47, 59101 Zd&#225;r nad s&#225;zavou, Czech Republic",
+            "製造廠公司地址": "",
+            "製造廠國別": "CZECH REPUBLIC",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS4937000  Arrow International, Inc. (Subsidiary of Teleflex Inc.)",
+            "製造廠廠址": "2400 Bernville Road, Reading, PA 19605, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

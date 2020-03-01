@@ -1,11 +1,12 @@
 {
     "code": "13008285",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=13008285",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=13008285",
     "time": "2020-02-26 03:01:00",
     "許可證字號": "內衛藥輸字第008285號",
     "註銷狀態": "已註銷",
     "註銷日期": "102\/12\/16",
     "註銷理由": "未展延而逾期者",
+    "製造許可登錄編號": "",
     "有效日期": "71\/12\/28",
     "發證日期": "60\/03\/11",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "07須經醫師指示使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "1700901100  聯洋貿易股份有限公司",
-        "申請商地址": "台北市吉林路１６６號",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "SCOPOLIA EXTRACT, SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE), MAGNESIUM ALUMINUM METASILICATE (NEUSILIN), CALCIUM CARBONATE, MAGNESIUM CARBONATE, CINNAMON POWDER (CINNAMON CORTEX POWDER), FENNEL POWDER (FOENICULI POWDER), BACILLUS BUTYRICUS, BILE OX POWDER (GALL OF POWDER), DIASTASE, PANCREATIN (DIASTASE VERA), L-MENTHOL, CHLOROPHYLLIN, THIAMINE MONONITRATE",
+    "限制項目": "02輸　入",
+    "申請商名稱": "1700901100  聯洋貿易股份有限公司",
+    "申請商地址": "台北市吉林路１６６號",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FJP0193000  MIYAIRISAN KINZAI KENKYUJO CO. LTD. (MIYAIRIKINZAI KENKUJO CO., LTD.)",
+            "製造廠廠址": "2352 TOGURAMACHI HANISHINAGUN, NAGANOKEN10, KAMINAKASATO 1-CHOME, KITA-KU, TOKYO, JAPAN",
+            "製造廠公司地址": "10, KAMINAKASATO 1-CHOME, KITA-KU, TOKYO, JAPAN",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [

@@ -1,6 +1,6 @@
 {
     "code": "06012480",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06012480",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06012480",
     "time": "2020-02-25 18:27:55",
     "許可證字號": "衛署醫器輸字第012480號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231025591  晶實企業有限公司",
     "申請商地址": "新北市三重區重陽路一段45號9樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MNL0041000  FMS, FINAPRES MEDICL SYSTEMS B. V.",
-        "製造廠廠址": "PAASHEUVELWEG 34A, 1105 BJ AMSTERDAM, THE NETHERLANDS",
-        "製造廠公司地址": "",
-        "製造廠國別": "NETHERLANDS",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MNL0041000  FMS, FINAPRES MEDICL SYSTEMS B. V.",
+            "製造廠廠址": "PAASHEUVELWEG 34A, 1105 BJ AMSTERDAM, THE NETHERLANDS",
+            "製造廠公司地址": "",
+            "製造廠國別": "NETHERLANDS",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

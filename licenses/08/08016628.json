@@ -1,6 +1,6 @@
 {
     "code": "08016628",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016628",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016628",
     "time": "2020-02-26 00:48:37",
     "許可證字號": "衛署粧輸字第016628號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6680117376  皇宇科技股份有限公司",
     "申請商地址": "新北市中和區建一路176號14樓",
-    "主製造廠": {
-        "製造廠名稱": "CKR0027000  IPEERES COSMETICS CO.,LTD",
-        "製造廠廠址": "ANSUNG INDUSTRIAL COMPLEX 2, 267-4, KYELUK-RI, MIYANG-MYUN, ANSUNG-SI, KYONGKI-DO, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CKR0027000  IPEERES COSMETICS CO.,LTD",
+            "製造廠廠址": "ANSUNG INDUSTRIAL COMPLEX 2, 267-4, KYELUK-RI, MIYANG-MYUN, ANSUNG-SI, KYONGKI-DO, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

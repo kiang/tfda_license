@@ -1,6 +1,6 @@
 {
     "code": "94016661",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016661",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016661",
     "time": "2020-02-26 11:58:50",
     "許可證字號": "衛部醫器輸壹字第016661號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231114306  信大國際健康股份有限公司",
     "申請商地址": "新北市汐止區新台五路一段108號17樓B室",
-    "主製造廠": {
-        "製造廠名稱": "MKR0285100  SEAWON MEDITECH CO., LTD.",
-        "製造廠廠址": "33, BUCHEON-R0 298 BEON-GIL, WONMI-GU, BUCHEON-SI, GYEONGGI-DO, 420-803, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0285100  SEAWON MEDITECH CO., LTD.",
+            "製造廠廠址": "33, BUCHEON-R0 298 BEON-GIL, WONMI-GU, BUCHEON-SI, GYEONGGI-DO, 420-803, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

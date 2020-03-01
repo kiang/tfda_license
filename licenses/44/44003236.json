@@ -1,6 +1,6 @@
 {
     "code": "44003236",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44003236",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44003236",
     "time": "2020-02-26 04:35:04",
     "許可證字號": "衛署醫器輸壹字第003236號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217035906  鋐豪展業有限公司",
     "申請商地址": "台中市南區福平里柳川東路一段18號10樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MKR0051000  SPI DENT MFG. INC.",
-        "製造廠廠址": "203, 151B-6L, NAMDONGKONGDAN INCHEON, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0051000  SPI DENT MFG. INC.",
+            "製造廠廠址": "203, 151B-6L, NAMDONGKONGDAN INCHEON, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

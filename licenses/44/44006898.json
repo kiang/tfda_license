@@ -1,6 +1,6 @@
 {
     "code": "44006898",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006898",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006898",
     "time": "2020-02-26 04:54:54",
     "許可證字號": "衛署醫器輸壹字第006898號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201015158  湧傑企業股份有限公司",
     "申請商地址": "台北市松山區敦化南路一段2號5樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS2251000  AMERICAN EAGLE INSTRUMENTS INC.",
-        "製造廠廠址": "6575 BUTLER CREEK ROAD, MISSOULA, MT 59808, U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2251000  AMERICAN EAGLE INSTRUMENTS INC.",
+            "製造廠廠址": "6575 BUTLER CREEK ROAD, MISSOULA, MT 59808, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "96002268",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002268",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002268",
     "time": "2020-02-26 12:58:00",
     "許可證字號": "衛部醫器陸輸壹字第002268號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "623202E374  弘霖國際有限公司",
     "申請商地址": "桃園市平鎮區工業十路2號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1393000  GUILIN YIKESHI MACHINE CO., LTD.",
-        "製造廠廠址": "16TH, TIESHAN ROAD, GUILIN NATIONAL HIGHT-TECH REGION, GUANGXI, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1393000  GUILIN YIKESHI MACHINE CO., LTD.",
+            "製造廠廠址": "16TH, TIESHAN ROAD, GUILIN NATIONAL HIGHT-TECH REGION, GUANGXI, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

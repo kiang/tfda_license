@@ -1,6 +1,6 @@
 {
     "code": "06012819",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06012819",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06012819",
     "time": "2020-02-25 18:31:42",
     "許可證字號": "衛署醫器輸字第012819號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231054912  笙普國際有限公司",
     "申請商地址": "新北市新店區民權路90巷35號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MTH0010000  THAI NIPPON RUBBER INDUSTRY CO., LTD",
-        "製造廠廠址": "LAEMCHABANG INDUSTRIAL ESTATE, 49-49\/1 EXPORT PROCESSING ZONE 1 THUNGSUKLA, SRIRACHA , CHONBURI 20230 THAILAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "THAILAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MTH0010000  THAI NIPPON RUBBER INDUSTRY CO., LTD",
+            "製造廠廠址": "LAEMCHABANG INDUSTRIAL ESTATE, 49-49\/1 EXPORT PROCESSING ZONE 1 THUNGSUKLA, SRIRACHA , CHONBURI 20230 THAILAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "THAILAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

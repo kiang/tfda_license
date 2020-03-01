@@ -1,6 +1,6 @@
 {
     "code": "94017845",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017845",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017845",
     "time": "2020-02-26 12:19:56",
     "許可證字號": "衛部醫器輸壹字第017845號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620111G427  宏騏實業股份有限公司",
     "申請商地址": "台北市內湖區瑞光路583巷25號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP1258000  TSUKADA MEDICAL RESEARCH CO., LTD",
-        "製造廠廠址": "1931-1 MOTOHARA, SANADAMACHI, UEDA-CITY, NAGANO 386-2202 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP1258000  TSUKADA MEDICAL RESEARCH CO., LTD",
+            "製造廠廠址": "1931-1 MOTOHARA, SANADAMACHI, UEDA-CITY, NAGANO 386-2202 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MJP1259000  DIB INTERNATIONAL CO., LTD",
+            "製造廠廠址": "SUMITOMO FUDOSAN KORAKUEN BLDG, 4-1 KOSHIKAWA 1-CHOME BUNKYO-KU, TOKYO  112-0002 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

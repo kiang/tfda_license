@@ -1,6 +1,6 @@
 {
     "code": "44010462",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010462",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010462",
     "time": "2020-02-26 05:25:21",
     "許可證字號": "衛署醫器輸壹字第010462號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "621706B098  泉勝儀器有限公司",
     "申請商地址": "台中市南屯區南屯路2段408號5樓之3",
-    "主製造廠": {
-        "製造廠名稱": "MAU0054000  MEDMONT INTERNATIONAL PTY LTD",
-        "製造廠廠址": "UNIT 1, 170-180 ROOKS ROAD VERMONT, VICTORIA 3133 AUSTRALIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "AUSTRALIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MAU0054000  MEDMONT INTERNATIONAL PTY LTD",
+            "製造廠廠址": "UNIT 1, 170-180 ROOKS ROAD VERMONT, VICTORIA 3133 AUSTRALIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRALIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

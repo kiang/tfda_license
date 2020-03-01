@@ -1,6 +1,6 @@
 {
     "code": "96001999",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96001999",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96001999",
     "time": "2020-02-26 12:54:52",
     "許可證字號": "衛部醫器陸輸壹字第001999號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP 40大陸生產",
     "申請商名稱": "6212017944  五鼎生物技術股份有限公司",
     "申請商地址": "新竹市東區力行五路7號",
-    "主製造廠": {
-        "製造廠名稱": "MCN1230000  SHANDONG CHENGWU MEDICAL PRODUCTS FACTORY",
-        "製造廠廠址": "SOUTHERN END OF HU XIN ROAD, CHENGWU COUNTY, HEZE CITY, SHANDONG PROVINCE, 274200, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1230000  SHANDONG CHENGWU MEDICAL PRODUCTS FACTORY",
+            "製造廠廠址": "SOUTHERN END OF HU XIN ROAD, CHENGWU COUNTY, HEZE CITY, SHANDONG PROVINCE, 274200, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

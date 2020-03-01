@@ -1,6 +1,6 @@
 {
     "code": "94018578",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018578",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018578",
     "time": "2020-02-26 12:25:25",
     "許可證字號": "衛部醫器輸壹字第018578號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620205J725  立橙科技有限公司",
     "申請商地址": "高雄市三民區力行路167號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MGB0256000  CRAWFORD HEALTHCARE LTD",
-        "製造廠廠址": "KING EDWARD COURT, KING EDWARD ROAD, KNUTSFORD CHESHIRE WA166BA UK",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0256000  CRAWFORD HEALTHCARE LTD",
+            "製造廠廠址": "KING EDWARD COURT, KING EDWARD ROAD, KNUTSFORD CHESHIRE WA166BA UK",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

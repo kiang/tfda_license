@@ -1,6 +1,6 @@
 {
     "code": "06021249",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021249",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021249",
     "time": "2020-02-25 20:07:15",
     "許可證字號": "衛署醫器輸字第021249號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620111B066  瑞宏儀器有限公司",
     "申請商地址": "台北市內湖區星雲街138巷10號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MSG0067000  HOYA MEDICAL SINGAPORE PTE LTD",
-        "製造廠廠址": "455A JALAN AHMAD IBRAHIM SINGAPORE 639939",
-        "製造廠公司地址": "",
-        "製造廠國別": "SINGAPORE",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MSG0067000  HOYA MEDICAL SINGAPORE PTE LTD",
+            "製造廠廠址": "455A JALAN AHMAD IBRAHIM SINGAPORE 639939",
+            "製造廠公司地址": "",
+            "製造廠國別": "SINGAPORE",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MJP0665000  HOYA CORPORATION",
+            "製造廠廠址": "2-7-5, NAKA-OCHIAI, SHINJUKU-KU, TOKYO 161-8525 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

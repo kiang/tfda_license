@@ -1,6 +1,6 @@
 {
     "code": "94014793",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014793",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014793",
     "time": "2020-02-26 11:32:25",
     "許可證字號": "衛部醫器輸壹字第014793號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620110J360  豐生儀器有限公司",
     "申請商地址": "台北市大安區新生南路一段103巷51之1號",
-    "主製造廠": {
-        "製造廠名稱": "MUS4261000  THOMPSON SURGICAL INSTRUMENTS, INC.",
-        "製造廠廠址": "10170 East Cherry Bend Road Traverse City, Michigan 49684 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS4261000  THOMPSON SURGICAL INSTRUMENTS, INC.",
+            "製造廠廠址": "10170 East Cherry Bend Road Traverse City, Michigan 49684 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

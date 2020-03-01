@@ -1,11 +1,12 @@
 {
     "code": "02016728",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02016728",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02016728",
     "time": "2020-02-25 11:26:11",
     "許可證字號": "衛署藥輸字第016728號",
     "註銷狀態": "已註銷",
     "註銷日期": "105\/05\/26",
     "註銷理由": "許可證已逾有效期",
+    "製造許可登錄編號": "",
     "有效日期": "103\/02\/11",
     "發證日期": "77\/07\/12",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "07須經醫師指示使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "1223801100  景元國際有限公司",
-        "申請商地址": "台北市中正區重慶南路三段42之3號6樓",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "SCOPOLIA EXTRACT, DIASTASE ASPERGILLUS ORYZAE(DIASTASE TAKA), URSODEOXYCHOLIC ACID, VITAMIN U (METHYLMETHIONINE SULFONIUM CHLORIDE)",
+    "限制項目": "02輸　入",
+    "申請商名稱": "1223801100  景元國際有限公司",
+    "申請商地址": "台北市中正區重慶南路三段42之3號6樓",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FJP0146000  KOKANDO CO. LTD.",
+            "製造廠廠址": "NO 9-1, UMEZAWACHO, 2-CHOME TOYAMA CITY,JAPAN.",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [

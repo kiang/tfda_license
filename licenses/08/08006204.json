@@ -1,6 +1,6 @@
 {
     "code": "08006204",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08006204",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08006204",
     "time": "2020-02-25 22:58:12",
     "許可證字號": "衛署粧輸字第006204號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1014101100  時懋國際有限公司",
     "申請商地址": "台北市復興北路１４５號１樓",
-    "主製造廠": {
-        "製造廠名稱": "CUS0093000  ERNO LASZLO",
-        "製造廠廠址": "32-02 QUEENS BOULEVARD LONG ISLAND CITY NEW YORK 11101 U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CUS0093000  ERNO LASZLO",
+            "製造廠廠址": "32-02 QUEENS BOULEVARD LONG ISLAND CITY NEW YORK 11101 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

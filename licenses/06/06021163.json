@@ -1,6 +1,6 @@
 {
     "code": "06021163",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021163",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021163",
     "time": "2020-02-25 20:06:14",
     "許可證字號": "衛署醫器輸字第021163號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "Z106100055  友德國際股份有限公司",
     "申請商地址": "臺北市內湖區瑞湖街１０３號６樓",
-    "主製造廠": {
-        "製造廠名稱": "MCZ0060100  BMT MEDICAL TECHNOLOGY S.R.O.",
-        "製造廠廠址": "CEJL 50, 656 60 BRNO, CZECH REPUBLIC",
-        "製造廠公司地址": "",
-        "製造廠國別": "CZECH REPUBLIC",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCZ0060100  BMT MEDICAL TECHNOLOGY S.R.O.",
+            "製造廠廠址": "CEJL 50, 656 60 BRNO, CZECH REPUBLIC",
+            "製造廠公司地址": "",
+            "製造廠國別": "CZECH REPUBLIC",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

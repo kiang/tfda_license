@@ -1,6 +1,6 @@
 {
     "code": "06019731",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019731",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019731",
     "time": "2020-02-25 19:50:19",
     "許可證字號": "衛署醫器輸字第019731號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "621706A329  百特醫學科技有限公司",
     "申請商地址": "台中市西區臺灣大道二段536號7樓之1",
-    "主製造廠": {
-        "製造廠名稱": "FFR0234000  BIOTECH DENTAL S.A.S",
-        "製造廠廠址": "305, ALLEES DE CRAPONNE, 13300 SALON DE PROVENCE, FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "FFR0234000  BIOTECH DENTAL S.A.S",
+            "製造廠廠址": "305, ALLEES DE CRAPONNE, 13300 SALON DE PROVENCE, FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

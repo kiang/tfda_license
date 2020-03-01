@@ -1,6 +1,6 @@
 {
     "code": "06013816",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06013816",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06013816",
     "time": "2020-02-25 18:42:36",
     "許可證字號": "衛署醫器輸字第013816號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201118967  台灣日立醫療設備股份有限公司",
     "申請商地址": "台北市內湖區瑞光路258巷2號7樓之2、7樓之3",
-    "主製造廠": {
-        "製造廠名稱": "MJP0043100  Hitachi Ltd., Medical System Operations Group, Kashiwa",
-        "製造廠廠址": "2-1, SHINTOYOFUTA, KASHIWA, CHIBA 227-00804, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0043100  Hitachi Ltd., Medical System Operations Group, Kashiwa",
+            "製造廠廠址": "2-1, SHINTOYOFUTA, KASHIWA, CHIBA 227-00804, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

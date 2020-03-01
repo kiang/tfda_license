@@ -1,6 +1,6 @@
 {
     "code": "44012108",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012108",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012108",
     "time": "2020-02-26 05:41:36",
     "許可證字號": "衛署醫器輸壹字第012108號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102Z583  伊瑋國際有限公司",
     "申請商地址": "台北市大安區忠孝東路4段169號11樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MKR0502000  BM TECH",
-        "製造廠廠址": "#392-6 BIHO B1, DO HWA DONG NAM GU, INCHEON CI, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0502000  BM TECH",
+            "製造廠廠址": "#392-6 BIHO B1, DO HWA DONG NAM GU, INCHEON CI, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

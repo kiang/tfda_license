@@ -1,6 +1,6 @@
 {
     "code": "06020519",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06020519",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06020519",
     "time": "2020-02-25 19:58:51",
     "許可證字號": "衛署醫器輸字第020519號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620101F872  台灣而至股份有限公司",
     "申請商地址": "新北市中和區建一路176號16樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP0716000  NIMI CHEMICAL INDUSTRIAL CO., LTD. Second Factory",
-        "製造廠廠址": "2-6-33 HIGASHIHISAKATA-CHOU, KIRYUU-SHI, GUNMA-KEN, 376-0053 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0716000  NIMI CHEMICAL INDUSTRIAL CO., LTD. Second Factory",
+            "製造廠廠址": "2-6-33 HIGASHIHISAKATA-CHOU, KIRYUU-SHI, GUNMA-KEN, 376-0053 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MJP6111000  GC CORPORATION",
+            "製造廠廠址": "3-2-14 HONGO, BUNKYO-KU, TOKYO 113-0033 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

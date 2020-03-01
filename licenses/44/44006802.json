@@ -1,6 +1,6 @@
 {
     "code": "44006802",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006802",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006802",
     "time": "2020-02-26 04:54:05",
     "許可證字號": "衛署醫器輸壹字第006802號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6202097261  台灣大創百貨股份有限公司大創夢時代",
     "申請商地址": "高雄市前區區中華五路789號7樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP0668000  ASO PHARMACEUTICAL CO., LTD.",
-        "製造廠廠址": "869-1101 91-1 TSUKUREI KIKUYOCHO KIKUKEGUN KUMAMOTOKEN JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0668000  ASO PHARMACEUTICAL CO., LTD.",
+            "製造廠廠址": "869-1101 91-1 TSUKUREI KIKUYOCHO KIKUKEGUN KUMAMOTOKEN JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

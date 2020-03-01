@@ -1,6 +1,6 @@
 {
     "code": "94014038",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014038",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014038",
     "time": "2020-02-26 11:21:36",
     "許可證字號": "衛部醫器輸壹字第014038號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 36GMP",
     "申請商名稱": "620101T816  瑞士商直覺股份有限公司台灣分公司",
     "申請商地址": "臺北市信義區松仁路100號38樓",
-    "主製造廠": {
-        "製造廠名稱": "MDO0006100  MICROTEK DOMINICANA, S.A.",
-        "製造廠廠址": "ZONA FRANCA, #2, LA ROMANA, DOMINICAN REPUBLIC",
-        "製造廠公司地址": "",
-        "製造廠國別": "DOMINICAN REPUBLIC",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDO0006100  MICROTEK DOMINICANA, S.A.",
+            "製造廠廠址": "ZONA FRANCA, #2, LA ROMANA, DOMINICAN REPUBLIC",
+            "製造廠公司地址": "",
+            "製造廠國別": "DOMINICAN REPUBLIC",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS3318100  Intuitive Surgical, Inc.",
+            "製造廠廠址": "1266 Kifer Road Sunnyvale, CA94086, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

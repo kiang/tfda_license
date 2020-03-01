@@ -1,6 +1,6 @@
 {
     "code": "06019202",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019202",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019202",
     "time": "2020-02-25 19:44:35",
     "許可證字號": "衛署醫器輸字第019202號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0835401100  臺灣柯惠股份有限公司",
     "申請商地址": "台北市內湖區瑞光路407號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MMX0004000  NELLCOR PURITAN BENNETT MEXICO S.A. DE C.V.",
-        "製造廠廠址": "BOULEVARD INSURGENTES #37, 22570 TIJUANA, B.C., MEXICO",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0004000  NELLCOR PURITAN BENNETT MEXICO S.A. DE C.V.",
+            "製造廠廠址": "BOULEVARD INSURGENTES #37, 22570 TIJUANA, B.C., MEXICO",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

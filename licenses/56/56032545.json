@@ -1,6 +1,6 @@
 {
     "code": "56032545",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56032545",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56032545",
     "time": "2020-02-26 08:29:05",
     "許可證字號": "衛部醫器輸字第032545號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620117L464  台灣悅廷和有限公司",
     "申請商地址": "臺北市信義區市民大道6段288號6樓之8",
-    "主製造廠": {
-        "製造廠名稱": "MPL0067000  Getinge Infection Control Production Poland Sp. z o.o.",
-        "製造廠廠址": "ul. Szkolna 30 62-064 Plewiska, Poland",
-        "製造廠公司地址": "",
-        "製造廠國別": "POLAND",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MPL0067000  Getinge Infection Control Production Poland Sp. z o.o.",
+            "製造廠廠址": "ul. Szkolna 30 62-064 Plewiska, Poland",
+            "製造廠公司地址": "",
+            "製造廠國別": "POLAND",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MDE0345000  MAQUET GMBH",
+            "製造廠廠址": "KEHLER STR.31, D-76437 RASTATT, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

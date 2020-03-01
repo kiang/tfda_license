@@ -1,6 +1,6 @@
 {
     "code": "08015529",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08015529",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08015529",
     "time": "2020-02-26 00:36:53",
     "許可證字號": "衛署粧輸字第015529號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620110S863  平珩國際股份有限公司",
     "申請商地址": "台北市中山區龍江路120巷9號5樓之1",
-    "主製造廠": {
-        "製造廠名稱": "CGR0007000  GEORGANTAS S.A.",
-        "製造廠廠址": "7-9 PAPANDREOU STR., MELISSIA, GREECE",
-        "製造廠公司地址": "",
-        "製造廠國別": "GREECE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CGR0007000  GEORGANTAS S.A.",
+            "製造廠廠址": "7-9 PAPANDREOU STR., MELISSIA, GREECE",
+            "製造廠公司地址": "",
+            "製造廠國別": "GREECE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

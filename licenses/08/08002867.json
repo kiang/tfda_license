@@ -1,6 +1,6 @@
 {
     "code": "08002867",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08002867",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08002867",
     "time": "2020-02-25 22:21:11",
     "許可證字號": "衛署粧輸字第002867號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1231902100  黑爾美實業有限公司",
     "申請商地址": "新北市汐止區新台五路1段152號5樓",
-    "主製造廠": {
-        "製造廠名稱": "CDE0024000  KADABELL GMBH &amp; CO., KG",
-        "製造廠廠址": "POSTFACH 1120 79849 LENZKIRCH GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CDE0024000  KADABELL GMBH &amp; CO., KG",
+            "製造廠廠址": "POSTFACH 1120 79849 LENZKIRCH GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

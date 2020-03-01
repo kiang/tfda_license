@@ -1,6 +1,6 @@
 {
     "code": "08000552",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08000552",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08000552",
     "time": "2020-02-25 21:57:13",
     "許可證字號": "衛署粧輸字第000552號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1229501100  創力商事股份有限公司",
     "申請商地址": "台北巿承德路８號４樓",
-    "主製造廠": {
-        "製造廠名稱": "CJP0060000  SONY CREATIVE PRODUCTS INC.",
-        "製造廠廠址": "3-6, KIOI-CHO, CHIYODA-KU, TOKYO JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0060000  SONY CREATIVE PRODUCTS INC.",
+            "製造廠廠址": "3-6, KIOI-CHO, CHIYODA-KU, TOKYO JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "06024876",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024876",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024876",
     "time": "2020-02-25 20:46:28",
     "許可證字號": "衛署醫器輸字第024876號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6212012850  喬聯科技股份有限公司",
     "申請商地址": "桃園市蘆竹區內厝村南山路二段5巷12號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS3568000  CRITICARE SYSTEMS, INC.",
-        "製造廠廠址": "N7 W22025 JOHNSON DRIVE WAUKESHA, WI 53186, US",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS3568000  CRITICARE SYSTEMS, INC.",
+            "製造廠廠址": "N7 W22025 JOHNSON DRIVE WAUKESHA, WI 53186, US",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

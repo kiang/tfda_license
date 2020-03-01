@@ -1,6 +1,6 @@
 {
     "code": "06006041",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06006041",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06006041",
     "time": "2020-02-25 17:03:28",
     "許可證字號": "衛署醫器輸字第006041號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1114501100  得恩比醫療器材股份有限公司",
     "申請商地址": "台北巿南京東路三段９１號９樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS0540000  DIATEK PATIENT MANAGEMENT SYSTEMS INC.",
-        "製造廠廠址": "5720 OBERLIC DRIVE. SAN DIEGO, CA 92121-1723",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0540000  DIATEK PATIENT MANAGEMENT SYSTEMS INC.",
+            "製造廠廠址": "5720 OBERLIC DRIVE. SAN DIEGO, CA 92121-1723",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

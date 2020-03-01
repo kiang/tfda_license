@@ -1,6 +1,6 @@
 {
     "code": "06020481",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06020481",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06020481",
     "time": "2020-02-25 19:58:23",
     "許可證字號": "衛署醫器輸字第020481號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0937101100  英商史耐輝股份有限公司台灣分公司",
     "申請商地址": "台北市中正區新生南路1段50號9樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MDE0126000  SMITH &amp; NEPHEW ORTHOPAEDICS GMBH",
-        "製造廠廠址": "ALEMANNENSTRABE 14. D-78532 TUTTLINGEN,GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0126000  SMITH &amp; NEPHEW ORTHOPAEDICS GMBH",
+            "製造廠廠址": "ALEMANNENSTRABE 14. D-78532 TUTTLINGEN,GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

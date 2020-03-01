@@ -1,6 +1,6 @@
 {
     "code": "44012211",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012211",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012211",
     "time": "2020-02-26 05:42:32",
     "許可證字號": "衛署醫器輸壹字第012211號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201106556  治林企業有限公司",
     "申請商地址": "台北市中山區民生東路二段115巷22號",
-    "主製造廠": {
-        "製造廠名稱": "MCA0130000  MEDICANA INC.",
-        "製造廠廠址": "2261 GUENETTE, VILLE ST LAURENT, QUEBEC, CANADA, H4R 2E9",
-        "製造廠公司地址": "",
-        "製造廠國別": "CANADA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCA0130000  MEDICANA INC.",
+            "製造廠廠址": "2261 GUENETTE, VILLE ST LAURENT, QUEBEC, CANADA, H4R 2E9",
+            "製造廠公司地址": "",
+            "製造廠國別": "CANADA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

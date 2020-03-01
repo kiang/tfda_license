@@ -1,6 +1,6 @@
 {
     "code": "56028424",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028424",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028424",
     "time": "2020-02-26 07:55:23",
     "許可證字號": "衛部醫器輸字第028424號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6132060029  台富製藥股份有限公司",
     "申請商地址": "桃園市大園區和平西路一段391號",
-    "主製造廠": {
-        "製造廠名稱": "MBE0826000  FUJIREBIO EUROPE N.V.",
-        "製造廠廠址": "TECHNOLOGIEPARK 6 B-9052 GENT, BELGIUM",
-        "製造廠公司地址": "",
-        "製造廠國別": "BELGIUM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MBE0826000  FUJIREBIO EUROPE N.V.",
+            "製造廠廠址": "TECHNOLOGIEPARK 6 B-9052 GENT, BELGIUM",
+            "製造廠公司地址": "",
+            "製造廠國別": "BELGIUM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "08017910",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08017910",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08017910",
     "time": "2020-02-26 01:02:28",
     "許可證字號": "衛署粧輸字第017910號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0801104100  東伯企業有限公司",
     "申請商地址": "桃園市八德區永豐路４８２巷１５號１樓",
-    "主製造廠": {
-        "製造廠名稱": "CTH0005000  YAMAHATSU (THAILAND) CO., LTD.",
-        "製造廠廠址": "600\/48 MOO 11, SUKHAPHIBAN 8 ROAD, NONGKHAM, SRIRACHA, CHONBURI 20230, THAILAND.",
-        "製造廠公司地址": "",
-        "製造廠國別": "THAILAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CTH0005000  YAMAHATSU (THAILAND) CO., LTD.",
+            "製造廠廠址": "600\/48 MOO 11, SUKHAPHIBAN 8 ROAD, NONGKHAM, SRIRACHA, CHONBURI 20230, THAILAND.",
+            "製造廠公司地址": "",
+            "製造廠國別": "THAILAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

@@ -1,6 +1,6 @@
 {
     "code": "06014187",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014187",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014187",
     "time": "2020-02-25 18:46:41",
     "許可證字號": "衛署醫器輸字第014187號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1902801100  鏵貿儀器有限公司",
     "申請商地址": "台北市萬華區莒光路221號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MVN0009000  CUSPIDA&#39;LE MEDICAL INSTRUMENTS CO., LTD",
-        "製造廠廠址": "6\/7 SECTION 7, LINH DONG WARD, THU DUC DISTRICT, HO CHI MINH CITY, VIETNAM",
-        "製造廠公司地址": "",
-        "製造廠國別": "VIET NAM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MVN0009000  CUSPIDA&#39;LE MEDICAL INSTRUMENTS CO., LTD",
+            "製造廠廠址": "6\/7 SECTION 7, LINH DONG WARD, THU DUC DISTRICT, HO CHI MINH CITY, VIETNAM",
+            "製造廠公司地址": "",
+            "製造廠國別": "VIET NAM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

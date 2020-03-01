@@ -1,6 +1,6 @@
 {
     "code": "94018746",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018746",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018746",
     "time": "2020-02-26 12:27:11",
     "許可證字號": "衛部醫器輸壹字第018746號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6245016457  創醫工程有限公司",
     "申請商地址": "花蓮縣花蓮市大同街42-1號",
-    "主製造廠": {
-        "製造廠名稱": "MID0033000  PT. Amanindo Nusapadu",
-        "製造廠廠址": "Komplek artha Center C6, Jalan Pangeran Jayakarta 8, Jakarta Barat, 11110, Indonesia",
-        "製造廠公司地址": "",
-        "製造廠國別": "INDONESIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MID0033000  PT. Amanindo Nusapadu",
+            "製造廠廠址": "Komplek artha Center C6, Jalan Pangeran Jayakarta 8, Jakarta Barat, 11110, Indonesia",
+            "製造廠公司地址": "",
+            "製造廠國別": "INDONESIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

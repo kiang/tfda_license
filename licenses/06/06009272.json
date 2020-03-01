@@ -1,6 +1,6 @@
 {
     "code": "06009272",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06009272",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06009272",
     "time": "2020-02-25 17:47:56",
     "許可證字號": "衛署醫器輸字第009272號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1425201100  鼎眾股份有限公司",
     "申請商地址": "台北巿中山北路二段１８５號６ＦＢ室",
-    "主製造廠": {
-        "製造廠名稱": "MIL0014000  MEDTRONIC INSTENT ISRAEL LTD.",
-        "製造廠廠址": "11 GALGALEY HA&#39;PLADA ST. P.O.B. 12212 HERZLEYA B 46722 ISRAEL",
-        "製造廠公司地址": "",
-        "製造廠國別": "ISRAEL",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIL0014000  MEDTRONIC INSTENT ISRAEL LTD.",
+            "製造廠廠址": "11 GALGALEY HA&#39;PLADA ST. P.O.B. 12212 HERZLEYA B 46722 ISRAEL",
+            "製造廠公司地址": "",
+            "製造廠國別": "ISRAEL",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

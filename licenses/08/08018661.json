@@ -1,6 +1,6 @@
 {
     "code": "08018661",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018661",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018661",
     "time": "2020-02-26 01:10:19",
     "許可證字號": "衛署粧輸字第018661號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6670622781  法希兒國際有限公司",
     "申請商地址": "台南市安平區健康一街71巷57號",
-    "主製造廠": {
-        "製造廠名稱": "CDE0033000  Dr. Rimpler GmbH",
-        "製造廠廠址": "Neue Wiesen 10&amp;#8226;D-30900 Wedemark, Germany",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CDE0033000  Dr. Rimpler GmbH",
+            "製造廠廠址": "Neue Wiesen 10&amp;#8226;D-30900 Wedemark, Germany",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

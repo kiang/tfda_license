@@ -1,6 +1,6 @@
 {
     "code": "06018412",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06018412",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06018412",
     "time": "2020-02-25 19:35:20",
     "許可證字號": "衛署醫器輸字第018412號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620117N600  臺灣安晟信有限公司",
     "申請商地址": "台北市信義區信義路5段7號37樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS4893000  Ascensia Diabetes Care US Inc.",
-        "製造廠廠址": "430 South Beiger Street, Mishawaka, IN 46544, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS4893000  Ascensia Diabetes Care US Inc.",
+            "製造廠廠址": "430 South Beiger Street, Mishawaka, IN 46544, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MCH0878000  Ascensia Diabetes Care Holdings AG",
+            "製造廠廠址": "Peter Merian-Strasse 90, 4052 Basel, Switzerland",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

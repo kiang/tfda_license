@@ -1,6 +1,6 @@
 {
     "code": "94019333",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019333",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019333",
     "time": "2020-02-26 12:33:16",
     "許可證字號": "衛部醫器輸壹字第019333號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6201158158  邁偉國際有限公司",
     "申請商地址": "臺北市松山區南京東路三段261號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MCH0269000  GEB. RENGGLI AG",
-        "製造廠廠址": "SCHWEIZERBILDSTRASSE 57 , CH-8200 SCHAFFHAUSEN, SWITZERLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCH0269000  GEB. RENGGLI AG",
+            "製造廠廠址": "SCHWEIZERBILDSTRASSE 57 , CH-8200 SCHAFFHAUSEN, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MLI0001100  IVOCLAR VIVADENT AG",
+            "製造廠廠址": "BENDERERSTRASSE 2, 9494 SCHAAN, LIECHTENSTEIN",
+            "製造廠公司地址": "",
+            "製造廠國別": "LIECHTENSTEIN",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

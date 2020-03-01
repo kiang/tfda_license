@@ -1,6 +1,6 @@
 {
     "code": "92001081",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92001081",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92001081",
     "time": "2020-02-26 10:16:47",
     "許可證字號": "衛部醫器陸輸字第001081號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6241272324  宏昱儀器有限公司",
     "申請商地址": "臺南市仁德區仁德里文宏路192號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN5420000  MEDCAPTAIN MEDICAL TECHNOLOGY CO., LTD",
-        "製造廠廠址": "12th Floor, Baiwang Research Building No. 5158 Shahe West Road Xili, Nanshan, 518055 Shenzhen, Guangdong, China",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN5420000  MEDCAPTAIN MEDICAL TECHNOLOGY CO., LTD",
+            "製造廠廠址": "12th Floor, Baiwang Research Building No. 5158 Shahe West Road Xili, Nanshan, 518055 Shenzhen, Guangdong, China",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

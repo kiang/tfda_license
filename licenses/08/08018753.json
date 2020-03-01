@@ -1,6 +1,6 @@
 {
     "code": "08018753",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018753",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018753",
     "time": "2020-02-26 01:11:17",
     "許可證字號": "衛署粧輸字第018753號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6202050615  高一藥品股份有限公司",
     "申請商地址": "高雄市三民區遼寧１街４５６巷２０號１樓",
-    "主製造廠": {
-        "製造廠名稱": "CDE0052000  KOKO KOSMETIKVERTRIEB GMBH &amp; CO. KG",
-        "製造廠廠址": "MOLTKESTRABE 25, D-42799 LEICHLINGEN, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CDE0052000  KOKO KOSMETIKVERTRIEB GMBH &amp; CO. KG",
+            "製造廠廠址": "MOLTKESTRABE 25, D-42799 LEICHLINGEN, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

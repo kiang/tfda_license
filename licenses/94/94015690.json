@@ -1,6 +1,6 @@
 {
     "code": "94015690",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015690",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015690",
     "time": "2020-02-26 11:44:29",
     "許可證字號": "衛部醫器輸壹字第015690號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6207352052  法蘭克福科技股份有限公司",
     "申請商地址": "高雄市苓雅區苓雅二路156號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE1265000  DRENDEL + ZWEILING DIAMANT CMBH",
-        "製造廠廠址": "SCHURENBREDER WEG 27 D-32689 KALLETAL GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE1265000  DRENDEL + ZWEILING DIAMANT CMBH",
+            "製造廠廠址": "SCHURENBREDER WEG 27 D-32689 KALLETAL GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

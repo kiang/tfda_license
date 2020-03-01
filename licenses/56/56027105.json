@@ -1,6 +1,6 @@
 {
     "code": "56027105",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027105",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027105",
     "time": "2020-02-26 07:42:06",
     "許可證字號": "衛部醫器輸字第027105號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620117J497  埃默高有限公司",
     "申請商地址": "新北市新店區北新路3段221號10樓",
-    "主製造廠": {
-        "製造廠名稱": "MFR0102000  Arthesys",
-        "製造廠廠址": "20 rue Traversiere, 92230 Gennevilliers, France",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR0102000  Arthesys",
+            "製造廠廠址": "20 rue Traversiere, 92230 Gennevilliers, France",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MFR0942000  STENTYS SA",
+            "製造廠廠址": "25 rue de Choiseul-75002 PARIS, France",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "94015177",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015177",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015177",
     "time": "2020-02-26 11:37:15",
     "許可證字號": "衛部醫器輸壹字第015177號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "620101S417  新加坡商康威特股份有限公司台灣分公司",
     "申請商地址": "臺北市松山區復興北路57號5樓之4",
-    "主製造廠": {
-        "製造廠名稱": "MGB0177000  CONVATEC LIMITED",
-        "製造廠廠址": "FIRST AVENUE, DEESIDE INDUSTRIAL PARK, DEESIDE FLINTSHIRE, CH5 2NU, UK",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0177000  CONVATEC LIMITED",
+            "製造廠廠址": "FIRST AVENUE, DEESIDE INDUSTRIAL PARK, DEESIDE FLINTSHIRE, CH5 2NU, UK",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

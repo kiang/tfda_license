@@ -1,11 +1,12 @@
 {
     "code": "02011515",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02011515",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02011515",
     "time": "2020-02-25 09:55:38",
     "許可證字號": "衛署藥輸字第011515號",
     "註銷狀態": "已註銷",
     "註銷日期": "99\/05\/31",
     "註銷理由": "屆期未申請展延",
+    "製造許可登錄編號": "",
     "有效日期": "93\/07\/05",
     "發證日期": "72\/07\/05",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "0418201100  日商泰爾茂股份有限公司台北分公司",
-        "申請商地址": "台北巿敦化北路１７０號７樓之１，Ａ室",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "L-ALANINE, ARGININE HCL L-, L-ASPARTIC ACID, L-CYSTEINE, GLUTAMIC ACID L-, HISTIDINE L- HCL (EQ TO L-HISTIDINE HYDROCHLORIDE), L-ISOLEUCINE, L-LEUCINE, LYSINE HCL, L-METHIONINE, L-PHENYLALANINE, L-PROLINE, L-SERINE, L-THREONINE, L-TRYPTOPHAN, L-TYROSINE, L-VALINE, GLYCINE (EQ TO AMINOACETIC ACID)(EQ TO GLYCOCOLL)",
+    "限制項目": "02輸　入",
+    "申請商名稱": "0418201100  日商泰爾茂股份有限公司台北分公司",
+    "申請商地址": "台北巿敦化北路１７０號７樓之１，Ａ室",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FJP0347000  TERUMO CORPORATION",
+            "製造廠廠址": "44-1, 2-CHOME, HATAGAYA, SHIBUYA-KU TOKYO",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
     "ingredients": [

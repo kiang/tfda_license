@@ -1,6 +1,6 @@
 {
     "code": "44010146",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010146",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010146",
     "time": "2020-02-26 05:22:13",
     "許可證字號": "衛署醫器輸壹字第010146號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6203240097  上騰生物科技有限公司",
     "申請商地址": "台中市西區公益路132號5樓",
-    "主製造廠": {
-        "製造廠名稱": "MRU0009000  Research and Production Company Biotest",
-        "製造廠廠址": "Prospect Myra, h.102 129626 Moscow, Russia",
-        "製造廠公司地址": "",
-        "製造廠國別": "RUSSIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MRU0009000  Research and Production Company Biotest",
+            "製造廠廠址": "Prospect Myra, h.102 129626 Moscow, Russia",
+            "製造廠公司地址": "",
+            "製造廠國別": "RUSSIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "06013595",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06013595",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06013595",
     "time": "2020-02-25 18:40:11",
     "許可證字號": "衛署醫器輸字第013595號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1236701100  華宇藥品股份有限公司",
     "申請商地址": "台北巿中山北路二段115巷43號8樓",
-    "主製造廠": {
-        "製造廠名稱": "MNL0058000  NPBI INTERNATIONAL B.V.(FRESENIUS HOME CARE)",
-        "製造廠廠址": "RUNDE ZZ 41, 7881 HM EMMER-COMPASCUUM, THE NETHERLANDS",
-        "製造廠公司地址": "",
-        "製造廠國別": "NETHERLANDS",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MNL0058000  NPBI INTERNATIONAL B.V.(FRESENIUS HOME CARE)",
+            "製造廠廠址": "RUNDE ZZ 41, 7881 HM EMMER-COMPASCUUM, THE NETHERLANDS",
+            "製造廠公司地址": "",
+            "製造廠國別": "NETHERLANDS",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "FUS0341000  BRISTOL-MYERS SQUIBB COMPANY",
+            "製造廠廠址": "ROUTE 206 AND PROVINCE LINE ROAD, PRINCETON, NEW JERSEY 08543, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

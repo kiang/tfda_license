@@ -1,6 +1,6 @@
 {
     "code": "56025575",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025575",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025575",
     "time": "2020-02-26 07:25:28",
     "許可證字號": "衛部醫器輸字第025575號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0806201100  承德儀器有限公司",
     "申請商地址": "台北市士林區承德路四段185號5樓",
-    "主製造廠": {
-        "製造廠名稱": "MIL0819000  TUTTNAUER LTD.",
-        "製造廠廠址": "HAR TUV B＇INDUSTRIAL ZONE, BEIT SHEMESH 99000, ISRAEL",
-        "製造廠公司地址": "",
-        "製造廠國別": "ISRAEL",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIL0819000  TUTTNAUER LTD.",
+            "製造廠廠址": "HAR TUV B＇INDUSTRIAL ZONE, BEIT SHEMESH 99000, ISRAEL",
+            "製造廠公司地址": "",
+            "製造廠國別": "ISRAEL",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "08000224",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08000224",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08000224",
     "time": "2020-02-25 21:53:48",
     "許可證字號": "衛署粧輸字第000224號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "2001501100  騰嶸貿易有限公司",
     "申請商地址": "台北巿中山北路３段４９號７樓Ａ室",
-    "主製造廠": {
-        "製造廠名稱": "CDE0009000  MARGARET ASTOR AG.",
-        "製造廠廠址": "BINGER STRASSE 17, D-6500 MAINZ 1 GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CDE0009000  MARGARET ASTOR AG.",
+            "製造廠廠址": "BINGER STRASSE 17, D-6500 MAINZ 1 GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

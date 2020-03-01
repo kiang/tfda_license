@@ -1,6 +1,6 @@
 {
     "code": "94016526",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016526",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016526",
     "time": "2020-02-26 11:56:54",
     "許可證字號": "衛部醫器輸壹字第016526號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623105B359  美德旺國際有限公司",
     "申請商地址": "新北市新店區安祥路102巷42弄35號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0731000  BISTOS CO., LTD.",
-        "製造廠廠址": "7TH FL., A BLDG., WOOLIM LIONS VALLEY 5-CHA, 302, GALMACHI-RO, JUNGWON-GU, SEONGNAM-SI, GYEONGGI-DO KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0731000  BISTOS CO., LTD.",
+            "製造廠廠址": "7TH FL., A BLDG., WOOLIM LIONS VALLEY 5-CHA, 302, GALMACHI-RO, JUNGWON-GU, SEONGNAM-SI, GYEONGGI-DO KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

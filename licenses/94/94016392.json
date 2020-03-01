@@ -1,6 +1,6 @@
 {
     "code": "94016392",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016392",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016392",
     "time": "2020-02-26 11:54:50",
     "許可證字號": "衛部醫器輸壹字第016392號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 36GMP",
     "申請商名稱": "620117J924  台灣萌蒂藥品有限公司",
     "申請商地址": "臺北市信義區松仁路32號14樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0755000  GENEWEL CO., LTD",
-        "製造廠廠址": "281-2, SOLTAESANGDU-GIL, HYANGNAM-EUP, HWASEONG-SI, GYEONGGI-DO, 445-924, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0755000  GENEWEL CO., LTD",
+            "製造廠廠址": "281-2, SOLTAESANGDU-GIL, HYANGNAM-EUP, HWASEONG-SI, GYEONGGI-DO, 445-924, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MCH0864000  MUNDIPHARMA LABORATORIES GMBH",
+            "製造廠廠址": "ST. ALBAN-RHEINWEG 74 CH-4020 BASEL\/SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "06022241",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022241",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022241",
     "time": "2020-02-25 20:18:32",
     "許可證字號": "衛署醫器輸字第022241號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0622302100  企建科技股份有限公司",
     "申請商地址": "臺北市中山區新生北路二段四十一巷十四號一樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE0634000  INOMED MEDIZINTECHNIK GMBH",
-        "製造廠廠址": "IM HAUSGRUEN 29, 79312 EMMENDINGEN, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0634000  INOMED MEDIZINTECHNIK GMBH",
+            "製造廠廠址": "IM HAUSGRUEN 29, 79312 EMMENDINGEN, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "46001302",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001302",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001302",
     "time": "2020-02-26 06:05:42",
     "許可證字號": "衛署醫器陸輸壹字第001302號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "0828401100  居家企業股份有限公司",
     "申請商地址": "新北市新店區中正路四維巷8弄4號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN0865000  RISON MANUFACTURING",
-        "製造廠廠址": "ZHOUHAN VILLAGE, JIANGSHAN TOWN, YINZHOU NINGBO, ZHEJIANG PROVINCE, CHINA, 315195",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0865000  RISON MANUFACTURING",
+            "製造廠廠址": "ZHOUHAN VILLAGE, JIANGSHAN TOWN, YINZHOU NINGBO, ZHEJIANG PROVINCE, CHINA, 315195",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS3178000  DJO, LLC",
+            "製造廠廠址": "1430 DECISION STREET VISTA, CA 92081 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

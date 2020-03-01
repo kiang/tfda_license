@@ -1,6 +1,6 @@
 {
     "code": "56026881",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026881",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026881",
     "time": "2020-02-26 07:39:35",
     "許可證字號": "衛部醫器輸字第026881號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102S511  雅力信股份有限公司",
     "申請商地址": "台北市信義區基隆路二段109號5樓",
-    "主製造廠": {
-        "製造廠名稱": "MIT0151000  ANIKA THERAPEUTICS S.R.L.",
-        "製造廠廠址": "Corso stati Uniti 4\/U, 35127 Padova (PD) Italy",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIT0151000  ANIKA THERAPEUTICS S.R.L.",
+            "製造廠廠址": "Corso stati Uniti 4\/U, 35127 Padova (PD) Italy",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

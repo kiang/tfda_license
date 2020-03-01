@@ -1,6 +1,6 @@
 {
     "code": "44010695",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010695",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010695",
     "time": "2020-02-26 05:27:40",
     "許可證字號": "衛署醫器輸壹字第010695號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620110A036  聯杏股份有限公司",
     "申請商地址": "台北市內湖區內湖路一段250號8樓",
-    "主製造廠": {
-        "製造廠名稱": "MAU0068000  RESMED LTD",
-        "製造廠廠址": "1 ELIZABETH MACARTHUR DRIVE BELLA VISTA NSW 2153, AUSTRALIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "AUSTRALIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MAU0068000  RESMED LTD",
+            "製造廠廠址": "1 ELIZABETH MACARTHUR DRIVE BELLA VISTA NSW 2153, AUSTRALIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRALIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

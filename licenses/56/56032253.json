@@ -1,6 +1,6 @@
 {
     "code": "56032253",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56032253",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56032253",
     "time": "2020-02-26 08:27:36",
     "許可證字號": "衛部醫器輸字第032253號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620111A578  台灣諾保科股份有限公司",
     "申請商地址": "台北市內湖區瑞光路68號5樓",
-    "主製造廠": {
-        "製造廠名稱": "MCH0866000  E.M.S. ELECTRO MEDICAL SYSTEMS S.A.",
-        "製造廠廠址": "RTE DE CHAMP-COLIN 2, CH-1260 NYON, SWITZERLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCH0866000  E.M.S. ELECTRO MEDICAL SYSTEMS S.A.",
+            "製造廠廠址": "RTE DE CHAMP-COLIN 2, CH-1260 NYON, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MDE0236200  KALTENBACH &amp; VOIGT GMBH",
+            "製造廠廠址": "BISMARKRING 39, 88400 BIBERACH, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

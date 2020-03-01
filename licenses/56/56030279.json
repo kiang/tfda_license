@@ -1,6 +1,6 @@
 {
     "code": "56030279",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030279",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030279",
     "time": "2020-02-26 08:12:45",
     "許可證字號": "衛部醫器輸字第030279號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 14輸入須附同意書（每次輸入均須取得原子能委員會之同意書為憑） 1A本器材之使用須符合「特定醫療技術檢查檢驗醫療儀器施行或使用管理辦法」",
     "申請商名稱": "620102Z789  英屬蓋曼群島商合富醫療器材股份有限公司台灣分公司",
     "申請商地址": "臺北市大安區敦化南路2段76號23樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS4110000  ViewRay Incorporated",
-        "製造廠廠址": "815 East Middlefield Road Mountain View, CA 94043, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS4110000  ViewRay Incorporated",
+            "製造廠廠址": "815 East Middlefield Road Mountain View, CA 94043, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

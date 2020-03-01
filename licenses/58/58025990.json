@@ -1,6 +1,6 @@
 {
     "code": "58025990",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58025990",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58025990",
     "time": "2020-02-26 09:52:07",
     "許可證字號": "衛部粧輸字第025990號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "620101C611  台灣屈臣氏個人用品商店股份有限公司",
     "申請商地址": "臺北市松山區八德路4段760號11樓之1、之2及14樓",
-    "主製造廠": {
-        "製造廠名稱": "CKR0161000  Cosmocos",
-        "製造廠廠址": "306, 2, 742-2, Choji-dong, Danwon-gu, Ansan-si, Gyeonggi-do, Korea",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CKR0161000  Cosmocos",
+            "製造廠廠址": "306, 2, 742-2, Choji-dong, Danwon-gu, Ansan-si, Gyeonggi-do, Korea",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

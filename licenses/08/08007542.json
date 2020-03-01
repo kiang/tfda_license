@@ -1,6 +1,6 @@
 {
     "code": "08007542",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08007542",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08007542",
     "time": "2020-02-25 23:13:00",
     "許可證字號": "衛署粧輸字第007542號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1439802100  臺灣基水實業股份有限公司",
     "申請商地址": "北縣深坑鄉萬順村北深路三段１５５巷３１號６樓",
-    "主製造廠": {
-        "製造廠名稱": "CAU0020000  ROSS COSMETICS AUST. PTY LTD.",
-        "製造廠廠址": "14-22 CARRICK DRIVE TULLAMARINE VICTORIA 3043 AUSTRALIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "AUSTRALIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CAU0020000  ROSS COSMETICS AUST. PTY LTD.",
+            "製造廠廠址": "14-22 CARRICK DRIVE TULLAMARINE VICTORIA 3043 AUSTRALIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRALIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

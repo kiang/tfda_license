@@ -1,6 +1,6 @@
 {
     "code": "06007086",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06007086",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06007086",
     "time": "2020-02-25 17:19:29",
     "許可證字號": "衛署醫器輸字第007086號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0925101100  美商奇異工業服務股份有限公司台灣分公司",
     "申請商地址": "台北巿敦化北路１６８號１３樓Ａ室",
-    "主製造廠": {
-        "製造廠名稱": "MUS0470000  GENERAL ELECTRIC MEDICAL SYSTEM",
-        "製造廠廠址": "3000 NORTH GRANDVIEW BOULEVARD WAUKESHA, WISCONSIN 53188",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0470000  GENERAL ELECTRIC MEDICAL SYSTEM",
+            "製造廠廠址": "3000 NORTH GRANDVIEW BOULEVARD WAUKESHA, WISCONSIN 53188",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

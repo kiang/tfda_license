@@ -1,6 +1,6 @@
 {
     "code": "06005553",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06005553",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06005553",
     "time": "2020-02-25 16:55:19",
     "許可證字號": "衛署醫器輸字第005553號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0710201100  見新貿易股份有限公司",
     "申請商地址": "台北巿建國南路一段２７９巷２號１１樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP0098000  NIKKISO CO. LTD.",
-        "製造廠廠址": "43-2, EBISU 3-CHOME SHIBUYA-KU. TOKYO JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0098000  NIKKISO CO. LTD.",
+            "製造廠廠址": "43-2, EBISU 3-CHOME SHIBUYA-KU. TOKYO JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

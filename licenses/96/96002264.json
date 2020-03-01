@@ -1,6 +1,6 @@
 {
     "code": "96002264",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002264",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002264",
     "time": "2020-02-26 12:57:57",
     "許可證字號": "衛部醫器陸輸壹字第002264號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP 40大陸生產",
     "申請商名稱": "0704801100  杏全實業股份有限公司",
     "申請商地址": "台北市大安區瑞安街135巷11號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1127000  GUANGZHOU IMPROVE MEDICAL INSTRUMENTS CO., LTD.",
-        "製造廠廠址": "NO. 102, KAIYUAN AVENUE SCIENCE CITY GUANGZHOU ECONOMIC &amp; TECHNOLOGICAL DEVELOPMENT DISTRICT 510530 GUANGZHOU, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1127000  GUANGZHOU IMPROVE MEDICAL INSTRUMENTS CO., LTD.",
+            "製造廠廠址": "NO. 102, KAIYUAN AVENUE SCIENCE CITY GUANGZHOU ECONOMIC &amp; TECHNOLOGICAL DEVELOPMENT DISTRICT 510530 GUANGZHOU, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

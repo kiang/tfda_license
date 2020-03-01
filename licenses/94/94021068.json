@@ -1,6 +1,6 @@
 {
     "code": "94021068",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94021068",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94021068",
     "time": "2020-02-26 12:49:54",
     "許可證字號": "衛部醫器輸壹字第021068號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6207351742  安澤生技開發有限公司",
     "申請商地址": "高雄市苓雅區四維四路216號7樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MKR0631000  SUNMEDIX CO., LTD.",
-        "製造廠廠址": "78-21 GEUMGANG-RO 1845 BEONGIL, JINJEOP-EUP, NAMYANGJU-SI, GYEONGGI-DO, 472-868 KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0631000  SUNMEDIX CO., LTD.",
+            "製造廠廠址": "78-21 GEUMGANG-RO 1845 BEONGIL, JINJEOP-EUP, NAMYANGJU-SI, GYEONGGI-DO, 472-868 KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

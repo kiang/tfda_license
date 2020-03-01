@@ -1,6 +1,6 @@
 {
     "code": "56027272",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027272",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027272",
     "time": "2020-02-26 07:43:55",
     "許可證字號": "衛部醫器輸字第027272號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620101S202  東格國際商行",
     "申請商地址": "臺北市大安區復興南路1段209號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MMY0035000  DONGKUK TECHCO RUBBER INDUSTRIES SDN BHD",
-        "製造廠廠址": "PLOT 31, JALN 8, BAKAR ARANG INDUSTRIAL ESTATE, 08000 SUNGAI PETANI, KEDAH, MALAYSIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "MALAYSIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMY0035000  DONGKUK TECHCO RUBBER INDUSTRIES SDN BHD",
+            "製造廠廠址": "PLOT 31, JALN 8, BAKAR ARANG INDUSTRIAL ESTATE, 08000 SUNGAI PETANI, KEDAH, MALAYSIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "MALAYSIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

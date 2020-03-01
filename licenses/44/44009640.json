@@ -1,6 +1,6 @@
 {
     "code": "44009640",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009640",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009640",
     "time": "2020-02-26 05:17:14",
     "許可證字號": "衛署醫器輸壹字第009640號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "620101G093  香港商康樂保有限公司台灣辦事處",
     "申請商地址": "台北市中山區中山北路三段58號3樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MDK0109000  COLOPLAST A\/S",
-        "製造廠廠址": "AA. LOUIS-HANSENS ALLE 15, 3060 ESPERGAERDE, DENMARK",
-        "製造廠公司地址": "",
-        "製造廠國別": "DENMARK",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDK0109000  COLOPLAST A\/S",
+            "製造廠廠址": "AA. LOUIS-HANSENS ALLE 15, 3060 ESPERGAERDE, DENMARK",
+            "製造廠公司地址": "",
+            "製造廠國別": "DENMARK",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MDK0095000  COLOPLAST A\/S",
+            "製造廠廠址": "HOLTEDAM 1, 3050 HUMLEBAEK, DENMARK",
+            "製造廠公司地址": "",
+            "製造廠國別": "DENMARK",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

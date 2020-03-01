@@ -1,11 +1,12 @@
 {
     "code": "10000691",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000691",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000691",
     "time": "2020-02-26 01:40:04",
     "許可證字號": "衛署菌疫輸字第000691號",
     "註銷狀態": "已註銷",
     "註銷日期": "102\/12\/31",
     "註銷理由": "未展延而逾期者",
+    "製造許可登錄編號": "",
     "有效日期": "100\/10\/08",
     "發證日期": "90\/10\/08",
     "許可證種類": "菌　疫",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "1011101100  海喬國際股份有限公司",
-        "申請商地址": "台北市大同區重慶北路三段276號9樓",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "BOTULINUM TOXIN TYPE A",
+    "限制項目": "02輸　入",
+    "申請商名稱": "1011101100  海喬國際股份有限公司",
+    "申請商地址": "台北市大同區重慶北路三段276號9樓",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FGB0146000  IPSEN BIOPHARM LTD.",
+            "製造廠廠址": "ASH ROSD, WREXHAM INDUSTRIAL ESTATE, WREXHAM, CLWYDLL 13 9UF",
+            "製造廠公司地址": "190,BATH ROAD,SLOUGH,BERKSHIRE,SL1 3XE,UK",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "CCC號列": "30029090905 人類血液；已調製動物血液供治療、預防疾病或診斷用；毒素、微生物培養體（酵母除外）和類似品Human blood; animal blood prepared for therapeutic, prophylactic or diagnostic uses; toxins, cultures of micro-organisms (excluding yeasts) and similar products",
     "藥理治療分類": "",
     "ingredients": [

@@ -1,6 +1,6 @@
 {
     "code": "58022068",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58022068",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58022068",
     "time": "2020-02-26 09:15:22",
     "許可證字號": "衛部粧輸字第022068號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6237040485  非常養生企業股份有限公司",
     "申請商地址": "彰化縣北斗鎮中興街252巷10號",
-    "主製造廠": {
-        "製造廠名稱": "CDE0080000  BB MED PRODUCT GMBH",
-        "製造廠廠址": "WOHRMANNSTRA&amp;szlig;E 15, D-47546 KALKAR-KEHRUM GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CDE0080000  BB MED PRODUCT GMBH",
+            "製造廠廠址": "WOHRMANNSTRA&amp;szlig;E 15, D-47546 KALKAR-KEHRUM GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

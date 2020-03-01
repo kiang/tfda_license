@@ -1,6 +1,6 @@
 {
     "code": "06018607",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06018607",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06018607",
     "time": "2020-02-25 19:37:30",
     "許可證字號": "衛署醫器輸字第018607號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0607801100  西合實業股份有限公司",
     "申請商地址": "台北市中正區博愛路12號",
-    "主製造廠": {
-        "製造廠名稱": "MJP1271000  TANITA Corporation of AKITA LTD.",
-        "製造廠廠址": "28-1, Aza-Shimotamogizoe, Horiminai, Daisen-shi, Akita, 014-0113 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP1271000  TANITA Corporation of AKITA LTD.",
+            "製造廠廠址": "28-1, Aza-Shimotamogizoe, Horiminai, Daisen-shi, Akita, 014-0113 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

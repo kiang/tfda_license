@@ -1,6 +1,6 @@
 {
     "code": "94013843",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013843",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013843",
     "time": "2020-02-26 11:18:33",
     "許可證字號": "衛部醫器輸壹字第013843號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0711101100  佐藤製藥股份有限公司",
     "申請商地址": "臺北市信義區基隆路一段333號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP1108000  DIA PHARMACEUTICAL CO., LTD. HYOGO FACTORY",
-        "製造廠廠址": "60-1, AZA-MITSUMACHI, ONIYA, KAIBARA-CHO, TANBA-SHI, HYOGO-KEN, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP1108000  DIA PHARMACEUTICAL CO., LTD. HYOGO FACTORY",
+            "製造廠廠址": "60-1, AZA-MITSUMACHI, ONIYA, KAIBARA-CHO, TANBA-SHI, HYOGO-KEN, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

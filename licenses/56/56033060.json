@@ -1,6 +1,6 @@
 {
     "code": "56033060",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56033060",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56033060",
     "time": "2020-02-26 08:33:16",
     "許可證字號": "衛部醫器輸字第033060號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "621201D517  卡爾蔡司股份有限公司",
     "申請商地址": "新竹市東區公道五路二段158號5樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MTH0124000  Fabrinet Co., Ltd",
-        "製造廠廠址": "5\/5, 5\/6 Moo 6 Soi Khunpra Phaholyothin Rd., Klongnueng Klongluang, Pathumthanee 12120, Thailand",
-        "製造廠公司地址": "",
-        "製造廠國別": "THAILAND",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MTH0124000  Fabrinet Co., Ltd",
+            "製造廠廠址": "5\/5, 5\/6 Moo 6 Soi Khunpra Phaholyothin Rd., Klongnueng Klongluang, Pathumthanee 12120, Thailand",
+            "製造廠公司地址": "",
+            "製造廠國別": "THAILAND",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MFI0070000  Optomed Oy",
+            "製造廠廠址": "Yrttipellontie 1 FI-90230, Oulu, Finland",
+            "製造廠公司地址": "",
+            "製造廠國別": "FINLAND",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

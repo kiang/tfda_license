@@ -1,6 +1,6 @@
 {
     "code": "06012991",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06012991",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06012991",
     "time": "2020-02-25 18:33:35",
     "許可證字號": "衛署醫器輸字第012991號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231046107  珖億企業股份有限公司",
     "申請商地址": "新北市中和區中山路二段３６２號１０樓",
-    "主製造廠": {
-        "製造廠名稱": "MCH0059000  EMS ELECTRO MEDICAL SYSTEMS S.A.",
-        "製造廠廠址": "CHEMIN DE LA VUARPILLIERE 31, CH-1260 NYON, SWITZERLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCH0059000  EMS ELECTRO MEDICAL SYSTEMS S.A.",
+            "製造廠廠址": "CHEMIN DE LA VUARPILLIERE 31, CH-1260 NYON, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

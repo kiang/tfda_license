@@ -1,6 +1,6 @@
 {
     "code": "46000263",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000263",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000263",
     "time": "2020-02-26 05:58:10",
     "許可證字號": "衛署醫器陸輸壹字第000263號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6231059186  志及實業有限公司",
     "申請商地址": "新北市新店區寶橋路152號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN0209000  CHANG DAO YUZHU OPTIEAL MATERIAL CO., LTD.",
-        "製造廠廠址": "NO.33 HAIBIN RD. CHANG DAU COUNTY, SHANTUNG PROVINCE, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0209000  CHANG DAO YUZHU OPTIEAL MATERIAL CO., LTD.",
+            "製造廠廠址": "NO.33 HAIBIN RD. CHANG DAU COUNTY, SHANTUNG PROVINCE, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

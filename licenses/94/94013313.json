@@ -1,6 +1,6 @@
 {
     "code": "94013313",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013313",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013313",
     "time": "2020-02-26 11:10:33",
     "許可證字號": "衛部醫器輸壹字第013313號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623111B529  伊材股份有限公司",
     "申請商地址": "新北市汐止區新台五路一段77號16樓之7",
-    "主製造廠": {
-        "製造廠名稱": "MMX0153000  SALTER LABS DE MEXICO S.A. DE C.V.",
-        "製造廠廠址": "Blvd. Independencia #2167 Parque Industrial Las Americas Horizonte Sur Ciudad Juarez, Chihuahua C.P. 32596 Mexico",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0153000  SALTER LABS DE MEXICO S.A. DE C.V.",
+            "製造廠廠址": "Blvd. Independencia #2167 Parque Industrial Las Americas Horizonte Sur Ciudad Juarez, Chihuahua C.P. 32596 Mexico",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

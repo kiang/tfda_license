@@ -1,6 +1,6 @@
 {
     "code": "94021197",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94021197",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94021197",
     "time": "2020-02-26 12:50:57",
     "許可證字號": "衛部醫器輸壹字第021197號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6203292555  翌筌有限公司",
     "申請商地址": "台中市北屯區安順四街58號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MFR0438000  LANDANGER",
-        "製造廠廠址": "Rue Ren&#233;e et Louis Landanger – CS52152 – 52906 Chaumont Cedex 9 - France",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR0438000  LANDANGER",
+            "製造廠廠址": "Rue Ren&#233;e et Louis Landanger – CS52152 – 52906 Chaumont Cedex 9 - France",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

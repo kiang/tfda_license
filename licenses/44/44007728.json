@@ -1,6 +1,6 @@
 {
     "code": "44007728",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007728",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007728",
     "time": "2020-02-26 05:00:57",
     "許可證字號": "衛署醫器輸壹字第007728號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "1103701100  啟大企業有限公司",
     "申請商地址": "台北市松山區南京東路四段170號6樓C室",
-    "主製造廠": {
-        "製造廠名稱": "MDK0039000  INTERACOUSTICS A\/S",
-        "製造廠廠址": "DREJERVANGET 8 5610 ASSENS, DENMARK",
-        "製造廠公司地址": "",
-        "製造廠國別": "DENMARK",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDK0039000  INTERACOUSTICS A\/S",
+            "製造廠廠址": "DREJERVANGET 8 5610 ASSENS, DENMARK",
+            "製造廠公司地址": "",
+            "製造廠國別": "DENMARK",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS3816000  DIAGNOSTIC GROUP LCC, DBA GRASON-STADLER",
+            "製造廠廠址": "7625 GOLDEN TRIANGLE DRIVE EDEN PRAIRIE MN 55344",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

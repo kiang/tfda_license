@@ -1,6 +1,6 @@
 {
     "code": "92000578",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000578",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000578",
     "time": "2020-02-26 10:11:15",
     "許可證字號": "衛部醫器陸輸字第000578號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6201107811  嘉杏股份有限公司",
     "申請商地址": "台北市中山區松江路42號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1024000  CURATIVE MEDICAL TECHNOLOGY INC",
-        "製造廠廠址": "NO. 9 PEIYUAN ROAD, NEW DISTRICT, 215163 SUZHOU, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1024000  CURATIVE MEDICAL TECHNOLOGY INC",
+            "製造廠廠址": "NO. 9 PEIYUAN ROAD, NEW DISTRICT, 215163 SUZHOU, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

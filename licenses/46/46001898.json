@@ -1,6 +1,6 @@
 {
     "code": "46001898",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001898",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001898",
     "time": "2020-02-26 06:11:20",
     "許可證字號": "衛署醫器陸輸壹字第001898號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "623201G336  生活力健康創意企業社",
     "申請商地址": "桃園市桃園區汴州里經國路859號9樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MCN1152000  ZHONGSHAN SYOU EI BEAUTY INSTRUMENT CO., LTD.",
-        "製造廠廠址": "F2 AND F3, NO. 50, SHILIUKENGXIA STREET, LONGJINGFANG INDUSTRIAL AREA, CHANGMINGSHUI, WUGUISHAN TOWN, ZHONGSHAN CITY, GUANGDONG PROVINCE, CHINA.",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1152000  ZHONGSHAN SYOU EI BEAUTY INSTRUMENT CO., LTD.",
+            "製造廠廠址": "F2 AND F3, NO. 50, SHILIUKENGXIA STREET, LONGJINGFANG INDUSTRIAL AREA, CHANGMINGSHUI, WUGUISHAN TOWN, ZHONGSHAN CITY, GUANGDONG PROVINCE, CHINA.",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

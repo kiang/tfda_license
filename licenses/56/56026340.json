@@ -1,6 +1,6 @@
 {
     "code": "56026340",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026340",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026340",
     "time": "2020-02-26 07:33:44",
     "許可證字號": "衛部醫器輸字第026340號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102W313  瑪崴仕實業有限公司",
     "申請商地址": "台北市大安區光復南路420巷1弄9號",
-    "主製造廠": {
-        "製造廠名稱": "MKR  BISON MEDICAL CO., LTD",
-        "製造廠廠址": "(Gasan-dong, Ace High-end Tower 6), 903, 904, 234, Beotkkot -ro, Geumcheon-gu, Seoul, Korea。",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR  BISON MEDICAL CO., LTD",
+            "製造廠廠址": "(Gasan-dong, Ace High-end Tower 6), 903, 904, 234, Beotkkot -ro, Geumcheon-gu, Seoul, Korea。",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

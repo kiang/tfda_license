@@ -1,6 +1,6 @@
 {
     "code": "96003480",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003480",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003480",
     "time": "2020-02-26 13:10:50",
     "許可證字號": "衛部醫器陸輸壹字第003480號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "621706B120  鈞豊光學有限公司",
     "申請商地址": "台中市西屯區至善路82巷58號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1840000  CHONGQING GOTEC MEDICAL EQUIPMENT LTD.",
-        "製造廠廠址": "FLOOR 7, BIOLOGICAL AND BIOPROCESS DEVELOPMENT PARK, NO. 70, 4TH STREET, HIGH-TECH ZONE, CHONGQING CITY, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1840000  CHONGQING GOTEC MEDICAL EQUIPMENT LTD.",
+            "製造廠廠址": "FLOOR 7, BIOLOGICAL AND BIOPROCESS DEVELOPMENT PARK, NO. 70, 4TH STREET, HIGH-TECH ZONE, CHONGQING CITY, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

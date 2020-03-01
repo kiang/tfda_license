@@ -1,6 +1,6 @@
 {
     "code": "06006236",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06006236",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06006236",
     "time": "2020-02-25 17:06:29",
     "許可證字號": "衛署醫器輸字第006236號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0826901100  宜德醫材股份有限公司",
     "申請商地址": "台北巿中山北路２段１８５號６樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP0076000  MATSUSHITA COMMUNICATION INDUSTRIAL CO. LTD",
-        "製造廠廠址": "ELECTRONIC MEASUREMENT DEPT 4-3-1, TSUNASHIMA-HIGASHI,KOHOKU-KU, YOKOHAMA CITY",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0076000  MATSUSHITA COMMUNICATION INDUSTRIAL CO. LTD",
+            "製造廠廠址": "ELECTRONIC MEASUREMENT DEPT 4-3-1, TSUNASHIMA-HIGASHI,KOHOKU-KU, YOKOHAMA CITY",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

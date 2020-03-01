@@ -1,6 +1,6 @@
 {
     "code": "94015905",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015905",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015905",
     "time": "2020-02-26 11:47:22",
     "許可證字號": "衛部醫器輸壹字第015905號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217088461  傳旻有限公司",
     "申請商地址": "台中市北屯區豐樂路17巷11弄2號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS4458000  TOTAL VEIN SYSTEMS",
-        "製造廠廠址": "901 YALE STREET, HOUSTON, TX 77008, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS4458000  TOTAL VEIN SYSTEMS",
+            "製造廠廠址": "901 YALE STREET, HOUSTON, TX 77008, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

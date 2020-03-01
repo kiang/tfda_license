@@ -1,6 +1,6 @@
 {
     "code": "44012804",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012804",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012804",
     "time": "2020-02-26 05:48:13",
     "許可證字號": "衛署醫器輸壹字第012804號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620115B122  永盛生物科技有限公司",
     "申請商地址": "臺北市士林區文林路765號3樓之10",
-    "主製造廠": {
-        "製造廠名稱": "MGB0904000  LORNE LABORATORIES, LTD",
-        "製造廠廠址": "1 DANEHILL, CUTBUSH PARK INDUSTRIAL ESTATE LOWER EARLEY, BERKSHIRE RG6 4UT, UNITED KINGDOM",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0904000  LORNE LABORATORIES, LTD",
+            "製造廠廠址": "1 DANEHILL, CUTBUSH PARK INDUSTRIAL ESTATE LOWER EARLEY, BERKSHIRE RG6 4UT, UNITED KINGDOM",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

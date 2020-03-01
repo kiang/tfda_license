@@ -1,6 +1,6 @@
 {
     "code": "96004018",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96004018",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96004018",
     "time": "2020-02-26 13:16:24",
     "許可證字號": "衛部醫器陸輸壹字第004018號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6231048003  景祥股份有限公司",
     "申請商地址": "新北市中和區中正路866之5號11樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN2181000  SHANGHAI KOHDEN MEDICAL ELECTRONIC INSTRUMENT CORP.",
-        "製造廠廠址": "NO. 567 HUANCHENG BEI ROAD, SHANGHAI COMPREHENSIVE INDUSTRIAL DEVELOPMENT ZONE, FENGXIAN DISTRICT, SHANGHAI, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN2181000  SHANGHAI KOHDEN MEDICAL ELECTRONIC INSTRUMENT CORP.",
+            "製造廠廠址": "NO. 567 HUANCHENG BEI ROAD, SHANGHAI COMPREHENSIVE INDUSTRIAL DEVELOPMENT ZONE, FENGXIAN DISTRICT, SHANGHAI, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

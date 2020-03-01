@@ -1,6 +1,6 @@
 {
     "code": "58021506",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58021506",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58021506",
     "time": "2020-02-26 09:05:06",
     "許可證字號": "衛部粧輸字第021506號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "1236402100  超啟有限公司",
     "申請商地址": "新北市中和區板南路492號6樓之6",
-    "主製造廠": {
-        "製造廠名稱": "CKR0097000  Seoul Cosmetics Co., Ltd",
-        "製造廠廠址": "(143B-9L)Namdong Ind. 718-8, Gojan-dong, Namdog-Ku, Incheon, Korea",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CKR0097000  Seoul Cosmetics Co., Ltd",
+            "製造廠廠址": "(143B-9L)Namdong Ind. 718-8, Gojan-dong, Namdog-Ku, Incheon, Korea",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

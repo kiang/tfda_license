@@ -1,6 +1,6 @@
 {
     "code": "08016933",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016933",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016933",
     "time": "2020-02-26 00:51:49",
     "許可證字號": "衛署粧輸字第016933號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6653778508  伊大國際有限公司",
     "申請商地址": "臺北市中山區松江路220號6樓之4",
-    "主製造廠": {
-        "製造廠名稱": "CJP0298000  COSMO BEAUTY CO., LTD.",
-        "製造廠廠址": "32-7 HIGASHIIKEBUKURO, 1-CHOME, TOSHIMA-KU, TOKYO, 170-0013, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0298000  COSMO BEAUTY CO., LTD.",
+            "製造廠廠址": "32-7 HIGASHIIKEBUKURO, 1-CHOME, TOSHIMA-KU, TOKYO, 170-0013, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

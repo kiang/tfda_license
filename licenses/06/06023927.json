@@ -1,6 +1,6 @@
 {
     "code": "06023927",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023927",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023927",
     "time": "2020-02-25 20:36:35",
     "許可證字號": "衛署醫器輸字第023927號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 14輸入須附同意書（每次輸入均須取得原子能委員會之同意書為憑）",
     "申請商名稱": "6201119731  台灣康世醫療器材股份有限公司",
     "申請商地址": "台北市中山區中山北路二段129號4樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MUS3408000  QUANTUM MEDICAL IMAGING, LLC",
-        "製造廠廠址": "2002-B ORVILLE DRIVE NORTH, RONKONKOMA, NEW YORK 11778, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS3408000  QUANTUM MEDICAL IMAGING, LLC",
+            "製造廠廠址": "2002-B ORVILLE DRIVE NORTH, RONKONKOMA, NEW YORK 11778, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "94013659",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013659",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013659",
     "time": "2020-02-26 11:15:53",
     "許可證字號": "衛部醫器輸壹字第013659號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1208101100  偉登興業有限公司",
     "申請商地址": "台北市虎林街１０８巷８６號",
-    "主製造廠": {
-        "製造廠名稱": "MDE0338000  RITTER CONCEPT GMBH",
-        "製造廠廠址": "BAHNHOFSTRABE 65, 08297 ZWONITZ, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0338000  RITTER CONCEPT GMBH",
+            "製造廠廠址": "BAHNHOFSTRABE 65, 08297 ZWONITZ, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

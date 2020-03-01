@@ -1,6 +1,6 @@
 {
     "code": "46001398",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001398",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001398",
     "time": "2020-02-26 06:06:41",
     "許可證字號": "衛署醫器陸輸壹字第001398號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "620205G224  宏基醫療器材行",
     "申請商地址": "高雄市三民區正忠路386號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN0141000  SIRONA DENTAL SYSTEMS FOSHAN CO., LTD",
-        "製造廠廠址": "LIANHE SHISHI INDUSTRY ZONE, LUOCUN TOWN, NANHAI DISTRICT, FOSHAN, GUANG DONG, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0141000  SIRONA DENTAL SYSTEMS FOSHAN CO., LTD",
+            "製造廠廠址": "LIANHE SHISHI INDUSTRY ZONE, LUOCUN TOWN, NANHAI DISTRICT, FOSHAN, GUANG DONG, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

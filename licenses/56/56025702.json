@@ -1,6 +1,6 @@
 {
     "code": "56025702",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025702",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025702",
     "time": "2020-02-26 07:26:49",
     "許可證字號": "衛部醫器輸字第025702號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1903101100  台灣羅氏醫療診斷設備股份有限公司",
     "申請商地址": "台北市中山區民權東路3段2號10樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS1033100  ROCHE MOLECULAR SYSTEMS, INC.",
-        "製造廠廠址": "1080 US HIGHWAY 202 SOUTH BRANCHBURG, NJ 08876, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS1033100  ROCHE MOLECULAR SYSTEMS, INC.",
+            "製造廠廠址": "1080 US HIGHWAY 202 SOUTH BRANCHBURG, NJ 08876, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

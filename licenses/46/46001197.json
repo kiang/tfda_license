@@ -1,6 +1,6 @@
 {
     "code": "46001197",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001197",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001197",
     "time": "2020-02-26 06:04:39",
     "許可證字號": "衛署醫器陸輸壹字第001197號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,31 @@
     "限制項目": "02輸　入 09委託製造 40大陸生產",
     "申請商名稱": "620118F968  冠柏股份有限公司",
     "申請商地址": "新北市三重區自強路一段203號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN0757000  CHEMILENS (Jiaxing) CO., LTD.",
-        "製造廠廠址": "JIAXING EDZ. CHANG SHENG EAST ROAD. JIAXING CITY, ZHEJIANG PROVINCE, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0757000  CHEMILENS (Jiaxing) CO., LTD.",
+            "製造廠廠址": "JIAXING EDZ. CHANG SHENG EAST ROAD. JIAXING CITY, ZHEJIANG PROVINCE, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "620118F968  冠柏股份有限公司",
+            "製造廠廠址": "台北市中正區銅山街19號1樓",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "委託製造者"
+        },
+        {
+            "製造廠名稱": "MKR0203000  SAMYUNG TRADING CO., LTD",
+            "製造廠廠址": "374-5, SEOGYO-DONG, MAPO-GU, SEOUL 121-894, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": "被授權"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

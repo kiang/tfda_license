@@ -1,6 +1,6 @@
 {
     "code": "42000161",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000161",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000161",
     "time": "2020-02-26 03:21:59",
     "許可證字號": "衛署醫器陸輸字第000161號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 40大陸生產",
     "申請商名稱": "6236014561  龍昇開發科技股份有限公司",
     "申請商地址": "臺中市豐原區自強街122號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN0325000  BAILU HEALTH., LTD",
-        "製造廠廠址": "BEI AN INDUSTRIAL ZONE, HUANGJIANG, DONGGUAN, 523759, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0325000  BAILU HEALTH., LTD",
+            "製造廠廠址": "BEI AN INDUSTRIAL ZONE, HUANGJIANG, DONGGUAN, 523759, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "6131150024  凱健企業股份有限公司五股廠",
+            "製造廠廠址": "新北市五股區五工五路56號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

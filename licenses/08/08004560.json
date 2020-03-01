@@ -1,6 +1,6 @@
 {
     "code": "08004560",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08004560",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08004560",
     "time": "2020-02-25 22:40:45",
     "許可證字號": "衛署粧輸字第004560號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1902909100  麗琪國際貿易有限公司",
     "申請商地址": "台中巿中港路二段６０之８號８樓之６",
-    "主製造廠": {
-        "製造廠名稱": "CGB0027000  LINCO IMPEX LTD.",
-        "製造廠廠址": "LINCO HOUSE MANCHESTER ROAD CARRINGTON MANCHESTER M31 4BX ENGLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CGB0027000  LINCO IMPEX LTD.",
+            "製造廠廠址": "LINCO HOUSE MANCHESTER ROAD CARRINGTON MANCHESTER M31 4BX ENGLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

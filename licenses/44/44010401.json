@@ -1,6 +1,6 @@
 {
     "code": "44010401",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010401",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010401",
     "time": "2020-02-26 05:24:46",
     "許可證字號": "衛署醫器輸壹字第010401號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "6237051531  勝利美橡膠股份有限公司",
     "申請商地址": "彰化縣員林鎮新生里北和街53巷33號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MMY0117000  N.S. UNI-GLOVES SDN. BHD. (104032-V)",
-        "製造廠廠址": "LOT 3 &amp; 4\/ 4510, LORONG SENAWANG 4\/1, SENAWANG INDUSTRIAL ESTATE, 70450 SEREMBAN, MALAYSIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "MALAYSIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMY0117000  N.S. UNI-GLOVES SDN. BHD. (104032-V)",
+            "製造廠廠址": "LOT 3 &amp; 4\/ 4510, LORONG SENAWANG 4\/1, SENAWANG INDUSTRIAL ESTATE, 70450 SEREMBAN, MALAYSIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "MALAYSIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

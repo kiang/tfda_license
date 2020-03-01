@@ -1,6 +1,6 @@
 {
     "code": "56028883",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028883",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028883",
     "time": "2020-02-26 07:59:55",
     "許可證字號": "衛部醫器輸字第028883號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620111H577  台灣泰利福醫療產品有限公司",
     "申請商地址": "臺北市大安區敦化南路2段207號16樓",
-    "主製造廠": {
-        "製造廠名稱": "MCZ0069000  Contract Medical International, spol. S.r.o.",
-        "製造廠廠址": "Vazni 848 50003 Hradec Kralove, Czech Republic",
-        "製造廠公司地址": "",
-        "製造廠國別": "CZECH REPUBLIC",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCZ0069000  Contract Medical International, spol. S.r.o.",
+            "製造廠廠址": "Vazni 848 50003 Hradec Kralove, Czech Republic",
+            "製造廠公司地址": "",
+            "製造廠國別": "CZECH REPUBLIC",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MDE1357000  Contract Medical International GmgH",
+            "製造廠廠址": "Lauensteiner Strabe 37 D-01277 Dresden, Germany",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "44002872",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44002872",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44002872",
     "time": "2020-02-26 04:33:09",
     "許可證字號": "衛署醫器輸壹字第002872號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217057813  偉平貿易有限公司",
     "申請商地址": "台中市北區永興街８號２樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0096000  WIN-US TECHNOLOGY CO., LTD.",
-        "製造廠廠址": "THIRD FLOOR YOUNG-PUNG B\/D #225-1, POI-DONG, KANGNAM-GU, SEOUL, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0096000  WIN-US TECHNOLOGY CO., LTD.",
+            "製造廠廠址": "THIRD FLOOR YOUNG-PUNG B\/D #225-1, POI-DONG, KANGNAM-GU, SEOUL, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "96002689",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002689",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002689",
     "time": "2020-02-26 13:02:53",
     "許可證字號": "衛部醫器陸輸壹字第002689號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 40大陸生產",
     "申請商名稱": "6201118609  銳意科技股份有限公司",
     "申請商地址": "台北市內湖區區基湖路35巷11號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN9353000  ACUTE IDEAS (HUIZHOU) CO., LTD",
-        "製造廠廠址": "PU SHANG VILLAGE, LONG XI TOWN, BOLUO COUNTY, 516121 HUIZHOU, GUANGDONG, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN9353000  ACUTE IDEAS (HUIZHOU) CO., LTD",
+            "製造廠廠址": "PU SHANG VILLAGE, LONG XI TOWN, BOLUO COUNTY, 516121 HUIZHOU, GUANGDONG, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "6201118609  銳意科技股份有限公司",
+            "製造廠廠址": "台北市內湖區區基湖路35巷11號3樓",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "94014111",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014111",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014111",
     "time": "2020-02-26 11:22:37",
     "許可證字號": "衛部醫器輸壹字第014111號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102R989  普而瑞企業有限公司",
     "申請商地址": "台北市大安區通化街171巷19號",
-    "主製造廠": {
-        "製造廠名稱": "MHK0052000  KADEN INTERNATIONAL LTD.",
-        "製造廠廠址": "ROOM 612, 6TH FLOOR, LIPPO SUN PLAZA, NO. 28 CANTON RD., TSIMSHATSUI, KLN., HONG KONG",
-        "製造廠公司地址": "",
-        "製造廠國別": "HONG KONG",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MHK0052000  KADEN INTERNATIONAL LTD.",
+            "製造廠廠址": "ROOM 612, 6TH FLOOR, LIPPO SUN PLAZA, NO. 28 CANTON RD., TSIMSHATSUI, KLN., HONG KONG",
+            "製造廠公司地址": "",
+            "製造廠國別": "HONG KONG",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

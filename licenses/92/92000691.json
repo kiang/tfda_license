@@ -1,6 +1,6 @@
 {
     "code": "92000691",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000691",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000691",
     "time": "2020-02-26 10:12:54",
     "許可證字號": "衛部醫器陸輸字第000691號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6232055664  嘉鎂國際醫材股份有限公司",
     "申請商地址": "桃園市蘆竹區錦中里南崁路一段79號5樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN4337000  Berpu Medical Technology Co., Ltd.",
-        "製造廠廠址": "NO. 14 Xingji Road, Yongxing Street, Longwan District, 325000 Wenzhou, Zhejiang Province, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN4337000  Berpu Medical Technology Co., Ltd.",
+            "製造廠廠址": "NO. 14 Xingji Road, Yongxing Street, Longwan District, 325000 Wenzhou, Zhejiang Province, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

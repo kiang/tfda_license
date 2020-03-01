@@ -1,6 +1,6 @@
 {
     "code": "94014888",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014888",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014888",
     "time": "2020-02-26 11:33:46",
     "許可證字號": "衛部醫器輸壹字第014888號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1120301100  康百佳實業有限公司",
     "申請商地址": "台北市大同區南京西路７６號６樓之３",
-    "主製造廠": {
-        "製造廠名稱": "MLU0001000  STADA LUX S.&#225;.R.L",
-        "製造廠廠址": "5 RUE GUILLAUME KROLL, L-1882 LUXEMBOURG",
-        "製造廠公司地址": "",
-        "製造廠國別": "LUXEMBURG",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MLU0001000  STADA LUX S.&#225;.R.L",
+            "製造廠廠址": "5 RUE GUILLAUME KROLL, L-1882 LUXEMBOURG",
+            "製造廠公司地址": "",
+            "製造廠國別": "LUXEMBURG",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

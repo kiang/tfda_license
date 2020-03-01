@@ -1,6 +1,6 @@
 {
     "code": "06009236",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06009236",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06009236",
     "time": "2020-02-25 17:47:24",
     "許可證字號": "衛署醫器輸字第009236號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0713701100  利達視光學有限公司",
     "申請商地址": "台北巿南京東路三段３４６號３樓",
-    "主製造廠": {
-        "製造廠名稱": "MNL0029000  OTE PHARMA. SOL BV.",
-        "製造廠廠址": "VLUCHTOORD 38 5406 XP UDEN NETHERLANDS",
-        "製造廠公司地址": "",
-        "製造廠國別": "NETHERLANDS",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MNL0029000  OTE PHARMA. SOL BV.",
+            "製造廠廠址": "VLUCHTOORD 38 5406 XP UDEN NETHERLANDS",
+            "製造廠公司地址": "",
+            "製造廠國別": "NETHERLANDS",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

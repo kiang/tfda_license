@@ -1,6 +1,6 @@
 {
     "code": "94015358",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015358",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015358",
     "time": "2020-02-26 11:39:55",
     "許可證字號": "衛部醫器輸壹字第015358號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "623103B062  瑞翰有限公司",
     "申請商地址": "新北市永和區仁愛路306巷79號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MCA0866000  RESPONSE BIOMEDICAL CORPORATION",
-        "製造廠廠址": "1781-75TH AVENUE W., VANCOUVER, BRITISH COLUMBIA, V6P 6P2, CANADA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CANADA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCA0866000  RESPONSE BIOMEDICAL CORPORATION",
+            "製造廠廠址": "1781-75TH AVENUE W., VANCOUVER, BRITISH COLUMBIA, V6P 6P2, CANADA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CANADA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

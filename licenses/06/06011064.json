@@ -1,6 +1,6 @@
 {
     "code": "06011064",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06011064",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06011064",
     "time": "2020-02-25 18:11:45",
     "許可證字號": "衛署醫器輸字第011064號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620101I202  凱圖國際股份有限公司",
     "申請商地址": "台北市松山區南京東路三段275號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MTH0005100  KAWASUMI LABORATORIES (THAILAND) CO., LTD.(KORAT)",
-        "製造廠廠址": "48 MU 8, RATCHASIMA-CHOK CHAI ROAD, TAMBON THA ANG, AMPHOE CHOK CHAI, CHANGWAT NAKHON RATCHASIMA 30190, THAILAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "THAILAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MTH0005100  KAWASUMI LABORATORIES (THAILAND) CO., LTD.(KORAT)",
+            "製造廠廠址": "48 MU 8, RATCHASIMA-CHOK CHAI ROAD, TAMBON THA ANG, AMPHOE CHOK CHAI, CHANGWAT NAKHON RATCHASIMA 30190, THAILAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "THAILAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

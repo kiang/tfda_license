@@ -1,6 +1,6 @@
 {
     "code": "42000438",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000438",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000438",
     "time": "2020-02-26 03:25:58",
     "許可證字號": "衛署醫器陸輸字第000438號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 40大陸生產",
     "申請商名稱": "6231046876  香港商眼力健亞洲有限公司台灣分公司",
     "申請商地址": "台北市中山區民生東路3段2號10樓及11樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN0004000  AMO (HANGZHOU), CO., LTD.",
-        "製造廠廠址": "4TH AVENUE, HANGZHOU ECONOMIC &amp; TECHNOLOGICAL DEVELOPMENT ZONE, HANGZHOU, ZHEJIANG, 310018, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0004000  AMO (HANGZHOU), CO., LTD.",
+            "製造廠廠址": "4TH AVENUE, HANGZHOU ECONOMIC &amp; TECHNOLOGICAL DEVELOPMENT ZONE, HANGZHOU, ZHEJIANG, 310018, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MIE0089000  AMO IRELAND",
+            "製造廠廠址": "BLOCK B, LIFFEY VALLEY OFFICE CAMPUS, QUARRYVALE, CO. DUBLIN, IRELAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "IRELAND",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

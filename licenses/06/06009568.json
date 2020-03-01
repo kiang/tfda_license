@@ -1,6 +1,6 @@
 {
     "code": "06009568",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06009568",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06009568",
     "time": "2020-02-25 17:51:27",
     "許可證字號": "衛署醫器輸字第009568號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1439301100  美敦力醫療產品股份有限公司",
     "申請商地址": "台北市松山區敦化南路一段2號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MMX0042000  AVAILMED S.A. DE C.V. (MEXICO)",
-        "製造廠廠址": "Ave. Paseo Reforma No. 8950 Interior  (B1, C1, E1, E2, F2, G1(local A,B,C,G,H) La Mesa Tijuana, Baja California, Mexico 22116",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0042000  AVAILMED S.A. DE C.V. (MEXICO)",
+            "製造廠廠址": "Ave. Paseo Reforma No. 8950 Interior  (B1, C1, E1, E2, F2, G1(local A,B,C,G,H) La Mesa Tijuana, Baja California, Mexico 22116",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS3159000  MEDTRONIC, INC.",
+            "製造廠廠址": "710 MEDTRONIC PARKWAY NE MINNEAPOLIS, MN55432, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

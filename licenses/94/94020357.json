@@ -1,6 +1,6 @@
 {
     "code": "94020357",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020357",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020357",
     "time": "2020-02-26 12:43:15",
     "許可證字號": "衛部醫器輸壹字第020357號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102Y880  品口醫療器材行",
     "申請商地址": "台北市萬華區東園街73巷98號",
-    "主製造廠": {
-        "製造廠名稱": "MKR1080000  3D IMAGING &amp; SIMULATIONS CORP.",
-        "製造廠廠址": "BLDG 1. 48, YUSEONG-DAERO 1184 BEON-GIL, YUSEONG-GU, DAE JEON, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR1080000  3D IMAGING &amp; SIMULATIONS CORP.",
+            "製造廠廠址": "BLDG 1. 48, YUSEONG-DAERO 1184 BEON-GIL, YUSEONG-GU, DAE JEON, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

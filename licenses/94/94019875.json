@@ -1,6 +1,6 @@
 {
     "code": "94019875",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019875",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019875",
     "time": "2020-02-26 12:38:58",
     "許可證字號": "衛部醫器輸壹字第019875號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 36GMP",
     "申請商名稱": "6202092088  好市多股份有限公司",
     "申請商地址": "高雄市前鎮區中華五路656號",
-    "主製造廠": {
-        "製造廠名稱": "MTH0047200  Safeskin Medical &amp; Scientific (Thailand) Ltd.",
-        "製造廠廠址": "NO: 200 MOO 8, Kanchanavanich Rd., Tambol Prik, Amphur Sadao, Songkhla 90120, Thailand.",
-        "製造廠公司地址": "",
-        "製造廠國別": "THAILAND",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MTH0047200  Safeskin Medical &amp; Scientific (Thailand) Ltd.",
+            "製造廠廠址": "NO: 200 MOO 8, Kanchanavanich Rd., Tambol Prik, Amphur Sadao, Songkhla 90120, Thailand.",
+            "製造廠公司地址": "",
+            "製造廠國別": "THAILAND",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS5243000  O&amp;M Halyard, Inc.",
+            "製造廠廠址": "9120 Lockwood Blvd, Mechanicsville, Virginia 23116,USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

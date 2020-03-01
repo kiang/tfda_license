@@ -1,6 +1,6 @@
 {
     "code": "58020956",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58020956",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58020956",
     "time": "2020-02-26 08:56:01",
     "許可證字號": "衛部粧輸字第020956號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "7753232211  品婕國際貿易有限公司",
     "申請商地址": "高雄市鳳山區田中央路111號",
-    "主製造廠": {
-        "製造廠名稱": "CKR0068000  HANBUL COSMETICS CO., LTD.",
-        "製造廠廠址": "72-7, YONGSEONG-RI, SAMSEONG-MYEON, EUMSEONG-GUN, CHUNGCHEONGBUK-DO, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CKR0068000  HANBUL COSMETICS CO., LTD.",
+            "製造廠廠址": "72-7, YONGSEONG-RI, SAMSEONG-MYEON, EUMSEONG-GUN, CHUNGCHEONGBUK-DO, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

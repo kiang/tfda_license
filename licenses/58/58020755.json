@@ -1,6 +1,6 @@
 {
     "code": "58020755",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58020755",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58020755",
     "time": "2020-02-26 08:53:05",
     "許可證字號": "衛部粧輸字第020755號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "1323001100  豐納實業股份有限公司",
     "申請商地址": "台北市南京東路二段８號１０樓",
-    "主製造廠": {
-        "製造廠名稱": "CIT0123000  Gotha Cosmetics s.r.l.",
-        "製造廠廠址": "Lallio (BG) – Via Madonna 6, Italy",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CIT0123000  Gotha Cosmetics s.r.l.",
+            "製造廠廠址": "Lallio (BG) – Via Madonna 6, Italy",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

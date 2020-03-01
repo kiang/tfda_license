@@ -1,6 +1,6 @@
 {
     "code": "08001576",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08001576",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08001576",
     "time": "2020-02-25 22:07:33",
     "許可證字號": "衛署粧輸字第001576號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "1116601100  麥茵茲股份有限公司",
     "申請商地址": "台北巿長安東路一段６７號６樓",
-    "主製造廠": {
-        "製造廠名稱": "CJP0020000  SHARON CO., LTD.",
-        "製造廠廠址": "23-20, 40-CHOME HOSODA KATSUSIKA KU TOKYO 124 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0020000  SHARON CO., LTD.",
+            "製造廠廠址": "23-20, 40-CHOME HOSODA KATSUSIKA KU TOKYO 124 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

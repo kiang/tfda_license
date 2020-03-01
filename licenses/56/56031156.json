@@ -1,6 +1,6 @@
 {
     "code": "56031156",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031156",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031156",
     "time": "2020-02-26 08:20:37",
     "許可證字號": "衛部醫器輸字第031156號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620111A578  台灣諾保科股份有限公司",
     "申請商地址": "台北市內湖區瑞光路68號5樓",
-    "主製造廠": {
-        "製造廠名稱": "MCH0157000  CENDRES + METAUX SA",
-        "製造廠廠址": "RUE DE BOUJEAN 122, CH-2501 BIEL\/BIENNE, SWITZERLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCH0157000  CENDRES + METAUX SA",
+            "製造廠廠址": "RUE DE BOUJEAN 122, CH-2501 BIEL\/BIENNE, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MSE0134000  Nobel Biocare AB, BOX 5190",
+            "製造廠廠址": "SE-402 26 G&#214;TEBORG, Sweden",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWEDEN",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

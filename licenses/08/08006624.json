@@ -1,6 +1,6 @@
 {
     "code": "08006624",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08006624",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08006624",
     "time": "2020-02-25 23:02:49",
     "許可證字號": "衛署粧輸字第006624號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1438409100  碧芮國際事業股份有限公司",
     "申請商地址": "台中巿西屯區西平里至善路234巷10號1樓",
-    "主製造廠": {
-        "製造廠名稱": "CKR0012000  ETUDE CORPORATION",
-        "製造廠廠址": "#1585-10 SEOCHO-DONG SEOC-HOKU SEOUL KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CKR0012000  ETUDE CORPORATION",
+            "製造廠廠址": "#1585-10 SEOCHO-DONG SEOC-HOKU SEOUL KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

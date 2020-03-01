@@ -1,6 +1,6 @@
 {
     "code": "56032985",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56032985",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56032985",
     "time": "2020-02-26 08:32:46",
     "許可證字號": "衛部醫器輸字第032985號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6207300503  碩齊股份有限公司",
     "申請商地址": "高雄市左營區重仁路58號7樓",
-    "主製造廠": {
-        "製造廠名稱": "MIE0083000  Natus Manufacturing Limited",
-        "製造廠廠址": "IDA BUSINESS PARK, GORT, CO. GALWAY,IRELAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "IRELAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIE0083000  Natus Manufacturing Limited",
+            "製造廠廠址": "IDA BUSINESS PARK, GORT, CO. GALWAY,IRELAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "IRELAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

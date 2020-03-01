@@ -1,6 +1,6 @@
 {
     "code": "94017116",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017116",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017116",
     "time": "2020-02-26 12:04:21",
     "許可證字號": "衛部醫器輸壹字第017116號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6202024375  普達康股份有限公司",
     "申請商地址": "高雄市三民區義永路43巷1號",
-    "主製造廠": {
-        "製造廠名稱": "MIT0902000  ELMI GMBH",
-        "製造廠廠址": "HANDWERKERZONE 25, ZONA ARTIGIANALE, 39052 KALTERN-CALDARO (BZ) ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIT0902000  ELMI GMBH",
+            "製造廠廠址": "HANDWERKERZONE 25, ZONA ARTIGIANALE, 39052 KALTERN-CALDARO (BZ) ITALY",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

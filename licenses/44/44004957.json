@@ -1,6 +1,6 @@
 {
     "code": "44004957",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44004957",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44004957",
     "time": "2020-02-26 04:43:25",
     "許可證字號": "衛署醫器輸壹字第004957號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201151417  台碁牙科器材有限公司",
     "申請商地址": "新北市中和區員山路502號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0144000  SKY DENTAL CO., LTD",
-        "製造廠廠址": "111, ANYANG MEGAVALLEY, 799 KWANYANG-DONG, DONGAN-GU, ANYANG, KYUNGKIDO, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0144000  SKY DENTAL CO., LTD",
+            "製造廠廠址": "111, ANYANG MEGAVALLEY, 799 KWANYANG-DONG, DONGAN-GU, ANYANG, KYUNGKIDO, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

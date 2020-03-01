@@ -1,6 +1,6 @@
 {
     "code": "06013793",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06013793",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06013793",
     "time": "2020-02-25 18:42:20",
     "許可證字號": "衛署醫器輸字第013793號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6242080222  帝勳實業有限公司",
     "申請商地址": "高雄市仁武區文武村中正路445號",
-    "主製造廠": {
-        "製造廠名稱": "MMY0025000  KAREX INDUSTRIES SDN. BHD",
-        "製造廠廠址": "PTD. 7906&amp;7907, TAMAN PONTIAN JAYA, BT.34, JALAN JOHOR, 82000 PONTIAN, JOHOR DARUL TAKZIM, MALAYSIA.",
-        "製造廠公司地址": "",
-        "製造廠國別": "MALAYSIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMY0025000  KAREX INDUSTRIES SDN. BHD",
+            "製造廠廠址": "PTD. 7906&amp;7907, TAMAN PONTIAN JAYA, BT.34, JALAN JOHOR, 82000 PONTIAN, JOHOR DARUL TAKZIM, MALAYSIA.",
+            "製造廠公司地址": "",
+            "製造廠國別": "MALAYSIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

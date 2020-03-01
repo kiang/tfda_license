@@ -1,6 +1,6 @@
 {
     "code": "56026020",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026020",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026020",
     "time": "2020-02-26 07:30:20",
     "許可證字號": "衛部醫器輸字第026020號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620117K270  美鑫光學有限公司",
     "申請商地址": "臺北市信義區松隆路167號10樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0455100  G&amp;G CONTACT LENS CO.",
-        "製造廠廠址": "401, 402, BEOMMUL APT TYPE FACTORY 1287-1, BEOMMUL-DONG, SUSEONG-GU, DAEGU, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0455100  G&amp;G CONTACT LENS CO.",
+            "製造廠廠址": "401, 402, BEOMMUL APT TYPE FACTORY 1287-1, BEOMMUL-DONG, SUSEONG-GU, DAEGU, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

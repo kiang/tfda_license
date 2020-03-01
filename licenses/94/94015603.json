@@ -1,6 +1,6 @@
 {
     "code": "94015603",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015603",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015603",
     "time": "2020-02-26 11:43:20",
     "許可證字號": "衛部醫器輸壹字第015603號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201206051  毅欣達企業有限公司",
     "申請商地址": "臺北市文山區景興路97巷7號",
-    "主製造廠": {
-        "製造廠名稱": "MBE0011100  CORIS BIOCONCEPT",
-        "製造廠廠址": "SCIENCE PARK-CREALYS, RUE JEAN SONET 4A-5032 GEMBLOUX, BELGIUM",
-        "製造廠公司地址": "",
-        "製造廠國別": "BELGIUM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MBE0011100  CORIS BIOCONCEPT",
+            "製造廠廠址": "SCIENCE PARK-CREALYS, RUE JEAN SONET 4A-5032 GEMBLOUX, BELGIUM",
+            "製造廠公司地址": "",
+            "製造廠國別": "BELGIUM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "58023464",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58023464",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58023464",
     "time": "2020-02-26 09:34:10",
     "許可證字號": "衛部粧輸字第023464號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "0835901100  長杏股份有限公司",
     "申請商地址": "台北市松山區慶城街54號1樓",
-    "主製造廠": {
-        "製造廠名稱": "CIT0144000  General Topics s.r.l.",
-        "製造廠廠址": "Localit&#224; Santigaro,32 25010 San Felice del Benaco (BS) Italy",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CIT0144000  General Topics s.r.l.",
+            "製造廠廠址": "Localit&#224; Santigaro,32 25010 San Felice del Benaco (BS) Italy",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

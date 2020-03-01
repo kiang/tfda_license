@@ -1,6 +1,6 @@
 {
     "code": "44002664",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44002664",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44002664",
     "time": "2020-02-26 04:32:15",
     "許可證字號": "衛署醫器輸壹字第002664號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0307401100  三綱企業股份有限公司",
     "申請商地址": "台北市中山北路二段２６巷１０號",
-    "主製造廠": {
-        "製造廠名稱": "MDE0336000  CODAN MEDIZINISCHE GERATE GMBH &amp; CO. KG",
-        "製造廠廠址": "GRUNE STRASSE 11, D-23738 LENSAHN, HOLSTEIN, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0336000  CODAN MEDIZINISCHE GERATE GMBH &amp; CO. KG",
+            "製造廠廠址": "GRUNE STRASSE 11, D-23738 LENSAHN, HOLSTEIN, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

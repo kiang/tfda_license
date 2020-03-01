@@ -1,6 +1,6 @@
 {
     "code": "92000652",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000652",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000652",
     "time": "2020-02-26 10:12:28",
     "許可證字號": "衛部醫器陸輸字第000652號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "621201B031  高登智慧科技股份有限公司",
     "申請商地址": "新竹市東區園區二路47號206室",
-    "主製造廠": {
-        "製造廠名稱": "MCN1255000  TRULY INSTRUMENT LTD.",
-        "製造廠廠址": "TRULY INDUSTRIAL AREA, SHAN WEI CITY, 516600 GUANG DONG PROVINCE, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1255000  TRULY INSTRUMENT LTD.",
+            "製造廠廠址": "TRULY INDUSTRIAL AREA, SHAN WEI CITY, 516600 GUANG DONG PROVINCE, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

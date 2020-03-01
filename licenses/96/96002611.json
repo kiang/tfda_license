@@ -1,6 +1,6 @@
 {
     "code": "96002611",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002611",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002611",
     "time": "2020-02-26 13:01:56",
     "許可證字號": "衛部醫器陸輸壹字第002611號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6203290588  佳昇醫療器材有限公司",
     "申請商地址": "臺中市北屯區昌平路一段156號9樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN4104000  FOSHAN CICADA TECHNOLOGY DEVELOPMENT CO., LTD.",
-        "製造廠廠址": "NO. 19, HUANZHEN EAST ROAD, YONGPING, YANBU, DALI TOWN, NANHAI DISTRICT, FOSHAN CITY, GUANGDONG P.R.CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN4104000  FOSHAN CICADA TECHNOLOGY DEVELOPMENT CO., LTD.",
+            "製造廠廠址": "NO. 19, HUANZHEN EAST ROAD, YONGPING, YANBU, DALI TOWN, NANHAI DISTRICT, FOSHAN CITY, GUANGDONG P.R.CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

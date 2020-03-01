@@ -1,6 +1,6 @@
 {
     "code": "06020463",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06020463",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06020463",
     "time": "2020-02-25 19:58:11",
     "許可證字號": "衛署醫器輸字第020463號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0622701100  安盛實業有限公司",
     "申請商地址": "新北市五股區中興路1段8號6樓之3",
-    "主製造廠": {
-        "製造廠名稱": "MTH0091000  PETERS SURGICAL INTERNATIONAL Co.,Ltd.",
-        "製造廠廠址": "227 Ladkrabang Industrial EPZ Zone 3, Chalongkrung Road, Lamplatew sub-district, Ladkrabang District Bangkok 10520, THAILAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "THAILAND",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MTH0091000  PETERS SURGICAL INTERNATIONAL Co.,Ltd.",
+            "製造廠廠址": "227 Ladkrabang Industrial EPZ Zone 3, Chalongkrung Road, Lamplatew sub-district, Ladkrabang District Bangkok 10520, THAILAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "THAILAND",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MFR0867000  PETERS SURGICAL",
+            "製造廠廠址": "42, RUE BENOIT FRACHON 93013 BOBIGNY CEDEX-FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

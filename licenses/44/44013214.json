@@ -1,6 +1,6 @@
 {
     "code": "44013214",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44013214",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44013214",
     "time": "2020-02-26 05:52:24",
     "許可證字號": "衛署醫器輸壹字第013214號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6201118547  台灣聖猷達醫療用品有限公司",
     "申請商地址": "台北市內湖區瑞光路407號5樓",
-    "主製造廠": {
-        "製造廠名稱": "MIL0813000  MEDIGUIDE LTD.",
-        "製造廠廠址": "ADVANCED TECHNOLOGY CENTER, BUILDING 23, HAIFA 31053, ISRAEL",
-        "製造廠公司地址": "",
-        "製造廠國別": "ISRAEL",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIL0813000  MEDIGUIDE LTD.",
+            "製造廠廠址": "ADVANCED TECHNOLOGY CENTER, BUILDING 23, HAIFA 31053, ISRAEL",
+            "製造廠公司地址": "",
+            "製造廠國別": "ISRAEL",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS2750100  ST. JUDE MEDICAL",
+            "製造廠廠址": "ONE ST. JUDE MEDICAL DRIVE, ST. PAUL, MINNESOTA 55117 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

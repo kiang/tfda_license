@@ -1,6 +1,6 @@
 {
     "code": "06022065",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022065",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022065",
     "time": "2020-02-25 20:16:40",
     "許可證字號": "衛署醫器輸字第022065號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "1600301100  興東藥品器材有限公司",
     "申請商地址": "台北市南港區忠孝東路六段180號7樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE0184000  MEDOS MEDIZINTECHNIK AG",
-        "製造廠廠址": "Obere Steinfurt 8-10, 52222 Stolberg, Germany",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0184000  MEDOS MEDIZINTECHNIK AG",
+            "製造廠廠址": "Obere Steinfurt 8-10, 52222 Stolberg, Germany",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MDE1365000  Xenios AG",
+            "製造廠廠址": "Im Zukunftspark 1, 74076 Heilbronn, Germany",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

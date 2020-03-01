@@ -1,6 +1,6 @@
 {
     "code": "94017356",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017356",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017356",
     "time": "2020-02-26 12:07:09",
     "許可證字號": "衛部醫器輸壹字第017356號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620111C643  喜悅藥品股份有限公司",
     "申請商地址": "臺北市內湖區行愛路77巷63號7樓",
-    "主製造廠": {
-        "製造廠名稱": "MGB0488000  Crawford Manufacturing Ltd.",
-        "製造廠廠址": "Unit B, Tarvin Sands, Chester, Cheshire, CH3 8JF, United Kingdom",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0488000  Crawford Manufacturing Ltd.",
+            "製造廠廠址": "Unit B, Tarvin Sands, Chester, Cheshire, CH3 8JF, United Kingdom",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MGB0487000  SkinGen UK Ltd.",
+            "製造廠廠址": "Dane Mill Business Centre, Broadhurst Lane, Congleton, Cheshire, CW12 1LA, United Kingdom",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

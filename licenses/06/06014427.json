@@ -1,6 +1,6 @@
 {
     "code": "06014427",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014427",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014427",
     "time": "2020-02-25 18:49:37",
     "許可證字號": "衛署醫器輸字第014427號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217068085  博威仕股份有限公司",
     "申請商地址": "臺中市西屯區何德里大信街６０號７樓之２",
-    "主製造廠": {
-        "製造廠名稱": "MUS2102000  INVIVO CORPORATION",
-        "製造廠廠址": "12601 RESEARCH PARKWAY, ORLANDO, FL 32826, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2102000  INVIVO CORPORATION",
+            "製造廠廠址": "12601 RESEARCH PARKWAY, ORLANDO, FL 32826, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

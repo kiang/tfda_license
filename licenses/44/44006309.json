@@ -1,6 +1,6 @@
 {
     "code": "44006309",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006309",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006309",
     "time": "2020-02-26 04:50:25",
     "許可證字號": "衛署醫器輸壹字第006309號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0932301100  美商亞培股份有限公司台灣分公司",
     "申請商地址": "台北市中山區民生東路三段49號5樓、6樓及51號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS1167000  BIONOSTICS, INC",
-        "製造廠廠址": "7 JACKSON RD., DEVENS, MA 01434 U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS1167000  BIONOSTICS, INC",
+            "製造廠廠址": "7 JACKSON RD., DEVENS, MA 01434 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS1772000  ABBOTT DIABETES CARE, INC.",
+            "製造廠廠址": "1360 SOUTH LOOP ROAD, ALAMEDA, CA 94502, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

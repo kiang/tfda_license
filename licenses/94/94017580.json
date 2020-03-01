@@ -1,6 +1,6 @@
 {
     "code": "94017580",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017580",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017580",
     "time": "2020-02-26 12:09:48",
     "許可證字號": "衛部醫器輸壹字第017580號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6240051296  彰誠發企業股份有限公司",
     "申請商地址": "嘉義縣溪口鄉本厝村本廳1號",
-    "主製造廠": {
-        "製造廠名稱": "MVN0060000  A&amp;I VIET NAM MEDICAL EQUIPMENT CO., LTD",
-        "製造廠廠址": "LOT 11-3, MY XUAN A2 ZONES, TAN THANH DIS, BRVT PROVINCE, VIETNAM",
-        "製造廠公司地址": "",
-        "製造廠國別": "VIET NAM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MVN0060000  A&amp;I VIET NAM MEDICAL EQUIPMENT CO., LTD",
+            "製造廠廠址": "LOT 11-3, MY XUAN A2 ZONES, TAN THANH DIS, BRVT PROVINCE, VIETNAM",
+            "製造廠公司地址": "",
+            "製造廠國別": "VIET NAM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

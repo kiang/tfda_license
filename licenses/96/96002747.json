@@ -1,6 +1,6 @@
 {
     "code": "96002747",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002747",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002747",
     "time": "2020-02-26 13:03:35",
     "許可證字號": "衛部醫器陸輸壹字第002747號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6237017968  長欣生技股份有限公司",
     "申請商地址": "彰化縣彰化市南瑤里中山路二段2號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN4187000  JINING DEKA MEDICAL DEVICE CO., LTD",
-        "製造廠廠址": "NO.20 SHOP TOWN PARK INDUSTRIAL RENCHENGQU JINING CITY SHANDONG, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN4187000  JINING DEKA MEDICAL DEVICE CO., LTD",
+            "製造廠廠址": "NO.20 SHOP TOWN PARK INDUSTRIAL RENCHENGQU JINING CITY SHANDONG, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

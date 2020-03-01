@@ -1,6 +1,6 @@
 {
     "code": "58024735",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58024735",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58024735",
     "time": "2020-02-26 09:44:12",
     "許可證字號": "衛部粧輸字第024735號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6689839655  翔順國際有限公司",
     "申請商地址": "臺南市東區東門路一段145號11樓",
-    "主製造廠": {
-        "製造廠名稱": "CUS0333000  Erno Laszlo",
-        "製造廠廠址": "129 West 29th Street, New York, New York 10001 in the United States of America",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CUS0333000  Erno Laszlo",
+            "製造廠廠址": "129 West 29th Street, New York, New York 10001 in the United States of America",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

@@ -1,6 +1,6 @@
 {
     "code": "44009599",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009599",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009599",
     "time": "2020-02-26 05:16:49",
     "許可證字號": "衛署醫器輸壹字第009599號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623101H142  鎂雅有限公司",
     "申請商地址": "新北市板橋區懷德街191巷26弄19號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS2381000  SHEFFIELD PHARMACEUTICALS",
-        "製造廠廠址": "170 BROAD ST. NEW LONDON, CT. 06320 U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2381000  SHEFFIELD PHARMACEUTICALS",
+            "製造廠廠址": "170 BROAD ST. NEW LONDON, CT. 06320 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

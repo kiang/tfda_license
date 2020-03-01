@@ -1,6 +1,6 @@
 {
     "code": "94016265",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016265",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016265",
     "time": "2020-02-26 11:52:57",
     "許可證字號": "衛部醫器輸壹字第016265號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "6401103380  貿星國際股份有限公司",
     "申請商地址": "臺北市中山區中山北路二段89號5樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MMY0083100  LATEXX MANUFACTURING SDN. BHD",
-        "製造廠廠址": "LOT 10558, JALAN PERUSAHAAN 3, KAMUNTING INDUSTRIAL ESTATE, 34600 KAMUNTING, PERAK, MALAYSIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "MALAYSIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMY0083100  LATEXX MANUFACTURING SDN. BHD",
+            "製造廠廠址": "LOT 10558, JALAN PERUSAHAAN 3, KAMUNTING INDUSTRIAL ESTATE, 34600 KAMUNTING, PERAK, MALAYSIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "MALAYSIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

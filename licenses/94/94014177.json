@@ -1,6 +1,6 @@
 {
     "code": "94014177",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014177",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014177",
     "time": "2020-02-26 11:23:34",
     "許可證字號": "衛部醫器輸壹字第014177號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0713318100  宏國醫療儀器有限公司",
     "申請商地址": "嘉義縣六腳鄉蘇厝村97號",
-    "主製造廠": {
-        "製造廠名稱": "MUS2507100  KEYSTONE DENTAL, INC.",
-        "製造廠廠址": "144 MIDDLESEX TURNPIKE BURLINGTON, MASSACHUSETTS 01803 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2507100  KEYSTONE DENTAL, INC.",
+            "製造廠廠址": "144 MIDDLESEX TURNPIKE BURLINGTON, MASSACHUSETTS 01803 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

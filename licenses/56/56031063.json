@@ -1,6 +1,6 @@
 {
     "code": "56031063",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031063",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031063",
     "time": "2020-02-26 08:19:55",
     "許可證字號": "衛部醫器輸字第031063號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1439401100  台灣捷邁醫療器材股份有限公司",
     "申請商地址": "台北市松山區光復北路11巷35號7樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS4036100  BIOMET ORTHOPEDICS",
-        "製造廠廠址": "56 EAST BELL DRIVE,  P.O. BOX 587, WARSAW, INDIANA 46581 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS4036100  BIOMET ORTHOPEDICS",
+            "製造廠廠址": "56 EAST BELL DRIVE,  P.O. BOX 587, WARSAW, INDIANA 46581 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

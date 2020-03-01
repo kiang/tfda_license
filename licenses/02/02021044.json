@@ -1,11 +1,12 @@
 {
     "code": "02021044",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021044",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021044",
     "time": "2020-02-25 12:36:36",
     "許可證字號": "衛署藥輸字第021044號",
     "註銷狀態": "已註銷",
     "註銷日期": "98\/12\/31",
     "註銷理由": "屆期未申請展延",
+    "製造許可登錄編號": "",
     "有效日期": "97\/10\/06",
     "發證日期": "84\/09\/12",
     "許可證種類": "製　劑",
@@ -20,19 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17指示用藥",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "0811401100  武昌貿易有限公司",
-        "申請商地址": "台北巿南京西路１３號８樓",
-        "主製造廠": ""
-    },
-    "CCC號列": "30045000009 其他醫藥製劑，含有維他命或第２９３６節之其他產品Other medicaments, containing vitamins or other products of heading 29.36",
-    "藥理治療分類": "",
+    "監視期限": "",
+    "主成分略述": "INTRINSIC FACTOR, ETHYL LINOLEATE, HEMATOPORPHYRIN, LYSINE L- HCL H2O, CHOLINE HYDROGEN TARTRATE, PROCAINE HCL, PANTHENOL D- (EQ TO D-PANTHENOL), VITAMIN A, BIOTIN, NIACINAMIDE (NICOTINAMIDE), VITAMIN B1 (NITRATE), RIBOFLAVIN (VIT B2), CYANOCOBALAMIN (VIT B12), OROTIC ACID (VIT B13), FOLIC ACID, INOSITOL (MESO-INOSITOL), ASCORBIC ACID (VIT C), CHOLECALCIFEROL ( EQ TO VIT D3) ( EQ TO VITAMIN D3), TOCOPHEROL ACETATE ALPHA (EQ TO VIT E ACETATE) (EQ TO VITAMIN E ACETATE), RUTIN, ADENOSINE, LECITHIN SOYBEAN",
+    "限制項目": "02輸　入",
+    "申請商名稱": "0811401100  武昌貿易有限公司",
+    "申請商地址": "台北巿南京西路１３號８樓",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FDE0157000  R.P. SCHERER GMBH &amp; CO. KG",
+            "製造廠廠址": "GAMMELSBACHER STRABE 2 69412 EBERBACH \/ BADEN, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "次製造廠": [
         {
             "製造廠名稱": "FDE0054000  DR. GERHARD MANN CHEM-PHARM FABRIK GMBH",
@@ -42,6 +48,8 @@
             "製程": "包裝與持有許可證"
         }
     ],
+    "CCC號列": "30045000009 其他醫藥製劑，含有維他命或第２９３６節之其他產品Other medicaments, containing vitamins or other products of heading 29.36",
+    "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",

@@ -1,11 +1,12 @@
 {
     "code": "02020885",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02020885",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02020885",
     "time": "2020-02-25 12:34:05",
     "許可證字號": "衛署藥輸字第020885號",
     "註銷狀態": "已註銷",
     "註銷日期": "93\/10\/26",
     "註銷理由": "自請註銷原廠停製本藥",
+    "製造許可登錄編號": "",
     "有效日期": "93\/10\/16",
     "發證日期": "84\/05\/04",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "6201179728  臺灣費森尤斯卡比股份有限公司",
-        "申請商地址": "台北巿基隆路二段51號4樓之6",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "SODIUM ACETATE TRIHYDRATE (EQ TO SODIUM ACETATE 3H2O ), POTASSIUM CHLORIDE, SODIUM CHLORIDE, XYLITOL, L-ALANINE, ARGININE, L-HISTIDINE, L-ISOLEUCINE, L-LEUCINE, L-METHIONINE, L-PHENYLALANINE, L-PROLINE, L-THREONINE, L-TRYPTOPHAN, L-VALINE, GLYCINE (EQ TO AMINOACETIC ACID)(EQ TO GLYCOCOLL), LYSINE L- (HCL), POTASSIUM HYDROXIDE, SORBITOL, GLYCEROL-1-DIHYDROGEN PHOSPHATE DISODIUM 5H2O, GLYCEROL-2-DIHYDROGEN PHOSPHATE DISODIUM 5H2O",
+    "限制項目": "02輸　入",
+    "申請商名稱": "6201179728  臺灣費森尤斯卡比股份有限公司",
+    "申請商地址": "台北巿基隆路二段51號4樓之6",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FAT0014100  FRESENIUS KABI AUSTRIA GMBH",
+            "製造廠廠址": "HAFNERSTRABE 36 A-8055 GRAZ AUSTRIAD-61346 BAD HOMBURG V.D.H. GERMANY",
+            "製造廠公司地址": "D-61346 BAD HOMBURG V.D.H. GERMANY",
+            "製造廠國別": "AUSTRIA",
+            "製程": ""
+        }
+    ],
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [

@@ -1,6 +1,6 @@
 {
     "code": "06025032",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06025032",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06025032",
     "time": "2020-02-25 20:48:04",
     "許可證字號": "衛署醫器輸字第025032號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "0926401100  新加坡商必帝股份有限公司台灣分公司",
     "申請商地址": "台北市信義區忠孝東路四段560號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MMX0081000  Sistemas Medicos, Alaris S.A. de C.V.",
-        "製造廠廠址": "Blvd. Insurgentes No 20351, Parque Industrial, El Florido seccion Vistas 1, Tijuana, Baja California, CP 22244, Mexico",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0081000  Sistemas Medicos, Alaris S.A. de C.V.",
+            "製造廠廠址": "Blvd. Insurgentes No 20351, Parque Industrial, El Florido seccion Vistas 1, Tijuana, Baja California, CP 22244, Mexico",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MCH0824000  CareFusion Switzerland 317 Sarl, Also trading as Cardinal Health",
+            "製造廠廠址": "A-One Business Centre, Zone d’activites Vers-la-Piece No 10, CH-1180 Rolle, Switzerland",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

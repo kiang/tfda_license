@@ -1,6 +1,6 @@
 {
     "code": "06018665",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06018665",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06018665",
     "time": "2020-02-25 19:38:09",
     "許可證字號": "衛署醫器輸字第018665號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620101D387  晶一生命科學股份有限公司",
     "申請商地址": "台北市松山區南京東路４段１０３號３樓之３",
-    "主製造廠": {
-        "製造廠名稱": "MDE0847000  DRG INSTRUMENTS GMBH",
-        "製造廠廠址": "FRAUENBERGSTR. 18 35039 MARBURG",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0847000  DRG INSTRUMENTS GMBH",
+            "製造廠廠址": "FRAUENBERGSTR. 18 35039 MARBURG",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

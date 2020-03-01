@@ -1,6 +1,6 @@
 {
     "code": "56027295",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027295",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027295",
     "time": "2020-02-26 07:44:12",
     "許可證字號": "衛部醫器輸字第027295號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201120663  岑祥股份有限公司",
     "申請商地址": "臺北市南港區南港路二段99之15號",
-    "主製造廠": {
-        "製造廠名稱": "MSE0050100  Vitrolife Sweden AB",
-        "製造廠廠址": "Gustaf Werners gata 2 SE-421 32 V&#228;stra Fr&#246;lunda, Sweden",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWEDEN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MSE0050100  Vitrolife Sweden AB",
+            "製造廠廠址": "Gustaf Werners gata 2 SE-421 32 V&#228;stra Fr&#246;lunda, Sweden",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWEDEN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "42000364",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000364",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000364",
     "time": "2020-02-26 03:25:12",
     "許可證字號": "衛署醫器陸輸字第000364號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 40大陸生產",
     "申請商名稱": "620115B793  滿灌店醫療儀器股份有限公司",
     "申請商地址": "台北市士林區重慶北路四段81號2樓之7",
-    "主製造廠": {
-        "製造廠名稱": "MCN0855000  ACUMEN TECHNOLOGIES (MEIZHOU) CO., LTD.",
-        "製造廠廠址": "(GUANG ZHOU (MEIZHOU) TRANSFER INDUSTRY EAST, SHE JIANG TOWN, MEI COUNTY, MEI ZHOU, CN-44 CHINA 514779",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0855000  ACUMEN TECHNOLOGIES (MEIZHOU) CO., LTD.",
+            "製造廠廠址": "(GUANG ZHOU (MEIZHOU) TRANSFER INDUSTRY EAST, SHE JIANG TOWN, MEI COUNTY, MEI ZHOU, CN-44 CHINA 514779",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS3158000  ORTHOCOR MEDICAL",
+            "製造廠廠址": "1000 WESTGATE DRIVE, SUITE 243, SAINT PAUL, MN 55114, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

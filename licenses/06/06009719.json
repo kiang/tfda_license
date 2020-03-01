@@ -1,6 +1,6 @@
 {
     "code": "06009719",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06009719",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06009719",
     "time": "2020-02-25 17:54:02",
     "許可證字號": "衛署醫器輸字第009719號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 16限醫學中心使用（限準醫學中心以上使用）",
     "申請商名稱": "1322401100  楷韻貿易有限公司",
     "申請商地址": "台北市士林區重慶北路四段４９巷１０弄５號１樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS0780000  ADVANCED BIONICS CORPORATION",
-        "製造廠廠址": "12740 SAN FERNANDO RD SYLMAR CA 91342 U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0780000  ADVANCED BIONICS CORPORATION",
+            "製造廠廠址": "12740 SAN FERNANDO RD SYLMAR CA 91342 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

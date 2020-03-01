@@ -1,6 +1,6 @@
 {
     "code": "08009846",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08009846",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08009846",
     "time": "2020-02-25 23:37:41",
     "許可證字號": "衛署粧輸字第009846號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6607150021  泛亞國際通商股份有限公司",
     "申請商地址": "新北市板橋區永豐街49巷12號1樓",
-    "主製造廠": {
-        "製造廠名稱": "CJP0162000  VENUS KASEI CO., LTD.",
-        "製造廠廠址": "12-20 NISHIAWJI 4-CHOME, HIGASHIYO DOGAWA-KU OSAKA JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0162000  VENUS KASEI CO., LTD.",
+            "製造廠廠址": "12-20 NISHIAWJI 4-CHOME, HIGASHIYO DOGAWA-KU OSAKA JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

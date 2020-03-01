@@ -1,6 +1,6 @@
 {
     "code": "56032656",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56032656",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56032656",
     "time": "2020-02-26 08:30:06",
     "許可證字號": "衛部醫器輸字第032656號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6202037416  展宙有限公司",
     "申請商地址": "高雄市左營區博愛二路366號18樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MFR0364000  SEFAM",
-        "製造廠廠址": "10 all&#233;e Pelletier Doisy, 54600 Villers-l&#232;s-Nancy, France",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR0364000  SEFAM",
+            "製造廠廠址": "10 all&#233;e Pelletier Doisy, 54600 Villers-l&#232;s-Nancy, France",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MFR0375000  SEFAM",
+            "製造廠廠址": "144, avenue Charles de Gaulle, 92200 Neuilly sur Seine, France",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

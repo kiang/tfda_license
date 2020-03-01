@@ -1,6 +1,6 @@
 {
     "code": "94016272",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016272",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016272",
     "time": "2020-02-26 11:53:03",
     "許可證字號": "衛部醫器輸壹字第016272號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1700802200  聯和醫療器材股份有限公司",
     "申請商地址": "新北市瑞芳區頂坪路３４號",
-    "主製造廠": {
-        "製造廠名稱": "MDE1302000  Dr. J. HANSLER GMBH",
-        "製造廠廠址": "NORDING 8, 76473 IFFEZHEIM, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE1302000  Dr. J. HANSLER GMBH",
+            "製造廠廠址": "NORDING 8, 76473 IFFEZHEIM, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "44008714",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008714",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008714",
     "time": "2020-02-26 05:08:05",
     "許可證字號": "衛署醫器輸壹字第008714號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620110S309  稚庭企業股份有限公司",
     "申請商地址": "台北市中大安區敦化南路二段180號17樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MDE0470000  LISA LASER PRODUCTS OHG",
-        "製造廠廠址": "MAX-PLANCK-STR. 1, 37191 KATLENBURG-LINDAU, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0470000  LISA LASER PRODUCTS OHG",
+            "製造廠廠址": "MAX-PLANCK-STR. 1, 37191 KATLENBURG-LINDAU, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

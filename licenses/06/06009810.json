@@ -1,6 +1,6 @@
 {
     "code": "06009810",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06009810",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06009810",
     "time": "2020-02-25 17:55:28",
     "許可證字號": "衛署醫器輸字第009810號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231043428  百祥國際有限公司",
     "申請商地址": "台北縣中和巿景平路71之6號14樓之6",
-    "主製造廠": {
-        "製造廠名稱": "MVN0004000  MEDICAL INSTRUMENT",
-        "製造廠廠址": "FACTORY NO.2 SONGCONG SMALL TOWN THAINGUYEN, VIETNAM",
-        "製造廠公司地址": "",
-        "製造廠國別": "VIET NAM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MVN0004000  MEDICAL INSTRUMENT",
+            "製造廠廠址": "FACTORY NO.2 SONGCONG SMALL TOWN THAINGUYEN, VIETNAM",
+            "製造廠公司地址": "",
+            "製造廠國別": "VIET NAM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

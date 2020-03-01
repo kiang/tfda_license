@@ -1,6 +1,6 @@
 {
     "code": "44009177",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009177",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009177",
     "time": "2020-02-26 05:12:33",
     "許可證字號": "衛署醫器輸壹字第009177號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1600301100  興東藥品器材有限公司",
     "申請商地址": "台北市南港區忠孝東路六段180號7樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS3108000  INTERNATIONAL TECHNIDYNE CORPORATION",
-        "製造廠廠址": "8 OLSEN AVENUE, EDISON, NJ08820, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS3108000  INTERNATIONAL TECHNIDYNE CORPORATION",
+            "製造廠廠址": "8 OLSEN AVENUE, EDISON, NJ08820, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

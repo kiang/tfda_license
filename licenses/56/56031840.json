@@ -1,6 +1,6 @@
 {
     "code": "56031840",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031840",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031840",
     "time": "2020-02-26 08:25:46",
     "許可證字號": "衛部醫器輸字第031840號",
     "註銷狀態": "",
@@ -35,13 +35,31 @@
     "限制項目": "02輸　入 1K安全監視\r\n                            \r\n                                (本產品依藥事法第45條規定列入安全監視，請使用單位配合執行監視項目並提供所得資料予許可證持有商)",
     "申請商名稱": "623105A094  科舉顧問股份有限公司",
     "申請商地址": "新北市新店區安祥路147巷53號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MSG0049000  BIOSENSORS INTERVENTIONAL TECHNOLOGIES PTE LTD.",
-        "製造廠廠址": "36 JALAN TUKANG, SINGAPORE 619266",
-        "製造廠公司地址": "",
-        "製造廠國別": "SINGAPORE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MSG0049000  BIOSENSORS INTERVENTIONAL TECHNOLOGIES PTE LTD.",
+            "製造廠廠址": "36 JALAN TUKANG, SINGAPORE 619266",
+            "製造廠公司地址": "",
+            "製造廠國別": "SINGAPORE",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "FCN0460000  FUJIAN KERUI PHARMACEUTICAL CO., LTD.",
+            "製造廠廠址": "YUANZAI INDUSTRIAL AREA, HAIKOU, FUQING, FUJIANG PROVINCE 350313 CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "原料藥製造廠"
+        },
+        {
+            "製造廠名稱": "MCH0185000  BIOSENSORS EUROPE SA",
+            "製造廠廠址": "RUR DE LAUSANNE 29, CH-1110 MORGES, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

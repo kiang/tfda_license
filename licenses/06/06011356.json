@@ -1,6 +1,6 @@
 {
     "code": "06011356",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06011356",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06011356",
     "time": "2020-02-25 18:15:03",
     "許可證字號": "衛署醫器輸字第011356號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1430201100  銓鼎有限公司",
     "申請商地址": "台北市信義區基隆路一段432號10樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MCA0031000  TRUDELL MEDICAL INTERNATIONAL",
-        "製造廠廠址": "725 THIRD STREET, LONDON, ONTARIO, CANADA N5V 5G4",
-        "製造廠公司地址": "",
-        "製造廠國別": "CANADA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCA0031000  TRUDELL MEDICAL INTERNATIONAL",
+            "製造廠廠址": "725 THIRD STREET, LONDON, ONTARIO, CANADA N5V 5G4",
+            "製造廠公司地址": "",
+            "製造廠國別": "CANADA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

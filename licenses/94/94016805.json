@@ -1,6 +1,6 @@
 {
     "code": "94016805",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016805",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016805",
     "time": "2020-02-26 12:00:42",
     "許可證字號": "衛部醫器輸壹字第016805號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623102B066  荷茂生醫科技股份有限公司",
     "申請商地址": "新北市三重區光復路一段７０號６樓",
-    "主製造廠": {
-        "製造廠名稱": "MTH0028100  SIAMDENT CO., LTD.",
-        "製造廠廠址": "444 OLYMPIA THAI TOWER, 3RD FLOOR, RATCHANDAPISEK ROAD, SAMSENNOK, HUAY KWANG, BANGKOK 10310 THAILAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "THAILAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MTH0028100  SIAMDENT CO., LTD.",
+            "製造廠廠址": "444 OLYMPIA THAI TOWER, 3RD FLOOR, RATCHANDAPISEK ROAD, SAMSENNOK, HUAY KWANG, BANGKOK 10310 THAILAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "THAILAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "56026153",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026153",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026153",
     "time": "2020-02-26 07:31:45",
     "許可證字號": "衛部醫器輸字第026153號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6201174983  鈦沅股份有限公司",
     "申請商地址": "台北市大安區臥龍街275之1號",
-    "主製造廠": {
-        "製造廠名稱": "MUS0983000  MEDENNIUM INC.",
-        "製造廠廠址": "9 PARKER, SUITE 150, IRVINE, CA 92618, U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0983000  MEDENNIUM INC.",
+            "製造廠廠址": "9 PARKER, SUITE 150, IRVINE, CA 92618, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MFR0919000  Medennium Inc.",
+            "製造廠廠址": "13 Av. de Montrouge, 92340 Bourg la Reine, France",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

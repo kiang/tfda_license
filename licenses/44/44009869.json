@@ -1,6 +1,6 @@
 {
     "code": "44009869",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009869",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009869",
     "time": "2020-02-26 05:19:31",
     "許可證字號": "衛署醫器輸壹字第009869號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1708321100  環聯貿易有限公司",
     "申請商地址": "高雄市鼓山區大榮街９０巷７之１號１樓",
-    "主製造廠": {
-        "製造廠名稱": "MID0006000  PT. BEIERSDORF INDONESIA",
-        "製造廠廠址": "JL. RAYA RANDUAGUNG KM 75, MALANG, INDONESIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "INDONESIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MID0006000  PT. BEIERSDORF INDONESIA",
+            "製造廠廠址": "JL. RAYA RANDUAGUNG KM 75, MALANG, INDONESIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "INDONESIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

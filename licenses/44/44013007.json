@@ -1,6 +1,6 @@
 {
     "code": "44013007",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44013007",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44013007",
     "time": "2020-02-26 05:50:18",
     "許可證字號": "衛署醫器輸壹字第013007號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "6205340269  捷太醫療產品有限公司",
     "申請商地址": "臺南市中西區成功路457號13樓之4",
-    "主製造廠": {
-        "製造廠名稱": "MIT0814000  GTA SRL",
-        "製造廠廠址": "VIA DELLA VITTORIA, 5 46026 QUISTELLO (MN), ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIT0814000  GTA SRL",
+            "製造廠廠址": "VIA DELLA VITTORIA, 5 46026 QUISTELLO (MN), ITALY",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

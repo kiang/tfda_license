@@ -1,6 +1,6 @@
 {
     "code": "58021658",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58021658",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58021658",
     "time": "2020-02-26 09:08:14",
     "許可證字號": "衛部粧輸字第021658號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6613232021  瑟佛絲化粧品有限公司",
     "申請商地址": "新北市新莊區思源路１７３號１１樓",
-    "主製造廠": {
-        "製造廠名稱": "CIT0028000  BEAUTY SERVICE S.R.L.",
-        "製造廠廠址": "Via Romolo Gessi N. 14-16-18, 25135-Brescia, Italy",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CIT0028000  BEAUTY SERVICE S.R.L.",
+            "製造廠廠址": "Via Romolo Gessi N. 14-16-18, 25135-Brescia, Italy",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

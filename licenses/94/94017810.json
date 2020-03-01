@@ -1,6 +1,6 @@
 {
     "code": "94017810",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017810",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017810",
     "time": "2020-02-26 12:19:32",
     "許可證字號": "衛部醫器輸壹字第017810號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623102J366  宸皓企業有限公司",
     "申請商地址": "新北市三重區車路頭街117巷51號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP1252000  SAITO DENTAL MFG CO., LTD.",
-        "製造廠廠址": "2-56-8, HORIKIRI KATSUSHIKA-KU, TOKYO, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP1252000  SAITO DENTAL MFG CO., LTD.",
+            "製造廠廠址": "2-56-8, HORIKIRI KATSUSHIKA-KU, TOKYO, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

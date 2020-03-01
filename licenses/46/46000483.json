@@ -1,6 +1,6 @@
 {
     "code": "46000483",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000483",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000483",
     "time": "2020-02-26 05:58:59",
     "許可證字號": "衛署醫器陸輸壹字第000483號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 40大陸生產",
     "申請商名稱": "6233101361  福永生物科技股份有限公司",
     "申請商地址": "新竹科學工業園區新竹縣寶山鄉研發三路8號",
-    "主製造廠": {
-        "製造廠名稱": "MCN0321000  JETCROWN INDUSTRIAL LTD.",
-        "製造廠廠址": "HUANGANG INDUSTRIAL ESTATE, HOUJIE TOWN DONG GUAN CITY, GUANGDONG PROVINCE CHINA 523946",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0321000  JETCROWN INDUSTRIAL LTD.",
+            "製造廠廠址": "HUANGANG INDUSTRIAL ESTATE, HOUJIE TOWN DONG GUAN CITY, GUANGDONG PROVINCE CHINA 523946",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS1929000  STAT MEDICAL DEVICE INC.",
+            "製造廠廠址": "1835 N.E. 146TH STREET, NORTH MIAMI, FLORIDA 33181, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

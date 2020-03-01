@@ -1,6 +1,6 @@
 {
     "code": "44005337",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44005337",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44005337",
     "time": "2020-02-26 04:45:27",
     "許可證字號": "衛署醫器輸壹字第005337號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620102W557  科達健康生技股份有限公司",
     "申請商地址": "台北市信義區莊敬路392號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MMX0136000  Merit Maquiladora Mexico, S de R.L. de C.V.",
-        "製造廠廠址": "Avenida Sor Juana Ines de la Cruz 19970 Interior B, Edificio 2, Parque Industrial Frontera Tijuana, Baja California C.P. 22630 Mexico",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0136000  Merit Maquiladora Mexico, S de R.L. de C.V.",
+            "製造廠廠址": "Avenida Sor Juana Ines de la Cruz 19970 Interior B, Edificio 2, Parque Industrial Frontera Tijuana, Baja California C.P. 22630 Mexico",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS0950000  MERIT MEDICAL SYSTEMS, INC.",
+            "製造廠廠址": "1600 WEST MERIT PARKWAY, SOUTH JORDAN, UTAH 84095-2416, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

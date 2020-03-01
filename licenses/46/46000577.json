@@ -1,6 +1,6 @@
 {
     "code": "46000577",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000577",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000577",
     "time": "2020-02-26 05:59:45",
     "許可證字號": "衛署醫器陸輸壹字第000577號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6136200538  華廣生技股份有限公司",
     "申請商地址": "台中市大里區仁化路694號",
-    "主製造廠": {
-        "製造廠名稱": "MCN0215000  SPECIALTY MEDICAL SUPPLIES (BEIJING) CO., LTD.",
-        "製造廠廠址": "JIN YU RUI SCIENCE ZONE QIAO ZI TOWN HUAI ROU DISTRICT BEIJING, 101402 CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0215000  SPECIALTY MEDICAL SUPPLIES (BEIJING) CO., LTD.",
+            "製造廠廠址": "JIN YU RUI SCIENCE ZONE QIAO ZI TOWN HUAI ROU DISTRICT BEIJING, 101402 CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

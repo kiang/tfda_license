@@ -1,6 +1,6 @@
 {
     "code": "08006036",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08006036",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08006036",
     "time": "2020-02-25 22:56:22",
     "許可證字號": "衛署粧輸字第006036號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1437301100  蓉霙企業有限公司",
     "申請商地址": "台北巿大同區長安西路八十四號二樓之一",
-    "主製造廠": {
-        "製造廠名稱": "CIT0031000  ELGON S.A.S.",
-        "製造廠廠址": "DI CAIMANO P. PAOLO &amp; C. 20020 LAINATE-VIA BERGAMO N.16 ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CIT0031000  ELGON S.A.S.",
+            "製造廠廠址": "DI CAIMANO P. PAOLO &amp; C. 20020 LAINATE-VIA BERGAMO N.16 ITALY",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

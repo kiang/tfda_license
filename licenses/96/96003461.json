@@ -1,6 +1,6 @@
 {
     "code": "96003461",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003461",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003461",
     "time": "2020-02-26 13:10:38",
     "許可證字號": "衛部醫器陸輸壹字第003461號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6201118878  冠亞生技股份有限公司",
     "申請商地址": "新北市永和區成功路1段80號20樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1825000  CHANGZHOU SPINOVO MEDICAL INSTRUMENT CO., LTD.",
-        "製造廠廠址": "NO.7 QINGLIAN ROAD, NIUTANG TOWN, WUJIN DISTRICT JIANGSU PROVINCE, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1825000  CHANGZHOU SPINOVO MEDICAL INSTRUMENT CO., LTD.",
+            "製造廠廠址": "NO.7 QINGLIAN ROAD, NIUTANG TOWN, WUJIN DISTRICT JIANGSU PROVINCE, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

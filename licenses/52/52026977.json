@@ -1,11 +1,12 @@
 {
     "code": "52026977",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026977",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026977",
     "time": "2020-02-26 06:31:49",
     "許可證字號": "衛部藥輸字第026977號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
+    "製造許可登錄編號": "",
     "有效日期": "110\/10\/28",
     "發證日期": "105\/10\/28",
     "許可證種類": "原料藥",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "01製劑原料",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "",
-        "申請商名稱": "0400319100  中大藥品股份有限公司",
-        "申請商地址": "台南市中西區民權路二段158號3樓",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "",
+    "限制項目": "",
+    "申請商名稱": "0400319100  中大藥品股份有限公司",
+    "申請商地址": "台南市中西區民權路二段158號3樓",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FIN0361300  Dr. Reddy&#39;s Laboratories Limited",
+            "製造廠廠址": "Unit 1, Plot Nos. 137,138,145 &amp; 146, Sri Venkateswara Co-operative Industrial Estate, Bollaram (V), Jinnaram (M), Sangareddy (Dist), Telangana State, India",
+            "製造廠公司地址": "",
+            "製造廠國別": "INDIA",
+            "製程": ""
+        }
+    ],
     "CCC號列": "29389000004 其他天然或以合成方法再製之?及其鹽類、醚類、酯類及其他衍生物Other glycosides, natural or reproduced by synthesis, and their salts, ethers, esters and other derivatives",
     "藥理治療分類": "",
     "ingredients": [],

@@ -1,6 +1,6 @@
 {
     "code": "06009108",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06009108",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06009108",
     "time": "2020-02-25 17:45:40",
     "許可證字號": "衛署醫器輸字第009108號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6203270657  彩新健康事業股份有限公司",
     "申請商地址": "台中市西區五權路2-107號15樓",
-    "主製造廠": {
-        "製造廠名稱": "MMY0007000  UG MEDICAL DISPOSABLES SDN BHD.",
-        "製造廠廠址": "PT2147 &amp; PT2150, SRI SENAWANG LIGHT INDUSTRIAL AREA, BT. 4-1\/2, JALAN TAMPIN, 70450 SEREMBAN, NEGERI SEMBILAN DARUL KHUSUS, MALAYSIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "MALAYSIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMY0007000  UG MEDICAL DISPOSABLES SDN BHD.",
+            "製造廠廠址": "PT2147 &amp; PT2150, SRI SENAWANG LIGHT INDUSTRIAL AREA, BT. 4-1\/2, JALAN TAMPIN, 70450 SEREMBAN, NEGERI SEMBILAN DARUL KHUSUS, MALAYSIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "MALAYSIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

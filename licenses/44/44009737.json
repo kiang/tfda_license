@@ -1,6 +1,6 @@
 {
     "code": "44009737",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009737",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009737",
     "time": "2020-02-26 05:18:12",
     "許可證字號": "衛署醫器輸壹字第009737號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "7729045815  自在開始有限公司",
     "申請商地址": "台北市中山區林森北路263號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0371000  HUMAN ELECTRONICS CO., LTD",
-        "製造廠廠址": "ADD. HUMAN BLDG. 8F, 727-7, YEOKSAM-DONG GANGNAM0-GU, SEOUL, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0371000  HUMAN ELECTRONICS CO., LTD",
+            "製造廠廠址": "ADD. HUMAN BLDG. 8F, 727-7, YEOKSAM-DONG GANGNAM0-GU, SEOUL, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

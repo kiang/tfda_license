@@ -1,6 +1,6 @@
 {
     "code": "06001616",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06001616",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06001616",
     "time": "2020-02-25 15:42:58",
     "許可證字號": "衛署醫器輸字第001616號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0909201100  信裕電業股份有限公司",
     "申請商地址": "台北巿長春２４號",
-    "主製造廠": {
-        "製造廠名稱": "MJP0076000  MATSUSHITA COMMUNICATION INDUSTRIAL CO. LTD",
-        "製造廠廠址": "ELECTRONIC MEASUREMENT DEPT 4-3-1, TSUNASHIMA-HIGASHI,KOHOKU-KU, YOKOHAMA CITY",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0076000  MATSUSHITA COMMUNICATION INDUSTRIAL CO. LTD",
+            "製造廠廠址": "ELECTRONIC MEASUREMENT DEPT 4-3-1, TSUNASHIMA-HIGASHI,KOHOKU-KU, YOKOHAMA CITY",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

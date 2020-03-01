@@ -1,6 +1,6 @@
 {
     "code": "96002294",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002294",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002294",
     "time": "2020-02-26 12:58:19",
     "許可證字號": "衛部醫器陸輸壹字第002294號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6240051296  彰誠發企業股份有限公司",
     "申請商地址": "嘉義縣溪口鄉本厝村本廳1號",
-    "主製造廠": {
-        "製造廠名稱": "MCN0170000  SHUNDE A&amp;I  INDUSTRIES LTD.",
-        "製造廠廠址": "LIANDU INDUSTRY PARK, ELIU TOWN, SHUNDE DISTRICT, FOSHAN CITY, GUANG DONG, 528300, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0170000  SHUNDE A&amp;I  INDUSTRIES LTD.",
+            "製造廠廠址": "LIANDU INDUSTRY PARK, ELIU TOWN, SHUNDE DISTRICT, FOSHAN CITY, GUANG DONG, 528300, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

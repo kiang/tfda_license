@@ -1,6 +1,6 @@
 {
     "code": "56025248",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025248",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025248",
     "time": "2020-02-26 07:21:45",
     "許可證字號": "衛部醫器輸字第025248號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6203282380  西門子醫療設備股份有限公司",
     "申請商地址": "台北市南港區園區街3號2樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MIT0142000  ESAOTE S.P.A.",
-        "製造廠廠址": "VIA DI CACIOLLE 15-50127 FIRENZE, ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIT0142000  ESAOTE S.P.A.",
+            "製造廠廠址": "VIA DI CACIOLLE 15-50127 FIRENZE, ITALY",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS3355000  SIEMENS MEDICAL SOLUTIONS USA, INC.",
+            "製造廠廠址": "685 EAST MIDDLEFIELD ROAD, MOUTAIN VIEW, CA 94043, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

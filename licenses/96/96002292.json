@@ -1,6 +1,6 @@
 {
     "code": "96002292",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002292",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002292",
     "time": "2020-02-26 12:58:18",
     "許可證字號": "衛部醫器陸輸壹字第002292號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "620118L899  橋河實業股份有限公司",
     "申請商地址": "臺北市中正區重慶南路1段57號9樓之10",
-    "主製造廠": {
-        "製造廠名稱": "MCN1424000  ZHEJIANG SHENDASIAO MEDICAL INSTRUMENT  CO., LTD",
-        "製造廠廠址": "SHENAO VILLAGE, JIANGNAN TOWN, TONGLU COUNTY, HANGZHOU CITY, ZHEJIANG PROVINCE, P. R. CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1424000  ZHEJIANG SHENDASIAO MEDICAL INSTRUMENT  CO., LTD",
+            "製造廠廠址": "SHENAO VILLAGE, JIANGNAN TOWN, TONGLU COUNTY, HANGZHOU CITY, ZHEJIANG PROVINCE, P. R. CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

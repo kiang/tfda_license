@@ -1,6 +1,6 @@
 {
     "code": "44007831",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007831",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007831",
     "time": "2020-02-26 05:01:46",
     "許可證字號": "衛署醫器輸壹字第007831號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "1436801100  台灣信迪思醫療器材股份有限公司",
     "申請商地址": "台北市大安區敦化南路二段319號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE0583000  SYNTHES GMBH",
-        "製造廠廠址": "IM KIRCHENHURSTLE 4-6, 79224 UMKIRCH B. FREIBURG, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0583000  SYNTHES GMBH",
+            "製造廠廠址": "IM KIRCHENHURSTLE 4-6, 79224 UMKIRCH B. FREIBURG, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MCH0083000  SYNTHES GMBH",
+            "製造廠廠址": "EIMATTSTRASSE 3, CH-4436 OBERDORF, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "06021868",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021868",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021868",
     "time": "2020-02-25 20:14:27",
     "許可證字號": "衛署醫器輸字第021868號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1604701100  樺瑩企業股份有限公司",
     "申請商地址": "臺北市松山區民生東路5段162號4樓之5",
-    "主製造廠": {
-        "製造廠名稱": "MNL0927000  D.O.R.C. Dutch Ophthalmic Research Center (INTERNATIONAL) B.V.",
-        "製造廠廠址": "Scheijdelveweg 2, 3214 VN Zuidland, The Netherlands",
-        "製造廠公司地址": "",
-        "製造廠國別": "NETHERLANDS",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MNL0927000  D.O.R.C. Dutch Ophthalmic Research Center (INTERNATIONAL) B.V.",
+            "製造廠廠址": "Scheijdelveweg 2, 3214 VN Zuidland, The Netherlands",
+            "製造廠公司地址": "",
+            "製造廠國別": "NETHERLANDS",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

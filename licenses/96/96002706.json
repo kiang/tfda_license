@@ -1,6 +1,6 @@
 {
     "code": "96002706",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002706",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002706",
     "time": "2020-02-26 13:03:07",
     "許可證字號": "衛部醫器陸輸壹字第002706號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6201124107  上溢國際有限公司",
     "申請商地址": "新北市新店區永安街74巷4號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN9358000  SHANGHAI GLOBAL OPTICAL LENS DISTRIBUTION CO LTD.",
-        "製造廠廠址": "UNIT 214 LEVEL 2 BLOCK 3, 188 AONA ROAD SHANGHAI PILOT FTZ PC 200131 CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN9358000  SHANGHAI GLOBAL OPTICAL LENS DISTRIBUTION CO LTD.",
+            "製造廠廠址": "UNIT 214 LEVEL 2 BLOCK 3, 188 AONA ROAD SHANGHAI PILOT FTZ PC 200131 CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

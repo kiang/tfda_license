@@ -1,6 +1,6 @@
 {
     "code": "06019177",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019177",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019177",
     "time": "2020-02-25 19:44:19",
     "許可證字號": "衛署醫器輸字第019177號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623202F246  艾爾斯企業有限公司",
     "申請商地址": "桃園市中壢區五權里五族二街190號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP0865100  KYOCERA Medical Corporation Shiga Gamo Plant",
-        "製造廠廠址": "10-1 KAWAI-CHO, HIGASHIOMIO-SHI, SHIGA, 529-1595 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0865100  KYOCERA Medical Corporation Shiga Gamo Plant",
+            "製造廠廠址": "10-1 KAWAI-CHO, HIGASHIOMIO-SHI, SHIGA, 529-1595 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

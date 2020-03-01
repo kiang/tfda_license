@@ -1,6 +1,6 @@
 {
     "code": "56029659",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029659",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029659",
     "time": "2020-02-26 08:07:08",
     "許可證字號": "衛部醫器輸字第029659號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231174044  耀瑞股份有限公司",
     "申請商地址": "新北市林口區工七路16號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MMX0033000  SMITHS HEALTHCARE MANUFACTURING S.A. de C.V.",
-        "製造廠廠址": "Avenida Calidad No 4, Parque Industrial Internacional Tijuana, Tijuana, B.C. C.P. 22425, Mexico",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": "受託製造廠"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0033000  SMITHS HEALTHCARE MANUFACTURING S.A. de C.V.",
+            "製造廠廠址": "Avenida Calidad No 4, Parque Industrial Internacional Tijuana, Tijuana, B.C. C.P. 22425, Mexico",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": "受託製造廠"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS5092000  Smiths Medical ASD, Inc.",
+            "製造廠廠址": "6000 Nathan Lane North, Minneapolis, MN 55442, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

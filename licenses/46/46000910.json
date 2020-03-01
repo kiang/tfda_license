@@ -1,6 +1,6 @@
 {
     "code": "46000910",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000910",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000910",
     "time": "2020-02-26 06:01:40",
     "許可證字號": "衛署醫器陸輸壹字第000910號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "623111B476  亞靖儀器有限公司",
     "申請商地址": "台北縣新店市安祥路147巷53號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN0228000  RESPIRONICS MEDICAL PRODUCTS (SZ) CO., LTD.",
-        "製造廠廠址": "BLOCK 6, TONG XI CHONG 2ND INDUSTRIAL DISTRICT, TONG XI CHONG VILLAGE, BAO ON DISTRICT, SHENZHEN, P.R.C. 815105",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0228000  RESPIRONICS MEDICAL PRODUCTS (SZ) CO., LTD.",
+            "製造廠廠址": "BLOCK 6, TONG XI CHONG 2ND INDUSTRIAL DISTRICT, TONG XI CHONG VILLAGE, BAO ON DISTRICT, SHENZHEN, P.R.C. 815105",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

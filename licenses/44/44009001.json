@@ -1,6 +1,6 @@
 {
     "code": "44009001",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009001",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009001",
     "time": "2020-02-26 05:10:48",
     "許可證字號": "衛署醫器輸壹字第009001號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6222027274  大億醫療儀器廠",
     "申請商地址": "嘉義市西區保安里保安一路320號",
-    "主製造廠": {
-        "製造廠名稱": "MDE0543000  HONBURG INSTRUMENTE GMBH",
-        "製造廠廠址": "MOEHRINGERSTR. 37 D-78532 TUTTLINGEN GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0543000  HONBURG INSTRUMENTE GMBH",
+            "製造廠廠址": "MOEHRINGERSTR. 37 D-78532 TUTTLINGEN GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

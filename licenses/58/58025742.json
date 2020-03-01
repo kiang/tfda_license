@@ -1,6 +1,6 @@
 {
     "code": "58025742",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58025742",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58025742",
     "time": "2020-02-26 09:50:14",
     "許可證字號": "衛部粧輸字第025742號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6624809221  英商艾薾保國際行銷有限公司台灣分公司",
     "申請商地址": "臺北市松山區敦化北路170號3樓",
-    "主製造廠": {
-        "製造廠名稱": "CUS0177000  AUTUMN HARP INC.",
-        "製造廠廠址": "26 THOMPSON DRIVE, ESSEX JUNCTION, VERMONT 05452, U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CUS0177000  AUTUMN HARP INC.",
+            "製造廠廠址": "26 THOMPSON DRIVE, ESSEX JUNCTION, VERMONT 05452, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

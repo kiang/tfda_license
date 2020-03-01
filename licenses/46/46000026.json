@@ -1,6 +1,6 @@
 {
     "code": "46000026",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000026",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000026",
     "time": "2020-02-26 05:57:10",
     "許可證字號": "衛署醫器陸輸壹字第000026號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6231110504  圓福興業股份有限公司",
     "申請商地址": "新竹縣芎林鄉華龍村鹿寮坑177-5號",
-    "主製造廠": {
-        "製造廠名稱": "MCN0085000  ZHUMDIAN HENGDING HEALTH MATERIALS CO., LTD.",
-        "製造廠廠址": "SUIPING COUNTY, QUYANG TOWN, XIGUAN PRINTING FACTORY INSIDE, ZHUMADIAN CITY, HENAN PROVINCE, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0085000  ZHUMDIAN HENGDING HEALTH MATERIALS CO., LTD.",
+            "製造廠廠址": "SUIPING COUNTY, QUYANG TOWN, XIGUAN PRINTING FACTORY INSIDE, ZHUMADIAN CITY, HENAN PROVINCE, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

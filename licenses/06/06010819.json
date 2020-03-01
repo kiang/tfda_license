@@ -1,6 +1,6 @@
 {
     "code": "06010819",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010819",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010819",
     "time": "2020-02-25 18:08:54",
     "許可證字號": "衛署醫器輸字第010819號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0418201100  日商泰爾茂股份有限公司台北分公司",
     "申請商地址": "台北市松山區敦化北路170號7樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP0367000  KOFU FACTORY OF TERUMO CORPORATION",
-        "製造廠廠址": "1727-1, TSUIJIARAI, SHOWA-CHO, NAKAKOMA-GUN, YAMANASHI PREFECTURE, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0367000  KOFU FACTORY OF TERUMO CORPORATION",
+            "製造廠廠址": "1727-1, TSUIJIARAI, SHOWA-CHO, NAKAKOMA-GUN, YAMANASHI PREFECTURE, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "FJP0347000  TERUMO CORPORATION",
+            "製造廠廠址": "44-1, 2-CHOME, HATAGAYA, SHIBUYA-KU TOKYO",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

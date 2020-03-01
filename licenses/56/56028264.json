@@ -1,6 +1,6 @@
 {
     "code": "56028264",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028264",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028264",
     "time": "2020-02-26 07:53:49",
     "許可證字號": "衛部醫器輸字第028264號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620110V891  台灣丸高實業股份有限公司",
     "申請商地址": "臺北市中山區南京東路一段92號10樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP0599000  Marutakatechno Co., Ltd. Fujieda Factory",
-        "製造廠廠址": "550-1, HIRODORI, YAWATA, FUJIEDA-SHI, SHIZUOKA, 426-0009 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0599000  Marutakatechno Co., Ltd. Fujieda Factory",
+            "製造廠廠址": "550-1, HIRODORI, YAWATA, FUJIEDA-SHI, SHIZUOKA, 426-0009 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

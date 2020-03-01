@@ -1,6 +1,6 @@
 {
     "code": "94016601",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016601",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016601",
     "time": "2020-02-26 11:57:55",
     "許可證字號": "衛部醫器輸壹字第016601號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620117N744  塞席爾商采興國際有限公司台灣分公司",
     "申請商地址": "臺北市信義區忠孝東路5段1之1號13樓",
-    "主製造廠": {
-        "製造廠名稱": "MIT0886000  NANNINI ITALIAN QUALITY S.R.L.",
-        "製造廠廠址": "VIA ROSA LUXEMBURG, 1-42010 RIO SALICETO (RE) - ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIT0886000  NANNINI ITALIAN QUALITY S.R.L.",
+            "製造廠廠址": "VIA ROSA LUXEMBURG, 1-42010 RIO SALICETO (RE) - ITALY",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

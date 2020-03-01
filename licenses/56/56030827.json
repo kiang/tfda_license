@@ -1,6 +1,6 @@
 {
     "code": "56030827",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030827",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030827",
     "time": "2020-02-26 08:17:38",
     "許可證字號": "衛部醫器輸字第030827號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 1K安全監視\r\n                            \r\n                                (本產品依藥事法第45條規定列入安全監視，請使用單位配合執行監視項目並提供所得資料予許可證持有商)",
     "申請商名稱": "6401022595  台灣百多力有限公司",
     "申請商地址": "台北市松山區敦化北路170號8樓(B室)",
-    "主製造廠": {
-        "製造廠名稱": "MCH0123000  BIOTRONIK AG",
-        "製造廠廠址": "ACKERSTRASSE 6, CH 8180 BULACH, SWITZERLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCH0123000  BIOTRONIK AG",
+            "製造廠廠址": "ACKERSTRASSE 6, CH 8180 BULACH, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "FIN0624000  BIOCON LIMITED",
+            "製造廠廠址": "20TH KM HOSUR ROAD ELECTRONICS CITY BANGLORE 560 100 INDIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "INDIA",
+            "製程": "原料藥製造廠"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

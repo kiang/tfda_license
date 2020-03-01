@@ -1,6 +1,6 @@
 {
     "code": "06020008",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06020008",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06020008",
     "time": "2020-02-25 19:53:12",
     "許可證字號": "衛署醫器輸字第020008號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620102U337  恆基興業有限公司",
     "申請商地址": "台北市中山區民生東路三段21號8樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MMY0094000  KONTRON MANUFACTURING SERVICES (M) SDN. BHD.",
-        "製造廠廠址": "PLOT 574 LORONG PERUSAHAAN 4, ZON PERINDUSTRIAN BEBAS PRAI, PRAI INDUSTRIAL EASTE, 13600 PRAI, PENANG, MALAYSIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "MALAYSIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMY0094000  KONTRON MANUFACTURING SERVICES (M) SDN. BHD.",
+            "製造廠廠址": "PLOT 574 LORONG PERUSAHAAN 4, ZON PERINDUSTRIAN BEBAS PRAI, PRAI INDUSTRIAL EASTE, 13600 PRAI, PENANG, MALAYSIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "MALAYSIA",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS2554000  TYRELL, INC.",
+            "製造廠廠址": "515 WEST GRENS ROAD, SUITE 725, HOUSTON, TX77067",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "94016753",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016753",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016753",
     "time": "2020-02-26 12:00:00",
     "許可證字號": "衛部醫器輸壹字第016753號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201118083  星裕國際股份有限公司",
     "申請商地址": "臺北市內湖區基湖路３巷４７號８樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP6231000  TABATA CO., LTD",
-        "製造廠廠址": "651-2, INDUSTRIAL PARK, HITACHIOMIYA-SHI, IBARAKI, 319-2134, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP6231000  TABATA CO., LTD",
+            "製造廠廠址": "651-2, INDUSTRIAL PARK, HITACHIOMIYA-SHI, IBARAKI, 319-2134, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

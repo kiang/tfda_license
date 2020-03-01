@@ -1,6 +1,6 @@
 {
     "code": "94015952",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015952",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015952",
     "time": "2020-02-26 11:48:05",
     "許可證字號": "衛部醫器輸壹字第015952號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1420301100  福泰貿易有限公司",
     "申請商地址": "台北市博愛路２５號７樓之９",
-    "主製造廠": {
-        "製造廠名稱": "MTH0097000  MIZUHO (THAILAND) CO., LTD.",
-        "製造廠廠址": "ROJANA INDUSTRIAL PARK 40\/38 M.5 T. U-THAI, A. U-THAI, AYUTTHAYA 13210, THAILAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "THAILAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MTH0097000  MIZUHO (THAILAND) CO., LTD.",
+            "製造廠廠址": "ROJANA INDUSTRIAL PARK 40\/38 M.5 T. U-THAI, A. U-THAI, AYUTTHAYA 13210, THAILAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "THAILAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

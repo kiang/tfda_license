@@ -1,11 +1,12 @@
 {
     "code": "02020415",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02020415",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02020415",
     "time": "2020-02-25 12:27:14",
     "許可證字號": "衛署藥輸字第020415號",
     "註銷狀態": "已註銷",
     "註銷日期": "99\/05\/31",
     "註銷理由": "屆期未申請展延",
+    "製造許可登錄編號": "",
     "有效日期": "93\/04\/26",
     "發證日期": "83\/04\/26",
     "許可證種類": "原料藥",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "01製劑原料",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "1801201100  雙隆貿易有限公司",
-        "申請商地址": "台北巿大同區承德路三段135號1樓",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "GINKGO BILOBA EXTRACT",
+    "限制項目": "02輸　入",
+    "申請商名稱": "1801201100  雙隆貿易有限公司",
+    "申請商地址": "台北巿大同區承德路三段135號1樓",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FIT0119000  INDENA S.P.A.",
+            "製造廠廠址": "(F)VIA DON MINZONI 6, 20090 SETTALA (MILANO)(O)20139 MILANO-VIALE ORTLES,12,ITALY20141 MILANO VIA RIPAMONTI, 99, ITALY",
+            "製造廠公司地址": "20141 MILANO VIA RIPAMONTI, 99, ITALY",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "CCC號列": "30039099905 其他醫藥製劑（不包括第３００２、３００５或３００６節所列者），包含兩種或以上之成分業經混合供治療或預防疾病之用，不具有劑量或零售包裝式樣者Other medicaments (excluding goods of heading 3002, 3005 or 3006) consisting of two or more constituents which have been mixed together for therapeutic or prophylactic uses, not put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [

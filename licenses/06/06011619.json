@@ -1,6 +1,6 @@
 {
     "code": "06011619",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06011619",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06011619",
     "time": "2020-02-25 18:18:05",
     "許可證字號": "衛署醫器輸字第011619號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1420701100  台灣曲克股份有限公司",
     "申請商地址": "新北市新店區北新路三段207號11樓及207-1號11樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS4984000  Cook Vandergrift Inc.",
-        "製造廠廠址": "1186 Montgomery Lane, Vandergrift PA 15690, U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS4984000  Cook Vandergrift Inc.",
+            "製造廠廠址": "1186 Montgomery Lane, Vandergrift PA 15690, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

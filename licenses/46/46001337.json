@@ -1,6 +1,6 @@
 {
     "code": "46001337",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001337",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001337",
     "time": "2020-02-26 06:06:04",
     "許可證字號": "衛署醫器陸輸壹字第001337號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0907801100  英商壯生和壯生（香港）股份有限公司臺灣分公司",
     "申請商地址": "台北市大安區敦化南路二段319號6樓及16樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN0358000  JOHNSON &amp; JOHNSON MEDICAL (SUZHOU) LTD.",
-        "製造廠廠址": "NO.229, CHANG YANG STREET, SUZHOU INDUSTRIAL PARK, SUZHOU 215026, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0358000  JOHNSON &amp; JOHNSON MEDICAL (SUZHOU) LTD.",
+            "製造廠廠址": "NO.229, CHANG YANG STREET, SUZHOU INDUSTRIAL PARK, SUZHOU 215026, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

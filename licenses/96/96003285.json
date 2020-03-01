@@ -1,6 +1,6 @@
 {
     "code": "96003285",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003285",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003285",
     "time": "2020-02-26 13:08:56",
     "許可證字號": "衛部醫器陸輸壹字第003285號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6232022996  文發醫療儀器有限公司",
     "申請商地址": "桃園市中壢區延平路236號",
-    "主製造廠": {
-        "製造廠名稱": "MCN1675000  ABLETECH ORTHOPEDICS CORPORATION",
-        "製造廠廠址": "PHYTOSEIID ANN TOWN DEVELOPMENT ZONE ZHANGPU, FUJIAN 363200, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1675000  ABLETECH ORTHOPEDICS CORPORATION",
+            "製造廠廠址": "PHYTOSEIID ANN TOWN DEVELOPMENT ZONE ZHANGPU, FUJIAN 363200, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

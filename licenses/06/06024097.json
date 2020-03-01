@@ -1,6 +1,6 @@
 {
     "code": "06024097",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024097",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024097",
     "time": "2020-02-25 20:38:26",
     "許可證字號": "衛署醫器輸字第024097號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6201111066  東研實業股份有限公司",
     "申請商地址": "臺北市內湖區民權東路六段160號5樓之4",
-    "主製造廠": {
-        "製造廠名稱": "MFR0312000  C2 DIAGNOSTICS",
-        "製造廠廠址": "PARC EUROMEDECINE II, RUE DE LA VALSIERE, 34099 MONTPELLIER CEDEX 5, FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR0312000  C2 DIAGNOSTICS",
+            "製造廠廠址": "PARC EUROMEDECINE II, RUE DE LA VALSIERE, 34099 MONTPELLIER CEDEX 5, FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MCH0214000  ORPHEE SA",
+            "製造廠廠址": "19, CHEMIN DU CHAMP-DES-FILLES CH-1228 PLAN-LES –OUATES, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

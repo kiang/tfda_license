@@ -1,6 +1,6 @@
 {
     "code": "56029133",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029133",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029133",
     "time": "2020-02-26 08:02:19",
     "許可證字號": "衛部醫器輸字第029133號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620101X118  堡來顧問有限公司",
     "申請商地址": "臺北市松山區南京東路3段261號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MFR0162000  Trophy",
-        "製造廠廠址": "4, rue F. Pelloutier, Croissy Beaubourg, 77435 Marne La Vallee Cedex 2, France",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR0162000  Trophy",
+            "製造廠廠址": "4, rue F. Pelloutier, Croissy Beaubourg, 77435 Marne La Vallee Cedex 2, France",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS5345000  Carestream Dental LLC",
+            "製造廠廠址": "3625 Cumberland Boulevard, Suite 700, Atlanta, GA USA 30339",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

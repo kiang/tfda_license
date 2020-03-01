@@ -1,11 +1,12 @@
 {
     "code": "02012002",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02012002",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02012002",
     "time": "2020-02-25 10:02:26",
     "許可證字號": "衛署藥輸字第012002號",
     "註銷狀態": "已註銷",
     "註銷日期": "77\/04\/11",
     "註銷理由": "移轉（申請商）",
+    "製造許可登錄編號": "",
     "有效日期": "77\/02\/22",
     "發證日期": "72\/12\/05",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "1702201100  擎天實業股份有限公司",
-        "申請商地址": "台北巿健康路２７２號１樓",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "XYLITOL, L-ALANINE, ARGININE HCL L-, L-ASPARTIC ACID, CYSTINE L-, GLUTAMIC ACID L-, HISTIDINE L- HCL (EQ TO L-HISTIDINE HYDROCHLORIDE), L-ISOLEUCINE, L-LEUCINE, LYSINE HCL, L-METHIONINE, L-PHENYLALANINE, L-PROLINE, L-SERINE, L-THREONINE, L-TRYPTOPHAN, L-TYROSINE, L-VALINE, GLYCINE (EQ TO AMINOACETIC ACID)(EQ TO GLYCOCOLL)",
+    "限制項目": "02輸　入",
+    "申請商名稱": "1702201100  擎天實業股份有限公司",
+    "申請商地址": "台北巿健康路２７２號１樓",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FJP0082000  HIKARI PHARMACEUTICAL CO. LTD.",
+            "製造廠廠址": "11-15, 2-CHOME IMADO, TAITO-KU TOKYO",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [

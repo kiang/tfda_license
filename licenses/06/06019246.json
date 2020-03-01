@@ -1,6 +1,6 @@
 {
     "code": "06019246",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019246",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019246",
     "time": "2020-02-25 19:45:04",
     "許可證字號": "衛署醫器輸字第019246號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1500201100  德業聚股份有限公司",
     "申請商地址": "台北市內湖區瑞光路４３７號４樓",
-    "主製造廠": {
-        "製造廠名稱": "MMX0040000  AVENT S. DE R.L. DE C.V.",
-        "製造廠廠址": "CIRCUITO INDUSTRIAL No. 40, COLONIA OBRERA, NOGALES, SONORA, CP 84048, MEXICO",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0040000  AVENT S. DE R.L. DE C.V.",
+            "製造廠廠址": "CIRCUITO INDUSTRIAL No. 40, COLONIA OBRERA, NOGALES, SONORA, CP 84048, MEXICO",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS4520000  HALYARD HEALTH, INC.",
+            "製造廠廠址": "5405 WINDWARD PARKWAY, ALPHARETTA, GA 30004, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

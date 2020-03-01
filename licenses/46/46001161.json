@@ -1,6 +1,6 @@
 {
     "code": "46001161",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001161",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001161",
     "time": "2020-02-26 06:04:16",
     "許可證字號": "衛署醫器陸輸壹字第001161號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6202110223  銘成儀器有限公司",
     "申請商地址": "高雄市小港區桂林里孔鳳路575號",
-    "主製造廠": {
-        "製造廠名稱": "MCN0737000  LIVEN SPORTS MFG. (XIAMEN) CO., LTD.",
-        "製造廠廠址": "NO.18 XIAYANG ROAD, XINGYANG INDUSTRIAL ZONE, HAICANG DISTRICT, XIAMEN, FUJIAN PROVINCE, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0737000  LIVEN SPORTS MFG. (XIAMEN) CO., LTD.",
+            "製造廠廠址": "NO.18 XIAYANG ROAD, XINGYANG INDUSTRIAL ZONE, HAICANG DISTRICT, XIAMEN, FUJIAN PROVINCE, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

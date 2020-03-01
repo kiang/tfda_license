@@ -1,6 +1,6 @@
 {
     "code": "44009045",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009045",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009045",
     "time": "2020-02-26 05:11:14",
     "許可證字號": "衛署醫器輸壹字第009045號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "621706A865  藥聯生技股份有限公司",
     "申請商地址": "台中市北屯區軍福八路280號1、2、3樓",
-    "主製造廠": {
-        "製造廠名稱": "MEG0003000  PHARMAPLAST S.A.E.",
-        "製造廠廠址": "AMRIA FREE ZONE 23512 ALEXANDRIA EGYPT",
-        "製造廠公司地址": "",
-        "製造廠國別": "EGYPTI",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MEG0003000  PHARMAPLAST S.A.E.",
+            "製造廠廠址": "AMRIA FREE ZONE 23512 ALEXANDRIA EGYPT",
+            "製造廠公司地址": "",
+            "製造廠國別": "EGYPTI",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

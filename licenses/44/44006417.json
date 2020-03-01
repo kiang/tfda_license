@@ -1,6 +1,6 @@
 {
     "code": "44006417",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006417",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006417",
     "time": "2020-02-26 04:51:05",
     "許可證字號": "衛署醫器輸壹字第006417號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1426201100  臺灣拜耳股份有限公司",
     "申請商地址": "台北市信義區信義路五段7號台北101大樓之53至54樓",
-    "主製造廠": {
-        "製造廠名稱": "MPL0005000  MANUFACTURED BY HTL-STREFA S.A. FOR BAYER HEALTHCARE LLC DIABETES CARE DIVISION",
-        "製造廠廠址": "MANUFACTURED BY ADAMOWEK 7, 95-035 OZORKOW, POLAND FOR 430 S. BEIGER ST, MISHAWAKA, IN 46544 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "POLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MPL0005000  MANUFACTURED BY HTL-STREFA S.A. FOR BAYER HEALTHCARE LLC DIABETES CARE DIVISION",
+            "製造廠廠址": "MANUFACTURED BY ADAMOWEK 7, 95-035 OZORKOW, POLAND FOR 430 S. BEIGER ST, MISHAWAKA, IN 46544 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "POLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "94015786",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015786",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015786",
     "time": "2020-02-26 11:45:44",
     "許可證字號": "衛部醫器輸壹字第015786號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6401106176  巴酷商行",
     "申請商地址": "台北市中山區南京東路二段137號14樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS2743100  MCDAVID INC.",
-        "製造廠廠址": "10305 ARGONNE DRIVE WOODRIDGE, IL 60517 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2743100  MCDAVID INC.",
+            "製造廠廠址": "10305 ARGONNE DRIVE WOODRIDGE, IL 60517 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

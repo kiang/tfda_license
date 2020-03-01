@@ -1,6 +1,6 @@
 {
     "code": "94019857",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019857",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019857",
     "time": "2020-02-26 12:38:46",
     "許可證字號": "衛部醫器輸壹字第019857號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "6203241647  康佳生技有限公司",
     "申請商地址": "臺中市西區臺灣大道2段186號9樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MDE1542000  Biovision GmbH",
-        "製造廠廠址": "Am Vogelherd 52, 98693 Ilmenau, Germany",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE1542000  Biovision GmbH",
+            "製造廠廠址": "Am Vogelherd 52, 98693 Ilmenau, Germany",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

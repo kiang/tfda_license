@@ -1,6 +1,6 @@
 {
     "code": "06021523",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021523",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021523",
     "time": "2020-02-25 20:10:19",
     "許可證字號": "衛署醫器輸字第021523號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623104D820  貝拉頌有限公司",
     "申請商地址": "新北市中和區宜安路52巷7號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE0958000  MEDIWISS ANALYTIC GMBH",
-        "製造廠廠址": "UERDINGER STRABE 3 47441 MOERS, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0958000  MEDIWISS ANALYTIC GMBH",
+            "製造廠廠址": "UERDINGER STRABE 3 47441 MOERS, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

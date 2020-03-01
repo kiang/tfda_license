@@ -1,6 +1,6 @@
 {
     "code": "56025813",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025813",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025813",
     "time": "2020-02-26 07:28:07",
     "許可證字號": "衛部醫器輸字第025813號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "1426501100  台灣飛利浦股份有限公司",
     "申請商地址": "台北市南港區園區街3之1號14樓",
-    "主製造廠": {
-        "製造廠名稱": "MMX0087000  SCHOTT North America Inc.-Lighting and Imaging",
-        "製造廠廠址": "KM 349 Venta Parada, Amatlan, Veracruz, 94946, Mexico",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0087000  SCHOTT North America Inc.-Lighting and Imaging",
+            "製造廠廠址": "KM 349 Venta Parada, Amatlan, Veracruz, 94946, Mexico",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS3106000  CHILDREN&#39;S MEDICAL VENTURES",
+            "製造廠廠址": "191 WYNGATE DRIVE MONROEVILLE, PA 15146, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

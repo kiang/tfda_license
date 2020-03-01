@@ -1,6 +1,6 @@
 {
     "code": "08006336",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08006336",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08006336",
     "time": "2020-02-25 22:59:40",
     "許可證字號": "衛署粧輸字第006336號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0317401100  三丁目美坊有限公司",
     "申請商地址": "新北市汐止區新台五路1段159號12樓之9",
-    "主製造廠": {
-        "製造廠名稱": "CJP0102000  HORII INDUSTRIAL CO., LTD.",
-        "製造廠廠址": "1200-33, Banba-cho, Kusatsu, Shiga, 525-0043, Japan",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0102000  HORII INDUSTRIAL CO., LTD.",
+            "製造廠廠址": "1200-33, Banba-cho, Kusatsu, Shiga, 525-0043, Japan",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

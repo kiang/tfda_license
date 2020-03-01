@@ -1,6 +1,6 @@
 {
     "code": "96002641",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002641",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002641",
     "time": "2020-02-26 13:02:21",
     "許可證字號": "衛部醫器陸輸壹字第002641號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP 40大陸生產",
     "申請商名稱": "620109F736  德星有限公司",
     "申請商地址": "臺北市大同區重慶北路三段76號14樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN4130000  JINZHOU XINRUI PLASTIC PRODUCTS CO., LTD.",
-        "製造廠廠址": "SOUTH TONGDA RD., EAST DIST., JINZHOU CITY, 052260 HEBEI, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN4130000  JINZHOU XINRUI PLASTIC PRODUCTS CO., LTD.",
+            "製造廠廠址": "SOUTH TONGDA RD., EAST DIST., JINZHOU CITY, 052260 HEBEI, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

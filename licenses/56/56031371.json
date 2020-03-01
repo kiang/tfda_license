@@ -1,6 +1,6 @@
 {
     "code": "56031371",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031371",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031371",
     "time": "2020-02-26 08:22:29",
     "許可證字號": "衛部醫器輸字第031371號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623105A094  科舉顧問股份有限公司",
     "申請商地址": "新北市新店區安祥路147巷53號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MIN0090000  MERIL ENDO SURGERY PVT. LTD",
-        "製造廠廠址": "SURVEY NO. 135\/2\/B AND 174\/2, THIRD FLOOR, E1-E3, MERIL PARK, MUKTANAND MARG, CHALA, VAPI, DIST:VALSAD-396191, GUJARAT, INDIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "INDIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIN0090000  MERIL ENDO SURGERY PVT. LTD",
+            "製造廠廠址": "SURVEY NO. 135\/2\/B AND 174\/2, THIRD FLOOR, E1-E3, MERIL PARK, MUKTANAND MARG, CHALA, VAPI, DIST:VALSAD-396191, GUJARAT, INDIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "INDIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

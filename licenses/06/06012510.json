@@ -1,6 +1,6 @@
 {
     "code": "06012510",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06012510",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06012510",
     "time": "2020-02-25 18:28:15",
     "許可證字號": "衛署醫器輸字第012510號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0622302100  企建科技股份有限公司",
     "申請商地址": "台北市中山區新生北路二段41巷14號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MCA0049000  STELLATE SYSTEM INC.",
-        "製造廠廠址": "376 VICTORIA AVE, SUITE 200, MONTREAL, QUEBEC H3Z 1C3, CANADA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CANADA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCA0049000  STELLATE SYSTEM INC.",
+            "製造廠廠址": "376 VICTORIA AVE, SUITE 200, MONTREAL, QUEBEC H3Z 1C3, CANADA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CANADA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

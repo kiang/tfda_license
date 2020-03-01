@@ -1,6 +1,6 @@
 {
     "code": "44012755",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012755",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012755",
     "time": "2020-02-26 05:47:44",
     "許可證字號": "衛署醫器輸壹字第012755號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231173172  永奇醫藥生技有限公司",
     "申請商地址": "新北市林口區文化三路一段439號",
-    "主製造廠": {
-        "製造廠名稱": "MUS3924000  UROMEND, LLC",
-        "製造廠廠址": "1321 HOPKINS DRIVE, PULASKI, VIRGINIA 24301,USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS3924000  UROMEND, LLC",
+            "製造廠廠址": "1321 HOPKINS DRIVE, PULASKI, VIRGINIA 24301,USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

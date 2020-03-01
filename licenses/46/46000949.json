@@ -1,6 +1,6 @@
 {
     "code": "46000949",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000949",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000949",
     "time": "2020-02-26 06:02:04",
     "許可證字號": "衛署醫器陸輸壹字第000949號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6237016925  日正國際有限公司",
     "申請商地址": "彰化縣彰化市延平里30鄰埔陽街172巷11號",
-    "主製造廠": {
-        "製造廠名稱": "MCN0693000  TAIZHOU FUMING GONGYI SAFETY PRODUCTS MANUFACTURER CO., LTD.",
-        "製造廠廠址": "ZHANGAN DEVELOPMENT ZONE, JIAOJIANG DISTRICT, TAIZHOU CITY, ZHEJIANG 318017, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0693000  TAIZHOU FUMING GONGYI SAFETY PRODUCTS MANUFACTURER CO., LTD.",
+            "製造廠廠址": "ZHANGAN DEVELOPMENT ZONE, JIAOJIANG DISTRICT, TAIZHOU CITY, ZHEJIANG 318017, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

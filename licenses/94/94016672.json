@@ -1,6 +1,6 @@
 {
     "code": "94016672",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016672",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016672",
     "time": "2020-02-26 11:59:00",
     "許可證字號": "衛部醫器輸壹字第016672號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201166990  力巨有限公司",
     "申請商地址": "台北市北投區裕民二路69號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0724000  DENTAL STUDIO CO., LTD.",
-        "製造廠廠址": "C102 INDEOKWON IT VALLY, 40, IMI-RO, UIWANG-SI, GYEONGGI-DO, KOREA.",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0724000  DENTAL STUDIO CO., LTD.",
+            "製造廠廠址": "C102 INDEOKWON IT VALLY, 40, IMI-RO, UIWANG-SI, GYEONGGI-DO, KOREA.",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

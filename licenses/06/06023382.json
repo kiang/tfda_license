@@ -1,6 +1,6 @@
 {
     "code": "06023382",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023382",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023382",
     "time": "2020-02-25 20:30:41",
     "許可證字號": "衛署醫器輸字第023382號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102W313  瑪崴仕實業有限公司",
     "申請商地址": "台北市大安區光復南路420巷1弄9號",
-    "主製造廠": {
-        "製造廠名稱": "MKR0467000  MEDRO MEDICAL DIVISION CO., LTD.",
-        "製造廠廠址": "B-901 WOOLIM LIONSVALLY #371-28 WOOLIM LIONS VALLEY, GASAN-DONG, GEUMCHEON-GU, SEOUL (SEOUL 153-786 KOREA)",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0467000  MEDRO MEDICAL DIVISION CO., LTD.",
+            "製造廠廠址": "B-901 WOOLIM LIONSVALLY #371-28 WOOLIM LIONS VALLEY, GASAN-DONG, GEUMCHEON-GU, SEOUL (SEOUL 153-786 KOREA)",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

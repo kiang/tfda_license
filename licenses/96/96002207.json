@@ -1,6 +1,6 @@
 {
     "code": "96002207",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002207",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002207",
     "time": "2020-02-26 12:57:14",
     "許可證字號": "衛部醫器陸輸壹字第002207號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "620118D857  台灣大昌華嘉股份有限公司",
     "申請商地址": "台北市內湖區堤頂大道二段407巷20弄1、3、5、7號10樓及22、24、26號10樓及22號10樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MCN1375000  TITRON YS MANUFACTURING FACTORY",
-        "製造廠廠址": "YUESHAN INDUSTRIAL ZONE, DALINGSHAN TOWN, DONGGUAN CITY, GUANGDONG PROVINCE, P.R. CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1375000  TITRON YS MANUFACTURING FACTORY",
+            "製造廠廠址": "YUESHAN INDUSTRIAL ZONE, DALINGSHAN TOWN, DONGGUAN CITY, GUANGDONG PROVINCE, P.R. CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MCH0238000  LIFESCAN EUROPE, A DIVISION OF CILAG GMBH INTERNATIONAL",
+            "製造廠廠址": "GUBELSTRASSE 34, 6300 ZUG, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

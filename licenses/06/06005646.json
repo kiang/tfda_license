@@ -1,6 +1,6 @@
 {
     "code": "06005646",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06005646",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06005646",
     "time": "2020-02-25 16:56:55",
     "許可證字號": "衛署醫器輸字第005646號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1507401100  嬌生股份有限公司",
     "申請商地址": "台北巿敦化南路２段３１９號３、４、５樓",
-    "主製造廠": {
-        "製造廠名稱": "M380820000  ETHICON LTD.",
-        "製造廠廠址": "P.O.BOX 408 BANKHEAD AVENUE EDINBURGH EH11 4HE SCOTLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "M380820000  ETHICON LTD.",
+            "製造廠廠址": "P.O.BOX 408 BANKHEAD AVENUE EDINBURGH EH11 4HE SCOTLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

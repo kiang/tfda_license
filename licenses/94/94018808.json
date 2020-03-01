@@ -1,6 +1,6 @@
 {
     "code": "94018808",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018808",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018808",
     "time": "2020-02-26 12:27:45",
     "許可證字號": "衛部醫器輸壹字第018808號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6401101466  杏美有限公司",
     "申請商地址": "臺北市中山區新生北路三段42號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0822000  MINAM OPTICS CO., LTD",
-        "製造廠廠址": "59, HAKJEONGDONG-RO, BUK-GU, DAEGU, 702-912 KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0822000  MINAM OPTICS CO., LTD",
+            "製造廠廠址": "59, HAKJEONGDONG-RO, BUK-GU, DAEGU, 702-912 KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MKR0945000  CRYSTAL OPTIC CO., LTD",
+            "製造廠廠址": "#148, SEOKJEONG-RO, NAM-GU, INCHEON 22103, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "94016674",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016674",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016674",
     "time": "2020-02-26 11:59:03",
     "許可證字號": "衛部醫器輸壹字第016674號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6201106494  汎英股份有限公司",
     "申請商地址": "臺北市中山區松江路301號9樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MUS3557100  CLINICAL INNOVATIONS, LLC",
-        "製造廠廠址": "747 WEST 4170 SOUTH MURRAY, UTAH 84123, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS3557100  CLINICAL INNOVATIONS, LLC",
+            "製造廠廠址": "747 WEST 4170 SOUTH MURRAY, UTAH 84123, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MCA0053000  LABORIE MEDICAL TECHNOLOGIES CANADA ULC.",
+            "製造廠廠址": "6415 NORTHWEST DRIVE, UNIT 10, MISSISSAUGA, ONTARIO, L4V 1X1, CANADA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CANADA",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

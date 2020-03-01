@@ -1,6 +1,6 @@
 {
     "code": "94013764",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013764",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013764",
     "time": "2020-02-26 11:17:21",
     "許可證字號": "衛部醫器輸壹字第013764號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231056738  祐鼎國際股份有限公司",
     "申請商地址": "新北市中和區中正路736號8樓之4",
-    "主製造廠": {
-        "製造廠名稱": "MDE0391000  DURR DENTAL AG",
-        "製造廠廠址": "HOPFIGHEIMER STRASSE 17, 74321 BIETIGHEIM-BISSINGEN, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0391000  DURR DENTAL AG",
+            "製造廠廠址": "HOPFIGHEIMER STRASSE 17, 74321 BIETIGHEIM-BISSINGEN, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

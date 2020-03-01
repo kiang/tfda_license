@@ -1,6 +1,6 @@
 {
     "code": "44007845",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007845",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007845",
     "time": "2020-02-26 05:01:52",
     "許可證字號": "衛署醫器輸壹字第007845號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231105093  瑞寧拜爾有限公司",
     "申請商地址": "新北市淡水區中正東路二段29號22樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0263000  KJ MEDITECH Co., Ltd",
-        "製造廠廠址": "974-3, Wolchul-dong, Buk-gu, Gwangju, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0263000  KJ MEDITECH Co., Ltd",
+            "製造廠廠址": "974-3, Wolchul-dong, Buk-gu, Gwangju, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

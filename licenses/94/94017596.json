@@ -1,6 +1,6 @@
 {
     "code": "94017596",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017596",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017596",
     "time": "2020-02-26 12:09:59",
     "許可證字號": "衛部醫器輸壹字第017596號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1430101100  銀鐸實業有限公司",
     "申請商地址": "台北市南港區成功路一段32號4樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MUS4765000  PULSE MEDICAL, INC.",
-        "製造廠廠址": "1130 ADA ST SUITE B BLUE RIDGE, GA USA 30513",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS4765000  PULSE MEDICAL, INC.",
+            "製造廠廠址": "1130 ADA ST SUITE B BLUE RIDGE, GA USA 30513",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "94018078",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018078",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018078",
     "time": "2020-02-26 12:21:47",
     "許可證字號": "衛部醫器輸壹字第018078號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6207324754  德厚貿易有限公司",
     "申請商地址": "高雄市三民區北平二街5巷29號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MPH0008200  CARE PRODUCTS, INC.",
-        "製造廠廠址": "L4 ATLAS, SAN BARTOLOME, NOVALICHES, QUEZON CITY, PHILIPPINES",
-        "製造廠公司地址": "",
-        "製造廠國別": "PHILIPPINES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MPH0008200  CARE PRODUCTS, INC.",
+            "製造廠廠址": "L4 ATLAS, SAN BARTOLOME, NOVALICHES, QUEZON CITY, PHILIPPINES",
+            "製造廠公司地址": "",
+            "製造廠國別": "PHILIPPINES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

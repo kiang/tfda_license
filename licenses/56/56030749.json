@@ -1,6 +1,6 @@
 {
     "code": "56030749",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030749",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030749",
     "time": "2020-02-26 08:16:50",
     "許可證字號": "衛部醫器輸字第030749號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231104944  博兆股份有限公司",
     "申請商地址": "新北市淡水區中正東路2段29號5樓",
-    "主製造廠": {
-        "製造廠名稱": "MIT0913000  SIARE ENGINEERING INTERNATIONAL GROUP S.R.L.",
-        "製造廠廠址": "Via Giulio Pastore, 18 40053 Valsamoggia Loc. Crespellano (BO), Italy",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIT0913000  SIARE ENGINEERING INTERNATIONAL GROUP S.R.L.",
+            "製造廠廠址": "Via Giulio Pastore, 18 40053 Valsamoggia Loc. Crespellano (BO), Italy",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

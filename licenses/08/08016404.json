@@ -1,6 +1,6 @@
 {
     "code": "08016404",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016404",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016404",
     "time": "2020-02-26 00:46:16",
     "許可證字號": "衛署粧輸字第016404號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6686622718  北勝實業有限公司",
     "申請商地址": "台中市北屯區柳楊西街59號1樓",
-    "主製造廠": {
-        "製造廠名稱": "CCH0044000  M. OPITZ &amp; CO AG",
-        "製造廠廠址": "HAGGENSTRASSE 40, 9014 ST. GALLEN, SWITZERLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CCH0044000  M. OPITZ &amp; CO AG",
+            "製造廠廠址": "HAGGENSTRASSE 40, 9014 ST. GALLEN, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

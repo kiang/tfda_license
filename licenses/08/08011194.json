@@ -1,6 +1,6 @@
 {
     "code": "08011194",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08011194",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08011194",
     "time": "2020-02-25 23:52:01",
     "許可證字號": "衛署粧輸字第011194號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6609246191  威士傑興業股份有限公司",
     "申請商地址": "台南市中西區西賢里華平路800號",
-    "主製造廠": {
-        "製造廠名稱": "CJP0169000  KYOWA COSMETICS INDUSTRY CO., LTD.",
-        "製造廠廠址": "4-77, OTASHINMACHI, YAO-SHI, OSAKA 581-0039 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0169000  KYOWA COSMETICS INDUSTRY CO., LTD.",
+            "製造廠廠址": "4-77, OTASHINMACHI, YAO-SHI, OSAKA 581-0039 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

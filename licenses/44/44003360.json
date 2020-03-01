@@ -1,6 +1,6 @@
 {
     "code": "44003360",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44003360",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44003360",
     "time": "2020-02-26 04:35:36",
     "許可證字號": "衛署醫器輸壹字第003360號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6241200211  瑩芳有限公司",
     "申請商地址": "臺中市西屯區工業區四十路61-1號",
-    "主製造廠": {
-        "製造廠名稱": "MCA0045000  PULSE SCIENTIFIC INC.",
-        "製造廠廠址": "UNIT 18, 5100 SOUTH SERVICE ROAD BURLINGTON, ONT. CANADA L7L 6A5",
-        "製造廠公司地址": "",
-        "製造廠國別": "CANADA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCA0045000  PULSE SCIENTIFIC INC.",
+            "製造廠廠址": "UNIT 18, 5100 SOUTH SERVICE ROAD BURLINGTON, ONT. CANADA L7L 6A5",
+            "製造廠公司地址": "",
+            "製造廠國別": "CANADA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

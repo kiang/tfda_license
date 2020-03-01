@@ -1,6 +1,6 @@
 {
     "code": "96002863",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002863",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002863",
     "time": "2020-02-26 13:04:46",
     "許可證字號": "衛部醫器陸輸壹字第002863號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 40大陸生產",
     "申請商名稱": "1407001100  台灣明尼蘇達礦業製造股份有限公司",
     "申請商地址": "台北市南港區經貿二路198號3樓至8樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN4260000  SHEN ZHEN VINNER HEALTH PRODUCTS CO., LTD.",
-        "製造廠廠址": "ROOM 201-601, NO.19, LANGRONG RD, DALANG DISTRICT, DALANG STREET, LONGHUA, SHENZHEN, CHINA 518109",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN4260000  SHEN ZHEN VINNER HEALTH PRODUCTS CO., LTD.",
+            "製造廠廠址": "ROOM 201-601, NO.19, LANGRONG RD, DALANG DISTRICT, DALANG STREET, LONGHUA, SHENZHEN, CHINA 518109",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MJP6253000  3M JAPAN LIMITED",
+            "製造廠廠址": "6-7-29 KITA-SHINAGAWA, SHINAGAWA-KU, TOKYO 141-8684, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

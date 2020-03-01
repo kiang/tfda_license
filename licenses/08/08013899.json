@@ -1,6 +1,6 @@
 {
     "code": "08013899",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08013899",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08013899",
     "time": "2020-02-26 00:17:43",
     "許可證字號": "衛署粧輸字第013899號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1428601100  台灣萊雅股份有限公司",
     "申請商地址": "台北市信義區信義路五段7號22樓23樓",
-    "主製造廠": {
-        "製造廠名稱": "CFR0100000  LE CLUB DES CREATEURS DE BEAUTE.",
-        "製造廠廠址": "105 RUE ANATOLE FRANCE, 92684 LEVALLOIS PERRET CEDEX, FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CFR0100000  LE CLUB DES CREATEURS DE BEAUTE.",
+            "製造廠廠址": "105 RUE ANATOLE FRANCE, 92684 LEVALLOIS PERRET CEDEX, FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

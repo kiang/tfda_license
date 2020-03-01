@@ -1,6 +1,6 @@
 {
     "code": "44010564",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010564",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010564",
     "time": "2020-02-26 05:26:23",
     "許可證字號": "衛署醫器輸壹字第010564號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6117061253  雷虎科技股份有限公司",
     "申請商地址": "臺中市西屯區工業區六路７號",
-    "主製造廠": {
-        "製造廠名稱": "MDE0996000  SYCOTEC GMBH &amp;CO. KG",
-        "製造廠廠址": "WANGENER STRABE 78,D-88299 LEUTKIRCH,GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0996000  SYCOTEC GMBH &amp;CO. KG",
+            "製造廠廠址": "WANGENER STRABE 78,D-88299 LEUTKIRCH,GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "6117061253  雷虎科技股份有限公司",
+            "製造廠廠址": "臺中市西屯區工業區六路７號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "06020185",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06020185",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06020185",
     "time": "2020-02-25 19:55:04",
     "許可證字號": "衛署醫器輸字第020185號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "2400821100  鑫霸企業股份有限公司",
     "申請商地址": "新北市新店區中正路525-1號9樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS3542000  NATUS NEUROLOGY INCORPORATED",
-        "製造廠廠址": "1850 DEMING WAY, MIDDLETON WI53562, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS3542000  NATUS NEUROLOGY INCORPORATED",
+            "製造廠廠址": "1850 DEMING WAY, MIDDLETON WI53562, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

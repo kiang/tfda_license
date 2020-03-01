@@ -1,6 +1,6 @@
 {
     "code": "94016608",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016608",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016608",
     "time": "2020-02-26 11:58:00",
     "許可證字號": "衛部醫器輸壹字第016608號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6203030484  溫帝國際有限公司",
     "申請商地址": "臺中市大甲區文武路78號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MIN0087000  RN LABORATORIES PVT. LTD.",
-        "製造廠廠址": "404, VIP PLAZA, OFF LINK ROAD, ANDHERI(W), MUMBAI, INDIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "INDIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIN0087000  RN LABORATORIES PVT. LTD.",
+            "製造廠廠址": "404, VIP PLAZA, OFF LINK ROAD, ANDHERI(W), MUMBAI, INDIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "INDIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

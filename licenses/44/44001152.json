@@ -1,6 +1,6 @@
 {
     "code": "44001152",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44001152",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44001152",
     "time": "2020-02-26 04:24:57",
     "許可證字號": "衛署醫器輸壹字第001152號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623111C302  冷泉港生物科技股份有限公司",
     "申請商地址": "新北市汐止區康寧街169巷31號2樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MUS1155000  FUJIFILM Irvine Scientific, Inc.",
-        "製造廠廠址": "2511 DAIMLER ST. SANTA ANA, CA. 92705-5588, U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS1155000  FUJIFILM Irvine Scientific, Inc.",
+            "製造廠廠址": "2511 DAIMLER ST. SANTA ANA, CA. 92705-5588, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

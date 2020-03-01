@@ -1,6 +1,6 @@
 {
     "code": "96002972",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002972",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002972",
     "time": "2020-02-26 13:05:58",
     "許可證字號": "衛部醫器陸輸壹字第002972號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 40大陸生產",
     "申請商名稱": "6231144082  立和生醫股份有限公司",
     "申請商地址": "台北市中山區中山北路二段93巷19號9樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN4327000  NOX-BELLCOW COSMETICS CO., LTD.",
-        "製造廠廠址": "NO. 50, DONGFU NORTH ROAD NANTOU TOWN, ZHONGSHAN CITY, GUANGDONG PROVINCE, 528427, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN4327000  NOX-BELLCOW COSMETICS CO., LTD.",
+            "製造廠廠址": "NO. 50, DONGFU NORTH ROAD NANTOU TOWN, ZHONGSHAN CITY, GUANGDONG PROVINCE, 528427, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MGB1030000  GAMA HEALTHCARE LTD.",
+            "製造廠廠址": "2 REGAL WAY, WATFORD, HERTFORDSHIRE, WD24 4YJ, UNITED KINGDOM",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

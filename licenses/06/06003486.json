@@ -1,6 +1,6 @@
 {
     "code": "06003486",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06003486",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06003486",
     "time": "2020-02-25 16:17:55",
     "許可證字號": "衛署醫器輸字第003486號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1219319100  華江醫療儀器股份有限公司",
     "申請商地址": "台北巿羅斯福路３段２７３號６樓之２",
-    "主製造廠": {
-        "製造廠名稱": "MJP0107200  NIPRO MEDICAL INDUSTRIES LTD.",
-        "製造廠廠址": "NO.9-19, 3-CHOME, HIMONYA MEGURO-KU TOKYO JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0107200  NIPRO MEDICAL INDUSTRIES LTD.",
+            "製造廠廠址": "NO.9-19, 3-CHOME, HIMONYA MEGURO-KU TOKYO JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

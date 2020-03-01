@@ -1,6 +1,6 @@
 {
     "code": "94013612",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013612",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013612",
     "time": "2020-02-26 11:15:19",
     "許可證字號": "衛部醫器輸壹字第013612號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6207330047  旭日成有限公司",
     "申請商地址": "高雄市新興區林森一路242號9樓之4",
-    "主製造廠": {
-        "製造廠名稱": "MJP0537000  MIKI KOGYOSHO CO., LTD",
-        "製造廠廠址": "3-38-10, YUTAKA, MINAMI-KU, NAGOYA, AICHI, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0537000  MIKI KOGYOSHO CO., LTD",
+            "製造廠廠址": "3-38-10, YUTAKA, MINAMI-KU, NAGOYA, AICHI, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

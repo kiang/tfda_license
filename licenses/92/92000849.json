@@ -1,6 +1,6 @@
 {
     "code": "92000849",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000849",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000849",
     "time": "2020-02-26 10:14:52",
     "許可證字號": "衛部醫器陸輸字第000849號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "620111C536  普旌股份有限公司",
     "申請商地址": "台北市內湖區瑞光路578號5樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1637000  Kontour (Xi’an) Medical Technology Co., Ltd.",
-        "製造廠廠址": "No. 6, Qinling Avenue, Caotang Technology Industries Base, Xi’an High-tech Zone, Xi’an, 710304, China",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1637000  Kontour (Xi’an) Medical Technology Co., Ltd.",
+            "製造廠廠址": "No. 6, Qinling Avenue, Caotang Technology Industries Base, Xi’an High-tech Zone, Xi’an, 710304, China",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

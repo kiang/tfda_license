@@ -1,6 +1,6 @@
 {
     "code": "44006836",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006836",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006836",
     "time": "2020-02-26 04:54:24",
     "許可證字號": "衛署醫器輸壹字第006836號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1121114100  捷健藥品興業有限公司",
     "申請商地址": "南投縣南投市營北路111巷16號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MPH0003000  ASO PHILIPPINES, INC.",
-        "製造廠廠址": "4TH STREET, BLOCK D-5, MACTAN ECONOMIC ZONE1, LAPU-LAPU CITY, CEBU, PHILIPPINES",
-        "製造廠公司地址": "",
-        "製造廠國別": "PHILIPPINES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MPH0003000  ASO PHILIPPINES, INC.",
+            "製造廠廠址": "4TH STREET, BLOCK D-5, MACTAN ECONOMIC ZONE1, LAPU-LAPU CITY, CEBU, PHILIPPINES",
+            "製造廠公司地址": "",
+            "製造廠國別": "PHILIPPINES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

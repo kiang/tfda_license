@@ -1,6 +1,6 @@
 {
     "code": "44012217",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012217",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012217",
     "time": "2020-02-26 05:42:36",
     "許可證字號": "衛署醫器輸壹字第012217號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102O700  亞仕登康健科技股份有限公司",
     "申請商地址": "台北市信義區永吉路446之1號",
-    "主製造廠": {
-        "製造廠名稱": "MCA0131000  OPTIMA HEALTH SOLUTIONS INTERNATIONAL CORPORATION",
-        "製造廠廠址": "SUITE 308-828 WEST 8TH AVENUE, VANCOUVER, BC V5Z 1E2, CANADA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CANADA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCA0131000  OPTIMA HEALTH SOLUTIONS INTERNATIONAL CORPORATION",
+            "製造廠廠址": "SUITE 308-828 WEST 8TH AVENUE, VANCOUVER, BC V5Z 1E2, CANADA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CANADA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

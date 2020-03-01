@@ -1,6 +1,6 @@
 {
     "code": "44005028",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44005028",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44005028",
     "time": "2020-02-26 04:43:51",
     "許可證字號": "衛署醫器輸壹字第005028號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231029026  立祥國際有限公司",
     "申請商地址": "新北市蘆洲區中山二路176之3號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS2154000  WELLBASE-DENT INDUSTRIAL LLC",
-        "製造廠廠址": "5301 LIMESTONE ROAD, SUITE 214, WILMINGTON, DE 19808, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2154000  WELLBASE-DENT INDUSTRIAL LLC",
+            "製造廠廠址": "5301 LIMESTONE ROAD, SUITE 214, WILMINGTON, DE 19808, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

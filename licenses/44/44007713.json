@@ -1,6 +1,6 @@
 {
     "code": "44007713",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007713",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007713",
     "time": "2020-02-26 05:00:50",
     "許可證字號": "衛署醫器輸壹字第007713號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623104C761  承威生物科技有限公司",
     "申請商地址": "新北市中和區忠孝街5巷9號",
-    "主製造廠": {
-        "製造廠名稱": "MNL0068000  EQUINOX MEDICAL TECHNOLOGIES B.V.",
-        "製造廠廠址": "DE STUWDAM 25, 3815 KM, AMERSFOORT THE NETHERLANDS",
-        "製造廠公司地址": "",
-        "製造廠國別": "NETHERLANDS",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MNL0068000  EQUINOX MEDICAL TECHNOLOGIES B.V.",
+            "製造廠廠址": "DE STUWDAM 25, 3815 KM, AMERSFOORT THE NETHERLANDS",
+            "製造廠公司地址": "",
+            "製造廠國別": "NETHERLANDS",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

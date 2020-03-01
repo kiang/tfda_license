@@ -1,6 +1,6 @@
 {
     "code": "96002506",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002506",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002506",
     "time": "2020-02-26 13:00:38",
     "許可證字號": "衛部醫器陸輸壹字第002506號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6203150481  冠麟國際開發有限公司",
     "申請商地址": "臺中市烏日區中華路294巷12弄12號8樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MCN4042000  TAIZHOU JUNZHEN GLASSES FACTORY",
-        "製造廠廠址": "TAIZHOU CITY SIX JOINT INDUSTRIAL ZONE, NO. 165, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN4042000  TAIZHOU JUNZHEN GLASSES FACTORY",
+            "製造廠廠址": "TAIZHOU CITY SIX JOINT INDUSTRIAL ZONE, NO. 165, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

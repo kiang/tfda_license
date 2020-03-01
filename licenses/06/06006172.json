@@ -1,6 +1,6 @@
 {
     "code": "06006172",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06006172",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06006172",
     "time": "2020-02-25 17:05:31",
     "許可證字號": "衛署醫器輸字第006172號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0907801100  英商壯生和壯生（香港）股份有限公司臺灣分公司",
     "申請商地址": "台北市敦化南路二段３１９號６樓",
-    "主製造廠": {
-        "製造廠名稱": "MGB0331000  ETHICON, A DIVISION OF JOHNSON &amp; JOHNSON MEDICAL LIMITED",
-        "製造廠廠址": "SIMPSON PARKWAY, KIRKTON CAMPUS, LIVINGSTON, EH54 7AT, UNITED KINGDOM",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0331000  ETHICON, A DIVISION OF JOHNSON &amp; JOHNSON MEDICAL LIMITED",
+            "製造廠廠址": "SIMPSON PARKWAY, KIRKTON CAMPUS, LIVINGSTON, EH54 7AT, UNITED KINGDOM",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MBE0017000  JOHNSON &amp; JOHNSON INTERNATIONAL, C\/O EUROPEAN LOGISTICS CENTRE",
+            "製造廠廠址": "LENNEKE MARELAAN 6, BE-1932, ST-STEVENS-WOLUWE, BELGIUM",
+            "製造廠公司地址": "",
+            "製造廠國別": "BELGIUM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

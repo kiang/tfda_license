@@ -1,6 +1,6 @@
 {
     "code": "58022684",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58022684",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58022684",
     "time": "2020-02-26 09:25:46",
     "許可證字號": "衛部粧輸字第022684號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6627337132  瑛煥國際有限公司",
     "申請商地址": "台北市松山區南京東路４段７５號３樓",
-    "主製造廠": {
-        "製造廠名稱": "CFR0158000  LABORATOIRES B.L.C. THALGO COSMETIC S.A.",
-        "製造廠廠址": "83520 ROQUEBRUNE SUR ARGENS FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CFR0158000  LABORATOIRES B.L.C. THALGO COSMETIC S.A.",
+            "製造廠廠址": "83520 ROQUEBRUNE SUR ARGENS FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

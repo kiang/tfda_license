@@ -1,6 +1,6 @@
 {
     "code": "42000120",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000120",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000120",
     "time": "2020-02-26 03:21:34",
     "許可證字號": "衛署醫器陸輸字第000120號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620102L003  歐柏醫療器材有限公司",
     "申請商地址": "台北市大安區忠孝東路四段297號9樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN0120000  DONGGUAN MARS MEDICAL PRODUCTS CO., LTD.",
-        "製造廠廠址": "JING LIAN INDUSTRIAL DISTRICT. QIAO TOU TOWN DONGGUAN GUAN DONG PROVINCE.",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0120000  DONGGUAN MARS MEDICAL PRODUCTS CO., LTD.",
+            "製造廠廠址": "JING LIAN INDUSTRIAL DISTRICT. QIAO TOU TOWN DONGGUAN GUAN DONG PROVINCE.",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

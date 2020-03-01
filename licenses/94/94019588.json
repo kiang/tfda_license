@@ -1,6 +1,6 @@
 {
     "code": "94019588",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019588",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019588",
     "time": "2020-02-26 12:35:43",
     "許可證字號": "衛部醫器輸壹字第019588號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623104F986  維多莉亞生物科技有限公司",
     "申請商地址": "新北市中和區中正路653-1號",
-    "主製造廠": {
-        "製造廠名稱": "MUS5179000  Devroye Instruments",
-        "製造廠廠址": "109W 112th street Apt 66 10026 New York, NY, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS5179000  Devroye Instruments",
+            "製造廠廠址": "109W 112th street Apt 66 10026 New York, NY, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

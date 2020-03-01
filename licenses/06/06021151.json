@@ -1,6 +1,6 @@
 {
     "code": "06021151",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021151",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021151",
     "time": "2020-02-25 20:06:06",
     "許可證字號": "衛署醫器輸字第021151號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231154088  安美得生醫股份有限公司",
     "申請商地址": "新北市五股區五權七路14號之1",
-    "主製造廠": {
-        "製造廠名稱": "MFR0684000  PEROUSE MEDICAL",
-        "製造廠廠址": "ROUTE DU MANOIR 60173 IVRY LE TEMPLE FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR0684000  PEROUSE MEDICAL",
+            "製造廠廠址": "ROUTE DU MANOIR 60173 IVRY LE TEMPLE FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

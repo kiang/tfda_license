@@ -1,6 +1,6 @@
 {
     "code": "94018848",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018848",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018848",
     "time": "2020-02-26 12:28:02",
     "許可證字號": "衛部醫器輸壹字第018848號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0826801100  東艾貿易股份有限公司",
     "申請商地址": "臺北市大同區長安西路三0六號三樓",
-    "主製造廠": {
-        "製造廠名稱": "MIT0094200  ZHERMACK S.P.A.",
-        "製造廠廠址": "VIA BOVAZECCHINO, 100 45021 BADIA POLESINE (RO), ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIT0094200  ZHERMACK S.P.A.",
+            "製造廠廠址": "VIA BOVAZECCHINO, 100 45021 BADIA POLESINE (RO), ITALY",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

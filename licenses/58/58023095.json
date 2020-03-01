@@ -1,6 +1,6 @@
 {
     "code": "58023095",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58023095",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58023095",
     "time": "2020-02-26 09:29:14",
     "許可證字號": "衛部粧輸字第023095號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6652567786  台灣諾奧思有限公司",
     "申請商地址": "臺北市松山區光復北路11巷46號7樓",
-    "主製造廠": {
-        "製造廠名稱": "CFR0224000  NAOS LES LABORATOIRES",
-        "製造廠廠址": "Rue Pierre Berthier, Quartier Saint-Hilaire, Pichaury 2, 13855 Aix-en-Provence Cedex 3, FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CFR0224000  NAOS LES LABORATOIRES",
+            "製造廠廠址": "Rue Pierre Berthier, Quartier Saint-Hilaire, Pichaury 2, 13855 Aix-en-Provence Cedex 3, FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

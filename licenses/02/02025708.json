@@ -1,11 +1,12 @@
 {
     "code": "02025708",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025708",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025708",
     "time": "2020-02-25 13:40:33",
     "許可證字號": "衛署藥輸字第025708號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
+    "製造許可登錄編號": "",
     "有效日期": "112\/03\/18",
     "發證日期": "102\/03\/18",
     "許可證種類": "製　劑",
@@ -20,19 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "1403301100  台灣大塚製藥股份有限公司",
-        "申請商地址": "台北市中山區復興北路378號11樓",
-        "主製造廠": ""
-    },
-    "CCC號列": "",
-    "藥理治療分類": "",
+    "監視期限": "",
+    "主成分略述": "POTASSIUM ACETATE, SODIUM CITRATE HYDROUS, Calcium chloride hydrate, SODIUM CHLORIDE, GLUCOSE, L-ALANINE, L-ARGININE, L-ASPARTIC ACID, L- GLUTAMIC ACID, L-HISTIDINE, L-ISOLEUCINE, L-LEUCINE, L-LYSINE ACETATE, L-METHIONINE, L-PHENYLALANINE, L-PROLINE, L-SERINE, L-THREONINE, L-TRYPTOPHAN, L-TYROSINE, L-VALINE, GLYCINE (EQ TO AMINOACETIC ACID)(EQ TO GLYCOCOLL), ACETYLCYSTEINE, Magnesium sulfate hydrate, POTASSIUM PHOSPHATE ( eq to POTASSIUM PHOSPHATE DIBASIC), PANTHENOL, VITAMIN A OIL, BIOTIN, NICOTINAMIDE, Thiamine chloride hydrochloride, RIBOFLAVIN PHOSPHATE SODIUM, PYRIDOXINE HYDROCHLORIDE, CYANOCOBALAMIN (VIT B12), FOLIC ACID, ASCORBIC ACID, CHOLECALCIFEROL ( EQ TO VIT D3) ( EQ TO VITAMIN D3), TOCOPHEROL ACETATE, Zinc sulfate hydrate, Phytonadione",
+    "限制項目": "02輸　入",
+    "申請商名稱": "1403301100  台灣大塚製藥股份有限公司",
+    "申請商地址": "台北市中山區復興北路378號11樓",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FJP0246100  OTSUKA PHARMACEUTICAL FACTORY, INC., KUSHIRO FACTORY",
+            "製造廠廠址": "1-13, ASAHI, ONBETSU-CHO, KUSHIRO, HOKKAIDO, JAPAN",
+            "製造廠公司地址": "115 KUGUHARA,TATEIWA, MUYA-CHO, NARUTO, TOKUSHIMA, JAPAN",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "次製造廠": [
         {
             "製造廠名稱": "1403304200  台灣大塚製藥股份有限公司中壢工廠",
@@ -42,6 +48,8 @@
             "製程": "二級包裝廠(委託貼標及置入仿單)"
         }
     ],
+    "CCC號列": "",
+    "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",

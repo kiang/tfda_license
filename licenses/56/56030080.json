@@ -1,6 +1,6 @@
 {
     "code": "56030080",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030080",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030080",
     "time": "2020-02-26 08:11:10",
     "許可證字號": "衛部醫器輸字第030080號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "0937001100  美商良衛股份有限公司台灣分公司",
     "申請商地址": "台北市羅斯福路二段１０２號２６樓之１",
-    "主製造廠": {
-        "製造廠名稱": "MMY0153000  Sanmina-SCI Systems( Malaysia), Sdn Bhd",
-        "製造廠廠址": "202 Lorong Perusahaan Maju 9, Bukit Tengah Industrial Park, 13600 Perai, Penang, Malaysia",
-        "製造廠公司地址": "",
-        "製造廠國別": "MALAYSIA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMY0153000  Sanmina-SCI Systems( Malaysia), Sdn Bhd",
+            "製造廠廠址": "202 Lorong Perusahaan Maju 9, Bukit Tengah Industrial Park, 13600 Perai, Penang, Malaysia",
+            "製造廠公司地址": "",
+            "製造廠國別": "MALAYSIA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS0696000  HAEMONETICS CORPORATION",
+            "製造廠廠址": "400 WOOD ROAD, BRAINTREE, MA 02184 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

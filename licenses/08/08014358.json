@@ -1,6 +1,6 @@
 {
     "code": "08014358",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08014358",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08014358",
     "time": "2020-02-26 00:22:39",
     "許可證字號": "衛署粧輸字第014358號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0835101100  亞璐真國際股份有限公司",
     "申請商地址": "台北市大安區羅斯福路3段253號9樓之1",
-    "主製造廠": {
-        "製造廠名稱": "CFR0140000  LABORATOIRES PAB PARIS",
-        "製造廠廠址": "2, RUE PIERRE JOSSE ZAC LES BORDES 91070 BONDOUFLE FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CFR0140000  LABORATOIRES PAB PARIS",
+            "製造廠廠址": "2, RUE PIERRE JOSSE ZAC LES BORDES 91070 BONDOUFLE FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

@@ -1,6 +1,6 @@
 {
     "code": "44007662",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007662",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007662",
     "time": "2020-02-26 05:00:30",
     "許可證字號": "衛署醫器輸壹字第007662號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "0315601100  大裕儀器有限公司",
     "申請商地址": "台北市中山區中山北路一段92號4樓、4樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MUS1674000  BIODEX MEDICAL SYSTEMS, INC.",
-        "製造廠廠址": "20 RAMSAY ROAD, SHIRLEY, N.Y. 11967, U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS1674000  BIODEX MEDICAL SYSTEMS, INC.",
+            "製造廠廠址": "20 RAMSAY ROAD, SHIRLEY, N.Y. 11967, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

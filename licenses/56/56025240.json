@@ -1,6 +1,6 @@
 {
     "code": "56025240",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025240",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025240",
     "time": "2020-02-26 07:21:39",
     "許可證字號": "衛部醫器輸字第025240號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0921001100  洽泰企業有限公司",
     "申請商地址": "台北市敦化南路１段３３７號９Ｆ",
-    "主製造廠": {
-        "製造廠名稱": "MUS3337000  VARIAN MEDICAL SYSTEMS, INC.",
-        "製造廠廠址": "911 HANSEN WAY, PALO ALTO, CA 94304, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS3337000  VARIAN MEDICAL SYSTEMS, INC.",
+            "製造廠廠址": "911 HANSEN WAY, PALO ALTO, CA 94304, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

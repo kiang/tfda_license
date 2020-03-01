@@ -1,6 +1,6 @@
 {
     "code": "44003193",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44003193",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44003193",
     "time": "2020-02-26 04:34:50",
     "許可證字號": "衛署醫器輸壹字第003193號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231056023  台灣信錡股份有限公司",
     "申請商地址": "新北市新店區安民街190巷22號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE0297000  INSTITUT VIRIONSERION GMBH",
-        "製造廠廠址": "FRIEDRICH-BERGIUS-RING 19 D-97076 WURZBURG, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0297000  INSTITUT VIRIONSERION GMBH",
+            "製造廠廠址": "FRIEDRICH-BERGIUS-RING 19 D-97076 WURZBURG, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

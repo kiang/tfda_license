@@ -1,6 +1,6 @@
 {
     "code": "58023424",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58023424",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58023424",
     "time": "2020-02-26 09:33:29",
     "許可證字號": "衛部粧輸字第023424號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "1429602100  臺灣雅芳股份有限公司",
     "申請商地址": "台北市松山區敦化北路88號14樓",
-    "主製造廠": {
-        "製造廠名稱": "FAU0047000  PAX AUSTRALIA PTY LTD.",
-        "製造廠廠址": "9 WILLIAMSON ROAD, INGLEBURN NSW 2565, AUSTRALIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "AUSTRALIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "FAU0047000  PAX AUSTRALIA PTY LTD.",
+            "製造廠廠址": "9 WILLIAMSON ROAD, INGLEBURN NSW 2565, AUSTRALIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRALIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

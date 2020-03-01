@@ -1,6 +1,6 @@
 {
     "code": "56032295",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56032295",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56032295",
     "time": "2020-02-26 08:27:53",
     "許可證字號": "衛部醫器輸字第032295號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620111H577  台灣泰利福醫療產品有限公司",
     "申請商地址": "臺北市大安區敦化南路2段207號16樓",
-    "主製造廠": {
-        "製造廠名稱": "MMX0045000  Hudson Respiratory Care Tecate S.de R.L.de C.V.(A Teleflex Medical Company)",
-        "製造廠廠址": "PROLONGACION MISION EUSEBIO, KINO NO. 1316, RANCHO EL DESCANSO, TECATE B.C., C.P.21478 MEXICO",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0045000  Hudson Respiratory Care Tecate S.de R.L.de C.V.(A Teleflex Medical Company)",
+            "製造廠廠址": "PROLONGACION MISION EUSEBIO, KINO NO. 1316, RANCHO EL DESCANSO, TECATE B.C., C.P.21478 MEXICO",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS3795300  Teleflex Medical",
+            "製造廠廠址": "3015 Carrington Mill Blvd Morrisville, NC 27560, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "44009679",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009679",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009679",
     "time": "2020-02-26 05:17:37",
     "許可證字號": "衛署醫器輸壹字第009679號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623101E552  福勳事業有限公司",
     "申請商地址": "新北市板橋區文聖街89巷21號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE0274000  REDA INSTRUMENTE GMBH",
-        "製造廠廠址": "GANSACKER 34. P.O. BOX 131 D-78532 TUTTLINGEN GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0274000  REDA INSTRUMENTE GMBH",
+            "製造廠廠址": "GANSACKER 34. P.O. BOX 131 D-78532 TUTTLINGEN GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

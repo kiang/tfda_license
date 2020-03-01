@@ -1,6 +1,6 @@
 {
     "code": "08013816",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08013816",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08013816",
     "time": "2020-02-26 00:16:48",
     "許可證字號": "衛署粧輸字第013816號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6625131887  卓冠髮品股份有限公司",
     "申請商地址": "台北市內湖區瑞光路513巷22弄5號7樓之6",
-    "主製造廠": {
-        "製造廠名稱": "CTH0022000  PROCTER &amp; GAMBLE MANUFACTURING (THAILAND) LTD.",
-        "製造廠廠址": "112 MOO 5, WELLGROW INDUSTRIAL ESTATE, KM.36, BANGNA-TRAD, BANGSAMARK, BANGPAKONG,CHACHOENGSAO, 24180, THAILAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "THAILAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CTH0022000  PROCTER &amp; GAMBLE MANUFACTURING (THAILAND) LTD.",
+            "製造廠廠址": "112 MOO 5, WELLGROW INDUSTRIAL ESTATE, KM.36, BANGNA-TRAD, BANGSAMARK, BANGPAKONG,CHACHOENGSAO, 24180, THAILAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "THAILAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

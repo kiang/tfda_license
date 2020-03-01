@@ -1,6 +1,6 @@
 {
     "code": "42000538",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000538",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000538",
     "time": "2020-02-26 03:27:05",
     "許可證字號": "衛署醫器陸輸字第000538號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 40大陸生產",
     "申請商名稱": "6231058670  台灣廣翼國際有限公司",
     "申請商地址": "新北市新店區華興街19號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1135100  Shanghai Kindly Enterprise Development Group Co., Ltd.",
-        "製造廠廠址": "No. 658 Gaochao Road, Shanghai, China 201803",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1135100  Shanghai Kindly Enterprise Development Group Co., Ltd.",
+            "製造廠廠址": "No. 658 Gaochao Road, Shanghai, China 201803",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS5072000  Sol-Millennium Medical Inc.",
+            "製造廠廠址": "1735 North Brown Road Suite 120, Lawrenceville, GA30043, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "56032987",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56032987",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56032987",
     "time": "2020-02-26 08:32:47",
     "許可證字號": "衛部醫器輸字第032987號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201157295  天贈有限公司",
     "申請商地址": "台北市士林區忠誠路２段２號９樓",
-    "主製造廠": {
-        "製造廠名稱": "MAT0072000  EMS Handels Gesellschaft m.b.H.",
-        "製造廠廠址": "Jochingergasse 1, 2100 Korneuburg, AUSTRIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "AUSTRIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MAT0072000  EMS Handels Gesellschaft m.b.H.",
+            "製造廠廠址": "Jochingergasse 1, 2100 Korneuburg, AUSTRIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

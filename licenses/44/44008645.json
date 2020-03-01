@@ -1,6 +1,6 @@
 {
     "code": "44008645",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008645",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008645",
     "time": "2020-02-26 05:07:25",
     "許可證字號": "衛署醫器輸壹字第008645號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620109B087  千華醫療器材有限公司",
     "申請商地址": "台北市大同區長安西路306號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MGB0205000  ASSOCIATED DENTAL PRODUCTS LTD",
-        "製造廠廠址": "PURTON, SWINDON, WILTS. SN5 4HT, UNITED KINGDOM",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0205000  ASSOCIATED DENTAL PRODUCTS LTD",
+            "製造廠廠址": "PURTON, SWINDON, WILTS. SN5 4HT, UNITED KINGDOM",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

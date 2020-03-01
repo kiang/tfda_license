@@ -1,6 +1,6 @@
 {
     "code": "58025639",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58025639",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58025639",
     "time": "2020-02-26 09:49:28",
     "許可證字號": "衛部粧輸字第025639號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6696944858  華世企業有限公司",
     "申請商地址": "新北市中和區中山路二段415號9樓",
-    "主製造廠": {
-        "製造廠名稱": "CKR0076000  KIRIN COSMETICS CO., LTD.",
-        "製造廠廠址": "10 Osongsaengmyeong 1-ro, Osong-eup, Cheongwon-gun, Chungcheongbuk-do, Korea",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CKR0076000  KIRIN COSMETICS CO., LTD.",
+            "製造廠廠址": "10 Osongsaengmyeong 1-ro, Osong-eup, Cheongwon-gun, Chungcheongbuk-do, Korea",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

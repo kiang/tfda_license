@@ -1,6 +1,6 @@
 {
     "code": "94020487",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020487",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020487",
     "time": "2020-02-26 12:44:28",
     "許可證字號": "衛部醫器輸壹字第020487號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201105353  大裕儀器有限公司",
     "申請商地址": "臺北市中山區中山北路一段92號4樓、4樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MSI0007000  AIRFUN D.O.O.",
-        "製造廠廠址": "LJUBL JANSKA CESTA 45 SI-1241 KAMNIK SLOVENIA.",
-        "製造廠公司地址": "",
-        "製造廠國別": "SLOVENIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MSI0007000  AIRFUN D.O.O.",
+            "製造廠廠址": "LJUBL JANSKA CESTA 45 SI-1241 KAMNIK SLOVENIA.",
+            "製造廠公司地址": "",
+            "製造廠國別": "SLOVENIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

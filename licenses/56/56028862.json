@@ -1,6 +1,6 @@
 {
     "code": "56028862",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028862",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028862",
     "time": "2020-02-26 07:59:41",
     "許可證字號": "衛部醫器輸字第028862號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6401028882  荷蘭商艾希優醫療產品股份有限公司台灣分公司",
     "申請商地址": "台北市大安區敦化南路二段319號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MTR0020000  Altera Tibbi Malzeme San. Ve Tic. AS.",
-        "製造廠廠址": "Ibni Melek Mah. Organize Sanayi Bolgesi, 35900, Tire-Izmir, Turkey",
-        "製造廠公司地址": "",
-        "製造廠國別": "TURKEY",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MTR0020000  Altera Tibbi Malzeme San. Ve Tic. AS.",
+            "製造廠廠址": "Ibni Melek Mah. Organize Sanayi Bolgesi, 35900, Tire-Izmir, Turkey",
+            "製造廠公司地址": "",
+            "製造廠國別": "TURKEY",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MIL0857000  Q Core Medical Ltd.",
+            "製造廠廠址": "29 Yad Haruzim St., Netanya 4250529, Israel",
+            "製造廠公司地址": "",
+            "製造廠國別": "ISRAEL",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

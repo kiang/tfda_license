@@ -1,6 +1,6 @@
 {
     "code": "94013793",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013793",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013793",
     "time": "2020-02-26 11:17:38",
     "許可證字號": "衛部醫器輸壹字第013793號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "623202H982  東樑實業股份有限公司",
     "申請商地址": "桃園市中壢區中央里復興路31之5號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS9214010  SIENNA CORPORATION",
-        "製造廠廠址": "475 HORIZON DRIVE, SUWANEE, GA 30024 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS9214010  SIENNA CORPORATION",
+            "製造廠廠址": "475 HORIZON DRIVE, SUWANEE, GA 30024 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS4076000  MMJ LABS LLC",
+            "製造廠廠址": "322 SUTHERLAND PLACE ATLANTA, GA 30307",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

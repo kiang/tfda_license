@@ -1,6 +1,6 @@
 {
     "code": "58022409",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58022409",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58022409",
     "time": "2020-02-26 09:21:41",
     "許可證字號": "衛部粧輸字第022409號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6654043385  愛茉詩國際有限公司",
     "申請商地址": "新北市蘆洲區長興路162號",
-    "主製造廠": {
-        "製造廠名稱": "CKR0055100  UCL CO.,LTD",
-        "製造廠廠址": "119,Neungheodae-ro 649 beon-gil, Namdong-Gu Incheon,Korea",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CKR0055100  UCL CO.,LTD",
+            "製造廠廠址": "119,Neungheodae-ro 649 beon-gil, Namdong-Gu Incheon,Korea",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

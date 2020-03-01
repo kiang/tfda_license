@@ -1,6 +1,6 @@
 {
     "code": "94015943",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015943",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015943",
     "time": "2020-02-26 11:47:56",
     "許可證字號": "衛部醫器輸壹字第015943號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6401105991  泉鑫儀器有限公司",
     "申請商地址": "台北市中山區民權西路27號5樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MKR0731000  BISTOS CO., LTD.",
-        "製造廠廠址": "7TH FL., A BLDG., WOOLIM LIONS VALLEY 5-CHA, 302, GALMACHI-RO, JUNGWON-GU, SEONGNAM-SI, GYEONGGI-DO KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0731000  BISTOS CO., LTD.",
+            "製造廠廠址": "7TH FL., A BLDG., WOOLIM LIONS VALLEY 5-CHA, 302, GALMACHI-RO, JUNGWON-GU, SEONGNAM-SI, GYEONGGI-DO KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

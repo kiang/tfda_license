@@ -1,6 +1,6 @@
 {
     "code": "96002960",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002960",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002960",
     "time": "2020-02-26 13:05:49",
     "許可證字號": "衛部醫器陸輸壹字第002960號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6231174071  安德貿易股份有限公司",
     "申請商地址": "新北市林口區中山路518號2樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MCN4325000  SUNRISE MEDICAL HCM(XIAMEN) CO., LTD.",
-        "製造廠廠址": "DONGFU AVENUE 2881 HEALICARE EAST OF1-4F, PLANT 15, HALCANG TAIWAN-FUNDEDSME PLINEER PARK 361027 XIAMEN, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN4325000  SUNRISE MEDICAL HCM(XIAMEN) CO., LTD.",
+            "製造廠廠址": "DONGFU AVENUE 2881 HEALICARE EAST OF1-4F, PLANT 15, HALCANG TAIWAN-FUNDEDSME PLINEER PARK 361027 XIAMEN, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

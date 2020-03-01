@@ -1,6 +1,6 @@
 {
     "code": "56030113",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030113",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030113",
     "time": "2020-02-26 08:11:28",
     "許可證字號": "衛部醫器輸字第030113號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1426402100  台灣柏朗股份有限公司",
     "申請商地址": "台北市松山區健康路152號9樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE0108100  AESCULAP AG",
-        "製造廠廠址": "AM AESCULAP-PLATZ, 78532 TUTTLINGEN, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0108100  AESCULAP AG",
+            "製造廠廠址": "AM AESCULAP-PLATZ, 78532 TUTTLINGEN, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

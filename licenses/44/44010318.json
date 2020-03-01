@@ -1,6 +1,6 @@
 {
     "code": "44010318",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010318",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010318",
     "time": "2020-02-26 05:23:55",
     "許可證字號": "衛署醫器輸壹字第010318號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231029393  香港商奧托博克亞洲太平洋有限公司台灣分公司",
     "申請商地址": "臺北市大同區承德路2段215號5樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MDE0989000  OTTO BOCK MOBILITY SOLUTIONS GMBH",
-        "製造廠廠址": "LINDENSTR. 13 07426 KOENIGSEE\/THURINGEN, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0989000  OTTO BOCK MOBILITY SOLUTIONS GMBH",
+            "製造廠廠址": "LINDENSTR. 13 07426 KOENIGSEE\/THURINGEN, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

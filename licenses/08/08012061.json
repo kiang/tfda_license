@@ -1,6 +1,6 @@
 {
     "code": "08012061",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08012061",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08012061",
     "time": "2020-02-25 23:57:24",
     "許可證字號": "衛署粧輸字第012061號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1436001100  榮懋興業有限公司",
     "申請商地址": "台北市松山區八德路三段２１９號１０樓",
-    "主製造廠": {
-        "製造廠名稱": "CFR0082100  COSMETIC RESEARCH GROUP",
-        "製造廠廠址": "1241, 1&#232;re Avence, 06510 Carros, France",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CFR0082100  COSMETIC RESEARCH GROUP",
+            "製造廠廠址": "1241, 1&#232;re Avence, 06510 Carros, France",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

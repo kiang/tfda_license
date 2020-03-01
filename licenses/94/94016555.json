@@ -1,6 +1,6 @@
 {
     "code": "94016555",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016555",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016555",
     "time": "2020-02-26 11:57:22",
     "許可證字號": "衛部醫器輸壹字第016555號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231147369  華盛生醫科技股份有限公司",
     "申請商地址": "新北市五股區中興路一段6之1號(1樓)",
-    "主製造廠": {
-        "製造廠名稱": "MKR0762000  MSLINE ENG CO., LTD",
-        "製造廠廠址": "202, KICETVENTURE B\/D, 77, DIGITAL-RO 10-GIL, GEUMCHEON-GU, SEOUL, 153-801, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0762000  MSLINE ENG CO., LTD",
+            "製造廠廠址": "202, KICETVENTURE B\/D, 77, DIGITAL-RO 10-GIL, GEUMCHEON-GU, SEOUL, 153-801, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

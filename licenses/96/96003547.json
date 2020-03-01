@@ -1,6 +1,6 @@
 {
     "code": "96003547",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003547",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003547",
     "time": "2020-02-26 13:11:34",
     "許可證字號": "衛部醫器陸輸壹字第003547號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "620101I202  凱圖國際股份有限公司",
     "申請商地址": "臺北市內湖區基湖路18號9樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1885000  Qingdao Haier Biomedical Co.,Ltd.",
-        "製造廠廠址": "Haier Industrial Park, Economic Technology Development Zone, Qingdao,China",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1885000  Qingdao Haier Biomedical Co.,Ltd.",
+            "製造廠廠址": "Haier Industrial Park, Economic Technology Development Zone, Qingdao,China",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

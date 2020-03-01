@@ -1,6 +1,6 @@
 {
     "code": "44011605",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011605",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011605",
     "time": "2020-02-26 05:36:36",
     "許可證字號": "衛署醫器輸壹字第011605號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "6201106494  汎英股份有限公司",
     "申請商地址": "臺北市中山區松江路301號9樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MCA0053000  LABORIE MEDICAL TECHNOLOGIES CANADA ULC.",
-        "製造廠廠址": "6415 NORTHWEST DRIVE, UNIT 10, MISSISSAUGA, ONTARIO, L4V 1X1, CANADA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CANADA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCA0053000  LABORIE MEDICAL TECHNOLOGIES CANADA ULC.",
+            "製造廠廠址": "6415 NORTHWEST DRIVE, UNIT 10, MISSISSAUGA, ONTARIO, L4V 1X1, CANADA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CANADA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "44012748",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012748",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012748",
     "time": "2020-02-26 05:47:41",
     "許可證字號": "衛署醫器輸壹字第012748號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6221024322  帝博企業有限公司",
     "申請商地址": "台南市南區國民路165巷22弄22號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP6077000  TAUNS LABORATORIES, INC",
-        "製造廠廠址": "9-12-2, FUTABA-CHO, NUMAZU, SHIZUOKA PREF. 410-0005 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP6077000  TAUNS LABORATORIES, INC",
+            "製造廠廠址": "9-12-2, FUTABA-CHO, NUMAZU, SHIZUOKA PREF. 410-0005 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

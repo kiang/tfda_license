@@ -1,6 +1,6 @@
 {
     "code": "44006699",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006699",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006699",
     "time": "2020-02-26 04:53:15",
     "許可證字號": "衛署醫器輸壹字第006699號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0517601100  巨桴有限公司",
     "申請商地址": "新北市三重區興德路131巷32號",
-    "主製造廠": {
-        "製造廠名稱": "MDE0245000  VBM MEDIZINTECHNIK GMBH",
-        "製造廠廠址": "EINSTEINSTR. 1 D-72172 SULZ A.N. GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0245000  VBM MEDIZINTECHNIK GMBH",
+            "製造廠廠址": "EINSTEINSTR. 1 D-72172 SULZ A.N. GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

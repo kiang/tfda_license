@@ -1,6 +1,6 @@
 {
     "code": "06023370",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023370",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023370",
     "time": "2020-02-25 20:30:34",
     "許可證字號": "衛署醫器輸字第023370號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620118H944  台灣旭化成醫療器材貿易股份有限公司",
     "申請商地址": "臺北市中正區忠孝東路2段88號9樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP0796000  Asahi Kasei Medical Co.,Ltd.Okatomi Plant",
-        "製造廠廠址": "5-4960 Nakagawara-Machi, Nobeoka-shi, Miyazaki, 882-0031, Japan",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0796000  Asahi Kasei Medical Co.,Ltd.Okatomi Plant",
+            "製造廠廠址": "5-4960 Nakagawara-Machi, Nobeoka-shi, Miyazaki, 882-0031, Japan",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

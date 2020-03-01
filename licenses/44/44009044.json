@@ -1,6 +1,6 @@
 {
     "code": "44009044",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009044",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009044",
     "time": "2020-02-26 05:11:13",
     "許可證字號": "衛署醫器輸壹字第009044號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102Q606  宗聖貿易有限公司",
     "申請商地址": "台北市大安區和平東路2段18巷9之10號",
-    "主製造廠": {
-        "製造廠名稱": "MUS2157000  ORTHO TECHNOLOGY INC.",
-        "製造廠廠址": "17401 COMMERCE PARK BOULEVARD TEMPA, FL 33647, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2157000  ORTHO TECHNOLOGY INC.",
+            "製造廠廠址": "17401 COMMERCE PARK BOULEVARD TEMPA, FL 33647, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

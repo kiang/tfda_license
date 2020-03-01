@@ -1,6 +1,6 @@
 {
     "code": "44010282",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010282",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010282",
     "time": "2020-02-26 05:23:34",
     "許可證字號": "衛署醫器輸壹字第010282號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0830601100  朋笛國際有限公司",
     "申請商地址": "台北市中山區龍江路45巷2之4號",
-    "主製造廠": {
-        "製造廠名稱": "MUS3786000  LIGHT-TECH, INC.",
-        "製造廠廠址": "8900 WEST JOSEPHINE ROAD SEBRING, FL33875, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS3786000  LIGHT-TECH, INC.",
+            "製造廠廠址": "8900 WEST JOSEPHINE ROAD SEBRING, FL33875, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

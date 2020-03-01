@@ -1,6 +1,6 @@
 {
     "code": "94013601",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013601",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013601",
     "time": "2020-02-26 11:15:08",
     "許可證字號": "衛部醫器輸壹字第013601號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6203290588  佳昇醫療器材有限公司",
     "申請商地址": "臺中市北屯區昌平路一段156號9樓",
-    "主製造廠": {
-        "製造廠名稱": "MGB0929000  ESALA LIMITED",
-        "製造廠廠址": "7\/11 MINERVA ROAD, PARK ROYAL, LONDON, UNITED KINGDOM NW10 6HT",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0929000  ESALA LIMITED",
+            "製造廠廠址": "7\/11 MINERVA ROAD, PARK ROYAL, LONDON, UNITED KINGDOM NW10 6HT",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

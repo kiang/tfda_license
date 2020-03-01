@@ -1,6 +1,6 @@
 {
     "code": "94014824",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014824",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014824",
     "time": "2020-02-26 11:32:52",
     "許可證字號": "衛部醫器輸壹字第014824號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620119A736  倍德恩國際有限公司",
     "申請商地址": "臺北市萬華區漢中街176號4樓之6",
-    "主製造廠": {
-        "製造廠名稱": "MDE0693000  BREDENT GMBH &amp; CO. KG",
-        "製造廠廠址": "WEISSENHORNER STR. 2 89250 SENDEN GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0693000  BREDENT GMBH &amp; CO. KG",
+            "製造廠廠址": "WEISSENHORNER STR. 2 89250 SENDEN GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

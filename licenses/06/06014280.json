@@ -1,6 +1,6 @@
 {
     "code": "06014280",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014280",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014280",
     "time": "2020-02-25 18:47:54",
     "許可證字號": "衛署醫器輸字第014280號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201117755  台宇實業股份有限公司",
     "申請商地址": "臺北市內湖區安康路142號7樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS2057000  EPIMED INTERNATIONAL, INC.",
-        "製造廠廠址": "141 SAL LANDRIO DRIVE CROSSROADS BUSINESS PARK JOHNSTOWN NY 12095 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2057000  EPIMED INTERNATIONAL, INC.",
+            "製造廠廠址": "141 SAL LANDRIO DRIVE CROSSROADS BUSINESS PARK JOHNSTOWN NY 12095 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

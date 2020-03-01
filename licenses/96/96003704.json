@@ -1,6 +1,6 @@
 {
     "code": "96003704",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003704",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003704",
     "time": "2020-02-26 13:13:27",
     "許可證字號": "衛部醫器陸輸壹字第003704號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "640102A975  桔英有限公司",
     "申請商地址": "臺北市大安區通化街143巷30號",
-    "主製造廠": {
-        "製造廠名稱": "MCN1988000  DANYANG CITY DEVELOPMENT ZONE MAI SHIDA GLASSES FACTORY",
-        "製造廠廠址": "NO.130, SHIXIANG VILLAGE, ECONOMIC DEVELOPMENT ZONE, DANYANG CITY, ZHENJIANG CITY, JIANGSU PROVINCE CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1988000  DANYANG CITY DEVELOPMENT ZONE MAI SHIDA GLASSES FACTORY",
+            "製造廠廠址": "NO.130, SHIXIANG VILLAGE, ECONOMIC DEVELOPMENT ZONE, DANYANG CITY, ZHENJIANG CITY, JIANGSU PROVINCE CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

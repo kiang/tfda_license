@@ -1,6 +1,6 @@
 {
     "code": "58021425",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58021425",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58021425",
     "time": "2020-02-26 09:03:54",
     "許可證字號": "衛部粧輸字第021425號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6653861061  鋒尚髮業國際有限公司",
     "申請商地址": "台中市大肚區沙田路一段388巷2-6號1樓",
-    "主製造廠": {
-        "製造廠名稱": "CIT0125000  HSA HAIR STYLING APPLIATIONS S.p.A",
-        "製造廠廠址": "Ugo Foscolo,27 21050 Bisuschio (VA)",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CIT0125000  HSA HAIR STYLING APPLIATIONS S.p.A",
+            "製造廠廠址": "Ugo Foscolo,27 21050 Bisuschio (VA)",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

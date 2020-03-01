@@ -1,6 +1,6 @@
 {
     "code": "56030499",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030499",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030499",
     "time": "2020-02-26 08:14:17",
     "許可證字號": "衛部醫器輸字第030499號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0932301100  美商亞培股份有限公司台灣分公司",
     "申請商地址": "台北市中山區民生東路三段49號5樓、6樓及51號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MGB0908100  ABBOTT DIABETES CARE, LTD.",
-        "製造廠廠址": "RANGE ROAD, WITNEY, OXON, OX29 OYL, UNITED KINGDOM",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0908100  ABBOTT DIABETES CARE, LTD.",
+            "製造廠廠址": "RANGE ROAD, WITNEY, OXON, OX29 OYL, UNITED KINGDOM",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MSG0116000  RR DONNELLEY GLOBAL TURKEY SOLUTIONS (BANTA GLOBAL TURNKEY SINGAPORE PTE LTD)",
+            "製造廠廠址": "30 TOH GUAN ROAD, #03-01\/#05-01, SINGAPORE 608840",
+            "製造廠公司地址": "",
+            "製造廠國別": "SINGAPORE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

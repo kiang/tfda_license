@@ -1,6 +1,6 @@
 {
     "code": "06010015",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010015",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010015",
     "time": "2020-02-25 17:58:30",
     "許可證字號": "衛署醫器輸字第010015號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1108401100  基昌企業有限公司",
     "申請商地址": "台北市敦化北路１１２號４樓",
-    "主製造廠": {
-        "製造廠名稱": "MES0012000  AVIZOR S.A.",
-        "製造廠廠址": "LA CANADA, 17, E-28850 TORREJON DE ARDOZ, SPAIN",
-        "製造廠公司地址": "",
-        "製造廠國別": "SPAIN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MES0012000  AVIZOR S.A.",
+            "製造廠廠址": "LA CANADA, 17, E-28850 TORREJON DE ARDOZ, SPAIN",
+            "製造廠公司地址": "",
+            "製造廠國別": "SPAIN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

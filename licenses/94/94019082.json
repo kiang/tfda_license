@@ -1,6 +1,6 @@
 {
     "code": "94019082",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019082",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019082",
     "time": "2020-02-26 12:30:41",
     "許可證字號": "衛部醫器輸壹字第019082號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620117O830  台灣寶貝蒙股份有限公司",
     "申請商地址": "台北市信義區松德路200巷1號",
-    "主製造廠": {
-        "製造廠名稱": "MJP1308000  TAKARA BELMONT CORPORATION – OSAKA FACTORY",
-        "製造廠廠址": "2-6-59, KITATSUMORI, NISHINARI-KU, OSAKA 557-0061, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP1308000  TAKARA BELMONT CORPORATION – OSAKA FACTORY",
+            "製造廠廠址": "2-6-59, KITATSUMORI, NISHINARI-KU, OSAKA 557-0061, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

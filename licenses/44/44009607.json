@@ -1,6 +1,6 @@
 {
     "code": "44009607",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009607",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009607",
     "time": "2020-02-26 05:16:54",
     "許可證字號": "衛署醫器輸壹字第009607號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217064890  漢東科技有限公司",
     "申請商地址": "台中市西屯區區政北二路413號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0362000  HANMI SWISS OPTICAL GLASSES CO., LTD",
-        "製造廠廠址": "NO.26-18, HO-DONG JUNG-GU DAE JEON CITY KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0362000  HANMI SWISS OPTICAL GLASSES CO., LTD",
+            "製造廠廠址": "NO.26-18, HO-DONG JUNG-GU DAE JEON CITY KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

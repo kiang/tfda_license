@@ -1,6 +1,6 @@
 {
     "code": "94018926",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018926",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018926",
     "time": "2020-02-26 12:28:58",
     "許可證字號": "衛部醫器輸壹字第018926號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623202F273  鐳富實業有限公司",
     "申請商地址": "桃園市中壢區復興里長樂三街15號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MIT0190200  OVERFIBERS S.R.L.",
-        "製造廠廠址": "VIA E. Malatesta, 7 -40026 Imola (BO) Italy",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIT0190200  OVERFIBERS S.R.L.",
+            "製造廠廠址": "VIA E. Malatesta, 7 -40026 Imola (BO) Italy",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

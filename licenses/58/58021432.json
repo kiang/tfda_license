@@ -1,6 +1,6 @@
 {
     "code": "58021432",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58021432",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58021432",
     "time": "2020-02-26 09:04:04",
     "許可證字號": "衛部粧輸字第021432號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6697136O67  佑爾康國際股份有限公司",
     "申請商地址": "高雄市三民區大昌二路65號10樓",
-    "主製造廠": {
-        "製造廠名稱": "CUS0334000  MyChelle Dermaceuticals, LLC",
-        "製造廠廠址": "1301 Courtesy Rd., Louisville, Co80027, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CUS0334000  MyChelle Dermaceuticals, LLC",
+            "製造廠廠址": "1301 Courtesy Rd., Louisville, Co80027, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

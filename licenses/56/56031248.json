@@ -1,6 +1,6 @@
 {
     "code": "56031248",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031248",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031248",
     "time": "2020-02-26 08:21:42",
     "許可證字號": "衛部醫器輸字第031248號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1013030200  邦特生物科技股份有限公司",
     "申請商地址": "台北市中山區長安東路一段23號5樓之6",
-    "主製造廠": {
-        "製造廠名稱": "MPH0021100  BIOTEQUE MEDICAL PHIL. INC.",
-        "製造廠廠址": "BLOCK 14, LOTS 2,3,4, HERMOSA ECOZONE INDUSTRIAL PARK, BRGY. PALIHAN, HERMOSA BATAAN, PHILIPPINES",
-        "製造廠公司地址": "",
-        "製造廠國別": "PHILIPPINES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MPH0021100  BIOTEQUE MEDICAL PHIL. INC.",
+            "製造廠廠址": "BLOCK 14, LOTS 2,3,4, HERMOSA ECOZONE INDUSTRIAL PARK, BRGY. PALIHAN, HERMOSA BATAAN, PHILIPPINES",
+            "製造廠公司地址": "",
+            "製造廠國別": "PHILIPPINES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

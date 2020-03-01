@@ -1,6 +1,6 @@
 {
     "code": "46001563",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001563",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001563",
     "time": "2020-02-26 06:08:20",
     "許可證字號": "衛署醫器陸輸壹字第001563號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6140041127  康揚股份有限公司",
     "申請商地址": "嘉義縣民雄鄉豐收村大學路2段2363號",
-    "主製造廠": {
-        "製造廠名稱": "MCN4091000  HUZHOU CONCORD MOBILITY CO., LTD.",
-        "製造廠廠址": "NO.618 GANSHAN ROAD HU-ZHOU CITY, ZHE-JIANG P.R.CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN4091000  HUZHOU CONCORD MOBILITY CO., LTD.",
+            "製造廠廠址": "NO.618 GANSHAN ROAD HU-ZHOU CITY, ZHE-JIANG P.R.CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

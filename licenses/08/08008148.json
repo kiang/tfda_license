@@ -1,6 +1,6 @@
 {
     "code": "08008148",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08008148",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08008148",
     "time": "2020-02-25 23:19:29",
     "許可證字號": "衛署粧輸字第008148號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1707617100  聯佳實業股份有限公司",
     "申請商地址": "嘉義巿吳鳳南路１２６號",
-    "主製造廠": {
-        "製造廠名稱": "CIT0003000  ISTITUTO GANASSINI S.P.A. FOR BIOCHEMICAL-RESEARCH",
-        "製造廠廠址": "VIA GAGGIA, 16-20139 MILANO, ITALY.",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CIT0003000  ISTITUTO GANASSINI S.P.A. FOR BIOCHEMICAL-RESEARCH",
+            "製造廠廠址": "VIA GAGGIA, 16-20139 MILANO, ITALY.",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

@@ -1,6 +1,6 @@
 {
     "code": "08020333",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08020333",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08020333",
     "time": "2020-02-26 01:27:47",
     "許可證字號": "衛署粧輸字第020333號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6623929515  台灣漢高股份有限公司",
     "申請商地址": "新北市中和區中正路866號10樓",
-    "主製造廠": {
-        "製造廠名稱": "CGB0057000  SCHWARZKOPF &amp; HENKEL PRODUCTION EUROPE GMBH &amp; CO. KG",
-        "製造廠廠址": "40191 DUSSELDORF, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CGB0057000  SCHWARZKOPF &amp; HENKEL PRODUCTION EUROPE GMBH &amp; CO. KG",
+            "製造廠廠址": "40191 DUSSELDORF, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

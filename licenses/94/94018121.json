@@ -1,6 +1,6 @@
 {
     "code": "94018121",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018121",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018121",
     "time": "2020-02-26 12:22:17",
     "許可證字號": "衛部醫器輸壹字第018121號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "624006A106  有健康有限公司",
     "申請商地址": "嘉義縣新港鄉古民村89之1號",
-    "主製造廠": {
-        "製造廠名稱": "MUS2034100  TRULIFE",
-        "製造廠廠址": "26296 TWELVE TREES LANE NW POULSBO WA 98370 U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2034100  TRULIFE",
+            "製造廠廠址": "26296 TWELVE TREES LANE NW POULSBO WA 98370 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

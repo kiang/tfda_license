@@ -1,6 +1,6 @@
 {
     "code": "58021787",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58021787",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58021787",
     "time": "2020-02-26 09:09:53",
     "許可證字號": "衛部粧輸字第021787號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6624357367  巧恬興業有限公司",
     "申請商地址": "台中市西屯區福上巷290弄11號1樓",
-    "主製造廠": {
-        "製造廠名稱": "CKR0087000  COSMAX, INC.",
-        "製造廠廠址": "27, Jeyakgongdan 1-gil, 46, Jeyakgongdan 2-gil, Hyangnam-eup, Hwaseong-si, Gyeonggi-do, Korea",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CKR0087000  COSMAX, INC.",
+            "製造廠廠址": "27, Jeyakgongdan 1-gil, 46, Jeyakgongdan 2-gil, Hyangnam-eup, Hwaseong-si, Gyeonggi-do, Korea",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

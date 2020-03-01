@@ -1,6 +1,6 @@
 {
     "code": "94019906",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019906",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019906",
     "time": "2020-02-26 12:39:24",
     "許可證字號": "衛部醫器輸壹字第019906號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620117B535  碩景股份有限公司",
     "申請商地址": "台北市信義區松德路７４號８樓",
-    "主製造廠": {
-        "製造廠名稱": "MES0117000  INOVA DIAGNOSTICS",
-        "製造廠廠址": "CAN MALE S\/N, 08186, LLICAD AMUNT, BARCELONA, SPAIN",
-        "製造廠公司地址": "",
-        "製造廠國別": "SPAIN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MES0117000  INOVA DIAGNOSTICS",
+            "製造廠廠址": "CAN MALE S\/N, 08186, LLICAD AMUNT, BARCELONA, SPAIN",
+            "製造廠公司地址": "",
+            "製造廠國別": "SPAIN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

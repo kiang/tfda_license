@@ -1,6 +1,6 @@
 {
     "code": "94016833",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016833",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016833",
     "time": "2020-02-26 12:01:03",
     "許可證字號": "衛部醫器輸壹字第016833號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620119A101  碩方有限公司",
     "申請商地址": "臺北市中正區衡陽路51號11樓之1(A218室)",
-    "主製造廠": {
-        "製造廠名稱": "MSG0125000  RUI YING MEDICAL TECHNOLOGY PTE. LTD.",
-        "製造廠廠址": "9 TEMASEK BOULEVARD #04-02 SUNTEC TOWER TWO SINGAPORE 038989",
-        "製造廠公司地址": "",
-        "製造廠國別": "SINGAPORE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MSG0125000  RUI YING MEDICAL TECHNOLOGY PTE. LTD.",
+            "製造廠廠址": "9 TEMASEK BOULEVARD #04-02 SUNTEC TOWER TWO SINGAPORE 038989",
+            "製造廠公司地址": "",
+            "製造廠國別": "SINGAPORE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

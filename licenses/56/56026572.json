@@ -1,6 +1,6 @@
 {
     "code": "56026572",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026572",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026572",
     "time": "2020-02-26 07:36:16",
     "許可證字號": "衛部醫器輸字第026572號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201098451  富凡國際有限公司",
     "申請商地址": "台北市大同區重慶北路二段73巷28號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0513000  B.M. TECH. WORLDWIDE CO., LTD.",
-        "製造廠廠址": "10F1., JUNGANG INDUSPIA 5TH, 138-6 SANGDAEWON-DONG, JUNGWON-GU, SEONGNAM-SI, GYEONGGI-DO, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0513000  B.M. TECH. WORLDWIDE CO., LTD.",
+            "製造廠廠址": "10F1., JUNGANG INDUSPIA 5TH, 138-6 SANGDAEWON-DONG, JUNGWON-GU, SEONGNAM-SI, GYEONGGI-DO, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

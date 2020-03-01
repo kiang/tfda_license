@@ -1,6 +1,6 @@
 {
     "code": "44008460",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008460",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008460",
     "time": "2020-02-26 05:06:02",
     "許可證字號": "衛署醫器輸壹字第008460號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102N196  博佳康健股份有限公司",
     "申請商地址": "台北市中正區羅斯福路一段76號",
-    "主製造廠": {
-        "製造廠名稱": "MIT0146000  MEDEL S.P.A.",
-        "製造廠廠址": "VIA MICHELI , 9, 43056 S. POLO DI TORRILE (Parma), ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIT0146000  MEDEL S.P.A.",
+            "製造廠廠址": "VIA MICHELI , 9, 43056 S. POLO DI TORRILE (Parma), ITALY",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

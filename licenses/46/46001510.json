@@ -1,6 +1,6 @@
 {
     "code": "46001510",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001510",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001510",
     "time": "2020-02-26 06:07:48",
     "許可證字號": "衛署醫器陸輸壹字第001510號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 36GMP 40大陸生產",
     "申請商名稱": "620102R416  台灣優易試企業有限公司",
     "申請商地址": "台北市大安區延吉街253巷2弄6號",
-    "主製造廠": {
-        "製造廠名稱": "MCN0369000  STERILANCE MEDICAL (SUZHOU) INC.",
-        "製造廠廠址": "NO. 68, LITANGHE ROAD, XIANGCHENG, SUZHOU, JIANGSU 215133 P.R. CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0369000  STERILANCE MEDICAL (SUZHOU) INC.",
+            "製造廠廠址": "NO. 68, LITANGHE ROAD, XIANGCHENG, SUZHOU, JIANGSU 215133 P.R. CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MCA0062000  LERNAPHARM INC.",
+            "製造廠廠址": "2323 HALPERN VILL ST-LAURENT QUEBEC CANADA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CANADA",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

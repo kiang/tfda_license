@@ -1,6 +1,6 @@
 {
     "code": "06024799",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024799",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024799",
     "time": "2020-02-25 20:45:40",
     "許可證字號": "衛署醫器輸字第024799號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620109C888  守恆健康事業股份有限公司",
     "申請商地址": "台北市內湖區安美街161號9樓",
-    "主製造廠": {
-        "製造廠名稱": "MIL0085400  Alma Lasers Ltd.",
-        "製造廠廠址": "14 Halamish Street, Caesarea North Industrial Park, 3088900, Israel",
-        "製造廠公司地址": "",
-        "製造廠國別": "ISRAEL",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIL0085400  Alma Lasers Ltd.",
+            "製造廠廠址": "14 Halamish Street, Caesarea North Industrial Park, 3088900, Israel",
+            "製造廠公司地址": "",
+            "製造廠國別": "ISRAEL",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MDE1317100  Alma Lasers GmbH",
+            "製造廠廠址": "Nordostpark 100-102, D-90411 N&#252;rnberg, Deutschland\/ Germany",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

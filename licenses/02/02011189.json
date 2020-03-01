@@ -1,11 +1,12 @@
 {
     "code": "02011189",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02011189",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02011189",
     "time": "2020-02-25 09:51:18",
     "許可證字號": "衛署藥輸字第011189號",
     "註銷狀態": "已註銷",
     "註銷日期": "86\/12\/01",
     "註銷理由": "包裝變更主成分變更移轉（申請商）移轉（製造廠）",
+    "製造許可登錄編號": "",
     "有效日期": "88\/04\/26",
     "發證日期": "72\/04\/26",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "1418801100  瑋康有限公司",
-        "申請商地址": "台北巿仁愛路二段３４號６Ｆ之１",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "IRON (FERROUS FUMARATE), PHOSPHORUS (DICALCIUM PHOSPHATE), CALCIUM (DICALCIUM PHOSPHATE), CALCIUM (CARBONATE), MAGNESIUM (OXIDE), MAGNESIUM (SULFATE), POTASSIUM (SULFATE), CUPRIC (SULFATE), CHOLINE BITARTRATE, IODINE (KELP), VITAMIN A, BIOTIN, NIACINAMIDE (NICOTINAMIDE), THIAMINE MONONITRATE, RIBOFLAVIN (VIT B2), PYRIDOXINE(VITAMIN B6), CYANOCOBALAMIN (VIT B12), FOLIC ACID, PANTOTHENATE (D- CALCIUM), INOSITOL (MESO-INOSITOL), ASCORBIC ACID (VIT C), VITAMIN D, VIT E (TOCOPHEROL ALPHA D-), LECITHIN(LECITHOL), ZINC (ZINC SULFATE)",
+    "限制項目": "02輸　入",
+    "申請商名稱": "1418801100  瑋康有限公司",
+    "申請商地址": "台北巿仁愛路二段３４號６Ｆ之１",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FCA0019000  STANLEY PHARMACEUTICALS LTD.",
+            "製造廠廠址": "1353 MAIN ST. NORTH VANCOUVER B.C. V7J 1C5",
+            "製造廠公司地址": "",
+            "製造廠國別": "CANADA",
+            "製程": ""
+        }
+    ],
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [

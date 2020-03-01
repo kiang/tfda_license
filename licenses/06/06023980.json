@@ -1,6 +1,6 @@
 {
     "code": "06023980",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023980",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023980",
     "time": "2020-02-25 20:37:11",
     "許可證字號": "衛署醫器輸字第023980號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102J090  久和醫療儀器股份有限公司",
     "申請商地址": "台北市中山區長春路３８０號５樓",
-    "主製造廠": {
-        "製造廠名稱": "MGB0143000  ELEKTA LIMITED",
-        "製造廠廠址": "LINAC HOUSE FLEMING WAY CRAWLEY WEST SUSSEX RH10 9RR ENGLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0143000  ELEKTA LIMITED",
+            "製造廠廠址": "LINAC HOUSE FLEMING WAY CRAWLEY WEST SUSSEX RH10 9RR ENGLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

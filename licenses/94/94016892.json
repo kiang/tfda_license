@@ -1,6 +1,6 @@
 {
     "code": "94016892",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016892",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016892",
     "time": "2020-02-26 12:01:51",
     "許可證字號": "衛部醫器輸壹字第016892號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623102J286  得立生技有限公司",
     "申請商地址": "臺北市大同區承德路1段46號3樓（實際營業地址：HUITZILOPOCHTLI室）",
-    "主製造廠": {
-        "製造廠名稱": "MKR0781000  HANKIL TECH MEDICAL  CO., LTD.",
-        "製造廠廠址": "452-29 PUREUNDEULPAN-RO, PALTAN-MYEON, HWASEONG-SI, GYEONGGI-DO, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0781000  HANKIL TECH MEDICAL  CO., LTD.",
+            "製造廠廠址": "452-29 PUREUNDEULPAN-RO, PALTAN-MYEON, HWASEONG-SI, GYEONGGI-DO, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

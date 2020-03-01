@@ -1,6 +1,6 @@
 {
     "code": "44009321",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009321",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009321",
     "time": "2020-02-26 05:14:03",
     "許可證字號": "衛署醫器輸壹字第009321號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6202024375  普達康股份有限公司",
     "申請商地址": "高雄市三民區義永路43巷1號",
-    "主製造廠": {
-        "製造廠名稱": "MFI0039000  LOJER OY",
-        "製造廠廠址": "PUTAJANTIE 42, P.O. BOX 54, FIN-38201 SASTAMALA, FINLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "FINLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFI0039000  LOJER OY",
+            "製造廠廠址": "PUTAJANTIE 42, P.O. BOX 54, FIN-38201 SASTAMALA, FINLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "FINLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

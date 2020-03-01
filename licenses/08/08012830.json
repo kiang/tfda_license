@@ -1,6 +1,6 @@
 {
     "code": "08012830",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08012830",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08012830",
     "time": "2020-02-26 00:06:00",
     "許可證字號": "衛署粧輸字第012830號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0830701100  肯邦國際企業有限公司",
     "申請商地址": "新北市中和區建八路16號8樓之3",
-    "主製造廠": {
-        "製造廠名稱": "CUS0122000  RENBOW INTERNATIONAL USA",
-        "製造廠廠址": "126-128 N. FIFTH STREET READING PA 19601 U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CUS0122000  RENBOW INTERNATIONAL USA",
+            "製造廠廠址": "126-128 N. FIFTH STREET READING PA 19601 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

@@ -1,6 +1,6 @@
 {
     "code": "06006382",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06006382",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06006382",
     "time": "2020-02-25 17:08:45",
     "許可證字號": "衛署醫器輸字第006382號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "2200301100  懿德企業有限公司",
     "申請商地址": "台北巿和平西路一段１５０號６Ｆ之２",
-    "主製造廠": {
-        "製造廠名稱": "MJP0262000  HAYASHI DENKI CO,.LTD.",
-        "製造廠廠址": "7-11 2-CHOME,ARIMA,MIYAMAE-KU,KAWASAKI-SHK,213 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0262000  HAYASHI DENKI CO,.LTD.",
+            "製造廠廠址": "7-11 2-CHOME,ARIMA,MIYAMAE-KU,KAWASAKI-SHK,213 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

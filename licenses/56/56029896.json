@@ -1,6 +1,6 @@
 {
     "code": "56029896",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029896",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029896",
     "time": "2020-02-26 08:09:12",
     "許可證字號": "衛部醫器輸字第029896號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6232075068  明達醫學科技股份有限公司",
     "申請商地址": "桃園市桃園區中信里中山路956巷116號",
-    "主製造廠": {
-        "製造廠名稱": "MDE1292100  Medi-Globe GmbH",
-        "製造廠廠址": "Medi-Globe-Str. 1-5, 83101 Rohrdorf Achenmuhle, Germany",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE1292100  Medi-Globe GmbH",
+            "製造廠廠址": "Medi-Globe-Str. 1-5, 83101 Rohrdorf Achenmuhle, Germany",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

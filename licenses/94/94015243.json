@@ -1,6 +1,6 @@
 {
     "code": "94015243",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015243",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015243",
     "time": "2020-02-26 11:38:07",
     "許可證字號": "衛部醫器輸壹字第015243號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6401024795  新加坡商歐蒙醫療器材有限公司台灣分公司",
     "申請商地址": "臺北市大安區忠孝東路4段230號11樓(實際營業地址B室)",
-    "主製造廠": {
-        "製造廠名稱": "MDE0197200  EUROIMMUN MEDIZINISCHE LABORDIAGNOSTIKA AG",
-        "製造廠廠址": "SEEKAMP 31, 23560 LUBECK, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0197200  EUROIMMUN MEDIZINISCHE LABORDIAGNOSTIKA AG",
+            "製造廠廠址": "SEEKAMP 31, 23560 LUBECK, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

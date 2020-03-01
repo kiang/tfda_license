@@ -1,6 +1,6 @@
 {
     "code": "94018625",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018625",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018625",
     "time": "2020-02-26 12:25:56",
     "許可證字號": "衛部醫器輸壹字第018625號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102Z592  華毅生物醫學有限公司",
     "申請商地址": "臺北市大安區復興南路一段200號6樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MFI0025300  LM-INSTRUMENTS OY",
-        "製造廠廠址": "PL 88 (NORRBYN RANTATIE 8 ) FIN-21600 PARAINEN FINLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "FINLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFI0025300  LM-INSTRUMENTS OY",
+            "製造廠廠址": "PL 88 (NORRBYN RANTATIE 8 ) FIN-21600 PARAINEN FINLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "FINLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

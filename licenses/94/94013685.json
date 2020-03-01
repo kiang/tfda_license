@@ -1,6 +1,6 @@
 {
     "code": "94013685",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013685",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013685",
     "time": "2020-02-26 11:16:15",
     "許可證字號": "衛部醫器輸壹字第013685號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217057813  偉平貿易有限公司",
     "申請商地址": "台中市北區永興街８號２樓",
-    "主製造廠": {
-        "製造廠名稱": "MSK0005100  FONA DENTAL S.R.O.",
-        "製造廠廠址": "SEVCENKOVA 34, 85101 BRATISLAVA, SLOVAK REPUBLIC",
-        "製造廠公司地址": "",
-        "製造廠國別": "SLOVAKIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MSK0005100  FONA DENTAL S.R.O.",
+            "製造廠廠址": "SEVCENKOVA 34, 85101 BRATISLAVA, SLOVAK REPUBLIC",
+            "製造廠公司地址": "",
+            "製造廠國別": "SLOVAKIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

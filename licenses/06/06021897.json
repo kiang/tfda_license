@@ -1,6 +1,6 @@
 {
     "code": "06021897",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021897",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021897",
     "time": "2020-02-25 20:14:46",
     "許可證字號": "衛署醫器輸字第021897號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6231031455  台灣可威有限公司",
     "申請商地址": "新北市中和區中山路2段296號11樓之7之8",
-    "主製造廠": {
-        "製造廠名稱": "MJP6209000  KENSEI KOGYO Co., Ltd",
-        "製造廠廠址": "4210-15 Takasai, Shimotsuma-shi, Ibaraki-ken, 304-0031 Japan",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP6209000  KENSEI KOGYO Co., Ltd",
+            "製造廠廠址": "4210-15 Takasai, Shimotsuma-shi, Ibaraki-ken, 304-0031 Japan",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MJP0515000  A&amp;D CO., LTD",
+            "製造廠廠址": "23-14, HIGASHI-IKEBUKURO 3-CHOME, TOSHIMA-KU, TOKYO, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

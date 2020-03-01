@@ -1,6 +1,6 @@
 {
     "code": "94016930",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016930",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016930",
     "time": "2020-02-26 12:02:16",
     "許可證字號": "衛部醫器輸壹字第016930號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0203101100  又強儀器有限公司",
     "申請商地址": "台北市和平東路２段１７５巷５弄１２－１號１Ｆ",
-    "主製造廠": {
-        "製造廠名稱": "MMX0127000  ASPEN MEDICAL PRODUCTS",
-        "製造廠廠址": "CARRETERA LIBRE ANTIGUO CAMINO TI JUANA 25420 COLONIA FIDEICOMISO EL FLORIDO, TI JUANA, MEXICO 22245",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0127000  ASPEN MEDICAL PRODUCTS",
+            "製造廠廠址": "CARRETERA LIBRE ANTIGUO CAMINO TI JUANA 25420 COLONIA FIDEICOMISO EL FLORIDO, TI JUANA, MEXICO 22245",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

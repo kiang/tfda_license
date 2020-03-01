@@ -1,6 +1,6 @@
 {
     "code": "94020800",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020800",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020800",
     "time": "2020-02-26 12:47:22",
     "許可證字號": "衛部醫器輸壹字第020800號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623106E810  善醫生技股份有限公司",
     "申請商地址": "新北市新莊區中華路2段316號9樓",
-    "主製造廠": {
-        "製造廠名稱": "MAU0120000  CELL-INNOVATIONS ASIA PTY LTD",
-        "製造廠廠址": "SUITE 25\/19 BOLTON ST. NEWCASTLE, NSW 2300 AUSTRALIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "AUSTRALIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MAU0120000  CELL-INNOVATIONS ASIA PTY LTD",
+            "製造廠廠址": "SUITE 25\/19 BOLTON ST. NEWCASTLE, NSW 2300 AUSTRALIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRALIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

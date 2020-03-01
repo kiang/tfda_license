@@ -1,6 +1,6 @@
 {
     "code": "44009256",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009256",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009256",
     "time": "2020-02-26 05:13:22",
     "許可證字號": "衛署醫器輸壹字第009256號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620101X118  堡來顧問有限公司",
     "申請商地址": "臺北市松山區南京東路3段261號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MLI0001000  IVOCLAR VIVADENT AG",
-        "製造廠廠址": "BENDERERSTRASSE 2, FL-9494 SCHAAN, LIECHTENSTEIN",
-        "製造廠公司地址": "",
-        "製造廠國別": "LIECHTENSTEIN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MLI0001000  IVOCLAR VIVADENT AG",
+            "製造廠廠址": "BENDERERSTRASSE 2, FL-9494 SCHAAN, LIECHTENSTEIN",
+            "製造廠公司地址": "",
+            "製造廠國別": "LIECHTENSTEIN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

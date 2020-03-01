@@ -1,6 +1,6 @@
 {
     "code": "94016148",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016148",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016148",
     "time": "2020-02-26 11:51:19",
     "許可證字號": "衛部醫器輸壹字第016148號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6232106228  健康加一館有限公司",
     "申請商地址": "桃園市平鎮區宋屋里新光路二段8巷12號",
-    "主製造廠": {
-        "製造廠名稱": "MJP6194000  IWASHOUORIMONO CO., LTD",
-        "製造廠廠址": "16-17, MEIEKI 5, NAKAMURAKU, NAGOYA, AICHI, JAPAN, 450-0002",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP6194000  IWASHOUORIMONO CO., LTD",
+            "製造廠廠址": "16-17, MEIEKI 5, NAKAMURAKU, NAGOYA, AICHI, JAPAN, 450-0002",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

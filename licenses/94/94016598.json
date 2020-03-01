@@ -1,6 +1,6 @@
 {
     "code": "94016598",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016598",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016598",
     "time": "2020-02-26 11:57:52",
     "許可證字號": "衛部醫器輸壹字第016598號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6235043522  臺灣京翔國際百貨有限公司",
     "申請商地址": "苗栗縣竹南鎮公館里7鄰大埔頂12-1號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MDK0124000  CANTALOOP (TYTEX)",
-        "製造廠廠址": "INDUSTRIVEJ 21, 7430 IKAST, DENMARK",
-        "製造廠公司地址": "",
-        "製造廠國別": "DENMARK",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDK0124000  CANTALOOP (TYTEX)",
+            "製造廠廠址": "INDUSTRIVEJ 21, 7430 IKAST, DENMARK",
+            "製造廠公司地址": "",
+            "製造廠國別": "DENMARK",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

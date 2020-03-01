@@ -1,6 +1,6 @@
 {
     "code": "06002620",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06002620",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06002620",
     "time": "2020-02-25 16:00:36",
     "許可證字號": "衛署醫器輸字第002620號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0908301100  信正儀器有限公司",
     "申請商地址": "台北巿漢口街一段１３２號５樓之２",
-    "主製造廠": {
-        "製造廠名稱": "MGB0006000  CARDIAC RECORDERS LIMITED",
-        "製造廠廠址": "34 SCARBOROUGH ROAD LONDON N4 4LU ENGLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0006000  CARDIAC RECORDERS LIMITED",
+            "製造廠廠址": "34 SCARBOROUGH ROAD LONDON N4 4LU ENGLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

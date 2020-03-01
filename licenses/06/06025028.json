@@ -1,6 +1,6 @@
 {
     "code": "06025028",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06025028",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06025028",
     "time": "2020-02-25 20:48:01",
     "許可證字號": "衛署醫器輸字第025028號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6217088185  鎂鎮企業有限公司",
     "申請商地址": "台中市北屯區瀋陽路二段12號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MMY0131000  TERANG NUSA SDN BHD",
-        "製造廠廠址": "1, JALAN 8 PENGKALAN CHEPA 2 INDUSTRIAL ZONE KOTA BHARU 16100 KELANTAN MALAYSIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "MALAYSIA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMY0131000  TERANG NUSA SDN BHD",
+            "製造廠廠址": "1, JALAN 8 PENGKALAN CHEPA 2 INDUSTRIAL ZONE KOTA BHARU 16100 KELANTAN MALAYSIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "MALAYSIA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MMY0132100  ADVENTA HEALTH SDN BHD",
+            "製造廠廠址": "1, JALAN 8 PENGKALAN CHEPA 2 INDUSTRIAL ZONE 16100 KOTA BHARU KELANTAN DARUL NAIM MALAYSIA.",
+            "製造廠公司地址": "",
+            "製造廠國別": "MALAYSIA",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

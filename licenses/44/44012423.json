@@ -1,6 +1,6 @@
 {
     "code": "44012423",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012423",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012423",
     "time": "2020-02-26 05:44:36",
     "許可證字號": "衛署醫器輸壹字第012423號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "623111D023  華億醫療儀器科技有限公司",
     "申請商地址": "新北市汐止區康寧街169巷31之1號6樓之3及8樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MUS1121000  QUEST MEDICAL, INC.",
-        "製造廠廠址": "ONE ALLENTOWN PARKWAY, ALLEN, TX 75002 U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS1121000  QUEST MEDICAL, INC.",
+            "製造廠廠址": "ONE ALLENTOWN PARKWAY, ALLEN, TX 75002 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

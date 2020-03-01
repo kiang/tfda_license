@@ -1,6 +1,6 @@
 {
     "code": "06021305",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021305",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021305",
     "time": "2020-02-25 20:07:54",
     "許可證字號": "衛署醫器輸字第021305號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623101K465  美商登士柏西諾德股份有限公司台灣分公司",
     "申請商地址": "新北市板橋區三民路1段216號12樓",
-    "主製造廠": {
-        "製造廠名稱": "MBR0008100  DENTSPLY IND.COM. LTDA",
-        "製造廠廠址": "RUA ALICE HERVE, 86-BINGEN-25.665-010-PETROPOLIS-RJ, BRAZIL",
-        "製造廠公司地址": "",
-        "製造廠國別": "BRAZIL",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MBR0008100  DENTSPLY IND.COM. LTDA",
+            "製造廠廠址": "RUA ALICE HERVE, 86-BINGEN-25.665-010-PETROPOLIS-RJ, BRAZIL",
+            "製造廠公司地址": "",
+            "製造廠國別": "BRAZIL",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "46000535",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000535",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000535",
     "time": "2020-02-26 05:59:24",
     "許可證字號": "衛署醫器陸輸壹字第000535號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP 40大陸生產",
     "申請商名稱": "623101B506  勤達醫療器材股份有限公司",
     "申請商地址": "新北市板橋區民生路一段33號22樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MUS2882000  BAIN MEDICAL EQUIPMENT (GUANGZHOU) CO., LTD.",
-        "製造廠廠址": "NO.10, JUNCHENG ROAD, EASTERN AREA, ECONOMIC AND TECHNOLOGICAL DEVELOPMENT DISTRICT, GUANGZHOU, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2882000  BAIN MEDICAL EQUIPMENT (GUANGZHOU) CO., LTD.",
+            "製造廠廠址": "NO.10, JUNCHENG ROAD, EASTERN AREA, ECONOMIC AND TECHNOLOGICAL DEVELOPMENT DISTRICT, GUANGZHOU, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

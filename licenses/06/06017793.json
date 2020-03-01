@@ -1,6 +1,6 @@
 {
     "code": "06017793",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06017793",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06017793",
     "time": "2020-02-25 19:27:19",
     "許可證字號": "衛署醫器輸字第017793號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620117A501  保利泰有限公司",
     "申請商地址": "台北市信義區基隆路二段131之20號13樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE0508000  CORTEX BIOPHYSIK GMBH",
-        "製造廠廠址": "WALTER-KOHN-STR. 2D, D-04356 LEIPZIG, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0508000  CORTEX BIOPHYSIK GMBH",
+            "製造廠廠址": "WALTER-KOHN-STR. 2D, D-04356 LEIPZIG, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

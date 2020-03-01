@@ -1,6 +1,6 @@
 {
     "code": "06007868",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06007868",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06007868",
     "time": "2020-02-25 17:30:13",
     "許可證字號": "衛署醫器輸字第007868號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0815801100  怡健醫療器材股份有限公司",
     "申請商地址": "台北巿長安東路二段１６３之１號５、６號",
-    "主製造廠": {
-        "製造廠名稱": "MUS0748000  ORIGIN MEDSYSTEMS, INC.",
-        "製造廠廠址": "135 CONSTITUTION DRIVE, MENLO PARK, CA 94025 U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0748000  ORIGIN MEDSYSTEMS, INC.",
+            "製造廠廠址": "135 CONSTITUTION DRIVE, MENLO PARK, CA 94025 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

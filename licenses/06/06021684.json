@@ -1,6 +1,6 @@
 {
     "code": "06021684",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021684",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021684",
     "time": "2020-02-25 20:12:13",
     "許可證字號": "衛署醫器輸字第021684號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6231055580  國揚儀器股份有限公司",
     "申請商地址": "新北市新店區民權路98號4樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MNL0078000  TMS INTERNATIONAL B.V.",
-        "製造廠廠址": "ZUTPHENSTRAAT 57 7575 EJ OLDENZAAL THE NETHERLANDS",
-        "製造廠公司地址": "",
-        "製造廠國別": "NETHERLANDS",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MNL0078000  TMS INTERNATIONAL B.V.",
+            "製造廠廠址": "ZUTPHENSTRAAT 57 7575 EJ OLDENZAAL THE NETHERLANDS",
+            "製造廠公司地址": "",
+            "製造廠國別": "NETHERLANDS",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MNL0079000  MIND MEDIA B.V.",
+            "製造廠廠址": "SCHEPERSWEG 28 6049 CV ROERMOND-HERTEN THE NETHERLANDS",
+            "製造廠公司地址": "",
+            "製造廠國別": "NETHERLANDS",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

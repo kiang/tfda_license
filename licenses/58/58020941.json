@@ -1,6 +1,6 @@
 {
     "code": "58020941",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58020941",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58020941",
     "time": "2020-02-26 08:55:49",
     "許可證字號": "衛部粧輸字第020941號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "0419601100  巴爾桑波有限公司",
     "申請商地址": "台北市內湖區瑞光路478巷20號1樓",
-    "主製造廠": {
-        "製造廠名稱": "CES0019000  INDUSTRIAL FARMACEUTICA CANTABRIA, S.A.",
-        "製造廠廠址": "CTRA CAZONA-ADARZO, S\/N 39011 SANTANDER SPAIN",
-        "製造廠公司地址": "",
-        "製造廠國別": "SPAIN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CES0019000  INDUSTRIAL FARMACEUTICA CANTABRIA, S.A.",
+            "製造廠廠址": "CTRA CAZONA-ADARZO, S\/N 39011 SANTANDER SPAIN",
+            "製造廠公司地址": "",
+            "製造廠國別": "SPAIN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

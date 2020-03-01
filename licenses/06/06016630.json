@@ -1,6 +1,6 @@
 {
     "code": "06016630",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06016630",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06016630",
     "time": "2020-02-25 19:14:25",
     "許可證字號": "衛署醫器輸字第016630號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1419601100  台灣默克股份有限公司",
     "申請商地址": "台北市內湖區堤頂大道2段89號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE0453000  HASELMEIER GMBH.",
-        "製造廠廠址": "VAIHINGER STRASSE 48, D-70567 STUTTGART, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0453000  HASELMEIER GMBH.",
+            "製造廠廠址": "VAIHINGER STRASSE 48, D-70567 STUTTGART, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MCH0204000  ARES TRADING S.A.",
+            "製造廠廠址": "ZONE INDUSTRIELLE, CH-1267 COINSINS, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

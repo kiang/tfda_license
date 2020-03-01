@@ -1,6 +1,6 @@
 {
     "code": "06021173",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021173",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021173",
     "time": "2020-02-25 20:06:22",
     "許可證字號": "衛署醫器輸字第021173號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620101H536  新加坡商頗爾股份有限公司台灣分公司",
     "申請商地址": "台北市松山區敦化北路207號14樓之5",
-    "主製造廠": {
-        "製造廠名稱": "MGB0898000  Pall Newquay",
-        "製造廠廠址": "St Columb Major, Cornwall, TR9 6TT, United Kingdom",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0898000  Pall Newquay",
+            "製造廠廠址": "St Columb Major, Cornwall, TR9 6TT, United Kingdom",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MCH0848000  Pall Medical-A division of Pall International Sarl",
+            "製造廠廠址": "Avenue de Tivoli 3, 1700 Fribourg, Switzerland",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

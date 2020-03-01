@@ -1,6 +1,6 @@
 {
     "code": "08016510",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016510",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016510",
     "time": "2020-02-26 00:47:22",
     "許可證字號": "衛署粧輸字第016510號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6628348642  崇升國際企業有限公司",
     "申請商地址": "臺北市大安區復興南路2段65號4樓之5",
-    "主製造廠": {
-        "製造廠名稱": "CUS0281000  SUNSHINE HEALTH PRODUCT, INC.",
-        "製造廠廠址": "979 N.E., 45TH STREET OAKLAND PARK, FL 33334, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CUS0281000  SUNSHINE HEALTH PRODUCT, INC.",
+            "製造廠廠址": "979 N.E., 45TH STREET OAKLAND PARK, FL 33334, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

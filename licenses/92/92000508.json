@@ -1,6 +1,6 @@
 {
     "code": "92000508",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000508",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000508",
     "time": "2020-02-26 10:10:29",
     "許可證字號": "衛部醫器陸輸字第000508號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "623101B506  勤達醫療器材股份有限公司",
     "申請商地址": "新北市板橋區民生路一段33號22樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MCN1212000  JIANGSU WEBEST MEDICAL PRODUCT CO., LTD.",
-        "製造廠廠址": "YINGCHUN ROAD, INDUSTRIAL PARK, 211700 XUYI, JIANGSU, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1212000  JIANGSU WEBEST MEDICAL PRODUCT CO., LTD.",
+            "製造廠廠址": "YINGCHUN ROAD, INDUSTRIAL PARK, 211700 XUYI, JIANGSU, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

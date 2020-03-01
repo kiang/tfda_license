@@ -1,6 +1,6 @@
 {
     "code": "96003006",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003006",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003006",
     "time": "2020-02-26 13:06:20",
     "許可證字號": "衛部醫器陸輸壹字第003006號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 40大陸生產",
     "申請商名稱": "6201168798  迅龍實業有限公司",
     "申請商地址": "臺北市北投區西安街二段249號",
-    "主製造廠": {
-        "製造廠名稱": "MCN1315100  XIAMEN EAN PROTECTING PRODUCTS CO., LTD.",
-        "製造廠廠址": "NO.79-85 ZHEN NAN RD 3, TUNG AN AREA, XIAMEN, FUJIAN, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1315100  XIAMEN EAN PROTECTING PRODUCTS CO., LTD.",
+            "製造廠廠址": "NO.79-85 ZHEN NAN RD 3, TUNG AN AREA, XIAMEN, FUJIAN, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "6201168798  迅龍實業有限公司",
+            "製造廠廠址": "臺北市北投區西安街二段249號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

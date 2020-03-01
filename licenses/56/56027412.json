@@ -1,6 +1,6 @@
 {
     "code": "56027412",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027412",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027412",
     "time": "2020-02-26 07:45:26",
     "許可證字號": "衛部醫器輸字第027412號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620117I892  康碩生技有限公司",
     "申請商地址": "臺北市信義區基隆路1段155號13樓之6",
-    "主製造廠": {
-        "製造廠名稱": "MUS4269000  KINAMED Incorporated",
-        "製造廠廠址": "820 Flynn Road Camarillo, CA 93012-8701, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS4269000  KINAMED Incorporated",
+            "製造廠廠址": "820 Flynn Road Camarillo, CA 93012-8701, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

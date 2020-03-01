@@ -1,6 +1,6 @@
 {
     "code": "94018691",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018691",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018691",
     "time": "2020-02-26 12:26:35",
     "許可證字號": "衛部醫器輸壹字第018691號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1606905100  聯合骨科器材股份有限公司",
     "申請商地址": "新竹市東區科學工業園區園區二路51,53,55,57號1、2 樓",
-    "主製造廠": {
-        "製造廠名稱": "MMY0181000  STRAITS ORTHOPAEDICS (MFG) SDN BHD",
-        "製造廠廠址": "NO.2483, TINGKAT PERSUSAHAAN 4A, PRAI FREE INDSTRIAL ZONE, 13600 PRAI, PENANG, MALAYSIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "MALAYSIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMY0181000  STRAITS ORTHOPAEDICS (MFG) SDN BHD",
+            "製造廠廠址": "NO.2483, TINGKAT PERSUSAHAAN 4A, PRAI FREE INDSTRIAL ZONE, 13600 PRAI, PENANG, MALAYSIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "MALAYSIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

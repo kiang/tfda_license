@@ -1,6 +1,6 @@
 {
     "code": "94019930",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019930",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019930",
     "time": "2020-02-26 12:39:39",
     "許可證字號": "衛部醫器輸壹字第019930號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620101R170  富怡康生物科技有限公司",
     "申請商地址": "台北市松山區南京東路5段375號",
-    "主製造廠": {
-        "製造廠名稱": "MKR0926000  WONBIOGEN CO., LTD.",
-        "製造廠廠址": "56, 1 GONGDAN-RO 5-GIL, GUMI-SI, GYEONGSANGBUK-DO, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0926000  WONBIOGEN CO., LTD.",
+            "製造廠廠址": "56, 1 GONGDAN-RO 5-GIL, GUMI-SI, GYEONGSANGBUK-DO, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "44011090",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011090",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011090",
     "time": "2020-02-26 05:31:30",
     "許可證字號": "衛署醫器輸壹字第011090號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231048076  宏威光學貿易有限公司",
     "申請商地址": "新北市中和區橋和路56號5樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0438000  WHASHIN KOREA VISION CO., LTD.",
-        "製造廠廠址": "DAEIL B\/D 4F, 294-1, SAMSEONG-DONG, DONG-GU, DAEJEON, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0438000  WHASHIN KOREA VISION CO., LTD.",
+            "製造廠廠址": "DAEIL B\/D 4F, 294-1, SAMSEONG-DONG, DONG-GU, DAEJEON, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

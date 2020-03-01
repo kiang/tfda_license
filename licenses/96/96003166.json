@@ -1,6 +1,6 @@
 {
     "code": "96003166",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003166",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003166",
     "time": "2020-02-26 13:07:44",
     "許可證字號": "衛部醫器陸輸壹字第003166號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6231154677  伸宥國際有限公司",
     "申請商地址": "新北市五股區工商路26號",
-    "主製造廠": {
-        "製造廠名稱": "MCN1597000  SHENZHEN DENCO MEDICAL CO., LTD.",
-        "製造廠廠址": "6TH FLOOR, C BUILDING, YASHENG INDUSTRIAL PARK, GUANGMING 518107 SHENZHEN, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1597000  SHENZHEN DENCO MEDICAL CO., LTD.",
+            "製造廠廠址": "6TH FLOOR, C BUILDING, YASHENG INDUSTRIAL PARK, GUANGMING 518107 SHENZHEN, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "94015080",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015080",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015080",
     "time": "2020-02-26 11:36:01",
     "許可證字號": "衛部醫器輸壹字第015080號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6203272455  金相科技有限公司",
     "申請商地址": "臺中市西屯區華美西街二段369號5樓之5",
-    "主製造廠": {
-        "製造廠名稱": "MDE1227000  INVIDIA MEDICAL GMBH &amp; CO. KG",
-        "製造廠廠址": "CARL-BENZ-STR. 28 D-78576 EMMINGEN-LIPTINGEN, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE1227000  INVIDIA MEDICAL GMBH &amp; CO. KG",
+            "製造廠廠址": "CARL-BENZ-STR. 28 D-78576 EMMINGEN-LIPTINGEN, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

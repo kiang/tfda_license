@@ -1,6 +1,6 @@
 {
     "code": "08018592",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018592",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018592",
     "time": "2020-02-26 01:09:36",
     "許可證字號": "衛署粧輸字第018592號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6628860796  珂思有限公司",
     "申請商地址": "臺北市大同區延平北路2段127號2樓之1",
-    "主製造廠": {
-        "製造廠名稱": "CJP0107000  TIERS INC.",
-        "製造廠廠址": "1-9-7 Oyamagaoka Machida-Shi, Tokyo, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0107000  TIERS INC.",
+            "製造廠廠址": "1-9-7 Oyamagaoka Machida-Shi, Tokyo, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

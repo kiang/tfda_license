@@ -1,6 +1,6 @@
 {
     "code": "08017334",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08017334",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08017334",
     "time": "2020-02-26 00:56:12",
     "許可證字號": "衛署粧輸字第017334號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6624357367  巧恬興業有限公司",
     "申請商地址": "台中市西屯區福上巷290弄11號1樓",
-    "主製造廠": {
-        "製造廠名稱": "CKR0043000  COSMECCA KOREA CO., LTD.",
-        "製造廠廠址": "1, DAEPUNG-RI, DAESO-MYEON, EUMSEONG-GUN, CHUNGCHEONGBUK-DO, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CKR0043000  COSMECCA KOREA CO., LTD.",
+            "製造廠廠址": "1, DAEPUNG-RI, DAESO-MYEON, EUMSEONG-GUN, CHUNGCHEONGBUK-DO, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

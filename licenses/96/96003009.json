@@ -1,6 +1,6 @@
 {
     "code": "96003009",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003009",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003009",
     "time": "2020-02-26 13:06:22",
     "許可證字號": "衛部醫器陸輸壹字第003009號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6205320650  豐鎰有限公司",
     "申請商地址": "台南市東區大智里德東街151巷37弄26號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN0444200  FOSHAN DONGFANG MEDICAL EQUIPMENT MANUFACTORY (LTD.)",
-        "製造廠廠址": "5 XINGFU RD., ZONE A, SHISHAN INDUSTRIAL PARK, NANHAI DISTRICT, FOSHAN CITY, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0444200  FOSHAN DONGFANG MEDICAL EQUIPMENT MANUFACTORY (LTD.)",
+            "製造廠廠址": "5 XINGFU RD., ZONE A, SHISHAN INDUSTRIAL PARK, NANHAI DISTRICT, FOSHAN CITY, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

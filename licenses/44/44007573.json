@@ -1,6 +1,6 @@
 {
     "code": "44007573",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007573",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007573",
     "time": "2020-02-26 04:59:55",
     "許可證字號": "衛署醫器輸壹字第007573號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231133212  寶楷醫療器材有限公司",
     "申請商地址": "新北市土城區中央路二段177巷7號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP0884000  D&amp;M CO., LTD.",
-        "製造廠廠址": "1-5-2, ASAKUSABASHI, TAITO-KU, TOKYO, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0884000  D&amp;M CO., LTD.",
+            "製造廠廠址": "1-5-2, ASAKUSABASHI, TAITO-KU, TOKYO, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "94020310",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020310",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020310",
     "time": "2020-02-26 12:42:55",
     "許可證字號": "衛部醫器輸壹字第020310號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201026884  洽泰企業股份有限公司",
     "申請商地址": "臺北市大安區敦化南路一段337號9樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS3975100  IZI MEDICAL PRODUCTS, LLC",
-        "製造廠廠址": "5 EASTER COURT SUITE J OWINGS MILLS, MARYLAND 21117 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS3975100  IZI MEDICAL PRODUCTS, LLC",
+            "製造廠廠址": "5 EASTER COURT SUITE J OWINGS MILLS, MARYLAND 21117 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

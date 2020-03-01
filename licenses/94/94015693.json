@@ -1,6 +1,6 @@
 {
     "code": "94015693",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015693",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015693",
     "time": "2020-02-26 11:44:33",
     "許可證字號": "衛部醫器輸壹字第015693號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620101S604  聯合牙材股份有限公司",
     "申請商地址": "臺北市松山區松山區光復北路112號7樓",
-    "主製造廠": {
-        "製造廠名稱": "MMY0157000  CROSS PROTECTION (M) SDN. BHD.",
-        "製造廠廠址": "11, JLN PERINDUSTRIAN 5, BATU 5 1\/2, OFF JLN HAJI ABDUL MANAN, KLANG, SE MY41050 MALAYSIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "MALAYSIA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMY0157000  CROSS PROTECTION (M) SDN. BHD.",
+            "製造廠廠址": "11, JLN PERINDUSTRIAN 5, BATU 5 1\/2, OFF JLN HAJI ABDUL MANAN, KLANG, SE MY41050 MALAYSIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "MALAYSIA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MMY0081100  MULTISAFE SDN. BHD.",
+            "製造廠廠址": "LOT 764, BIDOR INDUSTRIAL ESTATE, 35500 BIDOR, PERAK DARUL RIDZUAN, MALAYSIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "MALAYSIA",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

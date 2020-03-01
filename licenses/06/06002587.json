@@ -1,6 +1,6 @@
 {
     "code": "06002587",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06002587",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06002587",
     "time": "2020-02-25 15:59:52",
     "許可證字號": "衛署醫器輸字第002587號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0404701100  天地貿易股份有限公司",
     "申請商地址": "台北巿南京東路五段２３４號１４樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS0296000  EPCOM MEDICAL. SYSTEMS, INC",
-        "製造廠廠址": "26602 CORPORATE AVE, HAYWARD, CA 94545 U. S. A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0296000  EPCOM MEDICAL. SYSTEMS, INC",
+            "製造廠廠址": "26602 CORPORATE AVE, HAYWARD, CA 94545 U. S. A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

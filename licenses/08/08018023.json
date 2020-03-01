@@ -1,6 +1,6 @@
 {
     "code": "08018023",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018023",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018023",
     "time": "2020-02-26 01:03:42",
     "許可證字號": "衛署粧輸字第018023號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6629116613  拉克斯蜜國際有限公司",
     "申請商地址": "桃園市中壢區廣州路22號2樓",
-    "主製造廠": {
-        "製造廠名稱": "CIT0099000  ROLLAND S.R.L.",
-        "製造廠廠址": "VIA G. LAZZARI 18 QUARTO INFERIORE 40057 GRANAROLO EMILIA (BO) ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CIT0099000  ROLLAND S.R.L.",
+            "製造廠廠址": "VIA G. LAZZARI 18 QUARTO INFERIORE 40057 GRANAROLO EMILIA (BO) ITALY",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

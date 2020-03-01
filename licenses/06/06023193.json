@@ -1,6 +1,6 @@
 {
     "code": "06023193",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023193",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023193",
     "time": "2020-02-25 20:28:38",
     "許可證字號": "衛署醫器輸字第023193號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620101C540  艾慕思生物科技股份有限公司",
     "申請商地址": "臺北市內湖區洲子街46號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MMX0129000  Welch Allyn de Mexico S. de R.L. de C.V.",
-        "製造廠廠址": "Calle Emilio Flores 2471-A, Colonia Canon del Padre, 22303 Tijuana, B.C., Mexico",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0129000  Welch Allyn de Mexico S. de R.L. de C.V.",
+            "製造廠廠址": "Calle Emilio Flores 2471-A, Colonia Canon del Padre, 22303 Tijuana, B.C., Mexico",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS0278000  WELCH ALLYN INC.",
+            "製造廠廠址": "4341 STATE STREET ROAD SKANEATELES FALLS N.Y. 13153U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

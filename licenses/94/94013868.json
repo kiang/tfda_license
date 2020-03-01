@@ -1,6 +1,6 @@
 {
     "code": "94013868",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013868",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013868",
     "time": "2020-02-26 11:18:59",
     "許可證字號": "衛部醫器輸壹字第013868號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1322522100  傳承儀器有限公司",
     "申請商地址": "高雄市鳳山區文湖街７號６樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS4045000  IOPI MEDICAL LLC",
-        "製造廠廠址": "11920 198TH AVE NE REDMOND, WA 98053 UNITED STATES OF AMERICA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS4045000  IOPI MEDICAL LLC",
+            "製造廠廠址": "11920 198TH AVE NE REDMOND, WA 98053 UNITED STATES OF AMERICA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "44011752",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011752",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011752",
     "time": "2020-02-26 05:38:03",
     "許可證字號": "衛署醫器輸壹字第011752號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1322522100  傳承儀器有限公司",
     "申請商地址": "高雄市鳳山區文湖街７號６樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE0999000  ORMED GMBH",
-        "製造廠廠址": "D79100 FREIBURG, MERZHAUSER STR. 112, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0999000  ORMED GMBH",
+            "製造廠廠址": "D79100 FREIBURG, MERZHAUSER STR. 112, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

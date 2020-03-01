@@ -1,6 +1,6 @@
 {
     "code": "56028638",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028638",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028638",
     "time": "2020-02-26 07:57:21",
     "許可證字號": "衛部醫器輸字第028638號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620110S505  九和科技股份有限公司",
     "申請商地址": "台北市中山區長春路３８０號４樓之１",
-    "主製造廠": {
-        "製造廠名稱": "MBE0067000  Physiol s.a.",
-        "製造廠廠址": "Li&#232;ge Science Park, All&#232;e des Noisetiers 4, B-4031 Angleur, Belgium",
-        "製造廠公司地址": "",
-        "製造廠國別": "BELGIUM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MBE0067000  Physiol s.a.",
+            "製造廠廠址": "Li&#232;ge Science Park, All&#232;e des Noisetiers 4, B-4031 Angleur, Belgium",
+            "製造廠公司地址": "",
+            "製造廠國別": "BELGIUM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

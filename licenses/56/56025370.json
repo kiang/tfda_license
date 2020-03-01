@@ -1,6 +1,6 @@
 {
     "code": "56025370",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025370",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025370",
     "time": "2020-02-26 07:23:02",
     "許可證字號": "衛部醫器輸字第025370號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "1504402200  輝瑞大藥廠股份有限公司",
     "申請商地址": "新北市淡水區中正東路二段１７７號",
-    "主製造廠": {
-        "製造廠名稱": "MCH0085000  YPSOMED AG",
-        "製造廠廠址": "BRUNNMATTSTRASSE 6, CH-3401 BURGDORF, SWITZERLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCH0085000  YPSOMED AG",
+            "製造廠廠址": "BRUNNMATTSTRASSE 6, CH-3401 BURGDORF, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "FBE0011000  PFIZER MANUFACTURING BELGIUM NV",
+            "製造廠廠址": "RIJKSWEG 12, 2870, PUURS, BELGIUM",
+            "製造廠公司地址": "",
+            "製造廠國別": "BELGIUM",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

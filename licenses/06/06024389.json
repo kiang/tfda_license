@@ -1,6 +1,6 @@
 {
     "code": "06024389",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024389",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024389",
     "time": "2020-02-25 20:41:30",
     "許可證字號": "衛署醫器輸字第024389號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620102H176  信興欣業股份有限公司",
     "申請商地址": "台北市大安區敦化南路二段77號16樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MMX0075000  INDUSTRIAL VALLERA DE MEXICALI, S.A. DE C.V",
-        "製造廠廠址": "CALZADA DEL ORO#2001, PARQUE INDUSTRIAL PALACO, MEXICALI, MEXICO 21600",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0075000  INDUSTRIAL VALLERA DE MEXICALI, S.A. DE C.V",
+            "製造廠廠址": "CALZADA DEL ORO#2001, PARQUE INDUSTRIAL PALACO, MEXICALI, MEXICO 21600",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS2511000  MASIMO CORPORATION",
+            "製造廠廠址": "40 ,50,60 PARKER IRVINE, CA 92618, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

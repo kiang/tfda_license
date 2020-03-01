@@ -1,6 +1,6 @@
 {
     "code": "46000579",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000579",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000579",
     "time": "2020-02-26 05:59:46",
     "許可證字號": "衛署醫器陸輸壹字第000579號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6231041433  東方醫療器材有限公司",
     "申請商地址": "新北市中和區中山路三段136巷43號9樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN0382000  SHANGHAI UNION MEDICAL IMP. &amp; EXP. CO., LTD.",
-        "製造廠廠址": "RM704, NO. 1759 NORTH ZHONG SHAN ROAD, SHANGHAI 200061, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0382000  SHANGHAI UNION MEDICAL IMP. &amp; EXP. CO., LTD.",
+            "製造廠廠址": "RM704, NO. 1759 NORTH ZHONG SHAN ROAD, SHANGHAI 200061, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

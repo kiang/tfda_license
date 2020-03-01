@@ -1,11 +1,12 @@
 {
     "code": "02012229",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02012229",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02012229",
     "time": "2020-02-25 10:05:49",
     "許可證字號": "衛署藥輸字第012229號",
     "註銷狀態": "已註銷",
     "註銷日期": "90\/07\/26",
     "註銷理由": "依藥事法第９７條規定",
+    "製造許可登錄編號": "",
     "有效日期": "93\/05\/23",
     "發證日期": "88\/05\/26",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "07須經醫師指示使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "0709309100  宏信藥品有限公司",
-        "申請商地址": "台中巿中山路９６號",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "FERROUS (SULFATE), MANGANESE (SULFATE), PHOSPHORUS (DICALCIUM PHOSPHATE), CALCIUM (DICALCIUM PHOSPHATE), MAGNESIUM (SULFATE), POTASSIUM (SULFATE), VITAMIN A PALMITATE, NIACINAMIDE (NICOTINAMIDE), VITAMIN B1 (MONONITRATE), RIBOFLAVIN (VIT B2), PYRIDOXINE(VITAMIN B6), CYANOCOBALAMIN (VIT B12), PANTOTHENATE (CALCIUM), ASCORBIC ACID (VIT C), VITAMIN D (ERGOCALCIFEROL), LECITHIN(LECITHOL), ZINC (ZINC SULFATE)",
+    "限制項目": "02輸　入",
+    "申請商名稱": "0709309100  宏信藥品有限公司",
+    "申請商地址": "台中巿中山路９６號",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FUS0331000  ENCAPSULATION INC.",
+            "製造廠廠址": "269 CHESTNUT NEWARK ,NJ 07105 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [

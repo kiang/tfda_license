@@ -1,6 +1,6 @@
 {
     "code": "06022870",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022870",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022870",
     "time": "2020-02-25 20:25:12",
     "許可證字號": "衛署醫器輸字第022870號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620117J497  埃默高有限公司",
     "申請商地址": "新北市新店區北新路3段221號10樓",
-    "主製造廠": {
-        "製造廠名稱": "MSE0034000  Q-MED AB",
-        "製造廠廠址": "SEMINARIEGATAN 21, SE-752 28 UPPSALA, SWEDEN",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWEDEN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MSE0034000  Q-MED AB",
+            "製造廠廠址": "SEMINARIEGATAN 21, SE-752 28 UPPSALA, SWEDEN",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWEDEN",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS0341100  Bioventus LLC",
+            "製造廠廠址": "4721 Emperor Blvd., Suite 100, Durham, North Carolina, 27703, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

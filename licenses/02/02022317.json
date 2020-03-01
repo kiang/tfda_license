@@ -1,11 +1,12 @@
 {
     "code": "02022317",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022317",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022317",
     "time": "2020-02-25 12:53:20",
     "許可證字號": "衛署藥輸字第022317號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
+    "製造許可登錄編號": "",
     "有效日期": "107\/10\/22",
     "發證日期": "87\/10\/22",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入 1Q不得輸入",
-        "申請商名稱": "1902701100  鵬瑋國際有限公司",
-        "申請商地址": "台北市南京東路四段９５號９樓之１",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "CHOLINE BITARTRATE, BIOTIN D(+)-, NICOTINAMIDE, VITAMIN B1 (MONONITRATE), RIBOFLAVIN (VIT B2), VITAMIN B6 (HCL), VITAMIN B12 (CYANOCOBALAMIN 1%), FOLIC ACID, PANTOTHENIC ACID, INOSITOL (MESO-INOSITOL), PARA-AMINOBENZOIC ACID (VIT H1), ASCORBIC ACID (VIT C)",
+    "限制項目": "02輸　入 1Q不得輸入",
+    "申請商名稱": "1902701100  鵬瑋國際有限公司",
+    "申請商地址": "台北市南京東路四段９５號９樓之１",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FGB0160000  QUEST VITAMINS LTD.",
+            "製造廠廠址": "8 VENTURE WAY ASTON SCIENCE PARK BIRMINGHAM B7 4AP EMGLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "CCC號列": "30045000009 其他醫藥製劑，含有維他命或第２９３６節之其他產品Other medicaments, containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
     "ingredients": [

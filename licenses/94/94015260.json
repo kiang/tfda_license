@@ -1,6 +1,6 @@
 {
     "code": "94015260",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015260",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015260",
     "time": "2020-02-26 11:38:23",
     "許可證字號": "衛部醫器輸壹字第015260號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620117M498  家誠全球數位醫材股份有限公司",
     "申請商地址": "臺北市信義區忠孝東路5段1之6號10樓",
-    "主製造廠": {
-        "製造廠名稱": "MPL0017100  3SHAPE POLAND SP. ZO. O",
-        "製造廠廠址": "U1. ZAPADLA 8D SZCZECIN 70-033 POLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "POLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MPL0017100  3SHAPE POLAND SP. ZO. O",
+            "製造廠廠址": "U1. ZAPADLA 8D SZCZECIN 70-033 POLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "POLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

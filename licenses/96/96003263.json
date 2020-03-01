@@ -1,6 +1,6 @@
 {
     "code": "96003263",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003263",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003263",
     "time": "2020-02-26 13:08:19",
     "許可證字號": "衛部醫器陸輸壹字第003263號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 40大陸生產",
     "申請商名稱": "6401102892  瀚宇興業有限公司",
     "申請商地址": "臺北市信義區忠孝東路五段1之8號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1211000  SEVECO GLOBAL LIMITED",
-        "製造廠廠址": "1 JIANXIANG STREET, HANXISHUI, CHASHAN TOWN, DONGGUAN, GUANGDONG, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1211000  SEVECO GLOBAL LIMITED",
+            "製造廠廠址": "1 JIANXIANG STREET, HANXISHUI, CHASHAN TOWN, DONGGUAN, GUANGDONG, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MHK0047100  LOGITAL CO. LIMITED",
+            "製造廠廠址": "ROOM 901-902, 9\/F NATHAN CENTRE, 580G-K NATHAN ROAD, MONGKOK, KOWLOON, HONG KONG",
+            "製造廠公司地址": "",
+            "製造廠國別": "HONG KONG",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

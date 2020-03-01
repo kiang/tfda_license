@@ -1,6 +1,6 @@
 {
     "code": "06024194",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024194",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024194",
     "time": "2020-02-25 20:39:27",
     "許可證字號": "衛署醫器輸字第024194號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231046492  科林儀器股份有限公司",
     "申請商地址": "新北市中和區中和路三六六號12樓之3",
-    "主製造廠": {
-        "製造廠名稱": "MJP0928000  CANON COMPONENTS, INC.",
-        "製造廠廠址": "3461-1 OAZA-SHICHIHONGI, KAMISATO-MACHI, KODAMA-GUN, SAITAMA, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0928000  CANON COMPONENTS, INC.",
+            "製造廠廠址": "3461-1 OAZA-SHICHIHONGI, KAMISATO-MACHI, KODAMA-GUN, SAITAMA, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

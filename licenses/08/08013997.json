@@ -1,6 +1,6 @@
 {
     "code": "08013997",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08013997",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08013997",
     "time": "2020-02-26 00:18:45",
     "許可證字號": "衛署粧輸字第013997號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6627925151  英屬維京群島商蒙特詩國際股份有限公司",
     "申請商地址": "臺北市大安區敦化南路1段177巷13號",
-    "主製造廠": {
-        "製造廠名稱": "CJP0105000  TOSHIKI PIGMENT CO., LTD.",
-        "製造廠廠址": "37-14 6-CHOME TATEISHI KATSUSHIKA-KU TOKYO 124-0012 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0105000  TOSHIKI PIGMENT CO., LTD.",
+            "製造廠廠址": "37-14 6-CHOME TATEISHI KATSUSHIKA-KU TOKYO 124-0012 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

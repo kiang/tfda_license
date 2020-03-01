@@ -1,6 +1,6 @@
 {
     "code": "96002206",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002206",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002206",
     "time": "2020-02-26 12:57:14",
     "許可證字號": "衛部醫器陸輸壹字第002206號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "01國　產 40大陸生產",
     "申請商名稱": "620111E950  福而美嬰童用品股份有限公司",
     "申請商地址": "臺北市內湖區行愛路78巷28號3樓之3",
-    "主製造廠": {
-        "製造廠名稱": "MCN1374000  DONG GUAN HUA YEE PLASTIC PRODUCTS CO., LTD.",
-        "製造廠廠址": "CHU WEI TIEN, FENG KANG, DONG GUAN, CANTON, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1374000  DONG GUAN HUA YEE PLASTIC PRODUCTS CO., LTD.",
+            "製造廠廠址": "CHU WEI TIEN, FENG KANG, DONG GUAN, CANTON, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

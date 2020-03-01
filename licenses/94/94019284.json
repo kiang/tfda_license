@@ -1,6 +1,6 @@
 {
     "code": "94019284",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019284",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019284",
     "time": "2020-02-26 12:32:45",
     "許可證字號": "衛部醫器輸壹字第019284號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217061022  中籐實業有限公司",
     "申請商地址": "臺中市西屯區西屯路二段126巷9號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MCA0160000  Virox Technologies Inc.",
-        "製造廠廠址": "2770 Coventry Road, Oakville, Ontario, Canada L6H 6R l",
-        "製造廠公司地址": "",
-        "製造廠國別": "CANADA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCA0160000  Virox Technologies Inc.",
+            "製造廠廠址": "2770 Coventry Road, Oakville, Ontario, Canada L6H 6R l",
+            "製造廠公司地址": "",
+            "製造廠國別": "CANADA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

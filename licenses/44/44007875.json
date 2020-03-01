@@ -1,6 +1,6 @@
 {
     "code": "44007875",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007875",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007875",
     "time": "2020-02-26 05:02:04",
     "許可證字號": "衛署醫器輸壹字第007875號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "620117J497  埃默高有限公司",
     "申請商地址": "新北市新店區北新路3段221號10樓",
-    "主製造廠": {
-        "製造廠名稱": "MAU0860000  LOGIKAL HEALTH PRODUCTS PTY LTD",
-        "製造廠廠址": "UNIT 3, 18-20 ACCOLADE AVE MORISSET NSW 2264 AUSTRALIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "AUSTRALIA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MAU0860000  LOGIKAL HEALTH PRODUCTS PTY LTD",
+            "製造廠廠址": "UNIT 3, 18-20 ACCOLADE AVE MORISSET NSW 2264 AUSTRALIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRALIA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MAU0828000  SIRTEX MEDICAL LIMITED",
+            "製造廠廠址": "LEVEL 33, 101 MILLER STREET NORTH SYDNEY NSW 2060, AUSTRALIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRALIA",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

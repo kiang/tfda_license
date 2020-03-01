@@ -1,6 +1,6 @@
 {
     "code": "42000176",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000176",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000176",
     "time": "2020-02-26 03:22:09",
     "許可證字號": "衛署醫器陸輸字第000176號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6237071702  華新橡膠工業股份有限公司",
     "申請商地址": "彰化縣田中鎮中州路二段751號",
-    "主製造廠": {
-        "製造廠名稱": "MCN0136000  WELL LEAD MEDICAL CO., LTD.",
-        "製造廠廠址": "C-4 JINHU INDUSTRIAL ESTATE, HUALONG 511434 PANYU, GUANGZHOU, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0136000  WELL LEAD MEDICAL CO., LTD.",
+            "製造廠廠址": "C-4 JINHU INDUSTRIAL ESTATE, HUALONG 511434 PANYU, GUANGZHOU, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "46001372",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001372",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001372",
     "time": "2020-02-26 06:06:25",
     "許可證字號": "衛署醫器陸輸壹字第001372號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620109D232  新加坡商趨勢光學鏡片股份有限公司台灣分公司",
     "申請商地址": "台北市大同區南京西路278號12樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN0796000  DANYANG HONGDE OPTIC CO., LTD.",
-        "製造廠廠址": "MINGTAO XINGYEYUAN, EAST DANGUI ROAD, ECONOMIC DEVELOPMENT ZONE, DANYANG JIANGSU, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0796000  DANYANG HONGDE OPTIC CO., LTD.",
+            "製造廠廠址": "MINGTAO XINGYEYUAN, EAST DANGUI ROAD, ECONOMIC DEVELOPMENT ZONE, DANYANG JIANGSU, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

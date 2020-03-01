@@ -1,6 +1,6 @@
 {
     "code": "96004000",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96004000",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96004000",
     "time": "2020-02-26 13:16:11",
     "許可證字號": "衛部醫器陸輸壹字第004000號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6201013305  台灣儀器行股份有限公司",
     "申請商地址": "臺北市松山區南京東路3段272號9樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN2169000  CHONGQING BIO NEWVISION MEDICAL EQUIPMENT, LTD",
-        "製造廠廠址": "#1-10, FLOOR 9TH OF BUILDING #4, GROUP 2N OF 2ND PROJECT, FULICHENG ZHIHUIQUOJI, SHAPINGBA DISTRICT, CHONGQING, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN2169000  CHONGQING BIO NEWVISION MEDICAL EQUIPMENT, LTD",
+            "製造廠廠址": "#1-10, FLOOR 9TH OF BUILDING #4, GROUP 2N OF 2ND PROJECT, FULICHENG ZHIHUIQUOJI, SHAPINGBA DISTRICT, CHONGQING, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

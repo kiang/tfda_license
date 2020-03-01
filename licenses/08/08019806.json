@@ -1,6 +1,6 @@
 {
     "code": "08019806",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08019806",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08019806",
     "time": "2020-02-26 01:22:18",
     "許可證字號": "衛署粧輸字第019806號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "11213021  岱德國際股份有限公司",
     "申請商地址": "新北市中和區連城路268號11樓之1",
-    "主製造廠": {
-        "製造廠名稱": "CES0022000  EVA ESPANOLA, S.L.",
-        "製造廠廠址": "RAMON FARGUELL 60, POL. IND. BUFALVENT, 08240 MANRESA (BARCELONA), SPAIN",
-        "製造廠公司地址": "",
-        "製造廠國別": "SPAIN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CES0022000  EVA ESPANOLA, S.L.",
+            "製造廠廠址": "RAMON FARGUELL 60, POL. IND. BUFALVENT, 08240 MANRESA (BARCELONA), SPAIN",
+            "製造廠公司地址": "",
+            "製造廠國別": "SPAIN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

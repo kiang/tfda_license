@@ -1,6 +1,6 @@
 {
     "code": "44001800",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44001800",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44001800",
     "time": "2020-02-26 04:27:47",
     "許可證字號": "衛署醫器輸壹字第001800號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "2400821100  鑫霸企業股份有限公司",
     "申請商地址": "新北市新店區中正路525-1號9樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE0215000  HEBU MEDICAL GMBH",
-        "製造廠廠址": "BADSTRASSE 8, D-78532 TUTTLINGEN, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0215000  HEBU MEDICAL GMBH",
+            "製造廠廠址": "BADSTRASSE 8, D-78532 TUTTLINGEN, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

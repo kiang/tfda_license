@@ -1,11 +1,12 @@
 {
     "code": "02022029",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022029",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022029",
     "time": "2020-02-25 12:49:45",
     "許可證字號": "衛署藥輸字第022029號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
+    "製造許可登錄編號": "",
     "有效日期": "112\/01\/07",
     "發證日期": "87\/01\/07",
     "許可證種類": "原料藥",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "01製劑原料",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "620109C968  新雙隆生技股份有限公司",
-        "申請商地址": "台北市松山區復興北路369號14樓",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "DOXYLAMINE SUCCINATE",
+    "限制項目": "02輸　入",
+    "申請商名稱": "620109C968  新雙隆生技股份有限公司",
+    "申請商地址": "台北市松山區復興北路369號14樓",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FES0083000  UNION QUIMICO FARMACEUTICA, S.A. (UQUIFA)",
+            "製造廠廠址": "POLIGON INDUSTRIAL MOLI DE LES PLANES, FONT DE BOCS S\/N, C-35, KM. 57, 08470 SANT CELONI, BARCELONA, SPAIN",
+            "製造廠公司地址": "MALLORCA, 262-08008 BARCELONA SPAIN",
+            "製造廠國別": "SPAIN",
+            "製程": ""
+        }
+    ],
     "CCC號列": "29333990905 其他結構中含有一未稠合之?啶環（不論是否氫化）之化合物Other compounds containing an unfused pyridine ring (whether or not hydrogenated) in the structure",
     "藥理治療分類": "",
     "ingredients": [

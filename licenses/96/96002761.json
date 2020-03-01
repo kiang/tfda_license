@@ -1,6 +1,6 @@
 {
     "code": "96002761",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002761",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002761",
     "time": "2020-02-26 13:03:43",
     "許可證字號": "衛部醫器陸輸壹字第002761號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623104I905  艾柏生技有限公司",
     "申請商地址": "新北市中和區保健路48巷55號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN4197000  MICRO-TECH(NANJING) CO., LTD.",
-        "製造廠廠址": "NO. 10, GAOKE THIRD ROAD, NANJING NATIONAL HIGH-TECH. INDUSTRIAL DEVELOPMENT ZONE, 210032 NANJING, JIANGSU PROVINCE, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN4197000  MICRO-TECH(NANJING) CO., LTD.",
+            "製造廠廠址": "NO. 10, GAOKE THIRD ROAD, NANJING NATIONAL HIGH-TECH. INDUSTRIAL DEVELOPMENT ZONE, 210032 NANJING, JIANGSU PROVINCE, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

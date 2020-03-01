@@ -1,6 +1,6 @@
 {
     "code": "94015950",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015950",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015950",
     "time": "2020-02-26 11:48:02",
     "許可證字號": "衛部醫器輸壹字第015950號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620109D465  上允企業社",
     "申請商地址": "台北市大同區重慶北路3段278之2號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0732000  GEOMEDI CO., LTD",
-        "製造廠廠址": "431-810 #1711 UNIT A, KEUMKANG PENTERIUM IT TOWER, 282 HAKEUI-RO, DONGAN-GU ANYANG-SI KYEONGGI-DO, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0732000  GEOMEDI CO., LTD",
+            "製造廠廠址": "431-810 #1711 UNIT A, KEUMKANG PENTERIUM IT TOWER, 282 HAKEUI-RO, DONGAN-GU ANYANG-SI KYEONGGI-DO, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

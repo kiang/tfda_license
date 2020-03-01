@@ -1,6 +1,6 @@
 {
     "code": "94019176",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019176",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019176",
     "time": "2020-02-26 12:31:38",
     "許可證字號": "衛部醫器輸壹字第019176號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620109B087  千華醫療器材有限公司",
     "申請商地址": "台北市大同區長安西路306號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MES0114000  INDUSTRIAS PRECIBER, S.A.",
-        "製造廠廠址": "CAMI DEL ROQUIS, 75, REUS 43206, SPAIN",
-        "製造廠公司地址": "",
-        "製造廠國別": "SPAIN",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MES0114000  INDUSTRIAS PRECIBER, S.A.",
+            "製造廠廠址": "CAMI DEL ROQUIS, 75, REUS 43206, SPAIN",
+            "製造廠公司地址": "",
+            "製造廠國別": "SPAIN",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MIL0121100  ALPHA-BIO TEC LTD.",
+            "製造廠廠址": "7 HATNUFA ST., KIRYAT ARYE, POB 3936, PETACH TIKVA 4951025, ISRAEL",
+            "製造廠公司地址": "",
+            "製造廠國別": "ISRAEL",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

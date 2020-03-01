@@ -1,6 +1,6 @@
 {
     "code": "06001210",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06001210",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06001210",
     "time": "2020-02-25 15:36:08",
     "許可證字號": "衛署醫器輸字第001210號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0806101100  明惠貿易有限公司",
     "申請商地址": "台北巿中山北路二段２６巷１０號",
-    "主製造廠": {
-        "製造廠名稱": "MUS0280000  W.L. GORE &amp; ASSOCIATES INC.",
-        "製造廠廠址": "1505 NORTH FOURTH STREET FLAGSTAFF,ARIZONA 86001 U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0280000  W.L. GORE &amp; ASSOCIATES INC.",
+            "製造廠廠址": "1505 NORTH FOURTH STREET FLAGSTAFF,ARIZONA 86001 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

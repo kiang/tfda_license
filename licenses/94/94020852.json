@@ -1,6 +1,6 @@
 {
     "code": "94020852",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020852",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020852",
     "time": "2020-02-26 12:47:52",
     "許可證字號": "衛部醫器輸壹字第020852號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "620111E110  伯騰儀器有限公司",
     "申請商地址": "臺北市內湖區洲子街73號3樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MUS3854200  BIOTEK INSTRUMENTS, INC.",
-        "製造廠廠址": "100 TIGAN STREET, HIGHLAND PARK, P.O. BOX 998, WINOOSKI, VT 05404-0998, U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS3854200  BIOTEK INSTRUMENTS, INC.",
+            "製造廠廠址": "100 TIGAN STREET, HIGHLAND PARK, P.O. BOX 998, WINOOSKI, VT 05404-0998, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

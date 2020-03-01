@@ -1,6 +1,6 @@
 {
     "code": "44013048",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44013048",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44013048",
     "time": "2020-02-26 05:50:44",
     "許可證字號": "衛署醫器輸壹字第013048號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "6142071034  豐全興業有限公司",
     "申請商地址": "高雄市大樹區竹寮村竹寮路三三二號",
-    "主製造廠": {
-        "製造廠名稱": "MTH0082000  SIAM SEMPERMED CORP. LTD.",
-        "製造廠廠址": "110 KANJANAVANIT ROAD, PAHTONG, HATYAI, SONGKHLA 90230, THAILAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "THAILAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MTH0082000  SIAM SEMPERMED CORP. LTD.",
+            "製造廠廠址": "110 KANJANAVANIT ROAD, PAHTONG, HATYAI, SONGKHLA 90230, THAILAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "THAILAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

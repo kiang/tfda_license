@@ -1,6 +1,6 @@
 {
     "code": "44004476",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44004476",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44004476",
     "time": "2020-02-26 04:40:59",
     "許可證字號": "衛署醫器輸壹字第004476號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "0917201100  春菖貿易有限公司",
     "申請商地址": "台中市西屯區天水西二街35號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN0201000  BASEC HONG KONG LIMITED DONGGUAN FACTORY",
-        "製造廠廠址": "LINGTOU MANAGEMENT ZONE QIAOTOU TOWN 523530 DONGGUAN GUANGDONG, PEOPLE&#39;S REPUBLIC OF CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0201000  BASEC HONG KONG LIMITED DONGGUAN FACTORY",
+            "製造廠廠址": "LINGTOU MANAGEMENT ZONE QIAOTOU TOWN 523530 DONGGUAN GUANGDONG, PEOPLE&#39;S REPUBLIC OF CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MJP0579000  SUMITOMO BAKELITE CO., LTD",
+            "製造廠廠址": "2-5-8, HIGASHI-SHINAGAWA, SHINAGAWA-KU, TOKYO, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

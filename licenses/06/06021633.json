@@ -1,6 +1,6 @@
 {
     "code": "06021633",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021633",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021633",
     "time": "2020-02-25 20:11:36",
     "許可證字號": "衛署醫器輸字第021633號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620117L464  台灣悅廷和有限公司",
     "申請商地址": "臺北市信義區市民大道6段288號6樓之8",
-    "主製造廠": {
-        "製造廠名稱": "MTR0014000  MAQUET Cardiopulmonary Medikal Teknik San. Tic. Ltd. Sti",
-        "製造廠廠址": "Serbest Bolge R Ada Yeni Liman 07070 Antalya, Turkey",
-        "製造廠公司地址": "",
-        "製造廠國別": "TURKEY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MTR0014000  MAQUET Cardiopulmonary Medikal Teknik San. Tic. Ltd. Sti",
+            "製造廠廠址": "Serbest Bolge R Ada Yeni Liman 07070 Antalya, Turkey",
+            "製造廠公司地址": "",
+            "製造廠國別": "TURKEY",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MDE1070000  Maquet Cardiopulmonary GmbH",
+            "製造廠廠址": "KEHLER STRASSE 31, D-76437 RASTATT, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

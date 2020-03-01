@@ -1,6 +1,6 @@
 {
     "code": "94020561",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020561",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020561",
     "time": "2020-02-26 12:45:14",
     "許可證字號": "衛部醫器輸壹字第020561號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620101W317  菁驊有限公司",
     "申請商地址": "臺北市松山區南京東路5段261號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MCA0158100  DNA GENOTEK INC.",
-        "製造廠廠址": "3000-500 Palladium Drive Ottawa, Ontario Canada K2V 1C2",
-        "製造廠公司地址": "",
-        "製造廠國別": "CANADA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCA0158100  DNA GENOTEK INC.",
+            "製造廠廠址": "3000-500 Palladium Drive Ottawa, Ontario Canada K2V 1C2",
+            "製造廠公司地址": "",
+            "製造廠國別": "CANADA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

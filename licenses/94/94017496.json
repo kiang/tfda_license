@@ -1,6 +1,6 @@
 {
     "code": "94017496",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017496",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017496",
     "time": "2020-02-26 12:08:46",
     "許可證字號": "衛部醫器輸壹字第017496號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6203100794  承鋆生醫股份有限公司",
     "申請商地址": "臺中市大雅區科雅路26號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MID0025000  PT PANASONIC HEALTHCARE INDONESIA",
-        "製造廠廠址": "KAWASAN INDUSTRI MM2100 BLOK O-1, CIKARANG BARAT, BEKASI 17520, INDONESIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "INDONESIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MID0025000  PT PANASONIC HEALTHCARE INDONESIA",
+            "製造廠廠址": "KAWASAN INDUSTRI MM2100 BLOK O-1, CIKARANG BARAT, BEKASI 17520, INDONESIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "INDONESIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

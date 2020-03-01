@@ -1,6 +1,6 @@
 {
     "code": "06008177",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06008177",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06008177",
     "time": "2020-02-25 17:34:02",
     "許可證字號": "衛署醫器輸字第008177號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1304601100  瑞士商愛爾康大藥廠股份有限公司台灣分公司",
     "申請商地址": "台北縣新店市寶中路119號四樓",
-    "主製造廠": {
-        "製造廠名稱": "MPR0010000  CARDINAL HEALTH MANUFACTURING SERVICES",
-        "製造廠廠址": "PR 925 BARRIO JUNQUITOS HUMACAO,PUERTO RICO 00791",
-        "製造廠公司地址": "",
-        "製造廠國別": "PUERTO RICO",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MPR0010000  CARDINAL HEALTH MANUFACTURING SERVICES",
+            "製造廠廠址": "PR 925 BARRIO JUNQUITOS HUMACAO,PUERTO RICO 00791",
+            "製造廠公司地址": "",
+            "製造廠國別": "PUERTO RICO",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

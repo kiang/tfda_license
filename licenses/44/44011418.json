@@ -1,6 +1,6 @@
 {
     "code": "44011418",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011418",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011418",
     "time": "2020-02-26 05:34:45",
     "許可證字號": "衛署醫器輸壹字第011418號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217058169  儀瑞企業股份有限公司",
     "申請商地址": "新北市新店區中正路501-4號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MPL0013000  ARJOHUNTLEIGH POLSKA SP. ZO. O.",
-        "製造廠廠址": "U1. KS WAWRZYNIAKA 2, 62-052 KOMORNIKI K., POZNANIA, POLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "POLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MPL0013000  ARJOHUNTLEIGH POLSKA SP. ZO. O.",
+            "製造廠廠址": "U1. KS WAWRZYNIAKA 2, 62-052 KOMORNIKI K., POZNANIA, POLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "POLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

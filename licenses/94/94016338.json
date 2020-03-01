@@ -1,6 +1,6 @@
 {
     "code": "94016338",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016338",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016338",
     "time": "2020-02-26 11:53:52",
     "許可證字號": "衛部醫器輸壹字第016338號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6231104944  博兆股份有限公司",
     "申請商地址": "新北市淡水區中正東路2段29號5樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS4532000  PLASTICSONE",
-        "製造廠廠址": "6591 MERRIMAN RD SW ROANOKE, VA 24018, UNITED STATES",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS4532000  PLASTICSONE",
+            "製造廠廠址": "6591 MERRIMAN RD SW ROANOKE, VA 24018, UNITED STATES",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MCA0134000  Embla Systems",
+            "製造廠廠址": "1 Hines Road, Suite 202,  OTTAWA, K2K 3C7, Canada",
+            "製造廠公司地址": "",
+            "製造廠國別": "CANADA",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

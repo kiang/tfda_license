@@ -1,6 +1,6 @@
 {
     "code": "08010727",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08010727",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08010727",
     "time": "2020-02-25 23:47:01",
     "許可證字號": "衛署粧輸字第010727號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620110R142  上揚生技有限公司",
     "申請商地址": "新北市蘆洲區中山二路176之4號6樓",
-    "主製造廠": {
-        "製造廠名稱": "CCH0032000  SPIRIG PHARMA LTD.",
-        "製造廠廠址": "FROSCHACKERSTRASSE 6, P.O. BOX 111, 4622 EGERKINGEN, SWITZERLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CCH0032000  SPIRIG PHARMA LTD.",
+            "製造廠廠址": "FROSCHACKERSTRASSE 6, P.O. BOX 111, 4622 EGERKINGEN, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

@@ -1,6 +1,6 @@
 {
     "code": "56030583",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030583",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030583",
     "time": "2020-02-26 08:14:55",
     "許可證字號": "衛部醫器輸字第030583號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6401022675  壯生醫療器材股份有限公司",
     "申請商地址": "臺北市中山區民生東路三段2號10樓及11樓",
-    "主製造廠": {
-        "製造廠名稱": "MBR0046000  Johnson &amp; Johnson do Brasil Ind. Com. de Prod. p\/ Saude Ltda.",
-        "製造廠廠址": "RODOVIA PRESIDENTE DUTRA KM154, SAO JOSE DOS CAMPOS, Sao PAULO, 12240-908 BRAZIL",
-        "製造廠公司地址": "",
-        "製造廠國別": "BRAZIL",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MBR0046000  Johnson &amp; Johnson do Brasil Ind. Com. de Prod. p\/ Saude Ltda.",
+            "製造廠廠址": "RODOVIA PRESIDENTE DUTRA KM154, SAO JOSE DOS CAMPOS, Sao PAULO, 12240-908 BRAZIL",
+            "製造廠公司地址": "",
+            "製造廠國別": "BRAZIL",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS4605000  ETHICON, LLC.",
+            "製造廠廠址": "475 C Street, Los Frailes Industrial Park, Guaynabo, PR, USA 00969",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

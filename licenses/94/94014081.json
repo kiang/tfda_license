@@ -1,6 +1,6 @@
 {
     "code": "94014081",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014081",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014081",
     "time": "2020-02-26 11:22:12",
     "許可證字號": "衛部醫器輸壹字第014081號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6233063633  英美達實業有限公司",
     "申請商地址": "新竹縣湖口鄉新湖路183號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0511000  HYUNDAI MEDICAL CO., LTD",
-        "製造廠廠址": "259-12, MARUDEUL-GIL, OPO-EUP, GWANGJU CITY, GYOUNGGI-DO, SOUTH KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0511000  HYUNDAI MEDICAL CO., LTD",
+            "製造廠廠址": "259-12, MARUDEUL-GIL, OPO-EUP, GWANGJU CITY, GYOUNGGI-DO, SOUTH KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "46001301",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001301",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001301",
     "time": "2020-02-26 06:05:42",
     "許可證字號": "衛署醫器陸輸壹字第001301號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "620110X313  傑宏貿易有限公司",
     "申請商地址": "台北市中山區復興北路448號8樓之8",
-    "主製造廠": {
-        "製造廠名稱": "MCN0864000  NMS TECHNOLOGIES CO., LTD.",
-        "製造廠廠址": "10 YUEYUAN SOUTH ROAD, NANJING, 210028, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0864000  NMS TECHNOLOGIES CO., LTD.",
+            "製造廠廠址": "10 YUEYUAN SOUTH ROAD, NANJING, 210028, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

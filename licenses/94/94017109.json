@@ -1,6 +1,6 @@
 {
     "code": "94017109",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017109",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017109",
     "time": "2020-02-26 12:04:16",
     "許可證字號": "衛部醫器輸壹字第017109號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6207150503  醫百科技股份有限公司",
     "申請商地址": "南部科學工業園區高雄市路竹區路科五路90號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MPK0118000  PIN TECH INSTRUMENTS",
-        "製造廠廠址": "291 MOHALLAH EAST BHOPALWALA TEHSIL SAMBRIAL PAKISTAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "PAKISTAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MPK0118000  PIN TECH INSTRUMENTS",
+            "製造廠廠址": "291 MOHALLAH EAST BHOPALWALA TEHSIL SAMBRIAL PAKISTAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "PAKISTAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

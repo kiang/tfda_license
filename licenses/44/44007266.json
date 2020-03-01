@@ -1,6 +1,6 @@
 {
     "code": "44007266",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007266",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007266",
     "time": "2020-02-26 04:57:44",
     "許可證字號": "衛署醫器輸壹字第007266號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102K417  韶田股份有限公司",
     "申請商地址": "台北市大安區敦化南路二段180號8樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS1632000  MIZUHO OSI, INC.",
-        "製造廠廠址": "30031 AHERN AVENUE, UNION CITY, CA 94587-1234 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS1632000  MIZUHO OSI, INC.",
+            "製造廠廠址": "30031 AHERN AVENUE, UNION CITY, CA 94587-1234 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "96002910",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002910",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002910",
     "time": "2020-02-26 13:05:15",
     "許可證字號": "衛部醫器陸輸壹字第002910號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6236141090  佳鴻醫療儀器廠有限公司",
     "申請商地址": "台中市大安區西安村南北八路57巷38號",
-    "主製造廠": {
-        "製造廠名稱": "MCN0366000  JIN PRAISE MEDICAL TREATMENT INSTRUMENTS CO., LTD.",
-        "製造廠廠址": "TAIZHAN INDUSTRIAL ZONE, BICHONG, HUANGQI DALI TOWN, NANHAI FOSHAN CITY, GUANGDONG, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0366000  JIN PRAISE MEDICAL TREATMENT INSTRUMENTS CO., LTD.",
+            "製造廠廠址": "TAIZHAN INDUSTRIAL ZONE, BICHONG, HUANGQI DALI TOWN, NANHAI FOSHAN CITY, GUANGDONG, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

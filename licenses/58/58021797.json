@@ -1,6 +1,6 @@
 {
     "code": "58021797",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58021797",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58021797",
     "time": "2020-02-26 09:10:02",
     "許可證字號": "衛部粧輸字第021797號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6625131887  卓冠髮品股份有限公司",
     "申請商地址": "台北市內湖區瑞光路513巷22弄5號7樓之6",
-    "主製造廠": {
-        "製造廠名稱": "MTH0106000  HFC Prestige Manufacturing(Thailand)Ltd.",
-        "製造廠廠址": "112\/1 Moo 5,Wellgrow Industrial Estate,KM.36, Bangna-Trad,Bangsamark,Bangpakong,Chachoengsao 24180,Thailand",
-        "製造廠公司地址": "",
-        "製造廠國別": "THAILAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MTH0106000  HFC Prestige Manufacturing(Thailand)Ltd.",
+            "製造廠廠址": "112\/1 Moo 5,Wellgrow Industrial Estate,KM.36, Bangna-Trad,Bangsamark,Bangpakong,Chachoengsao 24180,Thailand",
+            "製造廠公司地址": "",
+            "製造廠國別": "THAILAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

@@ -1,6 +1,6 @@
 {
     "code": "94018906",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018906",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018906",
     "time": "2020-02-26 12:28:45",
     "許可證字號": "衛部醫器輸壹字第018906號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217043766  英普連牙科器材股份有限公司",
     "申請商地址": "台中市西區三民西路77號7樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE0299000  TRINON TITANIUM GMBH",
-        "製造廠廠址": "AUGARTENSTR. 1, D-76137 KARLSRUHE, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0299000  TRINON TITANIUM GMBH",
+            "製造廠廠址": "AUGARTENSTR. 1, D-76137 KARLSRUHE, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

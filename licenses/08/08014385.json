@@ -1,6 +1,6 @@
 {
     "code": "08014385",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08014385",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08014385",
     "time": "2020-02-26 00:22:55",
     "許可證字號": "衛署粧輸字第014385號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6627871330  創多兆國際有限公司",
     "申請商地址": "台中市西區五權路１之６７號１２樓之４",
-    "主製造廠": {
-        "製造廠名稱": "CJP0234000  SWISS ROWAL INC.",
-        "製造廠廠址": "231-1 AZA IWAWAKI, OAZA KAMIHATA, HANNO CITY, SAITAMA",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0234000  SWISS ROWAL INC.",
+            "製造廠廠址": "231-1 AZA IWAWAKI, OAZA KAMIHATA, HANNO CITY, SAITAMA",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

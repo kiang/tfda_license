@@ -1,6 +1,6 @@
 {
     "code": "56029015",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029015",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029015",
     "time": "2020-02-26 08:01:11",
     "許可證字號": "衛部醫器輸字第029015號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620117J497  埃默高有限公司",
     "申請商地址": "新北市新店區北新路3段221號10樓",
-    "主製造廠": {
-        "製造廠名稱": "MTH0020100  CARDINAL HEALTH THAILAND 222 LTD.",
-        "製造廠廠址": "7\/111 MOO 4, HIGHWAY #331,MABYANGPORN,PLUAKDAENG, RAYONG 21140, THAILAND.",
-        "製造廠公司地址": "",
-        "製造廠國別": "THAILAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MTH0020100  CARDINAL HEALTH THAILAND 222 LTD.",
+            "製造廠廠址": "7\/111 MOO 4, HIGHWAY #331,MABYANGPORN,PLUAKDAENG, RAYONG 21140, THAILAND.",
+            "製造廠公司地址": "",
+            "製造廠國別": "THAILAND",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS4480000  CARDINAL HEALTH 200, LLC",
+            "製造廠廠址": "1500 WAUKEGAN RD WAUKEGAN, IL 60085 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

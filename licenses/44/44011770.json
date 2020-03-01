@@ -1,6 +1,6 @@
 {
     "code": "44011770",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011770",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011770",
     "time": "2020-02-26 05:38:14",
     "許可證字號": "衛署醫器輸壹字第011770號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231046330  法博國際貿易有限公司",
     "申請商地址": "臺北市士林區天玉街41號",
-    "主製造廠": {
-        "製造廠名稱": "MFR0848000  SATELEC S.A.S. ACTEON GROUP DIVISION",
-        "製造廠廠址": "17 AVENUE GUSTAVE EIFFEL Z.I. DU PHARE - B.P. 30216 33708 MERIGNAC CEDEX, FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR0848000  SATELEC S.A.S. ACTEON GROUP DIVISION",
+            "製造廠廠址": "17 AVENUE GUSTAVE EIFFEL Z.I. DU PHARE - B.P. 30216 33708 MERIGNAC CEDEX, FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

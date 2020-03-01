@@ -1,6 +1,6 @@
 {
     "code": "44008929",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008929",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008929",
     "time": "2020-02-26 05:10:06",
     "許可證字號": "衛署醫器輸壹字第008929號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6237032054  凱聚貿易有限公司",
     "申請商地址": "台北市內湖區康樂街136巷3弄2號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MIL0095000  VENUS CONCEPT",
-        "製造廠廠址": "BUILDING 62, HAERMESH ST., P.O.B 6264, KARMEIL 21652, ISRAEL",
-        "製造廠公司地址": "",
-        "製造廠國別": "ISRAEL",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIL0095000  VENUS CONCEPT",
+            "製造廠廠址": "BUILDING 62, HAERMESH ST., P.O.B 6264, KARMEIL 21652, ISRAEL",
+            "製造廠公司地址": "",
+            "製造廠國別": "ISRAEL",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

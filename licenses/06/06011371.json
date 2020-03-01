@@ -1,6 +1,6 @@
 {
     "code": "06011371",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06011371",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06011371",
     "time": "2020-02-25 18:15:13",
     "許可證字號": "衛署醫器輸字第011371號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0417201100  天慶醫療儀器股份有限公司",
     "申請商地址": "台北市新生南路一段９７巷１９號２樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS1094000  OLYMPIC MEDICAL CORP.",
-        "製造廠廠址": "5900 FIRST AVE S., SEATTLE, WA 98108, U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS1094000  OLYMPIC MEDICAL CORP.",
+            "製造廠廠址": "5900 FIRST AVE S., SEATTLE, WA 98108, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

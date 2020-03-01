@@ -1,6 +1,6 @@
 {
     "code": "94019083",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019083",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019083",
     "time": "2020-02-26 12:30:42",
     "許可證字號": "衛部醫器輸壹字第019083號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231067811  明華生技有限公司",
     "申請商地址": "新北市新莊區中華路2段19號7樓",
-    "主製造廠": {
-        "製造廠名稱": "MAU9022000  HOGIES AUSTRALIA PTY LTD",
-        "製造廠廠址": "UNIT 16\/125 HIGHBURY ROAD, BURWOOD 3125, VICTORIA, AUSTRALIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "AUSTRALIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MAU9022000  HOGIES AUSTRALIA PTY LTD",
+            "製造廠廠址": "UNIT 16\/125 HIGHBURY ROAD, BURWOOD 3125, VICTORIA, AUSTRALIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRALIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

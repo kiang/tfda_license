@@ -1,6 +1,6 @@
 {
     "code": "56027297",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027297",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027297",
     "time": "2020-02-26 07:44:14",
     "許可證字號": "衛部醫器輸字第027297號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "0921001100  洽泰企業有限公司",
     "申請商地址": "臺北市大安區敦化南路１段337號9樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS4344000  MacKay Manufacturing , Inc.",
-        "製造廠廠址": "10011 E. Montgomery Drive, Spokane Valley, Washington 99206 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS4344000  MacKay Manufacturing , Inc.",
+            "製造廠廠址": "10011 E. Montgomery Drive, Spokane Valley, Washington 99206 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS4345000  Kobold",
+            "製造廠廠址": "23403 E Mission Ave Suite 220 E Liberty Lake, WA USA 99019",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

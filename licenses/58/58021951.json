@@ -1,6 +1,6 @@
 {
     "code": "58021951",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58021951",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58021951",
     "time": "2020-02-26 09:13:12",
     "許可證字號": "衛部粧輸字第021951號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6623737925  勇昌貿易有限公司",
     "申請商地址": "臺北市文山區保儀路149-1號",
-    "主製造廠": {
-        "製造廠名稱": "CES0037000  Berioska S.L.",
-        "製造廠廠址": "Poligono Industrial Castilla, 8-3, 46380 Cheste (Valencia) Spain",
-        "製造廠公司地址": "",
-        "製造廠國別": "SPAIN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CES0037000  Berioska S.L.",
+            "製造廠廠址": "Poligono Industrial Castilla, 8-3, 46380 Cheste (Valencia) Spain",
+            "製造廠公司地址": "",
+            "製造廠國別": "SPAIN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

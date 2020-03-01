@@ -1,6 +1,6 @@
 {
     "code": "94014360",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014360",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014360",
     "time": "2020-02-26 11:26:17",
     "許可證字號": "衛部醫器輸壹字第014360號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6237051531  勝利美橡膠股份有限公司",
     "申請商地址": "彰化縣員林鎮新生里北和街53巷33號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MMY0145000  SAFETY ZONE RESOURCES SDN BHD",
-        "製造廠廠址": "LOT 42B, SIMPANG TIGA, 45620 IJUK, BATANG BERJUNTAI, SELANGOR DARUL EHSAN MALAYSIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "MALAYSIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMY0145000  SAFETY ZONE RESOURCES SDN BHD",
+            "製造廠廠址": "LOT 42B, SIMPANG TIGA, 45620 IJUK, BATANG BERJUNTAI, SELANGOR DARUL EHSAN MALAYSIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "MALAYSIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

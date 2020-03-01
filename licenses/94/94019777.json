@@ -1,6 +1,6 @@
 {
     "code": "94019777",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019777",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019777",
     "time": "2020-02-26 12:37:58",
     "許可證字號": "衛部醫器輸壹字第019777號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620101Q422  晨欣國際有限公司",
     "申請商地址": "臺北市松山區民權東路三段142號6樓之6",
-    "主製造廠": {
-        "製造廠名稱": "MUS5222000  MTI MEDICAL TECHNOLOGY INDUSTRIES. INC",
-        "製造廠廠址": "3655 W. NINIGRET DRIVE SALT LAKE CITY, UT 84104, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS5222000  MTI MEDICAL TECHNOLOGY INDUSTRIES. INC",
+            "製造廠廠址": "3655 W. NINIGRET DRIVE SALT LAKE CITY, UT 84104, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "40000360",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=40000360",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=40000360",
     "time": "2020-02-26 03:08:29",
     "許可證字號": "衛署粧陸輸字第000360號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "0829101100  欣臨企業股份有限公司",
     "申請商地址": "台北市南京東路三段７０號４樓",
-    "主製造廠": {
-        "製造廠名稱": "CCN0011000  HENKEL (CHINA) COMPANY LIMITED SHANGHAI EAST BRANCH",
-        "製造廠廠址": "NO. 188, GUO YUAN ROAD, YANCANG, NAN HUI DISTRICT, SHANGHAI, 201324, P.R. CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CCN0011000  HENKEL (CHINA) COMPANY LIMITED SHANGHAI EAST BRANCH",
+            "製造廠廠址": "NO. 188, GUO YUAN ROAD, YANCANG, NAN HUI DISTRICT, SHANGHAI, 201324, P.R. CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

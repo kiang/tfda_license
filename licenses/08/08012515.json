@@ -1,6 +1,6 @@
 {
     "code": "08012515",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08012515",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08012515",
     "time": "2020-02-26 00:02:31",
     "許可證字號": "衛署粧輸字第012515號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6605220011  古吉實業有限公司",
     "申請商地址": "台北市大安區仁愛路4段77號6樓之1",
-    "主製造廠": {
-        "製造廠名稱": "CCO1500980  FAUVERT S.A.",
-        "製造廠廠址": "ZI DE LA TOULOUBRE 13770 VENELLES, FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CCO1500980  FAUVERT S.A.",
+            "製造廠廠址": "ZI DE LA TOULOUBRE 13770 VENELLES, FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

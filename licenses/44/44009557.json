@@ -1,6 +1,6 @@
 {
     "code": "44009557",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009557",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009557",
     "time": "2020-02-26 05:16:25",
     "許可證字號": "衛署醫器輸壹字第009557號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1225901100  捷笙有限公司",
     "申請商地址": "台北市松山區民生東路五段162號4樓之4",
-    "主製造廠": {
-        "製造廠名稱": "MUS2739000  DIAGNOSYS LLC",
-        "製造廠廠址": "175 CABOT STREET, SUITE 500, LOWELL, MA01854, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2739000  DIAGNOSYS LLC",
+            "製造廠廠址": "175 CABOT STREET, SUITE 500, LOWELL, MA01854, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

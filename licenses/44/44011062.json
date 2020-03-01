@@ -1,6 +1,6 @@
 {
     "code": "44011062",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011062",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011062",
     "time": "2020-02-26 05:31:13",
     "許可證字號": "衛署醫器輸壹字第011062號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620118K678  維美生技股份有限公司",
     "申請商地址": "臺北市中正區忠孝東路1段45號6樓之6",
-    "主製造廠": {
-        "製造廠名稱": "MKR0437000  UNITED MEDICAL",
-        "製造廠廠址": "#1505-29 R 401, SHIN HAN DEABU OFFICE TELL, KAWN YANG DONG, DONG AN GU AHN YANG SI, KYOUNG KI DO, SOUTH KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0437000  UNITED MEDICAL",
+            "製造廠廠址": "#1505-29 R 401, SHIN HAN DEABU OFFICE TELL, KAWN YANG DONG, DONG AN GU AHN YANG SI, KYOUNG KI DO, SOUTH KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

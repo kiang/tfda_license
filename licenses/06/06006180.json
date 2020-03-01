@@ -1,6 +1,6 @@
 {
     "code": "06006180",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06006180",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06006180",
     "time": "2020-02-25 17:05:39",
     "許可證字號": "衛署醫器輸字第006180號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0607901100  西河國際股份有限公司",
     "申請商地址": "台北巿博愛路１２號１樓",
-    "主製造廠": {
-        "製造廠名稱": "MCH0032000  STORZ MEDICAL AG",
-        "製造廠廠址": "UNTERSEESTRASSE 47 8280 KREUZLINGEN",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCH0032000  STORZ MEDICAL AG",
+            "製造廠廠址": "UNTERSEESTRASSE 47 8280 KREUZLINGEN",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

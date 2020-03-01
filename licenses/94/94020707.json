@@ -1,6 +1,6 @@
 {
     "code": "94020707",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020707",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020707",
     "time": "2020-02-26 12:46:38",
     "許可證字號": "衛部醫器輸壹字第020707號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6217058169  儀瑞企業股份有限公司",
     "申請商地址": "新北市新店區中正路501-4號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MCA0179000  ARJOHUNTLEIGH MAGOG INC.",
-        "製造廠廠址": "2001, RUE TANGUAY STREET, MAGOG, QU&#201;BEC J1X 5Y5 CANADA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CANADA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCA0179000  ARJOHUNTLEIGH MAGOG INC.",
+            "製造廠廠址": "2001, RUE TANGUAY STREET, MAGOG, QU&#201;BEC J1X 5Y5 CANADA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CANADA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MSE2434000  ARJOHUNTLEIGH AB",
+            "製造廠廠址": "HANS MICHELSENSGATAN 10, 211 20 MALMO, SWEDEN",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWEDEN",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

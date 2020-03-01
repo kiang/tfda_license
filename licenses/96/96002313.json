@@ -1,6 +1,6 @@
 {
     "code": "96002313",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002313",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002313",
     "time": "2020-02-26 12:58:33",
     "許可證字號": "衛部醫器陸輸壹字第002313號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 40大陸生產",
     "申請商名稱": "6202092088  好市多股份有限公司",
     "申請商地址": "高雄市前鎮區中華五路656號",
-    "主製造廠": {
-        "製造廠名稱": "MCN1443000  LANSON INTERNATIONAL CO, LTD.",
-        "製造廠廠址": "NO.17 JIHONG ROAD, OUHAI ZONE, WENZHOU 325037, ZHEJIANG, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1443000  LANSON INTERNATIONAL CO, LTD.",
+            "製造廠廠址": "NO.17 JIHONG ROAD, OUHAI ZONE, WENZHOU 325037, ZHEJIANG, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS4278000  FGX INTERNATIONAL INC.",
+            "製造廠廠址": "500 GEORGE WASHINGTON HIGHWAY, SMITHFIELD, RHODE ISLAND 02917, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

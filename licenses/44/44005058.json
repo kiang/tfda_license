@@ -1,6 +1,6 @@
 {
     "code": "44005058",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44005058",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44005058",
     "time": "2020-02-26 04:44:01",
     "許可證字號": "衛署醫器輸壹字第005058號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102G160  信強儀器有限公司",
     "申請商地址": "臺北市大安區四維路198巷31弄12號2樓之3、之4及之5",
-    "主製造廠": {
-        "製造廠名稱": "MKR0150000  DOALLAID CO.",
-        "製造廠廠址": "SHINIL B\/D102, 149-2 EUNGAM-DONG, EUNPYUNG-GU, SEOUL, KOREA.",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0150000  DOALLAID CO.",
+            "製造廠廠址": "SHINIL B\/D102, 149-2 EUNGAM-DONG, EUNPYUNG-GU, SEOUL, KOREA.",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

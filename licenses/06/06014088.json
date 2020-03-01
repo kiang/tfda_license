@@ -1,6 +1,6 @@
 {
     "code": "06014088",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014088",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014088",
     "time": "2020-02-25 18:45:33",
     "許可證字號": "衛署醫器輸字第014088號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0821901100  芳林貿易股份有限公司",
     "申請商地址": "台北市中正區林森南路43號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MMY0014000  WRP ASIA PACIFIC SDN BHD",
-        "製造廠廠址": "LOT 1, JALAN 3, KAWASAN PERUSAHAAN BANDAR BARU SALAK TINGGI, 43900 SEPANG, SELANGOR DARUL EHSAN, MALAYSIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "MALAYSIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMY0014000  WRP ASIA PACIFIC SDN BHD",
+            "製造廠廠址": "LOT 1, JALAN 3, KAWASAN PERUSAHAAN BANDAR BARU SALAK TINGGI, 43900 SEPANG, SELANGOR DARUL EHSAN, MALAYSIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "MALAYSIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

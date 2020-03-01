@@ -1,6 +1,6 @@
 {
     "code": "44006166",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006166",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006166",
     "time": "2020-02-26 04:49:49",
     "許可證字號": "衛署醫器輸壹字第006166號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623101F120  久億生醫科技股份有限公司",
     "申請商地址": "新北市板橋區文化路一段266號16樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MDE0855000  DR. SCHUMACHER GMBH",
-        "製造廠廠址": "THURINGER STRABE16, 34212 MELSUNGEN, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0855000  DR. SCHUMACHER GMBH",
+            "製造廠廠址": "THURINGER STRABE16, 34212 MELSUNGEN, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

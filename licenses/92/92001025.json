@@ -1,6 +1,6 @@
 {
     "code": "92001025",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92001025",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92001025",
     "time": "2020-02-26 10:16:25",
     "許可證字號": "衛部醫器陸輸字第001025號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "640110A549  弘祐實業有限公司",
     "申請商地址": "臺北市中山區南京東路3段189號10樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN4374000  APT Medical Inc.",
-        "製造廠廠址": "No.009, Xiangxiang Road, Xiangxiang Economic Development Zone, Xiangxiang City, Hunan, 411400, China",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN4374000  APT Medical Inc.",
+            "製造廠廠址": "No.009, Xiangxiang Road, Xiangxiang Economic Development Zone, Xiangxiang City, Hunan, 411400, China",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

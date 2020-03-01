@@ -1,6 +1,6 @@
 {
     "code": "94020686",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020686",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020686",
     "time": "2020-02-26 12:46:29",
     "許可證字號": "衛部醫器輸壹字第020686號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217069537  富碁儀器有限公司",
     "申請商地址": "臺中市南屯區文心南三路536號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP1394000  ASAHIROENTGEN IND. CO., LTD.",
-        "製造廠廠址": "376-3 Tsukiyama-cho, Kuze, Minami-ku, Kyoto-shi, Kyoto 601-8203, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP1394000  ASAHIROENTGEN IND. CO., LTD.",
+            "製造廠廠址": "376-3 Tsukiyama-cho, Kuze, Minami-ku, Kyoto-shi, Kyoto 601-8203, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

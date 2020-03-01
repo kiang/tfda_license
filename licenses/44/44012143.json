@@ -1,6 +1,6 @@
 {
     "code": "44012143",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012143",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012143",
     "time": "2020-02-26 05:41:57",
     "許可證字號": "衛署醫器輸壹字第012143號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201188432  廣水貿易股份有限公司",
     "申請商地址": "台北市中山區松江路32之1號6樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MJP1054000  KOKUSAN CORPORATION",
-        "製造廠廠址": "7-8-16 NISHIBORI SAKURA-KU, SAITAMA-SHI, SAITAMA JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP1054000  KOKUSAN CORPORATION",
+            "製造廠廠址": "7-8-16 NISHIBORI SAKURA-KU, SAITAMA-SHI, SAITAMA JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

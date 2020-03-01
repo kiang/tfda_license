@@ -1,11 +1,12 @@
 {
     "code": "02019855",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019855",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019855",
     "time": "2020-02-25 12:18:04",
     "許可證字號": "衛署藥輸字第019855號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
+    "製造許可登錄編號": "",
     "有效日期": "107\/09\/12",
     "發證日期": "102\/05\/02",
     "許可證種類": "製　劑",
@@ -20,19 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入 1Q不得輸入",
-        "申請商名稱": "1426201100  臺灣拜耳股份有限公司",
-        "申請商地址": "台北市信義區信義路五段7號台北101大樓之53至54樓",
-        "主製造廠": ""
-    },
-    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
-    "藥理治療分類": "",
+    "監視期限": "",
+    "主成分略述": "NIFEDIPINE",
+    "限制項目": "02輸　入 1Q不得輸入",
+    "申請商名稱": "1426201100  臺灣拜耳股份有限公司",
+    "申請商地址": "台北市信義區信義路五段7號台北101大樓之53至54樓",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FDE0082000  Bayer Pharma AG",
+            "製造廠廠址": "D-51368 LEVERKUSEN GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "包裝及釋出"
+        }
+    ],
     "次製造廠": [
         {
             "製造廠名稱": "FDE0157200  CATALENT GERMANY EBERBACH GMBH",
@@ -42,6 +48,8 @@
             "製程": "膠囊充填"
         }
     ],
+    "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
+    "藥理治療分類": "",
     "ingredients": [
         {
             "成分類別": "主成分",

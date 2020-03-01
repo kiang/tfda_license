@@ -1,6 +1,6 @@
 {
     "code": "06010402",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010402",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010402",
     "time": "2020-02-25 18:03:41",
     "許可證字號": "衛署醫器輸字第010402號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0406101100  友信行股份有限公司",
     "申請商地址": "台北市敦化南路二段９７號１４樓",
-    "主製造廠": {
-        "製造廠名稱": "MIL0022000  TRANS SCAN MEDICAL LTD.",
-        "製造廠廠址": "P.O. BOX 786, MIGDAL HA&#39;EMEK 10550, ISRAEL",
-        "製造廠公司地址": "",
-        "製造廠國別": "ISRAEL",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIL0022000  TRANS SCAN MEDICAL LTD.",
+            "製造廠廠址": "P.O. BOX 786, MIGDAL HA&#39;EMEK 10550, ISRAEL",
+            "製造廠公司地址": "",
+            "製造廠國別": "ISRAEL",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

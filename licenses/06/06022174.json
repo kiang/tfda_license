@@ -1,6 +1,6 @@
 {
     "code": "06022174",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022174",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022174",
     "time": "2020-02-25 20:17:50",
     "許可證字號": "衛署醫器輸字第022174號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620110W792  瑞光生醫科技股份有限公司",
     "申請商地址": "台北市內湖區內湖路一段308號8樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS1055000  HOYA PHOTONICS, INC. D\/B\/A HOYA CONBIO",
-        "製造廠廠址": "47733 FREMONT BLVD., FREMONT, CA 94538-6512, U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS1055000  HOYA PHOTONICS, INC. D\/B\/A HOYA CONBIO",
+            "製造廠廠址": "47733 FREMONT BLVD., FREMONT, CA 94538-6512, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS3166000  ACE VISION GROUP",
+            "製造廠廠址": "2941 KENT ROAD, SILVER LAKE, OHIO 44224, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

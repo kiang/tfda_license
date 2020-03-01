@@ -1,6 +1,6 @@
 {
     "code": "06006748",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06006748",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06006748",
     "time": "2020-02-25 17:14:45",
     "許可證字號": "衛署醫器輸字第006748號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "2002301100  羅氏醫學儀器股份有限公司",
     "申請商地址": "台北巿民權東路3段35號11樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS0075000  DEPUY INCORPORATED DIVISION OF BOEHRINGER MANNHEIM CORPORATION",
-        "製造廠廠址": "ROUTE 30 EAST WARSAW, INDIANA 46580",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0075000  DEPUY INCORPORATED DIVISION OF BOEHRINGER MANNHEIM CORPORATION",
+            "製造廠廠址": "ROUTE 30 EAST WARSAW, INDIANA 46580",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

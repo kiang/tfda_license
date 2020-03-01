@@ -1,6 +1,6 @@
 {
     "code": "44012456",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012456",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012456",
     "time": "2020-02-26 05:44:56",
     "許可證字號": "衛署醫器輸壹字第012456號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6207290217  辰豫科技有限公司",
     "申請商地址": "高雄市大社區自由路28號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE1079000  MATTES INSTRUMENT GMBH",
-        "製造廠廠址": "HALDENSTRASSE 27. D-78532 TUTTLINGEN GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE1079000  MATTES INSTRUMENT GMBH",
+            "製造廠廠址": "HALDENSTRASSE 27. D-78532 TUTTLINGEN GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

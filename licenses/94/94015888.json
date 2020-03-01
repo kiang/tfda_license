@@ -1,6 +1,6 @@
 {
     "code": "94015888",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015888",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015888",
     "time": "2020-02-26 11:47:09",
     "許可證字號": "衛部醫器輸壹字第015888號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6237191638  華一生物科技有限公司",
     "申請商地址": "嘉義市東區太平里博東路285號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MCZ0016000  DIACOM TECHENOLOGY",
-        "製造廠廠址": "JEDOVA 189, 277 11 NERATOVICE, CZECH REPUBLIC",
-        "製造廠公司地址": "",
-        "製造廠國別": "CZECH REPUBLIC",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCZ0016000  DIACOM TECHENOLOGY",
+            "製造廠廠址": "JEDOVA 189, 277 11 NERATOVICE, CZECH REPUBLIC",
+            "製造廠公司地址": "",
+            "製造廠國別": "CZECH REPUBLIC",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

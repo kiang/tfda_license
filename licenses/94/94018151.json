@@ -1,6 +1,6 @@
 {
     "code": "94018151",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018151",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018151",
     "time": "2020-02-26 12:22:37",
     "許可證字號": "衛部醫器輸壹字第018151號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201113855  紐西蘭商費雪派克醫療器材有限公司台灣分公司",
     "申請商地址": "臺北市內湖區洲子街61號10樓之1及69號10樓",
-    "主製造廠": {
-        "製造廠名稱": "MMX0143000  FISHER &amp; PAYKEL HEALTHCARE S.A. DE C.V.",
-        "製造廠廠址": "AVE. TODOS LOS SANTOS 12831, PARQUE INDUSTRIAL PACIFICO, 22643 TIJUANA, BAJA CALIFORNIA, MEXICO",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0143000  FISHER &amp; PAYKEL HEALTHCARE S.A. DE C.V.",
+            "製造廠廠址": "AVE. TODOS LOS SANTOS 12831, PARQUE INDUSTRIAL PACIFICO, 22643 TIJUANA, BAJA CALIFORNIA, MEXICO",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

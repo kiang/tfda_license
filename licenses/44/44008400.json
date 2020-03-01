@@ -1,6 +1,6 @@
 {
     "code": "44008400",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008400",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008400",
     "time": "2020-02-26 05:05:37",
     "許可證字號": "衛署醫器輸壹字第008400號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP 40大陸生產",
     "申請商名稱": "623101B506  勤達醫療器材股份有限公司",
     "申請商地址": "新北市板橋區民生路一段33號22樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MIN0036000  Healthium Medtech Private Limited",
-        "製造廠廠址": "Plot No.13 to 16, KIADB Industrial Area, Kunigal (T), Tumkur District-572126, Karnataka, India",
-        "製造廠公司地址": "",
-        "製造廠國別": "INDIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIN0036000  Healthium Medtech Private Limited",
+            "製造廠廠址": "Plot No.13 to 16, KIADB Industrial Area, Kunigal (T), Tumkur District-572126, Karnataka, India",
+            "製造廠公司地址": "",
+            "製造廠國別": "INDIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

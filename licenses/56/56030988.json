@@ -1,6 +1,6 @@
 {
     "code": "56030988",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030988",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030988",
     "time": "2020-02-26 08:19:13",
     "許可證字號": "衛部醫器輸字第030988號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620111D533  帝歐科技股份有限公司",
     "申請商地址": "臺北市中山區南京東路二段96號9樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0585300  DIO CORPORATION",
-        "製造廠廠址": "66, CENTUM  SEO-RO, HAEUNDAE-GU, BUSAN, 48058, REPUBLIC OF KOREA.",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0585300  DIO CORPORATION",
+            "製造廠廠址": "66, CENTUM  SEO-RO, HAEUNDAE-GU, BUSAN, 48058, REPUBLIC OF KOREA.",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

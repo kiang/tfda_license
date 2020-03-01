@@ -1,6 +1,6 @@
 {
     "code": "06001332",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06001332",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06001332",
     "time": "2020-02-25 15:38:17",
     "許可證字號": "衛署醫器輸字第001332號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1502901100  慶盛儀器有限公司",
     "申請商地址": "台北巿民權西路１１號１１Ｆ之２",
-    "主製造廠": {
-        "製造廠名稱": "MUS0262000  UNIVERSAL MEDICAL INSTRUMENT CORP.",
-        "製造廠廠址": "BOX. 100 BALLSTON SPA. N.Y. 12020 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0262000  UNIVERSAL MEDICAL INSTRUMENT CORP.",
+            "製造廠廠址": "BOX. 100 BALLSTON SPA. N.Y. 12020 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

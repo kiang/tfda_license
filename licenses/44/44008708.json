@@ -1,6 +1,6 @@
 {
     "code": "44008708",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008708",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008708",
     "time": "2020-02-26 05:08:01",
     "許可證字號": "衛署醫器輸壹字第008708號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6233060641  台灣豪雅光學股份有限公司",
     "申請商地址": "新竹縣湖口鄉三民路11號",
-    "主製造廠": {
-        "製造廠名稱": "MTH0057000  HOYA LENS THAILAND LTD.",
-        "製造廠廠址": "853 PHAHOLYOTHIN ROAD, PRACHATIPAT, THANYABURI PATUMTHANI 12130, THAILAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "THAILAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MTH0057000  HOYA LENS THAILAND LTD.",
+            "製造廠廠址": "853 PHAHOLYOTHIN ROAD, PRACHATIPAT, THANYABURI PATUMTHANI 12130, THAILAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "THAILAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

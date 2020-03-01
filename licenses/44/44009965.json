@@ -1,6 +1,6 @@
 {
     "code": "44009965",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009965",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009965",
     "time": "2020-02-26 05:20:28",
     "許可證字號": "衛署醫器輸壹字第009965號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6201010208  鐳登生物科技股份有限公司",
     "申請商地址": "臺北市松山區南京東路5段64號13樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MKR0382000  OSUNG MND CO., LTD",
-        "製造廠廠址": "#3003, HAKUN-RI, YANGCHON-MYEON, GIMPO-CITY, GYEONGGI-DO 415-843, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0382000  OSUNG MND CO., LTD",
+            "製造廠廠址": "#3003, HAKUN-RI, YANGCHON-MYEON, GIMPO-CITY, GYEONGGI-DO 415-843, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MKR0387000  SANTA SYSTEM",
+            "製造廠廠址": "NO.19-336, INDUSTRIAL GOODS DISTRIBUTION CENTER, #295, SONGLIM-DONG, DONG-GU, INCHEON, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

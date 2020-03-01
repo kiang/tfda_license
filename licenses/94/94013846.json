@@ -1,6 +1,6 @@
 {
     "code": "94013846",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013846",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013846",
     "time": "2020-02-26 11:18:36",
     "許可證字號": "衛部醫器輸壹字第013846號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6207290593  傑出美國際有限公司",
     "申請商地址": "高雄市鼓山區明誠三路677號10樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0133100  SOLCO BIOMEDICAL CO., LTD",
-        "製造廠廠址": "#34-6, KEUMAM-RI, SEOTAN-MYEON, PYEONGTAEK, GYEONGGI-DO, 451-850, REPUBLIC OF KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0133100  SOLCO BIOMEDICAL CO., LTD",
+            "製造廠廠址": "#34-6, KEUMAM-RI, SEOTAN-MYEON, PYEONGTAEK, GYEONGGI-DO, 451-850, REPUBLIC OF KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

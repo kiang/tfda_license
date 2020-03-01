@@ -1,6 +1,6 @@
 {
     "code": "44010713",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010713",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010713",
     "time": "2020-02-26 05:27:51",
     "許可證字號": "衛署醫器輸壹字第010713號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 36GMP",
     "申請商名稱": "0517701100  世新儀器有限公司",
     "申請商地址": "台北市松江路２２１巷１９號",
-    "主製造廠": {
-        "製造廠名稱": "MMX0042000  AVAILMED S.A. DE C.V.",
-        "製造廠廠址": "AVE. PASEO REFORMA NO.8950, INTERIOR EDIFICIO F2, LA MESA, TIJUANA 22116,MEXICO",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0042000  AVAILMED S.A. DE C.V.",
+            "製造廠廠址": "AVE. PASEO REFORMA NO.8950, INTERIOR EDIFICIO F2, LA MESA, TIJUANA 22116,MEXICO",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS3860000  E-Z-EM, INC. A SUBSIDIARY OF BRACCO DIAGNOSTICS INC.",
+            "製造廠廠址": "259 PROSPECT PLAINS ROAD, BLDG.H, MONROE TOWNSHIP, NEW JERSEY 08831, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

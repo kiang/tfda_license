@@ -1,6 +1,6 @@
 {
     "code": "08012544",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08012544",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08012544",
     "time": "2020-02-26 00:02:51",
     "許可證字號": "衛署粧輸字第012544號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102J134  毅欣有限公司",
     "申請商地址": "台北市大安區復興南路１段２０４號６樓",
-    "主製造廠": {
-        "製造廠名稱": "CAU0032000  NATURE&#39;S CARE MANUFACTURE PTY. LTD.",
-        "製造廠廠址": "5 MINNA CLOSE BELROSE NSW 2085 AUSTRALIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "AUSTRALIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CAU0032000  NATURE&#39;S CARE MANUFACTURE PTY. LTD.",
+            "製造廠廠址": "5 MINNA CLOSE BELROSE NSW 2085 AUSTRALIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRALIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

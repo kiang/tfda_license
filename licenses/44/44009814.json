@@ -1,6 +1,6 @@
 {
     "code": "44009814",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009814",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009814",
     "time": "2020-02-26 05:19:00",
     "許可證字號": "衛署醫器輸壹字第009814號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "",
     "申請商名稱": "620118I692  艾達義齒材料有限公司",
     "申請商地址": "台北市中正區泉州街55之1號",
-    "主製造廠": {
-        "製造廠名稱": "MCH0200000  FKG DENTAIRE S.A.",
-        "製造廠廠址": "RUE DU CRET-DU-LOCLE 4-CH-2304 LA CHAUX-DE-FONDS, SWITZERLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCH0200000  FKG DENTAIRE S.A.",
+            "製造廠廠址": "RUE DU CRET-DU-LOCLE 4-CH-2304 LA CHAUX-DE-FONDS, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

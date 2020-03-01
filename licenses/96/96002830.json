@@ -1,6 +1,6 @@
 {
     "code": "96002830",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002830",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002830",
     "time": "2020-02-26 13:04:27",
     "許可證字號": "衛部醫器陸輸壹字第002830號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6217056790  弘國光學有限公司",
     "申請商地址": "台中市北區漢口路四段35號12樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1452000  JIANGSU HONGCHEN OPTICAL CO., LTD",
-        "製造廠廠址": "NO.985 YINGCHUN RD. DANYANG DEVELOPMENT ZONE, JIANGSU, CHINA, 212300",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1452000  JIANGSU HONGCHEN OPTICAL CO., LTD",
+            "製造廠廠址": "NO.985 YINGCHUN RD. DANYANG DEVELOPMENT ZONE, JIANGSU, CHINA, 212300",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

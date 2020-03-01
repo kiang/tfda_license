@@ -1,6 +1,6 @@
 {
     "code": "44012871",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012871",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012871",
     "time": "2020-02-26 05:48:53",
     "許可證字號": "衛署醫器輸壹字第012871號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6202038468  群泰科儀有限公司",
     "申請商地址": "高雄市仁武區八卦里京吉二路190號5樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS2532000  VENOSCOPE, LLC",
-        "製造廠廠址": "1018 HARDING ST., SUITE 104 LAFAYETTE, LA 70503",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2532000  VENOSCOPE, LLC",
+            "製造廠廠址": "1018 HARDING ST., SUITE 104 LAFAYETTE, LA 70503",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "42000083",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000083",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000083",
     "time": "2020-02-26 03:21:11",
     "許可證字號": "衛署醫器陸輸字第000083號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 09委託製造 40大陸生產",
     "申請商名稱": "620118B424  和豐國際行銷股份有限公司",
     "申請商地址": "台北市中山區中山北路三段31號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN5012000  Onbo Electronic (Shenzhen) Co., Ltd.",
-        "製造廠廠址": "No. 138, Huasheng Road, Langkou Community, Dalang Street, Longhua District, Shenzhen, China",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN5012000  Onbo Electronic (Shenzhen) Co., Ltd.",
+            "製造廠廠址": "No. 138, Huasheng Road, Langkou Community, Dalang Street, Longhua District, Shenzhen, China",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

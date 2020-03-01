@@ -1,6 +1,6 @@
 {
     "code": "06004715",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06004715",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06004715",
     "time": "2020-02-25 16:39:25",
     "許可證字號": "衛署醫器輸字第004715號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0913001100  香港商實密股份有限公司台灣分公司",
     "申請商地址": "台北巿民生東路３４４號５Ｆ",
-    "主製造廠": {
-        "製造廠名稱": "MDE0011000  DRAEGERWERK AG. LUBECK",
-        "製造廠廠址": "MOISLINGER ALLEE 53-55 D-23542, LUBECK GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0011000  DRAEGERWERK AG. LUBECK",
+            "製造廠廠址": "MOISLINGER ALLEE 53-55 D-23542, LUBECK GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

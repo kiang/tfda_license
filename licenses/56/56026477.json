@@ -1,6 +1,6 @@
 {
     "code": "56026477",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026477",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026477",
     "time": "2020-02-26 07:35:13",
     "許可證字號": "衛部醫器輸字第026477號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620109C888  守恆健康事業股份有限公司",
     "申請商地址": "台北市內湖區安美街161號9樓",
-    "主製造廠": {
-        "製造廠名稱": "MFR0926000  Statice Sante",
-        "製造廠廠址": "9 rue Thomas Edison, ZI des Tilleroyes, 25000 Besancon, France",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR0926000  Statice Sante",
+            "製造廠廠址": "9 rue Thomas Edison, ZI des Tilleroyes, 25000 Besancon, France",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MCH0842000  ZEPHYR Surgical Implants S&#224;rl",
+            "製造廠廠址": "Rue du Conseil-G&#233;n&#233;ral 14, 1205 Gen&#232;ve, Switzerland",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

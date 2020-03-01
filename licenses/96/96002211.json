@@ -1,6 +1,6 @@
 {
     "code": "96002211",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002211",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002211",
     "time": "2020-02-26 12:57:17",
     "許可證字號": "衛部醫器陸輸壹字第002211號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "0937101100  英商史耐輝股份有限公司台灣分公司",
     "申請商地址": "台北市中正區新生南路1段50號9樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MCN1376000  SMITH &amp; NEPHEW ORTHOPEDICS (BEIJING) CO. LTD.",
-        "製造廠廠址": "BUILDING #1, NO. 98 KECHUANG DONG LIU STREET, BEIJING ECONOMIC-TECHNOLOGICAL, DEVELOPMENT AREA, BEIJING 10111 CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1376000  SMITH &amp; NEPHEW ORTHOPEDICS (BEIJING) CO. LTD.",
+            "製造廠廠址": "BUILDING #1, NO. 98 KECHUANG DONG LIU STREET, BEIJING ECONOMIC-TECHNOLOGICAL, DEVELOPMENT AREA, BEIJING 10111 CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS0341100  SMITH &amp; NEPHEW, INC.",
+            "製造廠廠址": "1450 BROOKS ROAD MEMPHIS, TN 38116 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

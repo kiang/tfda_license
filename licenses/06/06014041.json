@@ -1,6 +1,6 @@
 {
     "code": "06014041",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014041",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014041",
     "time": "2020-02-25 18:45:04",
     "許可證字號": "衛署醫器輸字第014041號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6401022675  壯生醫療器材股份有限公司",
     "申請商地址": "臺北市中山區民生東路三段2號10樓及11樓",
-    "主製造廠": {
-        "製造廠名稱": "MMX0135000  Codman &amp; Shurtleff, Inc.",
-        "製造廠廠址": "Calle Circuito Interior Norte ﹟1820, Parque Industrial Salvarcar, Ciudad Juarez, Chihuahua, C.P. 32574, Mexico",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0135000  Codman &amp; Shurtleff, Inc.",
+            "製造廠廠址": "Calle Circuito Interior Norte ﹟1820, Parque Industrial Salvarcar, Ciudad Juarez, Chihuahua, C.P. 32574, Mexico",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS0055000  CODMAN &amp; SHURTLEFF,INC.",
+            "製造廠廠址": "325 PARAMOUNT DRIVE, RAYNHAM, MA 02767 USA.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

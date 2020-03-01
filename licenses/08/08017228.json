@@ -1,6 +1,6 @@
 {
     "code": "08017228",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08017228",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08017228",
     "time": "2020-02-26 00:55:02",
     "許可證字號": "衛署粧輸字第017228號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0620801100  百陸達股份有限公司",
     "申請商地址": "台北市信義區基隆路2段149之17號10樓",
-    "主製造廠": {
-        "製造廠名稱": "CJP0308000  MIYAUCHI CO., LTD. ATUSGI FACTORY",
-        "製造廠廠址": "1-4 TODAAZAOKI, ATSUGI-SHI, KANAGAWA 243-0023, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0308000  MIYAUCHI CO., LTD. ATUSGI FACTORY",
+            "製造廠廠址": "1-4 TODAAZAOKI, ATSUGI-SHI, KANAGAWA 243-0023, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

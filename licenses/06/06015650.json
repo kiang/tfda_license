@@ -1,6 +1,6 @@
 {
     "code": "06015650",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06015650",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06015650",
     "time": "2020-02-25 19:03:05",
     "許可證字號": "衛署醫器輸字第015650號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620118B693  台灣希森美康股份有限公司",
     "申請商地址": "台北市中山區松江路318號13樓之3",
-    "主製造廠": {
-        "製造廠名稱": "MJP0891000  SYSMEX INTERNATIONAL REAGENTS CO., LTD. SEISHIN FACTORY",
-        "製造廠廠址": "4-3-2 TAKATSUKADAI, NISHI-KU, KOBE, HYOGO 651-2271, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0891000  SYSMEX INTERNATIONAL REAGENTS CO., LTD. SEISHIN FACTORY",
+            "製造廠廠址": "4-3-2 TAKATSUKADAI, NISHI-KU, KOBE, HYOGO 651-2271, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MJP0381000  SYSMEX CORPORATION",
+            "製造廠廠址": "1-5-1 WAKINOHAMA-KAIGANDORI,. CHUO-KU, KOBE 651-0073, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

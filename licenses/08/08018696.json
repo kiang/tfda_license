@@ -1,6 +1,6 @@
 {
     "code": "08018696",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018696",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018696",
     "time": "2020-02-26 01:10:42",
     "許可證字號": "衛署粧輸字第018696號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6628023102  亞宜貿易有限公司",
     "申請商地址": "新北市五股區四維路19號",
-    "主製造廠": {
-        "製造廠名稱": "CTH0023000  SIAM YOKO CO., LTD.",
-        "製造廠廠址": "340 MOO 4, SOI SRIBOONRUENG 1, THEPHARAK ROAD, THEPHARAK,  SAMUTPRAKARN , SAMPUPRAKARN 10270 THAILAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "THAILAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CTH0023000  SIAM YOKO CO., LTD.",
+            "製造廠廠址": "340 MOO 4, SOI SRIBOONRUENG 1, THEPHARAK ROAD, THEPHARAK,  SAMUTPRAKARN , SAMPUPRAKARN 10270 THAILAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "THAILAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

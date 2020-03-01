@@ -1,6 +1,6 @@
 {
     "code": "06021717",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021717",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021717",
     "time": "2020-02-25 20:12:36",
     "許可證字號": "衛署醫器輸字第021717號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620110H937  歐強國際有限公司",
     "申請商地址": "台北市南京東路二段66號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MGB0427000  ADVANCED MEDICAL SOLUTIONS LTD.",
-        "製造廠廠址": "PREMIER PARK, 33 ROAD ONE, WINSFORD INDUSTRIAL ESTATE, WINSFORD, CHESHIRE, CW7 3RT, UNITED KINGDOM",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0427000  ADVANCED MEDICAL SOLUTIONS LTD.",
+            "製造廠廠址": "PREMIER PARK, 33 ROAD ONE, WINSFORD INDUSTRIAL ESTATE, WINSFORD, CHESHIRE, CW7 3RT, UNITED KINGDOM",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

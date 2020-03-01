@@ -1,6 +1,6 @@
 {
     "code": "44001870",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44001870",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44001870",
     "time": "2020-02-26 04:28:06",
     "許可證字號": "衛署醫器輸壹字第001870號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620110L462  香港商生物梅里埃有限公司台灣分公司",
     "申請商地址": "台北市信義區松山路130號8樓",
-    "主製造廠": {
-        "製造廠名稱": "MFR0889000  BIOMERIEUX SA",
-        "製造廠廠址": "3 ROUTE DE PORT MICHAUD, 38390 LA BALME LES GROTTES, FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR0889000  BIOMERIEUX SA",
+            "製造廠廠址": "3 ROUTE DE PORT MICHAUD, 38390 LA BALME LES GROTTES, FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

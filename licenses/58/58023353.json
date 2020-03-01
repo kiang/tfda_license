@@ -1,6 +1,6 @@
 {
     "code": "58023353",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58023353",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58023353",
     "time": "2020-02-26 09:32:27",
     "許可證字號": "衛部粧輸字第023353號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6217077440  科舉顧問股份有限公司",
     "申請商地址": "新北市新店區安祥路147巷53號4樓",
-    "主製造廠": {
-        "製造廠名稱": "CIL0011000  HALOM VAROD LTD",
-        "製造廠廠址": "13 Gad Feinstein St., Industrial Zone, Rehovot, 76385, Israel",
-        "製造廠公司地址": "",
-        "製造廠國別": "ISRAEL",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CIL0011000  HALOM VAROD LTD",
+            "製造廠廠址": "13 Gad Feinstein St., Industrial Zone, Rehovot, 76385, Israel",
+            "製造廠公司地址": "",
+            "製造廠國別": "ISRAEL",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

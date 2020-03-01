@@ -1,6 +1,6 @@
 {
     "code": "96002950",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002950",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002950",
     "time": "2020-02-26 13:05:42",
     "許可證字號": "衛部醫器陸輸壹字第002950號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6233064023  佳誠生技有限公司",
     "申請商地址": "新竹縣湖口鄉中興村吉利二街1-9號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN4323000  CORE TECHNOLOGY CO., LTD",
-        "製造廠廠址": "BASED ON ROOM 100, BUILDING C, NO29 LIFE PARK RD, CHANGPING DISTRICT, BEIJING, 102206 CHINA.",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN4323000  CORE TECHNOLOGY CO., LTD",
+            "製造廠廠址": "BASED ON ROOM 100, BUILDING C, NO29 LIFE PARK RD, CHANGPING DISTRICT, BEIJING, 102206 CHINA.",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

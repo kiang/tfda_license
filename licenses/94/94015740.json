@@ -1,6 +1,6 @@
 {
     "code": "94015740",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015740",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015740",
     "time": "2020-02-26 11:45:11",
     "許可證字號": "衛部醫器輸壹字第015740號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6201013305  台灣儀器行股份有限公司",
     "申請商地址": "臺北市松山區南京東路3段272號9樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE1267000  SCHOTT AG",
-        "製造廠廠址": "HATTENBERGSTRASSE 10 55122 MAINZ, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE1267000  SCHOTT AG",
+            "製造廠廠址": "HATTENBERGSTRASSE 10 55122 MAINZ, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MDE0281100  CARL ZEISS MEDITEC AG",
+            "製造廠廠址": "GOESCHWITZER STRASSE 51-52 07745 JENA, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "44006247",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006247",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006247",
     "time": "2020-02-26 04:50:09",
     "許可證字號": "衛署醫器輸壹字第006247號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0408401100  日豐隆實業股份有限公司",
     "申請商地址": "台北市大安區新生南路三段2號14樓",
-    "主製造廠": {
-        "製造廠名稱": "MBE0014000  ORFIT INDUSTRIES",
-        "製造廠廠址": "VOSVELD 9A, B-2110 WIJNEGEM, BELGIUM",
-        "製造廠公司地址": "",
-        "製造廠國別": "BELGIUM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MBE0014000  ORFIT INDUSTRIES",
+            "製造廠廠址": "VOSVELD 9A, B-2110 WIJNEGEM, BELGIUM",
+            "製造廠公司地址": "",
+            "製造廠國別": "BELGIUM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

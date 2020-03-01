@@ -1,6 +1,6 @@
 {
     "code": "94019513",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019513",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019513",
     "time": "2020-02-26 12:35:02",
     "許可證字號": "衛部醫器輸壹字第019513號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "624301H723  小分子水醫學科技有限公司",
     "申請商地址": "屏東縣屏東市大豐路9-2號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MRU0004200  Institute of Practical Psychophysics",
-        "製造廠廠址": "Russia Omsk, 1-st Proizvodstvennaya, 2",
-        "製造廠公司地址": "",
-        "製造廠國別": "RUSSIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MRU0004200  Institute of Practical Psychophysics",
+            "製造廠廠址": "Russia Omsk, 1-st Proizvodstvennaya, 2",
+            "製造廠公司地址": "",
+            "製造廠國別": "RUSSIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

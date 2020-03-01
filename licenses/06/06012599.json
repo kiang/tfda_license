@@ -1,6 +1,6 @@
 {
     "code": "06012599",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06012599",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06012599",
     "time": "2020-02-25 18:29:16",
     "許可證字號": "衛署醫器輸字第012599號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217061022  中籐實業有限公司",
     "申請商地址": "臺中市西屯區西屯路二段126巷9號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MMX0026000  STERIS MEXICO. S. DE R. L DE C.V.",
-        "製造廠廠址": "AVENIDA AVANTE 790, PARQUE INDUSTRIAL GUADALUPE, GUADALUPE, NEUVO LEON 67190, MEXICO",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0026000  STERIS MEXICO. S. DE R. L DE C.V.",
+            "製造廠廠址": "AVENIDA AVANTE 790, PARQUE INDUSTRIAL GUADALUPE, GUADALUPE, NEUVO LEON 67190, MEXICO",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS1746000  STERIS CORPORATION",
+            "製造廠廠址": "5960 HEISLEY ROAD MENTOR, OH 44060, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

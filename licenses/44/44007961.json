@@ -1,6 +1,6 @@
 {
     "code": "44007961",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007961",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007961",
     "time": "2020-02-26 05:02:40",
     "許可證字號": "衛署醫器輸壹字第007961號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1013321100  泰爾生技股份有限公司",
     "申請商地址": "高雄市左營區大中二路232號",
-    "主製造廠": {
-        "製造廠名稱": "MUS3858000  METREX RESEARCH LLC",
-        "製造廠廠址": "28210 WICK ROAD, ROMULUS, MI 48174, U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS3858000  METREX RESEARCH LLC",
+            "製造廠廠址": "28210 WICK ROAD, ROMULUS, MI 48174, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

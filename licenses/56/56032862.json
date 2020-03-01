@@ -1,6 +1,6 @@
 {
     "code": "56032862",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56032862",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56032862",
     "time": "2020-02-26 08:32:20",
     "許可證字號": "衛部醫器輸字第032862號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620101F872  台灣而至股份有限公司",
     "申請商地址": "新北市中和區建一路176號16樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP0470100  GC DENTAL PRODUCTS CORPORATION",
-        "製造廠廠址": "2-285 TORIIMATSU-CHO, KASUGAI-SHI, AICHI, 486-0844 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0470100  GC DENTAL PRODUCTS CORPORATION",
+            "製造廠廠址": "2-285 TORIIMATSU-CHO, KASUGAI-SHI, AICHI, 486-0844 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "46001837",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001837",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001837",
     "time": "2020-02-26 06:10:42",
     "許可證字號": "衛署醫器陸輸壹字第001837號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "1227301100  博而美國際股份有限公司",
     "申請商地址": "台北市內湖區民權東路六段15巷39號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1137000  SYMMETRY SURGICAL",
-        "製造廠廠址": "ROOM 2018, NO. 1958, ZHONG SHAN NORTH ROAD, PUTUO DISTRICT, SHANGHAI, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1137000  SYMMETRY SURGICAL",
+            "製造廠廠址": "ROOM 2018, NO. 1958, ZHONG SHAN NORTH ROAD, PUTUO DISTRICT, SHANGHAI, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

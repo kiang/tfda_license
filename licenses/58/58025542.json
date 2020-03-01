@@ -1,6 +1,6 @@
 {
     "code": "58025542",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58025542",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58025542",
     "time": "2020-02-26 09:48:44",
     "許可證字號": "衛部粧輸字第025542號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6627927025  荷蘭商伊麗莎白雅頓有限公司台灣分公司",
     "申請商地址": "台北市中山區長春路143號4樓",
-    "主製造廠": {
-        "製造廠名稱": "CJP0117100  NIHON KOLMAR CO., LTD",
-        "製造廠廠址": "4-1, Fushimimachi, 4-Chome, Chuo-Ku, Osaka-City, Osaka 541-0044, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0117100  NIHON KOLMAR CO., LTD",
+            "製造廠廠址": "4-1, Fushimimachi, 4-Chome, Chuo-Ku, Osaka-City, Osaka 541-0044, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

@@ -1,6 +1,6 @@
 {
     "code": "06007359",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06007359",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06007359",
     "time": "2020-02-25 17:23:25",
     "許可證字號": "衛署醫器輸字第007359號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0512001100  禾利行股份有限公司",
     "申請商地址": "台北巿信義區基隆路二段189號14樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MUS0689000  TELECTRONICS PACING SYSTEMS, INC.",
-        "製造廠廠址": "14420 N.W. 60TH AVENUE, MIAMI LAKES, FLORIDA 33014, U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0689000  TELECTRONICS PACING SYSTEMS, INC.",
+            "製造廠廠址": "14420 N.W. 60TH AVENUE, MIAMI LAKES, FLORIDA 33014, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

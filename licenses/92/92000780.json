@@ -1,6 +1,6 @@
 {
     "code": "92000780",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000780",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000780",
     "time": "2020-02-26 10:14:06",
     "許可證字號": "衛部醫器陸輸字第000780號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "620102D785  崧揚國際有限公司",
     "申請商地址": "臺北市大安區敦化南路１段３７６號１２樓之１",
-    "主製造廠": {
-        "製造廠名稱": "MCN4272000  Yamahachi Dental Materials (Changshu) Co., Ltd.",
-        "製造廠廠址": "Zhitang Town, Changshu, Jiangsu Province, 215531, China",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN4272000  Yamahachi Dental Materials (Changshu) Co., Ltd.",
+            "製造廠廠址": "Zhitang Town, Changshu, Jiangsu Province, 215531, China",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MJP0683200  YAMAHACHI DENTAL MFG., CO.",
+            "製造廠廠址": "54-1, Ochigara, Nishiura-cho, Gamagori, Aichi-pref., Japan",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

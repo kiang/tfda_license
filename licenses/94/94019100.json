@@ -1,6 +1,6 @@
 {
     "code": "94019100",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019100",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019100",
     "time": "2020-02-26 12:30:49",
     "許可證字號": "衛部醫器輸壹字第019100號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0315601100  大裕儀器有限公司",
     "申請商地址": "台北市中山區中山北路一段92號4樓、4樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MIT0336000  IDROGENET SRL",
-        "製造廠廠址": "VIA MONSUELLO 246, 25065 LUMEZZANE(BS), ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIT0336000  IDROGENET SRL",
+            "製造廠廠址": "VIA MONSUELLO 246, 25065 LUMEZZANE(BS), ITALY",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

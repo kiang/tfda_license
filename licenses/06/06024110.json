@@ -1,6 +1,6 @@
 {
     "code": "06024110",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024110",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024110",
     "time": "2020-02-25 20:38:34",
     "許可證字號": "衛署醫器輸字第024110號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6401022675  壯生醫療器材股份有限公司",
     "申請商地址": "臺北市中山區民生東路三段2號10樓及11樓",
-    "主製造廠": {
-        "製造廠名稱": "MGB0165000  LIFESCAN SCOTLAND LTD.",
-        "製造廠廠址": "BEECHWOOD PARK NORTH, INVERNESS, IV2 3ED, UK",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0165000  LIFESCAN SCOTLAND LTD.",
+            "製造廠廠址": "BEECHWOOD PARK NORTH, INVERNESS, IV2 3ED, UK",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MCH0238000  LIFESCAN EUROPE, A DIVISION OF CILAG GMBH INTERNATIONAL",
+            "製造廠廠址": "GUBELSTRASSE 34, 6300 ZUG, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "08000883",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08000883",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08000883",
     "time": "2020-02-25 22:00:27",
     "許可證字號": "衛署粧輸字第000883號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1410601100  臺灣漢特股份有限公司",
     "申請商地址": "台北巿大安區安和路二段5號12樓",
-    "主製造廠": {
-        "製造廠名稱": "CCH0007000  ULTRA COSMETICS SA",
-        "製造廠廠址": "STEINLIGASSE 21-CH-4313 MOHLIN SWITZERLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CCH0007000  ULTRA COSMETICS SA",
+            "製造廠廠址": "STEINLIGASSE 21-CH-4313 MOHLIN SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

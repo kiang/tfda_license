@@ -1,6 +1,6 @@
 {
     "code": "94020571",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020571",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020571",
     "time": "2020-02-26 12:45:21",
     "許可證字號": "衛部醫器輸壹字第020571號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620117O830  台灣寶貝蒙股份有限公司",
     "申請商地址": "台北市信義區松德路200巷1號",
-    "主製造廠": {
-        "製造廠名稱": "MJP1448000  NEITZ INSTRUMENTS CO., LTD.",
-        "製造廠廠址": "4F ICHIBANCHO COURT, 15-21, ICHIBANCHO, CHIYODA-KU, TOKYO, 102-0082, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP1448000  NEITZ INSTRUMENTS CO., LTD.",
+            "製造廠廠址": "4F ICHIBANCHO COURT, 15-21, ICHIBANCHO, CHIYODA-KU, TOKYO, 102-0082, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MJP0460100  TAKARA BELMONT CORPORATION",
+            "製造廠廠址": "2-1-1, HIGASHISHINSAIBASHI, CHUO-KU, OSAKA 542-0083, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "08005237",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08005237",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08005237",
     "time": "2020-02-25 22:47:48",
     "許可證字號": "衛署粧輸字第005237號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1708001100  聯合利華股份有限公司",
     "申請商地址": "台北縣板橋市文化路二段２８７號１２樓",
-    "主製造廠": {
-        "製造廠名稱": "CAU0014000  LEVER REXONA",
-        "製造廠廠址": "219 NORTH ROCKS ROAD NORTH ROCKS NSW 2151 AUSTRALIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "AUSTRALIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CAU0014000  LEVER REXONA",
+            "製造廠廠址": "219 NORTH ROCKS ROAD NORTH ROCKS NSW 2151 AUSTRALIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRALIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

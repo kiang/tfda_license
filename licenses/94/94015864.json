@@ -1,6 +1,6 @@
 {
     "code": "94015864",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015864",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015864",
     "time": "2020-02-26 11:46:50",
     "許可證字號": "衛部醫器輸壹字第015864號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231011499  杏友貿易有限公司",
     "申請商地址": "新北市板橋區民生路三段299巷13號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP6175000  MIZUHO MEDY CO., LTD.",
-        "製造廠廠址": "5-4 FUJINOKI-MACHI, TOSU CITY, SAGA 841-0048, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP6175000  MIZUHO MEDY CO., LTD.",
+            "製造廠廠址": "5-4 FUJINOKI-MACHI, TOSU CITY, SAGA 841-0048, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

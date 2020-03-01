@@ -1,6 +1,6 @@
 {
     "code": "44010544",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010544",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010544",
     "time": "2020-02-26 05:26:11",
     "許可證字號": "衛署醫器輸壹字第010544號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6201115957  健伸科技股份有限公司",
     "申請商地址": "臺北市內湖區洲子街７９之１號４樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0285000  SEAWON MEDITECH CO., LTD.",
-        "製造廠廠址": "409, SHIHWA HIGHTECH INDUSTRIAL, COMPLEX #1234-7, JEONGWANG-DONG, SHIHEUNG-SI, KYUNGGI-DO, 429-848,REPUBLIC OF KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0285000  SEAWON MEDITECH CO., LTD.",
+            "製造廠廠址": "409, SHIHWA HIGHTECH INDUSTRIAL, COMPLEX #1234-7, JEONGWANG-DONG, SHIHEUNG-SI, KYUNGGI-DO, 429-848,REPUBLIC OF KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MKR0410000  WOOSUNG MEDI-FILTECH",
+            "製造廠廠址": "603, SAMSUNG PLUS 765-4,SINGOK-DONG,UIJUNGBU-SI,KYUNGGI-DO,REPUBLIC OF KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

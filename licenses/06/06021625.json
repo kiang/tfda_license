@@ -1,6 +1,6 @@
 {
     "code": "06021625",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021625",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021625",
     "time": "2020-02-25 20:11:31",
     "許可證字號": "衛署醫器輸字第021625號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620101G333  展耀生技股份有限公司",
     "申請商地址": "台北市松山區南京東路五段343號9樓",
-    "主製造廠": {
-        "製造廠名稱": "MMY0022000  PLEASURE LATEX PRODUCTS SDN. BHD.",
-        "製造廠廠址": "LOT 2401, 17TH MILE, JALAN SUNGAI SEMBILANG, 45800 JERAM, SELANGOR DAURL EHSAN, MALAYSIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "MALAYSIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMY0022000  PLEASURE LATEX PRODUCTS SDN. BHD.",
+            "製造廠廠址": "LOT 2401, 17TH MILE, JALAN SUNGAI SEMBILANG, 45800 JERAM, SELANGOR DAURL EHSAN, MALAYSIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "MALAYSIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "94020111",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020111",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020111",
     "time": "2020-02-26 12:41:18",
     "許可證字號": "衛部醫器輸壹字第020111號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620101S604  聯合牙材股份有限公司",
     "申請商地址": "臺北市松山區光復北路112號7樓",
-    "主製造廠": {
-        "製造廠名稱": "MAT0032100  W &amp; H DENTALWERK BURMOOS GMBH",
-        "製造廠廠址": "IGNAZ-GLASER-STRABE 53, 5111 BURMOOS, AUSTRIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "AUSTRIA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MAT0032100  W &amp; H DENTALWERK BURMOOS GMBH",
+            "製造廠廠址": "IGNAZ-GLASER-STRABE 53, 5111 BURMOOS, AUSTRIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRIA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MDE0223100  GEBR. BRASSELER GMBH &amp; CO. KG",
+            "製造廠廠址": "TROPHAGENER WEG 25 32657 LEMGO GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

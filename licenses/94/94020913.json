@@ -1,6 +1,6 @@
 {
     "code": "94020913",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020913",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020913",
     "time": "2020-02-26 12:48:22",
     "許可證字號": "衛部醫器輸壹字第020913號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620117P944  燿辰有限公司",
     "申請商地址": "臺北市信義區忠孝東路5段1之8號11樓（1186室）",
-    "主製造廠": {
-        "製造廠名稱": "MGB0535000  Associated Dental Products Ltd Kemdent Works",
-        "製造廠廠址": "Kemdent Works, Purton, Swindon Wiltshire, SN5 4HT, United Kingdom",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0535000  Associated Dental Products Ltd Kemdent Works",
+            "製造廠廠址": "Kemdent Works, Purton, Swindon Wiltshire, SN5 4HT, United Kingdom",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

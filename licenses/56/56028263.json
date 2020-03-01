@@ -1,6 +1,6 @@
 {
     "code": "56028263",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028263",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028263",
     "time": "2020-02-26 07:53:49",
     "許可證字號": "衛部醫器輸字第028263號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620109E579  台灣瑞思邁股份有限公司",
     "申請商地址": "臺北市大同區承德路一段17號6樓之5",
-    "主製造廠": {
-        "製造廠名稱": "MAU0068000  RESMED LTD",
-        "製造廠廠址": "1 ELIZABETH MACARTHUR DRIVE BELLA VISTA NSW 2153, AUSTRALIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "AUSTRALIA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MAU0068000  RESMED LTD",
+            "製造廠廠址": "1 ELIZABETH MACARTHUR DRIVE BELLA VISTA NSW 2153, AUSTRALIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRALIA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MDE0886000  RESMED GERMANY INC.",
+            "製造廠廠址": "FRAUNHOFERSTR. 16 D-82152 MARTINSRIED DEUTSCHLAND \/ GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

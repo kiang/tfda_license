@@ -1,6 +1,6 @@
 {
     "code": "94015852",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015852",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015852",
     "time": "2020-02-26 11:46:40",
     "許可證字號": "衛部醫器輸壹字第015852號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620111B066  瑞宏儀器有限公司",
     "申請商地址": "台北市內湖區星雲街138巷10號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MPK0110000  ZOMEX INSTRUMENTS CO. (PVT)LTD.",
-        "製造廠廠址": "KOTLI LOHARAN WEST,P.O. BOX:1558 SIALKOT, PAKISTAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "PAKISTAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MPK0110000  ZOMEX INSTRUMENTS CO. (PVT)LTD.",
+            "製造廠廠址": "KOTLI LOHARAN WEST,P.O. BOX:1558 SIALKOT, PAKISTAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "PAKISTAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

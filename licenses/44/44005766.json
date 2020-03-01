@@ -1,6 +1,6 @@
 {
     "code": "44005766",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44005766",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44005766",
     "time": "2020-02-26 04:47:43",
     "許可證字號": "衛署醫器輸壹字第005766號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1011521100  益江企業股份有限公司",
     "申請商地址": "高雄市前鎮區和平二路192號",
-    "主製造廠": {
-        "製造廠名稱": "MJP0844000  KOBAYASHI SHOJI K. K",
-        "製造廠廠址": "KYODO BLDG.(UCHIKANDA) NO. 11-6, 2-CHOME, UCHIKANDA CHIYODA-KU, TOKYO 101-0047 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0844000  KOBAYASHI SHOJI K. K",
+            "製造廠廠址": "KYODO BLDG.(UCHIKANDA) NO. 11-6, 2-CHOME, UCHIKANDA CHIYODA-KU, TOKYO 101-0047 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "56029039",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029039",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029039",
     "time": "2020-02-26 08:01:26",
     "許可證字號": "衛部醫器輸字第029039號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1439301100  美敦力醫療產品股份有限公司",
     "申請商地址": "台北市松山區敦化南路一段2號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS4446000  Covidien LLC",
-        "製造廠廠址": "161 Cheshire Lane, Suite 100, Plymouth, MN USA 55441",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS4446000  Covidien LLC",
+            "製造廠廠址": "161 Cheshire Lane, Suite 100, Plymouth, MN USA 55441",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS3197000  COVIDIEN LLC",
+            "製造廠廠址": "15 HAMPSHIRE STREET MANSFIELD, MA 02048 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

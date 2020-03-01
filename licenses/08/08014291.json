@@ -1,6 +1,6 @@
 {
     "code": "08014291",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08014291",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08014291",
     "time": "2020-02-26 00:21:55",
     "許可證字號": "衛署粧輸字第014291號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "01國　產",
     "申請商名稱": "1507401100  嬌生股份有限公司",
     "申請商地址": "台北市大安區敦化南路二段319號4、5樓",
-    "主製造廠": {
-        "製造廠名稱": "CTH0010000  IDS MANUFACTURING LTD.",
-        "製造廠廠址": "21\/7 MOO 6 TAMBON KOOKOT AMPHUR LAMLUKKA PATHUMTHANI 12130 THAILAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "THAILAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CTH0010000  IDS MANUFACTURING LTD.",
+            "製造廠廠址": "21\/7 MOO 6 TAMBON KOOKOT AMPHUR LAMLUKKA PATHUMTHANI 12130 THAILAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "THAILAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

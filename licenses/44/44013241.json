@@ -1,6 +1,6 @@
 {
     "code": "44013241",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44013241",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44013241",
     "time": "2020-02-26 05:52:39",
     "許可證字號": "衛署醫器輸壹字第013241號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6203290168  瑞信醫療器材有限公司",
     "申請商地址": "台中市西區華美西街一段175號11樓之5",
-    "主製造廠": {
-        "製造廠名稱": "MIL0814000  CREATIVE TEAM INSTRUMENTS (CTI) LTD.",
-        "製造廠廠址": "P.O.B. 15155, RISHON LEZION 75051, ISRAEL",
-        "製造廠公司地址": "",
-        "製造廠國別": "ISRAEL",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIL0814000  CREATIVE TEAM INSTRUMENTS (CTI) LTD.",
+            "製造廠廠址": "P.O.B. 15155, RISHON LEZION 75051, ISRAEL",
+            "製造廠公司地址": "",
+            "製造廠國別": "ISRAEL",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

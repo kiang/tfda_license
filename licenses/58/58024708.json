@@ -1,6 +1,6 @@
 {
     "code": "58024708",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58024708",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58024708",
     "time": "2020-02-26 09:43:55",
     "許可證字號": "衛部粧輸字第024708號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6231103214  憶生堂生化科技股份有限公司",
     "申請商地址": "新北市淡水區中正東路二段29之5號21樓",
-    "主製造廠": {
-        "製造廠名稱": "CDE0060000  WHITESMILE GMBH",
-        "製造廠廠址": "WEINHEIMER STRABE 6 69488 BIRKENAU GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CDE0060000  WHITESMILE GMBH",
+            "製造廠廠址": "WEINHEIMER STRABE 6 69488 BIRKENAU GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

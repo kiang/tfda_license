@@ -1,6 +1,6 @@
 {
     "code": "96003355",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003355",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003355",
     "time": "2020-02-26 13:09:31",
     "許可證字號": "衛部醫器陸輸壹字第003355號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP 40大陸生產",
     "申請商名稱": "6201165082  尚倫醫療儀器有限公司",
     "申請商地址": "台北市北投區大業路510號",
-    "主製造廠": {
-        "製造廠名稱": "MCN1100100  NANJING HONG AN MEDICAL APPLIANCE CO., LTD",
-        "製造廠廠址": "NO. 26 HENGGUANG ROAD, NANJING ECONOMIC AND TECHNOLOGICAL DEVELOPING DISTRICT, 210038, NANJING , CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1100100  NANJING HONG AN MEDICAL APPLIANCE CO., LTD",
+            "製造廠廠址": "NO. 26 HENGGUANG ROAD, NANJING ECONOMIC AND TECHNOLOGICAL DEVELOPING DISTRICT, 210038, NANJING , CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

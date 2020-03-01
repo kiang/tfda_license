@@ -1,6 +1,6 @@
 {
     "code": "06001726",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06001726",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06001726",
     "time": "2020-02-25 15:44:43",
     "許可證字號": "衛署醫器輸字第001726號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1404601100  臺灣仕康有限公司",
     "申請商地址": "台北巿敦化南路二段２６７號６樓之３",
-    "主製造廠": {
-        "製造廠名稱": "MUS0191000  OMNIMEDICAL",
-        "製造廠廠址": "16312 GARFIELD AVENUE PARAMOUNT CALIF. 90723 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0191000  OMNIMEDICAL",
+            "製造廠廠址": "16312 GARFIELD AVENUE PARAMOUNT CALIF. 90723 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

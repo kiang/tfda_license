@@ -1,6 +1,6 @@
 {
     "code": "56025236",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025236",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025236",
     "time": "2020-02-26 07:21:37",
     "許可證字號": "衛部醫器輸字第025236號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6131151389  富齡貿易有限公司",
     "申請商地址": "新北市五股區中興路一段164號之1(5樓)",
-    "主製造廠": {
-        "製造廠名稱": "MUS4014000  eVent Medical Ltd.",
-        "製造廠廠址": "971 Calle Amanecer, Suite 101 San Clemente, CA 92673 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS4014000  eVent Medical Ltd.",
+            "製造廠廠址": "971 Calle Amanecer, Suite 101 San Clemente, CA 92673 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

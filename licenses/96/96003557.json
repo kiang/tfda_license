@@ -1,6 +1,6 @@
 {
     "code": "96003557",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003557",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003557",
     "time": "2020-02-26 13:11:44",
     "許可證字號": "衛部醫器陸輸壹字第003557號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP 40大陸生產",
     "申請商名稱": "6241111237  通用手套國際股份有限公司",
     "申請商地址": "臺南市東山區北馬25號",
-    "主製造廠": {
-        "製造廠名稱": "MCN1719100  SHANDONG INTCO MEDICAL PRODUCTS CO., LTD.",
-        "製造廠廠址": "QIWANG ROAD, NAOSHAN INDUSTRIAL PARK, QINGZHOU CITY, SHANDONG PROVINCE, 262500, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1719100  SHANDONG INTCO MEDICAL PRODUCTS CO., LTD.",
+            "製造廠廠址": "QIWANG ROAD, NAOSHAN INDUSTRIAL PARK, QINGZHOU CITY, SHANDONG PROVINCE, 262500, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

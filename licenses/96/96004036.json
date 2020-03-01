@@ -1,6 +1,6 @@
 {
     "code": "96004036",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96004036",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96004036",
     "time": "2020-02-26 13:16:36",
     "許可證字號": "衛部醫器陸輸壹字第004036號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 36GMP 40大陸生產",
     "申請商名稱": "6201119133  恆隆行貿易股份有限公司",
     "申請商地址": "台北市內湖區洲子街88號7樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MCN2182000  Eagle Electric (Shenzhen) Co., Ltd.",
-        "製造廠廠址": "Huangfengling Industrial Area, Shiyan Town, Baoan District, Shenzhen City, China",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN2182000  Eagle Electric (Shenzhen) Co., Ltd.",
+            "製造廠廠址": "Huangfengling Industrial Area, Shiyan Town, Baoan District, Shenzhen City, China",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MHK0079000  Newell Rubbermaid Asia Pacific Limited",
+            "製造廠廠址": "40\/F Manhattan Place, 23 Wang Tai Road, Kowloon Bay, H.K.",
+            "製造廠公司地址": "",
+            "製造廠國別": "HONG KONG",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

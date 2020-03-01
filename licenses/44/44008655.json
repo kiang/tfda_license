@@ -1,6 +1,6 @@
 {
     "code": "44008655",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008655",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008655",
     "time": "2020-02-26 05:07:32",
     "許可證字號": "衛署醫器輸壹字第008655號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201205652  禾瑞有限公司",
     "申請商地址": "台北市中正區忠孝東路二段26號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MNZ0005000  FR GALANTAI MANUFACTURING LIMITED",
-        "製造廠廠址": "11 BANCROFT CRESCENT, GLENDENE AUCKLAND 0602, NEW ZEALAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "NEW ZEALAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MNZ0005000  FR GALANTAI MANUFACTURING LIMITED",
+            "製造廠廠址": "11 BANCROFT CRESCENT, GLENDENE AUCKLAND 0602, NEW ZEALAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "NEW ZEALAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

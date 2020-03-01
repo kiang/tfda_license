@@ -1,6 +1,6 @@
 {
     "code": "06019003",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019003",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019003",
     "time": "2020-02-25 19:41:50",
     "許可證字號": "衛署醫器輸字第019003號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620205K633  萊亞實業股份有限公司",
     "申請商地址": "新北市汐止區大同路一段126號9樓",
-    "主製造廠": {
-        "製造廠名稱": "MGB0350000  AVITA MEDICAL EUROPE LTD",
-        "製造廠廠址": "1st Floor, Unex House, 132-134 Hills Road, Cambridge, CB2 8PA, United Kingdom",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0350000  AVITA MEDICAL EUROPE LTD",
+            "製造廠廠址": "1st Floor, Unex House, 132-134 Hills Road, Cambridge, CB2 8PA, United Kingdom",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "06002609",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06002609",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06002609",
     "time": "2020-02-25 16:00:22",
     "許可證字號": "衛署醫器輸字第002609號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0815601100  長振儀器股份有限公司",
     "申請商地址": "台北巿農安街２７１巷９號１２Ｆ",
-    "主製造廠": {
-        "製造廠名稱": "MGB0054000  REYNOLDS MEDICAL LIMITED",
-        "製造廠廠址": "51, ST ANDREW STREET HERTFORD SG14 IHZ, ENGLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0054000  REYNOLDS MEDICAL LIMITED",
+            "製造廠廠址": "51, ST ANDREW STREET HERTFORD SG14 IHZ, ENGLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "96003690",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003690",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003690",
     "time": "2020-02-26 13:13:22",
     "許可證字號": "衛部醫器陸輸壹字第003690號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "7766634976  星聯宏和股份有限公司",
     "申請商地址": "新北市汐止區新台五路一段99號31樓之12",
-    "主製造廠": {
-        "製造廠名稱": "MCN1980000  ORBITEC LTD.",
-        "製造廠廠址": "2F, BUILDING 2, NO. 2588 RENMIN ROAD, LUOXING SUBDISTRICT, JIASHAN COUNTY, JIAXING CITY, ZHEJIANG PROVINCE, 314100 CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1980000  ORBITEC LTD.",
+            "製造廠廠址": "2F, BUILDING 2, NO. 2588 RENMIN ROAD, LUOXING SUBDISTRICT, JIASHAN COUNTY, JIAXING CITY, ZHEJIANG PROVINCE, 314100 CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "08018625",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018625",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018625",
     "time": "2020-02-26 01:09:56",
     "許可證字號": "衛署粧輸字第018625號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620118N731  英商葛蘭素史克消費保健用品股份有限公司台灣分公司",
     "申請商地址": "臺北市中正區忠孝西路一段66號24樓",
-    "主製造廠": {
-        "製造廠名稱": "CBR0002000  Laboratorios Stiefel Ltda.",
-        "製造廠廠址": "Rua Prof. Joao C. Salem, 1081\/1301, Guarulhos-SP, Brazil",
-        "製造廠公司地址": "",
-        "製造廠國別": "BRAZIL",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CBR0002000  Laboratorios Stiefel Ltda.",
+            "製造廠廠址": "Rua Prof. Joao C. Salem, 1081\/1301, Guarulhos-SP, Brazil",
+            "製造廠公司地址": "",
+            "製造廠國別": "BRAZIL",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

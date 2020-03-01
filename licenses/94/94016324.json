@@ -1,6 +1,6 @@
 {
     "code": "94016324",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016324",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016324",
     "time": "2020-02-26 11:53:41",
     "許可證字號": "衛部醫器輸壹字第016324號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6232062347  寶利徠光學科技股份有限公司",
     "申請商地址": "桃園市大園區南港里長發路406號",
-    "主製造廠": {
-        "製造廠名稱": "MPH0024000  TRANSITIONS PHILIPPINES, INC.",
-        "製造廠廠址": "BLOCK 4, LOT 1, STAR AVENUE LAGUNA INTERNATIONAL IND. PARK MAMPLASAN, BINAN, LAGUNA, 4024 PHILIPPINES",
-        "製造廠公司地址": "",
-        "製造廠國別": "PHILIPPINES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MPH0024000  TRANSITIONS PHILIPPINES, INC.",
+            "製造廠廠址": "BLOCK 4, LOT 1, STAR AVENUE LAGUNA INTERNATIONAL IND. PARK MAMPLASAN, BINAN, LAGUNA, 4024 PHILIPPINES",
+            "製造廠公司地址": "",
+            "製造廠國別": "PHILIPPINES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

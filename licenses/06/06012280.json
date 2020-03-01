@@ -1,6 +1,6 @@
 {
     "code": "06012280",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06012280",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06012280",
     "time": "2020-02-25 18:25:42",
     "許可證字號": "衛署醫器輸字第012280號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1401804100  台富製藥股份有限公司",
     "申請商地址": "桃園市大園區和平西路一段391號",
-    "主製造廠": {
-        "製造廠名稱": "FJP0471000  FUJIREBIO, Inc., Hachioji Facility",
-        "製造廠廠址": "51, Komiya-cho, Hachioji-shi, Tokyo 192-0031, Japan",
-        "製造廠公司地址": "2-1-1 Nishishinjuku, Shinjuku-ku, Tokyo 163-0410 Japan",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "FJP0471000  FUJIREBIO, Inc., Hachioji Facility",
+            "製造廠廠址": "51, Komiya-cho, Hachioji-shi, Tokyo 192-0031, Japan",
+            "製造廠公司地址": "2-1-1 Nishishinjuku, Shinjuku-ku, Tokyo 163-0410 Japan",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

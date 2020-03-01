@@ -1,11 +1,12 @@
 {
     "code": "01026050",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01026050",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01026050",
     "time": "2020-02-25 05:00:34",
     "許可證字號": "衛署藥製字第026050號",
     "註銷狀態": "已註銷",
     "註銷日期": "81\/04\/17",
     "註銷理由": "自請註銷",
+    "製造許可登錄編號": "",
     "有效日期": "80\/08\/24",
     "發證日期": "71\/08\/24",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "07須經醫師指示使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "01國　產",
-        "申請商名稱": "1406701200  臺灣武田藥品工業股份有限公司",
-        "申請商地址": "台北巿南京東路三段２１７號７樓",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "CHLORPHENIRAMINE MALEATE, DL-METHYLEPHEDRINE HCL, ALUMINUM BIS(ACETYLSALICYLATE)(ALUMINUM ACETYLSALICYLA, ETHENZAMIDE (ETHOXYBENZAMIDE), CAFFEINE, HYDROXYBUTYRIC ACID BETA- P-PHENETIDIDE (BUCETIN), CLOPERASTINE FENDIZOATE, POTASSIUM GUAIACOLSULFONATE",
+    "限制項目": "01國　產",
+    "申請商名稱": "1406701200  臺灣武田藥品工業股份有限公司",
+    "申請商地址": "台北巿南京東路三段２１７號７樓",
+    "主製造廠": [
+        {
+            "製造廠名稱": "1406704300  臺灣武田藥品工業股份有限公司中壢工廠",
+            "製造廠廠址": "中壢巿中華路一段７５３號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": ""
+        }
+    ],
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [

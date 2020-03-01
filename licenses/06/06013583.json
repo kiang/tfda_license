@@ -1,6 +1,6 @@
 {
     "code": "06013583",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06013583",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06013583",
     "time": "2020-02-25 18:40:04",
     "許可證字號": "衛署醫器輸字第013583號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1232201100  博兆股份有限公司",
     "申請商地址": "新北市淡水區中正東路二段29號5樓",
-    "主製造廠": {
-        "製造廠名稱": "MGB0949000  Cogent Technology Ltd.",
-        "製造廠廠址": "Dock Lane, Melton, Woodbridge, IP12 1PE, United Kingdom",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0949000  Cogent Technology Ltd.",
+            "製造廠廠址": "Dock Lane, Melton, Woodbridge, IP12 1PE, United Kingdom",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MCA0134000  Embla Systems",
+            "製造廠廠址": "1 Hines Road, Suite 202,  OTTAWA, K2K 3C7, Canada",
+            "製造廠公司地址": "",
+            "製造廠國別": "CANADA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

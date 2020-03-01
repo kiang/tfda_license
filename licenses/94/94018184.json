@@ -1,6 +1,6 @@
 {
     "code": "94018184",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018184",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018184",
     "time": "2020-02-26 12:23:01",
     "許可證字號": "衛部醫器輸壹字第018184號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231145178  芃燁醫療器材有限公司",
     "申請商地址": "新北市蘆洲區民義街61巷10號5樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE0326000  MAVIG GMBH",
-        "製造廠廠址": "STAHLGRUBERRING 5, 81829 MUNICH, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0326000  MAVIG GMBH",
+            "製造廠廠址": "STAHLGRUBERRING 5, 81829 MUNICH, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

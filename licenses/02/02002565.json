@@ -1,11 +1,12 @@
 {
     "code": "02002565",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02002565",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02002565",
     "time": "2020-02-25 08:12:17",
     "許可證字號": "衛署藥輸字第002565號",
     "註銷狀態": "已註銷",
     "註銷日期": "75\/10\/24",
     "註銷理由": "有效期間已屆未能補件",
+    "製造許可登錄編號": "",
     "有效日期": "76\/02\/16",
     "發證日期": "63\/02\/16",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "1417501100  僑泰興業股份有限公司",
-        "申請商地址": "台北巿民權東路六段３１０號２樓",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "POTASSIUM CHLORIDE, SODIUM CHLORIDE, POTASSIUM BICARBONATE (EQ TO POTASSIUM DICARBONATE)(EQ TO POTASSIUM HYDROGEN CARBONATE), MANGANESE CHLORIDE, COBALTOUS CHLORIDE, ARGININE HCL L-, L-ISOLEUCINE, L-LEUCINE, LYSINE L-, L-METHIONINE, L-PHENYLALANINE, L-THREONINE, L-TRYPTOPHAN, L-VALINE, GLYCINE (EQ TO AMINOACETIC ACID)(EQ TO GLYCOCOLL), SODIUM BISULFITE (EQ TO SODIUM HYDROGEN SULFITE), NIACINAMIDE (NICOTINAMIDE), PYRIDOXINE HCL, ASCORBIC ACID (VIT C)",
+    "限制項目": "02輸　入",
+    "申請商名稱": "1417501100  僑泰興業股份有限公司",
+    "申請商地址": "台北巿民權東路六段３１０號２樓",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FFR0076000  LABORATOIRES SOBIO",
+            "製造廠廠址": "PARIS",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [

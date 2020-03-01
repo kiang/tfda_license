@@ -1,6 +1,6 @@
 {
     "code": "56026893",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026893",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026893",
     "time": "2020-02-26 07:39:43",
     "許可證字號": "衛部醫器輸字第026893號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0917201100  春菖貿易有限公司",
     "申請商地址": "台中市西屯區天水西二街35號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS0945000  ARGON MEDICAL DEVICES INC.",
-        "製造廠廠址": "1445 FLAT CREEK RD. ATHENS TX USA 75751",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0945000  ARGON MEDICAL DEVICES INC.",
+            "製造廠廠址": "1445 FLAT CREEK RD. ATHENS TX USA 75751",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

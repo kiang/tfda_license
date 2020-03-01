@@ -1,6 +1,6 @@
 {
     "code": "56032234",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56032234",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56032234",
     "time": "2020-02-26 08:27:25",
     "許可證字號": "衛部醫器輸字第032234號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "1119301100  荷商波士頓科技有限公司臺灣分公司",
     "申請商地址": "台北市南港區忠孝東路六段21號14樓",
-    "主製造廠": {
-        "製造廠名稱": "MCR0007000  BOSTON SCIENTIFIC DE COSTA RICA, S.R.L.",
-        "製造廠廠址": "2546 FIRST STREET, PROPARK, EL COYOL, ALAJUELA, COSTA RICA",
-        "製造廠公司地址": "",
-        "製造廠國別": "COSTA RICA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCR0007000  BOSTON SCIENTIFIC DE COSTA RICA, S.R.L.",
+            "製造廠廠址": "2546 FIRST STREET, PROPARK, EL COYOL, ALAJUELA, COSTA RICA",
+            "製造廠公司地址": "",
+            "製造廠國別": "COSTA RICA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS4226000  Boston Scientific Corporation",
+            "製造廠廠址": "300 Boston Scientific Way Marlborough, MA 01752, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

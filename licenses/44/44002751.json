@@ -1,6 +1,6 @@
 {
     "code": "44002751",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44002751",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44002751",
     "time": "2020-02-26 04:32:34",
     "許可證字號": "衛署醫器輸壹字第002751號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6202024375  普達康股份有限公司",
     "申請商地址": "高雄市三民區義永路43巷1號",
-    "主製造廠": {
-        "製造廠名稱": "MNL0046000  WESSELING BV",
-        "製造廠廠址": "VENENWEG 31 &quot;DE WEEREN&quot; POSTBUS 80, 1160 AB ZWANENBURG HOLLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "NETHERLANDS",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MNL0046000  WESSELING BV",
+            "製造廠廠址": "VENENWEG 31 &quot;DE WEEREN&quot; POSTBUS 80, 1160 AB ZWANENBURG HOLLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "NETHERLANDS",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

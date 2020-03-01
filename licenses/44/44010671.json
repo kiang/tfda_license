@@ -1,6 +1,6 @@
 {
     "code": "44010671",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010671",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010671",
     "time": "2020-02-26 05:27:26",
     "許可證字號": "衛署醫器輸壹字第010671號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620101H063  依視路寶利徠光學股份有限公司",
     "申請商地址": "台北市松山區光復南路35號8樓",
-    "主製造廠": {
-        "製造廠名稱": "MPT0002000  ESSILOR PORTUGAL SOCIEDADE INDUSTRIAL DE OPTICA, LDA",
-        "製造廠廠址": "RUA DO PINO VERDE, 2 E 2-A-ALTO DO FORTE 2635-225 RIO DE MOURO, PORTUGAL",
-        "製造廠公司地址": "",
-        "製造廠國別": "PORTUGAL",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MPT0002000  ESSILOR PORTUGAL SOCIEDADE INDUSTRIAL DE OPTICA, LDA",
+            "製造廠廠址": "RUA DO PINO VERDE, 2 E 2-A-ALTO DO FORTE 2635-225 RIO DE MOURO, PORTUGAL",
+            "製造廠公司地址": "",
+            "製造廠國別": "PORTUGAL",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

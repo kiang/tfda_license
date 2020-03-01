@@ -1,6 +1,6 @@
 {
     "code": "46001275",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001275",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001275",
     "time": "2020-02-26 06:05:26",
     "許可證字號": "衛署醫器陸輸壹字第001275號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "620102S299  立即朔國際有限公司",
     "申請商地址": "台北市大安區安居街60巷4號",
-    "主製造廠": {
-        "製造廠名稱": "MCN0711000  JIANGSU ALPHAY MEDICAL DEVICE CO., LTD.",
-        "製造廠廠址": "No.95 ZhenXing East Road, Economy &amp; Technology Development Zone, Nantong, Jiangsu, China",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0711000  JIANGSU ALPHAY MEDICAL DEVICE CO., LTD.",
+            "製造廠廠址": "No.95 ZhenXing East Road, Economy &amp; Technology Development Zone, Nantong, Jiangsu, China",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

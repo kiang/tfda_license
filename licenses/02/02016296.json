@@ -1,11 +1,12 @@
 {
     "code": "02016296",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02016296",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02016296",
     "time": "2020-02-25 11:18:05",
     "許可證字號": "衛署藥輸字第016296號",
     "註銷狀態": "已註銷",
     "註銷日期": "98\/12\/31",
     "註銷理由": "屆期未申請展延",
+    "製造許可登錄編號": "",
     "有效日期": "93\/09\/14",
     "發證日期": "88\/09\/17",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "0407901100  衛采製藥股份有限公司",
-        "申請商地址": "台北巿長安東路一段十八號九樓",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "MENFEGOL",
+    "限制項目": "02輸　入",
+    "申請商名稱": "0407901100  衛采製藥股份有限公司",
+    "申請商地址": "台北巿長安東路一段十八號九樓",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FJP0514000  EISAI CO. LTD.(MISATO PLANT)",
+            "製造廠廠址": "950 HIROKI OHAZA MISATO-MACHI KODAMA-GUN SAITAMA-KEN JAPAN6-10,4-CHOME,KOISHIKAWA,BUNKYO-KU,TOKYO,JAPAN",
+            "製造廠公司地址": "6-10,4-CHOME,KOISHIKAWA,BUNKYO-KU,TOKYO,JAPAN",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "CCC號列": "30066000005 以荷爾蒙、第２９３７節之其他產品或殺精蟲劑為基料之化學避孕製劑Chemical contraceptive preparations based on hormones, on other products of heading 29.37 or on spermicides",
     "藥理治療分類": "",
     "ingredients": [

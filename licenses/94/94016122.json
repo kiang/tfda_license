@@ -1,6 +1,6 @@
 {
     "code": "94016122",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016122",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016122",
     "time": "2020-02-26 11:50:42",
     "許可證字號": "衛部醫器輸壹字第016122號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623106E758  皇雅生醫科技有限公司",
     "申請商地址": "台北市信義區忠孝東路五段412號8樓",
-    "主製造廠": {
-        "製造廠名稱": "MIN0082000  GDC MARKETING",
-        "製造廠廠址": "390, ANAND STREET, RED ROAD, HOSHIARPUR – 146001 PUNJAB (INDIA)",
-        "製造廠公司地址": "",
-        "製造廠國別": "INDIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIN0082000  GDC MARKETING",
+            "製造廠廠址": "390, ANAND STREET, RED ROAD, HOSHIARPUR – 146001 PUNJAB (INDIA)",
+            "製造廠公司地址": "",
+            "製造廠國別": "INDIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

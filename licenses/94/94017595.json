@@ -1,6 +1,6 @@
 {
     "code": "94017595",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017595",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017595",
     "time": "2020-02-26 12:09:59",
     "許可證字號": "衛部醫器輸壹字第017595號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6233054885  金台洋企業股份有限公司",
     "申請商地址": "新竹縣竹北市和平街207號5樓之5",
-    "主製造廠": {
-        "製造廠名稱": "MBR0041000  JJGC INDUSTRY AND TRADE OF DENTAL MATERIALS S.A.",
-        "製造廠廠址": "AVENIDA JUSCELINO KUBITSCHEK DE OLIVEIRA 3291 CURITIBA, PARANA, BRAZIL ZIP CODE 81.270-200",
-        "製造廠公司地址": "",
-        "製造廠國別": "BRAZIL",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MBR0041000  JJGC INDUSTRY AND TRADE OF DENTAL MATERIALS S.A.",
+            "製造廠廠址": "AVENIDA JUSCELINO KUBITSCHEK DE OLIVEIRA 3291 CURITIBA, PARANA, BRAZIL ZIP CODE 81.270-200",
+            "製造廠公司地址": "",
+            "製造廠國別": "BRAZIL",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

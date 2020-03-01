@@ -1,6 +1,6 @@
 {
     "code": "94020899",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020899",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020899",
     "time": "2020-02-26 12:48:15",
     "許可證字號": "衛部醫器輸壹字第020899號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231035195  銳誠企業有限公司",
     "申請商地址": "新北市永和區自由街64號10樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS4809000  IMMUNO-MYCOLOGICS, INC.",
-        "製造廠廠址": "2701 CORPORATE CENTRE DRIVE NORMAN, OK 73069 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS4809000  IMMUNO-MYCOLOGICS, INC.",
+            "製造廠廠址": "2701 CORPORATE CENTRE DRIVE NORMAN, OK 73069 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

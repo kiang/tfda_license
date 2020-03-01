@@ -1,6 +1,6 @@
 {
     "code": "06019749",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019749",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019749",
     "time": "2020-02-25 19:50:30",
     "許可證字號": "衛署醫器輸字第019749號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1439301100  美敦力醫療產品股份有限公司",
     "申請商地址": "台北市松山區敦化南路一段2號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MMX0024100  Medtronic Mexico S.de R.L.de C.V",
-        "製造廠廠址": "Avenue Paseo Cucapah 10510 EI Lago C.P. 22210 Tijuana, Baja California, Mexico",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0024100  Medtronic Mexico S.de R.L.de C.V",
+            "製造廠廠址": "Avenue Paseo Cucapah 10510 EI Lago C.P. 22210 Tijuana, Baja California, Mexico",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MIT0153000  INVATEC S.P.A.",
+            "製造廠廠址": "25030 RONCADELLE (BS), ITALY, VIA MARTIRI DELLA LIBERTA 7",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "94014202",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014202",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014202",
     "time": "2020-02-26 11:23:55",
     "許可證字號": "衛部醫器輸壹字第014202號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231054850  德瑞士國際有限公司",
     "申請商地址": "新北市新店區二十張路129巷7弄6號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0617000  ATRIA INC.",
-        "製造廠廠址": "B-503, SOONWHA DONG THE SHARP, 27 CHILPAE-RO, JUNG-GU, SEOUL, KOREA(SOUTH)",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0617000  ATRIA INC.",
+            "製造廠廠址": "B-503, SOONWHA DONG THE SHARP, 27 CHILPAE-RO, JUNG-GU, SEOUL, KOREA(SOUTH)",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

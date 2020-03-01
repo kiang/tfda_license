@@ -1,6 +1,6 @@
 {
     "code": "44003063",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44003063",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44003063",
     "time": "2020-02-26 04:34:12",
     "許可證字號": "衛署醫器輸壹字第003063號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201162652  常盈實業股份有限公司",
     "申請商地址": "台北市北投區永興路一段49號",
-    "主製造廠": {
-        "製造廠名稱": "MDE0213000  CHROMSYSTEMS INSTRUMENTS &amp; CHEMICALS GMBH",
-        "製造廠廠址": "AM HAAG 12, 82166 GRAFELFING, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0213000  CHROMSYSTEMS INSTRUMENTS &amp; CHEMICALS GMBH",
+            "製造廠廠址": "AM HAAG 12, 82166 GRAFELFING, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

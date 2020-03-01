@@ -1,6 +1,6 @@
 {
     "code": "44012056",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012056",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012056",
     "time": "2020-02-26 05:41:06",
     "許可證字號": "衛署醫器輸壹字第012056號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623111B476  亞靖儀器有限公司",
     "申請商地址": "新北市汐止區連興街128巷7弄2號5樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS3424000  INTRINSIC THERAPEUTICS, INC.",
-        "製造廠廠址": "30 COMMERCE WAY WOBURN MA, 01801, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS3424000  INTRINSIC THERAPEUTICS, INC.",
+            "製造廠廠址": "30 COMMERCE WAY WOBURN MA, 01801, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

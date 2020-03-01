@@ -1,6 +1,6 @@
 {
     "code": "56030752",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030752",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030752",
     "time": "2020-02-26 08:16:52",
     "許可證字號": "衛部醫器輸字第030752號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "0517701100  世新儀器有限公司",
     "申請商地址": "台北市松江路２２１巷１９號",
-    "主製造廠": {
-        "製造廠名稱": "MCR0029000  MicroVention Costa Rica S.R.L.",
-        "製造廠廠址": "Zona Franca Coyol. Alajuela, Costa Rica",
-        "製造廠公司地址": "",
-        "製造廠國別": "COSTA RICA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCR0029000  MicroVention Costa Rica S.R.L.",
+            "製造廠廠址": "Zona Franca Coyol. Alajuela, Costa Rica",
+            "製造廠公司地址": "",
+            "製造廠國別": "COSTA RICA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MFR1011000  MicroVention Europe",
+            "製造廠廠址": "30 bis, rue du Vieil Abreuvoir, 78100 Saint-Germain-en-Laye, France",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

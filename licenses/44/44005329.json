@@ -1,6 +1,6 @@
 {
     "code": "44005329",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44005329",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44005329",
     "time": "2020-02-26 04:45:24",
     "許可證字號": "衛署醫器輸壹字第005329號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620117B535  碩景股份有限公司",
     "申請商地址": "台北市信義區松德路７４號８樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS1128000  INOVA DIANOSTICS, INC.",
-        "製造廠廠址": "9900 OLD GROVE ROAD, SAN DIEGO, CA 92131 U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS1128000  INOVA DIANOSTICS, INC.",
+            "製造廠廠址": "9900 OLD GROVE ROAD, SAN DIEGO, CA 92131 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

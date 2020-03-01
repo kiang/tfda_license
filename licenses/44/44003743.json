@@ -1,6 +1,6 @@
 {
     "code": "44003743",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44003743",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44003743",
     "time": "2020-02-26 04:37:17",
     "許可證字號": "衛署醫器輸壹字第003743號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0826801100  東艾貿易股份有限公司",
     "申請商地址": "台北市長安西路３０６號３Ｆ",
-    "主製造廠": {
-        "製造廠名稱": "MHK0002000  A. R. MEDICOM INC. (ASIA) LIMITED",
-        "製造廠廠址": "21\/F, FEDERAL CENTRE 77 SHEUNG ON STREET, CHAI WAN, HK",
-        "製造廠公司地址": "",
-        "製造廠國別": "HONG KONG",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MHK0002000  A. R. MEDICOM INC. (ASIA) LIMITED",
+            "製造廠廠址": "21\/F, FEDERAL CENTRE 77 SHEUNG ON STREET, CHAI WAN, HK",
+            "製造廠公司地址": "",
+            "製造廠國別": "HONG KONG",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

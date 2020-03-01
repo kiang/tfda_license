@@ -1,6 +1,6 @@
 {
     "code": "08012402",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08012402",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08012402",
     "time": "2020-02-26 00:01:15",
     "許可證字號": "衛署粧輸字第012402號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102Q366  裕雍藥業股份有限公司",
     "申請商地址": "台北市大安區安和路一段29號12樓",
-    "主製造廠": {
-        "製造廠名稱": "CFR0127000  PLANTE SYSTEM LABORATOIRE DERMATOLOGIQUE",
-        "製造廠廠址": "BP 28-06511 CARROS CEDEX, FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CFR0127000  PLANTE SYSTEM LABORATOIRE DERMATOLOGIQUE",
+            "製造廠廠址": "BP 28-06511 CARROS CEDEX, FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

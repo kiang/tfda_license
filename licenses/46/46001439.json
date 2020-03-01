@@ -1,6 +1,6 @@
 {
     "code": "46001439",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001439",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001439",
     "time": "2020-02-26 06:07:06",
     "許可證字號": "衛署醫器陸輸壹字第001439號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "624301E973  充滿商行",
     "申請商地址": "屏東縣屏東市明正里中華路131號",
-    "主製造廠": {
-        "製造廠名稱": "MCN0952000  GUANGZHOU CITY HUADU DIST. SHILING TOWN YONGLI GLASSES FACTORY",
-        "製造廠廠址": "FLOOR 1ST- 5TH NO.21, JIAOYUXILU, SHILING TOWN, HUADU DIST, GUANGZHOU CITY, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0952000  GUANGZHOU CITY HUADU DIST. SHILING TOWN YONGLI GLASSES FACTORY",
+            "製造廠廠址": "FLOOR 1ST- 5TH NO.21, JIAOYUXILU, SHILING TOWN, HUADU DIST, GUANGZHOU CITY, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

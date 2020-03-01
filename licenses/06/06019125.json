@@ -1,6 +1,6 @@
 {
     "code": "06019125",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019125",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019125",
     "time": "2020-02-25 19:43:30",
     "許可證字號": "衛署醫器輸字第019125號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 1K安全監視\r\n                            \r\n                                (本產品依藥事法第45條規定列入安全監視，請使用單位配合執行監視項目並提供所得資料予許可證持有商)",
     "申請商名稱": "1434401100  廣百實業有限公司",
     "申請商地址": "台北市松山區南京東路4段51號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MIE0824000  AMS Medical Systems Ireland Limited",
-        "製造廠廠址": "Athlone Business and Technology Park, Unit A, Garrycastle, Dublin Road, Athlone, Co. Westmeath, Ireland",
-        "製造廠公司地址": "",
-        "製造廠國別": "IRELAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIE0824000  AMS Medical Systems Ireland Limited",
+            "製造廠廠址": "Athlone Business and Technology Park, Unit A, Garrycastle, Dublin Road, Athlone, Co. Westmeath, Ireland",
+            "製造廠公司地址": "",
+            "製造廠國別": "IRELAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

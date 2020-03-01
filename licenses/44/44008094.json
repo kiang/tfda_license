@@ -1,6 +1,6 @@
 {
     "code": "44008094",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008094",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008094",
     "time": "2020-02-26 05:03:30",
     "許可證字號": "衛署醫器輸壹字第008094號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231111618  吉生醫療器材有限公司",
     "申請商地址": "新北市汐止區康寧街169巷31之1號2樓之1、8樓之1、8樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MID0011000  PT.HOGY INDONESIA",
-        "製造廠廠址": "MM2100 INDUSTRIAL TOWN, EPZ., BLOCK M3-1, CIKARANG BARAT, BEKASI 17520 INDONESIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "INDONESIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MID0011000  PT.HOGY INDONESIA",
+            "製造廠廠址": "MM2100 INDUSTRIAL TOWN, EPZ., BLOCK M3-1, CIKARANG BARAT, BEKASI 17520 INDONESIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "INDONESIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

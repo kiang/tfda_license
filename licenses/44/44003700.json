@@ -1,6 +1,6 @@
 {
     "code": "44003700",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44003700",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44003700",
     "time": "2020-02-26 04:37:05",
     "許可證字號": "衛署醫器輸壹字第003700號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1323109100  慈德貿易有限公司",
     "申請商地址": "台中市西屯區朝馬三街３之１號１樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE0347000  BODE CHEMIE HAMBURG",
-        "製造廠廠址": "MELANCHTHONSTRABE 27, D-22525 HAMBURG, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0347000  BODE CHEMIE HAMBURG",
+            "製造廠廠址": "MELANCHTHONSTRABE 27, D-22525 HAMBURG, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

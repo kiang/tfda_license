@@ -1,6 +1,6 @@
 {
     "code": "94018108",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018108",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018108",
     "time": "2020-02-26 12:22:10",
     "許可證字號": "衛部醫器輸壹字第018108號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6237019346  瑞曜貿易有限公司",
     "申請商地址": "彰化縣彰化市西勢里如意街42號",
-    "主製造廠": {
-        "製造廠名稱": "MDE1168200  RITTER IMPLANTS GMBH &amp; CO. KG",
-        "製造廠廠址": "GRUENER WEG32, 88400 BIBERACH, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE1168200  RITTER IMPLANTS GMBH &amp; CO. KG",
+            "製造廠廠址": "GRUENER WEG32, 88400 BIBERACH, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

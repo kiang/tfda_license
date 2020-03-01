@@ -1,6 +1,6 @@
 {
     "code": "94015571",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015571",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015571",
     "time": "2020-02-26 11:42:53",
     "許可證字號": "衛部醫器輸壹字第015571號",
     "註銷狀態": "",
@@ -35,13 +35,38 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6201116721  優活醫藥生技有限公司",
     "申請商地址": "臺北市內湖區內湖路康樂街186巷45號地下",
-    "主製造廠": {
-        "製造廠名稱": "MUS3389000  Biomed Laboratories .LLC",
-        "製造廠廠址": "8181 Eastpoint Blvd,Sutie 500 Dallas Texas 75227 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS3389000  Biomed Laboratories .LLC",
+            "製造廠廠址": "8181 Eastpoint Blvd,Sutie 500 Dallas Texas 75227 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "6103200046  大安生醫股份有限公司",
+            "製造廠廠址": "臺中市大里區仁化工三路128號2樓",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "分裝"
+        },
+        {
+            "製造廠名稱": "6201116721  優活醫藥生技有限公司",
+            "製造廠廠址": "臺北市內湖區內湖路康樂街186巷45號地下",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "許可證持有者"
+        },
+        {
+            "製造廠名稱": "MAI0001000  BIVORUNA INC.",
+            "製造廠廠址": "THE MASON COMPLEX, SUITES 19 &amp; 20, THE VALLEY, ANGUILLA",
+            "製造廠公司地址": "",
+            "製造廠國別": "ANGUILLA",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

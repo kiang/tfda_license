@@ -1,6 +1,6 @@
 {
     "code": "56027352",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027352",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027352",
     "time": "2020-02-26 07:44:48",
     "許可證字號": "衛部醫器輸字第027352號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620117N600  臺灣安晟信有限公司",
     "申請商地址": "台北市信義區信義路5段7號37樓",
-    "主製造廠": {
-        "製造廠名稱": "MID0036000  PT PHC Indonesia",
-        "製造廠廠址": "Kawasan Industri MM2100 Blok O-1,Cikarang Barat, Bekasi 17520, Indonesia",
-        "製造廠公司地址": "",
-        "製造廠國別": "INDONESIA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MID0036000  PT PHC Indonesia",
+            "製造廠廠址": "Kawasan Industri MM2100 Blok O-1,Cikarang Barat, Bekasi 17520, Indonesia",
+            "製造廠公司地址": "",
+            "製造廠國別": "INDONESIA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MCH0878000  Ascensia Diabetes Care Holdings AG",
+            "製造廠廠址": "Peter Merian-Strasse 90, 4052 Basel, Switzerland",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

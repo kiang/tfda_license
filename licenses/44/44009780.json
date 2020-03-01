@@ -1,6 +1,6 @@
 {
     "code": "44009780",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009780",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009780",
     "time": "2020-02-26 05:18:39",
     "許可證字號": "衛署醫器輸壹字第009780號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623202G592  台灣斯柏瑞科技股份有限公司",
     "申請商地址": "桃園市中壢區民族路174號5樓",
-    "主製造廠": {
-        "製造廠名稱": "MHK0024000  PASSTOOL LIMITED",
-        "製造廠廠址": "RM 1615, SEA POWER TOWER(NORTH), CONCORDIA PLAZA, NO.1 SCIENCE MUSEUM ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG",
-        "製造廠公司地址": "",
-        "製造廠國別": "HONG KONG",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MHK0024000  PASSTOOL LIMITED",
+            "製造廠廠址": "RM 1615, SEA POWER TOWER(NORTH), CONCORDIA PLAZA, NO.1 SCIENCE MUSEUM ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG",
+            "製造廠公司地址": "",
+            "製造廠國別": "HONG KONG",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "06012837",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06012837",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06012837",
     "time": "2020-02-25 18:31:55",
     "許可證字號": "衛署醫器輸字第012837號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0713318100  宏國醫療儀器有限公司",
     "申請商地址": "嘉義縣六腳鄉蘇厝村９７號",
-    "主製造廠": {
-        "製造廠名稱": "MCA0019000  INNOVA CORP.",
-        "製造廠廠址": "525 UNIVERSITY AVE., SUITE 830, TORONTO, ONTARIO, CANADA M5G 1X3",
-        "製造廠公司地址": "",
-        "製造廠國別": "CANADA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCA0019000  INNOVA CORP.",
+            "製造廠廠址": "525 UNIVERSITY AVE., SUITE 830, TORONTO, ONTARIO, CANADA M5G 1X3",
+            "製造廠公司地址": "",
+            "製造廠國別": "CANADA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

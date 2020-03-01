@@ -1,6 +1,6 @@
 {
     "code": "94019889",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019889",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019889",
     "time": "2020-02-26 12:39:13",
     "許可證字號": "衛部醫器輸壹字第019889號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620111C849  華莘生醫科技股份有限公司",
     "申請商地址": "臺北市內湖區陽光街345巷8號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS5240000  QUINN MEDICAL, INC.",
-        "製造廠廠址": "1000 CALLE CORDILLERA SAN CLEMENTE, CA 92673, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS5240000  QUINN MEDICAL, INC.",
+            "製造廠廠址": "1000 CALLE CORDILLERA SAN CLEMENTE, CA 92673, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

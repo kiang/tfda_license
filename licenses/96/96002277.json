@@ -1,6 +1,6 @@
 {
     "code": "96002277",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002277",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002277",
     "time": "2020-02-26 12:58:07",
     "許可證字號": "衛部醫器陸輸壹字第002277號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 40大陸生產",
     "申請商名稱": "623202H982  東樑實業股份有限公司",
     "申請商地址": "桃園市中壢區中央里復興路31之5號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1417000  SHENZHEN EUROPOWER TECHNOLOGY",
-        "製造廠廠址": "C8, THIRD INDUSTRIAL ZONE, TANOU, SONGGANG, BAOAN DISTRICT, SHENZHEN GUANGDONG, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1417000  SHENZHEN EUROPOWER TECHNOLOGY",
+            "製造廠廠址": "C8, THIRD INDUSTRIAL ZONE, TANOU, SONGGANG, BAOAN DISTRICT, SHENZHEN GUANGDONG, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MAU0849000  BENSON MEDICAL SERVICES PTY LTD",
+            "製造廠廠址": "SUITE 3, 73 GAVEN STREET, BUNDABERG NORTH, QUEENSLAND, 4570, AUSTRALIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRALIA",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

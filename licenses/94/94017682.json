@@ -1,6 +1,6 @@
 {
     "code": "94017682",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017682",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017682",
     "time": "2020-02-26 12:10:45",
     "許可證字號": "衛部醫器輸壹字第017682號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6401102454  蓓麗嘉國際股份有限公司",
     "申請商地址": "臺北市中山區龍江路96號9樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0863000  ROBOMAX CO., LTD.",
-        "製造廠廠址": "D-205-1,2,BUNDANG TECHNOPARK, 230, YATAMNAM-RO, BUNDANG-GU, SEONGNAM-SI, GYEONGGI-DO, 463-760 KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0863000  ROBOMAX CO., LTD.",
+            "製造廠廠址": "D-205-1,2,BUNDANG TECHNOPARK, 230, YATAMNAM-RO, BUNDANG-GU, SEONGNAM-SI, GYEONGGI-DO, 463-760 KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

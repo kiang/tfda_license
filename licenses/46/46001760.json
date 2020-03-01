@@ -1,6 +1,6 @@
 {
     "code": "46001760",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001760",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001760",
     "time": "2020-02-26 06:09:58",
     "許可證字號": "衛署醫器陸輸壹字第001760號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 40大陸生產",
     "申請商名稱": "620101Q128  中緹國際有限公司",
     "申請商地址": "台北市松山區八德路4段320號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN0052000  ZHONGSHAN HONG CHENG TECHNOLOGY INDUSTRIAL CO.,LTD.",
-        "製造廠廠址": "NAN LANG INDUSTRIAL, NAN LANG TOWN, ZHONGSHAN CITY, GUANGDONG PROVINCE, PEOPLE’S REPUBLIC OF CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0052000  ZHONGSHAN HONG CHENG TECHNOLOGY INDUSTRIAL CO.,LTD.",
+            "製造廠廠址": "NAN LANG INDUSTRIAL, NAN LANG TOWN, ZHONGSHAN CITY, GUANGDONG PROVINCE, PEOPLE’S REPUBLIC OF CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MMY0045000  GOODLIFE INTERNATIONAL SDN BHD",
+            "製造廠廠址": "25-4, JALAN 10\/116B, KUCHAI ENTREPRENEURS’PARK, OFF JALAN KUCHAI LAMA, 58200 KUALA LUMPUR, MALAYSIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "MALAYSIA",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

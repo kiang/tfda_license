@@ -1,6 +1,6 @@
 {
     "code": "94019644",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019644",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019644",
     "time": "2020-02-26 12:36:21",
     "許可證字號": "衛部醫器輸壹字第019644號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6203190583  榛冠鈞國際開發有限公司",
     "申請商地址": "臺中市西屯區福雅路255-15號",
-    "主製造廠": {
-        "製造廠名稱": "MPK0125100  INTERNATIONAL DENTAL SUPPLY",
-        "製造廠廠址": "STREET #.5, HARRAR-RORAS ROAD-SIALKOT 51310 SIALKOT -PAKISTAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "PAKISTAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MPK0125100  INTERNATIONAL DENTAL SUPPLY",
+            "製造廠廠址": "STREET #.5, HARRAR-RORAS ROAD-SIALKOT 51310 SIALKOT -PAKISTAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "PAKISTAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

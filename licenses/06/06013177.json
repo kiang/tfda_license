@@ -1,6 +1,6 @@
 {
     "code": "06013177",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06013177",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06013177",
     "time": "2020-02-25 18:35:38",
     "許可證字號": "衛署醫器輸字第013177號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201123673  西門子股份有限公司",
     "申請商地址": "台北市南港區園區街３號８樓",
-    "主製造廠": {
-        "製造廠名稱": "MGB0837000  SIEMENS HEALTHCARE DIAGNOSTICS PRODUCTS LIMITED",
-        "製造廠廠址": "GLYN RHONWY, LLANBERIS, CAERNARFON, GWYNEDD LL55 4EL, UNITED KINGDOM",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0837000  SIEMENS HEALTHCARE DIAGNOSTICS PRODUCTS LIMITED",
+            "製造廠廠址": "GLYN RHONWY, LLANBERIS, CAERNARFON, GWYNEDD LL55 4EL, UNITED KINGDOM",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

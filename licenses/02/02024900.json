@@ -1,11 +1,12 @@
 {
     "code": "02024900",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024900",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024900",
     "time": "2020-02-25 13:28:47",
     "許可證字號": "衛署藥輸字第024900號",
     "註銷狀態": "已註銷",
     "註銷日期": "104\/08\/04",
     "註銷理由": "自請註銷",
+    "製造許可登錄編號": "",
     "有效日期": "107\/10\/06",
     "發證日期": "97\/10\/06",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入 5A本品係依本署93年05月05日衛署藥字第0930309777號公告經本署認定得免除銜接性試驗，且經本署核定之新藥",
-        "申請商名稱": "1426402100  台灣柏朗股份有限公司",
-        "申請商地址": "台北市松山區健康路152號9樓",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "POTASSIUM ACETATE, SODIUM ACETATE TRIHYDRATE (EQ TO SODIUM ACETATE 3H2O ), CALCIUM CHLORIDE DIHYDRATE, MAGNESIUM ACETATE TETRAHYDRATE, SODIUM CHLORIDE, GLUCOSE MONOHYDRATE, SOYBEAN OIL ( EQ TO SOYA BEAN OIL), ALANINE, ARGININE, ASPARTIC ACID, GLUTAMIC ACID, HISTIDINE HCL MONOHYDRATE, ISOLEUCINE, LEUCINE, LYSINE HCL, METHIONINE, PHENYLALANINE, PROLINE, SERINE, THREONINE, TRYPTOPHAN, VALINE, GLYCINE (EQ TO AMINOACETIC ACID)(EQ TO GLYCOCOLL), SODIUM DIHYDROGEN PHOSPHATE DIHYDRATE, TRIGLYCERIDES MEDIUM CHAIN, ZINC ACETATE DIHYDRATE, SODIUM HYDROXIDE",
+    "限制項目": "02輸　入 5A本品係依本署93年05月05日衛署藥字第0930309777號公告經本署認定得免除銜接性試驗，且經本署核定之新藥",
+    "申請商名稱": "1426402100  台灣柏朗股份有限公司",
+    "申請商地址": "台北市松山區健康路152號9樓",
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0005000  B. BRAUN MELSUNGEN AG.",
+            "製造廠廠址": "CARL-BRAUN-STRASSE 1, D-34212 MELSUNGEN GERMANY",
+            "製造廠公司地址": "D-34209 MELSUNGEN GERMANY",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "CCC號列": "30039040004 營養與電解質液Nutrients and electrolytes",
     "藥理治療分類": "",
     "ingredients": [

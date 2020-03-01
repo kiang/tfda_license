@@ -1,6 +1,6 @@
 {
     "code": "06009455",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06009455",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06009455",
     "time": "2020-02-25 17:50:08",
     "許可證字號": "衛署醫器輸字第009455號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620117J497  埃默高有限公司",
     "申請商地址": "新北市新店區北新路3段221號10樓",
-    "主製造廠": {
-        "製造廠名稱": "MMX0145000  Cordis de Mexico, S.A. de C.V.",
-        "製造廠廠址": "Calle Circuito Interior Norte #1820, Parque Industrial Salvarcar, Ciudad Juarez, Chihuahua, CP 32574, Mexico",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0145000  Cordis de Mexico, S.A. de C.V.",
+            "製造廠廠址": "Calle Circuito Interior Norte #1820, Parque Industrial Salvarcar, Ciudad Juarez, Chihuahua, CP 32574, Mexico",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MIE0092000  CORDIS CASHEL",
+            "製造廠廠址": "Cahir Road, Cashel, Co. Tipperary, Ireland",
+            "製造廠公司地址": "",
+            "製造廠國別": "IRELAND",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

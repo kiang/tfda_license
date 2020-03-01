@@ -1,6 +1,6 @@
 {
     "code": "06004230",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06004230",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06004230",
     "time": "2020-02-25 16:31:16",
     "許可證字號": "衛署醫器輸字第004230號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1222501100  偉得貿易有限公司",
     "申請商地址": "台北巿大直街２０巷１路１Ｆ",
-    "主製造廠": {
-        "製造廠名稱": "MJP0268000  ASO PHARMACEUTICAL CO., LTD.",
-        "製造廠廠址": "91 TSUKURE, KIKUYO, KUMAMOTO 869-11, JAPAN.",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0268000  ASO PHARMACEUTICAL CO., LTD.",
+            "製造廠廠址": "91 TSUKURE, KIKUYO, KUMAMOTO 869-11, JAPAN.",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

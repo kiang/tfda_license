@@ -1,6 +1,6 @@
 {
     "code": "06014431",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014431",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014431",
     "time": "2020-02-25 18:49:39",
     "許可證字號": "衛署醫器輸字第014431號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1411501100  嘉杏股份有限公司",
     "申請商地址": "台北市中山區松江路42號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MAU0050000  COMPUMEDICS LIMITED",
-        "製造廠廠址": "30-40 FLOCKHART STREET, ABBOTSFORD VIC 3067 AUSTRALIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "AUSTRALIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MAU0050000  COMPUMEDICS LIMITED",
+            "製造廠廠址": "30-40 FLOCKHART STREET, ABBOTSFORD VIC 3067 AUSTRALIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRALIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

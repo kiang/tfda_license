@@ -1,6 +1,6 @@
 {
     "code": "08012512",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08012512",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08012512",
     "time": "2020-02-26 00:02:29",
     "許可證字號": "衛署粧輸字第012512號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6628436292  香港商珀雅有限公司台灣分公司",
     "申請商地址": "台北市信義區忠孝東路五段1之1號7樓",
-    "主製造廠": {
-        "製造廠名稱": "CUS0195000  MURAD, INC.",
-        "製造廠廠址": "2121 ROSECRANS AVE, FIFTH FLOOR EI SEGUNDO, CA 90245 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CUS0195000  MURAD, INC.",
+            "製造廠廠址": "2121 ROSECRANS AVE, FIFTH FLOOR EI SEGUNDO, CA 90245 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

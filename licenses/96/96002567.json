@@ -1,6 +1,6 @@
 {
     "code": "96002567",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002567",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002567",
     "time": "2020-02-26 13:01:22",
     "許可證字號": "衛部醫器陸輸壹字第002567號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6231145605  集賢生技顧問有限公司",
     "申請商地址": "新北市蘆洲區集賢路224巷39號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1459000  Dongguan Microview Medical Technology Co., Ltd.",
-        "製造廠廠址": "Galaxy Industrial Area, Qingxi, Dongguan, Guangdong, 523656, China",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1459000  Dongguan Microview Medical Technology Co., Ltd.",
+            "製造廠廠址": "Galaxy Industrial Area, Qingxi, Dongguan, Guangdong, 523656, China",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

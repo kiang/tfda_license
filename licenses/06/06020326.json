@@ -1,6 +1,6 @@
 {
     "code": "06020326",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06020326",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06020326",
     "time": "2020-02-25 19:56:38",
     "許可證字號": "衛署醫器輸字第020326號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217076989  優擎科技有限公司",
     "申請商地址": "台中市南屯區干城街328號3樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MKR0478100  UTI CO., LTD.",
-        "製造廠廠址": "(GWANGMYEONG TECHNOPARK, SOHA-DONG) #1306, #1307, #1313, E-DONG, 60, HAAN-RO, GWANGMYEONG-SI, GYEONGGI-DO, 423-795 KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0478100  UTI CO., LTD.",
+            "製造廠廠址": "(GWANGMYEONG TECHNOPARK, SOHA-DONG) #1306, #1307, #1313, E-DONG, 60, HAAN-RO, GWANGMYEONG-SI, GYEONGGI-DO, 423-795 KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

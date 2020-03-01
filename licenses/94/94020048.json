@@ -1,6 +1,6 @@
 {
     "code": "94020048",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020048",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020048",
     "time": "2020-02-26 12:40:46",
     "許可證字號": "衛部醫器輸壹字第020048號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6240050093  康復貿易股份有限公司",
     "申請商地址": "嘉義市東區震安里興中街85巷3-1號",
-    "主製造廠": {
-        "製造廠名稱": "MVN0054200  A&amp;I VIETNAM MEDICAL EQUIPMENT CO., LTD",
-        "製造廠廠址": "LOT II-3, MY XUAN A2 INDUSTRIAL ZONE, MY XUAN WARD, PHU MY TOWN, BA RIA VUNG TAU PROVINCE, VIETNAM",
-        "製造廠公司地址": "",
-        "製造廠國別": "VIET NAM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MVN0054200  A&amp;I VIETNAM MEDICAL EQUIPMENT CO., LTD",
+            "製造廠廠址": "LOT II-3, MY XUAN A2 INDUSTRIAL ZONE, MY XUAN WARD, PHU MY TOWN, BA RIA VUNG TAU PROVINCE, VIETNAM",
+            "製造廠公司地址": "",
+            "製造廠國別": "VIET NAM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "44010797",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010797",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010797",
     "time": "2020-02-26 05:28:41",
     "許可證字號": "衛署醫器輸壹字第010797號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1119902100  常玉醫療器材有限公司",
     "申請商地址": "新北市中和區建八路165號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MDK0100000  COPENHAGEN MEDLAB",
-        "製造廠廠址": "FORMERVANGEN 5 DK-2600 GLOSTRUP DENMARK",
-        "製造廠公司地址": "",
-        "製造廠國別": "DENMARK",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDK0100000  COPENHAGEN MEDLAB",
+            "製造廠廠址": "FORMERVANGEN 5 DK-2600 GLOSTRUP DENMARK",
+            "製造廠公司地址": "",
+            "製造廠國別": "DENMARK",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

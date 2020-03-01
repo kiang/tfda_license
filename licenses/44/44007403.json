@@ -1,6 +1,6 @@
 {
     "code": "44007403",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007403",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007403",
     "time": "2020-02-26 04:58:53",
     "許可證字號": "衛署醫器輸壹字第007403號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620110Y043  驊銳國際有限公司",
     "申請商地址": "新北市中和區中和路358號8樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS1774000  CUTERA INC.",
-        "製造廠廠址": "3240 BAYSHORE BOULEVARD BRISBANE, CA 94005 U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS1774000  CUTERA INC.",
+            "製造廠廠址": "3240 BAYSHORE BOULEVARD BRISBANE, CA 94005 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

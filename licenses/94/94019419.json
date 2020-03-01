@@ -1,6 +1,6 @@
 {
     "code": "94019419",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019419",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019419",
     "time": "2020-02-26 12:33:36",
     "許可證字號": "衛部醫器輸壹字第019419號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0830601100  朋笛國際有限公司",
     "申請商地址": "台北市中山區龍江路45巷2之4號",
-    "主製造廠": {
-        "製造廠名稱": "MGB0490000  ARTICULATE INSTRUMENTS LTD.",
-        "製造廠廠址": "QUEEN MARGARET UNIVERSITY DRIVE, MUSSELBURGH, EAST LOTHIAN EH21 6UU, U.K.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0490000  ARTICULATE INSTRUMENTS LTD.",
+            "製造廠廠址": "QUEEN MARGARET UNIVERSITY DRIVE, MUSSELBURGH, EAST LOTHIAN EH21 6UU, U.K.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

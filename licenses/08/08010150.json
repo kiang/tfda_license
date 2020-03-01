@@ -1,6 +1,6 @@
 {
     "code": "08010150",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08010150",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08010150",
     "time": "2020-02-25 23:40:52",
     "許可證字號": "衛署粧輸字第010150號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6608376011  佰陞股份有限公司",
     "申請商地址": "新北市新莊區中山路一段67號15樓",
-    "主製造廠": {
-        "製造廠名稱": "CKR0017000  ATEC CO., LTD.",
-        "製造廠廠址": "124-14, DAEHWA-DONG, DAEDEOG-GU, TAEJEON KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CKR0017000  ATEC CO., LTD.",
+            "製造廠廠址": "124-14, DAEHWA-DONG, DAEDEOG-GU, TAEJEON KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

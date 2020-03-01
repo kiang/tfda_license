@@ -1,6 +1,6 @@
 {
     "code": "56027337",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027337",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027337",
     "time": "2020-02-26 07:44:39",
     "許可證字號": "衛部醫器輸字第027337號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201011892  輝生貿易有限公司",
     "申請商地址": "台北市松山區八德路4段135號3樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MJP6132000  EIKEN CHEMICAL CO., LTD NASU PLANT",
-        "製造廠廠址": "1381-3, SHIMO-ISHIGAMI, OTAWARA-SHI, TOCHIGI 324-0036,JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP6132000  EIKEN CHEMICAL CO., LTD NASU PLANT",
+            "製造廠廠址": "1381-3, SHIMO-ISHIGAMI, OTAWARA-SHI, TOCHIGI 324-0036,JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MJP0493000  EIKEN CHEMICAL CO., LTD.",
+            "製造廠廠址": "4-19-9, TAITO, TAITO-KU, TOKYO 110-8408, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

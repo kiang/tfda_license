@@ -1,6 +1,6 @@
 {
     "code": "58022651",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58022651",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58022651",
     "time": "2020-02-26 09:25:03",
     "許可證字號": "衛部粧輸字第022651號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6627756161  台灣碧雅詩國際販賣股份有限公司",
     "申請商地址": "台北市中山區復興北路５８號７樓",
-    "主製造廠": {
-        "製造廠名稱": "CJP0302000  ELSOL PRODUCTS CORPORATION KAKEGAWA-SHI FACTORY",
-        "製造廠廠址": "8, TANYO KAKEGAWA- SHI SHIZUOKA 436-0082, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0302000  ELSOL PRODUCTS CORPORATION KAKEGAWA-SHI FACTORY",
+            "製造廠廠址": "8, TANYO KAKEGAWA- SHI SHIZUOKA 436-0082, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

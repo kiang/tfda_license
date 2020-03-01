@@ -1,6 +1,6 @@
 {
     "code": "94014603",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014603",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014603",
     "time": "2020-02-26 11:29:30",
     "許可證字號": "衛部醫器輸壹字第014603號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6207322527  國揚生技有限公司",
     "申請商地址": "高雄市鳳山區誠義里誠愛路35號",
-    "主製造廠": {
-        "製造廠名稱": "MUS3778100  SchureMed",
-        "製造廠廠址": "452 Randolph Street, Abington, MA 02351 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS3778100  SchureMed",
+            "製造廠廠址": "452 Randolph Street, Abington, MA 02351 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "08009735",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08009735",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08009735",
     "time": "2020-02-25 23:36:30",
     "許可證字號": "衛署粧輸字第009735號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1318522200  超總美業科技股份有限公司",
     "申請商地址": "高雄湖內太爺村中山路２段２巷１７弄１２之５號",
-    "主製造廠": {
-        "製造廠名稱": "CIT0048000  MC SAS DI VITULLI SILVANO &amp; C",
-        "製造廠廠址": "VIA V ARGENTIERI 257 MONTENERO DI BISACCIA ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CIT0048000  MC SAS DI VITULLI SILVANO &amp; C",
+            "製造廠廠址": "VIA V ARGENTIERI 257 MONTENERO DI BISACCIA ITALY",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

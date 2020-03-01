@@ -1,6 +1,6 @@
 {
     "code": "08015774",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08015774",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08015774",
     "time": "2020-02-26 00:39:33",
     "許可證字號": "衛署粧輸字第015774號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6686900493  台灣耐克斯國際有限公司",
     "申請商地址": "高雄市三民區正氣街79號1樓",
-    "主製造廠": {
-        "製造廠名稱": "CIT0076000  BEAUTY &amp; BUSINESS S.R.L.",
-        "製造廠廠址": "VIA CESARE CANTUN 1, 20123 MILANO, ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CIT0076000  BEAUTY &amp; BUSINESS S.R.L.",
+            "製造廠廠址": "VIA CESARE CANTUN 1, 20123 MILANO, ITALY",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

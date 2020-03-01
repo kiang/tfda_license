@@ -1,6 +1,6 @@
 {
     "code": "94019337",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019337",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019337",
     "time": "2020-02-26 12:33:18",
     "許可證字號": "衛部醫器輸壹字第019337號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620101O991  台灣泰華施股份有限公司",
     "申請商地址": "台北市內湖區瑞光路188巷51號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MCA0160100  VIROX TECHNOLOGIES INC.",
-        "製造廠廠址": "2770 COVENTRY RD, OAKVILLE, ON L6H 6R, CANADA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CANADA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCA0160100  VIROX TECHNOLOGIES INC.",
+            "製造廠廠址": "2770 COVENTRY RD, OAKVILLE, ON L6H 6R, CANADA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CANADA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS5110000  DIVERSEY INC.",
+            "製造廠廠址": "2415 CASCADE POINT BLVD. CHARLOTTE, NORTH CAROLINA 28208 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

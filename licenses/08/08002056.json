@@ -1,6 +1,6 @@
 {
     "code": "08002056",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08002056",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08002056",
     "time": "2020-02-25 22:12:39",
     "許可證字號": "衛署粧輸字第002056號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0507901100  世潮企業股份有限公司",
     "申請商地址": "台北巿民生東路５９８號１０Ｆ",
-    "主製造廠": {
-        "製造廠名稱": "CJP0081000  PIGEON CORPORATION",
-        "製造廠廠址": "5-1, TOMIYAMA-CHO, KANDA CHIYODA-KU, TOKYO 101, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0081000  PIGEON CORPORATION",
+            "製造廠廠址": "5-1, TOMIYAMA-CHO, KANDA CHIYODA-KU, TOKYO 101, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

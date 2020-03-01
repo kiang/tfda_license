@@ -1,6 +1,6 @@
 {
     "code": "96002833",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002833",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002833",
     "time": "2020-02-26 13:04:29",
     "許可證字號": "衛部醫器陸輸壹字第002833號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6246014144  光代實業有限公司",
     "申請商地址": "台東縣台東市光明里16鄰連航路51巷4弄7號",
-    "主製造廠": {
-        "製造廠名稱": "MCN0821000  WENZHOU CHAIN KING OPTICAL CO., LTD.",
-        "製造廠廠址": "NO.6 MIDDLE. SECTION, ECONOMIC &amp; TECHNOLOGICAL DEVELOPMENT. ZONE. WENZHOU, ZHEJIANG CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0821000  WENZHOU CHAIN KING OPTICAL CO., LTD.",
+            "製造廠廠址": "NO.6 MIDDLE. SECTION, ECONOMIC &amp; TECHNOLOGICAL DEVELOPMENT. ZONE. WENZHOU, ZHEJIANG CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

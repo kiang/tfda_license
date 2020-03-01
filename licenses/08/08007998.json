@@ -1,6 +1,6 @@
 {
     "code": "08007998",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08007998",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08007998",
     "time": "2020-02-25 23:17:51",
     "許可證字號": "衛署粧輸字第007998號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6612373011  菁品國際有限公司",
     "申請商地址": "臺北市北投區吉利街164巷1弄9號2樓",
-    "主製造廠": {
-        "製造廠名稱": "CCO2601410  NUMBER THREE INC.",
-        "製造廠廠址": "4-16, OGAWA-CHO, LBARAKI-CITY, OSAKA 567-0873 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CCO2601410  NUMBER THREE INC.",
+            "製造廠廠址": "4-16, OGAWA-CHO, LBARAKI-CITY, OSAKA 567-0873 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

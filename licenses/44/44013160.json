@@ -1,6 +1,6 @@
 {
     "code": "44013160",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44013160",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44013160",
     "time": "2020-02-26 05:51:52",
     "許可證字號": "衛署醫器輸壹字第013160號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623101I667  永康生技有限公司",
     "申請商地址": "新北市板橋區廣和街59之3號12樓",
-    "主製造廠": {
-        "製造廠名稱": "MFR0172100  THUASNE",
-        "製造廠廠址": "118-120, RUE MARIUS AUFAN, BP243-92307 LEVALLOIS-PERRET CEDEX, FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR0172100  THUASNE",
+            "製造廠廠址": "118-120, RUE MARIUS AUFAN, BP243-92307 LEVALLOIS-PERRET CEDEX, FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

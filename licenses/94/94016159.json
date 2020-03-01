@@ -1,6 +1,6 @@
 {
     "code": "94016159",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016159",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016159",
     "time": "2020-02-26 11:51:31",
     "許可證字號": "衛部醫器輸壹字第016159號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 14輸入須附同意書（每次輸入均須取得原子能委員會之同意書為憑） 36GMP",
     "申請商名稱": "620205F745  楓展貿易有限公司",
     "申請商地址": "高雄市三民區安東街３４之１號",
-    "主製造廠": {
-        "製造廠名稱": "MKR0187200  POSKOM. CO., LTD.",
-        "製造廠廠址": "ROOM 262, 404-406, 415, UNITECH VILLE BLDG., 142, ILSAN-RO, ILSANDONG-GU, GOYANG-SI, GYEONGGI-DO 410-722, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0187200  POSKOM. CO., LTD.",
+            "製造廠廠址": "ROOM 262, 404-406, 415, UNITECH VILLE BLDG., 142, ILSAN-RO, ILSANDONG-GU, GOYANG-SI, GYEONGGI-DO 410-722, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

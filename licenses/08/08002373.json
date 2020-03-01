@@ -1,6 +1,6 @@
 {
     "code": "08002373",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08002373",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08002373",
     "time": "2020-02-25 22:16:00",
     "許可證字號": "衛署粧輸字第002373號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0936701100  香港商新確國際有限公司台北分公司",
     "申請商地址": "台北巿建國北路二段１４７號１樓",
-    "主製造廠": {
-        "製造廠名稱": "CGB0003000  SCHOLL CONSUMER PRODUCTS LTD.",
-        "製造廠廠址": "475 CAPABILITY GREEN LUTON, BEDS. LU1 3LU, U.K.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CGB0003000  SCHOLL CONSUMER PRODUCTS LTD.",
+            "製造廠廠址": "475 CAPABILITY GREEN LUTON, BEDS. LU1 3LU, U.K.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

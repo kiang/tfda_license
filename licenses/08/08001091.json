@@ -1,6 +1,6 @@
 {
     "code": "08001091",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08001091",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08001091",
     "time": "2020-02-25 22:02:32",
     "許可證字號": "衛署粧輸字第001091號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1228201100  統郁股份有限公司",
     "申請商地址": "台北巿中山區民生東路一段51號9樓之1",
-    "主製造廠": {
-        "製造廠名稱": "CID0002000  PT. DAMAI SEJAHTERA MULIA",
-        "製造廠廠址": "JL. CEMPAKA PUTIH TENGAH XII NO. 8 JAKARTA 10510 INDONESIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "INDONESIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CID0002000  PT. DAMAI SEJAHTERA MULIA",
+            "製造廠廠址": "JL. CEMPAKA PUTIH TENGAH XII NO. 8 JAKARTA 10510 INDONESIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "INDONESIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

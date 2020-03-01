@@ -1,6 +1,6 @@
 {
     "code": "46001545",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001545",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001545",
     "time": "2020-02-26 06:08:09",
     "許可證字號": "衛署醫器陸輸壹字第001545號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6237031557  寶信醫療器材行",
     "申請商地址": "彰化縣和美鎮道周路669巷52號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN0283000  TOP BEST ELECTRICAL (KUNSHAN) CO., LTD.",
-        "製造廠廠址": "NO.68, HUAYUAN ROAD, ZHANGPU TOWN, KUNSHAN CITY, JIANGSU, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0283000  TOP BEST ELECTRICAL (KUNSHAN) CO., LTD.",
+            "製造廠廠址": "NO.68, HUAYUAN ROAD, ZHANGPU TOWN, KUNSHAN CITY, JIANGSU, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

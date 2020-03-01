@@ -1,6 +1,6 @@
 {
     "code": "56025348",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025348",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025348",
     "time": "2020-02-26 07:22:48",
     "許可證字號": "衛部醫器輸字第025348號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201027069  美樂迪股份有限公司",
     "申請商地址": "臺北市大安區忠孝東路四段191號2樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MAT0007200  MED-EL Elektromedizinische Ger&#228;te GmbH",
-        "製造廠廠址": "F&#252;rstenweg 77a, A-6020 Innsbruck, Austria",
-        "製造廠公司地址": "",
-        "製造廠國別": "AUSTRIA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MAT0007200  MED-EL Elektromedizinische Ger&#228;te GmbH",
+            "製造廠廠址": "F&#252;rstenweg 77a, A-6020 Innsbruck, Austria",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRIA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MAT0018000  VIBRANT MED-EL HEARING TECHNOLOGY GMBH",
+            "製造廠廠址": "FURSTENWEG 77 A-6020 INNSBRUCK, AUSTRIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRIA",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

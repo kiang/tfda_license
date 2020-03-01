@@ -1,6 +1,6 @@
 {
     "code": "94018686",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018686",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018686",
     "time": "2020-02-26 12:26:31",
     "許可證字號": "衛部醫器輸壹字第018686號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6203243043  白色牙材股份有限公司",
     "申請商地址": "臺中市西區忠明南路7號",
-    "主製造廠": {
-        "製造廠名稱": "MDE1451000  GRAICHEN PRODUKTIONS-UND VERTRIEBS-GMBH",
-        "製造廠廠址": "DARMST&#196;DTERSTRAβE 127-129 D-64625 BENSHEIM GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE1451000  GRAICHEN PRODUKTIONS-UND VERTRIEBS-GMBH",
+            "製造廠廠址": "DARMST&#196;DTERSTRAβE 127-129 D-64625 BENSHEIM GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

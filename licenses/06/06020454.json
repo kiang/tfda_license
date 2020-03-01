@@ -1,6 +1,6 @@
 {
     "code": "06020454",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06020454",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06020454",
     "time": "2020-02-25 19:58:05",
     "許可證字號": "衛署醫器輸字第020454號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 1A本器材之使用須符合「特定醫療技術檢查檢驗醫療儀器施行或使用管理辦法」",
     "申請商名稱": "1119301100  荷商波士頓科技有限公司臺灣分公司",
     "申請商地址": "台北市南港區忠孝東路六段21號14樓",
-    "主製造廠": {
-        "製造廠名稱": "MIE0032000  Boston Scientific Clonmel Limited",
-        "製造廠廠址": "CASHEL ROAD, CLONMEL, CO. TIPPERARY, IRELAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "IRELAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIE0032000  Boston Scientific Clonmel Limited",
+            "製造廠廠址": "CASHEL ROAD, CLONMEL, CO. TIPPERARY, IRELAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "IRELAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

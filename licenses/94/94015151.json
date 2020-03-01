@@ -1,6 +1,6 @@
 {
     "code": "94015151",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015151",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015151",
     "time": "2020-02-26 11:36:57",
     "許可證字號": "衛部醫器輸壹字第015151號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620118E461  中化裕民健康事業股份有限公司",
     "申請商地址": "台北市中正區襄陽路23號8樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP1180000  LION CHEMICAL CO., LTD.",
-        "製造廠廠址": "1-1, TSUJIDO, ARIDA-SHI, WAKAYAMA-KEN, 649-0311 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP1180000  LION CHEMICAL CO., LTD.",
+            "製造廠廠址": "1-1, TSUJIDO, ARIDA-SHI, WAKAYAMA-KEN, 649-0311 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

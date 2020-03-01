@@ -1,6 +1,6 @@
 {
     "code": "56029379",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029379",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029379",
     "time": "2020-02-26 08:04:46",
     "許可證字號": "衛部醫器輸字第029379號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620111F377  欣泰生技有限公司",
     "申請商地址": "新北市汐止區福德二路132巷12號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0869000  GOWOONSESANG COSMETICS CO., LTD",
-        "製造廠廠址": "Seohyeon-dong, 4, 5F Cocoplaza, 20, Seohyeon-ro 210beon-gil, Bundang-gu, Seongnam-si, Gyeonggi-do, Korea",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0869000  GOWOONSESANG COSMETICS CO., LTD",
+            "製造廠廠址": "Seohyeon-dong, 4, 5F Cocoplaza, 20, Seohyeon-ro 210beon-gil, Bundang-gu, Seongnam-si, Gyeonggi-do, Korea",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

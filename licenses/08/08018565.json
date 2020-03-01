@@ -1,6 +1,6 @@
 {
     "code": "08018565",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018565",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018565",
     "time": "2020-02-26 01:09:20",
     "許可證字號": "衛署粧輸字第018565號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6628850544  臺灣保麗股份有限公司",
     "申請商地址": "台北市中山區建國北路1段80號8樓",
-    "主製造廠": {
-        "製造廠名稱": "CJP0303000  Pola Chemical Industries, Inc. Fukuroi Plant",
-        "製造廠廠址": "1234, Aino,Fukuroi-Shi, Shizuoka-Ken,Japan.",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0303000  Pola Chemical Industries, Inc. Fukuroi Plant",
+            "製造廠廠址": "1234, Aino,Fukuroi-Shi, Shizuoka-Ken,Japan.",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

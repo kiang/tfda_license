@@ -1,6 +1,6 @@
 {
     "code": "94015349",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015349",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015349",
     "time": "2020-02-26 11:39:48",
     "許可證字號": "衛部醫器輸壹字第015349號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620110B391  宏昂企業有限公司",
     "申請商地址": "台北市中山區雙城街１８巷１０之４號１樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP0542000  SANWA KAKEN KOGYO CO., LTD.",
-        "製造廠廠址": "2-41 OTA-SHINMACHI, YAO, OSAKA, 581-0039 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0542000  SANWA KAKEN KOGYO CO., LTD.",
+            "製造廠廠址": "2-41 OTA-SHINMACHI, YAO, OSAKA, 581-0039 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

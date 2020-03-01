@@ -1,6 +1,6 @@
 {
     "code": "44003969",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44003969",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44003969",
     "time": "2020-02-26 04:38:16",
     "許可證字號": "衛署醫器輸壹字第003969號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102O077  美德向邦股份有限公司",
     "申請商地址": "臺北市信義區松高路9號11樓",
-    "主製造廠": {
-        "製造廠名稱": "MPH0004000  MEDTECS MATERIALS TECHNOLOGY CORPORATION",
-        "製造廠廠址": "7TH ST., PHASE II, BATAAN ECONOMIC ZONE, MARIVELES, BATAAN 2106 PHILIPPINES",
-        "製造廠公司地址": "",
-        "製造廠國別": "PHILIPPINES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MPH0004000  MEDTECS MATERIALS TECHNOLOGY CORPORATION",
+            "製造廠廠址": "7TH ST., PHASE II, BATAAN ECONOMIC ZONE, MARIVELES, BATAAN 2106 PHILIPPINES",
+            "製造廠公司地址": "",
+            "製造廠國別": "PHILIPPINES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "08000681",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08000681",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08000681",
     "time": "2020-02-25 21:58:29",
     "許可證字號": "衛署粧輸字第000681號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1229801100  雅林貿易股份有限公司",
     "申請商地址": "台北巿健康路２９０號４樓之２",
-    "主製造廠": {
-        "製造廠名稱": "CAU0008000  SUNCARE PRODUCTS PTY. LTD.",
-        "製造廠廠址": "33 KEYS ROAD, MOORABBIN VIC. 3189, AUSTRALIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "AUSTRALIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CAU0008000  SUNCARE PRODUCTS PTY. LTD.",
+            "製造廠廠址": "33 KEYS ROAD, MOORABBIN VIC. 3189, AUSTRALIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRALIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

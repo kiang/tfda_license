@@ -1,6 +1,6 @@
 {
     "code": "58026900",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58026900",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58026900",
     "time": "2020-02-26 09:58:00",
     "許可證字號": "衛部粧輸字第026900號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6624521682  歐士特國際股份有限公司",
     "申請商地址": "高雄市三民區昌富街26號6樓",
-    "主製造廠": {
-        "製造廠名稱": "CMX0002000  DOBOS S.A. DE C.V.",
-        "製造廠廠址": "EJE 3 NORTE NO.205 MZ. 405 PARQUE INDUSTRIAL TOLUCA 2000 C.P. 50200, TOLUCA EDO. DE MEXICO",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CMX0002000  DOBOS S.A. DE C.V.",
+            "製造廠廠址": "EJE 3 NORTE NO.205 MZ. 405 PARQUE INDUSTRIAL TOLUCA 2000 C.P. 50200, TOLUCA EDO. DE MEXICO",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

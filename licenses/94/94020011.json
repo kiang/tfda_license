@@ -1,6 +1,6 @@
 {
     "code": "94020011",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020011",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020011",
     "time": "2020-02-26 12:40:24",
     "許可證字號": "衛部醫器輸壹字第020011號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6203243043  白色牙材股份有限公司",
     "申請商地址": "臺中市西區忠明南路7號",
-    "主製造廠": {
-        "製造廠名稱": "MGB1013400  MEDIVANCE INSTRUMENTS LTD",
-        "製造廠廠址": "BARRETTS GREEN ROAD HARLESDEN LONDON NW10 7AP UNITED KINGDOM",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB1013400  MEDIVANCE INSTRUMENTS LTD",
+            "製造廠廠址": "BARRETTS GREEN ROAD HARLESDEN LONDON NW10 7AP UNITED KINGDOM",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

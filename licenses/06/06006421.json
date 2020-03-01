@@ -1,6 +1,6 @@
 {
     "code": "06006421",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06006421",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06006421",
     "time": "2020-02-25 17:09:18",
     "許可證字號": "衛署醫器輸字第006421號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1501901100  德化美有限公司",
     "申請商地址": "台北巿敦化南路一段１０２號５樓之３",
-    "主製造廠": {
-        "製造廠名稱": "MGB0102000  SURGICRAFT LIMITED",
-        "製造廠廠址": "FISHINGLINE ROAD REDDITCH WORCS. B97 6HF",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0102000  SURGICRAFT LIMITED",
+            "製造廠廠址": "FISHINGLINE ROAD REDDITCH WORCS. B97 6HF",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

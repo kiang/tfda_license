@@ -1,6 +1,6 @@
 {
     "code": "46000921",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000921",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000921",
     "time": "2020-02-26 06:01:47",
     "許可證字號": "衛署醫器陸輸壹字第000921號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "621706B120  鈞豊光學有限公司",
     "申請商地址": "台中市西屯區至善路82巷58號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN0673000  MEDA CO., LTD.",
-        "製造廠廠址": "ROOM D, F3, BUILDING C2, XINMAO SCIENCE SKILL PARK, HUAYUAN INDUSTRY DEVELOPMENT AREA, TIANJIN 300384, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0673000  MEDA CO., LTD.",
+            "製造廠廠址": "ROOM D, F3, BUILDING C2, XINMAO SCIENCE SKILL PARK, HUAYUAN INDUSTRY DEVELOPMENT AREA, TIANJIN 300384, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

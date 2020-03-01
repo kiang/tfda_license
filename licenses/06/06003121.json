@@ -1,6 +1,6 @@
 {
     "code": "06003121",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06003121",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06003121",
     "time": "2020-02-25 16:11:02",
     "許可證字號": "衛署醫器輸字第003121號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0801201100  東茂醫療儀器有限公司",
     "申請商地址": "台北巿復興南路２段２９３之３號９樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS0321000  ALTHIN CD MEDICAL, INC.",
-        "製造廠廠址": "14600 N.W. 60TH AVENUE MIAMI LAKES FLORIDA 33014-9308",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0321000  ALTHIN CD MEDICAL, INC.",
+            "製造廠廠址": "14600 N.W. 60TH AVENUE MIAMI LAKES FLORIDA 33014-9308",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

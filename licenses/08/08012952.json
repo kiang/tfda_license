@@ -1,6 +1,6 @@
 {
     "code": "08012952",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08012952",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08012952",
     "time": "2020-02-26 00:07:18",
     "許可證字號": "衛署粧輸字第012952號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231103787  軒亮股份有限公司",
     "申請商地址": "新北市淡水區中正東路2段29-1號21樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS1634000  DISCUS DENTAL LLC.",
-        "製造廠廠址": "1700 SOUTH BAKER AVENUS ONTARIO CA 91716 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS1634000  DISCUS DENTAL LLC.",
+            "製造廠廠址": "1700 SOUTH BAKER AVENUS ONTARIO CA 91716 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

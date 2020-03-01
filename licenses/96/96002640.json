@@ -1,6 +1,6 @@
 {
     "code": "96002640",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002640",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002640",
     "time": "2020-02-26 13:02:20",
     "許可證字號": "衛部醫器陸輸壹字第002640號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "623101A214  雅仕生物科技股份有限公司",
     "申請商地址": "新北市板橋區民生路1段33號12樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN4129000  SUZHOU SEMORR MEDICAL TECH CO., LTD",
-        "製造廠廠址": "ROOM 301, NO. 1 BUILDING, NO. 188 JIALINGJIANG ROAD, SUZHOU NEW DISTRICT, JIANGSU PROVINCE, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN4129000  SUZHOU SEMORR MEDICAL TECH CO., LTD",
+            "製造廠廠址": "ROOM 301, NO. 1 BUILDING, NO. 188 JIALINGJIANG ROAD, SUZHOU NEW DISTRICT, JIANGSU PROVINCE, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

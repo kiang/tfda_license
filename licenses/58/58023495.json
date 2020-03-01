@@ -1,6 +1,6 @@
 {
     "code": "58023495",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58023495",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58023495",
     "time": "2020-02-26 09:34:35",
     "許可證字號": "衛部粧輸字第023495號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6616634851  香港商大昌華嘉利柏明有限公司台灣分公司",
     "申請商地址": "台北市內湖區堤頂大道2段407巷22號10樓",
-    "主製造廠": {
-        "製造廠名稱": "CCH0052000  TEMMENTEC",
-        "製造廠廠址": "Lutoldstrasse, 6 CH-3454 Sumiswald, Switzerland.",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CCH0052000  TEMMENTEC",
+            "製造廠廠址": "Lutoldstrasse, 6 CH-3454 Sumiswald, Switzerland.",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

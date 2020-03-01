@@ -1,6 +1,6 @@
 {
     "code": "06024252",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024252",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024252",
     "time": "2020-02-25 20:40:04",
     "許可證字號": "衛署醫器輸字第024252號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "1322522100  傳承儀器有限公司",
     "申請商地址": "高雄市鳳山區文湖街７號６樓",
-    "主製造廠": {
-        "製造廠名稱": "MMX0074000  DJ ORTHOPEDICS DE MEXICO, S.A. DE C.V.",
-        "製造廠廠址": "CARRETERA LIBRE TIJUANA TECATE, 20230 SUBMETROPOLI E1 FLORIDO, TIJUANA, MEXICO 22244",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0074000  DJ ORTHOPEDICS DE MEXICO, S.A. DE C.V.",
+            "製造廠廠址": "CARRETERA LIBRE TIJUANA TECATE, 20230 SUBMETROPOLI E1 FLORIDO, TIJUANA, MEXICO 22244",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS3178000  DJO, LLC",
+            "製造廠廠址": "1430 DECISION STREET VISTA, CA 92081-8553 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

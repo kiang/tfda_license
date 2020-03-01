@@ -1,6 +1,6 @@
 {
     "code": "44010508",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010508",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010508",
     "time": "2020-02-26 05:25:49",
     "許可證字號": "衛署醫器輸壹字第010508號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "0939801100  美商伯瑞股份有限公司台灣分公司",
     "申請商地址": "台北市松山區南京東路4段126號14樓",
-    "主製造廠": {
-        "製造廠名稱": "MAU0088000  LEICA BIOSYSTEMS MELBOURNE PTY LTD",
-        "製造廠廠址": "495 BLACKBURN ROAD MT WAVERLEY, VICTORIA 3149, AUSTRALIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "AUSTRALIA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MAU0088000  LEICA BIOSYSTEMS MELBOURNE PTY LTD",
+            "製造廠廠址": "495 BLACKBURN ROAD MT WAVERLEY, VICTORIA 3149, AUSTRALIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRALIA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS2907000  BIO-RAD LABORATORIES, INC.",
+            "製造廠廠址": "4000 ALFRED NOBEL DRIVE, HERCULES, CALIFORNIA 94547, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,11 +1,12 @@
 {
     "code": "02010515",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02010515",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02010515",
     "time": "2020-02-25 09:42:01",
     "許可證字號": "衛署藥輸字第010515號",
     "註銷狀態": "已註銷",
     "註銷日期": "99\/08\/16",
     "註銷理由": "屆期未申請展延",
+    "製造許可登錄編號": "",
     "有效日期": "92\/09\/17",
     "發證日期": "71\/09\/17",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "0904301100  南洋產業股份有限公司",
-        "申請商地址": "台北巿長安東路一段４３巷４號",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "IRON (FERROUS FUMARATE), MANGANESE (SULFATE MONOHYDRATE), CALCIUM (CARBONATE), MAGNESIUM (SULFATE), POTASSIUM (SULFATE), VITAMIN A (PALMITATE), NIACINAMIDE (NICOTINAMIDE), VITAMIN B1 (MONONITRATE), RIBOFLAVIN (VIT B2), PYRIDOXINE(VITAMIN B6), CYANOCOBALAMIN (VIT B12), PANTOTHENATE D- CALCIUM, ASCORBIC ACID (VIT C), ERGOCALCIFEROL (VIT D2CALCIFEROL), ZINC (SULFATE MONOHYDRATE)",
+    "限制項目": "02輸　入",
+    "申請商名稱": "0904301100  南洋產業股份有限公司",
+    "申請商地址": "台北巿長安東路一段４３巷４號",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FDE0157000  R.P. SCHERER GMBH &amp; CO. KG",
+            "製造廠廠址": "69402 EBERBACH \/ BADEN, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "CCC號列": "30045000009 其他醫藥製劑，含有維他命或第２９３６節之其他產品Other medicaments, containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
     "ingredients": [

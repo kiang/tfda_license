@@ -1,11 +1,12 @@
 {
     "code": "02017958",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02017958",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02017958",
     "time": "2020-02-25 11:46:10",
     "許可證字號": "衛署藥輸字第017958號",
     "註銷狀態": "已註銷",
     "註銷日期": "99\/09\/21",
     "註銷理由": "未展延而逾期者",
+    "製造許可登錄編號": "",
     "有效日期": "92\/08\/11",
     "發證日期": "79\/05\/07",
     "許可證種類": "原料藥",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "01製劑原料",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "1419601100  臺灣默克股份有限公司",
-        "申請商地址": "台北巿內湖區堤頂大道2段89號6樓",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "SILICON DIOXIDE (SILICA GEL), CARMELLOSE SODIUM (CMC SOD.)(CELLULOSE GUM SOD.), CELLULOSE, MAGNESIUM STEARATE (EQ TO STEARAS MAGNESIUM)",
+    "限制項目": "02輸　入",
+    "申請商名稱": "1419601100  臺灣默克股份有限公司",
+    "申請商地址": "台北巿內湖區堤頂大道2段89號6樓",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FDE0076000  MERCK KGaA",
+            "製造廠廠址": "FRANKFURTER STRASSE 250, D-64293 DARMSTADT GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "CCC號列": "29420010005 供合成原料藥、動物用藥及輔助飼料藥之化學產品Chemicals, used for manufacturing of pharmaceutical, veterinary medicines",
     "藥理治療分類": "",
     "ingredients": [

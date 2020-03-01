@@ -1,6 +1,6 @@
 {
     "code": "06018305",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06018305",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06018305",
     "time": "2020-02-25 19:33:57",
     "許可證字號": "衛署醫器輸字第018305號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "623102B066  荷茂牙科材料有限公司",
     "申請商地址": "新北市三重區光復路一段７０號６樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP0593000  PROSPER CO., LTD.",
-        "製造廠廠址": "NO. 2028-6, KARUIGAWA, KASHIWAZAKI-SHI, NIGATA PREFECTURE, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0593000  PROSPER CO., LTD.",
+            "製造廠廠址": "NO. 2028-6, KARUIGAWA, KASHIWAZAKI-SHI, NIGATA PREFECTURE, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MJP0857000  BRAINBASE CORPORATION",
+            "製造廠廠址": "YONEYAMA 2ND BLDG, 22-13, OI1-CHOME, SHINAGAWA-KU, TOKYO, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "許可證持有者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

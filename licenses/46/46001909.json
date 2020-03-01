@@ -1,6 +1,6 @@
 {
     "code": "46001909",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001909",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001909",
     "time": "2020-02-26 06:11:27",
     "許可證字號": "衛署醫器陸輸壹字第001909號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP 40大陸生產",
     "申請商名稱": "0318001100  大發醫療器材有限公司",
     "申請商地址": "台北市大同區南京西路１９２號１樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN0039000  Jiangsu Jaysun Glove Co.,Ltd.",
-        "製造廠廠址": "No.199 Jianling Rd., Economic Developing-Area, Suqian City, Jiangsu Province, China",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0039000  Jiangsu Jaysun Glove Co.,Ltd.",
+            "製造廠廠址": "No.199 Jianling Rd., Economic Developing-Area, Suqian City, Jiangsu Province, China",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

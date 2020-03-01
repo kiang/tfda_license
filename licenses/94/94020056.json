@@ -1,6 +1,6 @@
 {
     "code": "94020056",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020056",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020056",
     "time": "2020-02-26 12:40:50",
     "許可證字號": "衛部醫器輸壹字第020056號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623104C761  承威生物科技有限公司",
     "申請商地址": "新北市中和區忠孝街5巷9號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR1051000  I DO BIOTECH CO., LTD.",
-        "製造廠廠址": "DAEGU DALSEO-GU SEONGSEODONGRO 135 KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR1051000  I DO BIOTECH CO., LTD.",
+            "製造廠廠址": "DAEGU DALSEO-GU SEONGSEODONGRO 135 KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

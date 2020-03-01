@@ -1,6 +1,6 @@
 {
     "code": "08014326",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08014326",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08014326",
     "time": "2020-02-26 00:22:18",
     "許可證字號": "衛署粧輸字第014326號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620118N731  英商葛蘭素史克消費保健用品股份有限公司台灣分公司",
     "申請商地址": "臺北市中正區忠孝西路一段66號24樓",
-    "主製造廠": {
-        "製造廠名稱": "CTH0011000  NEOCOSMED CO., LTD.",
-        "製造廠廠址": "222 Moo 4,Rahaeng,Ladlumkaew,Pathumthani 12140,Thailand",
-        "製造廠公司地址": "",
-        "製造廠國別": "THAILAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CTH0011000  NEOCOSMED CO., LTD.",
+            "製造廠廠址": "222 Moo 4,Rahaeng,Ladlumkaew,Pathumthani 12140,Thailand",
+            "製造廠公司地址": "",
+            "製造廠國別": "THAILAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

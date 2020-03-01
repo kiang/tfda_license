@@ -1,6 +1,6 @@
 {
     "code": "56027418",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027418",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027418",
     "time": "2020-02-26 07:45:30",
     "許可證字號": "衛部醫器輸字第027418號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201123244  威茂股份有限公司",
     "申請商地址": "台北市南港區園區街３號１０樓之５",
-    "主製造廠": {
-        "製造廠名稱": "MJP1204000  FUJIFILM Techno Products Co., Ltd. Mito Site",
-        "製造廠廠址": "4112 TONO, HITACHIOMIYA CITY, IBARAKI 319-2224, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP1204000  FUJIFILM Techno Products Co., Ltd. Mito Site",
+            "製造廠廠址": "4112 TONO, HITACHIOMIYA CITY, IBARAKI 319-2224, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MJP1019000  FUJIFILM CORPORATION",
+            "製造廠廠址": "26-30, NISHAZABU 2-CHOME, MINATO-KU, TOKYO 106-8620, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "94014944",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014944",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014944",
     "time": "2020-02-26 11:34:20",
     "許可證字號": "衛部醫器輸壹字第014944號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "6231112222  全華精密股份有限公司",
     "申請商地址": "新北市汐止區新台五路一段77號8樓之6",
-    "主製造廠": {
-        "製造廠名稱": "MDE1136200  Gonotec Gesellschaft f&#252;r Mess- und Regeltechnik mbH",
-        "製造廠廠址": "GSG-Hof Reuchlinstr. 10-11, 10553 Berlin, Germany",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE1136200  Gonotec Gesellschaft f&#252;r Mess- und Regeltechnik mbH",
+            "製造廠廠址": "GSG-Hof Reuchlinstr. 10-11, 10553 Berlin, Germany",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

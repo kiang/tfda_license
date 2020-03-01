@@ -1,6 +1,6 @@
 {
     "code": "44012967",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012967",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012967",
     "time": "2020-02-26 05:49:53",
     "許可證字號": "衛署醫器輸壹字第012967號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "6201158158  邁偉國際有限公司",
     "申請商地址": "臺北市松山區南京東路三段261號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MFR0049100  SOFIC",
-        "製造廠廠址": "3 RUE JEAN-JACQUES ROUSSEAU. BP-282-AUSSILLON, 81207 MAZAMET CEDEX, FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR0049100  SOFIC",
+            "製造廠廠址": "3 RUE JEAN-JACQUES ROUSSEAU. BP-282-AUSSILLON, 81207 MAZAMET CEDEX, FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MCA0851000  NOVOCOL PHARMACEUTICAL OF CANADA INC.",
+            "製造廠廠址": "25 Wolseley Court, Cambridge, Ontario Canada, N1R 6X3",
+            "製造廠公司地址": "",
+            "製造廠國別": "CANADA",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

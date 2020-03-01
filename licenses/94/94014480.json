@@ -1,6 +1,6 @@
 {
     "code": "94014480",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014480",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014480",
     "time": "2020-02-26 11:27:57",
     "許可證字號": "衛部醫器輸壹字第014480號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623102D613  懋罄有限公司",
     "申請商地址": "新北市三重區大同北路271巷20號",
-    "主製造廠": {
-        "製造廠名稱": "MIE0833000  VASCOCARE MEDICAL LIMITED",
-        "製造廠廠址": "ENTERPRISE RESEARCH INCUBATION CENTRE INSTITUTE OF TECHNOLOGY CARLOW KILKENNY ROAD CARLOW IRELAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "IRELAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIE0833000  VASCOCARE MEDICAL LIMITED",
+            "製造廠廠址": "ENTERPRISE RESEARCH INCUBATION CENTRE INSTITUTE OF TECHNOLOGY CARLOW KILKENNY ROAD CARLOW IRELAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "IRELAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

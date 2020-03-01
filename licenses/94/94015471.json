@@ -1,6 +1,6 @@
 {
     "code": "94015471",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015471",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015471",
     "time": "2020-02-26 11:41:29",
     "許可證字號": "衛部醫器輸壹字第015471號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6401022451  新加坡商美納里尼醫藥有限公司台灣分公司",
     "申請商地址": "台北市大安區敦化南路2段65號17樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE1636000  C.P.M. CONTRACT PHARMA GMBH &amp; CO. KG",
-        "製造廠廠址": "FRUHLINGSTR. 7 83620 FELDKIRCHEN-WESTERHAM, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE1636000  C.P.M. CONTRACT PHARMA GMBH &amp; CO. KG",
+            "製造廠廠址": "FRUHLINGSTR. 7 83620 FELDKIRCHEN-WESTERHAM, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MSE2432000  MOBERG PHARMA AB",
+            "製造廠廠址": "Gustavslundsvagen 42, 5tr. 16751 Bromma, Sweden",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWEDEN",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

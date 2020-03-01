@@ -1,6 +1,6 @@
 {
     "code": "96002157",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002157",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002157",
     "time": "2020-02-26 12:56:40",
     "許可證字號": "衛部醫器陸輸壹字第002157號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP 40大陸生產",
     "申請商名稱": "0612701100  地球光學有限公司",
     "申請商地址": "高雄市前鎮區一心二路71號22樓之3",
-    "主製造廠": {
-        "製造廠名稱": "MCN1340000  YUYAO JIEMEI RUBBER &amp; PLASTIC TECHNOLOGY FACTORY",
-        "製造廠廠址": "NO.212, NO.2 LANE, PANJIAXI, SUJIAYUAN, (LIANGHUI TOWN), LIZHOU STREET, YUYAO, ZHEJIANG PROVINCE, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1340000  YUYAO JIEMEI RUBBER &amp; PLASTIC TECHNOLOGY FACTORY",
+            "製造廠廠址": "NO.212, NO.2 LANE, PANJIAXI, SUJIAYUAN, (LIANGHUI TOWN), LIZHOU STREET, YUYAO, ZHEJIANG PROVINCE, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

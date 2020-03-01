@@ -1,6 +1,6 @@
 {
     "code": "44012864",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012864",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012864",
     "time": "2020-02-26 05:48:49",
     "許可證字號": "衛署醫器輸壹字第012864號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201124107  上溢國際有限公司",
     "申請商地址": "新北市新店區永安街74巷4號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0082100  SOMETECH INC.",
-        "製造廠廠址": "2F BYUCKSAN DIGITAL VALLEY III, 212-13 GURO-DONG GURO-GU SEOUL 152-050 KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0082100  SOMETECH INC.",
+            "製造廠廠址": "2F BYUCKSAN DIGITAL VALLEY III, 212-13 GURO-DONG GURO-GU SEOUL 152-050 KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

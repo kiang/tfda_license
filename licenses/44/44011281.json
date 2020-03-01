@@ -1,6 +1,6 @@
 {
     "code": "44011281",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011281",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011281",
     "time": "2020-02-26 05:33:23",
     "許可證字號": "衛署醫器輸壹字第011281號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1500201100  德業聚股份有限公司",
     "申請商地址": "台北市內湖區瑞光路４３７號４樓",
-    "主製造廠": {
-        "製造廠名稱": "MMX0059000  PRODUCTOS UROLOGOS DE MEXICO S.A. DE C.V.",
-        "製造廠廠址": "CERRADA VIA DE LA PRODUCCION NO. 85, PARQUE INDUSTRIAL MEXICALI III, MEXICALI BAJA CALIFORNIA NORTE, MEXICO 21397",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0059000  PRODUCTOS UROLOGOS DE MEXICO S.A. DE C.V.",
+            "製造廠廠址": "CERRADA VIA DE LA PRODUCCION NO. 85, PARQUE INDUSTRIAL MEXICALI III, MEXICALI BAJA CALIFORNIA NORTE, MEXICO 21397",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS3297000  CAREFUSION",
+            "製造廠廠址": "22745 SAVI RANCH PARKWAY, YORBA LINDA, CA 92887, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

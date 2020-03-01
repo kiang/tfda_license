@@ -1,6 +1,6 @@
 {
     "code": "96002287",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002287",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002287",
     "time": "2020-02-26 12:58:15",
     "許可證字號": "衛部醫器陸輸壹字第002287號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "620110S014  台灣索尼股份有限公司",
     "申請商地址": "台北市中山區長春路145號5樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1422000  QISDA (SUZHOU) CO., LTD.",
-        "製造廠廠址": "169, ZHUJIANG ROAD, NEW DISTRICT, SUZHOU, JIANGSU PROVINCE 215129, P. R. CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1422000  QISDA (SUZHOU) CO., LTD.",
+            "製造廠廠址": "169, ZHUJIANG ROAD, NEW DISTRICT, SUZHOU, JIANGSU PROVINCE 215129, P. R. CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

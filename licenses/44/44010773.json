@@ -1,6 +1,6 @@
 {
     "code": "44010773",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010773",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010773",
     "time": "2020-02-26 05:28:26",
     "許可證字號": "衛署醫器輸壹字第010773號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623104E505  康鼎光學眼鏡有限公司",
     "申請商地址": "新北市中和區民安里民安街53-7號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MTH0074000  TRANSITIONS OPTICAL (THAILAND) LIMITED",
-        "製造廠廠址": "700\/158 MOO 1, AMATA NAKORN INDUSTRIAL ESTATE, TAMBOL BANKAO, AMPHUR PANTHONG, CHONBURI 20160, THAILAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "THAILAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MTH0074000  TRANSITIONS OPTICAL (THAILAND) LIMITED",
+            "製造廠廠址": "700\/158 MOO 1, AMATA NAKORN INDUSTRIAL ESTATE, TAMBOL BANKAO, AMPHUR PANTHONG, CHONBURI 20160, THAILAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "THAILAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

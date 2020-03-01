@@ -1,6 +1,6 @@
 {
     "code": "94015966",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015966",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015966",
     "time": "2020-02-26 11:48:18",
     "許可證字號": "衛部醫器輸壹字第015966號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6131150033  德林股份有限公司",
     "申請商地址": "新北市五股區五權七路7號",
-    "主製造廠": {
-        "製造廠名稱": "MDE0920000  WAGNER POLYMERTECHNIK GMBH",
-        "製造廠廠址": "NEUER WEG 4, D-37345 SILKERODE GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0920000  WAGNER POLYMERTECHNIK GMBH",
+            "製造廠廠址": "NEUER WEG 4, D-37345 SILKERODE GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

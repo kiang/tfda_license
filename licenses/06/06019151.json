@@ -1,6 +1,6 @@
 {
     "code": "06019151",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019151",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019151",
     "time": "2020-02-25 19:43:59",
     "許可證字號": "衛署醫器輸字第019151號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201123244  威茂股份有限公司",
     "申請商地址": "台北市南港區園區街３號１０樓之５",
-    "主製造廠": {
-        "製造廠名稱": "MJP0514000  KODAIHITEC CO., LTD., HANYN PI ANT",
-        "製造廠廠址": "2-45, OHNUMA HANYU CITY, SAITAMA 348-0016, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0514000  KODAIHITEC CO., LTD., HANYN PI ANT",
+            "製造廠廠址": "2-45, OHNUMA HANYU CITY, SAITAMA 348-0016, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

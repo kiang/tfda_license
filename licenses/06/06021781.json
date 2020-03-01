@@ -1,6 +1,6 @@
 {
     "code": "06021781",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021781",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021781",
     "time": "2020-02-25 20:13:23",
     "許可證字號": "衛署醫器輸字第021781號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6202023136  懇儀股份有限公司",
     "申請商地址": "高雄市鼓山區篤敬路35號7樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE0019100  GEBRUDER MARTIN GMBH &amp; CO. KG",
-        "製造廠廠址": "KLS MARTIN PLATZ 1, 78532 TUTTLINGEN, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0019100  GEBRUDER MARTIN GMBH &amp; CO. KG",
+            "製造廠廠址": "KLS MARTIN PLATZ 1, 78532 TUTTLINGEN, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

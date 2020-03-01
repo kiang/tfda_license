@@ -1,6 +1,6 @@
 {
     "code": "94020342",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020342",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020342",
     "time": "2020-02-26 12:43:11",
     "許可證字號": "衛部醫器輸壹字第020342號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620101V801  永旭展業有限公司",
     "申請商地址": "臺北市松山區南京東路3段285號7樓",
-    "主製造廠": {
-        "製造廠名稱": "MIL0191000  FORUM ENGINEERING TECHNOLOGIES (96) LTD.",
-        "製造廠廠址": "40 HUTSOT HAYOTSER ST. ASHKELON 7878563 ISRAEL",
-        "製造廠公司地址": "",
-        "製造廠國別": "ISRAEL",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIL0191000  FORUM ENGINEERING TECHNOLOGIES (96) LTD.",
+            "製造廠廠址": "40 HUTSOT HAYOTSER ST. ASHKELON 7878563 ISRAEL",
+            "製造廠公司地址": "",
+            "製造廠國別": "ISRAEL",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

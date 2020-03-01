@@ -1,6 +1,6 @@
 {
     "code": "94016366",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016366",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016366",
     "time": "2020-02-26 11:54:23",
     "許可證字號": "衛部醫器輸壹字第016366號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 36GMP",
     "申請商名稱": "1903101100  台灣羅氏醫療診斷設備股份有限公司",
     "申請商地址": "台北市中山區民權東路3段2號10樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS4400000  IQUUM, INC.",
-        "製造廠廠址": "700 NICKERSON RD. MARLBOROUGH, MA 01752, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS4400000  IQUUM, INC.",
+            "製造廠廠址": "700 NICKERSON RD. MARLBOROUGH, MA 01752, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS1033100  ROCHE MOLECULAR SYSTEMS, INC.",
+            "製造廠廠址": "1080 US HIGHWAY 202 SOUTH BRANCHBURG, NJ 08876, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

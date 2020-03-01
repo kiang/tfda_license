@@ -1,6 +1,6 @@
 {
     "code": "94016119",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016119",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016119",
     "time": "2020-02-26 11:50:38",
     "許可證字號": "衛部醫器輸壹字第016119號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6401101288  玖俞實業有限公司",
     "申請商地址": "臺北市信義區松德路171號10樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MJP6144000  KEISEI MEDICAL INDUSTRIAL CO., LTD",
-        "製造廠廠址": "96, Yoshida-Konosu, Tsubame-shi, Niigata 959-0261, Japan",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP6144000  KEISEI MEDICAL INDUSTRIAL CO., LTD",
+            "製造廠廠址": "96, Yoshida-Konosu, Tsubame-shi, Niigata 959-0261, Japan",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

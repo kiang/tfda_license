@@ -1,6 +1,6 @@
 {
     "code": "06016302",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06016302",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06016302",
     "time": "2020-02-25 19:10:43",
     "許可證字號": "衛署醫器輸字第016302號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102M171  台灣關東化學股份有限公司",
     "申請商地址": "臺北市大安區敦化南路１段２０５號３樓之６",
-    "主製造廠": {
-        "製造廠名稱": "MJP0397000  KANTO CHEMICAL CO., INC. ISEHARA FACTORY",
-        "製造廠廠址": "21, SUZUKAWA, ISEHARA-SHI, KANAGAWA-KEN, 259-1146 JAPAN",
-        "製造廠公司地址": "KANTO CHEMICAL CO., INC. 2-8, NIHONBASHI HONCHO 3-CHOME, CHUO-KU, TOKYO, 103-0023 JAPAN",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0397000  KANTO CHEMICAL CO., INC. ISEHARA FACTORY",
+            "製造廠廠址": "21, SUZUKAWA, ISEHARA-SHI, KANAGAWA-KEN, 259-1146 JAPAN",
+            "製造廠公司地址": "KANTO CHEMICAL CO., INC. 2-8, NIHONBASHI HONCHO 3-CHOME, CHUO-KU, TOKYO, 103-0023 JAPAN",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

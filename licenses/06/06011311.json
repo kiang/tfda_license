@@ -1,6 +1,6 @@
 {
     "code": "06011311",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06011311",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06011311",
     "time": "2020-02-25 18:14:33",
     "許可證字號": "衛署醫器輸字第011311號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0514901100  弘智企業有限公司",
     "申請商地址": "新北市汐止區新台五路一段８１號９樓之７",
-    "主製造廠": {
-        "製造廠名稱": "MUS0629100  NATUS MEDICAL INC.",
-        "製造廠廠址": "5900 FIRST AVENUE SOUTH SEATTLE WA,98108, U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0629100  NATUS MEDICAL INC.",
+            "製造廠廠址": "5900 FIRST AVENUE SOUTH SEATTLE WA,98108, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

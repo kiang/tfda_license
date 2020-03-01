@@ -1,6 +1,6 @@
 {
     "code": "08000775",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08000775",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08000775",
     "time": "2020-02-25 21:59:23",
     "許可證字號": "衛署粧輸字第000775號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1425101100  廣易貿易股份有限公司",
     "申請商地址": "台北巿和平東路一段７３號２Ｆ之４",
-    "主製造廠": {
-        "製造廠名稱": "CCA0003000  CNYL CORPORATION LTD.",
-        "製造廠廠址": "108 SUMMERDALE DR., THORNHILL, ONT. L3T 6V7 CANADA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CANADA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CCA0003000  CNYL CORPORATION LTD.",
+            "製造廠廠址": "108 SUMMERDALE DR., THORNHILL, ONT. L3T 6V7 CANADA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CANADA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

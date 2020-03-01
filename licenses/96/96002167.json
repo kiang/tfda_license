@@ -1,6 +1,6 @@
 {
     "code": "96002167",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002167",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002167",
     "time": "2020-02-26 12:56:47",
     "許可證字號": "衛部醫器陸輸壹字第002167號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "620102X543  瑞鋐儀器股份有限公司",
     "申請商地址": "高雄市左營區榮成一街11號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1348000  SHANGHAI PAX MEDICAL INSTRUMENT CO., LTD.",
-        "製造廠廠址": "4F NO.2 BUILDING, NO. 438 FULIAN TWO ROAD, BAOSHAN DISTRICT 201901 SHANGHAI CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1348000  SHANGHAI PAX MEDICAL INSTRUMENT CO., LTD.",
+            "製造廠廠址": "4F NO.2 BUILDING, NO. 438 FULIAN TWO ROAD, BAOSHAN DISTRICT 201901 SHANGHAI CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

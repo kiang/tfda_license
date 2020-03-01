@@ -1,6 +1,6 @@
 {
     "code": "94019515",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019515",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019515",
     "time": "2020-02-26 12:35:03",
     "許可證字號": "衛部醫器輸壹字第019515號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6401101466  杏美有限公司",
     "申請商地址": "臺北市中山區新生北路三段42號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MGB0494000  PROTECX MEDICAL LIMITED",
-        "製造廠廠址": "1-4 KNOWL PIECE BUSINESS CENTRE, KNOWL PIECE, WILBURY WAY, HITCHIN, HERTFORDSHIRE SG4 0TY, UNITED KINGDOM",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0494000  PROTECX MEDICAL LIMITED",
+            "製造廠廠址": "1-4 KNOWL PIECE BUSINESS CENTRE, KNOWL PIECE, WILBURY WAY, HITCHIN, HERTFORDSHIRE SG4 0TY, UNITED KINGDOM",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

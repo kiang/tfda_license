@@ -1,6 +1,6 @@
 {
     "code": "94013873",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013873",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013873",
     "time": "2020-02-26 11:19:06",
     "許可證字號": "衛部醫器輸壹字第013873號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620118L899  橋河實業股份有限公司",
     "申請商地址": "臺北市中正區重慶南路1段57號9樓之10",
-    "主製造廠": {
-        "製造廠名稱": "MJP0637000  HIRATA PRECISIONS CO., LTD.",
-        "製造廠廠址": "2-10-17 KUNUGIYAMA KAMAGAYA, CHIBA 273-0128 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0637000  HIRATA PRECISIONS CO., LTD.",
+            "製造廠廠址": "2-10-17 KUNUGIYAMA KAMAGAYA, CHIBA 273-0128 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

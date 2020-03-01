@@ -1,6 +1,6 @@
 {
     "code": "08014067",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08014067",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08014067",
     "time": "2020-02-26 00:19:32",
     "許可證字號": "衛署粧輸字第014067號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6670786756  美商理想家(股)台灣分公司",
     "申請商地址": "臺中市南屯區文心路1段552號11樓-3",
-    "主製造廠": {
-        "製造廠名稱": "CUS0183000  WASATCH PRODUCT DEVELOPMENT INC.",
-        "製造廠廠址": "12248 S. LONE PEAK PARKWAY, SUITE 102, DRAPER, UTAH 84020",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CUS0183000  WASATCH PRODUCT DEVELOPMENT INC.",
+            "製造廠廠址": "12248 S. LONE PEAK PARKWAY, SUITE 102, DRAPER, UTAH 84020",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

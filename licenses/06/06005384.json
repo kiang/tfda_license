@@ -1,6 +1,6 @@
 {
     "code": "06005384",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06005384",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06005384",
     "time": "2020-02-25 16:52:32",
     "許可證字號": "衛署醫器輸字第005384號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0710001100  志開企業有限公司",
     "申請商地址": "台北縣新店市寶僑路２３５巷１６弄５號６樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS0506000  SHUR MEDICAL CORPORATION",
-        "製造廠廠址": "7940 S.W. NIMBUS AVENUE BEAVERTON, ORGON 97005",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0506000  SHUR MEDICAL CORPORATION",
+            "製造廠廠址": "7940 S.W. NIMBUS AVENUE BEAVERTON, ORGON 97005",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

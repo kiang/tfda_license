@@ -1,6 +1,6 @@
 {
     "code": "58021037",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58021037",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58021037",
     "time": "2020-02-26 08:57:25",
     "許可證字號": "衛部粧輸字第021037號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "1120601100  得洋國際股份有限公司",
     "申請商地址": "台北市信義區忠孝東路五段510號6樓之2",
-    "主製造廠": {
-        "製造廠名稱": "CES0031000  LAKME COSMETICS S.L.",
-        "製造廠廠址": "NARCIS MONTURIOL 37, 08960 SANT JUST DESVERN, BARCELONA, SPAIN",
-        "製造廠公司地址": "",
-        "製造廠國別": "SPAIN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CES0031000  LAKME COSMETICS S.L.",
+            "製造廠廠址": "NARCIS MONTURIOL 37, 08960 SANT JUST DESVERN, BARCELONA, SPAIN",
+            "製造廠公司地址": "",
+            "製造廠國別": "SPAIN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

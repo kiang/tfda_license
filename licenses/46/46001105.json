@@ -1,6 +1,6 @@
 {
     "code": "46001105",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001105",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001105",
     "time": "2020-02-26 06:03:42",
     "許可證字號": "衛署醫器陸輸壹字第001105號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 40大陸生產",
     "申請商名稱": "6231049242  佳視得科技有限公司",
     "申請商地址": "新北市中和區民享街93巷4號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN0772000  DANYANG TIANMU OPTICAL GLASSES CO., LTD.",
-        "製造廠廠址": "NO.99, WANXIN ROAD, SITU INDUSTRY ZONE, DANYANG CITY, JIANGSU PROVINCE, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0772000  DANYANG TIANMU OPTICAL GLASSES CO., LTD.",
+            "製造廠廠址": "NO.99, WANXIN ROAD, SITU INDUSTRY ZONE, DANYANG CITY, JIANGSU PROVINCE, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MCN0773000  XINXIANG SINWEI TRADING CO., LTD.",
+            "製造廠廠址": "1EAST, 1F, 12TH BUILDING, JIN-GU-HUA-TING, NO.489, HONGLI AVENUE(MIDDLE), XINXIANG CITY, HENAN PROVINCE, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

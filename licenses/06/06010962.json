@@ -1,6 +1,6 @@
 {
     "code": "06010962",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010962",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010962",
     "time": "2020-02-25 18:10:34",
     "許可證字號": "衛署醫器輸字第010962號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620118D857  台灣大昌華嘉股份有限公司",
     "申請商地址": "台北市內湖區堤頂大道二段407巷20弄1、3、5、7號10樓及22、24、26號10樓及22號10樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MGB0157100  ORTHO-CLINICAL DIAGNOSTICS",
-        "製造廠廠址": "FELINDRE MEADOWS, PENCOED,BRIDGEND, CF35 5PZ,UNITED KINGDOM",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0157100  ORTHO-CLINICAL DIAGNOSTICS",
+            "製造廠廠址": "FELINDRE MEADOWS, PENCOED,BRIDGEND, CF35 5PZ,UNITED KINGDOM",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "08017880",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08017880",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08017880",
     "time": "2020-02-26 01:02:08",
     "許可證字號": "衛署粧輸字第017880號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0810722200  佳麗寶化工股份有限公司",
     "申請商地址": "高雄市大社區保社村旗楠路１０１號",
-    "主製造廠": {
-        "製造廠名稱": "CJP0264100  KANEBO COSMETICS INC. ODAWARA PLANT",
-        "製造廠廠址": "3-28 5-CHOME, KOTOBUKI-CHO, ODAWARA-SHI, KANAGAWA-KEN, 250-0002, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0264100  KANEBO COSMETICS INC. ODAWARA PLANT",
+            "製造廠廠址": "3-28 5-CHOME, KOTOBUKI-CHO, ODAWARA-SHI, KANAGAWA-KEN, 250-0002, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

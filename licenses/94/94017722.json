@@ -1,6 +1,6 @@
 {
     "code": "94017722",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017722",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017722",
     "time": "2020-02-26 12:11:15",
     "許可證字號": "衛部醫器輸壹字第017722號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6242152054  京達醫材科技股份有限公司",
     "申請商地址": "高雄市路竹區路科二路59號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MCH0243000  AXIS DENTAL SARL",
-        "製造廠廠址": "CH. DU CLOSALET 4, 1023 CRISSIER, SWITZERLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCH0243000  AXIS DENTAL SARL",
+            "製造廠廠址": "CH. DU CLOSALET 4, 1023 CRISSIER, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

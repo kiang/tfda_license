@@ -1,6 +1,6 @@
 {
     "code": "08015924",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08015924",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08015924",
     "time": "2020-02-26 00:41:09",
     "許可證字號": "衛署粧輸字第015924號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1511701100  髮利國際貿易有限公司",
     "申請商地址": "新北市汐止區福德一路392巷42弄24號1樓",
-    "主製造廠": {
-        "製造廠名稱": "CIT0080000  COLORDESIGN S.R.L.",
-        "製造廠廠址": "BOTTICINO (BS) VIA T. TASSO 7 ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CIT0080000  COLORDESIGN S.R.L.",
+            "製造廠廠址": "BOTTICINO (BS) VIA T. TASSO 7 ITALY",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

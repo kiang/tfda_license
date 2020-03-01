@@ -1,6 +1,6 @@
 {
     "code": "94015227",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015227",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015227",
     "time": "2020-02-26 11:37:55",
     "許可證字號": "衛部醫器輸壹字第015227號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6236194500  鴻海醫療器材股份有限公司",
     "申請商地址": "臺中市潭子區頭張路2段75號8樓",
-    "主製造廠": {
-        "製造廠名稱": "MVN0043100  PEARL DENT CO., LTD",
-        "製造廠廠址": "LOT III -15B, STREET 13, TAN BINH INDUSTRIAL PARK, TAN PHU DISTRICT, HCM CITY, VIETNAM",
-        "製造廠公司地址": "",
-        "製造廠國別": "VIET NAM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MVN0043100  PEARL DENT CO., LTD",
+            "製造廠廠址": "LOT III -15B, STREET 13, TAN BINH INDUSTRIAL PARK, TAN PHU DISTRICT, HCM CITY, VIETNAM",
+            "製造廠公司地址": "",
+            "製造廠國別": "VIET NAM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "56028780",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028780",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028780",
     "time": "2020-02-26 07:58:49",
     "許可證字號": "衛部醫器輸字第028780號",
     "註銷狀態": "",
@@ -35,13 +35,22 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1439301100  美敦力醫療產品股份有限公司",
     "申請商地址": "台北市松山區敦化南路一段2號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MCA0839000  Medtronic CryoCath LP",
-        "製造廠廠址": "9000 Autoroute Transcanadienne, Pointe-Claire, Quebec H9R 5Z8, Canada",
-        "製造廠公司地址": "",
-        "製造廠國別": "CANADA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCA0839000  Medtronic CryoCath LP",
+            "製造廠廠址": "9000 Autoroute Transcanadienne, Pointe-Claire, Quebec H9R 5Z8, Canada",
+            "製造廠公司地址": "",
+            "製造廠國別": "CANADA",
+            "製程": ""
+        },
+        {
+            "製造廠名稱": "MDO9999999  Made (部分製程) in DOMINICAN",
+            "製造廠廠址": "",
+            "製造廠公司地址": "",
+            "製造廠國別": "DOMINICAN REPUBLIC",
+            "製程": "99部分製程"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

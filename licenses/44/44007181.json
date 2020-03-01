@@ -1,6 +1,6 @@
 {
     "code": "44007181",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007181",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007181",
     "time": "2020-02-26 04:57:03",
     "許可證字號": "衛署醫器輸壹字第007181號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201109566  鳴泰實業有限公司",
     "申請商地址": "新北市三重區興德路123之1號10樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS1762000  MAVES COMPANY, INC.",
-        "製造廠廠址": "8469 NORTHLANE DR. CLEVELAND, OHIO, USA 44144",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS1762000  MAVES COMPANY, INC.",
+            "製造廠廠址": "8469 NORTHLANE DR. CLEVELAND, OHIO, USA 44144",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

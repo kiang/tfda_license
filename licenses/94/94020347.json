@@ -1,6 +1,6 @@
 {
     "code": "94020347",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020347",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020347",
     "time": "2020-02-26 12:43:13",
     "許可證字號": "衛部醫器輸壹字第020347號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "6237130206  豪品國際實業股份有限公司",
     "申請商地址": "彰化縣員林市南東里員草路855巷148號",
-    "主製造廠": {
-        "製造廠名稱": "MMY0205000  ALLIANCE RUBBER PRODUCTS SDN. BHD.",
-        "製造廠廠址": "Lot 2716 &amp; 2720, MK7 Kawasan Perindustrian Bukit Panchor 14300 Nibong Tebal, Pulau Pinang, Malaysia",
-        "製造廠公司地址": "",
-        "製造廠國別": "MALAYSIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMY0205000  ALLIANCE RUBBER PRODUCTS SDN. BHD.",
+            "製造廠廠址": "Lot 2716 &amp; 2720, MK7 Kawasan Perindustrian Bukit Panchor 14300 Nibong Tebal, Pulau Pinang, Malaysia",
+            "製造廠公司地址": "",
+            "製造廠國別": "MALAYSIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

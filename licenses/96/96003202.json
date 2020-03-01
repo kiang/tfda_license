@@ -1,6 +1,6 @@
 {
     "code": "96003202",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003202",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003202",
     "time": "2020-02-26 13:08:08",
     "許可證字號": "衛部醫器陸輸壹字第003202號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6231113809  安得斯有限公司",
     "申請商地址": "新北市汐止區新台五路1段99號18樓之6",
-    "主製造廠": {
-        "製造廠名稱": "MCN1075700  FOSHAN COXO MEDICAL INSTRUMENT CO., LTD",
-        "製造廠廠址": "BLDG 4, DISTRICT A GUANGDONG NEW LIGHT SOURCE INDUSTRIAL BASE, SOUTH OF LUOCUN AVENUE NANHAI DISTRICT  FOSHAN 528226 GUANGDONG CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1075700  FOSHAN COXO MEDICAL INSTRUMENT CO., LTD",
+            "製造廠廠址": "BLDG 4, DISTRICT A GUANGDONG NEW LIGHT SOURCE INDUSTRIAL BASE, SOUTH OF LUOCUN AVENUE NANHAI DISTRICT  FOSHAN 528226 GUANGDONG CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

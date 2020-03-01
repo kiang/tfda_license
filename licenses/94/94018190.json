@@ -1,6 +1,6 @@
 {
     "code": "94018190",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018190",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018190",
     "time": "2020-02-26 12:23:05",
     "許可證字號": "衛部醫器輸壹字第018190號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6221024564  新加坡商天格科技股份有限公司台灣分公司",
     "申請商地址": "台南市南區新和二路13號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MTH0074200  TRANSITIONS OPTICAL (THAILAND) LIMITED",
-        "製造廠廠址": "700\/158 MOO 1 AMATA NAKORN INDUSTRIAL ESTATE TAMBOL, BANKAO AMPHUR PANTHONG, CHONBURI 20160, THAILAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "THAILAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MTH0074200  TRANSITIONS OPTICAL (THAILAND) LIMITED",
+            "製造廠廠址": "700\/158 MOO 1 AMATA NAKORN INDUSTRIAL ESTATE TAMBOL, BANKAO AMPHUR PANTHONG, CHONBURI 20160, THAILAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "THAILAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

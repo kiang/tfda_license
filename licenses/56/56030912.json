@@ -1,6 +1,6 @@
 {
     "code": "56030912",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030912",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030912",
     "time": "2020-02-26 08:18:23",
     "許可證字號": "衛部醫器輸字第030912號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 1A本器材之使用須符合「特定醫療技術檢查檢驗醫療儀器施行或使用管理辦法」",
     "申請商名稱": "6201118547  台灣雅培醫療器材有限公司",
     "申請商地址": "台北市內湖區瑞光路407號5樓",
-    "主製造廠": {
-        "製造廠名稱": "MCR0018000  St. Jude Medical Costa Rica Ltda.",
-        "製造廠廠址": "Edificio#44 Calle 0, Ave. 2 Zona Franca Coyol El Coyol, Alajuela, Costa Rica",
-        "製造廠公司地址": "",
-        "製造廠國別": "COSTA RICA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCR0018000  St. Jude Medical Costa Rica Ltda.",
+            "製造廠廠址": "Edificio#44 Calle 0, Ave. 2 Zona Franca Coyol El Coyol, Alajuela, Costa Rica",
+            "製造廠公司地址": "",
+            "製造廠國別": "COSTA RICA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS0909000  Abbot Medical",
+            "製造廠廠址": "5050 Nathan Lane North, Plymouth, MN 55442, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

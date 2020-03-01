@@ -1,6 +1,6 @@
 {
     "code": "96002055",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002055",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002055",
     "time": "2020-02-26 12:55:29",
     "許可證字號": "衛部醫器陸輸壹字第002055號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6203280948  萬能科技有限公司",
     "申請商地址": "台中市南屯區新德街261號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1271000  CHONGQING SUNKINGDOM MEDICAL INSTRUMENTS CO., LTD",
-        "製造廠廠址": "1601, WEST PARADISE INTERNATIONAL, NO.48 ZHUJIANG ROAD, YANGJIAPING, JIULONGPO DISTRICT, CHONGQING, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1271000  CHONGQING SUNKINGDOM MEDICAL INSTRUMENTS CO., LTD",
+            "製造廠廠址": "1601, WEST PARADISE INTERNATIONAL, NO.48 ZHUJIANG ROAD, YANGJIAPING, JIULONGPO DISTRICT, CHONGQING, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

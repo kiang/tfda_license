@@ -1,6 +1,6 @@
 {
     "code": "44008892",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008892",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008892",
     "time": "2020-02-26 05:09:48",
     "許可證字號": "衛署醫器輸壹字第008892號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6222027274  大億醫療儀器廠",
     "申請商地址": "嘉義市西區保安里保安一路320號",
-    "主製造廠": {
-        "製造廠名稱": "MES0060000  MEDICARE SYSTEM SLU",
-        "製造廠廠址": "ABAD ESCARRE 15, 08302 MATARO, BARCELONA, SPAIN",
-        "製造廠公司地址": "",
-        "製造廠國別": "SPAIN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MES0060000  MEDICARE SYSTEM SLU",
+            "製造廠廠址": "ABAD ESCARRE 15, 08302 MATARO, BARCELONA, SPAIN",
+            "製造廠公司地址": "",
+            "製造廠國別": "SPAIN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

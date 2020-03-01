@@ -1,6 +1,6 @@
 {
     "code": "94014731",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014731",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014731",
     "time": "2020-02-26 11:31:19",
     "許可證字號": "衛部醫器輸壹字第014731號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "621706B120  鈞豊光學有限公司",
     "申請商地址": "台中市西屯區至善路82巷58號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS4253000  Viscot Medical, LLC",
-        "製造廠廠址": "PO Box 351, 32 West St.East Hanover, New Jersey, 07936, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS4253000  Viscot Medical, LLC",
+            "製造廠廠址": "PO Box 351, 32 West St.East Hanover, New Jersey, 07936, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

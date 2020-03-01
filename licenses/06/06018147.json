@@ -1,6 +1,6 @@
 {
     "code": "06018147",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06018147",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06018147",
     "time": "2020-02-25 19:31:23",
     "許可證字號": "衛署醫器輸字第018147號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1436301100  台灣費森尤斯醫藥股份有限公司",
     "申請商地址": "台北市內湖區瑞湖街58號7樓",
-    "主製造廠": {
-        "製造廠名稱": "MCS000100  Fresenius Medical Care Srbija d.o.o.",
-        "製造廠廠址": "Beogradski put bb, 26300 Vršac, Serbia",
-        "製造廠公司地址": "",
-        "製造廠國別": "Serbia and Montenegro",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCS000100  Fresenius Medical Care Srbija d.o.o.",
+            "製造廠廠址": "Beogradski put bb, 26300 Vršac, Serbia",
+            "製造廠公司地址": "",
+            "製造廠國別": "Serbia and Montenegro",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MDE0709100  Fresenius Medical Care AG &amp; Co. KGaA",
+            "製造廠廠址": "61346 Bad Homburg, Germany",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

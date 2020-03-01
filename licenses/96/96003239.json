@@ -1,6 +1,6 @@
 {
     "code": "96003239",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003239",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003239",
     "time": "2020-02-26 13:08:12",
     "許可證字號": "衛部醫器陸輸壹字第003239號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "620111C536  普旌股份有限公司",
     "申請商地址": "台北市內湖區瑞光路578號5樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN0043000  XI&#39;AN KONTOUR MEDICAL TECHNOLOGY CO., LTD.",
-        "製造廠廠址": "B-201, NO.69, GAZELLE VALLEY, JINYE ROAD, HIGH TECH ZONE, XI&#39;AN 710077, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0043000  XI&#39;AN KONTOUR MEDICAL TECHNOLOGY CO., LTD.",
+            "製造廠廠址": "B-201, NO.69, GAZELLE VALLEY, JINYE ROAD, HIGH TECH ZONE, XI&#39;AN 710077, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

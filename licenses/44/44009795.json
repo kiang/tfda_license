@@ -1,6 +1,6 @@
 {
     "code": "44009795",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009795",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009795",
     "time": "2020-02-26 05:18:48",
     "許可證字號": "衛署醫器輸壹字第009795號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623101H928  普立爾有限公司",
     "申請商地址": "新北市板橋區雙十路三段70巷12弄3號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MIN0040000  HIMEDIA LABORATORIES PVT. LTD.",
-        "製造廠廠址": "A-406, BHAVESHWAR PLAZA, LBS MARG MUMBAI-400 086, INDIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "INDIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIN0040000  HIMEDIA LABORATORIES PVT. LTD.",
+            "製造廠廠址": "A-406, BHAVESHWAR PLAZA, LBS MARG MUMBAI-400 086, INDIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "INDIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "44012210",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012210",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012210",
     "time": "2020-02-26 05:42:32",
     "許可證字號": "衛署醫器輸壹字第012210號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623104E096  益達康生物科技有限公司",
     "申請商地址": "新北市中和區景安路82巷1號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS3505000  Amron International, Inc.",
-        "製造廠廠址": "1380 Aspen Way, Vista, CALIFORNIA 92081-8349, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS3505000  Amron International, Inc.",
+            "製造廠廠址": "1380 Aspen Way, Vista, CALIFORNIA 92081-8349, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

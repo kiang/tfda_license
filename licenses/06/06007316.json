@@ -1,6 +1,6 @@
 {
     "code": "06007316",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06007316",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06007316",
     "time": "2020-02-25 17:22:45",
     "許可證字號": "衛署醫器輸字第007316號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1801901100  濟美股份有限公司",
     "申請商地址": "台北巿中山區大直街34巷28號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MES0009000  INDUSTRIAS QUIRURGICAS DE LEVANTE, S.A. (I.Q.L.)",
-        "製造廠廠址": "ISLAS BALEARES, 50-46988 FUENTE DEL JARRO-VALENCIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "SPAIN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MES0009000  INDUSTRIAS QUIRURGICAS DE LEVANTE, S.A. (I.Q.L.)",
+            "製造廠廠址": "ISLAS BALEARES, 50-46988 FUENTE DEL JARRO-VALENCIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "SPAIN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "56027977",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027977",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027977",
     "time": "2020-02-26 07:50:52",
     "許可證字號": "衛部醫器輸字第027977號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6202025676  亞成興業有限公司",
     "申請商地址": "高雄市鼓山區裕國街167號",
-    "主製造廠": {
-        "製造廠名稱": "MFR0961000  Easy System Implant",
-        "製造廠廠址": "72 Rue Cassiop&#233;e, 74650 Chavanod, France",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR0961000  Easy System Implant",
+            "製造廠廠址": "72 Rue Cassiop&#233;e, 74650 Chavanod, France",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

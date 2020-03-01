@@ -1,6 +1,6 @@
 {
     "code": "44008293",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008293",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008293",
     "time": "2020-02-26 05:04:51",
     "許可證字號": "衛署醫器輸壹字第008293號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1439401100  台灣捷邁醫療器材股份有限公司",
     "申請商地址": "台北市松山區光復北路11巷35號7樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0039000  U &amp; I CORPORATION",
-        "製造廠廠址": "20, SANDAN-RO 76BEON-GIL, UIJEONGBU-SI, GYEONGGI-DO, 480-859, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0039000  U &amp; I CORPORATION",
+            "製造廠廠址": "20, SANDAN-RO 76BEON-GIL, UIJEONGBU-SI, GYEONGGI-DO, 480-859, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

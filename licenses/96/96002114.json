@@ -1,6 +1,6 @@
 {
     "code": "96002114",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002114",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002114",
     "time": "2020-02-26 12:56:11",
     "許可證字號": "衛部醫器陸輸壹字第002114號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "620119A049  芊裕器業社",
     "申請商地址": "臺北市萬華區環河南路一段23號10樓之3",
-    "主製造廠": {
-        "製造廠名稱": "MCN1304000  GUANGZHOU HICARE MEDICAL EQUIPMENT AND MATERIALS CO., LTD",
-        "製造廠廠址": "ROOM413, DEPARTMENT BUILDING NO. 1, GUANGDONG PHARMACEUTICAL UNIVERSITY, GUANGZHOU HEMC, XIAOGUWEI STREET, PANYU DISTNCT, GUANGZHOU, P.R. CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1304000  GUANGZHOU HICARE MEDICAL EQUIPMENT AND MATERIALS CO., LTD",
+            "製造廠廠址": "ROOM413, DEPARTMENT BUILDING NO. 1, GUANGDONG PHARMACEUTICAL UNIVERSITY, GUANGZHOU HEMC, XIAOGUWEI STREET, PANYU DISTNCT, GUANGZHOU, P.R. CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

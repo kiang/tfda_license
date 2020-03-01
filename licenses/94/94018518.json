@@ -1,6 +1,6 @@
 {
     "code": "94018518",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018518",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018518",
     "time": "2020-02-26 12:24:50",
     "許可證字號": "衛部醫器輸壹字第018518號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620117G307  崴康實業股份有限公司",
     "申請商地址": "新北市汐止區新台五路一段96號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MMX1001000  Consolidated Medical Equipment Company",
-        "製造廠廠址": "Ave. Alejandro Dumas, No 11321 Complejo Industrial Chihuahua Chihuahua, Chihuahua Mexico 31136",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX1001000  Consolidated Medical Equipment Company",
+            "製造廠廠址": "Ave. Alejandro Dumas, No 11321 Complejo Industrial Chihuahua Chihuahua, Chihuahua Mexico 31136",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

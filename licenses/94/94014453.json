@@ -1,6 +1,6 @@
 {
     "code": "94014453",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014453",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014453",
     "time": "2020-02-26 11:27:33",
     "許可證字號": "衛部醫器輸壹字第014453號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "6205340287  塏德貿易有限公司",
     "申請商地址": "台南市北區賢北街243號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE1187000  RIEMSER PHARMA GMBH",
-        "製造廠廠址": "AN DER WIEK 7 17493 GREIFSWALD-INSEL RIEMS, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE1187000  RIEMSER PHARMA GMBH",
+            "製造廠廠址": "AN DER WIEK 7 17493 GREIFSWALD-INSEL RIEMS, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

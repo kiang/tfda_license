@@ -1,6 +1,6 @@
 {
     "code": "06024771",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024771",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024771",
     "time": "2020-02-25 20:45:24",
     "許可證字號": "衛署醫器輸字第024771號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6231023113  台倢企業有限公司",
     "申請商地址": "新北市三重區光復路一段83巷1號5樓",
-    "主製造廠": {
-        "製造廠名稱": "MPH0016100  Quest Dental Material Corporation",
-        "製造廠廠址": "Mactan Export Processing Zone II Basak, Lapulapu City, Philippines",
-        "製造廠公司地址": "",
-        "製造廠國別": "PHILIPPINES",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MPH0016100  Quest Dental Material Corporation",
+            "製造廠廠址": "Mactan Export Processing Zone II Basak, Lapulapu City, Philippines",
+            "製造廠公司地址": "",
+            "製造廠國別": "PHILIPPINES",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MJP0610100  Quest Corporation",
+            "製造廠廠址": "157-1, Yokoyama-Cho, Handa-City, Aichi, Japan",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

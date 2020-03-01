@@ -1,6 +1,6 @@
 {
     "code": "58025531",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58025531",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58025531",
     "time": "2020-02-26 09:48:35",
     "許可證字號": "衛部粧輸字第025531號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6628206307  台灣奧蜜思股份有限公司",
     "申請商地址": "台北市大安區復興南路一段132號4樓",
-    "主製造廠": {
-        "製造廠名稱": "CJP0390000  POLA CHEMICAL INDUSTRIES,INC.",
-        "製造廠廠址": "1234 AINO, FUKUROI-SHI,SHIZUOKA 437-8765 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CJP0390000  POLA CHEMICAL INDUSTRIES,INC.",
+            "製造廠廠址": "1234 AINO, FUKUROI-SHI,SHIZUOKA 437-8765 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

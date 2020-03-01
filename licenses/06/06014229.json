@@ -1,6 +1,6 @@
 {
     "code": "06014229",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014229",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014229",
     "time": "2020-02-25 18:47:11",
     "許可證字號": "衛署醫器輸字第014229號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6237016274  弘曜生物科技有限公司",
     "申請商地址": "彰化縣彰化市中山路三段527號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0121000  MEKICS CO., LTD",
-        "製造廠廠址": "861-10, TAEGYE-DONG, CHUNCHON-SI, KANGWON-DO, KOREA 200-170",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0121000  MEKICS CO., LTD",
+            "製造廠廠址": "861-10, TAEGYE-DONG, CHUNCHON-SI, KANGWON-DO, KOREA 200-170",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

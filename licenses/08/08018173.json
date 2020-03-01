@@ -1,6 +1,6 @@
 {
     "code": "08018173",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018173",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018173",
     "time": "2020-02-26 01:05:15",
     "許可證字號": "衛署粧輸字第018173號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6670368269  得軼國際股份有限公司",
     "申請商地址": "台北市信義區忠孝東路五段510號6樓之3",
-    "主製造廠": {
-        "製造廠名稱": "CIT0085000  PANZERI DIFFUSION S.R.L.",
-        "製造廠廠址": "VIA BRODOLINI, 30 21046 MALNATE (Varese) Italy",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CIT0085000  PANZERI DIFFUSION S.R.L.",
+            "製造廠廠址": "VIA BRODOLINI, 30 21046 MALNATE (Varese) Italy",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

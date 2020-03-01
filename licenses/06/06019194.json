@@ -1,6 +1,6 @@
 {
     "code": "06019194",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019194",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019194",
     "time": "2020-02-25 19:44:30",
     "許可證字號": "衛署醫器輸字第019194號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,31 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1411301100  臺灣禮來股份有限公司",
     "申請商地址": "台北市復興北路３６５號１１樓",
-    "主製造廠": {
-        "製造廠名稱": "MCH0085000  YPSOMED AG",
-        "製造廠廠址": "BRUNNMATTSTRASSE 6, CH-3401 BURGDORF, SWITZERLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCH0085000  YPSOMED AG",
+            "製造廠廠址": "BRUNNMATTSTRASSE 6, CH-3401 BURGDORF, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MFR0843000  LILLY FRANCE, S.A.S.",
+            "製造廠廠址": "2 RUE DU COLONEL LILLY 67640 FEGERSHEIM, FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": "分裝"
+        },
+        {
+            "製造廠名稱": "MUS2268000  ELI LILLY AND COMPANY.",
+            "製造廠廠址": "LILLY CORPORATE CENTER INDIANAPOLIS, IN46285,USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "許可證持有者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

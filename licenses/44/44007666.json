@@ -1,6 +1,6 @@
 {
     "code": "44007666",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007666",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007666",
     "time": "2020-02-26 05:00:31",
     "許可證字號": "衛署醫器輸壹字第007666號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6239030790  國瑋牙科器材行",
     "申請商地址": "雲林縣虎尾鎮新興里和平路41號",
-    "主製造廠": {
-        "製造廠名稱": "MIE0828000  GLAXO SIMITH KLINE CONSUMER HEALTHCARE",
-        "製造廠廠址": "CLOCHERANE, YOUGHAL ROAD, DUNGARVAN, CO., WATERFORD, IRELAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "IRELAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIE0828000  GLAXO SIMITH KLINE CONSUMER HEALTHCARE",
+            "製造廠廠址": "CLOCHERANE, YOUGHAL ROAD, DUNGARVAN, CO., WATERFORD, IRELAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "IRELAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

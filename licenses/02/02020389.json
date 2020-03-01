@@ -1,11 +1,12 @@
 {
     "code": "02020389",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02020389",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02020389",
     "time": "2020-02-25 12:26:51",
     "許可證字號": "衛署藥輸字第020389號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
+    "製造許可登錄編號": "",
     "有效日期": "113\/07\/31",
     "發證日期": "103\/05\/28",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "620110R660  台灣安斯泰來製藥股份有限公司",
-        "申請商地址": "台北市中山區民生東路３段１０號５樓",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "TRIAMCINOLONE ACETONIDE",
+    "限制項目": "02輸　入",
+    "申請商名稱": "620110R660  台灣安斯泰來製藥股份有限公司",
+    "申請商地址": "台北市中山區民生東路３段１０號５樓",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FJP0455100  TEIJIN PHARMA LIMITED IWAKUNI PHARMACEUTICAL FACTORY",
+            "製造廠廠址": "2-1 HINODE-CHO IWAKUNI YAMAGUCHI JAPAN",
+            "製造廠公司地址": "2-1, KASUMIGASEKI 3-CHOME,CHIYODA-KU,TOKYO, 100-8585 JAPAN",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "CCC號列": "30043200002 其他醫藥製劑，含有腎上腺皮質類固醇荷爾蒙及其衍生物或結構式類似者Other medicaments, containing corticosteroid hormones, their derivatives or structural analogues",
     "藥理治療分類": "",
     "ingredients": [

@@ -1,6 +1,6 @@
 {
     "code": "94015529",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015529",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015529",
     "time": "2020-02-26 11:42:14",
     "許可證字號": "衛部醫器輸壹字第015529號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217035906  鋐豪展業有限公司",
     "申請商地址": "台中市南區柳川東路一段18號10樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MDE1205000  E. HAHNENKRATT GMBH",
-        "製造廠廠址": "BENZSTRASSE 19, DE-75203 KONIGSBACH-STEIN, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE1205000  E. HAHNENKRATT GMBH",
+            "製造廠廠址": "BENZSTRASSE 19, DE-75203 KONIGSBACH-STEIN, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

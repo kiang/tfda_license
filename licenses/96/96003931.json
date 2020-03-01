@@ -1,6 +1,6 @@
 {
     "code": "96003931",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003931",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003931",
     "time": "2020-02-26 13:15:29",
     "許可證字號": "衛部醫器陸輸壹字第003931號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "640110A647  正新牙科材料有限公司",
     "申請商地址": "臺北市中山區南京東路1段25號9樓(905室)",
-    "主製造廠": {
-        "製造廠名稱": "MCN2128000  HANGZHOU UNION DENTAL PRODUCTS CO., LTD",
-        "製造廠廠址": "ROOM B510, NO.10 XIYUAN ROAD, XIHU DISTRICT, HANGZHOU, ZHEJIANG, CHINA, 310030",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN2128000  HANGZHOU UNION DENTAL PRODUCTS CO., LTD",
+            "製造廠廠址": "ROOM B510, NO.10 XIYUAN ROAD, XIHU DISTRICT, HANGZHOU, ZHEJIANG, CHINA, 310030",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

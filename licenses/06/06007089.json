@@ -1,6 +1,6 @@
 {
     "code": "06007089",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06007089",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06007089",
     "time": "2020-02-25 17:19:32",
     "許可證字號": "衛署醫器輸字第007089號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 14輸入須附同意書（每次輸入均須取得原子能委員會之同意書為憑）",
     "申請商名稱": "620102J090  久和醫療儀器股份有限公司",
     "申請商地址": "臺北市中山區長春路３８０號５樓",
-    "主製造廠": {
-        "製造廠名稱": "MNL0018000  NUCLETRON B.V.",
-        "製造廠廠址": "WAARDGELDER 1,3905 TH VEENENDAAL,THE NETHERLANDS",
-        "製造廠公司地址": "",
-        "製造廠國別": "NETHERLANDS",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MNL0018000  NUCLETRON B.V.",
+            "製造廠廠址": "WAARDGELDER 1,3905 TH VEENENDAAL,THE NETHERLANDS",
+            "製造廠公司地址": "",
+            "製造廠國別": "NETHERLANDS",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

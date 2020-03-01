@@ -1,6 +1,6 @@
 {
     "code": "94014972",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014972",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014972",
     "time": "2020-02-26 11:34:43",
     "許可證字號": "衛部醫器輸壹字第014972號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "1432802100  台灣亞衛有限公司",
     "申請商地址": "新北市五股區中興路1段8號6樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MMY0152000  AVALANCHE MED SDN. BHD.",
-        "製造廠廠址": "PLOT 179, MK13, JALAN PERINDUSTRIAN BUKIT MINYAK, KAWASAN, 14000 SPT, PENANG, MALAYSIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "MALAYSIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMY0152000  AVALANCHE MED SDN. BHD.",
+            "製造廠廠址": "PLOT 179, MK13, JALAN PERINDUSTRIAN BUKIT MINYAK, KAWASAN, 14000 SPT, PENANG, MALAYSIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "MALAYSIA",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MFR0867000  PETERS SURGICAL",
+            "製造廠廠址": "42, RUE BENOIT FRACHON 93013 BOBIGNY CEDEX-FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

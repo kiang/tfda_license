@@ -1,6 +1,6 @@
 {
     "code": "46001431",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001431",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001431",
     "time": "2020-02-26 06:07:01",
     "許可證字號": "衛署醫器陸輸壹字第001431號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 40大陸生產",
     "申請商名稱": "623202G234  謙潤實業有限公司",
     "申請商地址": "桃園市中壢區東興里中北路二段119號10樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MCN0942000  TIANJIN DIADENT CO., LTD",
-        "製造廠廠址": "JIAZHUANGZI CUN, DASI ZHEN, XIQING QU, TIANJIN, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0942000  TIANJIN DIADENT CO., LTD",
+            "製造廠廠址": "JIAZHUANGZI CUN, DASI ZHEN, XIQING QU, TIANJIN, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MKR0416000  DIADENT GROUP INTERNATIONAL",
+            "製造廠廠址": "19-9, SONGJUNG-DONG, CHONGJU CITY 361-290, CHOONG CHONG BUK-DO,KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "94013568",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013568",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013568",
     "time": "2020-02-26 11:14:38",
     "許可證字號": "衛部醫器輸壹字第013568號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217069215  資生國際有限公司",
     "申請商地址": "台中市西屯區福科路961巷20號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MIT0092000  WORLD WORK S.R.L.",
-        "製造廠廠址": "VIA DEL PROGRESSO, 47-36054 MONTEBELLO VIC. NO-VICENZA ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIT0092000  WORLD WORK S.R.L.",
+            "製造廠廠址": "VIA DEL PROGRESSO, 47-36054 MONTEBELLO VIC. NO-VICENZA ITALY",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

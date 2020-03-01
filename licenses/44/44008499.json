@@ -1,6 +1,6 @@
 {
     "code": "44008499",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008499",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008499",
     "time": "2020-02-26 05:06:15",
     "許可證字號": "衛署醫器輸壹字第008499號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217038158  博先有限公司",
     "申請商地址": "台中市西區三民路1段103號3樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MUS2635000  CPAP SUPPLIES PLUS\/DIRECT",
-        "製造廠廠址": "10481 164TH PLACE, ORLAND PARK, IL 60467, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2635000  CPAP SUPPLIES PLUS\/DIRECT",
+            "製造廠廠址": "10481 164TH PLACE, ORLAND PARK, IL 60467, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "42000021",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000021",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000021",
     "time": "2020-02-26 03:20:32",
     "許可證字號": "衛署醫器陸輸字第000021號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 14輸入須附同意書（每次輸入均須取得原子能委員會之同意書為憑） 40大陸生產",
     "申請商名稱": "0831701100  奇異亞洲醫療設備股份有限公司",
     "申請商地址": "台北市中山區民生東路三段8號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN0013000  GE HUALUN MEDICAL SYSTEMS CO., LTD.",
-        "製造廠廠址": "NO. 1 NORTH YONG CHANG STREET BEIJING ECONOMIC &amp;TECHNOLOGICAL DEVELOPMENT AREA BEIJING, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0013000  GE HUALUN MEDICAL SYSTEMS CO., LTD.",
+            "製造廠廠址": "NO. 1 NORTH YONG CHANG STREET BEIJING ECONOMIC &amp;TECHNOLOGICAL DEVELOPMENT AREA BEIJING, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "96002383",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002383",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002383",
     "time": "2020-02-26 12:59:13",
     "許可證字號": "衛部醫器陸輸壹字第002383號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6237017968  長欣生技股份有限公司",
     "申請商地址": "彰化縣彰化市南瑤里中山路二段2號3樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN3948000  ANYANG ZONGYAN DENTAL MATERIAL CO. LTD",
-        "製造廠廠址": "NO. 10, BALI DVPT. ZONE, WANGGU TOWN, HUAXIAN COUNTY, ANYANG CITY, HENAN PROVINCE, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN3948000  ANYANG ZONGYAN DENTAL MATERIAL CO. LTD",
+            "製造廠廠址": "NO. 10, BALI DVPT. ZONE, WANGGU TOWN, HUAXIAN COUNTY, ANYANG CITY, HENAN PROVINCE, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

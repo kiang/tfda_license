@@ -1,6 +1,6 @@
 {
     "code": "94019511",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019511",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019511",
     "time": "2020-02-26 12:35:00",
     "許可證字號": "衛部醫器輸壹字第019511號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217058516  展群福祉事業有限公司",
     "申請商地址": "台中市北區永興街298巷5弄2號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MGB0493000  Silvalea Ltd",
-        "製造廠廠址": "Units 1-4, 7&amp;12 Silverhills Buildings, Silverhills Road, Decoy Industrial Estate, Newton Abbot, Devon, TQ12 5LZ, UK",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0493000  Silvalea Ltd",
+            "製造廠廠址": "Units 1-4, 7&amp;12 Silverhills Buildings, Silverhills Road, Decoy Industrial Estate, Newton Abbot, Devon, TQ12 5LZ, UK",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

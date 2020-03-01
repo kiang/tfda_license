@@ -1,6 +1,6 @@
 {
     "code": "08006208",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08006208",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08006208",
     "time": "2020-02-25 22:58:17",
     "許可證字號": "衛署粧輸字第006208號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "2001501100  騰嶸貿易有限公司",
     "申請商地址": "台北市中山北路３段４９號７樓Ａ室",
-    "主製造廠": {
-        "製造廠名稱": "CDE0037000  ETRE BELLE COSMETICS VERTRIEB GMBH",
-        "製造廠廠址": "NUBBAUMLE 6 74388 TALHEIM GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CDE0037000  ETRE BELLE COSMETICS VERTRIEB GMBH",
+            "製造廠廠址": "NUBBAUMLE 6 74388 TALHEIM GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

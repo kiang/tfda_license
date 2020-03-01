@@ -1,6 +1,6 @@
 {
     "code": "08010790",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08010790",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08010790",
     "time": "2020-02-25 23:47:40",
     "許可證字號": "衛署粧輸字第010790號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1230701100  琴妮麗品企業有限公司",
     "申請商地址": "台北市安和路２段６４號６樓之１",
-    "主製造廠": {
-        "製造廠名稱": "CFR0030000  DECLEOR S.A.",
-        "製造廠廠址": "31, RUE HENRI ROCHEFORT 75017 PARIS FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CFR0030000  DECLEOR S.A.",
+            "製造廠廠址": "31, RUE HENRI ROCHEFORT 75017 PARIS FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

@@ -1,6 +1,6 @@
 {
     "code": "06001517",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06001517",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06001517",
     "time": "2020-02-25 15:41:22",
     "許可證字號": "衛署醫器輸字第001517號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0902701100  美商惠普遠東股份有限公司台灣分公司",
     "申請商地址": "台北巿復興北路３３７號１４樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS0118000  AGILENT TECHNOLOGIES,INC. HEALTHCARE SOLUTIONS GROUP",
-        "製造廠廠址": "3200 HILL-VIEW AVENUE PALO ALTO CALIFORNIA 94304. USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0118000  AGILENT TECHNOLOGIES,INC. HEALTHCARE SOLUTIONS GROUP",
+            "製造廠廠址": "3200 HILL-VIEW AVENUE PALO ALTO CALIFORNIA 94304. USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

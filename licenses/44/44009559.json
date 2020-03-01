@@ -1,6 +1,6 @@
 {
     "code": "44009559",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009559",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009559",
     "time": "2020-02-26 05:16:27",
     "許可證字號": "衛署醫器輸壹字第009559號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620110W218  善誠股份有限公司",
     "申請商地址": "台南市六甲區菁埔里菁埔3之1號",
-    "主製造廠": {
-        "製造廠名稱": "MKH0001000  MEDTECS (CAMBODIA) CORP. LIMITED",
-        "製造廠廠址": "PHUM AMPEL LEU, KHUM AMPEL, SROK KAMPONG SIAM, KAMPONG CHAM PROVINCE, CAMBODIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CAMBODIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKH0001000  MEDTECS (CAMBODIA) CORP. LIMITED",
+            "製造廠廠址": "PHUM AMPEL LEU, KHUM AMPEL, SROK KAMPONG SIAM, KAMPONG CHAM PROVINCE, CAMBODIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CAMBODIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "44013064",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44013064",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44013064",
     "time": "2020-02-26 05:50:54",
     "許可證字號": "衛署醫器輸壹字第013064號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231136366  彩順貿易有限公司",
     "申請商地址": "新北市土城區明德路一段93巷8號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MGB0226000  FLEXICARE MEDICAL LIMITED.",
-        "製造廠廠址": "CYNON VALLEY BUSINESS PARK, MOUNTAIN ASH, MID GLAMORGAN, CF45 4ER, UNITED KINGDOM",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0226000  FLEXICARE MEDICAL LIMITED.",
+            "製造廠廠址": "CYNON VALLEY BUSINESS PARK, MOUNTAIN ASH, MID GLAMORGAN, CF45 4ER, UNITED KINGDOM",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

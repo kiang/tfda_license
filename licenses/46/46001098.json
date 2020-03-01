@@ -1,6 +1,6 @@
 {
     "code": "46001098",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001098",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001098",
     "time": "2020-02-26 06:03:38",
     "許可證字號": "衛署醫器陸輸壹字第001098號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 36GMP 40大陸生產",
     "申請商名稱": "0937101100  英商史耐輝股份有限公司台灣分公司",
     "申請商地址": "台北市中正區新生南路1段50號9樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MCN0758000  SMITH ＆  NEPHEW MEDICAL （SUZHOU） LIMITED",
-        "製造廠廠址": "NO. 12, WUXIANG ROAD, COMPREHENSIVE FREE ZONE, WEST ZONE, SUZHOU INDUSTRIAL PARK, JIANGSU PROVINCE, PRC",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0758000  SMITH ＆  NEPHEW MEDICAL （SUZHOU） LIMITED",
+            "製造廠廠址": "NO. 12, WUXIANG ROAD, COMPREHENSIVE FREE ZONE, WEST ZONE, SUZHOU INDUSTRIAL PARK, JIANGSU PROVINCE, PRC",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MGB0090000  SMITH &amp; NEPHEW MEDICAL LIMITED",
+            "製造廠廠址": "101 HESSLE ROAD, HULL HU3 2BN, UNITED KINGDOM",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

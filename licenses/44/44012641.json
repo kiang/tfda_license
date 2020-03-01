@@ -1,6 +1,6 @@
 {
     "code": "44012641",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012641",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012641",
     "time": "2020-02-26 05:46:41",
     "許可證字號": "衛署醫器輸壹字第012641號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620117G647  醫達科技股份有限公司",
     "申請商地址": "台北市信義區基隆路一段155號5樓之9",
-    "主製造廠": {
-        "製造廠名稱": "MUS1787000  MD BIOTECH CORPORATION",
-        "製造廠廠址": "12310 HWY 99S., UNIT 106, EVERETT, WA98204, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS1787000  MD BIOTECH CORPORATION",
+            "製造廠廠址": "12310 HWY 99S., UNIT 106, EVERETT, WA98204, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

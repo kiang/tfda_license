@@ -1,6 +1,6 @@
 {
     "code": "44006442",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006442",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006442",
     "time": "2020-02-26 04:51:10",
     "許可證字號": "衛署醫器輸壹字第006442號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620204B689  星台有限公司",
     "申請商地址": "高雄市左營區自由四路7號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MAU0065000  VASYLI AUSTRALIA PTY LTD.",
-        "製造廠廠址": "SUITE 27A, OASIS CENTRE, BROADBEACH, QLD 4218, AUSTRALIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "AUSTRALIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MAU0065000  VASYLI AUSTRALIA PTY LTD.",
+            "製造廠廠址": "SUITE 27A, OASIS CENTRE, BROADBEACH, QLD 4218, AUSTRALIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRALIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

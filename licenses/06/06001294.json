@@ -1,6 +1,6 @@
 {
     "code": "06001294",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06001294",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06001294",
     "time": "2020-02-25 15:37:33",
     "許可證字號": "衛署醫器輸字第001294號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1001001100  泰祺貿易股份有限公司",
     "申請商地址": "",
-    "主製造廠": {
-        "製造廠名稱": "MUS0195000  OXYGEN ENRICHMENT COMPANY LTD.",
-        "製造廠廠址": "P.O. BOX 1025-1900 MAXON ROAD SCHENECTADY NEW YORK 12301 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0195000  OXYGEN ENRICHMENT COMPANY LTD.",
+            "製造廠廠址": "P.O. BOX 1025-1900 MAXON ROAD SCHENECTADY NEW YORK 12301 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

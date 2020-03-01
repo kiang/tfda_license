@@ -1,6 +1,6 @@
 {
     "code": "44011924",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011924",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011924",
     "time": "2020-02-26 05:39:49",
     "許可證字號": "衛署醫器輸壹字第011924號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623101F497  凱爾醫學科技有限公司",
     "申請商地址": "新北市板橋區懷德街235巷1之4號",
-    "主製造廠": {
-        "製造廠名稱": "MKR0490000  SURGIDENT",
-        "製造廠廠址": "#210. WOOLIM LION’S VALLY, 311-3, JUNGWON-GU, SANGDAEWON-DONG, SUNGNAM-SI, KYEONGGI-DO, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0490000  SURGIDENT",
+            "製造廠廠址": "#210. WOOLIM LION’S VALLY, 311-3, JUNGWON-GU, SANGDAEWON-DONG, SUNGNAM-SI, KYEONGGI-DO, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

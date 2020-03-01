@@ -1,6 +1,6 @@
 {
     "code": "08020643",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08020643",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08020643",
     "time": "2020-02-26 01:31:07",
     "許可證字號": "衛署粧輸字第020643號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "0419201100  中美嬌兒股份有限公司",
     "申請商地址": "台北市仁愛路二段１０號１－３樓",
-    "主製造廠": {
-        "製造廠名稱": "CFR0191000  EUGENE PERMA FRANCE",
-        "製造廠廠址": "10, rue James Watt, Bat.C\/D,93200 Saint-Denis,France",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CFR0191000  EUGENE PERMA FRANCE",
+            "製造廠廠址": "10, rue James Watt, Bat.C\/D,93200 Saint-Denis,France",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

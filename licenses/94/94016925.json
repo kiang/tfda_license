@@ -1,6 +1,6 @@
 {
     "code": "94016925",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016925",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016925",
     "time": "2020-02-26 12:02:13",
     "許可證字號": "衛部醫器輸壹字第016925號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6232070429  麒正貿易有限公司",
     "申請商地址": "桃園市龜山區大同村萬壽路二段653巷2弄2號10樓",
-    "主製造廠": {
-        "製造廠名稱": "MNL0052000  MICROVISION MEDICAL HOLDING BV",
-        "製造廠廠址": "MEIBERGDREEF 45, 1105 BA AMSTERDAM, THE NETHERLANDS",
-        "製造廠公司地址": "",
-        "製造廠國別": "NETHERLANDS",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MNL0052000  MICROVISION MEDICAL HOLDING BV",
+            "製造廠廠址": "MEIBERGDREEF 45, 1105 BA AMSTERDAM, THE NETHERLANDS",
+            "製造廠公司地址": "",
+            "製造廠國別": "NETHERLANDS",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "08018464",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018464",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018464",
     "time": "2020-02-26 01:08:17",
     "許可證字號": "衛署粧輸字第018464號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "2002221100  馨姿國際貿易有限公司",
     "申請商地址": "高雄市三民區龍江街３２號",
-    "主製造廠": {
-        "製造廠名稱": "CIT0103000  L.C.A. LABORATORI DI CHIMICA APPLICATA SRL",
-        "製造廠廠址": "VIA MARCONI, 25-20051 LIMBIATE (MI), ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CIT0103000  L.C.A. LABORATORI DI CHIMICA APPLICATA SRL",
+            "製造廠廠址": "VIA MARCONI, 25-20051 LIMBIATE (MI), ITALY",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

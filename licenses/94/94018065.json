@@ -1,6 +1,6 @@
 {
     "code": "94018065",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018065",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018065",
     "time": "2020-02-26 12:21:36",
     "許可證字號": "衛部醫器輸壹字第018065號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620204B689  星台有限公司",
     "申請商地址": "高雄市左營區自由四路7號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0894000  DFP\/ACE UNITED, INC.",
-        "製造廠廠址": "CW NAM 17, NAKDONG-DAERO 1420 BEON-GIL SASANG-GU, BUSAN KOREA 46904",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0894000  DFP\/ACE UNITED, INC.",
+            "製造廠廠址": "CW NAM 17, NAKDONG-DAERO 1420 BEON-GIL SASANG-GU, BUSAN KOREA 46904",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "56026614",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026614",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026614",
     "time": "2020-02-26 07:36:42",
     "許可證字號": "衛部醫器輸字第026614號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620118L282  觀達股份有限公司",
     "申請商地址": "台北市中正區忠孝東路2段100號8樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MMY0129000  WEAR SAFE (MALAYSIA) SDN BHD",
-        "製造廠廠址": "LOT 13726, JALAN HAJI SALLEH, BATU 5 1\/4, OFF JALAN MERU, 41050 KLANG, SELANGOR DARUL EHSAN, MALAYSIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "MALAYSIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMY0129000  WEAR SAFE (MALAYSIA) SDN BHD",
+            "製造廠廠址": "LOT 13726, JALAN HAJI SALLEH, BATU 5 1\/4, OFF JALAN MERU, 41050 KLANG, SELANGOR DARUL EHSAN, MALAYSIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "MALAYSIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

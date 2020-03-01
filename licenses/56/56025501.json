@@ -1,6 +1,6 @@
 {
     "code": "56025501",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025501",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025501",
     "time": "2020-02-26 07:24:41",
     "許可證字號": "衛部醫器輸字第025501號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623102G687  蓋婭基因股份有限公司",
     "申請商地址": "新北市三重區中正北路359之2號",
-    "主製造廠": {
-        "製造廠名稱": "MIT0189100  PROMOITALIA GROUP S.p.A",
-        "製造廠廠址": "Via Antiniana, 59 80078 Pozzuoli NA, Italy",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIT0189100  PROMOITALIA GROUP S.p.A",
+            "製造廠廠址": "Via Antiniana, 59 80078 Pozzuoli NA, Italy",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

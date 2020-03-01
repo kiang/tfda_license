@@ -1,11 +1,12 @@
 {
     "code": "02016789",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02016789",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02016789",
     "time": "2020-02-25 11:27:18",
     "許可證字號": "衛署藥輸字第016789號",
     "註銷狀態": "已註銷",
     "註銷日期": "99\/09\/29",
     "註銷理由": "未展延而逾期者",
+    "製造許可登錄編號": "",
     "有效日期": "92\/08\/06",
     "發證日期": "77\/08\/06",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "1605919100  緯澤企業有限公司",
-        "申請商地址": "台南巿凱旋路２５４號",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "DICLOFENAC SODIUM",
+    "限制項目": "02輸　入",
+    "申請商名稱": "1605919100  緯澤企業有限公司",
+    "申請商地址": "台南巿凱旋路２５４號",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FNL0037000  MODIPACK B.V.",
+            "製造廠廠址": "HANDELSDWARSSTRAAT 10, 6905 DJ P.O. BOX. 38 6900 AA ZEVENAAR",
+            "製造廠公司地址": "",
+            "製造廠國別": "NETHERLANDS",
+            "製程": ""
+        }
+    ],
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [

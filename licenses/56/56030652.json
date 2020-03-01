@@ -1,6 +1,6 @@
 {
     "code": "56030652",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030652",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030652",
     "time": "2020-02-26 08:15:46",
     "許可證字號": "衛部醫器輸字第030652號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0406101100  友信行股份有限公司",
     "申請商地址": "台北市大安區敦化南路二段９７號１４樓",
-    "主製造廠": {
-        "製造廠名稱": "MCA0152000  ClaroNav Kolahi Inc.",
-        "製造廠廠址": "1140 Sheppard Avenue West, Unit 10, Toronto, ON CANADA, M3K 2A2",
-        "製造廠公司地址": "",
-        "製造廠國別": "CANADA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCA0152000  ClaroNav Kolahi Inc.",
+            "製造廠廠址": "1140 Sheppard Avenue West, Unit 10, Toronto, ON CANADA, M3K 2A2",
+            "製造廠公司地址": "",
+            "製造廠國別": "CANADA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "94016143",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016143",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016143",
     "time": "2020-02-26 11:51:11",
     "許可證字號": "衛部醫器輸壹字第016143號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1236201100  傑基興業股份有限公司",
     "申請商地址": "新北市三重區興德路111之8號13樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS1148000  COLTENE \/ WHALEDENT INC.",
-        "製造廠廠址": "235 ASCOT PARKWAY, CUYAHOGA FALLS, OHIO 44223, U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS1148000  COLTENE \/ WHALEDENT INC.",
+            "製造廠廠址": "235 ASCOT PARKWAY, CUYAHOGA FALLS, OHIO 44223, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

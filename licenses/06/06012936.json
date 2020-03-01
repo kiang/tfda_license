@@ -1,6 +1,6 @@
 {
     "code": "06012936",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06012936",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06012936",
     "time": "2020-02-25 18:32:59",
     "許可證字號": "衛署醫器輸字第012936號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620110R213  松江實業股份有限公司",
     "申請商地址": "臺北市中山區吉林路１２巷３３號",
-    "主製造廠": {
-        "製造廠名稱": "MUS4419000  AMERICAN DENT-ALL, INC.",
-        "製造廠廠址": "6733 San Fernando Rd, GLENDALE, CA 91201 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS4419000  AMERICAN DENT-ALL, INC.",
+            "製造廠廠址": "6733 San Fernando Rd, GLENDALE, CA 91201 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

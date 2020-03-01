@@ -1,11 +1,12 @@
 {
     "code": "41000042",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=41000042",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=41000042",
     "time": "2020-02-26 03:14:24",
     "許可證字號": "衛署藥陸輸字第000042號",
     "註銷狀態": "已註銷",
     "註銷日期": "98\/03\/18",
     "註銷理由": "未展延而逾期者",
+    "製造許可登錄編號": "",
     "有效日期": "95\/06\/30",
     "發證日期": "93\/02\/03",
     "許可證種類": "原料藥",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "01製劑原料",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入 40大陸生產",
-        "申請商名稱": "1436210200  廣得利膠囊股份有限公司",
-        "申請商地址": "台中縣大雅鄉上楓村民生路三段１８０巷１５號",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "GELATIN, METHYLPARABEN (METHYL PARABEN) (METAGIN) (METHYL HYDROXYBENZOATE)(METHYL PARABEN), PROPYLPARABEN (PROPYL PARABEN) (PROPAGIN)(PROPYL P-HYDROXYBENZOATE)(EQ TO PROPYL PARAHYDROXYBENZOATE), COLOR SUBSTANCE, WATER PURIFIED ( EQ TO AQUEOUS PURIFIED OR PURIFIED WATER )",
+    "限制項目": "02輸　入 40大陸生產",
+    "申請商名稱": "1436210200  廣得利膠囊股份有限公司",
+    "申請商地址": "台中縣大雅鄉上楓村民生路三段１８０巷１５號",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FCN0035000  SHANGHAI GUANG DE LI CAPSULES CO., LTD.",
+            "製造廠廠址": "NO. 18 LANE 220 BEI WU ROAD, MINHANG, SHANGHAI, P.R. CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "CCC號列": "96020041005 藥用膠囊Capsules for pharmaceutical products",
     "藥理治療分類": "",
     "ingredients": [

@@ -1,6 +1,6 @@
 {
     "code": "06005106",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06005106",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06005106",
     "time": "2020-02-25 16:47:07",
     "許可證字號": "衛署醫器輸字第005106號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1205801100  富大貿易有限公司",
     "申請商地址": "台北巿天津街６２號７樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP0210000  MATSU ZAKA TATEISI ELECTRONICS CO.",
-        "製造廠廠址": "1855-370 KUBO-CHO, MATSUSAKA-SHI MIE PREE 515 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0210000  MATSU ZAKA TATEISI ELECTRONICS CO.",
+            "製造廠廠址": "1855-370 KUBO-CHO, MATSUSAKA-SHI MIE PREE 515 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

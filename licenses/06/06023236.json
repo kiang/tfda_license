@@ -1,6 +1,6 @@
 {
     "code": "06023236",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023236",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023236",
     "time": "2020-02-25 20:29:05",
     "許可證字號": "衛署醫器輸字第023236號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1436301100  台灣費森尤斯醫藥股份有限公司",
     "申請商地址": "台北市內湖區瑞湖街58號7樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE0845000  FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH, SCHWEINFURT PLANT",
-        "製造廠廠址": "HAFENSTRABE 9 D-97424 SCHWEINFURT GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0845000  FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH, SCHWEINFURT PLANT",
+            "製造廠廠址": "HAFENSTRABE 9 D-97424 SCHWEINFURT GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

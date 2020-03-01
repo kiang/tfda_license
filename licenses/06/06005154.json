@@ -1,6 +1,6 @@
 {
     "code": "06005154",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06005154",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06005154",
     "time": "2020-02-25 16:48:11",
     "許可證字號": "衛署醫器輸字第005154號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0905401100  南雄行有限公司",
     "申請商地址": "台北巿新生南路一段９７巷１９號２Ｆ",
-    "主製造廠": {
-        "製造廠名稱": "MGB0048100  TRICOMED LTD.",
-        "製造廠廠址": "UNIT 2, CHILTONIAN INDUSTRIAL ESTATE, MANOR LANE, LONDON SE12 OTX",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0048100  TRICOMED LTD.",
+            "製造廠廠址": "UNIT 2, CHILTONIAN INDUSTRIAL ESTATE, MANOR LANE, LONDON SE12 OTX",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

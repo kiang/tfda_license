@@ -1,6 +1,6 @@
 {
     "code": "56027145",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027145",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027145",
     "time": "2020-02-26 07:42:31",
     "許可證字號": "衛部醫器輸字第027145號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201126049  昇基生技股份有限公司",
     "申請商地址": "臺北市南港區忠孝東路5段815號10樓",
-    "主製造廠": {
-        "製造廠名稱": "MIT0239100  BTLock International S.r.l.",
-        "製造廠廠址": "Via Madonnetta 219 int. 1, 36075 Montecchio Maggiore VI, Italy",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIT0239100  BTLock International S.r.l.",
+            "製造廠廠址": "Via Madonnetta 219 int. 1, 36075 Montecchio Maggiore VI, Italy",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "08015435",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08015435",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08015435",
     "time": "2020-02-26 00:35:47",
     "許可證字號": "衛署粧輸字第015435號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102O200  英屬維爾京群島商莎莎國際股份有限公司台北分公司",
     "申請商地址": "台北市大安區忠孝東路四段49巷4弄18號1樓",
-    "主製造廠": {
-        "製造廠名稱": "CAU0037000  NATIO PTY. LTD.",
-        "製造廠廠址": "14-22 CARRICK DRIVE, TULLAMARINE VIC 3043, AUSTRALIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "AUSTRALIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CAU0037000  NATIO PTY. LTD.",
+            "製造廠廠址": "14-22 CARRICK DRIVE, TULLAMARINE VIC 3043, AUSTRALIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRALIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

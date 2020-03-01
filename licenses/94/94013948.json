@@ -1,6 +1,6 @@
 {
     "code": "94013948",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013948",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013948",
     "time": "2020-02-26 11:20:15",
     "許可證字號": "衛部醫器輸壹字第013948號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6203280386  茵特斯克股份有限公司",
     "申請商地址": "臺中市南屯區嶺東路27號",
-    "主製造廠": {
-        "製造廠名稱": "MLT0001000  INTERSURGICAL UAB.",
-        "製造廠廠址": "ARNIONIU 60\/28 -1 , 18170 PABRADE, LITHUANIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "LITHUANIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MLT0001000  INTERSURGICAL UAB.",
+            "製造廠廠址": "ARNIONIU 60\/28 -1 , 18170 PABRADE, LITHUANIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "LITHUANIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

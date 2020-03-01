@@ -1,6 +1,6 @@
 {
     "code": "56026038",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026038",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026038",
     "time": "2020-02-26 07:30:32",
     "許可證字號": "衛部醫器輸字第026038號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620117J497  埃默高有限公司",
     "申請商地址": "新北市新店區北新路3段221號10樓",
-    "主製造廠": {
-        "製造廠名稱": "MCR0030000  Nitinol Devices &amp; Components Costa Rica, S. R. L.",
-        "製造廠廠址": "Coyol Free Zone, Building B15 and B25, El Coyol Alajuela, 20102, Costa Rica",
-        "製造廠公司地址": "",
-        "製造廠國別": "COSTA RICA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCR0030000  Nitinol Devices &amp; Components Costa Rica, S. R. L.",
+            "製造廠廠址": "Coyol Free Zone, Building B15 and B25, El Coyol Alajuela, 20102, Costa Rica",
+            "製造廠公司地址": "",
+            "製造廠國別": "COSTA RICA",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MIE0092000  CORDIS CASHEL",
+            "製造廠廠址": "Cahir Road, Cashel, Co. Tipperary, Ireland",
+            "製造廠公司地址": "",
+            "製造廠國別": "IRELAND",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

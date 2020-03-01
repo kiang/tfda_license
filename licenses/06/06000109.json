@@ -1,6 +1,6 @@
 {
     "code": "06000109",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06000109",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06000109",
     "time": "2020-02-25 15:18:23",
     "許可證字號": "衛署醫器輸字第000109號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0905221100  南發貿易有限公司",
     "申請商地址": "高雄巿鹽埕區大公路６６號",
-    "主製造廠": {
-        "製造廠名稱": "MJP0166000  TOP SURGICAL MFG. CO. LTD.",
-        "製造廠廠址": "31-21, SENJU MIYAMOTOCHO ADACHI-KU TOKYO JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0166000  TOP SURGICAL MFG. CO. LTD.",
+            "製造廠廠址": "31-21, SENJU MIYAMOTOCHO ADACHI-KU TOKYO JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

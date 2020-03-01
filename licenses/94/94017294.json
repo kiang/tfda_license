@@ -1,6 +1,6 @@
 {
     "code": "94017294",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017294",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017294",
     "time": "2020-02-26 12:06:28",
     "許可證字號": "衛部醫器輸壹字第017294號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 36GMP",
     "申請商名稱": "1206501100  博士倫股份有限公司",
     "申請商地址": "台北市大安區敦化南路2段95號16樓",
-    "主製造廠": {
-        "製造廠名稱": "MMX0134000  SURGICAL SPECIALTIES MEXICO, S. DE R.L. DE C.V.",
-        "製造廠廠址": "CORREDOR TIJUANA-ROSARITO 2000, #24702-B, EJIDO FRANCISCO VILLA, TIJUANA, B.C., C.P. 22235, MEXICO",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0134000  SURGICAL SPECIALTIES MEXICO, S. DE R.L. DE C.V.",
+            "製造廠廠址": "CORREDOR TIJUANA-ROSARITO 2000, #24702-B, EJIDO FRANCISCO VILLA, TIJUANA, B.C., C.P. 22235, MEXICO",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS0860100  BAUSCH &amp; LOMB INC.",
+            "製造廠廠址": "3365 TREE COURT INDUSTRIAL BLVD ST. LOUIS MO 63122 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

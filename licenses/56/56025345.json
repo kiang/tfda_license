@@ -1,6 +1,6 @@
 {
     "code": "56025345",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025345",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025345",
     "time": "2020-02-26 07:22:46",
     "許可證字號": "衛部醫器輸字第025345號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 1K安全監視\r\n                            \r\n                                (本產品依藥事法第45條規定列入安全監視，請使用單位配合執行監視項目並提供所得資料予許可證持有商)",
     "申請商名稱": "1119301100  荷商波士頓科技有限公司臺灣分公司",
     "申請商地址": "台北市南港區忠孝東路六段21號14樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS4450000  Stellartech Research Corporation",
-        "製造廠廠址": "560 Cottonwood Drive Milpitas, CA 95035 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS4450000  Stellartech Research Corporation",
+            "製造廠廠址": "560 Cottonwood Drive Milpitas, CA 95035 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS4226000  Boston Scientific Corporation",
+            "製造廠廠址": "300 Boston Scientific Way Marlborough, MA 01752, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

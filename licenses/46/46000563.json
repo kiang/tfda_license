@@ -1,6 +1,6 @@
 {
     "code": "46000563",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000563",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000563",
     "time": "2020-02-26 05:59:37",
     "許可證字號": "衛署醫器陸輸壹字第000563號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "6137070043  華新橡膠工業股份有限公司",
     "申請商地址": "彰化縣田中鎮沙崙里中州路2段751號",
-    "主製造廠": {
-        "製造廠名稱": "MCN0367000  SHIJIAZHUANG HONGRAY PLASTIC PRODUCTS CO., LTD",
-        "製造廠廠址": "NO. 135 XINHUA WEST ROAD SHIJIAZHUANG CITY HEBEI PROVINCE 050081, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0367000  SHIJIAZHUANG HONGRAY PLASTIC PRODUCTS CO., LTD",
+            "製造廠廠址": "NO. 135 XINHUA WEST ROAD SHIJIAZHUANG CITY HEBEI PROVINCE 050081, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "06019522",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019522",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019522",
     "time": "2020-02-25 19:48:04",
     "許可證字號": "衛署醫器輸字第019522號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620101I113  固鋒儀器有限公司",
     "申請商地址": "臺北市松山區民族東路７３７號",
-    "主製造廠": {
-        "製造廠名稱": "MBR0011000  WEM EQUIPAMENTOS ELETRONICOS LTDA",
-        "製造廠廠址": "RUA MARECHAL MASCARENHAS DE MORAES 550 --PQ INDL LAGOINHA-14095120- RIBEIRAO PRETO-SP, BRAZIL",
-        "製造廠公司地址": "",
-        "製造廠國別": "BRAZIL",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MBR0011000  WEM EQUIPAMENTOS ELETRONICOS LTDA",
+            "製造廠廠址": "RUA MARECHAL MASCARENHAS DE MORAES 550 --PQ INDL LAGOINHA-14095120- RIBEIRAO PRETO-SP, BRAZIL",
+            "製造廠公司地址": "",
+            "製造廠國別": "BRAZIL",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "96002188",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002188",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002188",
     "time": "2020-02-26 12:57:01",
     "許可證字號": "衛部醫器陸輸壹字第002188號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP 40大陸生產",
     "申請商名稱": "6231137916  薩摩亞商振典貿易股份有限公司台灣分公司",
     "申請商地址": "新北市土城區明德路二段111號",
-    "主製造廠": {
-        "製造廠名稱": "MCN1364000  ZHEJING JIAFENG ELECTRICAL &amp; MECHANICAL CO, LTD.",
-        "製造廠廠址": "No.128, Jinxiu Road, Luoxing Industrial District, Jiashan County, Zhejiang Province, 314100, China",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1364000  ZHEJING JIAFENG ELECTRICAL &amp; MECHANICAL CO, LTD.",
+            "製造廠廠址": "No.128, Jinxiu Road, Luoxing Industrial District, Jiashan County, Zhejiang Province, 314100, China",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

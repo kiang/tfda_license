@@ -1,6 +1,6 @@
 {
     "code": "94014154",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014154",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014154",
     "time": "2020-02-26 11:23:15",
     "許可證字號": "衛部醫器輸壹字第014154號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217067640  正德傷殘用具製造廠有限公司",
     "申請商地址": "台中市西屯區惠來里台中港路二段100之9號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP1128000  NAGANO PROSTHETICS＆ORTHOTICS CO., LTD.",
-        "製造廠廠址": "570-0043 5-23-8 MINAMITERAKATA HIGASHIDORI, MORIGUCHI CITY, OSAKA, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP1128000  NAGANO PROSTHETICS＆ORTHOTICS CO., LTD.",
+            "製造廠廠址": "570-0043 5-23-8 MINAMITERAKATA HIGASHIDORI, MORIGUCHI CITY, OSAKA, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "56027583",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027583",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027583",
     "time": "2020-02-26 07:47:07",
     "許可證字號": "衛部醫器輸字第027583號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "1119301100  荷商波士頓科技有限公司臺灣分公司",
     "申請商地址": "台北市南港區忠孝東路六段21號14樓",
-    "主製造廠": {
-        "製造廠名稱": "MMX0097100  Availmed S.A. de C.V.",
-        "製造廠廠址": "Ave. Paseo Reforma no. 8950, InteriorG1B y G1H, La Mesa, Tijuana, Baja California, C.P. 22116, Mexico",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0097100  Availmed S.A. de C.V.",
+            "製造廠廠址": "Ave. Paseo Reforma no. 8950, InteriorG1B y G1H, La Mesa, Tijuana, Baja California, C.P. 22116, Mexico",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MFR0949000  Boston Scientific International S.A.",
+            "製造廠廠址": "55 avenue des Champs Pierreux TSA 51101 92729 Nanterre Cedex, France",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

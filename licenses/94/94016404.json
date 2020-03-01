@@ -1,6 +1,6 @@
 {
     "code": "94016404",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016404",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016404",
     "time": "2020-02-26 11:55:00",
     "許可證字號": "衛部醫器輸壹字第016404號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "620102G160  信強儀器有限公司",
     "申請商地址": "臺北市大安區四維路198巷31弄12號2樓之3、之4及之5",
-    "主製造廠": {
-        "製造廠名稱": "MIL0851000  MOTORIKA MEDICAL (ISRAEL) LTD.",
-        "製造廠廠址": "3 HATOCHEN STR. CAESAREA 3088900, ISRAEL",
-        "製造廠公司地址": "",
-        "製造廠國別": "ISRAEL",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIL0851000  MOTORIKA MEDICAL (ISRAEL) LTD.",
+            "製造廠廠址": "3 HATOCHEN STR. CAESAREA 3088900, ISRAEL",
+            "製造廠公司地址": "",
+            "製造廠國別": "ISRAEL",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

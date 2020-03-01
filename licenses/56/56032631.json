@@ -1,6 +1,6 @@
 {
     "code": "56032631",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56032631",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56032631",
     "time": "2020-02-26 08:29:45",
     "許可證字號": "衛部醫器輸字第032631號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1419601100  台灣默克股份有限公司",
     "申請商地址": "台北市內湖區堤頂大道2段89號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MAU0118000  GENEA BIOMEDEX PTY LTD",
-        "製造廠廠址": "LEVEL 2, 321 KENT STREET, SYDNEY, NEW SOUTH WALES, 2000 AUSTRALIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "AUSTRALIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MAU0118000  GENEA BIOMEDEX PTY LTD",
+            "製造廠廠址": "LEVEL 2, 321 KENT STREET, SYDNEY, NEW SOUTH WALES, 2000 AUSTRALIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRALIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "56031271",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031271",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031271",
     "time": "2020-02-26 08:21:52",
     "許可證字號": "衛部醫器輸字第031271號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "0927701100  美商史賽克（遠東）有限公司台灣分公司",
     "申請商地址": "台北市中正區羅斯福路二段100號5樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MDE0024100  HENKE-SASS WOLF GMBH",
-        "製造廠廠址": "KELTENSTRASSE 1, 78532 TUTTLINGEN, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0024100  HENKE-SASS WOLF GMBH",
+            "製造廠廠址": "KELTENSTRASSE 1, 78532 TUTTLINGEN, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS0857000  STRYKER ENDOSCOPY",
+            "製造廠廠址": "5900 OPTICAL COURT SAN JOSE, CA 95138, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

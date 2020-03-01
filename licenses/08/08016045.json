@@ -1,6 +1,6 @@
 {
     "code": "08016045",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016045",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016045",
     "time": "2020-02-26 00:42:26",
     "許可證字號": "衛署粧輸字第016045號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0811401100  武昌貿易有限公司",
     "申請商地址": "台北市南京西路１３號８樓",
-    "主製造廠": {
-        "製造廠名稱": "CGR0008000  FROIMED Single Member P.C.",
-        "製造廠廠址": "77 Mitromara Street, 13678 Athens, Greece",
-        "製造廠公司地址": "",
-        "製造廠國別": "GREECE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CGR0008000  FROIMED Single Member P.C.",
+            "製造廠廠址": "77 Mitromara Street, 13678 Athens, Greece",
+            "製造廠公司地址": "",
+            "製造廠國別": "GREECE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

@@ -1,6 +1,6 @@
 {
     "code": "44007104",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007104",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44007104",
     "time": "2020-02-26 04:56:26",
     "許可證字號": "衛署醫器輸壹字第007104號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102V683  德恩奈國際股份有限公司",
     "申請商地址": "台北市大安區信義路四段303號12樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE0548000  BULK MEDICINES &amp; PHARMACEUTICALS PRODUCTION GMBH",
-        "製造廠廠址": "NEUHOFER WEICHE 48, 19370 PARCHIM, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0548000  BULK MEDICINES &amp; PHARMACEUTICALS PRODUCTION GMBH",
+            "製造廠廠址": "NEUHOFER WEICHE 48, 19370 PARCHIM, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,11 +1,12 @@
 {
     "code": "02009677",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02009677",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02009677",
     "time": "2020-02-25 09:30:12",
     "許可證字號": "衛署藥輸字第009677號",
     "註銷狀態": "已註銷",
     "註銷日期": "88\/09\/22",
     "註銷理由": "未展延而逾期者",
+    "製造許可登錄編號": "",
     "有效日期": "82\/01\/13",
     "發證日期": "71\/01\/13",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "0307201100  三公實業有限公司",
-        "申請商地址": "台北巿蘭州街５８號",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "FERROUS SULFATE, MANGANESE SULFATE, COBALTOUS SULFATE, METHIONINE DL-, CALCIUM PHOSPHATE DIBASIC ANHYDROUS, MAGNESIUM SULFATE, POTASSIUM SULFATE, ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ TO ETHINYLESTRADIOL), VITAMIN A, NIACINAMIDE (NICOTINAMIDE), VITAMIN B1 (MONONITRATE), RIBOFLAVIN (VIT B2), PYRIDOXINE(VITAMIN B6), CYANOCOBALAMIN (VIT B12), FOLIC ACID, PANTOTHENATE CALCIUM, INOSITOL (MESO-INOSITOL), ASCORBIC ACID (VIT C), ERGOCALCIFEROL (VIT D2CALCIFEROL), TOCOPHEROL (ACETATE ALPHA DL- ), RUTIN, SODIUM MOLYBDATE, ZINC SULFATE",
+    "限制項目": "02輸　入",
+    "申請商名稱": "0307201100  三公實業有限公司",
+    "申請商地址": "台北巿蘭州街５８號",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FDE0129000  LABORATORIUM APIA WALTER SPEISER KG",
+            "製造廠廠址": "IM HEIDL 1 763 LAHR \/SCHWARWALD",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [

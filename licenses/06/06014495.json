@@ -1,6 +1,6 @@
 {
     "code": "06014495",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014495",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014495",
     "time": "2020-02-25 18:50:22",
     "許可證字號": "衛署醫器輸字第014495號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0835401100  臺灣泰科醫藥股份有限公司",
     "申請商地址": "台北市內湖區瑞光路407號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MFR0155000  MALLINCKRODT DEVELOPPEMENT FRANCE",
-        "製造廠廠址": "PARC TECHNOLOGIQUE DE BRABOIS-10 ALLEE PELLETIER DOISY-54601 VILLERS-LES-NANCY CEDEX, FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR0155000  MALLINCKRODT DEVELOPPEMENT FRANCE",
+            "製造廠廠址": "PARC TECHNOLOGIQUE DE BRABOIS-10 ALLEE PELLETIER DOISY-54601 VILLERS-LES-NANCY CEDEX, FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

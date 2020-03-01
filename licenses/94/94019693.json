@@ -1,6 +1,6 @@
 {
     "code": "94019693",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019693",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019693",
     "time": "2020-02-26 12:37:05",
     "許可證字號": "衛部醫器輸壹字第019693號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6231152646  德林股份有限公司",
     "申請商地址": "新北市五股區五權七路7號",
-    "主製造廠": {
-        "製造廠名稱": "MKR1025000  ST&amp;G Corporation",
-        "製造廠廠址": "Room No.63, #43, Yangsan-ro, Yeongdeungpo-gu, Seoul, Republic of Korea",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR1025000  ST&amp;G Corporation",
+            "製造廠廠址": "Room No.63, #43, Yangsan-ro, Yeongdeungpo-gu, Seoul, Republic of Korea",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "6131150033  德林股份有限公司",
+            "製造廠廠址": "新北市五股區五權七路7號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

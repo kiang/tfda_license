@@ -1,6 +1,6 @@
 {
     "code": "06006413",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06006413",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06006413",
     "time": "2020-02-25 17:09:12",
     "許可證字號": "衛署醫器輸字第006413號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 14輸入須附同意書（每次輸入均須取得原子能委員會之同意書為憑）",
     "申請商名稱": "0406101100  友信行股份有限公司",
     "申請商地址": "台北市敦化南路二段９７號１４樓",
-    "主製造廠": {
-        "製造廠名稱": "MCA0008000  BEST THERATRONICS LTD.",
-        "製造廠廠址": "413 MARCH ROAD, OTTAWA ONTARIO, CANADA K2K 0E4",
-        "製造廠公司地址": "",
-        "製造廠國別": "CANADA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCA0008000  BEST THERATRONICS LTD.",
+            "製造廠廠址": "413 MARCH ROAD, OTTAWA ONTARIO, CANADA K2K 0E4",
+            "製造廠公司地址": "",
+            "製造廠國別": "CANADA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

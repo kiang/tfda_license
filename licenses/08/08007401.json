@@ -1,6 +1,6 @@
 {
     "code": "08007401",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08007401",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08007401",
     "time": "2020-02-25 23:11:26",
     "許可證字號": "衛署粧輸字第007401號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6612374081  景明化工有限公司",
     "申請商地址": "苗栗縣頭份鎮後庄里文化街21號",
-    "主製造廠": {
-        "製造廠名稱": "CUS0118000  BIO-SAFE SKIN PRODUCTS",
-        "製造廠廠址": "4120 SE INTERNATIONAL WAY SUITE A-112 MILWAUKIE OR 97222 U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CUS0118000  BIO-SAFE SKIN PRODUCTS",
+            "製造廠廠址": "4120 SE INTERNATIONAL WAY SUITE A-112 MILWAUKIE OR 97222 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

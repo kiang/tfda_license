@@ -1,11 +1,12 @@
 {
     "code": "02021614",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021614",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021614",
     "time": "2020-02-25 12:44:28",
     "許可證字號": "衛署藥輸字第021614號",
     "註銷狀態": "已註銷",
     "註銷日期": "99\/09\/21",
     "註銷理由": "屆期未申請展延",
+    "製造許可登錄編號": "",
     "有效日期": "96\/04\/03",
     "發證日期": "86\/04\/03",
     "許可證種類": "原料藥",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "01製劑原料",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "1424401100  臺田藥品股份有限公司",
-        "申請商地址": "臺北巿南京東路５段１０８號１１Ｆ",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "TYROSINE",
+    "限制項目": "02輸　入",
+    "申請商名稱": "1424401100  臺田藥品股份有限公司",
+    "申請商地址": "臺北巿南京東路５段１０８號１１Ｆ",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FJP0226100  NIPPON RIKAGAKUYAKUHIN CO. LTD. (ASHIKAGA PLANT)",
+            "製造廠廠址": "610 YANADA-CHO ASHIKAGA-SHI TOCHIGI-KEN JAPAN2-12,NIHONBASHI-HONCHO 4-CHOME,CHUOKU TOKYO 103 JAPAN",
+            "製造廠公司地址": "2-12,NIHONBASHI-HONCHO 4-CHOME,CHUOKU TOKYO 103 JAPAN",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "CCC號列": "29225090902 其他胺醇酚、胺酸酚及其他含氧官能基之胺基化合物Other amino-alcohol-phenols, amino-acid-phenols and other amino-compounds with oxygen function",
     "藥理治療分類": "",
     "ingredients": [

@@ -1,6 +1,6 @@
 {
     "code": "96002808",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002808",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002808",
     "time": "2020-02-26 13:04:13",
     "許可證字號": "衛部醫器陸輸壹字第002808號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "620102X543  瑞鋐儀器股份有限公司",
     "申請商地址": "高雄市左營區榮成一街11號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN0255100  PARAMOUNT BED (CHINA) CO., LTD",
-        "製造廠廠址": "PLOT A-105, WUXI NATIONAL HI&amp;NEW TECH INDUSTRIAL DEVELOPMENT ZONE, 214028 WUXI JIANGSU, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0255100  PARAMOUNT BED (CHINA) CO., LTD",
+            "製造廠廠址": "PLOT A-105, WUXI NATIONAL HI&amp;NEW TECH INDUSTRIAL DEVELOPMENT ZONE, 214028 WUXI JIANGSU, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

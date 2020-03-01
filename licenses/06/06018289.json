@@ -1,6 +1,6 @@
 {
     "code": "06018289",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06018289",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06018289",
     "time": "2020-02-25 19:33:45",
     "許可證字號": "衛署醫器輸字第018289號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620110H937  歐強國際有限公司",
     "申請商地址": "台北市南京東路二段66號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MSE0073000  MEDITEAM DENTAL AB",
-        "製造廠廠址": "MEDICINAREGATAN 8B SE-413 46 GOTEBORG SWEDEN",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWEDEN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MSE0073000  MEDITEAM DENTAL AB",
+            "製造廠廠址": "MEDICINAREGATAN 8B SE-413 46 GOTEBORG SWEDEN",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWEDEN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

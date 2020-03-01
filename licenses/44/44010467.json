@@ -1,6 +1,6 @@
 {
     "code": "44010467",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010467",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44010467",
     "time": "2020-02-26 05:25:24",
     "許可證字號": "衛署醫器輸壹字第010467號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623106B659  喜愛國際有限公司",
     "申請商地址": "新北市新莊區中港路310號11樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0404000  INVISIBLE TECHNOLOGY CO., LTD",
-        "製造廠廠址": "4FLOOR JC B\/D, 566-23, SHINSA-DONG, KANGNAM-GU, SEOUL, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0404000  INVISIBLE TECHNOLOGY CO., LTD",
+            "製造廠廠址": "4FLOOR JC B\/D, 566-23, SHINSA-DONG, KANGNAM-GU, SEOUL, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

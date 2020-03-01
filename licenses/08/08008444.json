@@ -1,6 +1,6 @@
 {
     "code": "08008444",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08008444",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08008444",
     "time": "2020-02-25 23:22:40",
     "許可證字號": "衛署粧輸字第008444號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0615901100  百慕達商麗美容股份有限公司台灣分公司",
     "申請商地址": "台北巿南京東路四段161號11樓",
-    "主製造廠": {
-        "製造廠名稱": "CCO1300450  REVLON INTERNATIONAL CORP.",
-        "製造廠廠址": "P.O. BOX 1, EWENNY ROAD, MAESTEG, MID-GLAMORGAN SOUTH WALES CF34, 9TH, U.K.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CCO1300450  REVLON INTERNATIONAL CORP.",
+            "製造廠廠址": "P.O. BOX 1, EWENNY ROAD, MAESTEG, MID-GLAMORGAN SOUTH WALES CF34, 9TH, U.K.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

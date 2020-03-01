@@ -1,11 +1,12 @@
 {
     "code": "02023766",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023766",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023766",
     "time": "2020-02-25 13:12:20",
     "許可證字號": "衛署藥輸字第023766號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
+    "製造許可登錄編號": "",
     "有效日期": "107\/07\/01",
     "發證日期": "92\/07\/01",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入 53依本署七七公告事項八得免除國內進行臨床試驗之特殊醫療需要之新藥",
-        "申請商名稱": "0419901100  天義企業股份有限公司",
-        "申請商地址": "台北市復興南路一段１２９號５樓",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "SODIUM PHOSPHATE DIBASIC (eq to DISOD. HYDROGEN PHOSPHATE) (eq to DISODIUM PHOSPHATE), SODIUM PHOSPHATE MONOBASIC (EQ TO MONOSODIUM PHOSPHATE)(EQ TO SODIUM DIHYDROGEN PHOSPHATE)",
+    "限制項目": "02輸　入 53依本署七七公告事項八得免除國內進行臨床試驗之特殊醫療需要之新藥",
+    "申請商名稱": "0419901100  天義企業股份有限公司",
+    "申請商地址": "台北市復興南路一段１２９號５樓",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FUS0041000  C.B. FLEET CO. INC.",
+            "製造廠廠址": "4615 MURRY PLACE LYNCHBURG VIRGINIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "CCC號列": "30043200002 其他醫藥製劑，含有腎上腺皮質類固醇荷爾蒙及其衍生物或結構式類似者Other medicaments, containing corticosteroid hormones, their derivatives or structural analogues",
     "藥理治療分類": "",
     "ingredients": [

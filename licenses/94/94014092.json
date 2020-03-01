@@ -1,6 +1,6 @@
 {
     "code": "94014092",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014092",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014092",
     "time": "2020-02-26 11:22:21",
     "許可證字號": "衛部醫器輸壹字第014092號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 36GMP",
     "申請商名稱": "620117L464  台灣悅廷和有限公司",
     "申請商地址": "臺北市信義區市民大道6段288號6樓之8",
-    "主製造廠": {
-        "製造廠名稱": "MUS4114000  C.R. BARD,INC. BARD MEDICAL DIVISION",
-        "製造廠廠址": "8195 INDUSTRIAL BOULEVARD COVINGTON,GA30014,U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS4114000  C.R. BARD,INC. BARD MEDICAL DIVISION",
+            "製造廠廠址": "8195 INDUSTRIAL BOULEVARD COVINGTON,GA30014,U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS2765000  DATASCOPE CORPORATION",
+            "製造廠廠址": "15 LAW DRIVE FAIRFIELD, NJ 07004-0011 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

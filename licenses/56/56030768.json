@@ -1,6 +1,6 @@
 {
     "code": "56030768",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030768",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030768",
     "time": "2020-02-26 08:17:05",
     "許可證字號": "衛部醫器輸字第030768號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620111F162  台灣實瞳股份有限公司",
     "申請商地址": "新北市汐止區新台五路1段97號26樓之12(B棟)",
-    "主製造廠": {
-        "製造廠名稱": "MJP6265000  SEED Co., Ltd. Kounosu Laboratory",
-        "製造廠廠址": "1030-7 Fukuro, Kounosu, Saitama, Japan",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP6265000  SEED Co., Ltd. Kounosu Laboratory",
+            "製造廠廠址": "1030-7 Fukuro, Kounosu, Saitama, Japan",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MJP6196000  SEED Co., Ltd.",
+            "製造廠廠址": "2-40-2 Hongo, Bunkyo-ku, Tokyo 113-8402, Japan",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

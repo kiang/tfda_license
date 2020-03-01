@@ -1,6 +1,6 @@
 {
     "code": "56026864",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026864",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026864",
     "time": "2020-02-26 07:39:24",
     "許可證字號": "衛部醫器輸字第026864號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623101B506  勤達醫療器材股份有限公司",
     "申請商地址": "新北市板橋區民生路一段33號22樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MIN0074100  Kanam Latex Industries Pvt. Ltd.",
-        "製造廠廠址": "No. 12\/67C, Anathanadarkudy, Asaripallam PO, Nagercoil-629 201, Kanyakumari District, Tamil Nadu, India",
-        "製造廠公司地址": "",
-        "製造廠國別": "INDIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIN0074100  Kanam Latex Industries Pvt. Ltd.",
+            "製造廠廠址": "No. 12\/67C, Anathanadarkudy, Asaripallam PO, Nagercoil-629 201, Kanyakumari District, Tamil Nadu, India",
+            "製造廠公司地址": "",
+            "製造廠國別": "INDIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

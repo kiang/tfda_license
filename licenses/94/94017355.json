@@ -1,6 +1,6 @@
 {
     "code": "94017355",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017355",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017355",
     "time": "2020-02-26 12:07:08",
     "許可證字號": "衛部醫器輸壹字第017355號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620205J655  亞霆企業有限公司",
     "申請商地址": "高雄市三民區信國路97號",
-    "主製造廠": {
-        "製造廠名稱": "MFR1001000  WAMKEY",
-        "製造廠廠址": "TECH&#39;INDUS B21 645 RUE MAYOR DE MONTRICHER 13854 AIX-EN-PROVENCE CEDEX 3 FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR1001000  WAMKEY",
+            "製造廠廠址": "TECH&#39;INDUS B21 645 RUE MAYOR DE MONTRICHER 13854 AIX-EN-PROVENCE CEDEX 3 FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

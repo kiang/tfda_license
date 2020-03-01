@@ -1,6 +1,6 @@
 {
     "code": "44005442",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44005442",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44005442",
     "time": "2020-02-26 04:46:00",
     "許可證字號": "衛署醫器輸壹字第005442號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201015158  湧傑企業股份有限公司",
     "申請商地址": "台北市松山區敦化南路一段2號5樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MPL0003000  CHIFA SP Z.O.O.",
-        "製造廠廠址": "UL TYSIQCLECIA 14, 64-300 NOWY TOMYSL, POLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "POLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MPL0003000  CHIFA SP Z.O.O.",
+            "製造廠廠址": "UL TYSIQCLECIA 14, 64-300 NOWY TOMYSL, POLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "POLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

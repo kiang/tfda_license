@@ -1,6 +1,6 @@
 {
     "code": "56029698",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029698",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029698",
     "time": "2020-02-26 08:07:35",
     "許可證字號": "衛部醫器輸字第029698號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6211072218  理工科技顧問股份有限公司",
     "申請商地址": "臺北市大安區新生南路1段103巷13號",
-    "主製造廠": {
-        "製造廠名稱": "MJP1062000  KANEKA CORPORATION OSAKA PLANT",
-        "製造廠廠址": "5-1-1, TORIKAI-NISHI, SETTSU-CITY, OSAKA, 566-0072 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP1062000  KANEKA CORPORATION OSAKA PLANT",
+            "製造廠廠址": "5-1-1, TORIKAI-NISHI, SETTSU-CITY, OSAKA, 566-0072 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MJP1251000  KANEKA CORPORATION",
+            "製造廠廠址": "3-18, 2-Chome, Nakanoshima, Kita-ku, Osaka-city, OSAKA, 530-8288, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

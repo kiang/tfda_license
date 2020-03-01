@@ -1,6 +1,6 @@
 {
     "code": "06022271",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022271",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022271",
     "time": "2020-02-25 20:18:50",
     "許可證字號": "衛署醫器輸字第022271號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620110H937  歐強國際有限公司",
     "申請商地址": "台北市南京東路二段66號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MFR0152000  BIOMATLANTE",
-        "製造廠廠址": "ZA. LES QUATRE NATIONS, 5, RUE E BELIN, F-44360 VIGNEUX DE BRETAGNE, FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR0152000  BIOMATLANTE",
+            "製造廠廠址": "ZA. LES QUATRE NATIONS, 5, RUE E BELIN, F-44360 VIGNEUX DE BRETAGNE, FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

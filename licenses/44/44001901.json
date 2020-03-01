@@ -1,6 +1,6 @@
 {
     "code": "44001901",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44001901",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44001901",
     "time": "2020-02-26 04:28:18",
     "許可證字號": "衛署醫器輸壹字第001901號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0701821100  宏春貿易有限公司",
     "申請商地址": "高雄市三民區建國二路２１４號",
-    "主製造廠": {
-        "製造廠名稱": "MPK0003000  QURESHI MANUFACTURING CORPORATION",
-        "製造廠廠址": "161\/C SMALL INDUSTRIAL ESTATE SIALKOT, PAKISTAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "PAKISTAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MPK0003000  QURESHI MANUFACTURING CORPORATION",
+            "製造廠廠址": "161\/C SMALL INDUSTRIAL ESTATE SIALKOT, PAKISTAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "PAKISTAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

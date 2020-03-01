@@ -1,6 +1,6 @@
 {
     "code": "94016425",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016425",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016425",
     "time": "2020-02-26 11:55:17",
     "許可證字號": "衛部醫器輸壹字第016425號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620101U797  雅美思蝶有限公司",
     "申請商地址": "台北市松山區敦化南路一段21號6樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MHK0063000  CREATION PLASTIC MANUFACTORY LIMITED",
-        "製造廠廠址": "(HONG KONG) FLAT B, 15F., WAYLEE IND. CTR., 30-38 TSUEN KING CIRCUIT, TSUEN WAN, N.T., HONG KONG.",
-        "製造廠公司地址": "",
-        "製造廠國別": "HONG KONG",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MHK0063000  CREATION PLASTIC MANUFACTORY LIMITED",
+            "製造廠廠址": "(HONG KONG) FLAT B, 15F., WAYLEE IND. CTR., 30-38 TSUEN KING CIRCUIT, TSUEN WAN, N.T., HONG KONG.",
+            "製造廠公司地址": "",
+            "製造廠國別": "HONG KONG",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "06022089",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022089",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022089",
     "time": "2020-02-25 20:16:55",
     "許可證字號": "衛署醫器輸字第022089號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620117L464  台灣悅廷和有限公司",
     "申請商地址": "臺北市信義區市民大道6段288號6樓之8",
-    "主製造廠": {
-        "製造廠名稱": "MUS0904000  MAQUET CARDIOVASCULAR LLC",
-        "製造廠廠址": "45 BARBOUR POND DRIVE WAYNE NEW JERSEY 07470 U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0904000  MAQUET CARDIOVASCULAR LLC",
+            "製造廠廠址": "45 BARBOUR POND DRIVE WAYNE NEW JERSEY 07470 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MDE1299000  VISMED GmbH",
+            "製造廠廠址": "Kastellstr.8 76227 Karlsruhe, Germany",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "94018211",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018211",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018211",
     "time": "2020-02-26 12:23:19",
     "許可證字號": "衛部醫器輸壹字第018211號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0713318100  宏國醫療儀器有限公司",
     "申請商地址": "嘉義縣六腳鄉蘇厝村蘇厝寮97號",
-    "主製造廠": {
-        "製造廠名稱": "MUS4884000  ATI(ATITAN INSTRUMENTS), ARNOLD TUBER INDUSTRIES LLC",
-        "製造廠廠址": "10 CENTRE DRIVE, ORCHARD PARK, NY 14127, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS4884000  ATI(ATITAN INSTRUMENTS), ARNOLD TUBER INDUSTRIES LLC",
+            "製造廠廠址": "10 CENTRE DRIVE, ORCHARD PARK, NY 14127, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

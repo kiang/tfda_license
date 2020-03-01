@@ -1,6 +1,6 @@
 {
     "code": "92000729",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000729",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000729",
     "time": "2020-02-26 10:13:27",
     "許可證字號": "衛部醫器陸輸字第000729號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "1426801100  台灣諾和諾德藥品股份有限公司",
     "申請商地址": "台北市大安區敦化南路二段216號7樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MCN0679000  NOVO NORDISK (CHINA) PHARMACEUTICALS CO., LTD.",
-        "製造廠廠址": "NO. 99 NANHAI ROAD TEDA, TIANJIN, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0679000  NOVO NORDISK (CHINA) PHARMACEUTICALS CO., LTD.",
+            "製造廠廠址": "NO. 99 NANHAI ROAD TEDA, TIANJIN, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "FDK0043000  NOVO NORDISK A\/S",
+            "製造廠廠址": "Novo Alle, DK 2880 Bagsvaerd, Denmark",
+            "製造廠公司地址": "",
+            "製造廠國別": "DENMARK",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

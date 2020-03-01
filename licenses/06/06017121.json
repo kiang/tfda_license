@@ -1,6 +1,6 @@
 {
     "code": "06017121",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06017121",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06017121",
     "time": "2020-02-25 19:19:37",
     "許可證字號": "衛署醫器輸字第017121號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102L923  霍特電腦中心有限公司",
     "申請商地址": "臺北市大安區仁愛路3段28號10樓之7",
-    "主製造廠": {
-        "製造廠名稱": "MUS2207000  ROZINN ELECTRONICS, INC.",
-        "製造廠廠址": "71-22 MYRTLE AVENUE, GLENDALE, NEW YORK 11385-7254 U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2207000  ROZINN ELECTRONICS, INC.",
+            "製造廠廠址": "71-22 MYRTLE AVENUE, GLENDALE, NEW YORK 11385-7254 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

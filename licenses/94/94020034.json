@@ -1,6 +1,6 @@
 {
     "code": "94020034",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020034",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020034",
     "time": "2020-02-26 12:40:38",
     "許可證字號": "衛部醫器輸壹字第020034號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623202J262  永林生物科技有限公司",
     "申請商地址": "桃園縣中壢市興國里新生路143號2樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0152200  Jeisys Medical Inc.",
-        "製造廠廠址": "401, 308, 307, Daeryung Techno Town 8th, 96, Gamasan-ro, Geumcheon-gu, Seoul, Korea",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0152200  Jeisys Medical Inc.",
+            "製造廠廠址": "401, 308, 307, Daeryung Techno Town 8th, 96, Gamasan-ro, Geumcheon-gu, Seoul, Korea",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

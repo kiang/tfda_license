@@ -1,6 +1,6 @@
 {
     "code": "06022516",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022516",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022516",
     "time": "2020-02-25 20:21:25",
     "許可證字號": "衛署醫器輸字第022516號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6241313642  康奈爾股份有限公司",
     "申請商地址": "新北市蘆洲區集賢路393號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MGB0397000  INVITROGEN LTD.",
-        "製造廠廠址": "11 BASSENDALE ROAD CROFT BUSINESS PARK, BROMBOROUGH, CH62 3QL, ENGLAND, UNITED KINGDOM",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0397000  INVITROGEN LTD.",
+            "製造廠廠址": "11 BASSENDALE ROAD CROFT BUSINESS PARK, BROMBOROUGH, CH62 3QL, ENGLAND, UNITED KINGDOM",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "94019768",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019768",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019768",
     "time": "2020-02-26 12:37:52",
     "許可證字號": "衛部醫器輸壹字第019768號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6205321264  帝博企業有限公司",
     "申請商地址": "臺南市東區和平里自由路二段41號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MDK0144000  SSI Diagnostica",
-        "製造廠廠址": "2 Herredsve jen DK-3400 Hillerod Denmark",
-        "製造廠公司地址": "",
-        "製造廠國別": "DENMARK",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDK0144000  SSI Diagnostica",
+            "製造廠廠址": "2 Herredsve jen DK-3400 Hillerod Denmark",
+            "製造廠公司地址": "",
+            "製造廠國別": "DENMARK",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

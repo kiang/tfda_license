@@ -1,6 +1,6 @@
 {
     "code": "06008145",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06008145",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06008145",
     "time": "2020-02-25 17:33:39",
     "許可證字號": "衛署醫器輸字第008145號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0617501100  百特醫療產品股份有限公司",
     "申請商地址": "台北市敦化南路二段２１６號１５樓",
-    "主製造廠": {
-        "製造廠名稱": "MSG0010100  BAXTER HEALTHCARE S.A.",
-        "製造廠廠址": "2 WOOKLANDS INDUSTRIAL PARK D, SINGAPORE 738750",
-        "製造廠公司地址": "",
-        "製造廠國別": "IRELAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MSG0010100  BAXTER HEALTHCARE S.A.",
+            "製造廠廠址": "2 WOOKLANDS INDUSTRIAL PARK D, SINGAPORE 738750",
+            "製造廠公司地址": "",
+            "製造廠國別": "IRELAND",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS2030000  BAXTER HEALTHCARE CORPORATION",
+            "製造廠廠址": "ONE BAXTER PARKWAY DEERFIELD, ILLINOIS 60015 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

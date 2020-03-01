@@ -1,6 +1,6 @@
 {
     "code": "08006647",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08006647",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08006647",
     "time": "2020-02-25 23:03:05",
     "許可證字號": "衛署粧輸字第006647號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1902909100  麗琪國際貿易有限公司",
     "申請商地址": "台中市中港路二段６０之８號８樓之６",
-    "主製造廠": {
-        "製造廠名稱": "CKR0009000  ROSEE COSMETICS CO., LTD.",
-        "製造廠廠址": "587-23 SHIN SA-DONG KANG NAM-KU SEOUL LOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CKR0009000  ROSEE COSMETICS CO., LTD.",
+            "製造廠廠址": "587-23 SHIN SA-DONG KANG NAM-KU SEOUL LOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

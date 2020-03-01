@@ -1,6 +1,6 @@
 {
     "code": "08008512",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08008512",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08008512",
     "time": "2020-02-25 23:23:22",
     "許可證字號": "衛署粧輸字第008512號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1429602100  臺灣雅芳股份有限公司",
     "申請商地址": "台北市大安區羅斯福路二段１００號２２樓",
-    "主製造廠": {
-        "製造廠名稱": "CCO0700230  AVON CANADA INC. (CANADA)",
-        "製造廠廠址": "5500 TRANS CANADA HIGHWAY POINTE CLAIRE QUEBEC H9R 1B6 CANADA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CANADA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CCO0700230  AVON CANADA INC. (CANADA)",
+            "製造廠廠址": "5500 TRANS CANADA HIGHWAY POINTE CLAIRE QUEBEC H9R 1B6 CANADA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CANADA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

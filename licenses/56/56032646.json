@@ -1,6 +1,6 @@
 {
     "code": "56032646",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56032646",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56032646",
     "time": "2020-02-26 08:29:57",
     "許可證字號": "衛部醫器輸字第032646號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620118G563  醫信國際有限公司",
     "申請商地址": "臺北市中正區愛國東路22號9樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MUS1741100  STERIS CORPORATION",
-        "製造廠廠址": "2720 GUNTER PARK DRIVE, MONTGOMERY, AL 36109 USA.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS1741100  STERIS CORPORATION",
+            "製造廠廠址": "2720 GUNTER PARK DRIVE, MONTGOMERY, AL 36109 USA.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

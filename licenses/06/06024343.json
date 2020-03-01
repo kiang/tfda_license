@@ -1,6 +1,6 @@
 {
     "code": "06024343",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024343",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024343",
     "time": "2020-02-25 20:41:02",
     "許可證字號": "衛署醫器輸字第024343號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1436301100  台灣費森尤斯醫藥股份有限公司",
     "申請商地址": "台北市內湖區瑞湖街58號7樓",
-    "主製造廠": {
-        "製造廠名稱": "MFR0157100  FRESENIUS MEDICAL CARE SMAD",
-        "製造廠廠址": "Z.I. DE LA PONTCHONNIERE, ROUTE DE LA CHANADE\/SAVIGNY, 69591 L&#39;ARBRESLE CEDEX, FRANCE.",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR0157100  FRESENIUS MEDICAL CARE SMAD",
+            "製造廠廠址": "Z.I. DE LA PONTCHONNIERE, ROUTE DE LA CHANADE\/SAVIGNY, 69591 L&#39;ARBRESLE CEDEX, FRANCE.",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MDE0709100  Fresenius Medical Care AG &amp; Co. KGaA",
+            "製造廠廠址": "61346 Bad Homburg, Germany",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

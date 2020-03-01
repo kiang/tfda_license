@@ -1,6 +1,6 @@
 {
     "code": "94020467",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020467",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020467",
     "time": "2020-02-26 12:44:18",
     "許可證字號": "衛部醫器輸壹字第020467號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623101G920  耀龍生技有限公司",
     "申請商地址": "新北市中和區建康路3號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MIE0112100  HIBERGENE DIAGNOSTICS",
-        "製造廠廠址": "BLOCK 2, BRACKEN BUSINESS PARK, SANDYFORD, DUBLIN 18, IRELAND.",
-        "製造廠公司地址": "",
-        "製造廠國別": "IRELAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIE0112100  HIBERGENE DIAGNOSTICS",
+            "製造廠廠址": "BLOCK 2, BRACKEN BUSINESS PARK, SANDYFORD, DUBLIN 18, IRELAND.",
+            "製造廠公司地址": "",
+            "製造廠國別": "IRELAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

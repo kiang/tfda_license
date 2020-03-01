@@ -1,6 +1,6 @@
 {
     "code": "94013922",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013922",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94013922",
     "time": "2020-02-26 11:19:54",
     "許可證字號": "衛部醫器輸壹字第013922號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6401103273  優能福祉股份有限公司",
     "申請商地址": "臺北市中山區長安東路一段18號8樓",
-    "主製造廠": {
-        "製造廠名稱": "MDK0065000  V. GULDMANN A\/S",
-        "製造廠廠址": "GRAHAM BELLS VEJ21-23A DK-8200 ARHUS N, DENMARK",
-        "製造廠公司地址": "",
-        "製造廠國別": "DENMARK",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDK0065000  V. GULDMANN A\/S",
+            "製造廠廠址": "GRAHAM BELLS VEJ21-23A DK-8200 ARHUS N, DENMARK",
+            "製造廠公司地址": "",
+            "製造廠國別": "DENMARK",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

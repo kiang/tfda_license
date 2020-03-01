@@ -1,11 +1,12 @@
 {
     "code": "02016586",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02016586",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02016586",
     "time": "2020-02-25 11:23:19",
     "許可證字號": "衛署藥輸字第016586號",
     "註銷狀態": "已註銷",
     "註銷日期": "82\/04\/27",
     "註銷理由": "中文品名變更",
+    "製造許可登錄編號": "",
     "有效日期": "82\/08\/31",
     "發證日期": "77\/05\/23",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "0610701100  仲發實業有限公司",
-        "申請商地址": "台北巿四維路８４巷１號之２",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "LYSINE L- HCL ( EQ TO L-LYSINE HCL), CHOLINE BITARTRATE, VITAMIN A (PALMITATE), NIACINAMIDE (NICOTINAMIDE), VITAMIN B1 (MONONITRATE), RIBOFLAVIN (VIT B2), PYRIDOXINE(VITAMIN B6), CYANOCOBALAMIN (VIT B12), PANTOTHENATE CALCIUM, ASCORBIC ACID (VIT C), VITAMIN D (ERGOCALCIFEROL), TOCOPHEROL ALPHA-, GINSENG POWDER, ROYAL JELLY",
+    "限制項目": "02輸　入",
+    "申請商名稱": "0610701100  仲發實業有限公司",
+    "申請商地址": "台北巿四維路８４巷１號之２",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FAU0018000  R.P. SCHERER HOLDINGS PTY. LTD.",
+            "製造廠廠址": "39-47 STAFFORD STREET HUNTING-DALE, MELBOURNE VICTORIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRALIA",
+            "製程": ""
+        }
+    ],
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [

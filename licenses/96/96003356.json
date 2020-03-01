@@ -1,6 +1,6 @@
 {
     "code": "96003356",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003356",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003356",
     "time": "2020-02-26 13:09:32",
     "許可證字號": "衛部醫器陸輸壹字第003356號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6201117611  貝克西弗股份有限公司",
     "申請商地址": "台北市內湖區瑞光路258巷56號3樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MCN1745000  Yantai Hao Bang Protection Technology Co., Ltd",
-        "製造廠廠址": "South of xufu stree, xufu street, longkou city, Yantai City Shandong Province, China",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1745000  Yantai Hao Bang Protection Technology Co., Ltd",
+            "製造廠廠址": "South of xufu stree, xufu street, longkou city, Yantai City Shandong Province, China",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

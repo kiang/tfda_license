@@ -1,6 +1,6 @@
 {
     "code": "44006308",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006308",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006308",
     "time": "2020-02-26 04:50:24",
     "許可證字號": "衛署醫器輸壹字第006308號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231103787  軒亮股份有限公司",
     "申請商地址": "新北市淡水區中正東路2段29-1號21樓",
-    "主製造廠": {
-        "製造廠名稱": "MFR0829000  ANTHOGYR SAS",
-        "製造廠廠址": "2 237, AVENUE ANDRE LASQUIN, 74700 SALLANCHES, FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR0829000  ANTHOGYR SAS",
+            "製造廠廠址": "2 237, AVENUE ANDRE LASQUIN, 74700 SALLANCHES, FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

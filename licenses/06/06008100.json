@@ -1,6 +1,6 @@
 {
     "code": "06008100",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06008100",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06008100",
     "time": "2020-02-25 17:33:08",
     "許可證字號": "衛署醫器輸字第008100號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1316201100  瑞帝股份有限公司",
     "申請商地址": "台北巿中山區民生東路２段１８０號５樓",
-    "主製造廠": {
-        "製造廠名稱": "MFI0010000  TONOMETRICS DIVISION OF INSTRUMENTARIUM CORPORATION",
-        "製造廠廠址": "TEOLLISUUSKATU 27\/KUORTANEENKATU 2,FIN-00510 HELSINKI,FINLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "FINLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFI0010000  TONOMETRICS DIVISION OF INSTRUMENTARIUM CORPORATION",
+            "製造廠廠址": "TEOLLISUUSKATU 27\/KUORTANEENKATU 2,FIN-00510 HELSINKI,FINLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "FINLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "44004403",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44004403",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44004403",
     "time": "2020-02-26 04:40:40",
     "許可證字號": "衛署醫器輸壹字第004403號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6131071242  力仁器械廠股份有限公司",
     "申請商地址": "新北市樹林區中正路415號2樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MPK0002000  SURGICON (PVT) LIMITED",
-        "製造廠廠址": "KHADIM ALIROAD, SIALKOT, PAKISTAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "PAKISTAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MPK0002000  SURGICON (PVT) LIMITED",
+            "製造廠廠址": "KHADIM ALIROAD, SIALKOT, PAKISTAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "PAKISTAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

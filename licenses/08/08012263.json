@@ -1,6 +1,6 @@
 {
     "code": "08012263",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08012263",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08012263",
     "time": "2020-02-25 23:59:33",
     "許可證字號": "衛署粧輸字第012263號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1227702100  都都行有限公司",
     "申請商地址": "台北市南港區八德路4段768巷5號6樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MES0026000  COLOMER BEAUTY AND PROFESSIONAL PRODUCTS, S.L.",
-        "製造廠廠址": "CARRETERA DE VALLS A LGUALADA, KM. 73.43810 EI PLA DE SANTA MARIA, TARRAGONA, SPAIN.",
-        "製造廠公司地址": "",
-        "製造廠國別": "SPAIN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MES0026000  COLOMER BEAUTY AND PROFESSIONAL PRODUCTS, S.L.",
+            "製造廠廠址": "CARRETERA DE VALLS A LGUALADA, KM. 73.43810 EI PLA DE SANTA MARIA, TARRAGONA, SPAIN.",
+            "製造廠公司地址": "",
+            "製造廠國別": "SPAIN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

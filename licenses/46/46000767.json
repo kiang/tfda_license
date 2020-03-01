@@ -1,6 +1,6 @@
 {
     "code": "46000767",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000767",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46000767",
     "time": "2020-02-26 06:00:48",
     "許可證字號": "衛署醫器陸輸壹字第000767號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6217032718  善德生化科技股份有限公司",
     "申請商地址": "雲林縣褒忠鄉中民村中正路16號",
-    "主製造廠": {
-        "製造廠名稱": "MCN1360000  SUZHOU LINHUA MEDICAL DEVICES CO., LTD",
-        "製造廠廠址": "NO.3, WEIXIN ROAD, SUZHOU INDUSTRIAL PARK, P.R.CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1360000  SUZHOU LINHUA MEDICAL DEVICES CO., LTD",
+            "製造廠廠址": "NO.3, WEIXIN ROAD, SUZHOU INDUSTRIAL PARK, P.R.CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

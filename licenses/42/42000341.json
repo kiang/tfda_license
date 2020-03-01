@@ -1,6 +1,6 @@
 {
     "code": "42000341",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000341",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000341",
     "time": "2020-02-26 03:24:58",
     "許可證字號": "衛署醫器陸輸字第000341號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "620101T352  亞培快速診斷設備股份有限公司",
     "申請商地址": "臺北市松山區南京東路4段16號11樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1076000  ABON BIOPHARM (HANGZHOU) CO., LTD",
-        "製造廠廠址": "# 198, 12TH STREET EAST HANGZHOU ECONOMIC &amp; TECHNOLOGICAL, DEVELOPMENT AREA, 310018 HANGZHOU, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1076000  ABON BIOPHARM (HANGZHOU) CO., LTD",
+            "製造廠廠址": "# 198, 12TH STREET EAST HANGZHOU ECONOMIC &amp; TECHNOLOGICAL, DEVELOPMENT AREA, 310018 HANGZHOU, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

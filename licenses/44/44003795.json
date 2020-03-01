@@ -1,6 +1,6 @@
 {
     "code": "44003795",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44003795",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44003795",
     "time": "2020-02-26 04:37:31",
     "許可證字號": "衛署醫器輸壹字第003795號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6217082254  健富儀器有限公司",
     "申請商地址": "臺中市北屯區大連路三段16號11樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MFI0026000  PENSI RESCUE OY",
-        "製造廠廠址": "HALKIVAHANTIE 194, 38270 SAMMAL JOKI, FINLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "FINLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFI0026000  PENSI RESCUE OY",
+            "製造廠廠址": "HALKIVAHANTIE 194, 38270 SAMMAL JOKI, FINLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "FINLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

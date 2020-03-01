@@ -1,6 +1,6 @@
 {
     "code": "56028190",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028190",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028190",
     "time": "2020-02-26 07:53:00",
     "許可證字號": "衛部醫器輸字第028190號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623106E070  信輝醫療器材有限公司",
     "申請商地址": "新北市新莊區新北大道3段7號15樓之5",
-    "主製造廠": {
-        "製造廠名稱": "MFR  ITENA CLINICAL",
-        "製造廠廠址": "31 Avenue Georges Clemenceau 93420 Villepinte, France",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR  ITENA CLINICAL",
+            "製造廠廠址": "31 Avenue Georges Clemenceau 93420 Villepinte, France",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

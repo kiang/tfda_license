@@ -1,11 +1,12 @@
 {
     "code": "02011399",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02011399",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02011399",
     "time": "2020-02-25 09:54:01",
     "許可證字號": "衛署藥輸字第011399號",
     "註銷狀態": "已註銷",
     "註銷日期": "79\/01\/09",
     "註銷理由": "移轉（申請商）",
+    "製造許可登錄編號": "",
     "有效日期": "79\/06\/08",
     "發證日期": "72\/06\/08",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "1205501100  凱盛國際股份有限公司",
-        "申請商地址": "台北巿長安東路一段２３號７樓之３",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "POTASSIUM ACETATE ANHYDROUS, CALCIUM ACETATE HEMIHYDRATE, MAGNESIUM ACETATE TETRAHYDRATE, L-ALANINE, L-ARGININE, L-ASPARTIC ACID, L-CYSTEINE, GLUTAMIC ACID L-, L-HISTIDINE, L-ISOLEUCINE, L-LEUCINE, LYSINE L-, L-METHIONINE, L-ORNITHINE  HCL, L-PHENYLALANINE, L-PROLINE, L-SERINE, L-THREONINE, L-TRYPTOPHAN, L-TYROSINE, L-VALINE, GLYCINE (EQ TO AMINOACETIC ACID)(EQ TO GLYCOCOLL), POTASSIUM PHOSPHATE MONOBASIC ANHYDROUS, SODIUM HYDROSULFITE (SODIUM DITHIONITE), NIACINAMIDE (NICOTINAMIDE), PYRIDOXINE HCL, ASCORBIC ACID (VIT C), SORBITOL",
+    "限制項目": "02輸　入",
+    "申請商名稱": "1205501100  凱盛國際股份有限公司",
+    "申請商地址": "台北巿長安東路一段２３號７樓之３",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FFR0038000  LABORATORIES CLINTEC NUTRITION CLINIQUE",
+            "製造廠廠址": "LAB. EGIC 45 AMILLY, B.P. 172, 45203 MONTARGIS",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [

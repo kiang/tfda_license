@@ -1,6 +1,6 @@
 {
     "code": "94020629",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020629",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020629",
     "time": "2020-02-26 12:46:01",
     "許可證字號": "衛部醫器輸壹字第020629號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6401026146  艾華科有限公司",
     "申請商地址": "臺北市大安區忠孝東路三段136號5樓之7",
-    "主製造廠": {
-        "製造廠名稱": "MTR0036000  TOTAL ITHALAT VE IHRACAT PAZARLAMA LTD. STI.",
-        "製造廠廠址": "CALI SANAYI BOLGESI KARAALI MAH. EFLATUN CAD. NO:18NILUFER\/BURSA\/TURKEY",
-        "製造廠公司地址": "",
-        "製造廠國別": "TURKEY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MTR0036000  TOTAL ITHALAT VE IHRACAT PAZARLAMA LTD. STI.",
+            "製造廠廠址": "CALI SANAYI BOLGESI KARAALI MAH. EFLATUN CAD. NO:18NILUFER\/BURSA\/TURKEY",
+            "製造廠公司地址": "",
+            "製造廠國別": "TURKEY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

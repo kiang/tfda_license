@@ -1,6 +1,6 @@
 {
     "code": "06018876",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06018876",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06018876",
     "time": "2020-02-25 19:40:27",
     "許可證字號": "衛署醫器輸字第018876號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1304601100  瑞士商愛爾康大藥廠股份有限公司台灣分公司",
     "申請商地址": "新北市新店區寶中路119號四樓",
-    "主製造廠": {
-        "製造廠名稱": "MCH0075000  ALCON GRIESHABER AG",
-        "製造廠廠址": "WINKELRIEDSTRASSE 52, CH-8203 SCHAFFHAUSEN, SWITZERLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCH0075000  ALCON GRIESHABER AG",
+            "製造廠廠址": "WINKELRIEDSTRASSE 52, CH-8203 SCHAFFHAUSEN, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

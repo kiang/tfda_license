@@ -1,6 +1,6 @@
 {
     "code": "94014399",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014399",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014399",
     "time": "2020-02-26 11:26:49",
     "許可證字號": "衛部醫器輸壹字第014399號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "620110Z853  鴻億實業股份有限公司",
     "申請商地址": "臺北市中山區南京東路3段201號11樓",
-    "主製造廠": {
-        "製造廠名稱": "MVN0041000  SUNMAX VIETNAM CO., LTD.",
-        "製造廠廠址": "KM8, PHAM VAN DONG ROAD, HAI THANH, DUONG KINH DISTRICT, 18671 HAI PHONG CITY, VIETNAM",
-        "製造廠公司地址": "",
-        "製造廠國別": "VIET NAM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MVN0041000  SUNMAX VIETNAM CO., LTD.",
+            "製造廠廠址": "KM8, PHAM VAN DONG ROAD, HAI THANH, DUONG KINH DISTRICT, 18671 HAI PHONG CITY, VIETNAM",
+            "製造廠公司地址": "",
+            "製造廠國別": "VIET NAM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

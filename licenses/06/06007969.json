@@ -1,6 +1,6 @@
 {
     "code": "06007969",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06007969",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06007969",
     "time": "2020-02-25 17:31:32",
     "許可證字號": "衛署醫器輸字第007969號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0712701100  杏邦企業有限公司",
     "申請商地址": "台北巿中山北路六段４４１巷１７－１號１樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE0143000  STS STEUERUNGSTECHNIKUND STRAHLENSCHUTZ GMBH",
-        "製造廠廠址": "HARXBUETTELER STRASSE 38110 BRAUNSCHWEIG, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0143000  STS STEUERUNGSTECHNIKUND STRAHLENSCHUTZ GMBH",
+            "製造廠廠址": "HARXBUETTELER STRASSE 38110 BRAUNSCHWEIG, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

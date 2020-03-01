@@ -1,6 +1,6 @@
 {
     "code": "06002512",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06002512",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06002512",
     "time": "2020-02-25 15:58:35",
     "許可證字號": "衛署醫器輸字第002512號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1417301100  賓隆企業股份有限公司",
     "申請商地址": "台北巿仁愛路二段３４號２Ｆ",
-    "主製造廠": {
-        "製造廠名稱": "MUS0290000  BIOCHEM INTERNATIONAL INC.",
-        "製造廠廠址": "POST OFFICE BOX 13157 MILWAUKEE WISCONSIN 53213 USA.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0290000  BIOCHEM INTERNATIONAL INC.",
+            "製造廠廠址": "POST OFFICE BOX 13157 MILWAUKEE WISCONSIN 53213 USA.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "44006774",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006774",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006774",
     "time": "2020-02-26 04:53:51",
     "許可證字號": "衛署醫器輸壹字第006774號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102H176  信興欣業股份有限公司",
     "申請商地址": "台北市大安區敦化南路二段77號16樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MMX0028000  IIMAK MEXICANA S. DE R.L. DE C.V.",
-        "製造廠廠址": "BRECHA E-99 S\/N LOTE 15E, PARQUE INDUSTRIAL REYNOSA, REYNOSA, MX-TAM 88780, MEXICO",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0028000  IIMAK MEXICANA S. DE R.L. DE C.V.",
+            "製造廠廠址": "BRECHA E-99 S\/N LOTE 15E, PARQUE INDUSTRIAL REYNOSA, REYNOSA, MX-TAM 88780, MEXICO",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

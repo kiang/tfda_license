@@ -1,6 +1,6 @@
 {
     "code": "08020319",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08020319",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08020319",
     "time": "2020-02-26 01:27:39",
     "許可證字號": "衛署粧輸字第020319號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6680285648  客林國際股份有限公司",
     "申請商地址": "臺北市中山區龍江路１２０巷９號",
-    "主製造廠": {
-        "製造廠名稱": "CGB0067000  Medichem",
-        "製造廠廠址": "STALHAM BUSINESS PARK, RUSHENDEN ROAD, QUEENBOROUGH, KENT ME11 5HE, UNITED KINGDOM",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CGB0067000  Medichem",
+            "製造廠廠址": "STALHAM BUSINESS PARK, RUSHENDEN ROAD, QUEENBOROUGH, KENT ME11 5HE, UNITED KINGDOM",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

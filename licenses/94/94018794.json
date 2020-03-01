@@ -1,6 +1,6 @@
 {
     "code": "94018794",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018794",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018794",
     "time": "2020-02-26 12:27:35",
     "許可證字號": "衛部醫器輸壹字第018794號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623106H222  濬洋企業有限公司",
     "申請商地址": "新北市新莊區五工三路78巷21號(1樓)",
-    "主製造廠": {
-        "製造廠名稱": "MKR0953000  ILSHIN BIOBASE CO., LTD.",
-        "製造廠廠址": "84 SAMYUKSA-RO 548 STREET, DONGDUCHON CITY, KYUNGKI DO,  KOREA, ZIP 11341",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0953000  ILSHIN BIOBASE CO., LTD.",
+            "製造廠廠址": "84 SAMYUKSA-RO 548 STREET, DONGDUCHON CITY, KYUNGKI DO,  KOREA, ZIP 11341",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

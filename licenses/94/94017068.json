@@ -1,6 +1,6 @@
 {
     "code": "94017068",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017068",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017068",
     "time": "2020-02-26 12:03:46",
     "許可證字號": "衛部醫器輸壹字第017068號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623104E630  台灣索諾瓦有限公司",
     "申請商地址": "新北市中和區板南路661號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MCH0070000  SONOVA AG",
-        "製造廠廠址": "LAUBISRUISTRASSE28, CH-8712 STAFA, SWITZERLAND",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCH0070000  SONOVA AG",
+            "製造廠廠址": "LAUBISRUISTRASSE28, CH-8712 STAFA, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

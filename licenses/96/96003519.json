@@ -1,6 +1,6 @@
 {
     "code": "96003519",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003519",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003519",
     "time": "2020-02-26 13:11:17",
     "許可證字號": "衛部醫器陸輸壹字第003519號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 40大陸生產",
     "申請商名稱": "6203293516  晟德科技工程有限公司",
     "申請商地址": "臺中市北屯區松竹五路一段358號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN1863000  Jiangsu JuMao Medical Equipment Co., Ltd.",
-        "製造廠廠址": "No. 36 Danyan Road, Danyang, Jiangsu Province,212323,China",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1863000  Jiangsu JuMao Medical Equipment Co., Ltd.",
+            "製造廠廠址": "No. 36 Danyan Road, Danyang, Jiangsu Province,212323,China",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "6203293516  晟德科技工程有限公司",
+            "製造廠廠址": "臺中市北屯區松竹五路一段358號1樓",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

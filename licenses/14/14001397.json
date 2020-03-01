@@ -1,11 +1,12 @@
 {
     "code": "14001397",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=14001397",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=14001397",
     "time": "2020-02-26 03:03:34",
     "許可證字號": "內衛成製字第001397號",
     "註銷狀態": "已註銷",
     "註銷日期": "102\/10\/03",
     "註銷理由": "許可證未申請展延",
+    "製造許可登錄編號": "",
     "有效日期": "96\/04\/19",
     "發證日期": "59\/11\/14",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "03成藥",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "09委託製造",
-        "申請商名稱": "0828201200  怡嘉藥品有限公司",
-        "申請商地址": "台北市敦化北路２３８巷１０號１樓",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "DIPHENHYDRAMINE HCL, AMMONIA WATER (AMMONIUM HYDROXIDE), CAMPHOR, MENTHOL, METHYL SALICYLATE, CAPSICUM TINCTURE",
+    "限制項目": "09委託製造",
+    "申請商名稱": "0828201200  怡嘉藥品有限公司",
+    "申請商地址": "台北市敦化北路２３８巷１０號１樓",
+    "主製造廠": [
+        {
+            "製造廠名稱": "1310504300  葡萄王企業股份有限公司藥品製造廠",
+            "製造廠廠址": "中壢市龍岡路三段６０號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": ""
+        }
+    ],
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [

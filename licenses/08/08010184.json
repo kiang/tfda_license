@@ -1,6 +1,6 @@
 {
     "code": "08010184",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08010184",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08010184",
     "time": "2020-02-25 23:41:14",
     "許可證字號": "衛署粧輸字第010184號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1419601100  台灣默克股份有限公司",
     "申請商地址": "台北市內湖區堤頂大道2段89號6樓",
-    "主製造廠": {
-        "製造廠名稱": "CFR0108000  MERCK MEDICATION FAMILIALE",
-        "製造廠廠址": "37, RUE SAINT ROMAIN-F-69379 LYON CEDEX 08 FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CFR0108000  MERCK MEDICATION FAMILIALE",
+            "製造廠廠址": "37, RUE SAINT ROMAIN-F-69379 LYON CEDEX 08 FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

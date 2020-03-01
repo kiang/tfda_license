@@ -1,11 +1,12 @@
 {
     "code": "02022301",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022301",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022301",
     "time": "2020-02-25 12:53:07",
     "許可證字號": "衛署藥輸字第022301號",
     "註銷狀態": "已註銷",
     "註銷日期": "91\/10\/08",
     "註銷理由": "自請註銷",
+    "製造許可登錄編號": "",
     "有效日期": "92\/09\/25",
     "發證日期": "87\/09\/25",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "1106901100  崇興行貿易股份有限公司",
-        "申請商地址": "台北巿龍江路６５巷１號",
-        "主製造廠": ""
-    },
+    "監視期限": "",
+    "主成分略述": "L-ALANINE, ARGININE, L-HISTIDINE, L-ISOLEUCINE, L-LEUCINE, L-LYSINE ACETATE, L-METHIONINE, ORNITHINE L- ASPARTATE L-, L-PHENYLALANINE, L-PROLINE, L-SERINE, L-THREONINE, L-TRYPTOPHAN, L-VALINE, GLYCINE (EQ TO AMINOACETIC ACID)(EQ TO GLYCOCOLL), TYROSINE L-(N-ACETYL), TAURINE (EQ TO 2-AMINOETHANE SULFONIC ACID)",
+    "限制項目": "02輸　入",
+    "申請商名稱": "1106901100  崇興行貿易股份有限公司",
+    "申請商地址": "台北巿龍江路６５巷１號",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FDE0050500  FRESENIUS AG",
+            "製造廠廠址": "GLUCKENSTEINWEG 5 D-61350 BAD HOMBURG FED,REP OF GERMANYBORKENBERG 14, 61440 OBERURSEL GERMANY",
+            "製造廠公司地址": "BORKENBERG 14, 61440 OBERURSEL GERMANY",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [

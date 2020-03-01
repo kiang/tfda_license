@@ -1,6 +1,6 @@
 {
     "code": "44008780",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008780",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44008780",
     "time": "2020-02-26 05:08:45",
     "許可證字號": "衛署醫器輸壹字第008780號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "622101B094  瑞凱生化科技有限公司",
     "申請商地址": "台南市東區富農街一段188巷110號1樓",
-    "主製造廠": {
-        "製造廠名稱": "FHU0007000  PHARMAPLAST S.A.E.",
-        "製造廠廠址": "AMRIA FREE ZONE 23512 ALEXANDRIA EGYPT",
-        "製造廠公司地址": "",
-        "製造廠國別": "HUNGARY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "FHU0007000  PHARMAPLAST S.A.E.",
+            "製造廠廠址": "AMRIA FREE ZONE 23512 ALEXANDRIA EGYPT",
+            "製造廠公司地址": "",
+            "製造廠國別": "HUNGARY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

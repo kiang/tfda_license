@@ -1,6 +1,6 @@
 {
     "code": "06009055",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06009055",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06009055",
     "time": "2020-02-25 17:44:59",
     "許可證字號": "衛署醫器輸字第009055號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1430101100  銀鐸實業有限公司",
     "申請商地址": "台北巿南港區成功路一段32號4樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MCA0026000  NUMED CANADA INC.",
-        "製造廠廠址": "3-501 CAMPBELL STREET CORNWALL ONTARIO K6H 5T1 CANADA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CANADA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCA0026000  NUMED CANADA INC.",
+            "製造廠廠址": "3-501 CAMPBELL STREET CORNWALL ONTARIO K6H 5T1 CANADA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CANADA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "44012512",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012512",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012512",
     "time": "2020-02-26 05:45:28",
     "許可證字號": "衛署醫器輸壹字第012512號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6238012725  郁正股份有限公司",
     "申請商地址": "南投縣南投市自強一路11號",
-    "主製造廠": {
-        "製造廠名稱": "MVN0050000  CONG TY TNHH CONG NGHE TONG LI VIET NAM",
-        "製造廠廠址": "LO C-4-CN KHU CONG NGHIEP MY PHUOC 2, THI XA BEN CAT, TINH BINH DUONG VIET NAM.",
-        "製造廠公司地址": "",
-        "製造廠國別": "VIET NAM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MVN0050000  CONG TY TNHH CONG NGHE TONG LI VIET NAM",
+            "製造廠廠址": "LO C-4-CN KHU CONG NGHIEP MY PHUOC 2, THI XA BEN CAT, TINH BINH DUONG VIET NAM.",
+            "製造廠公司地址": "",
+            "製造廠國別": "VIET NAM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

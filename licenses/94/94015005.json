@@ -1,6 +1,6 @@
 {
     "code": "94015005",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015005",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94015005",
     "time": "2020-02-26 11:35:09",
     "許可證字號": "衛部醫器輸壹字第015005號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102R989  普而瑞企業有限公司",
     "申請商地址": "台北市大安區通化街171巷19號",
-    "主製造廠": {
-        "製造廠名稱": "MDE0233000  FEHLING INSTRUMENTS GMBH",
-        "製造廠廠址": "HANAUER LANDSTR. 7 D-63791 KARLSTEIN\/MAIN, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0233000  FEHLING INSTRUMENTS GMBH",
+            "製造廠廠址": "HANAUER LANDSTR. 7 D-63791 KARLSTEIN\/MAIN, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "56029035",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029035",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029035",
     "time": "2020-02-26 08:01:25",
     "許可證字號": "衛部醫器輸字第029035號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623111C820  淳靖藥品實業股份有限公司",
     "申請商地址": "新北市汐止區新台五路1段79號13樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MFR0347000  Mdoloris Medical Systems",
-        "製造廠廠址": "270, Rue Salvador Allende F-59120 LOOS, France",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR0347000  Mdoloris Medical Systems",
+            "製造廠廠址": "270, Rue Salvador Allende F-59120 LOOS, France",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

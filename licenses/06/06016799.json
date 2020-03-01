@@ -1,6 +1,6 @@
 {
     "code": "06016799",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06016799",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06016799",
     "time": "2020-02-25 19:16:12",
     "許可證字號": "衛署醫器輸字第016799號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "0318001100  大發醫療器材有限公司",
     "申請商地址": "台北市大同區南京西路１９２號１樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP0440000  KENZMEDICO CO., LTD",
-        "製造廠廠址": "552-1 KYOUEI, KODAMAMACHI, KODAMAGUN, SAITAMA-PREF, 367-0206 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0440000  KENZMEDICO CO., LTD",
+            "製造廠廠址": "552-1 KYOUEI, KODAMAMACHI, KODAMAGUN, SAITAMA-PREF, 367-0206 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

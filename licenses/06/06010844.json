@@ -1,6 +1,6 @@
 {
     "code": "06010844",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010844",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010844",
     "time": "2020-02-25 18:09:12",
     "許可證字號": "衛署醫器輸字第010844號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1439201100  臺灣泰科醫藥股份有限公司",
     "申請商地址": "台北市內湖區瑞光路407號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MZA0004000  TYCO HEALTHCARE (PTY) LTD. MANUFACTURING DIVISION",
-        "製造廠廠址": "NO.1 POWER STREET ISANDO 1600, SOUTH AFRICA",
-        "製造廠公司地址": "",
-        "製造廠國別": "SOUTH AFRICA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MZA0004000  TYCO HEALTHCARE (PTY) LTD. MANUFACTURING DIVISION",
+            "製造廠廠址": "NO.1 POWER STREET ISANDO 1600, SOUTH AFRICA",
+            "製造廠公司地址": "",
+            "製造廠國別": "SOUTH AFRICA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "08019162",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08019162",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08019162",
     "time": "2020-02-26 01:15:34",
     "許可證字號": "衛署粧輸字第019162號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1121114100  捷健藥品興業有限公司",
     "申請商地址": "南投縣南投市營北路111巷16號2樓",
-    "主製造廠": {
-        "製造廠名稱": "CDE0080000  BB MED PRODUCT GMBH",
-        "製造廠廠址": "WOHRMANNSTRA&amp;szlig;E 15, D-47546 KALKAR-KEHRUM GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CDE0080000  BB MED PRODUCT GMBH",
+            "製造廠廠址": "WOHRMANNSTRA&amp;szlig;E 15, D-47546 KALKAR-KEHRUM GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

@@ -1,6 +1,6 @@
 {
     "code": "94019427",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019427",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019427",
     "time": "2020-02-26 12:33:42",
     "許可證字號": "衛部醫器輸壹字第019427號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6237019346  瑞曜貿易有限公司",
     "申請商地址": "彰化縣彰化市西勢里如意街42號",
-    "主製造廠": {
-        "製造廠名稱": "MFR0987000  CFPM",
-        "製造廠廠址": "2 BIS, CHEMIN DU LOUP 93290 TREMBLAY EN FRANCE, FRANCE",
-        "製造廠公司地址": "",
-        "製造廠國別": "FRANCE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MFR0987000  CFPM",
+            "製造廠廠址": "2 BIS, CHEMIN DU LOUP 93290 TREMBLAY EN FRANCE, FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

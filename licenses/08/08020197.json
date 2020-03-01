@@ -1,6 +1,6 @@
 {
     "code": "08020197",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08020197",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08020197",
     "time": "2020-02-26 01:26:23",
     "許可證字號": "衛署粧輸字第020197號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6628463451  百生有限公司",
     "申請商地址": "新北市新店區北新路3段9巷5號1樓",
-    "主製造廠": {
-        "製造廠名稱": "CMX0003000  NATTURA LABORATORIOS, S.A. DE C.V.",
-        "製造廠廠址": "PEDRO MARTINEZ RIVAS NO 746 COL. PARQUE INDUSTRIAL BELENES NORTE C.P. 45150",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CMX0003000  NATTURA LABORATORIOS, S.A. DE C.V.",
+            "製造廠廠址": "PEDRO MARTINEZ RIVAS NO 746 COL. PARQUE INDUSTRIAL BELENES NORTE C.P. 45150",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

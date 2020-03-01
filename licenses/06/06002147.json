@@ -1,6 +1,6 @@
 {
     "code": "06002147",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06002147",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06002147",
     "time": "2020-02-25 15:51:52",
     "許可證字號": "衛署醫器輸字第002147號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1702001100  邁康企業股份有限公司",
     "申請商地址": "台北巿大安區和平東路三段４９號２樓之４",
-    "主製造廠": {
-        "製造廠名稱": "MUS0095000  ENGINEERING EQUIPMENT CO. PERTRACH.",
-        "製造廠廠址": "1515 WEST 22ND STREET OAK BROOK ILLINOIS 60521 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0095000  ENGINEERING EQUIPMENT CO. PERTRACH.",
+            "製造廠廠址": "1515 WEST 22ND STREET OAK BROOK ILLINOIS 60521 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

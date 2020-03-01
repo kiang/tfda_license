@@ -1,6 +1,6 @@
 {
     "code": "56027674",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027674",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027674",
     "time": "2020-02-26 07:47:58",
     "許可證字號": "衛部醫器輸字第027674號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231049608  成信新貿易股份有限公司",
     "申請商地址": "新北市中和區中山路二段348巷8號9樓",
-    "主製造廠": {
-        "製造廠名稱": "MGB0947000  RANDOX LABORATORIES LTD.",
-        "製造廠廠址": "ARDMORE, 55 DIAMOND ROAD, CRUMLIN, CO. ANTRIM, BT29 4QY, UK",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0947000  RANDOX LABORATORIES LTD.",
+            "製造廠廠址": "ARDMORE, 55 DIAMOND ROAD, CRUMLIN, CO. ANTRIM, BT29 4QY, UK",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

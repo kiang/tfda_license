@@ -1,6 +1,6 @@
 {
     "code": "06024906",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024906",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024906",
     "time": "2020-02-25 20:46:46",
     "許可證字號": "衛署醫器輸字第024906號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "623105A094  科舉顧問股份有限公司",
     "申請商地址": "新北市新店區安祥路147巷53號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS0925000  Covidien",
-        "製造廠廠址": "1222 SHERWOOD ROAD, NORFOLK, NEBRASKA 68701, U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0925000  Covidien",
+            "製造廠廠址": "1222 SHERWOOD ROAD, NORFOLK, NEBRASKA 68701, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS3197000  Cardinal Health",
+            "製造廠廠址": "15 Hampshire Street, Building 5, Mansfield, MA 02048 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

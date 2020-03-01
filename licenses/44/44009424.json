@@ -1,6 +1,6 @@
 {
     "code": "44009424",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009424",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009424",
     "time": "2020-02-26 05:15:04",
     "許可證字號": "衛署醫器輸壹字第009424號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102T116  雅之國際科技有限公司",
     "申請商地址": "台北市大安區復興南路一段128號10樓之3",
-    "主製造廠": {
-        "製造廠名稱": "MRU0008000  GEOSOFT DENT",
-        "製造廠廠址": "BUILD. 13, AP. 6-A, 2-ND TROITSKY PER, MOSCOW, RUSSIA",
-        "製造廠公司地址": "",
-        "製造廠國別": "RUSSIA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MRU0008000  GEOSOFT DENT",
+            "製造廠廠址": "BUILD. 13, AP. 6-A, 2-ND TROITSKY PER, MOSCOW, RUSSIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "RUSSIA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

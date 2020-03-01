@@ -1,6 +1,6 @@
 {
     "code": "94018924",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018924",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018924",
     "time": "2020-02-26 12:28:56",
     "許可證字號": "衛部醫器輸壹字第018924號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201174983  鈦沅股份有限公司",
     "申請商地址": "台北市大安區臥龍街275之1號",
-    "主製造廠": {
-        "製造廠名稱": "MTR0027000  YILMAZ MEDIKAL-MUSTAFA NAZLIER",
-        "製造廠廠址": "Budak Mah. Hasirci Sami Bey Cad. No:12 Sehitkamil Gaziantep Turkiye",
-        "製造廠公司地址": "",
-        "製造廠國別": "TURKEY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MTR0027000  YILMAZ MEDIKAL-MUSTAFA NAZLIER",
+            "製造廠廠址": "Budak Mah. Hasirci Sami Bey Cad. No:12 Sehitkamil Gaziantep Turkiye",
+            "製造廠公司地址": "",
+            "製造廠國別": "TURKEY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "42000121",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000121",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000121",
     "time": "2020-02-26 03:21:34",
     "許可證字號": "衛署醫器陸輸字第000121號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 40大陸生產",
     "申請商名稱": "0701821100  宏春貿易有限公司",
     "申請商地址": "高雄市三民區建國二路２１４號",
-    "主製造廠": {
-        "製造廠名稱": "MCN5012000  Onbo Electronic (Shenzhen) Co., Ltd.",
-        "製造廠廠址": "No. 138, Huasheng Road, Langkou Community, Dalang Street, Longhua District, Shenzhen, China",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "受託製造廠"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN5012000  Onbo Electronic (Shenzhen) Co., Ltd.",
+            "製造廠廠址": "No. 138, Huasheng Road, Langkou Community, Dalang Street, Longhua District, Shenzhen, China",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "受託製造廠"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "0701821200  宏春貿易有限公司",
+            "製造廠廠址": "高雄市三民區建國二路214號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

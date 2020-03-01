@@ -1,6 +1,6 @@
 {
     "code": "44002067",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44002067",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44002067",
     "time": "2020-02-26 04:29:08",
     "許可證字號": "衛署醫器輸壹字第002067號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201165082  尚倫醫療儀器有限公司",
     "申請商地址": "台北市北投區大業路510號",
-    "主製造廠": {
-        "製造廠名稱": "MVN0006000  GREAT WORLD CO., LTD.",
-        "製造廠廠址": "KM 1954, 1A ROAD, KHANH HAU VILLAGE, TAN AN TOWN, LONG AN PROVINCE, VIETNAM",
-        "製造廠公司地址": "",
-        "製造廠國別": "VIET NAM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MVN0006000  GREAT WORLD CO., LTD.",
+            "製造廠廠址": "KM 1954, 1A ROAD, KHANH HAU VILLAGE, TAN AN TOWN, LONG AN PROVINCE, VIETNAM",
+            "製造廠公司地址": "",
+            "製造廠國別": "VIET NAM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

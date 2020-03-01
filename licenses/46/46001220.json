@@ -1,6 +1,6 @@
 {
     "code": "46001220",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001220",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=46001220",
     "time": "2020-02-26 06:04:53",
     "許可證字號": "衛署醫器陸輸壹字第001220號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "620110R160  羅登光學有限公司",
     "申請商地址": "台北市中山區長安東路二段31號5樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MCN0780000  SUZHOU LENS OPTICS TECHNOLOGY CO., LTD.",
-        "製造廠廠址": "#4, INDUSTRIAL PARK, HUANGQIAO, XIANGCHENG DIST., SUZHOU, 215132, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0780000  SUZHOU LENS OPTICS TECHNOLOGY CO., LTD.",
+            "製造廠廠址": "#4, INDUSTRIAL PARK, HUANGQIAO, XIANGCHENG DIST., SUZHOU, 215132, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MSG0070000  OPTICAL SUPPLY OF ASIA (SINGAPORE)",
+            "製造廠廠址": "50 UBI AVENUE 3 NO. 03-11 FRONTIER SINGAPORE 408866",
+            "製造廠公司地址": "",
+            "製造廠國別": "SINGAPORE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

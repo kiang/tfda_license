@@ -1,6 +1,6 @@
 {
     "code": "96003592",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003592",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003592",
     "time": "2020-02-26 13:12:16",
     "許可證字號": "衛部醫器陸輸壹字第003592號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 40大陸生產",
     "申請商名稱": "6205313182  泓泰光學有限公司",
     "申請商地址": "臺南市永康區南灣里南興路101巷10號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN4144100  Riccino (Xiamen) Optical Inc.",
-        "製造廠廠址": "Building 6, 7 No. 4 Xiangyue Rd, Xiang， an Industrial park, Torch Hi-Tech Industrial Development Zone, Xiamen, China 361101",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN4144100  Riccino (Xiamen) Optical Inc.",
+            "製造廠廠址": "Building 6, 7 No. 4 Xiangyue Rd, Xiang， an Industrial park, Torch Hi-Tech Industrial Development Zone, Xiamen, China 361101",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

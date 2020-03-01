@@ -1,6 +1,6 @@
 {
     "code": "56028565",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028565",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028565",
     "time": "2020-02-26 07:56:38",
     "許可證字號": "衛部醫器輸字第028565號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102N794  皓昇國際股份有限公司",
     "申請商地址": "台北市中正區重慶南路一段432號7樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR1012000  Achimhai Medical Corporation",
-        "製造廠廠址": "28, Namyang-ro 930beon-gil, Namyang-eup, Hwaseong-si, Gyeonggi-do, korea",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR1012000  Achimhai Medical Corporation",
+            "製造廠廠址": "28, Namyang-ro 930beon-gil, Namyang-eup, Hwaseong-si, Gyeonggi-do, korea",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

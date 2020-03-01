@@ -1,6 +1,6 @@
 {
     "code": "06023736",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023736",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023736",
     "time": "2020-02-25 20:34:25",
     "許可證字號": "衛署醫器輸字第023736號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231045208  惠惇貿易有限公司",
     "申請商地址": "新北市中和區建八路2號10樓之5",
-    "主製造廠": {
-        "製造廠名稱": "MJP0518000  KONICA MINOLTA TECHNOPRODUCTS CO., LTD.",
-        "製造廠廠址": "2-2-1, HIROSEDAI, SAYAMA-SHI, SAITAMA-KEN, 350-1328 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0518000  KONICA MINOLTA TECHNOPRODUCTS CO., LTD.",
+            "製造廠廠址": "2-2-1, HIROSEDAI, SAYAMA-SHI, SAITAMA-KEN, 350-1328 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

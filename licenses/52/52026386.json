@@ -1,11 +1,12 @@
 {
     "code": "52026386",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026386",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026386",
     "time": "2020-02-26 06:26:17",
     "許可證字號": "衛部藥輸字第026386號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
+    "製造許可登錄編號": "",
     "有效日期": "113\/11\/04",
     "發證日期": "103\/11\/04",
     "許可證種類": "製　劑",
@@ -20,17 +21,24 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "藥品類別": "17醫師藥師藥劑生指示藥品",
+    "管制藥品分類級別": "",
     "藥品分類": "",
-    "主製造廠": {
-        "限制項目": "02輸　入",
-        "申請商名稱": "6401100209  台灣興和通商股份有限公司",
-        "申請商地址": "台北市中山區松江路122號8樓",
-        "主製造廠": ""
-    },
+    "監視期限": "108\/11\/04",
+    "主成分略述": "SCOPOLIA EXTRACT, SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE), BIODIASTASE, CALCIUM CARBONATE PRECIPITATE (EQ TO PRECIPITATED CALCIUM CARBONATE), MAGNESIUM HYDROXIDE, LIPASE AP12, Methylmethioninesulfonium Chloride, SWERTIAE HERBA POWDER ( POWDERED SWERTIA HERB), Atractylodes Lancea Rhizome Extract",
+    "限制項目": "02輸　入",
+    "申請商名稱": "6401100209  台灣興和通商股份有限公司",
+    "申請商地址": "台北市中山區松江路122號8樓",
+    "主製造廠": [
+        {
+            "製造廠名稱": "FJP0152000  KOWA COMPANY LTD.",
+            "製造廠廠址": "332-1,OHNOSINDEN,FUJI CITY SHIZUOKA PREF 417,JAPAN",
+            "製造廠公司地址": "6-29 NISHIKI 3-CHOME NAKA-KU NAGOYA,JAPAN",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [

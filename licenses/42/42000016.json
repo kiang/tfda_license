@@ -1,6 +1,6 @@
 {
     "code": "42000016",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000016",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000016",
     "time": "2020-02-26 03:20:29",
     "許可證字號": "衛署醫器陸輸字第000016號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 40大陸生產",
     "申請商名稱": "0617501100  百特醫療產品股份有限公司",
     "申請商地址": "台北市敦化南路二段２１６號１５樓",
-    "主製造廠": {
-        "製造廠名稱": "MCN0106000  GAMBRO MEDICAL PRODUCTS (SHANGHAI) CO., LTD.",
-        "製造廠廠址": "170 YUAN YANG ROAD, MINHANG ECONOMIC AND TECHNOLOGIC DEVELOPMENT ZONE, SHANGHAI, CHINA",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN0106000  GAMBRO MEDICAL PRODUCTS (SHANGHAI) CO., LTD.",
+            "製造廠廠址": "170 YUAN YANG ROAD, MINHANG ECONOMIC AND TECHNOLOGIC DEVELOPMENT ZONE, SHANGHAI, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "0617501100  百特醫療產品股份有限公司",
+            "製造廠廠址": "台北市敦化南路二段２１６號１５樓",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "56026988",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026988",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026988",
     "time": "2020-02-26 07:40:48",
     "許可證字號": "衛部醫器輸字第026988號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入 1K安全監視\r\n                            \r\n                                (本產品依藥事法第45條規定列入安全監視，請使用單位配合執行監視項目並提供所得資料予許可證持有商)",
     "申請商名稱": "6231114342  捷元生技有限公司",
     "申請商地址": "新北市汐止區大同路1段126號9樓",
-    "主製造廠": {
-        "製造廠名稱": "MAR0009000  Promedon S.A.",
-        "製造廠廠址": "Av. Gral. Manuel Savio s\/n, Lote 3, Manzana 3, (X5925XAD), Parque Industrial Ferreyra, C&#243;rdoba, Argentina.",
-        "製造廠公司地址": "",
-        "製造廠國別": "ARGENTINA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MAR0009000  Promedon S.A.",
+            "製造廠廠址": "Av. Gral. Manuel Savio s\/n, Lote 3, Manzana 3, (X5925XAD), Parque Industrial Ferreyra, C&#243;rdoba, Argentina.",
+            "製造廠公司地址": "",
+            "製造廠國別": "ARGENTINA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

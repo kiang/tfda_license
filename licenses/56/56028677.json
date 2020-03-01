@@ -1,6 +1,6 @@
 {
     "code": "56028677",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028677",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028677",
     "time": "2020-02-26 07:57:46",
     "許可證字號": "衛部醫器輸字第028677號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620111J179  台灣士卓曼醫療器械有限公司",
     "申請商地址": "臺北市內湖區洲子街105號10樓",
-    "主製造廠": {
-        "製造廠名稱": "MCH0828000  Straumann Villeret SA",
-        "製造廠廠址": "Les Champs du Clos 2, 2613 Villeret, Switzerland",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWITZERLAND",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCH0828000  Straumann Villeret SA",
+            "製造廠廠址": "Les Champs du Clos 2, 2613 Villeret, Switzerland",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MCH0110000  INSTITUT STRAUMANN AG",
+            "製造廠廠址": "PETER MERIAN-WEG 12, CH-4002 BASEL, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

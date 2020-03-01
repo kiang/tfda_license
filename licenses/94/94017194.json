@@ -1,6 +1,6 @@
 {
     "code": "94017194",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017194",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017194",
     "time": "2020-02-26 12:05:22",
     "許可證字號": "衛部醫器輸壹字第017194號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231046876  香港商眼力健亞洲有限公司台灣分公司",
     "申請商地址": "台北市中山區民生東路三段51號10樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS4684000  LAKE REGION MEDICAL",
-        "製造廠廠址": "3902 CALIFORNIA ROAD, ORCHARD PARK, NY USA 14127",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS4684000  LAKE REGION MEDICAL",
+            "製造廠廠址": "3902 CALIFORNIA ROAD, ORCHARD PARK, NY USA 14127",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

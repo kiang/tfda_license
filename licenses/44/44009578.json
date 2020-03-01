@@ -1,6 +1,6 @@
 {
     "code": "44009578",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009578",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009578",
     "time": "2020-02-26 05:16:37",
     "許可證字號": "衛署醫器輸壹字第009578號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201029750  醫誠有限公司",
     "申請商地址": "台北市大安區安和路１段５５號５樓",
-    "主製造廠": {
-        "製造廠名稱": "MGB0115000  OMEGA DIAGNOSTICS LTD.",
-        "製造廠廠址": "OMEGA HOUSE, HILLFOOTS BUSINESS VILLAGE, ALVA, FK12 5DQ, SCOTLAND, UNITED KINGDOM",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED KINGDOM",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MGB0115000  OMEGA DIAGNOSTICS LTD.",
+            "製造廠廠址": "OMEGA HOUSE, HILLFOOTS BUSINESS VILLAGE, ALVA, FK12 5DQ, SCOTLAND, UNITED KINGDOM",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

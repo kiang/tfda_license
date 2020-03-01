@@ -1,6 +1,6 @@
 {
     "code": "44004806",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44004806",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44004806",
     "time": "2020-02-26 04:42:42",
     "許可證字號": "衛署醫器輸壹字第004806號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201027989  博康企業有限公司",
     "申請商地址": "台北市大安區和平東路二段107巷20之1號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MSE0069000  SVENSKA DENTORAMA AB",
-        "製造廠廠址": "GELBGJUTAREVAGEN 6, 171 48 SOLNA\/STOCKHOLM, SWEDEN",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWEDEN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MSE0069000  SVENSKA DENTORAMA AB",
+            "製造廠廠址": "GELBGJUTAREVAGEN 6, 171 48 SOLNA\/STOCKHOLM, SWEDEN",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWEDEN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

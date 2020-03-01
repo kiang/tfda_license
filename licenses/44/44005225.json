@@ -1,6 +1,6 @@
 {
     "code": "44005225",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44005225",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44005225",
     "time": "2020-02-26 04:44:53",
     "許可證字號": "衛署醫器輸壹字第005225號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6236204350  鑫彥有限公司",
     "申請商地址": "台中市大里區大明路448號2樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MKR0103100  MOOHAN ENTERPRISE CO., LTD",
-        "製造廠廠址": "#71-53, HAWOLKOK-DONG, SUNBUK-GU, SEOUL, SOUTH KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0103100  MOOHAN ENTERPRISE CO., LTD",
+            "製造廠廠址": "#71-53, HAWOLKOK-DONG, SUNBUK-GU, SEOUL, SOUTH KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

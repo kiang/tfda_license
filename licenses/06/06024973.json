@@ -1,6 +1,6 @@
 {
     "code": "06024973",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024973",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024973",
     "time": "2020-02-25 20:47:27",
     "許可證字號": "衛署醫器輸字第024973號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231145605  集賢生技顧問有限公司",
     "申請商地址": "新北市蘆洲區集賢路224巷39號6樓",
-    "主製造廠": {
-        "製造廠名稱": "MSG0150000  HealthSTATS International Pte. Ltd.",
-        "製造廠廠址": "3 Ang Mo Kio Street 62, #08-25\/26 LINK@AMK, Singapore 569139",
-        "製造廠公司地址": "",
-        "製造廠國別": "SINGAPORE",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MSG0150000  HealthSTATS International Pte. Ltd.",
+            "製造廠廠址": "3 Ang Mo Kio Street 62, #08-25\/26 LINK@AMK, Singapore 569139",
+            "製造廠公司地址": "",
+            "製造廠國別": "SINGAPORE",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

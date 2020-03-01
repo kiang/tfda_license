@@ -1,6 +1,6 @@
 {
     "code": "56029709",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029709",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029709",
     "time": "2020-02-26 08:07:42",
     "許可證字號": "衛部醫器輸字第029709號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 1A本器材之使用須符合「特定醫療技術檢查檢驗醫療儀器施行或使用管理辦法」",
     "申請商名稱": "0834001100  妮傲絲翠股份有限公司",
     "申請商地址": "台北市內湖區民權東路六段180巷6號8樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MIL0085300  Alma Lasers Ltd.",
-        "製造廠廠址": "14&amp;15 Halamish street, Caesarea North, Industrial Park, 3088900, Israel",
-        "製造廠公司地址": "",
-        "製造廠國別": "ISRAEL",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MIL0085300  Alma Lasers Ltd.",
+            "製造廠廠址": "14&amp;15 Halamish street, Caesarea North, Industrial Park, 3088900, Israel",
+            "製造廠公司地址": "",
+            "製造廠國別": "ISRAEL",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MDE1317100  Alma Lasers GmbH",
+            "製造廠廠址": "Nordostpark 100-102, D-90411 N&#252;rnberg, Deutschland\/ Germany",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

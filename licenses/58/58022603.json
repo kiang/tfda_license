@@ -1,6 +1,6 @@
 {
     "code": "58022603",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58022603",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58022603",
     "time": "2020-02-26 09:24:23",
     "許可證字號": "衛部粧輸字第022603號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6624310737  臺灣樂金生活健康股份有限公司",
     "申請商地址": "臺北市信義區基隆路1段159號9樓",
-    "主製造廠": {
-        "製造廠名稱": "CKR0087000  COSMAX, INC.",
-        "製造廠廠址": "27, Jeyakgongdan 1-gil, 46, Jeyakgongdan 2-gil, Hyangnam-eup, Hwaseong-si, Gyeonggi-do, Korea",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CKR0087000  COSMAX, INC.",
+            "製造廠廠址": "27, Jeyakgongdan 1-gil, 46, Jeyakgongdan 2-gil, Hyangnam-eup, Hwaseong-si, Gyeonggi-do, Korea",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

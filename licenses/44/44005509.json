@@ -1,6 +1,6 @@
 {
     "code": "44005509",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44005509",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44005509",
     "time": "2020-02-26 04:46:22",
     "許可證字號": "衛署醫器輸壹字第005509號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6231022581  同鼎有限公司",
     "申請商地址": "新北市三重區三和路四段111-33號10樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS0994000  ULTRADENT PRODUCTS, INC.",
-        "製造廠廠址": "505 WEST 10200 SOUTH, SOUTH JORDAN, UTAH USA 84095",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0994000  ULTRADENT PRODUCTS, INC.",
+            "製造廠廠址": "505 WEST 10200 SOUTH, SOUTH JORDAN, UTAH USA 84095",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

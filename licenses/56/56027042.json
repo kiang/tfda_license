@@ -1,6 +1,6 @@
 {
     "code": "56027042",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027042",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027042",
     "time": "2020-02-26 07:41:24",
     "許可證字號": "衛部醫器輸字第027042號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201026884  瓦里安台灣股份有限公司",
     "申請商地址": "臺北市大安區敦化南路1段337號9樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS4305000  Varian Medical Systems, Inc.",
-        "製造廠廠址": "2101 4th Avenue, Suite 100, Seattle Washington 98121 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS4305000  Varian Medical Systems, Inc.",
+            "製造廠廠址": "2101 4th Avenue, Suite 100, Seattle Washington 98121 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

@@ -1,6 +1,6 @@
 {
     "code": "08016334",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016334",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016334",
     "time": "2020-02-26 00:45:33",
     "許可證字號": "衛署粧輸字第016334號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6627331186  必昂國際股份有限公司",
     "申請商地址": "台北市松山區敦化北路207號13樓",
-    "主製造廠": {
-        "製造廠名稱": "CUS0264000  PRODUCT QUEST MANUFACTURING LLC",
-        "製造廠廠址": "330 CARSWELL AVENUE, HOLLY HILL, FL 32117 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CUS0264000  PRODUCT QUEST MANUFACTURING LLC",
+            "製造廠廠址": "330 CARSWELL AVENUE, HOLLY HILL, FL 32117 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

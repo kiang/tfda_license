@@ -1,6 +1,6 @@
 {
     "code": "08017183",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08017183",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08017183",
     "time": "2020-02-26 00:54:32",
     "許可證字號": "衛署粧輸字第017183號",
     "註銷狀態": "已註銷",
@@ -30,13 +30,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "7789938796  豐納實業股份有限公司",
     "申請商地址": "台北市中山區南京東路二段8號10樓",
-    "主製造廠": {
-        "製造廠名稱": "CUS0256000  ATLANTIS LABORATORIES, INC.",
-        "製造廠廠址": "408 HALL STREET, CONROE, TEXAS 77301, USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CUS0256000  ATLANTIS LABORATORIES, INC.",
+            "製造廠廠址": "408 HALL STREET, CONROE, TEXAS 77301, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

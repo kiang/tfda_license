@@ -1,6 +1,6 @@
 {
     "code": "94017708",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017708",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017708",
     "time": "2020-02-26 12:11:05",
     "許可證字號": "衛部醫器輸壹字第017708號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6207310938  醫齊醫療儀器有限公司",
     "申請商地址": "高雄市楠梓區土庫二路251號1樓",
-    "主製造廠": {
-        "製造廠名稱": "MDE0605000  ERKA. KALLMEYER MEDIZINTECHNIK GMBH &amp; CO. KG",
-        "製造廠廠址": "IM FARCHET 15, D-83646 BAD TOLZ, GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0605000  ERKA. KALLMEYER MEDIZINTECHNIK GMBH &amp; CO. KG",
+            "製造廠廠址": "IM FARCHET 15, D-83646 BAD TOLZ, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

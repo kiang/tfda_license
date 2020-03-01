@@ -1,6 +1,6 @@
 {
     "code": "96002171",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002171",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96002171",
     "time": "2020-02-26 12:56:50",
     "許可證字號": "衛部醫器陸輸壹字第002171號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造 36GMP 40大陸生產",
     "申請商名稱": "0927701100  美商史賽克（遠東）有限公司台灣分公司",
     "申請商地址": "台北市中正區羅斯福路二段100號5樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MCN1350000  Stryker (Suzhou) Medical Technology Co., Ltd.",
-        "製造廠廠址": "No. 18 WuXiang EPZ Zone A, 200 Suhoung Rd. SIP, Suzhou Jiangsu 215021, China",
-        "製造廠公司地址": "",
-        "製造廠國別": "CHINA",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MCN1350000  Stryker (Suzhou) Medical Technology Co., Ltd.",
+            "製造廠廠址": "No. 18 WuXiang EPZ Zone A, 200 Suhoung Rd. SIP, Suzhou Jiangsu 215021, China",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS0808000  HOWMEDICA OSTEONICS CORP.",
+            "製造廠廠址": "325 CORPORATE DRIVE MAHWAH, NEW JERSEY 07430, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

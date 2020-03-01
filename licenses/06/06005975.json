@@ -1,6 +1,6 @@
 {
     "code": "06005975",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06005975",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06005975",
     "time": "2020-02-25 17:02:32",
     "許可證字號": "衛署醫器輸字第005975號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1505401100  實密科技股份有限公司",
     "申請商地址": "台北巿大安區忠孝東路四段148號7樓之5",
-    "主製造廠": {
-        "製造廠名稱": "MUS0460100  GUIDANT CORPORATION ADVANCED CARDIOVASCULAR SYSTEMS,INC.",
-        "製造廠廠址": "26531 YNEZ ROAD, TEMECULA, CA92591 U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS0460100  GUIDANT CORPORATION ADVANCED CARDIOVASCULAR SYSTEMS,INC.",
+            "製造廠廠址": "26531 YNEZ ROAD, TEMECULA, CA92591 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

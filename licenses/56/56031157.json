@@ -1,6 +1,6 @@
 {
     "code": "56031157",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031157",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031157",
     "time": "2020-02-26 08:20:38",
     "許可證字號": "衛部醫器輸字第031157號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "6211072218  理工科技顧問股份有限公司",
     "申請商地址": "臺北市大安區新生南路1段103巷13號",
-    "主製造廠": {
-        "製造廠名稱": "MSE0138000  Onrox Group Malm&#246; AB",
-        "製造廠廠址": "J&#228;gersrov&#228;gen 204, 213 77 Malm&#246;, SWEDEN",
-        "製造廠公司地址": "",
-        "製造廠國別": "SWEDEN",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MSE0138000  Onrox Group Malm&#246; AB",
+            "製造廠廠址": "J&#228;gersrov&#228;gen 204, 213 77 Malm&#246;, SWEDEN",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWEDEN",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MDE1487000  Sivantos GmbH",
+            "製造廠廠址": "Henri-Dunant- Str. 100, 91058 Erlangem, Germany",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

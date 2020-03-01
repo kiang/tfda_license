@@ -1,6 +1,6 @@
 {
     "code": "94020163",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020163",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020163",
     "time": "2020-02-26 12:41:43",
     "許可證字號": "衛部醫器輸壹字第020163號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入 36GMP",
     "申請商名稱": "620117J497  埃默高有限公司",
     "申請商地址": "新北市新店區北新路3段221號10樓",
-    "主製造廠": {
-        "製造廠名稱": "MPR0036000  CARDINAL HEALTH PR 218, INC",
-        "製造廠廠址": "STATE ROAD 402 NORTH KM. 0.9, ANASCO 00610, PUERTO RICO",
-        "製造廠公司地址": "",
-        "製造廠國別": "PUERTO RICO",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MPR0036000  CARDINAL HEALTH PR 218, INC",
+            "製造廠廠址": "STATE ROAD 402 NORTH KM. 0.9, ANASCO 00610, PUERTO RICO",
+            "製造廠公司地址": "",
+            "製造廠國別": "PUERTO RICO",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS5295000  CARDINAL HEALTH 200 LLC",
+            "製造廠廠址": "3651 Birchwood Drive Waukegan, IL 60085 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "56027557",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027557",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027557",
     "time": "2020-02-26 07:46:52",
     "許可證字號": "衛部醫器輸字第027557號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620118B693  台灣希森美康股份有限公司",
     "申請商地址": "台北市中正區紹興北街5號7樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP6156000  A&amp;T CORPORATION, SHONAN SITE",
-        "製造廠廠址": "2023-1, ENDO, FUJISAWA-SHI, KANAGAWA, 252-0816, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": "Manufactured by"
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP6156000  A&amp;T CORPORATION, SHONAN SITE",
+            "製造廠廠址": "2023-1, ENDO, FUJISAWA-SHI, KANAGAWA, 252-0816, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MJP0860100  JEOL LTD.",
+            "製造廠廠址": "3-1-2 MUSAHINO, AKISHIMA-CITY, TOKYO 196-8558, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "委託製造者"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

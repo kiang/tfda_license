@@ -1,6 +1,6 @@
 {
     "code": "44009935",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009935",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44009935",
     "time": "2020-02-26 05:20:10",
     "許可證字號": "衛署醫器輸壹字第009935號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102P976  禧恩股份有限公司",
     "申請商地址": "台北市大安區仁愛路３段２６號２樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP0895000  KING INDUSTRIAL CO., LTD(IKURA SEIKI)",
-        "製造廠廠址": "1395-1, TERAGU TSUKUBA-SHI, IBARAKI-PREF. JAPAN 300-4297",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0895000  KING INDUSTRIAL CO., LTD(IKURA SEIKI)",
+            "製造廠廠址": "1395-1, TERAGU TSUKUBA-SHI, IBARAKI-PREF. JAPAN 300-4297",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

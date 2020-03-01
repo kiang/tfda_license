@@ -1,6 +1,6 @@
 {
     "code": "44001081",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44001081",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44001081",
     "time": "2020-02-26 04:24:32",
     "許可證字號": "衛署醫器輸壹字第001081號",
     "註銷狀態": "",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1401804100  台富製藥股份有限公司",
     "申請商地址": "桃園市大園區和平西路一段391號",
-    "主製造廠": {
-        "製造廠名稱": "MJP0420000  FUJIREBIO INC., HACHIOJI FACILITY",
-        "製造廠廠址": "51, KOMIYA-CHO, HACHIOJI-SHI TOKYO, 192-0031 JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0420000  FUJIREBIO INC., HACHIOJI FACILITY",
+            "製造廠廠址": "51, KOMIYA-CHO, HACHIOJI-SHI TOKYO, 192-0031 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MJP0420100  FUJIREBIO INC.,",
+            "製造廠廠址": "2-1-1, NISHISHINJUKU, SHINJUKU-KU, TOKYO, 163-0410, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

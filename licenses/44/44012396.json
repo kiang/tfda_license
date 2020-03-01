@@ -1,6 +1,6 @@
 {
     "code": "44012396",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012396",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44012396",
     "time": "2020-02-26 05:44:21",
     "許可證字號": "衛署醫器輸壹字第012396號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201172434  真善美儀器有限公司",
     "申請商地址": "臺北市信義區信義路四段413號7樓之2",
-    "主製造廠": {
-        "製造廠名稱": "MUS2717000  HAUSSER SCIENTIFIC COMPANY",
-        "製造廠廠址": "935 HORSHAM RD. UNIT C HORSHAM, PA 19044-1286, U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2717000  HAUSSER SCIENTIFIC COMPANY",
+            "製造廠廠址": "935 HORSHAM RD. UNIT C HORSHAM, PA 19044-1286, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

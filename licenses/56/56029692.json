@@ -1,6 +1,6 @@
 {
     "code": "56029692",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029692",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029692",
     "time": "2020-02-26 08:07:30",
     "許可證字號": "衛部醫器輸字第029692號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1511101100  誼昇有限公司",
     "申請商地址": "台北市建國北路二段８５號４樓",
-    "主製造廠": {
-        "製造廠名稱": "MMX0033000  SMITHS HEALTHCARE MANUFACTURING SA DE CV",
-        "製造廠廠址": "Avenida Calidad No 4, Parque Industrial Internacional Tijuana, Tijuana, B.C. C.P. 22425, Mexico",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0033000  SMITHS HEALTHCARE MANUFACTURING SA DE CV",
+            "製造廠廠址": "Avenida Calidad No 4, Parque Industrial Internacional Tijuana, Tijuana, B.C. C.P. 22425, Mexico",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

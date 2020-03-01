@@ -1,6 +1,6 @@
 {
     "code": "58022098",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58022098",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58022098",
     "time": "2020-02-26 09:15:50",
     "許可證字號": "衛部粧輸字第022098號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6629064734  米洋國際有限公司",
     "申請商地址": "新北市板橋區四川路1段151號3樓",
-    "主製造廠": {
-        "製造廠名稱": "CIT0102000  BIOLINE S.R.L",
-        "製造廠廠址": "VIALE BOLOGNINI, 78 - 38100 TRENTO ITALY",
-        "製造廠公司地址": "",
-        "製造廠國別": "ITALY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CIT0102000  BIOLINE S.R.L",
+            "製造廠廠址": "VIALE BOLOGNINI, 78 - 38100 TRENTO ITALY",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

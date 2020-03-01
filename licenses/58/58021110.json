@@ -1,6 +1,6 @@
 {
     "code": "58021110",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58021110",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58021110",
     "time": "2020-02-26 08:58:30",
     "許可證字號": "衛部粧輸字第021110號",
     "註銷狀態": "",
@@ -30,13 +30,15 @@
     "限制項目": "",
     "申請商名稱": "6627250206  美商福萊有限公司台灣分公司",
     "申請商地址": "台北市松山區南京東路四段11號7樓",
-    "主製造廠": {
-        "製造廠名稱": "CUS0160000  NORTHWEST COSMETIC LABORATORIES INC.",
-        "製造廠廠址": "200 TECHNOLOGY DRIVE, IDAHO FALLS, IDAHO U.S.A.",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "CUS0160000  NORTHWEST COSMETIC LABORATORIES INC.",
+            "製造廠廠址": "200 TECHNOLOGY DRIVE, IDAHO FALLS, IDAHO U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [
         {

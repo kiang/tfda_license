@@ -1,6 +1,6 @@
 {
     "code": "44001844",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44001844",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44001844",
     "time": "2020-02-26 04:27:56",
     "許可證字號": "衛署醫器輸壹字第001844號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,24 @@
     "限制項目": "02輸　入",
     "申請商名稱": "1217301100  湳開股份有限公司",
     "申請商地址": "台北市內湖區南京東路六段348號4樓",
-    "主製造廠": {
-        "製造廠名稱": "MJP0433000  FUJINOMIYA FACTORY",
-        "製造廠廠址": "200 ONAKAZATO, FUJINOMIYA-SHI, SHIZUOKA 418-8666, JAPAN",
-        "製造廠公司地址": "",
-        "製造廠國別": "JAPAN",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MJP0433000  FUJINOMIYA FACTORY",
+            "製造廠廠址": "200 ONAKAZATO, FUJINOMIYA-SHI, SHIZUOKA 418-8666, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MJP0024000  FUJI PHOTO FILM CO., LTD",
+            "製造廠廠址": "26-30 NISHIA-ZABU 2-CHOME MINATO-KU TOKYO 106, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

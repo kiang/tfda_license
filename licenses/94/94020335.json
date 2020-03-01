@@ -1,6 +1,6 @@
 {
     "code": "94020335",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020335",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94020335",
     "time": "2020-02-26 12:43:08",
     "許可證字號": "衛部醫器輸壹字第020335號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620101K064  雄泰國際有限公司",
     "申請商地址": "新北市泰山區泰林路二段542巷1弄27號",
-    "主製造廠": {
-        "製造廠名稱": "MDE0245100  VBM MEDIZINTECHNIK GMBH",
-        "製造廠廠址": "EINSTEINSTRASSE 1 D-72172 SULZ A.N., GERMANY",
-        "製造廠公司地址": "",
-        "製造廠國別": "GERMANY",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDE0245100  VBM MEDIZINTECHNIK GMBH",
+            "製造廠廠址": "EINSTEINSTRASSE 1 D-72172 SULZ A.N., GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

@@ -1,6 +1,6 @@
 {
     "code": "94014492",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014492",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94014492",
     "time": "2020-02-26 11:28:06",
     "許可證字號": "衛部醫器輸壹字第014492號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620111B593  磊柏國際有限公司",
     "申請商地址": "臺北市內湖區港墘路221巷41號7樓之4",
-    "主製造廠": {
-        "製造廠名稱": "MDK0116000  Unisense FertiliTech A\/S",
-        "製造廠廠址": "Tueager 1, DK-8200 Aarhus N Denmark",
-        "製造廠公司地址": "",
-        "製造廠國別": "DENMARK",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MDK0116000  Unisense FertiliTech A\/S",
+            "製造廠廠址": "Tueager 1, DK-8200 Aarhus N Denmark",
+            "製造廠公司地址": "",
+            "製造廠國別": "DENMARK",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

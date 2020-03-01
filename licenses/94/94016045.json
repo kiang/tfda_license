@@ -1,6 +1,6 @@
 {
     "code": "94016045",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016045",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94016045",
     "time": "2020-02-26 11:49:33",
     "許可證字號": "衛部醫器輸壹字第016045號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "6201120770  洋森生物科技有限公司",
     "申請商地址": "台北市南港區興中路１２巷１５號３樓",
-    "主製造廠": {
-        "製造廠名稱": "MKR0738000  NANOENTEK INC.",
-        "製造廠廠址": "851-14, SEOHAE-RO, PALTAN-MYEON, HWASEONG-SI, GYEONGGI-DO, 18531, KOREA",
-        "製造廠公司地址": "",
-        "製造廠國別": "KOREA",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MKR0738000  NANOENTEK INC.",
+            "製造廠廠址": "851-14, SEOHAE-RO, PALTAN-MYEON, HWASEONG-SI, GYEONGGI-DO, 18531, KOREA",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

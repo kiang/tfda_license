@@ -1,6 +1,6 @@
 {
     "code": "44011821",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011821",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44011821",
     "time": "2020-02-26 05:38:45",
     "許可證字號": "衛署醫器輸壹字第011821號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102V629  香港商盈貝麗科技有限公司台灣分公司",
     "申請商地址": "台北市信義區松仁路101號11樓之1",
-    "主製造廠": {
-        "製造廠名稱": "MMX0068000  ALIGNTECH DE MEXICO S DE R.L. DE C.V. TECHNOLOGY. INC.",
-        "製造廠廠址": "CALLE MAYAS 7710, PARQUE INDUSTRIAL FERNANDEZ, CD JUAREZ, CHIHUAHUA, MEXICO C.P. 32649",
-        "製造廠公司地址": "",
-        "製造廠國別": "MEXICO",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MMX0068000  ALIGNTECH DE MEXICO S DE R.L. DE C.V. TECHNOLOGY. INC.",
+            "製造廠廠址": "CALLE MAYAS 7710, PARQUE INDUSTRIAL FERNANDEZ, CD JUAREZ, CHIHUAHUA, MEXICO C.P. 32649",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }

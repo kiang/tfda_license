@@ -1,6 +1,6 @@
 {
     "code": "06014065",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014065",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014065",
     "time": "2020-02-25 18:45:19",
     "許可證字號": "衛署醫器輸字第014065號",
     "註銷狀態": "",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620102O077  美德向邦股份有限公司",
     "申請商地址": "臺北市信義區松高路9號11樓",
-    "主製造廠": {
-        "製造廠名稱": "MPH0002000  MEDTEX CORPORATION",
-        "製造廠廠址": "7TH ST., PHASE II, FREEPORT AREA OF BATAAN , MARIVELES, BATAAN PHILIPPINES",
-        "製造廠公司地址": "",
-        "製造廠國別": "PHILIPPINES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MPH0002000  MEDTEX CORPORATION",
+            "製造廠廠址": "7TH ST., PHASE II, FREEPORT AREA OF BATAAN , MARIVELES, BATAAN PHILIPPINES",
+            "製造廠公司地址": "",
+            "製造廠國別": "PHILIPPINES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [

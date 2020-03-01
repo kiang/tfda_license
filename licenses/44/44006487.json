@@ -1,6 +1,6 @@
 {
     "code": "44006487",
-    "url": "https:\/\/www.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006487",
+    "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006487",
     "time": "2020-02-26 04:51:35",
     "許可證字號": "衛署醫器輸壹字第006487號",
     "註銷狀態": "已註銷",
@@ -35,13 +35,15 @@
     "限制項目": "02輸　入",
     "申請商名稱": "620117A538  瑞林生物科技股份有限公司",
     "申請商地址": "臺北市信義區松德路159號30樓",
-    "主製造廠": {
-        "製造廠名稱": "MUS2797000  KAPA BIOSYSTEMS INC.",
-        "製造廠廠址": "600 W. CUMMINGS PARK, SUITE 5350 WOBURN, MA. 01801 USA",
-        "製造廠公司地址": "",
-        "製造廠國別": "UNITED STATES",
-        "製程": ""
-    },
+    "主製造廠": [
+        {
+            "製造廠名稱": "MUS2797000  KAPA BIOSYSTEMS INC.",
+            "製造廠廠址": "600 W. CUMMINGS PARK, SUITE 5350 WOBURN, MA. 01801 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": []
 }
