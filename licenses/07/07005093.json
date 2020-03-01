@@ -6,6 +6,7 @@
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
+    "製造許可登錄編號": "",
     "有效日期": "111\/05\/20",
     "發證日期": "98\/05\/20",
     "許可證種類": "含藥化粧品",
@@ -20,16 +21,21 @@
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": [
-        ""
-    ],
+    "標籤、仿單及包裝加註": "",
     "化粧品類別": "0110染髮劑",
+    "": "",
     "藥品分類": "",
+    "監視期限": "",
+    "主成分略述": "AMMONIA, HYDROGEN PEROXIDE, RESORCINOL (RESORCIN), 5-AMINO-6-CHLORO-O-CRESOL, AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL), META-AMINOPHENOL (EQ TO M-AMINOPHENOL), P-PHENYLENEDIAMINE, 2-NITRO-1,4-DIAMINOBENZONE (EQ TO NITRO-P-PHENYLENEDIAMINE), 2,4-DIAMINOPHENOXYETHANOL HCL (EQ TO 2,4-DIAMINOPHENOXYETHANOL DIHYDROCHLORIDE)",
+    "限制項目": "01國　產",
+    "申請商名稱": "0834210200  佳慧化學工業有限公司",
+    "申請商地址": "台中市太平區宜昌東路5巷31弄48號",
     "主製造廠": {
-        "限制項目": "01國　產",
-        "申請商名稱": "0834210200  佳慧化學工業有限公司",
-        "申請商地址": "台中市太平區宜昌東路5巷31弄48號",
-        "主製造廠": ""
+        "製造廠名稱": "0834210500  佳慧化學工業有限公司",
+        "製造廠廠址": "台中市太平區宜欣里宜昌東路五巷31弄48號",
+        "製造廠公司地址": "",
+        "製造廠國別": "TAIWAN",
+        "製程": ""
     },
     "藥理治療分類": "",
     "ingredients": [
