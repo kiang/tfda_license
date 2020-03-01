@@ -58,24 +58,26 @@ function getLicense($code, $toCache = true) {
                     $data[trim(strip_tags($part4[0]))] = trim(strip_tags($part4[1]));
                     break;
                 case 3:
+                case 4:
                 case 5:
+                case 6:
                 case 7:
                 case 8:
                 case 9:
                 case 10:
                 case 11:
-                case 16:
-                case 18:
-                case 19:
-                    $part1 = explode('</th>', $cols[0]);
-                    $data[trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
-                    break;
-                case 4:
-                case 6:
                 case 12:
                 case 13:
                 case 14:
                 case 15:
+                case 16:
+                case 17:
+                case 18:
+                case 19:
+                case 20:
+                case 21:
+                case 22:
+                case 23:
                     $part1 = explode('</th>', $cols[0]);
                     $data[trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
                     $part2 = explode('</th>', $cols[1]);
@@ -83,20 +85,13 @@ function getLicense($code, $toCache = true) {
                         $data[trim(strip_tags($part2[0]))] = trim(strip_tags($part2[1]));
                     }
                     break;
-                case 17:
-                    $part1 = explode('</th>', $cols[0]);
-                    $data[trim(strip_tags($part1[0]))] = explode('[|]', str_replace(array(' ', '　'), '', trim(strip_tags(str_replace('<BR>', '[|]', $part1[1])))));
-                    break;
-                case 20:
+                case 24:
                     $data['主製造廠'] = array();
                     break;
-                case 21:
-                case 22:
-                case 23:
-                    $part1 = explode('</th>', $cols[0]);
-                    $data['主製造廠'][trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
-                    break;
-                case 24:
+                case 25:
+                case 26:
+                case 27:
+                case 28:
                     $part1 = explode('</th>', $cols[0]);
                     $data['主製造廠'][trim(strip_tags($part1[0]))] = trim(strip_tags($part1[1]));
                     if(isset($cols[1])) {
