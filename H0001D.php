@@ -38,6 +38,14 @@ function getLicense($code, $toCache = true) {
         $licenseId = trim(strip_tags(substr($p, $pos, $posEnd - $pos)));
     }
 
+    // stop the process and delete existed json file if empty $licenseId found
+    if(empty($licenseId)) {
+        if(file_exists("{$targetFolder}/{$code}.json")) {
+            unlink("{$targetFolder}/{$code}.json");
+        }
+        return false;
+    }
+
     $pos = strpos($p, '<th');
     $blockKey = false;
     $blockStack = array();
