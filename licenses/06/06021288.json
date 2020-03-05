@@ -1,7 +1,7 @@
 {
     "code": "06021288",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021288",
-    "time": "2020-02-25 20:07:43",
+    "time": "2020-03-06 03:30:32",
     "許可證字號": "衛署醫器輸字第021288號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,7 +16,7 @@
     "中文品名": "&quot;邁心諾&quot;脈搏\/血氧濃度感應器。",
     "英文品名": "&quot;Masimo&quot; rainbow SET Pulse CO-Oximeter Sensors。",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "詳如中文仿單核定本。\r\n增加規格，核定事項詳如中文仿單核定本(原99年8月19日核准之中文仿單核定本予以收回作廢)。",
+    "醫器規格": "詳如中文仿單核定本。\r\n增加規格，核定事項詳如中文仿單核定本(原99年8月19日核准之中文仿單核定本予以收回作廢)。註銷規格：Rainbow DCI SC-360、Rainbow DCIP SC-360、Rainbow DCI-dc8。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -37,28 +37,32 @@
     "申請商地址": "台北市信義區莊敬路392號2樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MMX0075000  INDUSTRIAL VALLERA DE MEXICALI, S.A. DE C.V",
-            "製造廠廠址": "CALZADA DEL ORO#2001, PARQUE INDUSTRIAL PALACO, MEXICALI, MEXICO 21600",
+            "製造廠名稱": "MMX0132000  Industrial Vallera de Mexicali, S.A. de C.V.",
+            "製造廠廠址": "Calzada del Oro#2001, Parque Industrial Palaco, Mexicali, B.C., 21600, Mexico",
             "製造廠公司地址": "",
             "製造廠國別": "MEXICO",
-            "製程": ""
+            "製程": "Manufactured by"
         }
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "MUS2511000  MASIMO CORPORATION",
-            "製造廠廠址": "40 PARKER IRVINE, CA 92618, U.S.A.",
+            "製造廠名稱": "MUS5501000  Masimo Corporation",
+            "製造廠廠址": "52 Discovery, Irvine CA 92618. USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
-            "製程": ""
+            "製程": "委託製造者"
         }
     ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "中文仿單-107-11-12.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021288&Seq=002&Type=9"
+            "title": "060212880001-109-02-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021288&Seq=003&Type=9"
+        },
+        {
+            "title": "060212880002-109-02-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021288&Seq=004&Type=8"
         }
     ]
 }
