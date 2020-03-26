@@ -1,7 +1,7 @@
 {
     "code": "60000973",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60000973",
-    "time": "2020-03-20 06:22:28",
+    "time": "2020-03-27 06:10:44",
     "許可證字號": "衛部菌疫輸字第000973號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -40,13 +40,6 @@
         }
     ],
     "次製造廠": [
-        {
-            "製造廠名稱": "1225204000  裕利股份有限公司",
-            "製造廠廠址": "桃園市大園區和平里1鄰開和路91號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
-            "製程": "二級包裝廠(委託貼標及置入仿單)"
-        },
         {
             "製造廠名稱": "FCH0257000  F. HOFFMANN-LA ROCHE LTD.",
             "製造廠廠址": "WURMISWEG, CH-4303 KAISERAUGST, SWITZERLAND",
@@ -92,6 +85,10 @@
     ],
     "仿單外盒": [
         {
+            "title": "5.1.2 中文化包裝_仿單_Gazyva_0819-GAZ-01 (450x500mm)-109-03-26(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000973&Seq=006&Type=9"
+        },
+        {
             "title": "癌即瓦注射劑_0219-GAZ-01(385x530mm)-108-03-12(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000973&Seq=005&Type=9"
         },
@@ -100,12 +97,12 @@
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000973&Seq=004&Type=9"
         },
         {
-            "title": "Gazyva_000973-1-STK-02-108-03-12(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000973&Seq=004&Type=8"
+            "title": "5.3.2 中文化包裝_標籤_Gazyva-109-03-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000973&Seq=006&Type=8"
         },
         {
-            "title": "Gazyva針劑標籤-104-05-28.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000973&Seq=003&Type=8"
+            "title": "5.2.2 中文化包裝_外盒_Gazyva-109-03-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000973&Seq=005&Type=8"
         }
     ]
 }
