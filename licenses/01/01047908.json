@@ -1,7 +1,7 @@
 {
     "code": "01047908",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01047908",
-    "time": "2020-02-25 07:17:17",
+    "time": "2020-04-10 03:05:33",
     "許可證字號": "衛署藥製字第047908號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,7 +26,7 @@
     "管制藥品分類級別": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE), CALCIUM CARBONATE PRECIPITATE (EQ TO PRECIPITATED CALCIUM CARBONATE), MAGNESIUM CARBONATE, CINNAMOMI CORTEX, DIASTASE, MENTHOL",
+    "主成分略述": "SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE), CALCIUM CARBONATE PRECIPITATE (EQ TO PRECIPITATED CALCIUM CARBONATE), MAGNESIUM CARBONATE, DIASTASE",
     "限制項目": "01國　產",
     "申請商名稱": "0100401100  一成藥品股份有限公司",
     "申請商地址": "新北市汐止區新台五路一段77號19樓之8",
@@ -68,30 +68,18 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "5610009110",
-            "成分名稱": "CINNAMOMI CORTEX",
-            "含量描述": "",
-            "含量": "29.1670000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "5616000700",
             "成分名稱": "DIASTASE",
             "含量描述": "",
             "含量": "194.4440000000",
             "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "8408000300",
-            "成分名稱": "MENTHOL",
-            "含量描述": "",
-            "含量": "16.6670000000",
-            "單位": "MG"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "20200311184400981-109-03-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047908&Seq=005&Type=9"
+        },
         {
             "title": "爽保樂安胃腸藥01047908仿單-106-06-23.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047908&Seq=004&Type=9"
@@ -101,7 +89,19 @@
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047908&Seq=003&Type=9"
         },
         {
-            "title": "010479080001.pdf",
+            "title": "20200311184413584-109-03-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047908&Seq=004&Type=8"
+        },
+        {
+            "title": "爽保樂安胃腸藥01047908_QR code文字-106-06-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047908&Seq=003&Type=8"
+        },
+        {
+            "title": "爽保樂安胃腸藥01047908_外盒-106-06-23.PDF",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047908&Seq=002&Type=8"
+        },
+        {
+            "title": "010479080001.jpg",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047908&Seq=001&Type=8"
         }
     ]

@@ -1,7 +1,7 @@
 {
     "code": "60000949",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60000949",
-    "time": "2020-02-26 09:58:23",
+    "time": "2020-04-10 03:14:27",
     "許可證字號": "衛部菌疫輸字第000949號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -48,13 +48,6 @@
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "6132061151  裕利股份有限公司",
-            "製造廠廠址": "桃園市大園區和平里1鄰開和路91號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
-            "製程": "二級包裝廠(委託貼標及置入仿單)"
-        },
-        {
             "製造廠名稱": "FCH0292000  LONZA LTD.",
             "製造廠廠址": "LONZASTRASSE, 3930 VISP, SWITERLAND",
             "製造廠公司地址": "",
@@ -92,12 +85,28 @@
     ],
     "仿單外盒": [
         {
+            "title": "Kadcyla_CDS8.0_remove local redressing site_0120-KAD-01 (450x500mm)_排-109-03-26(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000949&Seq=012&Type=9"
+        },
+        {
             "title": "4. Kadcyla_CDS8.0_EBC_1219-KAD-01_(450x500mm)_排-108-12-24.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000949&Seq=011&Type=9"
         },
         {
-            "title": "Kadcyla_000949-1-STK-03, 000949-2-STK-03, 000949-3-STK-02, 000949-4-STK-02-108-03-12(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000949&Seq=024&Type=8"
+            "title": "5.2.1.2 中文化包裝_外盒_Kadcyla_160mg-109-03-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000949&Seq=028&Type=8"
+        },
+        {
+            "title": "5.2.1.1 中文化包裝_外盒_Kadcyla_100mg-109-03-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000949&Seq=027&Type=8"
+        },
+        {
+            "title": "5.3.1.2 中文化包裝_標籤_Kadcyla_160mg-109-03-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000949&Seq=026&Type=8"
+        },
+        {
+            "title": "5.3.1.1 中文化包裝_標籤_Kadcyla_100mg-109-03-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000949&Seq=025&Type=8"
         }
     ]
 }

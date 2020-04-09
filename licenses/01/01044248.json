@@ -1,7 +1,7 @@
 {
     "code": "01044248",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01044248",
-    "time": "2020-02-25 06:57:02",
+    "time": "2020-04-10 03:04:34",
     "許可證字號": "衛署藥製字第044248號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,7 +26,7 @@
     "管制藥品分類級別": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "FOLINATE CALCIUM 5H2O (CALCIUM LEUCOVORIN 5H2O)",
+    "主成分略述": "CALCIUM FOLINATE (EQ TO FOLINIC ACID)",
     "限制項目": "01國　產",
     "申請商名稱": "6201125122  台灣東洋藥品工業股份有限公司",
     "申請商地址": "台北市南港區園區街3之1號3樓",
@@ -44,10 +44,10 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "8811600215",
-            "成分名稱": "FOLINATE CALCIUM 5H2O (CALCIUM LEUCOVORIN 5H2O)",
+            "成分代碼": "8811600220",
+            "成分名稱": "CALCIUM FOLINATE (EQ TO FOLINIC ACID)",
             "含量描述": "(eq. to Folinate 15mg)",
-            "含量": "19.0600000000",
+            "含量": "16.2100000000",
             "單位": "MG"
         }
     ],
@@ -69,8 +69,24 @@
     ],
     "仿單外盒": [
         {
+            "title": "仿單-109-02-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044248&Seq=003&Type=9"
+        },
+        {
             "title": "010442480001 仿單-104-12-25(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044248&Seq=002&Type=9"
+        },
+        {
+            "title": "鋁箔_2AF01D043(A01)-109-02-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044248&Seq=009&Type=8"
+        },
+        {
+            "title": "標籤_-109-02-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044248&Seq=008&Type=8"
+        },
+        {
+            "title": "外盒100T-109-02-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044248&Seq=007&Type=8"
         },
         {
             "title": "Folina Tab. 鋁箔袋-2AB01D002(A01)-108-03-29(廠商自行上傳).pdf",
