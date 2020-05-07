@@ -1,7 +1,7 @@
 {
     "code": "56030730",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030730",
-    "time": "2020-02-26 08:16:40",
+    "time": "2020-05-08 03:56:41",
     "許可證字號": "衛部醫器輸字第030730號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,10 +13,10 @@
     "舊證字號": "",
     "醫療器材級數": "第二等級",
     "通關簽審文件編號": "DHA05603073008",
-    "中文品名": "珂朗清矽水膠日拋軟性隱形眼鏡",
-    "英文品名": "clariti 1 day Silicone Hydrogel Contact Lenses",
+    "中文品名": "珂朗清矽水膠日拋軟式隱形眼鏡",
+    "英文品名": "Clariti (somofilcon A) 1 Day Silicone Hydrogel Contact Lenses",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "含水量：56%；\r\n顏色：透明、淡藍色\r\n以下空白\r\n規格變更:詳如中文仿單核定本(原107年7月03日核定之仿單標籤核定本收回作廢)。註銷規格:淡藍片。",
+    "醫器規格": "含水量：56%；\r\n顏色：透明、淡藍色\r\n以下空白\r\n規格變更:詳如中文仿單核定本(原107年7月03日核定之仿單標籤核定本收回作廢)。註銷規格:淡藍片。增加規格(新增國內分裝廠)、仿單及標籤變更:詳如中文仿單核定本(原107年11月22日核定之仿單標籤核定本收回作廢)。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -46,8 +46,15 @@
     ],
     "次製造廠": [
         {
+            "製造廠名稱": "6132091168  頂典有限公司",
+            "製造廠廠址": "桃園市龍潭區烏林里工五路242號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "分裝"
+        },
+        {
             "製造廠名稱": "MUS3251000  COOPERVISION, INC.",
-            "製造廠廠址": "6150 STONERIDGE MALL RD. SUITE 370 PLEASANTON, CA 94588",
+            "製造廠廠址": "6101 Bollinger Canyon Road, Suite 500, San Ramon, CA 94583, USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
             "製程": "總公司"
@@ -57,12 +64,12 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "560307300001-107-11-22.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56030730&Seq=004&Type=9"
+            "title": "550307300001-109-04-15.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56030730&Seq=005&Type=9"
         },
         {
-            "title": "560307300001-107-11-22.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56030730&Seq=003&Type=8"
+            "title": "550307300001-109-04-15.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56030730&Seq=004&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "06014466",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014466",
-    "time": "2020-02-25 18:50:03",
+    "time": "2020-05-08 03:33:15",
     "許可證字號": "衛署醫器輸字第014466號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -37,11 +37,20 @@
     "申請商地址": "臺北市中山區民生東路三段2號10樓及11樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MGB0151000  DEPUY INTERNATIONAL LTD.TRADING AS DEPUY CMW",
-            "製造廠廠址": "CORNFORD ROAD BLACKPOOL LANCASHIRE FY4 4QQ ENGLAND",
+            "製造廠名稱": "MGB0554000  DePuy International Limited, T\/A DePuy CMW",
+            "製造廠廠址": "Cornford Road, Blackpool, FY4 4QQ, United Kingdom",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED KINGDOM",
             "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MIE0126000  DePuy Ireland UC",
+            "製造廠廠址": "Loughbeg, Ringaskiddy, Co. Cork, Ireland",
+            "製造廠公司地址": "",
+            "製造廠國別": "IRELAND",
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",

@@ -1,7 +1,7 @@
 {
     "code": "06019176",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019176",
-    "time": "2020-02-25 19:44:19",
+    "time": "2020-05-08 03:35:06",
     "許可證字號": "衛署醫器輸字第019176號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,10 +13,10 @@
     "舊證字號": "",
     "醫療器材級數": "第二等級",
     "通關簽審文件編號": "DHA00601917609",
-    "中文品名": "“酷柏”寶晴日拋軟性隱形眼鏡",
-    "英文品名": "“CooperVision”Proclear 1 day (Omafilcon A) soft contact Lenses",
+    "中文品名": "酷柏 寶晴日拋軟式隱形眼鏡",
+    "英文品名": "CooperVision Proclear (omafilcon A) 1 Day Soft Contact Lenses",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "tinted blue，含水量:60% ，以下空白。",
+    "醫器規格": "tinted blue，含水量:60% ，以下空白。\r\n增加規格(新增國內分裝廠)、仿單及標籤變更:詳如中文仿單核定本(原97年10月14日核定之仿單標籤核定本收回作廢)。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -44,16 +44,25 @@
             "製程": ""
         }
     ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "6132091168  頂典有限公司",
+            "製造廠廠址": "桃園市龍潭區烏林里工五路242號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "分裝"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060191760001-103-04-11.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019176&Seq=001&Type=9"
+            "title": "060191760001-109-04-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019176&Seq=002&Type=9"
         },
         {
-            "title": "060191760002-103-04-11.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019176&Seq=001&Type=8"
+            "title": "060191760001-109-04-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019176&Seq=002&Type=8"
         }
     ]
 }

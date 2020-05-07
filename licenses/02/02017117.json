@@ -1,7 +1,7 @@
 {
     "code": "02017117",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02017117",
-    "time": "2020-02-25 11:32:24",
+    "time": "2020-05-08 03:10:07",
     "許可證字號": "衛署藥輸字第017117號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,8 +26,8 @@
     "管制藥品分類級別": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "BIODIASTASE 1000, MAGNESIUM ALUMINUM HYDROXIDE, MAGNESIUM CARBONATE HEAVY, CINNAMON (CINNAMON CORTEX ) (CINNAMON BARK), GINGER POWDER, URSODEOXYCHOLIC ACID, PROZYME 6, CLOVE POWDER, L-MENTHOL, SYNTHETIC ALUMINUM SILICATE",
-    "限制項目": "02輸　入 1Q不得輸入",
+    "主成分略述": "BIODIASTASE 1000, MAGNESIUM ALUMINUM HYDROXIDE, MAGNESIUM CARBONATE HEAVY, CINNAMON (CINNAMON CORTEX ) (CINNAMON BARK), GINGER POWDER, URSODEOXYCHOLIC ACID, PROZYME 6, CLOVE POWDER, SYNTHETIC ALUMINUM SILICATE",
+    "限制項目": "02輸　入",
     "申請商名稱": "1508901100  德佑藥品有限公司",
     "申請商地址": "台北市松山區敦化南路一段3號2樓",
     "主製造廠": [
@@ -95,7 +95,7 @@
             "成分代碼": "5616001900",
             "成分名稱": "PROZYME 6",
             "含量描述": "",
-            "含量": "0.5550000000",
+            "含量": "0.5560000000",
             "單位": "MG"
         },
         {
@@ -104,14 +104,6 @@
             "成分名稱": "CLOVE POWDER",
             "含量描述": "",
             "含量": "6.6670000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "8408000302",
-            "成分名稱": "L-MENTHOL",
-            "含量描述": "",
-            "含量": "1.1110000000",
             "單位": "MG"
         },
         {
@@ -125,12 +117,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "衛署藥輸字第017117號_樂朗錠_仿單___20121127.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017117&Seq=001&Type=9"
+            "title": "衛署藥輸字第017117號_樂朗錠_QR code文字內容-109-04-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017117&Seq=003&Type=9"
         },
         {
-            "title": "衛署藥輸字第017117號_樂朗錠_標籤___20121127.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017117&Seq=002&Type=8"
+            "title": "衛署藥輸字第017117號_樂朗錠_仿單-109-04-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017117&Seq=002&Type=9"
+        },
+        {
+            "title": "衛署藥輸字第017117號_樂朗錠_標籤-109-04-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017117&Seq=004&Type=8"
+        },
+        {
+            "title": "衛署藥輸字第017117號_樂朗錠_外盒-109-04-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017117&Seq=003&Type=8"
         }
     ]
 }

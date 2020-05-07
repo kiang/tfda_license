@@ -1,7 +1,7 @@
 {
     "code": "06009149",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06009149",
-    "time": "2020-02-25 17:46:14",
+    "time": "2020-05-08 03:25:32",
     "許可證字號": "衛署醫器輸字第009149號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,10 +13,10 @@
     "舊證字號": "",
     "醫療器材級數": "第二等級",
     "通關簽審文件編號": "DHA00600914900",
-    "中文品名": "&quot;美杜思&quot; 愛可閥腦水腫引流管系統",
-    "英文品名": "ACCU-FLO HYDROCEPHALUS SHUNT SYSTEM &quot;MEDOS&quot;",
+    "中文品名": "”柯特曼舒特樂夫“愛可閥腦水腫引流管系統",
+    "英文品名": "”Codman &amp; Shurtleff“ACCU-FLO HYDROCEPHALUS SHUNT SYSTEM",
     "效能": "",
-    "醫器規格": "詳如中文仿單核定本、詳如中文仿單核定本。刪除型號：82-1430。註銷規格：82-1212，以下空白。註銷規格82-1321和82-1322，以下空白。註銷規格(共2項):82-1421, 82-6026，以下空白。",
+    "醫器規格": "詳如中文仿單核定本、詳如中文仿單核定本。刪除型號：82-1430。註銷規格：82-1212，以下空白。註銷規格82-1321和82-1322，以下空白。註銷規格(共2項):82-1421, 82-6026，以下空白。註銷規格：82-6010及82-6025，以下空白。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -32,36 +32,41 @@
     "藥品分類": "",
     "監視期限": "",
     "主成分略述": "",
-    "限制項目": "02輸　入",
+    "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "623105A094  科舉顧問股份有限公司",
     "申請商地址": "新北市新店區安祥路147巷53號4樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MCH0045000  MEDOS SARL",
-            "製造廠廠址": "RUE GIRARDET 29, P.O. BOX 128, CH-2400 LE LOCLE SWITZERLAND",
+            "製造廠名稱": "MCH0045200  MEDOS SARL",
+            "製造廠廠址": "RUE GIRARDET 29 LE LOCLE, Jura SWITZERLAND CH-2400",
             "製造廠公司地址": "",
             "製造廠國別": "SWITZERLAND",
-            "製程": ""
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS0055000  CODMAN &amp; SHURTLEFF,INC.",
+            "製造廠廠址": "325 PARAMOUNT DRIVE, RAYNHAM, MA 02767 USA.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
         }
     ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060091490001(107.08.30)-107-09-08.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06009149&Seq=003&Type=9"
+            "title": "06009149(88.5.13)-109.4.16-109-04-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06009149&Seq=004&Type=9"
         },
         {
             "title": "009149-insert-1-105-03-29(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06009149&Seq=002&Type=9"
         },
         {
-            "title": "009149-insert-105-03-29(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06009149&Seq=001&Type=9"
-        },
-        {
-            "title": "060091490001(107.08.30)-107-09-08.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06009149&Seq=001&Type=8"
+            "title": "06009149(88.5.13)-109.4.16-109-04-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06009149&Seq=002&Type=8"
         }
     ]
 }
