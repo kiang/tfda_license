@@ -1,12 +1,12 @@
 {
     "code": "06022042",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022042",
-    "time": "2020-02-25 20:16:24",
+    "time": "2020-06-19 03:48:32",
     "許可證字號": "衛署醫器輸字第022042號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可登錄編號": "QSD3416",
+    "製造許可登錄編號": "QSD4607",
     "有效日期": "110\/01\/13",
     "發證日期": "100\/01\/13",
     "許可證種類": "醫　器",
@@ -37,23 +37,32 @@
     "申請商地址": "台北市內湖區瑞光路407號5樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MUS0847100  ST. JUDE MEDICAL CARDIAC RHYTHM MANAGEMENT DIVISION",
-            "製造廠廠址": "15900 VALLEY VIEW COUNT SYLMAR CA 91342-3577 U.S.A.",
+            "製造廠名稱": "MUS0927200  ST. JUDE MEDICAL",
+            "製造廠廠址": "14901 DEVEAU PL. MINNETONKA, MN, 55345, USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
             "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS0847100  ST. JUDE MEDICAL CARDIAC RHYTHM MANAGEMENT DIVISION",
+            "製造廠廠址": "15900 VALLEY VIEW COURT SYLMAR CA 91342-3577 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060220420002___20110313.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022042&Seq=001&Type=9"
+            "title": "060220420001-109-05-15.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022042&Seq=002&Type=9"
         },
         {
-            "title": "060220420001___20110313.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022042&Seq=001&Type=8"
+            "title": "060220420001-109-05-15.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022042&Seq=002&Type=8"
         }
     ]
 }

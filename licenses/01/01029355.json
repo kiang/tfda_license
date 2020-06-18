@@ -1,7 +1,7 @@
 {
     "code": "01029355",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01029355",
-    "time": "2020-02-25 05:19:07",
+    "time": "2020-06-19 03:02:04",
     "許可證字號": "衛署藥製字第029355號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,7 +26,7 @@
     "管制藥品分類級別": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "SULCAIN(ETHYL-P-PIPERIDYLACETYLAMINOBENZOATE), POLYMAGAL",
+    "主成分略述": "DRIED ALUMINUM HYDROXIDE GEL, SULCAIN(ETHYL-P-PIPERIDYLACETYLAMINOBENZOATE), POLYMAGAL",
     "限制項目": "01國　產",
     "申請商名稱": "0510620200  生達化學製藥股份有限公司",
     "申請商地址": "台南市新營區土庫里土庫6之20號",
@@ -44,6 +44,14 @@
     "ingredients": [
         {
             "成分類別": "主成分",
+            "成分代碼": "5604000207",
+            "成分名稱": "DRIED ALUMINUM HYDROXIDE GEL",
+            "含量描述": "",
+            "含量": "21.4000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
             "成分代碼": "5604003800",
             "成分名稱": "SULCAIN(ETHYL-P-PIPERIDYLACETYLAMINOBENZOATE)",
             "含量描述": "100",
@@ -54,7 +62,7 @@
             "成分類別": "主成分",
             "成分代碼": "9900036200",
             "成分名稱": "POLYMAGAL",
-            "含量描述": "100",
+            "含量描述": "(MgO:Al2O3=1:1)",
             "含量": "100.0000000000",
             "單位": "MG"
         }

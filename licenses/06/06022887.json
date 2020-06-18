@@ -1,12 +1,12 @@
 {
     "code": "06022887",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022887",
-    "time": "2020-02-25 20:25:23",
+    "time": "2020-06-19 03:48:42",
     "許可證字號": "衛署醫器輸字第022887號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可登錄編號": "QSD0592",
+    "製造許可登錄編號": "QSD11460",
     "有效日期": "110\/10\/07",
     "發證日期": "100\/10\/07",
     "許可證種類": "醫　器",
@@ -37,11 +37,20 @@
     "申請商地址": "台北市松山區敦化南路一段2號2樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MUS0206100  MEDTRONIC NEUROSURGERY",
-            "製造廠廠址": "125 CREMONA DRIVE, GOLETA, CALIFORNIA 93117, U.S.A.",
+            "製造廠名稱": "MDO0017000  Covidien (Medtronic Dominicana (Manufactura) S.A)",
+            "製造廠廠址": "Zona Franca De San Isidro Carretera San Isidro, Km 17, Santo Domingo, Dominican Republic",
+            "製造廠公司地址": "",
+            "製造廠國別": "DOMINICAN REPUBLIC",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS3565300  Medtronic Inc.",
+            "製造廠廠址": "710 Medtronic Pkwy., Minneapolis, MN 55432 U.S.A.",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
-            "製程": ""
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",

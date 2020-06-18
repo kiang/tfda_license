@@ -1,12 +1,12 @@
 {
     "code": "06018173",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06018173",
-    "time": "2020-02-25 19:32:11",
+    "time": "2020-06-19 03:44:46",
     "許可證字號": "衛署醫器輸字第018173號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可登錄編號": "QSD7556",
+    "製造許可登錄編號": "QSD12282",
     "有效日期": "111\/07\/20",
     "發證日期": "96\/07\/20",
     "許可證種類": "醫　器",
@@ -37,11 +37,20 @@
     "申請商地址": "嘉義市西區保安里八德路225號1樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MUS3264000  INTRA-LOCK, INTERNATIONAL, INC.",
-            "製造廠廠址": "6560 W ROGERS CIRC., #24 BOCA RATON, FLORIDA 33487, U.S.A.",
+            "製造廠名稱": "MUS2488000  BIOHORIZONS IMPLANT SYSTEMS, INC.",
+            "製造廠廠址": "2300 RIVERCHASE CENTER, BIRMINGHAM, AL 35244, U.S.A.",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
-            "製程": ""
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS5581000  Intra-Lock International, Inc.",
+            "製造廠廠址": "2300 Riverchase Center, Suite 815, Birmingham, AL, USA 35244",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
         }
     ],
     "藥理治療分類": "",

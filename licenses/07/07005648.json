@@ -1,7 +1,7 @@
 {
     "code": "07005648",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07005648",
-    "time": "2020-02-25 21:43:18",
+    "time": "2020-06-19 04:13:24",
     "許可證字號": "衛署粧製字第005648號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,15 +9,15 @@
     "製造許可登錄編號": "",
     "有效日期": "113\/06\/30",
     "發證日期": "99\/10\/01",
-    "許可證種類": "含藥化粧品",
+    "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00700564800",
-    "中文品名": "光感清透防曬乳SPF30★★★、亮感防曬乳SPF30★★★、亮顏防曬乳SPF30★★★",
-    "英文品名": "PERFECT BRIGHTENING UV MOISTURE LOTION SPF30★★★",
-    "用途": "防曬、預防皮膚曬傷及曬黑。",
+    "中文品名": "積雪草水感高效防曬凝乳SPF50+ PA++++",
+    "英文品名": "CICA Aqua Rich Sunscreen Lotion SPF50+ PA++++",
+    "用途": "防曬。",
     "劑型": "944乳劑",
-    "包裝": "500g以下軟管裝 附外盒",
+    "包裝": "500g以下軟管裝 附外盒 500ml 以下瓶裝附外盒",
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
@@ -26,7 +26,7 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "OCTYL METHOXYCINNAMATE, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, METHYLENE BIS-BENZOTRIAZOLYL TETRAMETHYLBUTYLPHENOL",
+    "主成分略述": "DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, ETHYLHEXYL TRIAZONE, METHYLENE BIS-BENZOTRIAZOLYL TETRAMETHYLBUTYLPHENOL",
     "限制項目": "01國　產",
     "申請商名稱": "6612380025  詠麗生化科技股份有限公司",
     "申請商地址": "新北市中和區永和路339號",
@@ -43,18 +43,18 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "8480000560",
-            "成分名稱": "OCTYL METHOXYCINNAMATE",
+            "成分代碼": "9600203500",
+            "成分名稱": "DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE",
             "含量描述": "",
-            "含量": "1.0000000000",
+            "含量": "3.0000000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9600203500",
-            "成分名稱": "DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE",
+            "成分代碼": "9900090400",
+            "成分名稱": "ETHYLHEXYL TRIAZONE",
             "含量描述": "",
-            "含量": "0.2000000000",
+            "含量": "1.5000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -62,34 +62,14 @@
             "成分代碼": "9900093700",
             "成分名稱": "METHYLENE BIS-BENZOTRIAZOLYL TETRAMETHYLBUTYLPHENOL",
             "含量描述": "",
-            "含量": "2.0000000000",
+            "含量": "2.5000000000",
             "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
         {
-            "title": "070056480006___20101103.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005648&Seq=006&Type=8"
-        },
-        {
-            "title": "070056480005___20101103.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005648&Seq=005&Type=8"
-        },
-        {
-            "title": "070056480004___20101103.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005648&Seq=004&Type=8"
-        },
-        {
-            "title": "070056480003___20101103.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005648&Seq=003&Type=8"
-        },
-        {
-            "title": "070056480002___20101103.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005648&Seq=002&Type=8"
-        },
-        {
-            "title": "070056480001___20101103.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005648&Seq=001&Type=8"
+            "title": "07005648-109-05-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005648&Seq=007&Type=8"
         }
     ]
 }

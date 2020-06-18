@@ -1,12 +1,12 @@
 {
     "code": "06010469",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010469",
-    "time": "2020-02-25 18:04:35",
+    "time": "2020-06-19 03:38:15",
     "許可證字號": "衛署醫器輸字第010469號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可登錄編號": "QSD0592",
+    "製造許可登錄編號": "QSD11460",
     "有效日期": "112\/11\/20",
     "發證日期": "92\/11\/20",
     "許可證種類": "醫　器",
@@ -16,7 +16,7 @@
     "中文品名": "&quot;美敦力&quot; 體外引流及監測用腦室導管",
     "英文品名": "&quot;MEDTRONIC&quot; EXTERNAL DRAINAGE AND MONITORING CATHETERS",
     "效能": "",
-    "醫器規格": "詳如中文仿單核定本。詳如中文仿單核定本。註銷規格(共1項)：96115，以下空白。",
+    "醫器規格": "詳如中文仿單核定本。詳如中文仿單核定本。註銷規格(共1項)：96115，以下空白。註銷規格：26020及27703。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -37,19 +37,32 @@
     "申請商地址": "台北市松山區敦化南路一段2號2樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MUS0206100  MEDTRONIC NEUROSURGERY",
-            "製造廠廠址": "125-B CREMONA DRIVE GOLETA, CALIFORNIA 93117",
+            "製造廠名稱": "MDO0017000  Covidien (Medtronic Dominicana (Manufactura) S.A)",
+            "製造廠廠址": "Zona Franca De San Isidro Carretera San Isidro, Km 17, Santo Domingo, Dominican Republic",
+            "製造廠公司地址": "",
+            "製造廠國別": "DOMINICAN REPUBLIC",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS3565300  Medtronic Inc.",
+            "製造廠廠址": "710 Medtronic Pkwy., Minneapolis, MN 55432 U.S.A.",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
-            "製程": ""
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060104690001(107.7.11)-107-07-12.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010469&Seq=011&Type=9"
+            "title": "060104690001(95.08.01增規)註銷規格-109-05-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010469&Seq=013&Type=9"
+        },
+        {
+            "title": "060104690001(92.12.09)註銷規格-109-05-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010469&Seq=012&Type=9"
         },
         {
             "title": "060104690001(95.8.1)-107-06-04.pdf",
@@ -60,40 +73,12 @@
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010469&Seq=009&Type=9"
         },
         {
-            "title": "060104690007.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010469&Seq=008&Type=9"
+            "title": "060104690001(95.08.01增規)註銷規格-109-05-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010469&Seq=006&Type=8"
         },
         {
-            "title": "060104690006.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010469&Seq=007&Type=9"
-        },
-        {
-            "title": "060104690005.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010469&Seq=006&Type=9"
-        },
-        {
-            "title": "060104690004.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010469&Seq=005&Type=9"
-        },
-        {
-            "title": "060104690003.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010469&Seq=004&Type=9"
-        },
-        {
-            "title": "060104690002.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010469&Seq=003&Type=9"
-        },
-        {
-            "title": "060104690001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010469&Seq=002&Type=9"
-        },
-        {
-            "title": "060104690001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010469&Seq=001&Type=9"
-        },
-        {
-            "title": "060104690001(107.7.11)-107-07-12.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010469&Seq=004&Type=8"
+            "title": "060104690001(92.12.09)註銷規格-109-05-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010469&Seq=005&Type=8"
         },
         {
             "title": "060104690001(95.8.1)-107-06-04.pdf",
