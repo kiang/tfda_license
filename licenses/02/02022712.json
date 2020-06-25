@@ -1,7 +1,7 @@
 {
     "code": "02022712",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022712",
-    "time": "2020-06-19 03:15:17",
+    "time": "2020-06-26 03:13:33",
     "許可證字號": "衛署藥輸字第022712號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -50,7 +50,16 @@
     ],
     "CCC號列": "30049071005 抗癌藥Anti-cancer preparations",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "1003000620",
+            "成分名稱": "DOXORUBICIN HYDROCHLORIDE",
+            "含量描述": "",
+            "含量": "2.0000000000",
+            "單位": "MG"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "Adriamycin LLD Australia 20140610-3-107-10-08(廠商自行上傳).pdf",

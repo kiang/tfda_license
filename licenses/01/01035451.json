@@ -1,7 +1,7 @@
 {
     "code": "01035451",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01035451",
-    "time": "2020-06-19 03:03:59",
+    "time": "2020-06-26 03:03:34",
     "許可證字號": "衛署藥製字第035451號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -41,7 +41,16 @@
     ],
     "CCC號列": "30042000211 人用醫藥製劑，含抗黴菌劑類抗生素者Medicaments, containing antifungal antibiotics, for human use",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812200610",
+            "成分名稱": "ISOCONAZOLE NITRATE",
+            "含量描述": "10",
+            "含量": "10.0000000000",
+            "單位": "MG"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "華蓉乳膏-104-09-25(廠商自行上傳).pdf",
