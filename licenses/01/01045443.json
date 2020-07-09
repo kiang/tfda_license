@@ -1,7 +1,7 @@
 {
     "code": "01045443",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01045443",
-    "time": "2020-02-25 07:02:41",
+    "time": "2020-07-10 03:02:56",
     "許可證字號": "衛署藥製字第045443號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,7 +26,7 @@
     "管制藥品分類級別": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "METHYLPREDNISOLONE",
+    "主成分略述": "SODIUM PHOSPHATE MONOBASIC (EQ TO MONOSODIUM PHOSPHATE)(EQ TO SODIUM DIHYDROGEN PHOSPHATE), METHYLPREDNISOLONE",
     "限制項目": "01國　產 09委託製造",
     "申請商名稱": "6231147074  東洲化學製藥廠股份有限公司",
     "申請商地址": "新北市蘆洲區中山二路195巷12號1-2樓",
@@ -46,15 +46,23 @@
             "成分類別": "主成分",
             "成分代碼": "6804001300",
             "成分名稱": "METHYLPREDNISOLONE",
-            "含量描述": "",
+            "含量描述": "(as Sodium Succinate)",
             "含量": "40.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5612002610",
+            "成分名稱": "SODIUM PHOSPHATE MONOBASIC (EQ TO MONOSODIUM PHOSPHATE)(EQ TO SODIUM DIHYDROGEN PHOSPHATE)",
+            "含量描述": "(3.5％)",
+            "含量": "4.3750000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "6804001300",
             "成分名稱": "METHYLPREDNISOLONE",
-            "含量描述": "",
+            "含量描述": "(as Sodium Succinate)",
             "含量": "125.0000000000",
             "單位": "MG"
         }

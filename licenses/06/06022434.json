@@ -1,7 +1,7 @@
 {
     "code": "06022434",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022434",
-    "time": "2020-02-25 20:20:30",
+    "time": "2020-07-10 03:33:56",
     "許可證字號": "衛署醫器輸字第022434號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -37,11 +37,20 @@
     "申請商地址": "台北市內湖區民權東路六段180巷6號8樓之1",
     "主製造廠": [
         {
-            "製造廠名稱": "MIL0085100  ALMA LASERS LTD",
-            "製造廠廠址": "14 Halamish Street, Caesarea North Industrial Park, 38900, Israel and 15 Halamish Street, Caesarea North Industrial Park, 38900, Israel",
+            "製造廠名稱": "MIL0085400  Alma Lasers Ltd.",
+            "製造廠廠址": "14 Halamish Street, Caesarea North Industrial Park, 3088900, Israel",
             "製造廠公司地址": "",
             "製造廠國別": "ISRAEL",
             "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MDE1317100  Alma Lasers GmbH",
+            "製造廠廠址": "Nordostpark 100-102, D-90411 N&#252;rnberg, Deutschland\/ Germany",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",

@@ -1,7 +1,7 @@
 {
     "code": "08014808",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08014808",
-    "time": "2020-02-26 00:28:09",
+    "time": "2020-07-10 04:01:36",
     "許可證字號": "衛署粧輸字第014808號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,12 +9,12 @@
     "製造許可登錄編號": "",
     "有效日期": "110\/03\/04",
     "發證日期": "97\/03\/04",
-    "許可證種類": "含藥化粧品",
+    "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00801480801",
     "中文品名": "培麗 永久染染髮霜  紅橘色系 8RG, 7RC",
-    "英文品名": "VERO K-PAK COLOR 8RG MEDIUM RED GOLD, 7RC BRIGHT RED COPPER",
+    "英文品名": "JOICO VERO K-PAK COLOR PERMANENT CR&#200;ME COLOR 8RG MEDIUM RED GOLD, 7RC BRIGHT RED COPPER",
     "用途": "染髮。",
     "劑型": "992霜劑",
     "包裝": "500ML以下鋁管裝 附外盒裝",
@@ -26,7 +26,7 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "AMMONIUM HYDROXIDE 28%, 4-AMINO-M-CRESOL, 5-AMINO-6-CHLORO-O-CRESOL, 6-AMINO-M-CRESOL, AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL), 2-AMINO-3-HYDROXYPYRIDINE",
+    "主成分略述": "AMMONIA WATER (AMMONIUM HYDROXIDE), 5-AMINO-6-CHLORO-O-CRESOL, P-AMINOPHENOL, 2-AMINO-3-HYDROXYPYRIDINE",
     "限制項目": "02輸　入",
     "申請商名稱": "6623929515  台灣漢高股份有限公司",
     "申請商地址": "新北市中和區中正路866號10樓",
@@ -43,18 +43,10 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000107",
-            "成分名稱": "AMMONIUM HYDROXIDE 28%",
+            "成分代碼": "2820000102",
+            "成分名稱": "AMMONIA WATER (AMMONIUM HYDROXIDE)",
             "含量描述": "",
-            "含量": "7.0000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200002632",
-            "成分名稱": "4-AMINO-M-CRESOL",
-            "含量描述": "",
-            "含量": "0.0010000000",
+            "含量": "1.8648000000",
             "單位": "%(W\/W)"
         },
         {
@@ -67,18 +59,10 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002690",
-            "成分名稱": "6-AMINO-M-CRESOL",
+            "成分代碼": "9200035440",
+            "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
-            "含量": "0.0300000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200035401",
-            "成分名稱": "AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL)",
-            "含量描述": "",
-            "含量": "0.3300000000",
+            "含量": "0.0340000000",
             "單位": "%(W\/W)"
         },
         {
@@ -91,18 +75,10 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000107",
-            "成分名稱": "AMMONIUM HYDROXIDE 28%",
+            "成分代碼": "2820000102",
+            "成分名稱": "AMMONIA WATER (AMMONIUM HYDROXIDE)",
             "含量描述": "",
-            "含量": "7.0000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200002632",
-            "成分名稱": "4-AMINO-M-CRESOL",
-            "含量描述": "",
-            "含量": "0.0010000000",
+            "含量": "1.8648000000",
             "單位": "%(W\/W)"
         },
         {
@@ -110,23 +86,15 @@
             "成分代碼": "9200002650",
             "成分名稱": "5-AMINO-6-CHLORO-O-CRESOL",
             "含量描述": "",
-            "含量": "0.1640000000",
+            "含量": "0.1700000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002690",
-            "成分名稱": "6-AMINO-M-CRESOL",
+            "成分代碼": "9200035440",
+            "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
-            "含量": "0.0400000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200035401",
-            "成分名稱": "AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL)",
-            "含量描述": "",
-            "含量": "0.4100000000",
+            "含量": "0.0430000000",
             "單位": "%(W\/W)"
         },
         {
@@ -140,36 +108,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "080148080003.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014808&Seq=003&Type=9"
-        },
-        {
-            "title": "080148080002.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014808&Seq=002&Type=9"
-        },
-        {
-            "title": "080148080001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014808&Seq=001&Type=9"
-        },
-        {
-            "title": "08014808-103-04-28.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014808&Seq=005&Type=8"
-        },
-        {
-            "title": "080148080004.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014808&Seq=004&Type=8"
-        },
-        {
-            "title": "080148080003.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014808&Seq=003&Type=8"
-        },
-        {
-            "title": "080148080002.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014808&Seq=002&Type=8"
-        },
-        {
-            "title": "080148080001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014808&Seq=001&Type=8"
+            "title": "08014808-109-06-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08014808&Seq=006&Type=8"
         }
     ]
 }

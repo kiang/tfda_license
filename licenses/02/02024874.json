@@ -1,7 +1,7 @@
 {
     "code": "02024874",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024874",
-    "time": "2020-02-25 13:28:27",
+    "time": "2020-07-10 03:11:55",
     "許可證字號": "衛署藥輸字第024874號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -32,11 +32,20 @@
     "申請商地址": "台北市復興北路３６５號１１樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FUS0073100  ELI LILLY AND COMPANY",
-            "製造廠廠址": "INDIANAPOLIS INDIANA 46285 USA",
+            "製造廠名稱": "FGR0032000  VIANEX S.A. (PLANT C)",
+            "製造廠廠址": "16TH KM MARATHONOS AVENUE,15351 PALLINI ATTIKIS, GREECE",
             "製造廠公司地址": "",
-            "製造廠國別": "UNITED STATES",
-            "製程": ""
+            "製造廠國別": "GREECE",
+            "製程": "製造、分裝"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "FFR0118000  LILLY FRANCE",
+            "製造廠廠址": "2 RUE DU COLONEL LILLY 67640 FEGERSHEIM, FRANCE",
+            "製造廠公司地址": "13 RUE PAGES, 92158 SURESNES, FRANCE",
+            "製造廠國別": "FRANCE",
+            "製程": "包裝"
         }
     ],
     "CCC號列": "",
@@ -69,12 +78,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "0202487400001_仿單_108-10-15s-108-10-29.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024874&Seq=010&Type=9"
+            "title": "20200601 Alimta-Final truth-ALM-0004-USPI-20190130+GOLD approved statement Dec08, Aug10_15Oct2019 v2 (CDE接受版) 加紅框- Clean-109-06-04.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024874&Seq=011&Type=9"
         },
         {
-            "title": "Alimta 100-104-09-30(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024874&Seq=001&Type=8"
+            "title": "標籤_NL005FSTW00.pdf - proof report-109-06-04.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024874&Seq=003&Type=8"
+        },
+        {
+            "title": "外盒_NL003FSTW00.pdf - proof report-109-06-04.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024874&Seq=002&Type=8"
         }
     ]
 }

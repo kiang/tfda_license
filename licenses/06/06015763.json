@@ -1,7 +1,7 @@
 {
     "code": "06015763",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06015763",
-    "time": "2020-02-25 19:04:18",
+    "time": "2020-07-10 03:29:41",
     "許可證字號": "衛署醫器輸字第015763號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,7 +16,7 @@
     "中文品名": "免疫特糖蛋白抗原19-9試劑",
     "英文品名": "IMMULITE GI-MA (CA19-9)Reagent",
     "效能": "IMMULITE GI-MA(CA19-9)Reagent：供IMMULITE \/IMMULITE 1000分析儀用於體外診斷，定量檢測血清中CA19-9。",
-    "醫器規格": "LKGI1, LKGI5, LGIZ。",
+    "醫器規格": "LKGI1,  LGIZ。註銷規格:LKGI5。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -48,8 +48,16 @@
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "06015763-109-06-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06015763&Seq=002&Type=9"
+        },
+        {
             "title": "015763 scan-105-03-28(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06015763&Seq=001&Type=9"
+        },
+        {
+            "title": "06015763-109-06-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06015763&Seq=001&Type=8"
         }
     ]
 }

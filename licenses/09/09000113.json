@@ -1,7 +1,7 @@
 {
     "code": "09000113",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=09000113",
-    "time": "2020-03-27 05:04:43",
+    "time": "2020-07-10 03:13:28",
     "許可證字號": "衛署菌疫製字第000113號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,7 +26,7 @@
     "管制藥品分類級別": "",
     "藥品分類": "疫苗",
     "監視期限": "",
-    "主成分略述": "A\/California\/7\/2009(H1N1)-like virus, B\/Colorado\/06\/2017-like virus (Victoria lineage) (B\/Maryland\/15\/2016 (Reassortant NYMC BX-69A)), A\/Kansas\/14\/2017 (H3N2)-like virus (A\/Kansas\/14\/2017 (Reassortant X-327)), A\/Brisbane\/02\/2018 (H1N1) pdm09-like virus (A\/Brisbane\/02\/2018 (Reassortant IVR-190))",
+    "主成分略述": "A\/California\/7\/2009(H1N1)-like virus, B\/Washington\/02\/2019-like virus (B\/Victoria\/705\/2018 (BVR-11)), A\/Hong Kong\/2671\/2019 (H3N2)-like virus (A\/Hong Kong\/2671\/2019 (IVR-208)), A\/Guangdong-Maonan\/SWL1536\/2019 (H1N1) pdm09-like virus (A\/Gunagdong-Maonan\/SWL1536\/2019 (CNIC-1909))",
     "限制項目": "01國　產",
     "申請商名稱": "1101110200  國光生物科技股份有限公司",
     "申請商地址": "台中市潭子區潭興路一段三號",
@@ -44,24 +44,24 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "8012006820",
-            "成分名稱": "B\/Colorado\/06\/2017-like virus (Victoria lineage) (B\/Maryland\/15\/2016 (Reassortant NYMC BX-69A))",
+            "成分代碼": "8012006830",
+            "成分名稱": "B\/Washington\/02\/2019-like virus (B\/Victoria\/705\/2018 (BVR-11))",
             "含量描述": "",
             "含量": "30.0000000000",
             "單位": "MCG\/ML (=UG\/ML)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8012017020",
-            "成分名稱": "A\/Kansas\/14\/2017 (H3N2)-like virus (A\/Kansas\/14\/2017 (Reassortant X-327))",
+            "成分代碼": "8012017040",
+            "成分名稱": "A\/Hong Kong\/2671\/2019 (H3N2)-like virus (A\/Hong Kong\/2671\/2019 (IVR-208))",
             "含量描述": "",
             "含量": "30.0000000000",
             "單位": "MCG\/ML (=UG\/ML)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8012018000",
-            "成分名稱": "A\/Brisbane\/02\/2018 (H1N1) pdm09-like virus (A\/Brisbane\/02\/2018 (Reassortant IVR-190))",
+            "成分代碼": "8012018020",
+            "成分名稱": "A\/Guangdong-Maonan\/SWL1536\/2019 (H1N1) pdm09-like virus (A\/Gunagdong-Maonan\/SWL1536\/2019 (CNIC-1909))",
             "含量描述": "",
             "含量": "30.0000000000",
             "單位": "MCG\/ML (=UG\/ML)"
@@ -93,32 +93,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "2019年 AdimFlu-S 仿單(無汞)(0.5mL)_190912 -109-01-02.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000113&Seq=048&Type=9"
+            "title": "仿單變更後-200512流感病毒裂解疫苗(簡體版)_仿單-校稿-109-06-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000113&Seq=049&Type=9"
         },
         {
-            "title": "2019年 AdimFlu-S 仿單(民眾版)_190912 -109-01-02.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000113&Seq=047&Type=9"
+            "title": "變更後標籤-流感病毒裂解疫苗0.5ml支(成人劑量)-白底-109-06-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000113&Seq=050&Type=8"
         },
         {
-            "title": "2019年 AdimFlu-S 仿單(小兒用)(0.25mL)_190912-109-01-02.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000113&Seq=046&Type=9"
+            "title": "外盒變更後-200421流感病毒裂解疫苗0.5mL盒20支裝(簡體版)校稿-109-06-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000113&Seq=049&Type=8"
         },
         {
-            "title": "180321國光-安定伏流感0.25mL 20支裝盒(桃紅色)-校稿_送TFDA-107-09-10.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000113&Seq=047&Type=8"
-        },
-        {
-            "title": "180321國光-安定伏流感0.5mL 20支裝盒-校稿_送TFDA-107-09-10.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000113&Seq=046&Type=8"
-        },
-        {
-            "title": "180323國光-安定伏流感0.25ML10支裝(三價)桃紅色-校稿_送TFDA-107-09-10.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000113&Seq=045&Type=8"
-        },
-        {
-            "title": "180323國光-安定伏流感0.5ML10支裝(三價)-校稿_送TFDA-107-09-10.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000113&Seq=044&Type=8"
+            "title": "外盒變更後-200421流感0.5ML單支(簡體版)-校稿-109-06-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=09000113&Seq=048&Type=8"
         }
     ]
 }
