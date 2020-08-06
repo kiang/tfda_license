@@ -1,12 +1,12 @@
 {
     "code": "06013852",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06013852",
-    "time": "2020-02-25 18:43:01",
+    "time": "2020-08-07 03:40:53",
     "許可證字號": "衛署醫器輸字第013852號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可登錄編號": "QSD1798",
+    "製造許可登錄編號": "QSD5628",
     "有效日期": "109\/12\/29",
     "發證日期": "94\/12\/29",
     "許可證種類": "醫　器",
@@ -16,7 +16,7 @@
     "中文品名": "&quot;美敦力&quot;斜形輸液套",
     "英文品名": "&quot;MEDTRONIC&quot; SILHOUETTE INFUSION SET",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "詳如中文仿單核定本。標籤、仿單變更：詳如中文仿單核定本(原102.6.19核准之標籤、仿單核定本予以回收作廢)，以下空白。註銷規格：MMT-372、MMT-374、MMT-379及MMT-380，以下空白。",
+    "醫器規格": "詳如中文仿單核定本。標籤、仿單變更：詳如中文仿單核定本(原102.6.19核准之標籤、仿單核定本予以回收作廢)，以下空白。註銷規格：MMT-372、MMT-374、MMT-379及MMT-380，以下空白。註銷規格：MMT-371及MMT-373。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -37,23 +37,32 @@
     "申請商地址": "台北市松山區敦化南路一段2號2樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MDK0055000  UNOMEDICAL A\/S",
-            "製造廠廠址": "AAHOLMVEJ 1-3, OSTED 4320 LEJRE, DENMARK",
+            "製造廠名稱": "MMX0032000  Unomedical Devices S.A. de C.V.",
+            "製造廠廠址": "Avenida Fomento Industrial Lot 9, M3, Parque Industrial del Norte Reynosa, Tamaulipas C.P. Mexico 88736, Mexico",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MDK0055000  Unomedical A\/S",
+            "製造廠廠址": "Aaholmvej 1-3, Osted 4320 Lejre, Denmark",
             "製造廠公司地址": "",
             "製造廠國別": "DENMARK",
-            "製程": ""
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "06013852-104-08-01.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013852&Seq=007&Type=9"
+            "title": "060138520001-109-07-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013852&Seq=008&Type=9"
         },
         {
-            "title": "06013852-104-08-01.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013852&Seq=004&Type=8"
+            "title": "060138520002-109-07-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013852&Seq=005&Type=8"
         }
     ]
 }

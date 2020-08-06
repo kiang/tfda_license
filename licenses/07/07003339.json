@@ -1,7 +1,7 @@
 {
     "code": "07003339",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07003339",
-    "time": "2020-06-26 06:27:23",
+    "time": "2020-08-07 04:19:01",
     "許可證字號": "衛署粧製字第003339號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,7 +26,7 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "HYDROGEN PEROXIDE, RESORCINOL (RESORCIN), CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL), AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL), META-AMINOPHENOL (EQ TO M-AMINOPHENOL), P-PHENYLENEDIAMINE",
+    "主成分略述": "HYDROGEN PEROXIDE (35%), RESORCINOL (RESORCIN), P-AMINOPHENOL, m-Aminophenol, 4-AMINO-2-HYDROXYTOLUENE, P-PHENYLENEDIAMINE",
     "限制項目": "01國　產",
     "申請商名稱": "0931104200  美吾華股份有限公司",
     "申請商地址": "桃園市楊梅區幼獅工業區獅二路１０號",
@@ -51,24 +51,24 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
-            "含量描述": "",
-            "含量": "0.0500000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200035401",
-            "成分名稱": "AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL)",
+            "成分代碼": "9200035440",
+            "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
             "含量": "0.3000000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035403",
-            "成分名稱": "META-AMINOPHENOL (EQ TO M-AMINOPHENOL)",
+            "成分代碼": "9200035470",
+            "成分名稱": "m-Aminophenol",
+            "含量描述": "",
+            "含量": "0.0500000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
             "含量描述": "",
             "含量": "0.0500000000",
             "單位": "%(W\/W)"
@@ -83,9 +83,9 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "5204900500",
-            "成分名稱": "HYDROGEN PEROXIDE",
-            "含量描述": "(35%)",
+            "成分代碼": "5204900583",
+            "成分名稱": "HYDROGEN PEROXIDE (35%)",
+            "含量描述": "",
             "含量": "20.0000000000",
             "單位": "%(W\/W)"
         }
@@ -104,16 +104,8 @@
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003339&Seq=001&Type=9"
         },
         {
-            "title": "07003339-105-07-04.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003339&Seq=003&Type=8"
-        },
-        {
-            "title": "070033390002.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003339&Seq=002&Type=8"
-        },
-        {
-            "title": "070033390001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003339&Seq=001&Type=8"
+            "title": "07003339-109-07-15.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003339&Seq=004&Type=8"
         }
     ]
 }

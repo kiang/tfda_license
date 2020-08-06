@@ -1,7 +1,7 @@
 {
     "code": "70000040",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=70000040",
-    "time": "2020-04-24 05:29:29",
+    "time": "2020-08-07 03:33:39",
     "許可證字號": "衛部罕藥輸字第000040號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -41,18 +41,18 @@
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "FGB0390000  BIOGEN LTD.",
-            "製造廠廠址": "INNOVATION HOUSE 70 NORDEN ROAD MAIDENHEAD BERKSHIRE SL6 4AY UNITED KINGDOM",
-            "製造廠公司地址": "",
-            "製造廠國別": "UNITED KINGDOM",
-            "製程": "許可證持有者"
-        },
-        {
             "製造廠名稱": "FIT0332000  JANSSEN-CILAG S.P.A.",
             "製造廠廠址": "VIA C. JANSSEN 04100 BORGO S. MICHELE-LATINA, ITALY",
             "製造廠公司地址": "VIA M. BUONARROTI 23 20093 COLOGNO MONZESE ITALY",
             "製造廠國別": "ITALY",
             "製程": "包裝"
+        },
+        {
+            "製造廠名稱": "FNL0116000  BIOGEN NETHERLANDS B.V.",
+            "製造廠廠址": "PRINS MAURITSLAAN 13, 1171 LP BADHOEVEDORP, THE NETHERLANDS",
+            "製造廠公司地址": "",
+            "製造廠國別": "NETHERLANDS",
+            "製程": "許可證持有者"
         }
     ],
     "CCC號列": "",
@@ -85,12 +85,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "52799-01 COM PAT INF INSERT X-LARGE TECFIDERA TWN_P3_T-108-03-22(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=70000040&Seq=002&Type=9"
-        },
-        {
-            "title": "106.10.5仿單修正版-106-10-12.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=70000040&Seq=001&Type=9"
+            "title": "仿單核定本-2020.7-109-07-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=70000040&Seq=003&Type=9"
         },
         {
             "title": "MOCK-UP COM BLISTER LID TECFIDERA OSD 14CAP 240MG TWN_P4_T-108-07-30.pdf",

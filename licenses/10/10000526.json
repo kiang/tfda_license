@@ -1,7 +1,7 @@
 {
     "code": "10000526",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000526",
-    "time": "2020-02-26 01:38:13",
+    "time": "2020-08-07 03:24:54",
     "許可證字號": "衛署菌疫輸字第000526號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -27,7 +27,7 @@
     "藥品分類": "",
     "監視期限": "",
     "主成分略述": "BASILIXIMAB",
-    "限制項目": "02輸　入",
+    "限制項目": "02輸　入 1Q不得輸入",
     "申請商名稱": "1422701100  台灣諾華股份有限公司",
     "申請商地址": "台北市中山區民生東路三段2號8樓",
     "主製造廠": [
@@ -62,6 +62,13 @@
             "製程": "許可證持有者"
         },
         {
+            "製造廠名稱": "FFR0141100  Delpharm Dijon",
+            "製造廠廠址": "6, BLD DE L&#39;EUROPE 21800 QUETIGNY FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": "裝溶解液安瓿"
+        },
+        {
             "製造廠名稱": "FFR0220000  NOVARTIS PHARMA S.A.S.",
             "製造廠廠址": "8, RUE DE L&#39;INDUSTRIE, F-68330 HUNINGUE, FRANCE",
             "製造廠公司地址": "",
@@ -91,12 +98,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "新睦樂凍晶注射劑-TWI-181019-108-10-21(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000526&Seq=013&Type=9"
-        },
-        {
-            "title": "新睦樂凍晶注射劑-TWI-131118-回一校-107-11-22(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000526&Seq=012&Type=9"
+            "title": "新睦樂凍晶注射劑-TWI-310520-109-07-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000526&Seq=014&Type=9"
         },
         {
             "title": "TWL-181019新睦樂凍晶注射劑 _標籤1746105L068_1081018-108-10-21(廠商自行上傳).pdf",

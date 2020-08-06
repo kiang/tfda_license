@@ -1,7 +1,7 @@
 {
     "code": "06015732",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06015732",
-    "time": "2020-02-25 19:03:58",
+    "time": "2020-08-07 03:42:00",
     "許可證字號": "衛署醫器輸字第015732號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,7 +16,7 @@
     "中文品名": "免疫特2000游離β-人絨毛膜促性腺激素試劑",
     "英文品名": "IMMULITE 2000 Free Beta HCG Reagent",
     "效能": "供IMMULITE 2000分析儀體外診斷使用，定量檢測血清中的游離β-HCG亞單位。",
-    "醫器規格": "L2KFB2, L2KFB6, L2CGZ。",
+    "醫器規格": "L2KFB2, 刪除規格:L2KFB6, L2CGZ。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -48,8 +48,16 @@
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "06015732-109-06-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06015732&Seq=002&Type=9"
+        },
+        {
             "title": "015732 scan-105-03-28(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06015732&Seq=001&Type=9"
+        },
+        {
+            "title": "06015732-109-06-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06015732&Seq=001&Type=8"
         }
     ]
 }
