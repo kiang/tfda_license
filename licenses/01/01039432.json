@@ -1,7 +1,7 @@
 {
     "code": "01039432",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01039432",
-    "time": "2020-08-21 14:29:11",
+    "time": "2020-08-28 14:35:02",
     "許可證字號": "衛署藥製字第039432號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -41,7 +41,16 @@
     ],
     "CCC號列": "30043200002 其他醫藥製劑，含有腎上腺皮質類固醇荷爾蒙及其衍生物或結構式類似者Other medicaments, containing corticosteroid hormones, their derivatives or structural analogues",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8406000310",
+            "成分名稱": "BECLOMETHASONE DIPROPIONATE",
+            "含量描述": "0.42",
+            "含量": "0.4200000000",
+            "單位": "MG"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "010394320003.pdf",

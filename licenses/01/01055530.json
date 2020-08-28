@@ -1,7 +1,7 @@
 {
     "code": "01055530",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01055530",
-    "time": "2020-08-21 08:03:50",
+    "time": "2020-08-28 08:00:00",
     "許可證字號": "衛署藥製字第055530號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -41,7 +41,16 @@
     ],
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200042310",
+            "成分名稱": "GALANTAMINE HYDROBROMIDE",
+            "含量描述": "(Eq.to Galantamine 8mg)",
+            "含量": "10.2530000000",
+            "單位": "MG"
+        }
+    ],
     "藥物辨識詳細資料": {
         "外觀尺寸": "",
         "特殊劑型": "",
@@ -56,6 +65,36 @@
         {
             "title": "G23-裸錠-104-09-25(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055530&Seq=001&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "G23佳能憶055530仿單-109.08.24-109-08-24(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055530&Seq=005&Type=9"
+        },
+        {
+            "title": "佳能憶膜衣錠8毫克仿單-108-12-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055530&Seq=004&Type=9"
+        },
+        {
+            "title": "G23-仿單(加刊賦形劑)-104-12-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055530&Seq=003&Type=9"
+        },
+        {
+            "title": "佳能憶膜衣錠8毫克外盒-108-12-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055530&Seq=008&Type=8"
+        },
+        {
+            "title": "佳能憶膜衣錠8毫克鋁箔-108-12-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055530&Seq=007&Type=8"
+        },
+        {
+            "title": "佳能憶膜衣錠8毫克標籤-108-12-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055530&Seq=006&Type=8"
+        },
+        {
+            "title": "G23-外盒-104-09-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055530&Seq=005&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "60001085",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60001085",
-    "time": "2020-08-21 04:47:07",
+    "time": "2020-08-28 04:51:53",
     "許可證字號": "衛部菌疫輸字第001085號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -50,35 +50,18 @@
     ],
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [],
-    "藥物辨識詳細資料": {
-        "外觀尺寸": "",
-        "特殊劑型": "",
-        "顏色": "",
-        "特殊氣味": "",
-        "刻痕": "",
-        "形狀": "",
-        "標記一": "",
-        "標記二": ""
-    },
-    "藥物辨識外觀圖片": [
+    "ingredients": [
         {
-            "title": "1024X960-產品照英文-108-05-03(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001085&Seq=008&Type=10"
-        },
-        {
-            "title": "1024X960-產品照中文-108-05-03(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001085&Seq=007&Type=10"
-        },
-        {
-            "title": "1024X960-尺規瓶子-108-05-03(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001085&Seq=006&Type=10"
-        },
-        {
-            "title": "1024X960-尺規盒子-108-05-03(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001085&Seq=005&Type=10"
+            "成分類別": "主成分",
+            "成分代碼": "1013004700",
+            "成分名稱": "Avelumab",
+            "含量描述": "",
+            "含量": "200.0000000000",
+            "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": [],
+    "藥物辨識外觀圖片": [],
     "仿單外盒": [
         {
             "title": "百穩益 BAVENCIO-CCDS v5 Myasthenia Gravis-中文仿單-final-clean-109-07-12.pdf",
