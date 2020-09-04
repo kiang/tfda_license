@@ -1,7 +1,7 @@
 {
     "code": "08018239",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018239",
-    "time": "2020-08-28 10:13:25",
+    "time": "2020-09-04 10:35:07",
     "許可證字號": "衛署粧輸字第018239號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -40,5 +40,44 @@
         }
     ],
     "藥理治療分類": "",
-    "ingredients": []
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900071200",
+            "成分名稱": "ETHYLHEXYL METHOXYCINNAMATE",
+            "含量描述": "",
+            "含量": "4.0000000000",
+            "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "080182390007___20110915.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018239&Seq=007&Type=8"
+        },
+        {
+            "title": "080182390006___20110915.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018239&Seq=006&Type=8"
+        },
+        {
+            "title": "080182390005___20110915.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018239&Seq=005&Type=8"
+        },
+        {
+            "title": "080182390004___20110915.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018239&Seq=004&Type=8"
+        },
+        {
+            "title": "080182390003___20110915.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018239&Seq=003&Type=8"
+        },
+        {
+            "title": "080182390002___20110915.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018239&Seq=002&Type=8"
+        },
+        {
+            "title": "080182390001___20110915.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018239&Seq=001&Type=8"
+        }
+    ]
 }
