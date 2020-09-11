@@ -1,7 +1,7 @@
 {
     "code": "01043081",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01043081",
-    "time": "2020-02-25 06:49:37",
+    "time": "2020-09-11 03:27:42",
     "許可證字號": "衛署藥製字第043081號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,11 +13,11 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00104308102",
-    "中文品名": "〝溫士頓〞溫舒敏膠囊",
-    "英文品名": "ANTIHEPA CAPSULES &quot;WINSTON&quot;",
+    "中文品名": "溫舒敏膠囊",
+    "英文品名": "ANTIHEPA CAPSULES",
     "適應症": "緩解過敏性鼻炎、枯草熱所引起之相關症狀（流鼻水、打噴嚏、眼睛及喉部搔癢）及過敏所引起之搔癢、皮膚癢疹。",
     "劑型": "130膠囊劑",
-    "包裝": "鋁箔盒裝",
+    "包裝": "4-1000粒鋁箔盒裝 塑膠瓶裝",
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
@@ -26,7 +26,7 @@
     "管制藥品分類級別": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "CHLORPHENIRAMINE MALEATE, OROTIC ACID (VIT B13), GLYCYRRHIZIN (AMMONIATED)",
+    "主成分略述": "CHLORPHENIRAMINE MALEATE, OROTIC ACID (VIT B13), GLYCYRRHIZIN",
     "限制項目": "01國　產",
     "申請商名稱": "1217820200  溫士頓醫藥股份有限公司",
     "申請商地址": "台南市永康區鹽洲里仁愛街１１７號",
@@ -60,11 +60,65 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200094610",
-            "成分名稱": "GLYCYRRHIZIN (AMMONIATED)",
+            "成分代碼": "9200004602",
+            "成分名稱": "GLYCYRRHIZIN",
             "含量描述": "100",
             "含量": "100.0000000000",
             "單位": "MG"
+        }
+    ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "膠囊",
+        "特殊劑型": "",
+        "顏色": "柑\/淺黃膠囊",
+        "特殊氣味": "",
+        "刻痕": "無",
+        "形狀": "",
+        "標記一": "Winston",
+        "標記二": "30608"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "溫舒敏膠囊示意圖-109-06-01.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043081&Seq=001&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "溫舒敏廣得利說明書-109-07-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043081&Seq=002&Type=9"
+        },
+        {
+            "title": "溫舒敏新歷芳說明書-109-07-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043081&Seq=001&Type=9"
+        },
+        {
+            "title": "溫舒敏廣得利包裝盒-109-07-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043081&Seq=007&Type=8"
+        },
+        {
+            "title": "溫舒敏廣得利1000粒標籤-109-07-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043081&Seq=006&Type=8"
+        },
+        {
+            "title": "溫舒敏新歷芳包裝盒-109-07-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043081&Seq=005&Type=8"
+        },
+        {
+            "title": "溫舒敏新歷芳1000粒標籤-109-07-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043081&Seq=004&Type=8"
+        },
+        {
+            "title": "溫舒敏PTP-109-07-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043081&Seq=003&Type=8"
+        },
+        {
+            "title": "溫舒敏20'sx60箱貼-109-07-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043081&Seq=002&Type=8"
+        },
+        {
+            "title": "溫舒敏 qr code內文-109-07-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043081&Seq=001&Type=8"
         }
     ]
 }

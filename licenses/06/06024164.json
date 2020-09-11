@@ -1,12 +1,12 @@
 {
     "code": "06024164",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024164",
-    "time": "2020-02-25 20:39:07",
+    "time": "2020-09-11 04:35:53",
     "許可證字號": "衛署醫器輸字第024164號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可登錄編號": "QSD3416",
+    "製造許可登錄編號": "QSD12179",
     "有效日期": "111\/11\/13",
     "發證日期": "101\/11\/13",
     "許可證種類": "醫　器",
@@ -37,11 +37,20 @@
     "申請商地址": "台北市內湖區瑞光路407號5樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MUS0847100  ST. JUDE MEDICAL CARDIAC RHYTHM MANAGEMENT DIVISION",
-            "製造廠廠址": "15900 VALLEY VIEW COURT SYLMAR CA 91342 U.S.A.",
+            "製造廠名稱": "MUS5379000  St. Jude Medical Puerto Rico, LLC",
+            "製造廠廠址": "LOT A Interior-No.2 St KM 67.5 Santana Industrial Park Arecibo, PR USA 00612",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
             "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS0847000  St. Jude Medical Cardiac Rhythm Management Division",
+            "製造廠廠址": "15900 Valley View Ct. Sylmar, CA 91342, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",

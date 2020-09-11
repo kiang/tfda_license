@@ -1,7 +1,7 @@
 {
     "code": "06015591",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06015591",
-    "time": "2020-02-25 19:02:24",
+    "time": "2020-09-11 04:28:00",
     "許可證字號": "衛署醫器輸字第015591號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,7 +16,7 @@
     "中文品名": "免疫特 糖蛋白抗原12-5試劑",
     "英文品名": "IMMULITE OM-MA (CA12-5) Reagent",
     "效能": "定量檢測人體血清中CA12-5抗原。",
-    "醫器規格": "LKOP1,LKOP5,LOMZ。",
+    "醫器規格": "LKOP1,LKOP5,LOMZ。\r\n註銷規格：LKOP5。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -48,8 +48,12 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "015591 scan-105-03-28(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06015591&Seq=001&Type=9"
+            "title": "06_015591_仿單-109-08-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06015591&Seq=002&Type=9"
+        },
+        {
+            "title": "06_015591_外盒-109-08-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06015591&Seq=001&Type=8"
         }
     ]
 }

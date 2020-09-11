@@ -1,7 +1,7 @@
 {
     "code": "01019177",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01019177",
-    "time": "2020-02-25 02:50:31",
+    "time": "2020-09-11 03:05:40",
     "許可證字號": "衛署藥製字第019177號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -49,6 +49,14 @@
             "含量描述": "10",
             "含量": "10.0000000000",
             "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5622000710",
+            "成分名稱": "METOCLOPRAMIDE HCL",
+            "含量描述": "10",
+            "含量": "10.0000000000",
+            "單位": "MG"
         }
     ],
     "藥物辨識詳細資料": {
@@ -63,14 +71,30 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "6-2.壽胃朗錠-外觀電子檔-109-08-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019177&Seq=002&Type=10"
+        },
+        {
             "title": "2730 Suweilan Tab-104-12-22(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019177&Seq=001&Type=10"
         }
     ],
     "仿單外盒": [
         {
+            "title": "2730A 壽胃朗錠(淡藍色錠)(107X107)-2020061701-109-08-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019177&Seq=004&Type=9"
+        },
+        {
+            "title": "2730 壽胃朗錠(白色錠)(107X107)-2020061701-109-08-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019177&Seq=003&Type=9"
+        },
+        {
             "title": "2730-壽胃朗锭仿單-104-12-22(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019177&Seq=002&Type=9"
+        },
+        {
+            "title": "壽胃朗錠標籤-109-08-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01019177&Seq=003&Type=8"
         },
         {
             "title": "2730 Suweilan-104-12-22(廠商自行上傳).pdf",

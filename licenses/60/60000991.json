@@ -1,7 +1,7 @@
 {
     "code": "60000991",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60000991",
-    "time": "2020-09-04 04:57:44",
+    "time": "2020-09-11 10:54:38",
     "許可證字號": "衛部菌疫輸字第000991號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -81,16 +81,26 @@
             "單位": "MG"
         }
     ],
-    "藥物辨識詳細資料": [],
-    "藥物辨識外觀圖片": [],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "000991_Cosentyx 150mgml Solution for Injection_1-108-06-21(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000991&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "750621-Cosentyx inj-Leaflet-109-02-21(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000991&Seq=011&Type=9"
-        },
-        {
-            "title": "Cosentyx Solution_TWI-180119 (002) (1)-108-03-11.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000991&Seq=010&Type=9"
+            "title": "中文仿單_Cosentyx Solution_IPL-21-Mar-2019_TWI-180620-109-09-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000991&Seq=012&Type=9"
         },
         {
             "title": "750621-Cosentyx inj-FB-109-02-21(廠商自行上傳).pdf",

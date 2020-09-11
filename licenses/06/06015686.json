@@ -1,7 +1,7 @@
 {
     "code": "06015686",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06015686",
-    "time": "2020-02-25 19:03:29",
+    "time": "2020-09-11 04:28:02",
     "許可證字號": "衛署醫器輸字第015686號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,7 +16,7 @@
     "中文品名": "免疫特促腎上腺皮質荷爾蒙試劑",
     "英文品名": "IMMULITE Adrenocorticotropic hormone (ACTH) Reagent",
     "效能": "免疫特促腎上腺皮質荷爾蒙試劑：供 IMMULITE\/IMMULITE 1000 分析儀用於體外診斷，定量檢測 EDTA 血漿中促腎上腺皮質激素 (ACTH) 含量，對腎上腺功能評估起輔助作用。",
-    "醫器規格": "LKAC1 (100 tests) ; LKAC5 (500 tests) ; LACZ (25ml) ; LACC1 ; LACC2",
+    "醫器規格": "LKAC1 (100 tests) ; LKAC5 (500 tests) ; LACZ (25ml) ; LACC1 ; LACC2。\r\n註銷規格：LKAC5 (500 tests)。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -45,5 +45,15 @@
         }
     ],
     "藥理治療分類": "",
-    "ingredients": []
+    "ingredients": [],
+    "仿單外盒": [
+        {
+            "title": "06 015686_仿單-109-08-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06015686&Seq=001&Type=9"
+        },
+        {
+            "title": "06 015686_外盒-109-08-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06015686&Seq=001&Type=8"
+        }
+    ]
 }

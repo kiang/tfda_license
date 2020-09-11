@@ -1,7 +1,7 @@
 {
     "code": "56029142",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029142",
-    "time": "2020-02-26 08:02:25",
+    "time": "2020-09-11 05:14:05",
     "許可證字號": "衛部醫器輸字第029142號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -37,11 +37,20 @@
     "申請商地址": "台北市中山區民生東路3段2號10樓及11樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MUS2497000  AMO MANUFACTURING USA, LLC.",
-            "製造廠廠址": "510 COTTONWOOD DRIVE, MILPITAS, CALIFORNIA 95035, U.S.A.",
+            "製造廠名稱": "MUS2497100  AMO Manufacturing USA, LLC",
+            "製造廠廠址": "510 Cottonwood Drive, Milpitas, California 95035, USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
             "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS5634000  Johnson &amp; Johnson Surgical Vision, Inc.",
+            "製造廠廠址": "1700 East St. Andrew Place Santa Ana, CA USA 92705",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",

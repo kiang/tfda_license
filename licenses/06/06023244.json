@@ -1,7 +1,7 @@
 {
     "code": "06023244",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023244",
-    "time": "2020-09-04 05:50:09",
+    "time": "2020-09-11 11:34:09",
     "許可證字號": "衛署醫器輸字第023244號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,5 +45,23 @@
         }
     ],
     "藥理治療分類": "",
-    "ingredients": []
+    "ingredients": [],
+    "仿單外盒": [
+        {
+            "title": "060232440001-106-01-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023244&Seq=002&Type=9"
+        },
+        {
+            "title": "060232440002___20120412.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023244&Seq=001&Type=9"
+        },
+        {
+            "title": "060232440002-106-01-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023244&Seq=002&Type=8"
+        },
+        {
+            "title": "060232440001___20120412.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023244&Seq=001&Type=8"
+        }
+    ]
 }
