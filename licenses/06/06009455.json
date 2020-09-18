@@ -1,12 +1,12 @@
 {
     "code": "06009455",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06009455",
-    "time": "2020-09-11 15:19:27",
+    "time": "2020-09-18 11:07:37",
     "許可證字號": "衛署醫器輸字第009455號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可登錄編號": "QSD10239",
+    "製造許可登錄編號": "QSD12497",
     "有效日期": "109\/07\/17",
     "發證日期": "89\/07\/17",
     "許可證種類": "醫　器",
@@ -37,22 +37,28 @@
     "申請商地址": "新北市新店區北新路3段221號10樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MMX0145000  Cordis de Mexico, S.A. de C.V.",
-            "製造廠廠址": "Calle Circuito Interior Norte #1820, Parque Industrial Salvarcar, Ciudad Juarez, Chihuahua, CP 32574, Mexico",
+            "製造廠名稱": "MMX0172000  Cardinal Health Mexico 244 S. de R.L. de C.V.",
+            "製造廠廠址": "Santiago Troncoso #808, PARQUE INDUSTRIAL SALVARCAR Ciudad Juarez, Chihuahua CP32574 Mexico",
             "製造廠公司地址": "",
             "製造廠國別": "MEXICO",
-            "製程": ""
+            "製程": "受託製造廠"
         }
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "MIE0092000  CORDIS CASHEL",
-            "製造廠廠址": "Cahir Road, Cashel, Co. Tipperary, Ireland",
+            "製造廠名稱": "MUS0822100  CORDIS CORPORATION",
+            "製造廠廠址": "14201 N.W. 60TH AVE.,MIAMI LAKES, FL 33014, U.S.A.",
             "製造廠公司地址": "",
-            "製造廠國別": "IRELAND",
-            "製程": "總公司"
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
         }
     ],
     "藥理治療分類": "",
-    "ingredients": []
+    "ingredients": [],
+    "仿單外盒": [
+        {
+            "title": "009455-insert-105-03-29(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06009455&Seq=001&Type=9"
+        }
+    ]
 }

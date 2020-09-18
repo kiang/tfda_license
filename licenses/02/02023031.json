@@ -1,7 +1,7 @@
 {
     "code": "02023031",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023031",
-    "time": "2020-09-11 13:47:39",
+    "time": "2020-09-18 08:55:03",
     "許可證字號": "衛署藥輸字第023031號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -41,7 +41,16 @@
     ],
     "CCC號列": "30045000009 其他醫藥製劑，含有維他命或第２９３６節之其他產品Other medicaments, containing vitamins or other products of heading 29.36",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8818000100",
+            "成分名稱": "ALFACALCIDOL",
+            "含量描述": "",
+            "含量": "0.5000000000",
+            "單位": "MCG"
+        }
+    ],
     "藥物辨識詳細資料": {
         "外觀尺寸": "直徑6.0mm, 厚度2.2mm",
         "特殊劑型": "",
@@ -56,6 +65,16 @@
         {
             "title": "旺爾華錠0.5微公絲裸錠-104-10-01(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023031&Seq=440&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "旺爾華錠0.5微公絲仿單(ONE-I1503-02)-104-10-01(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023031&Seq=009&Type=9"
+        },
+        {
+            "title": "旺爾華錠0.5微公絲鋁箔包-104-10-01(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023031&Seq=004&Type=8"
         }
     ]
 }
