@@ -1,7 +1,7 @@
 {
     "code": "01026501",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01026501",
-    "time": "2020-09-11 09:03:17",
+    "time": "2020-09-25 09:14:16",
     "許可證字號": "衛署藥製字第026501號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -41,14 +41,15 @@
     ],
     "CCC號列": "30042000211 人用醫藥製劑，含抗黴菌劑類抗生素者Medicaments, containing antifungal antibiotics, for human use",
     "藥理治療分類": "",
-    "ingredients": [
+    "ingredients": [],
+    "仿單外盒": [
         {
-            "成分類別": "主成分",
-            "成分代碼": "0812200810",
-            "成分名稱": "MICONAZOLE NITRATE",
-            "含量描述": "100",
-            "含量": "100.0000000000",
-            "單位": "MG"
+            "title": "01026501 汝佳陰道錠-104-11-19(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026501&Seq=003&Type=9"
+        },
+        {
+            "title": "01026501C0001-104-12-01(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01026501&Seq=004&Type=8"
         }
     ]
 }

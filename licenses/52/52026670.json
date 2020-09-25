@@ -1,7 +1,7 @@
 {
     "code": "52026670",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026670",
-    "time": "2020-09-18 05:48:17",
+    "time": "2020-09-25 06:17:09",
     "許可證字號": "衛部藥輸字第026670號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -50,7 +50,16 @@
     ],
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2408005120",
+            "成分名稱": "Sacubitril\/Valsartan as Sacubitril Valsartan sodium salt complex",
+            "含量描述": "(corresponds to sacubitril\/ valsartan free anhydrous acid......50MG) (corresponds to sacubitril\/ valsartan sodium salt hydrate)(corresponds to sacubitril 24.3mg and valsartan 25.7MG)",
+            "含量": "56.5510000000",
+            "單位": "MG"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "Entresto leaflet-108-10-17(廠商自行上傳).pdf",

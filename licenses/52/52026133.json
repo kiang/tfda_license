@@ -1,7 +1,7 @@
 {
     "code": "52026133",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026133",
-    "time": "2020-09-18 04:06:57",
+    "time": "2020-09-25 04:05:06",
     "許可證字號": "衛部藥輸字第026133號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -57,7 +57,16 @@
     ],
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200094000",
+            "成分名稱": "Apixaban",
+            "含量描述": "",
+            "含量": "5.0000000000",
+            "單位": "MG"
+        }
+    ],
     "藥物辨識詳細資料": {
         "外觀尺寸": "粉紅色的橢圓形雙凸膜衣錠",
         "特殊劑型": "",
@@ -78,6 +87,14 @@
         {
             "title": "02 026124 0001-109-08-25.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026133&Seq=008&Type=9"
+        },
+        {
+            "title": "外盒 all-109-09-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026133&Seq=008&Type=8"
+        },
+        {
+            "title": "外盒-109-09-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026133&Seq=007&Type=8"
         },
         {
             "title": "Eliquis Tab 5 mg-108-04-19(廠商自行上傳).pdf",

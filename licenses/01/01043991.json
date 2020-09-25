@@ -1,7 +1,7 @@
 {
     "code": "01043991",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01043991",
-    "time": "2020-09-18 08:44:59",
+    "time": "2020-09-25 13:43:42",
     "許可證字號": "衛署藥製字第043991號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -41,7 +41,16 @@
     ],
     "CCC號列": "30042000916 人用醫藥製劑，含有其他抗生素者Medicaments, containing other antibiotics, for human use",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812009210",
+            "成分名稱": "CLINDAMYCIN (HCL)",
+            "含量描述": "(POTENCY)",
+            "含量": "150.0000000000",
+            "單位": "MG"
+        }
+    ],
     "藥物辨識詳細資料": {
         "外觀尺寸": "1號膠囊",
         "特殊劑型": "",
@@ -56,6 +65,24 @@
         {
             "title": "Lindacin Capsules 150mg 043991-104-12-24(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043991&Seq=400&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "40419100 Lindacin Capsules 150mg (Lit)-(印刷版次3)-104-12-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043991&Seq=001&Type=9"
+        },
+        {
+            "title": "40439101 Lindacin Capsules 150mg (盒標)-(印刷版次2)-106-11-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043991&Seq=003&Type=8"
+        },
+        {
+            "title": "40409100 Lindacin Capsules 150mg (瓶標)-(印刷版次2)-106-11-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043991&Seq=002&Type=8"
+        },
+        {
+            "title": "40250101 Alu. Foil，Lindacin Capsules 150mg (10錠PTP)-(規格版次01)-106-11-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01043991&Seq=001&Type=8"
         }
     ]
 }

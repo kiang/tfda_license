@@ -1,7 +1,7 @@
 {
     "code": "01049811",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01049811",
-    "time": "2020-09-11 09:52:28",
+    "time": "2020-09-25 09:53:29",
     "許可證字號": "衛署藥製字第049811號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -41,32 +41,7 @@
     ],
     "CCC號列": "30042000319 人用醫藥製劑，含頭孢子菌類抗生素者Medicaments, containing cephalosporins, for human use",
     "藥理治療分類": "",
-    "ingredients": [
-        {
-            "成分類別": "主成分",
-            "成分代碼": "0812302940",
-            "成分名稱": "CEFEPIME HCL (EQ TO CEFEPIME)",
-            "含量描述": "(Potency)",
-            "含量": "500.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "0812302940",
-            "成分名稱": "CEFEPIME HCL (EQ TO CEFEPIME)",
-            "含量描述": "(Potency)",
-            "含量": "1.0000000000",
-            "單位": "GM"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "0812302940",
-            "成分名稱": "CEFEPIME HCL (EQ TO CEFEPIME)",
-            "含量描述": "(Potency)",
-            "含量": "2.0000000000",
-            "單位": "GM"
-        }
-    ],
+    "ingredients": [],
     "藥物辨識詳細資料": {
         "外觀尺寸": "",
         "特殊劑型": "",
@@ -81,6 +56,20 @@
         {
             "title": "cefepime 藥物外觀-104-09-14(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049811&Seq=001&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "Cefepime 莎芙平乾粉注射劑 (仿單)20170524 改版-有賦形劑-政德 accordng to 原廠 TFDA版-106-05-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049811&Seq=002&Type=9"
+        },
+        {
+            "title": "CEFEPIME 莎芙平乾粉注射劑 (仿單) 元昊 20151224 有賦形劑-104-12-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049811&Seq=001&Type=9"
+        },
+        {
+            "title": "cefepime 外盒-104-09-14(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049811&Seq=001&Type=8"
         }
     ]
 }
