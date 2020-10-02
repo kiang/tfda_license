@@ -1,7 +1,7 @@
 {
     "code": "01032514",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01032514",
-    "time": "2020-09-25 03:10:03",
+    "time": "2020-10-02 03:09:57",
     "許可證字號": "衛署藥製字第032514號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -41,7 +41,24 @@
     ],
     "CCC號列": "30043200002 其他醫藥製劑，含有腎上腺皮質類固醇荷爾蒙及其衍生物或結構式類似者Other medicaments, containing corticosteroid hormones, their derivatives or structural analogues",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812109530",
+            "成分名稱": "NEOMYCIN (SULFATE)",
+            "含量描述": "3.5",
+            "含量": "3.5000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "6804000231",
+            "成分名稱": "BETAMETHASONE SODIUM PHOSPHATE",
+            "含量描述": "1.0",
+            "含量": "1.0000000000",
+            "單位": "MG"
+        }
+    ],
     "藥物辨識詳細資料": {
         "外觀尺寸": "",
         "特殊劑型": "",
@@ -56,36 +73,6 @@
         {
             "title": "0089-特倍眼舒眼藥水-實體照片-104-12-17(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032514&Seq=001&Type=10"
-        }
-    ],
-    "仿單外盒": [
-        {
-            "title": "032514特倍眼舒-說明書-109-07-29.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032514&Seq=007&Type=9"
-        },
-        {
-            "title": "0089-特倍眼舒-說明書-104-12-17(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032514&Seq=006&Type=9"
-        },
-        {
-            "title": "特倍眼舒-6ml-標籤-109-07-29.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032514&Seq=005&Type=8"
-        },
-        {
-            "title": "特倍眼舒-6ml-紙盒-109-07-29.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032514&Seq=004&Type=8"
-        },
-        {
-            "title": "特倍眼舒-5ml-標籤-109-07-29.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032514&Seq=003&Type=8"
-        },
-        {
-            "title": "特倍眼舒-5ml-紙盒-109-07-29.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032514&Seq=002&Type=8"
-        },
-        {
-            "title": "0089-特倍眼舒-紙盒-104-12-24(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032514&Seq=001&Type=8"
         }
     ]
 }

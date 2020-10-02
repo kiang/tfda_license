@@ -1,7 +1,7 @@
 {
     "code": "12010696",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12010696",
-    "time": "2020-09-25 06:14:02",
+    "time": "2020-10-02 06:00:26",
     "許可證字號": "內衛藥製字第010696號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -41,9 +41,24 @@
     ],
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
-    "ingredients": [],
-    "藥物辨識詳細資料": [],
-    "藥物辨識外觀圖片": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5604000202",
+            "成分名稱": "ALUMINUM HYDROXIDE DRIED GEL",
+            "含量描述": "0.040",
+            "含量": "0.0400000000",
+            "單位": "GM"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5604002700",
+            "成分名稱": "MAGNESIUM TRISILICATE",
+            "含量描述": "0.125",
+            "含量": "0.1250000000",
+            "單位": "GM"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "120106960002.pdf",
