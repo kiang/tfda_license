@@ -1,7 +1,7 @@
 {
     "code": "01040163",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01040163",
-    "time": "2020-02-25 06:30:17",
+    "time": "2020-10-09 03:13:17",
     "許可證字號": "衛署藥製字第040163號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,11 +13,11 @@
     "舊證字號": "01017701",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00104016302",
-    "中文品名": "&quot;威勝&quot;鳳梨酵素腸溶錠５０毫克",
-    "英文品名": "HOMELAIN ENTERIC S.C. TABLETS 50MG &quot;W.S.&quot;",
+    "中文品名": "&quot;威勝&quot;鳳梨酵素腸溶膜衣錠５０毫克",
+    "英文品名": "HOMELAIN ENTERIC F.C. TABLETS 50MG &quot;W.S.&quot;",
     "適應症": "手術後及外傷後腫脹之緩解、副鼻腔炎、乳房鬱積、呼吸器疾患隨伴喀痰困難、氣管內麻醉後之喀痰困難、痔核",
-    "劑型": "135腸溶糖衣錠",
-    "包裝": "6-1000粒塑膠瓶裝",
+    "劑型": "124腸溶膜衣錠",
+    "包裝": "6-1000粒塑膠瓶裝 6-1000粒PTP 鋁箔盒裝",
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
@@ -49,9 +49,41 @@
             "含量描述": "50",
             "含量": "50.0000000000",
             "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "4400000300",
+            "成分名稱": "BROMELAIN",
+            "含量描述": "50",
+            "含量": "50.0000000000",
+            "單位": "MG"
+        }
+    ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "膜衣錠",
+        "顏色": "綠色與橘色",
+        "特殊氣味": "",
+        "刻痕": "無",
+        "形狀": "圓扁形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "WS-IZT 威勝-鳳梨酵素腸溶膜衣錠50毫克藥物外觀-橘-109-09-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040163&Seq=002&Type=10"
+        },
+        {
+            "title": "WS-IZT 威勝-鳳梨酵素腸溶膜衣錠50毫克藥物外觀-綠-109-09-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040163&Seq=001&Type=10"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "WS-IZT 威勝-鳳梨酵素腸溶膜衣錠50毫克仿單-109-09-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040163&Seq=004&Type=9"
+        },
         {
             "title": "040163仿單-107-09-26.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040163&Seq=003&Type=9"
@@ -59,6 +91,18 @@
         {
             "title": "1041218-鳳梨酵素腸溶錠50毫克(仿單)-104-12-25(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040163&Seq=002&Type=9"
+        },
+        {
+            "title": "WS-IZT 威勝-鳳梨酵素腸溶膜衣錠50毫克鋁箔-109-09-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040163&Seq=004&Type=8"
+        },
+        {
+            "title": "WS-IZT 威勝-鳳梨酵素腸溶膜衣錠50毫克-1000S標籤-109-09-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040163&Seq=003&Type=8"
+        },
+        {
+            "title": "WS-IZT 威勝-鳳梨酵素腸溶膜衣錠50毫克-10SX100標籤-109-09-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040163&Seq=002&Type=8"
         },
         {
             "title": "040163標籤-107-09-26.pdf",

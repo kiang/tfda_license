@@ -1,7 +1,7 @@
 {
     "code": "60001126",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60001126",
-    "time": "2020-04-24 04:57:05",
+    "time": "2020-10-09 04:13:30",
     "許可證字號": "衛部菌疫輸字第001126號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,7 +26,7 @@
     "管制藥品分類級別": "",
     "藥品分類": "疫苗_新成分",
     "監視期限": "114\/03\/20",
-    "主成分略述": "A\/Idaho\/07\/2018 (an A\/Brisbne\/02\/2018 (H1N1)pdm09-like virus), A\/Indiana\/08\/2018 (an A\/Kansas\/14\/2017 (H3N2)-like virus), B\/Iowa\/06\/2017 (a B\/Colorado\/06\/2017-like virus), B\/Singapore\/INFTT-16-0610\/2016 (a B\/Phuket\/3073\/2013-like virus)",
+    "主成分略述": "B\/Singapore\/INFTT-16-0610\/2016 (a B\/Phuket\/3073\/2013-like virus), A\/Nebraska\/14\/2019 (an A\/Hawaii\/70\/2019 (H1N1) pdm09-like virus), A\/Delaware\/39\/2019 (an A\/Hong Kong\/45\/2019 (H3N2)-like virus), B\/Darwin\/7\/2019 (a B\/Washington\/02\/2019-like virus)",
     "限制項目": "02輸　入 5F免除銜接性試驗",
     "申請商名稱": "6201125122  台灣東洋藥品工業股份有限公司",
     "申請商地址": "台北市南港區園區街3之1號3樓",
@@ -60,32 +60,32 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "8012002481",
-            "成分名稱": "A\/Idaho\/07\/2018 (an A\/Brisbne\/02\/2018 (H1N1)pdm09-like virus)",
-            "含量描述": "",
-            "含量": "15.0000000000",
-            "單位": "ug HA"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "8012002482",
-            "成分名稱": "A\/Indiana\/08\/2018 (an A\/Kansas\/14\/2017 (H3N2)-like virus)",
-            "含量描述": "",
-            "含量": "15.0000000000",
-            "單位": "ug HA"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "8012002483",
-            "成分名稱": "B\/Iowa\/06\/2017 (a B\/Colorado\/06\/2017-like virus)",
-            "含量描述": "",
-            "含量": "15.0000000000",
-            "單位": "ug HA"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "8012002484",
             "成分名稱": "B\/Singapore\/INFTT-16-0610\/2016 (a B\/Phuket\/3073\/2013-like virus)",
+            "含量描述": "",
+            "含量": "15.0000000000",
+            "單位": "ug HA"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8012002485",
+            "成分名稱": "A\/Nebraska\/14\/2019 (an A\/Hawaii\/70\/2019 (H1N1) pdm09-like virus)",
+            "含量描述": "",
+            "含量": "15.0000000000",
+            "單位": "ug HA"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8012002486",
+            "成分名稱": "A\/Delaware\/39\/2019 (an A\/Hong Kong\/45\/2019 (H3N2)-like virus)",
+            "含量描述": "",
+            "含量": "15.0000000000",
+            "單位": "ug HA"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8012002487",
+            "成分名稱": "B\/Darwin\/7\/2019 (a B\/Washington\/02\/2019-like virus)",
             "含量描述": "",
             "含量": "15.0000000000",
             "單位": "ug HA"
@@ -93,20 +93,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "FLUCELVAX QUAD 中文仿單_20200323-109-03-27.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001126&Seq=001&Type=9"
+            "title": "Flucelvax Quad中文仿單_更正 (20200904)-109-09-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001126&Seq=003&Type=9"
         },
         {
-            "title": "FLUCELVAX QUAD針筒標籤-109-03-27.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001126&Seq=003&Type=8"
-        },
-        {
-            "title": "FLUCELVAX QUAD 中文仿單_20200323-109-03-27.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001126&Seq=002&Type=8"
-        },
-        {
-            "title": "FLUCELVAX QUAD 中文外盒標籤-109-03-27.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001126&Seq=001&Type=8"
+            "title": "2020-2021外盒標籤核定本-109-09-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001126&Seq=006&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "60001036",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60001036",
-    "time": "2020-02-26 09:59:31",
+    "time": "2020-10-09 04:10:18",
     "許可證字號": "衛部菌疫輸字第001036號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,7 +26,7 @@
     "管制藥品分類級別": "",
     "藥品分類": "疫苗",
     "監視期限": "110\/12\/08",
-    "主成分略述": "B\/Phuket\/3073\/2013 - like strain (B\/Phuket\/3073\/2013, wild type), B\/Colorado\/06\/2017-like virus (B\/Maryland\/15\/2016, Reassortant NYMC BX-69A), A\/Kansas\/14\/2017 (H3N2) - like strain (A\/Kansas\/14\/2017, NYMC X-327), A\/Brisbane\/02\/2018 (H1N1)pdm09 - like strain (A\/Brisbane\/02\/2018, IVR-190)",
+    "主成分略述": "B\/Phuket\/3073\/2013 - like strain (B\/Phuket\/3073\/2013, wild type), B\/Washington\/02\/2019-like virus (B\/Victoria\/705\/2018 (BVR-11)), A\/Hong Kong\/2671\/2019 (H3N2)-like virus (A\/Hong Kong\/2671\/2019 (IVR-208)), A\/Guangdong-Maonan\/SWL1536\/2019 (H1N1) pdm09-like virus (A\/Gunagdong-Maonan\/SWL1536\/2019 (CNIC-1909))",
     "限制項目": "02輸　入 5F免除銜接性試驗",
     "申請商名稱": "1707201200  賽諾菲股份有限公司",
     "申請商地址": "台北市信義區松仁路3號7樓",
@@ -61,24 +61,24 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8012006800",
-            "成分名稱": "B\/Colorado\/06\/2017-like virus (B\/Maryland\/15\/2016, Reassortant NYMC BX-69A)",
+            "成分代碼": "8012006830",
+            "成分名稱": "B\/Washington\/02\/2019-like virus (B\/Victoria\/705\/2018 (BVR-11))",
             "含量描述": "",
             "含量": "15.0000000000",
             "單位": "ug HA"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8012017030",
-            "成分名稱": "A\/Kansas\/14\/2017 (H3N2) - like strain (A\/Kansas\/14\/2017, NYMC X-327)",
+            "成分代碼": "8012017040",
+            "成分名稱": "A\/Hong Kong\/2671\/2019 (H3N2)-like virus (A\/Hong Kong\/2671\/2019 (IVR-208))",
             "含量描述": "",
             "含量": "15.0000000000",
             "單位": "ug HA"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8012018010",
-            "成分名稱": "A\/Brisbane\/02\/2018 (H1N1)pdm09 - like strain (A\/Brisbane\/02\/2018, IVR-190)",
+            "成分代碼": "8012018020",
+            "成分名稱": "A\/Guangdong-Maonan\/SWL1536\/2019 (H1N1) pdm09-like virus (A\/Gunagdong-Maonan\/SWL1536\/2019 (CNIC-1909))",
             "含量描述": "",
             "含量": "15.0000000000",
             "單位": "ug HA"
@@ -86,12 +86,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "VaxigripTetra_LPI_CH_2019_2020_strain_clean (專業版)-108-10-08.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001036&Seq=011&Type=9"
+            "title": "1090904巴斯德四價流感仿單專業版-109-09-04.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001036&Seq=013&Type=9"
         },
         {
-            "title": "VaxigripTetra_PL_CH_2019 2020 strain_clean (民眾版)-108-10-04.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001036&Seq=008&Type=9"
+            "title": "1090904巴斯德四價流感仿單民眾版-109-09-04.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001036&Seq=012&Type=9"
+        },
+        {
+            "title": "VaxigripTetra標籤-109-09-04.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001036&Seq=012&Type=8"
+        },
+        {
+            "title": "VaxigripTetra外盒-109-09-04.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001036&Seq=011&Type=8"
         },
         {
             "title": "VaxigripTetra_中文標籤-108-10-04.pdf",

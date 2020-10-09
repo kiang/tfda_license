@@ -1,7 +1,7 @@
 {
     "code": "56032483",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56032483",
-    "time": "2020-06-26 05:49:13",
+    "time": "2020-10-09 05:13:07",
     "許可證字號": "衛部醫器輸字第032483號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,7 +16,7 @@
     "中文品名": "亞培前降鈣素檢驗試劑組",
     "英文品名": "Abbott Alinity i B‧R‧A‧H‧M‧S PCT Reagent Kit",
     "效能": "本產品用於Alinity i分析儀上，利用化學冷光微粒免疫分析法(CMIA)定量檢測人類血清及血漿中的前降鈣素(procalcitonin，PCT)。",
-    "醫器規格": "01R1822, 01R1832，以下空白。",
+    "醫器規格": "01R1822, 01R1832，以下空白。\r\n規格及仿單標籤變更為：詳如中文仿單核定本。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -37,6 +37,15 @@
     "申請商地址": "台北市中山區民生東路三段49號5樓、6樓及51號6樓",
     "主製造廠": [
         {
+            "製造廠名稱": "MUS3341000  FISHER DIAGNOSTICS, A DIVISION OF FISHER SCIENTIFIC COMPANY, LLC, A PART OF THERMO FISHER SCIENTIFIC INC.",
+            "製造廠廠址": "8365 VALLEY PIKE, MIDDLETOWN, VA 22645, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
             "製造廠名稱": "MIE0049100  ABBOTT IRELAND DIAGNOSTICS DIVISION",
             "製造廠廠址": "FINISKLIN BUSINESS PARK, SLIGO, IRELAND",
             "製造廠公司地址": "",
@@ -48,12 +57,12 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "560324830001-108-12-03.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56032483&Seq=001&Type=9"
+            "title": "56032483仿單-109-09-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56032483&Seq=002&Type=9"
         },
         {
-            "title": "560324830002-108-12-03.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56032483&Seq=001&Type=8"
+            "title": "56032483仿單-109-09-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56032483&Seq=002&Type=8"
         }
     ]
 }

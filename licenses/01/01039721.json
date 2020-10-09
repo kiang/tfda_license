@@ -1,13 +1,13 @@
 {
     "code": "01039721",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01039721",
-    "time": "2020-02-25 06:27:29",
+    "time": "2020-10-09 06:30:48",
     "許可證字號": "衛署藥製字第039721號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
-    "有效日期": "110\/01\/15",
+    "有效日期": "115\/01\/15",
     "發證日期": "85\/01\/15",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -26,7 +26,7 @@
     "管制藥品分類級別": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "SCOPOLIA EXTRACT, SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE), AMYLASE ALPHA- BACTERIAL (DIASMENAMYLO-LIQUIFASE), BIOTAMYLASE P1500, BIODIASTASE, MAGNESIUM ALUMINUM METASILICATE (NEUSILIN), CALCIUM CARBONATE, CINNAMON OIL (OLEUM CINNAMOMI), GENTIAN POWDER, LIPASE, PHELLODENDRON BARK POWDER (EQ TO POWDERED PHELLODENDRON BARK), CLOVE OIL, L-MENTHOL, ZEDOARY, ALUMINUM DIHYDROXYALLANTOINATE (ALDIOXA), GLYCYRRHIZA POWDER, ZINGER POWDER",
+    "主成分略述": "SCOPOLIA EXTRACT, SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE), BIOTAMYLASE P1500, BIODIASTASE 1000, MAGNESIUM ALUMINOMETASILICATE, CALCIUM CARBONATE, CINNAMON OIL (OLEUM CINNAMOMI), GENTIAN POWDER, LIPASE AP6, DIASMEN SS, PHELLODENDRON BARK POWDER (EQ TO POWDERED PHELLODENDRON BARK), CLOVE OIL, L-MENTHOL, ZEDOARY, ALUMINUM DIHYDROXYALLANTOINATE (ALDIOXA), GLYCYRRHIZA POWDER, ZINGER (ZINGIBER)",
     "限制項目": "01國　產",
     "申請商名稱": "1303110200  新萬仁化學製藥股份有限公司",
     "申請商地址": "台中市豐原區文賢街１５８號",
@@ -46,7 +46,7 @@
             "成分類別": "主成分",
             "成分代碼": "1208004502",
             "成分名稱": "SCOPOLIA EXTRACT",
-            "含量描述": "6.25",
+            "含量描述": "",
             "含量": "6.2500000000",
             "單位": "MG"
         },
@@ -54,39 +54,31 @@
             "成分類別": "主成分",
             "成分代碼": "4008000700",
             "成分名稱": "SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE)",
-            "含量描述": "250",
+            "含量描述": "",
             "含量": "250.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "4400000111",
-            "成分名稱": "AMYLASE ALPHA- BACTERIAL (DIASMENAMYLO-LIQUIFASE)",
-            "含量描述": "(SSX2) 15.63",
-            "含量": "",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "4400003293",
             "成分名稱": "BIOTAMYLASE P1500",
-            "含量描述": "6.25",
+            "含量描述": "",
             "含量": "6.2500000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "4400007100",
-            "成分名稱": "BIODIASTASE",
-            "含量描述": "(1000) 25",
-            "含量": "",
+            "成分代碼": "4400007130",
+            "成分名稱": "BIODIASTASE 1000",
+            "含量描述": "",
+            "含量": "25.0000000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "5604000501",
-            "成分名稱": "MAGNESIUM ALUMINUM METASILICATE (NEUSILIN)",
-            "含量描述": "187.5",
+            "成分代碼": "5604000512",
+            "成分名稱": "MAGNESIUM ALUMINOMETASILICATE",
+            "含量描述": "",
             "含量": "187.5000000000",
             "單位": "MG"
         },
@@ -94,15 +86,15 @@
             "成分類別": "主成分",
             "成分代碼": "5604001200",
             "成分名稱": "CALCIUM CARBONATE",
-            "含量描述": "(PPT) 187.5",
-            "含量": "",
+            "含量描述": "(PPT)",
+            "含量": "187.5000000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "5610000105",
             "成分名稱": "CINNAMON OIL (OLEUM CINNAMOMI)",
-            "含量描述": "2.25",
+            "含量描述": "",
             "含量": "2.2500000000",
             "單位": "MG"
         },
@@ -110,23 +102,31 @@
             "成分類別": "主成分",
             "成分代碼": "5616000802",
             "成分名稱": "GENTIAN POWDER",
-            "含量描述": "12.5",
+            "含量描述": "",
             "含量": "12.5000000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "5616000900",
-            "成分名稱": "LIPASE",
-            "含量描述": "(AP-6) 6.25",
-            "含量": "",
+            "成分代碼": "5616000920",
+            "成分名稱": "LIPASE AP6",
+            "含量描述": "",
+            "含量": "6.2500000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5616005800",
+            "成分名稱": "DIASMEN SS",
+            "含量描述": "(SSX2)",
+            "含量": "15.6300000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "5640001512",
             "成分名稱": "PHELLODENDRON BARK POWDER (EQ TO POWDERED PHELLODENDRON BARK)",
-            "含量描述": "18.75",
+            "含量描述": "",
             "含量": "18.7500000000",
             "單位": "MG"
         },
@@ -134,7 +134,7 @@
             "成分類別": "主成分",
             "成分代碼": "7200000305",
             "成分名稱": "CLOVE OIL",
-            "含量描述": "0.47",
+            "含量描述": "",
             "含量": "0.4700000000",
             "單位": "MG"
         },
@@ -142,7 +142,7 @@
             "成分類別": "主成分",
             "成分代碼": "8408000302",
             "成分名稱": "L-MENTHOL",
-            "含量描述": "1.5",
+            "含量描述": "",
             "含量": "1.5000000000",
             "單位": "MG"
         },
@@ -150,15 +150,15 @@
             "成分類別": "主成分",
             "成分代碼": "8410000200",
             "成分名稱": "ZEDOARY",
-            "含量描述": "(POWDER) 37.5",
-            "含量": "",
+            "含量描述": "(POWDER)",
+            "含量": "37.5000000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "8416000300",
             "成分名稱": "ALUMINUM DIHYDROXYALLANTOINATE (ALDIOXA)",
-            "含量描述": "18.75",
+            "含量描述": "",
             "含量": "18.7500000000",
             "單位": "MG"
         },
@@ -166,15 +166,15 @@
             "成分類別": "主成分",
             "成分代碼": "9200004402",
             "成分名稱": "GLYCYRRHIZA POWDER",
-            "含量描述": "75",
+            "含量描述": "",
             "含量": "75.0000000000",
             "單位": "MG"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200015001",
-            "成分名稱": "ZINGER POWDER",
-            "含量描述": "6.25",
+            "成分代碼": "9200015000",
+            "成分名稱": "ZINGER (ZINGIBER)",
+            "含量描述": "(POWDER)",
             "含量": "6.2500000000",
             "單位": "MG"
         }

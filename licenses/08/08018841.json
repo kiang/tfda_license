@@ -1,7 +1,7 @@
 {
     "code": "08018841",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018841",
-    "time": "2020-02-26 01:12:13",
+    "time": "2020-10-09 05:56:45",
     "許可證字號": "衛署粧輸字第018841號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,7 +9,7 @@
     "製造許可登錄編號": "",
     "有效日期": "110\/01\/05",
     "發證日期": "101\/01\/05",
-    "許可證種類": "含藥化粧品",
+    "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00801884103",
@@ -26,14 +26,14 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "ETHYLHEXYL METHOXYCINNAMATE",
+    "主成分略述": "ZINC OXIDE, ETHYLHEXYL METHOXYCINNAMATE",
     "限制項目": "02輸　入",
     "申請商名稱": "0930501100  美商雅詩蘭黛股份有限公司台灣分公司",
     "申請商地址": "台北市信義區松高路9號19樓",
     "主製造廠": [
         {
-            "製造廠名稱": "CBE0006300  Clinique Division of Estee Lauder N.V. (ELNV)",
-            "製造廠廠址": "Oevel-Westerlo, Nijverheidsstraat 15, Belgium",
+            "製造廠名稱": "CBE0001200  Est&#233;e Lauder bv",
+            "製造廠廠址": "Nijverheidsstraat 15, B-2260, Oevel (Westerlo) Belgium",
             "製造廠公司地址": "",
             "製造廠國別": "BELGIUM",
             "製程": ""
@@ -41,6 +41,14 @@
     ],
     "藥理治療分類": "",
     "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200011500",
+            "成分名稱": "ZINC OXIDE",
+            "含量描述": "",
+            "含量": "2.8900000000",
+            "單位": "%(W\/W)"
+        },
         {
             "成分類別": "主成分",
             "成分代碼": "9900071200",
@@ -52,8 +60,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "08018841-105-07-29.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018841&Seq=001&Type=8"
+            "title": "08018841-109-09-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018841&Seq=002&Type=8"
         }
     ]
 }

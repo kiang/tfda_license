@@ -1,7 +1,7 @@
 {
     "code": "02024424",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024424",
-    "time": "2020-02-25 13:22:05",
+    "time": "2020-10-09 03:37:24",
     "許可證字號": "衛署藥輸字第024424號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,7 +26,7 @@
     "管制藥品分類級別": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "MENOTROPIN (EQ TO HUMAN MENOPAUSAL GONADOTROPIN HMG)",
+    "主成分略述": "Menotrophin",
     "限制項目": "02輸　入",
     "申請商名稱": "1509801100  輝凌藥品股份有限公司",
     "申請商地址": "台北市中山區松江路111號11樓",
@@ -40,6 +40,13 @@
         }
     ],
     "次製造廠": [
+        {
+            "製造廠名稱": "FCZ0014100  ZENTIVA K.S.",
+            "製造廠廠址": "U kabelovny 130, 102 37 Praha 10, Dolni Mecholupy, Czech Republic",
+            "製造廠公司地址": "",
+            "製造廠國別": "CZECH REPUBLIC",
+            "製程": "溶液劑製造廠"
+        },
         {
             "製造廠名稱": "FDE0001100  HAUPT PHARMA WULFING  GMBH",
             "製造廠廠址": "BETHELNER LANDSTRASSE 18, D-31028 GRONAU, GERMANY",
@@ -60,8 +67,8 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "6818500600",
-            "成分名稱": "MENOTROPIN (EQ TO HUMAN MENOPAUSAL GONADOTROPIN HMG)",
+            "成分代碼": "6818001000",
+            "成分名稱": "Menotrophin",
             "含量描述": "(75IU fsh and 75IU LH)",
             "含量": "",
             "單位": ""
@@ -85,16 +92,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "MENOP75 (10's)-I-TW-01.01 (CN)-107-08-16.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024424&Seq=007&Type=9"
+            "title": "Menopur 75IU (024424) PI_20200421-109-09-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024424&Seq=008&Type=9"
         },
         {
-            "title": "020244240001-106-02-10.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024424&Seq=011&Type=8"
+            "title": "Menopur 75IU (024424) label-109-09-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024424&Seq=013&Type=8"
         },
         {
-            "title": "020244240002-106-02-10.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024424&Seq=010&Type=8"
+            "title": "Menopur 75IU (024424) Carton-109-09-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024424&Seq=012&Type=8"
         },
         {
             "title": "020244240001-106-02-10.pdf",

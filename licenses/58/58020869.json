@@ -1,7 +1,7 @@
 {
     "code": "58020869",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58020869",
-    "time": "2020-02-26 08:54:38",
+    "time": "2020-10-09 06:01:13",
     "許可證字號": "衛部粧輸字第020869號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,12 +9,12 @@
     "製造許可登錄編號": "",
     "有效日期": "111\/10\/17",
     "發證日期": "102\/10\/17",
-    "許可證種類": "含藥化粧品",
+    "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA05802086900",
-    "中文品名": "Affinage 3%雙氧乳、Affinage 6%雙氧乳、Affinage 9%雙氧乳、Affinage 12%雙氧乳",
-    "英文品名": "Affinage Infiniti Creme Developer 10Volume 3%,Affinage Infiniti Creme Developer 20Volume 6%,Affinage Infiniti Creme Developer 30Volume 9%,Affinage Infiniti Creme Developer 40Volume 12%",
+    "中文品名": "Affinage 3%雙氧乳、Affinage 6%雙氧乳、Affinage 9%雙氧乳、Affinage 12%雙氧乳。\r\nAffinage 1.5%雙氧乳。",
+    "英文品名": "Affinage Infiniti Creme Developer 10Volume 3%,Affinage Infiniti Creme Developer 20Volume 6%,Affinage Infiniti Creme Developer 30Volume 9%,Affinage Infiniti Creme Developer 40Volume 12%。\r\nAffinage Professional cr&#232;me developer 5 volume 1.5%。",
     "用途": "染髮。",
     "劑型": "944乳劑",
     "包裝": "950 ml瓶裝",
@@ -26,7 +26,7 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "HYDROGEN PEROXIDE 50%",
+    "主成分略述": "HYDROGEN PEROXIDE, HYDROGEN PEROXIDE 50%",
     "限制項目": "",
     "申請商名稱": "1120601100  得洋國際股份有限公司",
     "申請商地址": "台北市信義區忠孝東路五段510號6樓之2",
@@ -72,9 +72,21 @@
             "含量描述": "",
             "含量": "24.0000000000",
             "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5204900500",
+            "成分名稱": "HYDROGEN PEROXIDE",
+            "含量描述": "",
+            "含量": "1.5000000000",
+            "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "58020869-109-09-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58020869&Seq=002&Type=8"
+        },
         {
             "title": "58020869-102-12-16.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58020869&Seq=001&Type=8"

@@ -1,7 +1,7 @@
 {
     "code": "02012540",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02012540",
-    "time": "2020-02-25 10:11:04",
+    "time": "2020-10-09 03:28:29",
     "許可證字號": "衛署藥輸字第012540號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,7 +26,7 @@
     "管制藥品分類級別": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "DOXYCYCLINE (HCL)",
+    "主成分略述": "DOXYCYCLINE HYCLATE",
     "限制項目": "02輸　入",
     "申請商名稱": "1206801100  富富企業股份有限公司",
     "申請商地址": "台北市民生東路一段42號五樓之1",
@@ -44,21 +44,21 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "0812809310",
-            "成分名稱": "DOXYCYCLINE (HCL)",
-            "含量描述": "(115MG)",
-            "含量": "100.0000000000",
+            "成分代碼": "0812800360",
+            "成分名稱": "DOXYCYCLINE HYCLATE",
+            "含量描述": "(equivalent to Doxycycline 100 mg)",
+            "含量": "119.0000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
-            "title": "Remycin capsule 100mg-104-09-30(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02012540&Seq=001&Type=9"
+            "title": "利敏黴素膠囊100公絲仿單-109-08-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02012540&Seq=002&Type=9"
         },
         {
-            "title": "Remycin capsules 100-104-09-30(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02012540&Seq=001&Type=8"
+            "title": "標籤鋁箔外盒-109-09-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02012540&Seq=002&Type=8"
         }
     ]
 }

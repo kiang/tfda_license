@@ -1,7 +1,7 @@
 {
     "code": "01056773",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01056773",
-    "time": "2020-06-26 05:12:44",
+    "time": "2020-10-09 03:27:19",
     "許可證字號": "衛署藥製字第056773號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -27,7 +27,7 @@
     "藥品分類": "",
     "監視期限": "",
     "主成分略述": "DIVALPROEX SODIUM",
-    "限制項目": "01國　產 1U未依本署規定完成變更中文仿單安全性資訊，不得輸入或製造",
+    "限制項目": "01國　產",
     "申請商名稱": "0202114200  十全實業股份有限公司",
     "申請商地址": "南投縣南投市仁和路２７號",
     "主製造廠": [
@@ -41,17 +41,12 @@
     ],
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-        {
-            "成分類別": "主成分",
-            "成分代碼": "2812002010",
-            "成分名稱": "DIVALPROEX SODIUM",
-            "含量描述": "(eq. to Valproic acid 250mg)",
-            "含量": "269.1000000000",
-            "單位": "MG"
-        }
-    ],
+    "ingredients": [],
     "仿單外盒": [
+        {
+            "title": "衛署藥製字第056773號仿單-109-09-30.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056773&Seq=006&Type=9"
+        },
         {
             "title": "010567730001-109-04-24.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056773&Seq=005&Type=9"
@@ -59,6 +54,14 @@
         {
             "title": "癲滅250-仿單(2015-1)-104-11-27(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056773&Seq=004&Type=9"
+        },
+        {
+            "title": "衛署藥製字第056773號鋁箔-109-09-30.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056773&Seq=008&Type=8"
+        },
+        {
+            "title": "衛署藥製字第056773號標籤-109-09-30.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01056773&Seq=007&Type=8"
         },
         {
             "title": "010567730003-109-04-24.pdf",
