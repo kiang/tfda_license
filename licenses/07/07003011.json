@@ -1,7 +1,7 @@
 {
     "code": "07003011",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07003011",
-    "time": "2020-10-09 11:50:23",
+    "time": "2020-10-16 08:01:40",
     "許可證字號": "衛署粧製字第003011號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -40,14 +40,19 @@
         }
     ],
     "藥理治療分類": "",
-    "ingredients": [
+    "ingredients": [],
+    "仿單外盒": [
         {
-            "成分類別": "主成分",
-            "成分代碼": "8480000520",
-            "成分名稱": "OCTYL METHOXYCINNAMATE (PARSOL KCX)",
-            "含量描述": "",
-            "含量": "7.0000000000",
-            "單位": "%(W\/W"
+            "title": "070030110002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003011&Seq=002&Type=9"
+        },
+        {
+            "title": "070030110001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003011&Seq=001&Type=9"
+        },
+        {
+            "title": "07003011-109-08-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003011&Seq=005&Type=8"
         }
     ]
 }

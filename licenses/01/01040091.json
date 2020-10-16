@@ -1,7 +1,7 @@
 {
     "code": "01040091",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01040091",
-    "time": "2020-10-09 03:12:17",
+    "time": "2020-10-16 03:13:14",
     "許可證字號": "衛署藥製字第040091號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -41,5 +41,14 @@
     ],
     "CCC號列": "30042000211 人用醫藥製劑，含抗黴菌劑類抗生素者Medicaments, containing antifungal antibiotics, for human use",
     "藥理治療分類": "",
-    "ingredients": []
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812203400",
+            "成分名稱": "FLUCONAZOLE",
+            "含量描述": "150",
+            "含量": "150.0000000000",
+            "單位": "MG"
+        }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "70000051",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=70000051",
-    "time": "2020-10-09 04:13:35",
+    "time": "2020-10-16 04:17:23",
     "許可證字號": "衛部罕藥輸字第000051號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -57,5 +57,32 @@
     ],
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": []
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2012600400",
+            "成分名稱": "Selexipag",
+            "含量描述": "",
+            "含量": "1.4000000000",
+            "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "TW_Uptravi-劑量調整指南 (UPT-TWo-v1901)-109-02-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=70000051&Seq=006&Type=9"
+        },
+        {
+            "title": "TW_Uptravi-PI-TWo (UPT-TWo-v1901)-109-02-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=70000051&Seq=005&Type=9"
+        },
+        {
+            "title": "尚達利膜衣錠1400mcg-罕輸000051-鋁箔-107-05-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=70000051&Seq=002&Type=8"
+        },
+        {
+            "title": "尚達利膜衣錠1400mcg-罕輸000051-外盒-107-05-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=70000051&Seq=001&Type=8"
+        }
+    ]
 }

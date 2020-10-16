@@ -1,7 +1,7 @@
 {
     "code": "10000643",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000643",
-    "time": "2020-10-09 03:45:06",
+    "time": "2020-10-16 03:42:44",
     "許可證字號": "衛署菌疫輸字第000643號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -50,15 +50,14 @@
     ],
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [],
-    "仿單外盒": [
+    "ingredients": [
         {
-            "title": "Hepatitis_B_Immunglobulin_CS_201412-104-09-30(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000643&Seq=013&Type=9"
-        },
-        {
-            "title": "中文貼紙--貝靈B 肝 000643-104-09-30(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000643&Seq=038&Type=8"
+            "成分類別": "主成分",
+            "成分代碼": "8004000603",
+            "成分名稱": "IMMUNOGLOBULIN HUMAN",
+            "含量描述": "100-170",
+            "含量": "0.0000000000",
+            "單位": "MG"
         }
     ]
 }
