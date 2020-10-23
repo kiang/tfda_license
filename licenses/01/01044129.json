@@ -1,7 +1,7 @@
 {
     "code": "01044129",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01044129",
-    "time": "2020-10-09 06:31:05",
+    "time": "2020-10-23 06:35:17",
     "許可證字號": "衛署藥製字第044129號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -41,5 +41,14 @@
     ],
     "CCC號列": "30049099101 抗過敏抗組織胺用藥Drugs for antihypersensitivity and antihistamine",
     "藥理治療分類": "",
-    "ingredients": []
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0400001610",
+            "成分名稱": "DIPHENHYDRAMINE HCL",
+            "含量描述": "20",
+            "含量": "20.0000000000",
+            "單位": "MG"
+        }
+    ]
 }

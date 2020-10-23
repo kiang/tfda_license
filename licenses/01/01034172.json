@@ -1,7 +1,7 @@
 {
     "code": "01034172",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01034172",
-    "time": "2020-10-16 03:11:58",
+    "time": "2020-10-23 03:09:57",
     "許可證字號": "衛署藥製字第034172號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -41,16 +41,7 @@
     ],
     "CCC號列": "30042000319 人用醫藥製劑，含頭孢子菌類抗生素者Medicaments, containing cephalosporins, for human use",
     "藥理治療分類": "",
-    "ingredients": [
-        {
-            "成分類別": "主成分",
-            "成分代碼": "0812309510",
-            "成分名稱": "CEFAZOLIN (SODIUM)",
-            "含量描述": "(POTENCY)",
-            "含量": "500.0000000000",
-            "單位": "MG"
-        }
-    ],
+    "ingredients": [],
     "藥物辨識詳細資料": {
         "外觀尺寸": "1g",
         "特殊劑型": "",
@@ -65,6 +56,12 @@
         {
             "title": "[外觀]034172彩發如林黴素注射劑-104-12-31(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034172&Seq=001&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "034172彩發如林黴素注射劑500mg-20160314-105-07-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034172&Seq=003&Type=9"
         }
     ]
 }

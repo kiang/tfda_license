@@ -1,7 +1,7 @@
 {
     "code": "58025168",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58025168",
-    "time": "2020-10-16 06:12:24",
+    "time": "2020-10-23 06:09:31",
     "許可證字號": "衛部粧輸字第025168號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -40,22 +40,15 @@
         }
     ],
     "藥理治療分類": "",
-    "ingredients": [
+    "ingredients": [],
+    "仿單外盒": [
         {
-            "成分類別": "主成分",
-            "成分代碼": "9600019722",
-            "成分名稱": "MONOETHANOLAMINE THIOGLYCOLATE SOLUTION (50% AS THIOGLYCOLIC ACID)",
-            "含量描述": "",
-            "含量": "3.0000000000",
-            "單位": "%(W\/W)"
+            "title": "58025168-109-09-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58025168&Seq=002&Type=8"
         },
         {
-            "成分類別": "主成分",
-            "成分代碼": "9600035234",
-            "成分名稱": "AMMONIUM THIOGLYCOLATE SOLUTION (50% AS THIOGLYCOLIC ACID)",
-            "含量描述": "",
-            "含量": "11.6300000000",
-            "單位": "%(W\/W)"
+            "title": "58025168-107-07-30.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58025168&Seq=001&Type=8"
         }
     ]
 }

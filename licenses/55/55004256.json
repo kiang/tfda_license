@@ -1,7 +1,7 @@
 {
     "code": "55004256",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=55004256",
-    "time": "2020-10-09 08:19:13",
+    "time": "2020-10-23 08:42:56",
     "許可證字號": "衛部醫器製字第004256號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,5 +45,23 @@
         }
     ],
     "藥理治療分類": "",
-    "ingredients": []
+    "ingredients": [],
+    "仿單外盒": [
+        {
+            "title": "550042560001-103-01-29.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55004256&Seq=002&Type=9"
+        },
+        {
+            "title": "550042560002-102-11-04.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55004256&Seq=001&Type=9"
+        },
+        {
+            "title": "550042560001-103-01-29.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55004256&Seq=002&Type=8"
+        },
+        {
+            "title": "550042560001-102-11-04.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55004256&Seq=001&Type=8"
+        }
+    ]
 }
