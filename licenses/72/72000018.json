@@ -1,7 +1,7 @@
 {
     "code": "72000018",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=72000018",
-    "time": "2020-10-23 10:40:08",
+    "time": "2020-10-30 10:49:57",
     "許可證字號": "衛部罕菌疫輸字第000018號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -60,8 +60,34 @@
             "單位": "MG"
         }
     ],
-    "藥物辨識詳細資料": [],
-    "藥物辨識外觀圖片": [],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Amgen Repatha_20180307_AI 4-107-03-08(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=72000018&Seq=004&Type=10"
+        },
+        {
+            "title": "Amgen Repatha_20180307_AI 3-107-03-08(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=72000018&Seq=003&Type=10"
+        },
+        {
+            "title": "Amgen Repatha_20180307_AI 2-107-03-08(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=72000018&Seq=002&Type=10"
+        },
+        {
+            "title": "Amgen Repatha_20180307_AI 1-107-03-08(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=72000018&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "安進瑞百安注射液_中文仿單-109-08-12.pdf",

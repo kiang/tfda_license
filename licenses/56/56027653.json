@@ -1,7 +1,7 @@
 {
     "code": "56027653",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027653",
-    "time": "2020-10-23 08:45:17",
+    "time": "2020-10-30 08:57:32",
     "許可證字號": "衛部醫器輸字第027653號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -54,5 +54,23 @@
         }
     ],
     "藥理治療分類": "",
-    "ingredients": []
+    "ingredients": [],
+    "仿單外盒": [
+        {
+            "title": "560276530001-107-01-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027653&Seq=002&Type=9"
+        },
+        {
+            "title": "560276530002-104-09-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027653&Seq=001&Type=9"
+        },
+        {
+            "title": "560276530001-107-01-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027653&Seq=002&Type=8"
+        },
+        {
+            "title": "560276530001-104-09-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027653&Seq=001&Type=8"
+        }
+    ]
 }

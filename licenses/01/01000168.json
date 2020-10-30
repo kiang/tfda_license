@@ -1,7 +1,7 @@
 {
     "code": "01000168",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01000168",
-    "time": "2020-10-23 09:27:34",
+    "time": "2020-10-30 09:32:58",
     "許可證字號": "衛署藥製字第000168號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -51,6 +51,14 @@
             "單位": "MG"
         }
     ],
-    "藥物辨識詳細資料": [],
-    "藥物辨識外觀圖片": []
+    "仿單外盒": [
+        {
+            "title": "010001680001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01000168&Seq=001&Type=9"
+        },
+        {
+            "title": "010001680003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01000168&Seq=003&Type=8"
+        }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "01037228",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01037228",
-    "time": "2020-10-23 09:51:36",
+    "time": "2020-10-30 09:48:39",
     "許可證字號": "衛署藥製字第037228號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -41,7 +41,24 @@
     ],
     "CCC號列": "30043200002 其他醫藥製劑，含有腎上腺皮質類固醇荷爾蒙及其衍生物或結構式類似者Other medicaments, containing corticosteroid hormones, their derivatives or structural analogues",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812200610",
+            "成分名稱": "ISOCONAZOLE NITRATE",
+            "含量描述": "10",
+            "含量": "10.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "6804000810",
+            "成分名稱": "DIFLUCORTOLONE VALERATE",
+            "含量描述": "1",
+            "含量": "1.0000000000",
+            "單位": "MG"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "仿單-麗膚隆乳膏-正面_1040728-104-08-31(廠商自行上傳).pdf",

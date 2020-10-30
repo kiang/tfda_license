@@ -1,7 +1,7 @@
 {
     "code": "02024443",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024443",
-    "time": "2020-10-23 03:38:23",
+    "time": "2020-10-30 03:50:31",
     "許可證字號": "衛署藥輸字第024443號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -50,7 +50,16 @@
     ],
     "CCC號列": "30042000710 人用醫藥製劑，含四環素或其衍生物者Medicaments, containing tetracyclines or their derivatives, for human use",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812801200",
+            "成分名稱": "TIGECYCLINE",
+            "含量描述": "",
+            "含量": "50.0000000000",
+            "單位": "MG"
+        }
+    ],
     "藥物辨識詳細資料": {
         "外觀尺寸": "桔色結塊的凍晶粉末",
         "特殊劑型": "",
@@ -69,16 +78,6 @@
         {
             "title": "Tygacil老虎黴素 MA no.024443實體 -104-09-18(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024443&Seq=001&Type=10"
-        }
-    ],
-    "仿單外盒": [
-        {
-            "title": "TYGACIL-INS-071207-108-01-25.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024443&Seq=022&Type=9"
-        },
-        {
-            "title": "Tygacil老虎黴素 MA no.024443外盒包裝-104-09-18(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024443&Seq=001&Type=8"
         }
     ]
 }
