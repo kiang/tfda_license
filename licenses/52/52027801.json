@@ -1,7 +1,7 @@
 {
     "code": "52027801",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52027801",
-    "time": "2020-10-30 04:19:27",
+    "time": "2020-11-06 07:50:51",
     "許可證字號": "衛部藥輸字第027801號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -50,14 +50,19 @@
     ],
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
+    "ingredients": [],
+    "仿單外盒": [
         {
-            "成分類別": "主成分",
-            "成分代碼": "1005000100",
-            "成分名稱": "Talazoparib Tosylate",
-            "含量描述": "(0.363 mg of talazoparib tosylate is equivalent to 0.25 mg of talazoparib active moiety (free base).)",
-            "含量": "0.3630000000",
-            "單位": "MG"
+            "title": "0604-Talzenna 達勝癌膠囊 中文仿單_748x352mm-outline-109-07-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027801&Seq=003&Type=9"
+        },
+        {
+            "title": "Talzenna_0.25mg_Bottle-109-07-16(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027801&Seq=002&Type=8"
+        },
+        {
+            "title": "Artwork - Talzenna cap 0.25mg-109-02-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027801&Seq=001&Type=8"
         }
     ]
 }

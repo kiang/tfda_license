@@ -1,7 +1,7 @@
 {
     "code": "06012548",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06012548",
-    "time": "2020-02-25 18:28:40",
+    "time": "2020-11-06 05:01:28",
     "許可證字號": "衛署醫器輸字第012548號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,10 +13,10 @@
     "舊證字號": "",
     "醫療器材級數": "第二等級",
     "通關簽審文件編號": "DHA00601254801",
-    "中文品名": "&quot;柯特曼&quot; 霍金斯引流閥系統",
-    "英文品名": "&quot;CODMAN&quot; HAKIM VALVE SYSTEM",
+    "中文品名": "&quot;柯特曼舒特樂夫&quot; 霍金斯引流閥系統",
+    "英文品名": "&quot;Codman &amp; Shurtleff&quot; Hakim Valve System",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "詳如中文仿單核定本。註銷規格：詳如中文仿單核定本。",
+    "醫器規格": "詳如中文仿單核定本。註銷規格：詳如中文仿單核定本。註銷規格：823190，以下空白。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -37,11 +37,20 @@
     "申請商地址": "新北市新店區安祥路147巷53號4樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MCH0045000  MEDOS SARL",
-            "製造廠廠址": "RUE GIRARDET 29, CASE POSTALE 128, CH-2400 LE LOCLE, SWITZERLAND",
+            "製造廠名稱": "MCH0045200  MEDOS SARL",
+            "製造廠廠址": "RUE GIRARDET 29 LE LOCLE, Jura SWITZERLAND CH-2400",
             "製造廠公司地址": "",
             "製造廠國別": "SWITZERLAND",
-            "製程": ""
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS3961000  Codman &amp; Shurtleff, Inc.",
+            "製造廠廠址": "325 Paramount Drive, Raynham, MA 02767-0350 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
         }
     ],
     "藥理治療分類": "",

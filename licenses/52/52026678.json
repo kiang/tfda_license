@@ -1,7 +1,7 @@
 {
     "code": "52026678",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026678",
-    "time": "2020-10-30 06:45:31",
+    "time": "2020-11-06 10:13:06",
     "許可證字號": "衛部藥輸字第026678號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -51,20 +51,32 @@
             "單位": "MG"
         }
     ],
-    "藥物辨識詳細資料": {
-        "外觀尺寸": "",
-        "特殊劑型": "",
-        "顏色": "",
-        "特殊氣味": "",
-        "刻痕": "",
-        "形狀": "",
-        "標記一": "",
-        "標記二": ""
-    },
-    "藥物辨識外觀圖片": [
+    "藥物辨識詳細資料": [],
+    "藥物辨識外觀圖片": [],
+    "仿單外盒": [
         {
-            "title": "026678_IZBA 30 µgmL eye drops, solution-108-06-21(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026678&Seq=001&Type=10"
+            "title": "Upload_754613_TW_p1_LFT_X-4-109-01-07(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026678&Seq=004&Type=9"
+        },
+        {
+            "title": "NPI.cht_IZBA_US_clean_A3_TWI-300818_201808-107-08-30.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026678&Seq=003&Type=9"
+        },
+        {
+            "title": "Upload_400230_TW_p2_POU_X-4-109-01-07(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026678&Seq=007&Type=8"
+        },
+        {
+            "title": "Upload_765120_TW_p2_LBL_X-4-109-01-07(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026678&Seq=006&Type=8"
+        },
+        {
+            "title": "Upload_781542_TW_p2_FB_X-4-109-01-07(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026678&Seq=005&Type=8"
+        },
+        {
+            "title": "026678_IZBA_FB-LBL_20180827-107-08-30.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026678&Seq=004&Type=8"
         }
     ]
 }

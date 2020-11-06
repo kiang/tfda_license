@@ -1,7 +1,7 @@
 {
     "code": "70000059",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=70000059",
-    "time": "2020-10-30 04:26:49",
+    "time": "2020-11-06 07:54:14",
     "許可證字號": "衛部罕藥輸字第000059號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -57,7 +57,16 @@
     ],
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200096010",
+            "成分名稱": "FINGOLIMOD HCL",
+            "含量描述": "Novartis Pharma AG (-C11) Lichtstrasse 35, CH-4056 Basel Switzerland Novartis Pharma Schweizerhalle AG (C11-C13) Rothausstrasse CH-4133 Pratteln, Switzerland Novartis Pharma Stein AG (C13-C14) Schaffhauserstrasse CH-4332, Stein, Switzerland",
+            "含量": "0.2800000000",
+            "單位": "MG"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "Gilenya 0.25&0.5mg_TWI-220420_C-109-09-25.pdf",
