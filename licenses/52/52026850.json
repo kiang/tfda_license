@@ -1,7 +1,7 @@
 {
     "code": "52026850",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026850",
-    "time": "2020-11-06 07:44:10",
+    "time": "2020-11-13 10:16:40",
     "許可證字號": "衛部藥輸字第026850號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -50,7 +50,18 @@
     ],
     "CCC號列": "30044900138 醫藥製劑，含有二氫嗎啡酮及其異構物、酯類、醚類及鹽類者Medicaments, containing Hydromorphone , and its isomer, esters, ethers, salts",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2808802110",
+            "成分名稱": "Hydromorphone HCL",
+            "含量描述": "",
+            "含量": "64.0000000000",
+            "單位": "MG"
+        }
+    ],
+    "藥物辨識詳細資料": [],
+    "藥物辨識外觀圖片": [],
     "仿單外盒": [
         {
             "title": "製藥工廠-釋通緩釋錠仿單 Jurnista PI_Aus PI Apr2017+TFDA request v1801 (Chn) Clean-107-05-18.pdf",

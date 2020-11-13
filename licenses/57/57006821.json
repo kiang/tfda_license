@@ -1,7 +1,7 @@
 {
     "code": "57006821",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=57006821",
-    "time": "2020-02-26 08:38:16",
+    "time": "2020-11-13 06:00:45",
     "許可證字號": "衛部粧製字第006821號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,7 +9,7 @@
     "製造許可登錄編號": "",
     "有效日期": "113\/06\/30",
     "發證日期": "103\/08\/25",
-    "許可證種類": "含藥化粧品",
+    "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY05700682109",
@@ -26,14 +26,14 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "AMMONIA SOLUTION (28%), HYDROGEN PEROXIDE (35%), RESORCINOL (RESORCIN), CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL), 6-AMINO-M-CRESOL, P-AMINOPHENOL, 2-METHYLRESORCINOL, P-PHENYLENEDIAMINE",
+    "主成分略述": "AMMONIA SOLUTION (28%), HYDROGEN PEROXIDE (35%), RESORCINOL (RESORCIN), P-AMINOPHENOL, 2-METHYLRESORCINOL, 4-AMINO-2-HYDROXYTOLUENE, P-PHENYLENEDIAMINE",
     "限制項目": "",
     "申請商名稱": "0300102200  大川實業有限公司",
     "申請商地址": "新北市新莊區復興路３段６１號",
     "主製造廠": [
         {
             "製造廠名稱": "0300102200  大川實業有限公司",
-            "製造廠廠址": "新北市新莊區復興路３段６１號",
+            "製造廠廠址": "新北市新莊區復興路３段６１、６３號",
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
             "製程": ""
@@ -59,22 +59,6 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
-            "含量描述": "",
-            "含量": "0.0350000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200002690",
-            "成分名稱": "6-AMINO-M-CRESOL",
-            "含量描述": "",
-            "含量": "0.2460000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "9200035440",
             "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
@@ -87,6 +71,14 @@
             "成分名稱": "2-METHYLRESORCINOL",
             "含量描述": "",
             "含量": "0.4770000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "0.0350000000",
             "單位": "%(W\/W)"
         },
         {
@@ -112,8 +104,8 @@
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=57006821&Seq=001&Type=9"
         },
         {
-            "title": "57006821-103-10-08.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=57006821&Seq=001&Type=8"
+            "title": "57006821-109-10-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=57006821&Seq=002&Type=8"
         }
     ]
 }

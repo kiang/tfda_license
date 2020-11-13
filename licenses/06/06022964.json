@@ -1,22 +1,22 @@
 {
     "code": "06022964",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06022964",
-    "time": "2020-05-29 05:24:32",
+    "time": "2020-11-13 04:44:22",
     "許可證字號": "衛署醫器輸字第022964號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可登錄編號": "QSD8495",
+    "製造許可登錄編號": "QSD11096",
     "有效日期": "110\/10\/21",
     "發證日期": "100\/10\/21",
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
     "通關簽審文件編號": "DHA00602296405",
-    "中文品名": "“愛瑪士”愛司-綠光雷射系統及其配件",
-    "英文品名": "“AMS” GreenLight XPS Laser System and Accessories",
+    "中文品名": "“波士頓科技”綠光雷射光纖",
+    "英文品名": "“Boston Scientific” MoXy Laser Fiber",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "GreenLight XPS以下空白",
+    "醫器規格": "GreenLight XPS以下空白。\r\n效能及規格變更、註銷規格：詳如中文仿單核定本(原109年3月11日核准之仿單、標籤核定本正本予以回收作廢)。以下空白。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -37,23 +37,32 @@
     "申請商地址": "台北市南港區忠孝東路六段21號14樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MUS0586000  American Medical Systems, Innovation Center-Silicon Valley",
-            "製造廠廠址": "3070 ORCHARD DRIVE SAN JOSE, CA 95134, U.S.A.",
+            "製造廠名稱": "MMY0203000  Boston Scientific Medical Device (Malaysia) SDN BHD",
+            "製造廠廠址": "PMT 741, Persiaran Cassia Selatan 1, Bandar Cassia, Taman Perindustrian Batu Kawan, Pulau Pinang, 14110, Malaysia",
+            "製造廠公司地址": "",
+            "製造廠國別": "MALAYSIA",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS4226000  Boston Scientific Corporation",
+            "製造廠廠址": "300 Boston Scientific Way Marlborough, MA 01752, USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
-            "製程": ""
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060229640001(109.03.11)-109-03-23.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022964&Seq=002&Type=9"
+            "title": "060229640001-109-11-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022964&Seq=003&Type=9"
         },
         {
-            "title": "060229640001(109.03.11)-109-03-23.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022964&Seq=002&Type=8"
+            "title": "060229640001-109-11-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06022964&Seq=003&Type=8"
         }
     ]
 }

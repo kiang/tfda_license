@@ -1,7 +1,7 @@
 {
     "code": "57006820",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=57006820",
-    "time": "2020-02-26 08:38:15",
+    "time": "2020-11-13 05:59:45",
     "許可證字號": "衛部粧製字第006820號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,7 +9,7 @@
     "製造許可登錄編號": "",
     "有效日期": "113\/06\/30",
     "發證日期": "103\/08\/25",
-    "許可證種類": "含藥化粧品",
+    "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY05700682007",
@@ -26,14 +26,14 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "AMMONIA SOLUTION (28%), HYDROGEN PEROXIDE (35%), RESORCINOL (RESORCIN), CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL), P-AMINOPHENOL, m-Aminophenol, P-PHENYLENEDIAMINE, 2-AMINO-4-HYDROXYETHYLAMINOANISOLE SULFATE",
+    "主成分略述": "AMMONIA SOLUTION (28%), HYDROGEN PEROXIDE (35%), RESORCINOL (RESORCIN), P-AMINOPHENOL, m-Aminophenol, 4-AMINO-2-HYDROXYTOLUENE, P-PHENYLENEDIAMINE, 2-AMINO-4-HYDROXYETHYLAMINOANISOLE SULFATE",
     "限制項目": "",
     "申請商名稱": "0300102200  大川實業有限公司",
     "申請商地址": "新北市新莊區復興路３段６１號",
     "主製造廠": [
         {
-            "製造廠名稱": "0300102200  大川實業有限公司",
-            "製造廠廠址": "新北市新莊區復興路３段６１號",
+            "製造廠名稱": "0300102500  大川實業有限公司",
+            "製造廠廠址": "新北市新莊區復興路三段６１號、６３號",
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
             "製程": ""
@@ -59,14 +59,6 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
-            "含量描述": "",
-            "含量": "0.2450000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "9200035440",
             "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
@@ -79,6 +71,14 @@
             "成分名稱": "m-Aminophenol",
             "含量描述": "",
             "含量": "0.3340000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "0.2450000000",
             "單位": "%(W\/W)"
         },
         {
@@ -102,18 +102,16 @@
             "成分代碼": "5204900583",
             "成分名稱": "HYDROGEN PEROXIDE (35%)",
             "含量描述": "",
-            "含量": "25.7140000000",
+            "含量": "25.7000000000",
             "單位": "%(W\/W)"
         }
     ],
+    "藥物辨識詳細資料": [],
+    "藥物辨識外觀圖片": [],
     "仿單外盒": [
         {
             "title": "57006820-103-10-08.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=57006820&Seq=001&Type=9"
-        },
-        {
-            "title": "57006820-103-10-08.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=57006820&Seq=001&Type=8"
         }
     ]
 }

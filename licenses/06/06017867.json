@@ -1,22 +1,22 @@
 {
     "code": "06017867",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06017867",
-    "time": "2020-05-29 05:21:23",
+    "time": "2020-11-13 04:31:33",
     "許可證字號": "衛署醫器輸字第017867號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可登錄編號": "QSD9017",
+    "製造許可登錄編號": "QSD12067",
     "有效日期": "111\/01\/03",
     "發證日期": "96\/01\/03",
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
     "通關簽審文件編號": "DHA00601786700",
-    "中文品名": "亞培臨床生化前白蛋白檢驗試劑",
-    "英文品名": "ABBOTT Clinical Chemistry Prealbumin Reagent &amp; Calibrator",
-    "效能": "可定量分析人類血中的 Prealbumin。",
-    "醫器規格": "#1E02-21、#6E57-02。\r\n註銷規格:1E02-21，以下空白。",
+    "中文品名": "亞培臨床生化前白蛋白檢驗試劑校正液。",
+    "英文品名": "ABBOTT Clinical Chemistry Prealbumin Calibrator",
+    "效能": "用於Prealbumin分析之校正。",
+    "醫器規格": "規格變更為：6E57-03。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -37,19 +37,30 @@
     "申請商地址": "台北市中山區民生東路三段49號5樓、6樓及51號6樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MUS1106000  ABBOTT LABORATORIES DIAGNOSTICS DIVISION",
-            "製造廠廠址": "100 ABBOTT PARK ROAD, ABBOTT PARK, ILLINOIS 60064, U.S.A.",
+            "製造廠名稱": "MJP1622000  NITTOBO MEDICAL CO.,LTD.MEDICAL DEVELOPMENT CENTER.",
+            "製造廠廠址": "1 Shiojima,Fukuhara,Fukuyama-Machi,Koriyama-City Fukushima-Pref.,963-8061 Japan",
             "製造廠公司地址": "",
-            "製造廠國別": "UNITED STATES",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MDE0201000  ABBOTT GMBH &amp; CO.KG",
+            "製造廠廠址": "MAX-PLANCK-RING 2,65205 WIESBADEN,GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
             "製程": ""
         }
     ],
     "藥理治療分類": "",
     "ingredients": [],
+    "藥物辨識詳細資料": [],
+    "藥物辨識外觀圖片": [],
     "仿單外盒": [
         {
-            "title": "img-Z08110346-0001___20111208.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017867&Seq=022&Type=9"
+            "title": "1096806851-017867(1091022核發)-109-10-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017867&Seq=023&Type=9"
         },
         {
             "title": "060178670021.pdf",
@@ -134,6 +145,10 @@
         {
             "title": "060178670001.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017867&Seq=001&Type=9"
+        },
+        {
+            "title": "1096806851-017867(1091022核發)-109-10-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017867&Seq=007&Type=8"
         },
         {
             "title": "060178670006.pdf",

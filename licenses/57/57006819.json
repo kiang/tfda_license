@@ -1,7 +1,7 @@
 {
     "code": "57006819",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=57006819",
-    "time": "2020-02-26 08:38:14",
+    "time": "2020-11-13 05:59:44",
     "許可證字號": "衛部粧製字第006819號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,12 +9,12 @@
     "製造許可登錄編號": "",
     "有效日期": "113\/06\/30",
     "發證日期": "103\/08\/25",
-    "許可證種類": "含藥化粧品",
+    "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY05700681909",
-    "中文品名": "舒妃護髮染髮霜-7 自然黑褐 (何首烏)",
-    "英文品名": "SOFEI HAIR COLOR CREAM No.7",
+    "中文品名": "舒妃護髮染髮霜-7 自然黑褐 (何首烏)\r\n舒妃型色家植萃添加護髮染髮霜-3\/0 蓋白．植柔鉑金黑(第一劑、第二劑)、舒妃型色家植萃添加護髮染髮霜-4\/0 蓋白．植柔自然黑褐(第一劑、第二劑)",
+    "英文品名": "SOFEI HAIR COLOR CREAM No.7\r\nSOFEI DUSTY COLOR CREAM-3\/0 OBISIDIAN BLACK、SOFEI DUSTY COLOR CREAM-4\/0 BLACK BROWN",
     "用途": "染髮。",
     "劑型": "933霜劑+膏劑",
     "包裝": "500ML以下鋁管裝 附外盒",
@@ -26,7 +26,7 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "AMMONIA SOLUTION (28%), HYDROGEN PEROXIDE (35%), RESORCINOL (RESORCIN), CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL), P-AMINOPHENOL, m-Aminophenol, P-PHENYLENEDIAMINE, 2-AMINO-4-HYDROXYETHYLAMINOANISOLE SULFATE, 1-HYDROXYETHYL-4,5-DIAMINO-PYRAZOLE SULFATE",
+    "主成分略述": "AMMONIA SOLUTION (28%), HYDROGEN PEROXIDE (35%), RESORCINOL (RESORCIN), P-AMINOPHENOL, m-Aminophenol, 4-AMINO-2-HYDROXYTOLUENE, P-PHENYLENEDIAMINE, 2-AMINO-4-HYDROXYETHYLAMINOANISOLE SULFATE, 1-HYDROXYETHYL-4,5-DIAMINO-PYRAZOLE SULFATE",
     "限制項目": "",
     "申請商名稱": "0300102200  大川實業有限公司",
     "申請商地址": "新北市新莊區復興路３段６１號",
@@ -59,14 +59,6 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
-            "含量描述": "",
-            "含量": "0.0810000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "9200035440",
             "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
@@ -79,6 +71,14 @@
             "成分名稱": "m-Aminophenol",
             "含量描述": "",
             "含量": "0.0650000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "0.0810000000",
             "單位": "%(W\/W)"
         },
         {
@@ -110,6 +110,78 @@
             "成分代碼": "5204900583",
             "成分名稱": "HYDROGEN PEROXIDE (35%)",
             "含量描述": "",
+            "含量": "17.2000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2820000109",
+            "成分名稱": "AMMONIA SOLUTION (28%)",
+            "含量描述": "",
+            "含量": "1.5000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8428000500",
+            "成分名稱": "RESORCINOL (RESORCIN)",
+            "含量描述": "",
+            "含量": "0.9070000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200035440",
+            "成分名稱": "P-AMINOPHENOL",
+            "含量描述": "",
+            "含量": "0.1710000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200035470",
+            "成分名稱": "m-Aminophenol",
+            "含量描述": "",
+            "含量": "0.0900000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "0.0810000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9400003200",
+            "成分名稱": "P-PHENYLENEDIAMINE",
+            "含量描述": "",
+            "含量": "1.1750000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900091410",
+            "成分名稱": "2-AMINO-4-HYDROXYETHYLAMINOANISOLE SULFATE",
+            "含量描述": "",
+            "含量": "0.1930000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900097240",
+            "成分名稱": "1-HYDROXYETHYL-4,5-DIAMINO-PYRAZOLE SULFATE",
+            "含量描述": "",
+            "含量": "0.0070000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5204900583",
+            "成分名稱": "HYDROGEN PEROXIDE (35%)",
+            "含量描述": "",
             "含量": "17.1500000000",
             "單位": "%(W\/W)"
         }
@@ -120,8 +192,12 @@
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=57006819&Seq=001&Type=9"
         },
         {
-            "title": "57006819-103-10-08.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=57006819&Seq=001&Type=8"
+            "title": "57006819-109-11-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=57006819&Seq=003&Type=8"
+        },
+        {
+            "title": "57006819-109-10-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=57006819&Seq=002&Type=8"
         }
     ]
 }
