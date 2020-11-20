@@ -1,7 +1,7 @@
 {
     "code": "55005746",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=55005746",
-    "time": "2020-11-13 11:19:03",
+    "time": "2020-11-20 08:31:44",
     "許可證字號": "衛部醫器製字第005746號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,5 +45,23 @@
         }
     ],
     "藥理治療分類": "",
-    "ingredients": []
+    "ingredients": [],
+    "仿單外盒": [
+        {
+            "title": "550057460003-108-01-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55005746&Seq=002&Type=9"
+        },
+        {
+            "title": "550057460001-106-06-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55005746&Seq=001&Type=9"
+        },
+        {
+            "title": "550057460003-108-01-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55005746&Seq=002&Type=8"
+        },
+        {
+            "title": "550057460002-106-06-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55005746&Seq=001&Type=8"
+        }
+    ]
 }
