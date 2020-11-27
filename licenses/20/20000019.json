@@ -1,7 +1,7 @@
 {
     "code": "20000019",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=20000019",
-    "time": "2020-02-26 03:04:49",
+    "time": "2020-11-27 03:56:55",
     "許可證字號": "衛署罕藥輸字第000019號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,7 +14,7 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA02000001903",
     "中文品名": "安保克瘧錠250毫克",
-    "英文品名": "Apo-Mefloquine 250mg tablets",
+    "英文品名": "Mefloquine 250mg tablets “AA Pharma”",
     "適應症": "治療及預防瘧疾。",
     "劑型": "110錠劑",
     "包裝": "2-1000錠鋁箔盒裝",
@@ -32,11 +32,20 @@
     "申請商地址": "台中市西屯區文心路三段236號3樓、238號3樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FCA0025000  APOTEX INC.:P0020",
+            "製造廠名稱": "FCA0025000  APOTEX INC.",
             "製造廠廠址": "150 SIGNET DRIVE,TORONTO(WESTON),ONTARIO,CANADA M9L 1T9",
             "製造廠公司地址": "150 SIGNET DRIVE,TORONTO(WESTON),ONTARIO,CANADA M9L 1T9",
             "製造廠國別": "CANADA",
             "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "FCA0138000  AA Pharma Inc.",
+            "製造廠廠址": "UNIT 1, 1165 Creditstone Road, Vaughan, Ontario, L4K 4N7, Canada",
+            "製造廠公司地址": "",
+            "製造廠國別": "CANADA",
+            "製程": "許可證持有者"
         }
     ],
     "CCC號列": "",

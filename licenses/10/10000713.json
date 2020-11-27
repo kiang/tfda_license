@@ -1,7 +1,7 @@
 {
     "code": "10000713",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000713",
-    "time": "2020-11-20 06:57:24",
+    "time": "2020-11-27 10:16:21",
     "許可證字號": "衛署菌疫輸字第000713號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -64,7 +64,16 @@
     ],
     "CCC號列": "30049020007 血液代用品與血漿代用品及基因重組製劑Substitutes of blood, substitutes of plasma and preparations  of gennetic recombinants",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200042400",
+            "成分名稱": "ETANERCEPT",
+            "含量描述": "",
+            "含量": "25.0000000000",
+            "單位": "MG"
+        }
+    ],
     "藥物辨識詳細資料": {
         "外觀尺寸": "",
         "特殊劑型": "",

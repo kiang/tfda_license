@@ -1,13 +1,13 @@
 {
     "code": "06009638",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06009638",
-    "time": "2020-11-13 04:18:21",
+    "time": "2020-11-27 04:24:21",
     "許可證字號": "衛署醫器輸字第009638號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "QSD4152",
-    "有效日期": "110\/04\/03",
+    "有效日期": "115\/04\/03",
     "發證日期": "90\/04\/03",
     "許可證種類": "醫　器",
     "舊證字號": "",
@@ -37,11 +37,20 @@
     "申請商地址": "臺北市松山區敦化北路170號7樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MJP0151300  TERUMO CORPORATION ASHITAKA FACTORY",
-            "製造廠廠址": "150 MAIMAIGI-CHO FUJINOMIYA CITY SHIZUOKA 418-0015 JAPAN",
+            "製造廠名稱": "MJP0360000  Ashitaka Factory of Terumo Corporation",
+            "製造廠廠址": "150 Maimaigi-cho, Fujinomiya City, Shizuoka 418-0015, Japan",
             "製造廠公司地址": "",
             "製造廠國別": "JAPAN",
             "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MJP1546000  Terumo Corporation",
+            "製造廠廠址": "44-1, 2-Chome, Hatagaya, Shibuya-ku, Tokyo, Japan",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",

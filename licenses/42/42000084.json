@@ -1,7 +1,7 @@
 {
     "code": "42000084",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000084",
-    "time": "2020-11-20 10:51:47",
+    "time": "2020-11-27 13:34:24",
     "許可證字號": "衛署醫器陸輸字第000084號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,5 +45,23 @@
         }
     ],
     "藥理治療分類": "",
-    "ingredients": []
+    "ingredients": [],
+    "仿單外盒": [
+        {
+            "title": "42000084002-106-10-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000084&Seq=005&Type=9"
+        },
+        {
+            "title": "42000084-106-09-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000084&Seq=004&Type=9"
+        },
+        {
+            "title": "42000084001-106-10-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000084&Seq=002&Type=8"
+        },
+        {
+            "title": "42000084-106-09-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000084&Seq=001&Type=8"
+        }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "01057372",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057372",
-    "time": "2020-11-20 06:33:28",
+    "time": "2020-11-27 09:54:47",
     "許可證字號": "衛署藥製字第057372號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -41,59 +41,16 @@
     ],
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [],
-    "藥物辨識詳細資料": {
-        "外觀尺寸": "",
-        "特殊劑型": "",
-        "顏色": "白色",
-        "特殊氣味": "",
-        "刻痕": "有",
-        "形狀": "圓凸形",
-        "標記一": "OP15",
-        "標記二": "刻痕"
-    },
-    "藥物辨識外觀圖片": [
+    "ingredients": [
         {
-            "title": "必抑脂膜衣錠2毫克_藥品外觀-104-09-10(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057372&Seq=003&Type=10"
+            "成分類別": "主成分",
+            "成分代碼": "2406003310",
+            "成分名稱": "PITAVASTATIN CALCIUM",
+            "含量描述": "",
+            "含量": "2.0000000000",
+            "單位": "MG"
         }
     ],
-    "仿單外盒": [
-        {
-            "title": "必抑脂膜衣錠-109-07-29.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057372&Seq=009&Type=9"
-        },
-        {
-            "title": "必抑脂Pitator 2mg 仿單-107-10-23(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057372&Seq=008&Type=9"
-        },
-        {
-            "title": "07_必抑脂Pitator 2mg 更新仿單擬稿PDF檔-106-03-06.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057372&Seq=007&Type=9"
-        },
-        {
-            "title": "必抑脂膜衣錠2毫克_仿單-104-09-10(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057372&Seq=006&Type=9"
-        },
-        {
-            "title": "4_必抑脂膜衣錠2毫克_藥品外觀 (未變)-109-08-21.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057372&Seq=011&Type=8"
-        },
-        {
-            "title": "3_必抑脂膜衣錠2毫克_鋁箔(內容未變)-109-08-21.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057372&Seq=010&Type=8"
-        },
-        {
-            "title": "2_必抑脂膜衣錠2毫克_瓶貼(有更新)-109-08-21.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057372&Seq=009&Type=8"
-        },
-        {
-            "title": "1_必抑脂膜衣錠2毫克_外盒(有更新)-109-08-21.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057372&Seq=008&Type=8"
-        },
-        {
-            "title": "必抑脂膜衣錠2毫克_外盒_002版-108-04-01(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057372&Seq=007&Type=8"
-        }
-    ]
+    "藥物辨識詳細資料": [],
+    "藥物辨識外觀圖片": []
 }
