@@ -1,7 +1,7 @@
 {
     "code": "58023142",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58023142",
-    "time": "2020-11-27 09:03:30",
+    "time": "2020-12-04 06:10:59",
     "許可證字號": "衛部粧輸字第023142號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -40,14 +40,19 @@
         }
     ],
     "藥理治療分類": "",
-    "ingredients": [
+    "ingredients": [],
+    "仿單外盒": [
         {
-            "成分類別": "主成分",
-            "成分代碼": "9600092110",
-            "成分名稱": "PHENYLBENZIMIDAZOLE SULFONIC ACID",
-            "含量描述": "",
-            "含量": "2.7000000000",
-            "單位": "%(W\/W)"
+            "title": "58023142-107-07-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58023142&Seq=004&Type=8"
+        },
+        {
+            "title": "58023142-106-02-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58023142&Seq=003&Type=8"
+        },
+        {
+            "title": "58023142-105-08-01.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58023142&Seq=002&Type=8"
         }
     ]
 }
