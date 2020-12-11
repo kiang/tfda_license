@@ -1,7 +1,7 @@
 {
     "code": "01033480",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01033480",
-    "time": "2020-12-04 03:08:16",
+    "time": "2020-12-11 04:23:24",
     "許可證字號": "衛署藥製字第033480號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -41,5 +41,14 @@
     ],
     "CCC號列": "30042000916 人用醫藥製劑，含有其他抗生素者Medicaments, containing other antibiotics, for human use",
     "藥理治療分類": "",
-    "ingredients": []
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812000200",
+            "成分名稱": "CLINDAMYCIN",
+            "含量描述": "(POTENCY)",
+            "含量": "150.0000000000",
+            "單位": "MG"
+        }
+    ]
 }

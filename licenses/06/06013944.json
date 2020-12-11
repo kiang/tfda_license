@@ -1,7 +1,7 @@
 {
     "code": "06013944",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06013944",
-    "time": "2020-06-26 05:30:44",
+    "time": "2020-12-11 03:40:10",
     "許可證字號": "衛署醫器輸字第013944號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,7 +16,7 @@
     "中文品名": "史塔瑞卡匣",
     "英文品名": "STERRAD CASSETTE",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "10114,10110,10113,10118,10133,以下空白。註銷規格：10110。增加規格：10144。",
+    "醫器規格": "10114,10110,10113,10118,10133,以下空白。註銷規格：10110。增加規格：10144。註銷規格：10114及10118，以下空白。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -32,65 +32,41 @@
     "藥品分類": "",
     "監視期限": "",
     "主成分略述": "",
-    "限制項目": "02輸　入",
+    "限制項目": "02輸　入 09委託製造",
     "申請商名稱": "620111J713  愛士普台灣股份有限公司",
     "申請商地址": "臺北市內湖區堤頂大道2段89號3樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FCH0229000  CILAG LTD.",
-            "製造廠廠址": "HOCHSTRASSE 201 CH-8205 SCHAFFHAUSEN,SWITZERLAND",
+            "製造廠名稱": "FCH0216000  CILAG AG",
+            "製造廠廠址": "HOCHSTRASSE 201, 8200 SCHAFFHAUSEN, SWITZERLAND",
             "製造廠公司地址": "",
             "製造廠國別": "SWITZERLAND",
-            "製程": ""
+            "製程": "Manufactured by"
         }
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "MUS1218000  ADVANCED STERILIZATION PRODUCTS A JOHNSON &amp; JOHNSON COMPANY",
+            "製造廠名稱": "MUS3223000  ADVANCED STERILIZATION PRODUCTS, DIVISION OF ETHICON INC., A JOHNSON &amp; JOHNSON COMPANY",
             "製造廠廠址": "33 TECHNOLOGY DRIVE, IRVINE, CALIFORNIA 92618 U.S.A.",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
-            "製程": ""
+            "製程": "委託製造者"
         }
     ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "06013944(95.3.7)-109.11.25-109-11-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013944&Seq=007&Type=9"
+        },
+        {
             "title": "06013944-2010-10-05.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013944&Seq=006&Type=9"
         },
         {
-            "title": "060139440005.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013944&Seq=005&Type=9"
-        },
-        {
-            "title": "060139440004.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013944&Seq=004&Type=9"
-        },
-        {
-            "title": "060139440003.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013944&Seq=003&Type=9"
-        },
-        {
-            "title": "060139440002.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013944&Seq=002&Type=9"
-        },
-        {
-            "title": "060139440001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013944&Seq=001&Type=9"
-        },
-        {
-            "title": "060139440003.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013944&Seq=003&Type=8"
-        },
-        {
-            "title": "060139440002.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013944&Seq=002&Type=8"
-        },
-        {
-            "title": "060139440001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013944&Seq=001&Type=8"
+            "title": "06013944(95.3.7)-109.11.25-109-11-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013944&Seq=004&Type=8"
         }
     ]
 }

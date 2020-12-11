@@ -1,7 +1,7 @@
 {
     "code": "02021830",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021830",
-    "time": "2020-08-28 11:26:46",
+    "time": "2020-12-11 03:10:16",
     "許可證字號": "衛署藥輸字第021830號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -29,7 +29,7 @@
     "主成分略述": "AZITHROMYCIN DIHYDRATE, AZITHROMYCIN (AS DIHYDRATE)",
     "限制項目": "02輸　入",
     "申請商名稱": "1504401100  輝瑞大藥廠股份有限公司",
-    "申請商地址": "台北市信義路松仁路100號42、43樓",
+    "申請商地址": "台北市信義區松仁路100號42、43樓",
     "主製造廠": [
         {
             "製造廠名稱": "FIT0204000  HAUPT PHARMA LATINA S.R.L",
@@ -50,7 +50,24 @@
     ],
     "CCC號列": "30042000612 人用醫藥製劑，含巨環類抗生素者Medicaments, containing macrolides, for human use",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812500420",
+            "成分名稱": "AZITHROMYCIN DIHYDRATE",
+            "含量描述": "",
+            "含量": "50.0800000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812590410",
+            "成分名稱": "AZITHROMYCIN (AS DIHYDRATE)",
+            "含量描述": "209.5",
+            "含量": "209.5000000000",
+            "單位": "MG"
+        }
+    ],
     "藥物辨識詳細資料": {
         "外觀尺寸": "",
         "特殊劑型": "",
@@ -65,16 +82,6 @@
         {
             "title": "Zithromax POS_MA no. 021830實體外觀-104-09-18(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021830&Seq=001&Type=10"
-        }
-    ],
-    "仿單外盒": [
-        {
-            "title": "Zithromax POS (azithromycin) LLD Italy 20181016-5_rFinal to TFDA-109-03-09.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021830&Seq=007&Type=9"
-        },
-        {
-            "title": "LAB-020218300001-105-06-21.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021830&Seq=003&Type=8"
         }
     ]
 }

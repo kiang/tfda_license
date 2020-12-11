@@ -1,7 +1,7 @@
 {
     "code": "02019086",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019086",
-    "time": "2020-08-28 11:20:16",
+    "time": "2020-12-11 03:09:41",
     "許可證字號": "衛署藥輸字第019086號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -29,7 +29,7 @@
     "主成分略述": "Sultamicillin tosilate hydrate",
     "限制項目": "02輸　入",
     "申請商名稱": "1504401100  輝瑞大藥廠股份有限公司",
-    "申請商地址": "台北市信義路松仁路100號42、43樓",
+    "申請商地址": "台北市信義區松仁路100號42、43樓",
     "主製造廠": [
         {
             "製造廠名稱": "FJP0248000  Pfizer Global Supply Japan Inc.",
@@ -41,9 +41,32 @@
     ],
     "CCC號列": "30041010104 人用醫藥製劑，含青黴素類或具有青黴素酸結構之衍生物者Medicaments, containing penicillins or derivatives thereof,with a penicillanic acid structure, for human use",
     "藥理治療分類": "",
-    "ingredients": [],
-    "藥物辨識詳細資料": [],
-    "藥物辨識外觀圖片": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812602930",
+            "成分名稱": "Sultamicillin tosilate hydrate",
+            "含量描述": "(Potency 375MG)",
+            "含量": "520.8000000000",
+            "單位": "MG"
+        }
+    ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "白色錠劑, 上面刻有PTU 02",
+        "特殊劑型": "",
+        "顏色": "白色",
+        "特殊氣味": "無",
+        "刻痕": "無",
+        "形狀": "橢圓形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Unasyn Tab MA no.019086_實體外觀pdf-104-09-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019086&Seq=425&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "LLD Unasyn Tab 375mg Japan 20180918-2-108-11-08.pdf",
