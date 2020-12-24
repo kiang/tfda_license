@@ -1,7 +1,7 @@
 {
     "code": "72000016",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=72000016",
-    "time": "2020-12-18 05:06:12",
+    "time": "2020-12-25 05:08:07",
     "許可證字號": "衛部罕菌疫輸字第000016號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -78,7 +78,16 @@
     ],
     "CCC號列": "30021500005 免疫產品，具有劑量或零售包裝式樣者Immunological products, put up in measured doses or in forms or packings for retail sale",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200082500",
+            "成分名稱": "Eculizumab",
+            "含量描述": "",
+            "含量": "10.0000000000",
+            "單位": "MG"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "SOL TW leaflet-TW04_700992_P5 (20DEC)-108-05-06.pdf",
