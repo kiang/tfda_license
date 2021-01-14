@@ -1,7 +1,7 @@
 {
     "code": "02025317",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025317",
-    "time": "2020-11-27 12:59:35",
+    "time": "2021-01-15 03:07:48",
     "許可證字號": "衛署藥輸字第025317號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -50,7 +50,16 @@
     ],
     "CCC號列": "30049071005 抗癌藥Anti-cancer preparations",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "1013001920",
+            "成分名稱": "NILOTINIB HYDROCHLORIDE MONOHYDRATE",
+            "含量描述": "(as nilotinib 150mg)",
+            "含量": "165.4500000000",
+            "單位": "MG"
+        }
+    ],
     "藥物辨識詳細資料": {
         "外觀尺寸": "",
         "特殊劑型": "",
@@ -69,8 +78,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "Tasigna 150, 200mg_TWI-171219_C-108-12-31.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025317&Seq=018&Type=9"
+            "title": "Tasigna 150mg & 200mg_TWI-310520_C 仿單擬稿-109-12-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025317&Seq=019&Type=9"
         },
         {
             "title": "Tasigna 150mg_FB_Outer box-109-05-07(廠商自行上傳).pdf",

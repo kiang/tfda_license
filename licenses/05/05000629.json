@@ -1,7 +1,7 @@
 {
     "code": "05000629",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05000629",
-    "time": "2020-11-27 10:44:28",
+    "time": "2021-01-15 03:13:06",
     "許可證字號": "衛署醫器製字第000629號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,7 +16,7 @@
     "中文品名": "視強沖洗液",
     "英文品名": "&quot;TAI YU&quot;  SILGEN RINSING SOLUTION",
     "效能": "",
-    "醫器規格": "１００ＭＬ以下、１２０ＭＬ　２５０ＭＬ，３６０ＭＬ，５００ＭＬ以下空白。賦形劑:\r\nEach ml contains:\r\nWater for Injection add to (make)   1ml\r\nSodium Borate (Decahydrate)      0.142mg\r\nHydroxypropylmethylcellulose     3.0mg。變更規格：詳如中文仿單核定本。原99年3月1日標籤仿單核定本回收作廢。",
+    "醫器規格": "１００ＭＬ以下、１２０ＭＬ　２５０ＭＬ，３６０ＭＬ，５００ＭＬ以下空白。賦形劑:\r\nEach ml contains:\r\nWater for Injection add to (make)   1ml\r\nSodium Borate (Decahydrate)      0.142mg\r\nHydroxypropylmethylcellulose     3.0mg。變更規格：詳如中文仿單核定本。原99年3月1日標籤仿單核定本回收作廢。標籤變更為：詳如中文仿單核定本(原89年7月3日及104年5月6日仿單標籤核定本正本予以收回作廢)。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -45,19 +45,40 @@
         }
     ],
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "4012002100",
+            "成分名稱": "SODIUM CHLORIDE",
+            "含量描述": "",
+            "含量": "9.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "6400000310",
+            "成分名稱": "EDETATE DISODIUM (EQ TO DISODIUM EDETATE)( EQ TO E.D.T.A. DISODIUM) (EQ TO EDTA -2NA)",
+            "含量描述": "",
+            "含量": "0.2500000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900043810",
+            "成分名稱": "POLYAMINOPROPYL BIGUANIDE",
+            "含量描述": "",
+            "含量": "0.0005000000",
+            "單位": "MG"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "台裕視強沖洗液仿單-105-08-04(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000629&Seq=003&Type=9"
+            "title": "050006290001-109-12-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000629&Seq=004&Type=9"
         },
         {
-            "title": "050006290001-104-05-07.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000629&Seq=002&Type=9"
-        },
-        {
-            "title": "050006290001-104-05-07.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000629&Seq=001&Type=8"
+            "title": "050006290002-109-12-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05000629&Seq=002&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "06024777",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024777",
-    "time": "2020-05-29 05:25:31",
+    "time": "2021-01-15 03:22:56",
     "許可證字號": "衛署醫器輸字第024777號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -41,7 +41,16 @@
             "製造廠廠址": "Hans-Theisen-Str. 1, 79331 Teningen\/Baden, Germany",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
-            "製程": ""
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS5670100  Integra LifeSciences Production Corporation",
+            "製造廠廠址": "11 Cabot Blvd. Mansfield MA 02048 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
         }
     ],
     "藥理治療分類": "",

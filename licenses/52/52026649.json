@@ -1,13 +1,13 @@
 {
     "code": "52026649",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026649",
-    "time": "2020-02-26 06:28:51",
+    "time": "2021-01-15 03:52:08",
     "許可證字號": "衛部藥輸字第026649號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
-    "有效日期": "110\/02\/19",
+    "有效日期": "115\/02\/19",
     "發證日期": "105\/02\/19",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -60,10 +60,34 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "RAC BAGv1-109-05-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026649&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
+        {
+            "title": "Rapiacta PIv3 2019.9.18-109-05-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026649&Seq=004&Type=9"
+        },
         {
             "title": "RAC PIv3-108-09-11.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026649&Seq=003&Type=9"
+        },
+        {
+            "title": "RAC Boxv1-109-05-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026649&Seq=005&Type=8"
         },
         {
             "title": "Rapiacta soft notice-105-03-31.pdf",

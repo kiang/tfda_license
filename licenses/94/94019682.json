@@ -1,7 +1,7 @@
 {
     "code": "94019682",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94019682",
-    "time": "2020-02-26 12:36:47",
+    "time": "2021-01-15 03:37:19",
     "許可證字號": "衛部醫器輸壹字第019682號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,10 +38,19 @@
     "主製造廠": [
         {
             "製造廠名稱": "MUS5187000  VERSAH LLC",
-            "製造廠廠址": "2000 Spring Arbor Road, Suite D Jackson, Michigan 49203 USA",
+            "製造廠廠址": "1600 Executive Drive, Jackson, Michigan 49203 USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
             "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS5034100  VERSAH LLC",
+            "製造廠廠址": "2000 Spring Arbor Road, Suite D Jackson, Michigan 49203 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",

@@ -1,20 +1,20 @@
 {
     "code": "06007778",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06007778",
-    "time": "2020-02-25 17:28:59",
+    "time": "2021-01-15 03:16:12",
     "許可證字號": "衛署醫器輸字第007778號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可登錄編號": "QSD5406",
+    "製造許可登錄編號": "QSD12751",
     "有效日期": "110\/02\/28",
     "發證日期": "85\/02\/28",
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
     "通關簽審文件編號": "DHA00600777808",
-    "中文品名": "&quot;美的思&quot; 柯特曼霍金斯引流閥系統",
-    "英文品名": "CODMAN HAKIM VALVE SYSTEM &quot;MEDOS&quot;",
+    "中文品名": "&quot;柯特曼&quot; 霍金斯引流閥系統",
+    "英文品名": "&quot;Codman&quot;  Hakim Valve System",
     "效能": "",
     "醫器規格": "ＰＲＯＧＲＡＭＭＡＢＬＥ，　ＮＯＮＰＲＯ　ＧＲＡＭＭＡＢＬＥ，詳如中文仿單核定本。詳如中文仿單核定本。詳如中文仿單核定本。註銷規格：823050 & 823051。註銷規格：82-3130、82-3120、82-3121。註銷規格：82-3126，以下空白。",
     "劑型": "",
@@ -37,11 +37,20 @@
     "申請商地址": "新北市新店區安祥路147巷53號4樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MCH0045000  MEDOS SARL",
-            "製造廠廠址": "RUE GIRARDET 29, CASE POSTALE 128, CH-2400 LE LOCLE, SWITZERLAND",
+            "製造廠名稱": "MCH0318000  Integra LifeSciences Switzerland Sarl",
+            "製造廠廠址": "Rue Girardet 29 Second Floor Le Locle, Neuchatel, SWITZERLAND Ch-2400",
             "製造廠公司地址": "",
             "製造廠國別": "SWITZERLAND",
             "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS5670100  Integra LifeSciences Production Corporation",
+            "製造廠廠址": "11 Cabot Blvd. Mansfield MA 02048 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",

@@ -1,7 +1,7 @@
 {
     "code": "06023204",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023204",
-    "time": "2020-02-25 20:28:44",
+    "time": "2021-01-15 03:22:41",
     "許可證字號": "衛署醫器輸字第023204號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,7 +16,7 @@
     "中文品名": "“亞培”快克\/小快克冠狀動脈氣球擴張導管",
     "英文品名": "“Abbott”TREK and MINI TREK OTW Coronary Dilatation Catheter",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "詳如中文仿單核定本",
+    "醫器規格": "註銷規格：1012401-06、1012401-08、1012401-12、1012401-15及1012401-20。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -37,23 +37,32 @@
     "申請商地址": "台北市中山區民生東路三段49號5樓、6樓及51號6樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MCR0014000  Abbott Vascular Costa Rica",
+            "製造廠名稱": "MCR0040000  Abbott Vascular",
             "製造廠廠址": "52 Calle 3, B31, Coyol Free Zone, EI Coyol, Alajuela, Costa Rica",
             "製造廠公司地址": "",
             "製造廠國別": "COSTA RICA",
             "製程": ""
         }
     ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS4316000  Abbott Vascular",
+            "製造廠廠址": "3200 Lakeside Drive, Santa Clara, CA 95054, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060232040001___20120418.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023204&Seq=001&Type=9"
+            "title": "060232040001-109-12-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023204&Seq=002&Type=9"
         },
         {
-            "title": "060232040002___20120418.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023204&Seq=001&Type=8"
+            "title": "060232040001-109-12-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023204&Seq=002&Type=8"
         }
     ]
 }

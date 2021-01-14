@@ -1,7 +1,7 @@
 {
     "code": "01023606",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01023606",
-    "time": "2020-02-25 04:36:22",
+    "time": "2021-01-15 03:00:38",
     "許可證字號": "衛署藥製字第023606號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,7 +26,7 @@
     "管制藥品分類級別": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "HOMATROPINE METHYLBROMIDE, MAGNESIUM TRISILICATE, ALUMINUM MAGNESIUM HYDRATE",
+    "主成分略述": "HOMATROPINE METHYLBROMIDE, DRIED ALUMINUM HYDROXIDE GEL, MAGNESIUM TRISILICATE, ALUMINUM MAGNESIUM HYDRATE",
     "限制項目": "01國　產",
     "申請商名稱": "0510620200  生達化學製藥股份有限公司",
     "申請商地址": "台南市新營區土庫里土庫6之20號",
@@ -52,6 +52,14 @@
         },
         {
             "成分類別": "主成分",
+            "成分代碼": "5604000207",
+            "成分名稱": "DRIED ALUMINUM HYDROXIDE GEL",
+            "含量描述": "",
+            "含量": "49.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
             "成分代碼": "5604002700",
             "成分名稱": "MAGNESIUM TRISILICATE",
             "含量描述": "",
@@ -62,7 +70,7 @@
             "成分類別": "主成分",
             "成分代碼": "5604005100",
             "成分名稱": "ALUMINUM MAGNESIUM HYDRATE",
-            "含量描述": "",
+            "含量描述": "(POLYMAGAL)(MgO:Al2O3=1:1)",
             "含量": "400.0000000000",
             "單位": "MG"
         }

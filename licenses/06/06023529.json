@@ -1,7 +1,7 @@
 {
     "code": "06023529",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023529",
-    "time": "2020-02-25 20:32:17",
+    "time": "2021-01-15 03:22:42",
     "許可證字號": "衛署醫器輸字第023529號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -37,11 +37,20 @@
     "申請商地址": "台北市中山區民生東路三段49號5樓、6樓及51號6樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MCR0014000  Abbott Vascular Costa Rica",
+            "製造廠名稱": "MCR0040000  Abbott Vascular",
             "製造廠廠址": "52 Calle 3, B31, Coyol Free Zone, EI Coyol, Alajuela, Costa Rica",
             "製造廠公司地址": "",
             "製造廠國別": "COSTA RICA",
             "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS4316000  Abbott Vascular",
+            "製造廠廠址": "3200 Lakeside Drive, Santa Clara, CA 95054, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",
