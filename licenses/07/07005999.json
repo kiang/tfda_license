@@ -1,7 +1,7 @@
 {
     "code": "07005999",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07005999",
-    "time": "2021-01-22 06:17:27",
+    "time": "2021-01-29 06:15:20",
     "許可證字號": "衛署粧製字第005999號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,7 +26,7 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "HYDROGEN PEROXIDE (35%), M-AMINOPHENOL SULFATE, O-AMINOPHENOL, TOLUENE-2,5-DIAMINE SULFATE, 2,4-DIAMINOPHENOL HYDROCHLORIDE",
+    "主成分略述": "HYDROGEN PEROXIDE (35%), m-Aminophenol, TOLUENE-2,5-DIAMINE SULFATE, 2,4-DIAMINOPHENOL HYDROCHLORIDE",
     "限制項目": "01國　產",
     "申請商名稱": "5841050052  南邑化學有限公司",
     "申請商地址": "台南市佳里區子龍里子良廟160號",
@@ -43,18 +43,10 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035430",
-            "成分名稱": "M-AMINOPHENOL SULFATE",
+            "成分代碼": "9200035470",
+            "成分名稱": "m-Aminophenol",
             "含量描述": "",
-            "含量": "0.2000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200035460",
-            "成分名稱": "O-AMINOPHENOL",
-            "含量描述": "",
-            "含量": "0.5000000000",
+            "含量": "0.4000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -84,8 +76,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "07005999-105-06-21.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005999&Seq=001&Type=8"
+            "title": "07005999-110-01-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005999&Seq=002&Type=8"
         }
     ]
 }
