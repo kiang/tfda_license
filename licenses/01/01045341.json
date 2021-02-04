@@ -1,7 +1,7 @@
 {
     "code": "01045341",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01045341",
-    "time": "2020-02-25 07:01:57",
+    "time": "2021-02-05 03:00:58",
     "許可證字號": "衛署藥製字第045341號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,7 +26,7 @@
     "管制藥品分類級別": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "BETAMETHASONE (AS DIPROPIONATE)",
+    "主成分略述": "BETAMETHASONE (AS DIPROPIONATE), WATER PURIFIED ( EQ TO AQUEOUS PURIFIED OR PURIFIED WATER )",
     "限制項目": "01國　產",
     "申請商名稱": "0900822200  美西製藥有限公司",
     "申請商地址": "高雄市仁武區仁武里工業一路９號",
@@ -42,6 +42,30 @@
     "CCC號列": "30043200002 其他醫藥製劑，含有腎上腺皮質類固醇荷爾蒙及其衍生物或結構式類似者Other medicaments, containing corticosteroid hormones, their derivatives or structural analogues",
     "藥理治療分類": "",
     "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "6804009220",
+            "成分名稱": "BETAMETHASONE (AS DIPROPIONATE)",
+            "含量描述": "",
+            "含量": "0.5000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "6804009220",
+            "成分名稱": "BETAMETHASONE (AS DIPROPIONATE)",
+            "含量描述": "",
+            "含量": "0.5000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9604001100",
+            "成分名稱": "WATER PURIFIED ( EQ TO AQUEOUS PURIFIED OR PURIFIED WATER )",
+            "含量描述": "",
+            "含量": "630.7250000000",
+            "單位": "MG"
+        },
         {
             "成分類別": "主成分",
             "成分代碼": "6804009220",
@@ -69,8 +93,48 @@
     ],
     "仿單外盒": [
         {
+            "title": "貝迪乳膏仿單-110-01-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045341&Seq=005&Type=9"
+        },
+        {
             "title": "貝迪乳膏1000'S(1123)-1-107-05-16(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045341&Seq=004&Type=9"
+        },
+        {
+            "title": "貝迪乳膏鋁管-清涼-110-01-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045341&Seq=009&Type=8"
+        },
+        {
+            "title": "貝迪乳膏標籤-清涼-110-01-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045341&Seq=008&Type=8"
+        },
+        {
+            "title": "貝迪乳膏外盒-清涼-110-01-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045341&Seq=007&Type=8"
+        },
+        {
+            "title": "貝迪乳膏鋁管-原味-110-01-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045341&Seq=006&Type=8"
+        },
+        {
+            "title": "貝迪乳膏標籤-原味-110-01-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045341&Seq=005&Type=8"
+        },
+        {
+            "title": "貝迪乳膏外盒-原味-110-01-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045341&Seq=004&Type=8"
+        },
+        {
+            "title": "貝迪乳膏鋁管-花香-110-01-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045341&Seq=003&Type=8"
+        },
+        {
+            "title": "貝迪乳膏標籤-花香-110-01-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045341&Seq=002&Type=8"
+        },
+        {
+            "title": "貝迪乳膏外盒-花香-110-01-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01045341&Seq=001&Type=8"
         }
     ]
 }

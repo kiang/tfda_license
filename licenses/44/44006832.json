@@ -1,7 +1,7 @@
 {
     "code": "44006832",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44006832",
-    "time": "2020-02-26 04:54:22",
+    "time": "2021-02-05 03:25:06",
     "許可證字號": "衛署醫器輸壹字第006832號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,8 +13,8 @@
     "舊證字號": "",
     "醫療器材級數": "第一等級",
     "通關簽審文件編號": "DHA04400683203",
-    "中文品名": "&quot;眼力健&quot; 人工水晶體植入導引器(滅菌)",
-    "英文品名": "&quot;AMO&quot; Unfolder Implantation Handpieces And Cartridges(sterile)",
+    "中文品名": "&quot;嬌生&quot; 人工水晶體植入導引器(滅菌)",
+    "英文品名": "&quot;Johnson &amp; Johnson&quot; Unfolder Implantation Handpieces And Cartridges(sterile)",
     "效能": "限醫療器材管理辦法「人工水晶體導引器(M.4300)」第一等級鑑別範圍。",
     "醫器規格": "",
     "劑型": "",
@@ -32,7 +32,7 @@
     "藥品分類": "",
     "監視期限": "",
     "主成分略述": "",
-    "限制項目": "02輸　入 36GMP",
+    "限制項目": "02輸　入 09委託製造 36GMP",
     "申請商名稱": "6231046876  香港商眼力健亞洲有限公司台灣分公司",
     "申請商地址": "台北市中山區民生東路3段2號10樓及11樓",
     "主製造廠": [
@@ -41,7 +41,16 @@
             "製造廠廠址": "ROAD 402 NORTH, ANASCO, PUERTO RICO 00610, U.S.A.",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
-            "製程": ""
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS5103100  Johnson &amp; Johnson Surgical Vision, Inc.",
+            "製造廠廠址": "1700 E. St. Andrew Place, Santa Ana, California 92705, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
         }
     ],
     "藥理治療分類": "",

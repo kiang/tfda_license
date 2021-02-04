@@ -1,7 +1,7 @@
 {
     "code": "60001117",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60001117",
-    "time": "2020-10-30 10:49:56",
+    "time": "2021-02-05 03:13:14",
     "許可證字號": "衛部菌疫輸字第001117號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -29,8 +29,15 @@
     "主成分略述": "BEVACIZUMAB",
     "限制項目": "02輸　入 1D須執行風險管理計畫 5E已執行國內臨床試驗 91生物相似性藥品",
     "申請商名稱": "620117N253  台灣安進藥品有限公司",
-    "申請商地址": "臺北市松山區民生東路三段133號5樓",
+    "申請商地址": "臺北市信義區松仁路100號13樓之1、之2",
     "主製造廠": [
+        {
+            "製造廠名稱": "FPR0034000  AMGEN MANUFACTURING,LIMITED",
+            "製造廠廠址": "STATE ROAD 31,KM 24.6 JUNCOS,PUERTO RICO 00777-4060",
+            "製造廠公司地址": "",
+            "製造廠國別": "PUERTO RICO",
+            "製程": ""
+        },
         {
             "製造廠名稱": "FUS0030300  Patheon Manufacturing Services LLC",
             "製造廠廠址": "5900 Martin Luther King Jr. Highway,Greenville,NC27834,USA",
@@ -41,15 +48,15 @@
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "FPR0034000  AMGEN MANUFACTURING,LIMITED",
-            "製造廠廠址": "STATE ROAD 31,KM 24.6 JUNCOS,PUERTO RICO 00777-4060",
-            "製造廠公司地址": "",
-            "製造廠國別": "PUERTO RICO",
-            "製程": "二級包裝廠"
-        },
-        {
             "製造廠名稱": "FUS0325000  AMGEN INC.",
             "製造廠廠址": "ONE AMGEN CENTER DRIVE THOUSAND OAKS CA 91320-1799 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "原料藥製造廠"
+        },
+        {
+            "製造廠名稱": "FUS0866000  IMMUNEX RHODE ISLAND CORPORATION",
+            "製造廠廠址": "40 TECHNOLOGY WAY, WEST GREENWICH RHODE ISLAND 02817, USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
             "製程": "原料藥製造廠"
@@ -89,8 +96,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "MVASI 中文仿單TWMVAPI02_Aug2020-109-08-20.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001117&Seq=002&Type=9"
+            "title": "MVASI 中文仿單TWMVAPI03_Jan 2021-110-01-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001117&Seq=003&Type=9"
+        },
+        {
+            "title": "MVASI 外盒_CRTN_100mg and 400mg_DP Patheon-110-01-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001117&Seq=006&Type=8"
+        },
+        {
+            "title": "MVASI 外盒_CRTN_100mg and 400mg_DP AML-110-01-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001117&Seq=005&Type=8"
         },
         {
             "title": "MVASI 標籤_MCK01769 ART LBL VI 400 mg-108-12-30.pdf",
@@ -99,14 +114,6 @@
         {
             "title": "MVASI 標籤_MCK01768 ART LBL VI 100 mg-108-12-30.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001117&Seq=003&Type=8"
-        },
-        {
-            "title": "MVASI 外盒_MCK01786 ART CRTN DP VI 400 mg-108-12-30.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001117&Seq=002&Type=8"
-        },
-        {
-            "title": "MVASI 外盒_MCK01785 ART CRTN DP VI 100 mg-108-12-30.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001117&Seq=001&Type=8"
         }
     ]
 }

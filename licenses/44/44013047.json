@@ -1,7 +1,7 @@
 {
     "code": "44013047",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44013047",
-    "time": "2020-02-26 05:50:44",
+    "time": "2021-02-05 03:25:48",
     "許可證字號": "衛署醫器輸壹字第013047號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -37,10 +37,19 @@
     "申請商地址": "台北市中山區民權東路3段2號10樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MUS3310100  ROCHE DIABETES CARE, INC.",
-            "製造廠廠址": "9115 HAGUE ROAD, INDIANAPOLIS, INDIANA 46250, USA",
+            "製造廠名稱": "MUS2388300  BIONOSTICS, INC",
+            "製造廠廠址": "7 JACKSON RD., DEVENS, MA 01434 U.S.A.",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MDE0838000  Roche Diabetes Care GmbH",
+            "製造廠廠址": "SANDHOFER STRASSE 116 D-68305 MANNHEIM, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
             "製程": ""
         }
     ],

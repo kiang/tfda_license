@@ -1,7 +1,7 @@
 {
     "code": "94021357",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94021357",
-    "time": "2020-04-24 05:01:38",
+    "time": "2021-02-05 03:38:55",
     "許可證字號": "衛部醫器輸壹字第021357號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -37,11 +37,20 @@
     "申請商地址": "新北市中和區板南路653號8樓及655號8樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MDE1661000  DR&#196;GERWERK AG &amp; CO. KGAA",
-            "製造廠廠址": "MOISLINGER ALLEE 53-55, D-23542 L&#220;BECK, GERMANY",
+            "製造廠名稱": "MDE1181000  Dragerwerk AG &amp; Co. KGaA",
+            "製造廠廠址": "Revalstra&#223;e 1, 23560 L&#252;beck, Germany",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
             "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MDE1723000  Dragerwerk AG &amp; Co. KGaA",
+            "製造廠廠址": "Moislinger Allee 53–55, D-23542 L&#252;beck, Germany",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",

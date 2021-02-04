@@ -1,7 +1,7 @@
 {
     "code": "52026842",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026842",
-    "time": "2020-11-27 10:32:58",
+    "time": "2021-02-05 03:11:03",
     "許可證字號": "衛部藥輸字第026842號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -50,7 +50,16 @@
     ],
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "1008200600",
+            "成分名稱": "Pomalidomide",
+            "含量描述": "Pomalidomide (CC-4047)",
+            "含量": "1.0000000000",
+            "單位": "MG"
+        }
+    ],
     "藥物辨識詳細資料": {
         "外觀尺寸": "14 x 6 (+\/-1) mm",
         "特殊劑型": "",
