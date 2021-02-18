@@ -1,7 +1,7 @@
 {
     "code": "10000938",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000938",
-    "time": "2021-02-12 03:08:15",
+    "time": "2021-02-19 03:08:20",
     "許可證字號": "衛署菌疫輸字第000938號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -32,8 +32,8 @@
     "申請商地址": "台北市信義區信義路五段7號台北101大樓之53至54樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FDE0267200  VETTER PHARMA-FERTIGUNG GMBH &amp; CO. KG",
-            "製造廠廠址": "SCHUTZENSTRASSE 87 AND 99-101, 88212 RAVENSBURG, GERMANY",
+            "製造廠名稱": "FDE0559000  VETTER PHARMA-FERTIGUNG GMBH &amp; CO. KG",
+            "製造廠廠址": "MOOSWIESEN 2, 88214 RAVENSBURG, GERMANY",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
             "製程": "充填"
@@ -41,18 +41,11 @@
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "CDE0046000  GP GRENZACH PRODUKTIONS GMBH",
-            "製造廠廠址": "EMIL-BARELL-STRASSE 7, 79639 GRENZACH-WYHLEN, GERMANY",
+            "製造廠名稱": "FDE9045000  BAYER AG",
+            "製造廠廠址": "MUELLERSTRASSE 178 13353 BERLIN GERMANY",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
-            "製程": "最終成品包裝廠\/滅菌廠"
-        },
-        {
-            "製造廠名稱": "FDE0559000  VETTER PHARMA-FERTIGUNG GMBH &amp; CO. KG",
-            "製造廠廠址": "MOOSWIESEN 2, 88214 RAVENSBURG, GERMANY",
-            "製造廠公司地址": "",
-            "製造廠國別": "GERMANY",
-            "製程": "鋁箔次包裝廠"
+            "製程": "二級包裝廠"
         },
         {
             "製造廠名稱": "FUS0332000  REGENERON PHARMACEUTICALS INC",
@@ -76,20 +69,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "衛署菌疫輸字第000938號「采視明注射液(預填針筒)」仿單(2)-108-11-27.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000938&Seq=009&Type=9"
+            "title": "衛署菌疫輸字第000938號「采視明注射液(預填針筒)」仿單.pdf-110-02-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000938&Seq=010&Type=9"
         },
         {
-            "title": "Eylea PFS_syringe label-106-11-21.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000938&Seq=003&Type=8"
+            "title": "Eylea PFS_syringe label-110-02-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000938&Seq=006&Type=8"
         },
         {
-            "title": "Eylea PFS_carton-106-11-21.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000938&Seq=002&Type=8"
+            "title": "Eylea PFS_Carton-110-02-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000938&Seq=005&Type=8"
         },
         {
-            "title": "Eylea PFS_blister-106-11-21.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000938&Seq=001&Type=8"
+            "title": "Eylea PFS_Blister-110-02-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000938&Seq=004&Type=8"
         }
     ]
 }
