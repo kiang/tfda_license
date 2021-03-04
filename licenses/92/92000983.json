@@ -1,12 +1,12 @@
 {
     "code": "92000983",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000983",
-    "time": "2020-12-25 05:36:53",
+    "time": "2021-03-05 03:36:27",
     "許可證字號": "衛部醫器陸輸字第000983號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可登錄編號": "QSD4511",
+    "製造許可登錄編號": "QSD3706",
     "有效日期": "113\/02\/23",
     "發證日期": "108\/02\/23",
     "許可證種類": "醫　器",
@@ -16,7 +16,7 @@
     "中文品名": "“歐姆龍”低週波治療器",
     "英文品名": "“OMRON” Electronic Nerve Stimulator",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "HV-F013",
+    "醫器規格": "HV-F013。適應症變更：詳如中文仿單核定本(原108年4月7日核准之仿單、標籤核定本予以回收作廢)，以上空白。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -37,32 +37,23 @@
     "申請商地址": "台北市松山區復興北路367號9樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MCN1109100  OMRON DALIAN CO., LTD.",
-            "製造廠廠址": "No.28, Dong Bei Er Street, Economic &amp; Technical Development Zone, Dalian 116600, China",
-            "製造廠公司地址": "",
-            "製造廠國別": "CHINA",
-            "製程": "Manufactured by"
-        }
-    ],
-    "次製造廠": [
-        {
-            "製造廠名稱": "MJP1034000  OMRON HEALTHCARE CO., LTD.",
-            "製造廠廠址": "53, KUNOTSUBO, TERADO-CHO, MUKO, KYOTO 617-0002, JAPAN",
+            "製造廠名稱": "MJP0850000  OMRON HEALTHCARE CO., LTD. MATSUSAKA FACTORY",
+            "製造廠廠址": "1855-370, KUBO-CHO, MATSUSAKA-CITY, MIE-PREFECTURE, 515-8503, JAPAN",
             "製造廠公司地址": "",
             "製造廠國別": "JAPAN",
-            "製程": "委託製造者"
+            "製程": ""
         }
     ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "920009830001-108-04-17.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000983&Seq=001&Type=9"
+            "title": "920009830001-110-02-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000983&Seq=002&Type=9"
         },
         {
-            "title": "920009830002-108-04-17.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000983&Seq=001&Type=8"
+            "title": "920009830001-110-02-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000983&Seq=002&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "02017808",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02017808",
-    "time": "2020-09-25 10:03:36",
+    "time": "2021-03-05 03:02:41",
     "許可證字號": "衛署藥輸字第017808號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,8 +28,8 @@
     "監視期限": "84\/07\/31",
     "主成分略述": "OMEPRAZOLE",
     "限制項目": "02輸　入",
-    "申請商名稱": "1434901100  臺灣阿斯特捷利康股份有限公司",
-    "申請商地址": "台北市大安區敦化南路二段207號21樓",
+    "申請商名稱": "1225201100  裕利股份有限公司",
+    "申請商地址": "台北市松山區南京東路四段126號10樓，10樓之1-3",
     "主製造廠": [
         {
             "製造廠名稱": "FSE0032000  ASTRAZENECA AB",
@@ -51,9 +51,27 @@
             "單位": "MG"
         }
     ],
-    "藥物辨識詳細資料": [],
-    "藥物辨識外觀圖片": [],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "濁紅\/淡紅",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "長圓柱形",
+        "標記一": "A,OM",
+        "標記二": "20"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "02017808.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017808&Seq=422&Type=10"
+        }
+    ],
     "仿單外盒": [
+        {
+            "title": "LEAFLET_LOSEC_20mg_TW_90003919_10_2_re-110-03-03(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017808&Seq=067&Type=9"
+        },
         {
             "title": "LOSEC 20mg Capsules - leaflet-109-07-22(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017808&Seq=066&Type=9"
@@ -65,6 +83,10 @@
         {
             "title": "017808-PS02868-Losec 20mg Capsule中文仿單-201308-104-09-16(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017808&Seq=064&Type=9"
+        },
+        {
+            "title": "CARTON_LOSEC_20mg_TW_90003918_10_1-110-03-03(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02017808&Seq=003&Type=8"
         },
         {
             "title": "LOSEC 20mg Capsules - carton-109-07-22(廠商自行上傳).pdf",

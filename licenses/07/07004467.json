@@ -1,7 +1,7 @@
 {
     "code": "07004467",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07004467",
-    "time": "2020-09-25 15:12:28",
+    "time": "2021-03-05 03:40:56",
     "許可證字號": "衛署粧製字第004467號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,7 +26,7 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "AMMONIA WATER (29%), HYDROGEN PEROXIDE (35%), RESORCINOL (RESORCIN), 1-NAPHTHOL, 5-AMINO-6-CHLORO-O-CRESOL, TOLUENE-2,5-DIAMINE SULFATE, N,N-BIS(2-HYDROXYETHYL)-P-PHENYLENEDIAMINE SULFATE, 1-HYDROXYETHYL 4,5-DIAMINO PYRAZOLE SULFATE",
+    "主成分略述": "AMMONIA WATER (28%), HYDROGEN PEROXIDE (35%), 5-AMINO-6-CHLORO-O-CRESOL, m-Aminophenol, TOLUENE-2,5-DIAMINE SULFATE, 1-HYDROXYETHYL 4,5-DIAMINO PYRAZOLE SULFATE",
     "限制項目": "01國　產",
     "申請商名稱": "5839040528  力美生化科技股份有限公司",
     "申請商地址": "雲林縣西螺鎮福田里社口路68之47號",
@@ -43,26 +43,10 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000127",
-            "成分名稱": "AMMONIA WATER (29%)",
+            "成分代碼": "2820000108",
+            "成分名稱": "AMMONIA WATER (28%)",
             "含量描述": "",
-            "含量": "2.0000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "8428000500",
-            "成分名稱": "RESORCINOL (RESORCIN)",
-            "含量描述": "",
-            "含量": "0.8000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "8436002204",
-            "成分名稱": "1-NAPHTHOL",
-            "含量描述": "",
-            "含量": "0.3500000000",
+            "含量": "0.3000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -70,7 +54,15 @@
             "成分代碼": "9200002650",
             "成分名稱": "5-AMINO-6-CHLORO-O-CRESOL",
             "含量描述": "",
-            "含量": "0.3000000000",
+            "含量": "0.4000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200035470",
+            "成分名稱": "m-Aminophenol",
+            "含量描述": "",
+            "含量": "0.6000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -78,15 +70,7 @@
             "成分代碼": "9900066200",
             "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
             "含量描述": "",
-            "含量": "0.3000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9900094300",
-            "成分名稱": "N,N-BIS(2-HYDROXYETHYL)-P-PHENYLENEDIAMINE SULFATE",
-            "含量描述": "",
-            "含量": "0.1000000000",
+            "含量": "0.6000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -94,7 +78,7 @@
             "成分代碼": "9900097210",
             "成分名稱": "1-HYDROXYETHYL 4,5-DIAMINO PYRAZOLE SULFATE",
             "含量描述": "",
-            "含量": "0.6000000000",
+            "含量": "0.5000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -104,6 +88,28 @@
             "含量描述": "",
             "含量": "21.5000000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "070044670003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004467&Seq=004&Type=9"
+        },
+        {
+            "title": "070044670002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004467&Seq=003&Type=9"
+        },
+        {
+            "title": "070044670001___20111207.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004467&Seq=002&Type=9"
+        },
+        {
+            "title": "070044670001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004467&Seq=001&Type=9"
+        },
+        {
+            "title": "07004467-110-02-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07004467&Seq=016&Type=8"
         }
     ]
 }

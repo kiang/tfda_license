@@ -1,7 +1,7 @@
 {
     "code": "07006016",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07006016",
-    "time": "2021-01-29 06:15:38",
+    "time": "2021-03-05 03:41:22",
     "許可證字號": "衛署粧製字第006016號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,7 +26,7 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "AMMONIUM HYDROXIDE 25%, RESORCINOL (RESORCIN), CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL), M-AMINOPHENOL SULFATE, P-AMINOPHENOL, P-PHENYLENEDIAMINE",
+    "主成分略述": "AMMONIUM HYDROXIDE 25%, RESORCINOL (RESORCIN), M-AMINOPHENOL SULFATE, P-AMINOPHENOL, 4-AMINO-2-HYDROXYTOLUENE, P-PHENYLENEDIAMINE",
     "限制項目": "01國　產",
     "申請商名稱": "0416922100  友立化工有限公司",
     "申請商地址": "高雄市梓官區梓信村信德街14號",
@@ -59,14 +59,6 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
-            "含量描述": "",
-            "含量": "0.0200000000",
-            "單位": "%(W\/V)"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "9200035430",
             "成分名稱": "M-AMINOPHENOL SULFATE",
             "含量描述": "",
@@ -83,6 +75,14 @@
         },
         {
             "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "0.0200000000",
+            "單位": "%(W\/V)"
+        },
+        {
+            "成分類別": "主成分",
             "成分代碼": "9400003200",
             "成分名稱": "P-PHENYLENEDIAMINE",
             "含量描述": "",
@@ -92,12 +92,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "070060160001-103-06-26.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006016&Seq=002&Type=8"
-        },
-        {
-            "title": "07006016___20120309.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006016&Seq=001&Type=8"
+            "title": "07006016-110-02-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006016&Seq=003&Type=8"
         }
     ]
 }
