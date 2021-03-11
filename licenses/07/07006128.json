@@ -1,7 +1,7 @@
 {
     "code": "07006128",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07006128",
-    "time": "2021-03-05 04:09:56",
+    "time": "2021-03-12 04:12:21",
     "許可證字號": "衛署粧製字第006128號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,7 +26,7 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "Ammonia solution (25%), RESORCINOL (RESORCIN), CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL), M-AMINOPHENOL SULFATE, P-AMINOPHENOL, P-PHENYLENEDIAMINE, 4,5-DIAMINO-1-(2 HYDROXYETHYL) PIRAZOLE SULFATE",
+    "主成分略述": "Ammonia solution (25%), RESORCINOL (RESORCIN), P-AMINOPHENOL, m-Aminophenol, 4-AMINO-2-HYDROXYTOLUENE, P-PHENYLENEDIAMINE, 4,5-diamino-1-(2-hydroxyethyl) Pyrazole Sulfate",
     "限制項目": "01國　產",
     "申請商名稱": "1508521200  瑩澤化工有限公司",
     "申請商地址": "高雄市小港區小港路６５號",
@@ -59,26 +59,26 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
+            "成分代碼": "9200035440",
+            "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
-            "含量": "0.1000000000",
+            "含量": "0.2000000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035430",
-            "成分名稱": "M-AMINOPHENOL SULFATE",
+            "成分代碼": "9200035470",
+            "成分名稱": "m-Aminophenol",
             "含量描述": "",
             "含量": "0.1500000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035440",
-            "成分名稱": "P-AMINOPHENOL",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
             "含量描述": "",
-            "含量": "0.2000000000",
+            "含量": "0.1000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -91,8 +91,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9901013700",
-            "成分名稱": "4,5-DIAMINO-1-(2 HYDROXYETHYL) PIRAZOLE SULFATE",
+            "成分代碼": "9900097250",
+            "成分名稱": "4,5-diamino-1-(2-hydroxyethyl) Pyrazole Sulfate",
             "含量描述": "",
             "含量": "0.1500000000",
             "單位": "%(W\/W)"
@@ -100,8 +100,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "07006128-105-08-12.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006128&Seq=001&Type=8"
+            "title": "07006128-110-03-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006128&Seq=002&Type=8"
         }
     ]
 }
