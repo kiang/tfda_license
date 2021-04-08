@@ -1,7 +1,7 @@
 {
     "code": "02026075",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02026075",
-    "time": "2020-02-25 13:46:12",
+    "time": "2021-04-09 03:15:16",
     "許可證字號": "衛署藥輸字第026075號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,8 +13,8 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00202607501",
-    "中文品名": "娩俐諾兒凍晶注射劑75國際單位",
-    "英文品名": "Merional 75 I.U.",
+    "中文品名": "利兒樂凍晶注射劑75國際單位",
+    "英文品名": "Meriofert 75 I.U.",
     "適應症": "由於親生殖腺素減少或缺乏時所引起的不排卵不孕症。",
     "劑型": "243凍晶注射劑",
     "包裝": "1毫升安瓿瓶裝 玻璃小瓶裝",
@@ -40,6 +40,13 @@
         }
     ],
     "次製造廠": [
+        {
+            "製造廠名稱": "FCH0331000  IBSA Institut Biochimique SA",
+            "製造廠廠址": "Via del Piano 6915 Pambio – Noranco Switzerland",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": "包裝"
+        },
         {
             "製造廠名稱": "FIT0469000  IBSA FARMACEUTICI ITALIA S.R.L.",
             "製造廠廠址": "VIA MARTRI DI CEFALONIA 2, 26900, LODI(LO) ITALY",
@@ -86,12 +93,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "+Merional 中文仿單(直)--104-09-21(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02026075&Seq=004&Type=9"
+            "title": "Meriofert 75 IU 仿單-110-03-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02026075&Seq=002&Type=9"
         },
         {
-            "title": "Merional 外盒照片 新-104-10-05(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02026075&Seq=003&Type=8"
+            "title": "Meriofert 75 IU 包裝外盒-110-03-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02026075&Seq=006&Type=8"
+        },
+        {
+            "title": "Meriofert 75 IU- sodium chloride solution 瓶籤 -110-03-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02026075&Seq=005&Type=8"
+        },
+        {
+            "title": "Meriofert 75 IU 仿單-110-03-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02026075&Seq=004&Type=8"
         }
     ]
 }

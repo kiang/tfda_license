@@ -1,7 +1,7 @@
 {
     "code": "51060560",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51060560",
-    "time": "2020-11-27 09:05:37",
+    "time": "2021-04-09 03:20:10",
     "許可證字號": "衛部藥製字第060560號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -29,7 +29,7 @@
     "主成分略述": "POTASSIUM CHLORIDE",
     "限制項目": "01國　產 62完成溶離率試驗",
     "申請商名稱": "620111D819  保瑞藥業股份有限公司",
-    "申請商地址": "台北市內湖區行愛路69號6樓",
+    "申請商地址": "台北市內湖區瑞光路26巷36弄2號6樓",
     "主製造廠": [
         {
             "製造廠名稱": "6135041160  益邦製藥股份有限公司",
@@ -41,7 +41,16 @@
     ],
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "4012001800",
+            "成分名稱": "POTASSIUM CHLORIDE",
+            "含量描述": "(equivalent to 10mEq Potassium Chloride)",
+            "含量": "750.0000000000",
+            "單位": "MG"
+        }
+    ],
     "藥物辨識詳細資料": {
         "外觀尺寸": "",
         "特殊劑型": "",
@@ -60,8 +69,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "KCL 仿單_cn_下標-109-12-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51060560&Seq=002&Type=9"
+        },
+        {
             "title": "KCL 仿單_cn_下標-109-10-27.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51060560&Seq=001&Type=9"
+        },
+        {
+            "title": "康是鉀KCL 10mEq 100ct-尺標圖-109-12-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51060560&Seq=004&Type=8"
+        },
+        {
+            "title": "KCL 10mEq 100ct-label_cn-109-12-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51060560&Seq=003&Type=8"
         },
         {
             "title": "KCL 10mEq 1000ct-label_cn-109-10-27.pdf",

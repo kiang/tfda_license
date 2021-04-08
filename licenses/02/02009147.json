@@ -1,7 +1,7 @@
 {
     "code": "02009147",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02009147",
-    "time": "2020-04-24 05:13:22",
+    "time": "2021-04-09 03:11:21",
     "許可證字號": "衛署藥輸字第009147號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -61,16 +61,24 @@
         }
     ],
     "藥物辨識詳細資料": {
-        "外觀尺寸": "",
+        "外觀尺寸": "yellow tablet, biconvex, scored and branded IM 5",
         "特殊劑型": "",
-        "顏色": "",
+        "顏色": "淺黃色",
         "特殊氣味": "",
-        "刻痕": "",
-        "形狀": "",
-        "標記一": "",
+        "刻痕": "有",
+        "形狀": "圓凸形",
+        "標記一": "IM 5",
         "標記二": ""
     },
     "藥物辨識外觀圖片": [
+        {
+            "title": "IMURAN FCT 50 mg (APE)-110-01-29(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02009147&Seq=421&Type=10"
+        },
+        {
+            "title": "Imuran FCT 50mg_Foil_562669-109-07-01(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02009147&Seq=420&Type=10"
+        },
         {
             "title": "Imuran tab-106-07-14(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02009147&Seq=419&Type=10"
@@ -82,8 +90,16 @@
     ],
     "仿單外盒": [
         {
+            "title": "Imuran FCT 50mg_PIL_576546-109-07-01(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02009147&Seq=011&Type=9"
+        },
+        {
             "title": "中文仿單_Imuran tab_AZA-1905-01 CCDS v24-108-06-13.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02009147&Seq=010&Type=9"
+        },
+        {
+            "title": "Imuran FCT 50mg_CTN_547219-109-07-01(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02009147&Seq=001&Type=8"
         }
     ]
 }

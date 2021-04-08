@@ -1,7 +1,7 @@
 {
     "code": "01049129",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01049129",
-    "time": "2020-11-27 09:51:16",
+    "time": "2021-04-09 03:08:03",
     "許可證字號": "衛署藥製字第049129號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,7 +17,7 @@
     "英文品名": "Gentermay Cream",
     "適應症": "皮膚潰瘍、灼傷膿皰性發炎，細菌性皮膚感染之治療。",
     "劑型": "363乳膏劑",
-    "包裝": "100公克以下,450公克,1000公克塑膠瓶裝 100公克以下鋁軟管",
+    "包裝": "100公克以下鋁軟管 100公克以下,450公克,1000公克塑膠瓶裝 5公克積層鋁塑軟管裝",
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
@@ -41,7 +41,16 @@
     ],
     "CCC號列": "30042000113 人用醫藥製劑，含胺基配醣體類抗生素者（含鏈黴素或其衍生物；其鹽類者除外）Medicaments, containing aminoglycosides (excluding streptomycins or their derivatives; salts thereof), for human use",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812109310",
+            "成分名稱": "GENTAMICIN (AS SULFATE)",
+            "含量描述": "(Potency)",
+            "含量": "1.0000000000",
+            "單位": "MG"
+        }
+    ],
     "藥物辨識詳細資料": {
         "外觀尺寸": "",
         "特殊劑型": "",
@@ -60,8 +69,16 @@
     ],
     "仿單外盒": [
         {
+            "title": "甘得黴乳膏(衛署藥製049129號)_仿單-110-03-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049129&Seq=003&Type=9"
+        },
+        {
             "title": "甘得黴乳膏仿單-104-12-09(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049129&Seq=002&Type=9"
+        },
+        {
+            "title": "甘得黴乳膏(衛署藥製049129號)_外盒標籤-110-03-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049129&Seq=007&Type=8"
         },
         {
             "title": "甘得黴C1Kg標籤-104-12-09(廠商自行上傳).pdf",

@@ -1,12 +1,12 @@
 {
     "code": "56027424",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027424",
-    "time": "2020-05-29 05:35:22",
+    "time": "2021-04-09 03:43:00",
     "許可證字號": "衛部醫器輸字第027424號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可登錄編號": "QSD8139",
+    "製造許可登錄編號": "QSD12929",
     "有效日期": "114\/06\/12",
     "發證日期": "104\/06\/12",
     "許可證種類": "醫　器",
@@ -16,7 +16,7 @@
     "中文品名": "“尼德克”預載式人工水晶體注入系統",
     "英文品名": "“Nidek” Pre-loaded IOL Injection System",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "SZ-1\r\n以下空白",
+    "醫器規格": "SZ-1，以下空白。仿單及標籤變更為：詳如中文仿單標籤核定本(原104年6月25日仿單標籤核定本正本予以收回作廢)。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -37,23 +37,32 @@
     "申請商地址": "臺北市內湖區陽光街321巷18號5樓之1",
     "主製造廠": [
         {
-            "製造廠名稱": "MJP0953000  NIDEK CO., LTD. HIROISHI PLANT",
-            "製造廠廠址": "34-14, MAEHAMA, HIROISHI-CHO, GAMAGORI, AICHI 443-0038, JAPAN",
+            "製造廠名稱": "MJP6271000  NIDEK Co., Ltd., Hiroishi Plant 7th Building",
+            "製造廠廠址": "32 Higashihama, Hiroishi-cho, Gamagori, Aichi, 443-0038 Japan",
             "製造廠公司地址": "",
             "製造廠國別": "JAPAN",
-            "製程": ""
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MJP0279100  NIDEK Co,. Ltd., Hiroishi Plant",
+            "製造廠廠址": "34-14 Maehama, Hiroishi-cho, Gamagori, Aichi, 443-0038 Japan",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "委託製造者"
         }
     ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "560274240001-104-07-07.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027424&Seq=001&Type=9"
+            "title": "560274240001-110-03-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027424&Seq=002&Type=9"
         },
         {
-            "title": "560274240002-104-07-07.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027424&Seq=001&Type=8"
+            "title": "560274240002-110-03-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027424&Seq=002&Type=8"
         }
     ]
 }

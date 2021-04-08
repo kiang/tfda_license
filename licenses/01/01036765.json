@@ -1,7 +1,7 @@
 {
     "code": "01036765",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01036765",
-    "time": "2020-06-26 05:08:27",
+    "time": "2021-04-09 03:05:13",
     "許可證字號": "衛署藥製字第036765號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -73,6 +73,22 @@
             "含量描述": "",
             "含量": "10.0000000000",
             "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "6804000220",
+            "成分名稱": "BETAMETHASONE DIPROPIONATE",
+            "含量描述": "(eq to betamethasone base 0.5mg)",
+            "含量": "0.6400000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8404800400",
+            "成分名稱": "CLOTRIMAZOLE",
+            "含量描述": "",
+            "含量": "10.0000000000",
+            "單位": "MG"
         }
     ],
     "藥物辨識詳細資料": {
@@ -93,12 +109,44 @@
     ],
     "仿單外盒": [
         {
+            "title": "03-美西必治安乳膏標仿核定本-110-03-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036765&Seq=005&Type=9"
+        },
+        {
             "title": "美西必治安乳膏說明書-109-04-22.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036765&Seq=004&Type=9"
         },
         {
             "title": "O18D-美西必治安乳膏仿單-104-12-25(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036765&Seq=003&Type=9"
+        },
+        {
+            "title": "美西必治安乳膏鋁軟管-清涼-110-03-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036765&Seq=012&Type=8"
+        },
+        {
+            "title": "美西必治安乳膏鋁軟管-原味-110-03-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036765&Seq=011&Type=8"
+        },
+        {
+            "title": "美西必治安乳膏鋁軟管-花香-110-03-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036765&Seq=010&Type=8"
+        },
+        {
+            "title": "美西必治安乳膏外盒-清涼-110-03-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036765&Seq=009&Type=8"
+        },
+        {
+            "title": "美西必治安乳膏外盒-原味-110-03-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036765&Seq=008&Type=8"
+        },
+        {
+            "title": "美西必治安乳膏外盒-花香-110-03-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036765&Seq=007&Type=8"
+        },
+        {
+            "title": "美西必治安乳膏鋁管-薄荷味-109-08-19(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036765&Seq=006&Type=8"
         },
         {
             "title": "美西必治安乳膏鋁管-薄荷味-109-04-22.pdf",

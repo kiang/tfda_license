@@ -1,7 +1,7 @@
 {
     "code": "52027281",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52027281",
-    "time": "2021-01-29 05:01:47",
+    "time": "2021-04-09 03:22:03",
     "許可證字號": "衛部藥輸字第027281號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -37,6 +37,15 @@
             "製造廠公司地址": "",
             "製造廠國別": "JAPAN",
             "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "1406804300  臺灣東洋藥品工業股份有限公司中壢廠",
+            "製造廠廠址": "桃園市中壢區中華路一段８３８號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "分包裝廠"
         }
     ],
     "CCC號列": "",
@@ -81,24 +90,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "02. LONSURF package insert revised on 20191223_15mg&20mg_完稿版-108-12-24.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027281&Seq=002&Type=9"
+            "title": "朗斯弗膜衣錠15&20毫克_中文仿單-1100308-110-03-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027281&Seq=003&Type=9"
+        },
+        {
+            "title": "朗斯弗膜衣錠15毫克_鋁箔正面及背面 (5顆)-1100308-110-03-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027281&Seq=006&Type=8"
+        },
+        {
+            "title": "朗斯弗膜衣錠15毫克_外盒-1100308-110-03-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027281&Seq=005&Type=8"
         },
         {
             "title": "020272810003 鋁袋 (20顆裝)-107-01-16.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027281&Seq=004&Type=8"
-        },
-        {
-            "title": "020272810003 外盒 (20顆裝)-107-01-16.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027281&Seq=003&Type=8"
-        },
-        {
-            "title": "020272810002 鋁箔背面 (10顆裝)-107-01-16.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027281&Seq=002&Type=8"
-        },
-        {
-            "title": "020272810002 鋁箔正面 (10顆裝)-107-01-16.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027281&Seq=001&Type=8"
         }
     ]
 }

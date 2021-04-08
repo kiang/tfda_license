@@ -1,7 +1,7 @@
 {
     "code": "02012258",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02012258",
-    "time": "2020-02-25 10:06:15",
+    "time": "2021-04-09 03:11:22",
     "許可證字號": "衛署藥輸字第012258號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -39,6 +39,15 @@
             "製程": "製造、包裝"
         }
     ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "FHU0012000  XELLIA PHARMACEUTICALS LTD.",
+            "製造廠廠址": "SZALLAS UTCA 1-3. 1107 BUDAPEST HUNGARY",
+            "製造廠公司地址": "",
+            "製造廠國別": "HUNGARY",
+            "製程": ""
+        }
+    ],
     "CCC號列": "30042000916 人用醫藥製劑，含有其他抗生素者Medicaments, containing other antibiotics, for human use",
     "藥理治療分類": "",
     "ingredients": [
@@ -69,8 +78,16 @@
     ],
     "仿單外盒": [
         {
+            "title": "LEAFLET_FUNGIZONE_50_MG_TW_90002841_10_1_310139504-109-02-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02012258&Seq=008&Type=9"
+        },
+        {
             "title": "Fungizone Inj Insert (CCDS 02-Jun-2011)[CH-track]_add excipient(無框)_0828-107-08-30(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02012258&Seq=007&Type=9"
+        },
+        {
+            "title": "CARTON_FUNGIZONE_50_MG_TW_90002840_10_1_310941300-109-02-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02012258&Seq=004&Type=8"
         },
         {
             "title": "carton_clean-106-06-06(廠商自行上傳).pdf",

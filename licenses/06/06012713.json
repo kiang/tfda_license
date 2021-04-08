@@ -1,7 +1,7 @@
 {
     "code": "06012713",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06012713",
-    "time": "2020-08-28 12:19:59",
+    "time": "2021-04-09 03:28:00",
     "許可證字號": "衛署醫器輸字第012713號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,8 +13,8 @@
     "舊證字號": "",
     "醫療器材級數": "第二等級",
     "通關簽審文件編號": "DHA00601271300",
-    "中文品名": "&quot;柯惠&quot;肯特利心電圖電極片",
-    "英文品名": "&quot;COVIDIEN&quot; KENDALL ECG ELECTRODES",
+    "中文品名": "&quot;康德樂&quot;肯特利心電圖電極片",
+    "英文品名": "&quot;Cardinal Health&quot; Kendall ECG Electrodes",
     "效能": "詳如中文仿單核定本",
     "醫器規格": "詳如中文仿單核定本。註銷規格：31452405，以下空白。",
     "劑型": "",
@@ -37,11 +37,20 @@
     "申請商地址": "新北市新店區安祥路147巷53號4樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MUS3168000  COVIDIEN",
-            "製造廠廠址": "TWO LUDLOW PARK DRIVE CHICOPEE, MA 01022 USA",
+            "製造廠名稱": "MUS5790000  Cardinal Health",
+            "製造廠廠址": "Two Ludlow Park Drive Chicopee, MA 01022 USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
             "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS5295000  CARDINAL HEALTH 200 LLC",
+            "製造廠廠址": "3651 Birchwood Drive Waukegan, IL 60085 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",

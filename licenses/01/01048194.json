@@ -1,13 +1,13 @@
 {
     "code": "01048194",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01048194",
-    "time": "2020-02-25 07:19:35",
+    "time": "2021-04-09 04:02:59",
     "許可證字號": "衛署藥製字第048194號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
-    "有效日期": "110\/09\/01",
+    "有效日期": "115\/09\/01",
     "發證日期": "95\/09\/01",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -26,7 +26,7 @@
     "管制藥品分類級別": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "CHLORPHENIRAMINE MALEATE, EPHEDRA HERBA EXTRACT, ACETAMINOPHEN (EQ TO PARACETAMOL), ETHENZAMIDE (ETHOXYBENZAMIDE), CAFFEINE ANHYDROUS, NOSCAPINE, NOSCAPINE HCL, CINNAMOMI CORTEX, ZINGIBERIS RHIZOMA EXTRACT, PAEONIAE RADIX, PUERARIAE RADIX, ZIZYPHI FRUCTUS",
+    "主成分略述": "CHLORPHENIRAMINE MALEATE, EPHEDRA HERBA EXTRACT, ACETAMINOPHEN (EQ TO PARACETAMOL), ETHENZAMIDE (ETHOXYBENZAMIDE), CAFFEINE ANHYDROUS, NOSCAPINE HCL, CINNAMOMI CORTEX, GLYCYRRHIZAE RADIX, ZINGIBERIS RHIZOMA EXTRACT, PAEONIAE RADIX, PUERARIAE RADIX, ZIZYPHI FRUCTUS",
     "限制項目": "01國　產",
     "申請商名稱": "6103030017  井田國際醫藥廠股份有限公司",
     "申請商地址": "台中市大甲區幼獅路32號",
@@ -84,17 +84,9 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "4800002400",
-            "成分名稱": "NOSCAPINE",
-            "含量描述": "",
-            "含量": "2.6700000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "4800002410",
             "成分名稱": "NOSCAPINE HCL",
-            "含量描述": "",
+            "含量描述": "(eq. to NOSCAPINE 2.67MG)",
             "含量": "3.0200000000",
             "單位": "MG"
         },
@@ -104,6 +96,14 @@
             "成分名稱": "CINNAMOMI CORTEX",
             "含量描述": "",
             "含量": "28.3300000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200004415",
+            "成分名稱": "GLYCYRRHIZAE RADIX",
+            "含量描述": "",
+            "含量": "33.3300000000",
             "單位": "MG"
         },
         {

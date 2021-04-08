@@ -1,7 +1,7 @@
 {
     "code": "06010194",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010194",
-    "time": "2020-02-25 18:00:54",
+    "time": "2021-04-09 03:27:45",
     "許可證字號": "衛署醫器輸字第010194號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,7 +16,7 @@
     "中文品名": "&quot;美敦力&quot; 血液幫浦探頭",
     "英文品名": "&quot;MEDTRONIC&quot; BIO-PROBE DISPOSABLE INSERT",
     "效能": "",
-    "醫器規格": "DP-38, DP-38P以下空白。",
+    "醫器規格": "DP-38, DP-38P以下空白。\r\n標籤、中文仿單及規格(滅菌方式)變更：詳如中文仿單核定本(原92年2月7日核定之仿單標籤核定本收回作廢)。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -44,12 +44,25 @@
             "製程": ""
         }
     ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS3565200  Medtronic Inc.",
+            "製造廠廠址": "710 Medtronic Parkway, Minneapolis, MN 55432, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060101940001-092-02-07.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010194&Seq=001&Type=9"
+            "title": "060101940001-110-03-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010194&Seq=002&Type=9"
+        },
+        {
+            "title": "060101940001-110-03-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010194&Seq=001&Type=8"
         }
     ]
 }

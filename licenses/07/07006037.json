@@ -1,7 +1,7 @@
 {
     "code": "07006037",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07006037",
-    "time": "2021-01-29 06:16:08",
+    "time": "2021-04-09 03:52:58",
     "許可證字號": "衛署粧製字第006037號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,7 +26,7 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "25% AMMONIA SOLUTION ( EQ TO AMMONIA 25%), CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL), P-AMINOPHENOL, P-PHENYLENEDIAMINE",
+    "主成分略述": "25% AMMONIA SOLUTION ( EQ TO AMMONIA 25%), P-AMINOPHENOL, 4-AMINO-2-HYDROXYTOLUENE, P-PHENYLENEDIAMINE",
     "限制項目": "01國　產",
     "申請商名稱": "1508521200  瑩澤化工有限公司",
     "申請商地址": "高雄市小港區小港路６５號",
@@ -51,18 +51,18 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
-            "含量描述": "",
-            "含量": "0.5300000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "9200035440",
             "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
             "含量": "0.1900000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "0.5300000000",
             "單位": "%(W\/W)"
         },
         {
@@ -76,8 +76,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "07006037-105-06-21.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006037&Seq=001&Type=8"
+            "title": "07006037-110-03-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006037&Seq=002&Type=8"
         }
     ]
 }

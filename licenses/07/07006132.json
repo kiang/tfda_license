@@ -1,7 +1,7 @@
 {
     "code": "07006132",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07006132",
-    "time": "2021-04-02 04:10:19",
+    "time": "2021-04-09 06:10:39",
     "許可證字號": "衛署粧製字第006132號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,7 +26,7 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "Ammonia solution (25%), CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL), P-PHENYLENEDIAMINE, O-CHLORO-P-PHENYLENEDIAMINE SULFATE",
+    "主成分略述": "Ammonia solution (25%), P-PHENYLENEDIAMINE, O-CHLORO-P-PHENYLENEDIAMINE SULFATE",
     "限制項目": "01國　產",
     "申請商名稱": "1508521200  瑩澤化工有限公司",
     "申請商地址": "高雄市小港區小港路６５號",
@@ -43,18 +43,18 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000119",
-            "成分名稱": "Ammonia solution (25%)",
+            "成分代碼": "",
+            "成分名稱": "",
             "含量描述": "",
-            "含量": "6.7200000000",
+            "含量": "0.3300000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
+            "成分代碼": "2820000119",
+            "成分名稱": "Ammonia solution (25%)",
             "含量描述": "",
-            "含量": "0.3300000000",
+            "含量": "6.7200000000",
             "單位": "%(W\/W)"
         },
         {
@@ -76,8 +76,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "07006132-105-08-18.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006132&Seq=001&Type=8"
+            "title": "07006132-110-04-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07006132&Seq=002&Type=8"
         }
     ]
 }
