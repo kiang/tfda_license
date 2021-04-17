@@ -1,7 +1,7 @@
 {
     "code": "60000995",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60000995",
-    "time": "2021-04-09 06:03:06",
+    "time": "2021-04-17 12:02:24",
     "許可證字號": "衛部菌疫輸字第000995號",
     "註銷狀態": "已註銷",
     "註銷日期": "105\/11\/02",
@@ -50,24 +50,5 @@
     ],
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [
-        {
-            "成分類別": "主成分",
-            "成分代碼": "1220002600",
-            "成分名稱": "BOTULINUM TOXIN TYPE A",
-            "含量描述": "Clostridium Botulinum Neurotoxin Type A (150 kDa), free of complexing proteins......50 LD50 units",
-            "含量": "0.0000000000",
-            "單位": "U (UNIT)"
-        }
-    ],
-    "仿單外盒": [
-        {
-            "title": "000995仿單-105-04-01.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000995&Seq=001&Type=9"
-        },
-        {
-            "title": "000995標籤-105-04-01.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60000995&Seq=001&Type=8"
-        }
-    ]
+    "ingredients": []
 }
