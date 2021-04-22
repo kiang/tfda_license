@@ -1,7 +1,7 @@
 {
     "code": "06014504",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014504",
-    "time": "2021-04-16 08:14:27",
+    "time": "2021-04-23 03:29:19",
     "許可證字號": "衛署醫器輸字第014504號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,5 +45,23 @@
         }
     ],
     "藥理治療分類": "",
-    "ingredients": []
+    "ingredients": [],
+    "仿單外盒": [
+        {
+            "title": "060145040002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014504&Seq=002&Type=9"
+        },
+        {
+            "title": "060145040001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014504&Seq=001&Type=9"
+        },
+        {
+            "title": "060145040002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014504&Seq=002&Type=8"
+        },
+        {
+            "title": "060145040001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014504&Seq=001&Type=8"
+        }
+    ]
 }

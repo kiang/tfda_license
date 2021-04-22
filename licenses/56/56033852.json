@@ -1,7 +1,7 @@
 {
     "code": "56033852",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56033852",
-    "time": "2021-04-17 07:46:56",
+    "time": "2021-04-23 05:38:15",
     "許可證字號": "衛部醫器輸字第033852號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -45,5 +45,23 @@
         }
     ],
     "藥理治療分類": "",
-    "ingredients": []
+    "ingredients": [],
+    "仿單外盒": [
+        {
+            "title": "560338520001-110-03-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56033852&Seq=002&Type=9"
+        },
+        {
+            "title": "560338520001-109-09-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56033852&Seq=001&Type=9"
+        },
+        {
+            "title": "560338520001-110-03-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56033852&Seq=002&Type=8"
+        },
+        {
+            "title": "560338520002-109-09-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56033852&Seq=001&Type=8"
+        }
+    ]
 }

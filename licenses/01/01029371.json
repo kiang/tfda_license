@@ -1,7 +1,7 @@
 {
     "code": "01029371",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01029371",
-    "time": "2021-04-16 03:46:28",
+    "time": "2021-04-23 03:01:51",
     "許可證字號": "衛署藥製字第029371號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -41,7 +41,16 @@
     ],
     "CCC號列": "30042000514 人用醫藥製劑，含氯絲菌素或其衍生物者Medicaments, containing chloramphenicol or its derivatives, for human use",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812400200",
+            "成分名稱": "THIAMPHENICOL",
+            "含量描述": "",
+            "含量": "250.0000000000",
+            "單位": "MG"
+        }
+    ],
     "藥物辨識詳細資料": {
         "外觀尺寸": "",
         "特殊劑型": "",

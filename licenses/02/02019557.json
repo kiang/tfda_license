@@ -1,7 +1,7 @@
 {
     "code": "02019557",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019557",
-    "time": "2021-04-16 05:18:50",
+    "time": "2021-04-23 03:11:44",
     "許可證字號": "衛署藥輸字第019557號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -50,7 +50,40 @@
     ],
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [],
-    "藥物辨識詳細資料": [],
-    "藥物辨識外觀圖片": []
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8600109160",
+            "成分名稱": "THEOPHYLLINE (MONOHYDRATE)",
+            "含量描述": "(440MG)",
+            "含量": "400.0000000000",
+            "單位": "MG"
+        }
+    ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "白色膠囊狀的持續性藥效錠",
+        "特殊劑型": "",
+        "顏色": "白色",
+        "特殊氣味": "無",
+        "刻痕": "無",
+        "形狀": "長圓柱形",
+        "標記一": "UNIPHYLLIN",
+        "標記二": "U400 NAPP"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "tablet-104-09-22(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019557&Seq=425&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "020195570001-105-01-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019557&Seq=002&Type=9"
+        },
+        {
+            "title": "2016carton-105-02-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019557&Seq=001&Type=8"
+        }
+    ]
 }

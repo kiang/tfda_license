@@ -1,7 +1,7 @@
 {
     "code": "01023265",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01023265",
-    "time": "2021-04-16 03:31:11",
+    "time": "2021-04-23 03:01:27",
     "許可證字號": "衛署藥製字第023265號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -41,7 +41,16 @@
     ],
     "CCC號列": "30041010104 人用醫藥製劑，含青黴素類或具有青黴素酸結構之衍生物者Medicaments, containing penicillins or derivatives thereof,with a penicillanic acid structure, for human use",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812609210",
+            "成分名稱": "AMOXICILLIN (SODIUM)",
+            "含量描述": "(530.1MG) 500",
+            "含量": "",
+            "單位": "MG"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "023265_03 仿單_泛廣黴素注射劑500mg-103-04-28.pdf",

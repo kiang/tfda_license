@@ -1,7 +1,7 @@
 {
     "code": "01036519",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01036519",
-    "time": "2021-04-17 00:22:10",
+    "time": "2021-04-23 05:04:20",
     "許可證字號": "衛署藥製字第036519號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -41,5 +41,92 @@
     ],
     "CCC號列": "30049099101 抗過敏抗組織胺用藥Drugs for antihypersensitivity and antihistamine",
     "藥理治療分類": "",
-    "ingredients": []
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0400000810",
+            "成分名稱": "CHLORPHENIRAMINE MALEATE",
+            "含量描述": "",
+            "含量": "4.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8810000100",
+            "成分名稱": "BIOTIN",
+            "含量描述": "",
+            "含量": "0.2000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8810000300",
+            "成分名稱": "NIACINAMIDE (NICOTINAMIDE)",
+            "含量描述": "",
+            "含量": "10.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8810200400",
+            "成分名稱": "RIBOFLAVIN (VIT B2)",
+            "含量描述": "",
+            "含量": "7.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8810600300",
+            "成分名稱": "PYRIDOXINE HCL",
+            "含量描述": "",
+            "含量": "5.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8812300200",
+            "成分名稱": "PANTOTHENATE CALCIUM",
+            "含量描述": "",
+            "含量": "40.0000000000",
+            "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "賽華陀--樂敏安膠囊-仿單-110-02-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036519&Seq=004&Type=9"
+        },
+        {
+            "title": "010365190001-105-07-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036519&Seq=003&Type=9"
+        },
+        {
+            "title": "賽華陀--樂敏安膠囊100c-外盒-110-02-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036519&Seq=010&Type=8"
+        },
+        {
+            "title": "賽華陀--樂敏安膠囊55c-外盒-110-02-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036519&Seq=009&Type=8"
+        },
+        {
+            "title": "賽華陀--樂敏安膠囊22c-外盒-110-02-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036519&Seq=008&Type=8"
+        },
+        {
+            "title": "賽華陀--樂敏安膠囊-鋁箔-110-02-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036519&Seq=007&Type=8"
+        },
+        {
+            "title": "賽華陀--樂敏安膠囊-標籤-110-02-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036519&Seq=006&Type=8"
+        },
+        {
+            "title": "賽華陀--樂敏安膠囊-仿單-110-02-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036519&Seq=005&Type=8"
+        },
+        {
+            "title": "010365190004-105-07-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036519&Seq=004&Type=8"
+        }
+    ]
 }
