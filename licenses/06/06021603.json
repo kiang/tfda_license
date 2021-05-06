@@ -1,12 +1,12 @@
 {
     "code": "06021603",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021603",
-    "time": "2020-08-28 12:39:38",
+    "time": "2021-05-07 03:25:06",
     "許可證字號": "衛署醫器輸字第021603號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可登錄編號": "QSD2576",
+    "製造許可編號": "QSD2576",
     "有效日期": "114\/10\/27",
     "發證日期": "99\/10\/27",
     "許可證種類": "醫　器",
@@ -15,14 +15,14 @@
     "通關簽審文件編號": "DHA00602160307",
     "中文品名": "“愛德華”凸威壓力傳導器",
     "英文品名": "“Edwards” TruWave Disposable Pressure Transducer",
-    "效能": "詳如中文仿單核定本",
-    "醫器規格": "詳如中文仿單核定本\r\n註銷規格:PX600F、PX600F30、PX601、PX604、PX604I、PX200、PX212、PX284、PX3X3272、PX12N、PX24N、PX36N。\r\n註銷規格：PX1X2及PX2X3。",
+    "效能、用途或適應症": "詳如中文仿單核定本",
+    "醫器規格或型號": "詳如中文仿單核定本\r\n註銷規格:PX600F、PX600F30、PX601、PX604、PX604I、PX200、PX212、PX284、PX3X3272、PX12N、PX24N、PX36N。\r\n註銷規格：PX1X2及PX2X3。\r\n\r\n申請變更事項：仿單、標籤及規格變更，詳如中文仿單核定本（原99年11月11日核准之仿單標籤核定本收回作廢）。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": "",
+    "標籤、說明書或包裝加註": "",
     "醫器主類別一": "E心臟血管用裝置",
     "醫器次類別一": "E2870導管尖端壓力傳導器",
     "醫器主類別二": "",
@@ -33,14 +33,14 @@
     "監視期限": "",
     "主成分略述": "",
     "限制項目": "02輸　入 09委託製造",
-    "申請商名稱": "620118H319  台灣愛德華生命科學股份有限公司",
-    "申請商地址": "臺北市中山區民生東路三段2號9樓之1",
+    "醫療器材商名稱": "620118H319  台灣愛德華生命科學股份有限公司",
+    "醫療器材商地址": "臺北市中山區民生東路三段2號9樓之1",
     "主製造廠": [
         {
-            "製造廠名稱": "MDO0002000  EDWARDS LIFESCIENCES AG.",
-            "製造廠廠址": "PARQUE INDUSTRIAL ITABO, KM 18.5 CARR SANCHEZ, HAINA, SAN CRISTOBAL, DOMINICAN REPUBLIC",
-            "製造廠公司地址": "",
-            "製造廠國別": "DOMINICAN REPUBLIC",
+            "製造業者名稱": "MDO0002000  EDWARDS LIFESCIENCES AG.",
+            "製造業者地址": "PARQUE INDUSTRIAL ITABO, KM 18.5 CARR SANCHEZ, HAINA, SAN CRISTOBAL, DOMINICAN REPUBLIC",
+            "製造業者公司地址": "",
+            "製造業者國別": "DOMINICAN REPUBLIC",
             "製程": ""
         }
     ],
@@ -57,8 +57,12 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060216130001-107-06-28.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021603&Seq=003&Type=9"
+            "title": "060216030001-110-04-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021603&Seq=004&Type=9"
+        },
+        {
+            "title": "060216030001-110-04-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021603&Seq=002&Type=8"
         }
     ]
 }

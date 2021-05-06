@@ -1,12 +1,12 @@
 {
     "code": "06023050",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023050",
-    "time": "2020-02-25 20:27:07",
+    "time": "2021-05-07 03:26:38",
     "許可證字號": "衛署醫器輸字第023050號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可登錄編號": "QSD5715",
+    "製造許可編號": "QSD5715",
     "有效日期": "110\/12\/07",
     "發證日期": "100\/12\/07",
     "許可證種類": "醫　器",
@@ -15,14 +15,14 @@
     "通關簽審文件編號": "DHA00602305002",
     "中文品名": "“賽玻尼斯”迷走神經刺激治療系統程控儀",
     "英文品名": "“Cyberonics” VNS Therapy System Programming",
-    "效能": "詳如中文仿單核定本",
-    "醫器規格": "Model 201、Model 250 Version 8.0以下空白。增加規格：Model 250 Version 11.0 – VNS Therapy Programming Software、Motion CL900 (FWS-001)，以下空白。",
+    "效能、用途或適應症": "詳如中文仿單核定本",
+    "醫器規格或型號": "Model 201、Model 250 Version 8.0以下空白。增加規格：Model 250 Version 11.0 – VNS Therapy Programming Software、Motion CL900 (FWS-001)，以下空白。註銷規格：詳如中文仿單核定本，以下空白。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": "",
+    "標籤、說明書或包裝加註": "",
     "醫器主類別一": "K神經學科用裝置",
     "醫器次類別一": "K5820植入式小腦刺激器",
     "醫器主類別二": "",
@@ -33,14 +33,14 @@
     "監視期限": "",
     "主成分略述": "",
     "限制項目": "02輸　入",
-    "申請商名稱": "623105A094  科舉顧問股份有限公司",
-    "申請商地址": "新北市新店區安祥路147巷53號4樓",
+    "醫療器材商名稱": "623105A094  科舉顧問股份有限公司",
+    "醫療器材商地址": "新北市新店區安祥路147巷53號4樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MUS2164000  LivaNova USA, Inc.",
-            "製造廠廠址": "100 CYBERONICS BLVD., HOUSTON, TEXAS 77058-2017 USA",
-            "製造廠公司地址": "",
-            "製造廠國別": "UNITED STATES",
+            "製造業者名稱": "MUS2164000  LivaNova USA, Inc.",
+            "製造業者地址": "100 CYBERONICS BLVD., HOUSTON, TEXAS 77058-2017 USA",
+            "製造業者公司地址": "",
+            "製造業者國別": "UNITED STATES",
             "製程": ""
         }
     ],
@@ -48,20 +48,20 @@
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "06023050-110.4.28-110-04-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023050&Seq=003&Type=9"
+        },
+        {
             "title": "06023050-106-04-10.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023050&Seq=002&Type=9"
         },
         {
-            "title": "060230500002___20111227.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023050&Seq=001&Type=9"
+            "title": "06023050-110.4.28-110-04-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023050&Seq=003&Type=8"
         },
         {
             "title": "06023050-106-04-10.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023050&Seq=002&Type=8"
-        },
-        {
-            "title": "060230500001___20111227.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023050&Seq=001&Type=8"
         }
     ]
 }

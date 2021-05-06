@@ -1,7 +1,7 @@
 {
     "code": "07003069",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07003069",
-    "time": "2020-02-25 21:17:03",
+    "time": "2021-05-07 03:40:17",
     "許可證字號": "衛署粧製字第003069號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,12 +9,12 @@
     "製造許可登錄編號": "",
     "有效日期": "111\/12\/21",
     "發證日期": "90\/12\/21",
-    "許可證種類": "含藥化粧品",
+    "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00700306900",
-    "中文品名": "美吾髮綺彩完美護髮染髮霜-神秘紫",
-    "英文品名": "MAYWUFA CONDITIONING HAIR COLOR-MYSTERIOUS PURPLE",
+    "中文品名": "美吾髮漢芳染護髮染髮霜6號 麥茶深棕 第一劑、第二劑。",
+    "英文品名": "Maywufa Oriental Herb Color Cream No. 6 Dark Brown (1)(2)。",
     "用途": "染髮。",
     "劑型": "944乳劑",
     "包裝": "500公撮以下鋁管裝 盒裝",
@@ -26,7 +26,7 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "HYDROGEN PEROXIDE, CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL), P-PHENYLENEDIAMINE, N,N-BIS(2-HYDROXYETHYL)-P-PHENYLENEDIAMINE SULFATTE, AMMONIA SOLUTION",
+    "主成分略述": "HYDROGEN PEROXIDE, RESORCINOL (RESORCIN), P-AMINOPHENOL, m-Aminophenol, TOLUENE-2,5-DIAMINE, 2-METHYL-5-HYDROXYETHYLAMINOPHENOL",
     "限制項目": "01國　產",
     "申請商名稱": "0931104200  美吾華股份有限公司",
     "申請商地址": "桃園市楊梅區幼獅工業區獅二路１０號",
@@ -43,49 +43,57 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
+            "成分代碼": "8428000500",
+            "成分名稱": "RESORCINOL (RESORCIN)",
             "含量描述": "",
-            "含量": "0.7200000000",
+            "含量": "0.6900000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9400003200",
-            "成分名稱": "P-PHENYLENEDIAMINE",
+            "成分代碼": "9200035440",
+            "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
-            "含量": "0.6000000000",
+            "含量": "0.8000000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "Z102100283",
-            "成分名稱": "N,N-BIS(2-HYDROXYETHYL)-P-PHENYLENEDIAMINE SULFATTE",
+            "成分代碼": "9200035470",
+            "成分名稱": "m-Aminophenol",
             "含量描述": "",
-            "含量": "0.2700000000",
+            "含量": "0.1700000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "Z102100348",
-            "成分名稱": "AMMONIA SOLUTION",
-            "含量描述": "(25%)",
-            "含量": "10.0000000000",
+            "成分代碼": "9400004300",
+            "成分名稱": "TOLUENE-2,5-DIAMINE",
+            "含量描述": "",
+            "含量": "1.7900000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900084700",
+            "成分名稱": "2-METHYL-5-HYDROXYETHYLAMINOPHENOL",
+            "含量描述": "",
+            "含量": "0.0600000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "5204900500",
             "成分名稱": "HYDROGEN PEROXIDE",
-            "含量描述": "(35%)",
-            "含量": "25.7100000000",
+            "含量描述": "",
+            "含量": "6.0000000000",
             "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
         {
-            "title": "07003069-105-11-29.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003069&Seq=001&Type=8"
+            "title": "07003069-110-04-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003069&Seq=002&Type=8"
         }
     ]
 }

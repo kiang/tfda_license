@@ -1,7 +1,7 @@
 {
     "code": "01028124",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01028124",
-    "time": "2020-06-26 06:06:00",
+    "time": "2021-05-07 03:01:13",
     "許可證字號": "衛署藥製字第028124號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -14,10 +14,10 @@
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00102812407",
     "中文品名": "止痛寧散",
-    "英文品名": "CHIH T&#39;UNG NING SAN &quot;P.K.P.&quot;",
+    "英文品名": "Chih T&#39;ung Ning San &quot;N.C.P.&quot;",
     "適應症": "緩解感冒之各種症狀（頭痛、肌肉痛、關節痛、鼻塞，流鼻水，打噴嚏，咽喉痛，發燒）",
     "劑型": "041粉劑",
-    "包裝": "每包1公克，12-1000包盒裝",
+    "包裝": "6-1000包，每包1公克鋁箔袋盒裝",
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
@@ -26,7 +26,7 @@
     "管制藥品分類級別": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "CHLORPHENIRAMINE MALEATE, ACETAMINOPHEN (EQ TO PARACETAMOL), SALICYLAMIDE, CAFFEINE ANHYDROUS, HYDROXYBUTYRIC ACID BETA- P-PHENETIDIDE (BUCETIN)",
+    "主成分略述": "CHLORPHENIRAMINE MALEATE, ACETAMINOPHEN (EQ TO PARACETAMOL), SALICYLAMIDE, CAFFEINE ANHYDROUS",
     "限制項目": "01國　產",
     "申請商名稱": "1302820200  新喜國際企業股份有限公司",
     "申請商地址": "台南市鹽水區孫厝里孫厝寮４之６號",
@@ -47,7 +47,7 @@
             "成分代碼": "0400000810",
             "成分名稱": "CHLORPHENIRAMINE MALEATE",
             "含量描述": "6",
-            "含量": "6.0000000000",
+            "含量": "",
             "單位": "MG"
         },
         {
@@ -55,7 +55,7 @@
             "成分代碼": "2808000100",
             "成分名稱": "ACETAMINOPHEN (EQ TO PARACETAMOL)",
             "含量描述": "150",
-            "含量": "150.0000000000",
+            "含量": "",
             "單位": "MG"
         },
         {
@@ -63,7 +63,7 @@
             "成分代碼": "2808601400",
             "成分名稱": "SALICYLAMIDE",
             "含量描述": "270",
-            "含量": "270.0000000000",
+            "含量": "",
             "單位": "MG"
         },
         {
@@ -71,22 +71,30 @@
             "成分代碼": "2820000450",
             "成分名稱": "CAFFEINE ANHYDROUS",
             "含量描述": "60",
-            "含量": "60.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "4040000412",
-            "成分名稱": "HYDROXYBUTYRIC ACID BETA- P-PHENETIDIDE (BUCETIN)",
-            "含量描述": "240",
-            "含量": "240.0000000000",
+            "含量": "",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
+            "title": "YP05 新喜止痛寧散說明書-110-04-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028124&Seq=003&Type=9"
+        },
+        {
             "title": "YP-05止痛寧散說明書(160608新)-105-08-31(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028124&Seq=002&Type=9"
+        },
+        {
+            "title": "止痛寧散鋁箔擬稿-110-04-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028124&Seq=003&Type=8"
+        },
+        {
+            "title": "止痛寧散標籤-110-04-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028124&Seq=002&Type=8"
+        },
+        {
+            "title": "YP05止痛寧散外盒202104 (002)-110-04-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01028124&Seq=001&Type=8"
         }
     ]
 }

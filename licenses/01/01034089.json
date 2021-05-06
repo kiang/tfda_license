@@ -1,13 +1,13 @@
 {
     "code": "01034089",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01034089",
-    "time": "2020-02-25 05:50:27",
+    "time": "2021-05-07 03:01:29",
     "許可證字號": "衛署藥製字第034089號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
-    "有效日期": "110\/06\/19",
+    "有效日期": "115\/06\/19",
     "發證日期": "80\/06\/19",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -26,7 +26,7 @@
     "管制藥品分類級別": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "TRIAMCINOLONE ACETONIDE, VITAMIN C (ASCORBIC ACID)",
+    "主成分略述": "TRIAMCINOLONE ACETONIDE",
     "限制項目": "01國　產",
     "申請商名稱": "1901510200  羅得化學製藥股份有限公司",
     "申請商地址": "台中市大甲區東西七路一段65號",
@@ -61,14 +61,6 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8816000101",
-            "成分名稱": "VITAMIN C (ASCORBIC ACID)",
-            "含量描述": "",
-            "含量": "2.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "6804001610",
             "成分名稱": "TRIAMCINOLONE ACETONIDE",
             "含量描述": "1",
@@ -77,26 +69,10 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8816000101",
-            "成分名稱": "VITAMIN C (ASCORBIC ACID)",
-            "含量描述": "",
-            "含量": "2.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "6804001610",
             "成分名稱": "TRIAMCINOLONE ACETONIDE",
             "含量描述": "1",
             "含量": "1.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "8816000101",
-            "成分名稱": "VITAMIN C (ASCORBIC ACID)",
-            "含量描述": "",
-            "含量": "2.0000000000",
             "單位": "MG"
         }
     ],
@@ -118,6 +94,10 @@
     ],
     "仿單外盒": [
         {
+            "title": "010340890001仿單-110-04-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034089&Seq=008&Type=9"
+        },
+        {
             "title": "010340890010仿單(檸檬)-106-11-20.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034089&Seq=007&Type=9"
         },
@@ -132,6 +112,46 @@
         {
             "title": "PO-03 愛口說明書-104-09-30(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034089&Seq=004&Type=9"
+        },
+        {
+            "title": "010340890011外盒(檸檬-羅孚)-110-04-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034089&Seq=033&Type=8"
+        },
+        {
+            "title": "010340890010鋁管(檸檬-羅孚)-110-04-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034089&Seq=032&Type=8"
+        },
+        {
+            "title": "010340890009標籤(檸檬)-110-04-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034089&Seq=031&Type=8"
+        },
+        {
+            "title": "010340890008鋁管(甜橘-羅得國際)-110-04-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034089&Seq=030&Type=8"
+        },
+        {
+            "title": "010340890007外盒(甜橘-羅得國際)-110-04-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034089&Seq=029&Type=8"
+        },
+        {
+            "title": "010340890006鋁管(甜橘-)-110-04-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034089&Seq=028&Type=8"
+        },
+        {
+            "title": "010340890005外盒(甜橘)-110-04-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034089&Seq=027&Type=8"
+        },
+        {
+            "title": "010340890004鋁管(原味)-110-04-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034089&Seq=026&Type=8"
+        },
+        {
+            "title": "010340890003外盒(原味)-110-04-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034089&Seq=020&Type=8"
+        },
+        {
+            "title": "010340890002標籤(原味)-110-04-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034089&Seq=019&Type=8"
         },
         {
             "title": "PO-38 愛口(甜橘)7g 軟管(羅得國際)-107-03-16(廠商自行上傳).pdf",
