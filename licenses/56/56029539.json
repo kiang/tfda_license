@@ -1,7 +1,7 @@
 {
     "code": "56029539",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029539",
-    "time": "2021-05-14 03:33:57",
+    "time": "2021-05-21 03:36:19",
     "許可證字號": "衛部醫器輸字第029539號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -37,10 +37,19 @@
     "醫療器材商地址": "臺北市中正區愛國東路22號9樓之1",
     "主製造廠": [
         {
-            "製造業者名稱": "MDK0031000  RADIOMETER MEDICAL ApS",
-            "製造業者地址": "AKANDEVEJ 21 DK-2700 BRONSHOJ DENMARK",
+            "製造業者名稱": "MFI0076000  RADIOMETER TURKU OY",
+            "製造業者地址": "BIOLINJA 12, FI-20750 TURKU, FINLAND",
             "製造業者公司地址": "",
-            "製造業者國別": "DENMARK",
+            "製造業者國別": "FINLAND",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MDK0031100  Radiometer Medical ApS",
+            "製造廠廠址": "&#197;kandevej 21, DK-2700 Br&#248;nsh&#248;j, Denmark",
+            "製造廠公司地址": "",
+            "製造廠國別": "DENMARK",
             "製程": ""
         }
     ],

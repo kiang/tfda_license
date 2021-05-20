@@ -1,7 +1,7 @@
 {
     "code": "56025498",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025498",
-    "time": "2021-05-14 03:30:53",
+    "time": "2021-05-21 03:33:17",
     "許可證字號": "衛部醫器輸字第025498號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -37,11 +37,20 @@
     "醫療器材商地址": "台北市內湖區瑞光路68號5樓",
     "主製造廠": [
         {
-            "製造業者名稱": "MDE0236300  KALTENBACH &amp; VOIGT GMBH",
-            "製造業者地址": "BAHNHOFSTR. 20 88447 WARTHAUSEN, GERMANY",
+            "製造業者名稱": "MDE1676000  KAVO DENTAL GMBH",
+            "製造業者地址": "Bahnhofstra&#223;e 20, 88447 Warthausen, Germany",
             "製造業者公司地址": "",
             "製造業者國別": "GERMANY",
             "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MDE1675000  KAVO DENTAL GMBH",
+            "製造廠廠址": "Bismarckring 39, 88400 Biberach, Germany",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",
