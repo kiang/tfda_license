@@ -1,7 +1,7 @@
 {
     "code": "08016792",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016792",
-    "time": "2020-02-26 00:50:20",
+    "time": "2021-06-11 03:40:16",
     "許可證字號": "衛署粧輸字第016792號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,7 +9,7 @@
     "製造許可登錄編號": "",
     "有效日期": "111\/12\/29",
     "發證日期": "98\/12\/29",
-    "許可證種類": "含藥化粧品",
+    "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHA00801679206",
@@ -26,14 +26,14 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "2-NITRO-P-PHENYLENEDIAMINE",
+    "主成分略述": "4-AMINO-2-HYDROXYTOLUENE, P-PHENYLENEDIAMINE",
     "限制項目": "02輸　入",
     "申請商名稱": "6301010057  千滋企業有限公司",
     "申請商地址": "台北市松山區敦化北路155巷103號",
     "主製造廠": [
         {
             "製造廠名稱": "CIN0012000  HENNA INDUSTRIES PVT. LTD.",
-            "製造廠廠址": "PLOT NO.45, SECTOR 27A, FARIDABAD 121003, HARYANA, INDIA",
+            "製造廠廠址": "Plot No.45, Sector 27A, Faridabad 121003, Haryana, India",
             "製造廠公司地址": "",
             "製造廠國別": "INDIA",
             "製程": ""
@@ -43,41 +43,25 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "9400003270",
-            "成分名稱": "2-NITRO-P-PHENYLENEDIAMINE",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
             "含量描述": "",
-            "含量": "6.5000000000",
-            "單位": "%"
+            "含量": "5.5000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9400003200",
+            "成分名稱": "P-PHENYLENEDIAMINE",
+            "含量描述": "",
+            "含量": "1.0000000000",
+            "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
         {
-            "title": "英文注意事項.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016792&Seq=003&Type=9"
-        },
-        {
-            "title": "仿單.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016792&Seq=002&Type=9"
-        },
-        {
-            "title": "中文注意事項.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016792&Seq=001&Type=9"
-        },
-        {
-            "title": "鋁箔包正面.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016792&Seq=004&Type=8"
-        },
-        {
-            "title": "鋁箔包反面.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016792&Seq=003&Type=8"
-        },
-        {
-            "title": "外盒正面.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016792&Seq=002&Type=8"
-        },
-        {
-            "title": "外盒反面.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016792&Seq=001&Type=8"
+            "title": "08016792-110-05-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08016792&Seq=005&Type=8"
         }
     ]
 }

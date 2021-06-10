@@ -1,7 +1,7 @@
 {
     "code": "07003068",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07003068",
-    "time": "2020-02-25 21:17:02",
+    "time": "2021-06-11 03:38:46",
     "許可證字號": "衛署粧製字第003068號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,12 +9,12 @@
     "製造許可登錄編號": "",
     "有效日期": "111\/12\/21",
     "發證日期": "90\/12\/21",
-    "許可證種類": "含藥化粧品",
+    "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00700306808",
-    "中文品名": "美吾髮綺彩完美護髮染髮霜-野性紅",
-    "英文品名": "MAYWUFA CONDITIONING HAIR COLOR-WILD RED",
+    "中文品名": "美吾髮漢芳染護髮染髮霜5號 栗子棕 第一劑、第二劑",
+    "英文品名": "Maywufa Oriental Herb Color Cream No.5 Brown (1)(2)",
     "用途": "染髮。",
     "劑型": "944乳劑",
     "包裝": "500公撮以下鋁管裝 盒裝",
@@ -26,7 +26,7 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "HYDROGEN PEROXIDE, NAPHTHOL 1- (EQ TO ALPHA-NAPHTHOL) (EQ TO 1-NAPHTHOL), CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL), 4-AMINO-M-CRESOL, AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL)",
+    "主成分略述": "HYDROGEN PEROXIDE, RESORCINOL (RESORCIN), P-AMINOPHENOL, m-Aminophenol, TOLUENE-2,5-DIAMINE, 2-METHYL-5-HYDROXYETHYLAMINOPHENOL",
     "限制項目": "01國　產",
     "申請商名稱": "0931104200  美吾華股份有限公司",
     "申請商地址": "桃園市楊梅區幼獅工業區獅二路１０號",
@@ -43,49 +43,57 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "8436002201",
-            "成分名稱": "NAPHTHOL 1- (EQ TO ALPHA-NAPHTHOL) (EQ TO 1-NAPHTHOL)",
+            "成分代碼": "8428000500",
+            "成分名稱": "RESORCINOL (RESORCIN)",
             "含量描述": "",
-            "含量": "0.2500000000",
+            "含量": "0.8000000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
+            "成分代碼": "9200035440",
+            "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
-            "含量": "1.3500000000",
+            "含量": "0.9000000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002632",
-            "成分名稱": "4-AMINO-M-CRESOL",
+            "成分代碼": "9200035470",
+            "成分名稱": "m-Aminophenol",
             "含量描述": "",
-            "含量": "0.6000000000",
+            "含量": "0.6700000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035401",
-            "成分名稱": "AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL)",
+            "成分代碼": "9400004300",
+            "成分名稱": "TOLUENE-2,5-DIAMINE",
             "含量描述": "",
-            "含量": "0.6000000000",
+            "含量": "0.9000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900084700",
+            "成分名稱": "2-METHYL-5-HYDROXYETHYLAMINOPHENOL",
+            "含量描述": "",
+            "含量": "0.1500000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "5204900500",
             "成分名稱": "HYDROGEN PEROXIDE",
-            "含量描述": "(35%)",
-            "含量": "25.7100000000",
+            "含量描述": "",
+            "含量": "6.0000000000",
             "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
         {
-            "title": "07003068-105-11-29.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003068&Seq=001&Type=8"
+            "title": "07003068-110-05-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003068&Seq=002&Type=8"
         }
     ]
 }

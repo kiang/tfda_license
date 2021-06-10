@@ -1,7 +1,7 @@
 {
     "code": "51060357",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51060357",
-    "time": "2020-11-27 10:19:04",
+    "time": "2021-06-11 03:16:52",
     "許可證字號": "衛部藥製字第060357號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -41,8 +41,33 @@
     ],
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2408005910",
+            "成分名稱": "OLMESARTAN MEDOXOMIL",
+            "含量描述": "",
+            "含量": "40.0000000000",
+            "單位": "MG"
+        }
+    ],
     "仿單外盒": [
+        {
+            "title": "510603570004標籤-優坦平40毫克-110-05-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51060357&Seq=005&Type=9"
+        },
+        {
+            "title": "510603570003鋁箔-優坦平40毫克-110-05-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51060357&Seq=004&Type=9"
+        },
+        {
+            "title": "510603570002外盒-優坦平40毫克-110-05-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51060357&Seq=003&Type=9"
+        },
+        {
+            "title": "510603570001仿單-優坦平40毫克-110-05-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51060357&Seq=002&Type=9"
+        },
         {
             "title": "010603570001-108-10-29.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51060357&Seq=001&Type=9"

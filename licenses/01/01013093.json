@@ -1,13 +1,13 @@
 {
     "code": "01013093",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01013093",
-    "time": "2020-09-25 09:03:06",
+    "time": "2021-06-11 03:45:27",
     "許可證字號": "衛署藥製字第013093號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
-    "有效日期": "110\/09\/30",
+    "有效日期": "115\/09\/30",
     "發證日期": "66\/08\/04",
     "許可證種類": "製　劑",
     "舊證字號": "",
@@ -41,5 +41,14 @@
     ],
     "CCC號列": "30041010104 人用醫藥製劑，含青黴素類或具有青黴素酸結構之衍生物者Medicaments, containing penicillins or derivatives thereof,with a penicillanic acid structure, for human use",
     "藥理治療分類": "",
-    "ingredients": []
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812609360",
+            "成分名稱": "AMPICILLIN (TRIHYDRATE)",
+            "含量描述": "(590MG) 500",
+            "含量": "",
+            "單位": "MG"
+        }
+    ]
 }

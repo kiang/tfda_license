@@ -1,7 +1,7 @@
 {
     "code": "01021058",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01021058",
-    "time": "2020-02-25 03:01:10",
+    "time": "2021-06-11 03:01:00",
     "許可證字號": "衛署藥製字第021058號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,7 +17,7 @@
     "英文品名": "CETONIN TABLETS &quot;N.C.P.&quot;",
     "適應症": "退燒、止痛（緩解頭痛、牙痛、咽喉痛、關節痛、神經痛、肌肉酸痛、月經痛）",
     "劑型": "110錠劑",
-    "包裝": "6粒鋁箔紙裝 100、500、1000粒瓶裝",
+    "包裝": "4-1000錠PE塑膠瓶裝PE塑膠瓶裝 4-1000錠PTP鋁箔盒裝PVC\/PVDC\/PTP鋁箔盒裝",
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
@@ -26,7 +26,7 @@
     "管制藥品分類級別": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "ETHENZAMIDE (ETHOXYBENZAMIDE), BRUCINE, CAFFEINE ANHYDROUS, THIAMINE MONONITRATE",
+    "主成分略述": "ETHENZAMIDE (ETHOXYBENZAMIDE), CAFFEINE ANHYDROUS, THIAMINE MONONITRATE",
     "限制項目": "01國　產 1G不得製造",
     "申請商名稱": "1302820200  新喜國際企業股份有限公司",
     "申請商地址": "台南市鹽水區孫厝里孫厝寮４之６號",
@@ -52,14 +52,6 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000300",
-            "成分名稱": "BRUCINE",
-            "含量描述": "130",
-            "含量": "130.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "2820000450",
             "成分名稱": "CAFFEINE ANHYDROUS",
             "含量描述": "20",
@@ -77,8 +69,24 @@
     ],
     "仿單外盒": [
         {
+            "title": "NT07 新喜休痛能錠說明書-110-05-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021058&Seq=003&Type=9"
+        },
+        {
             "title": "NT-07休痛能錠說明書(160601新)-105-08-15(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021058&Seq=002&Type=9"
+        },
+        {
+            "title": "NT07 休痛能錠外盒-110-05-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021058&Seq=003&Type=8"
+        },
+        {
+            "title": "休痛能錠標籤-110-05-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021058&Seq=002&Type=8"
+        },
+        {
+            "title": "休痛能鋁箔-110-05-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021058&Seq=001&Type=8"
         }
     ]
 }

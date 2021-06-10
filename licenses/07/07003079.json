@@ -1,7 +1,7 @@
 {
     "code": "07003079",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07003079",
-    "time": "2020-02-25 21:17:09",
+    "time": "2021-06-11 03:39:01",
     "許可證字號": "衛署粧製字第003079號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,12 +9,12 @@
     "製造許可登錄編號": "",
     "有效日期": "112\/01\/03",
     "發證日期": "91\/01\/03",
-    "許可證種類": "含藥化粧品",
+    "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00700307900",
-    "中文品名": "美吾髮綺彩完美護髮染髮霜－魅力紅",
-    "英文品名": "MAYWUFA CONDITIONING HAIR COLOR-ATTRACTIVE RED",
+    "中文品名": "美吾髮漢芳染護髮染髮霜68號 黑栗棕 第一劑、第二劑",
+    "英文品名": "Maywufa Oriental Herb Color Cream No. 68 Dark Ash Brown (1)(2)",
     "用途": "染髮。",
     "劑型": "944乳劑",
     "包裝": "500公撮以下鋁管裝 盒裝",
@@ -26,7 +26,7 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "HYDROGEN PEROXIDE, CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL), AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL), P-PHENYLENEDIAMINE, 2-AMINO-4-HYDROXYETHYLAMINOANISOLE SULFATE",
+    "主成分略述": "HYDROGEN PEROXIDE, RESORCINOL (RESORCIN), 5-AMINO-6-CHLORO-O-CRESOL, AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL), m-Aminophenol, TOLUENE-2,5-DIAMINE, 2-METHYL-5-HYDROXYETHYLAMINOPHENOL",
     "限制項目": "01國　產",
     "申請商名稱": "0931104200  美吾華股份有限公司",
     "申請商地址": "桃園市楊梅區幼獅工業區獅二路１０號",
@@ -43,10 +43,18 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
+            "成分代碼": "8428000500",
+            "成分名稱": "RESORCINOL (RESORCIN)",
             "含量描述": "",
-            "含量": "0.8400000000",
+            "含量": "0.8000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200002650",
+            "成分名稱": "5-AMINO-6-CHLORO-O-CRESOL",
+            "含量描述": "",
+            "含量": "0.5000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -54,31 +62,39 @@
             "成分代碼": "9200035401",
             "成分名稱": "AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL)",
             "含量描述": "",
-            "含量": "0.3000000000",
+            "含量": "0.9000000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9400003200",
-            "成分名稱": "P-PHENYLENEDIAMINE",
+            "成分代碼": "9200035470",
+            "成分名稱": "m-Aminophenol",
             "含量描述": "",
-            "含量": "0.2100000000",
+            "含量": "0.6700000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9900091410",
-            "成分名稱": "2-AMINO-4-HYDROXYETHYLAMINOANISOLE SULFATE",
+            "成分代碼": "9400004300",
+            "成分名稱": "TOLUENE-2,5-DIAMINE",
             "含量描述": "",
-            "含量": "0.1000000000",
+            "含量": "0.9000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900084700",
+            "成分名稱": "2-METHYL-5-HYDROXYETHYLAMINOPHENOL",
+            "含量描述": "",
+            "含量": "0.1500000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "5204900500",
             "成分名稱": "HYDROGEN PEROXIDE",
-            "含量描述": "(35%)",
-            "含量": "25.7100000000",
+            "含量描述": "",
+            "含量": "6.0000000000",
             "單位": "%(W\/W)"
         }
     ],
@@ -90,6 +106,10 @@
         {
             "title": "070030790001.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003079&Seq=001&Type=9"
+        },
+        {
+            "title": "07003079-110-05-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003079&Seq=001&Type=8"
         }
     ]
 }

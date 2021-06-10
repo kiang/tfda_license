@@ -1,7 +1,7 @@
 {
     "code": "02024499",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024499",
-    "time": "2020-09-25 10:11:34",
+    "time": "2021-06-11 03:11:02",
     "許可證字號": "衛署藥輸字第024499號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -46,18 +46,20 @@
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
             "製程": "包裝"
-        },
-        {
-            "製造廠名稱": "FCH0094000  NOVARTIS CONSUMER HEALTH SA",
-            "製造廠廠址": "ROUTE DE 1&#39;ETRAZ, 1260 NYON, SWITZERLAND",
-            "製造廠公司地址": "",
-            "製造廠國別": "SWITZERLAND",
-            "製程": "委託製造者"
         }
     ],
     "CCC號列": "21069096005 以合成甜味劑替代糖之糖食、口香糖及類似品Confectionery, gums and the like, containing synthetic sweetening agents instead of sugar",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200006000",
+            "成分名稱": "NICOTINE",
+            "含量描述": "",
+            "含量": "4.0000000000",
+            "單位": "MG"
+        }
+    ],
     "藥物辨識詳細資料": {
         "外觀尺寸": "1.1cm x 2cm",
         "特殊劑型": "",
