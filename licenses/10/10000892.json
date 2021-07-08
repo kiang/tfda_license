@@ -1,7 +1,7 @@
 {
     "code": "10000892",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000892",
-    "time": "2020-04-24 05:22:34",
+    "time": "2021-07-09 03:11:03",
     "許可證字號": "衛署菌疫輸字第000892號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -32,11 +32,11 @@
     "申請商地址": "台北市中正區忠孝西路一段66號23-24樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FBE0018000  GLAXOSMITHKLINE BIOLOGICALS S.A.",
-            "製造廠廠址": "89 RUE DE L&#39;INSTITUT 1330 RIXENSART, BELGIUM",
+            "製造廠名稱": "FBE0087000  GLAXOSMITHKLINE BIOLOGICALS S.A.",
+            "製造廠廠址": "PARC DE LA NOIRE EPINE, RUE FLEMING 20, B-1300 WAVRE, BELGIUM",
             "製造廠公司地址": "",
             "製造廠國別": "BELGIUM",
-            "製程": "口服給藥器包裝(Oral applicator)之充填廠及Final release廠"
+            "製程": "原料藥製造、調製廠、塑膠管包裝(tube)及口服給藥器包裝(Oral applicator)之充填廠、包裝廠"
         }
     ],
     "次製造廠": [
@@ -46,13 +46,6 @@
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
             "製程": "委託包裝廠(貼標)"
-        },
-        {
-            "製造廠名稱": "FBE0087000  GLAXOSMITHKLINE BIOLOGICALS S.A.",
-            "製造廠廠址": "PARC DE LA NOIRE EPINE, RUE FLEMING 20, B-1300 WAVRE, BELGIUM",
-            "製造廠公司地址": "",
-            "製造廠國別": "BELGIUM",
-            "製程": "原料藥製造、調製廠、塑膠管包裝(tube)及口服給藥器包裝(Oral applicator)之充填廠、包裝廠"
         }
     ],
     "CCC號列": "",
@@ -85,8 +78,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "Rotarix Liquid_IPI12_[CH]_依核定草本-108-11-07.pdf",
+            "title": "2017-10-14-tw-pi-Rotarix Liquid-GDS15IPI12-approval-110-06-10.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000892&Seq=011&Type=9"
+        },
+        {
+            "title": "Rotarix_OA_label-110-07-06(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000892&Seq=019&Type=8"
         },
         {
             "title": "02000892002-107-06-05(廠商自行上傳).pdf",

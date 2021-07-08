@@ -1,7 +1,7 @@
 {
     "code": "01046759",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01046759",
-    "time": "2020-02-25 07:09:07",
+    "time": "2021-07-09 03:01:16",
     "許可證字號": "衛署藥製字第046759號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -13,11 +13,11 @@
     "舊證字號": "",
     "醫療器材級數": "",
     "通關簽審文件編號": "DHY00104675900",
-    "中文品名": "永康緒糖衣錠",
-    "英文品名": "MOCALM S.C. TABLET",
+    "中文品名": "永康緒膜衣錠",
+    "英文品名": "MOCALM F.C. TABLET",
     "適應症": "焦慮症、憂鬱症。",
-    "劑型": "119糖衣錠",
-    "包裝": "4-1000粒塑膠瓶裝 4-1000粒鋁箔盒裝",
+    "劑型": "116膜衣錠",
+    "包裝": "4-1000粒PVC\/PVDC鋁箔盒裝 4-1000粒AL-AL鋁箔盒裝 4-1000粒塑膠瓶裝",
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
@@ -61,15 +61,19 @@
     ],
     "藥物辨識詳細資料": {
         "外觀尺寸": "",
-        "特殊劑型": "",
+        "特殊劑型": "裸錠",
         "顏色": "Pink",
         "特殊氣味": "",
         "刻痕": "無",
         "形狀": "圓凸形",
-        "標記一": "",
+        "標記一": "S on one side",
         "標記二": ""
     },
     "藥物辨識外觀圖片": [
+        {
+            "title": "外觀-110-06-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046759&Seq=002&Type=10"
+        },
         {
             "title": "M15-裸錠-104-09-29(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046759&Seq=001&Type=10"
@@ -77,8 +81,28 @@
     ],
     "仿單外盒": [
         {
+            "title": "永康緒膜衣錠-仿單-110-06-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046759&Seq=004&Type=9"
+        },
+        {
             "title": "M15-仿單-104-09-29(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046759&Seq=003&Type=9"
+        },
+        {
+            "title": "永康緒膜衣錠-鋁箔(修改版)-110-06-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046759&Seq=009&Type=8"
+        },
+        {
+            "title": "永康緒膜衣錠-鋁箔-110-06-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046759&Seq=008&Type=8"
+        },
+        {
+            "title": "永康緒膜衣錠-貼標-110-06-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046759&Seq=007&Type=8"
+        },
+        {
+            "title": "永康緒膜衣錠-仿單-110-06-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01046759&Seq=006&Type=8"
         },
         {
             "title": "M15永康緒046759貼標-107-12-03-107-12-03(廠商自行上傳).pdf",

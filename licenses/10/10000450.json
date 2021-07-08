@@ -1,7 +1,7 @@
 {
     "code": "10000450",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000450",
-    "time": "2021-05-28 05:00:32",
+    "time": "2021-07-09 03:10:44",
     "許可證字號": "衛署菌疫輸字第000450號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -32,8 +32,8 @@
     "申請商地址": "台北市中正區忠孝西路一段66號23-24樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FBE0018000  GLAXOSMITHKLINE BIOLOGICALS S.A.",
-            "製造廠廠址": "89 RUE DE L&#39;INSTITUT 1330 RIXENSART, BELGIUM",
+            "製造廠名稱": "FBE0018000  Corixa Corporation dba GlaxoSmithKline Vaccines",
+            "製造廠廠址": "325 North Bridge Street, Marietta, Pennsylvania 17547, USA",
             "製造廠公司地址": "",
             "製造廠國別": "BELGIUM",
             "製程": ""
@@ -62,13 +62,6 @@
             "製程": "原料藥製造、貼標和包裝製程"
         },
         {
-            "製造廠名稱": "FBE0092000  CRNA S.A.\/N.V.",
-            "製造廠廠址": "Zoning Industriel d’Heppignies Ouest, Avenue d’Heppignies, 6220 Fleurus, Belgium",
-            "製造廠公司地址": "",
-            "製造廠國別": "BELGIUM",
-            "製程": "包裝"
-        },
-        {
             "製造廠名稱": "FFR0274000  Aspen Notre Dame De Bondeville",
             "製造廠廠址": "1,RUE DE l&#39;ABBAYE 76960 NOTRE DAME DE BONDEVILLE, FRANCE",
             "製造廠公司地址": "",
@@ -81,13 +74,6 @@
             "製造廠公司地址": "",
             "製造廠國別": "FRANCE",
             "製程": "稀釋液(AMPOULE)之製造、充填、貼標和包裝"
-        },
-        {
-            "製造廠名稱": "FUS1076000  Corixa Corporation dba GlaxoSmithKline Vaccines",
-            "製造廠廠址": "325 North Bridge Street, Marietta, Pennsylvania 17547, USA",
-            "製造廠公司地址": "",
-            "製造廠國別": "UNITED STATES",
-            "製程": "調液、充填和凍晶乾燥作業"
         }
     ],
     "CCC號列": "30022000008 人類醫藥用疫苗Vaccines for human medicine",
@@ -124,20 +110,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "3_2_Varilrix_IPI16_[CH]_依核定草本-108-08-20.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000450&Seq=023&Type=9"
+            "title": "2019-07-30-tw-pi-Varilrix-GDS15IPI17-Approved-110-05-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000450&Seq=024&Type=9"
         },
         {
-            "title": "Varilrix_carton-108-09-02(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000450&Seq=016&Type=8"
-        },
-        {
-            "title": "10000450標籤-108-07-12.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000450&Seq=015&Type=8"
-        },
-        {
-            "title": "10000450外盒-108-07-12.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000450&Seq=014&Type=8"
+            "title": "標籤外盒-110-05-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000450&Seq=017&Type=8"
         }
     ]
 }

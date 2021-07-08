@@ -1,7 +1,7 @@
 {
     "code": "52027006",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52027006",
-    "time": "2020-02-26 06:32:08",
+    "time": "2021-07-09 03:15:20",
     "許可證字號": "衛部藥輸字第027006號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -33,7 +33,7 @@
     "主製造廠": [
         {
             "製造廠名稱": "FIT0444100  COSMO SPA",
-            "製造廠廠址": "VIA C, COLOMBO,1, 20020, LAINATE-MILANO, ITALY",
+            "製造廠廠址": "VIA C. COLOMBO, 1 20045, LAINATE (MILANO), ITALY",
             "製造廠公司地址": "",
             "製造廠國別": "ITALY",
             "製程": ""
@@ -67,18 +67,34 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Cortiment_027006-110-03-04(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027006&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "CORT-I-TW-01.02 (CN)-107-04-16.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027006&Seq=002&Type=9"
+            "title": "99189_CORT-I-TW-02.01 (CN)-110-06-15.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027006&Seq=003&Type=9"
+        },
+        {
+            "title": "99188_CORTIMENT MMX 9MG Catron-110-06-15.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027006&Seq=003&Type=8"
         },
         {
             "title": "可帝敏持續性釋放錠 9毫克_鋁箔-106-07-11.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027006&Seq=002&Type=8"
-        },
-        {
-            "title": "可帝敏持續性釋放錠 9毫克_外盒-106-07-11.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027006&Seq=001&Type=8"
         }
     ]
 }

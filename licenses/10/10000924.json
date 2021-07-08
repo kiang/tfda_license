@@ -1,7 +1,7 @@
 {
     "code": "10000924",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000924",
-    "time": "2021-04-30 05:17:17",
+    "time": "2021-07-09 03:11:16",
     "許可證字號": "衛署菌疫輸字第000924號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -40,13 +40,6 @@
         }
     ],
     "次製造廠": [
-        {
-            "製造廠名稱": "FDE0215000  BOEHRINGER INGELHEIM PHARMA GMBH &amp; CO. KG",
-            "製造廠廠址": "BIRKENDORFER STRASSE 65, 88397 BIBERACH AN DER RISS, GERMANY",
-            "製造廠公司地址": "",
-            "製造廠國別": "GERMANY",
-            "製程": "主成分(drug substance)製造廠"
-        },
         {
             "製造廠名稱": "FSG0046000  AMGEN SINGAPORE MANUFACTURING PTE. LTD.",
             "製造廠廠址": "1 TUAS VIEW DRIVE, SINGAPORE 637026",
@@ -93,8 +86,16 @@
     ],
     "仿單外盒": [
         {
+            "title": "XGEVA Chinese PI new MAH address-110-06-04(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000924&Seq=021&Type=9"
+        },
+        {
             "title": "020009240001-109-12-14.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000924&Seq=020&Type=9"
+        },
+        {
+            "title": "XGEVA carton new HAH address-110-06-04(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000924&Seq=019&Type=8"
         },
         {
             "title": "020009240003-108-05-03.pdf",

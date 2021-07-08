@@ -1,12 +1,12 @@
 {
     "code": "06019009",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019009",
-    "time": "2020-02-25 19:41:54",
+    "time": "2021-07-09 03:25:06",
     "許可證字號": "衛署醫器輸字第019009號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可登錄編號": "QSD5662",
+    "製造許可編號": "QSD5662",
     "有效日期": "112\/04\/22",
     "發證日期": "97\/04\/22",
     "許可證種類": "醫　器",
@@ -15,14 +15,14 @@
     "通關簽審文件編號": "DHA00601900903",
     "中文品名": "羅氏可霸斯 c 111 肌酸酐傑夫方法學第二代檢驗試劑",
     "英文品名": "cobas c 111 CREJ2",
-    "效能": "在cobas c 111 系統上, 對人類血清和血漿進行體外肌酸酐(creatinine)濃度的定量檢測。",
-    "醫器規格": "# 04657462 190: 4 x 200 tests。#05401755 190：4 x 100 tests。註銷規格 # 04657462 190: 4 x 200 tests。",
+    "效能、用途或適應症": "效能(文字酌修)變更為：本產品於cobas c 111系統上定量檢測人類血清、血漿及尿液中肌酸酐(creatinine)的體外診斷測試。",
+    "醫器規格或型號": "規格及標籤、說明書或包裝變更為：詳如中文標籤、說明書或包裝核定本(原99年5月10日標籤仿單核定本正本收回作廢)。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": "",
+    "標籤、說明書或包裝加註": "",
     "醫器主類別一": "A臨床化學及臨床毒理學",
     "醫器次類別一": "A1225肌氨酸酐試驗系統",
     "醫器主類別二": "",
@@ -33,14 +33,14 @@
     "監視期限": "",
     "主成分略述": "",
     "限制項目": "02輸　入",
-    "申請商名稱": "1903101100  台灣羅氏醫療診斷設備股份有限公司",
-    "申請商地址": "台北市中山區民權東路3段2號10樓",
+    "醫療器材商名稱": "1903101100  台灣羅氏醫療診斷設備股份有限公司",
+    "醫療器材商地址": "台北市中山區民權東路3段2號10樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MDE0185100  ROCHE DIAGNOSTICS GMBH",
-            "製造廠廠址": "SANDHOFER STRASSE 116 D-68305 MANNHEIM GERMANY",
-            "製造廠公司地址": "",
-            "製造廠國別": "GERMANY",
+            "製造業者名稱": "MDE0185100  ROCHE DIAGNOSTICS GMBH",
+            "製造業者地址": "SANDHOFER STRASSE 116 D-68305 MANNHEIM GERMANY",
+            "製造業者公司地址": "",
+            "製造業者國別": "GERMANY",
             "製程": ""
         }
     ],
@@ -48,40 +48,12 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "06019009-2010-05-14.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019009&Seq=007&Type=9"
+            "title": "060190090007-110-06-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019009&Seq=008&Type=9"
         },
         {
-            "title": "060190090006.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019009&Seq=006&Type=9"
-        },
-        {
-            "title": "060190090005.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019009&Seq=005&Type=9"
-        },
-        {
-            "title": "060190090004.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019009&Seq=004&Type=9"
-        },
-        {
-            "title": "060190090003.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019009&Seq=003&Type=9"
-        },
-        {
-            "title": "060190090002.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019009&Seq=002&Type=9"
-        },
-        {
-            "title": "060190090001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019009&Seq=001&Type=9"
-        },
-        {
-            "title": "060190090002.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019009&Seq=002&Type=8"
-        },
-        {
-            "title": "060190090001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019009&Seq=001&Type=8"
+            "title": "060190090007-110-06-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019009&Seq=003&Type=8"
         }
     ]
 }
