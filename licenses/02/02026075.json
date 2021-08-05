@@ -1,7 +1,7 @@
 {
     "code": "02026075",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02026075",
-    "time": "2021-05-28 05:00:04",
+    "time": "2021-08-06 03:06:18",
     "許可證字號": "衛署藥輸字第026075號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -26,7 +26,7 @@
     "管制藥品分類級別": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "HUMAN FOLLICLE STIMULATING HORMONE, LUTEINIZING HOUMONE HUMAN",
+    "主成分略述": "Human Menopausal Gonadotrophin (Menotrophin)",
     "限制項目": "02輸　入",
     "申請商名稱": "1803601100  豐樂國際有限公司",
     "申請商地址": "臺北市中山區林森北路627號3樓之1",
@@ -60,17 +60,9 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "6818000420",
-            "成分名稱": "HUMAN FOLLICLE STIMULATING HORMONE",
-            "含量描述": "(FSH)",
-            "含量": "75.0000000000",
-            "單位": "I.U."
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "6828000901",
-            "成分名稱": "LUTEINIZING HOUMONE HUMAN",
-            "含量描述": "(LH)(添加 3.5-10.5 I.U. of hCH 使 LH 達到 75 I.U.)",
+            "成分代碼": "6818500700",
+            "成分名稱": "Human Menopausal Gonadotrophin (Menotrophin)",
+            "含量描述": "(相當於75 IU FSH及75 IU LH)",
             "含量": "75.0000000000",
             "單位": "I.U."
         }
@@ -93,20 +85,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "Meriofert 75 IU 仿單-110-03-18.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02026075&Seq=002&Type=9"
+            "title": "Meriofert 75 IU PI -110-07-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02026075&Seq=005&Type=9"
         },
         {
-            "title": "Meriofert 75 IU 包裝外盒-110-03-16.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02026075&Seq=006&Type=8"
+            "title": "Meriofert 75 IU label -110-07-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02026075&Seq=008&Type=8"
         },
         {
-            "title": "Meriofert 75 IU- sodium chloride solution 瓶籤 -110-03-16.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02026075&Seq=005&Type=8"
-        },
-        {
-            "title": "Meriofert 75 IU 仿單-110-03-16.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02026075&Seq=004&Type=8"
+            "title": "Meriofert 75 IU 外盒 -110-07-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02026075&Seq=007&Type=8"
         }
     ]
 }

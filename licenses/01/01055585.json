@@ -1,7 +1,7 @@
 {
     "code": "01055585",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01055585",
-    "time": "2020-10-30 12:49:35",
+    "time": "2021-08-06 03:01:24",
     "許可證字號": "衛署藥製字第055585號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -41,7 +41,16 @@
     ],
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2408005100",
+            "成分名稱": "VALSARTAN",
+            "含量描述": "",
+            "含量": "80.0000000000",
+            "單位": "MG"
+        }
+    ],
     "藥物辨識詳細資料": {
         "外觀尺寸": "",
         "特殊劑型": "",
@@ -60,6 +69,10 @@
     ],
     "仿單外盒": [
         {
+            "title": "010555850001_20210708-110-07-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055585&Seq=011&Type=9"
+        },
+        {
             "title": "Decpress F.C.Tab.80mg_仿單-107-09-14.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055585&Seq=010&Type=9"
         },
@@ -74,6 +87,22 @@
         {
             "title": "Valsart 舒心樂 80-160 LT-104-12-09(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055585&Seq=007&Type=9"
+        },
+        {
+            "title": "010555850004_20210708-110-07-15.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055585&Seq=021&Type=8"
+        },
+        {
+            "title": "010555850003_20210708-110-07-15.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055585&Seq=020&Type=8"
+        },
+        {
+            "title": "010555850002_20210708-110-07-15.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055585&Seq=019&Type=8"
+        },
+        {
+            "title": "010555850001_20210708-110-07-15.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01055585&Seq=018&Type=8"
         },
         {
             "title": "Decpress F.C.Tab.80mg_標籤-107-09-14.pdf",
