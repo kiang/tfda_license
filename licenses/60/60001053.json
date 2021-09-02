@@ -1,7 +1,7 @@
 {
     "code": "60001053",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60001053",
-    "time": "2021-08-27 03:28:01",
+    "time": "2021-09-03 03:28:21",
     "許可證字號": "衛部菌疫輸字第001053號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -36,7 +36,14 @@
             "製造廠廠址": "Novo Alle, DK 2880 Bagsvaerd, Denmark",
             "製造廠公司地址": "",
             "製造廠國別": "DENMARK",
-            "製程": ""
+            "製程": "成品製造廠"
+        },
+        {
+            "製造廠名稱": "FFR0324000  Novo Nordisk Production SAS",
+            "製造廠廠址": "45, Avenue d’Orleans, F-28000 Chartres, France",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": "成品製造廠"
         }
     ],
     "次製造廠": [
@@ -77,16 +84,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單核定本_1100721-110-07-21.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001053&Seq=003&Type=9"
+            "title": "Ryzodeg PI_tw clean_add site-110-08-30.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001053&Seq=004&Type=9"
         },
         {
-            "title": "Ryzodeg label-106-12-19.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001053&Seq=002&Type=8"
-        },
-        {
-            "title": "Ryzodeg carton-106-12-19.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001053&Seq=001&Type=8"
+            "title": "Ryzodeg Carton_add site-110-08-30.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001053&Seq=003&Type=8"
         }
     ]
 }
