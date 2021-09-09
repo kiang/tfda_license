@@ -1,7 +1,7 @@
 {
     "code": "10000914",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000914",
-    "time": "2021-05-28 05:00:59",
+    "time": "2021-09-10 03:36:19",
     "許可證字號": "衛署菌疫輸字第000914號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -31,6 +31,13 @@
     "申請商名稱": "1426801100  台灣諾和諾德藥品股份有限公司",
     "申請商地址": "台北市大安區敦化南路2段207號10樓",
     "主製造廠": [
+        {
+            "製造廠名稱": "FUS1164000  Novo Nordisk Pharmaceuticals Industries, LP.",
+            "製造廠廠址": "3612 Powhatan Road Clayton, NC 27527 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        },
         {
             "製造廠名稱": "FDK0020000  NOVO NORDISK A\/S",
             "製造廠廠址": "NOVO ALLE, DK-2880 BAGSVAERD, DENMARK",
@@ -85,24 +92,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "Victoza_中文仿單(final)-110-03-15.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000914&Seq=010&Type=9"
+            "title": "3-1. Victoza PI (celan)_add NEW site-110-08-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000914&Seq=011&Type=9"
         },
         {
-            "title": "Victoza carton (8-9695-10-301-5)-109-10-28(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000914&Seq=019&Type=8"
-        },
-        {
-            "title": "Victoza Carton (8-9695-10-301-4)-108-03-29(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000914&Seq=018&Type=8"
+            "title": "3-2. Victoza Carton (8-9695-10-301-4)_add NEW site-110-08-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000914&Seq=020&Type=8"
         },
         {
             "title": "Victoza STF2013 Label (8-9695-10-201-2)-108-03-29(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000914&Seq=017&Type=8"
-        },
-        {
-            "title": "A01_2_Victoza_外盒標籤_20180330-107-03-31.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000914&Seq=016&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "02017335",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02017335",
-    "time": "2021-08-27 05:19:22",
+    "time": "2021-09-10 03:14:05",
     "許可證字號": "衛署藥輸字第017335號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -32,11 +32,18 @@
     "申請商地址": "台北市信義區信義路5段7號53樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FDE0438200  Bayer AG",
-            "製造廠廠址": "Kaiser-Wilhelm-Allee, 51368 Leverkusen, Germany",
+            "製造廠名稱": "CDE0046000  GP GRENZACH PRODUKTIONS GMBH",
+            "製造廠廠址": "EMIL-BARELL-STRASSE 7, D-79639 GRENZACH-WYHLEN, GERMANY",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
             "製程": ""
+        },
+        {
+            "製造廠名稱": "FDE0252000  HAUPT PHARMA WULFING GMBH",
+            "製造廠廠址": "BETHELNER LANDSTRASSE 18 D-31028 GRONAU\/LEINE GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "bulk"
         }
     ],
     "CCC號列": "30042000211 人用醫藥製劑，含抗黴菌劑類抗生素者Medicaments, containing antifungal antibiotics, for human use",

@@ -1,7 +1,7 @@
 {
     "code": "01040692",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01040692",
-    "time": "2020-02-25 06:33:53",
+    "time": "2021-09-10 03:07:15",
     "許可證字號": "衛署藥製字第040692號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,7 +17,7 @@
     "英文品名": "ZUTON POWDER &quot;CHINTENG&quot;",
     "適應症": "退燒、止痛（緩解頭痛、牙痛、咽喉痛、關節痛、神經痛、肌肉酸痛、月經痛）",
     "劑型": "140散劑",
-    "包裝": "1.5公克鋁箔袋盒裝 6-1000公克瓶裝",
+    "包裝": "6-1000公克瓶裝 4-666袋盒裝 1.3公克鋁箔袋裝",
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
@@ -26,8 +26,8 @@
     "管制藥品分類級別": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "ACETAMINOPHEN (EQ TO PARACETAMOL), ETHENZAMIDE (ETHOXYBENZAMIDE), CAFFEINE (HYDRATE), BROMISOVALUM ( EQ TO BROMOVALERYLUREA) ( EQ TO BROMVALETONE), HYDROXYBUTYRIC ACID BETA- P-PHENETIDIDE (BUCETIN)",
-    "限制項目": "01國　產",
+    "主成分略述": "ACETAMINOPHEN (EQ TO PARACETAMOL), ETHENZAMIDE (ETHOXYBENZAMIDE), CAFFEINE (HYDRATE), BROMISOVALUM ( EQ TO BROMOVALERYLUREA) ( EQ TO BROMVALETONE)",
+    "限制項目": "01國　產 1P原料藥未取得PIC\/S GMP核准函 不得製造",
     "申請商名稱": "6103030017  井田國際醫藥廠股份有限公司",
     "申請商地址": "台中市大甲區幼獅路32號",
     "主製造廠": [
@@ -47,7 +47,7 @@
             "成分代碼": "2808000100",
             "成分名稱": "ACETAMINOPHEN (EQ TO PARACETAMOL)",
             "含量描述": "",
-            "含量": "300.0000000000",
+            "含量": "200.0000000000",
             "單位": "MG"
         },
         {
@@ -55,7 +55,7 @@
             "成分代碼": "2808600900",
             "成分名稱": "ETHENZAMIDE (ETHOXYBENZAMIDE)",
             "含量描述": "",
-            "含量": "400.0000000000",
+            "含量": "266.7000000000",
             "單位": "MG"
         },
         {
@@ -63,7 +63,7 @@
             "成分代碼": "2820009460",
             "成分名稱": "CAFFEINE (HYDRATE)",
             "含量描述": "",
-            "含量": "80.0000000000",
+            "含量": "53.3000000000",
             "單位": "MG"
         },
         {
@@ -71,22 +71,34 @@
             "成分代碼": "2824000300",
             "成分名稱": "BROMISOVALUM ( EQ TO BROMOVALERYLUREA) ( EQ TO BROMVALETONE)",
             "含量描述": "",
-            "含量": "180.0000000000",
-            "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "4040000412",
-            "成分名稱": "HYDROXYBUTYRIC ACID BETA- P-PHENETIDIDE (BUCETIN)",
-            "含量描述": "",
-            "含量": "200.0000000000",
+            "含量": "120.0000000000",
             "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
+            "title": "04069200001治痛散-仿單-110-08-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040692&Seq=002&Type=9"
+        },
+        {
             "title": "010406920001-104-06-12.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040692&Seq=001&Type=9"
+        },
+        {
+            "title": "04069200005治痛散-標籤-110-08-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040692&Seq=004&Type=8"
+        },
+        {
+            "title": "04069200004治痛散-鋁箔-110-08-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040692&Seq=003&Type=8"
+        },
+        {
+            "title": "04069200003治痛散-外盒2-110-08-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040692&Seq=002&Type=8"
+        },
+        {
+            "title": "04069200002治痛散-外盒1-110-08-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040692&Seq=001&Type=8"
         }
     ]
 }

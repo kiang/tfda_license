@@ -1,7 +1,7 @@
 {
     "code": "52027145",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52027145",
-    "time": "2020-09-25 10:40:21",
+    "time": "2021-09-10 03:43:54",
     "許可證字號": "衛部藥輸字第027145號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -24,7 +24,7 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "藥品分類": "",
+    "藥品分類": "新療效(新適應症)",
     "監視期限": "111\/06\/08",
     "主成分略述": "TICAGRELOR",
     "限制項目": "02輸　入",
@@ -41,11 +41,20 @@
     ],
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2012600300",
+            "成分名稱": "TICAGRELOR",
+            "含量描述": "",
+            "含量": "60.0000000000",
+            "單位": "MG"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "Brilinta 60 90mg中文仿單July2020-109-07-23.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027145&Seq=002&Type=9"
+            "title": "2. Brilinta 60 90mg中文仿單July2021-110-07-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027145&Seq=003&Type=9"
         },
         {
             "title": "Brilinta 60mg-鋁箔-201904上傳-108-04-12(廠商自行上傳).pdf",

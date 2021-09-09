@@ -1,12 +1,12 @@
 {
     "code": "06011926",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06011926",
-    "time": "2020-09-25 10:56:44",
+    "time": "2021-09-10 03:57:52",
     "許可證字號": "衛署醫器輸字第011926號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可登錄編號": "QSD6143",
+    "製造許可編號": "QSD6143",
     "有效日期": "114\/09\/15",
     "發證日期": "94\/09\/15",
     "許可證種類": "醫　器",
@@ -15,14 +15,14 @@
     "通關簽審文件編號": "DHAS0601192607",
     "中文品名": "&quot;多模式&quot; 強度調控高能放射治療系統",
     "英文品名": "&quot;Tomotherapy&quot; Intensity Modulated Radiation Therapy (IMRT) System",
-    "效能": "詳如中文仿單核定本",
-    "醫器規格": "Hi-art System, Tomo HD 以下空白。增加規格：Tomo H、Tomo HDA。",
+    "效能、用途或適應症": "詳如中文仿單核定本",
+    "醫器規格或型號": "Hi-art System, Tomo HD 以下空白。增加規格：Tomo H、Tomo HDA。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、仿單及包裝加註": "",
+    "標籤、說明書或包裝加註": "",
     "醫器主類別一": "P放射學科用裝置",
     "醫器次類別一": "P5050醫用帶電粒子放射治療系統",
     "醫器主類別二": "",
@@ -33,17 +33,39 @@
     "監視期限": "",
     "主成分略述": "",
     "限制項目": "02輸　入 14輸入須附同意書（每次輸入均須取得原子能委員會之同意書為憑）",
-    "申請商名稱": "620101H885  多模式股份有限公司",
-    "申請商地址": "台北市中山區長春路366號6樓",
+    "醫療器材商名稱": "620101H885  多模式股份有限公司",
+    "醫療器材商地址": "臺北市內湖區行愛路88號6樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MUS4052000  ACCURAY INCORPORATED",
-            "製造廠廠址": "1209 DEMING WAY, MADISON, WI 53717-1954, USA",
-            "製造廠公司地址": "",
-            "製造廠國別": "UNITED STATES",
+            "製造業者名稱": "MUS4052000  ACCURAY INCORPORATED",
+            "製造業者地址": "1209 DEMING WAY, MADISON, WI 53717-1954, USA",
+            "製造業者公司地址": "",
+            "製造業者國別": "UNITED STATES",
             "製程": ""
         }
     ],
     "藥理治療分類": "",
-    "ingredients": []
+    "ingredients": [],
+    "仿單外盒": [
+        {
+            "title": "仿單-103-06-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011926&Seq=005&Type=9"
+        },
+        {
+            "title": "060119260003.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011926&Seq=004&Type=9"
+        },
+        {
+            "title": "060119260002.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011926&Seq=003&Type=9"
+        },
+        {
+            "title": "060119260001.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011926&Seq=002&Type=9"
+        },
+        {
+            "title": "06011926 多模式___20120417.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06011926&Seq=001&Type=9"
+        }
+    ]
 }
