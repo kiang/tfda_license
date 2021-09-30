@@ -1,7 +1,7 @@
 {
     "code": "02023739",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023739",
-    "time": "2021-09-24 03:20:16",
+    "time": "2021-10-01 03:18:54",
     "許可證字號": "衛署藥輸字第023739號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00202373900",
     "中文品名": "柔妊孕注射液",
     "英文品名": "ORGALUTRAN SOLUTION FOR INJECTION",
@@ -32,10 +34,7 @@
     "申請商地址": "臺北市信義區基隆路1段206號20樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FDE0360000  VETTER PHARMA-FERTIGUNG GMBH &amp; CO. KG",
-            "製造廠廠址": "SCHUTZENSTRASSE 87 AND 99\/101, D-88212 RAVENSBURG, GERMANY",
-            "製造廠公司地址": "SCHUTZENSTRASSE 87 D-88212 RAVENSBURG GERMANY",
-            "製造廠國別": "GERMANY",
+            "": "GERMANY",
             "製程": ""
         }
     ],
@@ -78,8 +77,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "Orgalutran仿單-110-09-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023739&Seq=010&Type=9"
+        },
+        {
             "title": "20201120_QRD_Orgalutran_Chi_CCDS 082020_clean-110-08-03.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023739&Seq=009&Type=9"
+        },
+        {
+            "title": "Orgalutran 外盒-110-09-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023739&Seq=008&Type=8"
+        },
+        {
+            "title": "Orgalutran Label-110-09-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023739&Seq=007&Type=8"
         },
         {
             "title": "Orgalutran solution for injection-108-03-30(廠商自行上傳).pdf",

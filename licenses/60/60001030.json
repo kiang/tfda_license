@@ -1,7 +1,7 @@
 {
     "code": "60001030",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60001030",
-    "time": "2021-09-24 03:53:07",
+    "time": "2021-10-01 03:50:01",
     "許可證字號": "衛部菌疫輸字第001030號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA06000103006",
     "中文品名": "艾拉特凍晶注射劑 1500IU",
     "英文品名": "Eloctate Powder for Injection 1500IU",
@@ -32,10 +34,7 @@
     "申請商地址": "台北市信義區松仁路3號7樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FDE0559000  VETTER PHARMA-FERTIGUNG GMBH &amp; CO. KG",
-            "製造廠廠址": "MOOSWIESEN 2, 88214 RAVENSBURG, GERMANY",
-            "製造廠公司地址": "",
-            "製造廠國別": "GERMANY",
+            "": "GERMANY",
             "製程": ""
         }
     ],
@@ -89,6 +88,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "Eloctate TWPI C USPI 2020-12_2021.08.20 clean-110-09-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001030&Seq=006&Type=9"
+        },
         {
             "title": "Eloctate TWPI (CN)- USPI 2020-12 (CCDS v12)-110-07-15.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001030&Seq=005&Type=9"
