@@ -1,7 +1,7 @@
 {
     "code": "02025661",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025661",
-    "time": "2020-02-25 13:39:50",
+    "time": "2021-10-08 03:24:38",
     "許可證字號": "衛署藥輸字第025661號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00202566109",
     "中文品名": "福喜多滿注射劑75國際單位",
     "英文品名": "Fostimon (R) 75 I.U.",
@@ -32,10 +34,7 @@
     "申請商地址": "臺北市中山區林森北路627號3樓之1",
     "主製造廠": [
         {
-            "製造廠名稱": "FCH0279000  IBSA INSTITUT BIOCHIMIQUE SA",
-            "製造廠廠址": "VIA CANTONALE, ZONA SERTA, 6814 LAMONE, SWITZERLAND",
-            "製造廠公司地址": "",
-            "製造廠國別": "SWITZERLAND",
+            "": "SWITZERLAND",
             "製程": ""
         }
     ],
@@ -46,6 +45,13 @@
             "製造廠公司地址": "VIA DEL PIANO,6915 PAMBIO NORANCO SWITZERLAND",
             "製造廠國別": "SWITZERLAND",
             "製程": "許可證持有者"
+        },
+        {
+            "製造廠名稱": "FCH0331000  IBSA Institut Biochimique SA",
+            "製造廠廠址": "Via del Piano 6915 Pambio – Noranco Switzerland",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": "二級包裝廠"
         },
         {
             "製造廠名稱": "FIT0469000  IBSA FARMACEUTICI ITALIA S.R.L.",
@@ -85,12 +91,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "Fostimon仿單 (中直)-104-09-10(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025661&Seq=002&Type=9"
+            "title": "20210914_仿單-110-09-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025661&Seq=003&Type=9"
         },
         {
-            "title": "Fostimon外盒照片2-104-09-10(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025661&Seq=002&Type=8"
+            "title": "20210914_外盒標籤核定本-110-09-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025661&Seq=004&Type=8"
+        },
+        {
+            "title": "1100907 fostimon outerpack-110-09-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025661&Seq=003&Type=8"
         }
     ]
 }

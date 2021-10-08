@@ -1,7 +1,7 @@
 {
     "code": "02024519",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024519",
-    "time": "2021-08-27 06:02:55",
+    "time": "2021-10-08 03:22:17",
     "許可證字號": "衛署藥輸字第024519號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00202451901",
     "中文品名": "斯莫脂肪靜脈輸注液",
     "英文品名": "SMOFlipid 20% Emulsion for Infusion",
@@ -32,10 +34,7 @@
     "申請商地址": "台北市大安區仁愛路三段30號5樓32號5樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FAT0032000  FRESENIUS KABI AUSTRIA GMBH",
-            "製造廠廠址": "HAFNERSTA βE 36, A-8055 GRAZ, AUSTRIA",
-            "製造廠公司地址": "",
-            "製造廠國別": "AUSTRIA",
+            "": "AUSTRIA",
             "製程": ""
         }
     ],
@@ -116,12 +115,32 @@
     ],
     "仿單外盒": [
         {
-            "title": "020245190001-106-03-07.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024519&Seq=016&Type=9"
+            "title": "(Final)斯莫脂肪靜脈輸注液 仿單_M087693-02 TW_PIL 20210708-110-10-05(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024519&Seq=018&Type=9"
         },
         {
-            "title": "020245190028___20100729.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024519&Seq=028&Type=8"
+            "title": "(Final) 斯莫脂肪靜脈輸注液中文仿單-110-08-31.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024519&Seq=017&Type=9"
+        },
+        {
+            "title": "M087690-02_Label 250mL p2-110-10-05(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024519&Seq=033&Type=8"
+        },
+        {
+            "title": "M087694-02_Label 100mL p2-110-10-05(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024519&Seq=032&Type=8"
+        },
+        {
+            "title": "(Final)斯莫脂肪靜脈輸注液 標籤_500ml-110-08-31.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024519&Seq=031&Type=8"
+        },
+        {
+            "title": "(Final)斯莫脂肪靜脈輸注液 標籤_250ml-110-08-31.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024519&Seq=030&Type=8"
+        },
+        {
+            "title": "(Final)斯莫脂肪靜脈輸注液 標籤_100ml-110-08-31.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024519&Seq=029&Type=8"
         }
     ]
 }

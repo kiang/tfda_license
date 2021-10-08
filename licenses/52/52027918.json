@@ -1,7 +1,7 @@
 {
     "code": "52027918",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52027918",
-    "time": "2021-08-27 05:31:45",
+    "time": "2021-10-08 03:36:29",
     "許可證字號": "衛部藥輸字第027918號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05202791800",
     "中文品名": "芙密娜止癢凝膠",
     "英文品名": "KOBAYASHI medicated gel for delicate zone",
@@ -32,10 +34,7 @@
     "申請商地址": "臺北市中正區衡陽路51號11樓之4",
     "主製造廠": [
         {
-            "製造廠名稱": "FJP0825000  TOYAMA KOBAYASHI PHARMACEUTICAL CO., LTD.",
-            "製造廠廠址": "100-1, NAKAOOKUBO, TOYAMA-SHI, TOYAMA, JAPAN",
-            "製造廠公司地址": "",
-            "製造廠國別": "JAPAN",
+            "": "JAPAN",
             "製程": ""
         }
     ],
@@ -69,12 +68,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "020279180001-109-11-02.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027918&Seq=001&Type=9"
+            "title": "芙密娜_仿單_20210901-110-09-01.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027918&Seq=003&Type=9"
         },
         {
-            "title": "020279180002-109-11-02.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027918&Seq=001&Type=8"
+            "title": "芙密娜_標籤_20210901-110-09-01.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027918&Seq=003&Type=8"
+        },
+        {
+            "title": "芙密娜_外盒_20210901-110-09-01.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027918&Seq=002&Type=8"
         }
     ]
 }

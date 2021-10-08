@@ -1,7 +1,7 @@
 {
     "code": "56026907",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026907",
-    "time": "2020-02-26 07:39:52",
+    "time": "2021-10-08 04:09:01",
     "許可證字號": "衛部醫器輸字第026907號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05602690706",
     "中文品名": "“美敦力”索樂拉脊椎固定系統",
     "英文品名": "“Medtronic” CD HORIZON SOLERA SEXTANT Spinal System",
@@ -37,11 +39,17 @@
     "申請商地址": "台北市松山區敦化南路一段2號2樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MUS0731000  MEDTRONIC SOFAMOR DANEK MANUFACTURING",
-            "製造廠廠址": "2500 SILVEUS CROSSING,WARSAW,IN46582 U.S.A.",
+            "": "UNITED STATES",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS3173000  MEDTRONIC SOFAMOR DANEK USA, INC.",
+            "製造廠廠址": "1800 PYRAMID PLACE, MEMPHIS, TN38132, USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
-            "製程": ""
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",

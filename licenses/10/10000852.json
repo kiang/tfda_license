@@ -1,7 +1,7 @@
 {
     "code": "10000852",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000852",
-    "time": "2020-11-27 10:16:27",
+    "time": "2021-10-08 03:26:54",
     "許可證字號": "衛署菌疫輸字第000852號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "菌　疫",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA01000085201",
     "中文品名": "任捷第八凝血因子凍晶注射劑 500 IU",
     "英文品名": "Xyntha Solofuse 500 IU",
@@ -32,14 +34,18 @@
     "申請商地址": "台北市信義區松仁路100號42、43樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FDE0267600  VETTER PHARMA - FERTIGUNG GMBH &amp; CO. KG",
-            "製造廠廠址": "SCHUTZENSTRABE 87 AND 99-101 88212 RAVENSBURG, GERMANY",
-            "製造廠公司地址": "",
-            "製造廠國別": "GERMANY",
+            "": "GERMANY",
             "製程": "成品製造廠"
         }
     ],
     "次製造廠": [
+        {
+            "製造廠名稱": "6605071926  久裕企業股份有限公司(委託包裝)",
+            "製造廠廠址": "桃園市桃園區大林里興邦路43巷2之1號4樓，3樓B區，1樓A區",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠"
+        },
         {
             "製造廠名稱": "FES0124100  WYETH FARMA, S.A.",
             "製造廠廠址": "AUTOVIA DEL NORTE A1 KM 23 DESVIO ALGETE KM1 SAN SEBASTIAN DE LOS REYES 28700 MADRID, SPAIN",
@@ -79,14 +85,26 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "Xyntha 500IU_appearance-110-06-01(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000852&Seq=002&Type=10"
+        },
+        {
             "title": "Xyntha 500IU_藥物外觀-104-09-24(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000852&Seq=001&Type=10"
         }
     ],
     "仿單外盒": [
         {
+            "title": "Xyntha LLD USPI 201410-5 new address PAA160421-110-06-02(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000852&Seq=010&Type=9"
+        },
+        {
             "title": "02 000853 0001-107-09-20.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000852&Seq=009&Type=9"
+        },
+        {
+            "title": "Xyntha 500IU_CTN_LAB-110-06-01(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000852&Seq=006&Type=8"
         },
         {
             "title": "Xyntha 500-LAB-090604 print-109-08-31.pdf",

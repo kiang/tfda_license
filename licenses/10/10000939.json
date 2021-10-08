@@ -1,7 +1,7 @@
 {
     "code": "10000939",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000939",
-    "time": "2021-08-27 05:25:32",
+    "time": "2021-10-08 03:27:29",
     "許可證字號": "衛署菌疫輸字第000939號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "菌　疫",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA01000093900",
     "中文品名": "伏適流",
     "英文品名": "Fluarix Tetra",
@@ -26,16 +28,13 @@
     "管制藥品分類級別": "",
     "藥品分類": "疫苗",
     "監視期限": "",
-    "主成分略述": "B\/Phuket\/3073\/2013 - like strain (B\/Phuket\/3073\/2013, wild type), B\/Washington\/02\/2019 - like strain (B\/Washington\/02\/2019, wild type), A\/Hong Kong\/2671\/2019 (H3N2) - like strain (A\/Hong Kong\/2671\/2019, NIB-121), A\/Guangdong-Maonan\/SWL1536\/2019 (H1N1)pdm09 - like strain (A\/Guangdong-Maonan\/SWL1536\/2019, CNIC-1909)",
+    "主成分略述": "A\/Victoria\/2570\/2019 (H1N1)pdm09-like virus (A\/Victoria\/2570\/2019 (IVR-215)), A\/Cambodia\/e0826360\/2020 (H3N2)-like strain (A\/Tasmania\/503\/2020, IVR-221), B\/Phuket\/3073\/2013 - like strain (B\/Phuket\/3073\/2013, wild type), B\/Washington\/02\/2019 - like strain (B\/Washington\/02\/2019, wild type)",
     "限制項目": "",
     "申請商名稱": "0901801100  荷商葛蘭素史克藥廠股份有限公司台灣分公司",
     "申請商地址": "台北市中正區忠孝西路一段66號23-24樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FDE0575000  GLAXOSMITHKLINE BIOLOGICALS BRANCH OF SMITHKLINE BEECHAM PHARMA GMBH &amp; CO. KG",
-            "製造廠廠址": "ZIRKUSSTR 40, 01069 DRESDEN, GERMANY",
-            "製造廠公司地址": "",
-            "製造廠國別": "GERMANY",
+            "": "GERMANY",
             "製程": "原料藥及成品製造廠"
         }
     ],
@@ -67,6 +66,22 @@
     "ingredients": [
         {
             "成分類別": "主成分",
+            "成分代碼": "8012002500",
+            "成分名稱": "A\/Victoria\/2570\/2019 (H1N1)pdm09-like virus (A\/Victoria\/2570\/2019 (IVR-215))",
+            "含量描述": "",
+            "含量": "15.0000000000",
+            "單位": "ug HA"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8012002520",
+            "成分名稱": "A\/Cambodia\/e0826360\/2020 (H3N2)-like strain (A\/Tasmania\/503\/2020, IVR-221)",
+            "含量描述": "",
+            "含量": "15.0000000000",
+            "單位": "ug HA"
+        },
+        {
+            "成分類別": "主成分",
             "成分代碼": "8012006210",
             "成分名稱": "B\/Phuket\/3073\/2013 - like strain (B\/Phuket\/3073\/2013, wild type)",
             "含量描述": "",
@@ -77,22 +92,6 @@
             "成分類別": "主成分",
             "成分代碼": "8012006840",
             "成分名稱": "B\/Washington\/02\/2019 - like strain (B\/Washington\/02\/2019, wild type)",
-            "含量描述": "",
-            "含量": "15.0000000000",
-            "單位": "ug HA"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "8012017050",
-            "成分名稱": "A\/Hong Kong\/2671\/2019 (H3N2) - like strain (A\/Hong Kong\/2671\/2019, NIB-121)",
-            "含量描述": "",
-            "含量": "15.0000000000",
-            "單位": "ug HA"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "8012018030",
-            "成分名稱": "A\/Guangdong-Maonan\/SWL1536\/2019 (H1N1)pdm09 - like strain (A\/Guangdong-Maonan\/SWL1536\/2019, CNIC-1909)",
             "含量描述": "",
             "含量": "15.0000000000",
             "單位": "ug HA"
@@ -116,12 +115,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "88677_Fluarix Tetra-GDS05-IPI12-民眾版仿單-110-05-14.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=034&Type=9"
+            "title": "民眾版仿單_Fluarix Tetra-110-09-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=036&Type=9"
         },
         {
-            "title": "88676_Fluarix Tetra-GDS05-IPI12-仿單-110-05-14.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=033&Type=9"
+            "title": "中文仿單_Fluarix Tetra-110-09-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000939&Seq=035&Type=9"
         },
         {
             "title": "299521_PPC-0023563 label-110-05-06.pdf",

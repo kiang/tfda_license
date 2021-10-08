@@ -1,7 +1,7 @@
 {
     "code": "01001151",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01001151",
-    "time": "2020-02-25 01:34:48",
+    "time": "2021-10-08 03:00:48",
     "許可證字號": "衛署藥製字第001151號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "00000000",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00100115102",
     "中文品名": "舒便腸衣錠",
     "英文品名": "SUBEN E.C. TABLETS",
@@ -32,10 +34,7 @@
     "申請商地址": "高雄市仁武區仁武里工業二路12號",
     "主製造廠": [
         {
-            "製造廠名稱": "1202822300  華盛頓製藥廠股份有限公司",
-            "製造廠廠址": "高雄市仁武區仁武里工業二路12號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
@@ -69,12 +68,24 @@
     ],
     "仿單外盒": [
         {
+            "title": "舒便腸衣錠-仿單-已變更-R9-110-09-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001151&Seq=004&Type=9"
+        },
+        {
             "title": "PDF-舒便腸衣錠-仿單-R3-108-11-14.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001151&Seq=003&Type=9"
         },
         {
             "title": "舒便腸衣錠-104-10-03(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001151&Seq=002&Type=9"
+        },
+        {
+            "title": "PDF-鋁箔包-舒便 腸衣錠-R3-110-09-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001151&Seq=008&Type=8"
+        },
+        {
+            "title": "舒便腸衣錠-標籤-R9-110-9-9-110-09-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01001151&Seq=007&Type=8"
         },
         {
             "title": "PDF-鋁箔包-舒便 腸衣錠-R3-108-11-14.pdf",

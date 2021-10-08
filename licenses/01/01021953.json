@@ -1,7 +1,7 @@
 {
     "code": "01021953",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01021953",
-    "time": "2021-01-29 04:46:20",
+    "time": "2021-10-08 03:02:46",
     "許可證字號": "衛署藥製字第021953號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00102195301",
     "中文品名": "&quot;中美&quot; 美口爾口內膏（安西諾隆）",
     "英文品名": "MECOL ORABASE &quot;C.M.&quot;  (TRIAMCINOLONE)",
@@ -32,10 +34,7 @@
     "申請商地址": "臺北市內湖區瑞光路618號5樓之1",
     "主製造廠": [
         {
-            "製造廠名稱": "0402211300  中美兄弟製藥股份有限公司",
-            "製造廠廠址": "彰化市東芳里彰鹿路１０６號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
@@ -77,8 +76,48 @@
     ],
     "仿單外盒": [
         {
+            "title": "美口爾-說明書-檸檬口味-110-09-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021953&Seq=011&Type=9"
+        },
+        {
+            "title": "美口爾-說明書-哈密瓜口味-110-09-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021953&Seq=010&Type=9"
+        },
+        {
             "title": "0057-美口爾-說明書-哈密瓜口味-104-12-23(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021953&Seq=009&Type=9"
+        },
+        {
+            "title": "美口爾-檸檬口味-標籤-110-09-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021953&Seq=021&Type=8"
+        },
+        {
+            "title": "美口爾-檸檬口味-軟管-110-09-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021953&Seq=020&Type=8"
+        },
+        {
+            "title": "美口爾-紙盒-檸檬口味-3-110-09-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021953&Seq=019&Type=8"
+        },
+        {
+            "title": "美口爾-紙盒-檸檬口味-2-110-09-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021953&Seq=018&Type=8"
+        },
+        {
+            "title": "美口爾-紙盒-檸檬口味-1-110-09-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021953&Seq=017&Type=8"
+        },
+        {
+            "title": "美口爾-紙盒-哈密瓜味-110-09-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021953&Seq=016&Type=8"
+        },
+        {
+            "title": "美口爾-哈密瓜口味-標籤-110-09-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021953&Seq=015&Type=8"
+        },
+        {
+            "title": "美口爾-哈密瓜口味-軟管-110-09-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01021953&Seq=014&Type=8"
         },
         {
             "title": "20161110-美口爾-5g-哈密瓜-標籤-106-04-28.pdf",

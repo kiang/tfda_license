@@ -1,7 +1,7 @@
 {
     "code": "02025173",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025173",
-    "time": "2021-03-26 04:25:26",
+    "time": "2021-10-08 03:23:40",
     "許可證字號": "衛署藥輸字第025173號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,10 +12,12 @@
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00202517309",
     "中文品名": "安命諾得輸注液10%",
     "英文品名": "Aminoplasmal Neo 10%",
-    "適應症": "不能或無法適當地經口攝取食物或腸道營養禁忌之患者，作為靜脈營養氨基酸補充劑，作為合成蛋白質之基質。靜脈營養治療時，必須同時適當的補充熱量來源，如靜脈輸注碳水化合物。",
+    "適應症": "無法經口服攝取食物或腸道吸收營養、功能不全或有禁忌症時，作為靜脈營養治療提供胺基酸。適用於成人、青少年和2歲以上兒童。",
     "劑型": "270注射劑",
     "包裝": "250,500,1000毫升玻璃瓶裝",
     "儲存溫度": "",
@@ -32,10 +34,7 @@
     "申請商地址": "台北市松山區健康路152號9樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FDE0372000  B. BRAUN MELSUNGEN AG",
-            "製造廠廠址": "CARL-BRAUN-STRABE 1, 34212 MELSUNGEN, GERMANY",
-            "製造廠公司地址": "34209 MELSUNGEN. GERMANY",
-            "製造廠國別": "GERMANY",
+            "": "GERMANY",
             "製程": ""
         }
     ],
@@ -205,12 +204,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "Leaflet_12609166_1110 Aminoplasmal Neo 10_-104-10-28(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025173&Seq=002&Type=9"
+            "title": "02_41 V7 12609166_Aminoplasmal_Neo10_IL_GIF__TW_451-110-07-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025173&Seq=003&Type=9"
         },
         {
-            "title": "BB-3540170外箱-正-104-10-28(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025173&Seq=002&Type=8"
+            "title": "02_mockup-outer-10x500ml-110-07-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025173&Seq=004&Type=8"
+        },
+        {
+            "title": "02_mockup-impack-500ml-110-07-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025173&Seq=003&Type=8"
         }
     ]
 }

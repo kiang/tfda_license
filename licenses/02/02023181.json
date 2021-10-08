@@ -1,7 +1,7 @@
 {
     "code": "02023181",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023181",
-    "time": "2021-05-28 04:57:08",
+    "time": "2021-10-08 03:20:08",
     "許可證字號": "衛署藥輸字第023181號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00202318101",
     "中文品名": "采福適膜衣錠",
     "英文品名": "ZYVOX TABLETS 600MG",
@@ -32,10 +34,7 @@
     "申請商地址": "台北市信義區松仁路100號42、43樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FPR0019000  PFIZER PHARMACEUTICALS LLC",
-            "製造廠廠址": "KM. 1.9 ROAD 689, VEGA BAJA, PUERTO RICO 00693",
-            "製造廠公司地址": "",
-            "製造廠國別": "PUERTO RICO",
+            "": "PUERTO RICO",
             "製程": ""
         }
     ],
@@ -79,14 +78,22 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "Drug appearance_Zyvox tab_PNS202108-110-08-16(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023181&Seq=438&Type=10"
+        },
+        {
             "title": "Zyvox Tab MA no.023181_實體外觀-104-09-18(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023181&Seq=437&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "Zyvox Tablets-INS-100203_editable_v2-110-03-04.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023181&Seq=043&Type=9"
+            "title": "023181-110-09-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023181&Seq=044&Type=9"
+        },
+        {
+            "title": "New CTN_Zyvox tab_PNS202108-110-08-16(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023181&Seq=003&Type=8"
         },
         {
             "title": "Binder_Zyvox tab_new address-110-03-09(廠商自行上傳).pdf",

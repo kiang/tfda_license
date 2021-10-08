@@ -1,17 +1,19 @@
 {
     "code": "01040825",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01040825",
-    "time": "2020-02-25 06:34:44",
+    "time": "2021-10-08 03:06:10",
     "許可證字號": "衛署藥製字第040825號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
-    "有效日期": "111\/01\/31",
+    "有效日期": "116\/01\/31",
     "發證日期": "85\/01\/31",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHYS0104082504",
     "中文品名": "鋅康錠７８毫克（葡萄酸鋅）",
     "英文品名": "ZINCO TABLETS 78MG (ZINC GLUCONATE) &quot;ROYAL&quot;",
@@ -32,10 +34,7 @@
     "申請商地址": "高雄市鳥松區埔安街1號",
     "主製造廠": [
         {
-            "製造廠名稱": "0920322300  皇佳化學製藥股份有限公司",
-            "製造廠廠址": "高雄市鳥松區坔埔里埔安街1號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
@@ -69,8 +68,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "Zinco Tab仿單-110-09-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040825&Seq=005&Type=9"
+        },
+        {
             "title": "Zinco Tab-104-10-20(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040825&Seq=004&Type=9"
+        },
+        {
+            "title": "Zinco鋁箔-110-09-01.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040825&Seq=007&Type=8"
+        },
+        {
+            "title": "Zinco標貼-110-09-01.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040825&Seq=006&Type=8"
         },
         {
             "title": "Zinco Tab鋁箔___20110614.pdf",

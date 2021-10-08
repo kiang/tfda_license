@@ -1,7 +1,7 @@
 {
     "code": "02022409",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022409",
-    "time": "2021-08-27 05:20:21",
+    "time": "2021-10-08 03:18:43",
     "許可證字號": "衛署藥輸字第022409號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00202240900",
     "中文品名": "截瘤達錠５００毫克",
     "英文品名": "XELODA TABLETS 500MG",
@@ -32,10 +34,7 @@
     "申請商地址": "台北市信義區松仁路100號40樓、40樓之1、41樓之1",
     "主製造廠": [
         {
-            "製造廠名稱": "FDE0364100  EXCELLA GMBH &amp; CO. KG",
-            "製造廠廠址": "NURNBERGER STR. 12, 90537 FEUCHT, GERMANY",
-            "製造廠公司地址": "",
-            "製造廠國別": "GERMANY",
+            "": "GERMANY",
             "製程": ""
         }
     ],
@@ -46,13 +45,6 @@
             "製造廠公司地址": "",
             "製造廠國別": "SWITZERLAND",
             "製程": "許可證持有者"
-        },
-        {
-            "製造廠名稱": "FCH0208000  F.HOFFMANN-LA ROCHE LTD.",
-            "製造廠廠址": "WURMISWEG, CH-4303 KAISERAUGST, SWITZERLAND",
-            "製造廠公司地址": "",
-            "製造廠國別": "SWITZERLAND",
-            "製程": "包裝"
         }
     ],
     "CCC號列": "30049071005 抗癌藥Anti-cancer preparations",
@@ -85,20 +77,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "截瘤達-中文(450x500mm)-0421-XEL-01-110-06-21.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022409&Seq=044&Type=9"
+            "title": "1106009223_截瘤達-中文(930x440mm)-0621-XEL-01-110-09-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022409&Seq=045&Type=9"
         },
         {
-            "title": "Xeloda 500mg_024409-1-CTN-05-108-04-18(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022409&Seq=005&Type=8"
+            "title": "1106009223_Xeloda_500mg_022409-1-CTN-06-out-110-09-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022409&Seq=007&Type=8"
         },
         {
-            "title": "Xeloda 500mg_鋁箔_10155912-107-07-12.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022409&Seq=004&Type=8"
-        },
-        {
-            "title": "Xeloda 500_外盒_024409-1-CTN-04-107-07-12.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022409&Seq=003&Type=8"
+            "title": "1106009223_Xeloda 500mg_TW blister-out-110-09-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022409&Seq=006&Type=8"
         }
     ]
 }

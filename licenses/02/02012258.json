@@ -1,7 +1,7 @@
 {
     "code": "02012258",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02012258",
-    "time": "2021-05-28 04:56:22",
+    "time": "2021-10-08 03:15:51",
     "許可證字號": "衛署藥輸字第012258號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "13006383",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00201225809",
     "中文品名": "防治黴靜脈凍晶注射劑",
     "英文品名": "FUNGIZONE INTRAVENOUS INJECTION",
@@ -32,10 +34,7 @@
     "申請商地址": "台北市松山區南京東路四段126號10樓，10樓之1-3",
     "主製造廠": [
         {
-            "製造廠名稱": "FFR0191000  FAMAR L&#39; AIGLE",
-            "製造廠廠址": "USINE DE L&#39;ISLE-28380 ST-REMY SUR-AVRE, FRANCE",
-            "製造廠公司地址": "",
-            "製造廠國別": "FRANCE",
+            "": "FRANCE",
             "製程": "製造、包裝"
         }
     ],
@@ -78,20 +77,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "LEAFLET_FUNGIZONE_50_MG_TW_90002841_10_1_310139504-109-02-25(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02012258&Seq=008&Type=9"
+            "title": "141059_LEAFLET_FUNGIZONE_50_MG_TW_90002841_11_2-110-09-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02012258&Seq=009&Type=9"
         },
         {
-            "title": "Fungizone Inj Insert (CCDS 02-Jun-2011)[CH-track]_add excipient(無框)_0828-107-08-30(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02012258&Seq=007&Type=9"
+            "title": "141061_CARTON_FUNGIZONE_50_MG_TW_90002840_11_2-110-09-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02012258&Seq=006&Type=8"
         },
         {
-            "title": "CARTON_FUNGIZONE_50_MG_TW_90002840_10_1_310941300-109-02-25(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02012258&Seq=004&Type=8"
-        },
-        {
-            "title": "carton_clean-106-06-06(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02012258&Seq=003&Type=8"
+            "title": "141060_LABEL_FUNGIZONE_50_MG_TW_90002443_11_4-110-09-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02012258&Seq=005&Type=8"
         }
     ]
 }

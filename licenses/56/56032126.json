@@ -1,7 +1,7 @@
 {
     "code": "56032126",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56032126",
-    "time": "2020-04-24 05:59:11",
+    "time": "2021-10-08 04:17:59",
     "許可證字號": "衛部醫器輸字第032126號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,11 +12,13 @@
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05603212603",
     "中文品名": "美艾利爾N端B型利鈉肽前驅物檢驗試劑組",
     "英文品名": "Alere NT-proBNP",
     "效能": "本產品為化學冷光微粒免疫分析(CMIA)，可用於體外定量檢測人體血清和血漿中的N端B型利鈉肽前驅物，需搭配具備STAT標準程序功能的ARCHITECT iSystem 使用。",
-    "醫器規格": "2R10-25、2R10-35、2R10-01、2R10-10，以下空白。",
+    "醫器規格": "2R10-25、2R10-35、2R10-01、2R10-10，以下空白。新增規格：2R10-02、2R10-11，以下空白。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -37,10 +39,7 @@
     "申請商地址": "臺北市松山區南京東路4段16號11樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MGB1026100  Axis-Shield Diagnostics Limited",
-            "製造廠廠址": "Luna Place, The Technology Park, Dundee, DD2 1XA, United Kingdom",
-            "製造廠公司地址": "",
-            "製造廠國別": "UNITED KINGDOM",
+            "": "UNITED KINGDOM",
             "製程": ""
         }
     ],
@@ -48,8 +47,16 @@
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "56032126-110-09-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56032126&Seq=002&Type=9"
+        },
+        {
             "title": "560321260001-108-02-14.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56032126&Seq=001&Type=9"
+        },
+        {
+            "title": "56032126-110-09-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56032126&Seq=002&Type=8"
         },
         {
             "title": "560321260002-108-02-14.pdf",

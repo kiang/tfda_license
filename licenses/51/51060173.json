@@ -1,7 +1,7 @@
 {
     "code": "51060173",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51060173",
-    "time": "2020-02-26 06:22:23",
+    "time": "2021-10-08 03:29:51",
     "許可證字號": "衛部藥製字第060173號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY05106017300",
     "中文品名": "&quot;醫強&quot;透析液6號RS252(A)及&quot;醫強&quot;透析粉6號RSP-1(B)",
     "英文品名": "&quot;Estrong&quot; No.6 Hemodialysis Concentrate RS252(A) &amp; &quot;Estrong&quot; No.6 Bicarbonate Concentrates Powder, RSP-1(B)",
@@ -32,10 +34,7 @@
     "申請商地址": "屏東縣長治鄉德和村農園路27號",
     "主製造廠": [
         {
-            "製造廠名稱": "6143060106  醫強科技股份有限公司",
-            "製造廠廠址": "屏東縣長治鄉德和村農園路27號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
@@ -183,11 +182,23 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "醫強透析液6號 外觀-109-03-11(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51060173&Seq=003&Type=10"
+        },
+        {
+            "title": "醫強透析粉6號 外觀 8470gm-109-03-11(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51060173&Seq=002&Type=10"
+        },
+        {
             "title": "“醫強”透析粉6號-產品外觀-107-11-08.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51060173&Seq=001&Type=10"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "醫強透析液6號 仿單-109-03-11(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51060173&Seq=003&Type=9"
+        },
         {
             "title": "”醫強”透析粉6號RSP-1(B)仿單-107-11-08.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51060173&Seq=002&Type=9"
@@ -195,6 +206,10 @@
         {
             "title": "“醫強”透析液6號RS252( A)仿單-107-11-08.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51060173&Seq=001&Type=9"
+        },
+        {
+            "title": "醫強透析液6號 標籤 3.8L-109-03-11(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51060173&Seq=003&Type=8"
         },
         {
             "title": "''醫強''透析液6號RSP-1(B)標籤-107-11-08.pdf",

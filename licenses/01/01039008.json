@@ -1,7 +1,7 @@
 {
     "code": "01039008",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01039008",
-    "time": "2020-10-30 09:55:02",
+    "time": "2021-10-08 03:05:42",
     "許可證字號": "衛署藥製字第039008號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00103900803",
     "中文品名": "&quot;賜利優&quot;利暢循9.6毫克\/毫升（銀杏葉類黃酮配醣體）",
     "英文品名": "RICHAS SOLUTION 9.6MG\/ML (GINKGOFLAVONGLYCOSIDE)",
@@ -32,10 +34,7 @@
     "申請商地址": "彰化縣彰化市茄苳里茄苳路二段251巷臨115-1號1樓",
     "主製造廠": [
         {
-            "製造廠名稱": "6132020070  榮民製藥股份有限公司",
-            "製造廠廠址": "桃園市中壢區中山東路３段４４７號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
@@ -49,6 +48,16 @@
             "含量描述": "(eq. to 9.6 mg GINKGOFLAVONGLYCOSIDES CALCULATED AS QUERCETIN, KAEMPFEROL AND ISORHAMNETIN)",
             "含量": "40.0000000000",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "利暢循仿單-104-07-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039008&Seq=001&Type=9"
+        },
+        {
+            "title": "01-039008 標籤-104-07-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039008&Seq=002&Type=8"
         }
     ]
 }

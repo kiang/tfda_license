@@ -1,7 +1,7 @@
 {
     "code": "60001055",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60001055",
-    "time": "2020-06-26 05:21:25",
+    "time": "2021-10-08 03:38:09",
     "許可證字號": "衛部菌疫輸字第001055號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "菌　疫",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA06000105509",
     "中文品名": "諾和第八因子注射劑 250 IU",
     "英文品名": "NovoEight 250 IU",
@@ -24,7 +26,7 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "藥品分類": "基因工程產品",
+    "藥品分類": "基因工程產品_新單位含量",
     "監視期限": "",
     "主成分略述": "Turoctocog alfa",
     "限制項目": "02輸　入 1L監視中新藥 51免除銜接性臨床試驗",
@@ -32,11 +34,12 @@
     "申請商地址": "台北市大安區敦化南路2段207號10樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FDK0034000  NOVO NORDISK A\/S",
-            "製造廠廠址": "HAGEDORNSVEJ 1, DK 2820 GENTOFTE, DENMARK",
-            "製造廠公司地址": "",
-            "製造廠國別": "DENMARK",
+            "": "DENMARK",
             "製程": ""
+        },
+        {
+            "": "DENMARK",
+            "製程": "包裝與製劑廠"
         }
     ],
     "次製造廠": [
@@ -46,20 +49,6 @@
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
             "製程": "注射針筒裝溶劑製造廠"
-        },
-        {
-            "製造廠名稱": "FDK0042000  NOVO NORDISK A\/S",
-            "製造廠廠址": "HALLAS ALLE, DK-4400 KALUNDBORG, DENMARK",
-            "製造廠公司地址": "",
-            "製造廠國別": "DENMARK",
-            "製程": "包裝"
-        },
-        {
-            "製造廠名稱": "FDK0053000  Novo Nordisk A\/S",
-            "製造廠廠址": "Brennum Park DK-3400 Hillerod, Denmark",
-            "製造廠公司地址": "",
-            "製造廠國別": "DENMARK",
-            "製程": "主成分(drug substance)製造廠"
         },
         {
             "製造廠名稱": "FUS1151000  NOVO NORDISK US BIO PRODUCTION, INC.",
@@ -99,8 +88,16 @@
     ],
     "仿單外盒": [
         {
+            "title": "NovoEight 250IU, 500IU, 1000IU leaflet (8-9063-10-001-4)-109-10-28(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001055&Seq=005&Type=9"
+        },
+        {
             "title": "NovoEight 250IU+500IU+1000IU-108-12-04.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001055&Seq=004&Type=9"
+        },
+        {
+            "title": "NovoEight 250IU carton (8-9063-10-301-3)-109-10-28(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001055&Seq=006&Type=8"
         },
         {
             "title": "NovoEight 250IU Label (8-9063-10-201-1)-108-03-29(廠商自行上傳).pdf",

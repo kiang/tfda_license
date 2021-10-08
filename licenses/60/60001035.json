@@ -1,7 +1,7 @@
 {
     "code": "60001035",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60001035",
-    "time": "2020-06-26 05:21:12",
+    "time": "2021-10-08 03:37:56",
     "許可證字號": "衛部菌疫輸字第001035號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "菌　疫",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA06000103503",
     "中文品名": "類希瑪",
     "英文品名": "Remsima",
@@ -27,15 +29,12 @@
     "藥品分類": "",
     "監視期限": "110\/12\/22",
     "主成分略述": "Infliximab",
-    "限制項目": "02輸　入 1D須執行風險管理計畫 1EPhase IV Study 5F免除銜接性試驗 91生物相似性藥品",
+    "限制項目": "02輸　入 1D須執行風險管理計畫 1E須執行Phase IV Study 5F免除銜接性試驗 91生物相似性藥品",
     "申請商名稱": "620118P360  台灣賽特瑞恩有限公司",
     "申請商地址": "臺北市松山區南京東路五段1號5樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FKR0182100  CELLTRION INC.",
-            "製造廠廠址": "20, ACADEMY-RO, 51BEON-GIL, YEONSU-GU, INCHEON, 22014, REPUBLIC OF KOREA",
-            "製造廠公司地址": "",
-            "製造廠國別": "KOREA",
+            "": "KOREA",
             "製程": ""
         }
     ],
@@ -62,8 +61,16 @@
     ],
     "仿單外盒": [
         {
+            "title": "Remsima 100mg_Leaflet_Taiwan-109-09-09(廠商自行上傳)-109-09-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001035&Seq=004&Type=9"
+        },
+        {
             "title": "CTP13 SmPC indication CN clean 20190819-108-08-23.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001035&Seq=003&Type=9"
+        },
+        {
+            "title": "Remsima 100mg_Carton_Taiwan-109-09-09(廠商自行上傳)-109-09-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001035&Seq=004&Type=8"
         },
         {
             "title": "CT-P13 100mg_Carton_Taiwan_ver7-106-07-03(廠商自行上傳).pdf",

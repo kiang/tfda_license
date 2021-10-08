@@ -1,7 +1,7 @@
 {
     "code": "56026646",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026646",
-    "time": "2020-02-26 07:37:04",
+    "time": "2021-10-08 04:08:55",
     "許可證字號": "衛部醫器輸字第026646號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,11 +12,13 @@
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05602664604",
     "中文品名": "“亞諾”強效型抗感染導管",
     "英文品名": "“Arrow” ARROWgard Blue PLUS Catheters",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "詳如中文仿單核定本",
+    "醫器規格": "詳如中文仿單核定本。標籤及規格變更：詳如核定之中文說明書（原103年11月19日核定之標籤、說明書或包裝收回作廢）。註銷規格：CS-42802、CV-42854及CV-45854。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -37,17 +39,14 @@
     "申請商地址": "臺北市大安區敦化南路2段207號16樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MCZ0061000  Arrow International CR, a.s.",
-            "製造廠廠址": "Jamsk&#225; 2359\/47, 59101 Zd&#225;r nad S&#225;zavou, Czech Republic",
-            "製造廠公司地址": "",
-            "製造廠國別": "CZECH REPUBLIC",
+            "": "CZECH REPUBLIC",
             "製程": ""
         }
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "MUS4937000  Arrow International, Inc. (Subsidiary of Teleflex Inc.)",
-            "製造廠廠址": "2400 Bernville Road, Reading, PA 19605, USA",
+            "製造廠名稱": "MUS4937000  Arrow International LLC (Subsidiary of Teleflex Incorporated)",
+            "製造廠廠址": "3015 Carrington Mill Blvd. Morrisville, NC, 27560, USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
             "製程": "總公司"
@@ -57,12 +56,12 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "560266460001-103-11-20.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026646&Seq=001&Type=9"
+            "title": "560266460001-110-09-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026646&Seq=002&Type=9"
         },
         {
-            "title": "560266460002-103-11-20.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026646&Seq=001&Type=8"
+            "title": "560266460002-110-09-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026646&Seq=002&Type=8"
         }
     ]
 }

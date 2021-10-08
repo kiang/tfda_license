@@ -1,7 +1,7 @@
 {
     "code": "01031130",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01031130",
-    "time": "2020-08-28 11:00:11",
+    "time": "2021-10-08 03:03:56",
     "許可證字號": "衛署藥製字第031130號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "01008263",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00103113002",
     "中文品名": "樂下栓劑",
     "英文品名": "LAXATIN SUPPOSITORY",
@@ -32,10 +34,7 @@
     "申請商地址": "桃園市新屋區中興路988號",
     "主製造廠": [
         {
-            "製造廠名稱": "0614004300  回春堂製藥廠股份有限公司",
-            "製造廠廠址": "桃園市新屋區社子里中興路988號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
@@ -69,12 +68,36 @@
     ],
     "仿單外盒": [
         {
+            "title": "說明書-110-09-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031130&Seq=004&Type=9"
+        },
+        {
             "title": "樂下栓劑_說明書-109-06-18.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031130&Seq=003&Type=9"
         },
         {
             "title": "DUL50 樂下栓劑 仿單-104-12-31(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031130&Seq=002&Type=9"
+        },
+        {
+            "title": "鋁箔-110-09-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031130&Seq=011&Type=8"
+        },
+        {
+            "title": "紙盒-110-09-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031130&Seq=010&Type=8"
+        },
+        {
+            "title": "紙卡-110-09-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031130&Seq=009&Type=8"
+        },
+        {
+            "title": "標籤-110-09-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031130&Seq=008&Type=8"
+        },
+        {
+            "title": "外盒-110-09-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01031130&Seq=007&Type=8"
         },
         {
             "title": "樂下栓劑_大紙盒-109-06-18.pdf",

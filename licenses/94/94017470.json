@@ -1,17 +1,19 @@
 {
     "code": "94017470",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94017470",
-    "time": "2020-02-26 12:08:29",
+    "time": "2021-10-08 06:05:20",
     "許可證字號": "衛部醫器輸壹字第017470號",
-    "註銷狀態": "",
+    "註銷狀態": "已註銷",
     "註銷日期": "",
-    "註銷理由": "",
+    "註銷理由": "轉為登錄字號",
     "製造許可登錄編號": "QSD8617",
     "有效日期": "111\/02\/03",
     "發證日期": "106\/02\/03",
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第一等級",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "轉為「衛部醫器輸壹登字第017470號」",
     "通關簽審文件編號": "DHA09401747002",
     "中文品名": "&quot;美敦力&quot; 迪淨崔帕動態酸鹼值及阻抗值監控系統 (未滅菌)",
     "英文品名": "&quot;Medtronic&quot; Digitrapper Ambulatory pH and Impedance Monitoring System (non-sterile)",
@@ -37,17 +39,11 @@
     "申請商地址": "台北市松山區敦化南路一段2號2樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MIL0144000  GIVEN IMAGING, LTD.",
-            "製造廠廠址": "2 HACARMEL ST., NEW INDUSTRIAL PARK POB 258, 20692 YOQNEAM, ISRAEL",
-            "製造廠公司地址": "",
-            "製造廠國別": "ISRAEL",
+            "": "ISRAEL",
             "製程": "Manufactured by"
         },
         {
-            "製造廠名稱": "MUS1141000  RICCA CHEMICAL COMPANY",
-            "製造廠廠址": "448 WEST FORK DRIVE, ARLINGTON, TAXES 76012, U.S.A.",
-            "製造廠公司地址": "",
-            "製造廠國別": "UNITED STATES",
+            "": "UNITED STATES",
             "製程": "99部分製程"
         }
     ],

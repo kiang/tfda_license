@@ -1,7 +1,7 @@
 {
     "code": "02013148",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02013148",
-    "time": "2020-02-25 10:20:54",
+    "time": "2021-10-08 03:16:00",
     "許可證字號": "衛署藥輸字第013148號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00201314807",
     "中文品名": "妥開利注射劑",
     "英文品名": "TRACRIUM INJECTION",
@@ -32,11 +34,8 @@
     "申請商地址": "台北市大安區敦化南路二段207號20樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FIT0339000  GLAXOSMITHKLINE MANUFACTURING S.P.A.",
-            "製造廠廠址": "STRADA PROVINCIALE ASOLANA 90 43056 SAN POLO DI TORRILE PARMA, ITALY",
-            "製造廠公司地址": "",
-            "製造廠國別": "ITALY",
-            "製程": ""
+            "": "SOUTH AFRICA",
+            "製程": "成品及包裝廠"
         }
     ],
     "次製造廠": [
@@ -72,14 +71,26 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "Tracrium (TW)_SVP_LAB_20211006-110-10-06(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02013148&Seq=004&Type=10"
+        },
+        {
             "title": "020131480003-104-09-24(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02013148&Seq=003&Type=10"
         }
     ],
     "仿單外盒": [
         {
+            "title": "Tracrium (TW)_SVP_PIL_20211006 B-110-10-06(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02013148&Seq=008&Type=9"
+        },
+        {
             "title": "Tracrium injection L877-301-07_10000000131102-104-09-09(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02013148&Seq=007&Type=9"
+        },
+        {
+            "title": "Tracrium (TW)_SVP_CTN_20211006-110-10-06(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02013148&Seq=002&Type=8"
         },
         {
             "title": "Tracrium Inj M877-301-04_10000000125754-104-09-24(廠商自行上傳).pdf",

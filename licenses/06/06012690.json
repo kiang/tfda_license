@@ -1,20 +1,22 @@
 {
     "code": "06012690",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06012690",
-    "time": "2020-07-24 06:12:09",
+    "time": "2021-10-08 03:43:12",
     "許可證字號": "衛署醫器輸字第012690號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可登錄編號": "QSD1152",
+    "製造許可登錄編號": "QSD0897",
     "有效日期": "114\/10\/13",
     "發證日期": "94\/10\/13",
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00601269001",
-    "中文品名": "&quot;楚拜&quot;路西通一九九替換底墊樹脂",
-    "英文品名": "&quot;TRUBYTE&quot; LUCITONE 199 DENTURE BASE RESIN",
+    "中文品名": "&quot;寇克&quot; 路西通一九九替換底墊樹脂",
+    "英文品名": "&quot;Caulk&quot; LUCITONE 199 DENTURE BASE RESIN",
     "效能": "詳如中文仿單核定本",
     "醫器規格": "詳如中文仿單核定本。仿單標籤變更：詳如中文仿單核定本，原95.2.10仿單標籤核定本予以回收作廢，以下空白。",
     "劑型": "",
@@ -37,23 +39,29 @@
     "申請商地址": "新北市板橋區三民路1段216號12樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MUS1783000  DENTSPLY TRUBYTE",
-            "製造廠廠址": "570 WEST COLLEGE AVENUE, YORK, PA 17401, U.S.A.",
+            "": "UNITED STATES",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS5860000  Dentsply Sirona",
+            "製造廠廠址": "1301 SMILE WAY York, PA 17404 USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
-            "製程": ""
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060126900001-108-01-25.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012690&Seq=002&Type=9"
+            "title": "060126900001(110.09.02)-110-09-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012690&Seq=003&Type=9"
         },
         {
-            "title": "060126900001-108-01-25.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012690&Seq=002&Type=8"
+            "title": "060126900001(110.09.02)-110-09-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012690&Seq=003&Type=8"
         }
     ]
 }

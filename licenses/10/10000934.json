@@ -1,7 +1,7 @@
 {
     "code": "10000934",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000934",
-    "time": "2020-09-25 10:22:34",
+    "time": "2021-10-08 03:27:29",
     "許可證字號": "衛署菌疫輸字第000934號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,10 +12,12 @@
     "許可證種類": "菌　疫",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA01000093400",
     "中文品名": "儷緻注射劑 300U",
     "英文品名": "Dysport, powder for solution for injection, 300U",
-    "適應症": "成人上肢痙攣（包含成人中風後之手臂痙攣及創傷性腦傷後之上肢痙攣）、成人下肢痙攣（包含成人中風後或創傷性腦損傷後之下肢痙攣）、眼瞼痙攣、半邊顏面痙攣、痙攣性斜頸、小兒腦性麻痺引起之肌肉痙攣、皺眉紋及腋窩多汗症。",
+    "適應症": "成人上肢痙攣(包含成人中風後之手臂痙攣及創傷性腦傷後之上肢痙攣)、成人下肢痙攣(包含成人中風後或創傷性腦損傷後之下肢痙攣)、眼瞼痙攣、半邊顏面痙攣、痙攣性斜頸、小兒腦性麻痺引起之肌肉痙攣及上肢痙攣、腋窩多汗症、皺眉紋及魚尾紋。",
     "劑型": "243凍晶注射劑",
     "包裝": "每盒一支小瓶裝",
     "儲存溫度": "",
@@ -32,10 +34,7 @@
     "申請商地址": "台北市信義區松仁路89號13樓(D室)",
     "主製造廠": [
         {
-            "製造廠名稱": "FGB0146000  IPSEN BIOPHARM LTD.",
-            "製造廠廠址": "ASH ROAD, WREXHAM INDUSTRIAL ESTATE, WREXHAM, CLWYD, LL13 9UF, UK",
-            "製造廠公司地址": "IPSEN LIMITED, 190 BATH ROAD, SLOUGH, BERKSHIRE, SL1 3XE, UK",
-            "製造廠國別": "UNITED KINGDOM",
+            "": "UNITED KINGDOM",
             "製程": ""
         }
     ],
@@ -51,16 +50,26 @@
             "單位": "U (UNIT)"
         }
     ],
-    "藥物辨識詳細資料": [],
-    "藥物辨識外觀圖片": [],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Dysport_300U-Wrexham-1_vial-FoldingBox-Taiwan-(2.1)-108-07-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000934&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "Leaflet_Dysport_300U_500U_20190329-108-07-30(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000934&Seq=007&Type=9"
-        },
-        {
-            "title": "Dysport仿單final_1001-107-10-09.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000934&Seq=006&Type=9"
+            "title": "Dysport儷緻注射劑 300 500U_中文仿單修改版_Final 2_20210915-110-09-15.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000934&Seq=008&Type=9"
         },
         {
             "title": "Dysport_300U-Wrexham-1_vial-FoldingBox-Taiwan-(2.1)-108-07-30(廠商自行上傳).pdf",

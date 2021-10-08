@@ -1,7 +1,7 @@
 {
     "code": "06013543",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06013543",
-    "time": "2020-08-28 12:25:23",
+    "time": "2021-10-08 03:43:23",
     "許可證字號": "衛署醫器輸字第013543號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,11 +12,13 @@
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00601354306",
     "中文品名": "“喜博”醫用自動電子血壓計",
     "英文品名": "“Selvas”Sphygmomanometers",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "FT-500R, 以下空白。EASY X 800R, EASY X 900R。註銷規格：FT-500R、EASY X 900R。增加規格：EX PLUS 1300。規格名稱變更為：ACCUNIQ BP210及ACCUNIQ BP850。（原99年6月11日及104年10月12日仿單標籤核定本作廢）\r\n增加規格：ACCUNIQ BP500。",
+    "醫器規格": "FT-500R, 以下空白。EASY X 800R, EASY X 900R。註銷規格：FT-500R、EASY X 900R。增加規格：EX PLUS 1300。規格名稱變更為：ACCUNIQ BP210及ACCUNIQ BP850。（原99年6月11日及104年10月12日仿單標籤核定本作廢）。增加規格：ACCUNIQ BP500。標籤、說明書或包裝變更：詳如核定之中文說明書（原106年6月9日及109年4月29日核定之中文說明書收回作廢）。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -37,10 +39,7 @@
     "申請商地址": "台北市大同區承德路三段41號1樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MKR0890000  Selvas Healthcare, Inc.",
-            "製造廠廠址": "155 Shinseong-ro, Yuseong-gu, Daejeon, 34109 Korea",
-            "製造廠公司地址": "",
-            "製造廠國別": "KOREA",
+            "": "KOREA",
             "製程": ""
         }
     ],
@@ -48,16 +47,20 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060135430001-109-04-29.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013543&Seq=008&Type=9"
+            "title": "060135430001-2-110-09-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013543&Seq=010&Type=9"
         },
         {
-            "title": "060135430001-106-07-03.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013543&Seq=007&Type=9"
+            "title": "060135430001-1-110-09-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013543&Seq=009&Type=9"
         },
         {
-            "title": "060135430001-106-07-03.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013543&Seq=002&Type=8"
+            "title": "060135430002-2-110-09-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013543&Seq=004&Type=8"
+        },
+        {
+            "title": "060135430002-1-110-09-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013543&Seq=003&Type=8"
         }
     ]
 }

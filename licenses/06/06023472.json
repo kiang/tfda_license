@@ -1,7 +1,7 @@
 {
     "code": "06023472",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023472",
-    "time": "2020-02-25 20:31:42",
+    "time": "2021-10-08 03:53:44",
     "許可證字號": "衛署醫器輸字第023472號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,11 +12,13 @@
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00602347202",
     "中文品名": "西門子維生素D總量試劑組",
     "英文品名": "ADVIA Centaur Vitamin D Total",
     "效能": "搭配ADVIA Centaur、ADVIA Centaur XP分析儀，定量測定人類血清和血漿中的總25(OH)維生素D濃度。",
-    "醫器規格": "10491994 (100 tests)\/10631021 (500 tests), 10493589 (Calibrator 2-pack)\/10630911(Calibrator 6-pack), 10632229 (Control 3-pack), 10494100 (Diluent 2-pack)\/10632114(Diluent 1 bottle),以下空白\r\n申請變更項目：新增規格：10699201 (100 tests)，10699533 (500 tests)，10699200 (2.0 mL\/vial)，以下空白。",
+    "醫器規格": "10491994 (100 tests)\/10631021 (500 tests), 10493589 (Calibrator 2-pack)\/10630911(Calibrator 6-pack), 10632229 (Control 3-pack), 10494100 (Diluent 2-pack)\/10632114(Diluent 1 bottle),以下空白\r\n申請變更項目：新增規格：10699201 (100 tests)，10699533 (500 tests)，10699200 (2.0 mL\/vial)，以下空白。\r\n刪除規格：10493589(Calibrator 2-pack)、10630911(Calibrator 6-pack)。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -37,10 +39,7 @@
     "申請商地址": "台北市南港區園區街3號2樓之2",
     "主製造廠": [
         {
-            "製造廠名稱": "MUS1176000  SIEMENS HEALTHCARE DIAGNOSTICS INC.",
-            "製造廠廠址": "333 CONEY ST. EAST WALPOLE, MA 02032, U.S.A.",
-            "製造廠公司地址": "",
-            "製造廠國別": "UNITED STATES",
+            "": "UNITED STATES",
             "製程": ""
         }
     ],

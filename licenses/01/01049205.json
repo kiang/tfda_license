@@ -1,7 +1,7 @@
 {
     "code": "01049205",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01049205",
-    "time": "2020-02-25 07:27:09",
+    "time": "2021-10-08 03:09:16",
     "許可證字號": "衛署藥製字第049205號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00104920501",
     "中文品名": "黴斯妙乳膏 10 毫克\/公克",
     "英文品名": "Misymia Cream 10 mg\/g",
@@ -32,10 +34,7 @@
     "申請商地址": "屏東市龍華里龍華路３８１號",
     "主製造廠": [
         {
-            "製造廠名稱": "1111823300  台灣陽生製藥工業股份有限公司",
-            "製造廠廠址": "屏東市龍華路３８１號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
@@ -85,12 +84,32 @@
     ],
     "仿單外盒": [
         {
+            "title": "陽生黴斯妙乳膏說明書-110-03-12(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049205&Seq=004&Type=9"
+        },
+        {
             "title": "黴斯妙說明書-107-06-07.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049205&Seq=003&Type=9"
         },
         {
             "title": "0814修=陽生-210黴斯妙乳膏說明書雙面9x19.5cm--(加賦形劑).-104-09-24(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049205&Seq=002&Type=9"
+        },
+        {
+            "title": "陽生黴斯妙乳膏鋁管(綠)-110-03-12(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049205&Seq=012&Type=8"
+        },
+        {
+            "title": "陽生黴斯妙乳膏鋁管(黃)-110-03-12(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049205&Seq=011&Type=8"
+        },
+        {
+            "title": "陽生黴斯妙乳膏外盒(綠)-110-03-12(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049205&Seq=010&Type=8"
+        },
+        {
+            "title": "陽生黴斯妙乳膏外盒(黃)-110-03-12(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01049205&Seq=009&Type=8"
         },
         {
             "title": "黴斯妙桂花彩盒-107-06-07.pdf",
