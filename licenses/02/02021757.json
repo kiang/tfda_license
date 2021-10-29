@@ -1,7 +1,7 @@
 {
     "code": "02021757",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021757",
-    "time": "2021-10-22 07:36:28",
+    "time": "2021-10-29 07:20:24",
     "許可證字號": "衛署藥輸字第021757號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -35,7 +35,7 @@
     "主製造廠": [
         {
             "": "ITALY",
-            "製程": ""
+            "製程": "成品製造、一級包裝、二級包裝"
         }
     ],
     "次製造廠": [
@@ -45,13 +45,6 @@
             "製造廠公司地址": "",
             "製造廠國別": "SWITZERLAND",
             "製程": "許可證持有者"
-        },
-        {
-            "製造廠名稱": "FCH0257000  F. HOFFMANN-LA ROCHE LTD.",
-            "製造廠廠址": "WURMISWEG, CH-4303 KAISERAUGST, SWITZERLAND",
-            "製造廠公司地址": "",
-            "製造廠國別": "SWITZERLAND",
-            "製程": "包裝及分裝"
         }
     ],
     "CCC號列": "30049091001 抗排斥醫藥製劑Immunosuppressive preparations",
@@ -84,12 +77,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "山喜多(148x840mm)-0621-CEL-01-110-08-04.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021757&Seq=072&Type=9"
+            "title": "CellCept-0821-CEL-01_PI-110-10-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021757&Seq=073&Type=9"
         },
         {
-            "title": "10209737_CellCept 250 cap_Delpharm-108-03-19(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021757&Seq=004&Type=8"
+            "title": "Cellcept_250mg_F652-S00336_TW_updated-110-10-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021757&Seq=006&Type=8"
+        },
+        {
+            "title": "Cellcept_250 mg_blister-110-10-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021757&Seq=005&Type=8"
         }
     ]
 }
