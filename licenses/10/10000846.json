@@ -1,17 +1,19 @@
 {
     "code": "10000846",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000846",
-    "time": "2020-11-27 10:16:26",
+    "time": "2021-11-19 03:29:43",
     "許可證字號": "衛署菌疫輸字第000846號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "111\/08\/01",
-    "發證日期": "107\/04\/16",
+    "發證\/登錄日期": "107\/04\/16",
     "許可證種類": "菌　疫",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA01000084603",
     "中文品名": "恩博針筒裝注射劑 50 毫克",
     "英文品名": "Enbrel 50mg solution for injection in pre-filled syringe",
@@ -32,11 +34,12 @@
     "申請商地址": "台北市信義區松仁路100號42、43樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FDE0292000  VETTER PHARMA-FERTIGUNG GMBH &amp; CO. KG",
-            "製造廠廠址": "EISENBAHNSTRASSE 2-4, 88085 LANGENARGEN GERMANY",
-            "製造廠公司地址": "",
-            "製造廠國別": "GERMANY",
+            "": "GERMANY",
             "製程": ""
+        },
+        {
+            "": "BELGIUM",
+            "製程": "成品及包裝廠"
         }
     ],
     "次製造廠": [
@@ -53,13 +56,6 @@
             "製造廠公司地址": "",
             "製造廠國別": "IRELAND",
             "製程": "原料藥製造廠"
-        },
-        {
-            "製造廠名稱": "MBE0019100  PFIZER MANUFACTURING BELGIUM NV",
-            "製造廠廠址": "RIJKSWEG 12, 2870, PUURS, BELGIUM",
-            "製造廠公司地址": "",
-            "製造廠國別": "BELGIUM",
-            "製程": "成品及包裝廠"
         }
     ],
     "CCC號列": "",
@@ -92,8 +88,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "Enbrel PFS-PFP 50 mg LLD SPC 20191114-1-109-09-14.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000846&Seq=012&Type=9"
+            "title": "Enbrel PFS-PFP 50 mg LLD SPC 20210202-2-110-10-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000846&Seq=013&Type=9"
         },
         {
             "title": "恩博針筒裝注射劑 50 毫克Enbrel_外盒、標籤l-109-01-17.pdf",

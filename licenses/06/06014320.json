@@ -1,22 +1,24 @@
 {
     "code": "06014320",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06014320",
-    "time": "2021-02-26 04:57:03",
+    "time": "2021-11-19 03:51:11",
     "許可證字號": "衛署醫器輸字第014320號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "QSD5336",
     "有效日期": "115\/04\/20",
-    "發證日期": "95\/04\/20",
+    "發證\/登錄日期": "95\/04\/20",
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00601432004",
     "中文品名": "&quot;曲克&quot;培養系統",
     "英文品名": "&quot;COOK&quot; CULTURE SYSTEM",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "詳如中文仿單核定本。註銷規格：K-SIHY-1-5。註銷規格：K-SISB-50, K-SISB-100, K-SIWB-50, K-SIWB-100。\r\n註銷規格：K-SICO-200、K-SIEB-20、K-SICS-5000、K-SITS-5000、K-SIBF-5000及K-SIBT-5000。",
+    "醫器規格": "詳如中文仿單核定本。註銷規格：K-SIHY-1-5。註銷規格：K-SISB-50, K-SISB-100, K-SIWB-50, K-SIWB-100。\r\n註銷規格：K-SICO-200、K-SIEB-20、K-SICS-5000、K-SITS-5000、K-SIBF-5000及K-SIBT-5000。\r\n規格變更:詳如核定之中文說明書(原95年5月10日核定之標籤、說明書或包裝予以收回作廢)。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -37,10 +39,7 @@
     "申請商地址": "新北市新店區北新路三段207號11樓及207-1號11樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MAU0081000  WILLIAM A. COOK AUSTRALIA PTY LTD.",
-            "製造廠廠址": "95 BRANDL STREET, EIGHT MILE PLAINS QLD 4113, AUSTRALIA",
-            "製造廠公司地址": "",
-            "製造廠國別": "AUSTRALIA",
+            "": "AUSTRALIA",
             "製程": ""
         }
     ],
@@ -48,8 +47,12 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060143200001-109-12-30.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014320&Seq=029&Type=9"
+            "title": "060143200001-110-10-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014320&Seq=030&Type=9"
+        },
+        {
+            "title": "060143200001-110-10-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06014320&Seq=001&Type=8"
         }
     ]
 }

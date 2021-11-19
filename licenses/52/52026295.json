@@ -1,17 +1,19 @@
 {
     "code": "52026295",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026295",
-    "time": "2021-01-29 05:00:28",
+    "time": "2021-11-19 03:35:37",
     "許可證字號": "衛部藥輸字第026295號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "113\/04\/15",
-    "發證日期": "103\/04\/15",
+    "發證\/登錄日期": "103\/04\/15",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05202629508",
     "中文品名": "威而鋼口溶錠50毫克",
     "英文品名": "Viagra orodispersible tablets 50 mg",
@@ -28,14 +30,11 @@
     "監視期限": "",
     "主成分略述": "SILDENAFIL CITRATE",
     "限制項目": "",
-    "申請商名稱": "1504401100  輝瑞大藥廠股份有限公司",
-    "申請商地址": "台北市信義區松仁路100號42、43樓",
+    "申請商名稱": "620117S703  暉致醫藥股份有限公司",
+    "申請商地址": "臺北市信義區松仁路100號42、43樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FFR0080000  Fareva Amboise",
-            "製造廠廠址": "ZONE INDUSTRIELLE 29,ROUTE DES INDUSTRIES 37530, POCE-SUR-CISSE,FRANCE",
-            "製造廠公司地址": "",
-            "製造廠國別": "FRANCE",
+            "": "FRANCE",
             "製程": ""
         }
     ],
@@ -85,8 +84,16 @@
     ],
     "仿單外盒": [
         {
+            "title": "Viagra ODT 50mg_仿單 SPC 20160204-2-110-07-07(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026295&Seq=004&Type=9"
+        },
+        {
             "title": "52026295-Viagra ODT LLD SPC 20160204-1-105-06-06.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026295&Seq=003&Type=9"
+        },
+        {
+            "title": "Viagra ODT 50mg_外盒鋁箔-110-07-07(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026295&Seq=006&Type=8"
         },
         {
             "title": "Viagra ODT carton and foil-106-09-11(廠商自行上傳).pdf",

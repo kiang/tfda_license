@@ -1,17 +1,19 @@
 {
     "code": "06009863",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06009863",
-    "time": "2020-02-25 17:56:17",
+    "time": "2021-11-19 03:49:46",
     "許可證字號": "衛署醫器輸字第009863號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "QSD3616",
-    "有效日期": "111\/04\/09",
-    "發證日期": "91\/04\/09",
+    "有效日期": "116\/04\/09",
+    "發證\/登錄日期": "91\/04\/09",
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00600986309",
     "中文品名": "&quot;瑪蘭尼&quot; 人工移植骨",
     "英文品名": "&quot;BIOMATLANTE&quot; TRIOSITE BONE SUBSTITUTE",
@@ -37,10 +39,7 @@
     "申請商地址": "台北市松山區光復北路11巷35號7樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MFR0978000  Biomatlante SA",
-            "製造廠廠址": "ZA. Les Quatre Nations, 5, rue Edouard Belin, 44360 Vigneux de Bretagne, France",
-            "製造廠公司地址": "",
-            "製造廠國別": "FRANCE",
+            "": "FRANCE",
             "製程": ""
         }
     ],
@@ -48,12 +47,12 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060098630002.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06009863&Seq=002&Type=9"
+            "title": "060098630001(96.3.29)-110-10-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06009863&Seq=003&Type=9"
         },
         {
-            "title": "060098630001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06009863&Seq=001&Type=9"
+            "title": "060098630001(96.3.29)-110-10-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06009863&Seq=001&Type=8"
         }
     ]
 }

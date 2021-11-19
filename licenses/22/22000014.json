@@ -1,21 +1,23 @@
 {
     "code": "22000014",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=22000014",
-    "time": "2020-07-24 05:18:47",
-    "許可證字號": "罕菌疫輸字第000014號",
+    "time": "2021-11-19 03:31:04",
+    "許可證字號": "衛署罕菌疫輸字第000014號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "111\/08\/27",
-    "發證日期": "101\/08\/27",
+    "發證\/登錄日期": "101\/08\/27",
     "許可證種類": "菌　疫",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA02200001409",
     "中文品名": "泰吉利濃縮靜脈輸注液 300 毫克",
     "英文品名": "Tysabri concentrate for solution for infusion 300mg",
-    "適應症": "單一藥物治療反覆發作型多發性硬化症，其病患群為下列成人患者：\r\n1) 已使用至少一種改善病程進展的治療 (Disease-modifying therapy, DMT)，但是仍持續惡化的病患，或\r\n2) 病情急速惡化的反覆發作型多發性硬化症患者。",
+    "適應症": "單一藥物治療反覆發作型多發性硬化症，其病人群為下列成人病人：\r\n1) 已使用至少一種改善病程進展的治療 (Disease-modifying therapy, DMT)，但是仍持續惡化的病人，或 \r\n2) 病情急速惡化的反覆發作型多發性硬化症病人。",
     "劑型": "270注射劑",
     "包裝": "15毫升小瓶",
     "儲存溫度": "",
@@ -32,17 +34,14 @@
     "申請商地址": "台北市長安東路一段十八號九樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FDE0559000  VETTER PHARMA-FERTIGUNG GMBH &amp; CO KG",
-            "製造廠廠址": "MOOSWIESEN 2, 88214 RAVENSBURG, GERMANY",
-            "製造廠公司地址": "",
-            "製造廠國別": "GERMANY",
+            "": "GERMANY",
             "製程": ""
         }
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "FDK0047100  BIOGEN DENMARK MANUFACTURING APS",
-            "製造廠廠址": "BIOGEN ALLE 1, DK-3400 HILLEROD, DENMARK",
+            "製造廠名稱": "FDK0070000  FUJIFILM DIOSYNTH BIOTECHNOLOGIES DENMARK APS",
+            "製造廠廠址": "BIOTEK ALLE 1, HILLEROD, 3400, DENMARK",
             "製造廠公司地址": "",
             "製造廠國別": "DENMARK",
             "製程": "原料藥製造廠及包裝廠"
@@ -92,32 +91,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單核定本-109-05-20.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=22000014&Seq=009&Type=9"
+            "title": "中文仿單_Tysabri PI (Chinese)_20211012_Final-110-10-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=22000014&Seq=010&Type=9"
         },
         {
-            "title": "41154-06 COM CARTON MPL TYSABRI CONC 300MG 1PK TWN_P1_T-108-10-29(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=22000014&Seq=011&Type=8"
+            "title": "Tysabri 標籤-110-10-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=22000014&Seq=013&Type=8"
         },
         {
-            "title": "41152-07 COM CARTON APL TYSABRI CONC 300MG 1PK TWN_P1_T-108-10-29(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=22000014&Seq=010&Type=8"
-        },
-        {
-            "title": "41155-04 COM LABEL VIAL TYSABRI CONC 300MG HLR TWN_P1_T-107-03-05(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=22000014&Seq=009&Type=8"
-        },
-        {
-            "title": "41154-05 COM CARTON MPL 1PK TYSABRI CONC 300MG TWN_P1_T-107-03-05(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=22000014&Seq=008&Type=8"
-        },
-        {
-            "title": "41152-06 COM CARTON APL 1PK TYSABRI CONC 300MG TWN_P1_T-107-03-05(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=22000014&Seq=007&Type=8"
-        },
-        {
-            "title": "LABEL VIAL TYSABRI CONC 300MG @HLR TWN_P1 TFDAAPP-105-08-30.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=22000014&Seq=003&Type=8"
+            "title": "Tysabri 外盒-110-10-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=22000014&Seq=012&Type=8"
         }
     ]
 }

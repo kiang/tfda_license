@@ -1,17 +1,19 @@
 {
     "code": "07003544",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07003544",
-    "time": "2021-05-28 06:07:44",
+    "time": "2021-11-19 04:26:45",
     "許可證字號": "衛署粧製字第003544號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "113\/06\/30",
-    "發證日期": "93\/04\/12",
+    "發證\/登錄日期": "93\/04\/12",
     "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00700354401",
     "中文品名": "卡樂芙優質染髮霜-松子亞麻",
     "英文品名": "COLORFUL CONDITIONING HAIR COLOR-ASH BLONDE",
@@ -26,29 +28,18 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "25% AMMONIA SOLUTION ( EQ TO AMMONIA 25%), RESORCINOL (RESORCIN), META-AMINOPHENOL (EQ TO M-AMINOPHENOL), P-TOLUENEDIAMINE SULFATE, 2-AMINO-4-HYDROXYETHYLAMINOANISOLE SULFATE",
+    "主成分略述": "RESORCINOL (RESORCIN), META-AMINOPHENOL (EQ TO M-AMINOPHENOL), TOLUENE-2,5-DIAMINE SULFATE, 2-AMINO-4-HYDROXYETHYLAMINOANISOLE SULFATE",
     "限制項目": "01國　產",
     "申請商名稱": "0931104200  美吾華股份有限公司",
     "申請商地址": "桃園市楊梅區幼獅工業區獅二路１０號",
     "主製造廠": [
         {
-            "製造廠名稱": "0931104500  美吾華股份有限公司",
-            "製造廠廠址": "桃園市楊梅幼獅工業區獅二路１０號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
     "藥理治療分類": "",
     "ingredients": [
-        {
-            "成分類別": "主成分",
-            "成分代碼": "2820000105",
-            "成分名稱": "25% AMMONIA SOLUTION ( EQ TO AMMONIA 25%)",
-            "含量描述": "",
-            "含量": "10.0000000000",
-            "單位": "%(W\/W)"
-        },
         {
             "成分類別": "主成分",
             "成分代碼": "8428000500",
@@ -67,8 +58,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9900066210",
-            "成分名稱": "P-TOLUENEDIAMINE SULFATE",
+            "成分代碼": "9900066200",
+            "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
             "含量描述": "",
             "含量": "0.0600000000",
             "單位": "%(W\/W)"
@@ -120,8 +111,8 @@
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003544&Seq=001&Type=9"
         },
         {
-            "title": "07003544-109-06-30.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003544&Seq=008&Type=8"
+            "title": "07003544-110-10-29.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07003544&Seq=009&Type=8"
         }
     ]
 }

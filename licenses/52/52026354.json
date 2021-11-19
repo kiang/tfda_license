@@ -1,20 +1,22 @@
 {
     "code": "52026354",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026354",
-    "time": "2020-10-30 10:41:14",
+    "time": "2021-11-19 03:36:24",
     "許可證字號": "衛部藥輸字第026354號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "113\/09\/30",
-    "發證日期": "103\/09\/30",
+    "發證\/登錄日期": "103\/09\/30",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05202635401",
     "中文品名": "達珂凍晶注射劑",
-    "英文品名": "Dacogen Powder for Concentrate for Solution for Infusion\r\n英文品名加註商標符號\r\nDacogen&#174;",
+    "英文品名": "Dacogen Powder for Concentrate for Solution for Infusion",
     "適應症": "(1)\r\n適用於治療不適合進行標準誘導化學療法之新診斷出患有原發性或續發性急性骨髓性白血病成人病人(AML，依據世界衛生組織(WHO)分類)。須符合Poor-or intermediate-risk Cytogenetics，且不適合用於Acute Promyelocytic Leukemia (M3 Classification)。\r\n\r\n(2)\r\n適用於治療骨髓化生不良症候群(MDS)成人病人，包括先前曾接受治療及未曾接受治療、所有French-American-British亞型之原發性與續發性MDS (頑固性貧血、環形鐵粒幼細胞的頑固性貧血、頑固性貧血併有過量芽細胞、頑固性貧血併有過量芽細胞轉變型、以及慢性骨髓單核球性白血病)、以及國際預後評分系統分類為中度危險-1、中度危險-2與高危險的病人。",
     "劑型": "243凍晶注射劑",
     "包裝": "玻璃小瓶裝 每盒100支以下盒裝",
@@ -32,10 +34,7 @@
     "申請商地址": "台北市中山區民生東路三段2號10樓及11樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FIT0479000  BSP PHARMACEUTICALS S.p.A",
-            "製造廠廠址": "VIA APPIA KM 65,561, LATINA SCALO(LT), 04013, ITALY",
-            "製造廠公司地址": "",
-            "製造廠國別": "ITALY",
+            "": "ITALY",
             "製程": ""
         }
     ],
@@ -45,13 +44,6 @@
             "製造廠廠址": "桃園市大園區和平里1鄰開和路91號",
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
-            "製程": "二級包裝廠(委託貼標及置入仿單)"
-        },
-        {
-            "製造廠名稱": "6605071926  久裕企業股份有限公司",
-            "製造廠廠址": "桃園市桃園區大林里興邦路43巷2之1號4樓，3樓B區，1樓A區",
-            "製造廠公司地址": "",
-            "製造廠國別": "",
             "製程": "二級包裝廠(委託貼標及置入仿單)"
         },
         {
@@ -92,8 +84,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "2_達珂凍晶注射劑_仿單_approved-109-09-25.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026354&Seq=009&Type=9"
+            "title": "Dacogen_EU SmPC Jun2021 (AML and storage) and USPI Jun2020 (MDS)_v2101-110-09-30.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026354&Seq=010&Type=9"
+        },
+        {
+            "title": "label v02-109-11-09(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026354&Seq=005&Type=8"
+        },
+        {
+            "title": "Box v02-109-11-09(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026354&Seq=004&Type=8"
         },
         {
             "title": "Dacogen_英文小標籤-103-11-03.pdf",

@@ -1,17 +1,19 @@
 {
     "code": "02019906",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019906",
-    "time": "2020-02-25 12:18:53",
+    "time": "2021-11-19 03:20:07",
     "許可證字號": "衛署藥輸字第019906號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "112\/04\/23",
-    "發證日期": "107\/03\/14",
+    "發證\/登錄日期": "107\/03\/14",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00201990601",
     "中文品名": "得夏新點眼液",
     "英文品名": "DEXA-GENTAMICIN EYE DROPS",
@@ -32,10 +34,7 @@
     "申請商地址": "台北市內湖區行愛路77巷69號7樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FDE0181000  URSAPHARM ARZNEIMITTEL GMBH",
-            "製造廠廠址": "INDUSTRIESTRABE 35,D-66129 SAARBRUCKEN,GERMANY",
-            "製造廠公司地址": "",
-            "製造廠國別": "GERMANY",
+            "": "GERMANY",
             "製程": ""
         }
     ],
@@ -61,12 +60,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "衛署藥輸字第019906號-103-02-21.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019906&Seq=002&Type=9"
+            "title": "得夏新點眼液 仿單-110-10-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019906&Seq=003&Type=9"
         },
         {
-            "title": "FS DEXA-GENTAMICIN 5 ML ATRO TW_20190524-108-05-28(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019906&Seq=001&Type=8"
+            "title": "得夏新點眼液 英文瓶標-110-10-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019906&Seq=003&Type=8"
+        },
+        {
+            "title": "得夏新點眼液 外盒-110-10-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019906&Seq=002&Type=8"
         }
     ]
 }
