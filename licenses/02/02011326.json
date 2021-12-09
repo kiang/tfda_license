@@ -1,17 +1,19 @@
 {
     "code": "02011326",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02011326",
-    "time": "2020-04-24 05:13:22",
+    "time": "2021-12-10 03:18:30",
     "許可證字號": "衛署藥輸字第011326號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "113\/05\/20",
-    "發證日期": "103\/03\/17",
+    "發證\/登錄日期": "103\/03\/17",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00201132608",
     "中文品名": "熱威樂素注射劑",
     "英文品名": "ZOVIRAX I.V.",
@@ -32,10 +34,7 @@
     "申請商地址": "台北市中正區忠孝西路一段66號23-24樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FIT0339000  GLAXO SMITHKLINE MANUFACTURING S.P.A.",
-            "製造廠廠址": "STRADA PROVINCIALE ASOLANA 90 SAN POLO DI TORRILE PARMA 43056 ITALY",
-            "製造廠公司地址": "",
-            "製造廠國別": "ITALY",
+            "": "ITALY",
             "製程": ""
         }
     ],
@@ -78,12 +77,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "02011326001-107-06-05(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02011326&Seq=014&Type=9"
+            "title": "153829_020113260001-110-11-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02011326&Seq=015&Type=9"
         },
         {
-            "title": "02011326002-107-06-05(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02011326&Seq=007&Type=8"
+            "title": "153829_020113260001-110-11-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02011326&Seq=010&Type=9"
+        },
+        {
+            "title": "153834_020113260002_rev-110-11-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02011326&Seq=008&Type=8"
+        },
+        {
+            "title": "153832_020113260003-110-11-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02011326&Seq=009&Type=8"
         }
     ]
 }

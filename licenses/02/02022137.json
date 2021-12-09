@@ -1,17 +1,19 @@
 {
     "code": "02022137",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022137",
-    "time": "2020-11-27 09:59:39",
+    "time": "2021-12-10 03:21:44",
     "許可證字號": "衛署藥輸字第022137號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "112\/02\/27",
-    "發證日期": "87\/04\/24",
+    "發證\/登錄日期": "87\/04\/24",
     "許可證種類": "製　劑",
     "舊證字號": "02019805",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00202213703",
     "中文品名": "諾雷德持續性注射劑",
     "英文品名": "ZOLADEX 3.6MG DEPOT",
@@ -32,10 +34,7 @@
     "申請商地址": "台北市大安區敦化南路二段207號21樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FGB0053000  ASTRAZENECA UK LIMITED",
-            "製造廠廠址": "SILK ROAD BUSINESS PARK,MACCLESFIELD,CHESHIRE,SK10 2NA",
-            "製造廠公司地址": "ALDERLEY PARK MACCLESFIELD CHESHIRE SK 10 4TF",
-            "製造廠國別": "UNITED KINGDOM",
+            "": "UNITED KINGDOM",
             "製程": ""
         }
     ],
@@ -49,6 +48,28 @@
             "含量描述": "(eq to GOSERELIN 3.6mg)",
             "含量": "3.7700000000",
             "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "022137-Zoladex-Implant-3.6mg-package insert-108-04-11(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022137&Seq=035&Type=9"
+        },
+        {
+            "title": "022137-Zoladex 3.6mg Depot 中文仿單 - 20150828核准-104-09-22(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022137&Seq=034&Type=9"
+        },
+        {
+            "title": "022137-Zoladex-Implant-3.6mg-label-108-04-11(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022137&Seq=005&Type=8"
+        },
+        {
+            "title": "022137-Zoladex-Implant-3.6mg-carton-108-04-11(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022137&Seq=004&Type=8"
+        },
+        {
+            "title": "022137-Zoladex Depot 3.6mg-carton-104-09-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022137&Seq=003&Type=8"
         }
     ]
 }

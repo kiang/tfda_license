@@ -1,17 +1,19 @@
 {
     "code": "12004971",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12004971",
-    "time": "2021-08-27 06:03:32",
+    "time": "2021-12-10 03:33:28",
     "許可證字號": "內衛藥製字第004971號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "115\/05\/25",
-    "發證日期": "59\/06\/26",
+    "發證\/登錄日期": "59\/06\/26",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY01200497107",
     "中文品名": "利樂筋錠",
     "英文品名": "SOLA TABLETS &quot;N.C.P.&quot;",
@@ -32,16 +34,21 @@
     "申請商地址": "台南市鹽水區孫厝里孫厝寮４之６號",
     "主製造廠": [
         {
-            "製造廠名稱": "1302820300  新喜國際企業股份有限公司",
-            "製造廠廠址": "台南市鹽水區孫厝里孫厝寮４之６號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "1220000600",
+            "成分名稱": "CHLORZOXAZONE",
+            "含量描述": "200",
+            "含量": "200.0000000000",
+            "單位": "MG"
+        },
         {
             "成分類別": "主成分",
             "成分代碼": "1220000600",
@@ -73,12 +80,28 @@
     ],
     "仿單外盒": [
         {
-            "title": "LT-18利樂筋錠20160525(新處方)-105-08-16(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12004971&Seq=004&Type=9"
+            "title": "LT18 新喜利樂筋錠說明書2021-110-11-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12004971&Seq=007&Type=9"
         },
         {
-            "title": "新喜利樂筋錠外盒-105-06-01.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12004971&Seq=002&Type=8"
+            "title": "LT18-1新喜利樂筋錠說明書(草綠色)-110-11-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12004971&Seq=006&Type=9"
+        },
+        {
+            "title": "新喜 利樂筋錠外盒-110-11-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12004971&Seq=007&Type=8"
+        },
+        {
+            "title": "利樂筋錠標籤-110-11-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12004971&Seq=006&Type=8"
+        },
+        {
+            "title": "新喜 利樂筋錠(草綠色)外盒-110-11-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12004971&Seq=005&Type=8"
+        },
+        {
+            "title": "利樂筋標籤(草綠色)-110-11-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12004971&Seq=004&Type=8"
         }
     ]
 }

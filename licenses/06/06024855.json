@@ -1,28 +1,30 @@
 {
     "code": "06024855",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024855",
-    "time": "2021-05-28 05:19:45",
+    "time": "2021-12-10 04:22:13",
     "許可證字號": "衛署醫器輸字第024855號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可編號": "QSD12651",
+    "製造許可登錄編號": "QSD12651",
     "有效日期": "112\/04\/10",
-    "發證日期": "102\/04\/10",
+    "發證\/登錄日期": "102\/04\/10",
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHAS0602485505",
     "中文品名": "“哈拉局克”骨密度X光機",
     "英文品名": "“Hologic”X-ray Bone Densitometer",
-    "效能、用途或適應症": "詳如中文仿單核定本",
-    "醫器規格或型號": "Discovery C, Discovery Wi, Discovery Ci, Discovery SL, Discovery W, Discovery A以下空白。增加規格：核定事項詳如中文仿單核定本。\r\n註銷規格：Discovery C、Discovery SL、Discovery W、Discovery A。",
+    "效能": "詳如中文仿單核定本",
+    "醫器規格": "Discovery C, Discovery Wi, Discovery Ci, Discovery SL, Discovery W, Discovery A以下空白。增加規格：核定事項詳如中文仿單核定本。\r\n註銷規格：Discovery C、Discovery SL、Discovery W、Discovery A。註銷規格：Horizon A。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、說明書或包裝加註": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "P放射學科用裝置",
     "醫器次類別一": "P1170骨密度分析儀",
     "醫器主類別二": "",
@@ -33,14 +35,11 @@
     "監視期限": "",
     "主成分略述": "",
     "限制項目": "02輸　入 09委託製造 14輸入須附同意書（每次輸入均須取得原子能委員會之同意書為憑）",
-    "醫療器材商名稱": "0317901100  上鉅實業股份有限公司",
-    "醫療器材商地址": "新北市中和區板南路653號2樓",
+    "申請商名稱": "0317901100  上鉅實業股份有限公司",
+    "申請商地址": "新北市中和區板南路653號2樓",
     "主製造廠": [
         {
-            "製造業者名稱": "MUS4974000  Hologic, Inc.",
-            "製造業者地址": "36 Apple Ridge Road, Danbury, CT 06810, U.S.A.",
-            "製造業者公司地址": "",
-            "製造業者國別": "UNITED STATES",
+            "": "UNITED STATES",
             "製程": ""
         }
     ],
@@ -48,12 +47,16 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "中文仿單-104-10-13.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06024855&Seq=002&Type=9"
+            "title": "060248550001-110-11-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06024855&Seq=003&Type=9"
         },
         {
             "title": "060248550001-102-05-13.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06024855&Seq=001&Type=9"
+        },
+        {
+            "title": "060248550002-110-11-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06024855&Seq=002&Type=8"
         },
         {
             "title": "060248550002-102-05-13.pdf",

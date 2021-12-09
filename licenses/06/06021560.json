@@ -1,21 +1,23 @@
 {
     "code": "06021560",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021560",
-    "time": "2021-02-26 05:00:27",
+    "time": "2021-12-10 04:11:32",
     "許可證字號": "衛署醫器輸字第021560號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "QSD10911",
     "有效日期": "114\/10\/08",
-    "發證日期": "99\/10\/08",
+    "發證\/登錄日期": "99\/10\/08",
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00602156002",
     "中文品名": "“亞諾”抗感染安全尖端導管",
     "英文品名": "“Arrow” ARROWgard Catheters",
-    "效能": "詳如中文仿單核定本",
+    "效能": "詳如中文仿單核定本\r\n效能變更:詳如核定之中文說明書(原99年10月21日核定之標籤、說明書或包裝予以收回作廢)。",
     "醫器規格": "詳如中文仿單核定本。以下空白。增加規格：SI-21142。以下空白。註銷型號：CS-22802, MC-22122-F, MC-25122-F, CS-24706-E, CS-25123-E。註銷規格：ES-24402及SI-21142(原101年5月9日仿單標籤核定本正本遺失作廢)。",
     "劑型": "",
     "包裝": "",
@@ -37,23 +39,29 @@
     "申請商地址": "臺北市大安區敦化南路2段207號16樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MMX0117100  Arrow Internacional de Chihuahua S.A. de C.V.",
-            "製造廠廠址": "Ave. Washington 3701, Interior Circuito Industrial Alta Tecnologia Edificio 40, Colonia Panamericana Chihuahua, Chihuahua, CP 31200, Mexico",
-            "製造廠公司地址": "",
-            "製造廠國別": "MEXICO",
+            "": "MEXICO",
             "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS5881000  Arrow International LLC (subsidiary of Teleflex Incorporated)",
+            "製造廠廠址": "3015 Carrington Mill Blvd. Morrisville, NC, 27560, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060215600001-109-08-19.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021560&Seq=004&Type=9"
+            "title": "060215600001-110-11-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021560&Seq=005&Type=9"
         },
         {
-            "title": "060215600002-109-08-19.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021560&Seq=003&Type=8"
+            "title": "060215600001-110-11-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021560&Seq=004&Type=8"
         }
     ]
 }

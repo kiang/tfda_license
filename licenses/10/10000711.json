@@ -1,17 +1,19 @@
 {
     "code": "10000711",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000711",
-    "time": "2021-04-30 05:16:39",
+    "time": "2021-12-10 03:32:03",
     "許可證字號": "衛署菌疫輸字第000711號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "111\/08\/24",
-    "發證日期": "91\/04\/26",
+    "發證\/登錄日期": "91\/04\/26",
     "許可證種類": "菌　疫",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA01000071106",
     "中文品名": "惠爾血添注射劑 150",
     "英文品名": "FILGRASTIM INJECTION 150 μG\/0.6ML",
@@ -32,17 +34,11 @@
     "申請商地址": "台北市中山區中山北路二段68號9樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FJP0472000  KYOWA KIRIN CO, LTD., TAKASAKI PLANT",
-            "製造廠廠址": "100-1, HAGIWARA-MACHI, TAKASAKI-SHI, GUNMA, JAPAN",
-            "製造廠公司地址": "1-9-2, OTEMACHI, CHIYODA-KU, TOKYO, JAPAN",
-            "製造廠國別": "JAPAN",
+            "": "JAPAN",
             "製程": "原料藥及成品製造廠"
         },
         {
-            "製造廠名稱": "FJP9444000  Nipro Pharma Corporation Ise Plant",
-            "製造廠廠址": "647-240, Ureshinotengeji-cho, Matsusaka-shi, Mie 515-2302, Japan",
-            "製造廠公司地址": "",
-            "製造廠國別": "JAPAN",
+            "": "JAPAN",
             "製程": "成品製造廠"
         }
     ],
@@ -93,16 +89,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "[Package Insert] Filgrastim_2020MAY_2020JULshipment-109-10-20(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000711&Seq=015&Type=9"
-        },
-        {
-            "title": "[Package Insert] Filgrastim_2019DEC_2020APRshipment-109-05-04(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000711&Seq=014&Type=9"
-        },
-        {
-            "title": "惠爾血添-仿單 201902修訂-108-08-05.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000711&Seq=013&Type=9"
+            "title": "Filgrastim 150 PI_202012-110-10-29.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000711&Seq=016&Type=9"
         },
         {
             "title": "[外盒圖檔] Filgrastim 150_2020AUG-109-10-20(廠商自行上傳).pdf",

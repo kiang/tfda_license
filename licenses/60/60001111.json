@@ -1,17 +1,19 @@
 {
     "code": "60001111",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60001111",
-    "time": "2021-05-28 05:08:24",
+    "time": "2021-12-10 03:45:44",
     "許可證字號": "衛部菌疫輸字第001111號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "113\/08\/21",
-    "發證日期": "108\/08\/21",
+    "發證\/登錄日期": "108\/08\/21",
     "許可證種類": "菌　疫",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA06000111106",
     "中文品名": "康癌停凍晶注射劑420毫克",
     "英文品名": "KANJINTI Powder for concentrate for solution for infusion 420mg",
@@ -32,17 +34,11 @@
     "申請商地址": "臺北市信義區松仁路100號13樓之1、之2",
     "主製造廠": [
         {
-            "製造廠名稱": "FIE0040100  Amgen Technology (Ireland) Unlimited Company",
-            "製造廠廠址": "Pottery Road, Dun Laoghaire, Co., Dublin, Ireland",
-            "製造廠公司地址": "",
-            "製造廠國別": "IRELAND",
+            "": "IRELAND",
             "製程": "成品製造廠"
         },
         {
-            "製造廠名稱": "FIT9113000  ACTAVIS ITALY S.P.A.",
-            "製造廠廠址": "VIA LUIGI PASTEUR, 10, 20014 NERVIANO, ITALY",
-            "製造廠公司地址": "",
-            "製造廠國別": "ITALY",
+            "": "ITALY",
             "製程": ""
         }
     ],
@@ -99,8 +95,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "1026792 ART_leaflet_new MAH address-110-10-07(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001111&Seq=005&Type=9"
+        },
+        {
             "title": "Taiwan_cn_Kanjinti_pi_PI alignment with HER-109-12-01_clean-110-03-29.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001111&Seq=004&Type=9"
+        },
+        {
+            "title": "1026794 ART_420mg ADL carton_new MAH address-110-10-07(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001111&Seq=009&Type=8"
+        },
+        {
+            "title": "1026793 ART_420mg Actavis carton_new MAH address-110-10-07(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001111&Seq=008&Type=8"
         },
         {
             "title": "420mg外盒Amgen-020011110004-110-01-07.pdf",

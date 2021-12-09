@@ -1,17 +1,19 @@
 {
     "code": "01048031",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01048031",
-    "time": "2021-03-26 05:03:31",
+    "time": "2021-12-10 03:10:38",
     "許可證字號": "衛署藥製字第048031號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "115\/06\/16",
-    "發證日期": "95\/06\/16",
+    "發證\/登錄日期": "95\/06\/16",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00104803102",
     "中文品名": "&quot;世達&quot; 享通膜衣錠20毫克",
     "英文品名": "Synton Film coated Tablets 20mg &quot;S.D.&quot;",
@@ -32,10 +34,7 @@
     "申請商地址": "台中市西屯工業區十五路２號",
     "主製造廠": [
         {
-            "製造廠名稱": "0507809300  世達藥品工業股份有限公司",
-            "製造廠廠址": "台中市西屯工業區十五路２號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
@@ -77,16 +76,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "世達享通膜衣錠20毫克仿單-110-11-04.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048031&Seq=006&Type=9"
+        },
+        {
             "title": "享通膜衣錠仿單-106-12-22(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048031&Seq=005&Type=9"
         },
         {
-            "title": "享通膜衣錠仿單-106-11-07.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048031&Seq=004&Type=9"
+            "title": "世達享通膜衣錠20毫克外盒-110-11-04.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048031&Seq=013&Type=8"
         },
         {
-            "title": "T104享通膜衣錠-104-12-16(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048031&Seq=003&Type=9"
+            "title": "世達享通膜衣錠20毫克標籤-110-11-04.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048031&Seq=012&Type=8"
         },
         {
             "title": "享通膜衣錠標籤-107-04-25(廠商自行上傳).pdf",
@@ -95,18 +98,6 @@
         {
             "title": "01048031_鋁箔-106-11-09.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048031&Seq=010&Type=8"
-        },
-        {
-            "title": "享通膜衣錠外盒-106-11-07.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048031&Seq=009&Type=8"
-        },
-        {
-            "title": "享通膜衣錠標籤-106-11-07.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048031&Seq=008&Type=8"
-        },
-        {
-            "title": "享通10s_30-105-09-01(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048031&Seq=007&Type=8"
         }
     ]
 }

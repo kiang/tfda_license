@@ -1,17 +1,19 @@
 {
     "code": "10000807",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000807",
-    "time": "2021-08-27 05:25:07",
+    "time": "2021-12-10 03:32:26",
     "許可證字號": "衛署菌疫輸字第000807號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "114\/05\/24",
-    "發證日期": "94\/05\/24",
+    "發證\/登錄日期": "94\/05\/24",
     "許可證種類": "菌　疫",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA01000080706",
     "中文品名": "癌思停 注射劑",
     "英文品名": "AVASTIN INJECTION",
@@ -32,24 +34,15 @@
     "申請商地址": "台北市信義區松仁路100號40樓、40樓之1、41樓之1",
     "主製造廠": [
         {
-            "製造廠名稱": "FCH0257000  F. HOFFMANN-LA ROCHE LTD.",
-            "製造廠廠址": "WURMISWEG, CH-4303 KAISERAUGST, SWITZERLAND",
-            "製造廠公司地址": "",
-            "製造廠國別": "SWITZERLAND",
+            "": "SWITZERLAND",
             "製程": "成品製造廠"
         },
         {
-            "製造廠名稱": "FDE0261000  ROCHE DIAGNOSTICS GMBH",
-            "製造廠廠址": "SANDHOFER STRASSE 116 D-68305 MANNHEIM GERMANY",
-            "製造廠公司地址": "",
-            "製造廠國別": "GERMANY",
+            "": "GERMANY",
             "製程": ""
         },
         {
-            "製造廠名稱": "FUS0767100  GENENTECH INC.",
-            "製造廠廠址": "4625 NE BROOKWOOD PARKWAY, HILLSBORO OREGON, 97124 USA",
-            "製造廠公司地址": "",
-            "製造廠國別": "UNITED STATES",
+            "": "UNITED STATES",
             "製程": "成品製造廠"
         }
     ],
@@ -106,8 +99,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "癌思停(450x500mm)-0321-AVA-01_排-110-06-01.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000807&Seq=012&Type=9"
+            "title": "Avastin_CDS 38.0_TFDA_1021-AVA-01_clean-110-11-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000807&Seq=013&Type=9"
         },
         {
             "title": "Avastin 德國 100mg MH carton_000807-1-CTN-03-108-04-18(廠商自行上傳).pdf",

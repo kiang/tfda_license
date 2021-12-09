@@ -1,17 +1,19 @@
 {
     "code": "60001050",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60001050",
-    "time": "2021-09-24 05:45:37",
+    "time": "2021-12-10 03:45:15",
     "許可證字號": "衛部菌疫輸字第001050號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "111\/07\/17",
-    "發證日期": "106\/07\/17",
+    "發證\/登錄日期": "106\/07\/17",
     "許可證種類": "菌　疫",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA06000105002",
     "中文品名": "癌自禦 注射劑",
     "英文品名": "Tecentriq",
@@ -32,17 +34,11 @@
     "申請商地址": "台北市信義區松仁路100號40樓、40樓之1、41樓之1",
     "主製造廠": [
         {
-            "製造廠名稱": "FCH0257000  F. HOFFMANN-LA ROCHE LTD.",
-            "製造廠廠址": "WURMISWEG, CH-4303 KAISERAUGST, SWITZERLAND",
-            "製造廠公司地址": "",
-            "製造廠國別": "SWITZERLAND",
+            "": "SWITZERLAND",
             "製程": "成品製造廠"
         },
         {
-            "製造廠名稱": "FDE0261000  ROCHE DIAGNOSTICS GMBH",
-            "製造廠廠址": "SANDHOFER STRASSE 116, 68305 MANNHEIM, GERMANY",
-            "製造廠公司地址": "",
-            "製造廠國別": "GERMANY",
+            "": "GERMANY",
             "製程": "成品製造廠"
         }
     ],
@@ -83,8 +79,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "Tecentriq_CDS 25.0_SCAR_0621-TEC-01(450x500mm)_排-110-07-21.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001050&Seq=015&Type=9"
+            "title": "Tecentriq_IMpower130 align to USPI_1021-TEC-01_Chinese-110-11-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001050&Seq=016&Type=9"
         },
         {
             "title": "20190626_Carton-108-07-09.pdf",

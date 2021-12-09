@@ -1,21 +1,23 @@
 {
     "code": "51058979",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058979",
-    "time": "2021-09-24 05:41:37",
+    "time": "2021-12-10 03:35:03",
     "許可證字號": "衛部藥製字第058979號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "114\/12\/08",
-    "發證日期": "104\/12\/08",
+    "發證\/登錄日期": "104\/12\/08",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY05105897900",
     "中文品名": "好佑定凍晶注射劑",
     "英文品名": "Andason Lyophilized Powder for Injection",
-    "適應症": "治療骨髓增生不良症候群高危險性的病患High Risk MDS：頑固性貧血併有過量芽細胞（RA with excess blasts，RAEB）、轉變中的頑固性貧血併有過量芽細胞（RAEB in transformation，RAEB-T）、及慢性骨髓單核細胞性白血病（chronic myelomonocytic leukemia, CMMoL）。\r\nAzacitidine適用於治療65歲(含)以上、不適合接受HSCT或密集化學治療、且骨髓芽細胞比例>30%的AML成人患者(依據WHO分類)。",
+    "適應症": "治療骨髓增生不良症候群高危險性的病人 (High Risk MDS)：頑固性貧血併有過量芽細胞 (RA with excess blasts, RAEB)、轉變中的頑固性貧血併有過量芽細胞 (RAEB in transformation, RAEB-T)、及慢性骨髓單核細胞性白血病 (chronic myelomonocytic leukemia, CMMoL)。Azacitidine適用於治療65歲（含）以上、不適合接受HSCT或密集化學治療、且骨髓芽細胞比例>30%的AML成人病人（依據WHO分類）。",
     "劑型": "243凍晶注射劑",
     "包裝": "100毫克玻璃小瓶裝 100支以下盒裝",
     "儲存溫度": "",
@@ -32,10 +34,7 @@
     "申請商地址": "臺南市新化區全興里中山路1001號、1001之1號",
     "主製造廠": [
         {
-            "製造廠名稱": "0903620300  南光化學製藥股份有限公司",
-            "製造廠廠址": "台南市新化區中山路1001號、1001-1號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
@@ -53,32 +52,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "04、581-好佑定凍晶注射劑Andason_030421-02(追蹤修訂)-110-07-06.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058979&Seq=003&Type=9"
+            "title": "好佑定凍晶注射劑Andason_仿單-110-11-15.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058979&Seq=004&Type=9"
         },
         {
-            "title": "20191205162312007-108-12-10.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058979&Seq=002&Type=9"
+            "title": "好佑定凍晶注射劑100mg／vial_自黏標-110-11-15.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058979&Seq=007&Type=8"
         },
         {
-            "title": "581058979_仿單_120314-00-105-03-09.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058979&Seq=001&Type=9"
-        },
-        {
-            "title": "04、好佑定凍晶注射劑100mg／vial_彩盒_031821-01_送件-110-07-07.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058979&Seq=005&Type=8"
-        },
-        {
-            "title": "04、好佑定凍晶注射劑100mg／vial_自黏標_031821-01_送件-110-07-07.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058979&Seq=004&Type=8"
-        },
-        {
-            "title": "20191205161828444-108-12-10.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058979&Seq=003&Type=8"
-        },
-        {
-            "title": "581058979_彩盒_120514-00-105-03-09.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058979&Seq=002&Type=8"
+            "title": "好佑定凍晶注射劑100mg／vial_彩盒-110-11-15.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058979&Seq=006&Type=8"
         }
     ]
 }

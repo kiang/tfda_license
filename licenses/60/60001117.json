@@ -1,17 +1,19 @@
 {
     "code": "60001117",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60001117",
-    "time": "2021-04-30 05:22:40",
+    "time": "2021-12-10 03:45:45",
     "許可證字號": "衛部菌疫輸字第001117號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "113\/12\/17",
-    "發證日期": "108\/12\/17",
+    "發證\/登錄日期": "108\/12\/17",
     "許可證種類": "菌　疫",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA06000111705",
     "中文品名": "艾法施注射液",
     "英文品名": "MVASI Solution for Injection",
@@ -32,17 +34,11 @@
     "申請商地址": "臺北市信義區松仁路100號13樓之1、之2",
     "主製造廠": [
         {
-            "製造廠名稱": "FPR0034000  AMGEN MANUFACTURING,LIMITED",
-            "製造廠廠址": "STATE ROAD 31,KM 24.6 JUNCOS,PUERTO RICO 00777-4060",
-            "製造廠公司地址": "",
-            "製造廠國別": "PUERTO RICO",
+            "": "PUERTO RICO",
             "製程": ""
         },
         {
-            "製造廠名稱": "FUS0030300  Patheon Manufacturing Services LLC",
-            "製造廠廠址": "5900 Martin Luther King Jr. Highway,Greenville,NC27834,USA",
-            "製造廠公司地址": "",
-            "製造廠國別": "UNITED STATES",
+            "": "UNITED STATES",
             "製程": ""
         }
     ],
@@ -96,8 +92,24 @@
     ],
     "仿單外盒": [
         {
-            "title": "MVASI 中文仿單TWMVAPI03_Jan 2021-110-01-26.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001117&Seq=003&Type=9"
+            "title": "MVASI中文仿單TWMVAPI05-110-11-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001117&Seq=005&Type=9"
+        },
+        {
+            "title": "MVASI外盒(Patheon)_MCK02674 ART_400mg-110-07-21(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001117&Seq=010&Type=8"
+        },
+        {
+            "title": "MVASI外盒(Patheon)_1026107 ART_100mg-110-07-21(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001117&Seq=009&Type=8"
+        },
+        {
+            "title": "MVASI外盒(AML)_MCK02673 ART_400mg-110-07-21(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001117&Seq=008&Type=8"
+        },
+        {
+            "title": "MVASI外盒(AML)_1026287 ART_100mg-110-07-21(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001117&Seq=007&Type=8"
         },
         {
             "title": "MVASI 外盒_CRTN_100mg and 400mg_DP Patheon-110-01-26.pdf",

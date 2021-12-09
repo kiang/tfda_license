@@ -1,20 +1,22 @@
 {
     "code": "07005681",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07005681",
-    "time": "2021-01-29 05:25:31",
+    "time": "2021-12-10 05:08:48",
     "許可證字號": "衛署粧製字第005681號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "113\/06\/30",
-    "發證日期": "99\/12\/06",
+    "發證\/登錄日期": "99\/12\/06",
     "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00700568108",
-    "中文品名": "1.Biore高防曬乳液SPF 48、2.Biore粉潤光美肌防曬乳液、3.Bior&#233;舒涼高防曬乳液、4.Bior&#233;草本高防曬乳液",
-    "英文品名": "1.Biore UV Super UV Milk SPF 48, 2.Biore UV PERFECT Luster Milk, 3.Bior&#233; UV Super UV Milk COOL, 4.Bior&#233; UV Super UV Milk HERB,",
+    "中文品名": "Bior&#233;高防曬乳液SPF 48、Bior&#233;舒涼高防曬乳液SPF 48、Bior&#233;草本高防曬乳液SPF 48。",
+    "英文品名": "Bior&#233; UV Super UV Milk、Bior&#233; UV Super UV Milk COOL、Bior&#233; UV Super UV Milk HERB",
     "用途": "防止日曬，滋潤肌膚",
     "劑型": "944乳劑",
     "包裝": "500 ml以下瓶裝 紙卡包裝",
@@ -26,16 +28,13 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "ZINC OXIDE, ETHYLHEXYL METHOXYCINNAMATE",
+    "主成分略述": "ZINC OXIDE, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, ETHYLHEXYL METHOXYCINNAMATE, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
     "限制項目": "01國　產",
     "申請商名稱": "0827701100  花王（台灣）股份有限公司",
     "申請商地址": "新北市新店區北新路三段207號10樓",
     "主製造廠": [
         {
-            "製造廠名稱": "5833060071  花王（台灣）股份有限公司新竹廠",
-            "製造廠廠址": "新竹縣湖口鄉鳳山村中華路6號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
@@ -46,7 +45,15 @@
             "成分代碼": "9200011500",
             "成分名稱": "ZINC OXIDE",
             "含量描述": "",
-            "含量": "10.7000000000",
+            "含量": "10.2300000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9600203500",
+            "成分名稱": "DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE",
+            "含量描述": "",
+            "含量": "0.7500000000",
             "單位": "%(W\/W)"
         },
         {
@@ -54,11 +61,23 @@
             "成分代碼": "9900071200",
             "成分名稱": "ETHYLHEXYL METHOXYCINNAMATE",
             "含量描述": "",
-            "含量": "7.0000000000",
+            "含量": "7.9900000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900095700",
+            "成分名稱": "BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
+            "含量描述": "",
+            "含量": "0.5000000000",
             "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "07005681-110-11-30.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005681&Seq=012&Type=8"
+        },
         {
             "title": "07005681-109-11-16.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005681&Seq=011&Type=8"
