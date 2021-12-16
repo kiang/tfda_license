@@ -1,7 +1,7 @@
 {
     "code": "02024795",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024795",
-    "time": "2021-12-10 06:05:55",
+    "time": "2021-12-17 06:20:24",
     "許可證字號": "衛署藥輸字第024795號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,8 +34,17 @@
     "申請商地址": "台北市中山區民生東路三段2號8樓",
     "主製造廠": [
         {
-            "": "UNITED STATES",
-            "製程": ""
+            "": "BELGIUM",
+            "製程": "成品製造、一級包裝、二級包裝"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "FCH0088200  NOVARTIS PHARMA AG",
+            "製造廠廠址": "LICHTSTRASSE 35 CH-4056 BASEL SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": "市場許可證持有者"
         }
     ],
     "CCC號列": "",
@@ -72,28 +81,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "Upload_9017601_TW_p1_LFT_X-4-109-01-07(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024795&Seq=009&Type=9"
+            "title": "附件五_1_Nevanac 仿單-110-12-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024795&Seq=010&Type=9"
         },
         {
-            "title": "2.0_cSLT_NEVANAC (TWI-270618)-107-07-10.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024795&Seq=008&Type=9"
+            "title": "附件五_3_Nevanac 外盒-110-12-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024795&Seq=015&Type=8"
         },
         {
-            "title": "Upload_H15641_TW_p1_LBL_X-4-109-01-07(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024795&Seq=013&Type=8"
-        },
-        {
-            "title": "Upload_9017602_TW_p1_FB_X-4-109-01-07(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024795&Seq=012&Type=8"
-        },
-        {
-            "title": "NEVANAC_H14925_TW_p1_LBL_X-4 for upload-107-02-02(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024795&Seq=011&Type=8"
-        },
-        {
-            "title": "NEVANAC_9014948_TW_p1_FB_X-4 for uplaod-107-02-02(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024795&Seq=010&Type=8"
+            "title": "附件五_2_Nevanac 瓶標-110-12-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024795&Seq=014&Type=8"
         }
     ]
 }
