@@ -1,17 +1,19 @@
 {
     "code": "06017766",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06017766",
-    "time": "2020-07-24 05:33:43",
+    "time": "2022-01-07 04:24:48",
     "許可證字號": "衛署醫器輸字第017766號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "QSD9196",
     "有效日期": "111\/02\/08",
-    "發證日期": "96\/02\/08",
+    "發證\/登錄日期": "96\/02\/08",
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00601776607",
     "中文品名": "&quot;英弗梅&quot;  血漿過濾器",
     "英文品名": "“Infomed”Plasmafilter",
@@ -37,32 +39,29 @@
     "申請商地址": "臺北市中山區建國北路一段156號4樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MIT0129000  BELLCO S.R.L.",
-            "製造廠廠址": "Via Camurana 1, 41037, Mirandola (MO), Italy",
-            "製造廠公司地址": "",
-            "製造廠國別": "ITALY",
-            "製程": ""
+            "": "ITALY",
+            "製程": "Manufactured by"
         }
     ],
     "次製造廠": [
         {
             "製造廠名稱": "MCH0055000  INFOMED S.A.",
-            "製造廠廠址": "Chemin de la Graviere 4, CH-1227 Geneva, Switzerland",
+            "製造廠廠址": "Route de Compois 11. 1252 Meinier, Switzerland",
             "製造廠公司地址": "",
             "製造廠國別": "SWITZERLAND",
-            "製程": ""
+            "製程": "委託製造者"
         }
     ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "06017766_1050107-105-01-08.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017766&Seq=010&Type=9"
+            "title": "060177660001(110.12.17)-110-12-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017766&Seq=011&Type=9"
         },
         {
-            "title": "06017766_1050107-105-01-08.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017766&Seq=005&Type=8"
+            "title": "060177660001(110.12.17)-110-12-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017766&Seq=006&Type=8"
         }
     ]
 }

@@ -1,21 +1,23 @@
 {
     "code": "70000040",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=70000040",
-    "time": "2020-09-25 10:45:06",
+    "time": "2022-01-07 04:08:16",
     "許可證字號": "衛部罕藥輸字第000040號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "116\/06\/27",
-    "發證日期": "106\/06\/27",
+    "發證\/登錄日期": "106\/06\/27",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA07000004000",
     "中文品名": "泰福德膠囊240毫克",
     "英文品名": "Tecfidera 240mg Gastro-resistant Hard Capsule",
-    "適應症": "復發-緩解型多發性硬化症(relapse-remission multiple sclerosis)成人患者之治療(前一年有一次或一次以上復發者) 。",
+    "適應症": "復發-緩解型多發性硬化症 (relapsing-remitting multiple sclerosis) 成人病人之治療（前一年有一次或一次以上復發者）。",
     "劑型": "130膠囊劑",
     "包裝": "4-1000粒PVC\/PE\/PVDC鋁箔盒裝",
     "儲存溫度": "",
@@ -24,7 +26,7 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "藥品分類": "",
+    "藥品分類": "新成分",
     "監視期限": "111\/06\/27",
     "主成分略述": "dimethyl fumarate",
     "限制項目": "02輸　入 1D須執行風險管理計畫 5F免除銜接性試驗",
@@ -32,10 +34,7 @@
     "申請商地址": "台北市長安東路一段十八號九樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FCH0035000  VIFOR SA",
-            "製造廠廠址": "ROUTE DE MONCOR 10 CH-1752 VILLARS SUR GLANE SWITZERLAND",
-            "製造廠公司地址": "",
-            "製造廠國別": "SWITZERLAND",
+            "": "SWITZERLAND",
             "製程": ""
         }
     ],
@@ -85,8 +84,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單核定本-2020.7-109-07-20.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=70000040&Seq=003&Type=9"
+            "title": "Att5. 20211209Tecfidera120mg&240mg-中文仿單擬稿_final-110-12-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=70000040&Seq=004&Type=9"
         },
         {
             "title": "MOCK-UP COM BLISTER LID TECFIDERA OSD 14CAP 240MG TWN_P4_T-108-07-30.pdf",

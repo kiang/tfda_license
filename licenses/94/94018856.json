@@ -1,20 +1,22 @@
 {
     "code": "94018856",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94018856",
-    "time": "2020-02-26 12:28:08",
+    "time": "2022-01-07 05:09:10",
     "許可證字號": "衛部醫器輸壹字第018856號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "QSD10589",
     "有效日期": "112\/03\/05",
-    "發證日期": "107\/03\/05",
+    "發證\/登錄日期": "107\/03\/05",
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第一等級",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA09401885600",
-    "中文品名": "&quot;優勢益&quot; 手動式胃腸科-泌尿科手術器械及其附件 (滅菌)",
-    "英文品名": "&quot;USE&quot; Manual Gastroenterology-Urology Surgical Instrument and Accessories (Sterile)",
+    "中文品名": "&quot;史泰瑞&quot; 手動式胃腸科-泌尿科手術器械及其附件 (滅菌)",
+    "英文品名": "&quot;Steris&quot; Manual Gastroenterology-Urology Surgical Instrument and Accessories (Sterile)",
     "效能": "限醫療器材管理辦法「手動式胃腸科-泌尿科手術器械及其附件(H.4730)」第一等級鑑別範圍。",
     "醫器規格": "空白。",
     "劑型": "",
@@ -37,11 +39,17 @@
     "申請商地址": "新北市中和區保健路48巷55號1樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MUS3334000  UNITED STATES ENDOSCOPY GROUP, INC.",
-            "製造廠廠址": "5976 HEISLEY ROAD, MENTOR, OHIO 44060, USA",
+            "": "UNITED STATES",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS1746300  STERIS Corporation",
+            "製造廠廠址": "5960 Heisley Road Mentor, OH USA 44060",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
-            "製程": ""
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",

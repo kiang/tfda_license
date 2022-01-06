@@ -1,22 +1,24 @@
 {
     "code": "55006567",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=55006567",
-    "time": "2020-03-27 05:22:47",
+    "time": "2022-01-07 04:43:30",
     "許可證字號": "衛部醫器製字第006567號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "GMP1587",
     "有效日期": "113\/08\/13",
-    "發證日期": "108\/08\/13",
+    "發證\/登錄日期": "108\/08\/13",
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "",
     "中文品名": "“晉弘”赫羅斯數位眼科攝影機",
     "英文品名": "“MiiS” Horus Digital Ophthalmic Camera",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "Miis Horus Scope DSC 100, Miis Horus+ Scope DSC 200P, Miis Horus+ Scope DSC 200\r\n以下空白\r\n新增規格：MiiS Horus Scope DSC 300, MiiS Horus Scope DSC 300P, MiiS Horus Scope DEA 200P。",
+    "醫器規格": "Miis Horus Scope DSC 100, Miis Horus+ Scope DSC 200P, Miis Horus+ Scope DSC 200\r\n以下空白\r\n新增規格：MiiS Horus Scope DSC 300, MiiS Horus Scope DSC 300P, MiiS Horus Scope DEA 200P。規格變更：詳如核定之中文說明書（原109年1月10日及108年9月5日核定之標籤、說明書或包裝回收作廢）。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -37,10 +39,7 @@
     "申請商地址": "新竹科學工業園區新竹市東區工業東四路24-2號3樓",
     "主製造廠": [
         {
-            "製造廠名稱": "6112011726  晉弘科技股份有限公司工業東四路廠",
-            "製造廠廠址": "新竹科學工業園區新竹市東區工業東四路24-2號3樓",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
@@ -48,20 +47,16 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "5500065670001-109-01-13.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55006567&Seq=002&Type=9"
+            "title": "550065670001-2-110-12-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55006567&Seq=004&Type=9"
         },
         {
-            "title": "550065670001-108-09-06.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55006567&Seq=001&Type=9"
+            "title": "550065670001-1-110-12-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55006567&Seq=003&Type=9"
         },
         {
-            "title": "5500065670001-109-01-13.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55006567&Seq=002&Type=8"
-        },
-        {
-            "title": "550065670002-108-09-06.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55006567&Seq=001&Type=8"
+            "title": "550065670002-110-12-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=55006567&Seq=003&Type=8"
         }
     ]
 }

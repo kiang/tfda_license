@@ -1,17 +1,19 @@
 {
     "code": "02025841",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025841",
-    "time": "2020-04-24 05:21:38",
+    "time": "2022-01-07 03:49:54",
     "許可證字號": "衛署藥輸字第025841號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "111\/10\/18",
-    "發證日期": "101\/10\/18",
+    "發證\/登錄日期": "101\/10\/18",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00202584101",
     "中文品名": "普拿疼伏冒鼻炎錠",
     "英文品名": "Panadol Allergy Sinus Caplets",
@@ -27,15 +29,12 @@
     "藥品分類": "",
     "監視期限": "",
     "主成分略述": "CHLORPHENIRAMINE MALEATE, PHENYLEPHRINE HCL, ACETAMINOPHEN (EQ TO PARACETAMOL)",
-    "限制項目": "02輸　入",
+    "限制項目": "02輸　入 1Q不得輸入",
     "申請商名稱": "620118N731  英商葛蘭素史克消費保健用品股份有限公司台灣分公司",
     "申請商地址": "臺北市中正區忠孝西路一段66號24樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FAU0046100  GLAXOSMITHKLINE CONSUMER HEALTHCARE AUSTRALIA PTY LTD.",
-            "製造廠廠址": "82 HUGHES AVENUE, ERMINGTON NSW 2115, AUSTRALIA",
-            "製造廠公司地址": "",
-            "製造廠國別": "AUSTRALIA",
+            "": "AUSTRALIA",
             "製程": ""
         }
     ],
@@ -85,20 +84,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "衛署藥輸字第025841號 普拿疼伏冒鼻炎錠(12s)_P3121P_leafet-106-08-30(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025841&Seq=006&Type=9"
+            "title": "QR code_普拿疼伏冒鼻炎錠-110-12-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025841&Seq=008&Type=9"
         },
         {
-            "title": "普拿疼伏冒鼻炎錠_仿單20161226-105-12-28.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025841&Seq=005&Type=9"
+            "title": "衛署藥輸字第025841號PANADOL ALLERGY SINUS PE_Leaflet-110-12-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025841&Seq=007&Type=9"
         },
         {
-            "title": "衛署藥輸字第025841號 普拿疼伏冒鼻炎錠(12s)_C3120P_carton-106-08-30(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025841&Seq=006&Type=8"
-        },
-        {
-            "title": "普拿疼伏冒鼻炎錠_外盒20161226-105-12-28.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025841&Seq=005&Type=8"
+            "title": "衛署藥輸字第025841號PANADOL ALLERGY SINUS PE_Carton-110-12-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025841&Seq=007&Type=8"
         }
     ]
 }

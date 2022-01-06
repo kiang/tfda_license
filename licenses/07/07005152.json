@@ -1,19 +1,21 @@
 {
     "code": "07005152",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07005152",
-    "time": "2020-02-25 21:38:13",
+    "time": "2022-01-07 05:11:06",
     "許可證字號": "衛署粧製字第005152號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "111\/07\/13",
-    "發證日期": "98\/07\/13",
-    "許可證種類": "含藥化粧品",
+    "發證\/登錄日期": "98\/07\/13",
+    "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00700515207",
-    "中文品名": "1.晶彩泡沫護髮染-紅棕色 (第一劑)2.搖搖奶昔泡泡染-紅棕色(第一劑)",
+    "中文品名": "1.晶彩泡沫護髮染-紅棕色 2.搖搖奶昔泡泡染-紅棕色(第一劑)",
     "英文品名": "Beauty Color-Red Brown",
     "用途": "染髮。",
     "劑型": "970液劑",
@@ -26,16 +28,13 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "AMMONIA SOLUTION, CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL), 4-AMINO-M-CRESOL, 5-AMINO-6-CHLORO-O-CRESOL",
+    "主成分略述": "AMMONIA SOLUTION, 4-AMINO-M-CRESOL, 5-AMINO-6-CHLORO-O-CRESOL, 4-AMINO-2-HYDROXYTOLUENE",
     "限制項目": "01國　產",
     "申請商名稱": "0823912200  依必朗化學製藥股份有限公司",
     "申請商地址": "彰化縣福興鄉萬豐村福工路１１號",
     "主製造廠": [
         {
-            "製造廠名稱": "0416922100  友立化工有限公司",
-            "製造廠廠址": "高雄市梓官區梓信里信德街14號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
@@ -47,14 +46,6 @@
             "成分名稱": "AMMONIA SOLUTION",
             "含量描述": "",
             "含量": "1.0000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
-            "含量描述": "",
-            "含量": "0.9000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -72,44 +63,20 @@
             "含量描述": "",
             "含量": "1.0000000000",
             "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "0.9000000000",
+            "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
         {
-            "title": "07005152-104-03-13.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005152&Seq=009&Type=8"
-        },
-        {
-            "title": "07005152___20120816.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005152&Seq=008&Type=8"
-        },
-        {
-            "title": "070051520006___20100927.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005152&Seq=007&Type=8"
-        },
-        {
-            "title": "070051520005___20100927.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005152&Seq=006&Type=8"
-        },
-        {
-            "title": "070051520004___20100927.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005152&Seq=005&Type=8"
-        },
-        {
-            "title": "070051520003___20100927.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005152&Seq=004&Type=8"
-        },
-        {
-            "title": "070051520002___20100927.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005152&Seq=003&Type=8"
-        },
-        {
-            "title": "070051520001___20111024.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005152&Seq=002&Type=8"
-        },
-        {
-            "title": "070051520001___20100927.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005152&Seq=001&Type=8"
+            "title": "07005152-110-12-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005152&Seq=010&Type=8"
         }
     ]
 }

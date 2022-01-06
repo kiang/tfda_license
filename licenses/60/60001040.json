@@ -1,17 +1,19 @@
 {
     "code": "60001040",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60001040",
-    "time": "2021-05-28 05:08:09",
+    "time": "2022-01-07 04:06:42",
     "許可證字號": "衛部菌疫輸字第001040號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
-    "有效日期": "111\/02\/23",
-    "發證日期": "106\/02\/23",
+    "有效日期": "116\/02\/23",
+    "發證\/登錄日期": "106\/02\/23",
     "許可證種類": "菌　疫",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA06000104009",
     "中文品名": "百利妥注射劑",
     "英文品名": "BLINCYTO for Injection",
@@ -32,17 +34,11 @@
     "申請商地址": "臺北市信義區松仁路100號13樓之1、之2",
     "主製造廠": [
         {
-            "製造廠名稱": "FDE0021300  BOEHRINGER INGELHEIM PHARMA GMBH &amp; CO. KG",
-            "製造廠廠址": "BIRKENDORFER STRASSE 65, 88397 BIBERACH AN DER RISS.  GERMANY",
-            "製造廠公司地址": "",
-            "製造廠國別": "GERMANY",
+            "": "GERMANY",
             "製程": "成品製造廠"
         },
         {
-            "製造廠名稱": "FIE0040100  Amgen Technology (Ireland) Unlimited Company",
-            "製造廠廠址": "Pottery Road, Dun Laoghaire, Co., Dublin, Ireland",
-            "製造廠公司地址": "",
-            "製造廠國別": "IRELAND",
+            "": "IRELAND",
             "製程": "成品製造廠"
         }
     ],
@@ -92,8 +88,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "Blincyto 中文仿單TWBLIPI05_Jul2020-109-09-22.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001040&Seq=005&Type=9"
+            "title": "衛部菌疫輸字第001040號_中文仿單-110-12-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001040&Seq=007&Type=9"
+        },
+        {
+            "title": "BLINCYTO外盒(BIP)_MCK02822 ART-110-06-04(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001040&Seq=013&Type=8"
+        },
+        {
+            "title": "BLINCYTO外盒(ADL)_1025925 ART-110-06-04(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001040&Seq=012&Type=8"
         },
         {
             "title": "BLINCYTO_20180911_Label VI 35mcg (廠商自行上傳)-108-07-16(廠商自行上傳).pdf",
