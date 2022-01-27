@@ -1,7 +1,7 @@
 {
     "code": "07002387",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07002387",
-    "time": "2022-01-21 05:50:52",
+    "time": "2022-01-28 05:47:51",
     "許可證字號": "衛署粧製字第002387號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "英文品名": "WATERPROOF MOISTURIZING SUNBLOCK LOTION-SPF15",
     "用途": "（用途）保護、滋潤肌膚、防止日曬。",
     "劑型": "991乳劑（面霜）",
-    "包裝": "瓶裝",
+    "包裝": "500ml以下瓶裝，附外盒",
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
@@ -28,7 +28,7 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "",
+    "主成分略述": "OCTYL METHOXYCINNAMATE",
     "限制項目": "02輸　入",
     "申請商名稱": "0810410200  佳妙國際股份有限公司",
     "申請商地址": "台中市大里區中興路二段56之1號",
@@ -39,27 +39,20 @@
         }
     ],
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8480000560",
+            "成分名稱": "OCTYL METHOXYCINNAMATE",
+            "含量描述": "",
+            "含量": "3.5000000000",
+            "單位": "%(W\/W)"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "070023870001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07002387&Seq=001&Type=9"
-        },
-        {
-            "title": "07002387-104-05-27.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07002387&Seq=004&Type=8"
-        },
-        {
-            "title": "070023870003.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07002387&Seq=003&Type=8"
-        },
-        {
-            "title": "070023870002.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07002387&Seq=002&Type=8"
-        },
-        {
-            "title": "070023870001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07002387&Seq=001&Type=8"
+            "title": "07002387-111-01-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07002387&Seq=005&Type=8"
         }
     ]
 }
