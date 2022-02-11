@@ -1,17 +1,19 @@
 {
     "code": "72000018",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=72000018",
-    "time": "2021-04-30 05:22:53",
+    "time": "2022-02-11 07:21:10",
     "許可證字號": "衛部罕菌疫輸字第000018號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "116\/01\/25",
-    "發證日期": "106\/01\/25",
+    "發證\/登錄日期": "106\/01\/25",
     "許可證種類": "菌　疫",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA07200001800",
     "中文品名": "&quot;安進&quot;瑞百安注射液",
     "英文品名": "&quot;Amgen&quot; Repatha Solution for Injection",
@@ -32,10 +34,7 @@
     "申請商地址": "臺北市信義區松仁路100號13樓之1、之2",
     "主製造廠": [
         {
-            "製造廠名稱": "FPR0034000  AMGEN MANUFACTURING,LIMITED",
-            "製造廠廠址": "STATE ROAD 31,KM 24.6 JUNCOS,PUERTO RICO 00777-4060",
-            "製造廠公司地址": "",
-            "製造廠國別": "PUERTO RICO",
+            "": "PUERTO RICO",
             "製程": ""
         }
     ],
@@ -90,8 +89,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "安進瑞百安注射液_中文仿單-109-08-12.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=72000018&Seq=005&Type=9"
+            "title": "仿單核定本taiwan_cn_repatha_HoFH_pi_pfs ai ifu_SmPC r40_clean-110-12-29.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=72000018&Seq=007&Type=9"
+        },
+        {
+            "title": "MCK02814 ART-110-08-03(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=72000018&Seq=013&Type=8"
+        },
+        {
+            "title": "1025953 ART-110-08-03(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=72000018&Seq=012&Type=8"
         },
         {
             "title": "Amgen Repatha_20180307_Carton 6-107-03-08(廠商自行上傳).pdf",

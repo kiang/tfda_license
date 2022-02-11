@@ -1,17 +1,19 @@
 {
     "code": "90000888",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=90000888",
-    "time": "2020-02-26 10:01:23",
+    "time": "2022-02-11 08:26:19",
     "許可證字號": "衛部粧陸輸字第000888號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "111\/08\/19",
-    "發證日期": "102\/08\/19",
-    "許可證種類": "含藥化粧品",
+    "發證\/登錄日期": "102\/08\/19",
+    "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA09000088800",
     "中文品名": "【黑鉄戈染膏、犀利隆染膏、光芒虎染膏、花妒染膏、綠云染膏、凡客染膏、伊梵染膏、那芬妮染膏】-No. 4.3金棕、4.4銅棕、4.43銅亞麻棕",
     "英文品名": "Hair Atag color, City Zone, Sun Tiger, Fe&#39; De, MODcolor, FALKEN color, YVONNE color, NAPHINE color- NO. 4.3 GOLDEN BROWN、4.4 COPPER BROWN、4.43 MEDIUM COPPER GOLDEN BROWN",
@@ -26,16 +28,13 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "AMMONIUM HYDROXIDE 25%, RESORCINOL (RESORCIN), CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL), P-AMINOPHENOL, P-PHENYLENEDIAMINE",
+    "主成分略述": "AMMONIUM HYDROXIDE 25%, RESORCINOL (RESORCIN), 5-Amino-o-cresol, P-AMINOPHENOL, P-PHENYLENEDIAMINE",
     "限制項目": "",
     "申請商名稱": "0521501100  玉岫國際開發有限公司",
     "申請商地址": "新北市中和區建一路173號8樓",
     "主製造廠": [
         {
-            "製造廠名稱": "CCN0023000  GUANGZHOU COLORNOW COSMETIC CO., LTD.",
-            "製造廠廠址": "NO.8 QIXINGGANG INDUSTRIAL ZONE, LUOGANG VILLAGE, XINSHI TOWN, BAIYUN DISTRICT, GUANGZHOU CITY, GUANGDONG PROVINCE, CHINA",
-            "製造廠公司地址": "",
-            "製造廠國別": "CHINA",
+            "": "CHINA",
             "製程": ""
         }
     ],
@@ -59,8 +58,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
+            "成分代碼": "9200002616",
+            "成分名稱": "5-Amino-o-cresol",
             "含量描述": "",
             "含量": "0.1500000000",
             "單位": "%(W\/W)"
@@ -99,8 +98,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
+            "成分代碼": "9200002616",
+            "成分名稱": "5-Amino-o-cresol",
             "含量描述": "",
             "含量": "0.1200000000",
             "單位": "%(W\/W)"
@@ -139,8 +138,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
+            "成分代碼": "9200002616",
+            "成分名稱": "5-Amino-o-cresol",
             "含量描述": "",
             "含量": "0.1900000000",
             "單位": "%(W\/W)"

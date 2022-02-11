@@ -1,17 +1,19 @@
 {
     "code": "10000925",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000925",
-    "time": "2020-09-25 10:22:32",
+    "time": "2022-02-11 08:32:09",
     "許可證字號": "衛署菌疫輸字第000925號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
-    "有效日期": "111\/01\/30",
-    "發證日期": "101\/01\/30",
+    "有效日期": "116\/01\/30",
+    "發證\/登錄日期": "101\/01\/30",
     "許可證種類": "菌　疫",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA01000092502",
     "中文品名": "&quot;百特&quot;組織修復凝合劑(第二代)",
     "英文品名": "Tisseel Solution for sealant",
@@ -26,16 +28,13 @@
     "管制藥品分類級別": "",
     "藥品分類": "血液衍生產品",
     "監視期限": "",
-    "主成分略述": "THROMBIN, CALCIUM CHLORIDE, APROTININ (SYNTHETIC), PROTEIN CLOTTABLE ( HUMAN ) ( FIBRINOGEN 70-110mg, PLASMAFIBRONECTIN 2-9mg, PLASMINOGEN 0.04-0.12mg)",
+    "主成分略述": "THROMBIN, CALCIUM CHLORIDE, APROTININ (SYNTHETIC), PROTEIN CLOTTABLE (FIBRINOGEN, HUMAN)(72-110MG)",
     "限制項目": "02輸　入",
     "申請商名稱": "0617501100  百特醫療產品股份有限公司",
     "申請商地址": "臺北市大安區敦化南路2段95號28樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FAT0018000  BAXTER AG",
-            "製造廠廠址": "A-1220 VIENNA, INDUSTRIESTRASSES 67, AUSTRIA.",
-            "製造廠公司地址": "",
-            "製造廠國別": "AUSTRIA",
+            "": "AUSTRIA",
             "製程": ""
         }
     ],
@@ -52,8 +51,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8004003820",
-            "成分名稱": "PROTEIN CLOTTABLE ( HUMAN ) ( FIBRINOGEN 70-110mg, PLASMAFIBRONECTIN 2-9mg, PLASMINOGEN 0.04-0.12mg)",
+            "成分代碼": "8004003830",
+            "成分名稱": "PROTEIN CLOTTABLE (FIBRINOGEN, HUMAN)(72-110MG)",
             "含量描述": "(72-110 mg)",
             "含量": "91.0000000000",
             "單位": "MG"

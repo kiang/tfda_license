@@ -1,17 +1,19 @@
 {
     "code": "56025465",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025465",
-    "time": "2020-02-26 07:24:18",
+    "time": "2022-02-11 07:54:15",
     "許可證字號": "衛部醫器輸字第025465號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "QSD4613",
     "有效日期": "112\/11\/22",
-    "發證日期": "102\/11\/22",
+    "發證\/登錄日期": "102\/11\/22",
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05602546508",
     "中文品名": "“百歐森偉伯司特”聲速達立體診斷用超音波導管",
     "英文品名": "“Biosense Webster” SOUNDSTAR 3D Ultrasound Catheter",
@@ -37,20 +39,17 @@
     "申請商地址": "臺北市中山區民生東路三段2號10樓及11樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MKR0987000  Siemens Healthineers Ltd.",
-            "製造廠廠址": "2nd &amp;3rd Venture Building, Pohang Technopark, 394,Jigok-ro, Nam-gu, Pohang-Si, Gyeongsangbuk-Do, 790-834 Korea",
-            "製造廠公司地址": "",
-            "製造廠國別": "KOREA",
+            "": "KOREA",
             "製程": "受託製造廠"
         }
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "MUS0719200  Biosense Webster, Inc.",
-            "製造廠廠址": "33 Technology Drive Irvine, CA USA 92618",
+            "製造廠名稱": "MUS4864000  Biosense Webster, Inc.",
+            "製造廠廠址": "31 Technology Drive, Suite 200, Irvine CA 92618 USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
-            "製程": ""
+            "製程": "委託製造者"
         }
     ],
     "藥理治療分類": "",

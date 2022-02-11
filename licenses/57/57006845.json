@@ -1,17 +1,19 @@
 {
     "code": "57006845",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=57006845",
-    "time": "2020-03-27 06:18:19",
+    "time": "2022-02-11 08:22:46",
     "許可證字號": "衛部粧製字第006845號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "113\/06\/30",
-    "發證日期": "103\/09\/16",
-    "許可證種類": "含藥化粧品",
+    "發證\/登錄日期": "103\/09\/16",
+    "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY05700684500",
     "中文品名": "1.泡泡染 2.POPO泡泡染 3.絕代風染 4.飄飄染 5.神采奕奕泡泡染 6.煥染泡泡 7.魔力POPO泡泡染 8.魔幻POPO護髮泡泡染 9.Color Magic染髮小神仙泡泡染 10.魅影幻彩泡泡染11.香波染髮乳12.泡沫染髮乳13.3D泡泡染14.珍黑護髮染髮乳15.慕拉米泡泡染髮乳 (銅紅色系) （第1劑、第2劑）",
     "英文品名": "1. POPO Hair Color  7.Magic bubble hair color  9.Color Magic Herbal Coloring-Copper Red  14.Natural Mi Ya Hair Color Cream(Copper Red) 15.RAPTBRAVO PoPo Hair Color Cream",
@@ -26,16 +28,13 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "HYDROGEN PEROXIDE (35%), CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL), P-AMINOPHENOL, P-PHENYLENEDIAMINE",
+    "主成分略述": "HYDROGEN PEROXIDE (35%), 5-Amino-o-cresol, P-AMINOPHENOL, P-PHENYLENEDIAMINE",
     "限制項目": "",
     "申請商名稱": "1508521200  瑩澤化工有限公司",
     "申請商地址": "高雄市小港區小港路６５號",
     "主製造廠": [
         {
-            "製造廠名稱": "1509521100  瑩澤化工有限公司",
-            "製造廠廠址": "高雄市小港區小港路六十五號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
@@ -43,18 +42,10 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
+            "成分代碼": "9200002616",
+            "成分名稱": "5-Amino-o-cresol",
             "含量描述": "",
             "含量": "0.9000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
-            "含量描述": "",
-            "含量": "1.0000000000",
             "單位": "%(W\/W)"
         },
         {

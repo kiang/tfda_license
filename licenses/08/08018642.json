@@ -1,17 +1,19 @@
 {
     "code": "08018642",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018642",
-    "time": "2020-11-27 14:17:10",
+    "time": "2022-02-11 08:21:52",
     "許可證字號": "衛署粧輸字第018642號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "113\/06\/30",
-    "發證日期": "100\/11\/16",
+    "發證\/登錄日期": "100\/11\/16",
     "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00801864200",
     "中文品名": "雅娜蒂花草染髮霜 3.5（第一劑）",
     "英文品名": "Yanagiya Hair Color Cream 3.5",
@@ -26,16 +28,13 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "STRONG AMMONIA SOLUTION (28%), RESORCINOL (RESORCIN), CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL), P-AMINOPHENOL, P-PHENYLENEDIAMINE, NITRO-P-PHENYLENEDIAMINE",
+    "主成分略述": "STRONG AMMONIA SOLUTION (28%), RESORCINOL (RESORCIN), 5-Amino-o-cresol, P-AMINOPHENOL, P-PHENYLENEDIAMINE, NITRO-P-PHENYLENEDIAMINE",
     "限制項目": "02輸　入",
     "申請商名稱": "1230001100  雅娜蒂股份有限公司",
     "申請商地址": "高雄市苓雅區建國一路１４０巷１１之６號",
     "主製造廠": [
         {
-            "製造廠名稱": "CJP0086000  International Toiletries Co., Ltd.Hadano Factory",
-            "製造廠廠址": "88-banchi,horiyamashita, hadano-shi, kanagawa,Japan",
-            "製造廠公司地址": "",
-            "製造廠國別": "JAPAN",
+            "": "JAPAN",
             "製程": ""
         }
     ],
@@ -59,8 +58,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
+            "成分代碼": "9200002616",
+            "成分名稱": "5-Amino-o-cresol",
             "含量描述": "",
             "含量": "0.1000000000",
             "單位": "%(W\/W)"
@@ -88,6 +87,12 @@
             "含量描述": "",
             "含量": "0.1800000000",
             "單位": "%(W\/W)"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "08018642-105-07-04.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018642&Seq=001&Type=8"
         }
     ]
 }

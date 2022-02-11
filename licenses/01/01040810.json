@@ -1,17 +1,19 @@
 {
     "code": "01040810",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01040810",
-    "time": "2020-02-25 06:34:34",
+    "time": "2022-02-11 08:43:10",
     "許可證字號": "衛署藥製字第040810號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "111\/01\/31",
-    "發證日期": "86\/01\/31",
+    "發證\/登錄日期": "86\/01\/31",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHYS0104081004",
     "中文品名": "&quot;美時&quot;美善膠囊250毫克(硫酸固可沙明)",
     "英文品名": "MARTRIL CAPSULES 250MG (GLUCOSAMINE SULFATE) &quot;M.S.&quot;",
@@ -22,7 +24,7 @@
     "有效期間": "",
     "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "藥品類別": "17醫師藥師藥劑生指示藥",
+    "藥品類別": "17醫師藥師藥劑生指示藥品",
     "管制藥品分類級別": "",
     "藥品分類": "",
     "監視期限": "",
@@ -32,10 +34,7 @@
     "申請商地址": "台北市信義區松仁路277號17樓",
     "主製造廠": [
         {
-            "製造廠名稱": "0901314300  美時化學製藥股份有限公司南投廠",
-            "製造廠廠址": "南投縣南投市新興里成功一路３０號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
@@ -69,12 +68,28 @@
     ],
     "仿單外盒": [
         {
+            "title": "ARTDB016973L Glucosamine Sulphate 250mg (TW) Label page1-109-05-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040810&Seq=009&Type=9"
+        },
+        {
+            "title": "ARTDB016974P Glucosamine Sulphate 250mg (TW) PIL page1-109-05-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040810&Seq=008&Type=9"
+        },
+        {
             "title": "美時美善膠囊250毫克(硫酸固可沙明)_仿單-108-08-22.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040810&Seq=007&Type=9"
         },
         {
             "title": "美時美善膠囊250毫克(衛署藥製字第040810)-仿單 V.041110-104-12-23(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040810&Seq=006&Type=9"
+        },
+        {
+            "title": "ARTDB017222C Glucosamine Sulphate 250mg (APAC-TW) Carton page1-109-05-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040810&Seq=006&Type=8"
+        },
+        {
+            "title": "ARTDB017223C Glucosamine Sulphate 250mg (TW) Carton page1-109-05-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01040810&Seq=005&Type=8"
         },
         {
             "title": "美時美善膠囊250毫克(硫酸固可沙明)_鋁箔-108-08-22.pdf",

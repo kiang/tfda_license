@@ -1,7 +1,7 @@
 {
     "code": "70000060",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=70000060",
-    "time": "2021-11-26 06:09:00",
+    "time": "2022-02-11 07:21:07",
     "許可證字號": "衛部罕藥輸字第000060號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -38,6 +38,15 @@
             "製程": ""
         }
     ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "FGB0429000  AMICUS THERAPEUTICS UK LIMITED",
+            "製造廠廠址": "ONE GLOBESIDE BUSINESS PARK, FIELDHOUSE LANE, MARLOW, BUCKINGHAMSHIRE, SL7 1HZ, UNITED KINGDOM",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
+            "製程": "許可證持有者"
+        }
+    ],
     "CCC號列": "",
     "藥理治療分類": "",
     "ingredients": [
@@ -56,8 +65,12 @@
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=70000060&Seq=001&Type=9"
         },
         {
-            "title": "2200006002-109-02-19.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=70000060&Seq=001&Type=8"
+            "title": "衛部罕藥輸字第000060號_鋁箔-111-01-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=70000060&Seq=003&Type=8"
+        },
+        {
+            "title": "衛部罕藥輸字第000060號_外盒-111-01-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=70000060&Seq=002&Type=8"
         }
     ]
 }

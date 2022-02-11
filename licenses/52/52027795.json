@@ -1,17 +1,19 @@
 {
     "code": "52027795",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52027795",
-    "time": "2021-02-26 04:50:53",
+    "time": "2022-02-11 07:20:35",
     "許可證字號": "衛部藥輸字第027795號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "114\/01\/07",
-    "發證日期": "109\/01\/07",
+    "發證\/登錄日期": "109\/01\/07",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05202779507",
     "中文品名": "驅黴霸100毫克膠囊",
     "英文品名": "CRESEMBA 100 mg capsules",
@@ -32,10 +34,7 @@
     "申請商地址": "台北市信義區松仁路100號42、43樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FCH0303000  SWISSCO SERVICES AG",
-            "製造廠廠址": "BAHNHOFSTRASSE 14, 4334 SISSELN, SWITZERLAND",
-            "製造廠公司地址": "",
-            "製造廠國別": "SWITZERLAND",
+            "": "SWITZERLAND",
             "製程": ""
         }
     ],
@@ -85,8 +84,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "Cresemba_100 mg capsule_isavuconazonium sulfate_LLD SPC 20181120-6-109-12-15.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027795&Seq=003&Type=9"
+            "title": "Cresemba_100 mg capsule_isavuconazonium sulfate_LLD SPC 20210517-2-111-01-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027795&Seq=004&Type=9"
+        },
+        {
+            "title": "Cresemba Capsule 外盒包裝_中文化-110-04-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027795&Seq=006&Type=8"
         },
         {
             "title": "Cresemba-Foil-090623-109-12-15.pdf",

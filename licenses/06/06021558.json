@@ -1,17 +1,19 @@
 {
     "code": "06021558",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021558",
-    "time": "2021-02-26 05:00:26",
+    "time": "2022-02-11 07:37:02",
     "許可證字號": "衛署醫器輸字第021558號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "QSD10911",
     "有效日期": "114\/10\/08",
-    "發證日期": "99\/10\/08",
+    "發證\/登錄日期": "99\/10\/08",
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00602155802",
     "中文品名": "“亞諾”週邊置入中央靜脈導管組",
     "英文品名": "“ARROW” Peripherally Inserted Central Catheter Set",
@@ -37,17 +39,14 @@
     "申請商地址": "臺北市大安區敦化南路2段207號16樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MMX0117000  Arrow Internacional de Chihuahua S.A. de C.V.",
-            "製造廠廠址": "Ave. Washington 3701, Interior Circuito Industrial Alta Tecnologia Edificio 40, Colonia Panamericana Chihuahua, Chihuahua Mexico, CP 31200, Mexico",
-            "製造廠公司地址": "",
-            "製造廠國別": "MEXICO",
+            "": "MEXICO",
             "製程": "Manufactured by"
         }
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "MUS0022100  ARROW INTERNATIONAL INC.",
-            "製造廠廠址": "2400 Bernville Road, Reading, PA 19605 USA",
+            "製造廠名稱": "MUS0022100  Arrow International LLC (subsidiary of Teleflex Incorporated)",
+            "製造廠廠址": "3015 Carrington Mill Blvd. Morrisville, NC, 27560, USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
             "製程": "委託製造者"
@@ -57,20 +56,12 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060215580001-105-06-22.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021558&Seq=002&Type=9"
+            "title": "060215580002-1110112-111-01-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021558&Seq=005&Type=9"
         },
         {
-            "title": "060215580002___20101113.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021558&Seq=001&Type=9"
-        },
-        {
-            "title": "060215580001-105-06-22.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021558&Seq=002&Type=8"
-        },
-        {
-            "title": "060215580001___20101113.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021558&Seq=001&Type=8"
+            "title": "060215580001-1110112-111-01-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021558&Seq=003&Type=8"
         }
     ]
 }
