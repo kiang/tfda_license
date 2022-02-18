@@ -1,17 +1,19 @@
 {
     "code": "10000926",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000926",
-    "time": "2021-05-28 05:01:06",
+    "time": "2022-02-18 03:42:54",
     "許可證字號": "衛署菌疫輸字第000926號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "111\/05\/22",
-    "發證日期": "101\/05\/22",
+    "發證\/登錄日期": "101\/05\/22",
     "許可證種類": "菌　疫",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA01000092601",
     "中文品名": "優曼人體血清白蛋白 20%輸注液",
     "英文品名": "Uman Albumin solution for infusion 20%",
@@ -32,10 +34,7 @@
     "申請商地址": "彰化縣和美鎮山犁里愛鄉路92號1樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FIT0461000  KEDRION S.P.A.",
-            "製造廠廠址": "BOLOGNANA GALLICANO 55027 LUCCA ITALY",
-            "製造廠公司地址": "LOCALITA AI CONTI, CASTELVECCHIO PASCOLI, 55051 BARGA LUCCA ITALY",
-            "製造廠國別": "ITALY",
+            "": "ITALY",
             "製程": ""
         }
     ],
@@ -79,14 +78,26 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "白蛋白產品外觀-110-12-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000926&Seq=002&Type=10"
+        },
+        {
             "title": "產品外觀-104-12-31(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000926&Seq=001&Type=10"
         }
     ],
     "仿單外盒": [
         {
+            "title": "白蛋白仿單-110-12-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000926&Seq=009&Type=9"
+        },
+        {
             "title": "中文仿單-104-12-31(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000926&Seq=008&Type=9"
+        },
+        {
+            "title": "8092367d2_50ml-110-12-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000926&Seq=007&Type=8"
         },
         {
             "title": "020009260003-104-12-31(廠商自行上傳).pdf",

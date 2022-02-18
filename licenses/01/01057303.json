@@ -1,23 +1,25 @@
 {
     "code": "01057303",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057303",
-    "time": "2020-02-25 07:47:40",
+    "time": "2022-02-18 03:27:21",
     "許可證字號": "衛署藥製字第057303號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "111\/07\/20",
-    "發證日期": "101\/07\/20",
+    "發證\/登錄日期": "101\/07\/20",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00105730307",
     "中文品名": "溫舒眼眼藥膏",
     "英文品名": "Wins-Eye Sterile Ophthalmic Ointment",
     "適應症": "暫時緩解因眼睛乾澀所引起灼熱感與刺激感。",
     "劑型": "461點眼膏劑",
-    "包裝": "100公克以下積層管裝 100公克以下鋁軟管",
+    "包裝": "100公克以下積層管裝",
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
@@ -32,10 +34,7 @@
     "申請商地址": "台南市永康區鹽洲里仁愛街１１７號",
     "主製造廠": [
         {
-            "製造廠名稱": "1217820300  溫士頓醫藥股份有限公司",
-            "製造廠廠址": "臺南市永康區鹽洲里仁愛街一一七號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
@@ -49,12 +48,56 @@
             "含量描述": "",
             "含量": "30.0000000000",
             "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8424120620",
+            "成分名稱": "MINERAL OIL",
+            "含量描述": "",
+            "含量": "30.0000000000",
+            "單位": "MG"
         }
     ],
     "仿單外盒": [
         {
-            "title": "溫舒眼說明書_20160108 ok-105-01-14.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057303&Seq=003&Type=9"
+            "title": "薄荷--溫舒眼眼藥膏說明書-111-01-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057303&Seq=005&Type=9"
+        },
+        {
+            "title": "溫舒眼眼藥膏說明書-111-01-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057303&Seq=004&Type=9"
+        },
+        {
+            "title": "薄荷-溫舒眼5g-積層管-111-01-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057303&Seq=014&Type=8"
+        },
+        {
+            "title": "薄荷-溫舒眼5g-包裝盒-111-01-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057303&Seq=013&Type=8"
+        },
+        {
+            "title": "薄荷-溫舒眼5gX120-標籤-111-01-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057303&Seq=012&Type=8"
+        },
+        {
+            "title": "薄荷-溫舒眼5gX20-標籤-111-01-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057303&Seq=011&Type=8"
+        },
+        {
+            "title": "潤澤-溫舒眼5g-積層管-111-01-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057303&Seq=010&Type=8"
+        },
+        {
+            "title": "潤澤-溫舒眼5g-包裝盒-111-01-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057303&Seq=009&Type=8"
+        },
+        {
+            "title": "潤澤-溫舒眼5gX120-標籤-111-01-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057303&Seq=008&Type=8"
+        },
+        {
+            "title": "潤澤-溫舒眼5gX20-標籤-111-01-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057303&Seq=007&Type=8"
         },
         {
             "title": "溫舒眼標貼_20160108-105-01-14.pdf",

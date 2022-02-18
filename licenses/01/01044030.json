@@ -1,47 +1,62 @@
 {
     "code": "01044030",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01044030",
-    "time": "2020-11-27 09:44:35",
+    "time": "2022-02-18 03:13:00",
     "許可證字號": "衛署藥製字第044030號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "114\/10\/11",
-    "發證日期": "89\/10\/11",
+    "發證\/登錄日期": "89\/10\/11",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00104403003",
     "中文品名": "克菌寧殺菌凝膠 0.5%",
     "英文品名": "So Easy GeL 0.5%",
     "適應症": "一般外用消毒劑，可當作初步傷口處理。",
     "劑型": "393外用凝膠劑",
-    "包裝": "1000公克以下PET塑膠瓶裝 1000公克以下HDPE瓶裝 1000公克以下LDPE塑膠瓶裝",
+    "包裝": "1000公克以下HDPE瓶裝",
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "藥品類別": "17醫師藥師藥劑生指示藥",
+    "藥品類別": "17醫師藥師藥劑生指示藥品",
     "管制藥品分類級別": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "CHLORHEXIDINE GLUCONATE",
+    "主成分略述": "CHLORHEXIDINE GLUCONATE, PURIFIED WATER ADDED TO",
     "限制項目": "01國　產",
     "申請商名稱": "2001301100  寶齡富錦生技股份有限公司",
     "申請商地址": "台北市南港區園區街三號16樓",
     "主製造廠": [
         {
-            "製造廠名稱": "2001304300  寶齡富錦生技股份有限公司平鎮廠",
-            "製造廠廠址": "桃園市平鎮區興隆路２６６號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "5204900231",
+            "成分名稱": "CHLORHEXIDINE GLUCONATE",
+            "含量描述": "(20%) 25",
+            "含量": "0.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9604001110",
+            "成分名稱": "PURIFIED WATER ADDED TO",
+            "含量描述": "",
+            "含量": "1.0000000000",
+            "單位": "GM"
+        },
         {
             "成分類別": "主成分",
             "成分代碼": "5204900231",
@@ -61,24 +76,28 @@
     ],
     "仿單外盒": [
         {
-            "title": "仿單_無香精-106-12-21.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044030&Seq=004&Type=9"
+            "title": "仿單(馨香薰衣草)-111-01-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044030&Seq=007&Type=9"
         },
         {
-            "title": "仿單_有香精-106-12-21.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044030&Seq=003&Type=9"
+            "title": "仿單(無香精)-111-01-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044030&Seq=006&Type=9"
         },
         {
-            "title": "#44030-insert-104-12-16(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044030&Seq=002&Type=9"
+            "title": "仿單(清新小黃瓜)-111-01-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044030&Seq=005&Type=9"
         },
         {
-            "title": "標籤及外盒_無香精-106-12-21.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044030&Seq=002&Type=8"
+            "title": "外盒標籤(馨香薰衣草)-111-01-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044030&Seq=005&Type=8"
         },
         {
-            "title": "標籤及外盒_有香精-106-12-21.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044030&Seq=001&Type=8"
+            "title": "外盒標籤(無香精)-111-01-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044030&Seq=004&Type=8"
+        },
+        {
+            "title": "外盒標籤(清新小黃瓜)-111-01-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01044030&Seq=003&Type=8"
         }
     ]
 }

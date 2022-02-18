@@ -1,17 +1,19 @@
 {
     "code": "01048751",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01048751",
-    "time": "2021-03-26 04:19:56",
+    "time": "2022-02-18 03:18:52",
     "許可證字號": "衛署藥製字第048751號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "111\/05\/23",
-    "發證日期": "96\/05\/23",
+    "發證\/登錄日期": "96\/05\/23",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00104875107",
     "中文品名": "“信東”沛能靜脈注射劑",
     "英文品名": "Penem for I.V. Injection",
@@ -32,10 +34,7 @@
     "申請商地址": "桃園市桃園區介壽路２２號",
     "主製造廠": [
         {
-            "製造廠名稱": "6105200071  松瑞製藥股份有限公司南科分公司針劑廠",
-            "製造廠廠址": "南部科學工業園區臺南市新市區創業路12號4樓及16號4樓",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
@@ -93,8 +92,28 @@
     ],
     "仿單外盒": [
         {
+            "title": "Penem for IV Injection (Lit)-(備稿單20210408)-110-06-17(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048751&Seq=005&Type=9"
+        },
+        {
             "title": "Penem for IV Injection (Lit)(備稿單20151110)-104-12-16(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048751&Seq=004&Type=9"
+        },
+        {
+            "title": "Penem for IV Injection (L-500mg)-(備稿單20210415)-110-06-17(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048751&Seq=013&Type=8"
+        },
+        {
+            "title": "Penem for IV Injection (L-250mg)-(備稿單20210415)-110-06-17(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048751&Seq=012&Type=8"
+        },
+        {
+            "title": "Penem for IV Injection (Box-500mg)-(備稿單20210408)-110-06-17(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048751&Seq=011&Type=8"
+        },
+        {
+            "title": "Penem for IV Injection (Box-250mg)-(備稿單20210408)-110-06-17(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048751&Seq=010&Type=8"
         },
         {
             "title": "Penem for IV Injection (Box-500mg)-(備稿單20180720)-108-01-11(廠商自行上傳).pdf",

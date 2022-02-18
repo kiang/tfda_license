@@ -1,7 +1,7 @@
 {
     "code": "72000033",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=72000033",
-    "time": "2022-02-11 09:40:11",
+    "time": "2022-02-18 06:43:44",
     "許可證字號": "衛部罕菌疫輸字第000033號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -19,7 +19,7 @@
     "英文品名": "Takhzyro solution for injection",
     "適應症": "適用於12歲以上病人，做為遺傳性血管性水腫(hereditary angioedema，HAE)反覆發作的預防。說明：須符合以下三者之一：1.曾經有過1個月發作3次(含)以上。2.6個月發作達到5次。3.曾有過危及生命之發作。",
     "劑型": "27D注射液劑",
-    "包裝": "2mL玻璃小瓶裝，附注射器、穿刺針頭、注射針頭，100支以下盒裝",
+    "包裝": "2mL玻璃小瓶裝，附注射器、穿刺針頭、注射針頭，100支以下盒裝 2 mL預充填玻璃針筒裝，100支以下盒裝",
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
@@ -34,11 +34,22 @@
     "申請商地址": "台北市信義區松高路1號17樓",
     "主製造廠": [
         {
+            "": "GERMANY",
+            "製程": ""
+        },
+        {
             "": "UNITED STATES",
             "製程": ""
         }
     ],
     "次製造廠": [
+        {
+            "製造廠名稱": "FAT0033100  BAXTER AG",
+            "製造廠廠址": "Lange Allee 24, 1221, VIENNA, AUSTRIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRIA",
+            "製程": "二級包裝廠"
+        },
         {
             "製造廠名稱": "FDE0281100  RENTSCHLER BIOPHARMA SE",
             "製造廠廠址": "ERWIN-RENTSCHLER-STRAβE 21, 88471 LAUPHEIM, GERMANY",
@@ -68,8 +79,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "Takhzyro_PI_EU202007TW01-110-10-22.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=72000033&Seq=002&Type=9"
+            "title": "11.1 Takhzyro_PI_EU202007TW02_draft-111-02-15.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=72000033&Seq=003&Type=9"
+        },
+        {
+            "title": "373323_5.2 Takhzyro PFS_carton_0754599_V1_clean-111-02-15.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=72000033&Seq=003&Type=8"
+        },
+        {
+            "title": "373308_5.1 Takhzyro PFS_syringe label_0754597_V1_clean-111-02-15.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=72000033&Seq=002&Type=8"
         },
         {
             "title": "020000330002-110-04-06.pdf",
