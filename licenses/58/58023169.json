@@ -1,17 +1,19 @@
 {
     "code": "58023169",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58023169",
-    "time": "2020-10-30 14:09:44",
+    "time": "2022-03-11 04:11:41",
     "許可證字號": "衛部粧輸字第023169號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "113\/06\/30",
-    "發證日期": "104\/11\/06",
+    "發證\/登錄日期": "104\/11\/06",
     "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05802316900",
     "中文品名": "MEIRY染髮膏水潤粉7WP、9WP、11WP、13WP",
     "英文品名": "MEIRY&lt;7WP&gt;, &lt;9WP&gt;, &lt;11WP&gt;, &lt;13WP&gt;",
@@ -26,16 +28,13 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "STRONG AMMONIA SOLUTION, RESORCINOL (RESORCIN), CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL), P-AMINOPHENOL, P-PHENYLENEDIAMINE, 2,4-DIAMINOPHENOXYETHANOL HYDROCHLORIDE",
+    "主成分略述": "STRONG AMMONIA SOLUTION, RESORCINOL (RESORCIN), 5-Amino-o-cresol, P-AMINOPHENOL, P-PHENYLENEDIAMINE, 2,4-DIAMINOPHENOXYETHANOL HYDROCHLORIDE",
     "限制項目": "",
     "申請商名稱": "6619035011  快樂麗康股份有限公司",
     "申請商地址": "台北市南港區八德路4段768巷1弄20號5樓",
     "主製造廠": [
         {
-            "製造廠名稱": "CJP0316000  REAL CHEMICAL CO., LTD. KAWAGOE FACTORY",
-            "製造廠廠址": "2-8-27, YOSHINODAI, KAWAGOE-SHI, SAITAMA, JAPAN",
-            "製造廠公司地址": "",
-            "製造廠國別": "JAPAN",
+            "": "JAPAN",
             "製程": ""
         }
     ],
@@ -59,8 +58,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
+            "成分代碼": "9200002616",
+            "成分名稱": "5-Amino-o-cresol",
             "含量描述": "",
             "含量": "0.2250000000",
             "單位": "%(W\/W)"
@@ -107,8 +106,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
+            "成分代碼": "9200002616",
+            "成分名稱": "5-Amino-o-cresol",
             "含量描述": "",
             "含量": "0.1730000000",
             "單位": "%(W\/W)"
@@ -155,8 +154,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
+            "成分代碼": "9200002616",
+            "成分名稱": "5-Amino-o-cresol",
             "含量描述": "",
             "含量": "0.1330000000",
             "單位": "%(W\/W)"
@@ -203,8 +202,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
+            "成分代碼": "9200002616",
+            "成分名稱": "5-Amino-o-cresol",
             "含量描述": "",
             "含量": "0.0910000000",
             "單位": "%(W\/W)"

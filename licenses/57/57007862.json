@@ -1,17 +1,19 @@
 {
     "code": "57007862",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=57007862",
-    "time": "2020-02-26 08:49:02",
+    "time": "2022-03-11 04:09:35",
     "許可證字號": "衛部粧製字第007862號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "111\/12\/17",
-    "發證日期": "106\/12\/17",
-    "許可證種類": "含藥化粧品",
+    "發證\/登錄日期": "106\/12\/17",
+    "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY05700786202",
     "中文品名": "PROSEE 彩染靚露-紫色、LEE QI彩染靚露-紫色、PALEMA 彩染靚露-紫色、Prosee黛寶 彩染菁露-玫瑰紫、LEE QI李奇 控染靚露-玫瑰紫、PALEMA菲碧 染髮靚露-玫瑰紫、Hair Milicia髮米沙 色露-玫瑰紫、YICO怡可 彩染菁露-玫瑰紫。",
     "英文品名": "PROSEE color refresh mousse-purple, LEE QI color refresh mousse-purple, PALEMA color refresh mousse-purple, Prosee Color Refresh Mousse-rose violet, LEE QI Color Mousse-rose violet, PALEMA Color Enhancement Mousse-rose violet, Hair Milicia MIX Lotion-rose violet, YICO AVIS Color Refresh Mousse-rose violet。",
@@ -26,16 +28,13 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "BASIC BLUE 99, BASIC RED 51, BASIC RED 76",
+    "主成分略述": "HC Blue 16, BASIC RED 76",
     "限制項目": "",
     "申請商名稱": "1007402100  凌宇化工股份有限公司",
     "申請商地址": "新北市土城區大同街19號",
     "主製造廠": [
         {
-            "製造廠名稱": "1007402500  凌宇化工股份有限公司",
-            "製造廠廠址": "新北市土城區大同街１９號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
@@ -43,16 +42,8 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "9602040286",
-            "成分名稱": "BASIC BLUE 99",
-            "含量描述": "",
-            "含量": "1.6000000000",
-            "單位": "%(W\/V)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9602088600",
-            "成分名稱": "BASIC RED 51",
+            "成分代碼": "9602040219",
+            "成分名稱": "HC Blue 16",
             "含量描述": "",
             "含量": "0.1000000000",
             "單位": "%(W\/V)"
@@ -62,18 +53,14 @@
             "成分代碼": "9602088640",
             "成分名稱": "BASIC RED 76",
             "含量描述": "",
-            "含量": "0.3800000000",
+            "含量": "0.0580000000",
             "單位": "%(W\/V)"
         }
     ],
     "仿單外盒": [
         {
-            "title": "57007862-107-07-20.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=57007862&Seq=001&Type=9"
-        },
-        {
-            "title": "57007862-107-05-08.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=57007862&Seq=001&Type=8"
+            "title": "57007862-111-02-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=57007862&Seq=002&Type=8"
         }
     ]
 }

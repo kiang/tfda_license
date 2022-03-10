@@ -1,17 +1,19 @@
 {
     "code": "07002327",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07002327",
-    "time": "2020-02-25 21:09:19",
+    "time": "2022-03-11 04:01:54",
     "許可證字號": "衛署粧製字第002327號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "111\/04\/14",
-    "發證日期": "98\/04\/14",
-    "許可證種類": "含藥化粧品",
+    "發證\/登錄日期": "98\/04\/14",
+    "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00700232701",
     "中文品名": "慕拉米乳木果油護髮染髮乳 P-4\r\n1.乳木果油護髮染髮乳、2.護髮染髮乳、3.染髮乳、4.快速染髮乳、5.髮色覆蓋乳、6.何首烏護髮染髮乳、7.艾綠雅護髮染髮乳、8.陽光女孩護髮染髮乳、9.護髮染、10.亮彩染髮乳-落葉棕、布朗尼棕、金沙亞麻、黑醋栗棕、琉璃棕、奶茶棕、小麥棕、蜜糖棕、甜美杏桃棕、優雅淺棕、栗子銅棕、松子亞麻、可可棕、柔美亮栗、伯爵茶棕、淺栗棕、耀眼星鑽棕、奶油棕、迷幻亞麻、霧感栗棕。",
     "英文品名": "RAPTBRAVO Shea Butter Hair Color P-4\r\n1. Shea Butter Hair Color Cream, 2. Hair Color Cream, \r\n3. Hair Color Cream, 7. LOREEYA Hair Color Cream, 8. SUNNY GIRL Hair Color Cream-Brown。",
@@ -26,16 +28,13 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "Ammonia solution (25%), RESORCINOL (RESORCIN), CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL), P-METHYLAMINOPHENOL SULFATE, P-AMINOPHENOL, m-Aminophenol, 2-METHYLRESORCINOL, 2-METHYL-5-HYDROXYETHYLAMINOPHENOL",
+    "主成分略述": "Ammonia solution (25%), RESORCINOL (RESORCIN), 5-Amino-o-cresol, P-METHYLAMINOPHENOL SULFATE, P-AMINOPHENOL, m-Aminophenol, 2-METHYLRESORCINOL, 2-METHYL-5-HYDROXYETHYLAMINOPHENOL",
     "限制項目": "01國　產",
     "申請商名稱": "1508521200  瑩澤化工有限公司",
     "申請商地址": "高雄市小港區小港路６５號",
     "主製造廠": [
         {
-            "製造廠名稱": "1509521500  瑩澤化工有限公司",
-            "製造廠廠址": "高雄市小港區小港路六十五號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
@@ -59,8 +58,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
+            "成分代碼": "9200002616",
+            "成分名稱": "5-Amino-o-cresol",
             "含量描述": "",
             "含量": "0.3400000000",
             "單位": "%(W\/W)"

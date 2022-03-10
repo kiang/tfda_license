@@ -1,17 +1,19 @@
 {
     "code": "08016761",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08016761",
-    "time": "2020-02-26 00:50:00",
+    "time": "2022-03-11 04:06:51",
     "許可證字號": "衛署粧輸字第016761號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "111\/12\/28",
-    "發證日期": "98\/12\/28",
-    "許可證種類": "含藥化粧品",
+    "發證\/登錄日期": "98\/12\/28",
+    "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00801676108",
     "中文品名": "荷普染髮膏 GR GN7 自然棕色、柯雅煥然染劑 無齡系列O-N7 自然棕色、實萃染髮劑 果粹系列N-7NB",
     "英文品名": "Access Free HB GRAICYS Color GN7，CARETECT OG COLOR O-N7，NASEED COLOR N-7NB",
@@ -26,16 +28,13 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "STRONG AMMONIA SOLUTION (28%), RESORCINOL (RESORCIN), CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL), META-AMINOPHENOL (EQ TO M-AMINOPHENOL), M-AMINOPHENOL SULFATE, O-AMINOPHENOL, P-PHENYLENEDIAMINE, P-NITRO-O-PHENYLENEDIAMINE, P-NITRO-M-PHENYLENEDIAMINE SULFATE",
+    "主成分略述": "STRONG AMMONIA SOLUTION (28%), RESORCINOL (RESORCIN), 5-Amino-o-cresol, META-AMINOPHENOL (EQ TO M-AMINOPHENOL), O-AMINOPHENOL, m-Aminophenol, P-PHENYLENEDIAMINE, P-NITRO-O-PHENYLENEDIAMINE, P-NITRO-M-PHENYLENEDIAMINE SULFATE",
     "限制項目": "02輸　入",
     "申請商名稱": "6628836950  娜普菈股份有限公司",
     "申請商地址": "台北市中山區長安東路2段110號9樓之1",
     "主製造廠": [
         {
-            "製造廠名稱": "CJP0315000  B.S.P CO., LTD.",
-            "製造廠廠址": "517, NISHI-AKATANI, WAKI-MACHI, MIMA, TOKUSHIMA, JAPAN",
-            "製造廠公司地址": "",
-            "製造廠國別": "JAPAN",
+            "": "JAPAN",
             "製程": ""
         }
     ],
@@ -51,18 +50,10 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
+            "成分代碼": "9200002616",
+            "成分名稱": "5-Amino-o-cresol",
             "含量描述": "",
             "含量": "0.0400000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200035430",
-            "成分名稱": "M-AMINOPHENOL SULFATE",
-            "含量描述": "",
-            "含量": "0.0900000000",
             "單位": "%(W\/W)"
         },
         {
@@ -71,6 +62,14 @@
             "成分名稱": "O-AMINOPHENOL",
             "含量描述": "",
             "含量": "0.0200000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200035470",
+            "成分名稱": "m-Aminophenol",
+            "含量描述": "",
+            "含量": "0.0900000000",
             "單位": "%(W\/W)"
         },
         {
@@ -107,16 +106,16 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
+            "成分代碼": "9200002616",
+            "成分名稱": "5-Amino-o-cresol",
             "含量描述": "",
             "含量": "0.0400000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035430",
-            "成分名稱": "M-AMINOPHENOL SULFATE",
+            "成分代碼": "9200035403",
+            "成分名稱": "META-AMINOPHENOL (EQ TO M-AMINOPHENOL)",
             "含量描述": "",
             "含量": "0.0900000000",
             "單位": "%(W\/W)"
@@ -171,8 +170,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
+            "成分代碼": "9200002616",
+            "成分名稱": "5-Amino-o-cresol",
             "含量描述": "",
             "含量": "0.0300000000",
             "單位": "%(W\/W)"

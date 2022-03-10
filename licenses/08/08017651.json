@@ -1,17 +1,19 @@
 {
     "code": "08017651",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08017651",
-    "time": "2020-02-26 00:59:33",
+    "time": "2022-03-11 04:07:36",
     "許可證字號": "衛署粧輸字第017651號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "113\/06\/30",
-    "發證日期": "99\/12\/01",
-    "許可證種類": "含藥化粧品",
+    "發證\/登錄日期": "99\/12\/01",
+    "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00801765106",
     "中文品名": "愛麗美娜 亞炫設計專家染髮膏11度橘、9度橘、降1度橘",
     "英文品名": "ARIMINO ASIAN COLOR DESIGN EXPERT 11 ORANGE, 9 ORANGE,  VOL.1 ORANGE",
@@ -26,16 +28,13 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "STRONG AMMONIA SOLUTION (28%), 1-NAPHTHOL, CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL), P-AMINOPHENOL, P-NITRO-O-PHENYLENEDIAMINE",
+    "主成分略述": "STRONG AMMONIA SOLUTION (28%), 1-NAPHTHOL, 5-Amino-o-cresol, P-AMINOPHENOL, P-NITRO-O-PHENYLENEDIAMINE",
     "限制項目": "02輸　入",
     "申請商名稱": "6653330732  愛麗美娜國際有限公司",
     "申請商地址": "台北市信義區基隆路2段51號14樓之1",
     "主製造廠": [
         {
-            "製造廠名稱": "CJP0322000  ARIMINO CO., LTD. HIGASHIMATSUYAMA FACTORY",
-            "製造廠廠址": "25-5 MIYAKO, NAMEGAWA-CHO, HIKI-GUN, SAITAMA, JAPAN",
-            "製造廠公司地址": "",
-            "製造廠國別": "JAPAN",
+            "": "JAPAN",
             "製程": ""
         }
     ],
@@ -59,8 +58,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
+            "成分代碼": "9200002616",
+            "成分名稱": "5-Amino-o-cresol",
             "含量描述": "",
             "含量": "0.1700000000",
             "單位": "%(W\/W)"
@@ -99,8 +98,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
+            "成分代碼": "9200002616",
+            "成分名稱": "5-Amino-o-cresol",
             "含量描述": "",
             "含量": "0.1000000000",
             "單位": "%(W\/W)"
@@ -139,8 +138,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
+            "成分代碼": "9200002616",
+            "成分名稱": "5-Amino-o-cresol",
             "含量描述": "",
             "含量": "0.4000000000",
             "單位": "%(W\/W)"

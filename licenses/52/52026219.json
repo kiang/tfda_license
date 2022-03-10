@@ -1,21 +1,23 @@
 {
     "code": "52026219",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026219",
-    "time": "2020-08-28 11:53:52",
+    "time": "2022-03-11 03:17:34",
     "許可證字號": "衛部藥輸字第026219號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "112\/12\/12",
-    "發證日期": "102\/12\/12",
+    "發證\/登錄日期": "102\/12\/12",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05202621905",
     "中文品名": "捷抑炎 膜衣錠 5毫克",
     "英文品名": "XELJANZ Film-Coated Tablets 5mg",
-    "適應症": "1.  類風濕性關節炎：XELJANZ適用於治療患有中至重度活動性類風濕性關節炎且對methotrexate無法產生適當治療反應或無法耐受methotrexate之成人病人。本品可用於單一療法或與methotrexate或其他非生物性的疾病緩解型抗風濕藥物 (DMARDs) 合併使用。\r\n使用限制：不建議XELJANZ與生物性的疾病緩解型抗風濕藥物 (DMARDs)，或與強效免疫抑制劑（如azathioprine與cyclosporine）合併使用。\r\n2. 乾癬性關節炎：XELJANZ與非生物性的疾病緩解型抗風濕藥物 (DMARDs) 合併使用，適用於治療患有活動性乾癬性關節炎且對methotrexate或其他疾病緩解型抗風濕性藥物 (DMARDs) 無法產生適當治療反應或無法耐受之成人病人。\r\n使用限制：不建議XELJANZ與生物性的疾病緩解型抗風濕藥物 (DMARDs)，或與強效免疫抑制劑（如azathioprine與cyclosporine）合併使用。\r\n3. 潰瘍性結腸炎：XELJANZ適用於治療對類固醇、azathioprine、6-mercaptopurine (6-MP) 或TNF抑制劑療法失敗或無法耐受之中度至重度活動性潰瘍性結腸炎成人病人。\r\n使用限制：不建議XELJANZ與治療潰瘍性結腸炎之生物性療法或與強效免疫抑制劑（如azathioprine與cyclosporine）合併使用。",
+    "適應症": "1.類風濕性關節炎：XELJANZ適用於治療患有中至重度活動性類風濕性關節炎(Rheumatoid Arthritis, RA)且對methotrexate無法產生適當治療反應或無法耐受methotrexate之成人病人。本品可用於單一療法或與methotrexate或其他非生物性的疾病緩解型抗風濕藥物(DMARDs)合併使用。\r\n使用限制：不建議XELJANZ與生物性的疾病緩解型抗風濕藥物(DMARDs），或與強效免疫抑制劑(如azathioprine與cyclosporine)合併使用。\r\n2.乾癬性關節炎：XELJANZ與非生物性的疾病緩解型抗風濕藥物(DMARDs)合併使用，適用於治療患有活動性乾癬性關節炎(Psoriatic Arthritis, PsA)且對methotrexate或其他疾病緩解型抗風濕藥物（DMARDs）無法產生適當治療反應或無法耐受之成人病人。\r\n使用限制：不建議XELJANZ與生物性的疾病緩解型抗風濕藥物（DMARDs），或與強效免疫抑制劑（如azathioprine與cyclosporine）合併使用。\r\n3.僵直性脊椎炎：適用於治療曾對非類固醇抗發炎藥物(NSAID)反應不佳或耐受性不良的活動性僵直性脊椎炎(Ankylosing Spondylitis, AS)成人病人。\r\n使用限制：不建議XELJANZ與生物性的疾病緩解型抗風濕藥物(DMARDs），或與強效免疫抑制劑(如azathioprine與cyclosporine)合併使用。\r\n4.潰瘍性結腸炎：XELJANZ適用於治療對類固醇、azathioprine、6-mercaptopurine (6-MP)或TNF抑制療法失敗或無法耐受之中度至重度活動性潰瘍性結腸炎成人病人。\r\n使用限制：不建議XELJANZ與治療潰瘍性結腸炎之生物性療法或與強效免疫抑制劑（如azathioprine與cyclosporine）合併使用。",
     "劑型": "116膜衣錠",
     "包裝": "4-1000粒鋁箔盒裝 PE塑膠瓶裝",
     "儲存溫度": "",
@@ -32,10 +34,7 @@
     "申請商地址": "台北市信義區松仁路100號42、43樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FDE0247000  PFIZER MANUFACTURING DEUTSCHLAND GMBH",
-            "製造廠廠址": "BETRIEBSSTATTE FREIBURG, MOOSWALDALLEE 1, 79090 FREIBURG, GERMANY",
-            "製造廠公司地址": "",
-            "製造廠國別": "GERMANY",
+            "": "GERMANY",
             "製程": ""
         }
     ],
@@ -85,8 +84,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "Xeljanz 5mg LLD_USPI 201912-2_outline-109-06-05.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026219&Seq=010&Type=9"
+            "title": "Xeljanz 5mg (RA+PsA+UC+AS)_LLD USPI 202101-2-111-01-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026219&Seq=011&Type=9"
+        },
+        {
+            "title": "Xeljanz 5mg_產品照片-20210106-110-01-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026219&Seq=006&Type=8"
         },
         {
             "title": "Binder2-104-09-25(廠商自行上傳).pdf",

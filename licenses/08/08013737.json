@@ -1,17 +1,19 @@
 {
     "code": "08013737",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08013737",
-    "time": "2020-02-26 00:15:57",
+    "time": "2022-03-11 04:04:19",
     "許可證字號": "衛署粧輸字第013737號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "113\/06\/30",
-    "發證日期": "96\/02\/02",
-    "許可證種類": "含藥化粧品",
+    "發證\/登錄日期": "96\/02\/02",
+    "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00801373709",
     "中文品名": "肯葳彩色護髮染髮膏5.67淺紅紫褐色",
     "英文品名": "Keune Semi Color 5.67 Light Red Violet Brown",
@@ -26,16 +28,13 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "5-AMINO-6-CHLORO-O-CRESOL, TOLUENE-2,5-DIAMINE SULFATE, 2-METHYL-5-HYDROXYETHYLAMINOPHENOL, 2-AMINO-3-HYDROXYPYRIDINE, 4-HYDROXYPROPYLAMINO-3-NITROPHENOL",
+    "主成分略述": "5-AMINO-6-CHLORO-O-CRESOL, TOLUENE-2,5-DIAMINE SULFATE, 2-METHYL-5-HYDROXYETHYLAMINOPHENOL, 2-AMINO-3-HYDROXYPYRIDINE",
     "限制項目": "02輸　入",
     "申請商名稱": "6623654939  得洲國際股份有限公司",
     "申請商地址": "高雄市苓雅區尚義里中正二路１７５號２５樓之２",
     "主製造廠": [
         {
-            "製造廠名稱": "CNL0001000  KEUNE HAIRCOSMETICS",
-            "製造廠廠址": "KONINGSWEG 15-3762 EA SOEST HOLLAND",
-            "製造廠公司地址": "",
-            "製造廠國別": "NETHERLANDS",
+            "": "NETHERLANDS",
             "製程": ""
         }
     ],
@@ -46,7 +45,7 @@
             "成分代碼": "9200002650",
             "成分名稱": "5-AMINO-6-CHLORO-O-CRESOL",
             "含量描述": "",
-            "含量": "0.1000000000",
+            "含量": "0.3000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -54,7 +53,7 @@
             "成分代碼": "9900066200",
             "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
             "含量描述": "",
-            "含量": "1.5000000000",
+            "含量": "2.0000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -62,7 +61,7 @@
             "成分代碼": "9900084700",
             "成分名稱": "2-METHYL-5-HYDROXYETHYLAMINOPHENOL",
             "含量描述": "",
-            "含量": "0.1000000000",
+            "含量": "0.3000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -70,15 +69,7 @@
             "成分代碼": "9900084800",
             "成分名稱": "2-AMINO-3-HYDROXYPYRIDINE",
             "含量描述": "",
-            "含量": "0.1000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9900085300",
-            "成分名稱": "4-HYDROXYPROPYLAMINO-3-NITROPHENOL",
-            "含量描述": "",
-            "含量": "0.1000000000",
+            "含量": "0.3000000000",
             "單位": "%(W\/W)"
         }
     ],
@@ -92,20 +83,8 @@
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013737&Seq=001&Type=9"
         },
         {
-            "title": "080137370004.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013737&Seq=004&Type=8"
-        },
-        {
-            "title": "080137370003.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013737&Seq=003&Type=8"
-        },
-        {
-            "title": "080137370002.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013737&Seq=002&Type=8"
-        },
-        {
-            "title": "080137370001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013737&Seq=001&Type=8"
+            "title": "08013737-111-02-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013737&Seq=005&Type=8"
         }
     ]
 }

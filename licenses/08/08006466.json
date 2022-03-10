@@ -1,20 +1,22 @@
 {
     "code": "08006466",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08006466",
-    "time": "2021-05-28 06:10:20",
+    "time": "2022-03-11 04:03:26",
     "許可證字號": "衛署粧輸字第006466號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "113\/06\/30",
-    "發證日期": "89\/05\/16",
+    "發證\/登錄日期": "89\/05\/16",
     "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00800646600",
     "中文品名": "萊肯重組染髮膏　６\/６０咖啡深金黃色",
-    "英文品名": "Lakme Collage Cr&#232;me Hair Color 6\/60 Chestnut Dark Blonde",
+    "英文品名": "ollage Permanent Hair Color 6\/60 Brown Dark Blonde",
     "用途": "染髮。",
     "劑型": "992霜劑",
     "包裝": "管裝 紙盒裝",
@@ -26,16 +28,13 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "AMMONIUM HYDROXIDE 28%, RESORCINOL (RESORCIN), AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL), m-Aminophenol, 2-METHYLRESORCINOL, TOLUENE-2,5-DIAMINE SULFATE, 2-AMINO-6-CHLORO-4-NITROPHENOL, PHENYL METHYL PYRAZOLONE, N,N-BIS(2-HYDROXYETHYL)-P-PHENYLENEDIAMINE SULFATE",
+    "主成分略述": "AMMONIA, RESORCINOL (RESORCIN), m-Aminophenol, 2-METHYLRESORCINOL, TOLUENE-2,5-DIAMINE SULFATE, PHENYL METHYL PYRAZOLONE",
     "限制項目": "02輸　入",
     "申請商名稱": "1120601100  得洋國際股份有限公司",
     "申請商地址": "台北市信義區忠孝東路五段510號6樓之2",
     "主製造廠": [
         {
-            "製造廠名稱": "CJP0193000  LAKME COSMETICS S.L.",
-            "製造廠廠址": "NARCIS MONTURIOL, 37, 08960 BARCELONA, SPAIN",
-            "製造廠公司地址": "",
-            "製造廠國別": "SPAIN",
+            "": "SPAIN",
             "製程": ""
         }
     ],
@@ -43,10 +42,10 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000107",
-            "成分名稱": "AMMONIUM HYDROXIDE 28%",
-            "含量描述": "Eq to free Ammonia",
-            "含量": "1.7241200000",
+            "成分代碼": "2820000100",
+            "成分名稱": "AMMONIA",
+            "含量描述": "",
+            "含量": "1.7967500000",
             "單位": "%(W\/W"
         },
         {
@@ -54,23 +53,15 @@
             "成分代碼": "8428000500",
             "成分名稱": "RESORCINOL (RESORCIN)",
             "含量描述": "",
-            "含量": "0.1000000000",
+            "含量": "0.4440000000",
             "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200035401",
-            "成分名稱": "AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL)",
-            "含量描述": "",
-            "含量": "0.2500000000",
-            "單位": "%(W\/W"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "9200035470",
             "成分名稱": "m-Aminophenol",
             "含量描述": "",
-            "含量": "0.2500000000",
+            "含量": "0.1000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -86,15 +77,7 @@
             "成分代碼": "9900066200",
             "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
             "含量描述": "",
-            "含量": "0.9400000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9900084900",
-            "成分名稱": "2-AMINO-6-CHLORO-4-NITROPHENOL",
-            "含量描述": "",
-            "含量": "0.0400000000",
+            "含量": "2.2000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -102,15 +85,7 @@
             "成分代碼": "9900086000",
             "成分名稱": "PHENYL METHYL PYRAZOLONE",
             "含量描述": "",
-            "含量": "0.1000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9900094300",
-            "成分名稱": "N,N-BIS(2-HYDROXYETHYL)-P-PHENYLENEDIAMINE SULFATE",
-            "含量描述": "",
-            "含量": "0.0500000000",
+            "含量": "0.2500000000",
             "單位": "%(W\/W)"
         }
     ],
@@ -120,8 +95,8 @@
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08006466&Seq=001&Type=9"
         },
         {
-            "title": "08006466-104-06-24.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08006466&Seq=001&Type=8"
+            "title": "08006466-111-02-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08006466&Seq=002&Type=8"
         }
     ]
 }

@@ -1,28 +1,30 @@
 {
     "code": "06010159",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010159",
-    "time": "2021-07-30 04:46:30",
+    "time": "2022-03-11 03:26:16",
     "許可證字號": "衛署醫器輸字第010159號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可編號": "QSD7133",
+    "製造許可登錄編號": "QSD7133",
     "有效日期": "111\/12\/18",
-    "發證日期": "91\/12\/18",
+    "發證\/登錄日期": "91\/12\/18",
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00601015903",
     "中文品名": "&quot;普生&quot; 血壓監視套組",
     "英文品名": "&quot;Pulsion&quot; PCCO Monitoring Kit",
-    "效能、用途或適應症": "",
-    "醫器規格或型號": "PV8115,PV8103,PV8115CVP,PV4046。註銷規格：PV8003, PV8010, PV8015,以下空白。\r\n新增規格：PV8215、PV8215CVP、PV8215-2、PV8615、PV8203。",
+    "效能": "",
+    "醫器規格": "PV8115,PV8103,PV8115CVP,PV4046。註銷規格：PV8003, PV8010, PV8015,以下空白。新增規格：PV8215、PV8215CVP、PV8215-2、PV8615、PV8203。註銷規格：PV8115、PV8103及PV8115CVP。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、說明書或包裝加註": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "E心臟血管用裝置",
     "醫器次類別一": "",
     "醫器主類別二": "",
@@ -33,14 +35,11 @@
     "監視期限": "",
     "主成分略述": "",
     "限制項目": "02輸　入",
-    "醫療器材商名稱": "620117L464  台灣悅廷和有限公司",
-    "醫療器材商地址": "臺北市信義區市民大道6段288號6樓之8",
+    "申請商名稱": "620117L464  台灣悅廷和有限公司",
+    "申請商地址": "臺北市信義區市民大道6段288號6樓之8",
     "主製造廠": [
         {
-            "製造業者名稱": "MDE0715000  PULSION MEDICAL SYSTEMS SE",
-            "製造業者地址": "HANS-RIEDL-STRABE 17, 85622, FELDKIRCHEN, GERMANY",
-            "製造業者公司地址": "",
-            "製造業者國別": "GERMANY",
+            "": "GERMANY",
             "製程": ""
         }
     ],
@@ -48,48 +47,16 @@
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "060101590001-111-02-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010159&Seq=012&Type=9"
+        },
+        {
             "title": "060101590001-108-11-11.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010159&Seq=011&Type=9"
         },
         {
-            "title": "060101590010.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010159&Seq=010&Type=9"
-        },
-        {
-            "title": "060101590009.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010159&Seq=009&Type=9"
-        },
-        {
-            "title": "060101590008.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010159&Seq=008&Type=9"
-        },
-        {
-            "title": "060101590007.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010159&Seq=007&Type=9"
-        },
-        {
-            "title": "060101590006.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010159&Seq=006&Type=9"
-        },
-        {
-            "title": "060101590005.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010159&Seq=005&Type=9"
-        },
-        {
-            "title": "060101590004.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010159&Seq=004&Type=9"
-        },
-        {
-            "title": "060101590003.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010159&Seq=003&Type=9"
-        },
-        {
-            "title": "060101590002.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010159&Seq=002&Type=9"
-        },
-        {
-            "title": "060101590001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010159&Seq=001&Type=9"
+            "title": "060101590002-111-02-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010159&Seq=002&Type=8"
         },
         {
             "title": "060101590001-108-11-11.pdf",

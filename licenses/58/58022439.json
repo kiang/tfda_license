@@ -1,20 +1,22 @@
 {
     "code": "58022439",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58022439",
-    "time": "2021-04-30 05:51:00",
+    "time": "2022-03-11 04:11:25",
     "許可證字號": "衛部粧輸字第022439號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "113\/06\/30",
-    "發證日期": "104\/02\/04",
+    "發證\/登錄日期": "104\/02\/04",
     "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05802243908",
     "中文品名": "萊肯重組染髮膏8\/00淺金黃色",
-    "英文品名": "Lakme Collage Creme Hair Color 8\/00 Light Blonde",
+    "英文品名": "Collage Permanent Hair Color 8\/00 Light Blonde",
     "用途": "染髮",
     "劑型": "992霜劑",
     "包裝": "500 ml 以下管裝附外盒",
@@ -26,16 +28,13 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "AMMONIUM HYDROXIDE 28%, RESORCINOL (RESORCIN), P-AMINOPHENOL, TOLUENE-2,5-DIAMINE SULFATE, N,N-BIS(2-HYDROXYETHYL)-P-PHENYLENEDIAMINE SULFATE",
+    "主成分略述": "AMMONIA, META-AMINOPHENOL (EQ TO M-AMINOPHENOL), P-AMINOPHENOL, 2-METHYLRESORCINOL, 2,4-DIAMINOPHENOXYETHANOL HCL, TOLUENE-2,5-DIAMINE SULFATE",
     "限制項目": "",
     "申請商名稱": "1120601100  得洋國際股份有限公司",
     "申請商地址": "台北市信義區忠孝東路五段510號6樓之2",
     "主製造廠": [
         {
-            "製造廠名稱": "CES0047000  Lakme Cosmetics S.L.U",
-            "製造廠廠址": "Narcis Monturiol 27, 08960 Sant Just Desvern, Barcelona Spain.",
-            "製造廠公司地址": "",
-            "製造廠國別": "SPAIN",
+            "": "SPAIN",
             "製程": ""
         }
     ],
@@ -43,18 +42,18 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000107",
-            "成分名稱": "AMMONIUM HYDROXIDE 28%",
+            "成分代碼": "2820000100",
+            "成分名稱": "AMMONIA",
             "含量描述": "",
-            "含量": "1.7600000000",
+            "含量": "1.7965500000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8428000500",
-            "成分名稱": "RESORCINOL (RESORCIN)",
+            "成分代碼": "9200035403",
+            "成分名稱": "META-AMINOPHENOL (EQ TO M-AMINOPHENOL)",
             "含量描述": "",
-            "含量": "0.1100000000",
+            "含量": "0.1000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -62,7 +61,23 @@
             "成分代碼": "9200035440",
             "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
-            "含量": "0.1400000000",
+            "含量": "0.1500000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200038920",
+            "成分名稱": "2-METHYLRESORCINOL",
+            "含量描述": "",
+            "含量": "0.4700000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9400003830",
+            "成分名稱": "2,4-DIAMINOPHENOXYETHANOL HCL",
+            "含量描述": "",
+            "含量": "0.0100000000",
             "單位": "%(W\/W)"
         },
         {
@@ -70,22 +85,14 @@
             "成分代碼": "9900066200",
             "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
             "含量描述": "",
-            "含量": "0.4400000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9900094300",
-            "成分名稱": "N,N-BIS(2-HYDROXYETHYL)-P-PHENYLENEDIAMINE SULFATE",
-            "含量描述": "",
-            "含量": "0.0400000000",
+            "含量": "0.4800000000",
             "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
         {
-            "title": "58022439-110-02-26.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58022439&Seq=002&Type=8"
+            "title": "58022439-111-02-25.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58022439&Seq=003&Type=8"
         }
     ]
 }

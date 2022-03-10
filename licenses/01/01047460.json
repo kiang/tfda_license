@@ -1,17 +1,19 @@
 {
     "code": "01047460",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01047460",
-    "time": "2020-07-24 06:05:17",
+    "time": "2022-03-11 03:05:37",
     "許可證字號": "衛署藥製字第047460號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "114\/08\/01",
-    "發證日期": "94\/08\/01",
+    "發證\/登錄日期": "94\/08\/01",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00104746004",
     "中文品名": "佳地諾錠25毫克",
     "英文品名": "CARDILO TABLETS 25MG",
@@ -32,10 +34,7 @@
     "申請商地址": "桃園市中壢區中山東路３段４４７號",
     "主製造廠": [
         {
-            "製造廠名稱": "6132020070  榮民製藥股份有限公司",
-            "製造廠廠址": "桃園市中壢區中山東路３段４４７號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
@@ -53,12 +52,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "衛署藥製字第047460號 Cardilo Tablets 25mg_20151230-104-12-30(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047460&Seq=011&Type=9"
+            "title": "02 仿單-111-02-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047460&Seq=013&Type=9"
         },
         {
-            "title": "01047460c0004.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047460&Seq=004&Type=8"
+            "title": "03 鋁箔-111-02-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047460&Seq=008&Type=8"
+        },
+        {
+            "title": "03 標籤-111-02-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047460&Seq=007&Type=8"
+        },
+        {
+            "title": "外盒-111-02-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047460&Seq=006&Type=8"
         }
     ]
 }
