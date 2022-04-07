@@ -1,17 +1,19 @@
 {
     "code": "01034828",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01034828",
-    "time": "2020-02-25 05:56:24",
+    "time": "2022-04-08 03:24:48",
     "許可證字號": "衛署藥製字第034828號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "113\/05\/25",
-    "發證日期": "81\/01\/20",
+    "發證\/登錄日期": "81\/01\/20",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00103482803",
     "中文品名": "&quot;陽生&quot;賜康感冒膠囊",
     "英文品名": "Unflu Capsules &quot;Y.S.&quot;",
@@ -32,10 +34,7 @@
     "申請商地址": "屏東縣屏東市龍華路３８１號",
     "主製造廠": [
         {
-            "製造廠名稱": "1111823300  台灣陽生製藥工業股份有限公司",
-            "製造廠廠址": "屏東縣屏東市龍華路３８１號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
@@ -103,22 +102,34 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "412-陽生賜康感冒膠囊-109-09-15(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034828&Seq=287&Type=10"
+        },
+        {
             "title": "01034828.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034828&Seq=286&Type=10"
         }
     ],
     "仿單外盒": [
         {
+            "title": "陽生賜康感冒膠囊說明書-109-10-21(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034828&Seq=007&Type=9"
+        },
+        {
             "title": "陽生賜康感冒膠囊01034828_仿單-107-01-03.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034828&Seq=006&Type=9"
         },
         {
-            "title": "賜康說明書--106-09-15(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034828&Seq=005&Type=9"
+            "title": "陽生賜康感冒膠囊外盒(白)-111-01-21(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034828&Seq=010&Type=8"
         },
         {
-            "title": "01034828仿單-104-10-25.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034828&Seq=004&Type=9"
+            "title": "陽生賜康感冒膠囊外盒(海藍綠)-110-05-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034828&Seq=009&Type=8"
+        },
+        {
+            "title": "陽生賜康感冒膠囊外盒-1-109-10-13(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034828&Seq=008&Type=8"
         },
         {
             "title": "陽生賜康感冒膠囊01034828_外盒-107-01-03.pdf",
@@ -127,22 +138,6 @@
         {
             "title": "陽生賜康感冒膠囊01034828_標籤-107-01-03.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034828&Seq=006&Type=8"
-        },
-        {
-            "title": "賜康感冒膠囊1000粒-106-09-15(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034828&Seq=005&Type=8"
-        },
-        {
-            "title": "陽生賜康感冒膠囊 20#-106-09-15(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034828&Seq=004&Type=8"
-        },
-        {
-            "title": "賜康感冒膠囊-10入-106-09-15(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034828&Seq=003&Type=8"
-        },
-        {
-            "title": "01034828外盒-104-10-25.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01034828&Seq=002&Type=8"
         }
     ]
 }

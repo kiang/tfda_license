@@ -1,20 +1,22 @@
 {
     "code": "07005034",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07005034",
-    "time": "2020-02-25 21:37:00",
+    "time": "2022-04-08 04:59:57",
     "許可證字號": "衛署粧製字第005034號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "111\/04\/23",
-    "發證日期": "98\/04\/23",
-    "許可證種類": "含藥化粧品",
+    "發證\/登錄日期": "98\/04\/23",
+    "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00700503401",
-    "中文品名": "蕾舒法克香薰永久染髮膏 4\/04 棕銅、5\/04 淺棕銅；迷思黛兒永久染髮膏 4\/04 棕銅、5\/04 淺棕銅；莎曼極彩永久染髮膏 4\/04 棕銅、5\/04 淺棕銅；舞髮紀永久染髮膏-4NC棕銅、5NC淺棕銅；金吉拉香薰永久染髮膏-4\/04棕銅、5\/04淺棕銅；蕾娜塔絲炫永久染髮霜-4\/04棕銅、5\/04淺棕銅；雷妮艾絲亮彩專業染髮霜-4NC棕銅、5NC淺棕銅；瑪絲特染膏-4\/04棕銅、5\/04淺棕銅。",
-    "英文品名": "LA FOCUS PERMANENT CREAM 4\/04 COPPER MEDIUM BROWN, 5\/04 COPPER LIGHT BROWN   MISS DEAR PERMANENT CREAM 4\/04 COPPER MEDIUM BROWN, 5\/04 COPPER LIGHT BROWN   CAVA EXTREME TINT PERMANENT COLOR 4\/04 COPPER MEDIUM BROWN, 5\/04 COPPER LIGHT BROWN; ROCKERX PERMANENT COLOR CREAM-4NC COPPER MEDIUM BROWN, 5NC COPPER LIGHT BROWN; CHINJELA PERMANENT COLOR CREAM-4\/04 COPPER MEDIUM BROWN, 5\/04 COPPER LIGHT BROWN; RENATA D.S SILKY SHINE PLUS PERMANENT HAIR COLOR CREAM-4\/04 COPPER MEDIUM BROWN, 5\/04 COPPER LIGHT BROWN; RANEAZ HAIR COLOR CREAM-4NC COPPER MEDIUM BROWN, 5NC COPPER LIGHT BROWN; MASTER HAIR PEROXIBE HOLD DYEING CREAM-4\/04 COPPER MEDIUM BROWN, 5\/04 COPPER LIGHT BROWN。",
+    "中文品名": "蕾舒法克香薰永久染髮膏 4\/04 棕銅、5\/04 淺棕銅；迷思黛兒永久染髮膏 4\/04 棕銅、5\/04 淺棕銅；莎曼極彩永久染髮膏 4\/04 棕銅、5\/04 淺棕銅；舞髮紀永久染髮膏-4NC棕銅、5NC淺棕銅；金吉拉香薰永久染髮膏-4\/04棕銅、5\/04淺棕銅；雷妮艾絲亮彩專業染髮霜-4NC棕銅、5NC淺棕銅；瑪絲特染膏-4\/04棕銅、5\/04淺棕銅。",
+    "英文品名": "LA FOCUS PERMANENT CREAM 4\/04 COPPER MEDIUM BROWN, 5\/04 COPPER LIGHT BROWN   MISS DEAR PERMANENT CREAM 4\/04 COPPER MEDIUM BROWN, 5\/04 COPPER LIGHT BROWN   CAVA EXTREME TINT PERMANENT COLOR 4\/04 COPPER MEDIUM BROWN, 5\/04 COPPER LIGHT BROWN; ROCKERX PERMANENT COLOR CREAM-4NC COPPER MEDIUM BROWN, 5NC COPPER LIGHT BROWN; CHINJELA PERMANENT COLOR CREAM-4\/04 COPPER MEDIUM BROWN, 5\/04 COPPER LIGHT BROWN;; RANEAZ HAIR COLOR CREAM-4NC COPPER MEDIUM BROWN, 5NC COPPER LIGHT BROWN; MASTER HAIR PEROXIBE HOLD DYEING CREAM-4\/04 COPPER MEDIUM BROWN, 5\/04 COPPER LIGHT BROWN。",
     "用途": "染髮。",
     "劑型": "983膏劑",
     "包裝": "500 ml以下鋁管裝 附外盒",
@@ -26,16 +28,13 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "AMMONIA SOLUTION (28%), RESORCINOL (RESORCIN), CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL), META-AMINOPHENOL (EQ TO M-AMINOPHENOL), P-AMINOPHENOL, P-PHENYLENEDIAMINE, 2-AMINO-4-HYDROXYETHYLAMINOANISOLE SULFATE",
+    "主成分略述": "AMMONIA SOLUTION (28%), RESORCINOL (RESORCIN), META-AMINOPHENOL (EQ TO M-AMINOPHENOL), P-AMINOPHENOL, 4-AMINO-2-HYDROXYTOLUENE, P-PHENYLENEDIAMINE, 2-AMINO-4-HYDROXYETHYLAMINOANISOLE SULFATE",
     "限制項目": "01國　產",
     "申請商名稱": "0300102200  大川實業有限公司",
     "申請商地址": "新北市新莊區復興路３段６１號",
     "主製造廠": [
         {
-            "製造廠名稱": "0300102500  大川實業有限公司",
-            "製造廠廠址": "新北市新莊區復興路三段61號、63號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
@@ -59,14 +58,6 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
-            "含量描述": "",
-            "含量": "0.2730000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "9200035403",
             "成分名稱": "META-AMINOPHENOL (EQ TO M-AMINOPHENOL)",
             "含量描述": "",
@@ -79,6 +70,14 @@
             "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
             "含量": "0.6380000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "0.2730000000",
             "單位": "%(W\/W)"
         },
         {
@@ -115,14 +114,6 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
-            "含量描述": "",
-            "含量": "0.2150000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "9200035403",
             "成分名稱": "META-AMINOPHENOL (EQ TO M-AMINOPHENOL)",
             "含量描述": "",
@@ -135,6 +126,14 @@
             "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
             "含量": "0.5050000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "0.2150000000",
             "單位": "%(W\/W)"
         },
         {
@@ -160,12 +159,8 @@
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005034&Seq=001&Type=9"
         },
         {
-            "title": "07005034-2-106-03-22.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005034&Seq=002&Type=8"
-        },
-        {
-            "title": "07005034-1-106-03-22.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005034&Seq=001&Type=8"
+            "title": "07005034-111-03-30.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005034&Seq=003&Type=8"
         }
     ]
 }

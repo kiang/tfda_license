@@ -1,22 +1,24 @@
 {
     "code": "06016651",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06016651",
-    "time": "2021-04-30 05:27:34",
+    "time": "2022-04-08 04:37:50",
     "許可證字號": "衛署醫器輸字第016651號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "QSD0122",
     "有效日期": "115\/06\/07",
-    "發證日期": "95\/06\/07",
+    "發證\/登錄日期": "95\/06\/07",
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00601665101",
     "中文品名": "“愛惜康”5毫米腹腔鏡多釘縫合器",
     "英文品名": "“ETHICON”LIGAMAX5  5mm ENDOSCOPIC MULTIPLE CLIP APPLIER",
     "效能": "詳如中文仿單核定本。",
-    "醫器規格": "EL5ML,以下空白。",
+    "醫器規格": "EL5ML,以下空白。規格變更、標籤、說明書或包裝變更：詳如核定之中文說明書(原95年6月22日核定之標籤、說明書或包裝予以回收作廢)。以下空白。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -24,7 +26,7 @@
     "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
     "醫器主類別一": "I一般及整型外科手術裝置",
-    "醫器次類別一": "",
+    "醫器次類別一": "I4300可植入式夾子",
     "醫器主類別二": "",
     "醫器次類別二": "",
     "醫器主類別三": "",
@@ -37,17 +39,11 @@
     "申請商地址": "臺北市中山區民生東路三段2號10樓及11樓",
     "主製造廠": [
         {
-            "製造廠名稱": "M309999999  Made (部分製程) in MEXICO",
-            "製造廠廠址": "",
-            "製造廠公司地址": "",
-            "製造廠國別": "MEXICO",
+            "": "MEXICO",
             "製程": "99部分製程"
         },
         {
-            "製造廠名稱": "MUS0820100  ETHICON ENDO-SURGERY INC.",
-            "製造廠廠址": "4545 CREEK ROAD, CINCINNATI, OH 45242, U.S.A.",
-            "製造廠公司地址": "",
-            "製造廠國別": "UNITED STATES",
+            "": "UNITED STATES",
             "製程": ""
         }
     ],
@@ -64,44 +60,12 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060166510008.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016651&Seq=008&Type=9"
+            "title": "060166510001-111-03-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016651&Seq=009&Type=9"
         },
         {
-            "title": "060166510007.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016651&Seq=007&Type=9"
-        },
-        {
-            "title": "060166510006.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016651&Seq=006&Type=9"
-        },
-        {
-            "title": "060166510005.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016651&Seq=005&Type=9"
-        },
-        {
-            "title": "060166510004.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016651&Seq=004&Type=9"
-        },
-        {
-            "title": "060166510003.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016651&Seq=003&Type=9"
-        },
-        {
-            "title": "060166510002.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016651&Seq=002&Type=9"
-        },
-        {
-            "title": "060166510001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016651&Seq=001&Type=9"
-        },
-        {
-            "title": "060166510002.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016651&Seq=002&Type=8"
-        },
-        {
-            "title": "060166510001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016651&Seq=001&Type=8"
+            "title": "060166510001-111-03-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016651&Seq=003&Type=8"
         }
     ]
 }

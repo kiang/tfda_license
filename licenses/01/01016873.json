@@ -1,17 +1,19 @@
 {
     "code": "01016873",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01016873",
-    "time": "2020-02-25 02:38:22",
+    "time": "2022-04-08 03:07:08",
     "許可證字號": "衛署藥製字第016873號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "113\/12\/31",
-    "發證日期": "68\/03\/10",
+    "發證\/登錄日期": "68\/03\/10",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00101687306",
     "中文品名": "&quot;陽生&quot;易排痰錠８毫克（鹽酸溴克辛）",
     "英文品名": "YIPAITAN TABLETS 8MG &quot;Y.S.&quot; (BROMHEXINE HYDROCHLORIDE)",
@@ -32,10 +34,7 @@
     "申請商地址": "屏東縣屏東市龍華路３８１號",
     "主製造廠": [
         {
-            "製造廠名稱": "1111823300  台灣陽生製藥工業股份有限公司",
-            "製造廠廠址": "屏東縣屏東市龍華路３８１號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
@@ -53,20 +52,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "陽生易排痰錠說明書-111-02-16(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016873&Seq=003&Type=9"
+        },
+        {
             "title": "易排痰說明書-107-03-31.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016873&Seq=002&Type=9"
         },
         {
-            "title": "pdf2___20120720.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016873&Seq=001&Type=9"
+            "title": "陽生易排痰錠標籤(1000錠)-111-02-16(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016873&Seq=003&Type=8"
         },
         {
             "title": "陽生-易排痰錠-瓶標-107-03-31.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016873&Seq=002&Type=8"
-        },
-        {
-            "title": "pdf1___20120720.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01016873&Seq=001&Type=8"
         }
     ]
 }

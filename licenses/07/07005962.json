@@ -1,17 +1,19 @@
 {
     "code": "07005962",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07005962",
-    "time": "2020-09-25 15:16:36",
+    "time": "2022-04-08 05:00:25",
     "許可證字號": "衛署粧製字第005962號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "113\/06\/30",
-    "發證日期": "100\/10\/21",
+    "發證\/登錄日期": "100\/10\/21",
     "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00700596203",
     "中文品名": "威傑士炫彩染髮霜 黃7第一劑、丰色染髮霜 黃7 第一劑",
     "英文品名": "WAJASS Pure Color zero Color Cream Golden7(1)、WIEDEN FULL COLOR HAIR CREAM Golden 7(1)",
@@ -26,16 +28,13 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "AMMONIUM HYDROXIDE 25%, RESORCINOL (RESORCIN), CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL), M-AMINOPHENOL SULFATE, P-AMINOPHENOL, P-PHENYLENEDIAMINE",
+    "主成分略述": "AMMONIUM HYDROXIDE 25%, RESORCINOL (RESORCIN), P-AMINOPHENOL, m-Aminophenol, 4-AMINO-2-HYDROXYTOLUENE, P-PHENYLENEDIAMINE",
     "限制項目": "01國　產",
     "申請商名稱": "5827640958  威傑士國際開發有限公司",
     "申請商地址": "新北市中和區中原里板南路659號3樓",
     "主製造廠": [
         {
-            "製造廠名稱": "0711710100  佑麗康企業有限公司",
-            "製造廠廠址": "台中市外埔區水美里山腳巷５３號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
@@ -59,26 +58,26 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
+            "成分代碼": "9200035440",
+            "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
-            "含量": "0.0300000000",
+            "含量": "0.5500000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035430",
-            "成分名稱": "M-AMINOPHENOL SULFATE",
+            "成分代碼": "9200035470",
+            "成分名稱": "m-Aminophenol",
             "含量描述": "",
             "含量": "0.1100000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035440",
-            "成分名稱": "P-AMINOPHENOL",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
             "含量描述": "",
-            "含量": "0.5500000000",
+            "含量": "0.0300000000",
             "單位": "%(W\/W)"
         },
         {
@@ -92,12 +91,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "07005962(1)-103-12-08.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005962&Seq=002&Type=8"
-        },
-        {
-            "title": "07005962-103-06-25.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005962&Seq=001&Type=8"
+            "title": "07005962-111-03-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005962&Seq=003&Type=8"
         }
     ]
 }

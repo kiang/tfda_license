@@ -1,17 +1,19 @@
 {
     "code": "58026244",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58026244",
-    "time": "2021-02-26 05:24:01",
+    "time": "2022-04-08 05:09:11",
     "許可證字號": "衛部粧輸字第026244號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "113\/04\/19",
-    "發證日期": "108\/04\/19",
+    "發證\/登錄日期": "108\/04\/19",
     "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05802624400",
     "中文品名": "香奈兒珍珠光感新一代防護妝前乳 SPF 40 \/ PA +++ 粉玫瑰,蜜桃,紫羅蘭",
     "英文品名": "LE BLANC LA BASE SPF40 PA+++ - ROSEE, PECHE, ORCHIDEE",
@@ -26,16 +28,13 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "HOMOMETHYL SALICYLATE (HOMOSALATE), ZINC OXIDE(NANO), ETHYLHEXYL METHOXYCINNAMATE",
+    "主成分略述": "HOMOMETHYL SALICYLATE (HOMOSALATE), ZINC OXIDE(NANO), ETHYLHEXYL SALICYLATE",
     "限制項目": "",
     "申請商名稱": "6682862595  香奈兒有限公司",
     "申請商地址": "臺北市信義區松仁路100號39樓",
     "主製造廠": [
         {
-            "製造廠名稱": "CFR0037000  CHANEL S.A.S.",
-            "製造廠廠址": "135, AV CHARLES DE GAULLE 92521 NEUILLY SUR SEINE, CEDEX FRANCE",
-            "製造廠公司地址": "",
-            "製造廠國別": "FRANCE",
+            "": "FRANCE",
             "製程": ""
         }
     ],
@@ -46,7 +45,7 @@
             "成分代碼": "8424400210",
             "成分名稱": "HOMOMETHYL SALICYLATE (HOMOSALATE)",
             "含量描述": "",
-            "含量": "1.0000000000",
+            "含量": "9.0000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -54,22 +53,22 @@
             "成分代碼": "9200011501",
             "成分名稱": "ZINC OXIDE(NANO)",
             "含量描述": "",
-            "含量": "9.6200000000",
+            "含量": "9.5000000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9900071200",
-            "成分名稱": "ETHYLHEXYL METHOXYCINNAMATE",
+            "成分代碼": "9900085500",
+            "成分名稱": "ETHYLHEXYL SALICYLATE",
             "含量描述": "",
-            "含量": "6.7932000000",
+            "含量": "4.5000000000",
             "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
         {
-            "title": "58026244-108-05-06.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58026244&Seq=001&Type=8"
+            "title": "58026244-111-03-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58026244&Seq=002&Type=8"
         }
     ]
 }

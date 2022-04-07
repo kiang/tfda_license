@@ -1,12 +1,12 @@
 {
     "code": "06023097",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023097",
-    "time": "2021-12-24 06:47:42",
+    "time": "2022-04-08 04:39:36",
     "許可證字號": "衛署醫器輸字第023097號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可登錄編號": "QSD11899",
+    "製造許可登錄編號": "QSD13514",
     "有效日期": "116\/01\/31",
     "發證\/登錄日期": "101\/01\/31",
     "許可證種類": "醫　器",
@@ -39,44 +39,29 @@
     "申請商地址": "臺北市內湖區堤頂大道二段501號4樓",
     "主製造廠": [
         {
-            "": "UNITED STATES",
-            "製程": ""
+            "": "SPAIN",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS2610000  INSTRUMENTATION LABORATORY CO.",
+            "製造廠廠址": "180 HARTWELL RD. BEDFORD, MA 01730-2443 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "委託製造者"
         }
     ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060230970004___20120419.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023097&Seq=004&Type=9"
+            "title": "06-023097-111-04-01.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023097&Seq=005&Type=9"
         },
         {
-            "title": "060230970003___20120419.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023097&Seq=003&Type=9"
-        },
-        {
-            "title": "060230970002___20120419.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023097&Seq=002&Type=9"
-        },
-        {
-            "title": "060230970001___20120419.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023097&Seq=001&Type=9"
-        },
-        {
-            "title": "060230970004___20120419.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023097&Seq=004&Type=8"
-        },
-        {
-            "title": "060230970003___20120419.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023097&Seq=003&Type=8"
-        },
-        {
-            "title": "060230970002___20120419.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023097&Seq=002&Type=8"
-        },
-        {
-            "title": "060230970001___20120419.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023097&Seq=001&Type=8"
+            "title": "06-023097-111-04-01.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023097&Seq=005&Type=8"
         }
     ]
 }

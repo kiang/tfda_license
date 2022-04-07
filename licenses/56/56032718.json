@@ -1,22 +1,24 @@
 {
     "code": "56032718",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56032718",
-    "time": "2020-07-24 05:51:30",
+    "time": "2022-04-08 04:51:26",
     "許可證字號": "衛部醫器輸字第032718號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "QSD9196",
     "有效日期": "113\/08\/27",
-    "發證日期": "108\/08\/27",
+    "發證\/登錄日期": "108\/08\/27",
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第三等級",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05603271802",
     "中文品名": "“英弗梅”賽克洛吸附器",
     "英文品名": "“Infomed” SecoLoc Adsorbent Cartridge",
     "效能": "SecoLoc吸附器具有疏水性的吸附劑，能吸附細胞激素(IL-1、IL-6、IL-10、TNF-α)與膽紅素。適用於血漿濾過吸附(CPFA, Coupled Plasma Filtration Adsorption)與血漿灌流(PP, Plasma Perfusion)療程。",
-    "醫器規格": "SO-310-01",
+    "醫器規格": "SO-310-01\r\n標籤、說明書或包裝變更、規格變更:詳如核定之中文說明書(原108年9月11日核定之標籤、說明書或包裝予以回收作廢)。以下空白。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -37,32 +39,29 @@
     "申請商地址": "臺北市中山區建國北路一段156號4樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MIT0129000  BELLCO S.R.L.",
-            "製造廠廠址": "Via Camurana 1, 41037, Mirandola (MO), Italy",
-            "製造廠公司地址": "",
-            "製造廠國別": "ITALY",
+            "": "ITALY",
             "製程": "Manufactured by"
         }
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "MCH0190100  Infomed S.A.",
-            "製造廠廠址": "Chemin de la Graviere 4, 1227 Geneva, Switzerland",
+            "製造廠名稱": "MCH0344000  Infomed S.A.",
+            "製造廠廠址": "Route de Compois 11, 1252 Meinier, Switzerland",
             "製造廠公司地址": "",
             "製造廠國別": "SWITZERLAND",
-            "製程": "委託製造者"
+            "製程": ""
         }
     ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "560327180001-108-09-11.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56032718&Seq=001&Type=9"
+            "title": "560327180001-111-03-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56032718&Seq=002&Type=9"
         },
         {
-            "title": "560327180002-108-09-11.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56032718&Seq=001&Type=8"
+            "title": "560327180001-111-03-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56032718&Seq=002&Type=8"
         }
     ]
 }

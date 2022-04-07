@@ -1,17 +1,19 @@
 {
     "code": "01025504",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01025504",
-    "time": "2020-02-25 04:56:42",
+    "time": "2022-04-08 03:16:47",
     "許可證字號": "衛署藥製字第025504號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "113\/05\/25",
-    "發證日期": "71\/06\/02",
+    "發證\/登錄日期": "71\/06\/02",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00102550402",
     "中文品名": "&quot;元宙&quot; 元克隆口內膏（安西諾隆）",
     "英文品名": "YECOLON ORABASE (TRIAMCINOLONE)",
@@ -32,10 +34,7 @@
     "申請商地址": "南投縣南投市南崗工業區南崗三路２７２號",
     "主製造廠": [
         {
-            "製造廠名稱": "0406914300  元宙化學製藥股份有限公司",
-            "製造廠廠址": "南投縣南投市南崗工業區南崗三路２７２號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
@@ -69,28 +68,16 @@
     ],
     "仿單外盒": [
         {
+            "title": "元克隆口內膏-仿單-111-03-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025504&Seq=010&Type=9"
+        },
+        {
             "title": "元克隆口內膏-仿單-108-09-06.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025504&Seq=009&Type=9"
         },
         {
             "title": "aaa02740-104-12-30(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025504&Seq=008&Type=9"
-        },
-        {
-            "title": "元克隆口內膏-標籤-108-09-06.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025504&Seq=018&Type=8"
-        },
-        {
-            "title": "元克隆口內膏-軟管-108-09-06.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025504&Seq=017&Type=8"
-        },
-        {
-            "title": "元克隆口內膏-彩盒-108-09-06.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025504&Seq=016&Type=8"
-        },
-        {
-            "title": "元克隆口內膏(標籤)-104-12-30(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01025504&Seq=015&Type=8"
         }
     ]
 }

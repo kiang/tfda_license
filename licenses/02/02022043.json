@@ -1,17 +1,19 @@
 {
     "code": "02022043",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022043",
-    "time": "2021-07-30 04:34:03",
+    "time": "2022-04-08 03:56:01",
     "許可證字號": "衛署藥輸字第022043號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "112\/01\/15",
-    "發證日期": "87\/01\/15",
+    "發證\/登錄日期": "87\/01\/15",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00202204307",
     "中文品名": "普樂可復膠囊1毫克",
     "英文品名": "PROGRAF CAPSULES 1MG",
@@ -32,10 +34,7 @@
     "申請商地址": "台北市中山區民生東路３段１０號５樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FIE0023000  ASTELLAS IRELAND CO., LTD.",
-            "製造廠廠址": "KILLORGLIN CO. KERRY, V93 FC86, IRELAND",
-            "製造廠公司地址": "",
-            "製造廠國別": "IRELAND",
+            "": "IRELAND",
             "製程": ""
         }
     ],
@@ -89,12 +88,16 @@
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022043&Seq=034&Type=9"
         },
         {
-            "title": "PRG1-B1701-01-108-10-28.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022043&Seq=007&Type=8"
+            "title": "PRG1-C2110-04b (50s)-111-03-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022043&Seq=009&Type=8"
         },
         {
-            "title": "PRG1-C1906-03-108-10-28.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022043&Seq=006&Type=8"
+            "title": "PRG1-C2110-04a (100s)-111-03-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022043&Seq=008&Type=8"
+        },
+        {
+            "title": "PRG1-B1701-01-108-10-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022043&Seq=007&Type=8"
         },
         {
             "title": "Prograf Cap 1 mg_carton-106-03-01.pdf",

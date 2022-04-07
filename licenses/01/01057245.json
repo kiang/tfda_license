@@ -1,17 +1,19 @@
 {
     "code": "01057245",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057245",
-    "time": "2020-02-25 07:47:03",
+    "time": "2022-04-08 03:49:58",
     "許可證字號": "衛署藥製字第057245號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "111\/06\/11",
-    "發證日期": "101\/06\/11",
+    "發證\/登錄日期": "101\/06\/11",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00105724506",
     "中文品名": "消痔平軟膏",
     "英文品名": "Cincodyl Ointment",
@@ -32,10 +34,7 @@
     "申請商地址": "桃園市中壢區中山東路３段４４７號",
     "主製造廠": [
         {
-            "製造廠名稱": "623202D135  榮民製藥股份有限公司",
-            "製造廠廠址": "桃園市中壢區中山東路３段４４７號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
@@ -61,12 +60,16 @@
     ],
     "仿單外盒": [
         {
+            "title": "057245 Cincodyl Ointment 仿單-109-12-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057245&Seq=004&Type=9"
+        },
+        {
             "title": "02 擬稿--仿單-108-04-30.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057245&Seq=003&Type=9"
         },
         {
-            "title": "衛署藥製字第057245號 Cincodyl Ointment-105-01-28(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057245&Seq=002&Type=9"
+            "title": "057245 Cincodyl Ointment 外盒-109-12-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057245&Seq=006&Type=8"
         },
         {
             "title": "02 擬稿--標籤-108-04-30.pdf",
@@ -79,10 +82,6 @@
         {
             "title": "02 擬稿--外盒-108-04-30.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057245&Seq=003&Type=8"
-        },
-        {
-            "title": "010572450003___20120829.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057245&Seq=002&Type=8"
         }
     ]
 }

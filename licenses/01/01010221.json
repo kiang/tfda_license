@@ -1,20 +1,22 @@
 {
     "code": "01010221",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01010221",
-    "time": "2020-02-25 02:08:21",
+    "time": "2022-04-08 03:03:57",
     "許可證字號": "衛署藥製字第010221號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "112\/05\/25",
-    "發證日期": "65\/06\/22",
+    "發證\/登錄日期": "65\/06\/22",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00101022101",
     "中文品名": "溫刻通水溶性軟膏",
-    "英文品名": "WINCORT CREAM &quot;WINSTON&quot;",
+    "英文品名": "WINCORT CREAM",
     "適應症": "異位皮膚炎、濕疹、錢幣形濕疹、一般紅皮症、外耳炎、皮脂溢性皮膚炎、過敏性皮膚炎、濕疹黴菌性皮膚炎",
     "劑型": "360軟膏劑",
     "包裝": "100公克以下塑膠軟管裝 100公克以下鋁軟管 450公克塑膠瓶裝 100公克以下積層管裝",
@@ -32,10 +34,7 @@
     "申請商地址": "台南市永康區鹽洲里仁愛街１１７號",
     "主製造廠": [
         {
-            "製造廠名稱": "1217820300  溫士頓醫藥股份有限公司",
-            "製造廠廠址": "台南市永康區鹽洲里仁愛街１１７號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
@@ -71,18 +70,38 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "溫刻通軟膏5g尺規圖-109-07-15(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01010221&Seq=003&Type=10"
+        },
+        {
             "title": "溫刻通450g罐裝-104-09-29(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01010221&Seq=002&Type=10"
         }
     ],
     "仿單外盒": [
         {
+            "title": "溫刻通軟膏說明書-111-03-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01010221&Seq=005&Type=9"
+        },
+        {
+            "title": "溫刻通軟膏說明書-109-07-15(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01010221&Seq=004&Type=9"
+        },
+        {
             "title": "溫刻通軟膏說明書_20150918-104-09-18(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01010221&Seq=003&Type=9"
         },
         {
-            "title": "溫刻通10g包裝盒側-104-09-29(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01010221&Seq=004&Type=8"
+            "title": "溫刻通軟膏積層管-111-03-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01010221&Seq=007&Type=8"
+        },
+        {
+            "title": "溫刻通10g外盒-111-03-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01010221&Seq=006&Type=8"
+        },
+        {
+            "title": "溫刻通5g標籤-111-03-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01010221&Seq=005&Type=8"
         }
     ]
 }

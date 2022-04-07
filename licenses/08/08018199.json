@@ -1,20 +1,22 @@
 {
     "code": "08018199",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08018199",
-    "time": "2020-06-26 06:28:28",
+    "time": "2022-04-08 05:04:07",
     "許可證字號": "衛署粧輸字第018199號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "113\/06\/30",
-    "發證日期": "100\/06\/23",
+    "發證\/登錄日期": "100\/06\/23",
     "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00801819906",
-    "中文品名": "萊肯重組染髮膏：8\/34金銅淺亞麻色",
-    "英文品名": "Lakme Collage Creme Hair Color 8\/34 Copper Gold Light Blonde",
+    "中文品名": "萊肯重組染髮膏 8\/34 金銅淺金黃色。",
+    "英文品名": "Collage Permanent Hair Color 8\/34 Gold Copper Light Blonde。",
     "用途": "染頭髮。",
     "劑型": "992霜劑",
     "包裝": "500 ml以下管裝附外盒",
@@ -26,16 +28,13 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "AMMONIUM HYDROXIDE 28%, 1-NAPHTHOL, P-AMINOPHENOL, TOLUENE-2,5-DIAMINE SULFATE, 2-AMINO-6-CHLORO-4-NITROPHENOL",
+    "主成分略述": "AMMONIA, P-AMINOPHENOL, 2-METHYLRESORCINOL, TOLUENE-2,5-DIAMINE SULFATE, 2-AMINO-3-HYDROXYPYRIDINE, 2-AMINO-6-CHLORO-4-NITROPHENOL",
     "限制項目": "02輸　入",
     "申請商名稱": "1120601100  得洋國際股份有限公司",
     "申請商地址": "台北市信義區忠孝東路五段510號6樓之2",
     "主製造廠": [
         {
-            "製造廠名稱": "CES0031000  LAKME COSMETICS S.L.",
-            "製造廠廠址": "NARCIS MONTURIOL 37, 08960 SANT JUST DESVERN, BARCELONA, SPAIN",
-            "製造廠公司地址": "",
-            "製造廠國別": "SPAIN",
+            "": "SPAIN",
             "製程": ""
         }
     ],
@@ -43,18 +42,10 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000107",
-            "成分名稱": "AMMONIUM HYDROXIDE 28%",
-            "含量描述": "Eq to free Ammonia",
-            "含量": "1.7241200000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "8436002204",
-            "成分名稱": "1-NAPHTHOL",
+            "成分代碼": "2820000100",
+            "成分名稱": "AMMONIA",
             "含量描述": "",
-            "含量": "0.0500000000",
+            "含量": "1.7750000000",
             "單位": "%(W\/W)"
         },
         {
@@ -62,7 +53,15 @@
             "成分代碼": "9200035440",
             "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
-            "含量": "0.1000000000",
+            "含量": "0.4500000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200038920",
+            "成分名稱": "2-METHYLRESORCINOL",
+            "含量描述": "",
+            "含量": "0.6000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -70,7 +69,15 @@
             "成分代碼": "9900066200",
             "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
             "含量描述": "",
-            "含量": "0.1300000000",
+            "含量": "0.3500000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900084800",
+            "成分名稱": "2-AMINO-3-HYDROXYPYRIDINE",
+            "含量描述": "",
+            "含量": "0.1000000000",
             "單位": "%(W\/W)"
         },
         {
@@ -78,26 +85,14 @@
             "成分代碼": "9900084900",
             "成分名稱": "2-AMINO-6-CHLORO-4-NITROPHENOL",
             "含量描述": "",
-            "含量": "0.2000000000",
+            "含量": "0.0500000000",
             "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
         {
-            "title": "080181990001-104-07-28.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018199&Seq=004&Type=8"
-        },
-        {
-            "title": "080181990003___20110915.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018199&Seq=003&Type=8"
-        },
-        {
-            "title": "080181990002___20110915.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018199&Seq=002&Type=8"
-        },
-        {
-            "title": "080181990001___20110915.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018199&Seq=001&Type=8"
+            "title": "08018199-111-03-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08018199&Seq=005&Type=8"
         }
     ]
 }

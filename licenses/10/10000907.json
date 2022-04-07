@@ -1,21 +1,23 @@
 {
     "code": "10000907",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000907",
-    "time": "2021-05-28 05:00:55",
+    "time": "2022-04-08 04:08:02",
     "許可證字號": "衛署菌疫輸字第000907號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "115\/07\/01",
-    "發證日期": "100\/07\/01",
+    "發證\/登錄日期": "100\/07\/01",
     "許可證種類": "菌　疫",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA01000090700",
     "中文品名": "安挺樂 靜脈點滴注射劑",
     "英文品名": "Actemra  Solution for Infusion",
-    "適應症": "1.\t類風濕性關節炎(RA) Actemra合併methotrexate (MTX)用於治療成年人中度至重度類風濕性關節炎，曾使用一種或一種以上之DMARD藥物治療或腫瘤壞死因子拮抗劑(TNF antagonist)治療而反應不佳或無法耐受的病人。在這些病人中，若病人對MTX無法耐受或不適合繼續投與MTX，可給予Actemra單獨治療。當Actemra 與MTX合併使用時，經X光量測，可減緩關節傷害惡化速度，此外，經HAQ-DI量表評估，可改善生理功能。\r\n2.\t類風濕性關節炎(RA)–未曾使用MTX治療的RA: Actemra合併methotrexate (MTX)適用於治療先前未曾使用MTX治療的重度、活動性、進行性類風濕性關節炎成人病人。在這些病人中，若病人對MTX無法耐受或不適合繼續投與MTX，可給予Actemra單獨治療。當Actemra與MTX合併使用時，經X光量測，可減緩關節傷害惡化速度。\r\n3.\t多關節性幼年型原發性關節炎(PJIA): Actemra與methotrexate (MTX)併用，適用於治療2歲(含)以上的活動性多關節性幼年型原發性關節炎，且對MTX治療反應不佳者。對於無法耐受或不適合繼續MTX治療的病人，可單獨使用Actemra。 \r\n4.\t全身性幼年型原發性關節炎(SJIA) :Actemra適用於治療2歲(含)以上的活動性全身性幼年型原發性關節炎病人，且對NSAID及類固醇治療反應不佳或無法耐受者。",
+    "適應症": "1. 類風濕性關節炎(RA) ：合併methotrexate (MTX)用於治療成年人中度至重度類風濕性關節炎，曾使用一種或一種以上之DMARD藥物治療或腫瘤壞死因子拮抗劑(TNF antagonist)治療而反應不佳或無法耐受的病人。在這些病人中，若病人對MTX無法耐受或不適合繼續投與MTX，可給予本品單獨治療。當與MTX合併使用時，經X光量測，可減緩關節傷害惡化速度，此外，經HAQ-DI量表評估，可改善生理功能。\r\n\r\n2. 類風濕性關節炎(RA) –未曾使用MTX治療的RA： 合併methotrexate (MTX)適用於治療先前未曾使用MTX治療的重度、活動性、進行性類風濕性關節炎成人病人。在這些病人中，若病人對MTX無法耐受或不適合繼續投與MTX，可給予本品單獨治療。當與MTX合併使用時，經X光量測，可減緩關節傷害惡化速度。\r\n\r\n3. 多關節性幼年型原發性關節炎(PJIA)：與methotrexate (MTX)併用，適用於治療2歲以上的活動性多關節性幼年型原發性關節炎，且對MTX治療反應不佳者。對於無法耐受或不適合繼續MTX治療的病人，可單獨使用本品。\r\n\r\n4. 全身性幼年型原發性關節炎(SJIA)：適用於治療2歲以上的活動性全身性幼年型原發性關節炎病人，且對NSAID及類固醇治療反應不佳或無法耐受者。\r\n\r\n5. 細胞激素釋放症候群(CRS)：適用於治療嵌合抗原受體(CAR) T 細胞誘發之重度或危及生命細胞激素釋放症候群的成人及2 歲以上兒童病人。",
     "劑型": "270注射劑",
     "包裝": "4毫升小瓶 10毫升小瓶 20毫升小瓶 100瓶以下盒裝",
     "儲存溫度": "",
@@ -32,10 +34,7 @@
     "申請商地址": "台北市松山區敦化北路260號3樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FJP0724000  UTSUNOMIYA PLANT OF CHUGAI PHARMA MANUFACTURING CO., LTD.",
-            "製造廠廠址": "16-3 KIYOHARA KOGYODANCHI, UTSUNOMIYA-CITY, TOCHIGI, JAPAN",
-            "製造廠公司地址": "",
-            "製造廠國別": "JAPAN",
+            "": "JAPAN",
             "製程": "原料藥及成品製造廠"
         }
     ],
@@ -51,10 +50,38 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "ACT IV 200 mg 外觀-110-07-14(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000907&Seq=002&Type=10"
+        },
+        {
+            "title": "ACT IV 80 mg 外觀-110-07-14(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000907&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "-0203-Actemra IV安挺樂靜脈點滴_TPIv13-中文仿單-版B Outline-109-02-19.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000907&Seq=017&Type=9"
+            "title": "Actemra IV_USPI202103_TPIv14_clean_20220209-111-03-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000907&Seq=018&Type=9"
+        },
+        {
+            "title": "0207-ACT_IV_200mg 外盒-110-07-14(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000907&Seq=009&Type=8"
+        },
+        {
+            "title": "0207-ACT_IV_80mg 外盒-110-07-14(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000907&Seq=008&Type=8"
         },
         {
             "title": "ACT 400mg 外盒-104-12-24(廠商自行上傳).pdf",

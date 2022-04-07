@@ -1,20 +1,22 @@
 {
     "code": "07005029",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=07005029",
-    "time": "2020-02-25 21:36:57",
+    "time": "2022-04-08 04:59:52",
     "許可證字號": "衛署粧製字第005029號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "111\/04\/23",
-    "發證日期": "98\/04\/23",
-    "許可證種類": "含藥化粧品",
+    "發證\/登錄日期": "98\/04\/23",
+    "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00700502908",
-    "中文品名": "蕾舒法克香薰永久染髮膏7\/6紅、8\/6亮紅；迷思黛兒永久染髮膏7\/6紅、8\/6亮紅；莎曼極彩永久染髮膏7\/6紅、8\/6亮紅\r\n瑪絲特染膏 7\/6 紅、8\/6 亮紅。 \r\n金吉拉香薰永久染髮膏7\/6 紅、8\/6 亮紅。\r\n蕾娜塔絲炫永久染髮霜7\/6 紅、8\/6 亮紅。 \r\n舞髮紀永久染髮膏7R 紅、8R 亮紅。\r\n雷妮艾絲亮彩專業染髮霜7R 紅、8R 亮紅。",
-    "英文品名": "LA FOCUS PERMANENT CREAM 7\/6 RED BLONDE, 8\/6 RED LIGHT BLONDE\r\nMISS DEAR PERMANENT CREAM 7\/6 RED BLONDE, 8\/6 RED LIGHT BLONDE\r\n&#199;AVA EXTREME TINT PERMANENT COLOR 7\/6 RED BLONDE, 8\/6 RED LIGHT BLONDE\r\nMASTER HAIR PEROXIBE HOLD DYEING CREAM 7\/6 RED BLONDE 、8\/6 RED LIGHT BLONDE。\r\nCHINJELA PERMANENT COLOR CREAM 7\/6 RED BLONDE 、8\/6 RED LIGHT BLONDE。\r\nRENATA D.S SILKY SHINE PLUS PERMANENT HAIR COLOR CREAM 7\/6 RED BLONDE、8\/6 RED LIGHT BLONDE。 \r\nROCKERX PERMANENT COLOR CREAM 7R RED BLONDE、8R RED LIGHT BLONDE。 \r\nRANEAZ HAIR COLOR CREAM 7R RED BLONDE、8R RED LIGHT BLONDE。",
+    "中文品名": "蕾舒法克香薰永久染髮膏7\/6紅、8\/6亮紅；迷思黛兒永久染髮膏7\/6紅、8\/6亮紅；莎曼極彩永久染髮膏7\/6紅、8\/6亮紅\r\n瑪絲特染膏 7\/6 紅、8\/6 亮紅。 \r\n金吉拉香薰永久染髮膏7\/6 紅、8\/6 亮紅。\r\n舞髮紀永久染髮膏7R 紅、8R 亮紅。\r\n雷妮艾絲亮彩專業染髮霜7R 紅、8R 亮紅。",
+    "英文品名": "LA FOCUS PERMANENT CREAM 7\/6 RED BLONDE, 8\/6 RED LIGHT BLONDE\r\nMISS DEAR PERMANENT CREAM 7\/6 RED BLONDE, 8\/6 RED LIGHT BLONDE\r\n&#199;AVA EXTREME TINT PERMANENT COLOR 7\/6 RED BLONDE, 8\/6 RED LIGHT BLONDE\r\nMASTER HAIR PEROXIBE HOLD DYEING CREAM 7\/6 RED BLONDE 、8\/6 RED LIGHT BLONDE。\r\nCHINJELA PERMANENT COLOR CREAM 7\/6 RED BLONDE 、8\/6 RED LIGHT BLONDE。\r\nBLONDE、8\/6 RED LIGHT BLONDE。 \r\nROCKERX PERMANENT COLOR CREAM 7R RED BLONDE、8R RED LIGHT BLONDE。 \r\nRANEAZ HAIR COLOR CREAM 7R RED BLONDE、8R RED LIGHT BLONDE。",
     "用途": "染髮。",
     "劑型": "983膏劑",
     "包裝": "500 ml以下鋁管裝 附外盒",
@@ -26,16 +28,13 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "AMMONIA SOLUTION (28%), CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL), 5-AMINO-6-CHLORO-O-CRESOL, P-AMINOPHENOL, P-PHENYLENEDIAMINE, 1-HYDROXYETHYL 4,5-DIAMINO PYRAZOLE SULFATE",
+    "主成分略述": "AMMONIA SOLUTION (28%), 5-AMINO-6-CHLORO-O-CRESOL, P-AMINOPHENOL, 4-AMINO-2-HYDROXYTOLUENE, P-PHENYLENEDIAMINE, 1-HYDROXYETHYL 4,5-DIAMINO PYRAZOLE SULFATE",
     "限制項目": "01國　產",
     "申請商名稱": "0300102200  大川實業有限公司",
     "申請商地址": "新北市新莊區復興路３段６１號",
     "主製造廠": [
         {
-            "製造廠名稱": "0300102500  大川實業有限公司",
-            "製造廠廠址": "新北市新莊區復興路三段61號、63號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
@@ -47,14 +46,6 @@
             "成分名稱": "AMMONIA SOLUTION (28%)",
             "含量描述": "",
             "含量": "7.0000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
-            "含量描述": "",
-            "含量": "0.5520000000",
             "單位": "%(W\/W)"
         },
         {
@@ -71,6 +62,14 @@
             "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
             "含量": "0.3270000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "0.5520000000",
             "單位": "%(W\/W)"
         },
         {
@@ -99,14 +98,6 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
-            "含量描述": "",
-            "含量": "0.5290000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "9200002650",
             "成分名稱": "5-AMINO-6-CHLORO-O-CRESOL",
             "含量描述": "",
@@ -119,6 +110,14 @@
             "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
             "含量": "0.3270000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "0.5290000000",
             "單位": "%(W\/W)"
         },
         {
@@ -144,12 +143,8 @@
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005029&Seq=001&Type=9"
         },
         {
-            "title": "07005029_2-106-03-22.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005029&Seq=002&Type=8"
-        },
-        {
-            "title": "07005029_1-106-03-22.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005029&Seq=001&Type=8"
+            "title": "07005029-111-03-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=07005029&Seq=003&Type=8"
         }
     ]
 }

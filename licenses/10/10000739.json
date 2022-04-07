@@ -1,17 +1,19 @@
 {
     "code": "10000739",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000739",
-    "time": "2021-06-25 04:39:16",
+    "time": "2022-04-08 04:07:27",
     "許可證字號": "衛署菌疫輸字第000739號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "111\/12\/21",
-    "發證日期": "91\/11\/04",
+    "發證\/登錄日期": "91\/11\/04",
     "許可證種類": "菌　疫",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA01000073902",
     "中文品名": "愛速基因人體胰島素",
     "英文品名": "ACTRAPID　100 IU\/ML",
@@ -32,10 +34,7 @@
     "申請商地址": "台北市大安區敦化南路2段207號10樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FFR0324000  Novo Nordisk Production SAS",
-            "製造廠廠址": "45, Avenue d’Orleans, F-28000 Chartres, France",
-            "製造廠公司地址": "",
-            "製造廠國別": "FRANCE",
+            "": "FRANCE",
             "製程": "原料藥及成品製造廠"
         }
     ],
@@ -69,20 +68,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "Actrapid leaflet (8-0201-10-082-3)-109-10-28(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000739&Seq=020&Type=9"
-        },
-        {
-            "title": "Actrapid_STF Jul 2019-108-10-31(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000739&Seq=019&Type=9"
-        },
-        {
-            "title": "5-2. 仿單-標籤粘貼表_Actrapid vial CS PI STF2011 Chartres_final_2019-02-22-108-02-22.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000739&Seq=018&Type=9"
-        },
-        {
-            "title": "5-2. 仿單-標籤粘貼表_Actrapid vial CS PI STF2011 Chartres_final_2019-02-22-108-02-22.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000739&Seq=017&Type=9"
+            "title": "Actrapid_STF May 2021_tracking_TFDA format_HZFC-21Feb2022-111-03-01.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000739&Seq=021&Type=9"
         },
         {
             "title": "Actrapid carton (8-0201-10-310-2)-109-10-28(廠商自行上傳).pdf",

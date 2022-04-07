@@ -1,17 +1,19 @@
 {
     "code": "02016704",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02016704",
-    "time": "2021-04-30 05:12:01",
+    "time": "2022-04-08 03:53:19",
     "許可證字號": "衛署藥輸字第016704號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "112\/06\/27",
-    "發證日期": "107\/02\/06",
+    "發證\/登錄日期": "107\/02\/06",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00201670400",
     "中文品名": "密鈣息注射液50國際單位／毫升",
     "英文品名": "MIACALCIC INJECTION 50 MRC-U\/ML (50IU \/ML)",
@@ -32,10 +34,7 @@
     "申請商地址": "台北市松山區南京東路四段126號10樓，10樓之1-3",
     "主製造廠": [
         {
-            "製造廠名稱": "FDE0599000  SOLUPHARM PHARMAZEUTISCHE ERZEUGNISSE GMBH",
-            "製造廠廠址": "INDUSTRIESTRABE 3, 34212 MELSUNGEN, GERMANY",
-            "製造廠公司地址": "",
-            "製造廠國別": "GERMANY",
+            "": "GERMANY",
             "製程": ""
         }
     ],
@@ -62,8 +61,16 @@
     ],
     "仿單外盒": [
         {
+            "title": "Taiwan package insert_proposed-111-03-24(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02016704&Seq=025&Type=9"
+        },
+        {
             "title": "2209131_TW_p1_LFT_X-4 (PI_2018.05.16)-107-07-23(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02016704&Seq=024&Type=9"
+        },
+        {
+            "title": "Taiwan_Folding Box-111-03-24(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02016704&Seq=005&Type=8"
         },
         {
             "title": "476833_U12_p1_LBL_X-4 (50IU Label_2017.12.27)-107-07-23(廠商自行上傳).pdf",

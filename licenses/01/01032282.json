@@ -1,17 +1,19 @@
 {
     "code": "01032282",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01032282",
-    "time": "2020-02-25 05:37:31",
+    "time": "2022-04-08 03:22:17",
     "許可證字號": "衛署藥製字第032282號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "114\/03\/10",
-    "發證日期": "79\/03\/10",
+    "發證\/登錄日期": "79\/03\/10",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00103228201",
     "中文品名": "&quot;健喬&quot; 氯絲菌素眼藥水０．２５％",
     "英文品名": "CHLORAMPHENICOL OPHTHALMIC SOLUTION 0.25% &quot;SYNMOSA&quot;",
@@ -32,10 +34,7 @@
     "申請商地址": "新竹縣湖口鄉光復北路21巷4號",
     "主製造廠": [
         {
-            "製造廠名稱": "6132051397  景德製藥股份有限公司桃園廠",
-            "製造廠廠址": "桃園市蘆竹區內厝里長安路一段80號、蘆竹區長安路一段148號2樓至7樓",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
@@ -53,20 +52,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "010322820003-仿單-108-07-09.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032282&Seq=004&Type=9"
+            "title": "1. 010322820001-111-03-15.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032282&Seq=005&Type=9"
         },
         {
-            "title": "032282-氯絲菌素眼藥水-0.25%-INS-104-11-14(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032282&Seq=003&Type=9"
+            "title": "3. 010322820003-111-03-15.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032282&Seq=004&Type=8"
         },
         {
-            "title": "010322820002-標籤-108-07-09.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032282&Seq=002&Type=8"
-        },
-        {
-            "title": "010322820001-標籤-108-07-09.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032282&Seq=001&Type=8"
+            "title": "2. 010322820002-111-03-15.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032282&Seq=003&Type=8"
         }
     ]
 }
