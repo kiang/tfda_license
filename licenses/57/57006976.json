@@ -1,17 +1,19 @@
 {
     "code": "57006976",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=57006976",
-    "time": "2020-03-27 06:18:24",
+    "time": "2022-05-06 04:39:58",
     "許可證字號": "衛部粧製字第006976號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "113\/06\/30",
-    "發證日期": "104\/02\/04",
-    "許可證種類": "含藥化粧品",
+    "發證\/登錄日期": "104\/02\/04",
+    "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "",
     "中文品名": "舒妃快速護髮染髮霜-3 深棕色第一劑、第二劑",
     "英文品名": "SOFEI COLOR CREAM No.3 DARK BROWN",
@@ -26,16 +28,13 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "AMMONIA SOLUTION (28%), HYDROGEN PEROXIDE (35%), RESORCINOL (RESORCIN), CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL), P-AMINOPHENOL, P-PHENYLENEDIAMINE, 2-AMINO-4-HYDROXYETHYLAMINOANISOLE SULFATE",
+    "主成分略述": "AMMONIA SOLUTION (28%), HYDROGEN PEROXIDE (35%), RESORCINOL (RESORCIN), P-AMINOPHENOL, 4-AMINO-2-HYDROXYTOLUENE, P-PHENYLENEDIAMINE, 2-AMINO-4-HYDROXYETHYLAMINOANISOLE SULFATE",
     "限制項目": "",
     "申請商名稱": "0300102200  大川實業有限公司",
     "申請商地址": "新北市新莊區復興路３段６１號",
     "主製造廠": [
         {
-            "製造廠名稱": "0300102500  大川實業有限公司",
-            "製造廠廠址": "新北市新莊區復興路三段６１號、６３號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
@@ -59,18 +58,18 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
-            "含量描述": "",
-            "含量": "0.0540000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "9200035440",
             "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
             "含量": "0.1280000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "0.0540000000",
             "單位": "%(W\/W)"
         },
         {
@@ -100,8 +99,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "57006976-104-06-12.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=57006976&Seq=001&Type=8"
+            "title": "57006976-111-04-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=57006976&Seq=002&Type=8"
         }
     ]
 }

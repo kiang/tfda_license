@@ -1,17 +1,19 @@
 {
     "code": "01018172",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01018172",
-    "time": "2020-02-25 02:44:33",
+    "time": "2022-05-06 03:01:30",
     "許可證字號": "衛署藥製字第018172號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "112\/05\/25",
-    "發證日期": "68\/07\/23",
+    "發證\/登錄日期": "68\/07\/23",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00101817202",
     "中文品名": "&quot; 井田 &quot;定痛錠",
     "英文品名": "TINTON TABLETS &quot;CHINTENG&quot;",
@@ -27,15 +29,12 @@
     "藥品分類": "",
     "監視期限": "",
     "主成分略述": "ETHENZAMIDE (ETHOXYBENZAMIDE), CAFFEINE (ANHYDROUS), HYDROXYBUTYRIC ACID BETA- P-PHENETIDIDE (BUCETIN), THIAMINE MONONITRATE",
-    "限制項目": "01國　產",
+    "限制項目": "01國　產 1R不得製造",
     "申請商名稱": "6103030017  井田國際醫藥廠股份有限公司",
     "申請商地址": "台中市大甲區幼獅路32號",
     "主製造廠": [
         {
-            "製造廠名稱": "6103030017  井田國際醫藥廠股份有限公司",
-            "製造廠廠址": "台中市大甲區幼獅路32號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
@@ -89,6 +88,24 @@
         {
             "title": "01018172.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018172&Seq=080&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "010181720001定痛錠-仿單-111-04-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018172&Seq=001&Type=9"
+        },
+        {
+            "title": "010181720004定痛錠-鋁箔-111-04-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018172&Seq=003&Type=8"
+        },
+        {
+            "title": "010181720003定痛錠-花盒-111-04-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018172&Seq=002&Type=8"
+        },
+        {
+            "title": "010181720002定痛錠-標籤-111-04-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01018172&Seq=001&Type=8"
         }
     ]
 }

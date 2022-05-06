@@ -1,7 +1,7 @@
 {
     "code": "56028895",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028895",
-    "time": "2021-12-24 06:25:32",
+    "time": "2022-05-06 04:13:48",
     "許可證字號": "衛部醫器輸字第028895號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,7 +18,7 @@
     "中文品名": "“迪爾健”移動式數位X光攝影系統",
     "英文品名": "“DRGEM” TOPAZ Mobile Digital X-ray System",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "TOPAZ -32D, TOPAZ-40D\r\n以下空白",
+    "醫器規格": "TOPAZ -32D, TOPAZ-40D\r\n以下空白\r\n規格變更:詳如核定之中文說明書(原105年11月24日核定之標籤、說明書或包裝予以回收作廢)。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -43,16 +43,25 @@
             "製程": ""
         }
     ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MKR1263100  DRGEM CORPORATION",
+            "製造廠廠址": "7F, E-B\/D Gwangmyeong Techno-Park, 60 Haan-ro, Gwangmyeong-si, Gyeonggi-do, 14322 Korea",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
+            "製程": "總公司"
+        }
+    ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060288950001-105-11-25.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56028895&Seq=001&Type=9"
+            "title": "560288950001-111-04-01.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56028895&Seq=002&Type=9"
         },
         {
-            "title": "060288950001-105-11-25.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56028895&Seq=001&Type=8"
+            "title": "560288950001-111-04-01.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56028895&Seq=002&Type=8"
         }
     ]
 }

@@ -1,17 +1,19 @@
 {
     "code": "58020928",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58020928",
-    "time": "2021-09-24 06:14:11",
+    "time": "2022-05-06 04:40:47",
     "許可證字號": "衛部粧輸字第020928號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "111\/11\/06",
-    "發證日期": "102\/11\/06",
+    "發證\/登錄日期": "102\/11\/06",
     "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05802092800",
     "中文品名": "培麗永久染染髮霜瀲紅色系 7XR",
     "英文品名": "JOICO VERO K-PAK COLOR PERMANENT CR&#200;ME COLOR 7XR SCARLET",
@@ -26,16 +28,13 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "AMMONIUM HYDROXIDE 28%, 1-NAPHTHOL, 5-AMINO-6-CHLORO-O-CRESOL, 6-AMINO-M-CRESOL, P-AMINOPHENOL, m-Aminophenol, 2-AMINO-3-HYDROXYPYRIDINE, 2-AMINO-6-CHLORO-4-NITROPHENOL, 1-HYDROXYETHYL 4,5-DIAMINO PYRAZOLE SULFATE, 2,6-DIHYDROXYETHYLAMINOTOLUENE",
+    "主成分略述": "Ammonium Hydroxide, 1-NAPHTHOL, 5-AMINO-6-CHLORO-O-CRESOL, P-AMINOPHENOL, m-Aminophenol, Acid Red 92, 2-AMINO-3-HYDROXYPYRIDINE, 2-AMINO-6-CHLORO-4-NITROPHENOL, 1-HYDROXYETHYL 4,5-DIAMINO PYRAZOLE SULFATE",
     "限制項目": "",
     "申請商名稱": "6623929515  台灣漢高股份有限公司",
     "申請商地址": "新北市中和區中正路866號10樓",
     "主製造廠": [
         {
-            "製造廠名稱": "CUS0452000  Henkel Corporation, Inc.",
-            "製造廠廠址": "300 Forge Avenue, Geneva, New York 14456-0071 U.S.A.",
-            "製造廠公司地址": "",
-            "製造廠國別": "UNITED STATES",
+            "": "UNITED STATES",
             "製程": ""
         }
     ],
@@ -43,10 +42,10 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000107",
-            "成分名稱": "AMMONIUM HYDROXIDE 28%",
+            "成分代碼": "2820000161",
+            "成分名稱": "Ammonium Hydroxide",
             "含量描述": "",
-            "含量": "2.1000000000",
+            "含量": "2.0048000000",
             "單位": "%(W\/W)"
         },
         {
@@ -67,14 +66,6 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002690",
-            "成分名稱": "6-AMINO-M-CRESOL",
-            "含量描述": "",
-            "含量": "0.0200000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "9200035440",
             "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
@@ -87,6 +78,14 @@
             "成分名稱": "m-Aminophenol",
             "含量描述": "",
             "含量": "0.2600000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9602080140",
+            "成分名稱": "Acid Red 92",
+            "含量描述": "",
+            "含量": "0.2100000000",
             "單位": "%(W\/W)"
         },
         {
@@ -111,14 +110,6 @@
             "成分名稱": "1-HYDROXYETHYL 4,5-DIAMINO PYRAZOLE SULFATE",
             "含量描述": "",
             "含量": "0.7300000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9900097500",
-            "成分名稱": "2,6-DIHYDROXYETHYLAMINOTOLUENE",
-            "含量描述": "",
-            "含量": "0.0010000000",
             "單位": "%(W\/W)"
         }
     ],

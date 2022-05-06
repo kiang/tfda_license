@@ -1,17 +1,19 @@
 {
     "code": "01052438",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01052438",
-    "time": "2020-02-25 07:37:40",
+    "time": "2022-05-06 03:13:20",
     "許可證字號": "衛署藥製字第052438號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "113\/12\/29",
-    "發證日期": "98\/12\/29",
+    "發證\/登錄日期": "98\/12\/29",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00105243805",
     "中文品名": "“美時”威智滴劑",
     "英文品名": "Witgen Oral Drop“LOTUS”",
@@ -32,10 +34,7 @@
     "申請商地址": "台北市信義區松仁路277號17樓",
     "主製造廠": [
         {
-            "製造廠名稱": "6133061413  歐帕生技醫藥股份有限公司",
-            "製造廠廠址": "新竹縣湖口鄉光復路1號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
@@ -53,8 +52,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "ARTDB016741P Memantine 10mg (CMO-TW) PIL-109-05-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01052438&Seq=005&Type=9"
+        },
+        {
             "title": "MEWIT03-威智滴劑仿單(91204120 00)-107-01-24(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01052438&Seq=004&Type=9"
+        },
+        {
+            "title": "ARTDB016740L Memantine 10mg (CMO-TW) Label-109-05-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01052438&Seq=008&Type=8"
+        },
+        {
+            "title": "ARTDB016739C Memantine 10mg (CMO-TW) Carton-109-05-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01052438&Seq=007&Type=8"
         },
         {
             "title": "MLWIT04_威智滴劑標籤(91204110 00)-107-01-24(廠商自行上傳).pdf",

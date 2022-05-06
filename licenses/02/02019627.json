@@ -1,17 +1,19 @@
 {
     "code": "02019627",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02019627",
-    "time": "2020-06-26 05:13:35",
+    "time": "2022-05-06 03:17:36",
     "許可證字號": "衛署藥輸字第019627號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "112\/12\/17",
-    "發證日期": "107\/10\/26",
+    "發證\/登錄日期": "107\/10\/26",
     "許可證種類": "製　劑",
     "舊證字號": "02007952",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00201962700",
     "中文品名": "太田胃散",
     "英文品名": "OHTA&#39;S ISAN",
@@ -29,13 +31,10 @@
     "主成分略述": "SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE), BIODIASTASE, CALCIUM CARBONATE, MAGNESIUM CARBONATE, CINNAMON BARK, FENNEL, GENTIAN, CLOVE, CITRUS UNSHIU PEEL, POWDERED PICRASMA WOOD, SYNTHETIC ALUMINUM SILICATE, NUTMEG",
     "限制項目": "02輸　入",
     "申請商名稱": "0512401100  幼祥實業股份有限公司",
-    "申請商地址": "台北市新東街１５巷１３號１樓",
+    "申請商地址": "台北市松山區新東街１５巷１３號",
     "主製造廠": [
         {
-            "製造廠名稱": "FJP0241000  OHTA&#39;S ISAN CO. LTD.",
-            "製造廠廠址": "957 SHISHIKO-CHO USHIKU-SHI IBARAKI-KEN, JAPAN",
-            "製造廠公司地址": "3-2 SENGOKU, 2-CHOME BUNKYO-KU TOKYO",
-            "製造廠國別": "JAPAN",
+            "": "JAPAN",
             "製程": ""
         }
     ],
@@ -166,12 +165,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "太田-胃散說明書-109-12-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019627&Seq=007&Type=9"
+        },
+        {
             "title": "太田胃散_QR code-109-01-22.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019627&Seq=005&Type=9"
         },
         {
             "title": "太田胃散_仿單-109-01-22.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019627&Seq=004&Type=9"
+        },
+        {
+            "title": "太田-胃散外盒-109-12-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02019627&Seq=015&Type=8"
         },
         {
             "title": "太田胃散_210G-109-01-22.PDF",

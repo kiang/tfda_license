@@ -1,13 +1,13 @@
 {
     "code": "08011884",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08011884",
-    "time": "2022-03-25 06:54:54",
+    "time": "2022-05-06 04:38:12",
     "許可證字號": "衛署粧輸字第011884號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
-    "有效日期": "111\/01\/26",
+    "有效日期": "113\/06\/30",
     "發證\/登錄日期": "94\/01\/26",
     "許可證種類": "特定用途化粧品",
     "舊證字號": "",
@@ -15,8 +15,8 @@
     "第一等級醫療器材原許可證字號": "",
     "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00801188402",
-    "中文品名": "純色永久染髮-LIGHT ORANGE YELLOW O\/Y (淡橘黃色)、DARK ORANGE RED O\/R (深橘紅色)",
-    "英文品名": "FULL SPECTRUM DEEP EXTRA LIFT AND DEPOSIT CREME COLOR FOR DARK HAIR-LIGHT ORANGE YELLOW O\/Y、DARK ORAGNE RED O\/R",
+    "中文品名": "純色永久染膏-LIGHT ORANGE YELLOW O\/Y (淡橘\/黃色)。",
+    "英文品名": "FULL SPECTRUM DEEP EXTRA LIFT AND DRPOSIT PURE TONE FOR DARK HAIR - LIGHT ORANGE \/ YELLOW。",
     "用途": "染髮用。",
     "劑型": "944乳劑",
     "包裝": "500公克以下管裝 附外紙盒裝",
@@ -28,7 +28,7 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "AMMONIA WATER (AMMONIUM HYDROXIDE), RESORCINOL (RESORCIN), AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL), 4-AMINO-2-HYDROXYTOLUENE",
+    "主成分略述": "AMMONIA WATER (AMMONIUM HYDROXIDE), Ammonium Hydroxide, RESORCINOL (RESORCIN), AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL), P-AMINOPHENOL, 4-AMINO-2-HYDROXYTOLUENE",
     "限制項目": "02輸　入",
     "申請商名稱": "0930501100  美商雅詩蘭黛股份有限公司台灣分公司",
     "申請商地址": "台北市信義區松高路9號19樓",
@@ -42,10 +42,10 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000102",
-            "成分名稱": "AMMONIA WATER (AMMONIUM HYDROXIDE)",
-            "含量描述": "(29%)",
-            "含量": "16.0000000000",
+            "成分代碼": "2820000161",
+            "成分名稱": "Ammonium Hydroxide",
+            "含量描述": "",
+            "含量": "4.6400000000",
             "單位": "%(W\/W)"
         },
         {
@@ -58,8 +58,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035401",
-            "成分名稱": "AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL)",
+            "成分代碼": "9200035440",
+            "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
             "含量": "1.1820000000",
             "單位": "%(W\/W)"
@@ -106,6 +106,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "08011884-111-04-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011884&Seq=002&Type=8"
+        },
         {
             "title": "08011884-107-10-17.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011884&Seq=001&Type=8"

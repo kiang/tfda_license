@@ -1,17 +1,19 @@
 {
     "code": "57008049",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=57008049",
-    "time": "2020-02-26 08:50:04",
+    "time": "2022-05-06 04:40:21",
     "許可證字號": "衛部粧製字第008049號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "112\/10\/19",
-    "發證日期": "107\/10\/19",
-    "許可證種類": "含藥化粧品",
+    "發證\/登錄日期": "107\/10\/19",
+    "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY05700804909",
     "中文品名": "①蕾舒法克普拉斯低氨染髮霜N4\/3-金，N4\/4-銅 ②迷思黛兒樸術低氨染髮霜N4\/3-金，N4\/4-銅 ③莎曼菁質低氨染髮霜N4\/3-金，N4\/4-銅",
     "英文品名": "①LA FOCUS PLUS TREND LIKE PIGMENT N4\/3，N4\/4 ②MISSDEAR LITE COLOR PIGMENT N4\/3，N4\/4 ③&#199;AVA L.E.O PERMANENT COLOR CREAM N4\/3，N4\/4",
@@ -26,16 +28,13 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "AMMONIA SOLUTION (28%), RESORCINOL (RESORCIN), CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL), P-AMINOPHENOL, m-Aminophenol, 2-METHYLRESORCINOL, P-PHENYLENEDIAMINE, 2-AMINO-3-HYDROXYPYRIDINE",
+    "主成分略述": "AMMONIA SOLUTION (28%), RESORCINOL (RESORCIN), P-AMINOPHENOL, m-Aminophenol, 2-METHYLRESORCINOL, 4-AMINO-2-HYDROXYTOLUENE, P-PHENYLENEDIAMINE, 2-AMINO-3-HYDROXYPYRIDINE",
     "限制項目": "",
     "申請商名稱": "0300102200  大川實業有限公司",
     "申請商地址": "新北市新莊區復興路３段６１號",
     "主製造廠": [
         {
-            "製造廠名稱": "0300102500  大川實業有限公司",
-            "製造廠廠址": "新北市新莊區復興路三段６１號、６３號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "": "TAIWAN",
             "製程": ""
         }
     ],
@@ -55,14 +54,6 @@
             "成分名稱": "RESORCINOL (RESORCIN)",
             "含量描述": "",
             "含量": "0.6860000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
-            "含量描述": "",
-            "含量": "0.2500000000",
             "單位": "%(W\/W)"
         },
         {
@@ -87,6 +78,14 @@
             "成分名稱": "2-METHYLRESORCINOL",
             "含量描述": "",
             "含量": "0.7700000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "0.2500000000",
             "單位": "%(W\/W)"
         },
         {
@@ -123,14 +122,6 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002612",
-            "成分名稱": "CRESOL O- P-AMINO ( EQ TO 5-AMINO-O-CRESOL) ( EQ TO P-AMINO-O-CRESOL)",
-            "含量描述": "",
-            "含量": "0.1270000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "9200035440",
             "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
@@ -155,6 +146,14 @@
         },
         {
             "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "0.1270000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
             "成分代碼": "9400003200",
             "成分名稱": "P-PHENYLENEDIAMINE",
             "含量描述": "",
@@ -172,8 +171,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "57008049-107-11-27.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=57008049&Seq=001&Type=8"
+            "title": "57008049-111-04-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=57008049&Seq=002&Type=8"
         }
     ]
 }

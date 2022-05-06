@@ -1,20 +1,22 @@
 {
     "code": "02023571",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023571",
-    "time": "2021-06-25 04:36:44",
+    "time": "2022-05-06 03:19:45",
     "許可證字號": "衛署藥輸字第023571號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "111\/10\/17",
-    "發證日期": "91\/10\/17",
+    "發證\/登錄日期": "91\/10\/17",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00202357101",
-    "中文品名": "惠氏速悅持續性藥效膠囊７５毫克",
-    "英文品名": "EFEXOR XR 75MG CAPSULES",
+    "中文品名": "暉致速悅持續性藥效膠囊７５毫克",
+    "英文品名": "EFFEXOR XR 75MG CAPSULES",
     "適應症": "鬱症、泛焦慮症、社交焦慮症、恐慌症。",
     "劑型": "133持續性藥效膠囊劑",
     "包裝": "2-1000錠鋁箔盒裝",
@@ -28,31 +30,28 @@
     "監視期限": "",
     "主成分略述": "VENLAFAXINE HYDROCHLORIDE",
     "限制項目": "02輸　入",
-    "申請商名稱": "0929101100  美商惠氏藥廠（亞洲）股份有限公司台灣分公司",
-    "申請商地址": "台北市信義區松仁路100號42、43樓",
+    "申請商名稱": "620117S703  暉致醫藥股份有限公司",
+    "申請商地址": "臺北市信義區信義路５段7號27樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FIE0024000  Pfizer Ireland Pharmaceuticals",
-            "製造廠廠址": "LITTLE CONNELL NEWBRIDGE CO. KILDARE, IRELAND",
-            "製造廠公司地址": "",
-            "製造廠國別": "IRELAND",
+            "": "IRELAND",
             "製程": ""
         }
     ],
     "次製造廠": [
-        {
-            "製造廠名稱": "6133080025  輝瑞生技股份有限公司新竹廠",
-            "製造廠廠址": "新竹縣新豐鄉中崙村中崙290之1號",
-            "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
-            "製程": "包裝"
-        },
         {
             "製造廠名稱": "6605071926  久裕企業股份有限公司(委託包裝)",
             "製造廠廠址": "桃園市桃園區大林里興邦路43巷2之1號4樓，3樓B區，1樓A區",
             "製造廠公司地址": "",
             "製造廠國別": "",
             "製程": "二級包裝廠(委託貼標及置入仿單)"
+        },
+        {
+            "製造廠名稱": "FPR0019000  PFIZER PHARMACEUTICALS LLC",
+            "製造廠廠址": "KM. 1.9 ROAD 689, VEGA BAJA, PUERTO RICO 00693",
+            "製造廠公司地址": "",
+            "製造廠國別": "PUERTO RICO",
+            "製程": "分包裝廠"
         }
     ],
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
@@ -85,12 +84,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "Efexor XR 75mg仿單USPI 201802-3-110-08-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023571&Seq=027&Type=9"
+        },
+        {
             "title": "衛署藥輸023571-惠氏速悅持續性藥效膠囊75毫克-仿單-108-01-04.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023571&Seq=026&Type=9"
         },
         {
-            "title": "EFEXOR XR 75mg 外盒包裝_28顆裝-104-09-11(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023571&Seq=001&Type=8"
+            "title": "Efexor XR 75mg-Foil-P-1110127-111-04-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023571&Seq=004&Type=8"
+        },
+        {
+            "title": "Efexor XR 75mg-CTN-Outline-1110211-111-04-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023571&Seq=003&Type=8"
         }
     ]
 }
