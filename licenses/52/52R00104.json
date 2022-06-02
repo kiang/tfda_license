@@ -1,18 +1,18 @@
 {
     "code": "52R00104",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52R00104",
-    "time": "2022-05-27 03:35:10",
+    "time": "2022-06-03 03:38:10",
     "許可證字號": "衛部藥輸字第R00104號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "115\/04\/07",
-    "發證\/登錄日期": "110\/04\/07",
+    "發證日期": "110\/04\/07",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
-    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材原登錄字號": "",
     "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHAS52R0010402",
     "中文品名": "鎦癌平注射液370百萬貝克\/毫升",
@@ -34,11 +34,17 @@
     "申請商地址": "臺北市中山區民生東路3段2號8樓",
     "主製造廠": [
         {
-            "": "SPAIN",
+            "製造廠名稱": "FES0263000  Advanced Accelerator Applications Iberica, S.L.",
+            "製造廠廠址": "Poligono Industrial la Cuesta - Sector 3 Parcelas 1 y 2 La Almunia de Dona Godina 50100 Zaragoza Spain",
+            "製造廠公司地址": "",
+            "製造廠國別": "SPAIN",
             "製程": ""
         },
         {
-            "": "ITALY",
+            "製造廠名稱": "FIT0541000  Advanced Accelerator Applications (Italy) s.r.l.",
+            "製造廠廠址": "Via Ribcs 5, 10010 Colleretto Giacosa (TO), Italy",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
             "製程": ""
         }
     ],

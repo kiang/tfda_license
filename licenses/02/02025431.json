@@ -1,18 +1,18 @@
 {
     "code": "02025431",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025431",
-    "time": "2022-05-27 03:22:50",
+    "time": "2022-06-03 03:25:19",
     "許可證字號": "衛署藥輸字第025431號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "115\/08\/11",
-    "發證\/登錄日期": "100\/08\/11",
+    "發證日期": "100\/08\/11",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
-    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材原登錄字號": "",
     "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00202543105",
     "中文品名": "合利他命 強效錠",
@@ -34,7 +34,10 @@
     "申請商地址": "臺北市大安區敦化南路２段39號3樓",
     "主製造廠": [
         {
-            "": "JAPAN",
+            "製造廠名稱": "FJP0725000  Alinamin Pharma Tech Co., Ltd.",
+            "製造廠廠址": "2-21, OSADANO-CHO, FUKUCHIYAMA, KYOTO, 620-0853, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
             "製程": ""
         }
     ],
@@ -92,8 +95,32 @@
     ],
     "仿單外盒": [
         {
-            "title": "合利他命強效錠_仿單擬稿 new_20210719-110-09-11.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025431&Seq=009&Type=9"
+            "title": "Alinamin-EX-Plus_PI_APC_20220214-111-05-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025431&Seq=010&Type=9"
+        },
+        {
+            "title": "Alinamin-EX-Plus-280T_Label_APC_20220214-111-05-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025431&Seq=036&Type=8"
+        },
+        {
+            "title": "Alinamin-EX-Plus-280T_Carton_APC_20220214-111-05-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025431&Seq=035&Type=8"
+        },
+        {
+            "title": "Alinamin-EX-Plus-120T_Label_APC_20220214-111-05-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025431&Seq=034&Type=8"
+        },
+        {
+            "title": "Alinamin-EX-Plus-120T_Carton_APC_20220214-111-05-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025431&Seq=033&Type=8"
+        },
+        {
+            "title": "Alinamin-EX-Plus-60T_Label_20220214-111-05-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025431&Seq=032&Type=8"
+        },
+        {
+            "title": "Alinamin-EX-Plus-60T_Carton_APC_20220214-111-05-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02025431&Seq=031&Type=8"
         }
     ]
 }
