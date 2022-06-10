@@ -1,7 +1,7 @@
 {
     "code": "92000970",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92000970",
-    "time": "2021-10-29 08:05:31",
+    "time": "2022-06-10 05:11:40",
     "許可證字號": "衛部醫器陸輸字第000970號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,10 +15,10 @@
     "第一等級醫療器材原登錄字號": "",
     "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA09200097001",
-    "中文品名": "“聖猷達”視友超音波掃描儀",
-    "英文品名": "“SJM” Viewmate Ultrasound Console",
+    "中文品名": "視友超音波掃描儀",
+    "英文品名": "Viewmate Ultrasound Console",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "詳如中文仿單核定本。仿單變更為：詳如中文仿單核定本（原108年1月22日仿單標籤核定本正本予以收回作廢）。",
+    "醫器規格": "詳如中文仿單核定本。仿單變更為：詳如中文仿單核定本（原108年1月22日仿單標籤核定本正本予以收回作廢）。\r\n增加規格:詳如核定之中文說明書。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -39,7 +39,10 @@
     "申請商地址": "台北市內湖區瑞光路407號5樓",
     "主製造廠": [
         {
-            "": "CHINA",
+            "製造廠名稱": "MCN1456000  Shenzhen Mindray Bio-Medical Electronics Co., Ltd.",
+            "製造廠廠址": "Mindray Building, Keji 12th Road South, High-tech Industrial Park, Nanshan, Shenzhen 518057, China",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
             "製程": "Manufactured by"
         }
     ],
@@ -56,8 +59,16 @@
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "920009700001-111-05-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000970&Seq=003&Type=9"
+        },
+        {
             "title": "920009700001-108-10-28.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000970&Seq=002&Type=9"
+        },
+        {
+            "title": "920009700001-111-05-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92000970&Seq=003&Type=8"
         },
         {
             "title": "920009700002-108-10-28.pdf",

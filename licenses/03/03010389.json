@@ -1,7 +1,7 @@
 {
     "code": "03010389",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=03010389",
-    "time": "2020-02-25 13:53:11",
+    "time": "2022-06-10 03:54:06",
     "許可證字號": "衛署成製字第010389號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00301038900",
     "中文品名": "曼秀雷敦鎮痛水性藥膠布",
     "英文品名": "MENTHOLATUM PAIN RELIEVING PATCH",
@@ -93,12 +95,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "1110802573-03010389-新增仿單-111-04-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03010389&Seq=011&Type=9"
+        },
+        {
             "title": "010103890003-107-12-03.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03010389&Seq=010&Type=9"
         },
         {
-            "title": "010103890002-104-09-24(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03010389&Seq=009&Type=9"
+            "title": "1110802573-03010389-新增包裝背面-111-04-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03010389&Seq=014&Type=8"
+        },
+        {
+            "title": "1110802573-03010389-新增包裝正面-111-04-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03010389&Seq=013&Type=8"
         },
         {
             "title": "010103890002-107-12-03.pdf",
@@ -107,10 +117,6 @@
         {
             "title": "010103890001-107-12-03.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03010389&Seq=011&Type=8"
-        },
-        {
-            "title": "030103890010.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03010389&Seq=010&Type=8"
         }
     ]
 }

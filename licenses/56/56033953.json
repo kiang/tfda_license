@@ -1,22 +1,24 @@
 {
     "code": "56033953",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56033953",
-    "time": "2020-10-30 09:17:22",
+    "time": "2022-06-10 05:08:32",
     "許可證字號": "衛部醫器輸字第033953號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可登錄編號": "QSD6423",
+    "製造許可登錄編號": "QSD4654",
     "有效日期": "114\/09\/11",
     "發證日期": "109\/09\/11",
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05603395304",
     "中文品名": "“美敦力”費納導管",
     "英文品名": "“Medtronic” Phenom Catheter",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "詳如中文仿單核定本",
+    "醫器規格": "詳如中文仿單核定本\r\n申請變更事項：\r\n(一)註銷規格:FG11160-0615-1S, FG11160-0615-2J, FG11160-0615-2R, FG11160-0615-2S, FG11160-0615-2X, FG13150-0615-2J, FG13150-0615-2R, FG13150-1015-2X, FG13150-1015-2S, FG15135-0615-1S, FG19105-0615-1S, FG19105-0630-1S, FG19120-0630-1S, FG19120-1015-1S,FG19135-0615-1S, FG19135-1030-1S。\r\n(二)規格變更:詳如核定之中文說明書（原109年9月30日核定之標籤、說明書或包裝收回作廢）。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -37,23 +39,32 @@
     "申請商地址": "台北市松山區敦化南路一段2號2樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MUS2414000  MICRO THERAPEUTICS INC. DBA EV3 NEUROVASCULAR",
-            "製造廠廠址": "9775 TOLEDO WAY, IRVINE, CA 92618, USA",
+            "製造廠名稱": "MMX0140000  Medtronic Mexico S. de R.L.de CV",
+            "製造廠廠址": "Av. Paseo Cucapah 10510 El Lago  C.P. 22210 TiJuana , Baja California Mexico",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS5960000  Micro Therapeutics Inc. Dba Ev3 Neurovascular",
+            "製造廠廠址": "9775 Toledo Way Irvine, CA USA 92618",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
-            "製程": ""
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "560339530001-109-09-30.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56033953&Seq=001&Type=9"
+            "title": "560339530001-111-05-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56033953&Seq=002&Type=9"
         },
         {
-            "title": "560339530002-109-09-30.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56033953&Seq=001&Type=8"
+            "title": "560339530001-111-05-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56033953&Seq=002&Type=8"
         }
     ]
 }

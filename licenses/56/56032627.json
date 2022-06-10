@@ -1,7 +1,7 @@
 {
     "code": "56032627",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56032627",
-    "time": "2021-02-26 05:14:19",
+    "time": "2022-06-10 05:06:37",
     "許可證字號": "衛部醫器輸字第032627號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05603262702",
     "中文品名": "“富士”電腦X光影像讀取儀及其配件",
     "英文品名": "“FUJIFILM” COMPUTED RADIOGRAPHY AND ACCESSORIES",
@@ -37,8 +39,17 @@
     "申請商地址": "臺北市中山區南京東路3段28號2樓、2樓之1、2樓之2",
     "主製造廠": [
         {
-            "製造廠名稱": "MJP0898000  FUJIFILM TECHNO PRODUCTS CO., LTD. TOHOKU FACTORY HANAMAKI SITE",
-            "製造廠廠址": "2-1-3 KITAYUGUCHI, HANAMAKI-SHI, IWATE 025-0301, JAPAN",
+            "製造廠名稱": "MJP0898000  FUJIFILM Healthcare Manufacturing Corporation Hanamaki Office",
+            "製造廠廠址": "2-1-3, Kitayuguchi, Hanamaki-Shi, Iwate, 025-0301, Japan",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MJP0869000  FUJIFILM Corporation",
+            "製造廠廠址": "26-30, Nishiazabu 2-Chome, Minato-Ku, Tokyo 106-8620, Japan",
             "製造廠公司地址": "",
             "製造廠國別": "JAPAN",
             "製程": ""

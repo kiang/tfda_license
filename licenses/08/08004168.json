@@ -1,7 +1,7 @@
 {
     "code": "08004168",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08004168",
-    "time": "2020-02-25 22:36:19",
+    "time": "2022-06-10 05:21:01",
     "許可證字號": "衛署粧輸字第004168號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,9 +9,11 @@
     "製造許可登錄編號": "",
     "有效日期": "112\/04\/02",
     "發證日期": "87\/04\/02",
-    "許可證種類": "含藥化粧品",
+    "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00800416808",
     "中文品名": "雲緹佛媚絲亮麗染髮膏（極淺亞麻色）",
     "英文品名": "FRAMCOLOR 2001 HAIR COLORING CREAM 9NP (VERY LIGHT BLONDE)",
@@ -26,7 +28,7 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "AMMONIA WATER (AMMONIUM HYDROXIDE), RESORCINOL (RESORCIN), 6-AMINO-M-CRESOL, META-AMINOPHENOL (EQ TO M-AMINOPHENOL), P-METHYLAMINOPHENOL SULFATE, P-PHENYLENEDIAMINE",
+    "主成分略述": "Ammonium Hydroxide, RESORCINOL (RESORCIN), 4-CHLORORESORCINOL, 2-METHYLRESORCINOL, P-PHENYLENEDIAMINE",
     "限制項目": "02輸　入",
     "申請商名稱": "1217602100  喜徠化妝品股份有限公司",
     "申請商地址": "台北市大安區復興南路一段237號7樓之1",
@@ -43,10 +45,10 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000102",
-            "成分名稱": "AMMONIA WATER (AMMONIUM HYDROXIDE)",
-            "含量描述": "(21.4%)",
-            "含量": "8.0000000000",
+            "成分代碼": "2820000161",
+            "成分名稱": "Ammonium Hydroxide",
+            "含量描述": "",
+            "含量": "2.5400000000",
             "單位": "%(W\/W)"
         },
         {
@@ -54,31 +56,23 @@
             "成分代碼": "8428000500",
             "成分名稱": "RESORCINOL (RESORCIN)",
             "含量描述": "",
-            "含量": "0.0550000000",
+            "含量": "0.0880000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200002690",
-            "成分名稱": "6-AMINO-M-CRESOL",
+            "成分代碼": "9200038910",
+            "成分名稱": "4-CHLORORESORCINOL",
             "含量描述": "",
-            "含量": "0.0900000000",
+            "含量": "0.0290000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035403",
-            "成分名稱": "META-AMINOPHENOL (EQ TO M-AMINOPHENOL)",
+            "成分代碼": "9200038920",
+            "成分名稱": "2-METHYLRESORCINOL",
             "含量描述": "",
-            "含量": "0.0100000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "9200035411",
-            "成分名稱": "P-METHYLAMINOPHENOL SULFATE",
-            "含量描述": "",
-            "含量": "0.2550000000",
+            "含量": "0.0250000000",
             "單位": "%(W\/W)"
         },
         {
@@ -86,7 +80,7 @@
             "成分代碼": "9400003200",
             "成分名稱": "P-PHENYLENEDIAMINE",
             "含量描述": "",
-            "含量": "0.0700000000",
+            "含量": "0.1300000000",
             "單位": "%(W\/W)"
         }
     ],
@@ -96,8 +90,8 @@
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08004168&Seq=001&Type=9"
         },
         {
-            "title": "080041680001___20110527.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08004168&Seq=001&Type=8"
+            "title": "08004168-111-05-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08004168&Seq=002&Type=8"
         }
     ]
 }

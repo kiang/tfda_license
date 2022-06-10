@@ -1,7 +1,7 @@
 {
     "code": "57007916",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=57007916",
-    "time": "2020-09-25 13:28:27",
+    "time": "2022-06-10 05:23:15",
     "許可證字號": "衛部粧製字第007916號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,12 +12,14 @@
     "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY05700791602",
     "中文品名": "卡樂芙優質染髮霜-銀河灰棕、卡樂芙奢彩安瓶染髮霜–薄暮霧茶棕 A劑",
     "英文品名": "Colorful Hair Color Cream – Grey Brown、Colorful Luex Ampoule Hair Color Cream – Dusk Smoky (A)",
     "用途": "染髮。",
     "劑型": "944乳劑",
-    "包裝": "500公撮以下鋁管裝 附外盒",
+    "包裝": "500公克以下管裝，附外盒",
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
@@ -26,7 +28,7 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "AMMONIA, m-Aminophenol, 2,4-DIAMINOPHENOXYETHANOL HCL (EQ TO 2,4-DIAMINOPHENOXYETHANOL DIHYDROCHLORIDE), TOLUENE-2,5-DIAMINE SULFATE",
+    "主成分略述": "m-Aminophenol, 2,4-DIAMINOPHENOXYETHANOL HCL, TOLUENE-2,5-DIAMINE SULFATE",
     "限制項目": "",
     "申請商名稱": "0931101100  美吾華股份有限公司",
     "申請商地址": "台北市復興北路167號5樓",
@@ -43,14 +45,6 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000100",
-            "成分名稱": "AMMONIA",
-            "含量描述": "",
-            "含量": "2.1000000000",
-            "單位": "%(W\/W)"
-        },
-        {
-            "成分類別": "主成分",
             "成分代碼": "9200035470",
             "成分名稱": "m-Aminophenol",
             "含量描述": "",
@@ -59,8 +53,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9400003810",
-            "成分名稱": "2,4-DIAMINOPHENOXYETHANOL HCL (EQ TO 2,4-DIAMINOPHENOXYETHANOL DIHYDROCHLORIDE)",
+            "成分代碼": "9400003830",
+            "成分名稱": "2,4-DIAMINOPHENOXYETHANOL HCL",
             "含量描述": "",
             "含量": "0.0600000000",
             "單位": "%(W\/W)"
@@ -76,8 +70,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "57007916-109-07-16.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=57007916&Seq=003&Type=8"
+            "title": "57007916-111-05-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=57007916&Seq=004&Type=8"
         }
     ]
 }

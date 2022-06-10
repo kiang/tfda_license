@@ -1,18 +1,18 @@
 {
     "code": "08015825",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08015825",
-    "time": "2022-01-28 07:13:03",
+    "time": "2022-06-10 05:21:25",
     "許可證字號": "衛署粧輸字第015825號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "113\/06\/30",
-    "發證\/登錄日期": "98\/02\/18",
+    "發證日期": "98\/02\/18",
     "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
-    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材原登錄字號": "",
     "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00801582503",
     "中文品名": "妮維雅止汗爽身噴霧 乾適活力",
@@ -34,7 +34,10 @@
     "申請商地址": "臺北市中山區民生東路3段51號10樓",
     "主製造廠": [
         {
-            "": "THAILAND",
+            "製造廠名稱": "CTH0018000  CYBERPAX CO., LTD.",
+            "製造廠廠址": "123 Moo 9, Wellgrow Industrial Estate Soi 11, Bangna-Trad Road Km.36, Bangwua, Bangpakong, Chachoengsao, 24180, Thailand",
+            "製造廠公司地址": "",
+            "製造廠國別": "THAILAND",
             "製程": ""
         }
     ],
@@ -44,39 +47,23 @@
             "成分類別": "主成分",
             "成分代碼": "8412000120",
             "成分名稱": "ALUMINUM SESQUICHLOROHYDRATE",
-            "含量描述": "",
-            "含量": "0.6570000000",
+            "含量描述": "0.615",
+            "含量": "0.7500000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
             "成分代碼": "8412000130",
             "成分名稱": "ALUMINUM CHLOROHYDRATE",
-            "含量描述": "",
+            "含量描述": "4.408",
             "含量": "5.2500000000",
             "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
         {
-            "title": "080158250313-108-03-13.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015825&Seq=005&Type=8"
-        },
-        {
-            "title": "08015825-107-10-05.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015825&Seq=004&Type=8"
-        },
-        {
-            "title": "08015825-105-01-13.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015825&Seq=003&Type=8"
-        },
-        {
-            "title": "08015825-102-11-05.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015825&Seq=002&Type=8"
-        },
-        {
-            "title": "08015825___20121130.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015825&Seq=001&Type=8"
+            "title": "08015825-111-05-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08015825&Seq=006&Type=8"
         }
     ]
 }

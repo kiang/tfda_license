@@ -1,7 +1,7 @@
 {
     "code": "06010027",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010027",
-    "time": "2020-03-27 05:12:15",
+    "time": "2022-06-10 04:27:06",
     "許可證字號": "衛署醫器輸字第010027號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,11 +12,13 @@
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00601002702",
     "中文品名": "&quot;特浦&quot; 延長導管",
     "英文品名": "&quot;TOP&quot; Extension Tube",
     "效能": "空白。",
-    "醫器規格": "詳如中文仿單核定本。註銷規格：X1-FL50N、X1-FL100N。",
+    "醫器規格": "詳如中文仿單核定本。註銷規格：X1-FL50N、X1-FL100N。\r\n增加規格: X1-L150、X1-FL100、X1-FL200、X2-FL100、X1-LM25、X1-LM50 (原93年10月7日核定之標籤、說明書或包裝予以回收作廢)。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -57,16 +59,12 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060100270003.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010027&Seq=003&Type=9"
+            "title": "060100270001-111-05-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010027&Seq=004&Type=9"
         },
         {
-            "title": "060100270002.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010027&Seq=002&Type=9"
-        },
-        {
-            "title": "060100270001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010027&Seq=001&Type=9"
+            "title": "060100270001-111-05-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010027&Seq=001&Type=8"
         }
     ]
 }

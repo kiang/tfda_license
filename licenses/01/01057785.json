@@ -1,7 +1,7 @@
 {
     "code": "01057785",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057785",
-    "time": "2020-08-21 11:39:50",
+    "time": "2022-06-10 03:40:45",
     "許可證字號": "衛署藥製字第057785號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00105778502",
     "中文品名": "拿舒理鼻噴劑0.05%",
     "英文品名": "Nasolax Nasal Spray 0.05%",
@@ -29,7 +31,7 @@
     "主成分略述": "OXYMETAZOLINE HCL",
     "限制項目": "01國　產",
     "申請商名稱": "1103401100  健喬信元醫藥生技股份有限公司",
-    "申請商地址": "新竹縣湖口鄉光復北路21巷4號",
+    "申請商地址": "新竹縣湖口鄉工業一路6號",
     "主製造廠": [
         {
             "製造廠名稱": "1409106300  健喬信元醫藥生技股份有限公司健喬廠",
@@ -53,12 +55,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "SLT5450C-03-拿舒理鼻噴劑0.05%-說明書-2021.12.27鼎易回稿-111-05-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057785&Seq=006&Type=9"
+        },
+        {
             "title": "010577850001-仿單-109-06-23.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057785&Seq=005&Type=9"
         },
         {
-            "title": "外盒及仿單上QRcode內容-105-11-08.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057785&Seq=004&Type=9"
+            "title": "SCN5450C-02-Nasolax-BX-印刷廠回稿(2021.12.28) -111-05-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057785&Seq=006&Type=8"
+        },
+        {
+            "title": "SLB5450C-03-Nasolax-BT-印刷廠回稿(2021.12.27) -111-05-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057785&Seq=005&Type=8"
         },
         {
             "title": "010577850003-外盒-109-06-23.pdf",
@@ -67,10 +77,6 @@
         {
             "title": "010577850002-標籤-109-06-23.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057785&Seq=003&Type=8"
-        },
-        {
-            "title": "010577850002-外盒-105-11-08.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057785&Seq=002&Type=8"
         }
     ]
 }
