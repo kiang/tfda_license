@@ -1,7 +1,7 @@
 {
     "code": "10000461",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000461",
-    "time": "2020-02-26 01:37:31",
+    "time": "2022-07-08 04:06:33",
     "許可證字號": "衛署菌疫輸字第000461號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,9 +12,11 @@
     "許可證種類": "菌　疫",
     "舊證字號": "10000201",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA01000046109",
     "中文品名": "破傷風預防注射劑 250 Units",
-    "英文品名": "TETANUS IMMUNE GLOBULIN (HUMAN), HYPERTET S\/D",
+    "英文品名": "HYPERTET",
     "適應症": "預防破傷風",
     "劑型": "270注射劑",
     "包裝": "250單位注射針筒",
@@ -37,6 +39,15 @@
             "製造廠公司地址": "RESEARCH TRIANGLE PARK, 79 T.W.ALEXANDER DRIVE, NORTH CAROLINA, 27709, U.S.A.",
             "製造廠國別": "UNITED STATES",
             "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "FES0117000  INSTITUTO GRIFOLS S.A.",
+            "製造廠廠址": "POLIGONO LEVANTE C\/CAN GUASCH 2, 08150 PARETS DEL VALLES BARCELONA SPAIN",
+            "製造廠公司地址": "",
+            "製造廠國別": "SPAIN",
+            "製程": "血漿分離委託製造廠"
         }
     ],
     "CCC號列": "",
@@ -69,12 +80,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "3044142 Taiwan Proof 2 with captions-106-09-28(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000461&Seq=004&Type=9"
+            "title": "10000461001_TIGC_PI_3060723-111-05-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000461&Seq=008&Type=9"
         },
         {
-            "title": "3041570 Taiwan Proof 2-106-09-28(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000461&Seq=006&Type=8"
+            "title": "10000461004_TIGC_vial_3060471-111-05-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000461&Seq=011&Type=8"
+        },
+        {
+            "title": "10000461003_TIGC_carton_3060470-111-05-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000461&Seq=010&Type=8"
         }
     ]
 }

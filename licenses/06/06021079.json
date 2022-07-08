@@ -1,17 +1,19 @@
 {
     "code": "06021079",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06021079",
-    "time": "2020-08-28 17:01:37",
+    "time": "2022-07-08 05:17:07",
     "許可證字號": "衛署醫器輸字第021079號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "111\/06\/22",
+    "註銷理由": "許可證已逾有效期",
     "製造許可登錄編號": "QSD10038",
     "有效日期": "109\/06\/07",
     "發證日期": "99\/06\/07",
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00602107903",
     "中文品名": "亥銳黏著劑",
     "英文品名": "Hybrid Coat Coating Material",
@@ -45,5 +47,39 @@
         }
     ],
     "藥理治療分類": "",
-    "ingredients": []
+    "ingredients": [],
+    "仿單外盒": [
+        {
+            "title": "060210790006___20100715.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021079&Seq=006&Type=9"
+        },
+        {
+            "title": "060210790005___20100715.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021079&Seq=005&Type=9"
+        },
+        {
+            "title": "060210790004___20100715.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021079&Seq=004&Type=9"
+        },
+        {
+            "title": "060210790003___20100715.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021079&Seq=003&Type=9"
+        },
+        {
+            "title": "060210790002___20100715.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021079&Seq=002&Type=9"
+        },
+        {
+            "title": "060210790001___20100715.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021079&Seq=001&Type=9"
+        },
+        {
+            "title": "060210790002___20100715.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021079&Seq=002&Type=8"
+        },
+        {
+            "title": "060210790001___20100715.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06021079&Seq=001&Type=8"
+        }
+    ]
 }

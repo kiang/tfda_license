@@ -1,7 +1,7 @@
 {
     "code": "01036626",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01036626",
-    "time": "2020-02-25 06:08:44",
+    "time": "2022-07-08 03:28:56",
     "許可證字號": "衛署藥製字第036626號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00103662601",
     "中文品名": "“黃氏”立喉口含錠２毫克（吡啶）",
     "英文品名": "LIHO TROCHE 2MG (CETYLPYRIDINIUM) &quot;H.S.&quot;",
@@ -49,6 +51,14 @@
             "含量描述": "2",
             "含量": "2.0000000000",
             "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8404601310",
+            "成分名稱": "CETYLPYRIDINIUM CHLORIDE",
+            "含量描述": "",
+            "含量": "2.0000000000",
+            "單位": "MG"
         }
     ],
     "藥物辨識詳細資料": {
@@ -73,10 +83,6 @@
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036626&Seq=007&Type=9"
         },
         {
-            "title": "T-33.150408立喉口含錠 (說明書)OK-104-11-11(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036626&Seq=006&Type=9"
-        },
-        {
             "title": "立喉鋁箔-108-07-10.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036626&Seq=008&Type=8"
         },
@@ -87,10 +93,6 @@
         {
             "title": "立喉口含錠內盒-108-07-08.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036626&Seq=006&Type=8"
-        },
-        {
-            "title": "T-33.150508立喉口含錠 (內盒)OK-104-11-11(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01036626&Seq=005&Type=8"
         }
     ]
 }
