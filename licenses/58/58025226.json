@@ -1,7 +1,7 @@
 {
     "code": "58025226",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58025226",
-    "time": "2021-02-26 05:23:24",
+    "time": "2022-08-05 11:13:44",
     "許可證字號": "衛部粧輸字第025226號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05802522606",
     "中文品名": "香奈兒超保水能量CC霜SPF 50－B10, B20",
     "英文品名": "CC CREAM CORRECTION COMPLETE SUPER ACTIVE SPF 50 - 10 BEIGE, 20 BEIGE",
@@ -26,7 +28,7 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "ZINC OXIDE, ETHYLHEXYL METHOXYCINNAMATE",
+    "主成分略述": "HOMOMETHYL SALICYLATE (HOMOSALATE), ZINC OXIDE(NANO), PHENYLBENZIMIDAZOLE SULFONIC ACID, ETHYLHEXYL SALICYLATE",
     "限制項目": "",
     "申請商名稱": "6682862595  香奈兒有限公司",
     "申請商地址": "臺北市信義區松仁路100號39樓",
@@ -43,25 +45,41 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "9200011500",
-            "成分名稱": "ZINC OXIDE",
+            "成分代碼": "8424400210",
+            "成分名稱": "HOMOMETHYL SALICYLATE (HOMOSALATE)",
+            "含量描述": "",
+            "含量": "9.0000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200011501",
+            "成分名稱": "ZINC OXIDE(NANO)",
             "含量描述": "",
             "含量": "15.2000000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9900071200",
-            "成分名稱": "ETHYLHEXYL METHOXYCINNAMATE",
+            "成分代碼": "9600092110",
+            "成分名稱": "PHENYLBENZIMIDAZOLE SULFONIC ACID",
             "含量描述": "",
-            "含量": "6.7932000000",
+            "含量": "2.7000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900085500",
+            "成分名稱": "ETHYLHEXYL SALICYLATE",
+            "含量描述": "",
+            "含量": "4.5000000000",
             "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
         {
-            "title": "58025226-107-07-30.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58025226&Seq=001&Type=8"
+            "title": "58025226-111-07-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58025226&Seq=002&Type=8"
         }
     ]
 }

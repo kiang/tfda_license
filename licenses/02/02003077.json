@@ -1,18 +1,18 @@
 {
     "code": "02003077",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02003077",
-    "time": "2022-01-28 06:03:14",
+    "time": "2022-08-05 05:09:30",
     "許可證字號": "衛署藥輸字第003077號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "112\/10\/28",
-    "發證\/登錄日期": "63\/10\/28",
+    "發證日期": "63\/10\/28",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
-    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材原登錄字號": "",
     "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "null",
     "中文品名": "利福全0.5毫克錠",
@@ -34,7 +34,10 @@
     "申請商地址": "臺北市內湖區堤頂大道2段407巷20弄1、3、5、7號10樓，及22、24、26號10樓及22號10樓之1",
     "主製造廠": [
         {
-            "": "SPAIN",
+            "製造廠名稱": "FES0128100  Recipharm Leganes S.L.U.",
+            "製造廠廠址": "C\/SEVERO OCHOA 13, POLIGONO IND. DE LEGANE&#39;S, E-28914 LEGANE&#39;S,SPAIN",
+            "製造廠公司地址": "",
+            "製造廠國別": "SPAIN",
             "製程": "包裝與製劑廠"
         }
     ],
@@ -68,12 +71,24 @@
     ],
     "仿單外盒": [
         {
+            "title": "LEAFLET_RIVOTRIL_TW_0,5MG_90005511_10_50000764_5_ok-111-02-22(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02003077&Seq=018&Type=9"
+        },
+        {
             "title": "Rivotril 0.5mg_CDS7.0_indication restriction_0519-RIV-01_(148x594)_排-108-05-20(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02003077&Seq=017&Type=9"
         },
         {
             "title": "Rivotril 0.5mg_CDS7.0_0419-RIV-01_(148x594)_排-108-04-26.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02003077&Seq=016&Type=9"
+        },
+        {
+            "title": "FOIL_RIVOTRIL_TW_0.5_MG_90005507_10_50000766_5_ok-111-02-22(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02003077&Seq=009&Type=8"
+        },
+        {
+            "title": "CARTON_RIVOTRIL_TW_0.5_MG_90005509_10_50000765_3(2)_ok-111-02-22(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02003077&Seq=008&Type=8"
         },
         {
             "title": "20190322 Rivotril 0.5mg_003077-1-CTN-06-out-108-05-13(廠商自行上傳).pdf",

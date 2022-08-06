@@ -1,12 +1,12 @@
 {
     "code": "56033626",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56033626",
-    "time": "2021-10-29 08:04:35",
+    "time": "2022-08-05 10:08:00",
     "許可證字號": "衛部醫器輸字第033626號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可登錄編號": "QSD10333",
+    "製造許可登錄編號": "QSD13519",
     "有效日期": "114\/05\/08",
     "發證日期": "109\/05\/08",
     "許可證種類": "醫　器",
@@ -39,7 +39,10 @@
     "申請商地址": "台中市西屯區工業區七路15號",
     "主製造廠": [
         {
-            "": "KOREA",
+            "製造廠名稱": "MJP1402000  CG Bio Co., Ltd.",
+            "製造廠廠址": "B1, 1F, 2F, C-dong, 29 Jeyakdanji-ro, Hyangnam-eup, Hwaseong-si, Gyeonggi-do, Korea",
+            "製造廠公司地址": "",
+            "製造廠國別": "KOREA",
             "製程": ""
         }
     ],
@@ -47,8 +50,12 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "560336260001-110-08-19.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56033626&Seq=002&Type=9"
+            "title": "560336260001(111.07.22)-111-07-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56033626&Seq=003&Type=9"
+        },
+        {
+            "title": "560336260001(111.07.22)-111-07-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56033626&Seq=002&Type=8"
         }
     ]
 }

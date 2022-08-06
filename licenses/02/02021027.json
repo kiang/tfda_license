@@ -1,17 +1,19 @@
 {
     "code": "02021027",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021027",
-    "time": "2020-10-30 14:14:07",
+    "time": "2022-08-05 11:25:15",
     "許可證字號": "衛署藥輸字第021027號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "111\/07\/12",
+    "註銷理由": "未展延而逾期者",
     "製造許可登錄編號": "",
     "有效日期": "109\/08\/25",
     "發證日期": "84\/08\/25",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00202102704",
     "中文品名": "癲舒緩釋錠300毫克",
     "英文品名": "NEUROTOL SLOW TABLETS 300 MG",
@@ -57,7 +59,16 @@
     ],
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2812000400",
+            "成分名稱": "CARBAMAZEPINE",
+            "含量描述": "",
+            "含量": "300.0000000000",
+            "單位": "MG"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "Neurotol Slow Tablets_中文仿單_2016v9-105-10-19(廠商自行上傳).pdf",

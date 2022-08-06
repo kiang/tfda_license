@@ -1,7 +1,7 @@
 {
     "code": "08013546",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08013546",
-    "time": "2020-02-26 00:13:49",
+    "time": "2022-08-05 11:04:50",
     "許可證字號": "衛署粧輸字第013546號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,12 +9,14 @@
     "製造許可登錄編號": "",
     "有效日期": "113\/06\/30",
     "發證日期": "95\/10\/19",
-    "許可證種類": "含藥化粧品",
+    "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00801354602",
-    "中文品名": "髮絲會好 調色染髮膏3M深藍紫赤褐色",
-    "英文品名": "SIG PROFESSIONAL CREAM DYE 3M DARK VIOLET MAHOGANY",
+    "中文品名": "髮絲會好 調色染髮膏 5R 紅棕淡棕栗色。",
+    "英文品名": "SIG professional Cream Dye 5R COPPER LIGHT CHESNUT。",
     "用途": "染髮。",
     "劑型": "984乳膏劑",
     "包裝": "500ML以下鋁管裝 附外盒裝",
@@ -26,14 +28,14 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "AMMONIA WATER (AMMONIUM HYDROXIDE), RESORCINOL (RESORCIN), 2-NITRO-P-PHENYLENEDIAMINE, TOLUENE-2,5-DIAMINE SULFATE",
+    "主成分略述": "AMMONIA WATER (AMMONIUM HYDROXIDE), RESORCINOL (RESORCIN), 4-AMINO-M-CRESOL, m-Aminophenol, TOLUENE-2,5-DIAMINE SULFATE, 2-METHYL-5-HYDROXYETHYLAMINOPHENOL, 2-AMINO-6-CHLORO-4-NITROPHENOL, 1-HYDROXYETHYL-4,5-DIAMINO-PYRAZOLE SULFATE",
     "限制項目": "02輸　入",
     "申請商名稱": "0714402100  沈默是金開發企業有限公司",
-    "申請商地址": "新北市五股區四維路86號9樓",
+    "申請商地址": "新北市三重區中正北路395號",
     "主製造廠": [
         {
             "製造廠名稱": "CES0016100  ERAYBA COSMETICS, S.A.",
-            "製造廠廠址": "SERRA DEL MONTSECH, 44-46, 08950 ESPLUGUES DE LLOBREGAT (BARCELONA), SPAIN",
+            "製造廠廠址": "Narcis Monturiol, 8 08635 Sant Esteve Sesrovires (Barcelona) - SPAIN。",
             "製造廠公司地址": "",
             "製造廠國別": "SPAIN",
             "製程": ""
@@ -54,15 +56,23 @@
             "成分代碼": "8428000500",
             "成分名稱": "RESORCINOL (RESORCIN)",
             "含量描述": "",
-            "含量": "0.4000000000",
+            "含量": "0.3000000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9400003270",
-            "成分名稱": "2-NITRO-P-PHENYLENEDIAMINE",
+            "成分代碼": "9200002632",
+            "成分名稱": "4-AMINO-M-CRESOL",
             "含量描述": "",
-            "含量": "0.3000000000",
+            "含量": "0.2000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200035470",
+            "成分名稱": "m-Aminophenol",
+            "含量描述": "",
+            "含量": "0.0400000000",
             "單位": "%(W\/W)"
         },
         {
@@ -70,7 +80,31 @@
             "成分代碼": "9900066200",
             "成分名稱": "TOLUENE-2,5-DIAMINE SULFATE",
             "含量描述": "",
-            "含量": "0.3500000000",
+            "含量": "0.9000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900084700",
+            "成分名稱": "2-METHYL-5-HYDROXYETHYLAMINOPHENOL",
+            "含量描述": "",
+            "含量": "0.2500000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900084900",
+            "成分名稱": "2-AMINO-6-CHLORO-4-NITROPHENOL",
+            "含量描述": "",
+            "含量": "0.2000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900097240",
+            "成分名稱": "1-HYDROXYETHYL-4,5-DIAMINO-PYRAZOLE SULFATE",
+            "含量描述": "",
+            "含量": "0.0300000000",
             "單位": "%(W\/W)"
         }
     ],
@@ -80,20 +114,8 @@
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013546&Seq=001&Type=9"
         },
         {
-            "title": "080135460004.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013546&Seq=004&Type=8"
-        },
-        {
-            "title": "080135460003.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013546&Seq=003&Type=8"
-        },
-        {
-            "title": "080135460002.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013546&Seq=002&Type=8"
-        },
-        {
-            "title": "080135460001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013546&Seq=001&Type=8"
+            "title": "08013546-111-07-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08013546&Seq=005&Type=8"
         }
     ]
 }

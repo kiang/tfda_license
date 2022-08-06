@@ -1,12 +1,12 @@
 {
     "code": "56026567",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026567",
-    "time": "2021-10-29 07:55:42",
+    "time": "2022-08-05 09:20:57",
     "許可證字號": "衛部醫器輸字第026567號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可登錄編號": "QSD5668",
+    "製造許可登錄編號": "QSD13103",
     "有效日期": "113\/09\/18",
     "發證日期": "103\/09\/18",
     "許可證種類": "醫　器",
@@ -18,7 +18,7 @@
     "中文品名": "“醫科達” 醫用帶電粒子放射治療系統軟體",
     "英文品名": "“ELEKTA” Medical Charged-particle Radiation Therapy System Software",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "Monaco Version 5.00.XX、XiO Version 4.80.XX，以下空白。變更規格：詳如中文仿單核定本。原103年10月8日標籤仿單核定本回收作廢。規格變更，核定事項詳如中文仿單核定本(原105年10月4日核准之中文仿單核定本予以回收作廢)。\r\n註銷規格:Xio version 4.80.xx。",
+    "醫器規格": "Monaco Version 5.00.XX、XiO Version 4.80.XX，以下空白。變更規格：詳如中文仿單核定本。原103年10月8日標籤仿單核定本回收作廢。規格變更，核定事項詳如中文仿單核定本(原105年10月4日核准之中文仿單核定本予以回收作廢)。\r\n註銷規格:Xio version 4.80.xx。\r\n規格變更：詳如核定之中文說明書(原106年2月7日核定之標籤、說明書或包裝予以收回作廢)。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -39,7 +39,19 @@
     "申請商地址": "臺北市內湖區行愛路88號5樓",
     "主製造廠": [
         {
-            "": "UNITED STATES",
+            "製造廠名稱": "MSE2452000  Elekta Solutions AB",
+            "製造廠廠址": "Kungstensgatan 18, SE-103 93 Stockholm, Sweden",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWEDEN",
+            "製程": "總公司"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS6006000  Elekta Inc",
+            "製造廠廠址": "1450 Beale Street, Suite 205 Saint Charles, MO 63303, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
             "製程": ""
         }
     ],
@@ -47,12 +59,8 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "560265670001-107-04-23.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026567&Seq=005&Type=9"
-        },
-        {
-            "title": "560265670002-107-04-23.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026567&Seq=004&Type=8"
+            "title": "560265670001-111-07-04.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026567&Seq=006&Type=9"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "52027512",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52027512",
-    "time": "2020-02-26 06:35:54",
+    "time": "2022-08-05 07:02:11",
     "許可證字號": "衛部藥輸字第027512號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,10 +12,12 @@
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05202751208",
     "中文品名": "癌必定膜衣錠 40毫克",
     "英文品名": "CABOMETYX film-coated tablet 40mg",
-    "適應症": "(1) 未曾接受過治療的中度\/重度風險晚期腎細胞癌病人。\r\n(2) 先前經抗血管新生療法(anti-angiogenic therapy)的晚期腎細胞癌病人。\r\n(3) 曾接受過sorafenib 治療之肝細胞癌病人。",
+    "適應症": "1. 腎細胞癌：單一療法適用於：\r\n(1) 未曾接受治療的中度\/重度風險晚期腎細胞癌病人。\r\n(2) 先前經抗血管新生療法治療 (anti-angiogenic therapy) 的晚期腎細胞癌病人。\r\n本品與nivolumab合併療法適用於未曾接受治療的晚期腎細胞癌病人。\r\n2. 肝細胞癌：適用於曾接受sorafenib治療之肝細胞癌病人。\r\n3. 分化型甲狀腺癌：適用於治療成人及12歲以上孩童曾接受VEGFR標靶治療後惡化、放射碘治療無效或不適用放射碘治療的局部晚期或轉移性分化型甲狀腺癌病人。",
     "劑型": "116膜衣錠",
     "包裝": "每瓶30錠塑膠瓶裝(HDPE)",
     "儲存溫度": "",
@@ -46,6 +48,13 @@
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
             "製程": "二級包裝廠(委託貼標及置入仿單)"
+        },
+        {
+            "製造廠名稱": "FFR0271000  IPSEN PHARMA",
+            "製造廠廠址": "65 QUAI GEORGES GORSE, 92100 BOULOGNE-BILLANCOURT, FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": "許可證持有者"
         }
     ],
     "CCC號列": "",
@@ -78,28 +87,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "Leflet_Cabo 20 40 60_20190705_F-108-07-29(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027512&Seq=003&Type=9"
+            "title": "02. Cabometyx_DTC &safety update_Final ver_CH_clean-111-06-30.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027512&Seq=005&Type=9"
         },
         {
-            "title": "癌必定_中文仿單_20190627_核准仿單-108-07-02.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027512&Seq=002&Type=9"
-        },
-        {
-            "title": "Cabo40_003-108-07-29(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027512&Seq=004&Type=8"
-        },
-        {
-            "title": "Cabo 40_004-108-07-29(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027512&Seq=003&Type=8"
-        },
-        {
-            "title": "40mg標籤-107-11-16.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027512&Seq=002&Type=8"
-        },
-        {
-            "title": "40mg外盒-107-11-16.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027512&Seq=001&Type=8"
+            "title": "標籤外盒_Cabometyx 40mg-110-07-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027512&Seq=005&Type=8"
         }
     ]
 }

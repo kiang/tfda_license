@@ -1,7 +1,7 @@
 {
     "code": "02004457",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02004457",
-    "time": "2021-05-28 04:56:14",
+    "time": "2022-08-05 05:11:12",
     "許可證字號": "衛署藥輸字第004457號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "null",
     "中文品名": "立舒定錠３毫克",
     "英文品名": "LEXOTAN TABLETS 3MG",
@@ -63,14 +65,26 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "FOIL_LEXOTAN_TW_3_MG_90003369_10_86067491_ok-110-08-20(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02004457&Seq=003&Type=10"
+        },
+        {
             "title": "Lexotan 3mg_LID-104-09-30(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02004457&Seq=002&Type=10"
         }
     ],
     "仿單外盒": [
         {
+            "title": "LEAFLET_LEXOTAN_TW_90003372_11_86068170_1_clean-110-08-20(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02004457&Seq=012&Type=9"
+        },
+        {
             "title": "Lexotan_CDS8.0_Delpharm_reformat_1118-LEX-02_(150x304.5mm)_排-108-01-11(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02004457&Seq=010&Type=9"
+        },
+        {
+            "title": "CARTON_LEXOTAN_TW_3_MG_90003371_10_86067490_1-110-08-20(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02004457&Seq=011&Type=8"
         },
         {
             "title": "Lexotan 3mg_004457-1-CTN-04_轉文字外框檔-108-01-11(廠商自行上傳).pdf",

@@ -1,7 +1,7 @@
 {
     "code": "06010134",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010134",
-    "time": "2021-04-30 05:25:36",
+    "time": "2022-08-05 07:41:18",
     "許可證字號": "衛署醫器輸字第010134號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,11 +12,13 @@
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00601013400",
     "中文品名": "&quot;德爾鉻&quot; 嬰兒保溫箱",
     "英文品名": "&quot;DRAGER&quot; INCUBATOR",
     "效能": "",
-    "醫器規格": "CALEO. BABYTHERM8004,BABYTHERM8010,以下空白。",
+    "醫器規格": "CALEO. BABYTHERM8004,BABYTHERM8010,以下空白。註銷規格:CALEO，以下空白。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -38,7 +40,7 @@
     "主製造廠": [
         {
             "製造廠名稱": "MDE1181000  Dragerwerk AG &amp; Co. KGaA",
-            "製造廠廠址": "Revalstra&#223;e 1, 23560 L&#252;beck, Germany",
+            "製造廠廠址": "Revalstrase 1, 23560 Lubeck, Germany",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
             "製程": ""
@@ -47,7 +49,7 @@
     "次製造廠": [
         {
             "製造廠名稱": "MDE1723000  Dragerwerk AG &amp; Co. KGaA",
-            "製造廠廠址": "Moislinger Allee 53–55, D-23542 L&#252;beck, Germany",
+            "製造廠廠址": "Moislinger Allee 53–55, D-23542 Lubeck, Germany",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
             "製程": "總公司"
@@ -57,8 +59,16 @@
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "060101340001(111.07.14)-111-07-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010134&Seq=002&Type=9"
+        },
+        {
             "title": "License 010134 - Caleo_Babytherm8004_8010 (中文仿單)-106-07-18.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010134&Seq=001&Type=9"
+        },
+        {
+            "title": "060101340001(111.07.14)-111-07-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010134&Seq=001&Type=8"
         }
     ]
 }

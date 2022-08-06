@@ -1,22 +1,24 @@
 {
     "code": "56031250",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031250",
-    "time": "2020-03-27 05:28:09",
+    "time": "2022-08-05 09:57:27",
     "許可證字號": "衛部醫器輸字第031250號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可登錄編號": "QSD10723",
+    "製造許可登錄編號": "QSD13218",
     "有效日期": "112\/08\/16",
     "發證日期": "107\/08\/16",
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第三等級",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05603125002",
     "中文品名": "卡帝凱斯感應式電燒導管",
     "英文品名": "TactiCath Sensor Enabled contact force ablation catheter",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "詳如中文仿單核定本",
+    "醫器規格": "詳如中文仿單核定本\r\n規格變更:詳如核定之中文說明書（原107年9月12日核定之標籤、說明書或包裝收回作廢）。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -37,11 +39,11 @@
     "申請商地址": "台北市內湖區瑞光路407號5樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MCR0018000  St. Jude Medical Costa Rica Ltda.",
-            "製造廠廠址": "Edificio#44 Calle 0, Ave. 2 Zona Franca Coyol El Coyol, Alajuela, Costa Rica",
+            "製造廠名稱": "MCR0048000  Abbott Medical Costa Rica Ltda.",
+            "製造廠廠址": "Edificio #44 Calle 0, Ave. 2, Zona Franca Coyol El Coyol, Alajuela, Costa Rica",
             "製造廠公司地址": "",
             "製造廠國別": "COSTA RICA",
-            "製程": "受託製造廠"
+            "製程": "Manufactured by"
         }
     ],
     "次製造廠": [
@@ -57,8 +59,16 @@
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "560312500001-111-07-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56031250&Seq=002&Type=9"
+        },
+        {
             "title": "560312500001-107-09-12.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56031250&Seq=001&Type=9"
+        },
+        {
+            "title": "560312500001-111-07-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56031250&Seq=002&Type=8"
         },
         {
             "title": "560312500002-107-09-12.pdf",

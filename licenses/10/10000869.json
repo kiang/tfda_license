@@ -1,7 +1,7 @@
 {
     "code": "10000869",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000869",
-    "time": "2021-10-29 07:29:22",
+    "time": "2022-08-05 06:10:24",
     "許可證字號": "衛署菌疫輸字第000869號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,11 +34,17 @@
     "申請商地址": "台北市信義區松仁路100號40樓、40樓之1、41樓之1",
     "主製造廠": [
         {
-            "": "SWITZERLAND",
+            "製造廠名稱": "FCH0257000  F. HOFFMANN-LA ROCHE LTD.",
+            "製造廠廠址": "WURMISWEG, CH-4303 KAISERAUGST, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
             "製程": ""
         },
         {
-            "": "GERMANY",
+            "製造廠名稱": "FDE0261000  ROCHE DIAGNOSTICS GMBH",
+            "製造廠廠址": "SANDHOFER STRASSE 116 D-68305 MANNHEIM GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
             "製程": ""
         }
     ],
@@ -80,6 +86,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "Mircera_0222-MIR-01-111-04-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000869&Seq=023&Type=9"
+        },
         {
             "title": "5. Proposed Chinese PI_(594x420mm)-1020-MIR-01-110-08-17.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000869&Seq=022&Type=9"

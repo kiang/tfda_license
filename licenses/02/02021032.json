@@ -1,7 +1,7 @@
 {
     "code": "02021032",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02021032",
-    "time": "2020-05-29 05:05:40",
+    "time": "2022-08-05 05:21:25",
     "許可證字號": "衛署藥輸字第021032號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "02018780",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00202103200",
     "中文品名": "樂拿舒注射劑 10,000 K.U.",
     "英文品名": "LEUNASE INJECTION (10,000 K.U.)",
@@ -72,6 +74,10 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "[藥物外觀圖檔] Leunase 10000_2020MAR-109-08-07(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021032&Seq=004&Type=10"
+        },
+        {
             "title": "[藥物外觀圖檔] Leunase 10000_2020MAR-109-05-25(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021032&Seq=003&Type=10"
         },
@@ -82,12 +88,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "[Package Insert] Leunase_202004 V5-109-08-07(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021032&Seq=005&Type=9"
+        },
+        {
             "title": "[Package Insert] Leunase_201912 V4-109-05-25(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021032&Seq=004&Type=9"
         },
         {
             "title": "[Package Insert] Leunase_201802 V3-107-07-06(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021032&Seq=003&Type=9"
+        },
+        {
+            "title": "[外盒圖檔] Leunase 10000_2020JUL-109-08-07(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02021032&Seq=006&Type=8"
         },
         {
             "title": "[外盒圖檔] Leunase 10000_2020MAR-109-05-25(廠商自行上傳).pdf",

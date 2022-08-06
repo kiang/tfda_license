@@ -1,7 +1,7 @@
 {
     "code": "01020620",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01020620",
-    "time": "2020-02-25 02:58:35",
+    "time": "2022-08-05 03:08:18",
     "許可證字號": "衛署藥製字第020620號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00102062005",
     "中文品名": "&quot;明德&quot; 膚妥軟膏",
     "英文品名": "FU-TUOO OINTMENT &quot;MEIDER&quot;",
@@ -121,20 +123,24 @@
         {
             "title": "6003膚妥玫瑰外觀20151221-104-12-21(廠商自行上傳).PDF",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020620&Seq=002&Type=10"
+        },
+        {
+            "title": "6003膚妥原味外觀20151221-104-12-21(廠商自行上傳).PDF",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020620&Seq=001&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "6003膚妥軟膏玫瑰仿單20160623-106-03-15.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020620&Seq=008&Type=9"
+            "title": "衛署藥製字第020620號-111-07-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020620&Seq=011&Type=9"
         },
         {
-            "title": "6003膚妥軟膏仿單20160623-106-03-15.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020620&Seq=007&Type=9"
+            "title": "6003膚妥軟膏玫瑰仿單20220606-111-07-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020620&Seq=010&Type=9"
         },
         {
-            "title": "6003膚妥軟膏玫瑰仿單20151120-104-12-21(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020620&Seq=006&Type=9"
+            "title": "6003膚妥軟膏仿單20220606-111-07-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020620&Seq=009&Type=9"
         },
         {
             "title": "膚妥軟膏玫瑰50g標籤-106-03-15.pdf",
@@ -159,10 +165,6 @@
         {
             "title": "6003膚妥玫瑰鋁管20161114-106-03-15.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020620&Seq=009&Type=8"
-        },
-        {
-            "title": "6003膚妥玫瑰外盒20151221-104-12-21(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020620&Seq=008&Type=8"
         }
     ]
 }
