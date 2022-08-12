@@ -1,7 +1,7 @@
 {
     "code": "01027641",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01027641",
-    "time": "2022-08-05 03:17:08",
+    "time": "2022-08-12 03:05:07",
     "許可證字號": "衛署藥製字第027641號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -43,7 +43,20 @@
     ],
     "CCC號列": "29333990905 其他結構中含有一未稠合之?啶環（不論是否氫化）之化合物Other compounds containing an unfused pyridine ring (whether or not hydrogenated) in the structure",
     "藥理治療分類": "",
-    "ingredients": [],
-    "藥物辨識詳細資料": [],
-    "藥物辨識外觀圖片": []
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "1220001810",
+            "成分名稱": "TOLPERISONE HCL",
+            "含量描述": "98+",
+            "含量": "",
+            "單位": "%"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "01-027641標籤-103-09-04.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027641&Seq=001&Type=8"
+        }
+    ]
 }

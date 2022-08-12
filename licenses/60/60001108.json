@@ -1,7 +1,7 @@
 {
     "code": "60001108",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60001108",
-    "time": "2022-08-05 22:16:02",
+    "time": "2022-08-12 06:35:12",
     "許可證字號": "衛部菌疫輸字第001108號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,27 +34,27 @@
     "申請商地址": "臺北市信義區信義路５段7號27樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FIN0100300  BIOCON LIMITED.",
-            "製造廠廠址": "SPECIAL ECONOMIC ZONE, PLOT NO. 2, 3, 4 &amp; 5, PHASE IV, BOMMASANDRA-JIGANI LINK ROAD, BANGALORE -560-099, KARNATAKA, INDIA",
+            "製造廠名稱": "FIN1121000  BIOCON BIOLOGICS INDIA LIMITED",
+            "製造廠廠址": "BLOCK NO. B1, B2, Q13 OF Q1, AND W20 &amp; UNIT S18, IST FLOOR, BLOCK B4, SPECIAL ECONOMIC ZONE, PLOT NO. 2, 3, 4 &amp; 5, PHASE IV, BOMMASANDRA-JIGANI LINK ROAD, BOMMASANDRA POST, BENGALURU- 560099, INDIA",
             "製造廠公司地址": "",
             "製造廠國別": "INDIA",
-            "製程": ""
+            "製程": "原料藥及成品製造廠"
         }
     ],
     "次製造廠": [
-        {
-            "製造廠名稱": "FIN0624000  BIOCON LIMITED",
-            "製造廠廠址": "20TH KM HOSUR ROAD ELECTRONICS CITY BANGLORE 560 100 INDIA",
-            "製造廠公司地址": "",
-            "製造廠國別": "INDIA",
-            "製程": "原料藥製造廠"
-        },
         {
             "製造廠名稱": "FIN1055000  MYLAN PHARMACEUTICALS PRIVATE LIMITED",
             "製造廠廠址": "PLOT NO. 1-A\/2, MIDC INDUSTRIAL. ESTATE, TALOJA, PANVEL, RAIGAD (DISTRICT), MAHARASHTRA -410208, INDIA",
             "製造廠公司地址": "",
             "製造廠國別": "INDIA",
             "製程": "許可證持有者"
+        },
+        {
+            "製造廠名稱": "FIN1121100  BIOCON BIOLOGICS INDIA LIMITED",
+            "製造廠廠址": "BLOCK NO. M1, M2 AND M6, Q1 (QC3 AND QC10) AND W3, 20TH KM HOSUR ROAD, ELECTRONICS CITY, BENGALURU, 560100, INDIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "INDIA",
+            "製程": "原料藥製造廠"
         }
     ],
     "CCC號列": "",
