@@ -1,7 +1,7 @@
 {
     "code": "56031792",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031792",
-    "time": "2021-02-26 05:13:53",
+    "time": "2022-09-09 04:49:46",
     "許可證字號": "衛部醫器輸字第031792號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,11 +12,13 @@
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05603179209",
     "中文品名": "“亞培” 膽紅素檢驗校正液",
     "英文品名": "“Abbott” Alinity c Bilirubin Calibrator Kit",
     "效能": "用以校正Alinity c分析儀上之Alinity c膽紅素檢驗。",
-    "醫器規格": "08P6101，以下空白。",
+    "醫器規格": "08P6101。\r\n標籤、說明書或包裝變更為：詳如中文標籤、說明書或包裝核定本(原108年4月15日核定之標籤、說明書或包裝正本收回作廢)。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -46,8 +48,8 @@
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "MDE1477000  ABBOTT GmbH &amp; Co. KG",
-            "製造廠廠址": "Max-Planck-Ring 2, 65205 Wiesbaden, Germany",
+            "製造廠名稱": "MDE1712000  ABBOTT GMBH",
+            "製造廠廠址": "MAX-PLANCK-RING 2,65205 WIESBADEN,GERMANY",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
             "製程": "委託製造者"
@@ -57,8 +59,16 @@
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "56031792_111.8.2_說明書-111-08-31.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56031792&Seq=002&Type=9"
+        },
+        {
             "title": "560317920001-108-04-17.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56031792&Seq=001&Type=9"
+        },
+        {
+            "title": "56031792_111.8.2_外盒-111-08-31.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56031792&Seq=002&Type=8"
         },
         {
             "title": "560317920002-108-04-17.pdf",

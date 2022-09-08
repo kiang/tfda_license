@@ -1,24 +1,24 @@
 {
     "code": "06013329",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06013329",
-    "time": "2021-12-24 06:13:46",
+    "time": "2022-09-09 04:20:20",
     "許可證字號": "衛署醫器輸字第013329號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "QSD2032",
     "有效日期": "114\/10\/27",
-    "發證\/登錄日期": "94\/10\/27",
+    "發證日期": "94\/10\/27",
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
-    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材原登錄字號": "",
     "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00601332904",
     "中文品名": "生研類風濕關節炎試劑",
     "英文品名": "RF-LATEX X1 &quot;SEIKEN&quot;",
     "效能": "測定血清中，類風濕性因子(Rheumatoid factor)的濃度。",
-    "醫器規格": "Reagent：A:50ml×1, B:17ml×1;A:60ml×1, B:20ml×1;A:30ml×1, B:10ml×1;A:200ml×1, B:75ml×1；\r\nCalibrator 1mlx4：含20,40,80,120IU\/mL各1mL；\r\nCalibrator 1mlx5：含10,20,40,80,120IU\/mL各1mL。",
+    "醫器規格": "Reagent：A:50ml×1, B:17ml×1;A:60ml×1, B:20ml×1;A:30ml×1, B:10ml×1;A:200ml×1, B:75ml×1；\r\nCalibrator 1mlx4：含20,40,80,120IU\/mL各1mL；\r\nCalibrator 1mlx5：含10,20,40,80,120IU\/mL各1mL。\r\n註銷規格：A:30ml×1, B:10ml×1。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -39,7 +39,10 @@
     "申請商地址": "臺北市內湖區民權東路六段160號5樓之4",
     "主製造廠": [
         {
-            "": "JAPAN",
+            "製造廠名稱": "MJP1631000  DENKA CO., LTD. KAGAMIDA FACTORY",
+            "製造廠廠址": "1359-1 KAGAMIDA, KIGOSHI, GOSEN-SHI, NIIGATA, 959-1695 JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
             "製程": ""
         }
     ],
@@ -47,36 +50,12 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060133290006.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013329&Seq=006&Type=9"
+            "title": "111.8.16_06 013329_說明書-111-08-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013329&Seq=007&Type=9"
         },
         {
-            "title": "060133290005.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013329&Seq=005&Type=9"
-        },
-        {
-            "title": "060133290004.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013329&Seq=004&Type=9"
-        },
-        {
-            "title": "060133290003.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013329&Seq=003&Type=9"
-        },
-        {
-            "title": "060133290002.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013329&Seq=002&Type=9"
-        },
-        {
-            "title": "060133290001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013329&Seq=001&Type=9"
-        },
-        {
-            "title": "060133290002.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013329&Seq=002&Type=8"
-        },
-        {
-            "title": "060133290001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013329&Seq=001&Type=8"
+            "title": "111.8.16_06 013329_外盒-111-08-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06013329&Seq=003&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "20000026",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=20000026",
-    "time": "2020-09-25 10:29:12",
+    "time": "2022-09-09 04:04:16",
     "許可證字號": "衛署罕藥輸字第000026號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA02000002600",
     "中文品名": "止蹈錠25毫克",
     "英文品名": "Xenazine 25mg",
@@ -27,12 +29,12 @@
     "藥品分類": "",
     "監視期限": "107\/02\/05",
     "主成分略述": "Tetrabenazine",
-    "限制項目": "02輸　入 1D須執行風險管理計畫 1EPhase IV Study",
+    "限制項目": "02輸　入 1D須執行風險管理計畫 1E須執行Phase IV Study",
     "申請商名稱": "620102W395  吉泰藥品股份有限公司",
     "申請商地址": "台北市大安區敦化南路2段128號15樓之6",
     "主製造廠": [
         {
-            "製造廠名稱": "FFR0041100  RECIPHARM FONTAINE SAS",
+            "製造廠名稱": "FFR0041100  Astrea Fontaine",
             "製造廠廠址": "RUE DES PRES POTETS, 21121 FONTAINE-LES-DIJON, FRANCE",
             "製造廠公司地址": "28, BOULEVARD CLEMECEAU, 21000 DIJON, FRANCE",
             "製造廠國別": "FRANCE",
@@ -77,6 +79,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "(廠商自行變更)Xenazine-111-08-25(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000026&Seq=007&Type=9"
+        },
         {
             "title": "PI-Xenazine仿單-109-07-02.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=20000026&Seq=005&Type=9"

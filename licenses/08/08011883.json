@@ -1,22 +1,22 @@
 {
     "code": "08011883",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08011883",
-    "time": "2022-03-25 06:36:38",
+    "time": "2022-09-09 05:03:31",
     "許可證字號": "衛署粧輸字第011883號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "113\/06\/30",
-    "發證\/登錄日期": "94\/01\/26",
+    "發證日期": "94\/01\/26",
     "許可證種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
-    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材原登錄字號": "",
     "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00801188300",
-    "中文品名": "純色永久染膏-LIGHT YELLOW GREEN Y\/G (淡黃綠色)、DARK GREEN YELLOW G\/Y (深綠黃色)",
-    "英文品名": "FULL SPECTRUM DEEP EXTRA LIFT AND DEPOSIT CREME COLOR FOR DARK HAIR-LIGHT YELLOW GREEN Y\/G",
+    "中文品名": "純色永久染膏 - Light Yellow Green Y\/G (淡黃綠色)、Dark Green Yellow G\/Y (深綠黃色)。",
+    "英文品名": "Full Spectrum Deep Extra Lift And Deposit Pure Tone For Dark Hair - Light Yellow\/Green、Dark Green\/Yellow。",
     "用途": "染髮用。",
     "劑型": "944乳劑",
     "包裝": "500公克以下管裝 附外紙盒裝",
@@ -28,13 +28,16 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "AMMONIA WATER (AMMONIUM HYDROXIDE), RESORCINOL (RESORCIN), AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL), TOLUENE-2,5-DIAMINE SULFATE",
+    "主成分略述": "AMMONIA WATER (AMMONIUM HYDROXIDE), RESORCINOL (RESORCIN), P-AMINOPHENOL, TOLUENE-2,5-DIAMINE SULFATE",
     "限制項目": "02輸　入",
     "申請商名稱": "0930501100  美商雅詩蘭黛股份有限公司台灣分公司",
     "申請商地址": "台北市信義區松高路9號19樓",
     "主製造廠": [
         {
-            "": "UNITED STATES",
+            "製造廠名稱": "CUS0134000  AVEDA CORPORATION",
+            "製造廠廠址": "4000 PHEASANT RIDGE DR. MINNEAPOLIS MN 55449-7106 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
             "製程": ""
         }
     ],
@@ -44,8 +47,8 @@
             "成分類別": "主成分",
             "成分代碼": "2820000102",
             "成分名稱": "AMMONIA WATER (AMMONIUM HYDROXIDE)",
-            "含量描述": "(29%)",
-            "含量": "16.0000000000",
+            "含量描述": "",
+            "含量": "4.6400000000",
             "單位": "%(W\/W)"
         },
         {
@@ -58,8 +61,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035401",
-            "成分名稱": "AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL)",
+            "成分代碼": "9200035440",
+            "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
             "含量": "2.8600000000",
             "單位": "%(W\/W)"
@@ -76,8 +79,8 @@
             "成分類別": "主成分",
             "成分代碼": "2820000102",
             "成分名稱": "AMMONIA WATER (AMMONIUM HYDROXIDE)",
-            "含量描述": "(29%)",
-            "含量": "14.0000000000",
+            "含量描述": "",
+            "含量": "4.0600000000",
             "單位": "%(W\/W)"
         },
         {
@@ -90,10 +93,10 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "9200035401",
-            "成分名稱": "AMINOPHENOL PARA- (EQ TO P-AMINOPHENOL)",
+            "成分代碼": "9200035440",
+            "成分名稱": "P-AMINOPHENOL",
             "含量描述": "",
-            "含量": "1.2900000000",
+            "含量": "4.2900000000",
             "單位": "%(W\/W)"
         },
         {
@@ -107,24 +110,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "080118830004.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011883&Seq=004&Type=9"
-        },
-        {
-            "title": "080118830003.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011883&Seq=003&Type=9"
-        },
-        {
-            "title": "080118830002.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011883&Seq=002&Type=9"
-        },
-        {
-            "title": "080118830001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011883&Seq=001&Type=9"
-        },
-        {
-            "title": "08011883-107-10-19.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011883&Seq=001&Type=8"
+            "title": "08011883-111-08-10.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011883&Seq=002&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "01035515",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01035515",
-    "time": "2020-02-25 06:01:23",
+    "time": "2022-09-09 05:24:35",
     "許可證字號": "衛署藥製字第035515號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00103551500",
     "中文品名": "&quot;世達&quot;脈利膜衣錠9.6毫克(銀杏葉類黃酮配醣體)",
     "英文品名": "MYLIN F.C. TABLETS 9.6MG (GINKGOFLAVON GLYCOSIDE) &quot;S.D.&quot;",
@@ -69,12 +71,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "T084_脈利仿單-109-06-12(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035515&Seq=007&Type=9"
+        },
+        {
             "title": "脈利膜衣錠仿單-107-08-08.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035515&Seq=006&Type=9"
         },
         {
-            "title": "T084脈利膜衣錠-104-12-16(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035515&Seq=005&Type=9"
+            "title": "T084_脈利標籤-109-06-12(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035515&Seq=011&Type=8"
+        },
+        {
+            "title": "T084_脈利支盒-109-06-12(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035515&Seq=010&Type=8"
         },
         {
             "title": "脈利膜衣錠標籤-107-08-08.pdf",
@@ -83,10 +93,6 @@
         {
             "title": "脈利膜衣錠支盒-107-08-08.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035515&Seq=008&Type=8"
-        },
-        {
-            "title": "脈利600s-105-09-01(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01035515&Seq=007&Type=8"
         }
     ]
 }

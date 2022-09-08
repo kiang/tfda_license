@@ -1,7 +1,7 @@
 {
     "code": "56027185",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027185",
-    "time": "2021-10-29 07:56:14",
+    "time": "2022-09-09 04:40:22",
     "許可證字號": "衛部醫器輸字第027185號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,7 +18,7 @@
     "中文品名": "“生研” 補體4檢驗試劑",
     "英文品名": "C4-TIA NX “SEIKEN”",
     "效能": "測定人體血清或血漿中，補體4(C4)的濃度。",
-    "醫器規格": "635143、635150。",
+    "醫器規格": "635143、635150。\r\n註銷規格：635150。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -39,7 +39,10 @@
     "申請商地址": "臺北市內湖區民權東路六段160號5樓之4",
     "主製造廠": [
         {
-            "": "JAPAN",
+            "製造廠名稱": "MJP1631000  DENKA CO., LTD. KAGAMIDA FACTORY",
+            "製造廠廠址": "1359-1 KAGAMIDA, KIGOSHI, GOSEN-SHI, NIIGATA, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
             "製程": ""
         }
     ],
@@ -47,12 +50,12 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "560271850001-104-06-11.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027185&Seq=001&Type=9"
+            "title": "111.8.16_56027185_說明書-111-08-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027185&Seq=002&Type=9"
         },
         {
-            "title": "560271850002-104-06-11.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027185&Seq=001&Type=8"
+            "title": "111.8.16_56027185_外盒-111-08-17.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027185&Seq=002&Type=8"
         }
     ]
 }

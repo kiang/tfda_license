@@ -1,7 +1,7 @@
 {
     "code": "06023120",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023120",
-    "time": "2021-10-29 07:48:19",
+    "time": "2022-09-09 04:27:11",
     "許可證字號": "衛署醫器輸字第023120號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -16,9 +16,9 @@
     "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00602312000",
     "中文品名": "“柯惠”波麗收合成可吸收性縫合線(附針\/不附針)",
-    "英文品名": "“Covidien” Syneture Polysorb Absorbable Coated Braided Lactomer 9-1 Synthetic Suture(with\/without needle)",
+    "英文品名": "“Covidien” Polysorb Absorbable Braided Suture(with\/without needle)",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "詳如中文仿單核定本。註銷規格：詳如中文仿單核定本，以下空白。註銷規格：CLT-31-MG，以下空白。",
+    "醫器規格": "詳如中文仿單核定本。註銷規格：詳如中文仿單核定本，以下空白。註銷規格：CLT-31-MG，以下空白。標籤、說明書或包裝變更、註銷規格及規格變更：詳如核定之中文說明書（原100.12.28核准之標籤、說明書或包裝正本予以回收作廢）。以下空白。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -34,13 +34,16 @@
     "藥品分類": "",
     "監視期限": "",
     "主成分略述": "",
-    "限制項目": "02輸　入 09委託製造",
+    "限制項目": "02輸　入",
     "申請商名稱": "1439301100  美敦力醫療產品股份有限公司",
     "申請商地址": "台北市松山區敦化南路一段2號2樓",
     "主製造廠": [
         {
-            "": "DOMINICAN REPUBLIC",
-            "製程": "Manufactured by"
+            "製造廠名稱": "MDO0009000  Covidien",
+            "製造廠廠址": "ZONA FRANCA DE SAN ISIDRO, CARRETERA SAN ISIDRO KM 17, SANTO DOMINGO, DOMINICAN REPUBLIC",
+            "製造廠公司地址": "",
+            "製造廠國別": "DOMINICAN REPUBLIC",
+            "製程": ""
         }
     ],
     "次製造廠": [
@@ -49,7 +52,7 @@
             "製造廠廠址": "15 HAMPSHIRE STREET MANSFIELD, MA 02048 USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
-            "製程": "委託製造者"
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",
