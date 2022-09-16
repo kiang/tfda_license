@@ -1,7 +1,7 @@
 {
     "code": "51058181",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51058181",
-    "time": "2022-09-09 04:05:04",
+    "time": "2022-09-16 04:07:50",
     "許可證字號": "衛部藥製字第058181號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -43,7 +43,48 @@
     ],
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [],
-    "藥物辨識詳細資料": [],
-    "藥物辨識外觀圖片": []
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2816402110",
+            "成分名稱": "DULOXETINE HYDROCHLORIDE",
+            "含量描述": "(eq. to Duloxetine 30mg)",
+            "含量": "33.7000000000",
+            "單位": "MG"
+        }
+    ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "17.45*6.2*6.2",
+        "特殊劑型": "",
+        "顏色": "藍色蓋白色身硬質膠囊",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "橢圓形",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "[外觀]058181樂心平膠囊(30毫克)-104-12-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058181&Seq=001&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "058181 060285 台裕樂心平膠囊30 60毫克仿單_合併B版_20220802-111-08-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058181&Seq=007&Type=9"
+        },
+        {
+            "title": "51058181外盒鋁箔-107-06-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058181&Seq=005&Type=8"
+        },
+        {
+            "title": "台裕樂心平膠囊30毫克標籤外盒-107-06-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058181&Seq=004&Type=8"
+        },
+        {
+            "title": "[外盒]058181樂心平膠囊(30毫克)-104-12-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51058181&Seq=003&Type=8"
+        }
+    ]
 }

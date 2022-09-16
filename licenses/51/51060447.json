@@ -1,7 +1,7 @@
 {
     "code": "51060447",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51060447",
-    "time": "2022-09-09 04:10:53",
+    "time": "2022-09-16 04:11:45",
     "許可證字號": "衛部藥製字第060447號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -43,7 +43,44 @@
     ],
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [],
-    "藥物辨識詳細資料": [],
-    "藥物辨識外觀圖片": []
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "0812800610",
+            "成分名稱": "MINOCYCLINE HCL",
+            "含量描述": "(Equivalent to Minocycline.....100mg)(potency)",
+            "含量": "108.0000000000",
+            "單位": "MG"
+        }
+    ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "",
+        "特殊氣味": "",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Minocycline HCl之外觀-109-04-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51060447&Seq=001&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "010604470001_仿單-109-04-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51060447&Seq=001&Type=9"
+        },
+        {
+            "title": "010604470003_外盒-109-04-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51060447&Seq=002&Type=8"
+        },
+        {
+            "title": "010604470002_標籤-109-04-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51060447&Seq=001&Type=8"
+        }
+    ]
 }

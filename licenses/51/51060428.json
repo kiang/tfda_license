@@ -1,7 +1,7 @@
 {
     "code": "51060428",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51060428",
-    "time": "2022-09-09 04:10:47",
+    "time": "2022-09-16 04:11:44",
     "許可證字號": "衛部藥製字第060428號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -43,7 +43,48 @@
     ],
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [],
-    "藥物辨識詳細資料": [],
-    "藥物辨識外觀圖片": []
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8406001200",
+            "成分名稱": "FLUOROMETHOLONE",
+            "含量描述": "",
+            "含量": "0.2000000000",
+            "單位": "MG"
+        }
+    ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "不透明白色懸濁液",
+        "特殊劑型": "",
+        "顏色": "白色",
+        "特殊氣味": "無",
+        "刻痕": "無",
+        "形狀": "",
+        "標記一": "無",
+        "標記二": "無"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "如視點眼液0.02％-藥物外觀-060428-109-06-17(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51060428&Seq=002&Type=10"
+        },
+        {
+            "title": "杏輝如視點眼液0.02%-藥物外觀電子圖像檔案 (PDF)-109-02-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51060428&Seq=001&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "570604280001-109-02-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51060428&Seq=001&Type=9"
+        },
+        {
+            "title": "570604280002-109-02-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51060428&Seq=002&Type=8"
+        },
+        {
+            "title": "570604280001-109-02-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51060428&Seq=001&Type=8"
+        }
+    ]
 }

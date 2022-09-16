@@ -1,7 +1,7 @@
 {
     "code": "51059836",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51059836",
-    "time": "2022-09-09 04:09:05",
+    "time": "2022-09-16 04:10:05",
     "許可證字號": "衛部藥製字第059836號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -43,7 +43,24 @@
     ],
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2408005100",
+            "成分名稱": "VALSARTAN",
+            "含量描述": "",
+            "含量": "160.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2412402210",
+            "成分名稱": "AMLODIPINE BESYLATE",
+            "含量描述": "(equivalent to Amlodipine.....5mg)",
+            "含量": "6.9400000000",
+            "單位": "MG"
+        }
+    ],
     "藥物辨識詳細資料": {
         "外觀尺寸": "",
         "特殊劑型": "",
@@ -58,6 +75,56 @@
         {
             "title": "Asartan F.C. Tablets 5mg and 160mg 藥品外觀-107-03-05.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059836&Seq=001&Type=10"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "0100598360001-110-03-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059836&Seq=003&Type=9"
+        },
+        {
+            "title": "壓立平膜衣錠5_160毫克仿單-107-10-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059836&Seq=002&Type=9"
+        },
+        {
+            "title": "Asartan 得平壓 LT-107-03-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059836&Seq=001&Type=9"
+        },
+        {
+            "title": "0100598360003-110-03-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059836&Seq=009&Type=8"
+        },
+        {
+            "title": "0100598360002-110-03-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059836&Seq=008&Type=8"
+        },
+        {
+            "title": "0100598360001-110-03-09.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059836&Seq=007&Type=8"
+        },
+        {
+            "title": "壓立平膜衣錠5_160毫克_鋁箔-107-10-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059836&Seq=006&Type=8"
+        },
+        {
+            "title": "壓立平膜衣錠5_160毫克_標籤-107-10-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059836&Seq=005&Type=8"
+        },
+        {
+            "title": "壓立平膜衣錠5_160毫克_外盒-107-10-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059836&Seq=004&Type=8"
+        },
+        {
+            "title": "Asartan 得平壓 LB-107-03-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059836&Seq=003&Type=8"
+        },
+        {
+            "title": "Asartan 得平壓 Box-107-03-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059836&Seq=002&Type=8"
+        },
+        {
+            "title": "Asartan PTP-107-03-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51059836&Seq=001&Type=8"
         }
     ]
 }

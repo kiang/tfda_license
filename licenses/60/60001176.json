@@ -1,7 +1,7 @@
 {
     "code": "60001176",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60001176",
-    "time": "2022-09-09 04:15:11",
+    "time": "2022-09-16 04:21:54",
     "許可證字號": "衛部菌疫輸字第001176號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -43,7 +43,24 @@
     ],
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [],
-    "藥物辨識詳細資料": [],
-    "藥物辨識外觀圖片": []
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "1000000500",
+            "成分名稱": "Tisagenlecleucel (CTL019 cells)",
+            "含量描述": "1.2 x 10^6 to 2.5 x 10^8 CAR-positive viable T cells",
+            "含量": "0.0000000000",
+            "單位": "Q.S."
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "Kymriah LFT_TWI-230921_P04-A4-110-10-29.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001176&Seq=001&Type=9"
+        },
+        {
+            "title": "8.標籤核定本_Kymriah LBL_TWL-240921_P02_clean-110-10-29.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001176&Seq=001&Type=8"
+        }
+    ]
 }

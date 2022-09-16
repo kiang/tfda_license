@@ -1,7 +1,7 @@
 {
     "code": "51060561",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=51060561",
-    "time": "2022-09-09 04:11:07",
+    "time": "2022-09-16 04:12:00",
     "許可證字號": "衛部藥製字第060561號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -43,7 +43,32 @@
     ],
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [],
-    "藥物辨識詳細資料": [],
-    "藥物辨識外觀圖片": []
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2406003310",
+            "成分名稱": "PITAVASTATIN CALCIUM",
+            "含量描述": "",
+            "含量": "2.0000000000",
+            "單位": "MG"
+        }
+    ],
+    "仿單外盒": [
+        {
+            "title": "仿單-惠艾通膜衣錠2毫克 -109-10-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51060561&Seq=001&Type=9"
+        },
+        {
+            "title": "鋁箔-惠艾通膜衣錠2毫克 -109-10-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51060561&Seq=003&Type=8"
+        },
+        {
+            "title": "標籤-惠艾通膜衣錠2毫克-109-10-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51060561&Seq=002&Type=8"
+        },
+        {
+            "title": "外盒-惠艾通膜衣錠2毫克-109-10-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=51060561&Seq=001&Type=8"
+        }
+    ]
 }

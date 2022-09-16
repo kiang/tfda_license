@@ -1,24 +1,24 @@
 {
     "code": "05001379",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=05001379",
-    "time": "2022-02-25 06:50:43",
+    "time": "2022-09-16 04:23:20",
     "許可證字號": "衛署醫器製字第001379號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "GMP0144",
     "有效日期": "114\/06\/23",
-    "發證\/登錄日期": "94\/06\/23",
+    "發證日期": "94\/06\/23",
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
-    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材原登錄字號": "",
     "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00500137902",
     "中文品名": "&quot;康揚&quot;電動代步車",
     "英文品名": "&quot;KARMA&quot; ELECTRIC SCOOTER",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "KS-242TW,KS343TW,KS-545.2TW,KS-646TW,KS-646.2TW,KS-747TW,KS-747.2TW,KS-737.2TW,KS-848TW,以下空白增加規格：KS741。註銷規格：KS-545.2TW、KS-747TW。KS-646TW、KS-646.2TW、KS-737.2TW、KS-747.2TW標籤、說明書或包裝變更：詳如核定之中文說明書。",
+    "醫器規格": "KS-242TW,KS343TW,KS-545.2TW,KS-646TW,KS-646.2TW,KS-747TW,KS-747.2TW,KS-737.2TW,KS-848TW,以下空白增加規格：KS741。註銷規格：KS-545.2TW、KS-747TW。KS-646TW、KS-646.2TW、KS-737.2TW、KS-747.2TW標籤、說明書或包裝變更：詳如核定之中文說明書。\r\n(一)增加規格:KS-343.2(mars)。\r\n(二)型號KS-646TW\/KS-646.2TW\/\r\nKS-737.2TW\/KS-747.2TW名稱變更為KS-646\/KS-646.2\/KS-737.2\/KS-747.2。\r\n(三)型號KS-646\/KS-646.2\/KS-737.2\/\r\nKS-747.2之規格及標籤、說明書或包裝變更:詳如核定之中文說明書(原110年12月21日核定之標籤、說明書或包裝收回作廢)。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -39,13 +39,20 @@
     "申請商地址": "嘉義縣民雄鄉豐收村大學路2段2363號",
     "主製造廠": [
         {
-            "": "TAIWAN",
+            "製造廠名稱": "6140041127  康揚股份有限公司",
+            "製造廠廠址": "嘉義縣民雄鄉豐收村大學路2段2363號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
             "製程": ""
         }
     ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
+        {
+            "title": "050013790001-111-08-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001379&Seq=069&Type=9"
+        },
         {
             "title": "050013790001-6-110-12-22.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001379&Seq=068&Type=9"
@@ -61,14 +68,6 @@
         {
             "title": "050013790001-3-110-12-22.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001379&Seq=065&Type=9"
-        },
-        {
-            "title": "050013790001-2-110-12-22.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001379&Seq=064&Type=9"
-        },
-        {
-            "title": "050013790001-1-110-12-22.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001379&Seq=063&Type=9"
         },
         {
             "title": "050013790062.pdf",
@@ -235,12 +234,12 @@
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001379&Seq=001&Type=9"
         },
         {
-            "title": "050013790002-2-110-12-22.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001379&Seq=002&Type=8"
+            "title": "050013790001-111-08-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001379&Seq=003&Type=8"
         },
         {
-            "title": "050013790002-1-110-12-22.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001379&Seq=001&Type=8"
+            "title": "050013790002-2-110-12-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=05001379&Seq=002&Type=8"
         }
     ]
 }

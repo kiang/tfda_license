@@ -1,7 +1,7 @@
 {
     "code": "52027318",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52027318",
-    "time": "2020-02-26 06:34:29",
+    "time": "2022-09-16 04:15:44",
     "許可證字號": "衛部藥輸字第027318號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05202731802",
     "中文品名": "雙極穩口腔崩散錠10毫克",
     "英文品名": "Aripiprazol Kern Pharma ODT Tablets 10mg",
@@ -42,7 +44,7 @@
     "次製造廠": [
         {
             "製造廠名稱": "0920322300  皇佳化學製藥股份有限公司",
-            "製造廠廠址": "高雄市鳥松區坔埔里埔安街1號",
+            "製造廠廠址": "高雄市鳥松區?埔里埔安街1號",
             "製造廠公司地址": "高雄市鳥松區埔安街1號",
             "製造廠國別": "TAIWAN",
             "製程": "二級包裝廠"
@@ -78,8 +80,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "Aripiprazole Kern Pharma 10-Leaflet-V1.2(180203)-107-03-01.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027318&Seq=001&Type=9"
+            "title": "aripiprazol 仿單12.07_最終修訂版(核定版)-111-08-18.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027318&Seq=002&Type=9"
+        },
+        {
+            "title": "外盒-110-12-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027318&Seq=004&Type=8"
         },
         {
             "title": "小標籤 Aripiprazol 10mgV1-107-03-01.pdf",
@@ -88,10 +94,6 @@
         {
             "title": "Aripiprazole Kern Pharma 10-Blister-V1.1(180204)-curve-107-03-01.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027318&Seq=002&Type=8"
-        },
-        {
-            "title": "Aripiprazole Kern Pharma 10-Carton-V1.1(180203)-curve-107-03-01.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027318&Seq=001&Type=8"
         }
     ]
 }
