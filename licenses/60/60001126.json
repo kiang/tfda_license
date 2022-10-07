@@ -1,7 +1,7 @@
 {
     "code": "60001126",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60001126",
-    "time": "2022-08-26 08:09:18",
+    "time": "2022-10-07 04:24:13",
     "許可證字號": "衛部菌疫輸字第001126號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,7 +28,7 @@
     "管制藥品分類級別": "",
     "藥品分類": "疫苗_新成分",
     "監視期限": "114\/03\/20",
-    "主成分略述": "B\/Singapore\/INFTT-16-0610\/2016 (a B\/Phuket\/3073\/2013-like virus), B\/Darwin\/7\/2019 (a B\/Washington\/02\/2019-like virus), A\/Washington\/19\/2020 (an A\/Wisconsin\/588\/2019 (H1N1)pdm09-like virus), A\/Tasmania\/503\/2020 (an A\/Cambodia\/e0826360\/2020 (H3N2)-like virus",
+    "主成分略述": "B\/Phuket\/3073\/2013 (B\/Yamagata lineage)-like virus, B\/Austria\/1359417\/2021 (B\/Victoria lineage)-like virus, A\/Wisconsin\/588\/2019 (H1N1)pdm09-like virus, A\/Darwin\/6\/2021 (H3N2)-like virus",
     "限制項目": "02輸　入 5F免除銜接性試驗",
     "申請商名稱": "6201125122  台灣東洋藥品工業股份有限公司",
     "申請商地址": "台北市南港區園區街3之1號3樓",
@@ -62,32 +62,32 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "8012002484",
-            "成分名稱": "B\/Singapore\/INFTT-16-0610\/2016 (a B\/Phuket\/3073\/2013-like virus)",
+            "成分代碼": "8012006240",
+            "成分名稱": "B\/Phuket\/3073\/2013 (B\/Yamagata lineage)-like virus",
             "含量描述": "",
             "含量": "15.0000000000",
             "單位": "ug HA"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8012002487",
-            "成分名稱": "B\/Darwin\/7\/2019 (a B\/Washington\/02\/2019-like virus)",
+            "成分代碼": "8012006250",
+            "成分名稱": "B\/Austria\/1359417\/2021 (B\/Victoria lineage)-like virus",
             "含量描述": "",
             "含量": "15.0000000000",
             "單位": "ug HA"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8012018040",
-            "成分名稱": "A\/Washington\/19\/2020 (an A\/Wisconsin\/588\/2019 (H1N1)pdm09-like virus)",
+            "成分代碼": "8012018041",
+            "成分名稱": "A\/Wisconsin\/588\/2019 (H1N1)pdm09-like virus",
             "含量描述": "",
             "含量": "15.0000000000",
             "單位": "ug HA"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8012018050",
-            "成分名稱": "A\/Tasmania\/503\/2020 (an A\/Cambodia\/e0826360\/2020 (H3N2)-like virus",
+            "成分代碼": "8012018051",
+            "成分名稱": "A\/Darwin\/6\/2021 (H3N2)-like virus",
             "含量描述": "",
             "含量": "15.0000000000",
             "單位": "ug HA"

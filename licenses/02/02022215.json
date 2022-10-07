@@ -1,7 +1,7 @@
 {
     "code": "02022215",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022215",
-    "time": "2021-04-30 05:12:56",
+    "time": "2022-10-07 03:42:54",
     "許可證字號": "衛署藥輸字第022215號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00202221500",
     "中文品名": "溫諾平注射液１０公絲\/公撮",
     "英文品名": "NAVELBINE 10MG\/ML INJECTABLE SOLUTION",
@@ -29,12 +31,12 @@
     "主成分略述": "VINORELBINE TARTRATE",
     "限制項目": "02輸　入",
     "申請商名稱": "0416601100  友華生技醫藥股份有限公司",
-    "申請商地址": "台北市復興南路一段３６８號７樓",
+    "申請商地址": "臺北市北投區承德路６段128號13樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FFR0145000  PIERRE FABRE MEDICAMENT PRODUCTION",
-            "製造廠廠址": "Aquitaine Pharm International 1, Avenue du B&#233;arn, F-64320 IDRON, FRANCE",
-            "製造廠公司地址": "45 PLACE ABEL GANCE,92100 BOULOGNE,FRANCE",
+            "製造廠名稱": "FFR0413000  FAREVA PAU",
+            "製造廠廠址": "Fareva PAU 1 Avenue du Bearn, 64320 Idron, France",
+            "製造廠公司地址": "",
             "製造廠國別": "FRANCE",
             "製程": ""
         }
@@ -46,6 +48,13 @@
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
             "製程": "貼標廠"
+        },
+        {
+            "製造廠名稱": "FFR0426000  PIERRE FABRE MEDICAMENT",
+            "製造廠廠址": "LES CAUQUILLOUS, 81500 LAVAUR, FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
+            "製程": "許可證持有者"
         }
     ],
     "CCC號列": "30049071005 抗癌藥Anti-cancer preparations",

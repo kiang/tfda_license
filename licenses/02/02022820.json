@@ -1,18 +1,18 @@
 {
     "code": "02022820",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022820",
-    "time": "2022-02-25 06:38:41",
+    "time": "2022-10-07 03:43:22",
     "許可證字號": "衛署藥輸字第022820號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "114\/04\/07",
-    "發證\/登錄日期": "89\/04\/07",
+    "發證日期": "89\/04\/07",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
-    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材原登錄字號": "",
     "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00202282001",
     "中文品名": "拿塞可得鼻用噴液劑",
@@ -34,7 +34,10 @@
     "申請商地址": "臺北市內湖區堤頂大道2段407巷20弄1、3、5、7號10樓，及22、24、26號10樓及22號10樓之1",
     "主製造廠": [
         {
-            "": "UNITED KINGDOM",
+            "製造廠名稱": "FGB0040100  RECIPHARM HC LIMITED",
+            "製造廠廠址": "LONDON ROAD, HOLMES CHAPEL, CREWE, CHESHIRE, CW4 8BE, UNITED KINGDOM",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED KINGDOM",
             "製程": ""
         }
     ],
@@ -62,18 +65,22 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "Nasacort Spray label-DKSH-111-05-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022820&Seq=002&Type=10"
+        },
+        {
             "title": "Nasacort_box & spray-104-09-04(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022820&Seq=001&Type=10"
         }
     ],
     "仿單外盒": [
         {
-            "title": "Nasacort AQ - English PI_CCDS v6 (rev) 2017 clean-107-09-10.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022820&Seq=019&Type=9"
+            "title": "316284_02.3_Nasacort_PI_（CCDS_V.8）update-TFDA_Preliminary_Approval_version_（clear）-CH_20220810-111-09-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022820&Seq=021&Type=9"
         },
         {
-            "title": "Nasacort AQ - Chinese PI (app) CCDS v6-Sep-2017_HA comments clean-107-09-10.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022820&Seq=018&Type=9"
+            "title": "Nasacort Spray box-DKSH-111-05-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022820&Seq=005&Type=8"
         },
         {
             "title": "Nasacort AQ label (1060815)-106-09-05.pdf",

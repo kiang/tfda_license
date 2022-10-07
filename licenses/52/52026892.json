@@ -1,18 +1,18 @@
 {
     "code": "52026892",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026892",
-    "time": "2022-03-25 05:22:10",
+    "time": "2022-10-07 04:10:47",
     "許可證字號": "衛部藥輸字第026892號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "115\/08\/17",
-    "發證\/登錄日期": "105\/08\/17",
+    "發證日期": "105\/08\/17",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
-    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材原登錄字號": "",
     "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05202689200",
     "中文品名": "維帕特糖漿 10毫克\/毫升",
@@ -34,7 +34,10 @@
     "申請商地址": "台北市松山區敦化北路88號12樓之2",
     "主製造廠": [
         {
-            "": "UNITED STATES",
+            "製造廠名稱": "FUS9286000  UNITHER MANUFACTURING LLC",
+            "製造廠廠址": "331 CLAY ROAD, ROCHESTER, NY 14623, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
             "製程": ""
         }
     ],
@@ -66,10 +69,38 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "200毫升裝之黃褐色玻璃瓶，聚丙烯材質的旋入性白色蓋子，附量杯與具轉接頭的給藥器。",
+        "特殊劑型": "",
+        "顏色": "無色到黃色或黃棕色",
+        "特殊氣味": "草莓口味",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Vimpat syrup bottle_photo 2-111-05-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026892&Seq=002&Type=10"
+        },
+        {
+            "title": "Vmpat syrup bottle photo 1-111-05-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026892&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
         {
-            "title": "Vimpat Syrup final CMC2020_ -109-11-06.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026892&Seq=004&Type=9"
+            "title": "PI-VIMPAT syrup 10 MG_ML-110-12-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026892&Seq=005&Type=9"
+        },
+        {
+            "title": "CIB73186C LBL VIMPAT 200ML SYR 2021-111-05-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026892&Seq=006&Type=8"
+        },
+        {
+            "title": "CIB73184B BOX VIMPAT 200ML SYR 2021-111-05-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026892&Seq=005&Type=8"
         },
         {
             "title": "BOX_CIA76155B_MU2_VIMPAT_10MG_200ML_TW_TFDA 2020-109-11-06.pdf",

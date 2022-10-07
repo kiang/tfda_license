@@ -1,7 +1,7 @@
 {
     "code": "01033758",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01033758",
-    "time": "2021-08-27 05:14:56",
+    "time": "2022-10-07 03:12:08",
     "許可證字號": "衛署藥製字第033758號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "01000228",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00103375803",
     "中文品名": "&quot;大豐&quot;淘能美注射液",
     "英文品名": "TAURINE B INJECTION &quot;T.F.&quot;",
@@ -26,7 +28,7 @@
     "管制藥品分類級別": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "METHIONINE, NIACINAMIDE (NICOTINAMIDE), THIAMINE HYDROCHLORIDE, RIBOFLAVIN (VIT B2), PYRIDOXINE HYDROCHLORIDE, TAURINE (EQ TO 2-AMINOETHANE SULFONIC ACID)",
+    "主成分略述": "METHIONINE, NIACINAMIDE (NICOTINAMIDE), THIAMINE HYDROCHLORIDE, RIBOFLAVIN(5-PHOSPHATE SODIUM), PYRIDOXINE HYDROCHLORIDE, TAURINE (EQ TO 2-AMINOETHANE SULFONIC ACID)",
     "限制項目": "01國　產",
     "申請商名稱": "0306811200  大豐製藥股份有限公司",
     "申請商地址": "彰化縣彰化市延平里岸頭巷11號",
@@ -68,8 +70,8 @@
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8810200400",
-            "成分名稱": "RIBOFLAVIN (VIT B2)",
+            "成分代碼": "8810209700",
+            "成分名稱": "RIBOFLAVIN(5-PHOSPHATE SODIUM)",
             "含量描述": "0.25",
             "含量": "0.2500000000",
             "單位": "MG"
@@ -108,6 +110,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "淘能美仿單-111-09-01.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033758&Seq=004&Type=9"
+        },
         {
             "title": "033758-淘能美注射液-說明書-110-07-07.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033758&Seq=003&Type=9"
