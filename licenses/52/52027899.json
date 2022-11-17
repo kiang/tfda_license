@@ -1,23 +1,23 @@
 {
     "code": "52027899",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52027899",
-    "time": "2021-11-26 06:07:40",
+    "time": "2022-11-18 03:49:53",
     "許可證字號": "衛部藥輸字第027899號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "114\/06\/02",
-    "發證\/登錄日期": "109\/06\/02",
+    "發證日期": "109\/06\/02",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
-    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材原登錄字號": "",
     "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05202789906",
     "中文品名": "韋如意凍晶乾燥注射劑100毫克\/瓶",
     "英文品名": "Veklury Lyophilized Powder for Injection 100 mg\/ Vial",
-    "適應症": "適用於治療必須住院之成人與兒童病人(12歲(含)以上且體重至少40公斤)的2019冠狀病毒疾病(COVID-19)。僅可於醫院或可提供類似住院照護之急性照護的醫療照護機構內投予。",
+    "適應症": "適用於治療嚴重急性呼吸道症候群冠狀病毒2 (SARS-CoV-2)病毒檢測結果為陽性之下列成人與兒童病人(12歲以上且體重至少40公斤)的新型冠狀病毒疾病(COVID-19，嚴重特殊傳染性肺炎)：\r\n１、必須住院，或\r\n２、發病7天內，罹患輕至中度COVID-19且有惡化成重度COVID-19 (包括住院或死亡)之高風險。COVID-19重症風險因子請參考臨床試驗段落。",
     "劑型": "245凍晶乾燥注射劑",
     "包裝": "注射瓶裝，100支下盒裝",
     "儲存溫度": "",
@@ -34,31 +34,52 @@
     "申請商地址": "臺北市信義區松仁路32號10樓之1、36號10樓之1",
     "主製造廠": [
         {
-            "": "FRANCE",
+            "製造廠名稱": "FFR0257000  VALDEPHARM",
+            "製造廠廠址": "PARC INDUSTRIEL D&#39;INCARVILLE, 27100 VAL DE REUIL, FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
             "製程": "成品及包裝廠"
         },
         {
-            "": "ITALY",
+            "製造廠名稱": "FIT9099000  PATHEON ITALIA S.P.A.",
+            "製造廠廠址": "VIALE G.B. STUCCHI, 110-20900 MONZA (MB), ITALY",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
             "製程": "成品及包裝廠"
         },
         {
-            "": "PORTUGAL",
+            "製造廠名稱": "FPT0022000  HIKMA FARMACEUTICA (PORTUGAL) S.A.",
+            "製造廠廠址": "ESTRADA DO RIO DA MO, 8, 8A E 8B-FERVENCA-2705-906 TERRUGEM SNT, PORTUGAL",
+            "製造廠公司地址": "",
+            "製造廠國別": "PORTUGAL",
             "製程": "成品及包裝廠"
         },
         {
-            "": "UNITED STATES",
+            "製造廠名稱": "FUS0030300  Patheon Manufacturing Services LLC",
+            "製造廠廠址": "5900 Martin Luther King Jr. Highway,Greenville,NC27834,USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
             "製程": "成品及包裝廠"
         },
         {
-            "": "UNITED STATES",
+            "製造廠名稱": "FUS0300000  HOSPIRA INC.",
+            "製造廠廠址": "1776 NORTH CENTENNIAL DRIVE, MCPHERSON, KANSAS 67460, USA",
+            "製造廠公司地址": "275 NORTH FIELD DRIVE, P.O. BOX 5045, LAKE FOREST, IL 60045-5045, USA",
+            "製造廠國別": "UNITED STATES",
             "製程": "成品及包裝廠"
         },
         {
-            "": "UNITED STATES",
+            "製造廠名稱": "FUS0378000  Jubilant HollisterStier LLC",
+            "製造廠廠址": "3525 NORTH REGAL STREET SPOKANE, WA 99207, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
             "製程": "成品及包裝廠"
         },
         {
-            "": "UNITED STATES",
+            "製造廠名稱": "FUS1159000  XELLA PHARMACEUTICALS USA LLC",
+            "製造廠廠址": "200 NORTHFIELD RD BEDFORD, OH 44146 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
             "製程": "成品及包裝廠"
         }
     ],
@@ -106,16 +127,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "0818-VEKLURY韋如意凍晶乾燥注射劑100mg 中文仿單-29.7x38cm-110-08-31.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027899&Seq=005&Type=9"
-        },
-        {
-            "title": "韋如意 醫療人員指引_10AUG2020-109-08-11.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027899&Seq=003&Type=9"
-        },
-        {
-            "title": "韋如意 病人用藥須知_10AUG2020-109-08-11.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027899&Seq=002&Type=9"
+            "title": "病人用藥須知+醫療人員指引-111-03-23-111-04-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027899&Seq=007&Type=9"
         },
         {
             "title": "027899 凍晶乾燥 標籤 artwork-export-label-powderforsolution-109-07-09.pdf",

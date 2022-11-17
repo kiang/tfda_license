@@ -1,28 +1,30 @@
 {
     "code": "42000130",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000130",
-    "time": "2021-07-30 04:51:18",
+    "time": "2022-11-18 04:17:56",
     "許可證字號": "衛署醫器陸輸字第000130號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可編號": "QSD0993",
+    "製造許可登錄編號": "QSD0993",
     "有效日期": "115\/07\/14",
     "發證日期": "95\/07\/14",
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA04200013003",
     "中文品名": "百略醫學電子體溫計",
     "英文品名": "MICROLIFE DIGITAL THERMOMETER",
-    "效能、用途或適應症": "詳如中文仿單核定本",
-    "醫器規格或型號": "MT1921,MT1961,MT100,TM200。MT1951, MT18A1, MT16A1, MT16E1。增加規格：MT3001、MT16K1、MT300、MT400，以下空白。\r\n註銷規格：MT16E1。",
+    "效能": "詳如中文仿單核定本",
+    "醫器規格": "MT1921,MT1961,MT100,TM200。MT1951, MT18A1, MT16A1, MT16E1。增加規格：MT3001、MT16K1、MT300、MT400，以下空白。\r\n註銷規格：MT16E1。\r\nMT200規格變更：詳如核定之中文說明書。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、說明書或包裝加註": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "J一般醫院及個人使用裝置",
     "醫器次類別一": "J2910臨床電子體溫計",
     "醫器主類別二": "",
@@ -33,14 +35,14 @@
     "監視期限": "",
     "主成分略述": "",
     "限制項目": "02輸　入",
-    "醫療器材商名稱": "6201115019  百略醫學科技股份有限公司",
-    "醫療器材商地址": "台北市內湖區瑞光路431號9樓",
+    "申請商名稱": "6201115019  百略醫學科技股份有限公司",
+    "申請商地址": "台北市內湖區瑞光路431號9樓",
     "主製造廠": [
         {
-            "製造業者名稱": "MCN5012000  Onbo Electronic (Shenzhen) Co., Ltd.",
-            "製造業者地址": "No. 138, Huasheng Road, Langkou Community, Dalang Street, Longhua District, Shenzhen, China",
-            "製造業者公司地址": "",
-            "製造業者國別": "CHINA",
+            "製造廠名稱": "MCN5012000  Onbo Electronic (Shenzhen) Co., Ltd.",
+            "製造廠廠址": "No. 138, Huasheng Road, Langkou Community, Dalang Street, Longhua District, Shenzhen, China",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
             "製程": ""
         }
     ],
@@ -48,16 +50,28 @@
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "420001300001-111-10-10-111-10-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000130&Seq=017&Type=9"
+        },
+        {
+            "title": "420001300001-95-7-24-111-10-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000130&Seq=016&Type=9"
+        },
+        {
             "title": "420001300003-108-10-07.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000130&Seq=015&Type=9"
         },
         {
-            "title": "420001300002-108-10-07.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000130&Seq=014&Type=9"
-        },
-        {
             "title": "420001300001-108-10-07.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000130&Seq=013&Type=9"
+        },
+        {
+            "title": "420001300002-111-10-10-111-10-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000130&Seq=004&Type=8"
+        },
+        {
+            "title": "420001300002-95-7-24-111-10-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000130&Seq=003&Type=8"
         }
     ]
 }

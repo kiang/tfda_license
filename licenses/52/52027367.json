@@ -1,7 +1,7 @@
 {
     "code": "52027367",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52027367",
-    "time": "2021-01-29 05:02:02",
+    "time": "2022-11-18 03:49:02",
     "許可證字號": "衛部藥輸字第027367號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05202736702",
     "中文品名": "銳思定&#174; 膜衣錠 3毫克",
     "英文品名": "REXULTI&#174; (brexpiprazole) tablets 3 mg",
@@ -32,11 +34,11 @@
     "申請商地址": "台北市中山區復興北路378號11樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FJP0246000  OTSUKA PHARMACEUTICAL CO., LTD. (TOKUSHIMA PLANT)",
-            "製造廠廠址": "463-10,KAGASUNO,KAWAUCHI-CHO TOKUSHIMA CITY,TOKUSHIMA 771-0192,JAPAN",
-            "製造廠公司地址": "2-9, KANDA-TSUKASAMACHI, CHIYODA-KU TOKYO 101-8535, JAPAN",
+            "製造廠名稱": "FJP0246300  OTSUKA PHARMACEUTICAL CO., LTD. SECOND TOKUSHIMA FACTORY",
+            "製造廠廠址": "224-18 HIRAISHI EBISUNO, KAWAUCHI-CHO, TOKUSHIMA-SHI, TOKUSHIMA, 771-0182, JAPAN",
+            "製造廠公司地址": "2-9, KANDA TSUKASAMACHI, CHIYODA-KU, TOKYO JAPAN",
             "製造廠國別": "JAPAN",
-            "製程": ""
+            "製程": "成品製造廠"
         }
     ],
     "次製造廠": [
@@ -64,7 +66,16 @@
     ],
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "2816300100",
+            "成分名稱": "brexpiprazole",
+            "含量描述": "",
+            "含量": "3.0000000000",
+            "單位": "MG"
+        }
+    ],
     "仿單外盒": [
         {
             "title": "2.+銳思定膜衣錠-仿單_03.2020_0916-109-10-15.pdf",

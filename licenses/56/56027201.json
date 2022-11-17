@@ -1,7 +1,7 @@
 {
     "code": "56027201",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56027201",
-    "time": "2020-03-27 06:13:20",
+    "time": "2022-11-18 04:31:16",
     "許可證字號": "衛部醫器輸字第027201號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,11 +12,13 @@
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05602720100",
     "中文品名": "萊富可德人類白血球抗原A位點分型試劑",
-    "英文品名": "LIFECODES HLA-A SSO Typing Kit",
+    "英文品名": "LIFECODES HLA-A eRES SSO Typing Kit",
     "效能": "利用特定序列寡核酸片段分析法(SSO)測定人類白血球抗原對偶基因A的DNA分型，需搭配Luminex儀器使用。",
-    "醫器規格": "628911、628913。",
+    "醫器規格": "628911、628913。\r\n註銷規格：628911。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -48,12 +50,12 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "560272010001-104-06-15.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027201&Seq=001&Type=9"
+            "title": "56027201-111.10.13-仿單-111-10-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027201&Seq=002&Type=9"
         },
         {
-            "title": "560272010002-104-06-15.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027201&Seq=001&Type=8"
+            "title": "56027201-111.10.13-外盒-111-10-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56027201&Seq=002&Type=8"
         }
     ]
 }

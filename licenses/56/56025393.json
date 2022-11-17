@@ -1,7 +1,7 @@
 {
     "code": "56025393",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025393",
-    "time": "2022-07-29 09:51:27",
+    "time": "2022-11-18 04:27:45",
     "許可證字號": "衛部醫器輸字第025393號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -40,10 +40,19 @@
     "主製造廠": [
         {
             "製造廠名稱": "MIE0021000  Boston Scientific Limited",
-            "製造廠廠址": "BALLYBRIT BUSINESS PARK GALWAY IRELAND",
+            "製造廠廠址": "BALLYBRIT BUSINESS PARK GALWAY, Galway, IRELAND",
             "製造廠公司地址": "",
             "製造廠國別": "IRELAND",
             "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS4226000  Boston Scientific Corporation",
+            "製造廠廠址": "300 Boston Scientific Way Marlborough, MA 01752, USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",
