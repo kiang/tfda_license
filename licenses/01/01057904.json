@@ -1,17 +1,19 @@
 {
     "code": "01057904",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057904",
-    "time": "2021-07-30 04:33:16",
+    "time": "2022-12-09 03:33:25",
     "許可證字號": "衛署藥製字第057904號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
-    "有效日期": "112\/04\/18",
+    "有效日期": "117\/04\/18",
     "發證日期": "102\/04\/18",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00105790407",
     "中文品名": "&quot;麥迪森&quot;得視隆眼藥水0.1%",
     "英文品名": "Desalone Eye Drops 0.1% &quot;MEDICINE&quot;",
@@ -27,7 +29,7 @@
     "藥品分類": "",
     "監視期限": "",
     "主成分略述": "DEXAMETHASONE PHOSPHATE (SODIUM)",
-    "限制項目": "01國　產",
+    "限制項目": "01國　產 1R不得製造",
     "申請商名稱": "620118D651  麥迪森醫藥股份有限公司",
     "申請商地址": "臺北市中正區林森南路10號5樓",
     "主製造廠": [
@@ -46,7 +48,7 @@
             "成分類別": "主成分",
             "成分代碼": "6804008640",
             "成分名稱": "DEXAMETHASONE PHOSPHATE (SODIUM)",
-            "含量描述": "(eq. to Dexamethasone Sodium Phosphate 1",
+            "含量描述": "(eq. to Dexamethasone Sodium Phosphate 1.09 mg)",
             "含量": "1.0000000000",
             "單位": "MG"
         }
@@ -63,6 +65,10 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "5ml得視隆套標5B29-5-110-11-22(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057904&Seq=004&Type=10"
+        },
+        {
             "title": "麥迪森得視隆眼藥水0.1%套標5B29-4-110-03-10(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057904&Seq=003&Type=10"
         },
@@ -72,6 +78,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "麥迪森得視隆眼藥水仿單5A32-5-110-11-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057904&Seq=007&Type=9"
+        },
         {
             "title": "057904001-110-05-03.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057904&Seq=006&Type=9"

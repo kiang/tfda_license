@@ -1,7 +1,7 @@
 {
     "code": "58026804",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58026804",
-    "time": "2022-07-29 10:47:31",
+    "time": "2022-12-09 05:08:30",
     "許可證字號": "衛部粧輸字第026804號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,8 +15,8 @@
     "第一等級醫療器材原登錄字號": "",
     "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05802680402",
-    "中文品名": "1.高絲 雪肌精保水UV防禦乳、\r\n2.高絲 雪肌精 漾活UV雙重防禦乳。",
-    "英文品名": "1.SEKKISEI SKINCARE UV MILK、\r\n2.SEKKISEI CLEAR WELLNESS UV DEFENSE MILK。",
+    "中文品名": "1.高絲 雪肌精保水UV防禦乳、\r\n2.高絲 雪肌精 漾活UV雙重防禦乳。\r\n3.高絲 雪肌精 漾活UV全效防禦乳。",
+    "英文品名": "1.SEKKISEI SKINCARE UV MILK、\r\n2.SEKKISEI CLEAR WELLNESS UV DEFENSE MILK。\r\n3.SEKKISEI CLEAR WELLNESS UV SUNSCREEN ESSENCE MILK。",
     "用途": "防曬。",
     "劑型": "944乳劑",
     "包裝": "500毫升以下瓶裝，附外盒 500毫升以下罐裝，附外盒 1000公斤以下桶裝專供分裝使用",
@@ -106,9 +106,45 @@
             "含量描述": "",
             "含量": "1.5000000000",
             "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200011500",
+            "成分名稱": "ZINC OXIDE",
+            "含量描述": "",
+            "含量": "14.9600000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9600203500",
+            "成分名稱": "DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE",
+            "含量描述": "",
+            "含量": "2.0000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900071200",
+            "成分名稱": "ETHYLHEXYL METHOXYCINNAMATE",
+            "含量描述": "",
+            "含量": "7.0000000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900095700",
+            "成分名稱": "BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
+            "含量描述": "",
+            "含量": "2.0000000000",
+            "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "58026804-111-11-30.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58026804&Seq=004&Type=8"
+        },
         {
             "title": "58026804-111-05-17.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58026804&Seq=003&Type=8"

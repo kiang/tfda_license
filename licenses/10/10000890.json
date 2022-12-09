@@ -1,7 +1,7 @@
 {
     "code": "10000890",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000890",
-    "time": "2022-08-26 07:55:59",
+    "time": "2022-12-09 03:43:41",
     "許可證字號": "衛署菌疫輸字第000890號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,13 +34,6 @@
     "申請商地址": "台北市信義區信義路五段106號12樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FUS0609100  Merck Sharp &amp; Dohme Corp.",
-            "製造廠廠址": "5325 Old Oxford Road, Durham, North Carolina, U.S. 27712",
-            "製造廠公司地址": "",
-            "製造廠國別": "UNITED STATES",
-            "製程": "原料藥製造廠"
-        },
-        {
             "製造廠名稱": "FUS0122000  MERCK SHARP &amp; DOHME CORP.",
             "製造廠廠址": "770 SUMNEYTOWN PIKE, WEST POINT, PA 19486, U.S.A.",
             "製造廠公司地址": "",
@@ -64,18 +57,25 @@
             "製程": "疫苗附注射針筒裝稀釋液包裝廠"
         },
         {
-            "製造廠名稱": "FUS0123000  MERCK SHARP &amp; DOHME CORP.",
-            "製造廠廠址": "770 SUMNEYTOWN PIKE, WEST POINT, PA 19486 U.S.A.",
-            "製造廠公司地址": "",
-            "製造廠國別": "UNITED STATES",
-            "製程": "原料藥製造廠"
-        },
-        {
             "製造廠名稱": "FUS0378000  Jubilant HollisterStier LLC",
             "製造廠廠址": "3525 NORTH REGAL STREET SPOKANE, WA 99207, USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
             "製程": "Diluent"
+        },
+        {
+            "製造廠名稱": "FUS1231000  MERCK SHARP &amp; DOHME LLC",
+            "製造廠廠址": "5325 OLD OXFORD ROAD, DURHAM, NORTH CAROLINA, U.S. 27712",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
+        },
+        {
+            "製造廠名稱": "FUS9468000  MERCK SHARP &amp; DOHME LLC",
+            "製造廠廠址": "770 SUMNEYTOWN PIKE, WEST POINT, PA 19486 U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": ""
         }
     ],
     "CCC號列": "",

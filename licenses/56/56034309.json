@@ -1,7 +1,7 @@
 {
     "code": "56034309",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56034309",
-    "time": "2021-10-29 08:05:03",
+    "time": "2022-12-09 04:50:27",
     "許可證字號": "衛部醫器輸字第034309號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,7 +18,7 @@
     "中文品名": "&quot;法西歐&quot;帕德愛視單焦距非球面人工水晶體",
     "英文品名": "&quot;PhysIOL&quot; PODEYE Monofocal Aspheric Intraocular Lenses",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "PODEYE，以下空白。",
+    "醫器規格": "PODEYE，以下空白。\r\n新增電子化說明書之標籤。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -39,7 +39,10 @@
     "申請商地址": "臺北市內湖區行愛路88號6樓",
     "主製造廠": [
         {
-            "": "BELGIUM",
+            "製造廠名稱": "MBE0095000  PhysIOL s.a.",
+            "製造廠廠址": "Liege Science Park, Allee des Noisetiers 4 B-4031 Angleur-Liege, Belgium",
+            "製造廠公司地址": "",
+            "製造廠國別": "BELGIUM",
             "製程": ""
         }
     ],
@@ -47,12 +50,20 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "56034304001-110-02-18.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56034309&Seq=001&Type=9"
+            "title": "560343090001-111-11-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56034309&Seq=003&Type=9"
         },
         {
-            "title": "56034304002-110-02-18.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56034309&Seq=001&Type=8"
+            "title": "560343090001-111-01-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56034309&Seq=002&Type=9"
+        },
+        {
+            "title": "560343090002-111-11-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56034309&Seq=003&Type=8"
+        },
+        {
+            "title": "560343090002-111-01-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56034309&Seq=002&Type=8"
         }
     ]
 }

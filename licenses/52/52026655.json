@@ -1,7 +1,7 @@
 {
     "code": "52026655",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026655",
-    "time": "2020-10-30 10:43:21",
+    "time": "2022-12-09 03:53:56",
     "許可證字號": "衛部藥輸字第026655號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05202665502",
     "中文品名": "安能得微脂體注射劑5毫克\/毫升",
     "英文品名": "Onivyde TM (irinotecan liposome injection) 5mg\/mL",
@@ -24,7 +26,7 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "藥品分類": "",
+    "藥品分類": "新療效(新適應症)",
     "監視期限": "109\/12\/07",
     "主成分略述": "IRINOTECAN HYDROCHLORIDE",
     "限制項目": "02輸　入",
@@ -32,10 +34,10 @@
     "申請商地址": "台北市中山區民生東路三段10號11樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FUS0724100  Ipsen Bioscience, Inc.",
-            "製造廠廠址": "One Kendall Square, Suite B7401, Cambridge, MA 02139-1670, U.S.A.",
+            "製造廠名稱": "FFR0208000  IPSEN PHARMA BIOTECH",
+            "製造廠廠址": "PARC D&#39; ACTIVITES DU PLATEAU DE SIGNES, CD N 402-83870 SIGNES, FRANCE",
             "製造廠公司地址": "",
-            "製造廠國別": "UNITED STATES",
+            "製造廠國別": "FRANCE",
             "製程": ""
         }
     ],
@@ -46,25 +48,20 @@
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
             "製程": "包裝"
-        },
-        {
-            "製造廠名稱": "FUS0887000  SHARP CORPORATION",
-            "製造廠廠址": "7451 KEEBLER WAY , ALLENTOWN , PENNSYLVANIA 18106 , USA",
-            "製造廠公司地址": "",
-            "製造廠國別": "UNITED STATES",
-            "製程": "貼標廠"
-        },
-        {
-            "製造廠名稱": "MUS4005000  Ajinomoto Althea, Inc.",
-            "製造廠廠址": "11040 Roselle Street, San Diego, CA92121 USA",
-            "製造廠公司地址": "",
-            "製造廠國別": "UNITED STATES",
-            "製程": "充填"
         }
     ],
     "CCC號列": "",
     "藥理治療分類": "",
-    "ingredients": [],
+    "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "1004002210",
+            "成分名稱": "IRINOTECAN HYDROCHLORIDE",
+            "含量描述": "Equivalent to Irinotecan free base.....4.3MG",
+            "含量": "5.0000000000",
+            "單位": "MG"
+        }
+    ],
     "藥物辨識詳細資料": {
         "外觀尺寸": "",
         "特殊劑型": "",
@@ -77,8 +74,8 @@
     },
     "藥物辨識外觀圖片": [
         {
-            "title": "Onivyde vial+紙盒w尺規-107-02-22(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026655&Seq=001&Type=10"
+            "title": "Onivyde尺規照_組合-109-12-03(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026655&Seq=002&Type=10"
         }
     ],
     "仿單外盒": [

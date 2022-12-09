@@ -1,7 +1,7 @@
 {
     "code": "08011165",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08011165",
-    "time": "2021-10-29 08:28:47",
+    "time": "2022-12-09 05:03:50",
     "許可證字號": "衛署粧輸字第011165號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -15,8 +15,8 @@
     "第一等級醫療器材原登錄字號": "",
     "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00801116506",
-    "中文品名": "妮維雅男士 止汗爽身乳膏 乾適活力(男士用)",
-    "英文品名": "NIVEA  FOR MEN DRY IMPACT(STICK)",
+    "中文品名": "妮維雅男士止汗爽身乳膏 Pro 升級版-乾適活力。",
+    "英文品名": "NIVEA Dry Impact (Stick)。",
     "用途": "止汗制臭。",
     "劑型": "983膏劑",
     "包裝": "500公撮以下瓶裝",
@@ -28,13 +28,16 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "ALUMINUM ZIRCONIUM TETRACHLOROHYDREX, ALUMINUM SESQUICHLOROHYDRATE",
+    "主成分略述": "ALUMINUM SESQUICHLOROHYDRATE, ALUMINUM CHLOROHYDRATE",
     "限制項目": "02輸　入",
     "申請商名稱": "6670439861  台灣妮維雅股份有限公司",
     "申請商地址": "臺北市中山區民生東路3段51號10樓",
     "主製造廠": [
         {
-            "": "GERMANY",
+            "製造廠名稱": "CDE0061000  BEIERSDORF MANUFACTURING HAMBURG GMBH (BMH)",
+            "製造廠廠址": "TROPLOWITZSTRABE 10, 22529 HAMBURG, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
             "製程": ""
         }
     ],
@@ -42,18 +45,18 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "8400000430",
-            "成分名稱": "ALUMINUM ZIRCONIUM TETRACHLOROHYDREX",
+            "成分代碼": "8412000120",
+            "成分名稱": "ALUMINUM SESQUICHLOROHYDRATE",
             "含量描述": "",
-            "含量": "16.0000000000",
+            "含量": "1.0000000000",
             "單位": "%(W\/W)"
         },
         {
             "成分類別": "主成分",
-            "成分代碼": "8412000120",
-            "成分名稱": "ALUMINUM SESQUICHLOROHYDRATE",
+            "成分代碼": "8412000130",
+            "成分名稱": "ALUMINUM CHLOROHYDRATE",
             "含量描述": "",
-            "含量": "0.0500000000",
+            "含量": "17.0000000000",
             "單位": "%(W\/W)"
         }
     ],
@@ -71,28 +74,12 @@
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011165&Seq=001&Type=9"
         },
         {
-            "title": "08011165___20121130.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011165&Seq=006&Type=8"
-        },
-        {
-            "title": "080111650004.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011165&Seq=005&Type=8"
-        },
-        {
-            "title": "080111650003.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011165&Seq=004&Type=8"
-        },
-        {
-            "title": "080111650002.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011165&Seq=003&Type=8"
+            "title": "08011165-111-11-04.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011165&Seq=007&Type=8"
         },
         {
             "title": "080111650001___20111104.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011165&Seq=002&Type=8"
-        },
-        {
-            "title": "080111650001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08011165&Seq=001&Type=8"
         }
     ]
 }

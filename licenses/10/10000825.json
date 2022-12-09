@@ -1,7 +1,7 @@
 {
     "code": "10000825",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000825",
-    "time": "2021-09-24 06:25:50",
+    "time": "2022-12-09 03:43:18",
     "許可證字號": "衛署菌疫輸字第000825號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "菌　疫",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA01000082508",
     "中文品名": "輪達停口服活性五價輪狀病毒疫苗",
     "英文品名": "RotaTeq (Rotavirus vaccine, live, oral, pentavalent)",
@@ -32,7 +34,7 @@
     "申請商地址": "台北市信義區信義路五段106號12樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FUS0122000  MERCK SHARP &amp; DOHME CORP.",
+            "製造廠名稱": "FUS0122000  MERCK SHARP &amp; DOHME LLC",
             "製造廠廠址": "770 SUMNEYTOWN PIKE, WEST POINT, PA 19486 U.S.A.",
             "製造廠公司地址": "WHITEHOUSE STATION, NJ 08889, U.S.A.",
             "製造廠國別": "UNITED STATES",
@@ -100,6 +102,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "chilab-01-CRT-V260-000024640-TW-PI-I-legal-entity-name-change-merck-Rotateq-111-11-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000825&Seq=035&Type=9"
+        },
         {
             "title": "10-000825_仿單-110-01-21.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000825&Seq=034&Type=9"
