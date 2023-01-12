@@ -1,7 +1,7 @@
 {
     "code": "56025974",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025974",
-    "time": "2021-04-30 05:37:19",
+    "time": "2023-01-13 04:38:14",
     "許可證字號": "衛部醫器輸字第025974號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,11 +12,13 @@
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05602597403",
     "中文品名": "“因特”內視鏡器械及配件",
     "英文品名": "“Intuitive Surgical” Endoscopic Instruments and Accessories",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "詳如中文仿單核定本。增加規格：詳如中文仿單核定本。",
+    "醫器規格": "詳如中文仿單核定本。增加規格：詳如中文仿單核定本。註銷規格：311485、311486、311464、311465，以下空白。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -57,20 +59,20 @@
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "560259740001(111.12.07)-111-12-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025974&Seq=003&Type=9"
+        },
+        {
             "title": "560259740001-110-02-09.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025974&Seq=002&Type=9"
         },
         {
-            "title": "560259740002-103-03-28.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025974&Seq=001&Type=9"
+            "title": "560259740001(111.12.07)-111-12-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025974&Seq=003&Type=8"
         },
         {
             "title": "560259740001-110-02-09.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025974&Seq=002&Type=8"
-        },
-        {
-            "title": "560259740001-103-03-28.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025974&Seq=001&Type=8"
         }
     ]
 }

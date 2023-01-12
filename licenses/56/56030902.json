@@ -1,7 +1,7 @@
 {
     "code": "56030902",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030902",
-    "time": "2020-04-24 05:58:26",
+    "time": "2023-01-13 04:43:39",
     "許可證字號": "衛部醫器輸字第030902號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,11 +12,13 @@
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05603090201",
     "中文品名": "“卡比”艾捷莉注射幫浦",
     "英文品名": "“Kabi” Agilia Syringe Infusion Pumps",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "Z018594 Agilia SP、Z018694 Agilia SP MC、Z018794 Agilia SP MC Wifi、Z018894 Agilia SP TIVA、Z018994 Agilia SP TIVA Wifi\r\n以下空白。\r\n規格變更：增加零組件供應商。",
+    "醫器規格": "Z018594 Agilia SP、Z018694 Agilia SP MC、Z018794 Agilia SP MC Wifi、Z018894 Agilia SP TIVA、Z018994 Agilia SP TIVA Wifi\r\n以下空白。\r\n規格變更：增加零組件供應商。\r\n規格變更：詳如核定之中文說明書(原107年6月11日核定之標籤、說明書或包裝予以收回作廢)。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -37,8 +39,8 @@
     "申請商地址": "台北市大安區仁愛路三段30號5樓32號5樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MFR0173000  FRESENIUS VIAL",
-            "製造廠廠址": "LE GRAND CHEMIN, 38590 BREZINS, FRANCE",
+            "製造廠名稱": "MFR0977000  Fresenius Vial S.A.S.",
+            "製造廠廠址": "Le Grand Chemin, 38590 Brezins, France",
             "製造廠公司地址": "",
             "製造廠國別": "FRANCE",
             "製程": ""
@@ -46,23 +48,23 @@
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "MDE1022100  Fresenius Kabi AG",
-            "製造廠廠址": "61346 Bad Homburg, Germany",
+            "製造廠名稱": "MDE1827000  Fresenius Kabi AG",
+            "製造廠廠址": "Else-Kr&#246;ner-str. 1, 61352 Bad Homburg, Germany",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
-            "製程": "總公司"
+            "製程": ""
         }
     ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "560309020001-107-06-11.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56030902&Seq=001&Type=9"
+            "title": "560309020001-111-12-30.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56030902&Seq=002&Type=9"
         },
         {
-            "title": "560309020002-107-06-11.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56030902&Seq=001&Type=8"
+            "title": "560309020002-111-12-30.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56030902&Seq=002&Type=8"
         }
     ]
 }

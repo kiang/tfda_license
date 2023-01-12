@@ -1,7 +1,7 @@
 {
     "code": "12008873",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=12008873",
-    "time": "2020-04-24 05:23:09",
+    "time": "2023-01-13 03:51:55",
     "許可證字號": "內衛藥製字第008873號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY01200887301",
     "中文品名": "&quot;生達&quot;高克痢懸乳液",
     "英文品名": "PECOLIN SUSPENSION &quot;STANDARD&quot;",
@@ -32,7 +34,7 @@
     "申請商地址": "台南市新營區土庫里土庫6之20號",
     "主製造廠": [
         {
-            "製造廠名稱": "0510620700  生達化學製藥股份有限公司二廠",
+            "製造廠名稱": "6141010064  生達化學製藥股份有限公司二廠",
             "製造廠廠址": "台南市新營區開元路１５４號",
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
@@ -77,12 +79,20 @@
     ],
     "仿單外盒": [
         {
-            "title": "3214090 S0407 Pecolin 高克痢 LT-1-104-12-06(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008873&Seq=004&Type=9"
+            "title": "Pecolin 高克痢-109-06-17(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008873&Seq=006&Type=9"
         },
         {
-            "title": "3624092_S0311-Pecolin 高克痢-120ml-LB-1-104-12-06(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008873&Seq=001&Type=8"
+            "title": "1066047909仿單-106-11-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008873&Seq=005&Type=9"
+        },
+        {
+            "title": "1066047909標籤-106-11-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008873&Seq=003&Type=8"
+        },
+        {
+            "title": "1066047909 外盒-106-11-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=12008873&Seq=002&Type=8"
         }
     ]
 }

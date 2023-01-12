@@ -1,7 +1,7 @@
 {
     "code": "56029237",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029237",
-    "time": "2021-10-29 08:26:22",
+    "time": "2023-01-13 04:41:27",
     "許可證字號": "衛部醫器輸字第029237號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,7 +18,7 @@
     "中文品名": "“史得勞曼”希瑞連接體",
     "英文品名": "“Straumann” Variobase for C",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "022.0020, 022.0019, 022.0018, 022.0043, 022.0044, 022.0045",
+    "醫器規格": "022.0020, 022.0019, 022.0018, 022.0043, 022.0044, 022.0045\r\n增加規格、規格變更及標籤、說明書或包裝變更，詳如核定之中文說明書(原106年1月12日核定之標籤、說明書或包裝正本予以回收作廢)。以下空白。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -39,7 +39,10 @@
     "申請商地址": "臺北市內湖區洲子街105號10樓",
     "主製造廠": [
         {
-            "": "SWITZERLAND",
+            "製造廠名稱": "MCH0828000  Straumann Villeret SA",
+            "製造廠廠址": "Les Champs du Clos 2, 2613 Villeret, Switzerland",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
             "製程": ""
         }
     ],
@@ -56,12 +59,12 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "560292370002-106-01-12.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56029237&Seq=001&Type=9"
+            "title": "560292370001-111-12-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56029237&Seq=002&Type=9"
         },
         {
-            "title": "560292370001-106-01-12.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56029237&Seq=001&Type=8"
+            "title": "560292370001-111-12-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56029237&Seq=002&Type=8"
         }
     ]
 }

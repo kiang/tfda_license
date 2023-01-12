@@ -1,7 +1,7 @@
 {
     "code": "94022533",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=94022533",
-    "time": "2023-01-06 04:59:56",
+    "time": "2023-01-13 06:50:51",
     "許可證字號": "衛部醫器輸壹字第022533號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -39,15 +39,17 @@
     "申請商地址": "台北市松山區敦化南路一段2號5樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MUS5640100  Ormco Corporation",
-            "製造廠廠址": "200 S. Kraemer Blvd. Brea, California, 92821, USA",
+            "製造廠名稱": "MUS5791000  Ormco Corporation",
+            "製造廠廠址": "1937 West Mission Blvd, Pomona, California, 91766 USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
             "製程": ""
-        },
+        }
+    ],
+    "次製造廠": [
         {
-            "製造廠名稱": "MUS5791000  Ormco Corporation",
-            "製造廠廠址": "1937 West Mission Blvd, Pomona, California, 91766 USA",
+            "製造廠名稱": "MUS5640100  Ormco Corporation",
+            "製造廠廠址": "200 S. Kraemer Blvd. Brea, California, 92821, USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
             "製程": ""

@@ -1,7 +1,7 @@
 {
     "code": "72000024",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=72000024",
-    "time": "2020-03-27 05:10:30",
+    "time": "2023-01-13 04:06:03",
     "許可證字號": "衛部罕菌疫輸字第000024號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "菌　疫",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA07200002405",
     "中文品名": "那加硫酶注射劑",
     "英文品名": "Naglazyme (galsulfase) Injection",
@@ -24,7 +26,7 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "藥品分類": "",
+    "藥品分類": "基因工程產品_新成分",
     "監視期限": "111\/04\/21",
     "主成分略述": "rhASB (Galsulfase)",
     "限制項目": "02輸　入",
@@ -36,13 +38,6 @@
             "製造廠廠址": "Eisenbahnstrasse 2-4, 88085 Langenargen, Germany",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
-            "製程": ""
-        },
-        {
-            "製造廠名稱": "MUS9172000  JUBILANT HOLLISTERSTIER LLC",
-            "製造廠廠址": "3525 N. REGAL ST., SPOKANE, WA 99207 USA",
-            "製造廠公司地址": "",
-            "製造廠國別": "UNITED STATES",
             "製程": ""
         }
     ],
@@ -67,13 +62,6 @@
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
             "製程": "原料藥製造廠"
-        },
-        {
-            "製造廠名稱": "FUS2401000  AndersonBrecon Inc",
-            "製造廠廠址": "4545 ASSEMBLY DRIVE, ROCKFORD, IL 61109 USA",
-            "製造廠公司地址": "",
-            "製造廠國別": "UNITED STATES",
-            "製程": "包裝"
         }
     ],
     "CCC號列": "",
@@ -90,8 +78,16 @@
     ],
     "仿單外盒": [
         {
+            "title": "MLC7197600_effective PI-109-05-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=72000024&Seq=002&Type=9"
+        },
+        {
             "title": "2200002401-106-07-21.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=72000024&Seq=001&Type=9"
+        },
+        {
+            "title": "MLC7197800_effective Carton-109-05-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=72000024&Seq=002&Type=8"
         },
         {
             "title": "2200002402-106-07-21.pdf",

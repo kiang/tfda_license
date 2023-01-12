@@ -1,12 +1,12 @@
 {
     "code": "56030002",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56030002",
-    "time": "2022-06-24 07:35:55",
+    "time": "2023-01-13 04:41:38",
     "許可證字號": "衛部醫器輸字第030002號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可登錄編號": "QSD9915",
+    "製造許可登錄編號": "QSD10020",
     "有效日期": "116\/08\/08",
     "發證日期": "106\/08\/08",
     "許可證種類": "醫　器",
@@ -39,8 +39,17 @@
     "申請商地址": "新北市新店區北新路三段221號10樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MMY0178000  NIHON KOHDEN MALAYSIA SDN.BHD.",
-            "製造廠廠址": "SUITE 15-13, LEVEL 15 GTOWER, 199 JALAN TUN RAZAK 50400 KUALA LUMPUR, MALAYSIA",
+            "製造廠名稱": "MMY0151000  Jabil Circuit Sdn. Bhd.",
+            "製造廠廠址": "56, Hilir Sungai Keluang 1, Bayan Lepas Industrial Park, Phase 4, 11900 Penang, Malaysia",
+            "製造廠公司地址": "",
+            "製造廠國別": "MALAYSIA",
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MMY0246000  Nihon Kohden Malaysia Sdn. Bhd.",
+            "製造廠廠址": "Suite 15-13, Level 15, GTower, 199 Jalan Tun Razak, 50400 Kuala Lumpur, Malaysia",
             "製造廠公司地址": "",
             "製造廠國別": "MALAYSIA",
             "製程": ""

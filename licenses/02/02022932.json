@@ -1,7 +1,7 @@
 {
     "code": "02022932",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022932",
-    "time": "2021-10-29 07:21:23",
+    "time": "2023-01-13 03:43:00",
     "許可證字號": "衛署藥輸字第022932號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,7 +17,7 @@
     "通關簽審文件編號": "DHA00202293202",
     "中文品名": "保栓通膜衣錠75毫克",
     "英文品名": "PLAVIX FILM-COATED TABLETS 75MG",
-    "適應症": "Clopidogrel適用於粥狀動脈栓塞事件的次級預防於下列病患：\r\n降低近期發生中風、心肌梗塞或周邊動脈血管疾病的粥狀動脈硬化病人之粥狀動脈栓塞事件(如:心肌梗塞、中風或其他因血管病變引起的死亡)的發生。與ASPIRIN併用降低非ST段上升之急性冠心症(不穩定性心絞痛和非Q波型心肌梗塞)病人（包括經皮冠狀動脈介入性治療後放置支架的患者）之粥狀動脈栓塞事件。與ASPIRIN併用可用於以內科治療的ST段上升之急性心肌梗塞病人。不適合接受Vitamin K antagonists的心房纖維顫動患者，併有至少一個發生血管事件危險因子，且屬於出血危險性低者，可與ASPIRIN併用以預防粥狀動脈栓塞及血栓栓塞事件，包括中風。",
+    "適應症": "１、\t降低近期發生中風、心肌梗塞或周邊動脈血管疾病的粥狀動脈硬化病人之粥狀動脈栓塞事件(如：心肌梗塞、中風或其他因血管病變引起的死亡)的發生。\r\n２、\t與aspirin併用降低非ST段上升之急性冠心症(不穩定性心絞痛和非Q波型心肌梗塞)病人(包括經皮冠狀動脈介入性治療後放置支架的病人)之粥狀動脈栓塞事件。\r\n３、\t與aspirin併用可用於以內科治療的ST段上升之急性心肌梗塞病人。\r\n４、\t不適合接受Vitamin K antagonists的心房纖維顫動病人，併有至少一個發生血管事件危險因子，且屬於出血危險性低者，可與aspirin併用以預防粥狀動脈栓塞及血栓栓塞事件，包括中風。\r\n５、\t與Aspirin併用，適用於降低急性缺血性腦中風(NIHSS分數≤3)或中度至高度風險暫時性腦缺血(TIA)病人之中風風險。",
     "劑型": "110錠劑",
     "包裝": "2-1000錠鋁箔盒裝",
     "儲存溫度": "",
@@ -34,8 +34,20 @@
     "申請商地址": "台北市信義區松仁路3號7樓",
     "主製造廠": [
         {
-            "": "FRANCE",
+            "製造廠名稱": "FFR0060000  SANOFI WINTHROP INDUSTRIE",
+            "製造廠廠址": "1,RUE DE LA VIERGE AMBARES ET LAGRAVE 33565 CARBON BLANC CEDEX, FRANCE",
+            "製造廠公司地址": "",
+            "製造廠國別": "FRANCE",
             "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "6132041444  台灣大昌華嘉股份有限公司高上倉",
+            "製造廠廠址": "桃園市楊梅區高上路1段150號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠(委託貼標及置入仿單)"
         }
     ],
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
@@ -68,8 +80,12 @@
     ],
     "仿單外盒": [
         {
-            "title": "Plavix 75mg_TW_LPI_C_CCDS v27_HA+GLM comment 20201023 clean-109-11-19.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022932&Seq=056&Type=9"
+            "title": "Plavix 75mg_TW_LPI_C_CCDS v28_final 2-111-04-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022932&Seq=058&Type=9"
+        },
+        {
+            "title": "PLAVIX new digital anti-counterfeiting feature 202203-111-03-04(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022932&Seq=002&Type=8"
         },
         {
             "title": "衛署藥輸字第022932號-外盒及鋁箔-104-05-14.pdf",

@@ -1,7 +1,7 @@
 {
     "code": "02022606",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022606",
-    "time": "2020-04-24 05:15:50",
+    "time": "2023-01-13 03:42:53",
     "許可證字號": "衛署藥輸字第022606號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,10 +12,12 @@
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00202260602",
     "中文品名": "雅瑞濃縮輸注液",
     "英文品名": "AGGRASTAT CONCENTRATE FOR INFUSION",
-    "適應症": "ＡＧＧＲＡＳＴＡＴ併用ＨＥＰＡＲＩＮ，可用於預防不穩定心絞痛病人或非Ｑ波之心肌梗塞病人發生缺血性心臟病發作，及用於預防患有冠狀動脈缺血症狀而須接受冠狀動脈成形術或冠狀動脈粥狀硬化切除的病人發生治療冠狀動脈突然閉塞時所造成的缺血性心臟併發症。",
+    "適應症": "AGGRASTAT併用heparin，可用於預防不穩定心絞痛病人或非Q波之心肌梗塞病人（非ST波段上昇之急性冠心症，NSTE-ACS）發生缺血性心臟病發作，及用於預防患有冠狀動脈缺血症狀而須接受經皮冠狀動脈介入性治療(PCI)的病人發生治療冠狀動脈突然閉塞時所造成的缺血性心臟併發症。",
     "劑型": "270注射劑",
     "包裝": "12.5公絲\/50公撮小瓶 1小瓶盒裝",
     "儲存溫度": "",
@@ -46,6 +48,13 @@
             "製造廠公司地址": "",
             "製造廠國別": "FINLAND",
             "製程": "包裝"
+        },
+        {
+            "製造廠名稱": "FIE0054100  Amdipharm Limited",
+            "製造廠廠址": "3 Burlington Road, Dublin 4, Ireland",
+            "製造廠公司地址": "",
+            "製造廠國別": "IRELAND",
+            "製程": "許可證持有者"
         }
     ],
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
@@ -62,8 +71,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "Aggrastat修正刊載賦形劑成分之仿單-103-04-09.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022606&Seq=005&Type=9"
+            "title": "AGGRASTAT PI_Chinese_tfda approved_June2020-109-07-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022606&Seq=006&Type=9"
+        },
+        {
+            "title": "2022_貼標-111-02-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022606&Seq=004&Type=8"
+        },
+        {
+            "title": "2022_外盒-111-02-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02022606&Seq=003&Type=8"
         },
         {
             "title": "020226060002.pdf",

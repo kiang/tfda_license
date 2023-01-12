@@ -1,7 +1,7 @@
 {
     "code": "01039860",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01039860",
-    "time": "2020-02-25 06:28:21",
+    "time": "2023-01-13 05:26:59",
     "許可證字號": "衛署藥製字第039860號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "01036042",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00103986001",
     "中文品名": "&quot;明大&quot;美好防蚊液２５０毫克\/公克",
     "英文品名": "MEFO REPELLENT SOLUTION 250MG\/GM (DIETHYLTOLUAMIDE)",
@@ -22,7 +24,7 @@
     "有效期間": "",
     "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "藥品類別": "17指示用藥",
+    "藥品類別": "17醫師藥師藥劑生指示藥品",
     "管制藥品分類級別": "",
     "藥品分類": "",
     "監視期限": "",
@@ -53,12 +55,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "4135 抗文益防蚊易-104-12-30(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039860&Seq=003&Type=9"
+            "title": "明大美好防蚊液仿單-105-06-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039860&Seq=001&Type=9"
         },
         {
-            "title": "內盒-104-09-29(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039860&Seq=004&Type=8"
+            "title": "01039860-105-06-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039860&Seq=002&Type=8"
+        },
+        {
+            "title": "01039860外盒-105-06-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01039860&Seq=001&Type=8"
         }
     ]
 }
