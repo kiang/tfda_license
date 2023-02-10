@@ -1,7 +1,7 @@
 {
     "code": "06018613",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06018613",
-    "time": "2020-02-25 19:37:34",
+    "time": "2023-02-10 04:06:56",
     "許可證字號": "衛署醫器輸字第018613號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,11 +12,13 @@
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00601861300",
     "中文品名": "“考迪斯”亞菲特斯 PTA 氣球擴張導管",
     "英文品名": "“Cordis”Aviator Plus Percutaneous Transluminal Angioplasty (PTA) balloon Dilatation Catheter",
     "效能": "詳如中文仿單核定本。",
-    "醫器規格": "詳如中文仿單核定本。",
+    "醫器規格": "詳如中文仿單核定本。\r\n說明書變更：詳如核定之中文說明書（原97年3月12日核定之標籤、說明書或包裝正本收回作廢）。許可證污損換發。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -37,8 +39,8 @@
     "申請商地址": "新北市新店區北新路3段221號10樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MCR0037000  Nitinol Devices &amp; Components Costa Rica, S.R.L.",
-            "製造廠廠址": "Coyol Free Zone, Building B25 El Coyol, Alajuela, 20102, Costa Rica",
+            "製造廠名稱": "MCR0030000  Nitinol Devices &amp; Components Costa Rica, S.R.L.",
+            "製造廠廠址": "Coyol Free Zone, Building B14, B15, B25, E1 Coyol, Alajuela, 20102, Costa Rica",
             "製造廠公司地址": "",
             "製造廠國別": "COSTA RICA",
             "製程": "Manufactured by"
@@ -46,10 +48,10 @@
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "MIE0092000  CORDIS CASHEL",
-            "製造廠廠址": "Cahir Road, Cashel, Co. Tipperary, Ireland",
+            "製造廠名稱": "MUS6072000  Cordis US Corp.",
+            "製造廠廠址": "14201 N.W. 60th Ave. Miami Lakes, FL 33014 USA",
             "製造廠公司地址": "",
-            "製造廠國別": "IRELAND",
+            "製造廠國別": "UNITED STATES",
             "製程": "委託製造者"
         }
     ],
@@ -57,52 +59,12 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060186130010.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018613&Seq=010&Type=9"
+            "title": "060186130001-112-01-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018613&Seq=011&Type=9"
         },
         {
-            "title": "060186130009.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018613&Seq=009&Type=9"
-        },
-        {
-            "title": "060186130008.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018613&Seq=008&Type=9"
-        },
-        {
-            "title": "060186130007.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018613&Seq=007&Type=9"
-        },
-        {
-            "title": "060186130006.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018613&Seq=006&Type=9"
-        },
-        {
-            "title": "060186130005.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018613&Seq=005&Type=9"
-        },
-        {
-            "title": "060186130004.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018613&Seq=004&Type=9"
-        },
-        {
-            "title": "060186130003.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018613&Seq=003&Type=9"
-        },
-        {
-            "title": "060186130002.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018613&Seq=002&Type=9"
-        },
-        {
-            "title": "060186130001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018613&Seq=001&Type=9"
-        },
-        {
-            "title": "060186130002.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018613&Seq=002&Type=8"
-        },
-        {
-            "title": "060186130001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018613&Seq=001&Type=8"
+            "title": "060186130002-112-01-03.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06018613&Seq=003&Type=8"
         }
     ]
 }

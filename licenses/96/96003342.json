@@ -1,22 +1,24 @@
 {
     "code": "96003342",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=96003342",
-    "time": "2020-02-26 13:09:25",
+    "time": "2023-02-10 04:51:26",
     "許可證字號": "衛部醫器陸輸壹字第003342號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可登錄編號": "",
-    "有效日期": "112\/01\/25",
+    "製造許可登錄編號": "QSD10511",
+    "有效日期": "117\/01\/25",
     "發證日期": "107\/01\/25",
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第一等級",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA09600334206",
     "中文品名": "&quot;飛速&quot; 醫用立體N95口罩(未滅菌)",
     "英文品名": "&quot;AOK&quot; Medical 3D N95 mask (Non-sterile)",
     "效能": "限醫療器材管理辦法「醫療用衣物(I.4040)」第一等級鑑別範圍。",
-    "醫器規格": "空白",
+    "醫器規格": "成人立體，以下空白。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -32,16 +34,25 @@
     "藥品分類": "",
     "監視期限": "",
     "主成分略述": "",
-    "限制項目": "02輸　入 40大陸生產",
+    "限制項目": "02輸　入 09委託製造 40大陸生產",
     "申請商名稱": "6231114708  飛速實業有限公司",
     "申請商地址": "新北市汐止區大同路一段239號2樓之2",
     "主製造廠": [
         {
-            "製造廠名稱": "MCN1218000  AOK TOOLING LTD",
-            "製造廠廠址": "NO.3 LONGTIAN 3 ROAD, LONGTIAN VILLAGE, KENGZI TOWN, PINGSHAN NEW DISTRICT, SHENZHEN, CHINA",
+            "製造廠名稱": "MCN2859000  Shenzhonghai Medical Inc.",
+            "製造廠廠址": "The third floor\/second floor B of Building 3, The first floor\/Third floor of Building 4, No.8, Longtain Road 3, Longtian Street, Pingshan District, Shenzhen Guangdong, China",
             "製造廠公司地址": "",
             "製造廠國別": "CHINA",
-            "製程": ""
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MCN290800  AOK Tooling Ltd.",
+            "製造廠廠址": "101 and the 1st Building 2nd Building, 3rd Building. 4th Building, 5th Building, NO.8, Longtian 3 Road, Longtian Community, Longtian Street, Pingshan District, Shenzhen, Guangdong. China.",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
+            "製程": "委託製造者"
         }
     ],
     "藥理治療分類": "",

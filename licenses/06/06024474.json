@@ -1,13 +1,13 @@
 {
     "code": "06024474",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06024474",
-    "time": "2022-12-30 06:29:34",
+    "time": "2023-02-10 04:11:40",
     "許可證字號": "衛署醫器輸字第024474號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "QSD7750",
-    "有效日期": "112\/02\/18",
+    "有效日期": "117\/02\/18",
     "發證日期": "102\/02\/18",
     "許可證種類": "醫　器",
     "舊證字號": "",
@@ -40,10 +40,19 @@
     "主製造廠": [
         {
             "製造廠名稱": "MIE0826000  Stryker Neurovascular",
-            "製造廠廠址": "BUSINESS &amp; TECHNOLOGY PARK MODEL FARM ROAD, CORK, IRELAND",
+            "製造廠廠址": "Business &amp; Technology Park, Model Farm Road, Cork, Ireland",
             "製造廠公司地址": "",
             "製造廠國別": "IRELAND",
             "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "MUS3566100  Stryker Neurovascular",
+            "製造廠廠址": "47900 Bayside Parkway, Fremont, CA 94538 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",

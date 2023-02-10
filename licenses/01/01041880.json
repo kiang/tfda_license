@@ -1,7 +1,7 @@
 {
     "code": "01041880",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01041880",
-    "time": "2020-08-28 11:08:46",
+    "time": "2023-02-10 05:40:30",
     "許可證字號": "衛署藥製字第041880號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00104188009",
     "中文品名": "&quot;信東&quot; 骨力膠囊（硫酸固可沙明）",
     "英文品名": "CASEAL CAPSULES (GLUCOSAMINE SULFATE) &quot;S.T.&quot;",
@@ -51,16 +53,38 @@
             "單位": "MG"
         }
     ],
-    "藥物辨識詳細資料": [],
-    "藥物辨識外觀圖片": [],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "1號膠囊",
+        "特殊劑型": "",
+        "顏色": "紅色\/淡黃色",
+        "特殊氣味": "",
+        "刻痕": "無",
+        "形狀": "",
+        "標記一": "ST288",
+        "標記二": "Caseal"
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Caseal Capsules 041880-104-12-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041880&Seq=370&Type=10"
+        }
+    ],
     "仿單外盒": [
+        {
+            "title": "54030690 Caseal Capsules(Lit)-(印刷版次7)-110-03-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041880&Seq=009&Type=9"
+        },
         {
             "title": "010418800001-109-06-03.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041880&Seq=008&Type=9"
         },
         {
-            "title": "54030840 Caseal Capsules (L／Lit – 500粒)-(印刷版次7)-104-12-29(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041880&Seq=007&Type=9"
+            "title": "54032290 Caseal Capsules(L-500粒)-(印刷版次3)-110-03-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041880&Seq=018&Type=8"
+        },
+        {
+            "title": "54030730 Caseal Capsules (Box-10粒x10)-(印刷版次9)-110-03-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041880&Seq=017&Type=8"
         },
         {
             "title": "010418800003-109-06-03.pdf",
@@ -73,18 +97,6 @@
         {
             "title": "010418800004-109-06-03.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041880&Seq=014&Type=8"
-        },
-        {
-            "title": "54032290 Caseal Capsules(L-500粒)-(印刷版次2)-108-08-22(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041880&Seq=013&Type=8"
-        },
-        {
-            "title": "55030170 Alu. Foil，Caseal Capsules 250mg (10錠PTP)-第04版-108-04-02(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041880&Seq=012&Type=8"
-        },
-        {
-            "title": "54030730 Caseal Capsules (Box-10粒x10)-(印刷版次8)-108-04-02(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01041880&Seq=011&Type=8"
         }
     ]
 }
