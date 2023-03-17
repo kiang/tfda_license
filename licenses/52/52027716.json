@@ -1,7 +1,7 @@
 {
     "code": "52027716",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52027716",
-    "time": "2021-08-27 05:30:47",
+    "time": "2023-03-17 03:47:13",
     "許可證字號": "衛部藥輸字第027716號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05202771601",
     "中文品名": "必治癲膜衣錠50毫克",
     "英文品名": "Briviact Film-Coated Tablets 50mg",
@@ -63,14 +65,22 @@
     "藥物辨識詳細資料": {
         "外觀尺寸": "",
         "特殊劑型": "",
-        "顏色": "",
+        "顏色": "黃色",
         "特殊氣味": "",
-        "刻痕": "",
-        "形狀": "",
-        "標記一": "",
-        "標記二": ""
+        "刻痕": "有",
+        "形狀": "橢圓形",
+        "標記一": "卵形膜衣錠",
+        "標記二": "一側刻有「u50」"
     },
     "藥物辨識外觀圖片": [
+        {
+            "title": "BRV 50鋁箔片照片-111-05-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027716&Seq=003&Type=10"
+        },
+        {
+            "title": "Standard ALU CIB73403A+-+PDF+-+ALU+110+2D+BRIVIACT+50MG+TAB+TW-111-05-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027716&Seq=002&Type=10"
+        },
         {
             "title": "BRV 50鋁箔片照片-110-03-31(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027716&Seq=001&Type=10"
@@ -80,6 +90,14 @@
         {
             "title": "PI-Briviact Tab中文 CCDS V3 jun 2021-110-06-08.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027716&Seq=003&Type=9"
+        },
+        {
+            "title": "CIB73150A BOX+BRIVIACT50MG 56TAB MONTW-111-05-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027716&Seq=008&Type=8"
+        },
+        {
+            "title": "Standard pack CIB73404A+-+PDF+-+BOX+BRIVIACT+50MG TW-111-05-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027716&Seq=007&Type=8"
         },
         {
             "title": "BRV 50外盒照片2-110-03-31(廠商自行上傳).pdf",

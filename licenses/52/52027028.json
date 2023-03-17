@@ -1,7 +1,7 @@
 {
     "code": "52027028",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52027028",
-    "time": "2022-10-28 05:59:05",
+    "time": "2023-03-17 03:44:55",
     "許可證字號": "衛部藥輸字第027028號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,20 +34,20 @@
     "申請商地址": "台北市松山區敦化北路260號3樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FDE0364100  EXCELLA GMBH &amp; CO. KG",
-            "製造廠廠址": "NURNBERGER STR. 12, 90537 FEUCHT, GERMANY",
-            "製造廠公司地址": "",
-            "製造廠國別": "GERMANY",
-            "製程": "成品製造廠"
-        }
-    ],
-    "次製造廠": [
-        {
             "製造廠名稱": "FJP0729000  Fujieda Plant of Chugai Pharma Manufacturing Co., Ltd.",
             "製造廠廠址": "2500, Takayanagi, Fujieda-city, Shizuoka, Japan",
             "製造廠公司地址": "",
             "製造廠國別": "JAPAN",
-            "製程": "包裝及分裝"
+            "製程": "製造、包裝"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "FJP0826100  Bushu Pharmaceuticals Ltd., Misato Plant",
+            "製造廠廠址": "950, Hiroki, Misato-machi, Kodama-gun, Saitama, Japan",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "包裝"
         }
     ],
     "CCC號列": "30049071005 抗癌藥Anti-cancer preparations",

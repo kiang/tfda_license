@@ -1,7 +1,7 @@
 {
     "code": "52027719",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52027719",
-    "time": "2021-08-27 05:30:54",
+    "time": "2023-03-17 03:47:27",
     "許可證字號": "衛部藥輸字第027719號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -12,6 +12,8 @@
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05202771904",
     "中文品名": "必治癲口服溶液10毫克\/毫升",
     "英文品名": "Briviact Oral Solution 10mg\/ml",
@@ -67,10 +69,58 @@
             "單位": "MG"
         }
     ],
+    "藥物辨識詳細資料": {
+        "外觀尺寸": "",
+        "特殊劑型": "",
+        "顏色": "無色至淡黃色",
+        "特殊氣味": "覆盆子口味液體",
+        "刻痕": "",
+        "形狀": "",
+        "標記一": "",
+        "標記二": ""
+    },
+    "藥物辨識外觀圖片": [
+        {
+            "title": "Outer carton of BRV OS _5-111-05-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027719&Seq=006&Type=10"
+        },
+        {
+            "title": "Outer carton of BRV OS_4-111-05-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027719&Seq=005&Type=10"
+        },
+        {
+            "title": "Oute carton of BRV OS_3-111-05-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027719&Seq=004&Type=10"
+        },
+        {
+            "title": "Outer carton of BRV OS_2-111-05-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027719&Seq=003&Type=10"
+        },
+        {
+            "title": "Outer carton of BRV OS_1-111-05-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027719&Seq=002&Type=10"
+        },
+        {
+            "title": "Bottle of BRV OS-111-05-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027719&Seq=001&Type=10"
+        }
+    ],
     "仿單外盒": [
+        {
+            "title": "CIB73143A+-+PDF+-+LFL+BRIVIACT+10MG_ML+300ML+SOL+TW-111-05-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027719&Seq=003&Type=9"
+        },
         {
             "title": "Briviact OS V3 中文仿單202106-110-06-08.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027719&Seq=002&Type=9"
+        },
+        {
+            "title": "CIB73142A+-+PDF+-+LBL+BRIVIACT+10MG_ML+300ML+SOL+TW-111-05-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027719&Seq=004&Type=8"
+        },
+        {
+            "title": "CIB73141A+-+PDF+-+BOX+BRIVIACT+10MG_ML+300ML+SOL+TW-111-05-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027719&Seq=003&Type=8"
         },
         {
             "title": "LBL+BRIVIACT+300ML+SOL_MU1-108-11-14.pdf",

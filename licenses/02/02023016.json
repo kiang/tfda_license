@@ -1,18 +1,18 @@
 {
     "code": "02023016",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02023016",
-    "time": "2022-02-25 06:38:43",
+    "time": "2023-03-17 03:32:14",
     "許可證字號": "衛署藥輸字第023016號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "114\/10\/05",
-    "發證\/登錄日期": "89\/10\/05",
+    "發證日期": "89\/10\/05",
     "許可證種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
-    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材原登錄字號": "",
     "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00202301609",
     "中文品名": "艾來６０公絲錠劑",
@@ -34,7 +34,10 @@
     "申請商地址": "臺北市內湖區堤頂大道2段407巷20弄1、3、5、7號10樓，及22、24、26號10樓及22號10樓之1",
     "主製造廠": [
         {
-            "": "INDIA",
+            "製造廠名稱": "FIN1180000  SANOFI INDIA LIMITED",
+            "製造廠廠址": "Plot No. L-121, Phase-III Verna Industrial Estate, Verna, Goa 403 722, India",
+            "製造廠公司地址": "",
+            "製造廠國別": "INDIA",
             "製程": ""
         }
     ],
@@ -62,11 +65,19 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "Foil Allegra 60 Taiwan-DKSH-111-05-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023016&Seq=437&Type=10"
+        },
+        {
             "title": "02023016.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023016&Seq=436&Type=10"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "Leaflet Allegra Taiwan-DKSH-111-05-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023016&Seq=019&Type=9"
+        },
         {
             "title": "773583 SIL-A-0128920-4tt-TW-EX Leaflet Allegra-110-07-07(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023016&Seq=018&Type=9"
@@ -138,6 +149,10 @@
         {
             "title": "020230160001.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023016&Seq=001&Type=9"
+        },
+        {
+            "title": "Carton Allegra 60 Taiwan-DKSH-111-05-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02023016&Seq=011&Type=8"
         },
         {
             "title": "920659 SIL-A-0125020-5tt-TW-EX foil Allegra 60mg-110-07-07(廠商自行上傳).pdf",

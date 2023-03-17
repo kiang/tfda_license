@@ -1,7 +1,7 @@
 {
     "code": "06012276",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06012276",
-    "time": "2022-12-30 06:24:04",
+    "time": "2023-03-17 03:56:47",
     "許可證字號": "衛署醫器輸字第012276號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,7 +18,7 @@
     "中文品名": "SCS-1000 型校正液",
     "英文品名": "SCS-1000 WHOLE BLOOD CALIBRATOR",
     "效能": "做為Sysmex血球分析儀校正及校正後確認用。",
-    "醫器規格": "3 x 2.0 ml\/Box",
+    "醫器規格": "3 x 2.0 ml\/Box\r\n\r\n新增規格：1x2.0ml\/Box。\r\n標籤、說明書或包裝變更為：詳如核定之中文說明書。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -48,6 +48,13 @@
     ],
     "次製造廠": [
         {
+            "製造廠名稱": "6132081135  台灣希森美康股份有限公司",
+            "製造廠廠址": "桃園市八德區永豐路236巷5號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "分包裝廠"
+        },
+        {
             "製造廠名稱": "MJP0381000  SYSMEX CORPORATION",
             "製造廠廠址": "1-5-1 WAKINOHAMA-KAIGANDORI, CHUO-KU, KOBE 651-0073, JAPAN",
             "製造廠公司地址": "",
@@ -59,32 +66,12 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060122760004.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012276&Seq=004&Type=9"
+            "title": "20230207155731402-112-02-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012276&Seq=005&Type=9"
         },
         {
-            "title": "060122760003.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012276&Seq=003&Type=9"
-        },
-        {
-            "title": "060122760002.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012276&Seq=002&Type=9"
-        },
-        {
-            "title": "060122760001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012276&Seq=001&Type=9"
-        },
-        {
-            "title": "060122760003.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012276&Seq=003&Type=8"
-        },
-        {
-            "title": "060122760002.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012276&Seq=002&Type=8"
-        },
-        {
-            "title": "060122760001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012276&Seq=001&Type=8"
+            "title": "20230207155731402-112-02-08.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012276&Seq=004&Type=8"
         }
     ]
 }
