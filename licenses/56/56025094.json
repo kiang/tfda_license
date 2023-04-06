@@ -1,17 +1,19 @@
 {
     "code": "56025094",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025094",
-    "time": "2020-02-26 07:21:04",
+    "time": "2023-04-07 05:24:45",
     "許可證字號": "衛部醫器輸字第025094號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "QSD1788",
-    "有效日期": "112\/07\/24",
+    "有效日期": "117\/07\/24",
     "發證日期": "102\/07\/24",
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05602509402",
     "中文品名": "貝克曼庫爾特肌酸酐試劑(酵素分析法)",
     "英文品名": "BECKMAN COULTER CREATININE (ENZYMATIC)",
@@ -37,6 +39,13 @@
     "申請商地址": "台北市大安區敦化南路二段216號8樓",
     "主製造廠": [
         {
+            "製造廠名稱": "M269999999  Made (部分製程) in JAPAN",
+            "製造廠廠址": "",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "99部分製程"
+        },
+        {
             "製造廠名稱": "MIE0060000  BECKMAN COULTER IRELAND INC.",
             "製造廠廠址": "LISMEEHAN, O&#39;CALLAGHAN&#39;S MILLS, CO. CLARE, IRELAND",
             "製造廠公司地址": "",
@@ -48,12 +57,12 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "560250940001-102-09-03.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025094&Seq=001&Type=9"
+            "title": "醫器輸025094_230216仿單-112-03-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025094&Seq=002&Type=9"
         },
         {
-            "title": "560250940002-102-09-03.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025094&Seq=001&Type=8"
+            "title": "醫器輸025094_230216仿單-112-03-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025094&Seq=002&Type=8"
         }
     ]
 }

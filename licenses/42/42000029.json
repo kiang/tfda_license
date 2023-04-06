@@ -1,28 +1,30 @@
 {
     "code": "42000029",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000029",
-    "time": "2021-06-25 04:51:46",
+    "time": "2023-04-07 04:14:47",
     "許可證字號": "衛署醫器陸輸字第000029號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可編號": "QSD0993",
+    "製造許可登錄編號": "QSD0993",
     "有效日期": "114\/09\/23",
     "發證日期": "94\/09\/23",
     "許可證種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
+    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA04200002901",
     "中文品名": "百略醫學數字顯示電子體溫計",
     "英文品名": "microlife Digital Thermometer",
-    "效能、用途或適應症": "詳如中文仿單核定本",
-    "醫器規格或型號": "MT1681, MT1671, MT1931, MT1811, MT1622, MT1751, MT1831, 以下空白。增加規格：MT16C2、MT16F1。增加規格：MT1611。以下空白。註銷規格：MT1751。",
+    "效能": "詳如中文仿單核定本",
+    "醫器規格": "MT1681, MT1671, MT1931, MT1811, MT1622, MT1751, MT1831, 以下空白。增加規格：MT16C2、MT16F1。增加規格：MT1611。以下空白。註銷規格：MT1751。\r\n新增規格: MT16F1R。\r\nMT1681、MT16C2 規格變更: 詳如核定之中文說明書(原94年12月5日核定之型號MT1681及99年9月6日核定之型號MT16C2予以作廢)。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
     "有效期間": "",
     "指示藥品審查基準": "",
-    "標籤、說明書或包裝加註": "",
+    "標籤、仿單及包裝加註": "",
     "醫器主類別一": "J一般醫院及個人使用裝置",
     "醫器次類別一": "",
     "醫器主類別二": "",
@@ -33,14 +35,14 @@
     "監視期限": "",
     "主成分略述": "",
     "限制項目": "02輸　入 40大陸生產",
-    "醫療器材商名稱": "6201115019  百略醫學科技股份有限公司",
-    "醫療器材商地址": "台北市內湖區瑞光路431號9樓",
+    "申請商名稱": "6201115019  百略醫學科技股份有限公司",
+    "申請商地址": "台北市內湖區瑞光路431號9樓",
     "主製造廠": [
         {
-            "製造業者名稱": "MCN5012000  Onbo Electronic (Shenzhen) Co., Ltd.",
-            "製造業者地址": "No. 138, Huasheng Road, Langkou Community, Dalang Street, Longhua District, Shenzhen, China",
-            "製造業者公司地址": "",
-            "製造業者國別": "CHINA",
+            "製造廠名稱": "MCN5012000  Onbo Electronic (Shenzhen) Co., Ltd.",
+            "製造廠廠址": "No. 138, Huasheng Road, Langkou Community, Dalang Street, Longhua District, Shenzhen, China",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
             "製程": ""
         }
     ],
@@ -48,16 +50,32 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "420000290001-108-08-20.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000029&Seq=019&Type=9"
+            "title": "420000290001-112-03-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000029&Seq=022&Type=9"
         },
         {
-            "title": "42000029___20100909.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000029&Seq=018&Type=9"
+            "title": "420000290001-99-09-06-112-03-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000029&Seq=021&Type=9"
+        },
+        {
+            "title": "420000290001-94-12-05-112-03-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000029&Seq=020&Type=9"
         },
         {
             "title": "42000029001___20130120.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000029&Seq=017&Type=9"
+        },
+        {
+            "title": "420000290002-112-03-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000029&Seq=004&Type=8"
+        },
+        {
+            "title": "420000290002-99-09-06-112-03-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000029&Seq=003&Type=8"
+        },
+        {
+            "title": "420000290002-94-12-05-112-03-20.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000029&Seq=002&Type=8"
         },
         {
             "title": "420000290001.pdf",
