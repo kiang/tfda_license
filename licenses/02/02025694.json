@@ -1,7 +1,7 @@
 {
     "code": "02025694",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02025694",
-    "time": "2023-04-07 03:37:09",
+    "time": "2023-04-14 03:30:43",
     "許可證字號": "衛署藥輸字第025694號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -34,11 +34,20 @@
     "申請商地址": "台北市中山區南京東路二段206號8樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FIN0265000  AARTI PHARMALABS LIMITED",
+            "製造廠名稱": "FIN0265200  AARTI PHARMALABS LIMITED",
             "製造廠廠址": "D-53, MIDC, PHASE-II, KALYAN-SHIL ROAD, DOMBIVLI (E). THANE-421 204 MAHARASHTRA, INDIA",
-            "製造廠公司地址": "801\/23, G.I.D.C. ESTATE, PHASE III, VAPI-396 195, DIST. VALSAD, 396 195, GUJARAT, INDIA",
+            "製造廠公司地址": "",
             "製造廠國別": "INDIA",
             "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "FIN070100  AARTI PHARMALABS LIMITED",
+            "製造廠廠址": "801\/23, G.I.D.C. ESTATE, PHASE III, VAPI-396 195, DIST. VALSAD, 396 195, GUJARAT, INDIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "INDIA",
+            "製程": "總公司"
         }
     ],
     "CCC號列": "",
