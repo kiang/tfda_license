@@ -1,17 +1,19 @@
 {
     "code": "60000961",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60000961",
-    "time": "2021-09-24 05:44:37",
+    "time": "2023-05-05 03:53:44",
     "許可證字號": "衛部菌疫輸字第000961號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "113\/07\/18",
-    "發證日期": "103\/07\/18",
-    "許可證種類": "製　劑",
+    "發證\/登錄日期": "103\/07\/18",
+    "許可證\/登錄種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA06000096109",
     "中文品名": "賀癌平 凍晶注射劑440毫克",
     "英文品名": "Herceptin Vial 440mg",
@@ -28,11 +30,11 @@
     "監視期限": "",
     "主成分略述": "TRASTUZUMAB",
     "限制項目": "02輸　入",
-    "申請商名稱": "1901701100  羅氏大藥廠股份有限公司",
+    "申請商名稱": "羅氏大藥廠股份有限公司",
     "申請商地址": "台北市信義區松仁路100號40樓、40樓之1、41樓之1",
     "主製造廠": [
         {
-            "製造廠名稱": "FUS0767100  GENENTECH INC.",
+            "製造廠名稱": "GENENTECH INC.",
             "製造廠廠址": "4625 NE BROOKWOOD PARKWAY, HILLSBORO OREGON, 97124 USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
@@ -41,35 +43,42 @@
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "FCH0257000  F. HOFFMANN-LA ROCHE LTD.",
+            "製造廠名稱": "F. HOFFMANN-LA ROCHE LTD.",
             "製造廠廠址": "WURMISWEG, CH-4303 KAISERAUGST, SWITZERLAND",
             "製造廠公司地址": "",
             "製造廠國別": "SWITZERLAND",
             "製程": "包裝廠及溶劑廠"
         },
         {
-            "製造廠名稱": "FSG0030000  Roche Singapore Technical Operations Pte.Ltd.",
+            "製造廠名稱": "ROCHE DIAGNOSTICS GMBH",
+            "製造廠廠址": "SANDHOFER STRASSE 116, 68305 MANNHEIM, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "成品製造廠"
+        },
+        {
+            "製造廠名稱": "Roche Singapore Technical Operations Pte.Ltd.",
             "製造廠廠址": "10 Tuas Bay Link, 637394 Singapore",
             "製造廠公司地址": "",
             "製造廠國別": "SINGAPORE",
             "製程": "原料藥製造廠"
         },
         {
-            "製造廠名稱": "FSG0032000  Lonza Biologics Tuas Pte Ltd.",
+            "製造廠名稱": "Lonza Biologics Tuas Pte Ltd.",
             "製造廠廠址": "35 Tuas South Avenue 6, Singapore, 637377",
             "製造廠公司地址": "",
             "製造廠國別": "SINGAPORE",
             "製程": "原料藥製造廠"
         },
         {
-            "製造廠名稱": "FUS0326000  MADE BY GENENTECH INC. MADE FOR F. HOFFMANN-LA ROCHE LTD.",
+            "製造廠名稱": "MADE BY GENENTECH INC. MADE FOR F. HOFFMANN-LA ROCHE LTD.",
             "製造廠廠址": "1 DNA WAY SOUTH SAN FRANCISCO CA 94080, U.S.A.",
             "製造廠公司地址": "CH-4070 BASEL, SWITZERLAND",
             "製造廠國別": "UNITED STATES",
             "製程": ""
         },
         {
-            "製造廠名稱": "FUS0767000  GENENTECH, INC.",
+            "製造廠名稱": "GENENTECH, INC.",
             "製造廠廠址": "1000 NEW HORIZONS WAY, VACAVILLE, CA 95688, USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",

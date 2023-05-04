@@ -1,17 +1,19 @@
 {
     "code": "01032043",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01032043",
-    "time": "2020-02-25 05:35:50",
+    "time": "2023-05-05 03:17:05",
     "許可證字號": "衛署藥製字第032043號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "114\/01\/04",
-    "發證日期": "79\/01\/04",
-    "許可證種類": "製　劑",
+    "發證\/登錄日期": "79\/01\/04",
+    "許可證\/登錄種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00103204309",
     "中文品名": "中美風熱嗽感冒液(無糖)",
     "英文品名": "ANTI-COLD COLD LIQUID（SUGAR FREE）",
@@ -28,11 +30,11 @@
     "監視期限": "",
     "主成分略述": "CHLORPHENIRAMINE MALEATE, DL-METHYLEPHEDRINE HCL, ACETAMINOPHEN (EQ TO PARACETAMOL), CAFFEINE ANHYDROUS, POTASSIUM GUAIACOLSULFONATE",
     "限制項目": "01國　產",
-    "申請商名稱": "0402211200  中美兄弟製藥股份有限公司",
+    "申請商名稱": "中美兄弟製藥股份有限公司",
     "申請商地址": "彰化市東芳里彰鹿路１０６號",
     "主製造廠": [
         {
-            "製造廠名稱": "0402211300  中美兄弟製藥股份有限公司",
+            "製造廠名稱": "中美兄弟製藥股份有限公司",
             "製造廠廠址": "彰化市東芳里彰鹿路１０６號",
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
@@ -101,12 +103,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "中美風熱嗽-仿單-109-05-15(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032043&Seq=006&Type=9"
+        },
+        {
             "title": "風熱嗽-說明書-107-05-18.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032043&Seq=005&Type=9"
         },
         {
-            "title": "風熱嗽-104-07-21(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032043&Seq=004&Type=9"
+            "title": "中美風熱嗽-盒內說明書-109-05-15(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032043&Seq=010&Type=8"
+        },
+        {
+            "title": "中美風熱嗽-紙盒-109-05-15(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032043&Seq=009&Type=8"
         },
         {
             "title": "風熱嗽-紙盒-107-05-18.pdf",
@@ -115,10 +125,6 @@
         {
             "title": "風熱嗽-標籤-107-05-18.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032043&Seq=007&Type=8"
-        },
-        {
-            "title": "0026-風熱嗽-紙盒-104-11-18(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01032043&Seq=006&Type=8"
         }
     ]
 }

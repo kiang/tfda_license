@@ -1,12 +1,12 @@
 {
     "code": "56028668",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028668",
-    "time": "2023-04-28 04:30:05",
+    "time": "2023-05-05 06:14:01",
     "許可證字號": "衛部醫器輸字第028668號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可登錄編號": "QSD10678",
+    "製造許可登錄編號": "QSD13783",
     "有效日期": "115\/06\/17",
     "發證\/登錄日期": "105\/06\/17",
     "許可證\/登錄種類": "醫　器",
@@ -15,10 +15,10 @@
     "第一等級醫療器材原許可證字號": "",
     "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05602866801",
-    "中文品名": "&quot;歐托邁吉司&quot; 歐瑞可助聽器選配分析系統",
-    "英文品名": "&quot;Otometrics&quot; AURICAL Fitting System",
+    "中文品名": "&quot;耐德斯&quot; 歐瑞可助聽器選配分析系統",
+    "英文品名": "&quot;Natus&quot; AURICAL Fitting System",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "詳如中文仿單核定本",
+    "醫器規格": "詳如中文仿單核定本。註銷規格：Type 1082，以下空白。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -39,23 +39,32 @@
     "申請商地址": "臺北市松山區南京東路4段170號6樓之C室",
     "主製造廠": [
         {
+            "製造廠名稱": "Natus Manufacturing Limited",
+            "製造廠廠址": "IDA BUSINESS PARK, GORT, CO. GALWAY,IRELAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "IRELAND",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
             "製造廠名稱": "NATUS MEDICAL DENMARK APS",
             "製造廠廠址": "HOERSKAETTEN 9, 2630 TAASTRUP DENMARK",
             "製造廠公司地址": "",
             "製造廠國別": "DENMARK",
-            "製程": ""
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "560286680001-105-06-28.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56028668&Seq=001&Type=9"
+            "title": "56028668-112.5.1-112-05-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56028668&Seq=002&Type=9"
         },
         {
-            "title": "560286680002-105-06-28.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56028668&Seq=001&Type=8"
+            "title": "56028668-112.5.1-112-05-02.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56028668&Seq=002&Type=8"
         }
     ]
 }

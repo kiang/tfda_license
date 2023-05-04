@@ -1,18 +1,18 @@
 {
     "code": "60001062",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60001062",
-    "time": "2022-11-25 06:28:02",
+    "time": "2023-05-05 03:54:08",
     "許可證字號": "衛部菌疫輸字第001062號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "116\/09\/13",
-    "發證日期": "106\/09\/13",
-    "許可證種類": "菌　疫",
+    "發證\/登錄日期": "106\/09\/13",
+    "許可證\/登錄種類": "菌　疫",
     "舊證字號": "",
     "醫療器材級數": "",
-    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材原許可證字號": "",
     "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA06000106206",
     "中文品名": "喜瑞樂注射液劑150毫克\/毫升(預充填注射針筒)",
@@ -30,11 +30,11 @@
     "監視期限": "",
     "主成分略述": "OMALIZUMAB",
     "限制項目": "02輸　入 26監視期滿新藥",
-    "申請商名稱": "0924601100  台灣諾華股份有限公司",
+    "申請商名稱": "台灣諾華股份有限公司",
     "申請商地址": "台北市中山區民生東路三段2號8樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MDE1120100  Vetter Pharma-Fertigung GmbH &amp; Co. KG",
+            "製造廠名稱": "Vetter Pharma-Fertigung GmbH &amp; Co. KG",
             "製造廠廠址": "Eisenbahnstrasse 2-4, 88085 Langenargen, Germany",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
@@ -43,31 +43,38 @@
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "1225204000  裕利股份有限公司",
+            "製造廠名稱": "裕利股份有限公司",
             "製造廠廠址": "桃園市大園區和平里1鄰開和路91號",
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
             "製程": "二級包裝廠(委託貼標及置入仿單)"
         },
         {
-            "製造廠名稱": "FCH0088000  NOVARTIS PHARMA STEIN AG",
+            "製造廠名稱": "NOVARTIS PHARMA STEIN AG",
             "製造廠廠址": "SCHAFFHAUSERSTRASSE CH-4332 STEIN, SWITZERLAND",
             "製造廠公司地址": "CH-4002,BASEL,SWITZERLAND",
             "製造廠國別": "SWITZERLAND",
             "製程": "二級包裝廠"
         },
         {
-            "製造廠名稱": "FDE0559000  VETTER PHARMA-FERTIGUNG GMBH &amp; CO KG",
+            "製造廠名稱": "VETTER PHARMA-FERTIGUNG GMBH &amp; CO KG",
             "製造廠廠址": "MOOSWIESEN 2, 88214 RAVENSBURG, GERMANY",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
             "製程": "二級包裝廠"
         },
         {
-            "製造廠名稱": "FFR0220000  NOVARTIS PHARMA S.A.S.",
+            "製造廠名稱": "NOVARTIS PHARMA S.A.S.",
             "製造廠廠址": "8, RUE DE L&#39;INDUSTRIE, F-68330 HUNINGUE, FRANCE",
             "製造廠公司地址": "",
             "製造廠國別": "FRANCE",
+            "製程": "原料藥製造廠"
+        },
+        {
+            "製造廠名稱": "NOVARTIS SINGAPORE PHARMACEUTICAL MFG PTE LTD (BIOPRODUCTION OPERATION SINGAPORE)",
+            "製造廠廠址": "8 TUAS BAY LANE, SINGAPORE 636986",
+            "製造廠公司地址": "",
+            "製造廠國別": "SINGAPORE",
             "製程": "原料藥製造廠"
         }
     ],
@@ -100,6 +107,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "10007617-04_TW_LFT_P01-111-12-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001062&Seq=006&Type=9"
+        },
         {
             "title": "附件二_喜瑞樂注射液劑(預充填注射針筒)-TWI-240221-110-03-25.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=60001062&Seq=005&Type=9"

@@ -1,7 +1,7 @@
 {
     "code": "06018770",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06018770",
-    "time": "2022-02-25 07:44:32",
+    "time": "2023-05-05 05:16:59",
     "許可證字號": "衛署醫器輸字第018770號",
     "註銷狀態": "已註銷",
     "註銷日期": "110\/12\/09",
@@ -9,7 +9,7 @@
     "製造許可登錄編號": "QSD5057",
     "有效日期": "112\/04\/02",
     "發證\/登錄日期": "97\/04\/02",
-    "許可證種類": "醫　器",
+    "許可證\/登錄種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
     "第一等級醫療器材原許可證字號": "",
@@ -35,17 +35,20 @@
     "監視期限": "",
     "主成分略述": "",
     "限制項目": "02輸　入 09委託製造",
-    "申請商名稱": "6401022675  壯生醫療器材股份有限公司",
+    "申請商名稱": "壯生醫療器材股份有限公司",
     "申請商地址": "臺北市中山區民生東路三段2號10樓及11樓",
     "主製造廠": [
         {
-            "": "GERMANY",
+            "製造廠名稱": "JOHNSON &amp; JOHNSON MEDICAL GMBH",
+            "製造廠廠址": "ROBERT KOCH STRASSE 1, D-22851 NORDERSTEDT, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
             "製程": ""
         }
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "MBE0017100  Johnson &amp; Johnson International, c\/o European Logistics Centre",
+            "製造廠名稱": "Johnson &amp; Johnson International, c\/o European Logistics Centre",
             "製造廠廠址": "Leonardo Da Vincilaan 15, BE-1831 Diegem, Belgium",
             "製造廠公司地址": "",
             "製造廠國別": "BELGIUM",

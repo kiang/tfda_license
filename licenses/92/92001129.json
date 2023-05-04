@@ -1,7 +1,7 @@
 {
     "code": "92001129",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92001129",
-    "time": "2022-03-25 06:08:31",
+    "time": "2023-05-05 04:32:50",
     "許可證字號": "衛部醫器陸輸字第001129號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,7 +9,7 @@
     "製造許可登錄編號": "QSD11653",
     "有效日期": "114\/03\/26",
     "發證\/登錄日期": "109\/03\/26",
-    "許可證種類": "醫　器",
+    "許可證\/登錄種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
     "第一等級醫療器材原許可證字號": "",
@@ -18,7 +18,7 @@
     "中文品名": "“泰爾茂”電子血壓計",
     "英文品名": "“Terumo” Digital Blood Pressure Monitor",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "ES-P2020ZZ\r\n以下空白",
+    "醫器規格": "ES-P2020ZZ\r\n以下空白\r\n標籤、說明書或包裝變更：詳如核定之中文說明書(原109年4月14日核定之標籤、說明書或包裝予以收回作廢)。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -35,17 +35,20 @@
     "監視期限": "",
     "主成分略述": "",
     "限制項目": "02輸　入 40大陸生產",
-    "申請商名稱": "620101U395  台灣泰爾茂醫療產品股份有限公司",
+    "申請商名稱": "台灣泰爾茂醫療產品股份有限公司",
     "申請商地址": "臺北市中正區忠孝西路1段4號8樓",
     "主製造廠": [
         {
-            "": "CHINA",
+            "製造廠名稱": "A&amp;D Electronics (Shenzhen) Co., Ltd.",
+            "製造廠廠址": "1-5\/F, B1. 4, Hengchangrong H.T. Ind. Park, Shangnan East Rd., Hongtian, Shajing, Bao&#39;an District, Shenzhen, Guangdong, Province, China",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
             "製程": ""
         }
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "MJP0770000  A&amp;D CO., LTD",
+            "製造廠名稱": "A&amp;D CO., LTD",
             "製造廠廠址": "23-14, HIGASHI-IKEBUKURO 3-CHOME, TOSHIMA-KU, TOSHIMA-KU, TOKYO, JAPAN",
             "製造廠公司地址": "",
             "製造廠國別": "JAPAN",
@@ -56,12 +59,8 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "920011290002-109-04-14.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92001129&Seq=001&Type=9"
-        },
-        {
-            "title": "920011290001-109-04-14.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92001129&Seq=001&Type=8"
+            "title": "920011290001-112-04-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92001129&Seq=002&Type=9"
         }
     ]
 }

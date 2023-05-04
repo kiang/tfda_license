@@ -1,24 +1,24 @@
 {
     "code": "06012168",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06012168",
-    "time": "2022-12-30 06:24:01",
+    "time": "2023-05-05 04:02:55",
     "許可證字號": "衛署醫器輸字第012168號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "QSD7571",
     "有效日期": "114\/08\/30",
-    "發證日期": "94\/08\/30",
-    "許可證種類": "醫　器",
+    "發證\/登錄日期": "94\/08\/30",
+    "許可證\/登錄種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
-    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材原許可證字號": "",
     "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00601216801",
     "中文品名": "八項三分類型品管血液",
     "英文品名": "EIGHTCHECK-3WP",
     "效能": "以血液為基礎的品管用物質，用來評估血球測定方法的精確性，可以做為外部品管的評估。",
-    "醫器規格": "EIGHTCHECK-3WP L 4.6MLx12\/BOXEIGHTCHECK-3WP H 4.6MLx12\/BOXEIGHTCHECK-3WP N 4.6MLx12\/BOX",
+    "醫器規格": "EIGHTCHECK-3WP L 4.6MLx12\/BOXEIGHTCHECK-3WP H 4.6MLx12\/BOXEIGHTCHECK-3WP N 4.6MLx12\/BOX\r\n\r\n(一)原核准規格加註型號：\r\n１、EIGHTCHECK-3WP L 4.6mLx12\/Box(型號：00403711)。\r\n２、EIGHTCHECK-3WP H 4.6mLx12\/Box(型號：00403818)。\r\n３、EIGHTCHECK-3WP N 4.6mLx12\/Box(型號：00403613)。\r\n(二)新增分包裝業者之適用規格：EIGHTCHECK-3WP L 4.6mL、EIGHTCHECK-3WP H 4.6mL、EIGHTCHECK-3WP N 4.6mL。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -35,11 +35,11 @@
     "監視期限": "",
     "主成分略述": "",
     "限制項目": "02輸　入",
-    "申請商名稱": "620118B693  台灣希森美康股份有限公司",
+    "申請商名稱": "台灣希森美康股份有限公司",
     "申請商地址": "新北市板橋區深丘里中山路一段156號18樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MUS2514100  STRECK",
+            "製造廠名稱": "STRECK",
             "製造廠廠址": "7002 SOUTH 109TH STREET, LA  VISTA,NE 68128 U.S.A.",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
@@ -48,7 +48,14 @@
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "MJP0381000  SYSMEX CORPORATION",
+            "製造廠名稱": "台灣希森美康股份有限公司",
+            "製造廠廠址": "桃園市八德區永豐路236巷5號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "分包裝廠"
+        },
+        {
+            "製造廠名稱": "SYSMEX CORPORATION",
             "製造廠廠址": "1-5-1 WAKINOHAMA-KAIGANDORI, CHUO-KU, KOBE 651-0073, JAPAN",
             "製造廠公司地址": "",
             "製造廠國別": "JAPAN",
@@ -59,24 +66,12 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060121680004.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012168&Seq=004&Type=9"
+            "title": "06012168-112-04-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012168&Seq=005&Type=9"
         },
         {
-            "title": "060121680003.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012168&Seq=003&Type=9"
-        },
-        {
-            "title": "060121680002.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012168&Seq=002&Type=9"
-        },
-        {
-            "title": "060121680001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012168&Seq=001&Type=9"
-        },
-        {
-            "title": "060121680001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012168&Seq=001&Type=8"
+            "title": "06012168-112-04-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06012168&Seq=002&Type=8"
         }
     ]
 }

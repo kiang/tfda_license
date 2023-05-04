@@ -1,17 +1,19 @@
 {
     "code": "01033685",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01033685",
-    "time": "2021-09-24 05:33:27",
+    "time": "2023-05-05 03:18:38",
     "許可證字號": "衛署藥製字第033685號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "115\/02\/13",
-    "發證日期": "80\/02\/13",
-    "許可證種類": "製　劑",
+    "發證\/登錄日期": "80\/02\/13",
+    "許可證\/登錄種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00103368502",
     "中文品名": "解風好液",
     "英文品名": "GOOD-COUGHT LIQUID",
@@ -28,11 +30,11 @@
     "監視期限": "",
     "主成分略述": "CHLORPHENIRAMINE MALEATE, DL-METHYLEPHEDRINE HCL, ACETAMINOPHEN (EQ TO PARACETAMOL), CAFFEINE ANHYDROUS, DEXTROMETHORPHAN HBR, GUAIACOL GLYCERYL ETHER (EQ TO GUAIFENESIN), GLYCYRRHIZA EXTRACT",
     "限制項目": "01國　產",
-    "申請商名稱": "0402211200  中美兄弟製藥股份有限公司",
+    "申請商名稱": "中美兄弟製藥股份有限公司",
     "申請商地址": "彰化市東芳里彰鹿路１０６號",
     "主製造廠": [
         {
-            "製造廠名稱": "0402211300  中美兄弟製藥股份有限公司",
+            "製造廠名稱": "中美兄弟製藥股份有限公司",
             "製造廠廠址": "彰化市東芳里彰鹿路１０６號",
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
@@ -117,6 +119,10 @@
     ],
     "仿單外盒": [
         {
+            "title": "033685解風好液-說明書-107-05-21-111-03-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033685&Seq=001&Type=9"
+        },
+        {
             "title": "解風好液-標籤-107-05-21.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033685&Seq=005&Type=8"
         },
@@ -127,10 +133,6 @@
         {
             "title": "解風好液-紙盒外面-107-05-21.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033685&Seq=003&Type=8"
-        },
-        {
-            "title": "0025-解風好-紙盒-104-12-22-104-12-30(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01033685&Seq=002&Type=8"
         }
     ]
 }
