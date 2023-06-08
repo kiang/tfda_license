@@ -1,17 +1,19 @@
 {
     "code": "01047373",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01047373",
-    "time": "2021-06-25 04:29:43",
+    "time": "2023-06-08 19:24:49",
     "許可證字號": "衛署藥製字第047373號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "114\/06\/17",
-    "發證日期": "94\/06\/17",
-    "許可證種類": "製　劑",
+    "發證\/登錄日期": "94\/06\/17",
+    "許可證\/登錄種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00104737309",
     "中文品名": "衛格止痛加強錠",
     "英文品名": "WELGER EXTRA STRENGTH PAIN RELIEF CAPLETS",
@@ -26,13 +28,13 @@
     "管制藥品分類級別": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "Acetaminophen 500mg with Starch 38.5mg,Povidone 25.5mg,Stearic acid 1mg, CAFFEINE ANHYDROUS",
+    "主成分略述": "ACETAMINOPHEN (EQ TO PARACETAMOL), CAFFEINE ANHYDROUS",
     "限制項目": "01國　產",
-    "申請商名稱": "1303110200  新萬仁化學製藥股份有限公司",
+    "申請商名稱": "新萬仁化學製藥股份有限公司",
     "申請商地址": "台中市豐原區文賢街１５８號",
     "主製造廠": [
         {
-            "製造廠名稱": "1303110300  新萬仁化學製藥股份有限公司",
+            "製造廠名稱": "新萬仁化學製藥股份有限公司",
             "製造廠廠址": "豐原市文賢街１５８號",
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
@@ -44,10 +46,10 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2808000122",
-            "成分名稱": "Acetaminophen 500mg with Starch 38.5mg,Povidone 25.5mg,Stearic acid 1mg",
+            "成分代碼": "2808000100",
+            "成分名稱": "ACETAMINOPHEN (EQ TO PARACETAMOL)",
             "含量描述": "",
-            "含量": "565.0000000000",
+            "含量": "500.0000000000",
             "單位": "MG"
         },
         {
@@ -77,6 +79,10 @@
     ],
     "仿單外盒": [
         {
+            "title": "20210413衛格止痛加強錠仿單-110-07-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047373&Seq=010&Type=9"
+        },
+        {
             "title": "1100413衛格止痛加強錠說明書-110-04-13(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047373&Seq=009&Type=9"
         },
@@ -85,8 +91,16 @@
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047373&Seq=008&Type=9"
         },
         {
+            "title": "衛格止痛加強錠仿單 上傳版-107-01-08(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047373&Seq=007&Type=9"
+        },
+        {
             "title": "final衛格止痛加強錠-仿單2-106-01-06.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047373&Seq=006&Type=9"
+        },
+        {
+            "title": "final衛格止痛加強錠-仿單1-106-01-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047373&Seq=005&Type=9"
         },
         {
             "title": "1100413衛格止痛加強錠(10錠)-內盒-110-04-13(廠商自行上傳).pdf",
@@ -99,6 +113,10 @@
         {
             "title": "047373鋁箔-106-01-06.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047373&Seq=005&Type=8"
+        },
+        {
+            "title": "final衛格止痛加強錠(10錠)-紙盒-106-01-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01047373&Seq=003&Type=8"
         }
     ]
 }

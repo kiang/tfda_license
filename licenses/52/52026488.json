@@ -1,7 +1,7 @@
 {
     "code": "52026488",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026488",
-    "time": "2022-02-25 06:47:05",
+    "time": "2023-06-08 19:48:34",
     "許可證字號": "衛部藥輸字第026488號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,7 +9,7 @@
     "製造許可登錄編號": "",
     "有效日期": "114\/01\/20",
     "發證\/登錄日期": "104\/01\/20",
-    "許可證種類": "製　劑",
+    "許可證\/登錄種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
     "第一等級醫療器材原許可證字號": "",
@@ -30,24 +30,27 @@
     "監視期限": "",
     "主成分略述": "CHLORPHENIRAMINE MALEATE, ACETAMINOPHEN (EQ TO PARACETAMOL), CAFFEINE ANHYDROUS, Pentoxyverine Citrate, POTASSIUM GUAIACOLSULFONATE",
     "限制項目": "02輸　入",
-    "申請商名稱": "620118E461  中化裕民健康事業股份有限公司",
+    "申請商名稱": "中化裕民健康事業股份有限公司",
     "申請商地址": "台北市中正區襄陽路23號8樓",
     "主製造廠": [
         {
-            "": "JAPAN",
+            "製造廠名稱": "QUALITECH PHARMA CO., LTD. SHIZUOKA PLANT",
+            "製造廠廠址": "29-27 KAMIHIJIKATA-KOUGYODANCHI, KAKEGAWA-CITY, SHIZUOKA-PREF., JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
             "製程": ""
         }
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "FJP0799000  QUALITECH PHARMA CO., LTD.",
+            "製造廠名稱": "QUALITECH PHARMA CO., LTD.",
             "製造廠廠址": "1-2-20, KAIGAN, MINATO-KU, TOKYO, JAPAN",
             "製造廠公司地址": "",
             "製造廠國別": "JAPAN",
             "製程": "公司"
         },
         {
-            "製造廠名稱": "FJP0800000  DAIICHI SANKYO HEALTHCARE CO., LTD.",
+            "製造廠名稱": "DAIICHI SANKYO HEALTHCARE CO., LTD.",
             "製造廠廠址": "3-14-10, NIHONBASHI, CHUO KU, TOKYO, JAPAN",
             "製造廠公司地址": "",
             "製造廠國別": "JAPAN",

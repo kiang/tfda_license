@@ -1,7 +1,7 @@
 {
     "code": "06017470",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06017470",
-    "time": "2022-02-25 07:48:42",
+    "time": "2023-06-08 20:06:57",
     "許可證字號": "衛署醫器輸字第017470號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,7 +9,7 @@
     "製造許可登錄編號": "QSD7914",
     "有效日期": "115\/12\/08",
     "發證\/登錄日期": "95\/12\/08",
-    "許可證種類": "醫　器",
+    "許可證\/登錄種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
     "第一等級醫療器材原許可證字號": "",
@@ -18,7 +18,7 @@
     "中文品名": "&quot;帝富脊椎&quot;易配置脊椎系統",
     "英文品名": "&quot;DePuy Spine&quot;Expedium Spine System",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "詳如中文仿單核定本。註銷規格：詳如中文仿單核定本，以下空白。",
+    "醫器規格": "詳如中文仿單核定本。註銷規格：詳如中文仿單核定本，以下空白。註銷規格：\r\n詳如核定之中文說明書-112.5.25。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -35,17 +35,20 @@
     "監視期限": "",
     "主成分略述": "",
     "限制項目": "09委託製造",
-    "申請商名稱": "6401022675  壯生醫療器材股份有限公司",
+    "申請商名稱": "壯生醫療器材股份有限公司",
     "申請商地址": "臺北市中山區民生東路三段2號10樓及11樓",
     "主製造廠": [
         {
-            "": "SWITZERLAND",
-            "製程": ""
+            "製造廠名稱": "Jabil Switzerland Manufacturing GmbH",
+            "製造廠廠址": "Chemin-Blanc 36-38, CH-2400 Le Locle, Switzerland",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": "Manufactured by"
         }
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "MCH0216000  MEDOS INTERNATIONAL SARL",
+            "製造廠名稱": "MEDOS INTERNATIONAL SARL",
             "製造廠廠址": "CHEMIN-BLANC 38, CH-2400 LE LOCLE, SWITZERLAND",
             "製造廠公司地址": "",
             "製造廠國別": "SWITZERLAND",
@@ -56,8 +59,8 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "06017470-95.12.25仿單-103-06-04.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017470&Seq=039&Type=9"
+            "title": "06017470-112.5.25-112-05-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017470&Seq=040&Type=9"
         },
         {
             "title": "060174700038.pdf",
@@ -144,16 +147,8 @@
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017470&Seq=018&Type=9"
         },
         {
-            "title": "06017470-95.12.25仿單-103-06-04.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017470&Seq=003&Type=8"
-        },
-        {
-            "title": "060174700002.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017470&Seq=002&Type=8"
-        },
-        {
-            "title": "060174700001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017470&Seq=001&Type=8"
+            "title": "06017470-112.5.25-112-05-27.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06017470&Seq=004&Type=8"
         }
     ]
 }

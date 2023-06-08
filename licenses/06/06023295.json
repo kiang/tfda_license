@@ -1,7 +1,7 @@
 {
     "code": "06023295",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06023295",
-    "time": "2022-05-27 06:32:52",
+    "time": "2023-06-08 20:10:54",
     "許可證字號": "衛署醫器輸字第023295號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,7 +9,7 @@
     "製造許可登錄編號": "QSD6097",
     "有效日期": "116\/03\/06",
     "發證\/登錄日期": "101\/03\/06",
-    "許可證種類": "醫　器",
+    "許可證\/登錄種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第三等級",
     "第一等級醫療器材原許可證字號": "",
@@ -18,7 +18,7 @@
     "中文品名": "“美敦力”黛拉心臟節律器",
     "英文品名": "“Medtronic”ADAPTA Pacemaker",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "ADDR01, ADDR03, ADDRS1, ADDRL1, ADVDD01, ADD01, ADSR01, ADSR03,以下空白",
+    "醫器規格": "ADDR01, ADDR03, ADDRS1, ADDRL1, ADVDD01, ADD01, ADSR01, ADSR03，以下空白。\r\n註銷規格：ADDRS1、ADD01、ADSR01。\r\n適應症及規格變更：詳如核定之中文說明書(原106年6月22日核定之標籤、說明書或包裝予以收回作廢)。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -35,17 +35,20 @@
     "監視期限": "",
     "主成分略述": "",
     "限制項目": "02輸　入",
-    "申請商名稱": "1439301100  美敦力醫療產品股份有限公司",
+    "申請商名稱": "美敦力醫療產品股份有限公司",
     "申請商地址": "台北市松山區敦化南路一段2號2樓",
     "主製造廠": [
         {
-            "": "SINGAPORE",
+            "製造廠名稱": "Medtronic Singapore Operations Pte. Ltd.",
+            "製造廠廠址": "49 Changi South Avenue 2, Nasaco Tech Centre, Singapore 486056, Singapore",
+            "製造廠公司地址": "",
+            "製造廠國別": "SINGAPORE",
             "製程": ""
         }
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "MUS3565100  Medtronic Inc.",
+            "製造廠名稱": "Medtronic Inc.",
             "製造廠廠址": "710 Medtronic Parkway, Minneapolis, MN 55432 USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
@@ -56,12 +59,8 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "06023295001-106-06-23.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023295&Seq=003&Type=9"
-        },
-        {
-            "title": "060232950001___20120528.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023295&Seq=001&Type=8"
+            "title": "060232950001-112-05-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06023295&Seq=004&Type=9"
         }
     ]
 }

@@ -1,17 +1,19 @@
 {
     "code": "01020694",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01020694",
-    "time": "2020-02-25 02:59:02",
+    "time": "2023-06-08 21:22:15",
     "許可證字號": "衛署藥製字第020694號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "112\/05\/25",
-    "發證日期": "69\/03\/03",
-    "許可證種類": "製　劑",
+    "發證\/登錄日期": "69\/03\/03",
+    "許可證\/登錄種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00102069408",
     "中文品名": "&quot;派頓&quot;眼晶眼藥水",
     "英文品名": "ENGENE EYE DROPS &quot;PATRON&quot;",
@@ -22,17 +24,17 @@
     "有效期間": "",
     "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "藥品類別": "17醫師藥師藥劑生指示藥",
+    "藥品類別": "17醫師藥師藥劑生指示藥品",
     "管制藥品分類級別": "",
     "藥品分類": "",
     "監視期限": "",
     "主成分略述": "CHLORPHENIRAMINE MALEATE, FLAVINEADENINE DINUCLEOTIDE SODIUM, PYRIDOXINE HCL, TAURINE (EQ TO 2-AMINOETHANE SULFONIC ACID), GLYCYRRHIZINATE DIPOTASSIUM (EQ TO DIPOTASSIUM GLYCYRRHIZINATE)",
     "限制項目": "01國　產",
-    "申請商名稱": "1407422200  臺灣派頓化學製藥股份有限公司",
+    "申請商名稱": "臺灣派頓化學製藥股份有限公司",
     "申請商地址": "高雄市岡山區為隨東路50號",
     "主製造廠": [
         {
-            "製造廠名稱": "1407422300  臺灣派頓化學製藥股份有限公司",
+            "製造廠名稱": "臺灣派頓化學製藥股份有限公司",
             "製造廠廠址": "高雄市岡山區為隨東路50號",
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
@@ -95,6 +97,10 @@
     },
     "藥物辨識外觀圖片": [
         {
+            "title": "派頓眼晶眼藥水藥物外觀圖片-109-05-14(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020694&Seq=002&Type=10"
+        },
+        {
             "title": "020694派頓眼晶眼藥水10ML點眼瓶-105-01-08(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020694&Seq=001&Type=10"
         }
@@ -103,10 +109,6 @@
         {
             "title": "010206940001-108-12-04.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020694&Seq=003&Type=9"
-        },
-        {
-            "title": "010206940001-102-12-30.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020694&Seq=002&Type=9"
         },
         {
             "title": "010206940005-108-12-04.pdf",
@@ -123,10 +125,6 @@
         {
             "title": "010206940002-108-12-04.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020694&Seq=003&Type=8"
-        },
-        {
-            "title": "020694派頓眼晶眼藥水10ml彩盒-105-01-08(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01020694&Seq=002&Type=8"
         }
     ]
 }

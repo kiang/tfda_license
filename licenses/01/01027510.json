@@ -1,17 +1,19 @@
 {
     "code": "01027510",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01027510",
-    "time": "2020-05-29 04:59:21",
+    "time": "2023-06-08 21:27:34",
     "許可證字號": "衛署藥製字第027510號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "112\/05\/25",
-    "發證日期": "72\/12\/12",
-    "許可證種類": "製　劑",
+    "發證\/登錄日期": "72\/12\/12",
+    "許可證\/登錄種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00102751007",
     "中文品名": "肝葆膠囊",
     "英文品名": "LICOGNE CAPSULES",
@@ -28,11 +30,11 @@
     "監視期限": "",
     "主成分略述": "SILYMARIN (EXSICCATED FRUCTUS CARDUI MARIANUS EXTRACT), NIACINAMIDE (NICOTINAMIDE), THIAMINE HYDROCHLORIDE, RIBOFLAVIN (VIT B2), PYRIDOXINE HCL, CYANOCOBALAMIN (VIT B12), PANTOTHENATE CALCIUM",
     "限制項目": "01國　產",
-    "申請商名稱": "0900822200  美西製藥有限公司",
+    "申請商名稱": "美西製藥有限公司",
     "申請商地址": "高雄市仁武區仁武里工業一路９號",
     "主製造廠": [
         {
-            "製造廠名稱": "0900822300  美西製藥有限公司",
+            "製造廠名稱": "美西製藥有限公司",
             "製造廠廠址": "高雄市仁武區仁武里工業一路９號",
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
@@ -117,20 +119,16 @@
     ],
     "仿單外盒": [
         {
+            "title": "肝葆膠囊仿單-new-109-09-09(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027510&Seq=005&Type=9"
+        },
+        {
             "title": "肝葆膠囊仿單-109-03-26.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027510&Seq=004&Type=9"
         },
         {
-            "title": "肝葆膠囊說明書(廣得利)-107-08-21(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027510&Seq=003&Type=9"
-        },
-        {
-            "title": "肝葆膠囊說明書(新歷芳)-107-08-21(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027510&Seq=002&Type=9"
-        },
-        {
-            "title": "275100001___20110601.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027510&Seq=001&Type=9"
+            "title": "肝葆膠囊120粒外盒(上葆)-new-110-09-27(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027510&Seq=019&Type=8"
         },
         {
             "title": "肝葆膠囊1000粒標籤(美西)-109-03-26.pdf",
@@ -163,14 +161,6 @@
         {
             "title": "肝葆膠囊120粒外盒(上葆)-109-03-26.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027510&Seq=011&Type=8"
-        },
-        {
-            "title": "肝葆膠囊120粒標籤(美西)-107-08-21(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027510&Seq=010&Type=8"
-        },
-        {
-            "title": "肝葆膠囊120粒外盒(美西)-107-08-21(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01027510&Seq=009&Type=8"
         }
     ]
 }

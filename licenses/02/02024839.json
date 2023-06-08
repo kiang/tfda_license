@@ -1,15 +1,15 @@
 {
     "code": "02024839",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024839",
-    "time": "2022-05-27 06:08:06",
+    "time": "2023-06-08 20:58:36",
     "許可證字號": "衛署藥輸字第024839號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
-    "有效日期": "112\/05\/19",
+    "有效日期": "117\/05\/19",
     "發證\/登錄日期": "97\/05\/19",
-    "許可證種類": "製　劑",
+    "許可證\/登錄種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
     "第一等級醫療器材原許可證字號": "",
@@ -30,24 +30,27 @@
     "監視期限": "",
     "主成分略述": "METFORMIN HCL (EQ TO METFORMIN HYDROCHLORIDE), PIOGLITAZONE HYDROCHLORIDE",
     "限制項目": "02輸　入",
-    "申請商名稱": "620118P360  台灣賽特瑞恩有限公司",
+    "申請商名稱": "台灣賽特瑞恩有限公司",
     "申請商地址": "臺北市信義區松仁路97號3樓之1",
     "主製造廠": [
         {
-            "": "JAPAN",
+            "製造廠名稱": "DAITO PHARMACEUTICAL CO., LTD.",
+            "製造廠廠址": "326,YOKAMACHI, TOYAMA-CITY, TOYAMA 939-8221, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
             "製程": ""
         }
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "6133061413  歐帕生技醫藥股份有限公司",
+            "製造廠名稱": "歐帕生技醫藥股份有限公司",
             "製造廠廠址": "新竹縣湖口鄉光復路1號",
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
             "製程": "包裝及分裝"
         },
         {
-            "製造廠名稱": "FIE0083000  TAKEDA IRELAND LIMITED (TILGC)",
+            "製造廠名稱": "TAKEDA IRELAND LIMITED (TILGC)",
             "製造廠廠址": "GRANGE CASTLE BUSINESS PARK, DUBLIN 22 IRELAND",
             "製造廠公司地址": "",
             "製造廠國別": "IRELAND",
@@ -91,6 +94,22 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "PI 2-111-06-10(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024839&Seq=029&Type=9"
+        },
+        {
+            "title": "PI-1-111-06-10(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024839&Seq=028&Type=9"
+        },
+        {
+            "title": "TW_Actosemet_15mg850mg_CN_r4-111-06-07(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024839&Seq=027&Type=9"
+        },
+        {
+            "title": "TW_9131263_FO_Actomet15+850mg_7TX4_r1 (1)-111-06-07(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024839&Seq=026&Type=9"
+        },
         {
             "title": "PI_ACTOSMET- 中文 USPI R15 (Dec 2017)-108-03-28.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024839&Seq=022&Type=9"

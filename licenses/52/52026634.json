@@ -1,7 +1,7 @@
 {
     "code": "52026634",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026634",
-    "time": "2022-03-25 05:21:32",
+    "time": "2023-06-08 19:48:50",
     "許可證字號": "衛部藥輸字第026634號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,7 +9,7 @@
     "製造許可登錄編號": "",
     "有效日期": "114\/12\/07",
     "發證\/登錄日期": "104\/12\/07",
-    "許可證種類": "製　劑",
+    "許可證\/登錄種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
     "第一等級醫療器材原許可證字號": "",
@@ -30,24 +30,27 @@
     "監視期限": "109\/12\/07",
     "主成分略述": "Enzalutamide",
     "限制項目": "02輸　入 5F免除銜接性試驗",
-    "申請商名稱": "620110R660  台灣安斯泰來製藥股份有限公司",
+    "申請商名稱": "台灣安斯泰來製藥股份有限公司",
     "申請商地址": "台北市中山區民生東路３段１０號５樓",
     "主製造廠": [
         {
-            "": "UNITED STATES",
+            "製造廠名稱": "CATALENT PHARMA SOLUTIONS, LLC.",
+            "製造廠廠址": "2725 SCHERER DRIVE, ST. PETERSBURG FL 33716-1016 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
             "製程": ""
         }
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "FNL0047000  ASTELLAS PHARMA EUROPE B.V.",
+            "製造廠名稱": "ASTELLAS PHARMA EUROPE B.V.",
             "製造廠廠址": "HOGEMAAT 2, 7942 JG MEPPEL, THE NETHERLANDS",
             "製造廠公司地址": "SYLVIUSWEG 62, 2333 BE LEIDEN, THE NETHERLANDS.",
             "製造廠國別": "NETHERLANDS",
             "製程": "包裝"
         },
         {
-            "製造廠名稱": "FUS2401000  AndersonBrecon Inc",
+            "製造廠名稱": "AndersonBrecon Inc",
             "製造廠廠址": "4545 ASSEMBLY DRIVE, ROCKFORD, IL 61109 USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
@@ -67,10 +70,6 @@
         }
     ],
     "仿單外盒": [
-        {
-            "title": "安可坦仿單_XTD-I2108-08-111-02-10.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026634&Seq=008&Type=9"
-        },
         {
             "title": "Xtandi Soft Capsules鋁箔-105-01-13.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026634&Seq=003&Type=8"
