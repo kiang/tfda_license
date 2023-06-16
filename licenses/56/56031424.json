@@ -1,7 +1,7 @@
 {
     "code": "56031424",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031424",
-    "time": "2023-06-08 21:05:45",
+    "time": "2023-06-15 21:37:56",
     "許可證字號": "衛部醫器輸字第031424號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,7 +18,7 @@
     "中文品名": "貝克曼庫爾特鐵蛋白試劑",
     "英文品名": "Beckman Coulter Ferritin",
     "效能": "本產品搭配Beckman Coulter AU 臨床化學分析儀使用，定量檢測人類血清和血漿中的鐵蛋白。",
-    "醫器規格": "OSR61203，以下空白。",
+    "醫器規格": "OSR61203。標籤、說明書或包裝變更為：詳如中文標籤、說明書或包\r\n裝核定本(原107年10月3日核定之標籤、說明書或包裝正本收回作廢)。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -38,6 +38,13 @@
     "申請商名稱": "美商貝克曼庫爾特有限公司台灣分公司",
     "申請商地址": "台北市大安區敦化南路二段216號8樓",
     "主製造廠": [
+        {
+            "製造廠名稱": "Made (部分製程) in JAPAN",
+            "製造廠廠址": "",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        },
         {
             "製造廠名稱": "BECKMAN COULTER IRELAND INC.",
             "製造廠廠址": "LISMEEHAN, O&#39;CALLAGHAN&#39;S MILLS, CO. CLARE, IRELAND",
@@ -59,12 +66,12 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "560314240001-107-12-22.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56031424&Seq=001&Type=9"
+            "title": "(56)031424-112-6-8-仿單-112-06-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56031424&Seq=002&Type=9"
         },
         {
-            "title": "560314240002-107-12-22.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56031424&Seq=001&Type=8"
+            "title": "(56)031424-112-6-8-外盒-112-06-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56031424&Seq=002&Type=8"
         }
     ]
 }
