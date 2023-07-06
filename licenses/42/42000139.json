@@ -1,7 +1,7 @@
 {
     "code": "42000139",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=42000139",
-    "time": "2022-05-27 06:34:02",
+    "time": "2023-07-06 19:29:24",
     "許可證字號": "衛署醫器陸輸字第000139號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,7 +9,7 @@
     "製造許可登錄編號": "QSD1556",
     "有效日期": "115\/08\/28",
     "發證\/登錄日期": "95\/08\/28",
-    "許可證種類": "醫　器",
+    "許可證\/登錄種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
     "第一等級醫療器材原許可證字號": "",
@@ -18,7 +18,7 @@
     "中文品名": "&quot;奇異&quot;診斷型X光機",
     "英文品名": "&quot;GE&quot; DIGITAL RADIOGRAPHY SYSTEM",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "DEFINIUM 6000,以下空白。增加規格：核定事項詳如中文仿單核定本。以下空白。註銷規格：Optima XR 646及Discovery XR 656(原104年6月29日核定之標籤、說明書或包裝予以收回作廢)。\r\n增加規格：Definium Tempo及Definium Tempo Pro。",
+    "醫器規格": "DEFINIUM 6000,以下空白。增加規格：核定事項詳如中文仿單核定本。以下空白。註銷規格：Optima XR 646及Discovery XR 656(原104年6月29日核定之標籤、說明書或包裝予以收回作廢)。\r\n增加規格：Definium Tempo及Definium Tempo Pro。\r\n規格變更：詳如核定之中文說明書(原111年3月16日核定之標籤、說明書或包裝予以收回作廢)。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -35,11 +35,14 @@
     "監視期限": "",
     "主成分略述": "",
     "限制項目": "02輸　入 14輸入須附同意書（每次輸入均須取得原子能委員會之同意書為憑） 40大陸生產",
-    "申請商名稱": "0831701100  奇異亞洲醫療設備股份有限公司",
+    "申請商名稱": "奇異亞洲醫療設備股份有限公司",
     "申請商地址": "台北市中山區民生東路三段8號6樓",
     "主製造廠": [
         {
-            "": "CHINA",
+            "製造廠名稱": "GE HUALUN MEDICAL SYSTEMS CO., LTD.",
+            "製造廠廠址": "NO. 1 NORTH YONG CHANG STREET BEIJING ECONOMIC &amp;TECHNOLOGICAL DEVELOPMENT AREA BEIJING, CHINA",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
             "製程": ""
         }
     ],
@@ -47,8 +50,8 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "420001390001-111-03-17.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000139&Seq=020&Type=9"
+            "title": "420001390001-112-06-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000139&Seq=021&Type=9"
         },
         {
             "title": "420001390018.pdf",
@@ -121,10 +124,6 @@
         {
             "title": "420001390001.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000139&Seq=001&Type=9"
-        },
-        {
-            "title": "420001390001-111-03-17.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=42000139&Seq=003&Type=8"
         },
         {
             "title": "420001390001.pdf",

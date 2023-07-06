@@ -1,20 +1,22 @@
 {
     "code": "58022089",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58022089",
-    "time": "2021-09-24 06:14:35",
+    "time": "2023-07-06 19:54:34",
     "許可證字號": "衛部粧輸字第022089號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "113\/06\/30",
-    "發證日期": "103\/10\/28",
-    "許可證種類": "特定用途化粧品",
+    "發證\/登錄日期": "103\/10\/28",
+    "許可證\/登錄種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05802208907",
-    "中文品名": "伊露恩潤艷染髮霜　6G ,7G, 8G  第1、2劑、伊露恩花香染髮霜 6G、7G、8G 第1、2劑",
-    "英文品名": "ELUNE ROSE GLOSSY HAIR COLOR #6G,#7G; ELUNE ROSE GLOSSY HAIR COLOR OXIDIZER \r\nElune Floral &amp; Fruity Hair Color 6G, 7G, 8G、Elune Floral &amp; Fruity Hair Color Oxidizer",
+    "中文品名": "伊露恩潤艷染髮霜　6G ,7G, 8G  第1、2劑、伊露恩花香染髮霜 6G、7G、8G 、5P 第1劑、第2劑。",
+    "英文品名": "ELUNE ROSE GLOSSY HAIR COLOR #6G,#7G; ELUNE ROSE GLOSSY HAIR COLOR OXIDIZER \r\nElune Floral &amp; Fruity Hair Color 6G, 7G, 8G、5P、Elune Floral &amp; Fruity Hair Color Oxidizer",
     "用途": "染髮。",
     "劑型": "860膏劑",
     "包裝": "500公克以下管裝附外盒",
@@ -27,12 +29,12 @@
     "藥品分類": "",
     "監視期限": "",
     "主成分略述": "HYDROGEN PEROXIDE, RESORCINOL (RESORCIN), P-AMINOPHENOL, m-Aminophenol, 4-AMINO-2-HYDROXYTOLUENE, P-PHENYLENEDIAMINE",
-    "限制項目": "",
-    "申請商名稱": "6653700283  伊露恩有限公司",
+    "限制項目": "02輸　入",
+    "申請商名稱": "伊露恩有限公司",
     "申請商地址": "桃園市八德區永豐路482巷15號",
     "主製造廠": [
         {
-            "製造廠名稱": "CJP0368000  KINDAI KAGAKU CO., LTD",
+            "製造廠名稱": "KINDAI KAGAKU CO., LTD",
             "製造廠廠址": "19-3, 3-CHOME KADOSAWABASHI, EBINA-CITY, KANAGAWA, JAPAN",
             "製造廠公司地址": "",
             "製造廠國別": "JAPAN",
@@ -168,12 +170,56 @@
             "含量描述": "",
             "含量": "2.9000000000",
             "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8428000500",
+            "成分名稱": "RESORCINOL (RESORCIN)",
+            "含量描述": "",
+            "含量": "0.7490000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200035440",
+            "成分名稱": "P-AMINOPHENOL",
+            "含量描述": "",
+            "含量": "0.0490000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200035470",
+            "成分名稱": "m-Aminophenol",
+            "含量描述": "",
+            "含量": "0.0970000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "0.3300000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9400003200",
+            "成分名稱": "P-PHENYLENEDIAMINE",
+            "含量描述": "",
+            "含量": "0.7230000000",
+            "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
         {
             "title": "58022089-103-11-20.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58022089&Seq=001&Type=9"
+        },
+        {
+            "title": "58022089-112-06-21.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58022089&Seq=006&Type=8"
         },
         {
             "title": "58022089-110-07-20.pdf",

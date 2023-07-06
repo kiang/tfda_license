@@ -1,7 +1,7 @@
 {
     "code": "58021723",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58021723",
-    "time": "2021-12-24 06:35:58",
+    "time": "2023-07-06 19:54:32",
     "許可證字號": "衛部粧輸字第021723號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,14 +9,14 @@
     "製造許可登錄編號": "",
     "有效日期": "112\/06\/19",
     "發證\/登錄日期": "103\/06\/19",
-    "許可證種類": "特定用途化粧品",
+    "許可證\/登錄種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
     "第一等級醫療器材原許可證字號": "",
     "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05802172300",
-    "中文品名": "1.伊露恩玫瑰精華護髮染髮霜5號、6號、7號、6G、7G、8G 第1劑、第2劑、\r\n2.伊露恩玫瑰植萃染髮霜6G、7G、8G第1劑、第2劑、\r\n3.伊露恩絲佳快速染髮霜 6G、7G、8G 第1劑、第2劑。",
-    "英文品名": "1.ELUNE ROSE ESSENCE HAIR COLOR #5, #6, #7, #6G, #7G, #8G\r\nELUNE ROSE ESSENCE HAIR COLOR OXIDIZER、\r\n2.ELUNE ROSE FLORAL HAIR COLOR 6G、7G、8G  ELUNE ROSE FLORAL HAIR COLOR OXIDIZER、\r\n3.ELUNE 10+ HAIR COLOR 6G、7G、8G ELUNE 10+ HAIR COLOR OXIDIZER。",
+    "中文品名": "1.伊露恩玫瑰精華護髮染髮霜5號、6號、7號、6G、7G、8G 第1劑、第2劑、\r\n2.伊露恩玫瑰植萃染髮霜6G、7G、8G第1劑、第2劑、\r\n3.伊露恩絲佳快速染髮霜 6G、7G、8G 第1劑、第2劑。\r\n伊露恩玫瑰精華護髮染髮霜 5P 第1劑、第2劑。\r\n伊露恩絲佳快速染髮霜 5P 第1劑、第2劑。\r\n伊露恩玫瑰植萃染髮霜 5P 第1劑、第2劑。",
+    "英文品名": "1.ELUNE ROSE ESSENCE HAIR COLOR #5, #6, #7, #6G, #7G, #8G\r\nELUNE ROSE ESSENCE HAIR COLOR OXIDIZER、\r\n2.ELUNE ROSE FLORAL HAIR COLOR 6G、7G、8G  ELUNE ROSE FLORAL HAIR COLOR OXIDIZER、\r\n3.ELUNE 10+ HAIR COLOR 6G、7G、8G ELUNE 10+ HAIR COLOR OXIDIZER。\r\n\r\nELUNE ROSE ESSENCE HAIR COLOR 5P ELUNE ROSE ESSENCE HAIR COLOR OXIDIZER。\r\nELUNE 10+ HAIR COLOR 5P ELUNE 10+ HAIR COLOR OXIDIZER。\r\nELUNE ROSE FLORAL HAIR COLOR 5P ELUNE ROSE FLORAL HAIR COLOR OXIDIZER。",
     "用途": "染髮",
     "劑型": "860膏劑",
     "包裝": "500公克以下管裝附外盒",
@@ -29,12 +29,15 @@
     "藥品分類": "",
     "監視期限": "",
     "主成分略述": "HYDROGEN PEROXIDE, RESORCINOL (RESORCIN), P-AMINOPHENOL, m-Aminophenol, 4-AMINO-2-HYDROXYTOLUENE, P-PHENYLENEDIAMINE",
-    "限制項目": "",
-    "申請商名稱": "6653700283  伊露恩有限公司",
+    "限制項目": "02輸　入",
+    "申請商名稱": "伊露恩有限公司",
     "申請商地址": "桃園市八德區永豐路482巷15號",
     "主製造廠": [
         {
-            "": "JAPAN",
+            "製造廠名稱": "KINDAI KAGAKU CO., LTD",
+            "製造廠廠址": "19-3, 3-CHOME KADOSAWABASHI, EBINA-CITY, KANAGAWA, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
             "製程": ""
         }
     ],
@@ -247,9 +250,53 @@
             "含量描述": "",
             "含量": "2.2000000000",
             "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8428000500",
+            "成分名稱": "RESORCINOL (RESORCIN)",
+            "含量描述": "",
+            "含量": "0.7490000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200035440",
+            "成分名稱": "P-AMINOPHENOL",
+            "含量描述": "",
+            "含量": "0.0490000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200035470",
+            "成分名稱": "m-Aminophenol",
+            "含量描述": "",
+            "含量": "0.0970000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9200039000",
+            "成分名稱": "4-AMINO-2-HYDROXYTOLUENE",
+            "含量描述": "",
+            "含量": "0.3300000000",
+            "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9400003200",
+            "成分名稱": "P-PHENYLENEDIAMINE",
+            "含量描述": "",
+            "含量": "0.7230000000",
+            "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "58021723-112-06-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58021723&Seq=008&Type=8"
+        },
         {
             "title": "58021723-110-10-22.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58021723&Seq=007&Type=8"

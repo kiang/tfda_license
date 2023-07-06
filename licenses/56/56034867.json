@@ -1,7 +1,7 @@
 {
     "code": "56034867",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56034867",
-    "time": "2021-11-26 05:47:38",
+    "time": "2023-07-06 19:45:33",
     "許可證字號": "衛部醫器輸字第034867號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,7 +9,7 @@
     "製造許可登錄編號": "QSD7167",
     "有效日期": "115\/10\/04",
     "發證\/登錄日期": "110\/10\/04",
-    "許可證種類": "醫　器",
+    "許可證\/登錄種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
     "第一等級醫療器材原許可證字號": "",
@@ -18,7 +18,7 @@
     "中文品名": "BD輸液套組",
     "英文品名": "BD Alaris Infusion Set",
     "效能": "詳如核定之中文說明書",
-    "醫器規格": "詳如核定之中文說明書",
+    "醫器規格": "詳如核定之中文說明書\r\n增加規格:2420-0007、2260-0006、2280-0006、2203-0006、2441-0007、2477-0007、24604-0004及10010454-0006。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -35,17 +35,20 @@
     "監視期限": "",
     "主成分略述": "",
     "限制項目": "02輸　入 09委託製造",
-    "申請商名稱": "0926401100  新加坡商必帝股份有限公司台灣分公司",
+    "申請商名稱": "新加坡商必帝股份有限公司台灣分公司",
     "申請商地址": "臺北市信義區忠孝東路4段560號3樓",
     "主製造廠": [
         {
-            "": "MEXICO",
+            "製造廠名稱": "Sistemas Medicos, Alaris S.A. de C.V.",
+            "製造廠廠址": "Blvd. Insurgentes No 20351, Parque Industrial, El Florido seccion Vistas 1, Tijuana, Baja California, CP 22244, Mexico",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
             "製程": "Manufactured by"
         }
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "MCH0885000  BD Switzerland Sarl",
+            "製造廠名稱": "BD Switzerland Sarl",
             "製造廠廠址": "Route De Crassier 17, Business Park Terre-Bonne, Batiment A4, 1262 Eysins, Switzerland",
             "製造廠公司地址": "",
             "製造廠國別": "SWITZERLAND",
@@ -56,8 +59,16 @@
     "ingredients": [],
     "仿單外盒": [
         {
+            "title": "560348670001-112-06-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56034867&Seq=002&Type=9"
+        },
+        {
             "title": "560348670001-110-10-19.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56034867&Seq=001&Type=9"
+        },
+        {
+            "title": "560348670001-112-06-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56034867&Seq=002&Type=8"
         },
         {
             "title": "560348670002-110-10-19.pdf",

@@ -1,7 +1,7 @@
 {
     "code": "56031416",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031416",
-    "time": "2023-05-25 22:57:17",
+    "time": "2023-07-06 19:42:15",
     "許可證字號": "衛部醫器輸字第031416號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -39,6 +39,13 @@
     "申請商地址": "台北市大安區敦化南路二段216號8樓",
     "主製造廠": [
         {
+            "製造廠名稱": "Made (部分製程) in U.S.A.",
+            "製造廠廠址": "",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "99部分製程"
+        },
+        {
             "製造廠名稱": "BECKMAN COULTER IRELAND INC.",
             "製造廠廠址": "LISMEEHAN, O&#39;CALLAGHAN&#39;S MILLS, CO. CLARE, IRELAND",
             "製造廠公司地址": "",
@@ -59,12 +66,12 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "560314160003-110-11-16.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56031416&Seq=002&Type=9"
+            "title": "醫器輸031416_230629仿單標籤-112-06-30.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56031416&Seq=003&Type=9"
         },
         {
-            "title": "560314160003-110-11-16.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56031416&Seq=002&Type=8"
+            "title": "醫器輸031416_230629仿單標籤-112-06-30.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56031416&Seq=003&Type=8"
         }
     ]
 }

@@ -1,17 +1,19 @@
 {
     "code": "14001347",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=14001347",
-    "time": "2020-02-26 03:03:29",
+    "time": "2023-07-06 19:14:56",
     "許可證字號": "內衛成製字第001347號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "113\/05\/25",
-    "發證日期": "59\/10\/27",
-    "許可證種類": "製　劑",
+    "發證\/登錄日期": "59\/10\/27",
+    "許可證\/登錄種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY01400134700",
     "中文品名": "綠油精",
     "英文品名": "GREEN OIL",
@@ -28,11 +30,11 @@
     "監視期限": "",
     "主成分略述": "CAMPHOR, MENTHOL, METHYL SALICYLATE",
     "限制項目": "01國　產",
-    "申請商名稱": "1303110200  新萬仁化學製藥股份有限公司",
+    "申請商名稱": "新萬仁化學製藥股份有限公司",
     "申請商地址": "台中市豐原區文賢街１５８號",
     "主製造廠": [
         {
-            "製造廠名稱": "1303110300  新萬仁化學製藥股份有限公司",
+            "製造廠名稱": "新萬仁化學製藥股份有限公司",
             "製造廠廠址": "豐原市文賢街１５８號",
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
@@ -42,6 +44,30 @@
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
     "藥理治療分類": "",
     "ingredients": [
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8408000100",
+            "成分名稱": "CAMPHOR",
+            "含量描述": "",
+            "含量": "30.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8408000300",
+            "成分名稱": "MENTHOL",
+            "含量描述": "",
+            "含量": "310.0000000000",
+            "單位": "MG"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "8424400200",
+            "成分名稱": "METHYL SALICYLATE",
+            "含量描述": "",
+            "含量": "200.0000000000",
+            "單位": "MG"
+        },
         {
             "成分類別": "主成分",
             "成分代碼": "8408000100",
@@ -181,6 +207,26 @@
     ],
     "仿單外盒": [
         {
+            "title": "綠油精原味說明書-110.03.03改0-110-06-24(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14001347&Seq=022&Type=9"
+        },
+        {
+            "title": "櫻花-滾珠瓶-仿單-1090721-109-07-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14001347&Seq=021&Type=9"
+        },
+        {
+            "title": "馬鞭草-滾珠瓶-仿單-1090721-109-07-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14001347&Seq=020&Type=9"
+        },
+        {
+            "title": "天竺葵-滾珠瓶-仿單-1090721-109-07-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14001347&Seq=019&Type=9"
+        },
+        {
+            "title": "新萬仁-綠油精原味說明書-1070723-109-07-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14001347&Seq=018&Type=9"
+        },
+        {
             "title": "20180302櫻花支盒-107-03-02(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14001347&Seq=017&Type=9"
         },
@@ -203,6 +249,46 @@
         {
             "title": "綠油精(山茶花)滾珠瓶-仿單-105-12-22.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14001347&Seq=012&Type=9"
+        },
+        {
+            "title": "滾珠瓶櫻花_包裝+仿單(鬼滅 寫實版)-110-04-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14001347&Seq=068&Type=8"
+        },
+        {
+            "title": "滾珠瓶櫻花_包裝+仿單(鬼滅 Q版)-110-04-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14001347&Seq=067&Type=8"
+        },
+        {
+            "title": "滾珠瓶馬鞭草_包裝+仿單(鬼滅 寫實版)-110-04-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14001347&Seq=066&Type=8"
+        },
+        {
+            "title": "滾珠瓶馬鞭草_包裝+仿單(鬼滅 Q版)-110-04-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14001347&Seq=065&Type=8"
+        },
+        {
+            "title": "滾珠瓶天竺葵_包裝+仿單(鬼滅 Q版)-110-04-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14001347&Seq=064&Type=8"
+        },
+        {
+            "title": "滾珠瓶天竺葵_包裝+仿單( 鬼滅寫實版)-110-04-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14001347&Seq=063&Type=8"
+        },
+        {
+            "title": "綠油精馬鞭草滾珠瓶5ML(無售價)-109-04-01(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14001347&Seq=062&Type=8"
+        },
+        {
+            "title": "綠油精天竺葵滾珠瓶5ML(無售價)-109-04-01(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14001347&Seq=061&Type=8"
+        },
+        {
+            "title": "綠油精馬鞭草滾珠瓶5ML(無售價)-109-04-01(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14001347&Seq=060&Type=8"
+        },
+        {
+            "title": "綠油精天竺葵滾珠瓶5ML(無售價)-109-04-01(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14001347&Seq=059&Type=8"
         },
         {
             "title": "20171025 山茶花-107-06-01(廠商自行上傳).pdf",
@@ -237,8 +323,36 @@
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14001347&Seq=051&Type=8"
         },
         {
-            "title": "QRcode文字(櫻花滾珠)-105-12-22.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14001347&Seq=026&Type=8"
+            "title": "綠油精櫻花滾珠瓶5g-105-12-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14001347&Seq=021&Type=8"
+        },
+        {
+            "title": "綠油精馬鞭草滾珠瓶5g-105-12-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14001347&Seq=020&Type=8"
+        },
+        {
+            "title": "綠油精天竺葵滾珠瓶5g-105-12-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14001347&Seq=019&Type=8"
+        },
+        {
+            "title": "綠油精山茶花滾珠瓶5g-105-12-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14001347&Seq=018&Type=8"
+        },
+        {
+            "title": "綠油精(10g)經典原味-105-12-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14001347&Seq=017&Type=8"
+        },
+        {
+            "title": "綠油精(5g)經典原味-105-12-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14001347&Seq=016&Type=8"
+        },
+        {
+            "title": "綠油精(3g)經典原味-105-12-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14001347&Seq=015&Type=8"
+        },
+        {
+            "title": "綠油精(1g)經典原味-105-12-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=14001347&Seq=014&Type=8"
         }
     ]
 }

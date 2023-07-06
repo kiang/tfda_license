@@ -1,17 +1,19 @@
 {
     "code": "02024253",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024253",
-    "time": "2020-11-27 10:04:09",
+    "time": "2023-07-06 19:11:45",
     "許可證字號": "衛署藥輸字第024253號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "114\/06\/09",
-    "發證日期": "94\/06\/09",
-    "許可證種類": "製　劑",
+    "發證\/登錄日期": "94\/06\/09",
+    "許可證\/登錄種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00202425302",
     "中文品名": "衛寶重碳酸鈉粉",
     "英文品名": "&quot;GAMBRO&quot; BICART",
@@ -28,15 +30,24 @@
     "監視期限": "",
     "主成分略述": "SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE)",
     "限制項目": "02輸　入",
-    "申請商名稱": "0617501100  百特醫療產品股份有限公司",
+    "申請商名稱": "百特醫療產品股份有限公司",
     "申請商地址": "臺北市大安區敦化南路2段95號28樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FSE0027100  GAMBRO LUNDIA AB",
-            "製造廠廠址": "MAGISTRATSVAGEN 16, 220 10 LUND\/ EMDALAVAGEN 3, 220 10 LUND, SWEDEN",
-            "製造廠公司地址": "BOX 10101, SE-220 10 LUND SWEDEN",
-            "製造廠國別": "SWEDEN",
-            "製程": ""
+            "製造廠名稱": "GAMBRO DASCO S.p.A.",
+            "製造廠廠址": "VIA MODENESE 66, 41036 MEDOLLA (MO) ITALY",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": "成品製造、一級包裝、二級包裝"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "Baxter Healthcare SA",
+            "製造廠廠址": "Thurgauerstrasse 130, 8152 Glattpark\/Opfikon, Post Address: 8010 Z&#252;rich, Switzerland",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": "許可證持有者"
         }
     ],
     "CCC號列": "30039050001 洗腎用清洗液，不具有劑量或零售包裝式樣者Hemodialysis concentrate, not put up in measured doses or in forms or packings for retail sale",
@@ -93,16 +104,16 @@
     ],
     "仿單外盒": [
         {
-            "title": "BiCart 重碳酸鈉粉-20180423-107-04-23.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024253&Seq=003&Type=9"
+            "title": "仿單核定本-110-07-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024253&Seq=005&Type=9"
         },
         {
-            "title": "1090312_衛寶重碳酸鈉粉_標籤核定本II-109-03-12.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024253&Seq=012&Type=8"
+            "title": "PL BiCart 1150_1250 0726000555_LABEL-110-07-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024253&Seq=014&Type=8"
         },
         {
-            "title": "1090312_衛寶重碳酸鈉粉_標籤核定本-109-03-12.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024253&Seq=011&Type=8"
+            "title": "PL BiCart 650_720 0726000533_LABEL-110-07-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024253&Seq=013&Type=8"
         }
     ]
 }

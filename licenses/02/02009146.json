@@ -1,17 +1,19 @@
 {
     "code": "02009146",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02009146",
-    "time": "2020-02-25 09:23:21",
+    "time": "2023-07-06 20:18:12",
     "許可證字號": "衛署藥輸字第009146號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
-    "有效日期": "112\/06\/07",
-    "發證日期": "97\/06\/02",
-    "許可證種類": "製　劑",
+    "有效日期": "117\/06\/07",
+    "發證\/登錄日期": "97\/06\/02",
+    "許可證\/登錄種類": "製　劑",
     "舊證字號": "02007233",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00200914601",
     "中文品名": "瘤克寧錠",
     "英文品名": "LEUKERAN CHLORAMBUCIL TABLETS 2MG",
@@ -28,11 +30,11 @@
     "監視期限": "",
     "主成分略述": "CHLORAMBUCIL",
     "限制項目": "02輸　入",
-    "申請商名稱": "6401022326  安沛國際有限公司",
+    "申請商名稱": "安沛國際有限公司",
     "申請商地址": "台北市大安區敦化南路二段207號20樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FDE0364100  EXCELLA GMBH &amp; CO. KG",
+            "製造廠名稱": "EXCELLA GMBH &amp; CO. KG",
             "製造廠廠址": "NURNBERGER STR. 12, 90537 FEUCHT, GERMANY",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
@@ -41,7 +43,7 @@
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "FMU0001000  ASPEN GLOBAL INCORPORATED",
+            "製造廠名稱": "ASPEN GLOBAL INCORPORATED",
             "製造廠廠址": "3RD FLOOR GBS PLAZA, CNR LA SALETTE AND ROYAL ROADS, GRAND BAY, MAURITIUS",
             "製造廠公司地址": "",
             "製造廠國別": "MAURITUS",
@@ -61,16 +63,20 @@
         }
     ],
     "藥物辨識詳細資料": {
-        "外觀尺寸": "",
+        "外觀尺寸": "round, biconvex, diameter: 6.5 mm",
         "特殊劑型": "",
-        "顏色": "淡黃",
+        "顏色": "Brown",
         "特殊氣味": "",
         "刻痕": "",
-        "形狀": "圓扁形",
-        "標記一": "WELLCOME,C2A",
-        "標記二": ""
+        "形狀": "",
+        "標記一": "一面 GX EG3",
+        "標記二": "另一面 \"L\""
     },
     "藥物辨識外觀圖片": [
+        {
+            "title": "2022_裸錠-111-02-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02009146&Seq=419&Type=10"
+        },
         {
             "title": "02009146.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02009146&Seq=418&Type=10"
@@ -80,6 +86,14 @@
         {
             "title": "CHL-1905-01_Leukeran_2mg中文仿單_CCDS_v17_final-108-05-27.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02009146&Seq=009&Type=9"
+        },
+        {
+            "title": "2022_瓶貼-111-02-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02009146&Seq=002&Type=8"
+        },
+        {
+            "title": "2022_外盒-111-02-23(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02009146&Seq=001&Type=8"
         }
     ]
 }
