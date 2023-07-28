@@ -1,12 +1,12 @@
 {
     "code": "56036308",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56036308",
-    "time": "2023-07-20 20:27:32",
+    "time": "2023-07-27 20:53:14",
     "許可證字號": "衛部醫器輸字第036308號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可登錄編號": "QSD13994",
+    "製造許可登錄編號": "QSD14113",
     "有效日期": "117\/02\/17",
     "發證\/登錄日期": "112\/02\/17",
     "許可證\/登錄種類": "醫　器",
@@ -39,20 +39,20 @@
     "申請商地址": "臺北市內湖區瑞光路407號5樓",
     "主製造廠": [
         {
-            "製造廠名稱": "Abbott Medical",
-            "製造廠廠址": "177 County Road B, East St. Paul, MN 55117, U.S.A.",
-            "製造廠公司地址": "",
-            "製造廠國別": "UNITED STATES",
-            "製程": ""
-        }
-    ],
-    "次製造廠": [
-        {
             "製造廠名稱": "Abbott Medical Costa Rica Ltda.",
             "製造廠廠址": "Edificio #44 Calle 0, Ave. 2, Zona Franca Coyol El Coyol, Alajuela, Costa Rica",
             "製造廠公司地址": "",
             "製造廠國別": "COSTA RICA",
             "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "Abbott Medical",
+            "製造廠廠址": "177 County Road B, East St. Paul, MN 55117, U.S.A.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",
@@ -61,6 +61,10 @@
         {
             "title": "560363080001-112-07-04.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56036308&Seq=002&Type=9"
+        },
+        {
+            "title": "560363080001-112-03-07.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56036308&Seq=001&Type=9"
         },
         {
             "title": "560363080002-112-03-07.pdf",
