@@ -1,7 +1,7 @@
 {
     "code": "56035205",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56035205",
-    "time": "2023-05-25 22:20:54",
+    "time": "2023-08-10 20:28:09",
     "許可證字號": "衛部醫器輸字第035205號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -18,7 +18,7 @@
     "中文品名": "亞培臨床生化免疫球蛋白A檢驗試劑組",
     "英文品名": "Abbott Clinical Chemistry Immunoglobulin A",
     "效能": "本產品用於在ARCHITECT c系統上，定量人類血清或血漿中的IgA。",
-    "醫器規格": "詳如核定之中文說明書(原111年2月17日標籤、說明書或包裝正本收回作廢)。",
+    "醫器規格": "詳如核定之中文說明書(原111年2月17日標籤、說明書或包裝正本收回作廢)。標籤、說明書或包裝變更為：詳如中文標籤、說明書或包裝核定本(原112年3月22日核定之標籤、說明書或包裝正本收回作廢)。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -39,6 +39,13 @@
     "申請商地址": "臺北市中山區民生東路3段49號5樓、6樓及51號6樓",
     "主製造廠": [
         {
+            "製造廠名稱": "Made (部分製程) in JAPAN",
+            "製造廠廠址": "",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": ""
+        },
+        {
             "製造廠名稱": "ABBOTT IRELAND DIAGNOSTICS DIVISION",
             "製造廠廠址": "LISNAMUCK, LONGFORD, CO. LONGFORD, IRELAND",
             "製造廠公司地址": "",
@@ -50,12 +57,12 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "1120701322-035205(1120322核發)-112-04-07.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56035205&Seq=002&Type=9"
+            "title": "(56)035205-112-7-3仿單-112-07-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56035205&Seq=003&Type=9"
         },
         {
-            "title": "1120701322-035205(1120322核發)-112-04-07.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56035205&Seq=002&Type=8"
+            "title": "(56)035205-112-7-3外盒-112-07-06.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56035205&Seq=003&Type=8"
         }
     ]
 }

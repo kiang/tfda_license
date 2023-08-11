@@ -1,7 +1,7 @@
 {
     "code": "02018669",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02018669",
-    "time": "2022-02-25 06:37:12",
+    "time": "2023-08-10 19:19:23",
     "許可證字號": "衛署藥輸字第018669號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,7 +9,7 @@
     "製造許可登錄編號": "",
     "有效日期": "112\/10\/13",
     "發證\/登錄日期": "107\/06\/25",
-    "許可證種類": "製　劑",
+    "許可證\/登錄種類": "製　劑",
     "舊證字號": "02005994",
     "醫療器材級數": "",
     "第一等級醫療器材原許可證字號": "",
@@ -30,17 +30,20 @@
     "監視期限": "",
     "主成分略述": "GABEXATE MESILATE",
     "限制項目": "02輸　入",
-    "申請商名稱": "620118E461  中化裕民健康事業股份有限公司",
+    "申請商名稱": "中化裕民健康事業股份有限公司",
     "申請商地址": "台北市中正區襄陽路23號8樓",
     "主製造廠": [
         {
-            "": "JAPAN",
-            "製程": ""
+            "製造廠名稱": "NICHI-IKO PHARMA FACTORY CO., LTD. AICHI PLANT",
+            "製造廠廠址": "1212, TERAMAE, GEJO-CHO, KASUGAI, AICHI 486-0923, JAPAN",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
+            "製程": "成品製造廠"
         }
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "FJP0243000  ONO PHARMACEUTICAL CO. LTD.",
+            "製造廠名稱": "ONO PHARMACEUTICAL CO. LTD.",
             "製造廠廠址": "1-5 DOSHOMACHI, 2-CHOME, CHUOKU OSAKA 541",
             "製造廠公司地址": "",
             "製造廠國別": "JAPAN",
@@ -60,6 +63,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "衛署藥輸字第018669號-FOY for injection仿單-112-08-01(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02018669&Seq=012&Type=9"
+        },
         {
             "title": "衛署藥輸字第018669號_FOY for Injection_Insert＜FOY-H＞-109-11-20(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02018669&Seq=011&Type=9"

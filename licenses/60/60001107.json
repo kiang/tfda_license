@@ -1,7 +1,7 @@
 {
     "code": "60001107",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60001107",
-    "time": "2023-08-03 19:40:08",
+    "time": "2023-08-10 22:25:35",
     "許可證字號": "衛部菌疫輸字第001107號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -39,19 +39,10 @@
             "製造廠公司地址": "",
             "製造廠國別": "DENMARK",
             "製程": ""
-        }
-    ],
-    "次製造廠": [
-        {
-            "製造廠名稱": "NOVO NORDISK A\/S",
-            "製造廠廠址": "HALLAS ALLE 1, DK-4400 KALUNDBORG, DENMARK",
-            "製造廠公司地址": "",
-            "製造廠國別": "DENMARK",
-            "製程": "原料藥製造廠"
         },
         {
             "製造廠名稱": "Novo Nordisk A\/S",
-            "製造廠廠址": "Brennum Park 1 DK-3400 Hilleroed, Denmark",
+            "製造廠廠址": "Brennum Park 1, DK-3400 Hilleroed, Denmark",
             "製造廠公司地址": "",
             "製造廠國別": "DENMARK",
             "製程": "成品及包裝廠"
@@ -62,6 +53,15 @@
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
             "製程": "成品及包裝廠"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "NOVO NORDISK A\/S",
+            "製造廠廠址": "HALLAS ALLE 1, DK-4400 KALUNDBORG, DENMARK",
+            "製造廠公司地址": "",
+            "製造廠國別": "DENMARK",
+            "製程": "原料藥製造廠"
         }
     ],
     "CCC號列": "",

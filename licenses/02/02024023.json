@@ -1,7 +1,7 @@
 {
     "code": "02024023",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024023",
-    "time": "2022-05-27 06:06:55",
+    "time": "2023-08-10 19:22:57",
     "許可證字號": "衛署藥輸字第024023號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,7 +9,7 @@
     "製造許可登錄編號": "",
     "有效日期": "113\/06\/28",
     "發證\/登錄日期": "93\/06\/28",
-    "許可證種類": "製　劑",
+    "許可證\/登錄種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
     "第一等級醫療器材原許可證字號": "",
@@ -30,21 +30,15 @@
     "監視期限": "",
     "主成分略述": "RALOXIFENE HYDROCHLORIDE",
     "限制項目": "02輸　入",
-    "申請商名稱": "0901301200  美時化學製藥股份有限公司",
+    "申請商名稱": "美時化學製藥股份有限公司",
     "申請商地址": "臺北市信義區松仁路277號17樓",
     "主製造廠": [
         {
-            "": "PUERTO RICO",
-            "製程": "成品製造廠"
-        }
-    ],
-    "次製造廠": [
-        {
-            "製造廠名稱": "FES0102000  LILLY S.A.",
-            "製造廠廠址": "AVDA DE LA INDUSTRIA 30 28108 ALCOBENDAS MADRID SPAIN",
+            "製造廠名稱": "Bushu Pharmaceuticals Ltd. Kawagoe Factory",
+            "製造廠廠址": "1 Takeno, Kawagoe, Saitama, 350-0801, Japan",
             "製造廠公司地址": "",
-            "製造廠國別": "SPAIN",
-            "製程": "分包裝廠"
+            "製造廠國別": "JAPAN",
+            "製程": ""
         }
     ],
     "CCC號列": "30049099904 其他醫藥製劑〈不包括第３００２、３００５或３００６節所列者〉包含經混合或未混合產品供治療或預防疾病用，具有劑量（包括經皮給藥形態者）或零售包裝式樣者Other medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale",
@@ -84,6 +78,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "仿單-ARTDB022382P-111-10-19(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024023&Seq=006&Type=9"
+        },
         {
             "title": "1106018920_Evista_Proposed Truth_EVS-0002-USPI-20180627_v2 - Clean-111-03-29.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024023&Seq=005&Type=9"

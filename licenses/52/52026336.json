@@ -1,17 +1,19 @@
 {
     "code": "52026336",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026336",
-    "time": "2020-09-25 10:40:01",
+    "time": "2023-08-10 19:36:18",
     "許可證字號": "衛部藥輸字第026336號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "113\/06\/26",
-    "發證日期": "103\/06\/26",
-    "許可證種類": "製　劑",
+    "發證\/登錄日期": "103\/06\/26",
+    "許可證\/登錄種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05202633609",
     "中文品名": "&quot;卡比&quot;羅庫諾林注射液10毫克\/毫升",
     "英文品名": "Rocuronium Kabi 10mg\/ml solution for Injection\/infusion",
@@ -28,11 +30,11 @@
     "監視期限": "",
     "主成分略述": "ROCURONIUM BROMIDE",
     "限制項目": "02輸　入 24監視期滿學名藥",
-    "申請商名稱": "6201179728  台灣費森尤斯卡比股份有限公司",
+    "申請商名稱": "台灣費森尤斯卡比股份有限公司",
     "申請商地址": "台北市大安區仁愛路三段30號5樓32號5樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FAT0014100  FRESENIUS KABI AUSTRIA GMBH",
+            "製造廠名稱": "FRESENIUS KABI AUSTRIA GMBH",
             "製造廠廠址": "HAFNERSTRABE 36 ,8055 GRAZ AUSTRIA.",
             "製造廠公司地址": "D-61346 BAD HOMBURG V.D.H. GERMANY",
             "製造廠國別": "AUSTRIA",
@@ -41,7 +43,7 @@
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "FAT0045000  FRESENIUS KABI AUSTRIA GMBH",
+            "製造廠名稱": "FRESENIUS KABI AUSTRIA GMBH",
             "製造廠廠址": "AM GEWERBEPARK 6, 8402 WERNDORF, AUSTRIA",
             "製造廠公司地址": "",
             "製造廠國別": "AUSTRIA",
@@ -78,8 +80,28 @@
     ],
     "仿單外盒": [
         {
+            "title": "Rocuronium Kabi 10mgml_FKT-026336-0320-110-08-16(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026336&Seq=005&Type=9"
+        },
+        {
             "title": "3_仿單核定本_revised-109-07-09.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026336&Seq=004&Type=9"
+        },
+        {
+            "title": "M088199-01 TW_Label (5mL) p2-110-10-05(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026336&Seq=010&Type=8"
+        },
+        {
+            "title": "M080260-01 TW_Label (10mL) p2-110-10-05(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026336&Seq=009&Type=8"
+        },
+        {
+            "title": "M028116-01 TW_Carton (10mL) p2-110-10-05(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026336&Seq=008&Type=8"
+        },
+        {
+            "title": "M028028-01 TW_Carton (5mL) p2-110-10-05(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026336&Seq=007&Type=8"
         },
         {
             "title": "Rocuronium_carton & label-10ml-106-02-07.pdf",

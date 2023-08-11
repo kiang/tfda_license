@@ -1,7 +1,7 @@
 {
     "code": "02024630",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02024630",
-    "time": "2022-05-27 07:16:23",
+    "time": "2023-08-10 19:24:03",
     "許可證字號": "衛署藥輸字第024630號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,7 +9,7 @@
     "製造許可登錄編號": "",
     "有效日期": "116\/03\/28",
     "發證\/登錄日期": "96\/03\/28",
-    "許可證種類": "製　劑",
+    "許可證\/登錄種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
     "第一等級醫療器材原許可證字號": "",
@@ -30,25 +30,28 @@
     "監視期限": "",
     "主成分略述": "MONOSODIUM IBANDRONATE MONOHYDRATE",
     "限制項目": "02輸　入 55依本署89、12、12衛署藥字第0890035812號公告事項三經本署認定得免除銜接性試驗之新藥",
-    "申請商名稱": "0807901100  和聯生技藥業股份有限公司",
+    "申請商名稱": "和聯生技藥業股份有限公司",
     "申請商地址": "台北市敦化北路３１１號５樓",
     "主製造廠": [
         {
-            "": "GERMANY",
+            "製造廠名稱": "VETTER PHARMA-FERTIGUNG GMBH &amp; CO. KG",
+            "製造廠廠址": "EISENBAHNSTRASSE 2-4, 88085 LANGENARGEN GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
             "製程": "委託製造者"
         }
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "FGB0421000  Waymade PLC",
+            "製造廠名稱": "Waymade PLC",
             "製造廠廠址": "Sovereign House, Miles Gray Road, Basildon, Essex SS14 3FR United Kingdon",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED KINGDOM",
             "製程": "二級包裝廠"
         },
         {
-            "製造廠名稱": "FGB8092000  Atnahs Pharma UK Ltd",
-            "製造廠廠址": "Suite 1, 3rd Floor, 11-12 St. James’s Square, London, United Kingdom, SW1Y 4LB",
+            "製造廠名稱": "Atnahs Pharma UK Ltd",
+            "製造廠廠址": "Sovereign House, Miles Gray Road, Basildon, Essex, SS14 3FR, United Kingdom",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED KINGDOM",
             "製程": "許可證持有者"
@@ -83,6 +86,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "Bonviva 3mg3ml 1 asrg 703-9555 TW Leaflet V2-2023.07.14-112-07-14(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024630&Seq=007&Type=9"
+        },
         {
             "title": "骨維壯注射劑Bonviva Injection衛署藥輸字第024630號中文仿單-109-11-23(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=02024630&Seq=006&Type=9"
