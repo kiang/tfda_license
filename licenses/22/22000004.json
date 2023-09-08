@@ -1,7 +1,7 @@
 {
     "code": "22000004",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=22000004",
-    "time": "2022-03-25 05:15:59",
+    "time": "2023-09-07 19:46:57",
     "許可證字號": "衛署罕菌疫輸字第000004號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,7 +9,7 @@
     "製造許可登錄編號": "",
     "有效日期": "113\/04\/26",
     "發證\/登錄日期": "93\/04\/26",
-    "許可證種類": "菌　疫",
+    "許可證\/登錄種類": "菌　疫",
     "舊證字號": "",
     "醫療器材級數": "",
     "第一等級醫療器材原許可證字號": "",
@@ -30,31 +30,34 @@
     "監視期限": "",
     "主成分略述": "AGALSIDASE ALFA",
     "限制項目": "02輸　入",
-    "申請商名稱": "1406701100  台灣武田藥品工業股份有限公司",
+    "申請商名稱": "台灣武田藥品工業股份有限公司",
     "申請商地址": "台北市信義區松高路1號17樓",
     "主製造廠": [
         {
-            "": "GERMANY",
+            "製造廠名稱": "VETTER PHARMA-FERTIGUNG GMBH &amp; CO. KG",
+            "製造廠廠址": "EISENBAHNSTRASSE 2-4, 88085 LANGENARGEN GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
             "製程": ""
         }
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "FNL0127000  DHL SUPPLY CHAIN (NETHERLANDS) B.V",
+            "製造廠名稱": "DHL SUPPLY CHAIN (NETHERLANDS) B.V",
             "製造廠廠址": "BIJSTERHUIZEN 3142, WIJCHEN, 6604 LV, NETHERLANDS",
             "製造廠公司地址": "",
             "製造廠國別": "NETHERLANDS",
             "製程": "二級包裝廠"
         },
         {
-            "製造廠名稱": "FUS0772000  SHIRE HUMAN GENETIC THERAPIES, Inc.",
+            "製造廠名稱": "SHIRE HUMAN GENETIC THERAPIES, Inc.",
             "製造廠廠址": "205 ALEWIFE BROOK PARKWAY, CAMBRIDGE, MA 02138, USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
             "製程": "原料藥製造廠"
         },
         {
-            "製造廠名稱": "FUS0853000  SHIRE HUMAN GENETIC THERAPIES, INC.",
+            "製造廠名稱": "SHIRE HUMAN GENETIC THERAPIES, INC.",
             "製造廠廠址": "400 SHIRE WAY LEXINGTON, MA 02421, USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",

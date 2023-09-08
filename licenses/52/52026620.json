@@ -1,7 +1,7 @@
 {
     "code": "52026620",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026620",
-    "time": "2022-03-25 05:21:31",
+    "time": "2023-09-07 19:53:44",
     "許可證字號": "衛部藥輸字第026620號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,7 +9,7 @@
     "製造許可登錄編號": "",
     "有效日期": "114\/12\/24",
     "發證\/登錄日期": "104\/12\/24",
-    "許可證種類": "製　劑",
+    "許可證\/登錄種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
     "第一等級醫療器材原許可證字號": "",
@@ -30,31 +30,34 @@
     "監視期限": "109\/12\/24",
     "主成分略述": "pasireotide pamoate",
     "限制項目": "02輸　入 5F免除銜接性試驗",
-    "申請商名稱": "0512001100  禾利行股份有限公司",
+    "申請商名稱": "禾利行股份有限公司",
     "申請商地址": "台北市松山區敦化北路311號3樓",
     "主製造廠": [
         {
-            "": "SWITZERLAND",
-            "製程": "主成分乾粉微粒製造廠"
+            "製造廠名稱": "RECORDATI AG RARE DISEASES BRANCH",
+            "製造廠廠址": "LICHTSTRASSE 35, CH-4056 BASEL, SWITZERLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "SWITZERLAND",
+            "製程": ""
         }
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "FCH0309000  SYNERGY HEALTH DANIKEN AG",
+            "製造廠名稱": "SYNERGY HEALTH DANIKEN AG",
             "製造廠廠址": "HOGENWEIDSTRASSE 6, CH-4658 DANIKEN, SWITZERLAND",
             "製造廠公司地址": "",
             "製造廠國別": "SWITZERLAND",
             "製程": "滅菌廠"
         },
         {
-            "製造廠名稱": "FNL0058000  ABBOTT BIOLOGICALS B.V.",
+            "製造廠名稱": "ABBOTT BIOLOGICALS B.V.",
             "製造廠廠址": "VEERWEG 12, 8121 AA OLST, THE NETHERLANDS",
             "製造廠公司地址": "",
             "製造廠國別": "NETHERLANDS",
             "製程": "包裝廠及溶劑廠"
         },
         {
-            "製造廠名稱": "MAT0041100  Sandoz GmbH",
+            "製造廠名稱": "Sandoz GmbH",
             "製造廠廠址": "BIOCHEMIESTRASSE 10, 6336 LANGKAMPFEN, AUSTRIA",
             "製造廠公司地址": "",
             "製造廠國別": "AUSTRIA",
@@ -91,8 +94,28 @@
     ],
     "仿單外盒": [
         {
+            "title": "SIGNIFOR LAR-TW-all-BKLT-01-1127755_2-111-03-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026620&Seq=008&Type=9"
+        },
+        {
             "title": "欣瘤伏長效緩釋注射劑_仿單_20200814_Final-109-08-14.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026620&Seq=007&Type=9"
+        },
+        {
+            "title": "SIGNIFOR LAR-TW-40MG-FB-01-1127752_2-111-03-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026620&Seq=007&Type=8"
+        },
+        {
+            "title": "SIGNIFOR LAR-EXP-all-LBS-01-1127795_2-111-03-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026620&Seq=006&Type=8"
+        },
+        {
+            "title": "SIGNIFOR LAR-EXP-40MG-LBV-01-1127794_2-111-03-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026620&Seq=005&Type=8"
+        },
+        {
+            "title": "SIGNIFOR LAR-all-TLF-01-1128409_1-111-03-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026620&Seq=004&Type=8"
         },
         {
             "title": "026620_Signifor LAR 40mg_FB-109-04-24(廠商自行上傳).pdf",

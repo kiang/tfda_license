@@ -1,12 +1,12 @@
 {
     "code": "56033809",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56033809",
-    "time": "2023-05-25 22:18:45",
+    "time": "2023-09-07 20:50:21",
     "許可證字號": "衛部醫器輸字第033809號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可登錄編號": "QSD10424",
+    "製造許可登錄編號": "QSD13945",
     "有效日期": "114\/07\/10",
     "發證\/登錄日期": "109\/07\/10",
     "許可證\/登錄種類": "醫　器",
@@ -40,10 +40,19 @@
     "主製造廠": [
         {
             "製造廠名稱": "Envision Scientific Pvt. Ltd.",
-            "製造廠廠址": "Plot No. C1B-108, Ichchhapore GIDC Industrial Estate, Bhatpore, Sachin Hazira Road, Surat 394510, Gujarat, India",
+            "製造廠廠址": "Plot No.177, 178, 201&amp;202, Surat Special Economic Zone, Sachin, Surat -394 230, Gujarat, India",
             "製造廠公司地址": "",
             "製造廠國別": "INDIA",
             "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "Concept Medical Research Pvt. Ltd.",
+            "製造廠廠址": "901-903, Trinnity Orion, Beside Jolly Residency, Vesu Surat-395007, Gujarat, India",
+            "製造廠公司地址": "",
+            "製造廠國別": "INDIA",
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",
