@@ -1,7 +1,7 @@
 {
     "code": "60000962",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60000962",
-    "time": "2023-09-21 22:20:01",
+    "time": "2023-09-28 22:20:25",
     "許可證字號": "衛部菌疫輸字第000962號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -28,7 +28,7 @@
     "管制藥品分類級別": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "HUMAN PLASMA PROTEINS, HBs ANTIBODY CONTENT",
+    "主成分略述": "HUMAN PLASMA PROTEIN THEREOF IMMUNOGLOBULIN G≧96% WITH HBs ANTIBODY",
     "限制項目": "02輸　入",
     "申請商名稱": "禾利行股份有限公司",
     "申請商地址": "台北市松山區敦化北路311號3樓",
@@ -62,19 +62,11 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "1600000430",
-            "成分名稱": "HUMAN PLASMA PROTEINS",
-            "含量描述": "(thereof IMMUNOGLOBULIN G >=96%)",
+            "成分代碼": "1600002200",
+            "成分名稱": "HUMAN PLASMA PROTEIN THEREOF IMMUNOGLOBULIN G≧96% WITH HBs ANTIBODY",
+            "含量描述": "(HBs ANTIBODY 500 IU)",
             "含量": "150.0000000000",
             "單位": "MG"
-        },
-        {
-            "成分類別": "主成分",
-            "成分代碼": "8082002300",
-            "成分名稱": "HBs ANTIBODY CONTENT",
-            "含量描述": "",
-            "含量": "500.0000000000",
-            "單位": "IU"
         }
     ],
     "仿單外盒": [
