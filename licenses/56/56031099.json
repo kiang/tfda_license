@@ -1,12 +1,12 @@
 {
     "code": "56031099",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56031099",
-    "time": "2023-07-28 02:40:35",
+    "time": "2023-10-06 00:20:13",
     "許可證字號": "衛部醫器輸字第031099號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可登錄編號": "QSD11177",
+    "製造許可登錄編號": "QSD14737",
     "有效日期": "112\/05\/28",
     "發證\/登錄日期": "107\/05\/28",
     "許可證\/登錄種類": "醫　器",
@@ -39,11 +39,20 @@
     "申請商地址": "新北市新店區北新路3段221號10樓",
     "主製造廠": [
         {
-            "製造廠名稱": "PlantTec Medical GmbH",
-            "製造廠廠址": "Bleckeder Landstrase 22 D-21337 Luneberg, Germany",
+            "製造廠名稱": "bmp, bulk medicines &amp; pharmaceuticals production GmbH",
+            "製造廠廠址": "Neuhofer Weiche 48 D-19370 Parchim, Germany",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
-            "製程": ""
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "PlantTec Medical GmbH",
+            "製造廠廠址": "Dorette-von-Stern-Stra&#223;e 10 D-21337 L&#252;neburg, Germany",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "委託製造者"
         }
     ],
     "藥理治療分類": "",

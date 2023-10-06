@@ -1,17 +1,19 @@
 {
     "code": "52027559",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52027559",
-    "time": "2021-03-26 04:30:08",
+    "time": "2023-10-06 11:43:20",
     "許可證字號": "衛部藥輸字第027559號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
-    "有效日期": "112\/12\/24",
-    "發證日期": "107\/12\/24",
-    "許可證種類": "製　劑",
+    "有效日期": "117\/12\/24",
+    "發證\/登錄日期": "107\/12\/24",
+    "許可證\/登錄種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05202755908",
     "中文品名": "滅巨斯輸注用濃縮溶液20毫克\/毫升",
     "英文品名": "Prevymis Concentrate for Solution for Infusion 20mg\/mL",
@@ -24,15 +26,15 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "藥品分類": "新成分",
+    "藥品分類": "新成分;",
     "監視期限": "112\/12\/24",
     "主成分略述": "Letermovir",
     "限制項目": "02輸　入 5F免除銜接性試驗",
-    "申請商名稱": "0929301100  美商默沙東藥廠股份有限公司台灣分公司",
+    "申請商名稱": "美商默沙東藥廠股份有限公司台灣分公司",
     "申請商地址": "台北市信義區信義路五段106號12樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FIE0079300  MSD INTERNATIONAL GMBH T\/A MSD IRELAND (CARLOW)",
+            "製造廠名稱": "MSD INTERNATIONAL GMBH T\/A MSD IRELAND (CARLOW)",
             "製造廠廠址": "DUBLIN ROAD, CARLOW, CO. CARLOW, IRELAND",
             "製造廠公司地址": "",
             "製造廠國別": "IRELAND",
@@ -41,8 +43,8 @@
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "FBE0006000  SCHERING-PLOUGH LABO N.V.",
-            "製造廠廠址": "INDUSTRIEPARK 30, B-2220 HEIST-OP-DEN-BERG, BELGIUM",
+            "製造廠名稱": "Organon Heist bv",
+            "製造廠廠址": "Industriepark 30, 2220 Heist-op-den-Berg, Belgium",
             "製造廠公司地址": "",
             "製造廠國別": "BELGIUM",
             "製程": "包裝"
@@ -69,6 +71,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "PREVYMIS leaflet_自行變更-無騎縫章-112-07-04(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027559&Seq=005&Type=9"
+        },
         {
             "title": "Prevymis Leaflet-109-07-06.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027559&Seq=004&Type=9"

@@ -1,20 +1,22 @@
 {
     "code": "58026747",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58026747",
-    "time": "2020-11-27 12:32:08",
+    "time": "2023-10-06 10:25:28",
     "許可證字號": "衛部粧輸字第026747號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "113\/06\/30",
-    "發證日期": "108\/11\/04",
-    "許可證種類": "特定用途化粧品",
+    "發證\/登錄日期": "108\/11\/04",
+    "許可證\/登錄種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05802674700",
-    "中文品名": "白金級寶石光精華粉底SPF20\/PA+++-1C0 Cool Porcelain, 1W0 Warm Porcelain, 2C0 Cool Vanilla, 2W0 Warm Vanilla, 3C0 Cool Cr&#232;me",
-    "英文品名": "Re-Nutriv Ultra Radiance Liquid Makeup SPF20\/PA+++-1C0 Cool Porcelain, 1W0 Warm Porcelain, 2C0 Cool Vanilla, 2W0 Warm Vanilla, 3C0 Cool Cr&#232;me",
+    "中文品名": "1.白金級寶石光精華粉底SPF20\/PA+++-1C0 Cool Porcelain, 1W0 Warm Porcelain, 2C0 Cool Vanilla, 2W0 Warm Vanilla, 3C0 Cool Cr&#232;me\r\n2.超持妝濾鏡粉底液SPF25\/PA++-N18、NC15、NC20、NC25、NC30、NC35、NC40、N12、NC12、NC14、NC16、N16、NC11、NC11.5、NW11、N11。",
+    "英文品名": "1.Re-Nutriv Ultra Radiance Liquid Makeup SPF20\/PA+++-1C0 Cool Porcelain, 1W0 Warm Porcelain, 2C0 Cool Vanilla, 2W0 Warm Vanilla, 3C0 Cool Cr&#232;me\r\n2.Studio Fix Fluid SPF25\/PA++ Skin Balancing Complex-N18、NC15、NC20、NC25、NC30、NC35、NC40、N12、NC12、NC14、NC16、N16、NC11、NC11.5、NW11、N11。",
     "用途": "防曬、潤飾膚色",
     "劑型": "944乳劑",
     "包裝": "500公撮以下瓶裝附外盒",
@@ -27,12 +29,12 @@
     "藥品分類": "",
     "監視期限": "",
     "主成分略述": "ETHYLHEXYL METHOXYCINNAMATE",
-    "限制項目": "",
-    "申請商名稱": "0930501100  美商雅詩蘭黛股份有限公司台灣分公司",
+    "限制項目": "02輸　入",
+    "申請商名稱": "美商雅詩蘭黛股份有限公司台灣分公司",
     "申請商地址": "台北市信義區松高路9號19樓",
     "主製造廠": [
         {
-            "製造廠名稱": "CBE0001200  Est&#233;e Lauder bv",
+            "製造廠名稱": "Est&#233;e Lauder bv",
             "製造廠廠址": "Nijverheidsstraat 15, B-2260, Oevel (Westerlo) Belgium",
             "製造廠公司地址": "",
             "製造廠國別": "BELGIUM",
@@ -48,9 +50,21 @@
             "含量描述": "",
             "含量": "2.2282160000",
             "單位": "%(W\/W)"
+        },
+        {
+            "成分類別": "主成分",
+            "成分代碼": "9900071200",
+            "成分名稱": "ETHYLHEXYL METHOXYCINNAMATE",
+            "含量描述": "",
+            "含量": "2.9979000000",
+            "單位": "%(W\/W)"
         }
     ],
     "仿單外盒": [
+        {
+            "title": "58026747-112-09-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58026747&Seq=002&Type=8"
+        },
         {
             "title": "58026747-108-11-20.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58026747&Seq=001&Type=8"

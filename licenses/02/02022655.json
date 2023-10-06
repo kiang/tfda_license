@@ -1,7 +1,7 @@
 {
     "code": "02022655",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022655",
-    "time": "2021-12-24 05:58:21",
+    "time": "2023-10-05 19:27:45",
     "許可證字號": "衛署藥輸字第022655號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,7 +9,7 @@
     "製造許可登錄編號": "",
     "有效日期": "113\/10\/26",
     "發證\/登錄日期": "88\/10\/26",
-    "許可證種類": "製　劑",
+    "許可證\/登錄種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
     "第一等級醫療器材原許可證字號": "",
@@ -30,31 +30,34 @@
     "監視期限": "",
     "主成分略述": "OCTREOTIDE",
     "限制項目": "02輸　入",
-    "申請商名稱": "1422701100  台灣諾華股份有限公司",
+    "申請商名稱": "台灣諾華股份有限公司",
     "申請商地址": "台北市中山區民生東路三段2號8樓",
     "主製造廠": [
         {
-            "": "AUSTRIA",
+            "製造廠名稱": "SANDOZ GMBH,  SCHAFTENAU PLANT",
+            "製造廠廠址": "BIOCHEMIESTRASSE 10, 6336 LANGKAMPFEN, AUSTRIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRIA",
             "製程": "半成品(BULK MICROSPHERE)"
         }
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "FCH0088000  NOVARTIS PHARMA STEIN AG",
+            "製造廠名稱": "NOVARTIS PHARMA STEIN AG",
             "製造廠廠址": "SCHAFFHAUSERSTRASSE CH-4332 STEIN, SWITZERLAND",
             "製造廠公司地址": "",
             "製造廠國別": "SWITZERLAND",
             "製程": "FINAL ASSEMBLY"
         },
         {
-            "製造廠名稱": "FNL0023000  Abbott BIOLOGICALS B.V.",
+            "製造廠名稱": "Abbott BIOLOGICALS B.V.",
             "製造廠廠址": "VEERWEG 12, NL-8121 AA OLST, THE NETHERLANDS",
             "製造廠公司地址": "",
             "製造廠國別": "NETHERLANDS",
             "製程": "2.5ml PREFILLED SYRINGE"
         },
         {
-            "製造廠名稱": "FNL0058000  ABBOTT BIOLOGICALS B.V.",
+            "製造廠名稱": "ABBOTT BIOLOGICALS B.V.",
             "製造廠廠址": "VEERWEG 12, 8121 AA OLST, THE NETHERLANDS",
             "製造廠公司地址": "",
             "製造廠國別": "NETHERLANDS",

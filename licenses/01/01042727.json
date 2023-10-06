@@ -1,17 +1,19 @@
 {
     "code": "01042727",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01042727",
-    "time": "2020-02-25 06:47:04",
+    "time": "2023-10-05 19:16:23",
     "許可證字號": "衛署藥製字第042727號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "113\/01\/08",
-    "發證日期": "88\/01\/08",
-    "許可證種類": "製　劑",
+    "發證\/登錄日期": "88\/01\/08",
+    "許可證\/登錄種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00104272706",
     "中文品名": "診嗽糖漿",
     "英文品名": "JUNSO SYRUP",
@@ -22,17 +24,17 @@
     "有效期間": "",
     "指示藥品審查基準": "",
     "標籤、仿單及包裝加註": "",
-    "藥品類別": "17醫師藥師藥劑生指示藥",
+    "藥品類別": "17醫師藥師藥劑生指示藥品",
     "管制藥品分類級別": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "CHLORPHENOXAMINE MALEATE, CODEINE PHOSPHATE, CARBETAPENTANE CITRATE (eq to Pentoxyverine Citrate), GUAIACOL GLYCERYL ETHER (EQ TO GUAIFENESIN)",
+    "主成分略述": "CHLORPHENIRAMINE MALEATE, CODEINE PHOSPHATE, CARBETAPENTANE CITRATE (eq to Pentoxyverine Citrate), GUAIACOL GLYCERYL ETHER (EQ TO GUAIFENESIN)",
     "限制項目": "01國　產",
-    "申請商名稱": "6103030017  井田國際醫藥廠股份有限公司",
+    "申請商名稱": "井田國際醫藥廠股份有限公司",
     "申請商地址": "台中市大甲區幼獅路32號",
     "主製造廠": [
         {
-            "製造廠名稱": "6103030017  井田國際醫藥廠股份有限公司",
+            "製造廠名稱": "井田國際醫藥廠股份有限公司",
             "製造廠廠址": "台中市大甲區幼獅路32號",
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
@@ -44,8 +46,8 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "1208001520",
-            "成分名稱": "CHLORPHENOXAMINE MALEATE",
+            "成分代碼": "0400000810",
+            "成分名稱": "CHLORPHENIRAMINE MALEATE",
             "含量描述": "",
             "含量": "0.4000000000",
             "單位": "MG"
@@ -99,10 +101,6 @@
         {
             "title": "042727仿單-106-11-21.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042727&Seq=005&Type=9"
-        },
-        {
-            "title": "010427270002標籤-104-12-28(廠商自行上傳).PDF",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01042727&Seq=004&Type=9"
         },
         {
             "title": "010427270003花盒-107-07-21(廠商自行上傳).pdf",
