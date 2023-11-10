@@ -1,7 +1,7 @@
 {
     "code": "56029785",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029785",
-    "time": "2022-03-25 06:01:02",
+    "time": "2023-11-09 20:11:27",
     "許可證字號": "衛部醫器輸字第029785號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,7 +9,7 @@
     "製造許可登錄編號": "QSD1922",
     "有效日期": "116\/06\/07",
     "發證\/登錄日期": "106\/06\/07",
-    "許可證種類": "醫　器",
+    "許可證\/登錄種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
     "第一等級醫療器材原許可證字號": "",
@@ -18,7 +18,7 @@
     "中文品名": "“普惠” T型延長管",
     "英文品名": "“PERFECT” T-TYPE EXTENSION TUBE",
     "效能": "詳如中文仿單核定本\r\n效能變更:詳如中文仿單核定本(原107年8月22日核定之仿單標籤核定本收回作廢)。",
-    "醫器規格": "E01, E02, E03, E04, E05, E06\r\n以下空白",
+    "醫器規格": "E01, E02, E03, E04, E05, E06\r\n以下空白\r\n新增規格：E32、E33、E34(原108年10月7日核定之標籤、說明書或包裝正本予以收回作廢)。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -35,11 +35,14 @@
     "監視期限": "",
     "主成分略述": "",
     "限制項目": "02輸　入",
-    "申請商名稱": "1225612600  普惠醫工股份有限公司",
+    "申請商名稱": "普惠醫工股份有限公司",
     "申請商地址": "彰化縣北斗鎮大新里新工一路１００號",
     "主製造廠": [
         {
-            "": "VIET NAM",
+            "製造廠名稱": "PERFECT MEDICAL INDUSTRY (VN) CO., LTD",
+            "製造廠廠址": "BLOCK D7\/I, NO. 1B ROAD, NO .2 RESIDENTIA 1 QUARTER, VINH LOC INDUSTRIAL ZONE, BINH HUNG HOA B WARD,BINH TAN DISTRICT, HO CHI MINH CITY, S. R. OF VIET NAM",
+            "製造廠公司地址": "",
+            "製造廠國別": "VIET NAM",
             "製程": ""
         }
     ],
@@ -47,12 +50,12 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "560297850001-108-10-08.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56029785&Seq=003&Type=9"
+            "title": "560297850001-112-10-04.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56029785&Seq=004&Type=9"
         },
         {
-            "title": "560297850001-108-10-08.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56029785&Seq=002&Type=8"
+            "title": "560297850001-112-10-04.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56029785&Seq=003&Type=8"
         }
     ]
 }

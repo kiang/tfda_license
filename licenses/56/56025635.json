@@ -1,13 +1,13 @@
 {
     "code": "56025635",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025635",
-    "time": "2023-06-29 22:47:31",
+    "time": "2023-11-09 20:01:31",
     "許可證字號": "衛部醫器輸字第025635號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可登錄編號": "QSD2267",
-    "有效日期": "112\/12\/11",
+    "製造許可登錄編號": "QSD14583",
+    "有效日期": "117\/12\/11",
     "發證\/登錄日期": "102\/12\/11",
     "許可證\/登錄種類": "醫　器",
     "舊證字號": "",
@@ -18,7 +18,7 @@
     "中文品名": "“偉達”艾克忍瓷牙染色材",
     "英文品名": "“VITA” AKZENT Plus Porcelain Material",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "BAPK, BAPKP, BAPKS。註銷規格(共1項):BAPKS，以下空白。增加規格：詳如中文仿單核定本。註銷規格：詳如核定之中文說明書，以下空白。",
+    "醫器規格": "BAPK, BAPKP, BAPKS。註銷規格(共1項):BAPKS，以下空白。增加規格：詳如中文仿單核定本。註銷規格：詳如核定之中文說明書，以下空白。註銷規格：BAPKSV1-112.10.19。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -39,19 +39,32 @@
     "申請商地址": "新北市三重區光復路1段61巷26號13樓之1",
     "主製造廠": [
         {
-            "製造廠名稱": "VITA ZAHNFABRIK H.RAUTER GMBH &amp; CO., KG",
-            "製造廠廠址": "SPITALGASSE 3, D-79713 BAD SACKINGEN, GERMANY",
+            "製造廠名稱": "VITA Zahnfabrik H. Rauter GmbH &amp; Co. KG",
+            "製造廠廠址": "Schulhausstraβe 34 79713 Bad Sackingen, Germany",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
             "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "VITA Zahnfabrik H. Rauter GmbH &amp; CO. KG",
+            "製造廠廠址": "Spitalgasse 3, 79713 Bad S&#228;ckingen, Germany",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "56025635(109.2.23)-112.3.3-112-03-06.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025635&Seq=004&Type=9"
+            "title": "56025635(109.2.23)-112-10-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025635&Seq=006&Type=9"
+        },
+        {
+            "title": "560256350001(106.10.30)-112-09-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025635&Seq=005&Type=9"
         },
         {
             "title": "560256350001(107.08.23)-107-08-25.pdf",
@@ -62,8 +75,12 @@
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025635&Seq=001&Type=9"
         },
         {
-            "title": "56025635(109.2.23)-112.3.3-112-03-06.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025635&Seq=004&Type=8"
+            "title": "56025635(109.2.23)-112-10-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025635&Seq=006&Type=8"
+        },
+        {
+            "title": "560256350001(106.10.30)-112-09-26.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025635&Seq=005&Type=8"
         },
         {
             "title": "560256350001(107.08.23)-107-08-25.pdf",

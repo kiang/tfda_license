@@ -1,18 +1,18 @@
 {
     "code": "10000747",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000747",
-    "time": "2022-12-30 06:10:43",
+    "time": "2023-11-09 19:27:02",
     "許可證字號": "衛署菌疫輸字第000747號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "116\/12\/11",
-    "發證日期": "91\/12\/11",
-    "許可證種類": "菌　疫",
+    "發證\/登錄日期": "91\/12\/11",
+    "許可證\/登錄種類": "菌　疫",
     "舊證字號": "",
     "醫療器材級數": "",
-    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材原許可證字號": "",
     "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA01000074701",
     "中文品名": "威保 25U\/ml 抗抑制子凝血複合物",
@@ -26,15 +26,15 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "藥品分類": "血液衍生產品",
+    "藥品分類": "血液衍生產品;",
     "監視期限": "",
     "主成分略述": "HUMAN PLASMA PROTEIN WITH FACTOR VIII INHIBITOR BY PASSING ACTIVITY",
     "限制項目": "02輸　入",
-    "申請商名稱": "1406701100  台灣武田藥品工業股份有限公司",
+    "申請商名稱": "台灣武田藥品工業股份有限公司",
     "申請商地址": "台北市信義區松高路1號17樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FAT0033100  Takeda Manufacturing Austria AG",
+            "製造廠名稱": "Takeda Manufacturing Austria AG",
             "製造廠廠址": "Lange Allee 24, 1221, Vienna, Austria",
             "製造廠公司地址": "",
             "製造廠國別": "AUSTRIA",
@@ -43,18 +43,32 @@
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "FAT0018100  Takeda Manufacturing Austria AG",
+            "製造廠名稱": "Takeda Manufacturing Austria AG",
             "製造廠廠址": "INDUSTRIESTRASSE 67, 1221 WIEN, AUSTRIA",
             "製造廠公司地址": "",
             "製造廠國別": "AUSTRIA",
             "製程": "許可證持有者"
         },
         {
-            "製造廠名稱": "FDE0884000  SIEGFRIED HAMELN GmbH",
+            "製造廠名稱": "TAKEDA MANUFACTURING AUSTRIA AG",
+            "製造廠廠址": "INDUSTRIESSTRASSE 131, A-1221 VIENNA, AUSTRIA",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRIA",
+            "製程": "中間產物製造廠"
+        },
+        {
+            "製造廠名稱": "SIEGFRIED HAMELN GmbH",
             "製造廠廠址": "LANGES FELD 13 31789 HAMELN, GERMANY",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
             "製程": "稀釋液"
+        },
+        {
+            "製造廠名稱": "Takeda Manufacturing Italia S.p.A",
+            "製造廠廠址": "Via Della chimica 5, 02015 Santa Rufina Cittaducale, Rieti（RI）, Italy",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
+            "製程": "中間產物製造廠"
         }
     ],
     "CCC號列": "",

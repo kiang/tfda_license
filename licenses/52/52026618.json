@@ -1,7 +1,7 @@
 {
     "code": "52026618",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026618",
-    "time": "2023-10-27 11:09:19",
+    "time": "2023-11-09 19:34:12",
     "許可證字號": "衛部藥輸字第026618號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -43,6 +43,13 @@
     ],
     "次製造廠": [
         {
+            "製造廠名稱": "Novartis Pharmaceutical Manufacturing GmbH",
+            "製造廠廠址": "Biochemiestra&#223;e 10, 6336 Langkampfen, Austria",
+            "製造廠公司地址": "",
+            "製造廠國別": "AUSTRIA",
+            "製程": "充填與一級包裝製造廠"
+        },
+        {
             "製造廠名稱": "SYNERGY HEALTH DANIKEN AG",
             "製造廠廠址": "HOGENWEIDSTRASSE 6, CH-4658 DANIKEN, SWITZERLAND",
             "製造廠公司地址": "",
@@ -55,13 +62,6 @@
             "製造廠公司地址": "",
             "製造廠國別": "NETHERLANDS",
             "製程": "包裝廠及溶劑廠"
-        },
-        {
-            "製造廠名稱": "Sandoz GmbH",
-            "製造廠廠址": "BIOCHEMIESTRASSE 10, 6336 LANGKAMPFEN, AUSTRIA",
-            "製造廠公司地址": "",
-            "製造廠國別": "AUSTRIA",
-            "製程": "充填與一級包裝製造廠"
         }
     ],
     "CCC號列": "",

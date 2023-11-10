@@ -1,7 +1,7 @@
 {
     "code": "02022794",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=02022794",
-    "time": "2022-05-27 06:06:01",
+    "time": "2023-11-09 19:21:55",
     "許可證字號": "衛署藥輸字第022794號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,7 +9,7 @@
     "製造許可登錄編號": "",
     "有效日期": "114\/02\/22",
     "發證\/登錄日期": "89\/02\/22",
-    "許可證種類": "製　劑",
+    "許可證\/登錄種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
     "第一等級醫療器材原許可證字號": "",
@@ -30,12 +30,24 @@
     "監視期限": "",
     "主成分略述": "NICOTINAMIDE, BISBENTIAMINE (THIAMINE O-BENZOYL DISULFIDE), PYRIDOXINE HCL, CYANOCOBALAMIN (VIT B12), TOCOPHEROL CALCIUM SUCCINATE",
     "限制項目": "02輸　入",
-    "申請商名稱": "620111H504  保瑞聯邦股份有限公司",
+    "申請商名稱": "保瑞聯邦股份有限公司",
     "申請商地址": "台北市內湖區瑞光路26巷36弄2號5樓",
     "主製造廠": [
         {
-            "": "JAPAN",
+            "製造廠名稱": "SSP Co., Ltd., Narita Plant",
+            "製造廠廠址": "1143, NANPEIDAI, NARITA, CHIBA, JAPAN",
+            "製造廠公司地址": "3-20-2, Nishi Shinjuku, Shinjuku-ku, Tokyo 163-1488, Japan",
+            "製造廠國別": "JAPAN",
             "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "益邦製藥股份有限公司",
+            "製造廠廠址": "苗栗縣竹南鎮科東三路1號",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
+            "製程": "二級包裝廠"
         }
     ],
     "CCC號列": "30045000009 其他醫藥製劑，含有維他命或第２９３６節之其他產品Other medicaments, containing vitamins or other products of heading 29.36",

@@ -1,18 +1,18 @@
 {
     "code": "10000596",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=10000596",
-    "time": "2021-10-29 07:29:00",
+    "time": "2023-11-09 20:38:40",
     "許可證字號": "衛署菌疫輸字第000596號",
-    "註銷狀態": "",
-    "註銷日期": "",
-    "註銷理由": "",
+    "註銷狀態": "已註銷",
+    "註銷日期": "112\/10\/25",
+    "註銷理由": "自請註銷",
     "製造許可登錄編號": "",
     "有效日期": "114\/04\/05",
-    "發證日期": "89\/04\/05",
-    "許可證種類": "菌　疫",
+    "發證\/登錄日期": "89\/04\/05",
+    "許可證\/登錄種類": "菌　疫",
     "舊證字號": "",
     "醫療器材級數": "",
-    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材原許可證字號": "",
     "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA01000059606",
     "中文品名": "優泌樂－混合型５０　１００單位\/毫升",
@@ -30,28 +30,34 @@
     "監視期限": "",
     "主成分略述": "INSULIN LISPRO",
     "限制項目": "02輸　入",
-    "申請商名稱": "1411301100  台灣禮來股份有限公司",
+    "申請商名稱": "台灣禮來股份有限公司",
     "申請商地址": "台北市復興北路３６５號１１樓",
     "主製造廠": [
         {
-            "": "FRANCE",
+            "製造廠名稱": "LILLY FRANCE",
+            "製造廠廠址": "2 RUE DU COLONEL LILLY 67640 FEGERSHEIM, FRANCE.",
+            "製造廠公司地址": "13 RUE PAGES, 92158 SURESNES, FRANCE",
+            "製造廠國別": "FRANCE",
             "製程": ""
         },
         {
-            "": "ITALY",
+            "製造廠名稱": "ELI LILLY ITALIA S.P.A.",
+            "製造廠廠址": "VIA GRAMSCI 731-733 50019 SESTO FIORENTINO",
+            "製造廠公司地址": "",
+            "製造廠國別": "ITALY",
             "製程": "製造、包裝"
         }
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "FPR0051000  LILLY DEL CARIBE INC.",
+            "製造廠名稱": "LILLY DEL CARIBE INC.",
             "製造廠廠址": "12.3 KM, 65TH INFANTRY ROAD, CAROLINA 00985, PUERTO RICO",
             "製造廠公司地址": "",
             "製造廠國別": "PUERTO RICO",
             "製程": "原料藥製造廠"
         },
         {
-            "製造廠名稱": "FUS0073100  ELI LILLY AND COMPANY",
+            "製造廠名稱": "ELI LILLY AND COMPANY",
             "製造廠廠址": "INDIANAPOLIS, INDIANA 46285, U.S.A.",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
@@ -87,6 +93,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "Humalog M50 Cartridge - 仿單s-109-08-14.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000596&Seq=025&Type=9"
+        },
         {
             "title": "020005960001-106-04-07.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=10000596&Seq=024&Type=9"

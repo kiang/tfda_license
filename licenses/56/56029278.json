@@ -1,7 +1,7 @@
 {
     "code": "56029278",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56029278",
-    "time": "2022-03-25 05:59:45",
+    "time": "2023-11-09 20:10:44",
     "許可證字號": "衛部醫器輸字第029278號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,7 +9,7 @@
     "製造許可登錄編號": "QSD9774",
     "有效日期": "116\/01\/12",
     "發證\/登錄日期": "106\/01\/12",
-    "許可證種類": "醫　器",
+    "許可證\/登錄種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
     "第一等級醫療器材原許可證字號": "",
@@ -18,7 +18,7 @@
     "中文品名": "“美瑞特”普瑪導管",
     "英文品名": "“Merit” Performa Catheters",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "詳如中文仿單核定本",
+    "醫器規格": "詳如中文仿單核定本\r\n增加規格: PV512538U1(原106年2月20日核定之標籤、說明書或包裝予以收回作廢)。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -35,17 +35,20 @@
     "監視期限": "",
     "主成分略述": "",
     "限制項目": "02輸　入 09委託製造",
-    "申請商名稱": "620101Y160  香港商美瑞特醫療器材股份有限公司台灣分公司",
+    "申請商名稱": "香港商美瑞特醫療器材股份有限公司台灣分公司",
     "申請商地址": "臺北市信義區松智路1號11樓(1127室)",
     "主製造廠": [
         {
-            "": "MEXICO",
+            "製造廠名稱": "Merit Maquiladora Mexico, S de R.L. de C.V.",
+            "製造廠廠址": "Avenida Sor Juana Ines de la Cruz 19970 Interior B, Edificio 2, Parque Industrial Frontera Tijuana, Baja California C.P. 22630 Mexico",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
             "製程": "Manufactured by"
         }
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "MUS0950100  Merit Medical Systems, Inc.",
+            "製造廠名稱": "Merit Medical Systems, Inc.",
             "製造廠廠址": "1600 West Merit Parkway, South Jordan, Utah 84095, USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
@@ -56,12 +59,12 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "560292780001-106-02-20.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56029278&Seq=001&Type=9"
+            "title": "560292780001-112-10-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56029278&Seq=002&Type=9"
         },
         {
-            "title": "560292780001-106-02-20.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56029278&Seq=001&Type=8"
+            "title": "560292780001-112-10-24.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56029278&Seq=002&Type=8"
         }
     ]
 }
