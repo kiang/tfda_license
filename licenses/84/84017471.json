@@ -1,7 +1,7 @@
 {
     "code": "84017471",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=84017471",
-    "time": "2023-11-23 21:41:27",
+    "time": "2023-11-30 21:39:16",
     "許可證字號": "衛部醫器輸壹登字第017471號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -39,10 +39,17 @@
     "申請商地址": "台北市松山區敦化南路一段2號2樓",
     "主製造廠": [
         {
-            "製造廠名稱": "Given Imaging Ltd",
+            "製造廠名稱": "Given Imaging, Ltd.",
             "製造廠廠址": "2 Hacarmel St. New Industrial Park POB 258, 20692 Yoqneam, Israel",
             "製造廠公司地址": "",
             "製造廠國別": "ISRAEL",
+            "製程": ""
+        },
+        {
+            "製造廠名稱": "Made (部分製程) in Vietnam",
+            "製造廠廠址": "Made (部分製程) in Vietnam",
+            "製造廠公司地址": "",
+            "製造廠國別": "VIET NAM",
             "製程": ""
         }
     ],
@@ -51,7 +58,7 @@
             "製造廠名稱": "Given Imaging Inc.",
             "製造廠廠址": "15 Hampshire Street, Mansfield, MA 02048 USA",
             "製造廠公司地址": "",
-            "製造廠國別": "TAIWAN",
+            "製造廠國別": "UNITED STATES",
             "製程": "總公司"
         }
     ],
