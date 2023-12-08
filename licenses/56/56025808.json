@@ -1,24 +1,24 @@
 {
     "code": "56025808",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56025808",
-    "time": "2021-10-29 07:54:42",
+    "time": "2023-12-07 20:24:48",
     "許可證字號": "衛部醫器輸字第025808號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "QSD7459",
-    "有效日期": "113\/02\/13",
-    "發證日期": "103\/02\/13",
-    "許可證種類": "醫　器",
+    "有效日期": "118\/02\/13",
+    "發證\/登錄日期": "103\/02\/13",
+    "許可證\/登錄種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
-    "第一等級醫療器材原登錄字號": "",
+    "第一等級醫療器材原許可證字號": "",
     "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05602580802",
     "中文品名": "“倈卡”術中螢光血管攝影系統",
     "英文品名": "“Leica” Intra-operative Angiography System",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "FL800\r\n以下空白。\r\n增加規格：FL800 ULT。",
+    "醫器規格": "FL800，以下空白。\r\n增加規格：FL800 ULT。\r\n增加規格：Leica FL400 for M530。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -35,17 +35,20 @@
     "監視期限": "",
     "主成分略述": "",
     "限制項目": "02輸　入 09委託製造",
-    "申請商名稱": "620102J090  久和醫療儀器股份有限公司",
+    "申請商名稱": "久和醫療儀器股份有限公司",
     "申請商地址": "臺北市內湖區行愛路88號5樓",
     "主製造廠": [
         {
-            "": "SINGAPORE",
+            "製造廠名稱": "LEICA INSTRUMENTS (SINGAPORE) PTE LIMITED",
+            "製造廠廠址": "12 TEBAN GARDENS CRESCENT, SINGAPORE 608924, SINGAPORE",
+            "製造廠公司地址": "",
+            "製造廠國別": "SINGAPORE",
             "製程": "Manufactured by"
         }
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "MCH0069000  LEICA MICROSYSTEMS(SCHWEIZ) AG",
+            "製造廠名稱": "LEICA MICROSYSTEMS(SCHWEIZ) AG",
             "製造廠廠址": "MAX SCHMIDHEINY-STRASSE 201, CH-9435 HEERBRUGG, SWITZERLAND",
             "製造廠公司地址": "",
             "製造廠國別": "SWITZERLAND",
@@ -55,6 +58,10 @@
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
+        {
+            "title": "560258080001-112-11-28.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025808&Seq=003&Type=9"
+        },
         {
             "title": "中文仿單-105-04-01.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56025808&Seq=002&Type=9"

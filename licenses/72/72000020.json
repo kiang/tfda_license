@@ -1,17 +1,19 @@
 {
     "code": "72000020",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=72000020",
-    "time": "2021-08-27 05:33:22",
+    "time": "2023-12-07 19:52:40",
     "許可證字號": "衛部罕菌疫輸字第000020號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "116\/11\/28",
-    "發證日期": "106\/11\/28",
-    "許可證種類": "菌　疫",
+    "發證\/登錄日期": "106\/11\/28",
+    "許可證\/登錄種類": "菌　疫",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA07200002000",
     "中文品名": "保優利94微克筆型注射液",
     "英文品名": "Plegridy 94mcg solution for injection",
@@ -24,15 +26,15 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "05限由醫師使用",
     "管制藥品分類級別": "",
-    "藥品分類": "基因工程產品_新成分",
+    "藥品分類": "基因工程產品_新成分;",
     "監視期限": "111\/11\/28",
     "主成分略述": "peginterferon beta-1a",
     "限制項目": "02輸　入 5F免除銜接性試驗",
-    "申請商名稱": "0407901100  衛采製藥股份有限公司",
+    "申請商名稱": "衛采製藥股份有限公司",
     "申請商地址": "台北市長安東路一段十八號九樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FDE0267600  VETTER PHARMA - FERTIGUNG GMBH &amp; CO. KG",
+            "製造廠名稱": "VETTER PHARMA - FERTIGUNG GMBH &amp; CO. KG",
             "製造廠廠址": "SCHUTZENSTRABE 87 AND 99-101 88212 RAVENSBURG, GERMANY",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
@@ -41,21 +43,21 @@
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "FDK0047200  FUJIFILM Diosynth Biotechnologies Denmark Aps",
+            "製造廠名稱": "FUJIFILM Diosynth Biotechnologies Denmark Aps",
             "製造廠廠址": "Biotek Alle 1, DK-3400 Hillerod, Denmark",
             "製造廠公司地址": "",
             "製造廠國別": "DENMARK",
             "製程": "包裝"
         },
         {
-            "製造廠名稱": "FNL0116000  BIOGEN NETHERLANDS B.V.",
+            "製造廠名稱": "BIOGEN NETHERLANDS B.V.",
             "製造廠廠址": "PRINS MAURITSLAAN 13, 1171 LP BADHOEVEDORP, THE NETHERLANDS",
             "製造廠公司地址": "",
             "製造廠國別": "NETHERLANDS",
             "製程": "許可證持有者"
         },
         {
-            "製造廠名稱": "FUS0785000  BIOGEN INC.",
+            "製造廠名稱": "BIOGEN INC.",
             "製造廠廠址": "5000 DAVIS DRIVE, RESEARCH TRIANGLE PARK, NORTH CAROLINA 27709, USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
@@ -76,12 +78,20 @@
     ],
     "仿單外盒": [
         {
+            "title": "20210706 PLG_PI_1-110-08-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=72000020&Seq=007&Type=9"
+        },
+        {
             "title": "中文PIL_TW-PL-ET-19J-01_20200422_Clean-109-05-28.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=72000020&Seq=006&Type=9"
         },
         {
             "title": "中文PI_TW-PL-ET-19J-01_20200422_Clean-109-05-28.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=72000020&Seq=005&Type=9"
+        },
+        {
+            "title": "20210714 PLG carton_63_94_1-110-08-30(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=72000020&Seq=007&Type=8"
         },
         {
             "title": "MOCK-UP Plegridy 94mcg label-109-05-28.pdf",

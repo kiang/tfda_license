@@ -1,17 +1,19 @@
 {
     "code": "01057846",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01057846",
-    "time": "2020-02-25 07:50:13",
+    "time": "2023-12-07 19:28:55",
     "許可證字號": "衛署藥製字第057846號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
-    "有效日期": "112\/12\/30",
-    "發證日期": "102\/12\/30",
-    "許可證種類": "製　劑",
+    "有效日期": "117\/12\/30",
+    "發證\/登錄日期": "102\/12\/30",
+    "許可證\/登錄種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00105784606",
     "中文品名": "賀必容內服液",
     "英文品名": "Herbiron Oral Solution",
@@ -27,12 +29,12 @@
     "藥品分類": "",
     "監視期限": "",
     "主成分略述": "四物浸膏(當歸,川芎,白芍,熟地黃,矯味的桂圓,紅棗,枸杞的比例為3:3:1:1:2:1:1)(composite of Angelicae Radix,Ligustici Rhizoma,Paeoniae Radix,Rehmanniae Radix,Arillus Longan,Jujubae Fructus,Lycii Fructus is 3311211), 甘胺酸亞鐵(Ferrous bisglycinate chelate)",
-    "限制項目": "",
-    "申請商名稱": "6201123280  中天生物科技股份有限公司",
+    "限制項目": "01國　產 1R不得製造",
+    "申請商名稱": "中天生物科技股份有限公司",
     "申請商地址": "臺北市南港區園區街3號14樓之1",
     "主製造廠": [
         {
-            "製造廠名稱": "0402602300  中國化學製藥股份有限公司新豐工廠",
+            "製造廠名稱": "中國化學製藥股份有限公司新豐工廠",
             "製造廠廠址": "新竹縣新豐鄉坑子口１８２之１號",
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
@@ -77,20 +79,24 @@
     ],
     "仿單外盒": [
         {
+            "title": "仿單-110-04-08(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057846&Seq=012&Type=9"
+        },
+        {
             "title": "仿單、彩盒擬稿-108-08-23.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057846&Seq=011&Type=9"
         },
         {
-            "title": "20150917_057846-final-104-09-17(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057846&Seq=010&Type=9"
+            "title": "外盒_賀必容12入-110-04-08(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057846&Seq=013&Type=8"
+        },
+        {
+            "title": "外盒_賀必容6入-110-04-08(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057846&Seq=012&Type=8"
         },
         {
             "title": "仿單、彩盒擬稿-108-08-23.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057846&Seq=011&Type=8"
-        },
-        {
-            "title": "賀必容12入外盒_20141021-104-09-17(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01057846&Seq=010&Type=8"
         }
     ]
 }

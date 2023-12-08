@@ -1,7 +1,7 @@
 {
     "code": "92001185",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=92001185",
-    "time": "2022-01-28 06:52:13",
+    "time": "2023-12-07 20:43:41",
     "許可證字號": "衛部醫器陸輸字第001185號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,7 +9,7 @@
     "製造許可登錄編號": "QSD12130",
     "有效日期": "114\/10\/19",
     "發證\/登錄日期": "109\/10\/19",
-    "許可證種類": "醫　器",
+    "許可證\/登錄種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
     "第一等級醫療器材原許可證字號": "",
@@ -18,7 +18,7 @@
     "中文品名": "“美諾醫療”安心預充式導管沖洗器",
     "英文品名": "“AMSINO” AMSafe Pre-Filled Normal Saline Flush Syringe",
     "效能": "詳如中文仿單核定本",
-    "醫器規格": "詳如中文仿單核定本",
+    "醫器規格": "詳如中文仿單核定本\r\n增加規格:詳如核定之中文說明書(原109年11月5日核定之標籤、說明書或包裝予以收回作廢)。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -35,17 +35,20 @@
     "監視期限": "",
     "主成分略述": "",
     "限制項目": "02輸　入 40大陸生產",
-    "申請商名稱": "6202025354  翔威藥品股份有限公司",
+    "申請商名稱": "翔威藥品股份有限公司",
     "申請商地址": "台北市松山區南京東路四段126號12樓之1",
     "主製造廠": [
         {
-            "": "CHINA",
+            "製造廠名稱": "Amsino Medical (Kunshan) Co., Ltd.",
+            "製造廠廠址": "582 LiDu Rd. Qiandeng Town, 215343 Kunshan city ,China",
+            "製造廠公司地址": "",
+            "製造廠國別": "CHINA",
             "製程": ""
         }
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "MUS4389000  Amsino International, Inc",
+            "製造廠名稱": "Amsino International, Inc",
             "製造廠廠址": "708 Corporate Center Dr.Pomona, CA 91768",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
@@ -56,12 +59,12 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "920011850002-109-11-05.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92001185&Seq=001&Type=9"
+            "title": "920011850001-112-11-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92001185&Seq=002&Type=9"
         },
         {
-            "title": "920011850001-109-11-05.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92001185&Seq=001&Type=8"
+            "title": "920011850001-112-11-13.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=92001185&Seq=002&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "52027269",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52027269",
-    "time": "2023-07-27 23:38:02",
+    "time": "2023-12-07 19:46:55",
     "許可證字號": "衛部藥輸字第027269號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -17,7 +17,7 @@
     "通關簽審文件編號": "DHA05202726902",
     "中文品名": "英可欣膜衣錠15毫克",
     "英文品名": "Iclusig 15mg film-coated tablets",
-    "適應症": "本藥品Iclusig (ponatinib)是一種酪胺酸激酶抑制劑（tyrosine kinase inhibitors, TKI），適用於： \r\n• 治療無法以其他 TKI 治療的慢性期、加速期或急性期慢性骨髓性白血病（CML）或費城染色體陽性急性淋巴性白血病 (Ph+ALL) 成人患者。 \r\n• 治療T315I 陽性之慢性期、加速期或急性期慢性骨髓性白血病(CML)或T315I 陽性之費城染色體陽性急性淋巴性白血病 (Ph+ALL) 成人患者。",
+    "適應症": "Iclusig (ponatinib)是一種酪胺酸激酶抑制劑(tyrosine kinase inhibitors, TKI)，\r\n適用於治療：\r\n1. 對先前至少兩種酪胺酸激酶抑制劑有抗藥性或無法耐受之慢性期(CP)\r\n慢性骨髓性白血病(CML)的成人病人。 \r\n2. 無法以其他酪胺酸激酶抑制劑治療的加速期(AP)或急性期(BP)慢性骨髓\r\n性白血病(CML)或費城染色體陽性急性淋巴性白血病(Ph+ ALL)的成人病人。\r\n3. T315I陽性之慢性期、加速期或急性期慢性骨髓性白血病(CML)或T315I\r\n陽性之費城染色體陽性急性淋巴性白血病(Ph+ ALL)的成人病人。\r\n使用限制：Iclusig不適用於且不推薦用於治療新診斷為CP-CML病人。",
     "劑型": "116膜衣錠",
     "包裝": "2~1000粒塑膠瓶裝(HDPE)",
     "儲存溫度": "",
@@ -26,7 +26,7 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "06須由醫師處方使用",
     "管制藥品分類級別": "",
-    "藥品分類": "新成分",
+    "藥品分類": "新成分;",
     "監視期限": "111\/11\/13",
     "主成分略述": "Ponatinib free base",
     "限制項目": "02輸　入 1D須執行風險管理計畫 5F免除銜接性試驗",
@@ -63,10 +63,6 @@
         }
     ],
     "仿單外盒": [
-        {
-            "title": "Iclusig tablets_Chinese PI_IFC0104-110-09-13.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027269&Seq=004&Type=9"
-        },
         {
             "title": "Iclusig tablet_15mg_Label_final-107-01-17.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52027269&Seq=002&Type=8"

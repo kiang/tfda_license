@@ -1,7 +1,7 @@
 {
     "code": "06019356",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06019356",
-    "time": "2023-09-28 22:26:24",
+    "time": "2023-12-07 20:02:31",
     "許可證字號": "衛署醫器輸字第019356號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -40,7 +40,7 @@
     "主製造廠": [
         {
             "製造廠名稱": "B. BRAUN MEDICAL INDUSTRIES SDN. BHD.",
-            "製造廠廠址": "BAYAN LEPAS FREE INDUSTRIAL ZONE, 11900 BAYAN LEPAS, PENANG, MALAYSIA.",
+            "製造廠廠址": "BAYAN LEPAS FREE INDUSTRIAL ZONE,11900 PENANG, MALAYSIA",
             "製造廠公司地址": "",
             "製造廠國別": "MALAYSIA",
             "製程": ""
@@ -49,22 +49,30 @@
     "次製造廠": [
         {
             "製造廠名稱": "B. BRAUN MELSUNGEN AG",
-            "製造廠廠址": "CARL-BRAUN-STRASSE 1, 34212 MELSUNGEN, GERMANY",
+            "製造廠廠址": "CARL-BRAUN-STRAβE 1, 34212 MELSUNGEN, GERMANY",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
-            "製程": ""
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "060193560001-107-09-04.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019356&Seq=003&Type=9"
+            "title": "060193560001-113-02-29-112-12-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019356&Seq=007&Type=9"
         },
         {
-            "title": "060193560001-105-11-02.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019356&Seq=002&Type=8"
+            "title": "060193560001-1051031-112-12-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019356&Seq=006&Type=9"
+        },
+        {
+            "title": "060193560001-113-02-29-112-12-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019356&Seq=006&Type=8"
+        },
+        {
+            "title": "060193560001-1051031-112-12-05.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06019356&Seq=005&Type=8"
         }
     ]
 }
