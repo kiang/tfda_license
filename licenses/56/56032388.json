@@ -1,15 +1,15 @@
 {
     "code": "56032388",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56032388",
-    "time": "2022-02-25 07:26:06",
+    "time": "2024-01-11 21:01:01",
     "許可證字號": "衛部醫器輸字第032388號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "QSD5148",
-    "有效日期": "113\/03\/29",
+    "有效日期": "118\/03\/29",
     "發證\/登錄日期": "108\/03\/29",
-    "許可證種類": "醫　器",
+    "許可證\/登錄種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
     "第一等級醫療器材原許可證字號": "",
@@ -35,17 +35,20 @@
     "監視期限": "",
     "主成分略述": "",
     "限制項目": "02輸　入 09委託製造",
-    "申請商名稱": "6203282380  西門子醫療設備股份有限公司",
+    "申請商名稱": "西門子醫療設備股份有限公司",
     "申請商地址": "台北市南港區園區街3號2樓之2",
     "主製造廠": [
         {
-            "": "JAPAN",
+            "製造廠名稱": "Minaris Medical Co., Ltd. Fuji Plant",
+            "製造廠廠址": "600-1, Minami-ishiki, Nagaizumi-cho, Sunto-gun, Shizuoka-ken 411-0932, Japan",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
             "製程": ""
         }
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "MUS2867000  SIEMENS HEALTHCARE DIAGNOSTICS INC.",
+            "製造廠名稱": "SIEMENS HEALTHCARE DIAGNOSTICS INC.",
             "製造廠廠址": "511 BENEDICT AVENUE, TARRYTOWN, NY 10591, USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
@@ -53,5 +56,15 @@
         }
     ],
     "藥理治療分類": "",
-    "ingredients": []
+    "ingredients": [],
+    "仿單外盒": [
+        {
+            "title": "032388_Atellica IM CpS_CN IFU_sealed-112-12-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56032388&Seq=001&Type=9"
+        },
+        {
+            "title": "032388_Atellica IM CpS_CN Label_sealed-112-12-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56032388&Seq=001&Type=8"
+        }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "44001441",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=44001441",
-    "time": "2023-07-27 23:58:44",
+    "time": "2024-01-11 19:57:44",
     "許可證字號": "衛署醫器輸壹字第001441號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -43,7 +43,23 @@
             "製造廠廠址": "130 FORBES BOULEVARD MANSFIELD MASSACHUSETTS 02048 U.S.A.",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
-            "製程": ""
+            "製程": "製造廠公司"
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "Made (部分製程) in INDIA",
+            "製造廠廠址": "",
+            "製造廠公司地址": "",
+            "製造廠國別": "INDIA",
+            "製程": "99部分製程"
+        },
+        {
+            "製造廠名稱": "SMITH &amp; NEPHEW INC. ENDOSCOPY DIVISION",
+            "製造廠廠址": "150 MINUTEMAN ROAD, ANDOVER, MA 01810 USA",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",

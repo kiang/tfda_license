@@ -1,7 +1,7 @@
 {
     "code": "56035012",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56035012",
-    "time": "2022-03-25 06:07:11",
+    "time": "2024-01-11 20:21:30",
     "許可證字號": "衛部醫器輸字第035012號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,7 +9,7 @@
     "製造許可登錄編號": "QSD9774",
     "有效日期": "115\/10\/28",
     "發證\/登錄日期": "110\/10\/28",
-    "許可證種類": "醫　器",
+    "許可證\/登錄種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
     "第一等級醫療器材原許可證字號": "",
@@ -18,7 +18,7 @@
     "中文品名": "&quot;美瑞特&quot;血管成型術止血閥組",
     "英文品名": "&quot;Merit&quot; Angioplasty Packs and Hemostasis Valves",
     "效能": "詳如核定之中文說明書",
-    "醫器規格": "MAP111\r\n以下空白",
+    "醫器規格": "MAP111\r\n以下空白\r\n\r\n增加規格: MAP112、MAP113、MAP150、 MAP151、MAP152、MAP153、MAP154\r\n以下空白",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -35,17 +35,20 @@
     "監視期限": "",
     "主成分略述": "",
     "限制項目": "02輸　入 09委託製造",
-    "申請商名稱": "620101Y160  香港商美瑞特醫療器材股份有限公司台灣分公司",
+    "申請商名稱": "香港商美瑞特醫療器材股份有限公司台灣分公司",
     "申請商地址": "臺北市信義區松智路1號11樓(1127室)",
     "主製造廠": [
         {
-            "": "MEXICO",
+            "製造廠名稱": "Merit Maquiladora Mexico, S de R.L. de C.V.",
+            "製造廠廠址": "Avenida Sor Juana Ines de la Cruz 19970 Interior B, Edificio 2, Parque Industrial Frontera Tijuana, Baja California C.P. 22630 Mexico",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
             "製程": "Manufactured by"
         }
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "MUS0950100  Merit Medical Systems, Inc.",
+            "製造廠名稱": "Merit Medical Systems, Inc.",
             "製造廠廠址": "1600 West Merit Parkway, South Jordan, Utah 84095, USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
@@ -56,12 +59,12 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "550350120002-110-11-30.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56035012&Seq=001&Type=9"
+            "title": "560350120001-112-12-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56035012&Seq=002&Type=9"
         },
         {
-            "title": "550350120001-110-11-30.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56035012&Seq=001&Type=8"
+            "title": "560350120001-112-12-12.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56035012&Seq=002&Type=8"
         }
     ]
 }
