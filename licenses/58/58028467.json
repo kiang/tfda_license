@@ -1,7 +1,7 @@
 {
     "code": "58028467",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=58028467",
-    "time": "2022-04-29 06:18:52",
+    "time": "2024-02-08 20:31:33",
     "許可證字號": "衛部粧輸字第028467號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,7 +9,7 @@
     "製造許可登錄編號": "",
     "有效日期": "113\/06\/30",
     "發證\/登錄日期": "111\/03\/11",
-    "許可證種類": "特定用途化粧品",
+    "許可證\/登錄種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
     "第一等級醫療器材原許可證字號": "",
@@ -29,12 +29,15 @@
     "藥品分類": "",
     "監視期限": "",
     "主成分略述": "POLYSILICONE-15, ZINC OXIDE, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, ETHYLHEXYL TRIAZONE, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
-    "限制項目": "",
-    "申請商名稱": "0810722200  佳麗寶化工股份有限公司",
+    "限制項目": "02輸　入",
+    "申請商名稱": "佳麗寶化工股份有限公司",
     "申請商地址": "高雄市大社區旗楠路101號",
     "主製造廠": [
         {
-            "": "JAPAN",
+            "製造廠名稱": "Kao Cosmetic Products Odawara Co., Ltd.",
+            "製造廠廠址": "5-3-28, Kotobuki-Cho, Odawara-Shi, Kanagawa, Japan",
+            "製造廠公司地址": "",
+            "製造廠國別": "JAPAN",
             "製程": ""
         }
     ],
@@ -82,6 +85,10 @@
         }
     ],
     "仿單外盒": [
+        {
+            "title": "58028467-113-01-11.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58028467&Seq=002&Type=8"
+        },
         {
             "title": "58028467-111-03-31.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=58028467&Seq=001&Type=8"

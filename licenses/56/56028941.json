@@ -1,7 +1,7 @@
 {
     "code": "56028941",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028941",
-    "time": "2021-11-26 08:53:23",
+    "time": "2024-02-08 20:05:27",
     "許可證字號": "衛部醫器輸字第028941號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,7 +9,7 @@
     "製造許可登錄編號": "QSD4221",
     "有效日期": "115\/11\/01",
     "發證\/登錄日期": "105\/11\/01",
-    "許可證種類": "醫　器",
+    "許可證\/登錄種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
     "第一等級醫療器材原許可證字號": "",
@@ -18,7 +18,7 @@
     "中文品名": "恩萊新生兒T淋巴球受器剪除環檢驗套組",
     "英文品名": "EnLite Neonatal TREC kit",
     "效能": "本產品用於新生兒篩檢濾紙血片中T淋巴球受器剪除環核酸(T-cell receptor excision circle，簡稱TREC)濃度之定量檢驗，用於新生兒篩檢嚴重複合型免疫缺乏症(severe combined immunodeficiency，簡稱SCID)。使用聚合酶連鎖反應配合VICTOR EnLite螢光儀進行分析。",
-    "醫器規格": "3401-0010 (384 reactions, 4×96 reactions)；3402-0010 (384 reactions, 1×384 reactions)；3403-0010 (1152 reactions, 3×384 reactions)，以下空白。",
+    "醫器規格": "3401-0010 (384 reactions, 4×96 reactions)；3402-0010 (384 reactions, 1×384 reactions)；3403-0010 (1152 reactions, 3×384 reactions)，以下空白。\r\n\r\n規格及標籤、說明書或包裝變更：詳如中文說明書核定本(原105年11月25日標籤、說明書或包裝核定本正本收回作廢)。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -35,11 +35,14 @@
     "監視期限": "",
     "主成分略述": "",
     "限制項目": "02輸　入",
-    "申請商名稱": "6201185824  豐技生物科技股份有限公司",
+    "申請商名稱": "豐技生物科技股份有限公司",
     "申請商地址": "台北市中正區紹興北街5號5樓之1",
     "主製造廠": [
         {
-            "": "FINLAND",
+            "製造廠名稱": "WALLAC OY",
+            "製造廠廠址": "MUSTIONKATU 6, FI 20750 TURKU, FINLAND",
+            "製造廠公司地址": "",
+            "製造廠國別": "FINLAND",
             "製程": ""
         }
     ],
@@ -47,12 +50,12 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "560289410001-105-11-30.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56028941&Seq=001&Type=9"
+            "title": "56-028941-113-01-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56028941&Seq=002&Type=9"
         },
         {
-            "title": "560289410002-105-11-30.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56028941&Seq=001&Type=8"
+            "title": "56-028941-113-01-22.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56028941&Seq=002&Type=8"
         }
     ]
 }

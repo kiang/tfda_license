@@ -1,22 +1,24 @@
 {
     "code": "06010667",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06010667",
-    "time": "2020-02-25 18:07:05",
+    "time": "2024-02-08 19:44:44",
     "許可證字號": "衛署醫器輸字第010667號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "QSD9808",
-    "有效日期": "113\/05\/27",
-    "發證日期": "93\/05\/27",
-    "許可證種類": "醫　器",
+    "有效日期": "118\/05\/27",
+    "發證\/登錄日期": "93\/05\/27",
+    "許可證\/登錄種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00601066709",
     "中文品名": "&quot;亞培&quot; 因帝福列特加壓槍",
     "英文品名": "&quot;ABBOTT&quot; INDEFLATOR",
     "效能": "",
-    "醫器規格": "20\/20 INDEFLATOR, PLUS 30 INFLATION DEVICE,20\/30 INDEFLATOR, 以下空白。註銷規格：20\/20 Indeflator。以下空白。",
+    "醫器規格": "20\/20 INDEFLATOR, PLUS 30 INFLATION DEVICE,20\/30 INDEFLATOR, 以下空白。註銷規格：20\/20 Indeflator。以下空白。\r\n註銷規格：Indeflator Plus 30。",
     "劑型": "",
     "包裝": "",
     "儲存溫度": "",
@@ -33,11 +35,11 @@
     "監視期限": "",
     "主成分略述": "",
     "限制項目": "02輸　入",
-    "申請商名稱": "0932301100  美商亞培股份有限公司台灣分公司",
-    "申請商地址": "台北市中山區民生東路三段49號5樓、6樓及51號6樓",
+    "申請商名稱": "台灣雅培醫療器材有限公司",
+    "申請商地址": "臺北市內湖區瑞光路407號5樓",
     "主製造廠": [
         {
-            "製造廠名稱": "MMX0097000  Availmed S.A. de C.V.",
+            "製造廠名稱": "Availmed S.A. de C.V.",
             "製造廠廠址": "C. Industrial Lt.001 Mz.105 No.20905 Int. A Col. Cd. Industrial Tijuana Baja California, 22444, Mexico",
             "製造廠公司地址": "",
             "製造廠國別": "MEXICO",
@@ -46,7 +48,7 @@
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "MUS4316000  Abbott Vascular",
+            "製造廠名稱": "Abbott Vascular",
             "製造廠廠址": "3200 Lakeside Drive, Santa Clara, CA 95054, USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
@@ -57,8 +59,20 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "06010667註銷規格-103-02-27.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010667&Seq=001&Type=9"
+            "title": "060106670001-2-113-01-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010667&Seq=004&Type=9"
+        },
+        {
+            "title": "060106670001-1-113-01-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010667&Seq=003&Type=9"
+        },
+        {
+            "title": "060106670002-1-113-01-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010667&Seq=002&Type=8"
+        },
+        {
+            "title": "060106670002-2-113-01-16.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06010667&Seq=001&Type=8"
         }
     ]
 }

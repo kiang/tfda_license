@@ -1,7 +1,7 @@
 {
     "code": "06025116",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06025116",
-    "time": "2023-05-25 22:01:35",
+    "time": "2024-02-08 19:50:59",
     "許可證字號": "衛署醫器輸字第025116號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -39,11 +39,20 @@
     "申請商地址": "台北市中正區仁愛路二段99號11樓",
     "主製造廠": [
         {
-            "製造廠名稱": "ALCON GRIESHABER AG",
-            "製造廠廠址": "WINKELRIEDSTRASSE 52, CH-8203 SCHAFFHAUSEN, SWITZERLAND",
+            "製造廠名稱": "Alcon Grieshaber AG",
+            "製造廠廠址": "Winkelriedstrasse 52, CH-8203 Schaffhausen, Switzerland",
             "製造廠公司地址": "",
             "製造廠國別": "SWITZERLAND",
             "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "Alcon Laboratories, Inc.",
+            "製造廠廠址": "6201 South Freeway, Fort Worth, TX 76134, USA.",
+            "製造廠公司地址": "",
+            "製造廠國別": "UNITED STATES",
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",

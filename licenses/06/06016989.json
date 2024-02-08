@@ -1,12 +1,12 @@
 {
     "code": "06016989",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=06016989",
-    "time": "2023-06-29 22:38:25",
+    "time": "2024-02-08 19:46:31",
     "許可證字號": "衛署醫器輸字第016989號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可登錄編號": "QSD2267",
+    "製造許可登錄編號": "QSD14335",
     "有效日期": "115\/08\/11",
     "發證\/登錄日期": "95\/08\/11",
     "許可證\/登錄種類": "醫　器",
@@ -39,11 +39,20 @@
     "申請商地址": "新北市三重區光復路1段61巷26號13樓之1",
     "主製造廠": [
         {
+            "製造廠名稱": "VITA Zahnfabrik H. Rauter GmbH &amp; Co. KG",
+            "製造廠廠址": "Ballyweg 6 79713 Bad Sackingen Germany",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
             "製造廠名稱": "VITA ZAHNFABRIK H.RAUTER GMBH &amp; CO., KG",
             "製造廠廠址": "SPITALGASSE 3, D-79713 BAD SACKINGEN, GERMANY",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
-            "製程": ""
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",
@@ -54,52 +63,8 @@
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016989&Seq=010&Type=9"
         },
         {
-            "title": "060169890009.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016989&Seq=009&Type=9"
-        },
-        {
-            "title": "060169890008.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016989&Seq=008&Type=9"
-        },
-        {
-            "title": "060169890007.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016989&Seq=007&Type=9"
-        },
-        {
-            "title": "060169890006.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016989&Seq=006&Type=9"
-        },
-        {
-            "title": "060169890005.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016989&Seq=005&Type=9"
-        },
-        {
-            "title": "060169890004.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016989&Seq=004&Type=9"
-        },
-        {
-            "title": "060169890003.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016989&Seq=003&Type=9"
-        },
-        {
-            "title": "060169890002.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016989&Seq=002&Type=9"
-        },
-        {
-            "title": "060169890001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016989&Seq=001&Type=9"
-        },
-        {
             "title": "06016989-106-02-10.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016989&Seq=003&Type=8"
-        },
-        {
-            "title": "060169890002.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016989&Seq=002&Type=8"
-        },
-        {
-            "title": "060169890001.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=06016989&Seq=001&Type=8"
         }
     ]
 }

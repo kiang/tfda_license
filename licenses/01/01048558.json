@@ -1,17 +1,19 @@
 {
     "code": "01048558",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01048558",
-    "time": "2020-02-25 07:22:19",
+    "time": "2024-02-08 19:16:35",
     "許可證字號": "衛署藥製字第048558號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
-    "有效日期": "111\/01\/26",
-    "發證日期": "96\/01\/26",
-    "許可證種類": "製　劑",
+    "有效日期": "116\/01\/26",
+    "發證\/登錄日期": "96\/01\/26",
+    "許可證\/登錄種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00104855800",
     "中文品名": "&quot;美時&quot; 雅努麻 錠10毫克",
     "英文品名": "Arheuma Tablets 10mg &quot;LOTUS&quot;",
@@ -28,11 +30,11 @@
     "監視期限": "",
     "主成分略述": "LEFLUNOMIDE",
     "限制項目": "01國　產 25監視中學名藥 62完成溶離率試驗",
-    "申請商名稱": "0901301200  美時化學製藥股份有限公司",
+    "申請商名稱": "美時化學製藥股份有限公司",
     "申請商地址": "台北市信義區松仁路277號17樓",
     "主製造廠": [
         {
-            "製造廠名稱": "0901314300  美時化學製藥股份有限公司南投廠",
+            "製造廠名稱": "美時化學製藥股份有限公司南投廠",
             "製造廠廠址": "南投縣南投市新興里成功一路３０號",
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
@@ -53,12 +55,24 @@
     ],
     "仿單外盒": [
         {
+            "title": "ARTDB022451P-111-05-31(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048558&Seq=010&Type=9"
+        },
+        {
+            "title": "ARTDB017186P Leflunomide 10, 20mg (TW) PIL page1-109-05-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048558&Seq=009&Type=9"
+        },
+        {
             "title": "Annex 2. 1st-Leflunomide 10 & 20mg-仿單擬稿-108-02-27.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048558&Seq=008&Type=9"
         },
         {
             "title": "MEARH03-雅努麻錠10mg&20mg_20170613(正)final print-106-08-02(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048558&Seq=007&Type=9"
+        },
+        {
+            "title": "ARTDB017185C Leflunomide 10mg (TW) Carton page1-109-05-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01048558&Seq=001&Type=8"
         }
     ]
 }

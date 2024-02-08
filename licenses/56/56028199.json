@@ -1,7 +1,7 @@
 {
     "code": "56028199",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56028199",
-    "time": "2021-12-24 06:24:52",
+    "time": "2024-02-08 20:04:47",
     "許可證字號": "衛部醫器輸字第028199號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,7 +9,7 @@
     "製造許可登錄編號": "QSD11500",
     "有效日期": "115\/02\/22",
     "發證\/登錄日期": "105\/02\/22",
-    "許可證種類": "醫　器",
+    "許可證\/登錄種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
     "第一等級醫療器材原許可證字號": "",
@@ -35,20 +35,23 @@
     "監視期限": "",
     "主成分略述": "",
     "限制項目": "02輸　入 09委託製造",
-    "申請商名稱": "6233053842  集德醫材管理顧問有限公司",
+    "申請商名稱": "集德醫材管理顧問有限公司",
     "申請商地址": "新竹縣竹北市福德里和平街8號10樓",
     "主製造廠": [
         {
-            "": "MEXICO",
+            "製造廠名稱": "KeyTronic Corporation",
+            "製造廠廠址": "Tomas Becket #2220, Parque Ind. Gema Plant 3 Juarez, Chihuahua,C.P.32380 Mexico",
+            "製造廠公司地址": "",
+            "製造廠國別": "MEXICO",
             "製程": "Manufactured by"
         }
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "MCH0205000  Kaz Europe Sarl",
-            "製造廠廠址": "Place Chauderon 18, CH-1003 Lausanne, Switzerland",
+            "製造廠名稱": "Key USA, Inc., A Helen of Troy Company",
+            "製造廠廠址": "400 DONALD LYNCH BOULEVARD SUITE 300 MARLBOROUGH, MA 01752 USA",
             "製造廠公司地址": "",
-            "製造廠國別": "SWITZERLAND",
+            "製造廠國別": "UNITED STATES",
             "製程": "委託製造者"
         }
     ],

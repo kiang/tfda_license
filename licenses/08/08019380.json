@@ -1,20 +1,22 @@
 {
     "code": "08019380",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=08019380",
-    "time": "2021-09-24 06:38:02",
+    "time": "2024-02-08 20:27:40",
     "許可證字號": "衛署粧輸字第019380號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "113\/06\/30",
-    "發證日期": "101\/07\/13",
-    "許可證種類": "特定用途化粧品",
+    "發證\/登錄日期": "101\/07\/13",
+    "許可證\/登錄種類": "特定用途化粧品",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA00801938001",
-    "中文品名": "富麗絲泡泡染系列 糖果灰色",
-    "英文品名": "FRESH LIGHT FOAM HAIR COLOR SUGAR ASH",
+    "中文品名": "施華蔻FRESHLIGHT 泡泡染 糖果灰。",
+    "英文品名": "Fresh Light Hair Color Surgar Ash。",
     "用途": "染髮。",
     "劑型": "970液劑",
     "包裝": "500ml以下瓶裝附外盒",
@@ -26,13 +28,13 @@
     "": "",
     "藥品分類": "",
     "監視期限": "",
-    "主成分略述": "AMMONIA WATER (AMMONIUM HYDROXIDE), RESORCINOL (RESORCIN), 4-AMINO-2-HYDROXYTOLUENE, 2,4-DIAMINOPHENOXYETHANOL HCL (EQ TO 2,4-DIAMINOPHENOXYETHANOL DIHYDROCHLORIDE), TOLUENE-2,5-DIAMINE SULFATE",
+    "主成分略述": "Ammonium Hydroxide, RESORCINOL (RESORCIN), 4-AMINO-2-HYDROXYTOLUENE, 2,4-DIAMINOPHENOXYETHANOL HCL (EQ TO 2,4-DIAMINOPHENOXYETHANOL DIHYDROCHLORIDE), TOLUENE-2,5-DIAMINE SULFATE",
     "限制項目": "02輸　入",
-    "申請商名稱": "6623929515  台灣漢高股份有限公司",
+    "申請商名稱": "台灣漢高股份有限公司",
     "申請商地址": "新北市中和區中正路866號10樓",
     "主製造廠": [
         {
-            "製造廠名稱": "CTH0005000  YAMAHATSU (THAILAND) CO., LTD.",
+            "製造廠名稱": "YAMAHATSU (THAILAND) CO., LTD.",
             "製造廠廠址": "600\/48 Moo 11,Sukaphiban 8 Rd, Nongkham,Sriracha,Chonburi 20230,Thailand",
             "製造廠公司地址": "",
             "製造廠國別": "THAILAND",
@@ -43,10 +45,10 @@
     "ingredients": [
         {
             "成分類別": "主成分",
-            "成分代碼": "2820000102",
-            "成分名稱": "AMMONIA WATER (AMMONIUM HYDROXIDE)",
+            "成分代碼": "2820000161",
+            "成分名稱": "Ammonium Hydroxide",
             "含量描述": "",
-            "含量": "1.9600000000",
+            "含量": "4.0336560000",
             "單位": "%(W\/W)"
         },
         {
@@ -84,20 +86,8 @@
     ],
     "仿單外盒": [
         {
-            "title": "08019380-106-12-01.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019380&Seq=004&Type=8"
-        },
-        {
-            "title": "08019380-105-09-07.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019380&Seq=003&Type=8"
-        },
-        {
-            "title": "08019380-105-08-01.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019380&Seq=002&Type=8"
-        },
-        {
-            "title": "08019380___20120824.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019380&Seq=001&Type=8"
+            "title": "08019380-113-01-23.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=08019380&Seq=005&Type=8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "code": "56026384",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56026384",
-    "time": "2022-05-27 06:39:45",
+    "time": "2024-02-08 20:03:36",
     "許可證字號": "衛部醫器輸字第026384號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,7 +9,7 @@
     "製造許可登錄編號": "QSD10934",
     "有效日期": "113\/07\/02",
     "發證\/登錄日期": "103\/07\/02",
-    "許可證種類": "醫　器",
+    "許可證\/登錄種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
     "第一等級醫療器材原許可證字號": "",
@@ -35,17 +35,20 @@
     "監視期限": "",
     "主成分略述": "",
     "限制項目": "02輸　入",
-    "申請商名稱": "620111H577  台灣泰利福醫療產品有限公司",
+    "申請商名稱": "台灣泰利福醫療產品有限公司",
     "申請商地址": "臺北市大安區敦化南路2段207號16樓",
     "主製造廠": [
         {
-            "": "CZECH REPUBLIC",
+            "製造廠名稱": "Arrow International Cr, a.s.",
+            "製造廠廠址": "Jamska 2359\/47, 59101 Zdar nad sazavou, Czech Republic",
+            "製造廠公司地址": "",
+            "製造廠國別": "CZECH REPUBLIC",
             "製程": ""
         }
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "MUS4937000  Arrow International, Inc. (Subsidiary of Teleflex Inc.)",
+            "製造廠名稱": "Arrow International, Inc. (Subsidiary of Teleflex Inc.)",
             "製造廠廠址": "2400 Bernville Road, Reading, PA 19605, USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
@@ -56,12 +59,12 @@
     "ingredients": [],
     "仿單外盒": [
         {
-            "title": "560263840001-1100301-111-03-01.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026384&Seq=002&Type=9"
+            "title": "560263840001-113-01-15.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026384&Seq=003&Type=9"
         },
         {
-            "title": "560263840002-1100301-111-03-01.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026384&Seq=003&Type=8"
+            "title": "560263840001-113-01-15.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56026384&Seq=004&Type=8"
         }
     ]
 }

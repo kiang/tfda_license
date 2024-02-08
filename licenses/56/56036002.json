@@ -1,12 +1,12 @@
 {
     "code": "56036002",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56036002",
-    "time": "2023-06-29 22:53:23",
+    "time": "2024-02-08 20:15:45",
     "許可證字號": "衛部醫器輸字第036002號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可登錄編號": "QSD2267",
+    "製造許可登錄編號": "QSD14583",
     "有效日期": "116\/10\/19",
     "發證\/登錄日期": "111\/10\/19",
     "許可證\/登錄種類": "醫　器",
@@ -39,11 +39,20 @@
     "申請商地址": "新北市三重區光復路1段61巷26號13樓之1",
     "主製造廠": [
         {
-            "製造廠名稱": "VITA Zahnfabrik H. Rauter GmbH &amp; CO. KG",
-            "製造廠廠址": "Spitalgasse 3, 79713 Bad Sackingen, Germany",
+            "製造廠名稱": "VITA Zahnfabrik H. Rauter  GmbH &amp; Co. KG",
+            "製造廠廠址": "Schulhausstra&#223;e 34, 79713 Bad S&#228;ckingen, Germany",
             "製造廠公司地址": "",
             "製造廠國別": "GERMANY",
             "製程": ""
+        }
+    ],
+    "次製造廠": [
+        {
+            "製造廠名稱": "VITA Zahnfabrik H. Rauter GmbH &amp; CO., KG",
+            "製造廠廠址": "Spitalgasse 3, 79713 Bad S&#228;ckingen, Germany",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "總公司"
         }
     ],
     "藥理治療分類": "",
