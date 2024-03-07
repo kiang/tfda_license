@@ -1,17 +1,19 @@
 {
     "code": "56032659",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56032659",
-    "time": "2020-10-30 11:49:26",
+    "time": "2024-03-07 20:37:00",
     "許可證字號": "衛部醫器輸字第032659號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "QSD2576",
-    "有效日期": "113\/07\/08",
-    "發證日期": "108\/07\/08",
-    "許可證種類": "醫　器",
+    "有效日期": "118\/07\/08",
+    "發證\/登錄日期": "108\/07\/08",
+    "許可證\/登錄種類": "醫　器",
     "舊證字號": "",
     "醫療器材級數": "第二等級",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05603265902",
     "中文品名": "“愛德華”可立視指套感測器",
     "英文品名": "“Edwards” ClearSight Finger Cuff",
@@ -33,11 +35,11 @@
     "監視期限": "",
     "主成分略述": "",
     "限制項目": "02輸　入 09委託製造",
-    "申請商名稱": "620118H319  台灣愛德華生命科學股份有限公司",
+    "申請商名稱": "台灣愛德華生命科學股份有限公司",
     "申請商地址": "臺北市中山區民生東路三段2號9樓之1",
     "主製造廠": [
         {
-            "製造廠名稱": "MDO0002000  EDWARDS LIFESCIENCES AG.",
+            "製造廠名稱": "EDWARDS LIFESCIENCES AG.",
             "製造廠廠址": "PARQUE INDUSTRIAL ITABO, KM 18.5 CARR SANCHEZ, HAINA, SAN CRISTOBAL, DOMINICAN REPUBLIC",
             "製造廠公司地址": "",
             "製造廠國別": "DOMINICAN REPUBLIC",
@@ -46,7 +48,7 @@
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "MUS0011000  EDWARDS LIFESCIENCES LLC",
+            "製造廠名稱": "EDWARDS LIFESCIENCES LLC",
             "製造廠廠址": "ONE EDWARDS WAY,IRVINE,CA 92614,USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
@@ -61,8 +63,16 @@
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56032659&Seq=002&Type=9"
         },
         {
+            "title": "560326590001-108-08-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56032659&Seq=001&Type=9"
+        },
+        {
             "title": "560326590001-109-08-29.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56032659&Seq=002&Type=8"
+        },
+        {
+            "title": "560326590002-108-08-19.pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=56032659&Seq=001&Type=8"
         }
     ]
 }

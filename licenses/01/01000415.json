@@ -1,7 +1,7 @@
 {
     "code": "01000415",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01000415",
-    "time": "2021-11-26 05:52:14",
+    "time": "2024-03-07 19:00:47",
     "許可證字號": "衛署藥製字第000415號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,7 +9,7 @@
     "製造許可登錄編號": "",
     "有效日期": "113\/05\/25",
     "發證\/登錄日期": "60\/12\/03",
-    "許可證種類": "製　劑",
+    "許可證\/登錄種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
     "第一等級醫療器材原許可證字號": "",
@@ -30,11 +30,14 @@
     "監視期限": "",
     "主成分略述": "DIMETHICONE (EQ TO DIMETHYLPOLYSILOXANE OR POLYDIMETHYL SILOXANE)",
     "限制項目": "01國　產",
-    "申請商名稱": "1419531200  福元化學製藥股份有限公司",
+    "申請商名稱": "福元化學製藥股份有限公司",
     "申請商地址": "新北市瑞芳區大寮路95-1號1樓",
     "主製造廠": [
         {
-            "": "TAIWAN",
+            "製造廠名稱": "福元化學製藥股份有限公司",
+            "製造廠廠址": "新北市瑞芳區大寮路９５號之１",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
             "製程": ""
         }
     ],
@@ -120,32 +123,12 @@
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01000415&Seq=006&Type=9"
         },
         {
-            "title": "衛署藥製字第000415號 瓦斯敏錠說明書-106-07-27.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01000415&Seq=005&Type=9"
-        },
-        {
-            "title": "LT-T022 000415-104-08-05(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01000415&Seq=004&Type=9"
-        },
-        {
             "title": "衛署藥製字第000415號 瓦斯敏錠鋁箔-106-09-20.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01000415&Seq=008&Type=8"
         },
         {
             "title": "衛署藥製字第000415號 瓦斯敏錠標籤-106-09-20.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01000415&Seq=007&Type=8"
-        },
-        {
-            "title": "衛署藥製字第000415號 瓦斯敏錠標籤-106-07-27.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01000415&Seq=006&Type=8"
-        },
-        {
-            "title": "衛署藥製字第000415號 瓦斯敏錠鋁箔-106-07-27.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01000415&Seq=005&Type=8"
-        },
-        {
-            "title": "LA-T022 000415-104-09-15(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01000415&Seq=004&Type=8"
         }
     ]
 }
