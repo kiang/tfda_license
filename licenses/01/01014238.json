@@ -1,17 +1,19 @@
 {
     "code": "01014238",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=01014238",
-    "time": "2020-02-25 02:26:02",
+    "time": "2024-04-04 19:04:54",
     "許可證字號": "衛署藥製字第014238號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
-    "有效日期": "113\/05\/25",
-    "發證日期": "67\/01\/27",
-    "許可證種類": "製　劑",
+    "有效日期": "118\/05\/25",
+    "發證\/登錄日期": "67\/01\/27",
+    "許可證\/登錄種類": "製　劑",
     "舊證字號": "00000000",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHY00101423809",
     "中文品名": "&quot;華盛頓&quot;氧化鋅軟膏",
     "英文品名": "ZINC OXIDE OINTMENT &quot;WST&quot;",
@@ -28,11 +30,11 @@
     "監視期限": "",
     "主成分略述": "ZINC OXIDE",
     "限制項目": "01國　產",
-    "申請商名稱": "1202801200  華盛頓製藥廠股份有限公司",
+    "申請商名稱": "華盛頓製藥廠股份有限公司",
     "申請商地址": "高雄市仁武區仁武里工業二路12號",
     "主製造廠": [
         {
-            "製造廠名稱": "1202822300  華盛頓製藥廠股份有限公司",
+            "製造廠名稱": "華盛頓製藥廠股份有限公司",
             "製造廠廠址": "高雄市仁武區仁武里工業二路12號",
             "製造廠公司地址": "",
             "製造廠國別": "TAIWAN",
@@ -53,6 +55,10 @@
     ],
     "仿單外盒": [
         {
+            "title": "華盛頓-氧化鋅仿單-109-09-18(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014238&Seq=006&Type=9"
+        },
+        {
             "title": "144318_氧化鋅軟膏仿單-109-01-07(廠商自行上傳).pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014238&Seq=005&Type=9"
         },
@@ -61,24 +67,12 @@
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014238&Seq=004&Type=9"
         },
         {
-            "title": "氧化鋅軟膏說明書-106-02-03(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014238&Seq=003&Type=9"
+            "title": "氧化鋅軟膏30G彩盒-109-11-13(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014238&Seq=009&Type=8"
         },
         {
             "title": "氧化鋅軟膏標籤-R3-PDF-108-09-05.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014238&Seq=008&Type=8"
-        },
-        {
-            "title": "華盛頓-氧化鋅30g軟管-108-07-04(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014238&Seq=007&Type=8"
-        },
-        {
-            "title": "氧化鋅軟膏30g彩盒-108-07-04(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014238&Seq=006&Type=8"
-        },
-        {
-            "title": "氧化鋅軟膏 30g-104-12-10(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=01014238&Seq=005&Type=8"
         }
     ]
 }

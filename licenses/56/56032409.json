@@ -1,12 +1,12 @@
 {
     "code": "56032409",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=56032409",
-    "time": "2024-02-29 22:06:09",
+    "time": "2024-04-04 20:42:02",
     "許可證字號": "衛部醫器輸字第032409號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
-    "製造許可登錄編號": "QSD10513",
+    "製造許可登錄編號": "QSD13032",
     "有效日期": "118\/04\/16",
     "發證\/登錄日期": "108\/04\/16",
     "許可證\/登錄種類": "醫　器",
@@ -39,18 +39,20 @@
     "申請商地址": "台北市內湖區堤頂大道二段407巷20弄1、3、5、7號10樓及22、24、26號10樓及22號10樓之1",
     "主製造廠": [
         {
-            "製造廠名稱": "Made (部分製程) in CHINA",
-            "製造廠廠址": "",
+            "製造廠名稱": "Flextronics Industrial (Shenzhen) Co., Ltd",
+            "製造廠廠址": "7\/F Building 1, 1\/F, 3A\/F, 5-7\/F Building 2 and 1-4\/F, Building 3, Rundongsheng Industrial Park, Longzhu, Xixiang, Baoan District, Shenzhen, Guangdong, 518126 China",
             "製造廠公司地址": "",
             "製造廠國別": "CHINA",
-            "製程": "99部分製程"
-        },
+            "製程": "Manufactured by"
+        }
+    ],
+    "次製造廠": [
         {
             "製造廠名稱": "LifeScan Europe GmbH",
             "製造廠廠址": "GUBELSTRASSE 34, 6300 ZUG, SWITZERLAND",
             "製造廠公司地址": "",
             "製造廠國別": "SWITZERLAND",
-            "製程": ""
+            "製程": "委託製造者"
         }
     ],
     "藥理治療分類": "",

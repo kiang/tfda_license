@@ -1,7 +1,7 @@
 {
     "code": "03002840",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=03002840",
-    "time": "2022-02-25 06:41:54",
+    "time": "2024-04-04 19:39:45",
     "許可證字號": "衛署成製字第002840號",
     "註銷狀態": "",
     "註銷日期": "",
@@ -9,7 +9,7 @@
     "製造許可登錄編號": "",
     "有效日期": "113\/09\/22",
     "發證\/登錄日期": "66\/09\/22",
-    "許可證種類": "製　劑",
+    "許可證\/登錄種類": "製　劑",
     "舊證字號": "",
     "醫療器材級數": "",
     "第一等級醫療器材原許可證字號": "",
@@ -30,11 +30,14 @@
     "監視期限": "",
     "主成分略述": "DIPHENHYDRAMINE HCL, TRICLOSAN (EQ TO IRGASAN DP-300) (EQ TO TRICHLOROHYDROXYDIPHENYL ETHER)",
     "限制項目": "01國　產 09委託製造",
-    "申請商名稱": "620118E461  中化裕民健康事業股份有限公司",
+    "申請商名稱": "中化裕民健康事業股份有限公司",
     "申請商地址": "台北市中正區襄陽路23號8樓",
     "主製造廠": [
         {
-            "": "TAIWAN",
+            "製造廠名稱": "中國化學製藥股份有限公司台南三廠",
+            "製造廠廠址": "台南市官田區二鎮里工業西路46號之8",
+            "製造廠公司地址": "",
+            "製造廠國別": "TAIWAN",
             "製程": ""
         }
     ],
@@ -100,32 +103,12 @@
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03002840&Seq=005&Type=9"
         },
         {
-            "title": "綠的藥皂_仿單2018.03.08-107-03-09.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03002840&Seq=004&Type=9"
-        },
-        {
-            "title": "成002840 In-104-12-07(廠商自行上傳).pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03002840&Seq=003&Type=9"
-        },
-        {
             "title": "綠的藥皂標籤(橘)-108-11-21.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03002840&Seq=006&Type=8"
         },
         {
             "title": "綠的藥皂外盒 (橘)-108-11-21.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03002840&Seq=005&Type=8"
-        },
-        {
-            "title": "外盒-107-03-09.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03002840&Seq=004&Type=8"
-        },
-        {
-            "title": "標籤-107-03-09.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03002840&Seq=003&Type=8"
-        },
-        {
-            "title": "藥皂背板-104-09-21.pdf",
-            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=03002840&Seq=002&Type=8"
         }
     ]
 }

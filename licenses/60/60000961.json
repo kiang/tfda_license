@@ -1,13 +1,13 @@
 {
     "code": "60000961",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=60000961",
-    "time": "2023-06-29 22:34:12",
+    "time": "2024-04-04 21:13:50",
     "許可證字號": "衛部菌疫輸字第000961號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
-    "有效日期": "113\/07\/18",
+    "有效日期": "118\/07\/18",
     "發證\/登錄日期": "103\/07\/18",
     "許可證\/登錄種類": "製　劑",
     "舊證字號": "",
@@ -34,11 +34,25 @@
     "申請商地址": "台北市信義區松仁路100號40樓、40樓之1、41樓之1",
     "主製造廠": [
         {
+            "製造廠名稱": "ROCHE DIAGNOSTICS GMBH",
+            "製造廠廠址": "SANDHOFER STRASSE 116, 68305 MANNHEIM, GERMANY",
+            "製造廠公司地址": "",
+            "製造廠國別": "GERMANY",
+            "製程": "成品製造廠"
+        },
+        {
+            "製造廠名稱": "MADE BY GENENTECH INC. MADE FOR F. HOFFMANN-LA ROCHE LTD.",
+            "製造廠廠址": "1 DNA WAY SOUTH SAN FRANCISCO CA 94080, U.S.A.",
+            "製造廠公司地址": "CH-4070 BASEL, SWITZERLAND",
+            "製造廠國別": "UNITED STATES",
+            "製程": "成品製造廠"
+        },
+        {
             "製造廠名稱": "GENENTECH INC.",
             "製造廠廠址": "4625 NE BROOKWOOD PARKWAY, HILLSBORO OREGON, 97124 USA",
             "製造廠公司地址": "",
             "製造廠國別": "UNITED STATES",
-            "製程": ""
+            "製程": "成品製造廠"
         }
     ],
     "次製造廠": [
@@ -48,13 +62,6 @@
             "製造廠公司地址": "",
             "製造廠國別": "SWITZERLAND",
             "製程": "包裝廠及溶劑廠"
-        },
-        {
-            "製造廠名稱": "ROCHE DIAGNOSTICS GMBH",
-            "製造廠廠址": "SANDHOFER STRASSE 116, 68305 MANNHEIM, GERMANY",
-            "製造廠公司地址": "",
-            "製造廠國別": "GERMANY",
-            "製程": "成品製造廠"
         },
         {
             "製造廠名稱": "Roche Singapore Technical Operations Pte.Ltd.",
@@ -69,13 +76,6 @@
             "製造廠公司地址": "",
             "製造廠國別": "SINGAPORE",
             "製程": "原料藥製造廠"
-        },
-        {
-            "製造廠名稱": "MADE BY GENENTECH INC. MADE FOR F. HOFFMANN-LA ROCHE LTD.",
-            "製造廠廠址": "1 DNA WAY SOUTH SAN FRANCISCO CA 94080, U.S.A.",
-            "製造廠公司地址": "CH-4070 BASEL, SWITZERLAND",
-            "製造廠國別": "UNITED STATES",
-            "製程": ""
         },
         {
             "製造廠名稱": "GENENTECH, INC.",

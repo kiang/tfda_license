@@ -1,17 +1,19 @@
 {
     "code": "52026404",
     "url": "https:\/\/info.fda.gov.tw\/MLMS\/H0001D.aspx?Type=Lic&LicId=52026404",
-    "time": "2020-02-26 06:26:27",
+    "time": "2024-04-04 19:51:39",
     "許可證字號": "衛部藥輸字第026404號",
     "註銷狀態": "",
     "註銷日期": "",
     "註銷理由": "",
     "製造許可登錄編號": "",
     "有效日期": "113\/09\/22",
-    "發證日期": "103\/09\/22",
-    "許可證種類": "原料藥",
+    "發證\/登錄日期": "103\/09\/22",
+    "許可證\/登錄種類": "原料藥",
     "舊證字號": "",
     "醫療器材級數": "",
+    "第一等級醫療器材原許可證字號": "",
+    "第一等級醫療器材新登錄字號": "",
     "通關簽審文件編號": "DHA05202640400",
     "中文品名": "左乙拉西坦",
     "英文品名": "Levetiracetam",
@@ -24,15 +26,15 @@
     "標籤、仿單及包裝加註": "",
     "藥品類別": "01製劑原料",
     "管制藥品分類級別": "",
-    "藥品分類": "",
+    "藥品分類": "原料藥;",
     "監視期限": "",
     "主成分略述": "",
     "限制項目": "02輸　入",
-    "申請商名稱": "0400319100  中大藥品股份有限公司",
+    "申請商名稱": "中大藥品股份有限公司",
     "申請商地址": "台南市中西區民權路二段158號3樓",
     "主製造廠": [
         {
-            "製造廠名稱": "FIN0499100  DR. REDDY’S  LABORATORIES LIMITED",
+            "製造廠名稱": "DR. REDDY’S  LABORATORIES LIMITED",
             "製造廠廠址": "CTO UNIT-VI APIIC INDUSTRIAL ESTATE PYDIBHIMAVARAM RANASTHALAM MANDAL SRIKAKULAM DISTRICT ANDHRA PRADESH INDIA",
             "製造廠公司地址": "",
             "製造廠國別": "INDIA",
@@ -41,7 +43,7 @@
     ],
     "次製造廠": [
         {
-            "製造廠名稱": "FIN0510000  DR. REDDY&#39;S LABORATORIES LTD.",
+            "製造廠名稱": "DR. REDDY&#39;S LABORATORIES LTD.",
             "製造廠廠址": "8-2-337, ROAD NO.3, BANJARA HILLS, HYDERABAD - 500034, ANDHRA PRADESH, INDIA",
             "製造廠公司地址": "",
             "製造廠國別": "INDIA",
@@ -52,6 +54,10 @@
     "藥理治療分類": "",
     "ingredients": [],
     "仿單外盒": [
+        {
+            "title": "中文標籤-Levetiracetam-109-03-03(廠商自行上傳).pdf",
+            "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026404&Seq=002&Type=9"
+        },
         {
             "title": "020002640400001-103-10-13.pdf",
             "url": "https:\/\/www.fda.gov.tw\/MLMS\/ShowFile.aspx?LicId=52026404&Seq=001&Type=9"
